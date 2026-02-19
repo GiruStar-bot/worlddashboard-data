@@ -1,0 +1,181 @@
+{
+  "chokepoints": {
+    "hormuz": {
+      "name": "Strait of Hormuz",
+      "disruption_risk": 31.1,
+      "crisis_score_raw": 9.3413
+    },
+    "malacca": {
+      "name": "Strait of Malacca",
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
+    },
+    "suez": {
+      "name": "Suez Canal",
+      "disruption_risk": 44.1,
+      "crisis_score_raw": 13.2231
+    },
+    "bab_el_mandeb": {
+      "name": "Bab-el-Mandeb",
+      "disruption_risk": 4.4,
+      "crisis_score_raw": 1.328
+    },
+    "panama": {
+      "name": "Panama Canal",
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
+    },
+    "taiwan": {
+      "name": "Taiwan Strait",
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
+    },
+    "bosporus": {
+      "name": "Bosporus Strait",
+      "disruption_risk": 13.7,
+      "crisis_score_raw": 4.0984
+    },
+    "cape_of_good_hope": {
+      "name": "Cape of Good Hope",
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
+    }
+  },
+  "routes": [
+    {
+      "id": "middle_east_to_japan",
+      "name": "Energy Route (Middle East - Japan)",
+      "chokepoints": [
+        {
+          "id": "hormuz",
+          "name": "Strait of Hormuz",
+          "disruption_risk": 31.1
+        },
+        {
+          "id": "malacca",
+          "name": "Strait of Malacca",
+          "disruption_risk": 0.0
+        },
+        {
+          "id": "taiwan",
+          "name": "Taiwan Strait",
+          "disruption_risk": 0.0
+        }
+      ],
+      "survival_rate": 68.9,
+      "critical_node": "Strait of Hormuz",
+      "max_disruption_risk": 31.1,
+      "insight": "Survival rate for Energy Route (Middle East - Japan) dropped to 68.9%. Critical bottleneck at Strait of Hormuz with 31.1% disruption risk due to intense conflicts within 1500km. Alternative routing (e.g., avoiding Strait of Hormuz) is highly recommended."
+    },
+    {
+      "id": "middle_east_to_europe",
+      "name": "Energy Route (Middle East - Europe)",
+      "chokepoints": [
+        {
+          "id": "hormuz",
+          "name": "Strait of Hormuz",
+          "disruption_risk": 31.1
+        },
+        {
+          "id": "bab_el_mandeb",
+          "name": "Bab-el-Mandeb",
+          "disruption_risk": 4.4
+        },
+        {
+          "id": "suez",
+          "name": "Suez Canal",
+          "disruption_risk": 44.1
+        }
+      ],
+      "survival_rate": 55.9,
+      "critical_node": "Suez Canal",
+      "max_disruption_risk": 44.1,
+      "insight": "Survival rate for Energy Route (Middle East - Europe) dropped to 55.9%. Critical bottleneck at Suez Canal with 44.1% disruption risk due to intense conflicts within 1500km. Alternative routing (e.g., avoiding Suez Canal) is highly recommended."
+    },
+    {
+      "id": "asia_to_europe_suez",
+      "name": "Trade Route (Asia - Europe via Suez)",
+      "chokepoints": [
+        {
+          "id": "malacca",
+          "name": "Strait of Malacca",
+          "disruption_risk": 0.0
+        },
+        {
+          "id": "bab_el_mandeb",
+          "name": "Bab-el-Mandeb",
+          "disruption_risk": 4.4
+        },
+        {
+          "id": "suez",
+          "name": "Suez Canal",
+          "disruption_risk": 44.1
+        }
+      ],
+      "survival_rate": 55.9,
+      "critical_node": "Suez Canal",
+      "max_disruption_risk": 44.1,
+      "insight": "Survival rate for Trade Route (Asia - Europe via Suez) dropped to 55.9%. Critical bottleneck at Suez Canal with 44.1% disruption risk due to intense conflicts within 1500km. Alternative routing (e.g., avoiding Suez Canal) is highly recommended."
+    },
+    {
+      "id": "asia_to_europe_cape",
+      "name": "Trade Route (Asia - Europe via Cape)",
+      "chokepoints": [
+        {
+          "id": "malacca",
+          "name": "Strait of Malacca",
+          "disruption_risk": 0.0
+        },
+        {
+          "id": "cape_of_good_hope",
+          "name": "Cape of Good Hope",
+          "disruption_risk": 0.0
+        }
+      ],
+      "survival_rate": 100.0,
+      "critical_node": "Strait of Malacca",
+      "max_disruption_risk": 0.0,
+      "insight": "Survival rate for Trade Route (Asia - Europe via Cape) remains stable. Critical bottleneck at Strait of Malacca with 0.0% disruption risk due to intense conflicts within 1500km. No immediate rerouting action required."
+    },
+    {
+      "id": "americas_to_asia",
+      "name": "Trade Route (Americas - Asia)",
+      "chokepoints": [
+        {
+          "id": "panama",
+          "name": "Panama Canal",
+          "disruption_risk": 0.0
+        },
+        {
+          "id": "taiwan",
+          "name": "Taiwan Strait",
+          "disruption_risk": 0.0
+        }
+      ],
+      "survival_rate": 100.0,
+      "critical_node": "Panama Canal",
+      "max_disruption_risk": 0.0,
+      "insight": "Survival rate for Trade Route (Americas - Asia) remains stable. Critical bottleneck at Panama Canal with 0.0% disruption risk due to intense conflicts within 1500km. No immediate rerouting action required."
+    },
+    {
+      "id": "black_sea_to_mediterranean",
+      "name": "Trade Route (Black Sea - Mediterranean)",
+      "chokepoints": [
+        {
+          "id": "bosporus",
+          "name": "Bosporus Strait",
+          "disruption_risk": 13.7
+        },
+        {
+          "id": "suez",
+          "name": "Suez Canal",
+          "disruption_risk": 44.1
+        }
+      ],
+      "survival_rate": 55.9,
+      "critical_node": "Suez Canal",
+      "max_disruption_risk": 44.1,
+      "insight": "Survival rate for Trade Route (Black Sea - Mediterranean) dropped to 55.9%. Critical bottleneck at Suez Canal with 44.1% disruption risk due to intense conflicts within 1500km. Alternative routing (e.g., avoiding Suez Canal) is highly recommended."
+    }
+  ]
+}
