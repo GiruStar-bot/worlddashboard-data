@@ -29,11 +29,14 @@ jobs:
       - name: Fetch GDELT data
         run: python scripts/fetch_gdelt.py
 
+      - name: Run KODOKU engine
+        run: python scripts/run_kodoku_engine.py
+
       - name: Commit and push if data changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/daily_risk_score.json
+          git add public/data/daily_risk_score.json public/data/kodoku_reports.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
