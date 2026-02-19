@@ -81,16 +81,15 @@ FIPS_TO_ISO3 = {
 FIPS_TO_ISO3["AS"] = "AUS"
 FIPS_TO_ISO3["AU"] = "AUT"
 
-# GDELT FIPS に BFA/NER/TCD/BDI/SSD/GUY/SUR/OMN/BRN/TLS/PSE 用のマッピングを追加
+# GDELT FIPS に BFA/NER/TCD/SSD/GUY/SUR/BRN/TLS/PSE 用のマッピングを追加
+# ※ BDI (BY→BLR) と OMN (MU→MUS) は既存マッピングと衝突するため追加しない
 FIPS_TO_ISO3.update({
     "UV": "BFA",  # Burkina Faso
     "NG": "NER",  # Niger
     "CD": "TCD",  # Chad
-    "BY": "BDI",  # Burundi
     "OD": "SSD",  # South Sudan
     "GY": "GUY",  # Guyana
     "NS": "SUR",  # Suriname
-    "MU": "OMN",  # Oman
     "BX": "BRN",  # Brunei
     "TT": "TLS",  # Timor-Leste
     "GZ": "PSE",  # Palestinian Territories (Gaza)
