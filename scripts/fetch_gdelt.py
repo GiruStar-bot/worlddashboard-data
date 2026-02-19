@@ -7,6 +7,7 @@ public/data/daily_risk_score.json に保存するスクリプト。
 import io
 import json
 import logging
+import math
 import zipfile
 from pathlib import Path
 
@@ -128,8 +129,16 @@ def download_and_parse(url: str) -> pd.DataFrame:
 def process(df: pd.DataFrame) -> dict:
     """DataFrame を国別に集計してリスクスコア辞書を返す。"""
     # 必要カラムのみ抽出
-    cols = ["Actor1Geo_CountryCode", "AvgTone", "GoldsteinScale", "SOURCEURL"]
+    cols = ["Actor1Geo_CountryCode", "QuadClass", "EventRootCode", "GoldsteinScale", "SOURCEURL"]
     df = df[cols].copy()
+
+    # 数値型を強制
+    df["QuadClass"] = pd.to_numeric(df["QuadClass"], errors="coerce")
+    df["EventRootCode"] = pd.to_numeric(df["EventRootCode"], errors="coerce")
+    df["GoldsteinScale"] = pd.to_numeric(df["GoldsteinScale"], errors="coerce")
+
+    # 物理的な紛争（QuadClass=4）または抗議デモ・暴動（EventRootCode=14）のみ残す
+    df = df[(df["QuadClass"] == 4) | (df["EventRootCode"] == 14)]
 
     # 国コードが空の行を除外
     df = df[df["Actor1Geo_CountryCode"].notna() & (df["Actor1Geo_CountryCode"].str.strip() != "")]
@@ -137,10 +146,6 @@ def process(df: pd.DataFrame) -> dict:
     # FIPS → ISO3 変換（辞書にないコードは除外）
     df["iso3"] = df["Actor1Geo_CountryCode"].str.strip().map(FIPS_TO_ISO3)
     df = df[df["iso3"].notna()]
-
-    # 数値型を強制
-    df["AvgTone"] = pd.to_numeric(df["AvgTone"], errors="coerce")
-    df["GoldsteinScale"] = pd.to_numeric(df["GoldsteinScale"], errors="coerce")
 
     # 国ごとに最もGoldsteinScaleが低い（ネガティブ）記事のURLを取得
     df_valid_gs = df.dropna(subset=["GoldsteinScale", "SOURCEURL"])
@@ -152,10 +157,15 @@ def process(df: pd.DataFrame) -> dict:
 
     # 集計
     agg = df.groupby("iso3").agg(
-        risk_score=("AvgTone", "mean"),
         stability=("GoldsteinScale", "mean"),
-        count=("AvgTone", "count"),
+        count=("GoldsteinScale", "size"),
     )
+
+    # 紛争強度: イベント数 × GoldsteinScale平均の絶対値
+    agg["risk_score_raw"] = agg["count"] * agg["stability"].abs()
+    risk_score_log = agg["risk_score_raw"].map(lambda x: math.log1p(float(x)) if pd.notna(x) else 0.0)
+    max_score = risk_score_log.max()
+    agg["risk_score"] = 0.0 if pd.isna(max_score) or max_score == 0 else (risk_score_log / max_score) * 10
 
     agg["top_news"] = top_news
     agg["top_news"] = agg["top_news"].fillna("")
