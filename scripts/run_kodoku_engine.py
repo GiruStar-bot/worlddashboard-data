@@ -45,32 +45,32 @@ CHOKE_POINT_MAP = {cp["id"]: cp for cp in CHOKE_POINTS}
 ROUTES = [
     {
         "id": "middle_east_to_japan",
-        "name": "Energy Route (Middle East - Japan)",
+        "name": "エネルギー航路 (中東 - 日本)",
         "chokepoints": ["hormuz", "malacca", "taiwan"],
     },
     {
         "id": "middle_east_to_europe",
-        "name": "Energy Route (Middle East - Europe)",
+        "name": "エネルギー航路 (中東 - 欧州)",
         "chokepoints": ["hormuz", "bab_el_mandeb", "suez"],
     },
     {
         "id": "asia_to_europe_suez",
-        "name": "Trade Route (Asia - Europe via Suez)",
+        "name": "主要貿易航路 (アジア - 欧州 / スエズ経由)",
         "chokepoints": ["malacca", "bab_el_mandeb", "suez"],
     },
     {
         "id": "asia_to_europe_cape",
-        "name": "Trade Route (Asia - Europe via Cape)",
+        "name": "代替貿易航路 (アジア - 欧州 / 喜望峰回り)",
         "chokepoints": ["malacca", "cape_of_good_hope"],
     },
     {
         "id": "americas_to_asia",
-        "name": "Trade Route (Americas - Asia)",
+        "name": "太平洋貿易航路 (米州 - アジア)",
         "chokepoints": ["panama", "taiwan"],
     },
     {
         "id": "black_sea_to_mediterranean",
-        "name": "Trade Route (Black Sea - Mediterranean)",
+        "name": "黒海・地中海航路",
         "chokepoints": ["bosporus", "suez"],
     },
 ]
@@ -230,29 +230,31 @@ def compute_route_survival(chokepoint_risks: dict) -> list:
 def generate_insight(route_name: str, survival_rate: float, critical_node: str, disruption: float) -> str:
     """生存確率と Critical Node を元にインサイトテキストを生成する。"""
     if survival_rate >= 90:
-        severity = "remains stable"
-        recommendation = "No immediate rerouting action required."
+        return (
+            f"{route_name}の生存確率は極めて安定。"
+            f"最大リスクは{critical_node}（封鎖リスク{disruption}%）だが、"
+            f"現状で直ちに航路変更を要する兆候はない。"
+        )
     elif survival_rate >= 70:
-        severity = "is under moderate pressure"
-        recommendation = "Monitoring is advised; contingency routes should be reviewed."
+        return (
+            f"{route_name}に軽微なリスク圧力が観測されている。"
+            f"{critical_node}（封鎖リスク{disruption}%）周辺での武力衝突を注視し、"
+            f"代替ルートの事前検討を推奨する。"
+        )
     elif survival_rate >= 50:
-        severity = f"dropped to {survival_rate}%"
-        recommendation = (
-            f"Alternative routing (e.g., avoiding {critical_node}) is highly recommended."
+        return (
+            f"警告: {route_name}の生存確率が{survival_rate}%まで低下。"
+            f"半径1500km圏内の紛争激化により、"
+            f"{critical_node}が深刻なボトルネックとなっている（封鎖リスク{disruption}%）。"
+            f"速やかな代替ルートへの切り替えを推奨。"
         )
     else:
-        severity = f"critically declined to {survival_rate}%"
-        recommendation = (
-            f"Immediate rerouting away from {critical_node} is strongly urged. "
-            "Supply-chain contingency plans should be activated."
+        return (
+            f"【致命的警告】 {route_name}の生存確率が{survival_rate}%まで急落。"
+            f"{critical_node}の機能不全リスク（{disruption}%）が極めて高く、"
+            f"サプライチェーン断絶の危機。"
+            f"直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
         )
-
-    return (
-        f"Survival rate for {route_name} {severity}. "
-        f"Critical bottleneck at {critical_node} with {disruption}% disruption risk "
-        f"due to intense conflicts within {INFLUENCE_RADIUS_KM}km. "
-        f"{recommendation}"
-    )
 
 
 def save_report(route_results: list, chokepoint_risks: dict, path: Path) -> None:
