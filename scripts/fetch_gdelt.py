@@ -1,13 +1,12 @@
 """
 fetch_gdelt.py
-GDELT 2.0 Events Database から最新データを取得し、国別リスクスコアを集計して
+GDELT 2.0 Events Database から最新データを取得し、特定地域の紛争リスクを集計して
 public/data/daily_risk_score.json に保存するスクリプト。
 """
 
 import io
 import json
 import logging
-import math
 import zipfile
 from pathlib import Path
 
@@ -82,6 +81,40 @@ FIPS_TO_ISO3 = {
 FIPS_TO_ISO3["AS"] = "AUS"
 FIPS_TO_ISO3["AU"] = "AUT"
 
+# GDELT FIPS に BFA/NER/TCD/BDI/SSD/GUY/SUR/OMN/BRN/TLS/PSE 用のマッピングを追加
+FIPS_TO_ISO3.update({
+    "UV": "BFA",  # Burkina Faso
+    "NG": "NER",  # Niger
+    "CD": "TCD",  # Chad
+    "BY": "BDI",  # Burundi
+    "OD": "SSD",  # South Sudan
+    "GY": "GUY",  # Guyana
+    "NS": "SUR",  # Suriname
+    "MU": "OMN",  # Oman
+    "BX": "BRN",  # Brunei
+    "TT": "TLS",  # Timor-Leste
+    "GZ": "PSE",  # Palestinian Territories (Gaza)
+    "WE": "PSE",  # Palestinian Territories (West Bank)
+})
+
+# ---------------------------------------------------------------------------
+# ターゲット地域 (ISO 3166-1 alpha-3)
+# ---------------------------------------------------------------------------
+TARGET_ISO3 = {
+    # アフリカ大陸
+    "EGY", "ZAF", "NGA", "KEN", "ETH", "SDN", "COD", "SOM", "LBY", "MLI",
+    "BFA", "NER", "TCD", "MOZ", "CAF", "CMR", "BDI", "SSD", "ZWE", "AGO",
+    # 中東
+    "SAU", "IRN", "IRQ", "ISR", "JOR", "LBN", "SYR", "YEM", "ARE", "QAT",
+    "KWT", "OMN", "BHR", "TUR", "PSE",
+    # 東南アジア+
+    "IDN", "MYS", "PHL", "SGP", "THA", "VNM", "KHM", "LAO", "MMR", "BRN",
+    "TLS", "TWN",
+    # 南アメリカ
+    "BRA", "ARG", "COL", "PER", "VEN", "CHL", "ECU", "BOL", "PRY", "URY",
+    "GUY", "SUR",
+}
+
 # ---------------------------------------------------------------------------
 # 出力先
 # ---------------------------------------------------------------------------
@@ -127,7 +160,7 @@ def download_and_parse(url: str) -> pd.DataFrame:
 
 
 def process(df: pd.DataFrame) -> dict:
-    """DataFrame を国別に集計してリスクスコア辞書を返す。"""
+    """DataFrame を国別に集計して紛争リスクスコア辞書を返す。"""
     # 必要カラムのみ抽出
     cols = ["Actor1Geo_CountryCode", "QuadClass", "EventRootCode", "GoldsteinScale", "SOURCEURL"]
     df = df[cols].copy()
@@ -147,34 +180,36 @@ def process(df: pd.DataFrame) -> dict:
     df["iso3"] = df["Actor1Geo_CountryCode"].str.strip().map(FIPS_TO_ISO3)
     df = df[df["iso3"].notna()]
 
-    # 国ごとに最もGoldsteinScaleが低い（ネガティブ）記事のURLを取得
-    df_valid_gs = df.dropna(subset=["GoldsteinScale", "SOURCEURL"])
+    # ターゲット地域のみに絞り込む
+    df = df[df["iso3"].isin(TARGET_ISO3)]
+
+    # BaseScore = abs(GoldsteinScale)
+    df["BaseScore"] = df["GoldsteinScale"].abs()
+
+    # 国ごとに最もBaseScoreが高い（深刻な）記事のURLを取得
+    df_valid = df.dropna(subset=["BaseScore", "SOURCEURL"])
     top_news = (
-        df_valid_gs.sort_values("GoldsteinScale")
+        df_valid.sort_values("BaseScore", ascending=False)
         .groupby("iso3")["SOURCEURL"]
         .first()
     )
 
-    # 集計
+    # 集計: Risk Score = sum(BaseScore) / 10
     agg = df.groupby("iso3").agg(
-        stability=("GoldsteinScale", "mean"),
-        count=("GoldsteinScale", "size"),
+        risk_score=("BaseScore", lambda x: x.sum() / 10),
+        count=("BaseScore", "size"),
     )
-
-    # 紛争強度: イベント数 × GoldsteinScale平均の絶対値
-    agg["risk_score_raw"] = agg["count"] * agg["stability"].abs()
-    risk_score_log = agg["risk_score_raw"].map(lambda x: math.log1p(float(x)) if pd.notna(x) else 0.0)
-    max_score = risk_score_log.max()
-    agg["risk_score"] = 0.0 if pd.isna(max_score) or max_score == 0 else (risk_score_log / max_score) * 10
 
     agg["top_news"] = top_news
     agg["top_news"] = agg["top_news"].fillna("")
+
+    # 足切り: Risk Score < 2.0 の国を除外
+    agg = agg[agg["risk_score"] >= 2.0]
 
     result = {}
     for iso3, row in agg.iterrows():
         result[iso3] = {
             "risk_score": round(float(row["risk_score"]), 4),
-            "stability": round(float(row["stability"]), 4) if pd.notna(row["stability"]) else None,
             "count": int(row["count"]),
             "top_news": str(row["top_news"]),
         }
