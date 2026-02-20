@@ -1,60 +1,10 @@
 {
-  "BRA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.agri-pulse.com/articles/24257-trump-to-replace-some-of-the-felled-tariffs",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "articles",
-      "24257",
-      "trump",
-      "replace",
-      "some",
-      "the",
-      "felled",
-      "tariffs"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://wtov9.com/news/nation-world/old-charlie-kirk-tweet-about-iran-resurfaces-as-potential-military-strike-talks-continue-israel-nuclear-program-jack-posobiac",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "world",
-      "old",
-      "charlie",
-      "kirk",
-      "tweet",
-      "about",
-      "iran",
-      "resurfaces",
-      "potential",
-      "military",
-      "strike",
-      "talks",
-      "continue",
-      "israel",
-      "nuclear",
-      "program",
-      "jack",
-      "posobiac"
-    ]
-  },
   "ISR": {
-    "risk_score": 6.3,
-    "count": 7,
-    "top_news": "https://www.gleninnesexaminer.com.au/story/9179307/jack-waterford-albanese-has-time-and-space-to-address-his-own-problems/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.sconeadvocate.com.au/story/9179307/jack-waterford-albanese-has-time-and-space-to-address-his-own-problems/",
     "event_codes": {
-      "19": 5,
-      "14": 2
+      "19": 2
     },
     "keywords": [
       "story",
@@ -72,25 +22,42 @@
       "problems"
     ]
   },
-  "NGA": {
-    "risk_score": 5.0,
-    "count": 8,
-    "top_news": "https://punchng.com/teen-who-fled-to-nigeria-after-london-stabbing-gets-life-jail/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.naharnet.com:443/stories/en/318520-two-killed-in-israeli-strike-on-ain-al-helweh-camp",
     "event_codes": {
-      "17": 6,
       "19": 2
     },
     "keywords": [
-      "teen",
-      "who",
-      "fled",
-      "nigeria",
-      "after",
-      "london",
-      "stabbing",
-      "gets",
-      "life",
-      "jail"
+      "stories",
+      "318520",
+      "two",
+      "killed",
+      "israeli",
+      "strike",
+      "ain",
+      "helweh",
+      "camp"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.dailyrecord.co.uk/news/uk-world-news/animal-rehoming-centre-left-dogs-36758268",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "animal",
+      "rehoming",
+      "centre",
+      "left",
+      "dogs",
+      "36758268"
     ]
   }
 }
