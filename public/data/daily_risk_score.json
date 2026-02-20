@@ -1,63 +1,115 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.sconeadvocate.com.au/story/9179307/jack-waterford-albanese-has-time-and-space-to-address-his-own-problems/",
+  "IRN": {
+    "risk_score": 8.34,
+    "count": 10,
+    "top_news": "https://wgxa.tv/news/nation-world/old-charlie-kirk-tweet-about-iran-resurfaces-as-potential-military-strike-talks-continue-israel-nuclear-program-jack-posobiac",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "15": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "story",
-      "9179307",
+      "news",
+      "nation",
+      "world",
+      "old",
+      "charlie",
+      "kirk",
+      "tweet",
+      "about",
+      "iran",
+      "resurfaces",
+      "potential",
+      "military",
+      "strike",
+      "talks",
+      "continue",
+      "israel",
+      "nuclear",
+      "program",
       "jack",
-      "waterford",
-      "albanese",
-      "has",
-      "time",
-      "and",
-      "space",
-      "address",
-      "his",
-      "own",
-      "problems"
+      "posobiac"
     ]
   },
-  "LBN": {
+  "ISR": {
+    "risk_score": 17.3,
+    "count": 20,
+    "top_news": "https://www.nbcconnecticut.com/news/national-international/israeli-settlers-kill-19-year-old-palestinian-american/3705282/",
+    "event_codes": {
+      "19": 10,
+      "17": 5,
+      "20": 3,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
+      "israeli",
+      "settlers",
+      "kill",
+      "year",
+      "old",
+      "palestinian",
+      "american",
+      "3705282"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://www.breitbart.com/national-security/2026/02/20/report-russia-fraudulently-recruited-1000-kenyans-to-fight-in-ukraine/",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "report",
+      "russia",
+      "fraudulently",
+      "recruited",
+      "1000",
+      "kenyans",
+      "fight",
+      "ukraine"
+    ]
+  },
+  "LBY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.naharnet.com:443/stories/en/318520-two-killed-in-israeli-strike-on-ain-al-helweh-camp",
+    "top_news": "https://allafrica.com/stories/202602200634.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "stories",
-      "318520",
-      "two",
-      "killed",
-      "israeli",
-      "strike",
-      "ain",
-      "helweh",
-      "camp"
+      "202602200634.html"
     ]
   },
-  "TCD": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.dailyrecord.co.uk/news/uk-world-news/animal-rehoming-centre-left-dogs-36758268",
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.nbcconnecticut.com/news/national-international/israeli-settlers-kill-19-year-old-palestinian-american/3705282/",
     "event_codes": {
-      "17": 4
+      "19": 6
     },
     "keywords": [
       "news",
-      "world",
-      "news",
-      "animal",
-      "rehoming",
-      "centre",
-      "left",
-      "dogs",
-      "36758268"
+      "national",
+      "international",
+      "israeli",
+      "settlers",
+      "kill",
+      "year",
+      "old",
+      "palestinian",
+      "american",
+      "3705282"
     ]
   }
 }
