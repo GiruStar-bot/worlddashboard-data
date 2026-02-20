@@ -208,7 +208,7 @@ def process(df: pd.DataFrame) -> dict:
         # URLのパス部分を取得してトークンに分解
         from urllib.parse import urlparse
         path = urlparse(url).path
-        tokens = [t.lower() for t in path.replace("/", "-").replace("_", "-").split("-") if len(t) >= 3]
+        tokens = [t.lower() for t in path.replace("/", "-").replace("_", "-").split("-") if len(t) >= 3]  # skip short noise words
         return tokens
 
     # 集計: Risk Score = sum(BaseScore) / 10
@@ -230,7 +230,7 @@ def process(df: pd.DataFrame) -> dict:
         if iso3 in event_code_dist.index.get_level_values(0):
             series = event_code_dist[iso3]
             for code, cnt in series.items():
-                codes[str(int(code))] = int(cnt)
+                codes[str(int(code))] = int(cnt)  # float→int→str since pandas stores numeric as float
 
         # keywords: トップニュースURLから抽出
         keywords = extract_keywords_from_url(str(row["top_news"]))
