@@ -1,90 +1,142 @@
 {
-  "IDN": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/articles/indonesia-morocco-kosovo-among-5-043759462.html",
+  "ARE": {
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://www.manchestereveningnews.co.uk/news/uk-news/gangster-brought-down-after-pizza-33457745",
     "event_codes": {
-      "15": 5,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "indonesia",
-      "morocco",
-      "kosovo",
-      "among",
-      "043759462.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theguardian.com/australia-news/2026/feb/20/pauline-hanson-afp-federal-police-muslim-comments-ntwnfb",
-    "event_codes": {
+      "17": 1,
       "18": 1,
       "19": 1
     },
     "keywords": [
-      "australia",
       "news",
-      "2026",
-      "feb",
-      "pauline",
-      "hanson",
-      "afp",
-      "federal",
-      "police",
-      "muslim",
-      "comments",
-      "ntwnfb"
+      "news",
+      "gangster",
+      "brought",
+      "down",
+      "after",
+      "pizza",
+      "33457745"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.15,
+    "count": 4,
+    "top_news": "https://english.aawsat.com/arab-world/5242822-israel-keen-attack-iran%E2%80%99s-regional-proxies-they-can-join-war",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5242822",
+      "israel",
+      "keen",
+      "attack",
+      "iran%e2%80%99s",
+      "regional",
+      "proxies",
+      "they",
+      "can",
+      "join",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 5.66,
-    "count": 7,
-    "top_news": "https://www.theguardian.com/world/2026/feb/20/status-quo-collapsed-prayer-jerusalem-al-aqsa-mosque-ramadan",
+    "risk_score": 5.72,
+    "count": 6,
+    "top_news": "https://www.juancole.com/2026/02/trump-compares-melania.html",
     "event_codes": {
-      "15": 3,
+      "19": 4,
+      "15": 1,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "compares",
+      "melania.html"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://nairobiwire.com/2026/02/russian-embassy-kenya-ukraine-recruitment-claims.html",
+    "event_codes": {
+      "16": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "russian",
+      "embassy",
+      "kenya",
+      "ukraine",
+      "recruitment",
+      "claims.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dailytrust.com/ramadan-is-here-but-for-whom-ii/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "ramadan",
+      "here",
+      "but",
+      "for",
+      "whom"
+    ]
+  },
+  "NGA": {
+    "risk_score": 33.4,
+    "count": 40,
+    "top_news": "https://dailytrust.com/gunmen-attack-kebbi-communities-kill-35/",
+    "event_codes": {
+      "19": 21,
+      "17": 8,
+      "14": 6,
+      "18": 5
+    },
+    "keywords": [
+      "gunmen",
+      "attack",
+      "kebbi",
+      "communities",
+      "kill"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://timesofindia.indiatimes.com/world/rest-of-world/venezuela-passes-landmark-amnesty-bill-who-benefits-and-whos-excluded/articleshow/128595416.cms",
+    "event_codes": {
       "19": 3,
+      "14": 2,
       "17": 1
     },
     "keywords": [
       "world",
-      "2026",
-      "feb",
-      "status",
-      "quo",
-      "collapsed",
-      "prayer",
-      "jerusalem",
-      "aqsa",
-      "mosque",
-      "ramadan"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://www.tuko.co.ke/kenya/618397-kenyan-newspapers-review-how-police-foiled-major-terror-attack-planned-nairobi/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "kenya",
-      "618397",
-      "kenyan",
-      "newspapers",
-      "review",
-      "how",
-      "police",
-      "foiled",
-      "major",
-      "terror",
-      "attack",
-      "planned",
-      "nairobi"
+      "rest",
+      "world",
+      "venezuela",
+      "passes",
+      "landmark",
+      "amnesty",
+      "bill",
+      "who",
+      "benefits",
+      "and",
+      "whos",
+      "excluded",
+      "articleshow",
+      "128595416.cms"
     ]
   }
 }
