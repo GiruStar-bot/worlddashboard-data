@@ -1,95 +1,104 @@
 {
-  "ETH": {
-    "risk_score": 2.85,
+  "ARE": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://theconversation.com/ethiopia-and-eritrea-are-on-edge-again-whats-behind-the-growing-risk-of-war-276424",
+    "top_news": "https://www.el-balad.com/6856640",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "ethiopia",
-      "and",
-      "eritrea",
-      "are",
-      "edge",
-      "again",
-      "whats",
-      "behind",
-      "the",
-      "growing",
-      "risk",
-      "war",
-      "276424"
+      "6856640"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.16,
+    "count": 14,
+    "top_news": "https://www.yahoo.com/news/articles/iran-try-unleash-carnage-us-151240435.html",
+    "event_codes": {
+      "19": 11,
+      "15": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "iran",
+      "try",
+      "unleash",
+      "carnage",
+      "151240435.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/iran-try-unleash-carnage-us-151240435.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "iran",
+      "try",
+      "unleash",
+      "carnage",
+      "151240435.html"
     ]
   },
   "ISR": {
-    "risk_score": 6.11,
-    "count": 7,
-    "top_news": "http://www.jpost.com/opinion/article-886971",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.nbcnews.com/world/gaza/board-of-peace-gaza-trump-reconstruction-israel-rcna259860",
     "event_codes": {
-      "15": 3,
-      "19": 3,
-      "18": 1
+      "19": 5
     },
     "keywords": [
-      "opinion",
-      "article",
-      "886971"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.thenewhumanitarian.org/news/2026/02/20/darfur-genocide-findings-extra-aid-cut-deaths-board-of-peace-cheat-sheet",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "darfur",
-      "genocide",
-      "findings",
-      "extra",
-      "aid",
-      "cut",
-      "deaths",
+      "world",
+      "gaza",
       "board",
       "peace",
-      "cheat",
-      "sheet"
+      "gaza",
+      "trump",
+      "reconstruction",
+      "israel",
+      "rcna259860"
     ]
   },
-  "NGA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://punchng.com/police-arrest-fake-military-officers-in-bayelsa/",
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://zeenews.india.com/world/trump-board-of-peace-meeting-shahbaz-humiliated-gaza-funding-3019109.html",
     "event_codes": {
-      "17": 5
+      "19": 2
     },
     "keywords": [
-      "police",
-      "arrest",
-      "fake",
-      "military",
-      "officers",
-      "bayelsa"
+      "world",
+      "trump",
+      "board",
+      "peace",
+      "meeting",
+      "shahbaz",
+      "humiliated",
+      "gaza",
+      "funding",
+      "3019109.html"
     ]
   },
-  "ZWE": {
+  "YEM": {
     "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262253.html",
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/iran-try-unleash-carnage-us-151240435.html",
     "event_codes": {
-      "17": 6
+      "19": 3
     },
     "keywords": [
-      "index",
       "news",
-      "national",
-      "byo",
-      "262253.html"
+      "articles",
+      "iran",
+      "try",
+      "unleash",
+      "carnage",
+      "151240435.html"
     ]
   }
 }
