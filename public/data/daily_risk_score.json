@@ -1,77 +1,88 @@
 {
-  "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.independent.ie/regionals/kerry/south-kerry-news/oscar-nominated-film-the-voice-of-hind-rajab-to-have-kerry-premiere-this-sunday/a1943404380.html",
+  "IRN": {
+    "risk_score": 5.65,
+    "count": 7,
+    "top_news": "https://timesofindia.indiatimes.com/defence/international/gulf-f35s-armada-and-destroyers-missile-swarms-drone-hordes-why-us-should-think-twice-before-attacking-iran-irans-saturation-attack/articleshow/128603295.cms",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 4,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "regionals",
-      "kerry",
-      "south",
-      "kerry",
-      "news",
-      "oscar",
-      "nominated",
-      "film",
-      "the",
-      "voice",
-      "hind",
-      "rajab",
-      "have",
-      "kerry",
-      "premiere",
-      "this",
-      "sunday",
-      "a1943404380.html"
+      "defence",
+      "international",
+      "gulf",
+      "f35s",
+      "armada",
+      "and",
+      "destroyers",
+      "missile",
+      "swarms",
+      "drone",
+      "hordes",
+      "why",
+      "should",
+      "think",
+      "twice",
+      "before",
+      "attacking",
+      "iran",
+      "irans",
+      "saturation",
+      "attack",
+      "articleshow",
+      "128603295.cms"
     ]
   },
-  "NGA": {
-    "risk_score": 7.0,
+  "ISR": {
+    "risk_score": 10.79,
     "count": 12,
-    "top_news": "https://dailypost.ng/2026/02/20/nnamdi-kanu-only-courage-can-save-lgboland-activists-tell-igbo-monarchs-to-speak-with-one-voice/",
+    "top_news": "https://www.justsecurity.org/132019/early-edition-february-20-2026/",
     "event_codes": {
-      "17": 10,
+      "19": 9,
+      "15": 2,
+      "17": 1
+    },
+    "keywords": [
+      "132019",
+      "early",
+      "edition",
+      "february",
+      "2026"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.justsecurity.org/132019/early-edition-february-20-2026/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "132019",
+      "early",
+      "edition",
+      "february",
+      "2026"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://www.naturalnews.com/2026-02-20-tda-splinter-group-members-charged-murders-trafficking.html",
+    "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
       "2026",
-      "nnamdi",
-      "kanu",
-      "only",
-      "courage",
-      "can",
-      "save",
-      "lgboland",
-      "activists",
-      "tell",
-      "igbo",
-      "monarchs",
-      "speak",
-      "with",
-      "one",
-      "voice"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newsday.com/news/nation/israel-west-bank-gaza-war-palestinians-y63048",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "israel",
-      "west",
-      "bank",
-      "gaza",
-      "war",
-      "palestinians",
-      "y63048"
+      "tda",
+      "splinter",
+      "group",
+      "members",
+      "charged",
+      "murders",
+      "trafficking.html"
     ]
   }
 }
