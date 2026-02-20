@@ -1,88 +1,95 @@
 {
-  "IRN": {
-    "risk_score": 5.65,
-    "count": 7,
-    "top_news": "https://timesofindia.indiatimes.com/defence/international/gulf-f35s-armada-and-destroyers-missile-swarms-drone-hordes-why-us-should-think-twice-before-attacking-iran-irans-saturation-attack/articleshow/128603295.cms",
+  "ETH": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://theconversation.com/ethiopia-and-eritrea-are-on-edge-again-whats-behind-the-growing-risk-of-war-276424",
     "event_codes": {
-      "19": 4,
-      "17": 2,
-      "14": 1
+      "19": 3
     },
     "keywords": [
-      "defence",
-      "international",
-      "gulf",
-      "f35s",
-      "armada",
+      "ethiopia",
       "and",
-      "destroyers",
-      "missile",
-      "swarms",
-      "drone",
-      "hordes",
-      "why",
-      "should",
-      "think",
-      "twice",
-      "before",
-      "attacking",
-      "iran",
-      "irans",
-      "saturation",
-      "attack",
-      "articleshow",
-      "128603295.cms"
+      "eritrea",
+      "are",
+      "edge",
+      "again",
+      "whats",
+      "behind",
+      "the",
+      "growing",
+      "risk",
+      "war",
+      "276424"
     ]
   },
   "ISR": {
-    "risk_score": 10.79,
-    "count": 12,
-    "top_news": "https://www.justsecurity.org/132019/early-edition-february-20-2026/",
+    "risk_score": 6.11,
+    "count": 7,
+    "top_news": "http://www.jpost.com/opinion/article-886971",
     "event_codes": {
-      "19": 9,
-      "15": 2,
-      "17": 1
+      "15": 3,
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "132019",
-      "early",
-      "edition",
-      "february",
-      "2026"
+      "opinion",
+      "article",
+      "886971"
     ]
   },
-  "PSE": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.justsecurity.org/132019/early-edition-february-20-2026/",
+  "LBN": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.thenewhumanitarian.org/news/2026/02/20/darfur-genocide-findings-extra-aid-cut-deaths-board-of-peace-cheat-sheet",
     "event_codes": {
-      "19": 6
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "132019",
-      "early",
-      "edition",
-      "february",
-      "2026"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.1,
-    "count": 5,
-    "top_news": "https://www.naturalnews.com/2026-02-20-tda-splinter-group-members-charged-murders-trafficking.html",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
+      "news",
       "2026",
-      "tda",
-      "splinter",
-      "group",
-      "members",
-      "charged",
-      "murders",
-      "trafficking.html"
+      "darfur",
+      "genocide",
+      "findings",
+      "extra",
+      "aid",
+      "cut",
+      "deaths",
+      "board",
+      "peace",
+      "cheat",
+      "sheet"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://punchng.com/police-arrest-fake-military-officers-in-bayelsa/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "police",
+      "arrest",
+      "fake",
+      "military",
+      "officers",
+      "bayelsa"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262253.html",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "index",
+      "news",
+      "national",
+      "byo",
+      "262253.html"
     ]
   }
 }
