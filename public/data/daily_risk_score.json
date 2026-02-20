@@ -1,27 +1,33 @@
 {
-  "IRN": {
-    "risk_score": 6.16,
-    "count": 8,
-    "top_news": "https://theintercept.com/2026/02/19/trump-iran-military-navy-carrier-planes/"
+  "IDN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://asianews.network/jakarta-bans-restaurant-raids-during-ramadan-to-promote-tolerance/",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "jakarta",
+      "bans",
+      "restaurant",
+      "raids",
+      "during",
+      "ramadan",
+      "promote",
+      "tolerance"
+    ]
   },
-  "ISR": {
-    "risk_score": 12.42,
-    "count": 14,
-    "top_news": "https://imemc.org/article/colonizer-assaults-and-seizures-sweep-hebron-jordan-valley/"
-  },
-  "JOR": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/857557/iran-rejects-trump-ultimatum-as-united-states-amasses-357-aircraft-in-escalating-standoff"
-  },
-  "PER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.oregonlive.com/retail/2026/02/the-last-of-these-peruvian-food-trucks-is-closing.html"
-  },
-  "QAT": {
-    "risk_score": 2.4,
+  "IRQ": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/422703"
+    "top_news": "https://alhurra.com/en/13367",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "13367"
+    ]
   }
 }
