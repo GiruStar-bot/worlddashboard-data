@@ -177,7 +177,7 @@ def test_output_keys():
     result = process(df)
     assert "IRQ" in result
     entry = result["IRQ"]
-    assert set(entry.keys()) == {"risk_score", "count", "top_news"}
+    assert set(entry.keys()) == {"risk_score", "count", "top_news", "event_codes", "keywords"}
     assert "stability" not in entry
 
 
@@ -186,3 +186,33 @@ def test_empty_input():
     df = _make_df([])
     result = process(df)
     assert result == {}
+
+
+# ---------- event_codes & keywords ----------
+
+def test_event_codes_distribution():
+    """event_codes should reflect EventRootCode distribution."""
+    df = _make_df([
+        ("SU", 4, 18, -10.0, "http://example.com/1"),
+        ("SU", 4, 18, -5.0, "http://example.com/2"),
+        ("SU", 4, 14, -5.0, "http://example.com/3"),
+    ])
+    result = process(df)
+    assert "SDN" in result
+    codes = result["SDN"]["event_codes"]
+    assert codes["18"] == 2
+    assert codes["14"] == 1
+
+
+def test_keywords_extracted_from_url():
+    """keywords should contain tokens extracted from top_news URL."""
+    df = _make_df([
+        ("SU", 4, 18, -10.0, "http://example.com/iran-missile-tanker-attack"),
+        ("SU", 4, 18, -10.0, "http://example.com/minor"),
+    ])
+    result = process(df)
+    assert "SDN" in result
+    kw = result["SDN"]["keywords"]
+    assert isinstance(kw, list)
+    assert "missile" in kw
+    assert "tanker" in kw

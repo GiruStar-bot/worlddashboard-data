@@ -39,6 +39,25 @@ CHOKE_POINTS = [
 CHOKE_POINT_MAP = {cp["id"]: cp for cp in CHOKE_POINTS}
 
 # ---------------------------------------------------------------------------
+# 過去に実際にシーレーンが脅かされた事例の「指紋（Fingerprint）」
+# ---------------------------------------------------------------------------
+HISTORICAL_CRISES = {
+    "suez_blockade": {
+        "keywords": ["canal", "strait", "shipping", "vessel", "tanker", "blocked", "closed", "attack", "missile", "drone"],
+        "target_event_codes": [19, 20],  # 19: Military Use of Force, 20: Unconventional Mass Violence
+        "weight": 2.0,  # 類似した場合の重み付け
+    },
+    "internal_unrest": {
+        "keywords": ["protest", "election", "parliament", "demonstration", "police", "internal"],
+        "target_event_codes": [14],  # 14: Protests
+        "weight": 0.1,  # 海運リスクとしては無視する（ペナルティ係数）
+    },
+}
+
+# 海運関連キーワード（コンテキスト検証用）
+MARITIME_KEYWORDS = {"canal", "strait", "port", "shipping", "vessel", "tanker", "blocked", "closed", "attack", "missile", "drone"}
+
+# ---------------------------------------------------------------------------
 # 海運ルート定義
 # 各ルートは通過するチョークポイントIDのリストを持つ
 # ---------------------------------------------------------------------------
@@ -135,15 +154,50 @@ def load_risk_data(path: Path) -> dict:
     return data
 
 
+def compute_context_multiplier(country_info: dict) -> float:
+    """
+    コンテキスト検証 (Context Verification):
+    過去の海運危機パターンとの類似性を検証し、リスク補正係数を返す。
+
+    - 国内デモが大半で海運関連キーワードがない場合 → 0.1 (1/10 に減衰)
+    - 軍事行動＋海運キーワードがある場合 → 2.0 (増幅)
+    - どちらにも該当しない場合 → 1.0 (そのまま)
+    """
+    event_codes = country_info.get("event_codes", {})
+    keywords = [k.lower() for k in country_info.get("keywords", [])]
+    keywords_set = set(keywords)
+
+    if not event_codes:
+        return 1.0
+
+    total_events = sum(event_codes.values())
+    if total_events == 0:
+        return 1.0
+
+    protest_count = event_codes.get("14", 0)
+    military_count = event_codes.get("19", 0) + event_codes.get("20", 0)
+
+    has_maritime_keywords = bool(keywords_set & MARITIME_KEYWORDS)
+
+    # パターン1: 大半がプロテスト (>50%) かつ海運キーワードなし → 国内デモ
+    if protest_count > total_events * 0.5 and not has_maritime_keywords:
+        return HISTORICAL_CRISES["internal_unrest"]["weight"]  # 0.1
+
+    # パターン2: 軍事行動あり かつ海運キーワードあり → 本物の海運危機
+    if military_count > 0 and has_maritime_keywords:
+        return HISTORICAL_CRISES["suez_blockade"]["weight"]  # 2.0
+
+    return 1.0
+
+
 def compute_chokepoint_disruption(risk_data: dict) -> dict:
     """
     各チョークポイントの封鎖確率 (Disruption Risk %) を算出する。
 
-    Gravity Model:
-      各国のリスクスコアを、チョークポイントとの距離で減衰させて合算する。
-      距離減衰 = max(0, (INFLUENCE_RADIUS_KM - distance_km) / INFLUENCE_RADIUS_KM)
-      危機スコア = Σ (risk_score × 距離減衰)
-      封鎖確率 = clip(危機スコア / NORMALIZATION_DIVISOR × 100, 0, 100)
+    KODOKU Engine V2 - Gravity Model + Context Verification:
+      1. ベースリスク算出: 各国のリスクスコアを距離で減衰させて合算。
+      2. コンテキスト検証: 過去の海運危機パターンとの類似性で補正。
+      3. 補正後リスクで封鎖確率を算出。
     """
     results = {}
 
@@ -161,7 +215,8 @@ def compute_chokepoint_disruption(risk_data: dict) -> dict:
 
             if dist_km < INFLUENCE_RADIUS_KM:
                 decay = (INFLUENCE_RADIUS_KM - dist_km) / INFLUENCE_RADIUS_KM
-                crisis_score += country_info["risk_score"] * decay
+                context_multiplier = compute_context_multiplier(country_info)
+                crisis_score += country_info["risk_score"] * decay * context_multiplier
 
         disruption_pct = min(max(crisis_score / NORMALIZATION_DIVISOR * 100, 0.0), 100.0)
         disruption_pct = round(disruption_pct, 1)

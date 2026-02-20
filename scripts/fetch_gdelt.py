@@ -193,6 +193,24 @@ def process(df: pd.DataFrame) -> dict:
         .first()
     )
 
+    # EventRootCode の分布を国ごとに集計
+    event_code_dist = (
+        df.dropna(subset=["EventRootCode"])
+        .groupby("iso3")["EventRootCode"]
+        .value_counts()
+    )
+
+    # トップニュースURLからキーワードを簡易抽出
+    def extract_keywords_from_url(url: str) -> list:
+        """URLのパス部分からハイフン/スラッシュ区切りの単語を抽出する。"""
+        if not url or not isinstance(url, str):
+            return []
+        # URLのパス部分を取得してトークンに分解
+        from urllib.parse import urlparse
+        path = urlparse(url).path
+        tokens = [t.lower() for t in path.replace("/", "-").replace("_", "-").split("-") if len(t) >= 3]  # skip short noise words
+        return tokens
+
     # 集計: Risk Score = sum(BaseScore) / 10
     agg = df.groupby("iso3").agg(
         risk_score=("BaseScore", lambda x: x.sum() / 10),
@@ -207,10 +225,22 @@ def process(df: pd.DataFrame) -> dict:
 
     result = {}
     for iso3, row in agg.iterrows():
+        # event_codes: EventRootCode の分布を辞書化
+        codes = {}
+        if iso3 in event_code_dist.index.get_level_values(0):
+            series = event_code_dist[iso3]
+            for code, cnt in series.items():
+                codes[str(int(code))] = int(cnt)  # float→int→str since pandas stores numeric as float
+
+        # keywords: トップニュースURLから抽出
+        keywords = extract_keywords_from_url(str(row["top_news"]))
+
         result[iso3] = {
             "risk_score": round(float(row["risk_score"]), 4),
             "count": int(row["count"]),
             "top_news": str(row["top_news"]),
+            "event_codes": codes,
+            "keywords": keywords,
         }
 
     logger.info("Aggregated %d countries", len(result))
