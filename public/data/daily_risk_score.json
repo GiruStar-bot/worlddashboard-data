@@ -1,69 +1,68 @@
 {
-  "ISR": {
-    "risk_score": 3.1,
-    "count": 5,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/02/21/us-ambassador-causes-uproar-by-claiming-israel-has-a-right-to-much-of-the-middle-east",
+  "CAF": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=68533",
     "event_codes": {
-      "16": 3,
       "19": 2
     },
     "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "faith",
-      "2026",
-      "ambassador",
-      "causes",
-      "uproar",
-      "claiming",
-      "israel",
-      "has",
-      "right",
-      "much",
-      "the",
-      "middle",
-      "east"
+      "news",
+      "headlines",
+      "index.cfm"
     ]
   },
-  "NGA": {
-    "risk_score": 8.1,
-    "count": 9,
-    "top_news": "https://blueprint.ng/ilobanafor-bags-nans-yocen-awards-for-societal-impact/",
+  "COD": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=68533",
     "event_codes": {
-      "19": 6,
-      "16": 2,
-      "17": 1
+      "19": 6
     },
     "keywords": [
-      "ilobanafor",
-      "bags",
-      "nans",
-      "yocen",
-      "awards",
-      "for",
-      "societal",
-      "impact"
+      "news",
+      "headlines",
+      "index.cfm"
     ]
   },
-  "VEN": {
+  "IRN": {
+    "risk_score": 7.04,
+    "count": 10,
+    "top_news": "https://www.rferl.org/a/iran-student-protests-tehran/33684136.html",
+    "event_codes": {
+      "14": 2,
+      "15": 2,
+      "16": 2,
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "iran",
+      "student",
+      "protests",
+      "tehran",
+      "33684136.html"
+    ]
+  },
+  "SOM": {
     "risk_score": 3.6,
     "count": 4,
-    "top_news": "https://thevoiceslu.com/2026/02/caricom-leaders-to-address-worrying-issues-at-historic-50th-summit/",
+    "top_news": "https://www.philstar.com/opinion/2026/02/22/2509535/can-trump-denaturalize-and-deport-somali-citizens",
     "event_codes": {
       "18": 4
     },
     "keywords": [
+      "opinion",
       "2026",
-      "caricom",
-      "leaders",
-      "address",
-      "worrying",
-      "issues",
-      "historic",
-      "50th",
-      "summit"
+      "2509535",
+      "can",
+      "trump",
+      "denaturalize",
+      "and",
+      "deport",
+      "somali",
+      "citizens"
     ]
   }
 }
