@@ -1,87 +1,131 @@
 {
   "IRN": {
-    "risk_score": 5.8,
-    "count": 8,
-    "top_news": "https://www.al-monitor.com/originals/2026/02/iranian-students-begin-new-university-term-protests",
+    "risk_score": 8.5,
+    "count": 12,
+    "top_news": "https://www.presstv.ir/Detail/2026/02/21/764491/Iran-vigilance-deterrence-miscalculation",
     "event_codes": {
-      "14": 6,
-      "17": 2
+      "17": 4,
+      "18": 3,
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "originals",
+      "detail",
       "2026",
-      "iranian",
-      "students",
-      "begin",
-      "new",
-      "university",
-      "term",
-      "protests"
+      "764491",
+      "iran",
+      "vigilance",
+      "deterrence",
+      "miscalculation"
     ]
   },
   "ISR": {
-    "risk_score": 5.15,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/news/palestine-jordan-egypt-slam-us-ambassador-huckabees-israel-take-over-remarks",
+    "risk_score": 33.94,
+    "count": 35,
+    "top_news": "https://www.presstv.ir/Detail/2026/02/21/764479/UN--Attacks-by-settlers-in-West-Bank-forced-hundreds-of-Palestinian-families-to-flee",
     "event_codes": {
-      "19": 3,
-      "18": 2,
-      "17": 1
+      "19": 22,
+      "18": 11,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "palestine",
-      "jordan",
-      "egypt",
-      "slam",
-      "ambassador",
-      "huckabees",
-      "israel",
-      "take",
-      "over",
-      "remarks"
+      "detail",
+      "2026",
+      "764479",
+      "attacks",
+      "settlers",
+      "west",
+      "bank",
+      "forced",
+      "hundreds",
+      "palestinian",
+      "families",
+      "flee"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.presstv.ir/Detail/2026/02/21/764486/Hezbollah-confirms-8-fighters,-including-senior-commander,-killed-in-Israeli-strikes",
+    "event_codes": {
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "764486",
+      "hezbollah",
+      "confirms",
+      "fighters,",
+      "including",
+      "senior",
+      "commander,",
+      "killed",
+      "israeli",
+      "strikes"
     ]
   },
   "NGA": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.nigerianeye.com/2026/02/police-repel-bandit-attack-at-kebbi.html",
-    "event_codes": {
-      "17": 3,
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "repel",
-      "bandit",
-      "attack",
-      "kebbi.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.defesanet.com.br/nbr/lula-requested-a-scenario-analysis-after-maduros-capture-and-the-military-listed-air-vulnerabilities/",
+    "risk_score": 7.31,
+    "count": 10,
+    "top_news": "https://www.legit.ng/nigeria/1698107-reps-deputy-spokesperson-mobilises-support-operation-savannah-shield/",
     "event_codes": {
       "15": 3,
-      "17": 3
+      "17": 3,
+      "19": 3,
+      "14": 1
     },
     "keywords": [
-      "nbr",
-      "lula",
-      "requested",
-      "scenario",
-      "analysis",
-      "after",
-      "maduros",
-      "capture",
-      "and",
-      "the",
-      "military",
-      "listed",
-      "air",
-      "vulnerabilities"
+      "nigeria",
+      "1698107",
+      "reps",
+      "deputy",
+      "spokesperson",
+      "mobilises",
+      "support",
+      "operation",
+      "savannah",
+      "shield"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.7,
+    "count": 8,
+    "top_news": "https://www.presstv.ir/Detail/2026/02/21/764479/UN--Attacks-by-settlers-in-West-Bank-forced-hundreds-of-Palestinian-families-to-flee",
+    "event_codes": {
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "764479",
+      "attacks",
+      "settlers",
+      "west",
+      "bank",
+      "forced",
+      "hundreds",
+      "palestinian",
+      "families",
+      "flee"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://mareeg.com/somalia-moves-to-buy-jf-17-jets-from-pakistan/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "somalia",
+      "moves",
+      "buy",
+      "jets",
+      "from",
+      "pakistan"
     ]
   }
 }
