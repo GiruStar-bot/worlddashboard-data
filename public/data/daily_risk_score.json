@@ -1,105 +1,67 @@
 {
   "ISR": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/news/lebanon-israeli-strike-kills-least-10-including-hezbollah-leader",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.news4jax.com/news/world/2026/02/21/israeli-airstrikes-in-eastern-lebanon-kill-8-hezbollah-members-officials-say/",
     "event_codes": {
-      "19": 5
+      "19": 4
     },
     "keywords": [
       "news",
-      "lebanon",
+      "world",
+      "2026",
       "israeli",
-      "strike",
-      "kills",
-      "least",
-      "including",
-      "hezbollah",
-      "leader"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.75,
-    "count": 6,
-    "top_news": "https://www.aa.com.tr/en/middle-east/death-toll-from-israeli-strike-on-eastern-lebanon-rises-to-10-over-30-injured/3836458",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "death",
-      "toll",
-      "from",
-      "israeli",
-      "strike",
+      "airstrikes",
       "eastern",
       "lebanon",
-      "rises",
-      "over",
-      "injured",
-      "3836458"
+      "kill",
+      "hezbollah",
+      "members",
+      "officials",
+      "say"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wknofm.org/news-from-npr/2026-02-21/given-a-gun-and-sent-to-die-kenyans-lured-to-fight-for-russia-in-ukraine",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "from",
+      "npr",
+      "2026",
+      "given",
+      "gun",
+      "and",
+      "sent",
+      "die",
+      "kenyans",
+      "lured",
+      "fight",
+      "for",
+      "russia",
+      "ukraine"
     ]
   },
   "NGA": {
-    "risk_score": 15.75,
-    "count": 16,
-    "top_news": "https://saharareporters.com/2026/02/21/terrorists-sack-zamfara-community-reportedly-kill-over-50-residents-night-raid",
-    "event_codes": {
-      "19": 10,
-      "20": 4,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "terrorists",
-      "sack",
-      "zamfara",
-      "community",
-      "reportedly",
-      "kill",
-      "over",
-      "residents",
-      "night",
-      "raid"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.35,
-    "count": 4,
-    "top_news": "https://www.okaz.com.sa/politics/na/2236830",
-    "event_codes": {
-      "17": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "politics",
-      "2236830"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.95,
+    "risk_score": 3.5,
     "count": 5,
-    "top_news": "https://www.aa.com.tr/en/middle-east/death-toll-from-israeli-strike-on-eastern-lebanon-rises-to-10-over-30-injured/3836458",
+    "top_news": "https://promptnewsonline.com/osimhen-ruled-out-galatasaray-vs-konyaspor-with-injury/",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "17": 3,
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "death",
-      "toll",
-      "from",
-      "israeli",
-      "strike",
-      "eastern",
-      "lebanon",
-      "rises",
-      "over",
-      "injured",
-      "3836458"
+      "osimhen",
+      "ruled",
+      "out",
+      "galatasaray",
+      "konyaspor",
+      "with",
+      "injury"
     ]
   }
 }
