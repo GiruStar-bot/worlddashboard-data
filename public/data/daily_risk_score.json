@@ -1,76 +1,90 @@
 {
-  "IRN": {
-    "risk_score": 3.6,
-    "count": 6,
-    "top_news": "https://www.standard.co.uk/news/uk/iranian-london-uk-government-downing-street-president-b1271956.html",
+  "BRA": {
+    "risk_score": 3.57,
+    "count": 4,
+    "top_news": "https://www.mirror.co.uk/news/world-news/schoolgirl-10-crushed-death-after-36760954",
     "event_codes": {
-      "14": 4,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "iranian",
-      "london",
-      "government",
-      "downing",
-      "street",
-      "president",
-      "b1271956.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.25,
-    "count": 14,
-    "top_news": "https://www.premiumtimesng.com/regional/ssouth-east/858675-lawyer-urges-uk-to-comply-with-court-judgement-on-1949-killing-of-nigerian-coal-miners.html",
-    "event_codes": {
-      "17": 11,
-      "19": 3
-    },
-    "keywords": [
-      "regional",
-      "ssouth",
-      "east",
-      "858675",
-      "lawyer",
-      "urges",
-      "comply",
-      "with",
-      "court",
-      "judgement",
-      "1949",
-      "killing",
-      "nigerian",
-      "coal",
-      "miners.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.stcatharinesstandard.ca/news/world/asia/suicide-bombing-kills-2-pakistani-soldiers-including-lieutenant-colonel-in-restive-northwest/article_2c998a49-466a-5216-8665-793f9267a3f1.html",
-    "event_codes": {
-      "18": 2
+      "18": 2,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
       "news",
       "world",
-      "asia",
-      "suicide",
-      "bombing",
-      "kills",
-      "pakistani",
-      "soldiers",
-      "including",
-      "lieutenant",
-      "colonel",
-      "restive",
-      "northwest",
+      "news",
+      "schoolgirl",
+      "crushed",
+      "death",
+      "after",
+      "36760954"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.42,
+    "count": 5,
+    "top_news": "https://www.jpost.com/middle-east/article-887405",
+    "event_codes": {
+      "14": 2,
+      "15": 1,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
       "article",
-      "2c998a49",
-      "466a",
-      "5216",
-      "8665",
-      "793f9267a3f1.html"
+      "887405"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/least-two-killed-israeli-attack-193747147.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "least",
+      "two",
+      "killed",
+      "israeli",
+      "attack",
+      "193747147.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/least-two-killed-israeli-attack-193747147.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "least",
+      "two",
+      "killed",
+      "israeli",
+      "attack",
+      "193747147.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.35,
+    "count": 6,
+    "top_news": "https://www.jpost.com/middle-east/article-887406",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "887406"
     ]
   }
 }
