@@ -1,92 +1,26 @@
 {
-  "BRA": {
-    "risk_score": 5.2,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/2/21/brazils-lula-says-maduro-should-face-trial-in-venezuela-not-us",
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5243121-israeli-druze-leader-says-syrian-community-besieged-months-after-clashes",
     "event_codes": {
-      "18": 3,
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "brazils",
-      "lula",
+      "arab",
+      "world",
+      "5243121",
+      "israeli",
+      "druze",
+      "leader",
       "says",
-      "maduro",
-      "should",
-      "face",
-      "trial",
-      "venezuela",
-      "not"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://indianexpress.com/article/opinion/editorials/40-years-ago-february-21-1986-shoot-at-sight-order-in-batala-10543356/",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "opinion",
-      "editorials",
-      "years",
-      "ago",
-      "february",
-      "1986",
-      "shoot",
-      "sight",
-      "order",
-      "batala",
-      "10543356"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wsbtv.com/news/local/14-year-old-accused-killing-georgia-teen-with-ar-15-style-gun/FI3URLYEVBCYJIYQ64T25HG5ZE/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "local",
-      "year",
-      "old",
-      "accused",
-      "killing",
-      "georgia",
-      "teen",
-      "with",
-      "style",
-      "gun",
-      "fi3urlyevbcyjiyq64t25hg5ze"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://energeticcity.ca/2026/02/20/openai-contacted-rcmp-about-tumbler-ridge-shooters-chatgpt-account-after-attack-2/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "openai",
-      "contacted",
-      "rcmp",
-      "about",
-      "tumbler",
-      "ridge",
-      "shooters",
-      "chatgpt",
-      "account",
+      "syrian",
+      "community",
+      "besieged",
+      "months",
       "after",
-      "attack"
+      "clashes"
     ]
   }
 }
