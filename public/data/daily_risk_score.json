@@ -1,22 +1,60 @@
 {
   "IRN": {
-    "risk_score": 5.5,
-    "count": 7,
-    "top_news": "https://www.middleeasteye.net/news/hezbollah-says-no-choice-fight-after-israeli-strikes",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://tribune.com.pk/story/2593870/war-concerns",
     "event_codes": {
-      "14": 4,
-      "19": 2,
-      "17": 1
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "story",
+      "2593870",
+      "war",
+      "concerns"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/houthi-mobilize-troops-yemen-unclear-211920020.html",
+    "event_codes": {
+      "16": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "hezbollah",
-      "says",
-      "choice",
-      "fight",
-      "after",
-      "israeli",
-      "strikes"
+      "articles",
+      "houthi",
+      "mobilize",
+      "troops",
+      "yemen",
+      "unclear",
+      "211920020.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://indianexpress.com/article/world/us-news/us-iran-military-confrontation-trump-nuclear-deal-strait-of-hormuz-crisis-10545077/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "world",
+      "news",
+      "iran",
+      "military",
+      "confrontation",
+      "trump",
+      "nuclear",
+      "deal",
+      "strait",
+      "hormuz",
+      "crisis",
+      "10545077"
     ]
   }
 }
