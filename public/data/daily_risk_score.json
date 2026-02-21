@@ -1,94 +1,105 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.lemonde.fr/en/international/article/2026/02/21/iran-expert-ross-harrison-cutting-off-the-head-of-the-snake-would-not-bring-down-the-regime_6750714_4.html",
+  "ISR": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/news/lebanon-israeli-strike-kills-least-10-including-hezbollah-leader",
     "event_codes": {
-      "17": 2,
-      "18": 1
+      "19": 5
     },
     "keywords": [
-      "international",
-      "article",
-      "2026",
-      "iran",
-      "expert",
-      "ross",
-      "harrison",
-      "cutting",
-      "off",
-      "the",
-      "head",
-      "the",
-      "snake",
-      "would",
-      "not",
-      "bring",
-      "down",
-      "the",
-      "regime",
-      "6750714",
-      "4.html"
+      "news",
+      "lebanon",
+      "israeli",
+      "strike",
+      "kills",
+      "least",
+      "including",
+      "hezbollah",
+      "leader"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.75,
+    "count": 6,
+    "top_news": "https://www.aa.com.tr/en/middle-east/death-toll-from-israeli-strike-on-eastern-lebanon-rises-to-10-over-30-injured/3836458",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "death",
+      "toll",
+      "from",
+      "israeli",
+      "strike",
+      "eastern",
+      "lebanon",
+      "rises",
+      "over",
+      "injured",
+      "3836458"
     ]
   },
   "NGA": {
-    "risk_score": 5.4,
-    "count": 8,
-    "top_news": "https://quicknews-africa.net/police-apprehend-officers-for-alleged-shooting-killing-2-passersby/",
+    "risk_score": 15.75,
+    "count": 16,
+    "top_news": "https://saharareporters.com/2026/02/21/terrorists-sack-zamfara-community-reportedly-kill-over-50-residents-night-raid",
     "event_codes": {
-      "17": 4,
-      "14": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "police",
-      "apprehend",
-      "officers",
-      "for",
-      "alleged",
-      "shooting",
-      "killing",
-      "passersby"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.seattletimes.com/business/local-business/after-supreme-court-tariff-takedown-wa-firms-wary-of-what-comes-next/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "business",
-      "local",
-      "business",
-      "after",
-      "supreme",
-      "court",
-      "tariff",
-      "takedown",
-      "firms",
-      "wary",
-      "what",
-      "comes",
-      "next"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 4.8,
-    "count": 8,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262266.html",
-    "event_codes": {
-      "17": 6,
+      "19": 10,
+      "20": 4,
       "18": 2
     },
     "keywords": [
-      "index",
-      "news",
-      "national",
-      "byo",
-      "262266.html"
+      "2026",
+      "terrorists",
+      "sack",
+      "zamfara",
+      "community",
+      "reportedly",
+      "kill",
+      "over",
+      "residents",
+      "night",
+      "raid"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.35,
+    "count": 4,
+    "top_news": "https://www.okaz.com.sa/politics/na/2236830",
+    "event_codes": {
+      "17": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "politics",
+      "2236830"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.aa.com.tr/en/middle-east/death-toll-from-israeli-strike-on-eastern-lebanon-rises-to-10-over-30-injured/3836458",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "death",
+      "toll",
+      "from",
+      "israeli",
+      "strike",
+      "eastern",
+      "lebanon",
+      "rises",
+      "over",
+      "injured",
+      "3836458"
     ]
   }
 }
