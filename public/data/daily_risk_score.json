@@ -1,60 +1,87 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://tribune.com.pk/story/2593870/war-concerns",
+  "ISR": {
+    "risk_score": 12.95,
+    "count": 16,
+    "top_news": "https://www.dailymail.co.uk/tvshowbiz/article-15580473/Hugh-Laurie-Zionism-row-tribute-Israeli-TV-producer-friend-dead.html",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 9,
+      "16": 3,
+      "14": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "tvshowbiz",
+      "article",
+      "15580473",
+      "hugh",
+      "laurie",
+      "zionism",
+      "row",
+      "tribute",
+      "israeli",
+      "producer",
+      "friend",
+      "dead.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.72,
+    "count": 7,
+    "top_news": "https://dailytrust.com/police-repel-lakurawa-attack-in-kebbi/",
+    "event_codes": {
+      "19": 6,
+      "15": 1
+    },
+    "keywords": [
+      "police",
+      "repel",
+      "lakurawa",
+      "attack",
+      "kebbi"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.canberratimes.com.au/story/9180155/islamic-state-claims-two-attacks-on-syrian-army/",
+    "event_codes": {
+      "19": 6
     },
     "keywords": [
       "story",
-      "2593870",
-      "war",
-      "concerns"
+      "9180155",
+      "islamic",
+      "state",
+      "claims",
+      "two",
+      "attacks",
+      "syrian",
+      "army"
     ]
   },
-  "SAU": {
-    "risk_score": 2.8,
+  "ZWE": {
+    "risk_score": 2.1,
     "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/houthi-mobilize-troops-yemen-unclear-211920020.html",
+    "top_news": "https://www.timeslive.co.za/opinion/2026-02-22-makhudu-sefara-when-effective-becomes-excessive-a-cautionary-tale-from-sibiyas-fall/",
     "event_codes": {
-      "16": 2,
-      "19": 2
+      "16": 3,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "houthi",
-      "mobilize",
-      "troops",
-      "yemen",
-      "unclear",
-      "211920020.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://indianexpress.com/article/world/us-news/us-iran-military-confrontation-trump-nuclear-deal-strait-of-hormuz-crisis-10545077/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "article",
-      "world",
-      "news",
-      "iran",
-      "military",
-      "confrontation",
-      "trump",
-      "nuclear",
-      "deal",
-      "strait",
-      "hormuz",
-      "crisis",
-      "10545077"
+      "opinion",
+      "2026",
+      "makhudu",
+      "sefara",
+      "when",
+      "effective",
+      "becomes",
+      "excessive",
+      "cautionary",
+      "tale",
+      "from",
+      "sibiyas",
+      "fall"
     ]
   }
 }
