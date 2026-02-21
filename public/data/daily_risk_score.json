@@ -1,68 +1,87 @@
 {
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=68533",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "headlines",
-      "index.cfm"
-    ]
-  },
-  "COD": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=68533",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "headlines",
-      "index.cfm"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.04,
-    "count": 10,
-    "top_news": "https://www.rferl.org/a/iran-student-protests-tehran/33684136.html",
+    "risk_score": 5.8,
+    "count": 8,
+    "top_news": "https://www.al-monitor.com/originals/2026/02/iranian-students-begin-new-university-term-protests",
     "event_codes": {
-      "14": 2,
-      "15": 2,
-      "16": 2,
-      "17": 2,
-      "18": 1,
-      "19": 1
+      "14": 6,
+      "17": 2
     },
     "keywords": [
-      "iran",
-      "student",
-      "protests",
-      "tehran",
-      "33684136.html"
+      "originals",
+      "2026",
+      "iranian",
+      "students",
+      "begin",
+      "new",
+      "university",
+      "term",
+      "protests"
     ]
   },
-  "SOM": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://www.philstar.com/opinion/2026/02/22/2509535/can-trump-denaturalize-and-deport-somali-citizens",
+  "ISR": {
+    "risk_score": 5.15,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/news/palestine-jordan-egypt-slam-us-ambassador-huckabees-israel-take-over-remarks",
     "event_codes": {
-      "18": 4
+      "19": 3,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "opinion",
+      "news",
+      "palestine",
+      "jordan",
+      "egypt",
+      "slam",
+      "ambassador",
+      "huckabees",
+      "israel",
+      "take",
+      "over",
+      "remarks"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.nigerianeye.com/2026/02/police-repel-bandit-attack-at-kebbi.html",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
       "2026",
-      "2509535",
-      "can",
-      "trump",
-      "denaturalize",
+      "police",
+      "repel",
+      "bandit",
+      "attack",
+      "kebbi.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.defesanet.com.br/nbr/lula-requested-a-scenario-analysis-after-maduros-capture-and-the-military-listed-air-vulnerabilities/",
+    "event_codes": {
+      "15": 3,
+      "17": 3
+    },
+    "keywords": [
+      "nbr",
+      "lula",
+      "requested",
+      "scenario",
+      "analysis",
+      "after",
+      "maduros",
+      "capture",
       "and",
-      "deport",
-      "somali",
-      "citizens"
+      "the",
+      "military",
+      "listed",
+      "air",
+      "vulnerabilities"
     ]
   }
 }
