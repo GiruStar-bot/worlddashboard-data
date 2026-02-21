@@ -1,90 +1,22 @@
 {
-  "BRA": {
-    "risk_score": 3.57,
-    "count": 4,
-    "top_news": "https://www.mirror.co.uk/news/world-news/schoolgirl-10-crushed-death-after-36760954",
-    "event_codes": {
-      "18": 2,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "schoolgirl",
-      "crushed",
-      "death",
-      "after",
-      "36760954"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.42,
-    "count": 5,
-    "top_news": "https://www.jpost.com/middle-east/article-887405",
+    "risk_score": 5.5,
+    "count": 7,
+    "top_news": "https://www.middleeasteye.net/news/hezbollah-says-no-choice-fight-after-israeli-strikes",
     "event_codes": {
-      "14": 2,
-      "15": 1,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "887405"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/least-two-killed-israeli-attack-193747147.html",
-    "event_codes": {
-      "19": 4
+      "14": 4,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "least",
-      "two",
-      "killed",
+      "hezbollah",
+      "says",
+      "choice",
+      "fight",
+      "after",
       "israeli",
-      "attack",
-      "193747147.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/least-two-killed-israeli-attack-193747147.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "least",
-      "two",
-      "killed",
-      "israeli",
-      "attack",
-      "193747147.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.35,
-    "count": 6,
-    "top_news": "https://www.jpost.com/middle-east/article-887406",
-    "event_codes": {
-      "19": 5,
-      "16": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "887406"
+      "strikes"
     ]
   }
 }
