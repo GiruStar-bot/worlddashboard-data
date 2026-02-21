@@ -1,64 +1,94 @@
 {
-  "IDN": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://www.perthnow.com.au/news/sydney-airport-flight-to-melbourne-put-on-alert-for-measles-c-21712194",
-    "event_codes": {
-      "19": 3,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "sydney",
-      "airport",
-      "flight",
-      "melbourne",
-      "put",
-      "alert",
-      "for",
-      "measles",
-      "21712194"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.55,
-    "count": 11,
-    "top_news": "https://www.dailygazette.com/hv360/opinion/letters-to-the-editor-daily-gazette/article_35dc89f4-e5f3-4e2c-add9-28047b556ac0.html",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.lemonde.fr/en/international/article/2026/02/21/iran-expert-ross-harrison-cutting-off-the-head-of-the-snake-would-not-bring-down-the-regime_6750714_4.html",
     "event_codes": {
-      "17": 4,
-      "14": 3,
-      "16": 3,
-      "20": 1
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "hv360",
-      "opinion",
-      "letters",
-      "the",
-      "editor",
-      "daily",
-      "gazette",
+      "international",
       "article",
-      "35dc89f4",
-      "e5f3",
-      "4e2c",
-      "add9",
-      "28047b556ac0.html"
+      "2026",
+      "iran",
+      "expert",
+      "ross",
+      "harrison",
+      "cutting",
+      "off",
+      "the",
+      "head",
+      "the",
+      "snake",
+      "would",
+      "not",
+      "bring",
+      "down",
+      "the",
+      "regime",
+      "6750714",
+      "4.html"
     ]
   },
-  "ISR": {
-    "risk_score": 5.9,
+  "NGA": {
+    "risk_score": 5.4,
     "count": 8,
-    "top_news": "https://english.wafa.ps/Pages/Details/167590",
+    "top_news": "https://quicknews-africa.net/police-apprehend-officers-for-alleged-shooting-killing-2-passersby/",
     "event_codes": {
       "17": 4,
-      "18": 2,
+      "14": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "police",
+      "apprehend",
+      "officers",
+      "for",
+      "alleged",
+      "shooting",
+      "killing",
+      "passersby"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.seattletimes.com/business/local-business/after-supreme-court-tariff-takedown-wa-firms-wary-of-what-comes-next/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "167590"
+      "business",
+      "local",
+      "business",
+      "after",
+      "supreme",
+      "court",
+      "tariff",
+      "takedown",
+      "firms",
+      "wary",
+      "what",
+      "comes",
+      "next"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.8,
+    "count": 8,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262266.html",
+    "event_codes": {
+      "17": 6,
+      "18": 2
+    },
+    "keywords": [
+      "index",
+      "news",
+      "national",
+      "byo",
+      "262266.html"
     ]
   }
 }
