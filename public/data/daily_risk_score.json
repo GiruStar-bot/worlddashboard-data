@@ -1,86 +1,46 @@
 {
-  "IRN": {
-    "risk_score": 7.2,
-    "count": 9,
-    "top_news": "http://www.bignewsnetwork.com/news/278882159/new-student-protests-highlight-ongoing-unrest-in-tehran",
+  "ISR": {
+    "risk_score": 5.05,
+    "count": 7,
+    "top_news": "https://www.middleeastmonitor.com/20260222-palestinian-woman-killed-as-israeli-army-shells-gaza-despite-ceasefire/",
     "event_codes": {
-      "19": 4,
-      "14": 2,
-      "17": 2,
+      "17": 3,
+      "19": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "278882159",
-      "new",
-      "student",
-      "protests",
-      "highlight",
-      "ongoing",
-      "unrest",
-      "tehran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.5,
-    "count": 12,
-    "top_news": "https://www.islamicinvitationturkey.com/hezbollah-declares-defense-necessity-in-wake-of-lethal-israeli-attacks-says-official/",
-    "event_codes": {
-      "16": 4,
-      "17": 3,
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "hezbollah",
-      "declares",
-      "defense",
-      "necessity",
-      "wake",
-      "lethal",
+      "20260222",
+      "palestinian",
+      "woman",
+      "killed",
       "israeli",
-      "attacks",
-      "says",
-      "official"
+      "army",
+      "shells",
+      "gaza",
+      "despite",
+      "ceasefire"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://dailytrust.com/teenage-herders-killed-in-fresh-plateau-attack/",
+    "risk_score": 9.68,
+    "count": 10,
+    "top_news": "https://dailypost.ng/2026/02/22/one-killed-another-injured-as-bandits-attack-cattle-range-in-sokoto/",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 6,
+      "17": 4
     },
     "keywords": [
-      "teenage",
-      "herders",
+      "2026",
+      "one",
       "killed",
-      "fresh",
-      "plateau",
-      "attack"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-airstrikes-artillery-shelling-on-gaza-despite-ceasefire/3836997",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "army",
-      "launches",
-      "airstrikes",
-      "artillery",
-      "shelling",
-      "gaza",
-      "despite",
-      "ceasefire",
-      "3836997"
+      "another",
+      "injured",
+      "bandits",
+      "attack",
+      "cattle",
+      "range",
+      "sokoto"
     ]
   }
 }
