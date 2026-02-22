@@ -1,38 +1,68 @@
 {
+  "IRN": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.marketscreener.com/news/iran-agreed-secret-shoulder-fired-missile-deal-with-russia-ft-reports-ce7e5dd2da8afe22",
+    "event_codes": {
+      "19": 3,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "agreed",
+      "secret",
+      "shoulder",
+      "fired",
+      "missile",
+      "deal",
+      "with",
+      "russia",
+      "reports",
+      "ce7e5dd2da8afe22"
+    ]
+  },
   "ISR": {
-    "risk_score": 3.0,
+    "risk_score": 4.35,
+    "count": 5,
+    "top_news": "http://www.jpost.com/israel-news/article-887526",
+    "event_codes": {
+      "19": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "887526"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://ejpress.org/bill-aimed-at-combating-antisemitism-in-france-to-be-examanied-by-parliament/",
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/joint-force-repels-rsf-attack-on-sudan-chad-border-as-rival-claims-spark-border-tensions",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "bill",
-      "aimed",
-      "combating",
-      "antisemitism",
-      "france",
-      "examanied",
-      "parliament"
-    ]
-  },
-  "VEN": {
-    "risk_score": 13.06,
-    "count": 15,
-    "top_news": "https://dissidentvoice.org/2026/02/the-propaganda-assault-a-tale-of-two-venezuelans/",
-    "event_codes": {
-      "18": 11,
-      "17": 3,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "propaganda",
-      "assault",
-      "tale",
-      "two",
-      "venezuelans"
+      "all",
+      "news",
+      "article",
+      "joint",
+      "force",
+      "repels",
+      "rsf",
+      "attack",
+      "sudan",
+      "chad",
+      "border",
+      "rival",
+      "claims",
+      "spark",
+      "border",
+      "tensions"
     ]
   }
 }
