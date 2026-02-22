@@ -1,115 +1,86 @@
 {
   "IRN": {
-    "risk_score": 3.47,
-    "count": 5,
-    "top_news": "https://athens-times.com/iran-reports-of-brutal-torture-sexual-violence-against-detainees/",
+    "risk_score": 7.2,
+    "count": 9,
+    "top_news": "http://www.bignewsnetwork.com/news/278882159/new-student-protests-highlight-ongoing-unrest-in-tehran",
     "event_codes": {
+      "19": 4,
+      "14": 2,
       "17": 2,
-      "14": 1,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "iran",
-      "reports",
-      "brutal",
-      "torture",
-      "sexual",
-      "violence",
-      "against",
-      "detainees"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.7,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/422791",
-    "event_codes": {
-      "16": 4,
-      "19": 3,
       "18": 1
     },
     "keywords": [
       "news",
-      "422791"
+      "278882159",
+      "new",
+      "student",
+      "protests",
+      "highlight",
+      "ongoing",
+      "unrest",
+      "tehran"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/arab-world/5243486-israel-carries-out-more-strikes-lebanon-amid-lack-int%E2%80%99l-assurances-wider",
+  "ISR": {
+    "risk_score": 9.5,
+    "count": 12,
+    "top_news": "https://www.islamicinvitationturkey.com/hezbollah-declares-defense-necessity-in-wake-of-lethal-israeli-attacks-says-official/",
     "event_codes": {
-      "19": 2
+      "16": 4,
+      "17": 3,
+      "19": 3,
+      "18": 2
     },
     "keywords": [
-      "arab",
-      "world",
-      "5243486",
-      "israel",
-      "carries",
-      "out",
-      "more",
-      "strikes",
-      "lebanon",
-      "amid",
-      "lack",
-      "int%e2%80%99l",
-      "assurances",
-      "wider"
+      "hezbollah",
+      "declares",
+      "defense",
+      "necessity",
+      "wake",
+      "lethal",
+      "israeli",
+      "attacks",
+      "says",
+      "official"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://banglamirrornews.com/2026/02/22/50-killed-women-and-children-abducted-in-nigerias-zamfara-state/",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://dailytrust.com/teenage-herders-killed-in-fresh-plateau-attack/",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "2026",
+      "teenage",
+      "herders",
       "killed",
-      "women",
-      "and",
-      "children",
-      "abducted",
-      "nigerias",
-      "zamfara",
-      "state"
+      "fresh",
+      "plateau",
+      "attack"
     ]
   },
-  "SDN": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://sudanjem.com/33211654-2/",
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-airstrikes-artillery-shelling-on-gaza-despite-ceasefire/3836997",
     "event_codes": {
-      "18": 3
+      "19": 5
     },
     "keywords": [
-      "33211654"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.55,
-    "count": 4,
-    "top_news": "https://www.theguardian.com/world/2026/feb/22/im-going-to-fight-freed-venezuelan-activist-on-life-after-maduros-downfall",
-    "event_codes": {
-      "19": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "feb",
-      "going",
-      "fight",
-      "freed",
-      "venezuelan",
-      "activist",
-      "life",
-      "after",
-      "maduros",
-      "downfall"
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "launches",
+      "airstrikes",
+      "artillery",
+      "shelling",
+      "gaza",
+      "despite",
+      "ceasefire",
+      "3836997"
     ]
   }
 }
