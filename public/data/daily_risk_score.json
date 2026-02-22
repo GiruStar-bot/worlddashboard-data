@@ -1,51 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 6.03,
-    "count": 8,
-    "top_news": "http://www.haitisun.com/news/278878206/iran-crisis-exposes-the-impotence-of-america-neoliberal-war-machine",
-    "event_codes": {
-      "15": 4,
-      "19": 2,
-      "14": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "278878206",
-      "iran",
-      "crisis",
-      "exposes",
-      "the",
-      "impotence",
-      "america",
-      "neoliberal",
-      "war",
-      "machine"
-    ]
-  },
-  "VEN": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://nypost.com/2026/02/22/us-news/trump-to-honor-laken-riley-and-other-angel-families-ahead-of-state-of-the-union-address/",
+    "top_news": "https://hotspotatl.com/6796211/ex-wife-reveals-byron-donalds-ja-fakin-accent/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
+      "6796211",
+      "wife",
+      "reveals",
+      "byron",
+      "donalds",
+      "fakin",
+      "accent"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.42,
+    "count": 7,
+    "top_news": "https://www.israelnationalnews.com/news/422822",
+    "event_codes": {
+      "14": 2,
+      "16": 2,
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
       "news",
-      "trump",
-      "honor",
-      "laken",
-      "riley",
-      "and",
-      "other",
-      "angel",
-      "families",
-      "ahead",
-      "state",
-      "the",
-      "union",
-      "address"
+      "422822"
+    ]
+  },
+  "ISR": {
+    "risk_score": 26.81,
+    "count": 31,
+    "top_news": "https://imemc.org/article/gaza-woman-killed-child-dies-after-blocked-medical-transfer/",
+    "event_codes": {
+      "19": 13,
+      "17": 5,
+      "18": 5,
+      "20": 3,
+      "15": 2,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "article",
+      "gaza",
+      "woman",
+      "killed",
+      "child",
+      "dies",
+      "after",
+      "blocked",
+      "medical",
+      "transfer"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.14,
+    "count": 3,
+    "top_news": "https://imemc.org/article/west-bank-invasions-eight-abducted-including-children/",
+    "event_codes": {
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "west",
+      "bank",
+      "invasions",
+      "eight",
+      "abducted",
+      "including",
+      "children"
     ]
   }
 }
