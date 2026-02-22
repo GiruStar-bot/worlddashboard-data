@@ -1,41 +1,115 @@
 {
-  "NGA": {
-    "risk_score": 6.9,
-    "count": 11,
-    "top_news": "https://punchng.com/ndlea-arrests-real-estate-boss-ivorian-with-drugs/",
+  "IRN": {
+    "risk_score": 3.47,
+    "count": 5,
+    "top_news": "https://athens-times.com/iran-reports-of-brutal-torture-sexual-violence-against-detainees/",
     "event_codes": {
-      "17": 8,
-      "19": 3
-    },
-    "keywords": [
-      "ndlea",
-      "arrests",
-      "real",
-      "estate",
-      "boss",
-      "ivorian",
-      "with",
-      "drugs"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://themedialine.org/headlines/rsf-claims-capture-of-al-tina-town-on-sudan-chad-border/",
-    "event_codes": {
-      "19": 2,
+      "17": 2,
+      "14": 1,
+      "15": 1,
       "18": 1
     },
     "keywords": [
-      "headlines",
-      "rsf",
-      "claims",
-      "capture",
-      "tina",
-      "town",
-      "sudan",
-      "chad",
-      "border"
+      "iran",
+      "reports",
+      "brutal",
+      "torture",
+      "sexual",
+      "violence",
+      "against",
+      "detainees"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.7,
+    "count": 8,
+    "top_news": "https://www.israelnationalnews.com/news/422791",
+    "event_codes": {
+      "16": 4,
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "422791"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.aawsat.com/arab-world/5243486-israel-carries-out-more-strikes-lebanon-amid-lack-int%E2%80%99l-assurances-wider",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5243486",
+      "israel",
+      "carries",
+      "out",
+      "more",
+      "strikes",
+      "lebanon",
+      "amid",
+      "lack",
+      "int%e2%80%99l",
+      "assurances",
+      "wider"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://banglamirrornews.com/2026/02/22/50-killed-women-and-children-abducted-in-nigerias-zamfara-state/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "killed",
+      "women",
+      "and",
+      "children",
+      "abducted",
+      "nigerias",
+      "zamfara",
+      "state"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://sudanjem.com/33211654-2/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "33211654"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.55,
+    "count": 4,
+    "top_news": "https://www.theguardian.com/world/2026/feb/22/im-going-to-fight-freed-venezuelan-activist-on-life-after-maduros-downfall",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "feb",
+      "going",
+      "fight",
+      "freed",
+      "venezuelan",
+      "activist",
+      "life",
+      "after",
+      "maduros",
+      "downfall"
     ]
   }
 }
