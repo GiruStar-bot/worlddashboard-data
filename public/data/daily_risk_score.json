@@ -1,76 +1,120 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.dailymail.co.uk/media/article-15582417/Tucker-Carlson-Israel-president-apology-Epstein-island.html",
+  "COL": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.thepeterboroughexaminer.com/news/canada/the-ryan-wedding-case-grows-5-key-takeaways-from-new-u-s-evidence-against-the/article_6b0cc6f6-a7e2-5e72-ba41-cf39be74c78f.html",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "media",
+      "news",
+      "canada",
+      "the",
+      "ryan",
+      "wedding",
+      "case",
+      "grows",
+      "key",
+      "takeaways",
+      "from",
+      "new",
+      "evidence",
+      "against",
+      "the",
       "article",
-      "15582417",
-      "tucker",
-      "carlson",
-      "israel",
-      "president",
-      "apology",
-      "epstein",
-      "island.html"
+      "6b0cc6f6",
+      "a7e2",
+      "5e72",
+      "ba41",
+      "cf39be74c78f.html"
     ]
   },
   "ISR": {
-    "risk_score": 6.62,
-    "count": 7,
-    "top_news": "https://www.israelnationalnews.com/news/422812",
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/news/report-israeli-forces-detain-over-100-palestinians-beginning-ramadan",
     "event_codes": {
-      "19": 5,
-      "15": 1,
+      "18": 3,
       "17": 1
     },
     "keywords": [
       "news",
-      "422812"
+      "report",
+      "israeli",
+      "forces",
+      "detain",
+      "over",
+      "100",
+      "palestinians",
+      "beginning",
+      "ramadan"
     ]
   },
-  "NGA": {
-    "risk_score": 6.75,
-    "count": 7,
-    "top_news": "https://thenewsnigeria.com.ng/2026/02/22/us-nigeria-the-partnership-of-the-hawk-and-the-hen/",
+  "KEN": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/opinion/858866-igboho-kanu-and-the-heroic-igwe-before-tinubu-by-festus-adedayo.html",
     "event_codes": {
-      "19": 5,
-      "18": 2
+      "18": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "nigeria",
-      "the",
-      "partnership",
-      "the",
-      "hawk",
+      "opinion",
+      "858866",
+      "igboho",
+      "kanu",
       "and",
       "the",
-      "hen"
+      "heroic",
+      "igwe",
+      "before",
+      "tinubu",
+      "festus",
+      "adedayo.html"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 5,
-    "top_news": "https://weeklyblitz.net/2026/02/23/is-the-middle-east-drifting-toward-a-nuclear-arms-race/",
+  "PSE": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/news/report-israeli-forces-detain-over-100-palestinians-beginning-ramadan",
     "event_codes": {
-      "16": 5
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "the",
-      "middle",
-      "east",
-      "drifting",
-      "toward",
-      "nuclear",
-      "arms",
-      "race"
+      "news",
+      "report",
+      "israeli",
+      "forces",
+      "detain",
+      "over",
+      "100",
+      "palestinians",
+      "beginning",
+      "ramadan"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/probe-urged-after-two-mayom-men-allegedly-executed",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "probe",
+      "urged",
+      "after",
+      "two",
+      "mayom",
+      "men",
+      "allegedly",
+      "executed"
     ]
   }
 }
