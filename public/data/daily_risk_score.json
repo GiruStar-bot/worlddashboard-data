@@ -1,28 +1,76 @@
 {
-  "IRN": {
-    "risk_score": 3.02,
-    "count": 4,
-    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/02/21/iranian-students-hold-protests-as-new-university-term-begins/",
+  "ARG": {
+    "risk_score": 5.7,
+    "count": 8,
+    "top_news": "https://globalvoices.org/2026/02/22/how-the-series-the-eternaut-revived-searches-for-the-disappeared-in-argentina/",
     "event_codes": {
-      "14": 2,
+      "14": 6,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "the",
+      "series",
+      "the",
+      "eternaut",
+      "revived",
+      "searches",
+      "for",
+      "the",
+      "disappeared",
+      "argentina"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.tempo.co/read/2088547/amnesty-international-condemns-brimob-police-killing-of-14-year-old",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "read",
+      "2088547",
+      "amnesty",
+      "international",
+      "condemns",
+      "brimob",
+      "police",
+      "killing",
+      "year",
+      "old"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.57,
+    "count": 8,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/02/22/trump-presented-with-plans-including-killing-irans-supreme-leader-khamenei-and-his-son-report-says/",
+    "event_codes": {
+      "14": 3,
+      "17": 3,
       "15": 1,
-      "17": 1
+      "16": 1
     },
     "keywords": [
       "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
+      "mena",
       "2026",
-      "iranian",
-      "students",
-      "hold",
-      "protests",
-      "new",
-      "university",
-      "term",
-      "begins"
+      "trump",
+      "presented",
+      "with",
+      "plans",
+      "including",
+      "killing",
+      "irans",
+      "supreme",
+      "leader",
+      "khamenei",
+      "and",
+      "his",
+      "son",
+      "report",
+      "says"
     ]
   }
 }
