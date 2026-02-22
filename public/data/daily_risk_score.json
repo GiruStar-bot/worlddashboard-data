@@ -1,51 +1,143 @@
 {
-  "BRA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.news18.com/world/trump-tariffs-global-what-they-mean-what-next-india-impact-trade-laws-politics-supreme-court-explained-ws-l-9923026.html",
+  "IRN": {
+    "risk_score": 5.79,
+    "count": 9,
+    "top_news": "https://www.egyptindependent.com/the-us-could-strike-iran-heres-how-tehran-is-getting-prepared/",
     "event_codes": {
-      "19": 5
+      "17": 5,
+      "15": 2,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "trump",
-      "tariffs",
-      "global",
-      "what",
-      "they",
-      "mean",
-      "what",
-      "next",
-      "india",
-      "impact",
-      "trade",
-      "laws",
-      "politics",
-      "supreme",
-      "court",
-      "explained",
-      "9923026.html"
+      "the",
+      "could",
+      "strike",
+      "iran",
+      "heres",
+      "how",
+      "tehran",
+      "getting",
+      "prepared"
     ]
   },
   "ISR": {
+    "risk_score": 8.05,
+    "count": 11,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/22/israeli-army-launches-airstrikes-and-artilerry-sheling-on-gaza-despite-the-ceasefire",
+    "event_codes": {
+      "17": 4,
+      "14": 3,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "aseanplus",
+      "aseanplus",
+      "news",
+      "2026",
+      "israeli",
+      "army",
+      "launches",
+      "airstrikes",
+      "and",
+      "artilerry",
+      "sheling",
+      "gaza",
+      "despite",
+      "the",
+      "ceasefire"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/02/22/bandits-kill-man-abduct-wives-demand-n50million-ransom-niger-community-attack",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "kill",
+      "man",
+      "abduct",
+      "wives",
+      "demand",
+      "n50million",
+      "ransom",
+      "niger",
+      "community",
+      "attack"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://www.lbcgroup.tv/news/world-news/906696/at-least-38-killed-in-armed-attack-in-north-west-nigeria/en",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "906696",
+      "least",
+      "killed",
+      "armed",
+      "attack",
+      "north",
+      "west",
+      "nigeria"
+    ]
+  },
+  "SYR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.i24news.tv/en/news/israel/society/artc-34-arrested-after-drone-dropped-grenade-injures-four",
+    "top_news": "https://www.khaama.com/islamic-state-claims-new-attacks-on-syrian-army-in-eastern-syria/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
+      "islamic",
+      "state",
+      "claims",
+      "new",
+      "attacks",
+      "syrian",
+      "army",
+      "eastern",
+      "syria"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 5,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/22/white-house-deflects-as-trump-weighs-taiwan-arms-sale-delay-amid-beijing-pressure",
+    "event_codes": {
+      "16": 5
+    },
+    "keywords": [
+      "aseanplus",
+      "aseanplus",
       "news",
-      "israel",
-      "society",
-      "artc",
-      "arrested",
-      "after",
-      "drone",
-      "dropped",
-      "grenade",
-      "injures",
-      "four"
+      "2026",
+      "white",
+      "house",
+      "deflects",
+      "trump",
+      "weighs",
+      "taiwan",
+      "arms",
+      "sale",
+      "delay",
+      "amid",
+      "beijing",
+      "pressure"
     ]
   }
 }
