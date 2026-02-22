@@ -1,120 +1,54 @@
 {
-  "COL": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.thepeterboroughexaminer.com/news/canada/the-ryan-wedding-case-grows-5-key-takeaways-from-new-u-s-evidence-against-the/article_6b0cc6f6-a7e2-5e72-ba41-cf39be74c78f.html",
+  "IRN": {
+    "risk_score": 6.06,
+    "count": 8,
+    "top_news": "https://www.dailymail.co.uk/news/article-15582545/Iran-plots-doomsday-succession-Trump-sets-strike-deadline.html",
     "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "canada",
-      "the",
-      "ryan",
-      "wedding",
-      "case",
-      "grows",
-      "key",
-      "takeaways",
-      "from",
-      "new",
-      "evidence",
-      "against",
-      "the",
-      "article",
-      "6b0cc6f6",
-      "a7e2",
-      "5e72",
-      "ba41",
-      "cf39be74c78f.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/news/report-israeli-forces-detain-over-100-palestinians-beginning-ramadan",
-    "event_codes": {
-      "18": 3,
+      "15": 3,
+      "16": 2,
+      "19": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "report",
-      "israeli",
-      "forces",
-      "detain",
-      "over",
-      "100",
-      "palestinians",
-      "beginning",
-      "ramadan"
+      "article",
+      "15582545",
+      "iran",
+      "plots",
+      "doomsday",
+      "succession",
+      "trump",
+      "sets",
+      "strike",
+      "deadline.html"
     ]
   },
-  "KEN": {
-    "risk_score": 3.72,
+  "ISR": {
+    "risk_score": 8.94,
+    "count": 11,
+    "top_news": "https://www.israelnationalnews.com/news/422817",
+    "event_codes": {
+      "19": 4,
+      "17": 3,
+      "15": 2,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "422817"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.8,
     "count": 4,
-    "top_news": "https://www.premiumtimesng.com/opinion/858866-igboho-kanu-and-the-heroic-igwe-before-tinubu-by-festus-adedayo.html",
+    "top_news": "https://www.israelnationalnews.com/news/422817",
     "event_codes": {
       "18": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
-      "858866",
-      "igboho",
-      "kanu",
-      "and",
-      "the",
-      "heroic",
-      "igwe",
-      "before",
-      "tinubu",
-      "festus",
-      "adedayo.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/news/report-israeli-forces-detain-over-100-palestinians-beginning-ramadan",
-    "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "report",
-      "israeli",
-      "forces",
-      "detain",
-      "over",
-      "100",
-      "palestinians",
-      "beginning",
-      "ramadan"
-    ]
-  },
-  "SSD": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/probe-urged-after-two-mayom-men-allegedly-executed",
-    "event_codes": {
-      "17": 4,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "probe",
-      "urged",
-      "after",
-      "two",
-      "mayom",
-      "men",
-      "allegedly",
-      "executed"
+      "422817"
     ]
   }
 }
