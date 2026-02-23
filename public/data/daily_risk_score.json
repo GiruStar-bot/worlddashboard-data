@@ -1,67 +1,96 @@
 {
-  "ISR": {
-    "risk_score": 9.34,
-    "count": 11,
-    "top_news": "https://www.spectator.com.au/2026/02/whats-wrong-with-zionism-hugh-laurie/",
+  "COL": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.moneycontrol.com/world/two-cartels-two-continents-one-empire-how-el-mencho-and-chapitos-took-over-the-cocaine-trade-article-13840326.html",
     "event_codes": {
-      "17": 9,
-      "18": 2
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "two",
+      "cartels",
+      "two",
+      "continents",
+      "one",
+      "empire",
+      "how",
+      "mencho",
+      "and",
+      "chapitos",
+      "took",
+      "over",
+      "the",
+      "cocaine",
+      "trade",
+      "article",
+      "13840326.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.04,
+    "count": 7,
+    "top_news": "https://www.moneycontrol.com/world/us-confirms-thursday-nuclear-talks-with-iran-amid-rising-tensions-article-13840403.html",
+    "event_codes": {
+      "14": 4,
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "confirms",
+      "thursday",
+      "nuclear",
+      "talks",
+      "with",
+      "iran",
+      "amid",
+      "rising",
+      "tensions",
+      "article",
+      "13840403.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.3,
+    "count": 7,
+    "top_news": "https://www.democracynow.org/2026/2/23/mosab_abu_toha_gaza",
+    "event_codes": {
+      "19": 4,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "whats",
-      "wrong",
-      "with",
-      "zionism",
-      "hugh",
-      "laurie"
-    ]
-  },
-  "KEN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.standardmedia.co.ke/national/article/2001541564/human-rights-crusader-mugambi-kiai-dies-after-battle-with-kidney-failure",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "national",
-      "article",
-      "2001541564",
-      "human",
-      "rights",
-      "crusader",
-      "mugambi",
-      "kiai",
-      "dies",
-      "after",
-      "battle",
-      "with",
-      "kidney",
-      "failure"
+      "mosab",
+      "abu",
+      "toha",
+      "gaza"
     ]
   },
   "NGA": {
-    "risk_score": 3.95,
+    "risk_score": 4.3,
     "count": 5,
-    "top_news": "https://www.opinionnigeria.com/gov-hope-uzodinma-harassment-of-joseph-ottih-and-family-must-stop-by-leo-igwe/",
+    "top_news": "https://www.ctvnews.ca/world/article/armed-group-in-nigeria-kills-38-people-and-abducts-others-during-attack/",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "18": 2,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "gov",
-      "hope",
-      "uzodinma",
-      "harassment",
-      "joseph",
-      "ottih",
+      "world",
+      "article",
+      "armed",
+      "group",
+      "nigeria",
+      "kills",
+      "people",
       "and",
-      "family",
-      "must",
-      "stop",
-      "leo",
-      "igwe"
+      "abducts",
+      "others",
+      "during",
+      "attack"
     ]
   }
 }
