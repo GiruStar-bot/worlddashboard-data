@@ -1,79 +1,111 @@
 {
-  "COL": {
+  "BRA": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.oedigital.com/news/536019-tidewater-to-acquire-wilson-sons-ultratug-offshore-in-500m",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "536019",
+      "tidewater",
+      "acquire",
+      "wilson",
+      "sons",
+      "ultratug",
+      "offshore",
+      "500m"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.82,
+    "count": 5,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/858967-trump-reportedly-considers-initial-strikes-to-compel-iran-into-nuclear-deal.html",
+    "event_codes": {
+      "16": 2,
+      "15": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "858967",
+      "trump",
+      "reportedly",
+      "considers",
+      "initial",
+      "strikes",
+      "compel",
+      "iran",
+      "into",
+      "nuclear",
+      "deal.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.15,
+    "count": 7,
+    "top_news": "https://antonyloewenstein.com/how-canada-keeps-on-deepening-ties-with-israel/",
+    "event_codes": {
+      "19": 4,
+      "14": 2,
+      "17": 1
+    },
+    "keywords": [
+      "how",
+      "canada",
+      "keeps",
+      "deepening",
+      "ties",
+      "with",
+      "israel"
+    ]
+  },
+  "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://hotspotatl.com/6796211/ex-wife-reveals-byron-donalds-ja-fakin-accent/",
+    "top_news": "https://tribune.com.pk/story/2594090/landmine-explosion-in-sudan-kills-nine",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "6796211",
-      "wife",
-      "reveals",
-      "byron",
-      "donalds",
-      "fakin",
-      "accent"
+      "story",
+      "2594090",
+      "landmine",
+      "explosion",
+      "sudan",
+      "kills",
+      "nine"
     ]
   },
-  "IRN": {
-    "risk_score": 5.42,
-    "count": 7,
-    "top_news": "https://www.israelnationalnews.com/news/422822",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.smh.com.au/world/middle-east/trump-considers-much-bigger-attack-on-iran-as-part-of-two-pronged-war-if-diplomacy-fails-20260223-p5o4nc.html",
     "event_codes": {
-      "14": 2,
-      "16": 2,
-      "19": 2,
-      "15": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "422822"
-    ]
-  },
-  "ISR": {
-    "risk_score": 26.81,
-    "count": 31,
-    "top_news": "https://imemc.org/article/gaza-woman-killed-child-dies-after-blocked-medical-transfer/",
-    "event_codes": {
-      "19": 13,
-      "17": 5,
-      "18": 5,
-      "20": 3,
-      "15": 2,
-      "16": 2,
-      "14": 1
-    },
-    "keywords": [
-      "article",
-      "gaza",
-      "woman",
-      "killed",
-      "child",
-      "dies",
-      "after",
-      "blocked",
-      "medical",
-      "transfer"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.14,
-    "count": 3,
-    "top_news": "https://imemc.org/article/west-bank-invasions-eight-abducted-including-children/",
-    "event_codes": {
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
-      "article",
-      "west",
-      "bank",
-      "invasions",
-      "eight",
-      "abducted",
-      "including",
-      "children"
+      "world",
+      "middle",
+      "east",
+      "trump",
+      "considers",
+      "much",
+      "bigger",
+      "attack",
+      "iran",
+      "part",
+      "two",
+      "pronged",
+      "war",
+      "diplomacy",
+      "fails",
+      "20260223",
+      "p5o4nc.html"
     ]
   }
 }
