@@ -1,75 +1,79 @@
 {
   "IRN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.insightnews.com/news/iran-us-nuclear-talks-may-fail-due-to-both-nations-red-lines-but-that-doesn/article_f844bd38-698e-43cb-8a09-577cc2cc12d9.html",
+    "risk_score": 5.72,
+    "count": 6,
+    "top_news": "https://www.foxnews.com/opinion/ayatollahs-arsenal-vs-american-firepower-irans-top-4-threats-how-we-fight-back",
     "event_codes": {
-      "16": 5
+      "19": 5,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "iran",
-      "nuclear",
-      "talks",
-      "may",
-      "fail",
-      "due",
-      "both",
-      "nations",
-      "red",
-      "lines",
-      "but",
-      "that",
-      "doesn",
-      "article",
-      "f844bd38",
-      "698e",
-      "43cb",
-      "8a09",
-      "577cc2cc12d9.html"
+      "opinion",
+      "ayatollahs",
+      "arsenal",
+      "american",
+      "firepower",
+      "irans",
+      "top",
+      "threats",
+      "how",
+      "fight",
+      "back"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/features/2026/2/23/how-modi-broke-down-walls-between-india-israel-at-palestines",
+    "risk_score": 8.86,
+    "count": 10,
+    "top_news": "https://www.middleeasteye.net/news/settlers-torch-and-vandalise-mosque-nablus",
     "event_codes": {
-      "19": 3
+      "17": 4,
+      "18": 4,
+      "19": 2
     },
     "keywords": [
-      "features",
-      "2026",
-      "how",
-      "modi",
-      "broke",
-      "down",
-      "walls",
-      "between",
-      "india",
-      "israel",
-      "palestines"
+      "news",
+      "settlers",
+      "torch",
+      "and",
+      "vandalise",
+      "mosque",
+      "nablus"
     ]
   },
-  "ZWE": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.newzimbabwe.com/we-are-alarmed-zimbabwean-community-in-south-africa-reacts-as-chatunga-mugabe-faces-prosecution/",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/news/settlers-torch-and-vandalise-mosque-nablus",
     "event_codes": {
-      "19": 5,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "are",
-      "alarmed",
-      "zimbabwean",
-      "community",
-      "south",
-      "africa",
-      "reacts",
-      "chatunga",
-      "mugabe",
-      "faces",
-      "prosecution"
+      "news",
+      "settlers",
+      "torch",
+      "and",
+      "vandalise",
+      "mosque",
+      "nablus"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.1,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/news/settlers-torch-and-vandalise-mosque-nablus",
+    "event_codes": {
+      "18": 4,
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "settlers",
+      "torch",
+      "and",
+      "vandalise",
+      "mosque",
+      "nablus"
     ]
   }
 }
