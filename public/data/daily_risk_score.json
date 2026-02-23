@@ -1,37 +1,110 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 3.52,
     "count": 5,
-    "top_news": "https://www.thedailybeast.com/trump-summoned-to-break-up-vicious-maga-fight/",
+    "top_news": "https://salinapost.com/posts/0348c08c-42bc-4dd3-9592-5d6d3d47cfc3",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "16": 2,
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "trump",
-      "summoned",
-      "break",
-      "vicious",
-      "maga",
-      "fight"
+      "posts",
+      "0348c08c",
+      "42bc",
+      "4dd3",
+      "9592",
+      "5d6d3d47cfc3"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thedailybeast.com/trumps-new-make-up-experiment-leaves-hand-looking-spackled/",
+  "ISR": {
+    "risk_score": 23.89,
+    "count": 27,
+    "top_news": "https://imemc.org/article/soldiers-shoot-a-palestinian-near-bethlehem-4/",
     "event_codes": {
-      "19": 2
+      "19": 14,
+      "15": 4,
+      "17": 4,
+      "18": 3,
+      "16": 2
     },
     "keywords": [
-      "trumps",
-      "new",
-      "make",
-      "experiment",
-      "leaves",
-      "hand",
-      "looking",
-      "spackled"
+      "article",
+      "soldiers",
+      "shoot",
+      "palestinian",
+      "near",
+      "bethlehem"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.channelstv.com/2026/02/23/tinubu-asks-govs-to-remember-the-poor-empower-underprivileged/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "tinubu",
+      "asks",
+      "govs",
+      "remember",
+      "the",
+      "poor",
+      "empower",
+      "underprivileged"
+    ]
+  },
+  "PSE": {
+    "risk_score": 27.53,
+    "count": 31,
+    "top_news": "https://www.haaretz.com/israel-news/2026-02-24/ty-article/.premium/palestinians-soldiers-looked-on-as-settlers-shot-three-killed-teen/0000019c-8c49-d930-ad9f-fcfdfffc0000",
+    "event_codes": {
+      "18": 14,
+      "19": 9,
+      "17": 5,
+      "15": 3
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "2026",
+      "article",
+      ".premium",
+      "palestinians",
+      "soldiers",
+      "looked",
+      "settlers",
+      "shot",
+      "three",
+      "killed",
+      "teen",
+      "0000019c",
+      "8c49",
+      "d930",
+      "ad9f",
+      "fcfdfffc0000"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://africa.com/chad-shuts-sudan-border-after-deadly-rsf-attack/",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "chad",
+      "shuts",
+      "sudan",
+      "border",
+      "after",
+      "deadly",
+      "rsf",
+      "attack"
     ]
   }
 }
