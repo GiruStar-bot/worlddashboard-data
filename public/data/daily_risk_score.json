@@ -1,35 +1,115 @@
 {
-  "COL": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.mauinews.com/wire/?category=5187&ID=386294",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "wire"
-    ]
-  },
   "IRN": {
-    "risk_score": 14.95,
-    "count": 21,
-    "top_news": "https://www.hrw.org/news/2026/02/24/iran-tsunami-of-arbitrary-arrests-enforced-disappearances",
+    "risk_score": 5.2,
+    "count": 7,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-february-24-2026/",
     "event_codes": {
-      "17": 12,
-      "14": 3,
-      "18": 3,
-      "19": 3
+      "14": 2,
+      "16": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
       "news",
-      "2026",
       "iran",
-      "tsunami",
-      "arbitrary",
-      "arrests",
-      "enforced",
-      "disappearances"
+      "news",
+      "brief",
+      "news",
+      "iran",
+      "news",
+      "brief",
+      "february",
+      "2026"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://globalvoices.org/2026/02/24/nearly-200-people-massacred-by-gunmen-in-kaiama-lga-nigeria/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "nearly",
+      "200",
+      "people",
+      "massacred",
+      "gunmen",
+      "kaiama",
+      "lga",
+      "nigeria"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.45,
+    "count": 11,
+    "top_news": "https://globalvoices.org/2026/02/24/nearly-200-people-massacred-by-gunmen-in-kaiama-lga-nigeria/",
+    "event_codes": {
+      "19": 6,
+      "14": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "nearly",
+      "200",
+      "people",
+      "massacred",
+      "gunmen",
+      "kaiama",
+      "lga",
+      "nigeria"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.12,
+    "count": 4,
+    "top_news": "https://www.irishtimes.com/world/2026/02/24/suffering-spreads-in-somalia-amid-falling-aid-and-growing-interest-in-its-natural-wealth/",
+    "event_codes": {
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "suffering",
+      "spreads",
+      "somalia",
+      "amid",
+      "falling",
+      "aid",
+      "and",
+      "growing",
+      "interest",
+      "its",
+      "natural",
+      "wealth"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.timeslive.co.za/news/africa/2026-02-24-watch-chad-closes-border-with-sudan-after-clashes-kill-five-soldiers/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "africa",
+      "2026",
+      "watch",
+      "chad",
+      "closes",
+      "border",
+      "with",
+      "sudan",
+      "after",
+      "clashes",
+      "kill",
+      "five",
+      "soldiers"
     ]
   }
 }
