@@ -1,85 +1,133 @@
 {
-  "BRA": {
+  "IRN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.middleeastmonitor.com/20260224-israel-had-zero-national-evacuation-plans-after-gaza-war-outbreak-state-comptroller-finds/",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "20260224",
+      "israel",
+      "had",
+      "zero",
+      "national",
+      "evacuation",
+      "plans",
+      "after",
+      "gaza",
+      "war",
+      "outbreak",
+      "state",
+      "comptroller",
+      "finds"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.12,
+    "count": 14,
+    "top_news": "https://thenorthlines.com/northern-army-commander-visits-kishtwar-commends-troops-after-3-jem-terrorists-killed/",
+    "event_codes": {
+      "19": 7,
+      "16": 4,
+      "15": 1,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "northern",
+      "army",
+      "commander",
+      "visits",
+      "kishtwar",
+      "commends",
+      "troops",
+      "after",
+      "jem",
+      "terrorists",
+      "killed"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://www.opinionnigeria.com/demolition-and-the-mirror-of-makoko-by-dr-austin-orette/",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "demolition",
+      "and",
+      "the",
+      "mirror",
+      "makoko",
+      "austin",
+      "orette"
+    ]
+  },
+  "SOM": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/brazil-supreme-court-begins-trial-174210198.html",
+    "top_news": "https://mareeg.com/nisa-says-23-militants-killed-in-air-raids/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "news",
-      "articles",
-      "brazil",
-      "supreme",
-      "court",
-      "begins",
-      "trial",
-      "174210198.html"
+      "nisa",
+      "says",
+      "militants",
+      "killed",
+      "air",
+      "raids"
     ]
   },
-  "IRN": {
-    "risk_score": 5.04,
-    "count": 6,
-    "top_news": "https://www.zerohedge.com/energy/iran-ready-any-step-achieve-us-deal-oil-slides-ahead-trump-sotu",
+  "SYR": {
+    "risk_score": 10.65,
+    "count": 13,
+    "top_news": "https://www.algemeiner.com/2026/02/24/eu-memo-raises-security-concerns-mass-escape-islamic-state-linked-syria-camp/",
     "event_codes": {
-      "16": 3,
-      "17": 2,
+      "19": 8,
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "memo",
+      "raises",
+      "security",
+      "concerns",
+      "mass",
+      "escape",
+      "islamic",
+      "state",
+      "linked",
+      "syria",
+      "camp"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://timesofmalta.com/article/spiteri-debono-highlight-role-foreign-workers-honorary-consul-meeting.1124578",
+    "event_codes": {
+      "16": 2,
+      "14": 1,
       "19": 1
     },
     "keywords": [
-      "energy",
-      "iran",
-      "ready",
-      "any",
-      "step",
-      "achieve",
-      "deal",
-      "oil",
-      "slides",
-      "ahead",
-      "trump",
-      "sotu"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.antiwar.com/blog/2026/02/24/huckabee-accused-of-inciting-murder-after-israeli-settlers-kill-palestinian-american-teen/",
-    "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "blog",
-      "2026",
-      "huckabee",
-      "accused",
-      "inciting",
-      "murder",
-      "after",
-      "israeli",
-      "settlers",
-      "kill",
-      "palestinian",
-      "american",
-      "teen"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.6,
-    "count": 11,
-    "top_news": "https://www.nigerianeye.com/2026/02/breaking-peter-obi-escapes.html",
-    "event_codes": {
-      "16": 5,
-      "18": 4,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "breaking",
-      "peter",
-      "obi",
-      "escapes.html"
+      "article",
+      "spiteri",
+      "debono",
+      "highlight",
+      "role",
+      "foreign",
+      "workers",
+      "honorary",
+      "consul",
+      "meeting.1124578"
     ]
   }
 }
