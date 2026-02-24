@@ -1,115 +1,40 @@
 {
   "IRN": {
-    "risk_score": 5.2,
-    "count": 7,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-february-24-2026/",
+    "risk_score": 3.55,
+    "count": 4,
+    "top_news": "https://www.ariananews.af/iran-offers-to-mediate-as-tensions-between-afghanistan-and-pakistan-escalate/",
     "event_codes": {
-      "14": 2,
-      "16": 2,
-      "17": 2,
+      "19": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "news",
       "iran",
-      "news",
-      "brief",
-      "news",
-      "iran",
-      "news",
-      "brief",
-      "february",
-      "2026"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://globalvoices.org/2026/02/24/nearly-200-people-massacred-by-gunmen-in-kaiama-lga-nigeria/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "nearly",
-      "200",
-      "people",
-      "massacred",
-      "gunmen",
-      "kaiama",
-      "lga",
-      "nigeria"
+      "offers",
+      "mediate",
+      "tensions",
+      "between",
+      "afghanistan",
+      "and",
+      "pakistan",
+      "escalate"
     ]
   },
   "NGA": {
-    "risk_score": 9.45,
-    "count": 11,
-    "top_news": "https://globalvoices.org/2026/02/24/nearly-200-people-massacred-by-gunmen-in-kaiama-lga-nigeria/",
-    "event_codes": {
-      "19": 6,
-      "14": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "nearly",
-      "200",
-      "people",
-      "massacred",
-      "gunmen",
-      "kaiama",
-      "lga",
-      "nigeria"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.12,
-    "count": 4,
-    "top_news": "https://www.irishtimes.com/world/2026/02/24/suffering-spreads-in-somalia-amid-falling-aid-and-growing-interest-in-its-natural-wealth/",
-    "event_codes": {
-      "16": 2,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "suffering",
-      "spreads",
-      "somalia",
-      "amid",
-      "falling",
-      "aid",
-      "and",
-      "growing",
-      "interest",
-      "its",
-      "natural",
-      "wealth"
-    ]
-  },
-  "TCD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.timeslive.co.za/news/africa/2026-02-24-watch-chad-closes-border-with-sudan-after-clashes-kill-five-soldiers/",
+    "top_news": "https://quicknews-africa.net/nigerians-in-south-africa-one-death-too-many/",
     "event_codes": {
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "news",
+      "nigerians",
+      "south",
       "africa",
-      "2026",
-      "watch",
-      "chad",
-      "closes",
-      "border",
-      "with",
-      "sudan",
-      "after",
-      "clashes",
-      "kill",
-      "five",
-      "soldiers"
+      "one",
+      "death",
+      "too",
+      "many"
     ]
   }
 }
