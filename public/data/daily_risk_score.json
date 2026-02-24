@@ -1,49 +1,148 @@
 {
-  "ISR": {
-    "risk_score": 7.82,
-    "count": 10,
-    "top_news": "https://www.navalnews.com/naval-news/2026/02/philippine-navy-commissions-new-patrol-vessel-missile-boat/",
+  "IRN": {
+    "risk_score": 2.42,
+    "count": 3,
+    "top_news": "https://honestreporting.com/the-looming-hezbollah-threat-across-israels-northern-border/",
     "event_codes": {
-      "17": 7,
-      "16": 2,
+      "15": 1,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "naval",
-      "news",
+      "the",
+      "looming",
+      "hezbollah",
+      "threat",
+      "across",
+      "israels",
+      "northern",
+      "border"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20260224-several-palestinians-arrested-as-israeli-forces-raid-town-in-occupied-west-bank/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "20260224",
+      "several",
+      "palestinians",
+      "arrested",
+      "israeli",
+      "forces",
+      "raid",
+      "town",
+      "occupied",
+      "west",
+      "bank"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/02/24/iranians-worry-over-american-military-buildup-as-next-last-chance-round-of-talks-with-the-us-nears",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
       "2026",
-      "philippine",
-      "navy",
-      "commissions",
-      "new",
-      "patrol",
-      "vessel",
-      "missile",
-      "boat"
+      "iranians",
+      "worry",
+      "over",
+      "american",
+      "military",
+      "buildup",
+      "next",
+      "last",
+      "chance",
+      "round",
+      "talks",
+      "with",
+      "the",
+      "nears"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.wsaz.com/2026/02/24/this-day-history-22426/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "this",
+      "day",
+      "history",
+      "22426"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.middleeastmonitor.com/20260224-several-palestinians-arrested-as-israeli-forces-raid-town-in-occupied-west-bank/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "20260224",
+      "several",
+      "palestinians",
+      "arrested",
+      "israeli",
+      "forces",
+      "raid",
+      "town",
+      "occupied",
+      "west",
+      "bank"
     ]
   },
   "SDN": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.aa.com.tr/en/africa/sudanese-rights-group-accuses-rsf-of-carrying-out-deadly-attack-in-north-darfur-village/3838656",
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.aa.com.tr/en/africa/un-warns-of-famine-risk-in-sudan-s-dilling-amid-attacks-on-aid-convoys/3838989",
     "event_codes": {
-      "19": 5
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "africa",
-      "sudanese",
-      "rights",
-      "group",
-      "accuses",
-      "rsf",
-      "carrying",
-      "out",
-      "deadly",
-      "attack",
-      "north",
-      "darfur",
-      "village",
-      "3838656"
+      "warns",
+      "famine",
+      "risk",
+      "sudan",
+      "dilling",
+      "amid",
+      "attacks",
+      "aid",
+      "convoys",
+      "3838989"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.dw.com/en/security-fears-linger-as-kenya-set-to-open-somalia-border/a-76100159",
+    "event_codes": {
+      "19": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "security",
+      "fears",
+      "linger",
+      "kenya",
+      "set",
+      "open",
+      "somalia",
+      "border",
+      "76100159"
     ]
   }
 }
