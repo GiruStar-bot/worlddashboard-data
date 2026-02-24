@@ -1,27 +1,44 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.iraqsun.com/news/278885137/six-new-york-army-national-guard-soldiers-receive-french-medal-for-actions-in-iraq",
+  "IRN": {
+    "risk_score": 3.16,
+    "count": 5,
+    "top_news": "https://nypost.com/2026/02/24/world-news/iran-to-buy-supersonic-anti-ship-missiles-from-china-report/",
     "event_codes": {
-      "19": 2
+      "15": 3,
+      "17": 2
     },
     "keywords": [
+      "2026",
+      "world",
       "news",
-      "278885137",
-      "six",
-      "new",
-      "york",
-      "army",
-      "national",
-      "guard",
-      "soldiers",
-      "receive",
-      "french",
-      "medal",
-      "for",
-      "actions",
-      "iraq"
+      "iran",
+      "buy",
+      "supersonic",
+      "anti",
+      "ship",
+      "missiles",
+      "from",
+      "china",
+      "report"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.gazetaexpress.com/en/Netanyahu-warns-Iran-if-it-attacks--we-will-respond-with-unimaginable-force/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "netanyahu",
+      "warns",
+      "iran",
+      "attacks",
+      "will",
+      "respond",
+      "with",
+      "unimaginable",
+      "force"
     ]
   }
 }
