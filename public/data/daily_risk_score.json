@@ -1,24 +1,92 @@
 {
-  "ISR": {
-    "risk_score": 2.81,
-    "count": 4,
-    "top_news": "https://www.azernews.az/region/254924.html",
+  "IRN": {
+    "risk_score": 4.62,
+    "count": 5,
+    "top_news": "https://www.foxnews.com/politics/biggest-omissions-trumps-state-union-why-matter-2026",
     "event_codes": {
-      "15": 3,
-      "14": 1
+      "19": 3,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
-      "region",
-      "254924.html"
+      "politics",
+      "biggest",
+      "omissions",
+      "trumps",
+      "state",
+      "union",
+      "why",
+      "matter",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.brisbanetimes.com.au/politics/federal/burke-under-pressure-to-bar-israeli-journalist-who-would-fan-the-flames-of-racism-20260225-p5o5ch.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "politics",
+      "federal",
+      "burke",
+      "under",
+      "pressure",
+      "bar",
+      "israeli",
+      "journalist",
+      "who",
+      "would",
+      "fan",
+      "the",
+      "flames",
+      "racism",
+      "20260225",
+      "p5o5ch.html"
     ]
   },
   "NGA": {
-    "risk_score": 4.76,
-    "count": 7,
-    "top_news": "https://pidgin.informationng.com/?p=34015",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/business/business-news/859668-us-court-sentences-ex-nnpc-official-to-87-months-over-2-1m-oil-bribery-scandal.html",
     "event_codes": {
-      "17": 7
+      "17": 4
     },
-    "keywords": []
+    "keywords": [
+      "business",
+      "business",
+      "news",
+      "859668",
+      "court",
+      "sentences",
+      "nnpc",
+      "official",
+      "months",
+      "over",
+      "oil",
+      "bribery",
+      "scandal.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/balancing-act-top-general-tries-170317439.html",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "balancing",
+      "act",
+      "top",
+      "general",
+      "tries",
+      "170317439.html"
+    ]
   }
 }
