@@ -1,92 +1,161 @@
 {
-  "IRN": {
-    "risk_score": 4.62,
-    "count": 5,
-    "top_news": "https://www.foxnews.com/politics/biggest-omissions-trumps-state-union-why-matter-2026",
+  "IDN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.foxnews.com/us/american-released-from-indonesia-jail-after-serving-11-years-suitcase-murder-us-case-looms",
     "event_codes": {
-      "19": 3,
-      "15": 1,
-      "18": 1
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "politics",
-      "biggest",
-      "omissions",
-      "trumps",
-      "state",
-      "union",
-      "why",
-      "matter",
-      "2026"
+      "american",
+      "released",
+      "from",
+      "indonesia",
+      "jail",
+      "after",
+      "serving",
+      "years",
+      "suitcase",
+      "murder",
+      "case",
+      "looms"
+    ]
+  },
+  "IRN": {
+    "risk_score": 17.4,
+    "count": 20,
+    "top_news": "https://www.algemeiner.com/2026/02/25/the-girl-in-the-red-jacket-a-testimony-from-inside-iran/",
+    "event_codes": {
+      "19": 11,
+      "18": 5,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "girl",
+      "the",
+      "red",
+      "jacket",
+      "testimony",
+      "from",
+      "inside",
+      "iran"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.algemeiner.com/2026/02/25/the-girl-in-the-red-jacket-a-testimony-from-inside-iran/",
+    "event_codes": {
+      "19": 13
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "girl",
+      "the",
+      "red",
+      "jacket",
+      "testimony",
+      "from",
+      "inside",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.brisbanetimes.com.au/politics/federal/burke-under-pressure-to-bar-israeli-journalist-who-would-fan-the-flames-of-racism-20260225-p5o5ch.html",
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://www.algemeiner.com/2026/02/25/what-you-havent-heard-about-the-looming-hezbollah-threat-across-israels-northern-border/",
     "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
-      "politics",
-      "federal",
-      "burke",
-      "under",
-      "pressure",
-      "bar",
-      "israeli",
-      "journalist",
-      "who",
-      "would",
-      "fan",
+      "2026",
+      "what",
+      "you",
+      "havent",
+      "heard",
+      "about",
       "the",
-      "flames",
-      "racism",
+      "looming",
+      "hezbollah",
+      "threat",
+      "across",
+      "israels",
+      "northern",
+      "border"
+    ]
+  },
+  "KHM": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://dissidentvoice.org/2026/02/the-insecurity-of-the-munich-security-conference/",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "insecurity",
+      "the",
+      "munich",
+      "security",
+      "conference"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.middleeastmonitor.com/20260225-israeli-occupation-forces-close-entrances-to-bethlehem-raid-al-dawha/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
       "20260225",
-      "p5o5ch.html"
+      "israeli",
+      "occupation",
+      "forces",
+      "close",
+      "entrances",
+      "bethlehem",
+      "raid",
+      "dawha"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
+  "SDN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://dissidentvoice.org/2026/02/the-insecurity-of-the-munich-security-conference/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "insecurity",
+      "the",
+      "munich",
+      "security",
+      "conference"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.5,
     "count": 4,
-    "top_news": "https://www.premiumtimesng.com/business/business-news/859668-us-court-sentences-ex-nnpc-official-to-87-months-over-2-1m-oil-bribery-scandal.html",
+    "top_news": "https://www.rawstory.com/trump-2675331958/",
     "event_codes": {
-      "17": 4
+      "17": 3,
+      "20": 1
     },
     "keywords": [
-      "business",
-      "business",
-      "news",
-      "859668",
-      "court",
-      "sentences",
-      "nnpc",
-      "official",
-      "months",
-      "over",
-      "oil",
-      "bribery",
-      "scandal.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/balancing-act-top-general-tries-170317439.html",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "balancing",
-      "act",
-      "top",
-      "general",
-      "tries",
-      "170317439.html"
+      "trump",
+      "2675331958"
     ]
   }
 }
