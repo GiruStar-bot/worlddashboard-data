@@ -1,111 +1,112 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thexboxhub.com/borderlands-4-legend-of-the-stone-demon-bounty-pack-unleashes-new-bosses-loot-and-pearlescent-gear/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "borderlands",
-      "legend",
-      "the",
-      "stone",
-      "demon",
-      "bounty",
-      "pack",
-      "unleashes",
-      "new",
-      "bosses",
-      "loot",
-      "and",
-      "pearlescent",
-      "gear"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.washingtonexaminer.com/news/senate/4473178/john-thune-backs-regime-change-trump-iran-strike/",
+    "risk_score": 13.59,
+    "count": 17,
+    "top_news": "https://www.albawaba.com/news/fire-breaks-out-polymer-plant-iran%E2%80%99s-1622933",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "16": 6,
+      "19": 6,
+      "14": 3,
+      "15": 2
     },
     "keywords": [
       "news",
-      "senate",
-      "4473178",
-      "john",
-      "thune",
-      "backs",
-      "regime",
-      "change",
-      "trump",
-      "iran",
-      "strike"
+      "fire",
+      "breaks",
+      "out",
+      "polymer",
+      "plant",
+      "iran%e2%80%99s",
+      "1622933"
     ]
   },
   "ISR": {
-    "risk_score": 14.52,
-    "count": 17,
-    "top_news": "https://honestreporting.com/terrorists-propagandists-the-not-so-independent-journalists-included-in-the-cpjs-annual-report/",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/news/423057",
     "event_codes": {
-      "19": 12,
-      "17": 3,
-      "15": 1,
-      "16": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "terrorists",
-      "propagandists",
-      "the",
-      "not",
-      "independent",
-      "journalists",
-      "included",
-      "the",
-      "cpjs",
-      "annual",
-      "report"
+      "news",
+      "423057"
+    ]
+  },
+  "NER": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/islamist-militant-attacks-niger-benin-000205481.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "islamist",
+      "militant",
+      "attacks",
+      "niger",
+      "benin",
+      "000205481.html"
     ]
   },
   "NGA": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://punchng.com/mutfwang-visits-attacked-plateau-communities-vows-justice/",
+    "risk_score": 6.52,
+    "count": 9,
+    "top_news": "https://blueprint.ng/cupp-condemns-attack-on-peter-obi-in-edo/",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "17": 4,
+      "14": 2,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "mutfwang",
-      "visits",
-      "attacked",
-      "plateau",
-      "communities",
-      "vows",
-      "justice"
+      "cupp",
+      "condemns",
+      "attack",
+      "peter",
+      "obi",
+      "edo"
     ]
   },
-  "YEM": {
+  "VEN": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://honestreporting.com/terrorists-propagandists-the-not-so-independent-journalists-included-in-the-cpjs-annual-report/",
+    "count": 4,
+    "top_news": "https://buenosairesherald.com/society/nahuel-gallo-gendarme-detained-in-venezuela-calls-partner-from-prison",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
-      "terrorists",
-      "propagandists",
-      "the",
-      "not",
-      "independent",
-      "journalists",
-      "included",
-      "the",
-      "cpjs",
-      "annual",
-      "report"
+      "society",
+      "nahuel",
+      "gallo",
+      "gendarme",
+      "detained",
+      "venezuela",
+      "calls",
+      "partner",
+      "from",
+      "prison"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thezimbabwemail.com/mliswa-alleges-assassination-plot-linked-to-chiwenga-and-military-officials/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "mliswa",
+      "alleges",
+      "assassination",
+      "plot",
+      "linked",
+      "chiwenga",
+      "and",
+      "military",
+      "officials"
     ]
   }
 }
