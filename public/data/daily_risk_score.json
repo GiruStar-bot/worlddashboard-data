@@ -1,103 +1,95 @@
 {
   "IRN": {
-    "risk_score": 4.49,
-    "count": 6,
-    "top_news": "https://www.zerohedge.com/energy/iran-rushes-load-oil-ships-anticipation-us-strikes",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.ynetnews.com/article/b1hysm000bl",
     "event_codes": {
-      "15": 2,
-      "17": 2,
-      "14": 1,
-      "19": 1
+      "19": 9
     },
     "keywords": [
-      "energy",
-      "iran",
-      "rushes",
-      "load",
-      "oil",
-      "ships",
-      "anticipation",
-      "strikes"
+      "article",
+      "b1hysm000bl"
     ]
   },
   "ISR": {
-    "risk_score": 11.6,
-    "count": 15,
-    "top_news": "https://www.yahoo.com/news/articles/uss-gerald-r-ford-imminent-215605239.html",
+    "risk_score": 23.38,
+    "count": 28,
+    "top_news": "https://www.ynetnews.com/article/b1hysm000bl",
     "event_codes": {
-      "17": 7,
-      "19": 6,
-      "16": 1,
-      "18": 1
+      "17": 12,
+      "19": 8,
+      "18": 4,
+      "14": 3,
+      "16": 1
+    },
+    "keywords": [
+      "article",
+      "b1hysm000bl"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.russiaherald.com/news/278890867/record-breaking-129-journalists-killed-in-2025",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "news",
-      "articles",
-      "uss",
-      "gerald",
-      "ford",
-      "imminent",
-      "215605239.html"
+      "278890867",
+      "record",
+      "breaking",
+      "129",
+      "journalists",
+      "killed",
+      "2025"
     ]
   },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 8,
-    "top_news": "https://redstate.com/bobhoge/2026/02/26/congressional-report-requested-by-trump-nigeria-is-the-deadliest-place-in-the-world-to-be-a-christian-n2199616",
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thetimes.com/culture/tv-radio/article/hostage-john-cantlie-last-man-standing-podcast-qxw8gw7m0",
     "event_codes": {
-      "17": 7,
-      "19": 1
-    },
-    "keywords": [
-      "bobhoge",
-      "2026",
-      "congressional",
-      "report",
-      "requested",
-      "trump",
-      "nigeria",
-      "the",
-      "deadliest",
-      "place",
-      "the",
-      "world",
-      "christian",
-      "n2199616"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 7,
-    "top_news": "https://english.wafa.ps/Pages/Details/167801",
-    "event_codes": {
-      "17": 4,
       "19": 3
     },
     "keywords": [
-      "pages",
-      "details",
-      "167801"
+      "culture",
+      "radio",
+      "article",
+      "hostage",
+      "john",
+      "cantlie",
+      "last",
+      "man",
+      "standing",
+      "podcast",
+      "qxw8gw7m0"
     ]
   },
   "VEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.cbsnews.com/news/american-among-those-killed-speedboat-cuban-waters-white-house-confirms/",
+    "risk_score": 4.0,
+    "count": 7,
+    "top_news": "https://www.ksat.com/news/world/2026/02/26/cuba-says-troops-killed-4-after-an-armed-speedboat-opened-fire-near-the-island/",
     "event_codes": {
-      "19": 3
+      "17": 6,
+      "19": 1
     },
     "keywords": [
       "news",
-      "american",
-      "among",
-      "those",
+      "world",
+      "2026",
+      "cuba",
+      "says",
+      "troops",
       "killed",
+      "after",
+      "armed",
       "speedboat",
-      "cuban",
-      "waters",
-      "white",
-      "house",
-      "confirms"
+      "opened",
+      "fire",
+      "near",
+      "the",
+      "island"
     ]
   }
 }
