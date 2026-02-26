@@ -1,112 +1,103 @@
 {
   "IRN": {
-    "risk_score": 13.59,
-    "count": 17,
-    "top_news": "https://www.albawaba.com/news/fire-breaks-out-polymer-plant-iran%E2%80%99s-1622933",
+    "risk_score": 4.49,
+    "count": 6,
+    "top_news": "https://www.zerohedge.com/energy/iran-rushes-load-oil-ships-anticipation-us-strikes",
     "event_codes": {
-      "16": 6,
-      "19": 6,
-      "14": 3,
-      "15": 2
+      "15": 2,
+      "17": 2,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "fire",
-      "breaks",
-      "out",
-      "polymer",
-      "plant",
-      "iran%e2%80%99s",
-      "1622933"
+      "energy",
+      "iran",
+      "rushes",
+      "load",
+      "oil",
+      "ships",
+      "anticipation",
+      "strikes"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/news/423057",
+    "risk_score": 11.6,
+    "count": 15,
+    "top_news": "https://www.yahoo.com/news/articles/uss-gerald-r-ford-imminent-215605239.html",
     "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "423057"
-    ]
-  },
-  "NER": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/islamist-militant-attacks-niger-benin-000205481.html",
-    "event_codes": {
-      "19": 5
+      "17": 7,
+      "19": 6,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
       "news",
       "articles",
-      "islamist",
-      "militant",
-      "attacks",
-      "niger",
-      "benin",
-      "000205481.html"
+      "uss",
+      "gerald",
+      "ford",
+      "imminent",
+      "215605239.html"
     ]
   },
   "NGA": {
-    "risk_score": 6.52,
-    "count": 9,
-    "top_news": "https://blueprint.ng/cupp-condemns-attack-on-peter-obi-in-edo/",
+    "risk_score": 4.5,
+    "count": 8,
+    "top_news": "https://redstate.com/bobhoge/2026/02/26/congressional-report-requested-by-trump-nigeria-is-the-deadliest-place-in-the-world-to-be-a-christian-n2199616",
     "event_codes": {
-      "17": 4,
-      "14": 2,
-      "18": 2,
+      "17": 7,
       "19": 1
     },
     "keywords": [
-      "cupp",
-      "condemns",
-      "attack",
-      "peter",
-      "obi",
-      "edo"
+      "bobhoge",
+      "2026",
+      "congressional",
+      "report",
+      "requested",
+      "trump",
+      "nigeria",
+      "the",
+      "deadliest",
+      "place",
+      "the",
+      "world",
+      "christian",
+      "n2199616"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/167801",
+    "event_codes": {
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "167801"
     ]
   },
   "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://buenosairesherald.com/society/nahuel-gallo-gendarme-detained-in-venezuela-calls-partner-from-prison",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.cbsnews.com/news/american-among-those-killed-speedboat-cuban-waters-white-house-confirms/",
     "event_codes": {
-      "17": 4
+      "19": 3
     },
     "keywords": [
-      "society",
-      "nahuel",
-      "gallo",
-      "gendarme",
-      "detained",
-      "venezuela",
-      "calls",
-      "partner",
-      "from",
-      "prison"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://thezimbabwemail.com/mliswa-alleges-assassination-plot-linked-to-chiwenga-and-military-officials/",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "mliswa",
-      "alleges",
-      "assassination",
-      "plot",
-      "linked",
-      "chiwenga",
-      "and",
-      "military",
-      "officials"
+      "news",
+      "american",
+      "among",
+      "those",
+      "killed",
+      "speedboat",
+      "cuban",
+      "waters",
+      "white",
+      "house",
+      "confirms"
     ]
   }
 }
