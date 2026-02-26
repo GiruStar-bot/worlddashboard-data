@@ -1,140 +1,118 @@
 {
-  "ETH": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202602260300.html",
+  "ISR": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.marketscreener.com/news/israeli-fire-kills-three-people-in-gaza-as-truce-deal-staggers-ce7e5cd9da8ff626",
     "event_codes": {
-      "17": 3
-    },
-    "keywords": [
-      "stories",
-      "202602260300.html"
-    ]
-  },
-  "IDN": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://news.sky.com/story/american-jailed-over-suitcase-murder-deported-from-bali-13512350",
-    "event_codes": {
-      "17": 4,
+      "18": 2,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "story",
-      "american",
-      "jailed",
-      "over",
-      "suitcase",
-      "murder",
-      "deported",
-      "from",
-      "bali",
-      "13512350"
+      "news",
+      "israeli",
+      "fire",
+      "kills",
+      "three",
+      "people",
+      "gaza",
+      "truce",
+      "deal",
+      "staggers",
+      "ce7e5cd9da8ff626"
     ]
   },
-  "IRN": {
-    "risk_score": 8.72,
-    "count": 9,
-    "top_news": "https://kathmandupost.com/world/2026/02/26/cuba-says-it-killed-4-exiles-wounded-6-others-who-attacked-from-florida-speedboat",
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://punchng.com/apc-blasts-adc-over-edo-shooting-claim-calls-for-probe/",
     "event_codes": {
-      "19": 8,
-      "15": 1
+      "19": 5,
+      "17": 2
     },
     "keywords": [
-      "world",
-      "2026",
-      "cuba",
-      "says",
-      "killed",
-      "exiles",
-      "wounded",
-      "others",
-      "who",
-      "attacked",
-      "from",
-      "florida",
-      "speedboat"
+      "apc",
+      "blasts",
+      "adc",
+      "over",
+      "edo",
+      "shooting",
+      "claim",
+      "calls",
+      "for",
+      "probe"
     ]
   },
-  "ISR": {
+  "SSD": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/did-mike-huckabee-just-green-110000281.html",
+    "top_news": "https://www.okayafrica.com/today-in-africa-feb-26-2026-ukraine-says-1700-africans-fighting-for-russia-un-sanctions-sudans-rsf-commanders-over-el-fasher-atrocities/1410384",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "articles",
-      "did",
-      "mike",
-      "huckabee",
-      "just",
-      "green",
-      "110000281.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.67,
-    "count": 6,
-    "top_news": "https://www.africanews.com/2026/02/26/jihadist-group-militants-increase-attacks-in-nigeria-niger-benin-borderlands/",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
+      "today",
+      "africa",
+      "feb",
       "2026",
-      "jihadist",
-      "group",
-      "militants",
-      "increase",
-      "attacks",
-      "nigeria",
-      "niger",
-      "benin",
-      "borderlands"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://kathmandupost.com/world/2026/02/26/cuba-says-it-killed-4-exiles-wounded-6-others-who-attacked-from-florida-speedboat",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "cuba",
+      "ukraine",
       "says",
-      "killed",
-      "exiles",
-      "wounded",
-      "others",
-      "who",
-      "attacked",
-      "from",
-      "florida",
-      "speedboat"
+      "1700",
+      "africans",
+      "fighting",
+      "for",
+      "russia",
+      "sanctions",
+      "sudans",
+      "rsf",
+      "commanders",
+      "over",
+      "fasher",
+      "atrocities",
+      "1410384"
     ]
   },
-  "VEN": {
-    "risk_score": 2.3,
+  "TUR": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://morningstaronline.co.uk/article/decapitation-failed-venezuela-after-abduction-maduro",
+    "top_news": "https://en.apa.az/asia/turkish-authorities-detain-four-preparing-attack-in-istanbul-493291",
     "event_codes": {
       "18": 2,
       "17": 1
     },
     "keywords": [
+      "asia",
+      "turkish",
+      "authorities",
+      "detain",
+      "four",
+      "preparing",
+      "attack",
+      "istanbul",
+      "493291"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://jamaica-gleaner.com/article/world-news/20260226/maduros-lawyer-says-us-blocking-venezuela-govt-paying-deposed-leaders",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
       "article",
-      "decapitation",
-      "failed",
+      "world",
+      "news",
+      "20260226",
+      "maduros",
+      "lawyer",
+      "says",
+      "blocking",
       "venezuela",
-      "after",
-      "abduction",
-      "maduro"
+      "govt",
+      "paying",
+      "deposed",
+      "leaders"
     ]
   }
 }
