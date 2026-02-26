@@ -1,45 +1,140 @@
 {
-  "EGY": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/news/423020",
+  "ETH": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202602260300.html",
     "event_codes": {
-      "19": 5
+      "17": 3
     },
     "keywords": [
-      "news",
-      "423020"
+      "stories",
+      "202602260300.html"
+    ]
+  },
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://news.sky.com/story/american-jailed-over-suitcase-murder-deported-from-bali-13512350",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "story",
+      "american",
+      "jailed",
+      "over",
+      "suitcase",
+      "murder",
+      "deported",
+      "from",
+      "bali",
+      "13512350"
     ]
   },
   "IRN": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://english.news.cn/northamerica/20260226/36966ccdf42447d9a7aa0f8efc25ed5a/c.html",
+    "risk_score": 8.72,
+    "count": 9,
+    "top_news": "https://kathmandupost.com/world/2026/02/26/cuba-says-it-killed-4-exiles-wounded-6-others-who-attacked-from-florida-speedboat",
     "event_codes": {
-      "14": 2,
-      "17": 2,
-      "19": 2,
-      "18": 1
+      "19": 8,
+      "15": 1
     },
     "keywords": [
-      "northamerica",
-      "20260226",
-      "36966ccdf42447d9a7aa0f8efc25ed5a",
-      "c.html"
+      "world",
+      "2026",
+      "cuba",
+      "says",
+      "killed",
+      "exiles",
+      "wounded",
+      "others",
+      "who",
+      "attacked",
+      "from",
+      "florida",
+      "speedboat"
     ]
   },
   "ISR": {
-    "risk_score": 11.8,
-    "count": 13,
-    "top_news": "https://www.israelnationalnews.com/news/423020",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/did-mike-huckabee-just-green-110000281.html",
     "event_codes": {
-      "19": 8,
-      "15": 4,
-      "17": 1
+      "19": 3
     },
     "keywords": [
       "news",
-      "423020"
+      "articles",
+      "did",
+      "mike",
+      "huckabee",
+      "just",
+      "green",
+      "110000281.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.67,
+    "count": 6,
+    "top_news": "https://www.africanews.com/2026/02/26/jihadist-group-militants-increase-attacks-in-nigeria-niger-benin-borderlands/",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "jihadist",
+      "group",
+      "militants",
+      "increase",
+      "attacks",
+      "nigeria",
+      "niger",
+      "benin",
+      "borderlands"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://kathmandupost.com/world/2026/02/26/cuba-says-it-killed-4-exiles-wounded-6-others-who-attacked-from-florida-speedboat",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "cuba",
+      "says",
+      "killed",
+      "exiles",
+      "wounded",
+      "others",
+      "who",
+      "attacked",
+      "from",
+      "florida",
+      "speedboat"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://morningstaronline.co.uk/article/decapitation-failed-venezuela-after-abduction-maduro",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "decapitation",
+      "failed",
+      "venezuela",
+      "after",
+      "abduction",
+      "maduro"
     ]
   }
 }
