@@ -1,90 +1,111 @@
 {
-  "CMR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/news/world/2026/02/27/5-boko-haram-militants-killed-in-repelled-attack-in-cameroon",
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thexboxhub.com/borderlands-4-legend-of-the-stone-demon-bounty-pack-unleashes-new-bosses-loot-and-pearlescent-gear/",
     "event_codes": {
-      "19": 4
+      "19": 3
+    },
+    "keywords": [
+      "borderlands",
+      "legend",
+      "the",
+      "stone",
+      "demon",
+      "bounty",
+      "pack",
+      "unleashes",
+      "new",
+      "bosses",
+      "loot",
+      "and",
+      "pearlescent",
+      "gear"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.washingtonexaminer.com/news/senate/4473178/john-thune-backs-regime-change-trump-iran-strike/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "boko",
-      "haram",
-      "militants",
-      "killed",
-      "repelled",
-      "attack",
-      "cameroon"
+      "senate",
+      "4473178",
+      "john",
+      "thune",
+      "backs",
+      "regime",
+      "change",
+      "trump",
+      "iran",
+      "strike"
     ]
   },
   "ISR": {
-    "risk_score": 7.5,
-    "count": 11,
-    "top_news": "https://english.wafa.ps/Pages/Details/167800",
+    "risk_score": 14.52,
+    "count": 17,
+    "top_news": "https://honestreporting.com/terrorists-propagandists-the-not-so-independent-journalists-included-in-the-cpjs-annual-report/",
     "event_codes": {
-      "19": 4,
-      "16": 3,
-      "14": 2,
-      "17": 2
+      "19": 12,
+      "17": 3,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "167800"
+      "terrorists",
+      "propagandists",
+      "the",
+      "not",
+      "independent",
+      "journalists",
+      "included",
+      "the",
+      "cpjs",
+      "annual",
+      "report"
     ]
   },
-  "LBY": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://www.labrujulaverde.com/en/2026/02/why-mussolini-proclaimed-himself-protector-of-islam/",
+  "NGA": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://punchng.com/mutfwang-visits-attacked-plateau-communities-vows-justice/",
     "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
+      "18": 3,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "why",
-      "mussolini",
-      "proclaimed",
-      "himself",
-      "protector",
-      "islam"
+      "mutfwang",
+      "visits",
+      "attacked",
+      "plateau",
+      "communities",
+      "vows",
+      "justice"
     ]
   },
-  "MOZ": {
-    "risk_score": 4.05,
-    "count": 6,
-    "top_news": "https://cajnewsafrica.com/2026/02/26/islamic-state-mozambique-loots-food-during-ramadan/",
-    "event_codes": {
-      "14": 3,
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "islamic",
-      "state",
-      "mozambique",
-      "loots",
-      "food",
-      "during",
-      "ramadan"
-    ]
-  },
-  "PSE": {
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.wafa.ps/Pages/Details/167798",
+    "top_news": "https://honestreporting.com/terrorists-propagandists-the-not-so-independent-journalists-included-in-the-cpjs-annual-report/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "167798"
+      "terrorists",
+      "propagandists",
+      "the",
+      "not",
+      "independent",
+      "journalists",
+      "included",
+      "the",
+      "cpjs",
+      "annual",
+      "report"
     ]
   }
 }
