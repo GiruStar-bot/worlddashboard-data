@@ -1,20 +1,58 @@
 {
   "ISR": {
-    "risk_score": 4.25,
-    "count": 5,
-    "top_news": "https://www.khaama.com/129-journalists-killed-worldwide-in-2025-cpj-reports/",
+    "risk_score": 5.95,
+    "count": 7,
+    "top_news": "https://ummid.com/opinions/asad-mirza/global-silence-means-license-to-israeli-annexation-of-west-bank.html",
     "event_codes": {
-      "18": 4,
-      "14": 1
+      "18": 3,
+      "19": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "129",
-      "journalists",
-      "killed",
-      "worldwide",
-      "2025",
-      "cpj",
-      "reports"
+      "opinions",
+      "asad",
+      "mirza",
+      "global",
+      "silence",
+      "means",
+      "license",
+      "israeli",
+      "annexation",
+      "west",
+      "bank.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202602260108.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "202602260108.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newsday.com/news/nation/un-sudan-rsf-darfur-atrocities-sanctions-paramilitary-n30338",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "sudan",
+      "rsf",
+      "darfur",
+      "atrocities",
+      "sanctions",
+      "paramilitary",
+      "n30338"
     ]
   }
 }
