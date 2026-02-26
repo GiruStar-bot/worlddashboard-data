@@ -1,58 +1,45 @@
 {
-  "ISR": {
-    "risk_score": 5.95,
-    "count": 7,
-    "top_news": "https://ummid.com/opinions/asad-mirza/global-silence-means-license-to-israeli-annexation-of-west-bank.html",
+  "EGY": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/news/423020",
     "event_codes": {
-      "18": 3,
-      "19": 2,
-      "16": 1,
-      "17": 1
+      "19": 5
     },
     "keywords": [
-      "opinions",
-      "asad",
-      "mirza",
-      "global",
-      "silence",
-      "means",
-      "license",
-      "israeli",
-      "annexation",
-      "west",
-      "bank.html"
+      "news",
+      "423020"
     ]
   },
-  "NGA": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202602260108.html",
+  "IRN": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://english.news.cn/northamerica/20260226/36966ccdf42447d9a7aa0f8efc25ed5a/c.html",
     "event_codes": {
+      "14": 2,
+      "17": 2,
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "stories",
-      "202602260108.html"
+      "northamerica",
+      "20260226",
+      "36966ccdf42447d9a7aa0f8efc25ed5a",
+      "c.html"
     ]
   },
-  "SDN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newsday.com/news/nation/un-sudan-rsf-darfur-atrocities-sanctions-paramilitary-n30338",
+  "ISR": {
+    "risk_score": 11.8,
+    "count": 13,
+    "top_news": "https://www.israelnationalnews.com/news/423020",
     "event_codes": {
-      "19": 3
+      "19": 8,
+      "15": 4,
+      "17": 1
     },
     "keywords": [
       "news",
-      "nation",
-      "sudan",
-      "rsf",
-      "darfur",
-      "atrocities",
-      "sanctions",
-      "paramilitary",
-      "n30338"
+      "423020"
     ]
   }
 }
