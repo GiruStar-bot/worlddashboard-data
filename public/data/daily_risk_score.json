@@ -1,50 +1,86 @@
 {
-  "IRQ": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/02/27/us-envoy-tom-barrack-meets-nouri-al-maliki-and-iraqi-officials-for-government-formation-talks/",
+  "IRN": {
+    "risk_score": 3.06,
+    "count": 5,
+    "top_news": "https://www.firstpost.com/business/after-russia-iran-slash-oil-prices-for-china-as-us-threat-looms-13984497.html",
     "event_codes": {
-      "16": 3
+      "15": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "business",
+      "after",
+      "russia",
+      "iran",
+      "slash",
+      "oil",
+      "prices",
+      "for",
+      "china",
+      "threat",
+      "looms",
+      "13984497.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.72,
+    "count": 5,
+    "top_news": "https://isp.netscape.com/news/world/story/0001/20260227/b3b500844cad617b40d18d4077656689",
+    "event_codes": {
+      "17": 4,
+      "15": 1
     },
     "keywords": [
       "news",
-      "mena",
-      "2026",
-      "envoy",
-      "tom",
-      "barrack",
-      "meets",
-      "nouri",
-      "maliki",
-      "and",
-      "iraqi",
-      "officials",
-      "for",
-      "government",
-      "formation",
-      "talks"
+      "world",
+      "story",
+      "0001",
+      "20260227",
+      "b3b500844cad617b40d18d4077656689"
     ]
   },
-  "MOZ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.rnanews.com/rwanda-defence-force-army-chief-of-staff-begins-his-visit-to-cabo-delgado-in-mozambique/",
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://blueprint.ng/u-s-military-assistance-at-no-cost-nigerias-territorial-integrity-intact-dhq/",
     "event_codes": {
+      "17": 4,
       "19": 2
     },
     "keywords": [
-      "rwanda",
-      "defence",
-      "force",
-      "army",
-      "chief",
-      "staff",
-      "begins",
-      "his",
-      "visit",
-      "cabo",
-      "delgado",
-      "mozambique"
+      "military",
+      "assistance",
+      "cost",
+      "nigerias",
+      "territorial",
+      "integrity",
+      "intact",
+      "dhq"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://northafricapost.com/95139-sudan-over-3000-flee-rsf-attacks-in-north-darfur-as-medical-group-warns-of-imminent-crisis.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "95139",
+      "sudan",
+      "over",
+      "3000",
+      "flee",
+      "rsf",
+      "attacks",
+      "north",
+      "darfur",
+      "medical",
+      "group",
+      "warns",
+      "imminent",
+      "crisis.html"
     ]
   }
 }
