@@ -1,44 +1,63 @@
 {
-  "IDN": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://www.asiasentinel.com/p/transactional-value-trump-board-of-peace",
-    "event_codes": {
-      "15": 5
-    },
-    "keywords": [
-      "transactional",
-      "value",
-      "trump",
-      "board",
-      "peace"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.44,
-    "count": 4,
-    "top_news": "https://www.moneycontrol.com/world/who-is-asif-merchant-pak-national-on-trial-over-alleged-plot-to-assassinate-us-politician-possibly-trump-article-13845461.html",
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.moneycontrol.com/world/trump-and-iran-the-three-paths-in-front-of-the-white-house-article-13845593.html",
     "event_codes": {
-      "15": 2,
-      "18": 2
+      "15": 3
     },
     "keywords": [
       "world",
-      "who",
-      "asif",
-      "merchant",
-      "pak",
-      "national",
-      "trial",
-      "over",
-      "alleged",
-      "plot",
-      "assassinate",
-      "politician",
-      "possibly",
       "trump",
+      "and",
+      "iran",
+      "the",
+      "three",
+      "paths",
+      "front",
+      "the",
+      "white",
+      "house",
       "article",
-      "13845461.html"
+      "13845593.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.3,
+    "count": 8,
+    "top_news": "https://english.wafa.ps/Pages/Details/167805",
+    "event_codes": {
+      "14": 4,
+      "16": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "167805"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://radiodalsan.com/news/301471/banadir-regional-court-warns-against-property-fraud-using-fake-identities",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "301471",
+      "banadir",
+      "regional",
+      "court",
+      "warns",
+      "against",
+      "property",
+      "fraud",
+      "using",
+      "fake",
+      "identities"
     ]
   }
 }
