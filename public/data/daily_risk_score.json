@@ -1,91 +1,104 @@
 {
-  "CHL": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.nydailynews.com/2026/02/27/maga-troll-doesnt-remember-setting-black-womans-boot-afire-midtown-clash/",
+  "BRA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.zerohedge.com/geopolitical/trump-maybe-well-have-friendly-takeover-cuba",
     "event_codes": {
-      "18": 3,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "2026",
-      "maga",
-      "troll",
-      "doesnt",
-      "remember",
-      "setting",
-      "black",
-      "womans",
-      "boot",
-      "afire",
-      "midtown",
-      "clash"
+      "geopolitical",
+      "trump",
+      "maybe",
+      "well",
+      "have",
+      "friendly",
+      "takeover",
+      "cuba"
+    ]
+  },
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.zerohedge.com/geopolitical/trump-maybe-well-have-friendly-takeover-cuba",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "geopolitical",
+      "trump",
+      "maybe",
+      "well",
+      "have",
+      "friendly",
+      "takeover",
+      "cuba"
     ]
   },
   "IRN": {
-    "risk_score": 3.52,
-    "count": 5,
-    "top_news": "https://www.foxnews.com/politics/rubio-designates-iran-over-wrongful-detentions-urges-americans-leave-country-immediately",
+    "risk_score": 4.7,
+    "count": 6,
+    "top_news": "http://www.greekherald.com/news/278892893/european-countries-urge-citizens-to-leave-mideast-as-us-iran-tensions-rise",
     "event_codes": {
+      "18": 2,
       "19": 2,
-      "15": 1,
       "16": 1,
       "17": 1
     },
     "keywords": [
-      "politics",
-      "rubio",
-      "designates",
-      "iran",
-      "over",
-      "wrongful",
-      "detentions",
-      "urges",
-      "americans",
+      "news",
+      "278892893",
+      "european",
+      "countries",
+      "urge",
+      "citizens",
       "leave",
-      "country",
-      "immediately"
+      "mideast",
+      "iran",
+      "tensions",
+      "rise"
     ]
   },
   "ISR": {
-    "risk_score": 2.84,
-    "count": 5,
-    "top_news": "https://www.foxnews.com/politics/rubio-designates-iran-over-wrongful-detentions-urges-americans-leave-country-immediately",
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.foxnews.com/world/un-human-rights-council-chief-cuts-off-speaker-criticizing-us-sanctioned-official",
     "event_codes": {
-      "15": 2,
-      "17": 2,
-      "16": 1
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "politics",
-      "rubio",
-      "designates",
-      "iran",
-      "over",
-      "wrongful",
-      "detentions",
-      "urges",
-      "americans",
-      "leave",
-      "country",
-      "immediately"
+      "world",
+      "human",
+      "rights",
+      "council",
+      "chief",
+      "cuts",
+      "off",
+      "speaker",
+      "criticizing",
+      "sanctioned",
+      "official"
     ]
   },
-  "VEN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/laken-rileys-father-files-1m-214055793.html",
+  "VNM": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://panow.com/2026/02/27/prince-albert-murder-case-results-in-life-sentence/",
     "event_codes": {
-      "19": 5
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "laken",
-      "rileys",
-      "father",
-      "files",
-      "214055793.html"
+      "2026",
+      "prince",
+      "albert",
+      "murder",
+      "case",
+      "results",
+      "life",
+      "sentence"
     ]
   }
 }
