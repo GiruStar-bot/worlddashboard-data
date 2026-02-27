@@ -1,22 +1,58 @@
 {
-  "THA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.mirror.co.uk/news/world-news/moment-tourist-runs-naked-thai-36791027",
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.ynetnews.com/article/b1fmrxjt11g",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "b1fmrxjt11g"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/02/27/lebanon-seeks-information-about-17-citizens-linked-to-isis-who-are-imprisoned-in-syria/",
+    "event_codes": {
+      "17": 5
     },
     "keywords": [
       "news",
-      "world",
-      "news",
-      "moment",
-      "tourist",
-      "runs",
-      "naked",
-      "thai",
-      "36791027"
+      "mena",
+      "2026",
+      "lebanon",
+      "seeks",
+      "information",
+      "about",
+      "citizens",
+      "linked",
+      "isis",
+      "who",
+      "are",
+      "imprisoned",
+      "syria"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.85,
+    "count": 5,
+    "top_news": "https://www.liverpoolecho.co.uk/travel/foreign-office-advises-against-travel-33500978",
+    "event_codes": {
+      "16": 3,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "travel",
+      "foreign",
+      "office",
+      "advises",
+      "against",
+      "travel",
+      "33500978"
     ]
   }
 }
