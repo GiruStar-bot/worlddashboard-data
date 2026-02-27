@@ -1,104 +1,157 @@
 {
-  "BRA": {
+  "IRN": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://tcu360.com/2026/02/27/what-were-reading-hillary-clinton-denies-epstein-knowledge-us-downs-iranian-drone-and-more/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "what",
+      "were",
+      "reading",
+      "hillary",
+      "clinton",
+      "denies",
+      "epstein",
+      "knowledge",
+      "downs",
+      "iranian",
+      "drone",
+      "and",
+      "more"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.65,
+    "count": 10,
+    "top_news": "https://www.brisbanetimes.com.au/world/north-america/trump-says-of-iran-sometimes-you-have-to-use-force-20260228-p5o695.html",
+    "event_codes": {
+      "17": 6,
+      "19": 2,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "north",
+      "america",
+      "trump",
+      "says",
+      "iran",
+      "sometimes",
+      "you",
+      "have",
+      "use",
+      "force",
+      "20260228",
+      "p5o695.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 18.4,
+    "count": 19,
+    "top_news": "https://www.opinionnigeria.com/police-confirm-five-killed-in-terror-attack-on-kebbi-mosque-kidnap-victim-loses-sight-after-six-months-in-captivity-by-abdulazeez-toheeb-olawale/",
+    "event_codes": {
+      "19": 17,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "police",
+      "confirm",
+      "five",
+      "killed",
+      "terror",
+      "attack",
+      "kebbi",
+      "mosque",
+      "kidnap",
+      "victim",
+      "loses",
+      "sight",
+      "after",
+      "six",
+      "months",
+      "captivity",
+      "abdulazeez",
+      "toheeb",
+      "olawale"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://legalinsurrection.com/2026/02/pakistan-declares-war-on-afghanistan-conducts-airstrikes-on-kabul/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "pakistan",
+      "declares",
+      "war",
+      "afghanistan",
+      "conducts",
+      "airstrikes",
+      "kabul"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.zerohedge.com/geopolitical/trump-maybe-well-have-friendly-takeover-cuba",
+    "top_news": "https://theweek.com/world-news/pakistan-afghanistan-war-middle-east-tensions",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "geopolitical",
-      "trump",
-      "maybe",
-      "well",
-      "have",
-      "friendly",
-      "takeover",
-      "cuba"
-    ]
-  },
-  "CHL": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.zerohedge.com/geopolitical/trump-maybe-well-have-friendly-takeover-cuba",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "geopolitical",
-      "trump",
-      "maybe",
-      "well",
-      "have",
-      "friendly",
-      "takeover",
-      "cuba"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.7,
-    "count": 6,
-    "top_news": "http://www.greekherald.com/news/278892893/european-countries-urge-citizens-to-leave-mideast-as-us-iran-tensions-rise",
-    "event_codes": {
-      "18": 2,
-      "19": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
+      "world",
       "news",
-      "278892893",
-      "european",
-      "countries",
-      "urge",
-      "citizens",
-      "leave",
-      "mideast",
-      "iran",
-      "tensions",
-      "rise"
+      "pakistan",
+      "afghanistan",
+      "war",
+      "middle",
+      "east",
+      "tensions"
     ]
   },
-  "ISR": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.foxnews.com/world/un-human-rights-council-chief-cuts-off-speaker-criticizing-us-sanctioned-official",
+  "SYR": {
+    "risk_score": 3.45,
+    "count": 6,
+    "top_news": "https://www.thetimes.com/world/middle-east/article/loubna-mrie-syria-rebellion-defiance-l086b2zbx",
     "event_codes": {
-      "18": 2,
-      "17": 1
+      "14": 3,
+      "17": 3
     },
     "keywords": [
       "world",
-      "human",
-      "rights",
-      "council",
-      "chief",
-      "cuts",
-      "off",
-      "speaker",
-      "criticizing",
-      "sanctioned",
-      "official"
+      "middle",
+      "east",
+      "article",
+      "loubna",
+      "mrie",
+      "syria",
+      "rebellion",
+      "defiance",
+      "l086b2zbx"
     ]
   },
-  "VNM": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://panow.com/2026/02/27/prince-albert-murder-case-results-in-life-sentence/",
+  "ZWE": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262503.html",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 3,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "prince",
-      "albert",
-      "murder",
-      "case",
-      "results",
-      "life",
-      "sentence"
+      "index",
+      "news",
+      "national",
+      "byo",
+      "262503.html"
     ]
   }
 }
