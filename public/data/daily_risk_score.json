@@ -1,97 +1,63 @@
 {
-  "COD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://chimpreports.com/after-ngomas-killing-m23-governor-erasto-urges-youth-to-enlist-says-fight-will-go-on/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "after",
-      "ngomas",
-      "killing",
-      "m23",
-      "governor",
-      "erasto",
-      "urges",
-      "youth",
-      "enlist",
-      "says",
-      "fight",
-      "will"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://tass.com/world/2092955",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "world",
-      "2092955"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.15,
-    "count": 3,
-    "top_news": "https://www.marketscreener.com/news/uk-relocates-some-staff-inside-israel-amid-rising-regional-tensions-ce7e5cdfdd8ff32d",
-    "event_codes": {
-      "14": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "relocates",
-      "some",
-      "staff",
-      "inside",
-      "israel",
-      "amid",
-      "rising",
-      "regional",
-      "tensions",
-      "ce7e5cdfdd8ff32d"
-    ]
-  },
   "ISR": {
-    "risk_score": 5.7,
-    "count": 8,
-    "top_news": "https://www.marketscreener.com/news/uk-relocates-some-staff-inside-israel-amid-rising-regional-tensions-ce7e5cdfdd8ff32d",
+    "risk_score": 13.21,
+    "count": 19,
+    "top_news": "https://www.jpost.com/israel-news/article-888221",
     "event_codes": {
-      "17": 4,
-      "18": 3,
-      "19": 1
+      "14": 6,
+      "16": 5,
+      "19": 4,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "relocates",
-      "some",
-      "staff",
-      "inside",
       "israel",
-      "amid",
-      "rising",
-      "regional",
-      "tensions",
-      "ce7e5cdfdd8ff32d"
+      "news",
+      "article",
+      "888221"
     ]
   },
-  "SAU": {
-    "risk_score": 3.0,
+  "NGA": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.sun-sentinel.com/2026/02/27/pakistan-afghanistan-fighting-explained/",
+    "top_news": "https://www.naijanews.com/2026/02/27/us-providing-military-support-to-nigeria-at-no-cost-dhq/",
     "event_codes": {
-      "19": 3
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "pakistan",
-      "afghanistan",
-      "fighting",
-      "explained"
+      "providing",
+      "military",
+      "support",
+      "nigeria",
+      "cost",
+      "dhq"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/02/27/laken-rileys-father-accuses-georgia-university-system-of-negligence-in-wrongful-death-lawsuit",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "laken",
+      "rileys",
+      "father",
+      "accuses",
+      "georgia",
+      "university",
+      "system",
+      "negligence",
+      "wrongful",
+      "death",
+      "lawsuit"
     ]
   }
 }
