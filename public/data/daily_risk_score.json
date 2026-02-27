@@ -1,100 +1,105 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.rediff.com/news/report/up-economic-offender-arrested-in-dubai/20260227.htm",
+  "IRN": {
+    "risk_score": 11.29,
+    "count": 14,
+    "top_news": "https://www.washingtonexaminer.com/in_focus/4474376/what-trump-should-tell-public-about-iran/",
     "event_codes": {
-      "17": 4
+      "18": 4,
+      "19": 4,
+      "17": 3,
+      "15": 2,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "report",
-      "economic",
-      "offender",
-      "arrested",
-      "dubai",
-      "20260227.htm"
+      "focus",
+      "4474376",
+      "what",
+      "trump",
+      "should",
+      "tell",
+      "public",
+      "about",
+      "iran"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/in_focus/4474376/what-trump-should-tell-public-about-iran/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "focus",
+      "4474376",
+      "what",
+      "trump",
+      "should",
+      "tell",
+      "public",
+      "about",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 11.7,
-    "count": 12,
-    "top_news": "https://grenadachronicle.com/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working/",
-    "event_codes": {
-      "19": 10,
-      "16": 1,
-      "20": 1
-    },
-    "keywords": [
-      "israels",
-      "top",
-      "court",
-      "allows",
-      "aid",
-      "groups",
-      "facing",
-      "gaza",
-      "ban",
-      "continue",
-      "working"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.kcrg.com/2026/02/27/sentencing-delayed-university-iowa-attempted-murder-case/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "sentencing",
-      "delayed",
-      "university",
-      "iowa",
-      "attempted",
-      "murder",
-      "case"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.9,
+    "risk_score": 8.16,
     "count": 9,
-    "top_news": "https://www.nationalaccordnewspaper.com/troops-eliminate-scores-of-terrorists-rescue-over-400-hostages-in-february-operations-dhq/",
+    "top_news": "https://www.wamc.org/news/2026-02-27/sen-murphy-discusses-rebuilding-the-democratic-party-israel-ice-and-more",
     "event_codes": {
-      "17": 8,
+      "19": 5,
+      "15": 3,
       "18": 1
     },
     "keywords": [
-      "troops",
-      "eliminate",
-      "scores",
-      "terrorists",
-      "rescue",
-      "over",
-      "400",
-      "hostages",
-      "february",
-      "operations",
-      "dhq"
+      "news",
+      "2026",
+      "sen",
+      "murphy",
+      "discusses",
+      "rebuilding",
+      "the",
+      "democratic",
+      "party",
+      "israel",
+      "ice",
+      "and",
+      "more"
     ]
   },
-  "SOM": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://mareeg.com/somali-fraud-suspect-arraigned-as-police-hunt-accomplices/",
+  "SDN": {
+    "risk_score": 3.82,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202602270865.html",
     "event_codes": {
-      "17": 7
+      "19": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "somali",
-      "fraud",
-      "suspect",
-      "arraigned",
-      "police",
-      "hunt",
-      "accomplices"
+      "stories",
+      "202602270865.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.15,
+    "count": 4,
+    "top_news": "https://www.latimes.com/b2b/business-partnerships/story/2026-02-27/turkey-5-hair-transplant-clinics-analysis-2026",
+    "event_codes": {
+      "16": 3,
+      "19": 1
+    },
+    "keywords": [
+      "b2b",
+      "business",
+      "partnerships",
+      "story",
+      "2026",
+      "turkey",
+      "hair",
+      "transplant",
+      "clinics",
+      "analysis",
+      "2026"
     ]
   }
 }
