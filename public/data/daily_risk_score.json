@@ -1,53 +1,91 @@
 {
+  "CHL": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.nydailynews.com/2026/02/27/maga-troll-doesnt-remember-setting-black-womans-boot-afire-midtown-clash/",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "maga",
+      "troll",
+      "doesnt",
+      "remember",
+      "setting",
+      "black",
+      "womans",
+      "boot",
+      "afire",
+      "midtown",
+      "clash"
+    ]
+  },
   "IRN": {
-    "risk_score": 3.75,
+    "risk_score": 3.52,
     "count": 5,
-    "top_news": "https://www.newsweek.com/trump-potential-iran-strikes-legal-questions-experts-11595238",
+    "top_news": "https://www.foxnews.com/politics/rubio-designates-iran-over-wrongful-detentions-urges-americans-leave-country-immediately",
     "event_codes": {
-      "14": 2,
       "19": 2,
+      "15": 1,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "trump",
-      "potential",
+      "politics",
+      "rubio",
+      "designates",
       "iran",
-      "strikes",
-      "legal",
-      "questions",
-      "experts",
-      "11595238"
+      "over",
+      "wrongful",
+      "detentions",
+      "urges",
+      "americans",
+      "leave",
+      "country",
+      "immediately"
     ]
   },
-  "NGA": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.kyivpost.com/post/70924",
+  "ISR": {
+    "risk_score": 2.84,
+    "count": 5,
+    "top_news": "https://www.foxnews.com/politics/rubio-designates-iran-over-wrongful-detentions-urges-americans-leave-country-immediately",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "15": 2,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "post",
-      "70924"
+      "politics",
+      "rubio",
+      "designates",
+      "iran",
+      "over",
+      "wrongful",
+      "detentions",
+      "urges",
+      "americans",
+      "leave",
+      "country",
+      "immediately"
     ]
   },
-  "SAU": {
+  "VEN": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/pakistan-afghanistan-open-war-amid-210818177.html",
+    "top_news": "https://www.yahoo.com/news/articles/laken-rileys-father-files-1m-214055793.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
       "news",
       "articles",
-      "pakistan",
-      "afghanistan",
-      "open",
-      "war",
-      "amid",
-      "210818177.html"
+      "laken",
+      "rileys",
+      "father",
+      "files",
+      "214055793.html"
     ]
   }
 }
