@@ -1,63 +1,97 @@
 {
+  "ARG": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://cleantechnica.com/2026/02/26/byd-launches-atto-2-dm-i-in-argentina/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "byd",
+      "launches",
+      "atto",
+      "argentina"
+    ]
+  },
   "IRN": {
-    "risk_score": 2.16,
+    "risk_score": 2.62,
     "count": 3,
-    "top_news": "https://www.moneycontrol.com/world/trump-and-iran-the-three-paths-in-front-of-the-white-house-article-13845593.html",
+    "top_news": "https://www.reflector.com/news/national/pakistan-is-in-open-war-with-afghanistan-after-latest-strikes-defense-minister-says/article_0490d82b-12fd-5812-98cc-75ef55dcaad2.html",
     "event_codes": {
-      "15": 3
-    },
-    "keywords": [
-      "world",
-      "trump",
-      "and",
-      "iran",
-      "the",
-      "three",
-      "paths",
-      "front",
-      "the",
-      "white",
-      "house",
-      "article",
-      "13845593.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.3,
-    "count": 8,
-    "top_news": "https://english.wafa.ps/Pages/Details/167805",
-    "event_codes": {
-      "14": 4,
-      "16": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "167805"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://radiodalsan.com/news/301471/banadir-regional-court-warns-against-property-fraud-using-fake-identities",
-    "event_codes": {
-      "19": 2
+      "19": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "301471",
-      "banadir",
-      "regional",
-      "court",
-      "warns",
-      "against",
-      "property",
-      "fraud",
-      "using",
-      "fake",
-      "identities"
+      "national",
+      "pakistan",
+      "open",
+      "war",
+      "with",
+      "afghanistan",
+      "after",
+      "latest",
+      "strikes",
+      "defense",
+      "minister",
+      "says",
+      "article",
+      "0490d82b",
+      "12fd",
+      "5812",
+      "98cc",
+      "75ef55dcaad2.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.7,
+    "count": 13,
+    "top_news": "https://ktar.com/national-news/a-new-gallup-poll-shows-how-americans-sympathies-have-shifted-in-the-israeli-palestinian-conflict/5828237/",
+    "event_codes": {
+      "19": 9,
+      "17": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "national",
+      "news",
+      "new",
+      "gallup",
+      "poll",
+      "shows",
+      "how",
+      "americans",
+      "sympathies",
+      "have",
+      "shifted",
+      "the",
+      "israeli",
+      "palestinian",
+      "conflict",
+      "5828237"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.perthnow.com.au/news/australian-british-man-dies-after-alleged-assault-in-thailand-c-21779461",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "australian",
+      "british",
+      "man",
+      "dies",
+      "after",
+      "alleged",
+      "assault",
+      "thailand",
+      "21779461"
     ]
   }
 }
