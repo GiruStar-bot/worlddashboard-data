@@ -1,45 +1,100 @@
 {
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.i24news.tv/en/news/middle-east/palestinian-territories/artc-west-bank-2-israeli-wounded-by-right-wing-extremists",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.rediff.com/news/report/up-economic-offender-arrested-in-dubai/20260227.htm",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "17": 4
     },
     "keywords": [
       "news",
-      "middle",
-      "east",
-      "palestinian",
-      "territories",
-      "artc",
-      "west",
-      "bank",
-      "israeli",
-      "wounded",
-      "right",
-      "wing",
-      "extremists"
+      "report",
+      "economic",
+      "offender",
+      "arrested",
+      "dubai",
+      "20260227.htm"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.7,
+    "count": 12,
+    "top_news": "https://grenadachronicle.com/israels-top-court-allows-aid-groups-facing-gaza-ban-to-continue-working/",
+    "event_codes": {
+      "19": 10,
+      "16": 1,
+      "20": 1
+    },
+    "keywords": [
+      "israels",
+      "top",
+      "court",
+      "allows",
+      "aid",
+      "groups",
+      "facing",
+      "gaza",
+      "ban",
+      "continue",
+      "working"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.kcrg.com/2026/02/27/sentencing-delayed-university-iowa-attempted-murder-case/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "sentencing",
+      "delayed",
+      "university",
+      "iowa",
+      "attempted",
+      "murder",
+      "case"
     ]
   },
   "NGA": {
-    "risk_score": 4.36,
-    "count": 7,
-    "top_news": "https://www.opinionnigeria.com/anambra-court-sentences-native-doctor-akwaokuko-to-12-years-in-prison/",
+    "risk_score": 4.9,
+    "count": 9,
+    "top_news": "https://www.nationalaccordnewspaper.com/troops-eliminate-scores-of-terrorists-rescue-over-400-hostages-in-february-operations-dhq/",
     "event_codes": {
-      "17": 5,
-      "15": 2
+      "17": 8,
+      "18": 1
     },
     "keywords": [
-      "anambra",
-      "court",
-      "sentences",
-      "native",
-      "doctor",
-      "akwaokuko",
-      "years",
-      "prison"
+      "troops",
+      "eliminate",
+      "scores",
+      "terrorists",
+      "rescue",
+      "over",
+      "400",
+      "hostages",
+      "february",
+      "operations",
+      "dhq"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.5,
+    "count": 7,
+    "top_news": "https://mareeg.com/somali-fraud-suspect-arraigned-as-police-hunt-accomplices/",
+    "event_codes": {
+      "17": 7
+    },
+    "keywords": [
+      "somali",
+      "fraud",
+      "suspect",
+      "arraigned",
+      "police",
+      "hunt",
+      "accomplices"
     ]
   }
 }
