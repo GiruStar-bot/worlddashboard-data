@@ -1,54 +1,138 @@
 {
-  "IRN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "http://eng.chinamil.com.cn/2025xb/O_251451/16444899.html",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.israelnationalnews.com/news/423087",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "2025xb",
-      "251451",
-      "16444899.html"
+      "news",
+      "423087"
     ]
   },
   "ISR": {
-    "risk_score": 5.4,
-    "count": 9,
-    "top_news": "https://nationalpost.com/opinion/avi-benlolo-narendra-modi-a-true-friend-of-israel",
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://www.geo.tv/latest/653211-trump-and-mamdani-meet-for-second-time-discuss-housing-and-ice-detentions",
     "event_codes": {
-      "16": 5,
-      "19": 2,
-      "17": 1,
-      "18": 1
+      "17": 4,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "opinion",
-      "avi",
-      "benlolo",
-      "narendra",
-      "modi",
-      "true",
-      "friend",
-      "israel"
+      "latest",
+      "653211",
+      "trump",
+      "and",
+      "mamdani",
+      "meet",
+      "for",
+      "second",
+      "time",
+      "discuss",
+      "housing",
+      "and",
+      "ice",
+      "detentions"
     ]
   },
-  "NGA": {
-    "risk_score": 4.62,
-    "count": 5,
-    "top_news": "https://peoplesdailyng.com/demolition-and-the-mirror-of-makoko/",
+  "KEN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.tuko.co.ke/people/619049-nandi-man-detained-myanmar-exposes-agent-lied-d-land-malysia/",
     "event_codes": {
-      "18": 3,
-      "17": 1,
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "demolition",
-      "and",
-      "the",
-      "mirror",
-      "makoko"
+      "people",
+      "619049",
+      "nandi",
+      "man",
+      "detained",
+      "myanmar",
+      "exposes",
+      "agent",
+      "lied",
+      "land",
+      "malysia"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.tuko.co.ke/people/619049-nandi-man-detained-myanmar-exposes-agent-lied-d-land-malysia/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "people",
+      "619049",
+      "nandi",
+      "man",
+      "detained",
+      "myanmar",
+      "exposes",
+      "agent",
+      "lied",
+      "land",
+      "malysia"
+    ]
+  },
+  "NGA": {
+    "risk_score": 23.46,
+    "count": 31,
+    "top_news": "https://allafrica.com/stories/202602270286.html",
+    "event_codes": {
+      "19": 15,
+      "16": 7,
+      "17": 6,
+      "15": 2,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "202602270286.html"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://article.wn.com/view/2026/02/27/EU_pledges_63_million_to_Somalia_as_food_aid_warnings_mount/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "view",
+      "2026",
+      "pledges",
+      "million",
+      "somalia",
+      "food",
+      "aid",
+      "warnings",
+      "mount"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.15,
+    "count": 4,
+    "top_news": "https://www.thetimes.com/uk/law/article/quran-burner-case-hamit-coskun-7w7wxmz5t",
+    "event_codes": {
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "law",
+      "article",
+      "quran",
+      "burner",
+      "case",
+      "hamit",
+      "coskun",
+      "7w7wxmz5t"
     ]
   }
 }
