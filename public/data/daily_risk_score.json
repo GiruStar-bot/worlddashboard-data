@@ -1,18 +1,93 @@
 {
-  "ISR": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://www.yourdemocracy.net.au/drupal/node/58771",
+  "BRA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://bleedingcool.com/collectibles/iron-studios-reveals-new-predator-2-greyback-elder-1-10-statue/",
     "event_codes": {
-      "17": 3,
-      "14": 2,
-      "16": 2,
+      "19": 4
+    },
+    "keywords": [
+      "collectibles",
+      "iron",
+      "studios",
+      "reveals",
+      "new",
+      "predator",
+      "greyback",
+      "elder",
+      "statue"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.oann.com/newsroom/u-s-state-dept-authorizes-voluntary-departure-of-non-essential-u-s-personnel-from-israel-embassy-amid-heightened-tensions-with-iran/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "drupal",
-      "node",
-      "58771"
+      "newsroom",
+      "state",
+      "dept",
+      "authorizes",
+      "voluntary",
+      "departure",
+      "non",
+      "essential",
+      "personnel",
+      "from",
+      "israel",
+      "embassy",
+      "amid",
+      "heightened",
+      "tensions",
+      "with",
+      "iran"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.7,
+    "count": 6,
+    "top_news": "https://www.heritagefl.com/story/2026/02/27/opinions/a-constitution-that-cannot-bring-itself-to-mention-israel/22946.html",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "2026",
+      "opinions",
+      "constitution",
+      "that",
+      "cannot",
+      "bring",
+      "itself",
+      "mention",
+      "israel",
+      "22946.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.8,
+    "count": 9,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/02/28/trump-not-thrilled-with-iran-but-undecided-on-attack",
+    "event_codes": {
+      "16": 3,
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "category",
+      "highlight",
+      "2026",
+      "trump",
+      "not",
+      "thrilled",
+      "with",
+      "iran",
+      "but",
+      "undecided",
+      "attack"
     ]
   }
 }
