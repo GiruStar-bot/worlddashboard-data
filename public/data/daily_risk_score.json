@@ -1,58 +1,125 @@
 {
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.ynetnews.com/article/b1fmrxjt11g",
+  "IRN": {
+    "risk_score": 6.23,
+    "count": 8,
+    "top_news": "https://www.the-messenger.com/news/world/article_cdf8cc40-25ad-53de-9630-83394e7048e5.html",
     "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "article",
-      "b1fmrxjt11g"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/02/27/lebanon-seeks-information-about-17-citizens-linked-to-isis-who-are-imprisoned-in-syria/",
-    "event_codes": {
-      "17": 5
+      "15": 4,
+      "19": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "mena",
-      "2026",
-      "lebanon",
-      "seeks",
-      "information",
-      "about",
-      "citizens",
-      "linked",
-      "isis",
-      "who",
-      "are",
-      "imprisoned",
-      "syria"
+      "world",
+      "article",
+      "cdf8cc40",
+      "25ad",
+      "53de",
+      "9630",
+      "83394e7048e5.html"
     ]
   },
-  "TUR": {
-    "risk_score": 2.85,
-    "count": 5,
-    "top_news": "https://www.liverpoolecho.co.uk/travel/foreign-office-advises-against-travel-33500978",
+  "IRQ": {
+    "risk_score": 2.12,
+    "count": 3,
+    "top_news": "https://hotair.com/ed-morrissey/2026/02/27/tick-tock-us-evacuates-embassies-in-israel-iraq-n3812346",
     "event_codes": {
-      "16": 3,
-      "14": 1,
+      "15": 1,
+      "16": 1,
       "19": 1
     },
     "keywords": [
-      "travel",
-      "foreign",
-      "office",
-      "advises",
-      "against",
-      "travel",
-      "33500978"
+      "morrissey",
+      "2026",
+      "tick",
+      "tock",
+      "evacuates",
+      "embassies",
+      "israel",
+      "iraq",
+      "n3812346"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.0,
+    "count": 15,
+    "top_news": "https://www.aol.co.uk/articles/jd-vance-says-no-chance-125810030.html",
+    "event_codes": {
+      "17": 10,
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "articles",
+      "vance",
+      "says",
+      "chance",
+      "125810030.html"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.1,
+    "count": 7,
+    "top_news": "https://www.tuko.co.ke/people/relationships/619060-eldoret-lady-tears-based-lover-virtually-proposes-marry/",
+    "event_codes": {
+      "18": 3,
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "people",
+      "relationships",
+      "619060",
+      "eldoret",
+      "lady",
+      "tears",
+      "based",
+      "lover",
+      "virtually",
+      "proposes",
+      "marry"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.marketscreener.com/news/south-sudan-at-dangerous-point-as-killings-surge-un-says-ce7e5cdfdb80f621",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "south",
+      "sudan",
+      "dangerous",
+      "point",
+      "killings",
+      "surge",
+      "says",
+      "ce7e5cdfdb80f621"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.6,
+    "count": 6,
+    "top_news": "https://www.thenationalnews.com/news/uk/2026/02/27/canada-seeks-consular-visits-for-isis-linked-detainees-in-iraq/",
+    "event_codes": {
+      "16": 4,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "canada",
+      "seeks",
+      "consular",
+      "visits",
+      "for",
+      "isis",
+      "linked",
+      "detainees",
+      "iraq"
     ]
   }
 }
