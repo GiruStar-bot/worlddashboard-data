@@ -1,125 +1,118 @@
 {
   "IRN": {
-    "risk_score": 6.23,
-    "count": 8,
-    "top_news": "https://www.the-messenger.com/news/world/article_cdf8cc40-25ad-53de-9630-83394e7048e5.html",
+    "risk_score": 4.82,
+    "count": 9,
+    "top_news": "https://www.latimes.com/world-nation/story/2026-02-27/pakistan-is-in-open-war-with-afghanistan-after-latest-strikes-defense-minister-says",
     "event_codes": {
-      "15": 4,
-      "19": 2,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "article",
-      "cdf8cc40",
-      "25ad",
-      "53de",
-      "9630",
-      "83394e7048e5.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.12,
-    "count": 3,
-    "top_news": "https://hotair.com/ed-morrissey/2026/02/27/tick-tock-us-evacuates-embassies-in-israel-iraq-n3812346",
-    "event_codes": {
+      "16": 7,
       "15": 1,
-      "16": 1,
       "19": 1
     },
     "keywords": [
-      "morrissey",
+      "world",
+      "nation",
+      "story",
       "2026",
-      "tick",
-      "tock",
-      "evacuates",
-      "embassies",
-      "israel",
-      "iraq",
-      "n3812346"
+      "pakistan",
+      "open",
+      "war",
+      "with",
+      "afghanistan",
+      "after",
+      "latest",
+      "strikes",
+      "defense",
+      "minister",
+      "says"
     ]
   },
   "ISR": {
-    "risk_score": 12.0,
-    "count": 15,
-    "top_news": "https://www.aol.co.uk/articles/jd-vance-says-no-chance-125810030.html",
+    "risk_score": 2.17,
+    "count": 3,
+    "top_news": "https://www.siasat.com/israeli-strikes-kill-two-injure-29-in-lebanons-bekaa-valley-3390228/",
     "event_codes": {
-      "17": 10,
-      "19": 4,
+      "15": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "articles",
-      "vance",
-      "says",
-      "chance",
-      "125810030.html"
+      "israeli",
+      "strikes",
+      "kill",
+      "two",
+      "injure",
+      "lebanons",
+      "bekaa",
+      "valley",
+      "3390228"
     ]
   },
-  "KEN": {
-    "risk_score": 5.1,
-    "count": 7,
-    "top_news": "https://www.tuko.co.ke/people/relationships/619060-eldoret-lady-tears-based-lover-virtually-proposes-marry/",
+  "LBN": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.siasat.com/israeli-strikes-kill-two-injure-29-in-lebanons-bekaa-valley-3390228/",
     "event_codes": {
-      "18": 3,
-      "14": 2,
-      "17": 2
+      "19": 4
     },
     "keywords": [
-      "people",
-      "relationships",
-      "619060",
-      "eldoret",
-      "lady",
-      "tears",
-      "based",
-      "lover",
-      "virtually",
-      "proposes",
-      "marry"
+      "israeli",
+      "strikes",
+      "kill",
+      "two",
+      "injure",
+      "lebanons",
+      "bekaa",
+      "valley",
+      "3390228"
     ]
   },
-  "SSD": {
-    "risk_score": 3.0,
+  "NER": {
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://www.marketscreener.com/news/south-sudan-at-dangerous-point-as-killings-surge-un-says-ce7e5cdfdb80f621",
+    "top_news": "https://promptnewsonline.com/dss-nabs-alleged-mastermind-of-kogi-church-abduction/",
     "event_codes": {
-      "19": 3
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "south",
-      "sudan",
-      "dangerous",
-      "point",
-      "killings",
-      "surge",
-      "says",
-      "ce7e5cdfdb80f621"
+      "dss",
+      "nabs",
+      "alleged",
+      "mastermind",
+      "kogi",
+      "church",
+      "abduction"
     ]
   },
-  "SYR": {
-    "risk_score": 2.6,
-    "count": 6,
-    "top_news": "https://www.thenationalnews.com/news/uk/2026/02/27/canada-seeks-consular-visits-for-isis-linked-detainees-in-iraq/",
+  "PSE": {
+    "risk_score": 12.35,
+    "count": 13,
+    "top_news": "https://english.pnn.ps/news/48078",
     "event_codes": {
-      "16": 4,
-      "17": 2
+      "18": 9,
+      "19": 4
     },
     "keywords": [
       "news",
-      "2026",
-      "canada",
-      "seeks",
-      "consular",
-      "visits",
-      "for",
-      "isis",
-      "linked",
-      "detainees",
-      "iraq"
+      "48078"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.theglobeandmail.com/world/article-afghanistan-pakistan-war-what-to-know/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "article",
+      "afghanistan",
+      "pakistan",
+      "war",
+      "what",
+      "know"
     ]
   }
 }
