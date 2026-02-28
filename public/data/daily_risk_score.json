@@ -1,191 +1,164 @@
 {
-  "ARE": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.indiatvnews.com/news/world/explosion-near-dubais-burj-khalifa-amid-israel-iran-conflict-is-world-s-tallest-building-insured-2026-03-01-1032111",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "explosion",
-      "near",
-      "dubais",
-      "burj",
-      "khalifa",
-      "amid",
-      "israel",
-      "iran",
-      "conflict",
-      "world",
-      "tallest",
-      "building",
-      "insured",
-      "2026",
-      "1032111"
-    ]
-  },
   "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://article.wn.com/view/2026/02/28/Drone_debris_damages_buildings_in_Bahrain_one_injury_reporte/",
+    "top_news": "https://www.aol.co.uk/articles/eight-month-plot-led-trump-201234563.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "view",
-      "2026",
-      "drone",
-      "debris",
-      "damages",
-      "buildings",
-      "bahrain",
-      "one",
-      "injury",
-      "reporte"
+      "articles",
+      "eight",
+      "month",
+      "plot",
+      "led",
+      "trump",
+      "201234563.html"
     ]
   },
   "IRN": {
-    "risk_score": 92.88,
-    "count": 100,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-888301",
+    "risk_score": 29.3,
+    "count": 35,
+    "top_news": "https://www.yahoo.com/news/articles/us-bases-did-iran-target-202003985.html",
     "event_codes": {
-      "19": 66,
-      "14": 11,
-      "17": 10,
-      "18": 10,
-      "16": 2,
-      "15": 1
+      "19": 20,
+      "14": 4,
+      "16": 4,
+      "18": 4,
+      "17": 3
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
       "news",
-      "article",
-      "888301"
+      "articles",
+      "bases",
+      "did",
+      "iran",
+      "target",
+      "202003985.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.bostonglobe.com/2026/02/28/opinion/trump-iran-bombing-middle-east/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "opinion",
+      "trump",
+      "iran",
+      "bombing",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 40.3,
-    "count": 43,
-    "top_news": "https://www.indiatvnews.com/news/world/explosion-near-dubais-burj-khalifa-amid-israel-iran-conflict-is-world-s-tallest-building-insured-2026-03-01-1032111",
+    "risk_score": 12.65,
+    "count": 14,
+    "top_news": "https://santamariatimes.com/news/national/the-latest-iran-launches-retaliatory-strikes-as-trump-calls-for-regime-change/article_605eccde-f6fc-5a85-b8d2-c57d00084a81.html",
     "event_codes": {
-      "19": 32,
-      "18": 7,
-      "16": 3,
-      "14": 1
+      "19": 12,
+      "16": 2
     },
     "keywords": [
       "news",
-      "world",
-      "explosion",
-      "near",
-      "dubais",
-      "burj",
-      "khalifa",
-      "amid",
-      "israel",
+      "national",
+      "the",
+      "latest",
       "iran",
-      "conflict",
-      "world",
-      "tallest",
-      "building",
-      "insured",
-      "2026",
-      "1032111"
+      "launches",
+      "retaliatory",
+      "strikes",
+      "trump",
+      "calls",
+      "for",
+      "regime",
+      "change",
+      "article",
+      "605eccde",
+      "f6fc",
+      "5a85",
+      "b8d2",
+      "c57d00084a81.html"
     ]
   },
-  "KEN": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://medafricatimes.com/44182-two-south-africans-killed-after-recruitment-ruse-linked-to-russia-ukraine-war.html",
+  "JOR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/iran-launches-retaliatory-strikes-targets-121204952.html",
     "event_codes": {
-      "17": 3,
-      "19": 3
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "44182",
-      "two",
-      "south",
-      "africans",
-      "killed",
-      "after",
-      "recruitment",
-      "ruse",
-      "linked",
-      "russia",
-      "ukraine",
-      "war.html"
+      "news",
+      "articles",
+      "iran",
+      "launches",
+      "retaliatory",
+      "strikes",
+      "targets",
+      "121204952.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/us-bases-did-iran-target-202003985.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "bases",
+      "did",
+      "iran",
+      "target",
+      "202003985.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.6,
+    "count": 6,
+    "top_news": "https://www.bostonglobe.com/2026/02/28/opinion/trump-iran-bombing-middle-east/",
+    "event_codes": {
+      "16": 4,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "opinion",
+      "trump",
+      "iran",
+      "bombing",
+      "middle",
+      "east"
+    ]
+  },
+  "LBY": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.bostonglobe.com/2026/02/28/opinion/trump-iran-bombing-middle-east/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "2026",
+      "opinion",
+      "trump",
+      "iran",
+      "bombing",
+      "middle",
+      "east"
     ]
   },
   "QAT": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.pakistanlink.org/Headlines/Feb26/27/06.htm",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "headlines",
-      "feb26",
-      "06.htm"
-    ]
-  },
-  "SAU": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://www.theguardian.com/world/2026/feb/28/strategic-options-iran-retaliate-us-israel-analysis",
-    "event_codes": {
-      "19": 6,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "feb",
-      "strategic",
-      "options",
-      "iran",
-      "retaliate",
-      "israel",
-      "analysis"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/were-the-city-that-beat-isis-our-reward-betrayal-and-siege-50xbgqhxs",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "article",
-      "were",
-      "the",
-      "city",
-      "that",
-      "beat",
-      "isis",
-      "our",
-      "reward",
-      "betrayal",
-      "and",
-      "siege",
-      "50xbgqhxs"
-    ]
-  },
-  "TUR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/were-the-city-that-beat-isis-our-reward-betrayal-and-siege-50xbgqhxs",
+    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/i-can-go-long-and-take-over-the-whole-thing-trump-after-us-strikes-on-iran/articleshow/128896444.cms",
     "event_codes": {
       "19": 3
     },
@@ -193,19 +166,62 @@
       "world",
       "middle",
       "east",
-      "article",
-      "were",
-      "the",
-      "city",
-      "that",
-      "beat",
-      "isis",
-      "our",
-      "reward",
-      "betrayal",
+      "can",
+      "long",
       "and",
-      "siege",
-      "50xbgqhxs"
+      "take",
+      "over",
+      "the",
+      "whole",
+      "thing",
+      "trump",
+      "after",
+      "strikes",
+      "iran",
+      "articleshow",
+      "128896444.cms"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://yalibnan.com/2026/02/28/trump-tells-axios-he-can-go-long-and-take-over-iran-or-end-operation-epic-fury-in-2-to-3-days/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "tells",
+      "axios",
+      "can",
+      "long",
+      "and",
+      "take",
+      "over",
+      "iran",
+      "end",
+      "operation",
+      "epic",
+      "fury",
+      "days"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bostonglobe.com/2026/02/28/opinion/trump-iran-bombing-middle-east/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "opinion",
+      "trump",
+      "iran",
+      "bombing",
+      "middle",
+      "east"
     ]
   }
 }
