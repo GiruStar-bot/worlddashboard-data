@@ -1,205 +1,279 @@
 {
   "ARE": {
-    "risk_score": 8.4,
-    "count": 9,
-    "top_news": "https://www.moneycontrol.com/world/indian-nationals-recount-scary-explosions-as-iran-strikes-us-base-camp-in-abu-dhabi-article-13846777.html",
+    "risk_score": 4.15,
+    "count": 6,
+    "top_news": "https://www.prokerala.com/news/articles/a1734417.html",
     "event_codes": {
-      "19": 8,
+      "16": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1734417.html"
+    ]
+  },
+  "BHR": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.independentsentinel.com/iran-bombed-5-innocent-countries-simultaneously/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "iran",
+      "bombed",
+      "innocent",
+      "countries",
+      "simultaneously"
+    ]
+  },
+  "IRN": {
+    "risk_score": 42.59,
+    "count": 49,
+    "top_news": "https://www.independentsentinel.com/iran-bombed-5-innocent-countries-simultaneously/",
+    "event_codes": {
+      "19": 30,
+      "16": 6,
+      "14": 5,
+      "18": 4,
+      "17": 3,
+      "15": 1
+    },
+    "keywords": [
+      "iran",
+      "bombed",
+      "innocent",
+      "countries",
+      "simultaneously"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thedailybeast.com/iran-launches-massive-response-to-president-donald-trumps-new-war/",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "iran",
+      "launches",
+      "massive",
+      "response",
+      "president",
+      "donald",
+      "trumps",
+      "new",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 26.2,
+    "count": 32,
+    "top_news": "https://www.businessinsider.com/iran-missiles-multiple-countries-what-happened-2026-2",
+    "event_codes": {
+      "19": 17,
+      "16": 11,
+      "18": 4
+    },
+    "keywords": [
+      "iran",
+      "missiles",
+      "multiple",
+      "countries",
+      "what",
+      "happened",
+      "2026"
+    ]
+  },
+  "JOR": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://punchng.com/airspace-closed-across-middle-east-as-us-israel-strike-iran/",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "airspace",
+      "closed",
+      "across",
+      "middle",
+      "east",
+      "israel",
+      "strike",
+      "iran"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/news/2026-02-28-3-worshippers-stabbed-at-mosque-in-westlands",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "worshippers",
+      "stabbed",
+      "mosque",
+      "westlands"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://news24online.com/world/iran-israel-war-where-are-us-bases-in-middle-east-that-iran-is-targeting-largest-base-is-located-in-doha-qatar-al-udeid-air-base/761153/",
+    "event_codes": {
+      "19": 4,
       "16": 1
     },
     "keywords": [
       "world",
-      "indian",
-      "nationals",
-      "recount",
-      "scary",
-      "explosions",
       "iran",
-      "strikes",
+      "israel",
+      "war",
+      "where",
+      "are",
+      "bases",
+      "middle",
+      "east",
+      "that",
+      "iran",
+      "targeting",
+      "largest",
       "base",
-      "camp",
-      "abu",
-      "dhabi",
-      "article",
-      "13846777.html"
+      "located",
+      "doha",
+      "qatar",
+      "udeid",
+      "air",
+      "base",
+      "761153"
     ]
   },
-  "BHR": {
-    "risk_score": 4.9,
+  "LBN": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.blackenterprise.com/us-israel-launch-strikes-iran/",
+    "top_news": "https://www.yahoo.com/news/articles/lebanon-refuses-drawn-iran-conflict-131938235.html",
     "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "israel",
-      "launch",
-      "strikes",
-      "iran"
-    ]
-  },
-  "IRN": {
-    "risk_score": 37.61,
-    "count": 42,
-    "top_news": "https://www.tbsnews.net/worldbiz/middle-east/least-51-students-killed-israeli-strike-iranian-school-state-media-1373396",
-    "event_codes": {
-      "19": 29,
-      "18": 4,
-      "15": 3,
-      "16": 3,
-      "17": 2,
-      "14": 1
-    },
-    "keywords": [
-      "worldbiz",
-      "middle",
-      "east",
-      "least",
-      "students",
-      "killed",
-      "israeli",
-      "strike",
-      "iranian",
-      "school",
-      "state",
-      "media",
-      "1373396"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://www.tbsnews.net/worldbiz/middle-east/least-51-students-killed-israeli-strike-iranian-school-state-media-1373396",
-    "event_codes": {
-      "16": 5,
-      "19": 4
-    },
-    "keywords": [
-      "worldbiz",
-      "middle",
-      "east",
-      "least",
-      "students",
-      "killed",
-      "israeli",
-      "strike",
-      "iranian",
-      "school",
-      "state",
-      "media",
-      "1373396"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.44,
-    "count": 34,
-    "top_news": "https://www.wvgazettemail.com/ap/international/us-israel-launch-major-attack-on-iran-trump-to-iranians-take-over-your-government/article_c04cca0b-529a-551d-8063-14bdf1efb99e.html",
-    "event_codes": {
-      "16": 16,
-      "19": 10,
-      "14": 4,
-      "18": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "international",
-      "israel",
-      "launch",
-      "major",
-      "attack",
-      "iran",
-      "trump",
-      "iranians",
-      "take",
-      "over",
-      "your",
-      "government",
-      "article",
-      "c04cca0b",
-      "529a",
-      "551d",
-      "8063",
-      "14bdf1efb99e.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/international/us/when-will-global-airlines-flights-resume-and-middle-east-airspace-open-global-airlines-flights-cancellation-explained-heres-complete-list/articleshow/128887096.cms",
-    "event_codes": {
-      "19": 2
+      "19": 5
     },
     "keywords": [
       "news",
-      "international",
-      "when",
-      "will",
-      "global",
-      "airlines",
-      "flights",
-      "resume",
-      "and",
-      "middle",
-      "east",
-      "airspace",
-      "open",
-      "global",
-      "airlines",
-      "flights",
-      "cancellation",
-      "explained",
-      "heres",
-      "complete",
-      "list",
-      "articleshow",
-      "128887096.cms"
+      "articles",
+      "lebanon",
+      "refuses",
+      "drawn",
+      "iran",
+      "conflict",
+      "131938235.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://punchng.com/seven-victims-of-plateau-attacks-get-mass-burial/",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "seven",
+      "victims",
+      "plateau",
+      "attacks",
+      "get",
+      "mass",
+      "burial"
     ]
   },
   "QAT": {
-    "risk_score": 10.15,
-    "count": 11,
-    "top_news": "https://www.birminghammail.co.uk/news/midlands-news/birmingham-airport-flight-diverted-mid-33507846",
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://tribune.net.ph/2026/02/28/at-least-three-dead-as-us-iran-strikes-ignite-regional-chaos",
     "event_codes": {
-      "19": 7,
-      "18": 3,
+      "19": 5,
       "17": 1
     },
     "keywords": [
-      "news",
-      "midlands",
-      "news",
-      "birmingham",
-      "airport",
-      "flight",
-      "diverted",
-      "mid",
-      "33507846"
+      "2026",
+      "least",
+      "three",
+      "dead",
+      "iran",
+      "strikes",
+      "ignite",
+      "regional",
+      "chaos"
     ]
   },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://news.sky.com/story/where-has-been-hit-iran-retaliates-across-middle-east-after-us-israel-strikes-13513268",
+  "SAU": {
+    "risk_score": 15.5,
+    "count": 17,
+    "top_news": "https://www.freepressjournal.in/world/usiranisrael-war-top-iranian-irgc-commander-mohammad-pakpour-killed-in-israeli-strikes-report",
     "event_codes": {
-      "19": 3
+      "18": 15,
+      "19": 2
     },
     "keywords": [
-      "story",
-      "where",
-      "has",
-      "been",
-      "hit",
-      "iran",
-      "retaliates",
-      "across",
-      "middle",
-      "east",
-      "after",
-      "israel",
+      "world",
+      "usiranisrael",
+      "war",
+      "top",
+      "iranian",
+      "irgc",
+      "commander",
+      "mohammad",
+      "pakpour",
+      "killed",
+      "israeli",
       "strikes",
-      "13513268"
+      "report"
+    ]
+  },
+  "TUR": {
+    "risk_score": 6.0,
+    "count": 15,
+    "top_news": "https://tribune.net.ph/2026/02/28/at-least-three-dead-as-us-iran-strikes-ignite-regional-chaos",
+    "event_codes": {
+      "16": 15
+    },
+    "keywords": [
+      "2026",
+      "least",
+      "three",
+      "dead",
+      "iran",
+      "strikes",
+      "ignite",
+      "regional",
+      "chaos"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.thedailybeast.com/the-generals-said-no-but-donald-trump-was-bored-of-peace-and-attacked-iran/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "the",
+      "generals",
+      "said",
+      "but",
+      "donald",
+      "trump",
+      "was",
+      "bored",
+      "peace",
+      "and",
+      "attacked",
+      "iran"
     ]
   }
 }
