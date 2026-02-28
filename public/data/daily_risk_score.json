@@ -1,66 +1,95 @@
 {
-  "GUY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://kaieteurnewsonline.com/2026/02/28/underperforming-contractors-terminated-from-great-diamond-housing-scheme-projects/",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "underperforming",
-      "contractors",
-      "terminated",
-      "from",
-      "great",
-      "diamond",
-      "housing",
-      "scheme",
-      "projects"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.clickorlando.com/news/world/2026/02/28/israels-defense-minister-says-his-country-has-attacked-iran-and-declares-a-state-of-emergency/",
+    "risk_score": 13.47,
+    "count": 16,
+    "top_news": "https://lasvegassun.com/news/2026/feb/27/israel-launches-attack-on-irans-capital-with-us-he/",
     "event_codes": {
-      "19": 5
+      "19": 10,
+      "16": 2,
+      "17": 2,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
       "news",
-      "world",
       "2026",
-      "israels",
-      "defense",
-      "minister",
-      "says",
-      "his",
-      "country",
-      "has",
-      "attacked",
-      "iran",
-      "and",
-      "declares",
-      "state",
-      "emergency"
+      "feb",
+      "israel",
+      "launches",
+      "attack",
+      "irans",
+      "capital",
+      "with"
     ]
   },
   "ISR": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.dw.com/en/israel-says-launched-preemptive-strike-against-iran/a-76160973",
+    "risk_score": 11.12,
+    "count": 12,
+    "top_news": "https://www.dawn.com/news/1975656/modi-addresses-knesset-says-india-stands-firmly-with-israel-after-oct-7-attack",
     "event_codes": {
-      "19": 9
+      "19": 10,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "1975656",
+      "modi",
+      "addresses",
+      "knesset",
+      "says",
+      "india",
+      "stands",
+      "firmly",
+      "with",
+      "israel",
+      "after",
+      "oct",
+      "attack"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/israel-attacks-southern-lebanon-in-latest-near-daily-ceasefire-violation/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "israel",
+      "attacks",
+      "southern",
+      "lebanon",
+      "latest",
+      "near",
+      "daily",
+      "ceasefire",
+      "violation"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.geo.tv/latest/653331-very-good-ties-with-pakistan-trump-says-us-wont-intervene-in-islamabad-kabul-conflict",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "latest",
+      "653331",
+      "very",
+      "good",
+      "ties",
+      "with",
+      "pakistan",
+      "trump",
       "says",
-      "launched",
-      "preemptive",
-      "strike",
-      "against",
-      "iran",
-      "76160973"
+      "wont",
+      "intervene",
+      "islamabad",
+      "kabul",
+      "conflict"
     ]
   }
 }
