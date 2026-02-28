@@ -1,138 +1,119 @@
 {
-  "BHR": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://www.fox13seattle.com/news/wa-politicians-react-iran-strikes",
+  "ARE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://fortune.com/2026/02/28/dubai-worst-nightmare-iran-strikes-gulf-neighbors-uae-qatar/",
     "event_codes": {
-      "19": 8,
-      "17": 1
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "dubai",
+      "worst",
+      "nightmare",
+      "iran",
+      "strikes",
+      "gulf",
+      "neighbors",
+      "uae",
+      "qatar"
+    ]
+  },
+  "BHR": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.10news.com/news/national-news/trump-believes-reporting-that-irans-supreme-leader-is-dead-is-correct",
+    "event_codes": {
+      "19": 3,
+      "18": 1
     },
     "keywords": [
       "news",
-      "politicians",
-      "react",
-      "iran",
-      "strikes"
+      "national",
+      "news",
+      "trump",
+      "believes",
+      "reporting",
+      "that",
+      "irans",
+      "supreme",
+      "leader",
+      "dead",
+      "correct"
     ]
   },
   "IRN": {
-    "risk_score": 44.8,
-    "count": 51,
-    "top_news": "https://wcbm.com/national-headline/over-40-senior-iranian-officials-confirmed-dead-in-operation-epic-fury/",
+    "risk_score": 27.82,
+    "count": 30,
+    "top_news": "http://www.jpost.com/international/article-888306",
     "event_codes": {
-      "19": 35,
-      "14": 10,
-      "16": 3,
-      "18": 2,
-      "17": 1
+      "19": 24,
+      "14": 2,
+      "16": 2,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
-      "national",
-      "headline",
-      "over",
-      "senior",
-      "iranian",
-      "officials",
-      "confirmed",
-      "dead",
-      "operation",
-      "epic",
-      "fury"
+      "international",
+      "article",
+      "888306"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.novinite.com/view_news.php?id=237241",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "view",
+      "news.php"
     ]
   },
   "ISR": {
-    "risk_score": 28.98,
-    "count": 33,
-    "top_news": "https://navhindtimes.in/worldnews/201-dead-after-us-israel-attack-iran/",
+    "risk_score": 17.9,
+    "count": 23,
+    "top_news": "https://www.wral.com/news/ap/8de80-the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/",
     "event_codes": {
-      "19": 21,
-      "15": 4,
-      "16": 3,
-      "18": 3,
+      "19": 13,
+      "16": 4,
+      "17": 4,
       "14": 2
     },
     "keywords": [
-      "worldnews",
-      "201",
-      "dead",
-      "after",
-      "israel",
-      "attack",
-      "iran"
+      "news",
+      "8de80",
+      "the",
+      "latest",
+      "trump",
+      "says",
+      "iranian",
+      "supreme",
+      "leader",
+      "ali",
+      "khamenei",
+      "dead"
     ]
   },
-  "JOR": {
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.masdark.com/19336",
+    "top_news": "https://punchng.com/uae-intercepts-iranian-missiles-as-saudi-arabia-condemns-blatant-aggression/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "19336"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.channelnewsasia.com/world/trump-says-irans-supreme-leader-khamenei-dead-5961081",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "trump",
-      "says",
-      "irans",
-      "supreme",
-      "leader",
-      "khamenei",
-      "dead",
-      "5961081"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.hometownregister.com/news/national/massive-us-attacks-on-iran-unlikely-to-produce-regime-change-in-tehran/article_2217f7d0-00f0-5802-a235-0342b39089f6.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "national",
-      "massive",
-      "attacks",
-      "iran",
-      "unlikely",
-      "produce",
-      "regime",
-      "change",
-      "tehran",
-      "article",
-      "2217f7d0",
-      "00f0",
-      "5802",
-      "a235",
-      "0342b39089f6.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://navhindtimes.in/worldnews/201-dead-after-us-israel-attack-iran/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "worldnews",
-      "201",
-      "dead",
-      "after",
-      "israel",
-      "attack",
-      "iran"
+      "uae",
+      "intercepts",
+      "iranian",
+      "missiles",
+      "saudi",
+      "arabia",
+      "condemns",
+      "blatant",
+      "aggression"
     ]
   }
 }
