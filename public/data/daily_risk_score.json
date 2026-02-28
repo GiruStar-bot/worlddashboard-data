@@ -1,91 +1,115 @@
 {
-  "BOL": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.thenewsminute.com/news/2-journalists-in-belarus-imprisoned-as-part-of-a-crackdown-on-free-speech-media-groups-say",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "journalists",
-      "belarus",
-      "imprisoned",
-      "part",
-      "crackdown",
-      "free",
-      "speech",
-      "media",
-      "groups",
-      "say"
-    ]
-  },
   "IRN": {
-    "risk_score": 15.94,
-    "count": 18,
-    "top_news": "http://www.morningsun.net/stories/israel-launches-daylight-attack-on-irans-capital-as-tensions-high-over-us-nuclear-talks-with,315330",
+    "risk_score": 33.72,
+    "count": 39,
+    "top_news": "https://www.durangoherald.com/articles/witnesses-say-more-explosions-rock-irans-capital-tehran/",
     "event_codes": {
-      "19": 13,
-      "17": 3,
-      "15": 2
-    },
-    "keywords": [
-      "stories",
-      "israel",
-      "launches",
-      "daylight",
-      "attack",
-      "irans",
-      "capital",
-      "tensions",
-      "high",
-      "over",
-      "nuclear",
-      "talks",
-      "with,315330"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.28,
-    "count": 18,
-    "top_news": "https://www.wuft.org/2026-02-28/trump-announces-major-combat-operations-in-iran",
-    "event_codes": {
-      "19": 14,
-      "17": 2,
-      "15": 1,
+      "19": 22,
+      "17": 9,
+      "18": 7,
       "16": 1
     },
     "keywords": [
-      "2026",
-      "trump",
-      "announces",
-      "major",
-      "combat",
-      "operations",
-      "iran"
+      "articles",
+      "witnesses",
+      "say",
+      "more",
+      "explosions",
+      "rock",
+      "irans",
+      "capital",
+      "tehran"
     ]
   },
-  "MMR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/28/airstrikes-kill-at-least-26-civilians-in-myanmar039s-arakan-sagaing-regions",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/us-iran-conflict-the-enmity-goes-back-to-four-decades-and-counting-1979-hostage-crisis-nuclear-deal/articleshow/128879342.cms",
     "event_codes": {
-      "18": 5,
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "aseanplus",
-      "aseanplus",
       "news",
-      "2026",
-      "airstrikes",
-      "kill",
-      "least",
-      "civilians",
-      "myanmar039s",
-      "arakan",
-      "sagaing",
-      "regions"
+      "defence",
+      "iran",
+      "conflict",
+      "the",
+      "enmity",
+      "goes",
+      "back",
+      "four",
+      "decades",
+      "and",
+      "counting",
+      "1979",
+      "hostage",
+      "crisis",
+      "nuclear",
+      "deal",
+      "articleshow",
+      "128879342.cms"
+    ]
+  },
+  "ISR": {
+    "risk_score": 33.4,
+    "count": 36,
+    "top_news": "https://aninews.in/news/world/middle-east/indian-embassy-in-tehran-issues-safety-advisory-for-its-citizens-after-israel-us-strike-in-iran20260228140856/",
+    "event_codes": {
+      "19": 31,
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "indian",
+      "embassy",
+      "tehran",
+      "issues",
+      "safety",
+      "advisory",
+      "for",
+      "its",
+      "citizens",
+      "after",
+      "israel",
+      "strike",
+      "iran20260228140856"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2595024/israel-launches-preventative-attack-against-iran-defence-minister-says",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "2595024",
+      "israel",
+      "launches",
+      "preventative",
+      "attack",
+      "against",
+      "iran",
+      "defence",
+      "minister",
+      "says"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.el-balad.com/6862981",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "6862981"
     ]
   }
 }
