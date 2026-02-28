@@ -1,216 +1,128 @@
 {
-  "ARE": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.livemint.com/news/world/us-israel-launch-major-attack-on-iran-why-is-world-war-3-trending-on-x-11772304235039.html",
+  "BHR": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/us-bases-left-exposed-iranian-193036758.html",
     "event_codes": {
       "19": 3,
-      "16": 2
+      "15": 1
     },
     "keywords": [
       "news",
-      "world",
-      "israel",
-      "launch",
-      "major",
-      "attack",
-      "iran",
-      "why",
-      "world",
-      "war",
-      "trending",
-      "11772304235039.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.goskagit.com/news/nation/the-latest-irans-supreme-leader-khamenei-killed-in-strikes-says-israeli-officials/article_9ba2152d-fc2e-5e0b-9411-4e597488bd72.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "the",
-      "latest",
-      "irans",
-      "supreme",
-      "leader",
-      "khamenei",
-      "killed",
-      "strikes",
-      "says",
-      "israeli",
-      "officials",
-      "article",
-      "9ba2152d",
-      "fc2e",
-      "5e0b",
-      "9411",
-      "4e597488bd72.html"
+      "articles",
+      "bases",
+      "left",
+      "exposed",
+      "iranian",
+      "193036758.html"
     ]
   },
   "IRN": {
-    "risk_score": 61.44,
-    "count": 68,
-    "top_news": "https://www.goulburnpost.com.au/story/9186465/us-israeli-attack-triggers-fear-and-panic-in-iran/",
+    "risk_score": 30.66,
+    "count": 37,
+    "top_news": "https://www.timesnownews.com/world/middle-east/us-israel-iran-war-timeline-missile-drone-strikes-middle-east-conflict-ayatollah-ali-khamenei-article-153722429",
     "event_codes": {
-      "19": 49,
-      "17": 7,
-      "14": 5,
+      "19": 14,
+      "18": 8,
+      "14": 6,
       "16": 5,
-      "18": 2
+      "15": 3,
+      "17": 1
     },
     "keywords": [
-      "story",
-      "9186465",
+      "world",
+      "middle",
+      "east",
+      "israel",
+      "iran",
+      "war",
+      "timeline",
+      "missile",
+      "drone",
+      "strikes",
+      "middle",
+      "east",
+      "conflict",
+      "ayatollah",
+      "ali",
+      "khamenei",
+      "article",
+      "153722429"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.69,
+    "count": 5,
+    "top_news": "https://www.perthnow.com.au/news/world/us-israeli-attack-triggers-fear-and-panic-in-iran-c-21792322",
+    "event_codes": {
+      "14": 3,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "world",
       "israeli",
       "attack",
       "triggers",
       "fear",
       "and",
       "panic",
-      "iran"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.moroccoworldnews.com/2026/02/281109/explainer-what-we-know-so-far-about-the-us-israel-attack-on-iran/",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "2026",
-      "281109",
-      "explainer",
-      "what",
-      "know",
-      "far",
-      "about",
-      "the",
-      "israel",
-      "attack",
-      "iran"
+      "iran",
+      "21792322"
     ]
   },
   "ISR": {
-    "risk_score": 23.62,
-    "count": 27,
-    "top_news": "https://www.newsx.com/world/pakistan-pm-shehbaz-sharif-acts-against-iran-as-israel-us-bomb-tehran-extends-support-to-saudi-arabia-other-gulf-allies-175104/",
+    "risk_score": 14.12,
+    "count": 15,
+    "top_news": "https://www.timesnownews.com/world/middle-east/us-israel-iran-war-timeline-missile-drone-strikes-middle-east-conflict-ayatollah-ali-khamenei-article-153722429",
     "event_codes": {
-      "19": 19,
-      "16": 3,
-      "14": 2,
+      "19": 12,
       "15": 1,
-      "17": 1,
+      "16": 1,
       "18": 1
     },
     "keywords": [
       "world",
-      "pakistan",
-      "shehbaz",
-      "sharif",
-      "acts",
-      "against",
-      "iran",
+      "middle",
+      "east",
       "israel",
-      "bomb",
-      "tehran",
-      "extends",
-      "support",
-      "saudi",
-      "arabia",
-      "other",
-      "gulf",
-      "allies",
-      "175104"
+      "iran",
+      "war",
+      "timeline",
+      "missile",
+      "drone",
+      "strikes",
+      "middle",
+      "east",
+      "conflict",
+      "ayatollah",
+      "ali",
+      "khamenei",
+      "article",
+      "153722429"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.moroccoworldnews.com/2026/02/281109/explainer-what-we-know-so-far-about-the-us-israel-attack-on-iran/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "281109",
-      "explainer",
-      "what",
-      "know",
-      "far",
-      "about",
-      "the",
-      "israel",
-      "attack",
-      "iran"
-    ]
-  },
-  "NGA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://pmnewsnigeria.com/2026/02/28/efcc-operatives-grill-suspected-oil-thieves/",
+    "top_news": "https://nypost.com/2026/02/28/us-news/irans-counter-tehran-already-hitting-us-allies-could-still-fund-terror-abroad/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "efcc",
-      "operatives",
-      "grill",
-      "suspected",
-      "oil",
-      "thieves"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.moroccoworldnews.com/2026/02/281123/iran-israel-attacks-king-mohammed-vi-holds-phone-calls-with-gulf-leaders/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "281123",
-      "iran",
-      "israel",
-      "attacks",
-      "king",
-      "mohammed",
-      "holds",
-      "phone",
-      "calls",
-      "with",
-      "gulf",
-      "leaders"
-    ]
-  },
-  "SAU": {
-    "risk_score": 8.6,
-    "count": 9,
-    "top_news": "https://www.pilotonline.com/2026/02/28/the-latest-irans-supreme-leader-khamenei-killed-in-strikes-says-israeli-officials/",
-    "event_codes": {
-      "19": 6,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "latest",
+      "news",
       "irans",
-      "supreme",
-      "leader",
-      "khamenei",
-      "killed",
-      "strikes",
-      "says",
-      "israeli",
-      "officials"
+      "counter",
+      "tehran",
+      "already",
+      "hitting",
+      "allies",
+      "could",
+      "still",
+      "fund",
+      "terror",
+      "abroad"
     ]
   }
 }
