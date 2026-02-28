@@ -1,21 +1,66 @@
 {
-  "NGA": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://dailypost.ng/2026/02/28/el-rufais-sympathizers-not-from-kaduna-shehu-sani/",
+  "GUY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://kaieteurnewsonline.com/2026/02/28/underperforming-contractors-terminated-from-great-diamond-housing-scheme-projects/",
     "event_codes": {
-      "19": 4,
-      "14": 1
+      "18": 2
     },
     "keywords": [
       "2026",
-      "rufais",
-      "sympathizers",
-      "not",
+      "underperforming",
+      "contractors",
+      "terminated",
       "from",
-      "kaduna",
-      "shehu",
-      "sani"
+      "great",
+      "diamond",
+      "housing",
+      "scheme",
+      "projects"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.clickorlando.com/news/world/2026/02/28/israels-defense-minister-says-his-country-has-attacked-iran-and-declares-a-state-of-emergency/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "israels",
+      "defense",
+      "minister",
+      "says",
+      "his",
+      "country",
+      "has",
+      "attacked",
+      "iran",
+      "and",
+      "declares",
+      "state",
+      "emergency"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.dw.com/en/israel-says-launched-preemptive-strike-against-iran/a-76160973",
+    "event_codes": {
+      "19": 9
+    },
+    "keywords": [
+      "israel",
+      "says",
+      "launched",
+      "preemptive",
+      "strike",
+      "against",
+      "iran",
+      "76160973"
     ]
   }
 }
