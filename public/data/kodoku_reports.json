@@ -2,8 +2,8 @@
   "chokepoints": {
     "hormuz": {
       "name": "Strait of Hormuz",
-      "disruption_risk": 5.5,
-      "crisis_score_raw": 1.6404
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -23,7 +23,7 @@
     "panama": {
       "name": "Panama Canal",
       "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0041
+      "crisis_score_raw": 0.0
     },
     "taiwan": {
       "name": "Taiwan Strait",
@@ -49,7 +49,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 5.5
+          "disruption_risk": 0.0
         },
         {
           "id": "malacca",
@@ -62,10 +62,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 94.5,
+      "survival_rate": 100.0,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 5.5,
-      "insight": "エネルギー航路 (中東 - 日本)の生存確率は極めて安定。最大リスクはStrait of Hormuz（封鎖リスク5.5%）だが、現状で直ちに航路変更を要する兆候はない。"
+      "max_disruption_risk": 0.0,
+      "insight": "エネルギー航路 (中東 - 日本)の生存確率は極めて安定。最大リスクはStrait of Hormuz（封鎖リスク0.0%）だが、現状で直ちに航路変更を要する兆候はない。"
     },
     {
       "id": "middle_east_to_europe",
@@ -74,7 +74,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 5.5
+          "disruption_risk": 0.0
         },
         {
           "id": "bab_el_mandeb",
@@ -87,10 +87,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 94.5,
+      "survival_rate": 100.0,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 5.5,
-      "insight": "エネルギー航路 (中東 - 欧州)の生存確率は極めて安定。最大リスクはStrait of Hormuz（封鎖リスク5.5%）だが、現状で直ちに航路変更を要する兆候はない。"
+      "max_disruption_risk": 0.0,
+      "insight": "エネルギー航路 (中東 - 欧州)の生存確率は極めて安定。最大リスクはStrait of Hormuz（封鎖リスク0.0%）だが、現状で直ちに航路変更を要する兆候はない。"
     },
     {
       "id": "asia_to_europe_suez",
