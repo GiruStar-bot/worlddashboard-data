@@ -3,7 +3,7 @@
     "hormuz": {
       "name": "Strait of Hormuz",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 74.0957
+      "crisis_score_raw": 68.3498
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -13,17 +13,17 @@
     "suez": {
       "name": "Suez Canal",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 38.4926
+      "crisis_score_raw": 58.1912
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
-      "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0
+      "disruption_risk": 12.7,
+      "crisis_score_raw": 3.813
     },
     "panama": {
       "name": "Panama Canal",
       "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0098
+      "crisis_score_raw": 0.0
     },
     "taiwan": {
       "name": "Taiwan Strait",
@@ -32,8 +32,8 @@
     },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 30.1,
-      "crisis_score_raw": 9.0189
+      "disruption_risk": 41.3,
+      "crisis_score_raw": 12.3894
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
@@ -79,7 +79,7 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 0.0
+          "disruption_risk": 12.7
         },
         {
           "id": "suez",
@@ -104,7 +104,7 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 0.0
+          "disruption_risk": 12.7
         },
         {
           "id": "suez",
@@ -164,7 +164,7 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 30.1
+          "disruption_risk": 41.3
         },
         {
           "id": "suez",
