@@ -1,90 +1,39 @@
 {
-  "ARE": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://fortune.com/2026/02/28/dubai-worst-nightmare-iran-strikes-gulf-neighbors-uae-qatar/",
+  "IRN": {
+    "risk_score": 30.4,
+    "count": 35,
+    "top_news": "https://www.ksbw.com/article/maps-us-israel-iran-strikes/70551104",
     "event_codes": {
-      "18": 2,
-      "19": 2
+      "19": 25,
+      "16": 5,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
-      "2026",
-      "dubai",
-      "worst",
-      "nightmare",
+      "article",
+      "maps",
+      "israel",
       "iran",
       "strikes",
-      "gulf",
-      "neighbors",
-      "uae",
-      "qatar"
-    ]
-  },
-  "BHR": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.10news.com/news/national-news/trump-believes-reporting-that-irans-supreme-leader-is-dead-is-correct",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "news",
-      "trump",
-      "believes",
-      "reporting",
-      "that",
-      "irans",
-      "supreme",
-      "leader",
-      "dead",
-      "correct"
-    ]
-  },
-  "IRN": {
-    "risk_score": 27.82,
-    "count": 30,
-    "top_news": "http://www.jpost.com/international/article-888306",
-    "event_codes": {
-      "19": 24,
-      "14": 2,
-      "16": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "international",
-      "article",
-      "888306"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.novinite.com/view_news.php?id=237241",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "view",
-      "news.php"
+      "70551104"
     ]
   },
   "ISR": {
-    "risk_score": 17.9,
-    "count": 23,
-    "top_news": "https://www.wral.com/news/ap/8de80-the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/",
+    "risk_score": 21.6,
+    "count": 25,
+    "top_news": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/article_bd3f27f8-eda5-5eae-8122-2d23398d28bc.html",
     "event_codes": {
-      "19": 13,
-      "16": 4,
-      "17": 4,
-      "14": 2
+      "19": 17,
+      "16": 5,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
       "news",
-      "8de80",
+      "nation",
+      "and",
+      "world",
+      "nation",
       "the",
       "latest",
       "trump",
@@ -94,26 +43,88 @@
       "leader",
       "ali",
       "khamenei",
-      "dead"
+      "dead",
+      "article",
+      "bd3f27f8",
+      "eda5",
+      "5eae",
+      "8122",
+      "2d23398d28bc.html"
     ]
   },
   "SAU": {
-    "risk_score": 3.0,
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://punchng.com/uae-intercepts-iranian-missiles-as-saudi-arabia-condemns-blatant-aggression/",
+    "top_news": "https://www.yakimaherald.com/news/nation_and_world/nation/the-latest-trump-says-iranian-supreme-leader-ali-khamenei-is-dead/article_bd3f27f8-eda5-5eae-8122-2d23398d28bc.html",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "uae",
-      "intercepts",
+      "news",
+      "nation",
+      "and",
+      "world",
+      "nation",
+      "the",
+      "latest",
+      "trump",
+      "says",
       "iranian",
-      "missiles",
-      "saudi",
-      "arabia",
-      "condemns",
-      "blatant",
-      "aggression"
+      "supreme",
+      "leader",
+      "ali",
+      "khamenei",
+      "dead",
+      "article",
+      "bd3f27f8",
+      "eda5",
+      "5eae",
+      "8122",
+      "2d23398d28bc.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.7,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/2/28/what-countries-has-trump-attacked-since-returning-to-office",
+    "event_codes": {
+      "16": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "what",
+      "countries",
+      "has",
+      "trump",
+      "attacked",
+      "since",
+      "returning",
+      "office"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/2/28/what-countries-has-trump-attacked-since-returning-to-office",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "what",
+      "countries",
+      "has",
+      "trump",
+      "attacked",
+      "since",
+      "returning",
+      "office"
     ]
   }
 }
