@@ -1,184 +1,138 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.liverpoolecho.co.uk/news/showbiz-news/strictlys-vicky-pattison-scared-shes-33509559",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "showbiz",
-      "news",
-      "strictlys",
-      "vicky",
-      "pattison",
-      "scared",
-      "shes",
-      "33509559"
-    ]
-  },
   "BHR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.abc.net.au/news/2026-03-01/iran-missiles-shake-gulf-states-after-us-israel-strike-tehran/106401498",
+    "risk_score": 8.5,
+    "count": 9,
+    "top_news": "https://www.fox13seattle.com/news/wa-politicians-react-iran-strikes",
     "event_codes": {
-      "19": 7
+      "19": 8,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2026",
+      "politicians",
+      "react",
       "iran",
-      "missiles",
-      "shake",
-      "gulf",
-      "states",
-      "after",
-      "israel",
-      "strike",
-      "tehran",
-      "106401498"
+      "strikes"
     ]
   },
   "IRN": {
-    "risk_score": 34.65,
-    "count": 38,
-    "top_news": "https://www.pineandlakes.com/news/world/iranian-leader-khamenei-killed-in-strikes-israel-says",
+    "risk_score": 44.8,
+    "count": 51,
+    "top_news": "https://wcbm.com/national-headline/over-40-senior-iranian-officials-confirmed-dead-in-operation-epic-fury/",
     "event_codes": {
-      "19": 25,
-      "18": 6,
-      "14": 5,
-      "16": 1,
+      "19": 35,
+      "14": 10,
+      "16": 3,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "world",
+      "national",
+      "headline",
+      "over",
+      "senior",
       "iranian",
-      "leader",
-      "khamenei",
-      "killed",
-      "strikes",
-      "israel",
-      "says"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.mynbc5.com/article/local-leaders-react-to-us-and-israeli-attacks-on-iran/70552787",
-    "event_codes": {
-      "19": 3,
-      "16": 2
-    },
-    "keywords": [
-      "article",
-      "local",
-      "leaders",
-      "react",
-      "and",
-      "israeli",
-      "attacks",
-      "iran",
-      "70552787"
+      "officials",
+      "confirmed",
+      "dead",
+      "operation",
+      "epic",
+      "fury"
     ]
   },
   "ISR": {
-    "risk_score": 12.07,
-    "count": 16,
-    "top_news": "https://www.kob.com/news/top-news/the-latest-trump-believes-reporting-that-irans-supreme-leader-is-dead-is-correct/",
+    "risk_score": 28.98,
+    "count": 33,
+    "top_news": "https://navhindtimes.in/worldnews/201-dead-after-us-israel-attack-iran/",
     "event_codes": {
-      "19": 6,
-      "14": 4,
-      "16": 4,
-      "17": 1,
-      "18": 1
+      "19": 21,
+      "15": 4,
+      "16": 3,
+      "18": 3,
+      "14": 2
     },
     "keywords": [
-      "news",
-      "top",
-      "news",
-      "the",
-      "latest",
-      "trump",
-      "believes",
-      "reporting",
-      "that",
-      "irans",
-      "supreme",
-      "leader",
+      "worldnews",
+      "201",
       "dead",
-      "correct"
+      "after",
+      "israel",
+      "attack",
+      "iran"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.masdark.com/19336",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "19336"
     ]
   },
   "LBN": {
-    "risk_score": 3.32,
-    "count": 7,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/ayatollah-ali-khamenei-iran-supreme-leader-us-attack-b2929491.html",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.channelnewsasia.com/world/trump-says-irans-supreme-leader-khamenei-dead-5961081",
     "event_codes": {
-      "16": 6,
-      "17": 1
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "news",
       "world",
-      "middle",
-      "east",
-      "ayatollah",
-      "ali",
-      "khamenei",
-      "iran",
+      "trump",
+      "says",
+      "irans",
       "supreme",
       "leader",
-      "attack",
-      "b2929491.html"
+      "khamenei",
+      "dead",
+      "5961081"
     ]
   },
   "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.hometownregister.com/news/national/massive-us-attacks-on-iran-unlikely-to-produce-regime-change-in-tehran/article_2217f7d0-00f0-5802-a235-0342b39089f6.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "national",
+      "massive",
+      "attacks",
+      "iran",
+      "unlikely",
+      "produce",
+      "regime",
+      "change",
+      "tehran",
+      "article",
+      "2217f7d0",
+      "00f0",
+      "5802",
+      "a235",
+      "0342b39089f6.html"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.hngnews.com/nation_world/what-to-know-about-the-new-us-israel-attacks-on-iran/article_4231a8a5-3b30-5dff-b97f-9b42938605de.html",
+    "top_news": "https://navhindtimes.in/worldnews/201-dead-after-us-israel-attack-iran/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "nation",
-      "world",
-      "what",
-      "know",
-      "about",
-      "the",
-      "new",
+      "worldnews",
+      "201",
+      "dead",
+      "after",
       "israel",
-      "attacks",
-      "iran",
-      "article",
-      "4231a8a5",
-      "3b30",
-      "5dff",
-      "b97f",
-      "9b42938605de.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.25,
-    "count": 6,
-    "top_news": "https://www.inquirer.com/news/nation-world/anthropic-pentagon-ai-contracts-amodei-hegseth-altman-20260228.html",
-    "event_codes": {
-      "14": 5,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "world",
-      "anthropic",
-      "pentagon",
-      "contracts",
-      "amodei",
-      "hegseth",
-      "altman",
-      "20260228.html"
+      "attack",
+      "iran"
     ]
   }
 }
