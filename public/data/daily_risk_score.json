@@ -1,20 +1,72 @@
 {
-  "QAT": {
+  "IRN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://timesofoman.com/article/168833-us-allows-staff-to-leave-israel-as-iran-tensions-soar",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "article",
+      "168833",
+      "allows",
+      "staff",
+      "leave",
+      "israel",
+      "iran",
+      "tensions",
+      "soar"
+    ]
+  },
+  "KHM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://tribune.com.pk/story/2595010/world-appeals-for-calm-amid-escalation",
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/28/cambodian-authorities-detain-81-scam-suspects-in-raid-claim-over-220000-foreigners-have-fled-kingdom",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "story",
-      "2595010",
-      "world",
-      "appeals",
-      "for",
-      "calm",
-      "amid",
-      "escalation"
+      "aseanplus",
+      "aseanplus",
+      "news",
+      "2026",
+      "cambodian",
+      "authorities",
+      "detain",
+      "scam",
+      "suspects",
+      "raid",
+      "claim",
+      "over",
+      "220000",
+      "foreigners",
+      "have",
+      "fled",
+      "kingdom"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.2,
+    "count": 10,
+    "top_news": "https://punchng.com/fulani-facing-marginalisation-despite-killing-of-our-men-plateau-macban-chair-babayo/",
+    "event_codes": {
+      "17": 5,
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "fulani",
+      "facing",
+      "marginalisation",
+      "despite",
+      "killing",
+      "our",
+      "men",
+      "plateau",
+      "macban",
+      "chair",
+      "babayo"
     ]
   }
 }
