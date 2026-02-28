@@ -1,80 +1,91 @@
 {
-  "IRN": {
-    "risk_score": 27.45,
-    "count": 31,
-    "top_news": "https://www.thedailyreview.com/ap/national/ap-news-summary-at-1-45-a-m-est/article_7fe6d98d-8f1b-5465-a09a-ed01e06357b7.html",
+  "BOL": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thenewsminute.com/news/2-journalists-in-belarus-imprisoned-as-part-of-a-crackdown-on-free-speech-media-groups-say",
     "event_codes": {
-      "19": 24,
-      "17": 7
+      "17": 4
     },
     "keywords": [
-      "national",
       "news",
-      "summary",
-      "est",
-      "article",
-      "7fe6d98d",
-      "8f1b",
-      "5465",
-      "a09a",
-      "ed01e06357b7.html"
+      "journalists",
+      "belarus",
+      "imprisoned",
+      "part",
+      "crackdown",
+      "free",
+      "speech",
+      "media",
+      "groups",
+      "say"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.94,
+    "count": 18,
+    "top_news": "http://www.morningsun.net/stories/israel-launches-daylight-attack-on-irans-capital-as-tensions-high-over-us-nuclear-talks-with,315330",
+    "event_codes": {
+      "19": 13,
+      "17": 3,
+      "15": 2
+    },
+    "keywords": [
+      "stories",
+      "israel",
+      "launches",
+      "daylight",
+      "attack",
+      "irans",
+      "capital",
+      "tensions",
+      "high",
+      "over",
+      "nuclear",
+      "talks",
+      "with,315330"
     ]
   },
   "ISR": {
-    "risk_score": 11.0,
-    "count": 12,
-    "top_news": "https://cyprus-mail.com/2026/02/28/israel-says-it-launched-pre-emptive-attack-against-iran",
+    "risk_score": 16.28,
+    "count": 18,
+    "top_news": "https://www.wuft.org/2026-02-28/trump-announces-major-combat-operations-in-iran",
     "event_codes": {
-      "19": 10,
-      "17": 2
+      "19": 14,
+      "17": 2,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "israel",
-      "says",
-      "launched",
-      "pre",
-      "emptive",
-      "attack",
-      "against",
+      "trump",
+      "announces",
+      "major",
+      "combat",
+      "operations",
       "iran"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/02/28/pakistan-says-it-killed-more-than-300-afghan-forces-in-dayslong-airstrikes-inside-afghanistan",
+  "MMR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/28/airstrikes-kill-at-least-26-civilians-in-myanmar039s-arakan-sagaing-regions",
     "event_codes": {
-      "19": 2
+      "18": 5,
+      "19": 1
     },
     "keywords": [
-      "world",
+      "aseanplus",
+      "aseanplus",
+      "news",
       "2026",
-      "pakistan",
-      "says",
-      "killed",
-      "more",
-      "than",
-      "300",
-      "afghan",
-      "forces",
-      "dayslong",
       "airstrikes",
-      "inside",
-      "afghanistan"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://ismatimes.com/house-of-al-saud-genealogy/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "house",
-      "saud",
-      "genealogy"
+      "kill",
+      "least",
+      "civilians",
+      "myanmar039s",
+      "arakan",
+      "sagaing",
+      "regions"
     ]
   }
 }
