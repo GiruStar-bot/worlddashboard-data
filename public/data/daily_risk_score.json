@@ -1,162 +1,247 @@
 {
-  "BHR": {
-    "risk_score": 17.0,
-    "count": 17,
-    "top_news": "https://egyptianstreets.com/2026/02/28/united-states-and-israel-strike-iran-commencing-major-operations/",
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.express.co.uk/news/world/2176614/dubai-explosion-live-iran-abu-dhabi-saudi-arabia-uae",
     "event_codes": {
-      "19": 17
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2176614",
+      "dubai",
+      "explosion",
+      "live",
+      "iran",
+      "abu",
+      "dhabi",
+      "saudi",
+      "arabia",
+      "uae"
+    ]
+  },
+  "BHR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://metro.co.uk/2026/02/28/missile-attacks-hit-bahrain-with-us-navys-fleet-headquarters-targeted-27156007/",
+    "event_codes": {
+      "19": 6
     },
     "keywords": [
       "2026",
-      "united",
-      "states",
-      "and",
-      "israel",
-      "strike",
-      "iran",
-      "commencing",
-      "major",
-      "operations"
+      "missile",
+      "attacks",
+      "hit",
+      "bahrain",
+      "with",
+      "navys",
+      "fleet",
+      "headquarters",
+      "targeted",
+      "27156007"
+    ]
+  },
+  "COL": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.theguardian.com/world/2026/feb/28/miami-exiled-cubans-speedboat-shootout",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "feb",
+      "miami",
+      "exiled",
+      "cubans",
+      "speedboat",
+      "shootout"
     ]
   },
   "IRN": {
-    "risk_score": 41.74,
-    "count": 48,
-    "top_news": "https://www.hindustantimes.com/world-news/will-make-you-regret-iran-in-first-reaction-to-us-israel-strikes-101772271968651.html",
+    "risk_score": 62.49,
+    "count": 72,
+    "top_news": "https://www.irishmirror.ie/news/world-news/israel-iran-attack-us-live-36795088",
     "event_codes": {
-      "19": 31,
-      "16": 9,
-      "18": 4,
+      "19": 47,
+      "16": 11,
+      "18": 7,
+      "17": 4,
       "15": 2,
-      "17": 2
+      "14": 1
     },
     "keywords": [
+      "news",
       "world",
       "news",
-      "will",
-      "make",
-      "you",
-      "regret",
-      "iran",
-      "first",
-      "reaction",
       "israel",
-      "strikes",
-      "101772271968651.html"
+      "iran",
+      "attack",
+      "live",
+      "36795088"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-888264",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "888264"
     ]
   },
   "ISR": {
-    "risk_score": 29.82,
-    "count": 38,
-    "top_news": "https://www.el-balad.com/6863034",
+    "risk_score": 31.05,
+    "count": 35,
+    "top_news": "https://www.express.co.uk/news/world/2176614/dubai-explosion-live-iran-abu-dhabi-saudi-arabia-uae",
     "event_codes": {
-      "19": 21,
-      "16": 13,
-      "18": 3,
-      "15": 1
+      "19": 27,
+      "16": 4,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "6863034"
+      "news",
+      "world",
+      "2176614",
+      "dubai",
+      "explosion",
+      "live",
+      "iran",
+      "abu",
+      "dhabi",
+      "saudi",
+      "arabia",
+      "uae"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://metro.co.uk/2026/02/28/missile-attacks-hit-bahrain-with-us-navys-fleet-headquarters-targeted-27156007/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "missile",
+      "attacks",
+      "hit",
+      "bahrain",
+      "with",
+      "navys",
+      "fleet",
+      "headquarters",
+      "targeted",
+      "27156007"
+    ]
+  },
+  "KWT": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.khaama.com/iran-launches-missile-strikes-on-u-s-bases-in-uae-qatar-bahrain-kuwait/",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "iran",
+      "launches",
+      "missile",
+      "strikes",
+      "bases",
+      "uae",
+      "qatar",
+      "bahrain",
+      "kuwait"
     ]
   },
   "LBN": {
-    "risk_score": 9.8,
-    "count": 11,
-    "top_news": "https://economictimes.indiatimes.com/news/new-updates/why-has-israel-attacked-iran-nuclear-fears-proxy-wars-and-decades-of-rivalry-explained/articleshow/128879900.cms",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-888264",
     "event_codes": {
-      "19": 9,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "new",
-      "updates",
-      "why",
-      "has",
-      "israel",
-      "attacked",
-      "iran",
-      "nuclear",
-      "fears",
-      "proxy",
-      "wars",
-      "and",
-      "decades",
-      "rivalry",
-      "explained",
-      "articleshow",
-      "128879900.cms"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.14,
-    "count": 7,
-    "top_news": "https://quicknews-africa.net/police-detain-4-recover-vehicles-stolen-snatched-in-enugu-anambra/",
-    "event_codes": {
-      "17": 5,
       "18": 2
     },
     "keywords": [
-      "police",
-      "detain",
-      "recover",
-      "vehicles",
-      "stolen",
-      "snatched",
-      "enugu",
-      "anambra"
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "888264"
     ]
   },
   "QAT": {
-    "risk_score": 7.8,
-    "count": 9,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/full-list-of-us-advisories-issued-after-iran-strikes-where-americans-are-being-told-to-shelter-in-place-qatar-uae-101772270746617.html",
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.omanobserver.om/article/1185169/world/region/high-alert-in-the-uae-bahrain-qatar",
     "event_codes": {
-      "19": 7,
-      "16": 2
+      "19": 4,
+      "17": 2
     },
     "keywords": [
+      "article",
+      "1185169",
       "world",
-      "news",
-      "news",
-      "full",
-      "list",
-      "advisories",
-      "issued",
-      "after",
-      "iran",
-      "strikes",
-      "where",
-      "americans",
-      "are",
-      "being",
-      "told",
-      "shelter",
-      "place",
-      "qatar",
+      "region",
+      "high",
+      "alert",
+      "the",
       "uae",
-      "101772270746617.html"
+      "bahrain",
+      "qatar"
     ]
   },
-  "VEN": {
-    "risk_score": 2.7,
+  "SYR": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.premiumtimesng.com/opinion/860295-nigerians-rally-for-cuba-as-us-grows-politically-schizophrenic-by-owei-lakemfa.html",
+    "top_news": "https://theaviationist.com/2026/02/28/israel-us-attack-iran/",
     "event_codes": {
-      "18": 3
+      "19": 3
     },
     "keywords": [
-      "opinion",
-      "860295",
-      "nigerians",
-      "rally",
-      "for",
-      "cuba",
-      "grows",
-      "politically",
-      "schizophrenic",
-      "owei",
-      "lakemfa.html"
+      "2026",
+      "israel",
+      "attack",
+      "iran"
+    ]
+  },
+  "VNM": {
+    "risk_score": 5.2,
+    "count": 6,
+    "top_news": "https://www.military.com/daily-news/investigations-and-features/2026/02/26/operation-bribie-one-of-deadliest-battles-australian-troops-vietnam-war.html",
+    "event_codes": {
+      "18": 3,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "daily",
+      "news",
+      "investigations",
+      "and",
+      "features",
+      "2026",
+      "operation",
+      "bribie",
+      "one",
+      "deadliest",
+      "battles",
+      "australian",
+      "troops",
+      "vietnam",
+      "war.html"
     ]
   }
 }
