@@ -1,128 +1,184 @@
 {
-  "BHR": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/us-bases-left-exposed-iranian-193036758.html",
-    "event_codes": {
-      "19": 3,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "bases",
-      "left",
-      "exposed",
-      "iranian",
-      "193036758.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 30.66,
-    "count": 37,
-    "top_news": "https://www.timesnownews.com/world/middle-east/us-israel-iran-war-timeline-missile-drone-strikes-middle-east-conflict-ayatollah-ali-khamenei-article-153722429",
-    "event_codes": {
-      "19": 14,
-      "18": 8,
-      "14": 6,
-      "16": 5,
-      "15": 3,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "iran",
-      "war",
-      "timeline",
-      "missile",
-      "drone",
-      "strikes",
-      "middle",
-      "east",
-      "conflict",
-      "ayatollah",
-      "ali",
-      "khamenei",
-      "article",
-      "153722429"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.69,
-    "count": 5,
-    "top_news": "https://www.perthnow.com.au/news/world/us-israeli-attack-triggers-fear-and-panic-in-iran-c-21792322",
-    "event_codes": {
-      "14": 3,
-      "15": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "israeli",
-      "attack",
-      "triggers",
-      "fear",
-      "and",
-      "panic",
-      "iran",
-      "21792322"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.12,
-    "count": 15,
-    "top_news": "https://www.timesnownews.com/world/middle-east/us-israel-iran-war-timeline-missile-drone-strikes-middle-east-conflict-ayatollah-ali-khamenei-article-153722429",
-    "event_codes": {
-      "19": 12,
-      "15": 1,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "iran",
-      "war",
-      "timeline",
-      "missile",
-      "drone",
-      "strikes",
-      "middle",
-      "east",
-      "conflict",
-      "ayatollah",
-      "ali",
-      "khamenei",
-      "article",
-      "153722429"
-    ]
-  },
-  "LBN": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://nypost.com/2026/02/28/us-news/irans-counter-tehran-already-hitting-us-allies-could-still-fund-terror-abroad/",
+    "top_news": "https://www.liverpoolecho.co.uk/news/showbiz-news/strictlys-vicky-pattison-scared-shes-33509559",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
       "news",
-      "irans",
-      "counter",
+      "showbiz",
+      "news",
+      "strictlys",
+      "vicky",
+      "pattison",
+      "scared",
+      "shes",
+      "33509559"
+    ]
+  },
+  "BHR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.abc.net.au/news/2026-03-01/iran-missiles-shake-gulf-states-after-us-israel-strike-tehran/106401498",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "iran",
+      "missiles",
+      "shake",
+      "gulf",
+      "states",
+      "after",
+      "israel",
+      "strike",
       "tehran",
-      "already",
-      "hitting",
-      "allies",
-      "could",
-      "still",
-      "fund",
-      "terror",
-      "abroad"
+      "106401498"
+    ]
+  },
+  "IRN": {
+    "risk_score": 34.65,
+    "count": 38,
+    "top_news": "https://www.pineandlakes.com/news/world/iranian-leader-khamenei-killed-in-strikes-israel-says",
+    "event_codes": {
+      "19": 25,
+      "18": 6,
+      "14": 5,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "iranian",
+      "leader",
+      "khamenei",
+      "killed",
+      "strikes",
+      "israel",
+      "says"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.mynbc5.com/article/local-leaders-react-to-us-and-israeli-attacks-on-iran/70552787",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "article",
+      "local",
+      "leaders",
+      "react",
+      "and",
+      "israeli",
+      "attacks",
+      "iran",
+      "70552787"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.07,
+    "count": 16,
+    "top_news": "https://www.kob.com/news/top-news/the-latest-trump-believes-reporting-that-irans-supreme-leader-is-dead-is-correct/",
+    "event_codes": {
+      "19": 6,
+      "14": 4,
+      "16": 4,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "the",
+      "latest",
+      "trump",
+      "believes",
+      "reporting",
+      "that",
+      "irans",
+      "supreme",
+      "leader",
+      "dead",
+      "correct"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.32,
+    "count": 7,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/ayatollah-ali-khamenei-iran-supreme-leader-us-attack-b2929491.html",
+    "event_codes": {
+      "16": 6,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "ayatollah",
+      "ali",
+      "khamenei",
+      "iran",
+      "supreme",
+      "leader",
+      "attack",
+      "b2929491.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hngnews.com/nation_world/what-to-know-about-the-new-us-israel-attacks-on-iran/article_4231a8a5-3b30-5dff-b97f-9b42938605de.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "what",
+      "know",
+      "about",
+      "the",
+      "new",
+      "israel",
+      "attacks",
+      "iran",
+      "article",
+      "4231a8a5",
+      "3b30",
+      "5dff",
+      "b97f",
+      "9b42938605de.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.25,
+    "count": 6,
+    "top_news": "https://www.inquirer.com/news/nation-world/anthropic-pentagon-ai-contracts-amodei-hegseth-altman-20260228.html",
+    "event_codes": {
+      "14": 5,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "world",
+      "anthropic",
+      "pentagon",
+      "contracts",
+      "amodei",
+      "hegseth",
+      "altman",
+      "20260228.html"
     ]
   }
 }
