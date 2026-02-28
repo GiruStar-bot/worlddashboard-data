@@ -1,72 +1,59 @@
 {
   "IRN": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://timesofoman.com/article/168833-us-allows-staff-to-leave-israel-as-iran-tensions-soar",
+    "risk_score": 3.1,
+    "count": 4,
+    "top_news": "https://wardheernews.com/piracy-flares-again-as-deadly-clash-erupts-off-coastal-puntland/",
     "event_codes": {
-      "19": 3,
-      "16": 2
+      "18": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "article",
-      "168833",
-      "allows",
-      "staff",
-      "leave",
-      "israel",
-      "iran",
-      "tensions",
-      "soar"
-    ]
-  },
-  "KHM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/02/28/cambodian-authorities-detain-81-scam-suspects-in-raid-claim-over-220000-foreigners-have-fled-kingdom",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
-      "2026",
-      "cambodian",
-      "authorities",
-      "detain",
-      "scam",
-      "suspects",
-      "raid",
-      "claim",
-      "over",
-      "220000",
-      "foreigners",
-      "have",
-      "fled",
-      "kingdom"
+      "piracy",
+      "flares",
+      "again",
+      "deadly",
+      "clash",
+      "erupts",
+      "off",
+      "coastal",
+      "puntland"
     ]
   },
   "NGA": {
-    "risk_score": 7.2,
-    "count": 10,
-    "top_news": "https://punchng.com/fulani-facing-marginalisation-despite-killing-of-our-men-plateau-macban-chair-babayo/",
+    "risk_score": 6.0,
+    "count": 12,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/860258-court-sentences-native-doctor-to-12-years-imprisonment.html",
     "event_codes": {
-      "17": 5,
-      "18": 3,
+      "17": 12
+    },
+    "keywords": [
+      "news",
+      "headlines",
+      "860258",
+      "court",
+      "sentences",
+      "native",
+      "doctor",
+      "years",
+      "imprisonment.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://finance.yahoo.com/news/2026-outlook-south-america-top-230000335.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "fulani",
-      "facing",
-      "marginalisation",
-      "despite",
-      "killing",
-      "our",
-      "men",
-      "plateau",
-      "macban",
-      "chair",
-      "babayo"
+      "news",
+      "2026",
+      "outlook",
+      "south",
+      "america",
+      "top",
+      "230000335.html"
     ]
   }
 }
