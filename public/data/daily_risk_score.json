@@ -1,76 +1,232 @@
 {
-  "IRN": {
-    "risk_score": 36.7,
-    "count": 43,
-    "top_news": "https://www.express.co.uk/news/world/2176775/iran-news-live-khamenei-dead-trump-dubai",
+  "ARE": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://www.stripes.com/theaters/middle_east/2026-03-01/iran-missile-strikes-us-military-20912612.html",
     "event_codes": {
-      "19": 19,
-      "17": 11,
-      "14": 8,
-      "18": 3,
-      "15": 1,
+      "19": 8,
+      "16": 2
+    },
+    "keywords": [
+      "theaters",
+      "middle",
+      "east",
+      "2026",
+      "iran",
+      "missile",
+      "strikes",
+      "military",
+      "20912612.html"
+    ]
+  },
+  "IDN": {
+    "risk_score": 3.4,
+    "count": 8,
+    "top_news": "https://www.jacarandafm.com/news/news/airspace-closed-flights-cancelled-us-iran-conflict/",
+    "event_codes": {
+      "16": 6,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "news",
+      "airspace",
+      "closed",
+      "flights",
+      "cancelled",
+      "iran",
+      "conflict"
+    ]
+  },
+  "IRN": {
+    "risk_score": 59.11,
+    "count": 73,
+    "top_news": "https://www.aa.com.tr/en/middle-east/airspace-maritime-closures-announced-in-arab-states-as-us-israel-strike-iran/3844581",
+    "event_codes": {
+      "19": 36,
+      "14": 16,
+      "16": 10,
+      "17": 4,
+      "18": 4,
+      "15": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "airspace",
+      "maritime",
+      "closures",
+      "announced",
+      "arab",
+      "states",
+      "israel",
+      "strike",
+      "iran",
+      "3844581"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://www.tribuneindia.com/news/top-headlines/magnetic-bombs-mysterious-shootings-theft-of-irans-nuclear-archive-how-us-israels-covert-war-culminated-in-open-conflict/",
+    "event_codes": {
+      "14": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "headlines",
+      "magnetic",
+      "bombs",
+      "mysterious",
+      "shootings",
+      "theft",
+      "irans",
+      "nuclear",
+      "archive",
+      "how",
+      "israels",
+      "covert",
+      "war",
+      "culminated",
+      "open",
+      "conflict"
+    ]
+  },
+  "ISR": {
+    "risk_score": 48.0,
+    "count": 50,
+    "top_news": "https://www.aa.com.tr/en/middle-east/profile-the-life-and-power-of-iran-s-ayatollah-ali-khamenei/3844535",
+    "event_codes": {
+      "19": 44,
+      "14": 2,
+      "16": 2,
+      "18": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "profile",
+      "the",
+      "life",
+      "and",
+      "power",
+      "iran",
+      "ayatollah",
+      "ali",
+      "khamenei",
+      "3844535"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.25,
+    "count": 6,
+    "top_news": "https://www.ummid.com/news/2026/3/1/whose-war-is-iran-fighting.html",
+    "event_codes": {
+      "16": 4,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "whose",
+      "war",
+      "iran",
+      "fighting.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aa.com.tr/en/middle-east/profile-the-life-and-power-of-iran-s-ayatollah-ali-khamenei/3844535",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "profile",
+      "the",
+      "life",
+      "and",
+      "power",
+      "iran",
+      "ayatollah",
+      "ali",
+      "khamenei",
+      "3844535"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://imemc.org/article/west-bank-young-man-dies-of-previous-injuries-israeli-forces-shoot-two/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "west",
+      "bank",
+      "young",
+      "man",
+      "dies",
+      "previous",
+      "injuries",
+      "israeli",
+      "forces",
+      "shoot",
+      "two"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/oman-port-hit-worker-injured-as-iran-hits-gulf-for-second-day/articleshow/128910446.cms",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
       "16": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2176775",
+      "defence",
+      "oman",
+      "port",
+      "hit",
+      "worker",
+      "injured",
       "iran",
-      "news",
-      "live",
-      "khamenei",
-      "dead",
-      "trump",
-      "dubai"
+      "hits",
+      "gulf",
+      "for",
+      "second",
+      "day",
+      "articleshow",
+      "128910446.cms"
     ]
   },
-  "ISR": {
-    "risk_score": 17.3,
-    "count": 21,
-    "top_news": "https://www.theguardian.com/world/2026/mar/01/iranian-australians-celebrate-death-of-supreme-leader-and-dream-with-quiet-anticipation-of-regime-change",
+  "TUR": {
+    "risk_score": 2.2,
+    "count": 4,
+    "top_news": "https://www.aa.com.tr/en/middle-east/4-injured-in-attack-on-oil-tanker-near-oman-s-coast/3844826",
     "event_codes": {
-      "19": 13,
-      "16": 4,
-      "14": 2,
-      "17": 1,
-      "18": 1
+      "16": 3,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "2026",
-      "mar",
-      "iranian",
-      "australians",
-      "celebrate",
-      "death",
-      "supreme",
-      "leader",
-      "and",
-      "dream",
-      "with",
-      "quiet",
-      "anticipation",
-      "regime",
-      "change"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://dailytrust.com/akande-calls-attention-to-leah-sharibu-8-years-after-her-abduction/",
-    "event_codes": {
-      "18": 5
-    },
-    "keywords": [
-      "akande",
-      "calls",
-      "attention",
-      "leah",
-      "sharibu",
-      "years",
-      "after",
-      "her",
-      "abduction"
+      "middle",
+      "east",
+      "injured",
+      "attack",
+      "oil",
+      "tanker",
+      "near",
+      "oman",
+      "coast",
+      "3844826"
     ]
   }
 }
