@@ -1,108 +1,188 @@
 {
   "ARE": {
-    "risk_score": 8.3,
-    "count": 11,
-    "top_news": "https://www.yahoo.com/news/articles/u-israeli-war-iran-enters-060257572.html",
-    "event_codes": {
-      "16": 3,
-      "18": 3,
-      "19": 3,
-      "14": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "israeli",
-      "war",
-      "iran",
-      "enters",
-      "060257572.html"
-    ]
-  },
-  "BHR": {
-    "risk_score": 2.5,
+    "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/u-israeli-war-iran-enters-060257572.html",
+    "top_news": "https://www.moneycontrol.com/world/dubai-airport-palm-jumeirah-how-iran-attacked-uae-s-commercial-and-luxury-landmarks-article-13847002.html",
     "event_codes": {
       "19": 2,
-      "17": 1
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "israeli",
-      "war",
+      "world",
+      "dubai",
+      "airport",
+      "palm",
+      "jumeirah",
+      "how",
       "iran",
-      "enters",
-      "060257572.html"
+      "attacked",
+      "uae",
+      "commercial",
+      "and",
+      "luxury",
+      "landmarks",
+      "article",
+      "13847002.html"
+    ]
+  },
+  "COD": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://chimpreports.com/dr-congo-m23-rebels-vows-fight-will-continue-after-willy-ngoma-killing/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "congo",
+      "m23",
+      "rebels",
+      "vows",
+      "fight",
+      "will",
+      "continue",
+      "after",
+      "willy",
+      "ngoma",
+      "killing"
     ]
   },
   "IRN": {
-    "risk_score": 38.9,
-    "count": 41,
-    "top_news": "https://www.huffingtonpost.co.uk/entry/trump-says-iranian-supreme-leader-ali-khamenei-is-dead_uk_69a3d9fee4b0d383f5035160",
+    "risk_score": 51.15,
+    "count": 63,
+    "top_news": "https://www.thedailybeast.com/draft-dodger-trump-has-found-another-way-to-betray-america/",
     "event_codes": {
-      "19": 32,
-      "18": 4,
-      "14": 3,
-      "16": 1,
-      "17": 1
+      "19": 29,
+      "14": 19,
+      "16": 6,
+      "18": 6,
+      "17": 3
     },
     "keywords": [
-      "entry",
+      "draft",
+      "dodger",
       "trump",
-      "says",
-      "iranian",
+      "has",
+      "found",
+      "another",
+      "way",
+      "betray",
+      "america"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 11.95,
+    "count": 12,
+    "top_news": "https://townhall.com/columnists/michaelbrown/2026/03/01/purim-is-here-and-israel-is-at-war-with-iran-once-again-n2672078",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "columnists",
+      "michaelbrown",
+      "2026",
+      "purim",
+      "here",
+      "and",
+      "israel",
+      "war",
+      "with",
+      "iran",
+      "once",
+      "again",
+      "n2672078"
+    ]
+  },
+  "ISR": {
+    "risk_score": 37.35,
+    "count": 41,
+    "top_news": "https://www.haaretz.com/israel-news/israel-security/2026-02-28/ty-article/irans-supreme-leader-ali-khamenei-is-dead-say-israeli-and-u-s-sources/0000019c-a5cf-d3e2-af9f-efff77b20000",
+    "event_codes": {
+      "19": 26,
+      "14": 10,
+      "18": 5
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "israel",
+      "security",
+      "2026",
+      "article",
+      "irans",
       "supreme",
       "leader",
       "ali",
       "khamenei",
       "dead",
-      "69a3d9fee4b0d383f5035160"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/u-israeli-war-iran-enters-060257572.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
+      "say",
       "israeli",
-      "war",
-      "iran",
-      "enters",
-      "060257572.html"
+      "and",
+      "sources",
+      "0000019c",
+      "a5cf",
+      "d3e2",
+      "af9f",
+      "efff77b20000"
     ]
   },
-  "ISR": {
-    "risk_score": 18.25,
-    "count": 19,
-    "top_news": "https://www.prokerala.com/news/articles/a1734555.html",
-    "event_codes": {
-      "19": 14,
-      "18": 4,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1734555.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.0,
+  "JOR": {
+    "risk_score": 3.4,
     "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/423150",
+    "top_news": "https://www.clickondetroit.com/news/world/2026/03/01/the-latest-irans-supreme-leader-khamenei-killed-in-us-israeli-attack/",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "16": 1
     },
     "keywords": [
       "news",
-      "423150"
+      "world",
+      "2026",
+      "the",
+      "latest",
+      "irans",
+      "supreme",
+      "leader",
+      "khamenei",
+      "killed",
+      "israeli",
+      "attack"
+    ]
+  },
+  "NGA": {
+    "risk_score": 16.4,
+    "count": 22,
+    "top_news": "https://thenationonlineng.net/rivers-truce-for-how-long/",
+    "event_codes": {
+      "17": 13,
+      "19": 7,
+      "16": 2
+    },
+    "keywords": [
+      "rivers",
+      "truce",
+      "for",
+      "how",
+      "long"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thedailybeast.com/draft-dodger-trump-has-found-another-way-to-betray-america/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "draft",
+      "dodger",
+      "trump",
+      "has",
+      "found",
+      "another",
+      "way",
+      "betray",
+      "america"
     ]
   }
 }
