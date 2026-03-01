@@ -1,219 +1,146 @@
 {
-  "ARE": {
-    "risk_score": 3.45,
-    "count": 8,
-    "top_news": "https://www.livemint.com/news/india/pm-modi-chairs-cabinet-committee-on-security-meeting-with-nsa-ajit-doval-others-whats-discussed-11772391737271.html",
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.algemeiner.com/2026/03/01/iranian-missile-strike-beit-shemesh-israel-kills-9/",
     "event_codes": {
-      "16": 7,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "india",
-      "modi",
-      "chairs",
-      "cabinet",
-      "committee",
-      "security",
-      "meeting",
-      "with",
-      "nsa",
-      "ajit",
-      "doval",
-      "others",
-      "whats",
-      "discussed",
-      "11772391737271.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.livemint.com/news/full-list-of-airports-impacted-by-cancellations-flight-operations-in-doha-riyadh-abu-dhabi-sharjah-dubai-11772388648798.html",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "full",
-      "list",
-      "airports",
-      "impacted",
-      "cancellations",
-      "flight",
-      "operations",
-      "doha",
-      "riyadh",
-      "abu",
-      "dhabi",
-      "sharjah",
-      "dubai",
-      "11772388648798.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 53.63,
-    "count": 63,
-    "top_news": "https://www.cbsnews.com/news/face-the-nation-full-transcript-03-01-2026/",
-    "event_codes": {
-      "19": 35,
-      "17": 14,
-      "14": 6,
-      "18": 5,
-      "15": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "face",
-      "the",
-      "nation",
-      "full",
-      "transcript",
-      "2026"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.25,
-    "count": 4,
-    "top_news": "https://www.bssnews.net/international/365050",
-    "event_codes": {
-      "19": 2,
-      "14": 1,
-      "17": 1
-    },
-    "keywords": [
-      "international",
-      "365050"
-    ]
-  },
-  "ISR": {
-    "risk_score": 34.53,
-    "count": 40,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/01/iranian-ex-president-ahmadinejad-reportedly-killed-in-tehran-airstrike",
-    "event_codes": {
-      "19": 22,
-      "17": 14,
-      "18": 3,
-      "14": 1
+      "19": 3
     },
     "keywords": [
       "2026",
       "iranian",
-      "president",
-      "ahmadinejad",
-      "reportedly",
-      "killed",
-      "tehran",
-      "airstrike"
+      "missile",
+      "strike",
+      "beit",
+      "shemesh",
+      "israel",
+      "kills"
     ]
   },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.livemint.com/news/full-list-of-airports-impacted-by-cancellations-flight-operations-in-doha-riyadh-abu-dhabi-sharjah-dubai-11772388648798.html",
+  "IRN": {
+    "risk_score": 33.95,
+    "count": 37,
+    "top_news": "https://www.algemeiner.com/2026/03/01/us-military-says-three-of-its-troops-killed-in-first-iran-operation-casualties/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "full",
-      "list",
-      "airports",
-      "impacted",
-      "cancellations",
-      "flight",
-      "operations",
-      "doha",
-      "riyadh",
-      "abu",
-      "dhabi",
-      "sharjah",
-      "dubai",
-      "11772388648798.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://thefrontierpost.com/hezbollah-supporters-mourn-khamenei-in-lebanon-mass-rally/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "hezbollah",
-      "supporters",
-      "mourn",
-      "khamenei",
-      "lebanon",
-      "mass",
-      "rally"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.22,
-    "count": 5,
-    "top_news": "https://www.nigerianeye.com/2026/03/body-of-abducted-ondo-youth-obesere.html",
-    "event_codes": {
-      "19": 3,
-      "15": 1,
+      "19": 25,
+      "14": 8,
+      "18": 3,
       "17": 1
     },
     "keywords": [
       "2026",
-      "body",
-      "abducted",
-      "ondo",
-      "youth",
-      "obesere.html"
+      "military",
+      "says",
+      "three",
+      "its",
+      "troops",
+      "killed",
+      "first",
+      "iran",
+      "operation",
+      "casualties"
     ]
   },
-  "PSE": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/01/pakistan-warns-unsc-unjust-us-israeli-attacks-risk-destabilising-entire-region",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "pakistan",
-      "warns",
-      "unsc",
-      "unjust",
-      "israeli",
-      "attacks",
-      "risk",
-      "destabilising",
-      "entire",
-      "region"
-    ]
-  },
-  "SAU": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.livemint.com/news/full-list-of-airports-impacted-by-cancellations-flight-operations-in-doha-riyadh-abu-dhabi-sharjah-dubai-11772388648798.html",
+    "top_news": "https://www.lbc.co.uk/article/uk-mounts-major-operation-to-support-thousands-stranded-in-the-gulf-5HjdTgK_2/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "full",
-      "list",
-      "airports",
-      "impacted",
-      "cancellations",
-      "flight",
-      "operations",
-      "doha",
+      "article",
+      "mounts",
+      "major",
+      "operation",
+      "support",
+      "thousands",
+      "stranded",
+      "the",
+      "gulf",
+      "5hjdtgk"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.2,
+    "count": 16,
+    "top_news": "https://www.businessday.co.za/world/middle-east/2026-03-01-us-troops-killed-as-iran-retaliation-widens-regional-conflict/",
+    "event_codes": {
+      "19": 13,
+      "14": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "troops",
+      "killed",
+      "iran",
+      "retaliation",
+      "widens",
+      "regional",
+      "conflict"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.65,
+    "count": 4,
+    "top_news": "https://blueprint.ng/ndlea-arrests-wanted-drug-kingpin-after-13-years-in-hiding-bursts-meth-lab-in-imo/",
+    "event_codes": {
+      "14": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "ndlea",
+      "arrests",
+      "wanted",
+      "drug",
+      "kingpin",
+      "after",
+      "years",
+      "hiding",
+      "bursts",
+      "meth",
+      "lab",
+      "imo"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://news24online.com/world/big-trouble-for-pakistan-islamabad-already-in-conflict-with-afghanistan-irans-strike-on-saudi-arabia-puts-old-defence-pact-to-test-will-asim-munir-aid-riyadh/762130/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "big",
+      "trouble",
+      "for",
+      "pakistan",
+      "islamabad",
+      "already",
+      "conflict",
+      "with",
+      "afghanistan",
+      "irans",
+      "strike",
+      "saudi",
+      "arabia",
+      "puts",
+      "old",
+      "defence",
+      "pact",
+      "test",
+      "will",
+      "asim",
+      "munir",
+      "aid",
       "riyadh",
-      "abu",
-      "dhabi",
-      "sharjah",
-      "dubai",
-      "11772388648798.html"
+      "762130"
     ]
   }
 }
