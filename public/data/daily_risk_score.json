@@ -1,98 +1,159 @@
 {
   "ARE": {
-    "risk_score": 3.3,
-    "count": 5,
-    "top_news": "https://www.aol.co.uk/articles/ukraine-war-briefing-zelenskyy-says-022609673.html",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.news9.com/oklahoma-city-news/some-university-of-central-oklahoma-students-stand-in-solidarity-with-the-people-of-iran",
     "event_codes": {
-      "16": 2,
-      "19": 2,
-      "17": 1
+      "19": 7
     },
     "keywords": [
-      "articles",
-      "ukraine",
-      "war",
-      "briefing",
-      "zelenskyy",
-      "says",
-      "022609673.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 40.0,
-    "count": 43,
-    "top_news": "https://www.cleveland19.com/2026/03/01/what-know-about-new-us-israel-attacks-iran/",
-    "event_codes": {
-      "19": 33,
-      "14": 3,
-      "17": 3,
-      "18": 3,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "what",
-      "know",
-      "about",
-      "new",
-      "israel",
-      "attacks",
+      "oklahoma",
+      "city",
+      "news",
+      "some",
+      "university",
+      "central",
+      "oklahoma",
+      "students",
+      "stand",
+      "solidarity",
+      "with",
+      "the",
+      "people",
       "iran"
     ]
   },
-  "ISR": {
-    "risk_score": 27.05,
-    "count": 28,
-    "top_news": "https://en.tempo.co/read/2089902/indonesias-ex-deputy-minister-calls-prabowos-iran-mediation-plan-unrealistic",
-    "event_codes": {
-      "19": 26,
-      "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "read",
-      "2089902",
-      "indonesias",
-      "deputy",
-      "minister",
-      "calls",
-      "prabowos",
-      "iran",
-      "mediation",
-      "plan",
-      "unrealistic"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 5,
-    "top_news": "https://www.channelnewsasia.com/asia/indonesia-flag-carrier-garuda-suspends-flights-and-doha-statement-5961351",
-    "event_codes": {
-      "16": 5
-    },
-    "keywords": [
-      "asia",
-      "indonesia",
-      "flag",
-      "carrier",
-      "garuda",
-      "suspends",
-      "flights",
-      "and",
-      "doha",
-      "statement",
-      "5961351"
-    ]
-  },
-  "QAT": {
+  "BHR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.el-balad.com/6863901",
+    "top_news": "https://kashmirlife.net/american-israeli-attack-on-iran-killed-200-as-tehran-retaliates-across-the-gulf-426963/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "6863901"
+      "american",
+      "israeli",
+      "attack",
+      "iran",
+      "killed",
+      "200",
+      "tehran",
+      "retaliates",
+      "across",
+      "the",
+      "gulf",
+      "426963"
+    ]
+  },
+  "IRN": {
+    "risk_score": 40.27,
+    "count": 43,
+    "top_news": "https://kashmirlife.net/american-israeli-attack-on-iran-killed-200-as-tehran-retaliates-across-the-gulf-426963/",
+    "event_codes": {
+      "19": 34,
+      "16": 4,
+      "18": 2,
+      "14": 1,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "american",
+      "israeli",
+      "attack",
+      "iran",
+      "killed",
+      "200",
+      "tehran",
+      "retaliates",
+      "across",
+      "the",
+      "gulf",
+      "426963"
+    ]
+  },
+  "ISR": {
+    "risk_score": 23.4,
+    "count": 24,
+    "top_news": "http://www.china.org.cn/2026-03/01/content_118353448.shtml",
+    "event_codes": {
+      "19": 18,
+      "18": 5,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "content",
+      "118353448.shtml"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/horror-injuries-helpless-baby-suffered-36780482",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "horror",
+      "injuries",
+      "helpless",
+      "baby",
+      "suffered",
+      "36780482"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "http://www.china.org.cn/2026-03/01/content_118353448.shtml",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "content",
+      "118353448.shtml"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.china.org.cn/2026-03/01/content_118353448.shtml",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "content",
+      "118353448.shtml"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://kashmirlife.net/american-israeli-attack-on-iran-killed-200-as-tehran-retaliates-across-the-gulf-426963/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "american",
+      "israeli",
+      "attack",
+      "iran",
+      "killed",
+      "200",
+      "tehran",
+      "retaliates",
+      "across",
+      "the",
+      "gulf",
+      "426963"
     ]
   }
 }
