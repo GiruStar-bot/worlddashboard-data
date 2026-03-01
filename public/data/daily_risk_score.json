@@ -1,122 +1,16 @@
 {
   "ARE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.myjoyonline.com/flights-in-and-out-of-middle-east-cancelled-and-diverted-after-iran-strikes/",
+    "risk_score": 7.35,
+    "count": 8,
+    "top_news": "https://www.perthnow.com.au/news/conflict/blasts-heard-over-dubai-and-doha-as-iran-retaliates-c-21797380",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "flights",
-      "and",
-      "out",
-      "middle",
-      "east",
-      "cancelled",
-      "and",
-      "diverted",
-      "after",
-      "iran",
-      "strikes"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.tempo.co/read/2089959/todays-top-3-news-iran-names-interim-leadership-after-khamenei-killed",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "read",
-      "2089959",
-      "todays",
-      "top",
-      "news",
-      "iran",
-      "names",
-      "interim",
-      "leadership",
-      "after",
-      "khamenei",
-      "killed"
-    ]
-  },
-  "IRN": {
-    "risk_score": 52.77,
-    "count": 62,
-    "top_news": "https://www.newstribune.com/news/2026/mar/01/us-israeli-attack-triggers-fear-panic-in-iran/",
-    "event_codes": {
-      "19": 33,
-      "14": 12,
-      "16": 9,
-      "18": 4,
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "mar",
-      "israeli",
-      "attack",
-      "triggers",
-      "fear",
-      "panic",
-      "iran"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.cbsnews.com/live-updates/us-iran-war-israel-supreme-leader-khamenei-funeral-day-2/",
-    "event_codes": {
-      "14": 2,
+      "19": 6,
       "16": 1,
-      "19": 1
+      "18": 1
     },
     "keywords": [
-      "live",
-      "updates",
-      "iran",
-      "war",
-      "israel",
-      "supreme",
-      "leader",
-      "khamenei",
-      "funeral",
-      "day"
-    ]
-  },
-  "ISR": {
-    "risk_score": 26.05,
-    "count": 31,
-    "top_news": "http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16445213.html",
-    "event_codes": {
-      "19": 20,
-      "16": 4,
-      "17": 4,
-      "18": 2,
-      "14": 1
-    },
-    "keywords": [
-      "2025xb",
-      "251454",
-      "251456",
-      "16445213.html"
-    ]
-  },
-  "QAT": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://www.goulburnpost.com.au/story/9186966/blasts-heard-over-dubai-and-doha-as-iran-retaliates/",
-    "event_codes": {
-      "19": 5,
-      "16": 1
-    },
-    "keywords": [
-      "story",
-      "9186966",
+      "news",
+      "conflict",
       "blasts",
       "heard",
       "over",
@@ -124,48 +18,177 @@
       "and",
       "doha",
       "iran",
-      "retaliates"
+      "retaliates",
+      "21797380"
+    ]
+  },
+  "BHR": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/fears-iran-could-launch-terror-36798607",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "latest",
+      "news",
+      "fears",
+      "iran",
+      "could",
+      "launch",
+      "terror",
+      "36798607"
+    ]
+  },
+  "IRN": {
+    "risk_score": 46.22,
+    "count": 51,
+    "top_news": "https://www.yahoo.com/news/articles/iran-live-updates-israel-launches-064500842.html",
+    "event_codes": {
+      "19": 35,
+      "14": 7,
+      "18": 4,
+      "16": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "iran",
+      "live",
+      "updates",
+      "israel",
+      "launches",
+      "064500842.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 8.15,
+    "count": 10,
+    "top_news": "https://www.bridgwatermercury.co.uk/news/national/25897003.fears-grow-regional-instability-death-irans-leader/",
+    "event_codes": {
+      "14": 5,
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25897003.fears",
+      "grow",
+      "regional",
+      "instability",
+      "death",
+      "irans",
+      "leader"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.84,
+    "count": 26,
+    "top_news": "https://www.dailystar.co.uk/news/world-news/know-iranian-strikes-dubai-middle-36798333",
+    "event_codes": {
+      "19": 23,
+      "15": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "know",
+      "iranian",
+      "strikes",
+      "dubai",
+      "middle",
+      "36798333"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aninews.in/news/national/general-news/84-students-of-punes-indira-univeristy-stranded-in-dubai-amid-west-asia-war-tensions20260301155239/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "general",
+      "news",
+      "students",
+      "punes",
+      "indira",
+      "univeristy",
+      "stranded",
+      "dubai",
+      "amid",
+      "west",
+      "asia",
+      "war",
+      "tensions20260301155239"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/fears-iran-could-launch-terror-36798607",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "latest",
+      "news",
+      "fears",
+      "iran",
+      "could",
+      "launch",
+      "terror",
+      "36798607"
+    ]
+  },
+  "QAT": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.tbsnews.net/worldbiz/middle-east/iran-state-media-reports-supreme-leader-khamenei-killed-strikes-1373696",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "worldbiz",
+      "middle",
+      "east",
+      "iran",
+      "state",
+      "media",
+      "reports",
+      "supreme",
+      "leader",
+      "khamenei",
+      "killed",
+      "strikes",
+      "1373696"
     ]
   },
   "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://en.tempo.co/read/2089937/iran-us-war-indonesias-soekarno-hatta-cancels-middle-east-flights",
+    "top_news": "https://www.dailymail.co.uk/news/article-15603591/Israel-headquarters-Iranian-airstrike-Tehran.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "read",
-      "2089937",
-      "iran",
-      "war",
-      "indonesias",
-      "soekarno",
-      "hatta",
-      "cancels",
-      "middle",
-      "east",
-      "flights"
-    ]
-  },
-  "TUR": {
-    "risk_score": 9.0,
-    "count": 21,
-    "top_news": "https://www.newstribune.com/news/2026/mar/01/us-israeli-attack-triggers-fear-panic-in-iran/",
-    "event_codes": {
-      "16": 20,
-      "19": 1
-    },
-    "keywords": [
       "news",
-      "2026",
-      "mar",
-      "israeli",
-      "attack",
-      "triggers",
-      "fear",
-      "panic",
-      "iran"
+      "article",
+      "15603591",
+      "israel",
+      "headquarters",
+      "iranian",
+      "airstrike",
+      "tehran.html"
     ]
   }
 }
