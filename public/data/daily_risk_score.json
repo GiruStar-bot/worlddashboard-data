@@ -1,186 +1,95 @@
 {
   "ARE": {
-    "risk_score": 2.92,
-    "count": 6,
-    "top_news": "https://www.inquirer.com/news/nation-world/iran-dubai-airstrikes-uae-abu-dhabi-20260301.html",
+    "risk_score": 6.5,
+    "count": 13,
+    "top_news": "https://finance.yahoo.com/news/us-strikes-in-iran-could-see-oil-prices-jump-10-to-20-or-more-with-no-deescalation-opec-raises-barrel-per-day-production-quota-143847339.html",
     "event_codes": {
-      "16": 5,
+      "16": 10,
+      "19": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "nation",
-      "world",
+      "strikes",
       "iran",
-      "dubai",
-      "airstrikes",
-      "uae",
-      "abu",
-      "dhabi",
-      "20260301.html"
-    ]
-  },
-  "BHR": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "attacks",
-      "uae",
-      "saudi",
-      "missiles",
-      "drones",
-      "gcc",
-      "air",
-      "defense"
+      "could",
+      "see",
+      "oil",
+      "prices",
+      "jump",
+      "more",
+      "with",
+      "deescalation",
+      "opec",
+      "raises",
+      "barrel",
+      "per",
+      "day",
+      "production",
+      "quota",
+      "143847339.html"
     ]
   },
   "IRN": {
-    "risk_score": 50.55,
-    "count": 58,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-ayatollah-khamenei-assassination-airstrikes-b2929787.html",
+    "risk_score": 17.9,
+    "count": 21,
+    "top_news": "https://www.odt.co.nz/news/world/power-vacuum-feared",
     "event_codes": {
-      "19": 32,
-      "14": 8,
-      "17": 7,
-      "18": 6,
-      "16": 4,
-      "15": 1
+      "19": 10,
+      "17": 5,
+      "14": 3,
+      "18": 3
     },
     "keywords": [
       "news",
       "world",
-      "middle",
-      "east",
-      "iran",
-      "ayatollah",
-      "khamenei",
-      "assassination",
-      "airstrikes",
-      "b2929787.html"
+      "power",
+      "vacuum",
+      "feared"
     ]
   },
   "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://breakingdefense.com/2026/03/iran-attacks-uae-saudi-missiles-drones-gcc-air-defense/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "attacks",
-      "uae",
-      "saudi",
-      "missiles",
-      "drones",
-      "gcc",
-      "air",
-      "defense"
-    ]
-  },
-  "ISR": {
-    "risk_score": 29.6,
-    "count": 33,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/iran-strikes-trump-israel-attack-timeline-us-khamenei-b2929769.html",
-    "event_codes": {
-      "19": 20,
-      "14": 7,
-      "18": 5,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "americas",
-      "politics",
-      "iran",
-      "strikes",
-      "trump",
-      "israel",
-      "attack",
-      "timeline",
-      "khamenei",
-      "b2929769.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.csmonitor.com/World/Middle-East/2026/0301/iran-missiles-gulf-israel-trump",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "0301",
-      "iran",
-      "missiles",
-      "gulf",
-      "israel",
-      "trump"
-    ]
-  },
-  "NGA": {
-    "risk_score": 18.0,
-    "count": 19,
-    "top_news": "https://punchng.com/army-repels-terrorist-attack-in-borno-kills-11/",
-    "event_codes": {
-      "18": 10,
-      "19": 9
-    },
-    "keywords": [
-      "army",
-      "repels",
-      "terrorist",
-      "attack",
-      "borno",
-      "kills"
-    ]
-  },
-  "SAU": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://punchng.com/us-announces-destruction-of-iranian-forces-hq-first-us-deaths/",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "announces",
-      "destruction",
-      "iranian",
-      "forces",
-      "first",
-      "deaths"
-    ]
-  },
-  "SYR": {
     "risk_score": 2.65,
     "count": 3,
-    "top_news": "https://www.dailyrecord.co.uk/news/uk-world-news/uk-issues-cyprus-travel-advice-36800633",
+    "top_news": "https://townhall.com/tipsheet/amy-curtis/2026/03/01/vip-the-media-should-be-ashamed-of-hegseth-treatment-n2672101",
     "event_codes": {
       "19": 2,
       "14": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "issues",
-      "cyprus",
-      "travel",
-      "advice",
-      "36800633"
+      "tipsheet",
+      "amy",
+      "curtis",
+      "2026",
+      "vip",
+      "the",
+      "media",
+      "should",
+      "ashamed",
+      "hegseth",
+      "treatment",
+      "n2672101"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.95,
+    "count": 13,
+    "top_news": "https://www.premiumtimesng.com/foreign/860636-us-sinks-nine-iranian-navy-ships-trump.html",
+    "event_codes": {
+      "19": 8,
+      "14": 2,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "foreign",
+      "860636",
+      "sinks",
+      "nine",
+      "iranian",
+      "navy",
+      "ships",
+      "trump.html"
     ]
   }
 }
