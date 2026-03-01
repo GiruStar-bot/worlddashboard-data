@@ -3,7 +3,7 @@
     "hormuz": {
       "name": "Strait of Hormuz",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 147.521
+      "crisis_score_raw": 48.6942
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -13,17 +13,17 @@
     "suez": {
       "name": "Suez Canal",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 117.0077
+      "crisis_score_raw": 35.0729
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
-      "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0
+      "disruption_risk": 2.0,
+      "crisis_score_raw": 0.6101
     },
     "panama": {
       "name": "Panama Canal",
-      "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0062
+      "disruption_risk": 3.1,
+      "crisis_score_raw": 0.9376
     },
     "taiwan": {
       "name": "Taiwan Strait",
@@ -32,8 +32,8 @@
     },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 99.7,
-      "crisis_score_raw": 29.9091
+      "disruption_risk": 34.8,
+      "crisis_score_raw": 10.4251
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
@@ -79,7 +79,7 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 0.0
+          "disruption_risk": 2.0
         },
         {
           "id": "suez",
@@ -104,7 +104,7 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 0.0
+          "disruption_risk": 2.0
         },
         {
           "id": "suez",
@@ -144,7 +144,7 @@
         {
           "id": "panama",
           "name": "Panama Canal",
-          "disruption_risk": 0.0
+          "disruption_risk": 3.1
         },
         {
           "id": "taiwan",
@@ -152,10 +152,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 100.0,
+      "survival_rate": 96.9,
       "critical_node": "Panama Canal",
-      "max_disruption_risk": 0.0,
-      "insight": "太平洋貿易航路 (米州 - アジア)の生存確率は極めて安定。最大リスクはPanama Canal（封鎖リスク0.0%）だが、現状で直ちに航路変更を要する兆候はない。"
+      "max_disruption_risk": 3.1,
+      "insight": "太平洋貿易航路 (米州 - アジア)の生存確率は極めて安定。最大リスクはPanama Canal（封鎖リスク3.1%）だが、現状で直ちに航路変更を要する兆候はない。"
     },
     {
       "id": "black_sea_to_mediterranean",
@@ -164,7 +164,7 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 99.7
+          "disruption_risk": 34.8
         },
         {
           "id": "suez",
