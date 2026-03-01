@@ -1,160 +1,107 @@
 {
   "ARE": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://fortune.com/2026/03/01/iran-attacks-dubai-tax-free-haven-global-elite-billionaires-global-financial-markets-shockwaves/",
-    "event_codes": {
-      "16": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "attacks",
-      "dubai",
-      "tax",
-      "free",
-      "haven",
-      "global",
-      "elite",
-      "billionaires",
-      "global",
-      "financial",
-      "markets",
-      "shockwaves"
-    ]
-  },
-  "COL": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.el-balad.com/6864670",
-    "event_codes": {
-      "18": 3,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "6864670"
-    ]
-  },
-  "IRN": {
-    "risk_score": 44.52,
-    "count": 52,
-    "top_news": "https://www.nbcnews.com/world/iran/live-blog/iran-attack-strikes-us-israel-trump-khamenei-dead-live-updates-rcna261172/rcrd102287",
-    "event_codes": {
-      "19": 28,
-      "14": 11,
-      "18": 5,
-      "16": 4,
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "live",
-      "blog",
-      "iran",
-      "attack",
-      "strikes",
-      "israel",
-      "trump",
-      "khamenei",
-      "dead",
-      "live",
-      "updates",
-      "rcna261172",
-      "rcrd102287"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.2,
-    "count": 13,
-    "top_news": "https://www.businesstimes.com.sg/international/israel-hits-tehran-again-after-killing-khamenei-leadership-council-takes-over",
-    "event_codes": {
-      "19": 6,
-      "14": 3,
-      "16": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "international",
-      "israel",
-      "hits",
-      "tehran",
-      "again",
-      "after",
-      "killing",
-      "khamenei",
-      "leadership",
-      "council",
-      "takes",
-      "over"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.dailyadvance.com/news/national/what-to-know-about-the-latest-us-israeli-attacks-on-iran/article_278d4ddf-284f-51e7-b314-f27669db7ed2.html",
-    "event_codes": {
-      "14": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "what",
-      "know",
-      "about",
-      "the",
-      "latest",
-      "israeli",
-      "attacks",
-      "iran",
-      "article",
-      "278d4ddf",
-      "284f",
-      "51e7",
-      "b314",
-      "f27669db7ed2.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.55,
-    "count": 8,
-    "top_news": "https://www.thisdaylive.com/2026/03/01/protest-in-kano-over-ayatollah-khameneis-death-in-us-israel-strike/",
-    "event_codes": {
-      "14": 7,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "protest",
-      "kano",
-      "over",
-      "ayatollah",
-      "khameneis",
-      "death",
-      "israel",
-      "strike"
-    ]
-  },
-  "VEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://cointelegraph.com/news/kalshi-founder-khamenei-market-carveout",
+    "top_news": "https://www.dailymail.co.uk/tvshowbiz/article-15604587/Bravo-Caroline-Stanbury-sons-Dubai-Iran-missile-strikes.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "kalshi",
-      "founder",
-      "khamenei",
-      "market",
-      "carveout"
+      "tvshowbiz",
+      "article",
+      "15604587",
+      "bravo",
+      "caroline",
+      "stanbury",
+      "sons",
+      "dubai",
+      "iran",
+      "missile",
+      "strikes.html"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/travel/article/bkp00pggybl",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "travel",
+      "article",
+      "bkp00pggybl"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.3,
+    "count": 12,
+    "top_news": "https://news.sky.com/story/anxious-allies-are-demanding-trumps-team-shows-it-has-a-plan-for-iran-13514014",
+    "event_codes": {
+      "19": 10,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "story",
+      "anxious",
+      "allies",
+      "are",
+      "demanding",
+      "trumps",
+      "team",
+      "shows",
+      "has",
+      "plan",
+      "for",
+      "iran",
+      "13514014"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.8,
+    "count": 16,
+    "top_news": "https://news.sky.com/story/anxious-allies-are-demanding-trumps-team-shows-it-has-a-plan-for-iran-13514014",
+    "event_codes": {
+      "19": 8,
+      "16": 4,
+      "14": 2,
+      "18": 2
+    },
+    "keywords": [
+      "story",
+      "anxious",
+      "allies",
+      "are",
+      "demanding",
+      "trumps",
+      "team",
+      "shows",
+      "has",
+      "plan",
+      "for",
+      "iran",
+      "13514014"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.theatlantic.com/national-security/2026/03/cuba-trump-iran-venezuela/686203/",
+    "event_codes": {
+      "19": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "cuba",
+      "trump",
+      "iran",
+      "venezuela",
+      "686203"
     ]
   }
 }
