@@ -1,175 +1,160 @@
 {
   "ARE": {
-    "risk_score": 4.0,
+    "risk_score": 2.3,
     "count": 4,
-    "top_news": "https://www.dailymail.co.uk/news/article-15604143/Irans-military-strength-secret-messages-citizens.html",
+    "top_news": "https://fortune.com/2026/03/01/iran-attacks-dubai-tax-free-haven-global-elite-billionaires-global-financial-markets-shockwaves/",
     "event_codes": {
-      "19": 4
+      "16": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "15604143",
-      "irans",
-      "military",
-      "strength",
-      "secret",
-      "messages",
-      "citizens.html"
+      "2026",
+      "iran",
+      "attacks",
+      "dubai",
+      "tax",
+      "free",
+      "haven",
+      "global",
+      "elite",
+      "billionaires",
+      "global",
+      "financial",
+      "markets",
+      "shockwaves"
     ]
   },
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
+  "COL": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.el-balad.com/6864670",
     "event_codes": {
-      "19": 2
+      "18": 3,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
+      "6864670"
     ]
   },
   "IRN": {
-    "risk_score": 40.95,
-    "count": 43,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
+    "risk_score": 44.52,
+    "count": 52,
+    "top_news": "https://www.nbcnews.com/world/iran/live-blog/iran-attack-strikes-us-israel-trump-khamenei-dead-live-updates-rcna261172/rcrd102287",
     "event_codes": {
-      "19": 32,
-      "18": 6,
-      "14": 5
+      "19": 28,
+      "14": 11,
+      "18": 5,
+      "16": 4,
+      "17": 3,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
-    "event_codes": {
-      "19": 3,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
+      "world",
+      "iran",
+      "live",
+      "blog",
+      "iran",
+      "attack",
+      "strikes",
+      "israel",
+      "trump",
+      "khamenei",
+      "dead",
+      "live",
+      "updates",
+      "rcna261172",
+      "rcrd102287"
     ]
   },
   "ISR": {
-    "risk_score": 12.1,
+    "risk_score": 10.2,
     "count": 13,
-    "top_news": "https://www.dailymail.co.uk/news/article-15604449/Riyadh-key-exit-route-hub-super-rich-fleeing.html",
+    "top_news": "https://www.businesstimes.com.sg/international/israel-hits-tehran-again-after-killing-khamenei-leadership-council-takes-over",
     "event_codes": {
-      "19": 10,
-      "14": 1,
+      "19": 6,
+      "14": 3,
+      "16": 2,
       "17": 1,
       "18": 1
     },
     "keywords": [
+      "international",
+      "israel",
+      "hits",
+      "tehran",
+      "again",
+      "after",
+      "killing",
+      "khamenei",
+      "leadership",
+      "council",
+      "takes",
+      "over"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.dailyadvance.com/news/national/what-to-know-about-the-latest-us-israeli-attacks-on-iran/article_278d4ddf-284f-51e7-b314-f27669db7ed2.html",
+    "event_codes": {
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
       "news",
+      "national",
+      "what",
+      "know",
+      "about",
+      "the",
+      "latest",
+      "israeli",
+      "attacks",
+      "iran",
       "article",
-      "15604449",
-      "riyadh",
-      "key",
-      "exit",
-      "route",
-      "hub",
-      "super",
-      "rich",
-      "fleeing.html"
+      "278d4ddf",
+      "284f",
+      "51e7",
+      "b314",
+      "f27669db7ed2.html"
     ]
   },
-  "JOR": {
+  "NGA": {
+    "risk_score": 5.55,
+    "count": 8,
+    "top_news": "https://www.thisdaylive.com/2026/03/01/protest-in-kano-over-ayatollah-khameneis-death-in-us-israel-strike/",
+    "event_codes": {
+      "14": 7,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "protest",
+      "kano",
+      "over",
+      "ayatollah",
+      "khameneis",
+      "death",
+      "israel",
+      "strike"
+    ]
+  },
+  "VEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
+    "top_news": "https://cointelegraph.com/news/kalshi-founder-khamenei-market-carveout",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.yahoo.com/news/articles/first-american-troops-killed-peace-152050228.html",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "first",
-      "american",
-      "troops",
-      "killed",
-      "peace",
-      "152050228.html"
+      "kalshi",
+      "founder",
+      "khamenei",
+      "market",
+      "carveout"
     ]
   }
 }
