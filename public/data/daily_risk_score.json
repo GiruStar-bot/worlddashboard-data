@@ -1,97 +1,189 @@
 {
   "ARE": {
-    "risk_score": 2.0,
-    "count": 5,
-    "top_news": "https://ca.news.yahoo.com/iran-live-updates-israel-launches-064500842.html",
+    "risk_score": 15.2,
+    "count": 17,
+    "top_news": "https://www.thehindu.com/news/international/uae-closes-embassy-in-iran-after-several-killed-in-attacks-across-the-gulf/article70692876.ece",
     "event_codes": {
-      "16": 5
+      "19": 14,
+      "16": 3
     },
     "keywords": [
+      "news",
+      "international",
+      "uae",
+      "closes",
+      "embassy",
       "iran",
-      "live",
-      "updates",
-      "israel",
-      "launches",
-      "064500842.html"
+      "after",
+      "several",
+      "killed",
+      "attacks",
+      "across",
+      "the",
+      "gulf",
+      "article70692876.ece"
+    ]
+  },
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/us-high-alert-homeland-attacks-204448371.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "high",
+      "alert",
+      "homeland",
+      "attacks",
+      "204448371.html"
     ]
   },
   "IRN": {
-    "risk_score": 22.86,
-    "count": 29,
-    "top_news": "https://www.newser.com/story/384367/claims-of-genghis-khans-many-descendants-likely-overblown.html",
+    "risk_score": 38.96,
+    "count": 44,
+    "top_news": "https://www.yahoo.com/news/articles/us-high-alert-homeland-attacks-204448371.html",
     "event_codes": {
-      "19": 14,
+      "19": 25,
       "14": 6,
-      "16": 6,
-      "17": 2,
-      "15": 1
+      "17": 5,
+      "15": 3,
+      "18": 3,
+      "16": 1,
+      "20": 1
     },
     "keywords": [
-      "story",
-      "384367",
-      "claims",
-      "genghis",
-      "khans",
-      "many",
-      "descendants",
-      "likely",
-      "overblown.html"
+      "news",
+      "articles",
+      "high",
+      "alert",
+      "homeland",
+      "attacks",
+      "204448371.html"
     ]
   },
   "IRQ": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-888439",
+    "risk_score": 10.77,
+    "count": 13,
+    "top_news": "https://www.thehindu.com/news/international/protesters-police-clash-near-us-embassy-in-baghdad/article70692873.ece",
     "event_codes": {
-      "14": 3,
-      "19": 3
+      "14": 5,
+      "17": 3,
+      "19": 3,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
       "news",
-      "article",
-      "888439"
+      "international",
+      "protesters",
+      "police",
+      "clash",
+      "near",
+      "embassy",
+      "baghdad",
+      "article70692873.ece"
     ]
   },
   "ISR": {
-    "risk_score": 8.05,
-    "count": 9,
-    "top_news": "https://www.dw.com/en/us-confirms-american-troops-killed-wounded-in-iran-clashes/a-76177887",
+    "risk_score": 22.0,
+    "count": 24,
+    "top_news": "https://www.dailymail.co.uk/news/article-15604113/Nancy-Mace-Ilhan-Omar-spat-Iran-personal-drunk.html",
     "event_codes": {
-      "19": 7,
-      "14": 1,
+      "19": 16,
+      "17": 5,
+      "18": 2,
       "16": 1
     },
     "keywords": [
-      "confirms",
-      "american",
-      "troops",
-      "killed",
-      "wounded",
+      "news",
+      "article",
+      "15604113",
+      "nancy",
+      "mace",
+      "ilhan",
+      "omar",
+      "spat",
       "iran",
-      "clashes",
-      "76177887"
+      "personal",
+      "drunk.html"
     ]
   },
-  "KWT": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://wlap.iheart.com/content/2026-03-01-ex-iranian-president-mahmoud-ahmadinejad-killed-in-airstrikes/",
+  "LBY": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/donald-trump-betting-iranian-uprising-190100516.html",
     "event_codes": {
-      "16": 2,
-      "19": 2
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "content",
-      "2026",
+      "news",
+      "articles",
+      "donald",
+      "trump",
+      "betting",
       "iranian",
-      "president",
-      "mahmoud",
-      "ahmadinejad",
+      "uprising",
+      "190100516.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://thenationonlineng.net/suspects-killed-as-troops-repel-iswap-attacks-on-fob-recover-arms/",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "suspects",
       "killed",
-      "airstrikes"
+      "troops",
+      "repel",
+      "iswap",
+      "attacks",
+      "fob",
+      "recover",
+      "arms"
+    ]
+  },
+  "QAT": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/us-high-alert-homeland-attacks-204448371.html",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "high",
+      "alert",
+      "homeland",
+      "attacks",
+      "204448371.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://radiofreesyria.com/daily-syria-news-summary-key-events-across-syrian-governorates/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "daily",
+      "syria",
+      "news",
+      "summary",
+      "key",
+      "events",
+      "across",
+      "syrian",
+      "governorates"
     ]
   }
 }
