@@ -1,83 +1,253 @@
 {
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.itnewsonline.com/GlobeNewswire/Nokia-accelerates-AI-RAN-momentum-with-new-partnerships-driving-path-to-AI-Native-6G-No.MWC26-/116713",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "globenewswire",
-      "nokia",
-      "accelerates",
-      "ran",
-      "momentum",
-      "with",
-      "new",
-      "partnerships",
-      "driving",
-      "path",
-      "native",
-      "no.mwc26",
-      "116713"
-    ]
-  },
-  "IRN": {
-    "risk_score": 22.97,
-    "count": 27,
-    "top_news": "https://kathmandupost.com/nepali-diaspora/2026/03/01/one-nepali-among-three-killed-in-iranian-attack-in-uae",
-    "event_codes": {
-      "19": 18,
-      "17": 7,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "nepali",
-      "diaspora",
-      "2026",
-      "one",
-      "nepali",
-      "among",
-      "three",
-      "killed",
-      "iranian",
-      "attack",
-      "uae"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.86,
-    "count": 27,
-    "top_news": "https://www.rawstory.com/iranian-schoolgirl-deaths/",
-    "event_codes": {
-      "19": 19,
-      "15": 3,
-      "17": 2,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "iranian",
-      "schoolgirl",
-      "deaths"
-    ]
-  },
-  "QAT": {
+  "ARE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.dhakatribune.com/opinion/op-ed/404455/iran-will-respond-to-us-israeli-strikes-as",
+    "top_news": "https://www.thenews.com.pk/latest/1394220-us-iran-conflict-disrupts-thousands-of-flights-strands-hundreds-of-thousands-worldwide",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "opinion",
-      "404455",
+      "latest",
+      "1394220",
       "iran",
-      "will",
-      "respond",
-      "israeli",
-      "strikes"
+      "conflict",
+      "disrupts",
+      "thousands",
+      "flights",
+      "strands",
+      "hundreds",
+      "thousands",
+      "worldwide"
+    ]
+  },
+  "BHR": {
+    "risk_score": 8.4,
+    "count": 9,
+    "top_news": "https://news.sky.com/story/uk-terror-threat-absolutely-under-review-after-iran-strikes-defence-secretary-says-13513847",
+    "event_codes": {
+      "19": 8,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "terror",
+      "threat",
+      "absolutely",
+      "under",
+      "review",
+      "after",
+      "iran",
+      "strikes",
+      "defence",
+      "secretary",
+      "says",
+      "13513847"
+    ]
+  },
+  "IRN": {
+    "risk_score": 26.8,
+    "count": 30,
+    "top_news": "https://euobserver.com/204953/none-of-trumps-eu-friends-welcomed-iran-war/",
+    "event_codes": {
+      "19": 20,
+      "14": 4,
+      "17": 4,
+      "16": 1,
+      "20": 1
+    },
+    "keywords": [
+      "204953",
+      "none",
+      "trumps",
+      "friends",
+      "welcomed",
+      "iran",
+      "war"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.breitbart.com/middle-east/2026/03/01/six-unanswered-questions-for-post-khamenei-iran/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "six",
+      "unanswered",
+      "questions",
+      "for",
+      "post",
+      "khamenei",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.35,
+    "count": 27,
+    "top_news": "https://www.manchestereveningnews.co.uk/trips-and-breaks/airlines-cancelling-flights-after-iran-33511254",
+    "event_codes": {
+      "19": 22,
+      "14": 4,
+      "18": 1
+    },
+    "keywords": [
+      "trips",
+      "and",
+      "breaks",
+      "airlines",
+      "cancelling",
+      "flights",
+      "after",
+      "iran",
+      "33511254"
+    ]
+  },
+  "JOR": {
+    "risk_score": 4.0,
+    "count": 7,
+    "top_news": "https://www.breitbart.com/middle-east/2026/03/01/six-unanswered-questions-for-post-khamenei-iran/",
+    "event_codes": {
+      "16": 5,
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "six",
+      "unanswered",
+      "questions",
+      "for",
+      "post",
+      "khamenei",
+      "iran"
+    ]
+  },
+  "KWT": {
+    "risk_score": 10.9,
+    "count": 11,
+    "top_news": "https://www.heraldscotland.com/news/25897356.three-american-troops-killed-first-day-iran-war/",
+    "event_codes": {
+      "19": 9,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "25897356.three",
+      "american",
+      "troops",
+      "killed",
+      "first",
+      "day",
+      "iran",
+      "war"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.manchestereveningnews.co.uk/trips-and-breaks/airlines-cancelling-flights-after-iran-33511254",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "trips",
+      "and",
+      "breaks",
+      "airlines",
+      "cancelling",
+      "flights",
+      "after",
+      "iran",
+      "33511254"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.nigerianeye.com/2026/03/ex-ebonyi-deputy-governors-father.html",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "ebonyi",
+      "deputy",
+      "governors",
+      "father.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.manchestereveningnews.co.uk/trips-and-breaks/airlines-cancelling-flights-after-iran-33511254",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "trips",
+      "and",
+      "breaks",
+      "airlines",
+      "cancelling",
+      "flights",
+      "after",
+      "iran",
+      "33511254"
+    ]
+  },
+  "SAU": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.breitbart.com/middle-east/2026/03/01/six-unanswered-questions-for-post-khamenei-iran/",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "six",
+      "unanswered",
+      "questions",
+      "for",
+      "post",
+      "khamenei",
+      "iran"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.moneycontrol.com/world/woman-who-earlier-lit-cigarette-with-khamenei-s-burning-picture-celebrates-his-death-i-said-we-d-dance-on-your-grave-article-13847278.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "woman",
+      "who",
+      "earlier",
+      "lit",
+      "cigarette",
+      "with",
+      "khamenei",
+      "burning",
+      "picture",
+      "celebrates",
+      "his",
+      "death",
+      "said",
+      "dance",
+      "your",
+      "grave",
+      "article",
+      "13847278.html"
     ]
   }
 }
