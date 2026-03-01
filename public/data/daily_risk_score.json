@@ -1,160 +1,215 @@
 {
   "ARE": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-888423",
+    "risk_score": 8.4,
+    "count": 12,
+    "top_news": "https://www.theguardian.com/world/2026/mar/01/us-allies-foes-scrambling-trump-off-guard-iran",
     "event_codes": {
-      "19": 9
+      "16": 6,
+      "19": 6
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "888423"
-    ]
-  },
-  "IRN": {
-    "risk_score": 30.7,
-    "count": 34,
-    "top_news": "https://timesofmalta.com/article/first-us-service-members-killed-operation-iran.1124814",
-    "event_codes": {
-      "19": 22,
-      "14": 4,
-      "17": 3,
-      "16": 2,
-      "20": 2,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "first",
-      "service",
-      "members",
-      "killed",
-      "operation",
-      "iran.1124814"
-    ]
-  },
-  "ISR": {
-    "risk_score": 63.89,
-    "count": 67,
-    "top_news": "https://www.washingtoninstitute.org/policy-analysis/epic-fury-and-roaring-lion-war-scenarios-pressing-postwar-questions-iran",
-    "event_codes": {
-      "19": 36,
-      "18": 25,
-      "17": 4,
-      "14": 2
-    },
-    "keywords": [
-      "policy",
-      "analysis",
-      "epic",
-      "fury",
-      "and",
-      "roaring",
-      "lion",
-      "war",
-      "scenarios",
-      "pressing",
-      "postwar",
-      "questions",
+      "world",
+      "2026",
+      "mar",
+      "allies",
+      "foes",
+      "scrambling",
+      "trump",
+      "off",
+      "guard",
       "iran"
     ]
   },
-  "KWT": {
+  "EGY": {
+    "risk_score": 4.4,
+    "count": 11,
+    "top_news": "https://www.castanetkamloops.net/news/Canada/601347/No-imminent-threat-to-Canada-amid-fallout-of-U-S-attack-on-Iran-police",
+    "event_codes": {
+      "16": 11
+    },
+    "keywords": [
+      "news",
+      "canada",
+      "601347",
+      "imminent",
+      "threat",
+      "canada",
+      "amid",
+      "fallout",
+      "attack",
+      "iran",
+      "police"
+    ]
+  },
+  "IRN": {
+    "risk_score": 45.72,
+    "count": 49,
+    "top_news": "https://time.com/7381884/iran-missiles-dubai-palm-gulf/",
+    "event_codes": {
+      "19": 36,
+      "14": 6,
+      "17": 4,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "7381884",
+      "iran",
+      "missiles",
+      "dubai",
+      "palm",
+      "gulf"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 7.3,
+    "count": 8,
+    "top_news": "https://www.independent.ie/world-news/three-us-soldiers-killed-in-iran-operation-protester-sprays-thank-you-trump-on-dublin-embassy/a278483474.html",
+    "event_codes": {
+      "19": 6,
+      "14": 2
+    },
+    "keywords": [
+      "world",
+      "news",
+      "three",
+      "soldiers",
+      "killed",
+      "iran",
+      "operation",
+      "protester",
+      "sprays",
+      "thank",
+      "you",
+      "trump",
+      "dublin",
+      "embassy",
+      "a278483474.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.35,
+    "count": 26,
+    "top_news": "https://www.independent.ie/world-news/three-us-soldiers-killed-in-iran-operation-protester-sprays-thank-you-trump-on-dublin-embassy/a278483474.html",
+    "event_codes": {
+      "19": 19,
+      "14": 3,
+      "18": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "three",
+      "soldiers",
+      "killed",
+      "iran",
+      "operation",
+      "protester",
+      "sprays",
+      "thank",
+      "you",
+      "trump",
+      "dublin",
+      "embassy",
+      "a278483474.html"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.newsweek.com/iranians-rejoice-khameneis-death-on-streets-of-tehran-and-worldwide-11600964",
+    "top_news": "https://time.com/7381884/iran-missiles-dubai-palm-gulf/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "iranians",
-      "rejoice",
-      "khameneis",
-      "death",
-      "streets",
-      "tehran",
-      "and",
-      "worldwide",
-      "11600964"
+      "7381884",
+      "iran",
+      "missiles",
+      "dubai",
+      "palm",
+      "gulf"
     ]
   },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.premiumtimesng.com/news/headlines/860623-exclusive-walida-is-22-years-old-national-population-commission.html",
+  "QAT": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.independent.ie/world-news/three-us-soldiers-killed-in-iran-operation-protester-sprays-thank-you-trump-on-dublin-embassy/a278483474.html",
     "event_codes": {
-      "18": 4,
+      "19": 3,
       "16": 1
     },
     "keywords": [
+      "world",
       "news",
-      "headlines",
-      "860623",
-      "exclusive",
-      "walida",
-      "years",
-      "old",
-      "national",
-      "population",
-      "commission.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 48.44,
-    "count": 52,
-    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-27-february-2026/",
-    "event_codes": {
-      "18": 29,
-      "19": 15,
-      "17": 8
-    },
-    "keywords": [
-      "occupied",
-      "palestine",
-      "february",
-      "2026"
+      "three",
+      "soldiers",
+      "killed",
+      "iran",
+      "operation",
+      "protester",
+      "sprays",
+      "thank",
+      "you",
+      "trump",
+      "dublin",
+      "embassy",
+      "a278483474.html"
     ]
   },
   "SAU": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-888423",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20260301-iran-launches-retaliatory-strikes-across-middle-east-dozens-dead/",
     "event_codes": {
-      "19": 10
+      "19": 2
     },
     "keywords": [
+      "20260301",
+      "iran",
+      "launches",
+      "retaliatory",
+      "strikes",
+      "across",
       "middle",
       "east",
-      "iran",
-      "news",
-      "article",
-      "888423"
+      "dozens",
+      "dead"
     ]
   },
-  "TLS": {
-    "risk_score": 2.0,
+  "SYR": {
+    "risk_score": 3.71,
     "count": 4,
-    "top_news": "https://www.smh.com.au/world/asia/australian-child-predator-cops-20-years-in-a-timor-leste-jail-20260228-p5o67z.html",
+    "top_news": "https://www.ynetnews.com/article/rjemqcwt11g",
     "event_codes": {
-      "17": 4
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "asia",
-      "australian",
-      "child",
-      "predator",
-      "cops",
-      "years",
-      "timor",
-      "leste",
-      "jail",
-      "20260228",
-      "p5o67z.html"
+      "article",
+      "rjemqcwt11g"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://townhall.com/columnists/larryoconnor/2026/03/01/when-a-tyrant-dies-let-the-truth-be-loud-n2672098",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "columnists",
+      "larryoconnor",
+      "2026",
+      "when",
+      "tyrant",
+      "dies",
+      "let",
+      "the",
+      "truth",
+      "loud",
+      "n2672098"
     ]
   }
 }
