@@ -1,131 +1,183 @@
 {
-  "IRN": {
-    "risk_score": 39.34,
-    "count": 45,
-    "top_news": "https://www.moneycontrol.com/world/can-iran-s-kheibar-missile-reach-us-bases-and-carriers-in-middle-east-range-origins-and-strike-capability-explained-article-13848400.html",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://shipandbunker.com/news/emea/538611-new-ship-attack-reported-in-bahrain",
     "event_codes": {
-      "19": 26,
-      "17": 7,
-      "18": 6,
-      "14": 3,
-      "16": 3
+      "19": 2
     },
     "keywords": [
-      "world",
-      "can",
+      "news",
+      "emea",
+      "538611",
+      "new",
+      "ship",
+      "attack",
+      "reported",
+      "bahrain"
+    ]
+  },
+  "BRA": {
+    "risk_score": 3.27,
+    "count": 5,
+    "top_news": "http://www.calcuttanews.net/news/278897643/please-respect-office-hours-eu-von-der-leyen-ridiculed-over-response-to-iran-crisis",
+    "event_codes": {
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "278897643",
+      "please",
+      "respect",
+      "office",
+      "hours",
+      "von",
+      "der",
+      "leyen",
+      "ridiculed",
+      "over",
+      "response",
       "iran",
-      "kheibar",
-      "missile",
-      "reach",
-      "bases",
-      "and",
-      "carriers",
-      "middle",
-      "east",
-      "range",
-      "origins",
-      "and",
-      "strike",
-      "capability",
+      "crisis"
+    ]
+  },
+  "IRN": {
+    "risk_score": 42.43,
+    "count": 48,
+    "top_news": "https://www.orissapost.com/iran-crisis-explained-missiles-militias-and-diplomatic-fallout/",
+    "event_codes": {
+      "19": 34,
+      "17": 6,
+      "14": 5,
+      "15": 1,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "iran",
+      "crisis",
       "explained",
-      "article",
-      "13848400.html"
+      "missiles",
+      "militias",
+      "and",
+      "diplomatic",
+      "fallout"
     ]
   },
   "ISR": {
-    "risk_score": 27.0,
-    "count": 27,
-    "top_news": "https://metro.co.uk/2026/03/02/three-us-f-15-fighter-jets-shot-kuwait-friendly-fire-incident-27184276/",
+    "risk_score": 19.15,
+    "count": 20,
+    "top_news": "https://www.canberratimes.com.au/story/9187034/iran-conflict-widens-as-israel-launches-lebanon-strikes/",
     "event_codes": {
-      "19": 27
+      "19": 16,
+      "16": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "three",
-      "fighter",
-      "jets",
-      "shot",
-      "kuwait",
-      "friendly",
-      "fire",
-      "incident",
-      "27184276"
+      "story",
+      "9187034",
+      "iran",
+      "conflict",
+      "widens",
+      "israel",
+      "launches",
+      "lebanon",
+      "strikes"
     ]
   },
   "KWT": {
-    "risk_score": 14.95,
-    "count": 15,
-    "top_news": "https://www.yahoo.com/news/articles/several-us-warplanes-crashed-over-101256475.html",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.canberratimes.com.au/story/9187034/iran-conflict-widens-as-israel-launches-lebanon-strikes/",
     "event_codes": {
-      "19": 14,
-      "18": 1
+      "19": 10
+    },
+    "keywords": [
+      "story",
+      "9187034",
+      "iran",
+      "conflict",
+      "widens",
+      "israel",
+      "launches",
+      "lebanon",
+      "strikes"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.indiablooms.com/finance/gold-silver-surge-as-middle-east-conflict-sparks-safe-haven-buying/details",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "finance",
+      "gold",
+      "silver",
+      "surge",
+      "middle",
+      "east",
+      "conflict",
+      "sparks",
+      "safe",
+      "haven",
+      "buying",
+      "details"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/idf-kills-senior-iran-intelligence-115416642.html",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
       "articles",
-      "several",
-      "warplanes",
-      "crashed",
-      "over",
-      "101256475.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://thestandard.nz/on-the-iran-war/",
-    "event_codes": {
-      "19": 4,
-      "20": 2,
-      "17": 1
-    },
-    "keywords": [
-      "the",
+      "idf",
+      "kills",
+      "senior",
       "iran",
-      "war"
+      "intelligence",
+      "115416642.html"
     ]
   },
   "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.moneycontrol.com/world/can-iran-s-kheibar-missile-reach-us-bases-and-carriers-in-middle-east-range-origins-and-strike-capability-explained-article-13848400.html",
+    "top_news": "https://udaipurkiran.com/iran-drone-attack-hits-saudi-aramco-ras-tanura-refinery-shut/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "can",
       "iran",
-      "kheibar",
-      "missile",
-      "reach",
-      "bases",
-      "and",
-      "carriers",
-      "middle",
-      "east",
-      "range",
-      "origins",
-      "and",
-      "strike",
-      "capability",
-      "explained",
-      "article",
-      "13848400.html"
+      "drone",
+      "attack",
+      "hits",
+      "saudi",
+      "aramco",
+      "ras",
+      "tanura",
+      "refinery",
+      "shut"
     ]
   },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://focustaiwan.tw:443/cross-strait/202603020022",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.masdark.com/21641",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "cross",
-      "strait",
-      "202603020022"
+      "21641"
     ]
   }
 }
