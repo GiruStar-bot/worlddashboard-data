@@ -1,202 +1,248 @@
 {
-  "IRN": {
-    "risk_score": 56.7,
-    "count": 66,
-    "top_news": "https://www.dailymail.co.uk/news/article-15607103/ryder-harrington-victim-austin-terror-attack-iran-gunman.html",
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.newsandstar.co.uk/news/25899384.family-share-dubai-experience-amid-middle-eastern-tensions/",
     "event_codes": {
-      "19": 36,
-      "14": 12,
-      "17": 11,
-      "15": 3,
-      "16": 3,
-      "18": 1
+      "19": 4
     },
     "keywords": [
       "news",
-      "article",
-      "15607103",
-      "ryder",
-      "harrington",
-      "victim",
-      "austin",
-      "terror",
+      "25899384.family",
+      "share",
+      "dubai",
+      "experience",
+      "amid",
+      "middle",
+      "eastern",
+      "tensions"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://thecitypaperbogota.com/news/suspected-drone-attack-disrupts-high-level-visit-to-colombias-hidroituango/",
+    "event_codes": {
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "suspected",
+      "drone",
       "attack",
-      "iran",
-      "gunman.html"
+      "disrupts",
+      "high",
+      "level",
+      "visit",
+      "colombias",
+      "hidroituango"
+    ]
+  },
+  "IRN": {
+    "risk_score": 46.08,
+    "count": 54,
+    "top_news": "https://www.geo.tv/latest/653735-super-rich-pay-up-to-350000-for-private-jet-evacuations-as-middle-east-conflict-escalates",
+    "event_codes": {
+      "19": 34,
+      "17": 6,
+      "14": 4,
+      "15": 4,
+      "16": 4,
+      "18": 2
+    },
+    "keywords": [
+      "latest",
+      "653735",
+      "super",
+      "rich",
+      "pay",
+      "350000",
+      "for",
+      "private",
+      "jet",
+      "evacuations",
+      "middle",
+      "east",
+      "conflict",
+      "escalates"
     ]
   },
   "IRQ": {
-    "risk_score": 3.95,
-    "count": 5,
-    "top_news": "https://tvone.tv/1955494/u-s-israel-strike-kills-irans-supreme-leader-ayatollah-ali-khamenei-iranian-revolutionary-guard-threatens-most-intense-offensive-retaliation/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bridportnews.co.uk/news/national/25900927.war-widens-israel-us-pound-iran-tehran-allies-hit-back/",
     "event_codes": {
-      "14": 3,
-      "18": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "1955494",
+      "news",
+      "national",
+      "25900927.war",
+      "widens",
       "israel",
-      "strike",
-      "kills",
-      "irans",
-      "supreme",
-      "leader",
-      "ayatollah",
-      "ali",
-      "khamenei",
-      "iranian",
-      "revolutionary",
-      "guard",
-      "threatens",
-      "most",
-      "intense",
-      "offensive",
-      "retaliation"
+      "pound",
+      "iran",
+      "tehran",
+      "allies",
+      "hit",
+      "back"
     ]
   },
   "ISR": {
-    "risk_score": 25.3,
-    "count": 26,
-    "top_news": "https://www.justsecurity.org/132830/early-edition-march-2-2026/",
+    "risk_score": 24.72,
+    "count": 28,
+    "top_news": "https://tribune.com.pk/story/2595444/khameneis-wife-dies-after-being-wounded-in-strikes-iranian-media",
     "event_codes": {
-      "19": 24,
-      "17": 1,
-      "18": 1
+      "19": 19,
+      "16": 3,
+      "14": 2,
+      "18": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "132830",
-      "early",
-      "edition",
-      "march",
-      "2026"
+      "story",
+      "2595444",
+      "khameneis",
+      "wife",
+      "dies",
+      "after",
+      "being",
+      "wounded",
+      "strikes",
+      "iranian",
+      "media"
     ]
   },
   "KWT": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/03/memories-surface-iraqi-invasion-kuwait-hit-iran",
+    "risk_score": 9.35,
+    "count": 10,
+    "top_news": "https://www.thenationalnews.com/news/gulf/2026/03/02/kuwait-majorly-affected-as-irans-retaliatory-strikes-against-gulf-continue/",
     "event_codes": {
-      "14": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "memories",
-      "surface",
-      "iraqi",
-      "invasion",
-      "kuwait",
-      "hit",
-      "iran"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 9,
-    "top_news": "https://www.upr.org/npr-news/2026-03-02/a-4th-u-s-soldier-has-died-as-the-war-with-iran-further-engulfs-the-region",
-    "event_codes": {
-      "19": 5,
-      "17": 4
-    },
-    "keywords": [
-      "npr",
-      "news",
-      "2026",
-      "4th",
-      "soldier",
-      "has",
-      "died",
-      "the",
-      "war",
-      "with",
-      "iran",
-      "further",
-      "engulfs",
-      "the",
-      "region"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.85,
-    "count": 8,
-    "top_news": "https://www.foxnews.com/politics/1-4-americans-back-trumps-iran-strikes-most-say-hes-too-quick-use-force-poll",
-    "event_codes": {
-      "14": 3,
-      "17": 2,
-      "19": 2,
+      "19": 8,
+      "16": 1,
       "18": 1
     },
     "keywords": [
-      "politics",
-      "americans",
-      "back",
-      "trumps",
-      "iran",
+      "news",
+      "gulf",
+      "2026",
+      "kuwait",
+      "majorly",
+      "affected",
+      "irans",
+      "retaliatory",
       "strikes",
-      "most",
-      "say",
-      "hes",
-      "too",
-      "quick",
-      "use",
-      "force",
-      "poll"
+      "against",
+      "gulf",
+      "continue"
     ]
   },
-  "SDN": {
+  "LBN": {
     "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.ecr.co.za/news/news/169-killed-south-sudan-massacre/",
+    "count": 5,
+    "top_news": "https://www.theguardian.com/world/2026/mar/02/iran-attack-fourth-us-service-member-killed",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "news",
-      "169",
-      "killed",
-      "south",
-      "sudan",
-      "massacre"
+      "world",
+      "2026",
+      "mar",
+      "iran",
+      "attack",
+      "fourth",
+      "service",
+      "member",
+      "killed"
     ]
   },
-  "SSD": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.ecr.co.za/news/news/169-killed-south-sudan-massacre/",
+  "NGA": {
+    "risk_score": 5.34,
+    "count": 6,
+    "top_news": "https://www.thisdaylive.com/2026/03/02/ccdi-president-condemns-gumis-tribute-to-khamenei-warns-against-glorifying-tyranny/",
     "event_codes": {
-      "19": 4
+      "17": 3,
+      "19": 3
     },
     "keywords": [
-      "news",
-      "news",
-      "169",
-      "killed",
-      "south",
-      "sudan",
-      "massacre"
+      "2026",
+      "ccdi",
+      "president",
+      "condemns",
+      "gumis",
+      "tribute",
+      "khamenei",
+      "warns",
+      "against",
+      "glorifying",
+      "tyranny"
     ]
   },
-  "TUR": {
-    "risk_score": 2.65,
+  "QAT": {
+    "risk_score": 11.5,
+    "count": 12,
+    "top_news": "https://www.geo.tv/latest/653735-super-rich-pay-up-to-350000-for-private-jet-evacuations-as-middle-east-conflict-escalates",
+    "event_codes": {
+      "19": 11,
+      "17": 1
+    },
+    "keywords": [
+      "latest",
+      "653735",
+      "super",
+      "rich",
+      "pay",
+      "350000",
+      "for",
+      "private",
+      "jet",
+      "evacuations",
+      "middle",
+      "east",
+      "conflict",
+      "escalates"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.journalpatriot.com/community-events/article_d11922f0-c436-5177-a985-9aad7af1fb3f.html",
+    "top_news": "https://www.shtfplan.com/member-exclusive/pentagon-confirms-3-deaths-iran-claims-it-killed-200-in-strikes",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "19": 3
     },
     "keywords": [
-      "community",
-      "events",
-      "article",
-      "d11922f0",
-      "c436",
-      "5177",
-      "a985",
-      "9aad7af1fb3f.html"
+      "member",
+      "exclusive",
+      "pentagon",
+      "confirms",
+      "deaths",
+      "iran",
+      "claims",
+      "killed",
+      "200",
+      "strikes"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.15,
+    "count": 3,
+    "top_news": "https://www.aei.org/op-eds/keep-the-turks-out-of-iran/",
+    "event_codes": {
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "eds",
+      "keep",
+      "the",
+      "turks",
+      "out",
+      "iran"
     ]
   }
 }
