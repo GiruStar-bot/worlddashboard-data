@@ -1,177 +1,294 @@
 {
   "ARE": {
-    "risk_score": 3.8,
+    "risk_score": 4.32,
     "count": 5,
-    "top_news": "https://www.al-monitor.com/originals/2026/03/qatar-downs-iran-jets-tehran-targets-oil-and-gas-spiralling-gulf-crisis",
+    "top_news": "https://www.wsbtv.com/news/world/iranian-drones-buzz/7I6R2Z6AHA4D3KK4TXLNERACWI/",
     "event_codes": {
       "19": 3,
-      "16": 2
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "originals",
-      "2026",
-      "qatar",
-      "downs",
-      "iran",
-      "jets",
-      "tehran",
-      "targets",
-      "oil",
-      "and",
-      "gas",
-      "spiralling",
-      "gulf",
-      "crisis"
+      "news",
+      "world",
+      "iranian",
+      "drones",
+      "buzz",
+      "7i6r2z6aha4d3kk4txlneracwi"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://collider.com/action-movies-masterclass-excitement/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "action",
+      "movies",
+      "masterclass",
+      "excitement"
     ]
   },
   "IRN": {
-    "risk_score": 29.28,
-    "count": 31,
-    "top_news": "https://www.baltictimes.com/iran_cannot_win_this_war_-_expert/",
+    "risk_score": 36.2,
+    "count": 39,
+    "top_news": "https://pjmedia.com/catherinesalgado/2026/03/02/us-planes-shot-down-by-friendly-fire-over-kuwait-n4950128",
     "event_codes": {
-      "19": 21,
-      "17": 5,
-      "14": 2,
-      "18": 2,
-      "16": 1
+      "19": 26,
+      "14": 5,
+      "17": 3,
+      "18": 3,
+      "15": 2
     },
     "keywords": [
+      "catherinesalgado",
+      "2026",
+      "planes",
+      "shot",
+      "down",
+      "friendly",
+      "fire",
+      "over",
+      "kuwait",
+      "n4950128"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.92,
+    "count": 7,
+    "top_news": "https://www.theguardian.com/us-news/2026/mar/02/pete-hegseth-trump-iran-military",
+    "event_codes": {
+      "16": 2,
+      "19": 2,
+      "15": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mar",
+      "pete",
+      "hegseth",
+      "trump",
       "iran",
-      "cannot",
-      "win",
-      "this",
-      "war",
-      "expert"
+      "military"
     ]
   },
   "ISR": {
-    "risk_score": 15.25,
-    "count": 17,
-    "top_news": "https://www.dhakatribune.com/world/middle-east/404559/war-reaches-gulf%E2%80%99s-glittering-skylines-can-they",
+    "risk_score": 34.39,
+    "count": 42,
+    "top_news": "https://www.foxbusiness.com/lifestyle/airlines-cancel-flights-issue-travel-waivers-over-middle-east-unrest",
     "event_codes": {
-      "18": 6,
-      "19": 6,
-      "16": 4,
-      "17": 1
+      "19": 25,
+      "17": 9,
+      "16": 5,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "lifestyle",
+      "airlines",
+      "cancel",
+      "flights",
+      "issue",
+      "travel",
+      "waivers",
+      "over",
+      "middle",
+      "east",
+      "unrest"
+    ]
+  },
+  "KWT": {
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://www.thetimes.com/uk/defence/article/is-uk-war-iran-news-today-lhbgshz9s",
+    "event_codes": {
+      "19": 16
+    },
+    "keywords": [
+      "defence",
+      "article",
+      "war",
+      "iran",
+      "news",
+      "today",
+      "lhbgshz9s"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.9,
+    "count": 13,
+    "top_news": "https://cyprus-mail.com/2026/03/02/president-discusses-drone-attack-with-lebanese-counterpart",
+    "event_codes": {
+      "19": 9,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "president",
+      "discusses",
+      "drone",
+      "attack",
+      "with",
+      "lebanese",
+      "counterpart"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.05,
+    "count": 3,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/860811-updated-nigeria-police-council-confirms-tunji-disu-as-igp.html",
+    "event_codes": {
+      "14": 1,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "860811",
+      "updated",
+      "nigeria",
+      "police",
+      "council",
+      "confirms",
+      "tunji",
+      "disu",
+      "igp.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/hegseth-provides-u-strikes-iran-174943809.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "hegseth",
+      "provides",
+      "strikes",
+      "iran",
+      "174943809.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.tribuneindia.com/live-blog/top-headlines/us-israel-pound-iran-as-trump-signals-willingness-to-talk-to-new-leadership-after-khameneis-death/",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "top",
+      "headlines",
+      "israel",
+      "pound",
+      "iran",
+      "trump",
+      "signals",
+      "willingness",
+      "talk",
+      "new",
+      "leadership",
+      "after",
+      "khameneis",
+      "death"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.algemeiner.com/2026/03/02/purim-and-lions-roar-from-sinai-to-shushan-to-sovereignty/",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "purim",
+      "and",
+      "lions",
+      "roar",
+      "from",
+      "sinai",
+      "shushan",
+      "sovereignty"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://www.thetimes.com/world/middle-east/article/iran-reza-pahlavi-opposition-war-who-are-rtst9tm8b",
+    "event_codes": {
+      "14": 4
     },
     "keywords": [
       "world",
       "middle",
       "east",
-      "404559",
-      "war",
-      "reaches",
-      "gulf%e2%80%99s",
-      "glittering",
-      "skylines",
-      "can",
-      "they"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aol.co.uk/articles/us-israel-war-iran-dramatically-144602228.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "articles",
-      "israel",
-      "war",
+      "article",
       "iran",
-      "dramatically",
-      "144602228.html"
+      "reza",
+      "pahlavi",
+      "opposition",
+      "war",
+      "who",
+      "are",
+      "rtst9tm8b"
     ]
   },
-  "PSE": {
-    "risk_score": 8.66,
-    "count": 10,
-    "top_news": "https://imemc.org/article/injuries-abductions-in-escalating-israeli-violations-in-west-bank-2/",
+  "VEN": {
+    "risk_score": 7.7,
+    "count": 9,
+    "top_news": "https://www.peoplesworld.org/article/canada-vows-to-send-humanitarian-aid-to-cuba/",
     "event_codes": {
-      "18": 6,
-      "15": 2,
+      "19": 4,
+      "18": 3,
       "17": 2
     },
     "keywords": [
       "article",
-      "injuries",
-      "abductions",
-      "escalating",
-      "israeli",
-      "violations",
-      "west",
-      "bank"
+      "canada",
+      "vows",
+      "send",
+      "humanitarian",
+      "aid",
+      "cuba"
     ]
   },
-  "QAT": {
-    "risk_score": 7.05,
-    "count": 8,
-    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/03/02/what-we-know-about-the-widening-us-war-with-iran-as-conflict-enters-third-day/",
+  "ZAF": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://theprovince.com/news/tumbler-ridge-victim-buried-zambia/wcm/1a2d8a18-e576-4bdf-9b85-97540dc88c42",
     "event_codes": {
-      "19": 6,
-      "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "what",
-      "know",
-      "about",
-      "the",
-      "widening",
-      "war",
-      "with",
-      "iran",
-      "conflict",
-      "enters",
-      "third",
-      "day"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cnbc.com/2026/03/02/retail-investor-market-iran-strike.html",
-    "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "2026",
-      "retail",
-      "investor",
-      "market",
-      "iran",
-      "strike.html"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.thezimbabwean.co/2026/03/zimbabwe-has-already-tainted-its-constitutional-amendments-through-brutal-repression-of-opposing-voices/",
-    "event_codes": {
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "zimbabwe",
-      "has",
-      "already",
-      "tainted",
-      "its",
-      "constitutional",
-      "amendments",
-      "through",
-      "brutal",
-      "repression",
-      "opposing",
-      "voices"
+      "news",
+      "tumbler",
+      "ridge",
+      "victim",
+      "buried",
+      "zambia",
+      "wcm",
+      "1a2d8a18",
+      "e576",
+      "4bdf",
+      "9b85",
+      "97540dc88c42"
     ]
   }
 }
