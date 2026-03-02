@@ -1,166 +1,141 @@
 {
-  "BHR": {
-    "risk_score": 7.45,
-    "count": 10,
-    "top_news": "http://www.bignewsnetwork.com/news/278898351/iran-says-it-fired-26-drones-five-ballistic-missiles-at-us-targets-in-gulf",
-    "event_codes": {
-      "16": 4,
-      "18": 3,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "278898351",
-      "iran",
-      "says",
-      "fired",
-      "drones",
-      "five",
-      "ballistic",
-      "missiles",
-      "targets",
-      "gulf"
-    ]
-  },
-  "COD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202603020838.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "stories",
-      "202603020838.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 50.23,
-    "count": 53,
-    "top_news": "https://www.abc.net.au/news/2026-03-03/iran-ballistic-missiles-suicide-drone-strikes-us-israel/106404180",
+    "risk_score": 19.45,
+    "count": 21,
+    "top_news": "https://vicnews.com/2026/03/02/a-first-step-to-a-happier-iran-okanagan-reacts-to-death-of-supreme-leader/",
     "event_codes": {
-      "19": 37,
-      "18": 9,
-      "15": 4,
-      "14": 2,
+      "19": 17,
+      "14": 3,
       "17": 1
     },
     "keywords": [
-      "news",
       "2026",
+      "first",
+      "step",
+      "happier",
       "iran",
-      "ballistic",
-      "missiles",
-      "suicide",
-      "drone",
-      "strikes",
-      "israel",
-      "106404180"
+      "okanagan",
+      "reacts",
+      "death",
+      "supreme",
+      "leader"
     ]
   },
   "ISR": {
-    "risk_score": 28.42,
-    "count": 29,
-    "top_news": "https://www.abc.net.au/news/2026-03-03/iran-ballistic-missiles-suicide-drone-strikes-us-israel/106404180",
-    "event_codes": {
-      "19": 22,
-      "18": 5,
-      "15": 1,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "iran",
-      "ballistic",
-      "missiles",
-      "suicide",
-      "drone",
-      "strikes",
-      "israel",
-      "106404180"
-    ]
-  },
-  "KHM": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.baltimoresun.com/2026/03/02/cambodia-takes-back-looted-historic-artifacts-handled-by-british-art-dealer-2/",
-    "event_codes": {
-      "14": 6
-    },
-    "keywords": [
-      "2026",
-      "cambodia",
-      "takes",
-      "back",
-      "looted",
-      "historic",
-      "artifacts",
-      "handled",
-      "british",
-      "art",
-      "dealer"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
+    "risk_score": 4.65,
     "count": 5,
-    "top_news": "https://www.breakingnews.ie/world/war-widens-as-israel-and-us-pound-iran-and-tehran-and-its-allies-hit-back-1870481.html",
+    "top_news": "https://www.wdef.com/war-in-the-mideast-widens-as-trump-says-strikes-on-iran-could-last-several-weeks/",
     "event_codes": {
-      "19": 5
+      "19": 4,
+      "14": 1
     },
     "keywords": [
-      "world",
       "war",
+      "the",
+      "mideast",
       "widens",
-      "israel",
-      "and",
-      "pound",
+      "trump",
+      "says",
+      "strikes",
       "iran",
-      "and",
-      "tehran",
-      "and",
-      "its",
-      "allies",
-      "hit",
-      "back",
-      "1870481.html"
+      "could",
+      "last",
+      "several",
+      "weeks"
     ]
   },
-  "PSE": {
+  "SAU": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://ca.news.yahoo.com/know-widening-us-war-iran-111836378.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "know",
+      "widening",
+      "war",
+      "iran",
+      "111836378.html"
+    ]
+  },
+  "SSD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.ctvnews.ca/world/article/israeli-settler-gunfire-kills-two-palestinian-brothers-in-west-bank/",
+    "top_news": "https://morningstaronline.co.uk/article/169-people-killed-after-insurgents-raid-south-sudan-village",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
       "article",
-      "israeli",
-      "settler",
-      "gunfire",
-      "kills",
-      "two",
-      "palestinian",
-      "brothers",
-      "west",
-      "bank"
+      "169",
+      "people",
+      "killed",
+      "after",
+      "insurgents",
+      "raid",
+      "south",
+      "sudan",
+      "village"
     ]
   },
-  "TWN": {
-    "risk_score": 2.0,
+  "VNM": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://news.ltn.com.tw/news/focus/breakingnews/5356552",
+    "top_news": "https://news3lv.com/news/local/james-bo-gritz-army-vet-claimed-to-inspire-rambo-dies-sandy-valley-southern-nevada-populist-party-politics-erase-forget-5th-group-special-forces",
     "event_codes": {
-      "17": 2,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "local",
+      "james",
+      "gritz",
+      "army",
+      "vet",
+      "claimed",
+      "inspire",
+      "rambo",
+      "dies",
+      "sandy",
+      "valley",
+      "southern",
+      "nevada",
+      "populist",
+      "party",
+      "politics",
+      "erase",
+      "forget",
+      "5th",
+      "group",
+      "special",
+      "forces"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.05,
+    "count": 6,
+    "top_news": "https://www.ecofinagency.com/news-industry/0203-53373-zimbabwe-uses-export-ban-to-accelerate-domestic-lithium-processing",
+    "event_codes": {
+      "16": 2,
+      "18": 2,
+      "17": 1,
       "19": 1
     },
     "keywords": [
       "news",
-      "focus",
-      "breakingnews",
-      "5356552"
+      "industry",
+      "0203",
+      "53373",
+      "zimbabwe",
+      "uses",
+      "export",
+      "ban",
+      "accelerate",
+      "domestic",
+      "lithium",
+      "processing"
     ]
   }
 }
