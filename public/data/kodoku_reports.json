@@ -3,42 +3,42 @@
     "hormuz": {
       "name": "Strait of Hormuz",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 30.9224
+      "crisis_score_raw": 57.6657
     },
     "malacca": {
       "name": "Strait of Malacca",
-      "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0
+      "disruption_risk": 0.4,
+      "crisis_score_raw": 0.1201
     },
     "suez": {
       "name": "Suez Canal",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 47.1311
+      "crisis_score_raw": 52.5448
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
-      "disruption_risk": 1.4,
-      "crisis_score_raw": 0.4149
-    },
-    "panama": {
-      "name": "Panama Canal",
-      "disruption_risk": 0.1,
-      "crisis_score_raw": 0.0159
-    },
-    "taiwan": {
-      "name": "Taiwan Strait",
       "disruption_risk": 0.0,
       "crisis_score_raw": 0.0
     },
+    "panama": {
+      "name": "Panama Canal",
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
+    },
+    "taiwan": {
+      "name": "Taiwan Strait",
+      "disruption_risk": 5.9,
+      "crisis_score_raw": 1.7695
+    },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 49.4,
-      "crisis_score_raw": 14.8234
+      "disruption_risk": 42.1,
+      "crisis_score_raw": 12.6245
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
-      "disruption_risk": 5.5,
-      "crisis_score_raw": 1.6567
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
     }
   },
   "routes": [
@@ -54,12 +54,12 @@
         {
           "id": "malacca",
           "name": "Strait of Malacca",
-          "disruption_risk": 0.0
+          "disruption_risk": 0.4
         },
         {
           "id": "taiwan",
           "name": "Taiwan Strait",
-          "disruption_risk": 0.0
+          "disruption_risk": 5.9
         }
       ],
       "survival_rate": 0.0,
@@ -79,7 +79,7 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 1.4
+          "disruption_risk": 0.0
         },
         {
           "id": "suez",
@@ -99,12 +99,12 @@
         {
           "id": "malacca",
           "name": "Strait of Malacca",
-          "disruption_risk": 0.0
+          "disruption_risk": 0.4
         },
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 1.4
+          "disruption_risk": 0.0
         },
         {
           "id": "suez",
@@ -124,18 +124,18 @@
         {
           "id": "malacca",
           "name": "Strait of Malacca",
-          "disruption_risk": 0.0
+          "disruption_risk": 0.4
         },
         {
           "id": "cape_of_good_hope",
           "name": "Cape of Good Hope",
-          "disruption_risk": 5.5
+          "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 94.5,
-      "critical_node": "Cape of Good Hope",
-      "max_disruption_risk": 5.5,
-      "insight": "代替貿易航路 (アジア - 欧州 / 喜望峰回り)の生存確率は極めて安定。最大リスクはCape of Good Hope（封鎖リスク5.5%）だが、現状で直ちに航路変更を要する兆候はない。"
+      "survival_rate": 99.6,
+      "critical_node": "Strait of Malacca",
+      "max_disruption_risk": 0.4,
+      "insight": "代替貿易航路 (アジア - 欧州 / 喜望峰回り)の生存確率は極めて安定。最大リスクはStrait of Malacca（封鎖リスク0.4%）だが、現状で直ちに航路変更を要する兆候はない。"
     },
     {
       "id": "americas_to_asia",
@@ -144,18 +144,18 @@
         {
           "id": "panama",
           "name": "Panama Canal",
-          "disruption_risk": 0.1
+          "disruption_risk": 0.0
         },
         {
           "id": "taiwan",
           "name": "Taiwan Strait",
-          "disruption_risk": 0.0
+          "disruption_risk": 5.9
         }
       ],
-      "survival_rate": 99.9,
-      "critical_node": "Panama Canal",
-      "max_disruption_risk": 0.1,
-      "insight": "太平洋貿易航路 (米州 - アジア)の生存確率は極めて安定。最大リスクはPanama Canal（封鎖リスク0.1%）だが、現状で直ちに航路変更を要する兆候はない。"
+      "survival_rate": 94.1,
+      "critical_node": "Taiwan Strait",
+      "max_disruption_risk": 5.9,
+      "insight": "太平洋貿易航路 (米州 - アジア)の生存確率は極めて安定。最大リスクはTaiwan Strait（封鎖リスク5.9%）だが、現状で直ちに航路変更を要する兆候はない。"
     },
     {
       "id": "black_sea_to_mediterranean",
@@ -164,7 +164,7 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 49.4
+          "disruption_risk": 42.1
         },
         {
           "id": "suez",
