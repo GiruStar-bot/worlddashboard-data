@@ -1,248 +1,177 @@
 {
   "ARE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.newsandstar.co.uk/news/25899384.family-share-dubai-experience-amid-middle-eastern-tensions/",
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.al-monitor.com/originals/2026/03/qatar-downs-iran-jets-tehran-targets-oil-and-gas-spiralling-gulf-crisis",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "25899384.family",
-      "share",
-      "dubai",
-      "experience",
-      "amid",
-      "middle",
-      "eastern",
-      "tensions"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://thecitypaperbogota.com/news/suspected-drone-attack-disrupts-high-level-visit-to-colombias-hidroituango/",
-    "event_codes": {
-      "16": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "suspected",
-      "drone",
-      "attack",
-      "disrupts",
-      "high",
-      "level",
-      "visit",
-      "colombias",
-      "hidroituango"
+      "originals",
+      "2026",
+      "qatar",
+      "downs",
+      "iran",
+      "jets",
+      "tehran",
+      "targets",
+      "oil",
+      "and",
+      "gas",
+      "spiralling",
+      "gulf",
+      "crisis"
     ]
   },
   "IRN": {
-    "risk_score": 46.08,
-    "count": 54,
-    "top_news": "https://www.geo.tv/latest/653735-super-rich-pay-up-to-350000-for-private-jet-evacuations-as-middle-east-conflict-escalates",
+    "risk_score": 29.28,
+    "count": 31,
+    "top_news": "https://www.baltictimes.com/iran_cannot_win_this_war_-_expert/",
     "event_codes": {
-      "19": 34,
-      "17": 6,
-      "14": 4,
-      "15": 4,
-      "16": 4,
-      "18": 2
+      "19": 21,
+      "17": 5,
+      "14": 2,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "latest",
-      "653735",
-      "super",
-      "rich",
-      "pay",
-      "350000",
-      "for",
-      "private",
-      "jet",
-      "evacuations",
-      "middle",
-      "east",
-      "conflict",
-      "escalates"
+      "iran",
+      "cannot",
+      "win",
+      "this",
+      "war",
+      "expert"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bridportnews.co.uk/news/national/25900927.war-widens-israel-us-pound-iran-tehran-allies-hit-back/",
+  "ISR": {
+    "risk_score": 15.25,
+    "count": 17,
+    "top_news": "https://www.dhakatribune.com/world/middle-east/404559/war-reaches-gulf%E2%80%99s-glittering-skylines-can-they",
     "event_codes": {
-      "19": 2
+      "18": 6,
+      "19": 6,
+      "16": 4,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "404559",
+      "war",
+      "reaches",
+      "gulf%e2%80%99s",
+      "glittering",
+      "skylines",
+      "can",
+      "they"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/us-israel-war-iran-dramatically-144602228.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "israel",
+      "war",
+      "iran",
+      "dramatically",
+      "144602228.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.66,
+    "count": 10,
+    "top_news": "https://imemc.org/article/injuries-abductions-in-escalating-israeli-violations-in-west-bank-2/",
+    "event_codes": {
+      "18": 6,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "injuries",
+      "abductions",
+      "escalating",
+      "israeli",
+      "violations",
+      "west",
+      "bank"
+    ]
+  },
+  "QAT": {
+    "risk_score": 7.05,
+    "count": 8,
+    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/03/02/what-we-know-about-the-widening-us-war-with-iran-as-conflict-enters-third-day/",
+    "event_codes": {
+      "19": 6,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
       "news",
       "national",
-      "25900927.war",
-      "widens",
-      "israel",
-      "pound",
-      "iran",
-      "tehran",
-      "allies",
-      "hit",
-      "back"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.72,
-    "count": 28,
-    "top_news": "https://tribune.com.pk/story/2595444/khameneis-wife-dies-after-being-wounded-in-strikes-iranian-media",
-    "event_codes": {
-      "19": 19,
-      "16": 3,
-      "14": 2,
-      "18": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "story",
-      "2595444",
-      "khameneis",
-      "wife",
-      "dies",
-      "after",
-      "being",
-      "wounded",
-      "strikes",
-      "iranian",
-      "media"
-    ]
-  },
-  "KWT": {
-    "risk_score": 9.35,
-    "count": 10,
-    "top_news": "https://www.thenationalnews.com/news/gulf/2026/03/02/kuwait-majorly-affected-as-irans-retaliatory-strikes-against-gulf-continue/",
-    "event_codes": {
-      "19": 8,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "gulf",
-      "2026",
-      "kuwait",
-      "majorly",
-      "affected",
-      "irans",
-      "retaliatory",
-      "strikes",
-      "against",
-      "gulf",
-      "continue"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.theguardian.com/world/2026/mar/02/iran-attack-fourth-us-service-member-killed",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
+      "world",
+      "cnn",
       "world",
       "2026",
-      "mar",
+      "what",
+      "know",
+      "about",
+      "the",
+      "widening",
+      "war",
+      "with",
       "iran",
-      "attack",
-      "fourth",
-      "service",
-      "member",
-      "killed"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.34,
-    "count": 6,
-    "top_news": "https://www.thisdaylive.com/2026/03/02/ccdi-president-condemns-gumis-tribute-to-khamenei-warns-against-glorifying-tyranny/",
-    "event_codes": {
-      "17": 3,
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "ccdi",
-      "president",
-      "condemns",
-      "gumis",
-      "tribute",
-      "khamenei",
-      "warns",
-      "against",
-      "glorifying",
-      "tyranny"
-    ]
-  },
-  "QAT": {
-    "risk_score": 11.5,
-    "count": 12,
-    "top_news": "https://www.geo.tv/latest/653735-super-rich-pay-up-to-350000-for-private-jet-evacuations-as-middle-east-conflict-escalates",
-    "event_codes": {
-      "19": 11,
-      "17": 1
-    },
-    "keywords": [
-      "latest",
-      "653735",
-      "super",
-      "rich",
-      "pay",
-      "350000",
-      "for",
-      "private",
-      "jet",
-      "evacuations",
-      "middle",
-      "east",
       "conflict",
-      "escalates"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.shtfplan.com/member-exclusive/pentagon-confirms-3-deaths-iran-claims-it-killed-200-in-strikes",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "member",
-      "exclusive",
-      "pentagon",
-      "confirms",
-      "deaths",
-      "iran",
-      "claims",
-      "killed",
-      "200",
-      "strikes"
+      "enters",
+      "third",
+      "day"
     ]
   },
   "VEN": {
-    "risk_score": 2.15,
-    "count": 3,
-    "top_news": "https://www.aei.org/op-eds/keep-the-turks-out-of-iran/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cnbc.com/2026/03/02/retail-investor-market-iran-strike.html",
     "event_codes": {
-      "14": 1,
-      "17": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "eds",
-      "keep",
-      "the",
-      "turks",
-      "out",
-      "iran"
+      "2026",
+      "retail",
+      "investor",
+      "market",
+      "iran",
+      "strike.html"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.thezimbabwean.co/2026/03/zimbabwe-has-already-tainted-its-constitutional-amendments-through-brutal-repression-of-opposing-voices/",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "zimbabwe",
+      "has",
+      "already",
+      "tainted",
+      "its",
+      "constitutional",
+      "amendments",
+      "through",
+      "brutal",
+      "repression",
+      "opposing",
+      "voices"
     ]
   }
 }
