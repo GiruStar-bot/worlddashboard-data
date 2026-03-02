@@ -1,204 +1,236 @@
 {
   "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.bursa.ro/china-and-russia-waiting-on-iran39s-side-europe-demands-de-escalation-of-the-conflict-63845853",
+    "risk_score": 3.92,
+    "count": 7,
+    "top_news": "https://moodiedavittreport.com/middle-east-crisis-travel-sector-faces-deep-impact-as-us-and-israel-strike-iran/",
     "event_codes": {
-      "19": 3
+      "16": 5,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "china",
+      "middle",
+      "east",
+      "crisis",
+      "travel",
+      "sector",
+      "faces",
+      "deep",
+      "impact",
       "and",
-      "russia",
-      "waiting",
-      "iran39s",
-      "side",
-      "europe",
-      "demands",
-      "escalation",
+      "israel",
+      "strike",
+      "iran"
+    ]
+  },
+  "BHR": {
+    "risk_score": 7.3,
+    "count": 8,
+    "top_news": "https://www.tribune242.com/news/2026/mar/02/insight-a-world-at-war-and-the-lessons-of-the-past/",
+    "event_codes": {
+      "19": 5,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mar",
+      "insight",
+      "world",
+      "war",
+      "and",
       "the",
-      "conflict",
-      "63845853"
+      "lessons",
+      "the",
+      "past"
+    ]
+  },
+  "CAF": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://saharareporters.com/2026/03/02/us-slaps-sanctions-rwandan-military-officers-over-alleged-support-rebels-eastern-congo",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "2026",
+      "slaps",
+      "sanctions",
+      "rwandan",
+      "military",
+      "officers",
+      "over",
+      "alleged",
+      "support",
+      "rebels",
+      "eastern",
+      "congo"
     ]
   },
   "IRN": {
-    "risk_score": 29.09,
-    "count": 33,
-    "top_news": "https://seapowermagazine.org/hegseth-says-epic-fury-goals-in-iran-are-laser-focused/",
+    "risk_score": 33.92,
+    "count": 40,
+    "top_news": "https://www.wsgw.com/full-transcript-of-face-the-nation-with-margaret-brennan-march-1-2026/",
     "event_codes": {
-      "19": 23,
-      "16": 4,
-      "15": 2,
-      "14": 1,
-      "17": 1,
-      "18": 1,
-      "20": 1
+      "19": 20,
+      "17": 7,
+      "18": 6,
+      "14": 4,
+      "16": 3
     },
     "keywords": [
-      "hegseth",
-      "says",
-      "epic",
-      "fury",
-      "goals",
-      "iran",
-      "are",
-      "laser",
-      "focused"
+      "full",
+      "transcript",
+      "face",
+      "the",
+      "nation",
+      "with",
+      "margaret",
+      "brennan",
+      "march",
+      "2026"
     ]
   },
   "IRQ": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.spacewar.com/afp/260302201359.d3aflvxx.html",
+    "risk_score": 7.85,
+    "count": 9,
+    "top_news": "https://www.hazard-herald.com/news/national/rubio-hezbollah-and-qatar-latest-developments-in-iran-war/article_ca7d3bab-7b4a-5299-82af-0319b8051958.html",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "14": 3,
+      "19": 3,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "afp",
-      "260302201359.d3aflvxx.html"
+      "news",
+      "national",
+      "rubio",
+      "hezbollah",
+      "and",
+      "qatar",
+      "latest",
+      "developments",
+      "iran",
+      "war",
+      "article",
+      "ca7d3bab",
+      "7b4a",
+      "5299",
+      "82af",
+      "0319b8051958.html"
     ]
   },
   "ISR": {
-    "risk_score": 36.29,
-    "count": 40,
-    "top_news": "https://www.bursa.ro/is-the-deveselu-base-in-danger-28645856",
+    "risk_score": 29.84,
+    "count": 34,
+    "top_news": "https://www.smh.com.au/world/middle-east/how-trump-decided-to-go-to-war-20260303-p5o6vm.html",
     "event_codes": {
-      "19": 26,
-      "18": 7,
-      "16": 3,
-      "14": 2,
-      "15": 1,
-      "17": 1
+      "19": 21,
+      "14": 5,
+      "17": 5,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "the",
-      "deveselu",
-      "base",
-      "danger",
-      "28645856"
+      "world",
+      "middle",
+      "east",
+      "how",
+      "trump",
+      "decided",
+      "war",
+      "20260303",
+      "p5o6vm.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://news.sky.com/story/iran-has-three-ambitions-and-it-needs-to-do-them-all-at-once-13514398",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "story",
+      "iran",
+      "has",
+      "three",
+      "ambitions",
+      "and",
+      "needs",
+      "them",
+      "all",
+      "once",
+      "13514398"
     ]
   },
   "KWT": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.spacewar.com/afp/260302203631.9a3971ej.html",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/03/02/qatar-shoots-down-two-iranian-fighter-jets-gulf-war-spreads-lng-oil-facilities",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 4
     },
     "keywords": [
-      "afp",
-      "260302203631.9a3971ej.html"
+      "2026",
+      "qatar",
+      "shoots",
+      "down",
+      "two",
+      "iranian",
+      "fighter",
+      "jets",
+      "gulf",
+      "war",
+      "spreads",
+      "lng",
+      "oil",
+      "facilities"
     ]
   },
   "LBN": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://legalinsurrection.com/2026/03/idf-eliminates-hezbollah-intel-chief-launches-massive-strike-on-iran-regime-targets/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.lemonde.fr/en/international/article/2026/03/02/lebanon-bans-hezbollah-s-armed-wing-after-rocket-fire_6751019_4.html",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 4
     },
     "keywords": [
+      "international",
+      "article",
       "2026",
-      "idf",
-      "eliminates",
+      "lebanon",
+      "bans",
       "hezbollah",
-      "intel",
-      "chief",
-      "launches",
-      "massive",
-      "strike",
-      "iran",
-      "regime",
-      "targets"
-    ]
-  },
-  "QAT": {
-    "risk_score": 6.35,
-    "count": 7,
-    "top_news": "https://www.aa.com.tr/en/middle-east/iran-claims-it-struck-us-bases-in-bahrain-uae-and-kuwait/3847146",
-    "event_codes": {
-      "19": 5,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "claims",
-      "struck",
-      "bases",
-      "bahrain",
-      "uae",
-      "and",
-      "kuwait",
-      "3847146"
+      "armed",
+      "wing",
+      "after",
+      "rocket",
+      "fire",
+      "6751019",
+      "4.html"
     ]
   },
   "SDN": {
-    "risk_score": 6.75,
-    "count": 7,
-    "top_news": "https://www.standardmedia.co.ke/opinion/article/2001542096/government-must-now-dismantle-blocks-of-violence-thatre-being-built",
+    "risk_score": 13.84,
+    "count": 14,
+    "top_news": "https://www.unocha.org:443/news/todays-top-news-middle-east-occupied-palestinian-territory-sudan",
     "event_codes": {
-      "19": 6,
-      "18": 1
+      "19": 12,
+      "17": 2
     },
     "keywords": [
-      "opinion",
-      "article",
-      "2001542096",
-      "government",
-      "must",
-      "now",
-      "dismantle",
-      "blocks",
-      "violence",
-      "thatre",
-      "being",
-      "built"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.aa.com.tr/en/middle-east/iran-claims-it-struck-us-bases-in-bahrain-uae-and-kuwait/3847146",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
+      "news",
+      "todays",
+      "top",
+      "news",
       "middle",
       "east",
-      "iran",
-      "claims",
-      "struck",
-      "bases",
-      "bahrain",
-      "uae",
-      "and",
-      "kuwait",
-      "3847146"
-    ]
-  },
-  "VNM": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.nydailynews.com/2026/03/02/bo-gritz-rambo-movie-inspiration-vietnam-veteran-dead/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "gritz",
-      "rambo",
-      "movie",
-      "inspiration",
-      "vietnam",
-      "veteran",
-      "dead"
+      "occupied",
+      "palestinian",
+      "territory",
+      "sudan"
     ]
   }
 }
