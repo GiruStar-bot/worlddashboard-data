@@ -1,197 +1,131 @@
 {
-  "ARE": {
-    "risk_score": 12.35,
-    "count": 20,
-    "top_news": "https://www.expressandstar.com/news/2026/03/02/foreign-office-changes-travel-advice-for-15-countries-what-is-latest-guidance-for-dubai-egypt-cyprus-turkey/",
+  "IRN": {
+    "risk_score": 39.34,
+    "count": 45,
+    "top_news": "https://www.moneycontrol.com/world/can-iran-s-kheibar-missile-reach-us-bases-and-carriers-in-middle-east-range-origins-and-strike-capability-explained-article-13848400.html",
     "event_codes": {
-      "16": 11,
-      "19": 6,
-      "17": 2,
+      "19": 26,
+      "17": 7,
+      "18": 6,
+      "14": 3,
+      "16": 3
+    },
+    "keywords": [
+      "world",
+      "can",
+      "iran",
+      "kheibar",
+      "missile",
+      "reach",
+      "bases",
+      "and",
+      "carriers",
+      "middle",
+      "east",
+      "range",
+      "origins",
+      "and",
+      "strike",
+      "capability",
+      "explained",
+      "article",
+      "13848400.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 27.0,
+    "count": 27,
+    "top_news": "https://metro.co.uk/2026/03/02/three-us-f-15-fighter-jets-shot-kuwait-friendly-fire-incident-27184276/",
+    "event_codes": {
+      "19": 27
+    },
+    "keywords": [
+      "2026",
+      "three",
+      "fighter",
+      "jets",
+      "shot",
+      "kuwait",
+      "friendly",
+      "fire",
+      "incident",
+      "27184276"
+    ]
+  },
+  "KWT": {
+    "risk_score": 14.95,
+    "count": 15,
+    "top_news": "https://www.yahoo.com/news/articles/several-us-warplanes-crashed-over-101256475.html",
+    "event_codes": {
+      "19": 14,
       "18": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "foreign",
-      "office",
-      "changes",
-      "travel",
-      "advice",
-      "for",
-      "countries",
-      "what",
-      "latest",
-      "guidance",
-      "for",
-      "dubai",
-      "egypt",
-      "cyprus",
-      "turkey"
-    ]
-  },
-  "BHR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://openthemagazine.com/world/operation-sindoor-echoes-as-afghanistan-hit-pakistans-nur-khan-airbase",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "operation",
-      "sindoor",
-      "echoes",
-      "afghanistan",
-      "hit",
-      "pakistans",
-      "nur",
-      "khan",
-      "airbase"
-    ]
-  },
-  "IRN": {
-    "risk_score": 78.11,
-    "count": 87,
-    "top_news": "https://openthemagazine.com/world/operation-sindoor-echoes-as-afghanistan-hit-pakistans-nur-khan-airbase",
-    "event_codes": {
-      "19": 59,
-      "16": 9,
-      "14": 6,
-      "17": 5,
-      "18": 5,
-      "15": 3
-    },
-    "keywords": [
-      "world",
-      "operation",
-      "sindoor",
-      "echoes",
-      "afghanistan",
-      "hit",
-      "pakistans",
-      "nur",
-      "khan",
-      "airbase"
-    ]
-  },
-  "ISR": {
-    "risk_score": 39.37,
-    "count": 41,
-    "top_news": "https://openthemagazine.com/world/operation-sindoor-echoes-as-afghanistan-hit-pakistans-nur-khan-airbase",
-    "event_codes": {
-      "19": 34,
-      "14": 3,
-      "15": 1,
-      "16": 1,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "operation",
-      "sindoor",
-      "echoes",
-      "afghanistan",
-      "hit",
-      "pakistans",
-      "nur",
-      "khan",
-      "airbase"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.cnbcafrica.com/2026/iran-security-chief-ali-larijani-rejects-u-s-talks-blames-trump-for-chaos",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "security",
-      "chief",
-      "ali",
-      "larijani",
-      "rejects",
-      "talks",
-      "blames",
-      "trump",
-      "for",
-      "chaos"
+      "articles",
+      "several",
+      "warplanes",
+      "crashed",
+      "over",
+      "101256475.html"
     ]
   },
   "LBN": {
-    "risk_score": 5.67,
-    "count": 6,
-    "top_news": "https://openthemagazine.com/world/china-voices-concern-as-west-asia-conflict-escalates-amid-us-israel-strikes-on-iran",
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://thestandard.nz/on-the-iran-war/",
     "event_codes": {
       "19": 4,
-      "15": 1,
-      "18": 1
+      "20": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "china",
-      "voices",
-      "concern",
-      "west",
-      "asia",
-      "conflict",
-      "escalates",
-      "amid",
-      "israel",
-      "strikes",
-      "iran"
-    ]
-  },
-  "QAT": {
-    "risk_score": 6.12,
-    "count": 7,
-    "top_news": "https://peoplesdailyng.com/timeline-u-s-israel-strikes-on-iran-trigger-escalation-khamenei-killed/",
-    "event_codes": {
-      "19": 5,
-      "16": 2
-    },
-    "keywords": [
-      "timeline",
-      "israel",
-      "strikes",
+      "the",
       "iran",
-      "trigger",
-      "escalation",
-      "khamenei",
-      "killed"
+      "war"
     ]
   },
   "SAU": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/859698/severe-blow-to-us-military-prestige-iran-brought-down-the-uss-lincoln-shattered-f-15s-and-hit-14-american-bases",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.moneycontrol.com/world/can-iran-s-kheibar-missile-reach-us-bases-and-carriers-in-middle-east-range-origins-and-strike-capability-explained-article-13848400.html",
     "event_codes": {
-      "19": 4,
-      "16": 2
+      "19": 2
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "859698",
-      "severe",
-      "blow",
-      "military",
-      "prestige",
+      "world",
+      "can",
       "iran",
-      "brought",
-      "down",
-      "the",
-      "uss",
-      "lincoln",
-      "shattered",
-      "15s",
+      "kheibar",
+      "missile",
+      "reach",
+      "bases",
       "and",
-      "hit",
-      "american",
-      "bases"
+      "carriers",
+      "middle",
+      "east",
+      "range",
+      "origins",
+      "and",
+      "strike",
+      "capability",
+      "explained",
+      "article",
+      "13848400.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://focustaiwan.tw:443/cross-strait/202603020022",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "cross",
+      "strait",
+      "202603020022"
     ]
   }
 }
