@@ -1,202 +1,240 @@
 {
-  "BHR": {
-    "risk_score": 9.6,
-    "count": 13,
-    "top_news": "https://www.rediff.com/news/report/hezbollah-drones-target-israeli-air-base/20260303.htm",
+  "ARE": {
+    "risk_score": 7.8,
+    "count": 9,
+    "top_news": "https://www.maltatoday.com.mt/news/world/140073/iran_widens_retaliatory_attacks_against_us_targets_across_the_gulf_",
     "event_codes": {
-      "17": 5,
-      "19": 5,
-      "16": 3
-    },
-    "keywords": [
-      "news",
-      "report",
-      "hezbollah",
-      "drones",
-      "target",
-      "israeli",
-      "air",
-      "base",
-      "20260303.htm"
-    ]
-  },
-  "IRN": {
-    "risk_score": 53.3,
-    "count": 61,
-    "top_news": "https://www.thisdaylive.com/2026/03/03/oil-market-impacted-as-iran-closes-strait-of-hormuz-vows-to-attack-errant-ships/",
-    "event_codes": {
-      "19": 42,
-      "16": 12,
-      "15": 5,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "oil",
-      "market",
-      "impacted",
-      "iran",
-      "closes",
-      "strait",
-      "hormuz",
-      "vows",
-      "attack",
-      "errant",
-      "ships"
-    ]
-  },
-  "ISR": {
-    "risk_score": 25.9,
-    "count": 29,
-    "top_news": "https://ianslive.in/cbse-postpones-board-exams-in-gulf-nations-amid-west-asia-conflict--20260303125635",
-    "event_codes": {
-      "19": 19,
-      "15": 5,
-      "14": 3,
+      "19": 7,
       "16": 2
     },
     "keywords": [
-      "cbse",
-      "postpones",
-      "board",
-      "exams",
-      "gulf",
-      "nations",
-      "amid",
-      "west",
-      "asia",
-      "conflict",
-      "20260303125635"
+      "news",
+      "world",
+      "140073",
+      "iran",
+      "widens",
+      "retaliatory",
+      "attacks",
+      "against",
+      "targets",
+      "across",
+      "the",
+      "gulf"
     ]
   },
-  "KWT": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://www.thisdaylive.com/2026/03/03/oil-market-impacted-as-iran-closes-strait-of-hormuz-vows-to-attack-errant-ships/",
+  "BHR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.paradisepost.com/2026/03/02/iran-israel-us-attack/",
     "event_codes": {
-      "19": 7,
-      "18": 2
+      "19": 5
     },
     "keywords": [
       "2026",
-      "oil",
-      "market",
-      "impacted",
       "iran",
-      "closes",
-      "strait",
-      "hormuz",
-      "vows",
-      "attack",
-      "errant",
-      "ships"
+      "israel",
+      "attack"
     ]
   },
-  "NGA": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.nigerianeye.com/2026/03/ondo-church-kidnap-victims-freed-after.html",
+  "COD": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/us-sanctions-rwandan-army-and-top-officials-for-supporting-m23-in-drc/",
     "event_codes": {
-      "18": 3,
+      "16": 3
+    },
+    "keywords": [
+      "sanctions",
+      "rwandan",
+      "army",
+      "and",
+      "top",
+      "officials",
+      "for",
+      "supporting",
+      "m23",
+      "drc"
+    ]
+  },
+  "IRN": {
+    "risk_score": 41.57,
+    "count": 44,
+    "top_news": "https://www.independent.ie/regionals/kerry/north-west-kerry-news/kerry-resident-in-dubai-i-have-a-bag-packed-just-in-case-but-i-feel-safe-right-now/a1325360523.html",
+    "event_codes": {
+      "19": 33,
+      "18": 6,
+      "17": 2,
+      "14": 1,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "regionals",
+      "kerry",
+      "north",
+      "west",
+      "kerry",
+      "news",
+      "kerry",
+      "resident",
+      "dubai",
+      "have",
+      "bag",
+      "packed",
+      "just",
+      "case",
+      "but",
+      "feel",
+      "safe",
+      "right",
+      "now",
+      "a1325360523.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.tribtoday.com/news/national-news-apwire/2026/03/us-ready-for-extended-campaign/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "news",
+      "apwire",
+      "2026",
+      "ready",
+      "for",
+      "extended",
+      "campaign"
+    ]
+  },
+  "ISR": {
+    "risk_score": 35.12,
+    "count": 40,
+    "top_news": "https://www.paradisepost.com/2026/03/02/us-iran-where-things-stand/",
+    "event_codes": {
+      "19": 25,
+      "15": 6,
+      "16": 4,
+      "18": 4,
       "17": 1
     },
     "keywords": [
       "2026",
-      "ondo",
-      "church",
-      "kidnap",
-      "victims",
-      "freed",
-      "after.html"
+      "iran",
+      "where",
+      "things",
+      "stand"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=387205",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wire"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "https://www.dailymail.co.uk/news/article-15608885/Back-Im-American-Incredible-moment-local-threatens-US-airman-metal-pipe-thinking-Iranian-parachuted-F-15-mistakenly-shot-Kuwait.html",
+    "event_codes": {
+      "19": 5,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15608885",
+      "back",
+      "american",
+      "incredible",
+      "moment",
+      "local",
+      "threatens",
+      "airman",
+      "metal",
+      "pipe",
+      "thinking",
+      "iranian",
+      "parachuted",
+      "mistakenly",
+      "shot",
+      "kuwait.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.52,
+    "count": 10,
+    "top_news": "https://www.lahainanews.com/wire/?category=5035&ID=387185",
+    "event_codes": {
+      "19": 7,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "wire"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.ghanamma.com/2026/03/03/psychiatrists-condemn-killing-of-colleague-in-enugu-demand-justice/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "psychiatrists",
+      "condemn",
+      "killing",
+      "colleague",
+      "enugu",
+      "demand",
+      "justice"
     ]
   },
   "QAT": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.hindustantimes.com/world-news/us-iran-conflict-news-india-to-dubai-emirates-flight-ek501-makes-rare-double-reverse-amid-missile-attack-on-uae-101772518070928.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://thepeninsulaqatar.com/article/03/03/2026/live-updates-attack-by-two-drones-on-us-embassy-in-saudi-capital-sparks-limited-fire",
     "event_codes": {
-      "19": 7
+      "19": 2
     },
     "keywords": [
-      "world",
-      "news",
-      "iran",
-      "conflict",
-      "news",
-      "india",
-      "dubai",
-      "emirates",
-      "flight",
-      "ek501",
-      "makes",
-      "rare",
-      "double",
-      "reverse",
-      "amid",
-      "missile",
-      "attack",
-      "uae",
-      "101772518070928.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 8.45,
-    "count": 10,
-    "top_news": "https://www.odt.co.nz/news/world/netanyahu-war-iran-not-going-take-years",
-    "event_codes": {
-      "19": 6,
-      "16": 3,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "netanyahu",
-      "war",
-      "iran",
-      "not",
-      "going",
-      "take",
-      "years"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.kenyans.co.ke/news/121315-sudan-accuses-ethiopia-launching-drone-attacks-warns-consequences",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "121315",
-      "sudan",
-      "accuses",
-      "ethiopia",
-      "launching",
-      "drone",
-      "attacks",
-      "warns",
-      "consequences"
-    ]
-  },
-  "TUR": {
-    "risk_score": 7.9,
-    "count": 16,
-    "top_news": "https://www.hrw.org/news/2026/03/03/turkiye-leading-opponent-of-erdogan-on-trial",
-    "event_codes": {
-      "17": 15,
-      "16": 1
-    },
-    "keywords": [
-      "news",
+      "article",
       "2026",
-      "turkiye",
-      "leading",
-      "opponent",
-      "erdogan",
-      "trial"
+      "live",
+      "updates",
+      "attack",
+      "two",
+      "drones",
+      "embassy",
+      "saudi",
+      "capital",
+      "sparks",
+      "limited",
+      "fire"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=387205",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wire"
     ]
   }
 }
