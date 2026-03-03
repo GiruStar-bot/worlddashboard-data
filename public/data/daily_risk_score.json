@@ -1,285 +1,202 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.express.co.uk/news/world/2177443/middle-east-crisis-latest-iran-us-war",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2177443",
-      "middle",
-      "east",
-      "crisis",
-      "latest",
-      "iran",
-      "war"
-    ]
-  },
   "BHR": {
-    "risk_score": 6.0,
-    "count": 8,
-    "top_news": "https://indianexpress.com/article/world/bahrain-iran-us-air-base-building-navy-10562350/",
-    "event_codes": {
-      "17": 4,
-      "19": 4
-    },
-    "keywords": [
-      "article",
-      "world",
-      "bahrain",
-      "iran",
-      "air",
-      "base",
-      "building",
-      "navy",
-      "10562350"
-    ]
-  },
-  "CAF": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202603030072.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "stories",
-      "202603030072.html"
-    ]
-  },
-  "GUY": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://www.stabroeknews.com/2026/03/03/news/guyana/man-found-guilty-of-2013-hotel-murder-after-retrial/",
+    "risk_score": 9.6,
+    "count": 13,
+    "top_news": "https://www.rediff.com/news/report/hezbollah-drones-target-israeli-air-base/20260303.htm",
     "event_codes": {
       "17": 5,
-      "19": 1
+      "19": 5,
+      "16": 3
     },
     "keywords": [
-      "2026",
       "news",
-      "guyana",
-      "man",
-      "found",
-      "guilty",
-      "2013",
-      "hotel",
-      "murder",
-      "after",
-      "retrial"
+      "report",
+      "hezbollah",
+      "drones",
+      "target",
+      "israeli",
+      "air",
+      "base",
+      "20260303.htm"
     ]
   },
   "IRN": {
-    "risk_score": 25.9,
-    "count": 29,
-    "top_news": "https://www.wogx.com/news/florida-couple-talks-us-operation-iran-we-prayed-waited-4-decades-something-happen",
+    "risk_score": 53.3,
+    "count": 61,
+    "top_news": "https://www.thisdaylive.com/2026/03/03/oil-market-impacted-as-iran-closes-strait-of-hormuz-vows-to-attack-errant-ships/",
     "event_codes": {
-      "19": 20,
-      "14": 7,
+      "19": 42,
+      "16": 12,
+      "15": 5,
       "17": 1,
       "18": 1
-    },
-    "keywords": [
-      "news",
-      "florida",
-      "couple",
-      "talks",
-      "operation",
-      "iran",
-      "prayed",
-      "waited",
-      "decades",
-      "something",
-      "happen"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.25,
-    "count": 5,
-    "top_news": "https://slguardian.org/seventy-two-hours-to-the-brink-middle-east-war-engulfs-region-and-rattles-the-world/",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "seventy",
-      "two",
-      "hours",
-      "the",
-      "brink",
-      "middle",
-      "east",
-      "war",
-      "engulfs",
-      "region",
-      "and",
-      "rattles",
-      "the",
-      "world"
-    ]
-  },
-  "ISR": {
-    "risk_score": 36.15,
-    "count": 39,
-    "top_news": "https://www.aa.com.tr/en/europe/un-says-record-number-of-conflicts-leave-473-million-children-affected/3847434",
-    "event_codes": {
-      "19": 32,
-      "14": 3,
-      "16": 3,
-      "17": 1
-    },
-    "keywords": [
-      "europe",
-      "says",
-      "record",
-      "number",
-      "conflicts",
-      "leave",
-      "473",
-      "million",
-      "children",
-      "affected",
-      "3847434"
-    ]
-  },
-  "KEN": {
-    "risk_score": 5.7,
-    "count": 8,
-    "top_news": "https://nairobiwire.com/2026/03/iran-envoy-kenya-missile-safety-update-2026.html",
-    "event_codes": {
-      "14": 3,
-      "17": 3,
-      "18": 1,
-      "19": 1
     },
     "keywords": [
       "2026",
+      "oil",
+      "market",
+      "impacted",
       "iran",
-      "envoy",
-      "kenya",
-      "missile",
-      "safety",
-      "update",
-      "2026.html"
+      "closes",
+      "strait",
+      "hormuz",
+      "vows",
+      "attack",
+      "errant",
+      "ships"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.9,
+    "count": 29,
+    "top_news": "https://ianslive.in/cbse-postpones-board-exams-in-gulf-nations-amid-west-asia-conflict--20260303125635",
+    "event_codes": {
+      "19": 19,
+      "15": 5,
+      "14": 3,
+      "16": 2
+    },
+    "keywords": [
+      "cbse",
+      "postpones",
+      "board",
+      "exams",
+      "gulf",
+      "nations",
+      "amid",
+      "west",
+      "asia",
+      "conflict",
+      "20260303125635"
     ]
   },
   "KWT": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.cbsnews.com/sacramento/news/sacramento-protest-us-israeli-war-iran/",
+    "risk_score": 8.8,
+    "count": 9,
+    "top_news": "https://www.thisdaylive.com/2026/03/03/oil-market-impacted-as-iran-closes-strait-of-hormuz-vows-to-attack-errant-ships/",
     "event_codes": {
-      "19": 8
+      "19": 7,
+      "18": 2
     },
     "keywords": [
-      "sacramento",
-      "news",
-      "sacramento",
-      "protest",
-      "israeli",
-      "war",
-      "iran"
+      "2026",
+      "oil",
+      "market",
+      "impacted",
+      "iran",
+      "closes",
+      "strait",
+      "hormuz",
+      "vows",
+      "attack",
+      "errant",
+      "ships"
     ]
   },
-  "LBN": {
-    "risk_score": 16.0,
-    "count": 16,
-    "top_news": "https://slguardian.org/seventy-two-hours-to-the-brink-middle-east-war-engulfs-region-and-rattles-the-world/",
+  "NGA": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.nigerianeye.com/2026/03/ondo-church-kidnap-victims-freed-after.html",
     "event_codes": {
-      "19": 16
+      "18": 3,
+      "17": 1
     },
     "keywords": [
-      "seventy",
-      "two",
-      "hours",
-      "the",
-      "brink",
-      "middle",
-      "east",
-      "war",
-      "engulfs",
-      "region",
-      "and",
-      "rattles",
-      "the",
-      "world"
+      "2026",
+      "ondo",
+      "church",
+      "kidnap",
+      "victims",
+      "freed",
+      "after.html"
     ]
   },
   "QAT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://slguardian.org/seventy-two-hours-to-the-brink-middle-east-war-engulfs-region-and-rattles-the-world/",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.hindustantimes.com/world-news/us-iran-conflict-news-india-to-dubai-emirates-flight-ek501-makes-rare-double-reverse-amid-missile-attack-on-uae-101772518070928.html",
     "event_codes": {
-      "19": 3
+      "19": 7
     },
     "keywords": [
-      "seventy",
-      "two",
-      "hours",
-      "the",
-      "brink",
-      "middle",
-      "east",
-      "war",
-      "engulfs",
-      "region",
-      "and",
-      "rattles",
-      "the",
-      "world"
+      "world",
+      "news",
+      "iran",
+      "conflict",
+      "news",
+      "india",
+      "dubai",
+      "emirates",
+      "flight",
+      "ek501",
+      "makes",
+      "rare",
+      "double",
+      "reverse",
+      "amid",
+      "missile",
+      "attack",
+      "uae",
+      "101772518070928.html"
     ]
   },
   "SAU": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.canberratimes.com.au/story/9188355/iran-targets-gulf-states-which-host-us-military-bases/",
+    "risk_score": 8.45,
+    "count": 10,
+    "top_news": "https://www.odt.co.nz/news/world/netanyahu-war-iran-not-going-take-years",
     "event_codes": {
-      "19": 5,
+      "19": 6,
+      "16": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "netanyahu",
+      "war",
+      "iran",
+      "not",
+      "going",
+      "take",
+      "years"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.kenyans.co.ke/news/121315-sudan-accuses-ethiopia-launching-drone-attacks-warns-consequences",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "121315",
+      "sudan",
+      "accuses",
+      "ethiopia",
+      "launching",
+      "drone",
+      "attacks",
+      "warns",
+      "consequences"
+    ]
+  },
+  "TUR": {
+    "risk_score": 7.9,
+    "count": 16,
+    "top_news": "https://www.hrw.org/news/2026/03/03/turkiye-leading-opponent-of-erdogan-on-trial",
+    "event_codes": {
+      "17": 15,
       "16": 1
     },
     "keywords": [
-      "story",
-      "9188355",
-      "iran",
-      "targets",
-      "gulf",
-      "states",
-      "which",
-      "host",
-      "military",
-      "bases"
-    ]
-  },
-  "SSD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202603030103.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "stories",
-      "202603030103.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cbsnews.com/minnesota/news/us-constitution-declarations-of-war-congress-trump/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "minnesota",
       "news",
-      "constitution",
-      "declarations",
-      "war",
-      "congress",
-      "trump"
+      "2026",
+      "turkiye",
+      "leading",
+      "opponent",
+      "erdogan",
+      "trial"
     ]
   }
 }
