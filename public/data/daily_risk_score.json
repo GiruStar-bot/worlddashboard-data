@@ -1,92 +1,213 @@
 {
   "ARE": {
+    "risk_score": 6.8,
+    "count": 11,
+    "top_news": "https://www.seattletimes.com/nation-world/nation/the-latest-trump-says-iran-war-could-last-weeks-as-netanyahu-defends-decision-to-attack/",
+    "event_codes": {
+      "16": 7,
+      "19": 4
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "nation",
+      "the",
+      "latest",
+      "trump",
+      "says",
+      "iran",
+      "war",
+      "could",
+      "last",
+      "weeks",
+      "netanyahu",
+      "defends",
+      "decision",
+      "attack"
+    ]
+  },
+  "EGY": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.catholicworldreport.com/2015/02/16/their-blood-confesses-christ-pope-francis-on-the-murder-of-egyptian-christians-by-isis-updated/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "2015",
+      "their",
+      "blood",
+      "confesses",
+      "christ",
+      "pope",
+      "francis",
+      "the",
+      "murder",
+      "egyptian",
+      "christians",
+      "isis",
+      "updated"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.35,
+    "count": 24,
+    "top_news": "https://www.seattletimes.com/nation-world/nation/the-latest-trump-says-iran-war-could-last-weeks-as-netanyahu-defends-decision-to-attack/",
+    "event_codes": {
+      "19": 17,
+      "16": 4,
+      "18": 3
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "nation",
+      "the",
+      "latest",
+      "trump",
+      "says",
+      "iran",
+      "war",
+      "could",
+      "last",
+      "weeks",
+      "netanyahu",
+      "defends",
+      "decision",
+      "attack"
+    ]
+  },
+  "ISR": {
+    "risk_score": 26.07,
+    "count": 28,
+    "top_news": "https://www.therakyatpost.com/news/malaysia/2026/03/03/iran-envoy-urges-malaysia-islamic-world-to-close-ranks-against-israel/",
+    "event_codes": {
+      "19": 20,
+      "18": 5,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "malaysia",
+      "2026",
+      "iran",
+      "envoy",
+      "urges",
+      "malaysia",
+      "islamic",
+      "world",
+      "close",
+      "ranks",
+      "against",
+      "israel"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.47,
+    "count": 12,
+    "top_news": "https://www.winnipegfreepress.com/canada/2026/03/03/in-the-news-today-carney-in-australia-mcguinty-talks-iran-tumbler-ridge-probe",
+    "event_codes": {
+      "19": 7,
+      "17": 2,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "canada",
+      "2026",
+      "the",
+      "news",
+      "today",
+      "carney",
+      "australia",
+      "mcguinty",
+      "talks",
+      "iran",
+      "tumbler",
+      "ridge",
+      "probe"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.catholicworldreport.com/2015/02/16/their-blood-confesses-christ-pope-francis-on-the-murder-of-egyptian-christians-by-isis-updated/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2015",
+      "their",
+      "blood",
+      "confesses",
+      "christ",
+      "pope",
+      "francis",
+      "the",
+      "murder",
+      "egyptian",
+      "christians",
+      "isis",
+      "updated"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.ewn.co.za/2026/03/03/dubai-radio-host-praises-community-amid-missile-attacks-in-uae-this-is-my-home",
+    "top_news": "https://www.muscatdaily.com/2026/03/03/us-embassy-in-saudi-arabia-hit-by-drone-attack/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "dubai",
-      "radio",
-      "host",
-      "praises",
-      "community",
-      "amid",
-      "missile",
-      "attacks",
-      "uae",
-      "this",
-      "home"
+      "embassy",
+      "saudi",
+      "arabia",
+      "hit",
+      "drone",
+      "attack"
     ]
   },
-  "IRN": {
-    "risk_score": 10.57,
-    "count": 13,
-    "top_news": "https://www.decaturdaily.com/opinion/columnists/cal-thomas-trump-fulfills-his-promise/article_2db75212-76c5-4bc6-ac42-3c7e047c937f.html",
+  "THA": {
+    "risk_score": 6.0,
+    "count": 9,
+    "top_news": "https://www.rediff.com/news/report/3lawyer-shooting-key-accused-arrested-in-delhi/20260303.htm",
     "event_codes": {
-      "19": 8,
-      "16": 3,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "opinion",
-      "columnists",
-      "cal",
-      "thomas",
-      "trump",
-      "fulfills",
-      "his",
-      "promise",
-      "article",
-      "2db75212",
-      "76c5",
-      "4bc6",
-      "ac42",
-      "3c7e047c937f.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.25,
-    "count": 18,
-    "top_news": "https://en.apa.az/asia/31-iranian-servicemen-killed-in-us-and-israeli-airstrikes-494404",
-    "event_codes": {
-      "15": 10,
-      "19": 4,
-      "14": 2,
-      "18": 2
-    },
-    "keywords": [
-      "asia",
-      "iranian",
-      "servicemen",
-      "killed",
-      "and",
-      "israeli",
-      "airstrikes",
-      "494404"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.73,
-    "count": 11,
-    "top_news": "https://www.yahoo.com/news/articles/israel-moves-more-troops-southern-085834059.html",
-    "event_codes": {
-      "19": 6,
-      "15": 4,
-      "18": 1
+      "17": 6,
+      "19": 3
     },
     "keywords": [
       "news",
-      "articles",
-      "israel",
-      "moves",
-      "more",
-      "troops",
-      "southern",
-      "085834059.html"
+      "report",
+      "3lawyer",
+      "shooting",
+      "key",
+      "accused",
+      "arrested",
+      "delhi",
+      "20260303.htm"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://www.newsday.co.zw/local-news/article/200052210/suspect-arrested-in-zaka-police-killings",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "local",
+      "news",
+      "article",
+      "200052210",
+      "suspect",
+      "arrested",
+      "zaka",
+      "police",
+      "killings"
     ]
   }
 }
