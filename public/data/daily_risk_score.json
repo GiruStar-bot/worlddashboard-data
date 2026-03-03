@@ -1,112 +1,151 @@
 {
-  "IRN": {
-    "risk_score": 26.85,
-    "count": 30,
-    "top_news": "https://hayspost.com/posts/2a21cb82-c8fb-4905-9fa0-8153d69c20c0",
+  "ARE": {
+    "risk_score": 2.8,
+    "count": 7,
+    "top_news": "https://www.irishdentist.ie/over-12300-cancellations-due-to-the-war/15920/",
     "event_codes": {
-      "19": 22,
-      "17": 4,
-      "16": 2,
-      "14": 1,
-      "20": 1
+      "16": 7
     },
     "keywords": [
-      "posts",
-      "2a21cb82",
-      "c8fb",
-      "4905",
-      "9fa0",
-      "8153d69c20c0"
+      "over",
+      "12300",
+      "cancellations",
+      "due",
+      "the",
+      "war",
+      "15920"
     ]
   },
-  "ISR": {
-    "risk_score": 19.7,
-    "count": 20,
-    "top_news": "https://english.wafa.ps/Pages/Details/167983",
-    "event_codes": {
-      "19": 18,
-      "18": 2
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "167983"
-    ]
-  },
-  "KWT": {
-    "risk_score": 5.0,
+  "ARG": {
+    "risk_score": 2.9,
     "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/uk-france-send-warships-air-201900830.html",
+    "top_news": "https://www.atlanticcouncil.org/dispatches/experts-react-how-the-world-is-responding-to-the-us-israeli-war-with-iran/",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "france",
-      "send",
-      "warships",
-      "air",
-      "201900830.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://legalinsurrection.com/2026/03/report-israeli-strike-wipes-out-irans-top-mullah-body-gathered-to-select-next-supreme-leader/",
-    "event_codes": {
-      "18": 3,
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "report",
-      "israeli",
-      "strike",
-      "wipes",
-      "out",
-      "irans",
-      "top",
-      "mullah",
-      "body",
-      "gathered",
-      "select",
-      "next",
-      "supreme",
-      "leader"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://english.news.cn/20260304/956e603db7d74ea28660bd378969f2e4/c.html",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "20260304",
-      "956e603db7d74ea28660bd378969f2e4",
-      "c.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://thenewamerican.com/opinion/what-is-the-iran-war-really-about/",
-    "event_codes": {
-      "18": 1,
+      "17": 3,
+      "16": 1,
       "19": 1
     },
     "keywords": [
-      "opinion",
-      "what",
+      "dispatches",
+      "experts",
+      "react",
+      "how",
       "the",
-      "iran",
+      "world",
+      "responding",
+      "the",
+      "israeli",
       "war",
-      "really",
-      "about"
+      "with",
+      "iran"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://wardheernews.com/country-by-country-heres-how-the-unfolding-war-is-affecting-the-middle-east/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "country",
+      "country",
+      "heres",
+      "how",
+      "the",
+      "unfolding",
+      "war",
+      "affecting",
+      "the",
+      "middle",
+      "east"
+    ]
+  },
+  "IRN": {
+    "risk_score": 17.34,
+    "count": 20,
+    "top_news": "https://www.atlanticcouncil.org/dispatches/experts-react-how-the-world-is-responding-to-the-us-israeli-war-with-iran/",
+    "event_codes": {
+      "19": 12,
+      "14": 4,
+      "15": 2,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "dispatches",
+      "experts",
+      "react",
+      "how",
+      "the",
+      "world",
+      "responding",
+      "the",
+      "israeli",
+      "war",
+      "with",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.5,
+    "count": 20,
+    "top_news": "https://www.ijpr.org/npr-news/2026-03-03/president-trump-shares-a-new-reason-why-the-u-s-attacked-iran",
+    "event_codes": {
+      "19": 12,
+      "16": 4,
+      "14": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "npr",
+      "news",
+      "2026",
+      "president",
+      "trump",
+      "shares",
+      "new",
+      "reason",
+      "why",
+      "the",
+      "attacked",
+      "iran"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 5,
+    "top_news": "https://www.irishdentist.ie/over-12300-cancellations-due-to-the-war/15920/",
+    "event_codes": {
+      "16": 5
+    },
+    "keywords": [
+      "over",
+      "12300",
+      "cancellations",
+      "due",
+      "the",
+      "war",
+      "15920"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://abc13.com/post/pentagon-ids-4-american-troops-killed-kuwait/18673193/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "post",
+      "pentagon",
+      "ids",
+      "american",
+      "troops",
+      "killed",
+      "kuwait",
+      "18673193"
     ]
   }
 }
