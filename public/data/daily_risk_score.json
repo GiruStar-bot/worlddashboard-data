@@ -1,195 +1,215 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.capitalfm.co.ke/news/2026/03/iran-says-it-fired-26-drones-five-ballistic-missiles-at-us-targets-in-gulf-china-daily/",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.rappler.com/technology/amazon-data-centers-united-arab-emirates-bahrain-damaged-drone-strikes/",
     "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "technology",
+      "amazon",
+      "data",
+      "centers",
+      "united",
+      "arab",
+      "emirates",
+      "bahrain",
+      "damaged",
+      "drone",
+      "strikes"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.cbs8.com/article/news/nation-world/americans-middle-east-warning-leave-state-department/507-50e2b857-1fbe-4331-89b7-88f9e2d59015",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "article",
+      "news",
+      "nation",
+      "world",
+      "americans",
+      "middle",
+      "east",
+      "warning",
+      "leave",
+      "state",
+      "department",
+      "507",
+      "50e2b857",
+      "1fbe",
+      "4331",
+      "89b7",
+      "88f9e2d59015"
+    ]
+  },
+  "IRN": {
+    "risk_score": 58.84,
+    "count": 65,
+    "top_news": "https://news.az/news/iran-claims-missile-and-drone-attack-on-us-air-base-in-bahrain",
+    "event_codes": {
+      "19": 47,
+      "14": 6,
+      "16": 6,
+      "15": 2,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "claims",
+      "missile",
+      "and",
+      "drone",
+      "attack",
+      "air",
+      "base",
+      "bahrain"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.02,
+    "count": 16,
+    "top_news": "https://www.rappler.com/world/middle-east/iran-conflict-widens-lebanon-kuwait-mistakenly-downs-us-jets/",
+    "event_codes": {
+      "19": 12,
+      "16": 2,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "conflict",
+      "widens",
+      "lebanon",
+      "kuwait",
+      "mistakenly",
+      "downs",
+      "jets"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/middle-east/hezbollah-claims-dawn-attack-on-israels-air-base-says-fired-swarm-of-drones-at-radar-sites-control-rooms20260303112932/",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "iran",
+      "world",
+      "middle",
+      "east",
+      "hezbollah",
+      "claims",
+      "dawn",
+      "attack",
+      "israels",
+      "air",
+      "base",
       "says",
       "fired",
+      "swarm",
       "drones",
-      "five",
-      "ballistic",
-      "missiles",
-      "targets",
-      "gulf",
-      "china",
-      "daily"
+      "radar",
+      "sites",
+      "control",
+      "rooms20260303112932"
     ]
   },
-  "IRN": {
-    "risk_score": 30.97,
-    "count": 34,
-    "top_news": "https://www.wbrz.com/news/proponents-and-protestors-take-to-lsu-campus-to-voice-feelings-about-conflict-in-iran",
+  "QAT": {
+    "risk_score": 3.44,
+    "count": 4,
+    "top_news": "https://www.rappler.com/world/middle-east/iran-conflict-widens-lebanon-kuwait-mistakenly-downs-us-jets/",
     "event_codes": {
-      "19": 23,
-      "18": 5,
-      "17": 4,
-      "15": 1,
-      "16": 1
+      "15": 2,
+      "19": 2
     },
     "keywords": [
-      "news",
-      "proponents",
-      "and",
-      "protestors",
-      "take",
-      "lsu",
-      "campus",
-      "voice",
-      "feelings",
-      "about",
+      "world",
+      "middle",
+      "east",
+      "iran",
       "conflict",
-      "iran"
+      "widens",
+      "lebanon",
+      "kuwait",
+      "mistakenly",
+      "downs",
+      "jets"
     ]
   },
-  "ISR": {
-    "risk_score": 11.7,
-    "count": 14,
-    "top_news": "https://www.capitalfm.co.ke/news/2026/03/iran-says-it-fired-26-drones-five-ballistic-missiles-at-us-targets-in-gulf-china-daily/",
-    "event_codes": {
-      "19": 10,
-      "16": 3,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "iran",
-      "says",
-      "fired",
-      "drones",
-      "five",
-      "ballistic",
-      "missiles",
-      "targets",
-      "gulf",
-      "china",
-      "daily"
-    ]
-  },
-  "KWT": {
+  "SAU": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://en.tempo.co/read/2090096/u-s-f-15-fighter-jet-crashes-in-kuwait-amid-regional-tension",
+    "top_news": "https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-anti-terrorism-squad-raids-four-locations-in-mumbai-over-suspected-pakistan-terror-links-suspects-questioned-23619092",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "read",
-      "2090096",
-      "fighter",
-      "jet",
-      "crashes",
-      "kuwait",
-      "amid",
-      "regional",
-      "tension"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.22,
-    "count": 4,
-    "top_news": "https://www.thehindu.com/news/international/israel-army-issues-new-evacuation-warnings-in-lebanon/article70697979.ece",
-    "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
+      "mumbai",
+      "mumbai",
       "news",
-      "international",
-      "israel",
-      "army",
-      "issues",
-      "new",
-      "evacuation",
-      "warnings",
-      "lebanon",
-      "article70697979.ece"
+      "article",
+      "maharashtra",
+      "anti",
+      "terrorism",
+      "squad",
+      "raids",
+      "four",
+      "locations",
+      "mumbai",
+      "over",
+      "suspected",
+      "pakistan",
+      "terror",
+      "links",
+      "suspects",
+      "questioned",
+      "23619092"
     ]
   },
-  "NGA": {
-    "risk_score": 5.32,
-    "count": 7,
-    "top_news": "https://hallmarknews.com/egbetokuns-can-of-worms-many-sins-against-him/",
-    "event_codes": {
-      "19": 4,
-      "16": 2,
-      "15": 1
-    },
-    "keywords": [
-      "egbetokuns",
-      "can",
-      "worms",
-      "many",
-      "sins",
-      "against",
-      "him"
-    ]
-  },
-  "SAU": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://thebftonline.com/2026/03/03/consumers-warned-to-brace-for-possible-fuel-price-hikes/",
-    "event_codes": {
-      "19": 9
-    },
-    "keywords": [
-      "2026",
-      "consumers",
-      "warned",
-      "brace",
-      "for",
-      "possible",
-      "fuel",
-      "price",
-      "hikes"
-    ]
-  },
-  "TWN": {
+  "SDN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.marketscreener.com/news/taiwan-says-it-hopes-iran-s-people-can-soon-enjoy-freedom-and-democracy-ce7e5cdddf89f325",
+    "top_news": "https://dailypioneer.com/news/169-killed-after-raid-in-south-sudan",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "taiwan",
-      "says",
-      "hopes",
-      "iran",
-      "people",
-      "can",
-      "soon",
-      "enjoy",
-      "freedom",
-      "and",
-      "democracy",
-      "ce7e5cdddf89f325"
+      "169",
+      "killed",
+      "after",
+      "raid",
+      "south",
+      "sudan"
     ]
   },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://rafu.com/2026/03/letters-to-the-editor-uniting-in-a-common-cause/",
+  "SSD": {
+    "risk_score": 11.9,
+    "count": 12,
+    "top_news": "https://dailypioneer.com/news/169-killed-after-raid-in-south-sudan",
     "event_codes": {
-      "19": 2
+      "19": 12
     },
     "keywords": [
-      "2026",
-      "letters",
-      "the",
-      "editor",
-      "uniting",
-      "common",
-      "cause"
+      "news",
+      "169",
+      "killed",
+      "after",
+      "raid",
+      "south",
+      "sudan"
     ]
   }
 }
