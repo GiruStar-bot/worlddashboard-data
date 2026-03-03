@@ -1,202 +1,160 @@
 {
-  "EGY": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.newstatesman.com/international-politics/2026/03/trump-has-betrayed-america-first",
+  "ARE": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.hollywoodreporter.com/business/business-news/alberta-hollywood-film-tax-credit-1236520472/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "18": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "international",
-      "politics",
-      "2026",
-      "trump",
-      "has",
-      "betrayed",
-      "america",
-      "first"
+      "business",
+      "business",
+      "news",
+      "alberta",
+      "hollywood",
+      "film",
+      "tax",
+      "credit",
+      "1236520472"
     ]
   },
   "IRN": {
-    "risk_score": 40.54,
-    "count": 49,
-    "top_news": "https://newrepublic.com/post/207259/us-embassies-tell-americans-middle-east-theyre",
+    "risk_score": 17.85,
+    "count": 21,
+    "top_news": "https://www.twincities.com/2026/03/02/israel-steps-up-airstrikes-in-tehran-as-iran-widens-its-response-across-the-region/",
     "event_codes": {
-      "19": 27,
-      "16": 8,
-      "14": 5,
-      "18": 5,
-      "15": 2,
-      "17": 2
+      "19": 13,
+      "17": 4,
+      "14": 3,
+      "18": 1
     },
     "keywords": [
-      "post",
-      "207259",
-      "embassies",
-      "tell",
-      "americans",
-      "middle",
-      "east",
-      "theyre"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 9.39,
-    "count": 10,
-    "top_news": "https://www.cfr.org/articles/trumps-iran-campaign-ignores-the-lessons-of-the-iraq-war",
-    "event_codes": {
-      "19": 8,
-      "15": 2
-    },
-    "keywords": [
-      "articles",
-      "trumps",
+      "2026",
+      "israel",
+      "steps",
+      "airstrikes",
+      "tehran",
       "iran",
-      "campaign",
-      "ignores",
+      "widens",
+      "its",
+      "response",
+      "across",
       "the",
-      "lessons",
-      "the",
-      "iraq",
-      "war"
+      "region"
     ]
   },
   "ISR": {
-    "risk_score": 14.15,
-    "count": 17,
-    "top_news": "https://newrepublic.com/post/207259/us-embassies-tell-americans-middle-east-theyre",
+    "risk_score": 17.16,
+    "count": 27,
+    "top_news": "https://www.odt.co.nz/news/world/not-winston-churchill-trump-slams-starmer",
     "event_codes": {
-      "19": 11,
-      "17": 5,
-      "14": 1
+      "16": 12,
+      "19": 7,
+      "15": 3,
+      "14": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "post",
-      "207259",
-      "embassies",
-      "tell",
-      "americans",
-      "middle",
-      "east",
-      "theyre"
+      "news",
+      "world",
+      "not",
+      "winston",
+      "churchill",
+      "trump",
+      "slams",
+      "starmer"
     ]
   },
-  "KWT": {
+  "KEN": {
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://www.the-star.co.ke/news/2026-03-03-tens-evacuated-after-eastleigh-plaza-fire",
+    "event_codes": {
+      "17": 4,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "tens",
+      "evacuated",
+      "after",
+      "eastleigh",
+      "plaza",
+      "fire"
+    ]
+  },
+  "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://taylorvilledailynews.com/local-news/srn-us-news/1364f8ae60a6edbae69c051b96408983",
+    "top_news": "https://www.thetimes.com/world/middle-east/article/inside-mossad-intelligence-web-killed-khamenei-9b97l565f",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "local",
-      "news",
-      "srn",
-      "news",
-      "1364f8ae60a6edbae69c051b96408983"
-    ]
-  },
-  "LBN": {
-    "risk_score": 10.32,
-    "count": 11,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/03/03/country-by-country-heres-how-the-unfolding-war-is-affecting-the-middle-east",
-    "event_codes": {
-      "19": 6,
-      "18": 4,
-      "15": 1
-    },
-    "keywords": [
       "world",
-      "2026",
-      "country",
-      "country",
-      "heres",
-      "how",
-      "the",
-      "unfolding",
-      "war",
-      "affecting",
-      "the",
       "middle",
-      "east"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.cfr.org/articles/guide-trumps-second-term-military-strikes-and-actions",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "articles",
-      "guide",
-      "trumps",
-      "second",
-      "term",
-      "military",
-      "strikes",
-      "and",
-      "actions"
+      "east",
+      "article",
+      "inside",
+      "mossad",
+      "intelligence",
+      "web",
+      "killed",
+      "khamenei",
+      "9b97l565f"
     ]
   },
   "SAU": {
-    "risk_score": 5.92,
-    "count": 6,
-    "top_news": "https://newrepublic.com/post/207259/us-embassies-tell-americans-middle-east-theyre",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "post",
-      "207259",
-      "embassies",
-      "tell",
-      "americans",
-      "middle",
-      "east",
-      "theyre"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cfr.org/articles/guide-trumps-second-term-military-strikes-and-actions",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "articles",
-      "guide",
-      "trumps",
-      "second",
-      "term",
-      "military",
-      "strikes",
-      "and",
-      "actions"
-    ]
-  },
-  "SYR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.cfr.org/articles/guide-trumps-second-term-military-strikes-and-actions",
+    "top_news": "https://www.twincities.com/2026/03/02/israel-steps-up-airstrikes-in-tehran-as-iran-widens-its-response-across-the-region/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "articles",
-      "guide",
-      "trumps",
-      "second",
-      "term",
-      "military",
-      "strikes",
-      "and",
-      "actions"
+      "2026",
+      "israel",
+      "steps",
+      "airstrikes",
+      "tehran",
+      "iran",
+      "widens",
+      "its",
+      "response",
+      "across",
+      "the",
+      "region"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.44,
+    "count": 4,
+    "top_news": "https://www.army.mil/article/290833/3rd_multi_domain_task_force_expands_role_with_space_control_at_cobra_gold_2026",
+    "event_codes": {
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "290833",
+      "3rd",
+      "multi",
+      "domain",
+      "task",
+      "force",
+      "expands",
+      "role",
+      "with",
+      "space",
+      "control",
+      "cobra",
+      "gold",
+      "2026"
     ]
   }
 }
