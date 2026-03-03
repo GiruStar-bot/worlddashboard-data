@@ -1,240 +1,92 @@
 {
   "ARE": {
-    "risk_score": 7.8,
-    "count": 9,
-    "top_news": "https://www.maltatoday.com.mt/news/world/140073/iran_widens_retaliatory_attacks_against_us_targets_across_the_gulf_",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ewn.co.za/2026/03/03/dubai-radio-host-praises-community-amid-missile-attacks-in-uae-this-is-my-home",
     "event_codes": {
-      "19": 7,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "140073",
-      "iran",
-      "widens",
-      "retaliatory",
-      "attacks",
-      "against",
-      "targets",
-      "across",
-      "the",
-      "gulf"
-    ]
-  },
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.paradisepost.com/2026/03/02/iran-israel-us-attack/",
-    "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
       "2026",
-      "iran",
-      "israel",
-      "attack"
-    ]
-  },
-  "COD": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://dominicanrepublicpost.com/us-sanctions-rwandan-army-and-top-officials-for-supporting-m23-in-drc/",
-    "event_codes": {
-      "16": 3
-    },
-    "keywords": [
-      "sanctions",
-      "rwandan",
-      "army",
-      "and",
-      "top",
-      "officials",
-      "for",
-      "supporting",
-      "m23",
-      "drc"
+      "dubai",
+      "radio",
+      "host",
+      "praises",
+      "community",
+      "amid",
+      "missile",
+      "attacks",
+      "uae",
+      "this",
+      "home"
     ]
   },
   "IRN": {
-    "risk_score": 41.57,
-    "count": 44,
-    "top_news": "https://www.independent.ie/regionals/kerry/north-west-kerry-news/kerry-resident-in-dubai-i-have-a-bag-packed-just-in-case-but-i-feel-safe-right-now/a1325360523.html",
+    "risk_score": 10.57,
+    "count": 13,
+    "top_news": "https://www.decaturdaily.com/opinion/columnists/cal-thomas-trump-fulfills-his-promise/article_2db75212-76c5-4bc6-ac42-3c7e047c937f.html",
     "event_codes": {
-      "19": 33,
-      "18": 6,
-      "17": 2,
+      "19": 8,
+      "16": 3,
       "14": 1,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "regionals",
-      "kerry",
-      "north",
-      "west",
-      "kerry",
-      "news",
-      "kerry",
-      "resident",
-      "dubai",
-      "have",
-      "bag",
-      "packed",
-      "just",
-      "case",
-      "but",
-      "feel",
-      "safe",
-      "right",
-      "now",
-      "a1325360523.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.tribtoday.com/news/national-news-apwire/2026/03/us-ready-for-extended-campaign/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "news",
-      "apwire",
-      "2026",
-      "ready",
-      "for",
-      "extended",
-      "campaign"
-    ]
-  },
-  "ISR": {
-    "risk_score": 35.12,
-    "count": 40,
-    "top_news": "https://www.paradisepost.com/2026/03/02/us-iran-where-things-stand/",
-    "event_codes": {
-      "19": 25,
-      "15": 6,
-      "16": 4,
-      "18": 4,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "where",
-      "things",
-      "stand"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=387205",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "wire"
-    ]
-  },
-  "KWT": {
-    "risk_score": 5.9,
-    "count": 7,
-    "top_news": "https://www.dailymail.co.uk/news/article-15608885/Back-Im-American-Incredible-moment-local-threatens-US-airman-metal-pipe-thinking-Iranian-parachuted-F-15-mistakenly-shot-Kuwait.html",
-    "event_codes": {
-      "19": 5,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15608885",
-      "back",
-      "american",
-      "incredible",
-      "moment",
-      "local",
-      "threatens",
-      "airman",
-      "metal",
-      "pipe",
-      "thinking",
-      "iranian",
-      "parachuted",
-      "mistakenly",
-      "shot",
-      "kuwait.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 8.52,
-    "count": 10,
-    "top_news": "https://www.lahainanews.com/wire/?category=5035&ID=387185",
-    "event_codes": {
-      "19": 7,
-      "16": 2,
       "15": 1
     },
     "keywords": [
-      "wire"
+      "opinion",
+      "columnists",
+      "cal",
+      "thomas",
+      "trump",
+      "fulfills",
+      "his",
+      "promise",
+      "article",
+      "2db75212",
+      "76c5",
+      "4bc6",
+      "ac42",
+      "3c7e047c937f.html"
     ]
   },
-  "NGA": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.ghanamma.com/2026/03/03/psychiatrists-condemn-killing-of-colleague-in-enugu-demand-justice/",
+  "ISR": {
+    "risk_score": 14.25,
+    "count": 18,
+    "top_news": "https://en.apa.az/asia/31-iranian-servicemen-killed-in-us-and-israeli-airstrikes-494404",
     "event_codes": {
-      "19": 2,
+      "15": 10,
+      "19": 4,
+      "14": 2,
+      "18": 2
+    },
+    "keywords": [
+      "asia",
+      "iranian",
+      "servicemen",
+      "killed",
+      "and",
+      "israeli",
+      "airstrikes",
+      "494404"
+    ]
+  },
+  "LBN": {
+    "risk_score": 9.73,
+    "count": 11,
+    "top_news": "https://www.yahoo.com/news/articles/israel-moves-more-troops-southern-085834059.html",
+    "event_codes": {
+      "19": 6,
+      "15": 4,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "psychiatrists",
-      "condemn",
-      "killing",
-      "colleague",
-      "enugu",
-      "demand",
-      "justice"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://thepeninsulaqatar.com/article/03/03/2026/live-updates-attack-by-two-drones-on-us-embassy-in-saudi-capital-sparks-limited-fire",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "live",
-      "updates",
-      "attack",
-      "two",
-      "drones",
-      "embassy",
-      "saudi",
-      "capital",
-      "sparks",
-      "limited",
-      "fire"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=387205",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "wire"
+      "news",
+      "articles",
+      "israel",
+      "moves",
+      "more",
+      "troops",
+      "southern",
+      "085834059.html"
     ]
   }
 }
