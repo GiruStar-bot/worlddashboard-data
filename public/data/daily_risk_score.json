@@ -1,251 +1,117 @@
 {
-  "BHR": {
+  "EGY": {
+    "risk_score": 4.75,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/opinion/how-iran-war-may-accelerate-fall-us-empire",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "opinion",
+      "how",
+      "iran",
+      "war",
+      "may",
+      "accelerate",
+      "fall",
+      "empire"
+    ]
+  },
+  "ETH": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.el-balad.com/16867743",
+    "top_news": "https://www.neshobademocrat.com/editorials/getting-the-message-submission-to-the-lord-61a8bc1d",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "16867743"
+      "editorials",
+      "getting",
+      "the",
+      "message",
+      "submission",
+      "the",
+      "lord",
+      "61a8bc1d"
     ]
   },
   "IRN": {
-    "risk_score": 28.59,
-    "count": 32,
-    "top_news": "https://forward.com/opinion/809944/khamenei-iran-iranians-celebrating/",
+    "risk_score": 21.15,
+    "count": 23,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-888868",
     "event_codes": {
-      "19": 18,
-      "18": 5,
-      "14": 3,
-      "16": 3,
-      "17": 2,
-      "15": 1
+      "19": 17,
+      "14": 5,
+      "18": 1
     },
     "keywords": [
-      "opinion",
-      "809944",
-      "khamenei",
+      "middle",
+      "east",
       "iran",
-      "iranians",
-      "celebrating"
+      "news",
+      "article",
+      "888868"
     ]
   },
-  "IRQ": {
+  "ISR": {
+    "risk_score": 23.92,
+    "count": 27,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-888868",
+    "event_codes": {
+      "18": 9,
+      "19": 9,
+      "17": 4,
+      "15": 3,
+      "14": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "888868"
+    ]
+  },
+  "KWT": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.yahoo.com/news/world/article/the-path-to-the-us-iran-war-a-timeline-of-how-the-2-nations-went-from-allies-to-enemies-210418761.html",
+    "top_news": "https://www.yahoo.com/news/articles/iowa-soldier-killed-kuwait-know-190843039.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "world",
-      "article",
-      "the",
-      "path",
-      "the",
-      "iran",
-      "war",
-      "timeline",
-      "how",
-      "the",
-      "nations",
-      "went",
-      "from",
-      "allies",
-      "enemies",
-      "210418761.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 66.2,
-    "count": 68,
-    "top_news": "https://www.whqr.org/national/2026-03-04/the-u-s-sinks-irans-ships-and-slams-its-missile-launchers-as-the-war-enters-day-5",
-    "event_codes": {
-      "19": 62,
-      "18": 3,
-      "17": 2,
-      "14": 1
-    },
-    "keywords": [
-      "national",
-      "2026",
-      "the",
-      "sinks",
-      "irans",
-      "ships",
-      "and",
-      "slams",
-      "its",
-      "missile",
-      "launchers",
-      "the",
-      "war",
-      "enters",
-      "day"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.el-balad.com/16867743",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "16867743"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.7,
-    "count": 8,
-    "top_news": "https://www.yahoo.com/news/world/article/the-path-to-the-us-iran-war-a-timeline-of-how-the-2-nations-went-from-allies-to-enemies-210418761.html",
-    "event_codes": {
-      "18": 4,
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "article",
-      "the",
-      "path",
-      "the",
-      "iran",
-      "war",
-      "timeline",
-      "how",
-      "the",
-      "nations",
-      "went",
-      "from",
-      "allies",
-      "enemies",
-      "210418761.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "https://punchng.com/yabatech-student-shot-dead-in-lagos/",
-    "event_codes": {
-      "19": 7,
-      "17": 1
-    },
-    "keywords": [
-      "yabatech",
-      "student",
-      "shot",
-      "dead",
-      "lagos"
+      "articles",
+      "iowa",
+      "soldier",
+      "killed",
+      "kuwait",
+      "know",
+      "190843039.html"
     ]
   },
   "PSE": {
-    "risk_score": 36.47,
-    "count": 37,
-    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-02-march-2026/",
-    "event_codes": {
-      "19": 32,
-      "18": 4,
-      "17": 1
-    },
-    "keywords": [
-      "occupied",
-      "palestine",
-      "march",
-      "2026"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.el-balad.com/16867743",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "16867743"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.el-balad.com/16867743",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "16867743"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.whqr.org/national/2026-03-04/the-u-s-sinks-irans-ships-and-slams-its-missile-launchers-as-the-war-enters-day-5",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "national",
-      "2026",
-      "the",
-      "sinks",
-      "irans",
-      "ships",
-      "and",
-      "slams",
-      "its",
-      "missile",
-      "launchers",
-      "the",
-      "war",
-      "enters",
-      "day"
-    ]
-  },
-  "TUR": {
-    "risk_score": 9.95,
-    "count": 11,
-    "top_news": "https://www.whqr.org/national/2026-03-04/the-u-s-sinks-irans-ships-and-slams-its-missile-launchers-as-the-war-enters-day-5",
+    "risk_score": 18.7,
+    "count": 20,
+    "top_news": "https://imemc.org/article/colonizers-shoot-two-palestinians-escalate-attacks-across-west-bank/",
     "event_codes": {
       "19": 8,
-      "14": 3
+      "18": 7,
+      "17": 4,
+      "15": 1
     },
     "keywords": [
-      "national",
-      "2026",
-      "the",
-      "sinks",
-      "irans",
-      "ships",
-      "and",
-      "slams",
-      "its",
-      "missile",
-      "launchers",
-      "the",
-      "war",
-      "enters",
-      "day"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.rbth.com/history/333531-how-ussr-captured-american-aircraft",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "history",
-      "333531",
-      "how",
-      "ussr",
-      "captured",
-      "american",
-      "aircraft"
+      "article",
+      "colonizers",
+      "shoot",
+      "two",
+      "palestinians",
+      "escalate",
+      "attacks",
+      "across",
+      "west",
+      "bank"
     ]
   }
 }
