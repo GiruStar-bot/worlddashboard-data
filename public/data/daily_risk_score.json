@@ -1,198 +1,124 @@
 {
   "ARE": {
-    "risk_score": 3.4,
-    "count": 6,
-    "top_news": "https://en.interfax.com.ua/news/general/1149261.html",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260304192336.wqlo4jtl.html",
     "event_codes": {
-      "17": 4,
-      "16": 2
+      "19": 4
     },
     "keywords": [
-      "news",
-      "general",
-      "1149261.html"
-    ]
-  },
-  "ARG": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.jewishvoicesnj.org/articles/khamenei-long-obstructed-peace-for-israel-but-his-influence-was-waning-before-his-assassination/",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "articles",
-      "khamenei",
-      "long",
-      "obstructed",
-      "peace",
-      "for",
-      "israel",
-      "but",
-      "his",
-      "influence",
-      "was",
-      "waning",
-      "before",
-      "his",
-      "assassination"
+      "afp",
+      "260304192336.wqlo4jtl.html"
     ]
   },
   "IRN": {
-    "risk_score": 25.01,
-    "count": 29,
-    "top_news": "https://www.jpost.com/opinion/article-888608",
+    "risk_score": 45.32,
+    "count": 49,
+    "top_news": "https://www.spacewar.com/afp/260304192336.wqlo4jtl.html",
     "event_codes": {
-      "19": 16,
-      "17": 6,
-      "14": 2,
-      "15": 2,
-      "18": 2,
-      "20": 1
+      "19": 38,
+      "18": 4,
+      "16": 3,
+      "17": 3,
+      "15": 1
     },
     "keywords": [
-      "opinion",
-      "article",
-      "888608"
+      "afp",
+      "260304192336.wqlo4jtl.html"
     ]
   },
   "IRQ": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.wral.com/news/ap/f1619-country-by-country-heres-how-the-unfolding-war-is-affecting-the-middle-east-and-beyond/",
+    "risk_score": 3.87,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/flashes/678102",
     "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "f1619",
-      "country",
-      "country",
-      "heres",
-      "how",
-      "the",
-      "unfolding",
-      "war",
-      "affecting",
-      "the",
-      "middle",
-      "east",
-      "and",
-      "beyond"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.4,
-    "count": 21,
-    "top_news": "https://www.jpost.com/opinion/article-888608",
-    "event_codes": {
-      "19": 16,
-      "17": 4,
-      "16": 1
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "888608"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wral.com/news/ap/f1619-country-by-country-heres-how-the-unfolding-war-is-affecting-the-middle-east-and-beyond/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "f1619",
-      "country",
-      "country",
-      "heres",
-      "how",
-      "the",
-      "unfolding",
-      "war",
-      "affecting",
-      "the",
-      "middle",
-      "east",
-      "and",
-      "beyond"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.2,
-    "count": 7,
-    "top_news": "https://www.winnipegfreepress.com/breakingnews/2026/03/04/israeli-military-orders-immediate-evacuations-in-southern-lebanon-as-strikes-on-beirut-intensify",
-    "event_codes": {
-      "19": 5,
-      "16": 1,
+      "19": 3,
       "17": 1
     },
     "keywords": [
-      "breakingnews",
-      "2026",
-      "israeli",
-      "military",
-      "orders",
-      "immediate",
-      "evacuations",
-      "southern",
-      "lebanon",
-      "strikes",
-      "beirut",
-      "intensify"
+      "flashes",
+      "678102"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://pmnewsnigeria.com/2026/03/04/suspected-gunrunner-nabbed-with-6-firearms-in-kano/",
+  "ISR": {
+    "risk_score": 14.45,
+    "count": 16,
+    "top_news": "https://www.spacewar.com/afp/260304192336.wqlo4jtl.html",
     "event_codes": {
-      "17": 4
+      "19": 12,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "afp",
+      "260304192336.wqlo4jtl.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 7.45,
+    "count": 9,
+    "top_news": "https://www.spacewar.com/afp/260304195324.kn8j96d8.html",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "afp",
+      "260304195324.kn8j96d8.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.sandiegouniontribune.com/2026/03/04/middle-east-war/",
+    "event_codes": {
+      "19": 13
     },
     "keywords": [
       "2026",
-      "suspected",
-      "gunrunner",
-      "nabbed",
-      "with",
-      "firearms",
-      "kano"
+      "middle",
+      "east",
+      "war"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.2news.com/news/national/senators-clash-over-an-iran-war-resolution-as-congress-first-vote-on-the-conflict-draws/article_71116989-3e6b-517b-b98c-8c9024240948.html",
+  "QAT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/middle-east/2026/03/04/qatar-cracks-down-iranian-sleeper-cells-ten-operatives-arrested/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 5
     },
     "keywords": [
-      "news",
-      "national",
-      "senators",
-      "clash",
-      "over",
-      "iran",
-      "war",
-      "resolution",
-      "congress",
-      "first",
-      "vote",
-      "the",
-      "conflict",
-      "draws",
-      "article",
-      "71116989",
-      "3e6b",
-      "517b",
-      "b98c",
-      "8c9024240948.html"
+      "middle",
+      "east",
+      "2026",
+      "qatar",
+      "cracks",
+      "down",
+      "iranian",
+      "sleeper",
+      "cells",
+      "ten",
+      "operatives",
+      "arrested"
+    ]
+  },
+  "TUR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://crooksandliars.com/2026/03/nato-shoots-down-iranian-missile-headed",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "nato",
+      "shoots",
+      "down",
+      "iranian",
+      "missile",
+      "headed"
     ]
   }
 }
