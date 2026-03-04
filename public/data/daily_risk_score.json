@@ -1,85 +1,114 @@
 {
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/fact-check-photo-shows-graves-230700227.html",
+  "ARE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/03/05/mojtaba-khamenei-iranian-supreme-leaders-son-tipped-as-successor",
     "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "category",
+      "highlight",
+      "2026",
+      "mojtaba",
+      "khamenei",
+      "iranian",
+      "supreme",
+      "leaders",
+      "son",
+      "tipped",
+      "successor"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.dailybreeze.com/2026/03/04/middle-east-war/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "middle",
+      "east",
+      "war"
+    ]
+  },
+  "ECU": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "http://www.sitkasentinel.com/stories/ecuador-declares-cubas-ambassador-persona-non-grata-orders-mission-to-leave-the-country,123142",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
+      "stories",
+      "ecuador",
+      "declares",
+      "cubas",
+      "ambassador",
+      "persona",
+      "non",
+      "grata",
+      "orders",
+      "mission",
+      "leave",
+      "the",
+      "country,123142"
+    ]
+  },
+  "EGY": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.columbian.com/news/2026/mar/04/night-before-key-peninsula-stabbings-police-responded-to-call-about-suspect/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
       "news",
-      "articles",
-      "fact",
-      "check",
-      "photo",
-      "shows",
-      "graves",
-      "230700227.html"
+      "2026",
+      "mar",
+      "night",
+      "before",
+      "key",
+      "peninsula",
+      "stabbings",
+      "police",
+      "responded",
+      "call",
+      "about",
+      "suspect"
     ]
   },
   "IRN": {
-    "risk_score": 15.83,
-    "count": 18,
-    "top_news": "https://www.yahoo.com/news/articles/fact-check-photo-shows-graves-230700227.html",
+    "risk_score": 105.57,
+    "count": 113,
+    "top_news": "https://antonyloewenstein.com/disaster-capitalism-surrounds-us-every-day/",
     "event_codes": {
-      "19": 9,
+      "19": 89,
+      "18": 12,
+      "16": 7,
       "17": 3,
-      "14": 2,
-      "15": 2,
-      "18": 2
+      "14": 1,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "fact",
-      "check",
-      "photo",
-      "shows",
-      "graves",
-      "230700227.html"
+      "disaster",
+      "capitalism",
+      "surrounds",
+      "every",
+      "day"
     ]
   },
   "IRQ": {
-    "risk_score": 7.85,
-    "count": 8,
-    "top_news": "https://redstate.com/wardclark/2026/03/04/report-kurds-in-iran-preparing-for-ground-assault-on-iranian-forces-n2199851",
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://littleapplepost.com/posts/26b3ca26-d66c-478c-a714-1f1a35b693e0",
     "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "wardclark",
-      "2026",
-      "report",
-      "kurds",
-      "iran",
-      "preparing",
-      "for",
-      "ground",
-      "assault",
-      "iranian",
-      "forces",
-      "n2199851"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.65,
-    "count": 15,
-    "top_news": "https://tass.com/world/2096575",
-    "event_codes": {
-      "19": 10,
-      "18": 5
-    },
-    "keywords": [
-      "world",
-      "2096575"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://hayspost.com/posts/26b3ca26-d66c-478c-a714-1f1a35b693e0",
-    "event_codes": {
-      "19": 2
+      "19": 5,
+      "17": 2
     },
     "keywords": [
       "posts",
@@ -90,116 +119,153 @@
       "1f1a35b693e0"
     ]
   },
-  "LBN": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.naharnet.com/stories/en/318759-three-killed-in-two-israeli-strikes-near-beirut",
+  "ISR": {
+    "risk_score": 41.9,
+    "count": 43,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/03/05/mojtaba-khamenei-iranian-supreme-leaders-son-tipped-as-successor",
     "event_codes": {
-      "19": 3
+      "19": 38,
+      "18": 3,
+      "17": 2
     },
     "keywords": [
-      "stories",
-      "318759",
-      "three",
-      "killed",
-      "two",
-      "israeli",
-      "strikes",
-      "near",
-      "beirut"
+      "category",
+      "highlight",
+      "2026",
+      "mojtaba",
+      "khamenei",
+      "iranian",
+      "supreme",
+      "leaders",
+      "son",
+      "tipped",
+      "successor"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://nypost.com/2026/03/04/opinion/gavin-newsom-bets-antisemitism-is-the-democratic-partys-future/",
+  "JOR": {
+    "risk_score": 3.45,
+    "count": 5,
+    "top_news": "https://www.dailygazette.com/hv360/hv360/news/politics/hudson-common-council-presidents-accident-sparks-debate/article_7d18019c-3e7b-416c-aacc-3e985b668e83.html",
     "event_codes": {
-      "19": 2
+      "17": 3,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "hv360",
+      "hv360",
+      "news",
+      "politics",
+      "hudson",
+      "common",
+      "council",
+      "presidents",
+      "accident",
+      "sparks",
+      "debate",
+      "article",
+      "7d18019c",
+      "3e7b",
+      "416c",
+      "aacc",
+      "3e985b668e83.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 13.5,
+    "count": 14,
+    "top_news": "https://www.dailybreeze.com/2026/03/04/middle-east-war/",
+    "event_codes": {
+      "19": 13,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "opinion",
-      "gavin",
-      "newsom",
-      "bets",
-      "antisemitism",
-      "the",
-      "democratic",
-      "partys",
-      "future"
+      "middle",
+      "east",
+      "war"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/senate-iran-war-vote-trump-powers-resolution-b2932221.html",
+  "LBN": {
+    "risk_score": 15.0,
+    "count": 15,
+    "top_news": "https://themedialine.org/top-stories/this-will-lead-to-civil-war-some-christians-warn-after-israeli-strike-on-lebanese-town/",
     "event_codes": {
-      "19": 2
+      "19": 15
     },
     "keywords": [
-      "news",
-      "world",
-      "americas",
-      "politics",
-      "senate",
-      "iran",
+      "top",
+      "stories",
+      "this",
+      "will",
+      "lead",
+      "civil",
       "war",
-      "vote",
-      "trump",
-      "powers",
-      "resolution",
-      "b2932221.html"
+      "some",
+      "christians",
+      "warn",
+      "after",
+      "israeli",
+      "strike",
+      "lebanese",
+      "town"
     ]
   },
-  "THA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.guampdn.com/news/trial-begins-in-2024-valentines-day-robbery-fatal-shooting-case/article_4f5537d5-a4ea-44ad-b502-f1fde5831fcb.html",
+  "NGA": {
+    "risk_score": 9.65,
+    "count": 15,
+    "top_news": "https://punchng.com/yabatech-student-killed-in-lagos-amid-rising-cult-violence/",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 10,
+      "19": 4,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "trial",
-      "begins",
-      "2024",
-      "valentines",
-      "day",
-      "robbery",
-      "fatal",
-      "shooting",
-      "case",
-      "article",
-      "4f5537d5",
-      "a4ea",
-      "44ad",
-      "b502",
-      "f1fde5831fcb.html"
+      "yabatech",
+      "student",
+      "killed",
+      "lagos",
+      "amid",
+      "rising",
+      "cult",
+      "violence"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.dailybreeze.com/2026/03/04/middle-east-war/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "middle",
+      "east",
+      "war"
     ]
   },
   "TUR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://redstate.com/wardclark/2026/03/04/history-of-the-middle-east-part-one-the-march-of-the-ten-thousand-n2199838",
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://foreignpolicy.com/2026/03/04/us-israel-iran-war-military-pressure-missiles-f35-nato-turkey-france/",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "wardclark",
       "2026",
-      "history",
-      "the",
-      "middle",
-      "east",
-      "part",
-      "one",
-      "the",
-      "march",
-      "the",
-      "ten",
-      "thousand",
-      "n2199838"
+      "israel",
+      "iran",
+      "war",
+      "military",
+      "pressure",
+      "missiles",
+      "f35",
+      "nato",
+      "turkey",
+      "france"
     ]
   }
 }
