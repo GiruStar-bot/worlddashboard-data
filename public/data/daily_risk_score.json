@@ -1,217 +1,209 @@
 {
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.presstv.ir/Detail/2026/03/05/764993/irgc-khorramshahr-4-missiles-struck-Tel-Aviv-Ben-Gurion-and-Israeli-air-base-in-latest-wave",
+  "ARE": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.tribuneindia.com/news/india/explosions-kept-us-awake-at-night-recollect-rajasthani-youths-who-returned-from-dubai/",
     "event_codes": {
-      "19": 5
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "764993",
-      "irgc",
-      "khorramshahr",
-      "missiles",
-      "struck",
-      "tel",
-      "aviv",
-      "ben",
-      "gurion",
-      "and",
-      "israeli",
-      "air",
-      "base",
-      "latest",
-      "wave"
+      "news",
+      "india",
+      "explosions",
+      "kept",
+      "awake",
+      "night",
+      "recollect",
+      "rajasthani",
+      "youths",
+      "who",
+      "returned",
+      "from",
+      "dubai"
+    ]
+  },
+  "BRA": {
+    "risk_score": 4.0,
+    "count": 7,
+    "top_news": "https://www.dailyrecord.co.uk/news/crime/prisoner-beheaded-disembowelled-after-inmates-36823113",
+    "event_codes": {
+      "17": 6,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "crime",
+      "prisoner",
+      "beheaded",
+      "disembowelled",
+      "after",
+      "inmates",
+      "36823113"
+    ]
+  },
+  "COD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.terradaily.com/reports/Attack_at_DR_Congo_nature_park_kills_five_999.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "reports",
+      "attack",
+      "congo",
+      "nature",
+      "park",
+      "kills",
+      "five",
+      "999.html"
     ]
   },
   "IRN": {
-    "risk_score": 49.04,
-    "count": 54,
-    "top_news": "https://www.hindustantimes.com/india-news/mumbai-man-among-three-indian-nationals-killed-in-attacks-on-vessel-off-oman-coast-101772714034736.html",
-    "event_codes": {
-      "19": 38,
-      "14": 7,
-      "17": 5,
-      "20": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "india",
-      "news",
-      "mumbai",
-      "man",
-      "among",
-      "three",
-      "indian",
-      "nationals",
-      "killed",
-      "attacks",
-      "vessel",
-      "off",
-      "oman",
-      "coast",
-      "101772714034736.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 21.75,
-    "count": 23,
-    "top_news": "https://mondoweiss.net/2026/03/lies-distortions-and-propaganda-how-the-u-s-mainstream-media-coverage-on-iran-hides-the-truth/",
+    "risk_score": 21.64,
+    "count": 25,
+    "top_news": "https://www.tribuneindia.com/live-blog/world/west-asia-crisis-live-iran-launches-missiles-at-israel-as-war-enters-6th-day/",
     "event_codes": {
       "19": 17,
-      "18": 4,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "lies",
-      "distortions",
-      "and",
-      "propaganda",
-      "how",
-      "the",
-      "mainstream",
-      "media",
-      "coverage",
-      "iran",
-      "hides",
-      "the",
-      "truth"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.standardmedia.co.ke/crime-and-justice/article/2001542393/dci-officer-accused-of-allegedly-killing-his-wife-detained-for-14-days",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "crime",
-      "and",
-      "justice",
-      "article",
-      "2001542393",
-      "dci",
-      "officer",
-      "accused",
-      "allegedly",
-      "killing",
-      "his",
-      "wife",
-      "detained",
-      "for",
-      "days"
-    ]
-  },
-  "KWT": {
-    "risk_score": 8.72,
-    "count": 9,
-    "top_news": "https://www.washingtonexaminer.com/policy/defense/4480410/us-military-strikes-iran-machinery-weaponry-used-war/",
-    "event_codes": {
-      "19": 8,
+      "16": 3,
+      "14": 2,
+      "17": 2,
       "15": 1
     },
     "keywords": [
-      "policy",
-      "defense",
-      "4480410",
-      "military",
-      "strikes",
+      "live",
+      "blog",
+      "world",
+      "west",
+      "asia",
+      "crisis",
+      "live",
       "iran",
-      "machinery",
-      "weaponry",
-      "used",
-      "war"
+      "launches",
+      "missiles",
+      "israel",
+      "war",
+      "enters",
+      "6th",
+      "day"
     ]
   },
-  "NGA": {
-    "risk_score": 13.4,
-    "count": 20,
-    "top_news": "https://saharareporters.com/2026/03/05/breaking-police-arrest-nurtw-member-eniba-over-attack-nddc-commissioner-atikase-during",
-    "event_codes": {
-      "17": 13,
-      "19": 5,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "breaking",
-      "police",
-      "arrest",
-      "nurtw",
-      "member",
-      "eniba",
-      "over",
-      "attack",
-      "nddc",
-      "commissioner",
-      "atikase",
-      "during"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "http://www.iraqsun.com/news/278903495/the-us-israeli-murder-of-iranian-schoolchildren-cannot-be-whitewashed",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "278903495",
-      "the",
-      "israeli",
-      "murder",
-      "iranian",
-      "schoolchildren",
-      "cannot",
-      "whitewashed"
-    ]
-  },
-  "TUR": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://sofiaglobe.com/2026/03/05/caretaker-pm-bulgaria-is-not-directly-threatened-by-military-actions-in-the-middle-east/",
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/05/explainer-who-are-the-iranian-kurdish-opposition-groups/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "news",
+      "mena",
       "2026",
-      "caretaker",
-      "bulgaria",
-      "not",
-      "directly",
-      "threatened",
-      "military",
-      "actions",
+      "explainer",
+      "who",
+      "are",
       "the",
-      "middle",
-      "east"
+      "iranian",
+      "kurdish",
+      "opposition",
+      "groups"
     ]
   },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/senate-gives-trump-free-hand-to-continue-iran-war/",
+  "ISR": {
+    "risk_score": 4.64,
+    "count": 7,
+    "top_news": "https://www.middleeasteye.net/opinion/israel-planned-war-iran-40-years-everything-else-smoke-screen",
     "event_codes": {
-      "17": 3,
+      "17": 5,
+      "15": 1,
       "19": 1
     },
     "keywords": [
-      "senate",
-      "gives",
-      "trump",
-      "free",
-      "hand",
-      "continue",
+      "opinion",
+      "israel",
+      "planned",
+      "war",
       "iran",
-      "war"
+      "years",
+      "everything",
+      "else",
+      "smoke",
+      "screen"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.reviewjournal.com/news/politics-and-government/iran-is-pummeled-by-airstrikes-as-it-launches-a-new-wave-of-attacks-against-israel-and-us-bases-3715302/",
+    "event_codes": {
+      "17": 3,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "and",
+      "government",
+      "iran",
+      "pummeled",
+      "airstrikes",
+      "launches",
+      "new",
+      "wave",
+      "attacks",
+      "against",
+      "israel",
+      "and",
+      "bases",
+      "3715302"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/861693-nigerian-lawmaker-suspended-indefinitely-over-alleged-assault-on-wife.html",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "861693",
+      "nigerian",
+      "lawmaker",
+      "suspended",
+      "indefinitely",
+      "over",
+      "alleged",
+      "assault",
+      "wife.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/05/syria-foils-isis-car-bomb-plot-with-help-of-turkish-spies/",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "syria",
+      "foils",
+      "isis",
+      "car",
+      "bomb",
+      "plot",
+      "with",
+      "help",
+      "turkish",
+      "spies"
     ]
   }
 }
