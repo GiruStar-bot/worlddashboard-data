@@ -1,205 +1,228 @@
 {
-  "BHR": {
+  "ARE": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.georgeherald.com/News/Article/National-News/south-africa-in-the-eye-of-the-epic-fury-storm-202603051030",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "national",
+      "news",
+      "south",
+      "africa",
+      "the",
+      "eye",
+      "the",
+      "epic",
+      "fury",
+      "storm",
+      "202603051030"
+    ]
+  },
+  "IRN": {
+    "risk_score": 31.31,
+    "count": 35,
+    "top_news": "https://www.katc.com/us-news/iran-war/house-to-deliver-key-test-of-support-for-trumps-iran-offensive",
+    "event_codes": {
+      "19": 23,
+      "17": 5,
+      "18": 4,
+      "15": 3
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "war",
+      "house",
+      "deliver",
+      "key",
+      "test",
+      "support",
+      "for",
+      "trumps",
+      "iran",
+      "offensive"
+    ]
+  },
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.cnbc.com/2026/03/05/iran-shahed-136-drone-cost-air-defense-gulf-war-us-israel-gulf-scorpion-strike-centcom.html",
+    "top_news": "https://www.westhawaiitoday.com/2026/03/05/nation-world-news/senate-thwarts-bid-to-curb-trumps-war-powers-on-iran/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "iran",
-      "shahed",
-      "136",
-      "drone",
-      "cost",
-      "air",
-      "defense",
-      "gulf",
-      "war",
-      "israel",
-      "gulf",
-      "scorpion",
-      "strike",
-      "centcom.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 20.24,
-    "count": 25,
-    "top_news": "https://5tjt.com/trumps-right/",
-    "event_codes": {
-      "19": 14,
-      "17": 5,
-      "16": 3,
-      "14": 1,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "trumps",
-      "right"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.marketscreener.com/news/gulf-food-strategy-tested-as-iran-war-snarls-shipping-routes-ce7e5fdbd989f12d",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
+      "nation",
+      "world",
       "news",
-      "gulf",
-      "food",
-      "strategy",
-      "tested",
-      "iran",
-      "war",
-      "snarls",
-      "shipping",
-      "routes",
-      "ce7e5fdbd989f12d"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.9,
-    "count": 14,
-    "top_news": "https://saharareporters.com/2026/03/05/us-senate-republicans-block-bid-halt-trumps-war-against-iran",
-    "event_codes": {
-      "19": 12,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
       "senate",
-      "republicans",
-      "block",
+      "thwarts",
       "bid",
-      "halt",
+      "curb",
       "trumps",
       "war",
-      "against",
+      "powers",
       "iran"
     ]
   },
-  "JOR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.cherwell.org/2026/03/05/war-within-earshot-middle-east-jordan/",
+  "ISR": {
+    "risk_score": 20.8,
+    "count": 21,
+    "top_news": "https://www.golocalprov.com/news/5-big-news-stories-overnight-thursday-march-5-2026",
     "event_codes": {
-      "19": 4
+      "19": 16,
+      "18": 5
+    },
+    "keywords": [
+      "news",
+      "big",
+      "news",
+      "stories",
+      "overnight",
+      "thursday",
+      "march",
+      "2026"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.westhawaiitoday.com/2026/03/05/nation-world-news/as-attacks-spread-war-with-iran-reaches-far-beyond-mideast/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
     },
     "keywords": [
       "2026",
+      "nation",
+      "world",
+      "news",
+      "attacks",
+      "spread",
       "war",
-      "within",
-      "earshot",
-      "middle",
-      "east",
-      "jordan"
+      "with",
+      "iran",
+      "reaches",
+      "far",
+      "beyond",
+      "mideast"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-forces-kill-at-least-12-in-lebanon-strikes-ground-invasion",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.channel3000.com/news/national-and-world-news/everything-we-know-on-day-6-of-the-middle-east-war/article_0a044a02-db5e-52e0-b484-ba11b008c145.html",
     "event_codes": {
-      "19": 3
+      "19": 8
     },
     "keywords": [
+      "news",
+      "national",
+      "and",
       "world",
-      "mid",
+      "news",
+      "everything",
+      "know",
+      "day",
+      "the",
+      "middle",
       "east",
-      "israeli",
-      "forces",
-      "kill",
-      "least",
-      "lebanon",
-      "strikes",
-      "ground",
-      "invasion"
+      "war",
+      "article",
+      "0a044a02",
+      "db5e",
+      "52e0",
+      "b484",
+      "ba11b008c145.html"
     ]
   },
   "NGA": {
-    "risk_score": 11.32,
-    "count": 15,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/islamist-militants-kill-14-nigerian-soldiers-in-borno-state/",
+    "risk_score": 7.59,
+    "count": 10,
+    "top_news": "https://quicknews-africa.net/police-arraign-man-for-allegedly-assaulting-brother/",
     "event_codes": {
-      "19": 6,
-      "14": 3,
-      "16": 2,
+      "18": 5,
+      "15": 2,
       "17": 2,
-      "15": 1,
-      "18": 1
+      "14": 1
     },
     "keywords": [
-      "channelafrica",
-      "news",
-      "islamist",
-      "militants",
-      "kill",
-      "nigerian",
-      "soldiers",
-      "borno",
-      "state"
+      "police",
+      "arraign",
+      "man",
+      "for",
+      "allegedly",
+      "assaulting",
+      "brother"
     ]
   },
   "QAT": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.channel3000.com/news/national-and-world-news/everything-we-know-on-day-6-of-the-middle-east-war/article_0a044a02-db5e-52e0-b484-ba11b008c145.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "and",
+      "world",
+      "news",
+      "everything",
+      "know",
+      "day",
+      "the",
+      "middle",
+      "east",
+      "war",
+      "article",
+      "0a044a02",
+      "db5e",
+      "52e0",
+      "b484",
+      "ba11b008c145.html"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://focustaiwan.tw/society/202603050021",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "society",
+      "202603050021"
+    ]
+  },
+  "VNM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.qatar-tribune.com/article/222810/latest-news/qatar-subjected-to-a-missile-attack-air-defences-intercepting-the-attack-mod",
+    "top_news": "https://www.wapt.com/article/vietnamese-man-hai-nguyen-oklahoma-deportation-us-expunged-marijuana-charge/70617869",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "article",
-      "222810",
-      "latest",
-      "news",
-      "qatar",
-      "subjected",
-      "missile",
-      "attack",
-      "air",
-      "defences",
-      "intercepting",
-      "the",
-      "attack",
-      "mod"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://5tjt.com/trumps-right/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "trumps",
-      "right"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.5,
-    "count": 7,
-    "top_news": "https://www.dw.com/en/germany-news-first-evacuees-arrive-from-middle-east/live-76224737",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "germany",
-      "news",
-      "first",
-      "evacuees",
-      "arrive",
-      "from",
-      "middle",
-      "east",
-      "live",
-      "76224737"
+      "vietnamese",
+      "man",
+      "hai",
+      "nguyen",
+      "oklahoma",
+      "deportation",
+      "expunged",
+      "marijuana",
+      "charge",
+      "70617869"
     ]
   }
 }
