@@ -1,205 +1,117 @@
 {
-  "BHR": {
+  "ARE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.dailymail.co.uk/news/article-15618861/Brits-emotional-airport-reunions-Dubai-Iran.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15618861",
+      "brits",
+      "emotional",
+      "airport",
+      "reunions",
+      "dubai",
+      "iran.html"
+    ]
+  },
+  "ECU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailysabah.com/opinion/op-ed/can-us-israeli-attacks-on-iran-achieve-their-aim",
+    "top_news": "https://theintercept.com/2026/03/04/us-military-ecuador-trump/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "can",
-      "israeli",
-      "attacks",
-      "iran",
-      "achieve",
-      "their",
-      "aim"
+      "2026",
+      "military",
+      "ecuador",
+      "trump"
     ]
   },
   "IRN": {
-    "risk_score": 36.6,
+    "risk_score": 35.66,
     "count": 39,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/06/iran-rejects-involvement-in-drone-strikes-on-azerbaijan-points-to-israel",
+    "top_news": "https://www.dailymail.co.uk/news/article-15618861/Brits-emotional-airport-reunions-Dubai-Iran.html",
     "event_codes": {
-      "19": 31,
-      "17": 3,
-      "18": 3,
-      "16": 2
+      "19": 26,
+      "17": 6,
+      "14": 2,
+      "18": 2,
+      "20": 2,
+      "15": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "rejects",
-      "involvement",
-      "drone",
-      "strikes",
-      "azerbaijan",
-      "points",
-      "israel"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 8.0,
-    "count": 9,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/05/trump-says-he-needs-to-be-involved-in-selecting-irans-next-leader",
-    "event_codes": {
-      "19": 7,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "trump",
-      "says",
-      "needs",
-      "involved",
-      "selecting",
-      "irans",
-      "next",
-      "leader"
+      "news",
+      "article",
+      "15618861",
+      "brits",
+      "emotional",
+      "airport",
+      "reunions",
+      "dubai",
+      "iran.html"
     ]
   },
   "ISR": {
-    "risk_score": 96.94,
-    "count": 99,
-    "top_news": "https://www.dailysabah.com/opinion/op-ed/can-us-israeli-attacks-on-iran-achieve-their-aim",
+    "risk_score": 21.8,
+    "count": 24,
+    "top_news": "https://imemc.org/article/three-children-injured-in-colonizer-attack-in-masafer-yatta/",
     "event_codes": {
-      "19": 78,
-      "18": 15,
-      "17": 3,
-      "20": 3
+      "18": 16,
+      "19": 6,
+      "14": 2
     },
     "keywords": [
-      "opinion",
-      "can",
-      "israeli",
-      "attacks",
-      "iran",
-      "achieve",
-      "their",
-      "aim"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://religionnews.com/2026/03/05/in-nigerias-protracted-violence-debate-over-whether-religion-is-the-cause-or-the-casualty/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "nigerias",
-      "protracted",
-      "violence",
-      "debate",
-      "over",
-      "whether",
-      "religion",
-      "the",
-      "cause",
-      "the",
-      "casualty"
-    ]
-  },
-  "KWT": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/05/trump-says-he-needs-to-be-involved-in-selecting-irans-next-leader",
-    "event_codes": {
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "trump",
-      "says",
-      "needs",
-      "involved",
-      "selecting",
-      "irans",
-      "next",
-      "leader"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.22,
-    "count": 4,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/03/05/israels-escalation-in-lebanon-raises-new-questions-over-hizbullahs-survival/",
-    "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "israels",
-      "escalation",
-      "lebanon",
-      "raises",
-      "new",
-      "questions",
-      "over",
-      "hizbullahs",
-      "survival"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://religionnews.com/2026/03/05/in-nigerias-protracted-violence-debate-over-whether-religion-is-the-cause-or-the-casualty/",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "nigerias",
-      "protracted",
-      "violence",
-      "debate",
-      "over",
-      "whether",
-      "religion",
-      "the",
-      "cause",
-      "the",
-      "casualty"
+      "article",
+      "three",
+      "children",
+      "injured",
+      "colonizer",
+      "attack",
+      "masafer",
+      "yatta"
     ]
   },
   "PSE": {
-    "risk_score": 69.52,
-    "count": 71,
-    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-03-march-2026/",
+    "risk_score": 38.4,
+    "count": 42,
+    "top_news": "https://imemc.org/article/israeli-forces-sustain-widespread-west-bank-invasions-violations/",
     "event_codes": {
-      "19": 55,
-      "18": 15,
-      "17": 1
+      "18": 30,
+      "19": 7,
+      "17": 4,
+      "15": 1
     },
     "keywords": [
-      "occupied",
-      "palestine",
-      "march",
-      "2026"
+      "article",
+      "israeli",
+      "forces",
+      "sustain",
+      "widespread",
+      "west",
+      "bank",
+      "invasions",
+      "violations"
     ]
   },
   "QAT": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-03-march-2026/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.com/articles/uk-sending-four-extra-typhoon-142546515.html",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "occupied",
-      "palestine",
-      "march",
-      "2026"
+      "articles",
+      "sending",
+      "four",
+      "extra",
+      "typhoon",
+      "142546515.html"
     ]
   }
 }
