@@ -1,160 +1,179 @@
 {
-  "IRN": {
-    "risk_score": 20.19,
-    "count": 24,
-    "top_news": "https://www.dawn.com/news/1979113/some-wealthy-asians-look-to-move-dubai-assets-closer-to-home-on-iran-war-fears",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thespec.com/news/hamilton-region/couple-flees-war-dubai/article_d7ff4a08-6b14-51c1-bf7e-8e6e51ffedee.html",
     "event_codes": {
-      "19": 14,
-      "16": 4,
-      "17": 2,
-      "18": 2,
-      "14": 1,
-      "15": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "1979113",
-      "some",
-      "wealthy",
-      "asians",
-      "look",
-      "move",
-      "dubai",
-      "assets",
-      "closer",
-      "home",
-      "iran",
+      "hamilton",
+      "region",
+      "couple",
+      "flees",
       "war",
-      "fears"
+      "dubai",
+      "article",
+      "d7ff4a08",
+      "6b14",
+      "51c1",
+      "bf7e",
+      "8e6e51ffedee.html"
     ]
   },
-  "IRQ": {
-    "risk_score": 5.0,
+  "COL": {
+    "risk_score": 4.5,
     "count": 5,
-    "top_news": "https://www.cnbc.com/2026/03/06/trump-navy-strait-hormuz-iran-oil-tanker.html",
+    "top_news": "https://washingtonian.com/2026/03/06/kristi-noem-fired-andre-wright-mpd-text-messages/",
     "event_codes": {
-      "19": 5
+      "19": 4,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "trump",
-      "navy",
-      "strait",
-      "hormuz",
-      "iran",
-      "oil",
-      "tanker.html"
+      "kristi",
+      "noem",
+      "fired",
+      "andre",
+      "wright",
+      "mpd",
+      "text",
+      "messages"
     ]
   },
-  "ISR": {
-    "risk_score": 19.29,
-    "count": 22,
-    "top_news": "https://www.ocregister.com/2026/03/06/israel-iran-lebanon-us/",
+  "IRN": {
+    "risk_score": 37.19,
+    "count": 41,
+    "top_news": "https://www.newsday.com/news/nation/iran-war-kurds-trump-iraq-turkey-q44014",
     "event_codes": {
-      "19": 13,
-      "17": 6,
-      "18": 2,
+      "19": 29,
+      "17": 5,
+      "18": 4,
+      "15": 2,
       "14": 1
     },
     "keywords": [
-      "2026",
-      "israel",
+      "news",
+      "nation",
       "iran",
-      "lebanon"
+      "war",
+      "kurds",
+      "trump",
+      "iraq",
+      "turkey",
+      "q44014"
     ]
   },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://khak.com/iowa-flags-half-staff/",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newstribune.com/news/2026/mar/06/oil-settles-up-around-5-on-supply-concerns-as/",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "iowa",
-      "flags",
-      "half",
-      "staff"
+      "news",
+      "2026",
+      "mar",
+      "oil",
+      "settles",
+      "around",
+      "supply",
+      "concerns"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.4,
+    "count": 27,
+    "top_news": "https://www.spacewar.com/afp/260306130117.v3vhpyd3.html",
+    "event_codes": {
+      "19": 16,
+      "18": 9,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "afp",
+      "260306130117.v3vhpyd3.html"
     ]
   },
   "LBN": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://www.ocregister.com/2026/03/06/israel-iran-lebanon-us/",
+    "risk_score": 8.75,
+    "count": 9,
+    "top_news": "https://www.spacewar.com/afp/260306130618.78a5y29n.html",
     "event_codes": {
-      "19": 5,
-      "17": 2
+      "19": 8,
+      "18": 1
+    },
+    "keywords": [
+      "afp",
+      "260306130618.78a5y29n.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dailypost.ng/2026/03/06/war-iran-did-not-attack-persian-gulf-states-only-attacking-us-bases-ambassador/",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "2026",
-      "israel",
+      "war",
       "iran",
-      "lebanon"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.qatar-tribune.com/article/222998/latest-news/qatar-condemns-iranian-attack-on-buildings-in-bahrain-housing-members-of-qatar-amiri-naval-forces",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "222998",
-      "latest",
-      "news",
-      "qatar",
-      "condemns",
-      "iranian",
+      "did",
+      "not",
       "attack",
-      "buildings",
-      "bahrain",
-      "housing",
-      "members",
-      "qatar",
-      "amiri",
-      "naval",
-      "forces"
+      "persian",
+      "gulf",
+      "states",
+      "only",
+      "attacking",
+      "bases",
+      "ambassador"
     ]
   },
-  "VNM": {
+  "SSD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://vietnamnews.vn/politics-laws/1766884/vietnamese-peacekeepers-help-shelter-civilians-after-clashes-in-abiemnom.html",
+    "top_news": "https://www.winnipegfreepress.com/world/2026/03/06/un-report-says-ugandan-troops-helped-south-sudan-with-deadly-airstrikes",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "politics",
-      "laws",
-      "1766884",
-      "vietnamese",
-      "peacekeepers",
-      "help",
-      "shelter",
-      "civilians",
-      "after",
-      "clashes",
-      "abiemnom.html"
+      "world",
+      "2026",
+      "report",
+      "says",
+      "ugandan",
+      "troops",
+      "helped",
+      "south",
+      "sudan",
+      "with",
+      "deadly",
+      "airstrikes"
     ]
   },
-  "YEM": {
-    "risk_score": 3.0,
+  "VEN": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.cnbc.com/2026/03/06/trump-navy-strait-hormuz-iran-oil-tanker.html",
+    "top_news": "https://www.newstribune.com/news/2026/mar/06/oil-settles-up-around-5-on-supply-concerns-as/",
     "event_codes": {
-      "19": 3
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
+      "news",
       "2026",
-      "trump",
-      "navy",
-      "strait",
-      "hormuz",
-      "iran",
+      "mar",
       "oil",
-      "tanker.html"
+      "settles",
+      "around",
+      "supply",
+      "concerns"
     ]
   }
 }
