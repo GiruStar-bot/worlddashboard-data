@@ -1,154 +1,106 @@
 {
-  "EGY": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://athens-times.com/315-greeks-repatriated-from-middle-east-amid-escalating-conflict-2/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "315",
-      "greeks",
-      "repatriated",
-      "from",
-      "middle",
-      "east",
-      "amid",
-      "escalating",
-      "conflict"
-    ]
-  },
-  "IRN": {
-    "risk_score": 31.38,
-    "count": 37,
-    "top_news": "https://openthemagazine.com/world/war-on-iran-the-price-of-syrianisation",
-    "event_codes": {
-      "19": 17,
-      "17": 7,
-      "15": 6,
-      "18": 6,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "war",
-      "iran",
-      "the",
-      "price",
-      "syrianisation"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.dailymail.co.uk/news/article-15620191/us-israel-iran-war-trump-day-seven-live-updates.html",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15620191",
-      "israel",
-      "iran",
-      "war",
-      "trump",
-      "day",
-      "seven",
-      "live",
-      "updates.html"
-    ]
-  },
-  "KWT": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/minnesota-lawmakers-weigh-self-driving-090026088.html",
+    "top_news": "https://www.spectator.com.au/2026/03/emmanuel-macron-is-having-a-good-war/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "2026",
+      "emmanuel",
+      "macron",
+      "having",
+      "good",
+      "war"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.56,
+    "count": 14,
+    "top_news": "https://peoplesdailyng.com/ramadan-onaiyekan-al-habibiyyah-task-nigerian-on-harmony-shun-divisions/",
+    "event_codes": {
+      "19": 6,
+      "17": 4,
+      "15": 3,
+      "16": 1
+    },
+    "keywords": [
+      "ramadan",
+      "onaiyekan",
+      "habibiyyah",
+      "task",
+      "nigerian",
+      "harmony",
+      "shun",
+      "divisions"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://news.sky.com/story/four-arrested-on-suspicion-of-syping-for-iran-13515093",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "story",
+      "four",
+      "arrested",
+      "suspicion",
+      "syping",
+      "for",
+      "iran",
+      "13515093"
+    ]
+  },
+  "LBY": {
+    "risk_score": 3.6,
+    "count": 6,
+    "top_news": "https://www.independent.ie/world-news/europe/kyiv-and-moscow-swap-400-prisoners-in-spite-of-stalled-talks/a253529620.html",
+    "event_codes": {
+      "16": 3,
+      "17": 3
+    },
+    "keywords": [
+      "world",
       "news",
-      "articles",
-      "minnesota",
-      "lawmakers",
-      "weigh",
-      "self",
-      "driving",
-      "090026088.html"
+      "europe",
+      "kyiv",
+      "and",
+      "moscow",
+      "swap",
+      "400",
+      "prisoners",
+      "spite",
+      "stalled",
+      "talks",
+      "a253529620.html"
     ]
   },
   "NGA": {
-    "risk_score": 13.4,
-    "count": 14,
-    "top_news": "https://dailytrust.com/boko-haram-knows-no-ramadan/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.premiumtimesng.com/foreign/world-foreign/861845-rift-within-anglican-communion-deepens-as-conservative-anglican-bloc-forms-new-council.html",
     "event_codes": {
-      "19": 10,
-      "18": 3,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "boko",
-      "haram",
-      "knows",
-      "ramadan"
-    ]
-  },
-  "PER": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://aliran.com/web-specials/another-terror-attack-on-cuba-the-66-year-war-that-washington-refuses-to-end",
-    "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "web",
-      "specials",
-      "another",
-      "terror",
-      "attack",
-      "cuba",
-      "the",
-      "year",
-      "war",
-      "that",
-      "washington",
-      "refuses",
-      "end"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://lacrossetribune.com/news/state-and-regional/ia/image_08205300-c673-509b-a21f-848fa07434a0.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "state",
-      "and",
-      "regional",
-      "image",
-      "08205300",
-      "c673",
-      "509b",
-      "a21f",
-      "848fa07434a0.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4369516",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "tag",
-      "index"
+      "foreign",
+      "world",
+      "foreign",
+      "861845",
+      "rift",
+      "within",
+      "anglican",
+      "communion",
+      "deepens",
+      "conservative",
+      "anglican",
+      "bloc",
+      "forms",
+      "new",
+      "council.html"
     ]
   }
 }
