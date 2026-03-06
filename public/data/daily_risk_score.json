@@ -1,267 +1,180 @@
 {
-  "ARE": {
-    "risk_score": 2.5,
+  "BHR": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.adn.com/nation-world/2026/03/06/trump-rules-out-negotiations-with-iran-without-unconditional-surrender/",
+    "top_news": "https://www.democracynow.org/2026/3/6/headlines/iranian_strikes_on_mideast_oil_sites_trigger_global_energy_chaos",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "nation",
-      "world",
       "2026",
-      "trump",
-      "rules",
-      "out",
-      "negotiations",
-      "with",
-      "iran",
-      "without",
-      "unconditional",
-      "surrender"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.surinenglish.com/malaga/the-history-the-fight-for-womens-rights-20260306164758-nt.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "malaga",
-      "the",
-      "history",
-      "the",
-      "fight",
-      "for",
-      "womens",
-      "rights",
-      "20260306164758",
-      "nt.html"
-    ]
-  },
-  "ETH": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278906083/south-sudan-army-orders-evacuation-of-un-peacekeepers-ahead-of-offensive-operations",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278906083",
-      "south",
-      "sudan",
-      "army",
-      "orders",
-      "evacuation",
-      "peacekeepers",
-      "ahead",
-      "offensive",
-      "operations"
+      "headlines",
+      "iranian",
+      "strikes",
+      "mideast",
+      "oil",
+      "sites",
+      "trigger",
+      "global",
+      "energy",
+      "chaos"
     ]
   },
   "IRN": {
-    "risk_score": 38.62,
-    "count": 46,
-    "top_news": "https://www.marinij.com/2026/03/06/israel-iran-lebanon-us/",
+    "risk_score": 15.31,
+    "count": 19,
+    "top_news": "https://www.nbcsandiego.com/news/local/camp-pendleton-closes-main-gate-for-investigation-of-package/3991068/",
     "event_codes": {
-      "19": 26,
-      "14": 11,
-      "16": 4,
-      "17": 3,
+      "19": 8,
+      "17": 5,
+      "14": 3,
       "15": 1,
+      "16": 1,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "israel",
-      "iran",
-      "lebanon"
+      "news",
+      "local",
+      "camp",
+      "pendleton",
+      "closes",
+      "main",
+      "gate",
+      "for",
+      "investigation",
+      "package",
+      "3991068"
     ]
   },
   "IRQ": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.thewrap.com/media-platforms/journalism/cnn-cbs-news-fox-news-correspondents-talk-war-in-iran/",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.foxnews.com/world/iran-proxies-wage-war-israel-threaten-us-interests-iraq-slammed-not-disarming-them",
     "event_codes": {
-      "14": 2,
-      "16": 1,
-      "19": 1
+      "16": 3,
+      "19": 2
     },
     "keywords": [
-      "media",
-      "platforms",
-      "journalism",
-      "cnn",
-      "cbs",
-      "news",
-      "fox",
-      "news",
-      "correspondents",
-      "talk",
+      "world",
+      "iran",
+      "proxies",
+      "wage",
       "war",
-      "iran"
+      "israel",
+      "threaten",
+      "interests",
+      "iraq",
+      "slammed",
+      "not",
+      "disarming",
+      "them"
     ]
   },
   "ISR": {
-    "risk_score": 21.34,
-    "count": 24,
-    "top_news": "https://nypost.com/2026/03/06/world-news/israel-pounds-beirut-in-expansion-of-war-iran-says-countries-have-begun-mediation-efforts/",
+    "risk_score": 5.95,
+    "count": 8,
+    "top_news": "https://www.rollingstone.com/politics/political-commentary/iran-war-christian-crusade-pete-hegseth-1235525813/",
     "event_codes": {
-      "19": 16,
-      "14": 2,
-      "15": 2,
-      "17": 2,
-      "16": 1,
-      "18": 1
+      "19": 4,
+      "16": 2,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "world",
-      "news",
-      "israel",
-      "pounds",
-      "beirut",
-      "expansion",
-      "war",
+      "politics",
+      "political",
+      "commentary",
       "iran",
-      "says",
-      "countries",
-      "have",
-      "begun",
-      "mediation",
-      "efforts"
+      "war",
+      "christian",
+      "crusade",
+      "pete",
+      "hegseth",
+      "1235525813"
     ]
   },
   "LBN": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://nypost.com/2026/03/06/world-news/israel-pounds-beirut-in-expansion-of-war-iran-says-countries-have-begun-mediation-efforts/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.democracynow.org/2026/3/6/headlines/israels_renewed_assault_on_lebanon_kills_123_with_hundreds_of_thousands_displaced",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "world",
-      "news",
-      "israel",
-      "pounds",
-      "beirut",
-      "expansion",
-      "war",
-      "iran",
-      "says",
-      "countries",
-      "have",
-      "begun",
-      "mediation",
-      "efforts"
+      "headlines",
+      "israels",
+      "renewed",
+      "assault",
+      "lebanon",
+      "kills",
+      "123",
+      "with",
+      "hundreds",
+      "thousands",
+      "displaced"
+    ]
+  },
+  "NER": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/03/06/troops-neutralise-several-high-profile-terrorists-rescue-hostages/",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "neutralise",
+      "several",
+      "high",
+      "profile",
+      "terrorists",
+      "rescue",
+      "hostages"
     ]
   },
   "NGA": {
-    "risk_score": 17.2,
-    "count": 19,
-    "top_news": "https://www.bbc.com/pidgin/articles/cm28rw211k8o",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/03/06/troops-neutralise-several-high-profile-terrorists-rescue-hostages/",
     "event_codes": {
-      "19": 9,
-      "18": 8,
-      "17": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "pidgin",
-      "articles",
-      "cm28rw211k8o"
+      "2026",
+      "troops",
+      "neutralise",
+      "several",
+      "high",
+      "profile",
+      "terrorists",
+      "rescue",
+      "hostages"
     ]
   },
-  "SAU": {
+  "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://legalinsurrection.com/2026/03/operation-epic-fury-updates-u-s-israeli-strikes-decimate-irans-ballistic-missile-capabilities/",
+    "top_news": "https://www.democracynow.org/2026/3/6/headlines/169_are_killed_including_civilians_as_insurgents_raid_town_in_south_sudan",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "operation",
-      "epic",
-      "fury",
-      "updates",
-      "israeli",
-      "strikes",
-      "decimate",
-      "irans",
-      "ballistic",
-      "missile",
-      "capabilities"
-    ]
-  },
-  "SSD": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/278906083/south-sudan-army-orders-evacuation-of-un-peacekeepers-ahead-of-offensive-operations",
-    "event_codes": {
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278906083",
+      "headlines",
+      "169",
+      "are",
+      "killed",
+      "including",
+      "civilians",
+      "insurgents",
+      "raid",
+      "town",
       "south",
-      "sudan",
-      "army",
-      "orders",
-      "evacuation",
-      "peacekeepers",
-      "ahead",
-      "offensive",
-      "operations"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/news/iran-has-ability-prolong-war-us-and-israel-says-military-expert",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "iran",
-      "has",
-      "ability",
-      "prolong",
-      "war",
-      "and",
-      "israel",
-      "says",
-      "military",
-      "expert"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.9,
-    "count": 5,
-    "top_news": "https://www.surinenglish.com/malaga/the-history-the-fight-for-womens-rights-20260306164758-nt.html",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "malaga",
-      "the",
-      "history",
-      "the",
-      "fight",
-      "for",
-      "womens",
-      "rights",
-      "20260306164758",
-      "nt.html"
+      "sudan"
     ]
   }
 }
