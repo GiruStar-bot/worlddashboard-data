@@ -1,120 +1,175 @@
 {
-  "IRN": {
-    "risk_score": 24.45,
-    "count": 28,
-    "top_news": "https://panarmenian.net/eng/news/331205/",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bbc.co.uk/news/articles/ce3gd22x3xgo",
     "event_codes": {
-      "19": 18,
-      "14": 8,
-      "17": 1,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "eng",
       "news",
-      "331205"
+      "articles",
+      "ce3gd22x3xgo"
     ]
   },
-  "ISR": {
-    "risk_score": 11.35,
+  "IRN": {
+    "risk_score": 11.25,
     "count": 13,
-    "top_news": "https://www.theguardian.com/world/2026/mar/06/us-israel-threaten-major-escalation-airstrikes-iran-lebanon",
+    "top_news": "https://english.news.cn/20260306/a68b4be7cbcb45fbaa60b04c84f4a34b/c.html",
     "event_codes": {
       "19": 8,
-      "14": 3,
-      "17": 1,
-      "18": 1
+      "14": 5
+    },
+    "keywords": [
+      "20260306",
+      "a68b4be7cbcb45fbaa60b04c84f4a34b",
+      "c.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thetimes.com/world/middle-east/article/john-cantlie-hostage-photojournalist-mosul-sms0667d7",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "world",
-      "2026",
-      "mar",
-      "israel",
-      "threaten",
-      "major",
-      "escalation",
-      "airstrikes",
+      "middle",
+      "east",
+      "article",
+      "john",
+      "cantlie",
+      "hostage",
+      "photojournalist",
+      "mosul",
+      "sms0667d7"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.44,
+    "count": 20,
+    "top_news": "https://www.irishexaminer.com/world/arid-41805530.html",
+    "event_codes": {
+      "19": 12,
+      "17": 6,
+      "15": 2
+    },
+    "keywords": [
+      "world",
+      "arid",
+      "41805530.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newsday.com/news/nation/stranded-travelers-us-response-iran-war-j76607",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "stranded",
+      "travelers",
+      "response",
       "iran",
-      "lebanon"
+      "war",
+      "j76607"
     ]
   },
   "LBN": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.bnnbloomberg.ca/business/international/2026/03/06/trump-appears-to-rule-out-talks-with-iran-absent-its-unconditional-surrender-live-updates-here/",
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://www.wdel.com/news/the-latest-israeli-strikes-pound-iran-and-lebanon-as-us-warns-attacks-will-intensify/article_6393320d-fbce-5d73-a4ca-38598034d50a.html",
     "event_codes": {
-      "19": 4,
-      "18": 2
+      "17": 4,
+      "19": 3
     },
     "keywords": [
-      "business",
-      "international",
-      "2026",
-      "trump",
-      "appears",
-      "rule",
-      "out",
-      "talks",
-      "with",
+      "news",
+      "the",
+      "latest",
+      "israeli",
+      "strikes",
+      "pound",
       "iran",
-      "absent",
-      "its",
-      "unconditional",
-      "surrender",
-      "live",
-      "updates",
-      "here"
+      "and",
+      "lebanon",
+      "warns",
+      "attacks",
+      "will",
+      "intensify",
+      "article",
+      "6393320d",
+      "fbce",
+      "5d73",
+      "a4ca",
+      "38598034d50a.html"
     ]
   },
   "NGA": {
-    "risk_score": 15.15,
-    "count": 18,
-    "top_news": "https://saharareporters.com/2026/03/06/breaking-boko-haram-militants-attack-four-military-bases-borno-soldiers-and-terrorists",
+    "risk_score": 7.6,
+    "count": 8,
+    "top_news": "https://www.yahoo.com/news/articles/islamic-militants-abduct-more-300-152914317.html",
     "event_codes": {
-      "19": 9,
       "18": 4,
-      "17": 3,
-      "14": 1,
-      "16": 1
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "breaking",
-      "boko",
-      "haram",
+      "news",
+      "articles",
+      "islamic",
       "militants",
-      "attack",
-      "four",
-      "military",
-      "bases",
-      "borno",
-      "soldiers",
-      "and",
-      "terrorists"
+      "abduct",
+      "more",
+      "300",
+      "152914317.html"
     ]
   },
-  "TCD": {
+  "SAU": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://saharareporters.com/2026/03/06/breaking-boko-haram-militants-attack-four-military-bases-borno-soldiers-and-terrorists",
+    "count": 2,
+    "top_news": "https://clubofmozambique.com/news/trump-demands-irans-unconditional-surrender-as-war-upends-global-markets/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "trump",
+      "demands",
+      "irans",
+      "unconditional",
+      "surrender",
+      "war",
+      "upends",
+      "global",
+      "markets"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/03/06/world-news/giant-bodybuilder-knocks-out-2-tourists-in-wild-street-fight-outside-bar/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "breaking",
-      "boko",
-      "haram",
-      "militants",
-      "attack",
-      "four",
-      "military",
-      "bases",
-      "borno",
-      "soldiers",
-      "and",
-      "terrorists"
+      "world",
+      "news",
+      "giant",
+      "bodybuilder",
+      "knocks",
+      "out",
+      "tourists",
+      "wild",
+      "street",
+      "fight",
+      "outside",
+      "bar"
     ]
   }
 }
