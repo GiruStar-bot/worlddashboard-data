@@ -1,188 +1,186 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabtimesonline.com/news/a-hotel-and-2-residential-buildings-targeted-in-bahrain/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.lewrockwell.com/2026/03/tyler-durden/iran-war-puts-ukraine-peace-talks-on-hold-as-gulf-venue-under-attack/",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "hotel",
-      "and",
-      "residential",
-      "buildings",
-      "targeted",
-      "bahrain"
-    ]
-  },
-  "IRN": {
-    "risk_score": 22.35,
-    "count": 28,
-    "top_news": "https://www.news18.com/world/iran-war-saeed-khatibzadeh-raisina-dialogue-iran-targeting-only-american-bases-no-casualties-in-arab-countries-middle-east-conflict-ws-l-9945217.html",
-    "event_codes": {
-      "19": 16,
-      "17": 7,
-      "16": 3,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "war",
-      "saeed",
-      "khatibzadeh",
-      "raisina",
-      "dialogue",
-      "iran",
-      "targeting",
-      "only",
-      "american",
-      "bases",
-      "casualties",
-      "arab",
-      "countries",
-      "middle",
-      "east",
-      "conflict",
-      "9945217.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.thehindu.com/news/international/trump-urges-iranian-kurds-to-attack-iran-as-war-widens/article70710213.ece",
-    "event_codes": {
-      "16": 3,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "international",
-      "trump",
-      "urges",
-      "iranian",
-      "kurds",
-      "attack",
-      "iran",
-      "war",
-      "widens",
-      "article70710213.ece"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.15,
-    "count": 15,
-    "top_news": "https://www.israelnationalnews.com/news/423459",
-    "event_codes": {
-      "16": 5,
-      "17": 3,
-      "19": 3,
-      "20": 3,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "423459"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://nairobiwire.com/2026/03/blood-parliament-documentary-case-filmmakers-court-delays.html",
-    "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "blood",
-      "parliament",
-      "documentary",
-      "case",
-      "filmmakers",
-      "court",
-      "delays.html"
+      "tyler",
+      "durden",
+      "iran",
+      "war",
+      "puts",
+      "ukraine",
+      "peace",
+      "talks",
+      "hold",
+      "gulf",
+      "venue",
+      "under",
+      "attack"
     ]
   },
-  "KWT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.news18.com/world/neglected-warnings-lack-of-notice-gulf-nations-frustrated-with-trump-admin-over-handling-of-iran-war-ws-l-9945140.html",
+  "IRN": {
+    "risk_score": 25.6,
+    "count": 27,
+    "top_news": "https://www.news18.com/world/iranian-warship-iris-dena-torpedo-fired-by-us-navy-submarine-uss-charlotte-iran-war-middle-east-west-asia-conflict-ws-l-9945396.html",
     "event_codes": {
-      "19": 4
+      "19": 20,
+      "18": 4,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
       "world",
-      "neglected",
-      "warnings",
-      "lack",
-      "notice",
-      "gulf",
-      "nations",
-      "frustrated",
-      "with",
-      "trump",
-      "admin",
-      "over",
-      "handling",
+      "iranian",
+      "warship",
+      "iris",
+      "dena",
+      "torpedo",
+      "fired",
+      "navy",
+      "submarine",
+      "uss",
+      "charlotte",
       "iran",
       "war",
-      "9945140.html"
+      "middle",
+      "east",
+      "west",
+      "asia",
+      "conflict",
+      "9945396.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.lewrockwell.com/2026/03/no_author/americas-hopes-for-a-quick-win-over-iran-go-up-in-smoke/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "author",
+      "americas",
+      "hopes",
+      "for",
+      "quick",
+      "win",
+      "over",
+      "iran",
+      "smoke"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.65,
+    "count": 12,
+    "top_news": "https://www.news18.com/world/inside-netanyahus-small-forum-plot-israels-katz-says-khameneis-killing-was-planned-in-november-ws-l-9945286.html",
+    "event_codes": {
+      "18": 6,
+      "19": 5,
+      "14": 1
+    },
+    "keywords": [
+      "world",
+      "inside",
+      "netanyahus",
+      "small",
+      "forum",
+      "plot",
+      "israels",
+      "katz",
+      "says",
+      "khameneis",
+      "killing",
+      "was",
+      "planned",
+      "november",
+      "9945286.html"
     ]
   },
   "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yakimaherald.com/news/nation_and_world/business/intense-israeli-strikes-hit-iran-and-lebanon-as-us-warns-the-bombardment-will-surge-dramatically/article_2e189498-a8a8-5545-bfaf-edfe12b73b93.html",
+    "top_news": "https://www.yahoo.com/news/articles/intense-israeli-strikes-target-iran-033417693.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "nation",
-      "and",
-      "world",
-      "business",
+      "articles",
       "intense",
       "israeli",
       "strikes",
-      "hit",
+      "target",
       "iran",
-      "and",
-      "lebanon",
-      "warns",
-      "the",
-      "bombardment",
-      "will",
-      "surge",
-      "dramatically",
-      "article",
-      "2e189498",
-      "a8a8",
-      "5545",
-      "bfaf",
-      "edfe12b73b93.html"
+      "033417693.html"
     ]
   },
-  "NGA": {
-    "risk_score": 48.14,
-    "count": 50,
-    "top_news": "https://dailytrust.com/terrorists-abduct-over-100-women-children-in-borno/",
+  "PSE": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.hexham-courant.co.uk/news/25904190.joe-morris-mp-meets-hexham-group-gaza-petition/",
     "event_codes": {
-      "19": 34,
-      "18": 13,
-      "17": 3
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "terrorists",
-      "abduct",
+      "news",
+      "25904190.joe",
+      "morris",
+      "meets",
+      "hexham",
+      "group",
+      "gaza",
+      "petition"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.lewrockwell.com/2026/03/no_author/americas-hopes-for-a-quick-win-over-iran-go-up-in-smoke/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "author",
+      "americas",
+      "hopes",
+      "for",
+      "quick",
+      "win",
       "over",
-      "100",
-      "women",
-      "children",
-      "borno"
+      "iran",
+      "smoke"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.15,
+    "count": 4,
+    "top_news": "https://scroll.in/article/1091028/after-epstein-controversy-how-should-us-philosopher-noam-chomskys-ideas-be-judged",
+    "event_codes": {
+      "20": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "1091028",
+      "after",
+      "epstein",
+      "controversy",
+      "how",
+      "should",
+      "philosopher",
+      "noam",
+      "chomskys",
+      "ideas",
+      "judged"
     ]
   }
 }
