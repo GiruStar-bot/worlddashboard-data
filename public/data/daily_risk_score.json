@@ -1,145 +1,218 @@
 {
-  "IRN": {
-    "risk_score": 19.95,
-    "count": 26,
-    "top_news": "https://www.islamicinvitationturkey.com/iran-army-drone-barrage-targets-us-bases-in-kuwait-satellite-images-unveil-significant-damage/",
+  "CMR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.hrw.org/news/2026/03/06/cameroonian-separatist-leaders-arrested-in-belgium",
     "event_codes": {
-      "19": 10,
-      "15": 5,
-      "16": 5,
-      "18": 3,
-      "17": 2,
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "cameroonian",
+      "separatist",
+      "leaders",
+      "arrested",
+      "belgium"
+    ]
+  },
+  "COL": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://thebogotapost.com/colombia-defense-minister-questions-eln-election-ceasefire-pledge/55635/",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "colombia",
+      "defense",
+      "minister",
+      "questions",
+      "eln",
+      "election",
+      "ceasefire",
+      "pledge",
+      "55635"
+    ]
+  },
+  "IRN": {
+    "risk_score": 18.55,
+    "count": 19,
+    "top_news": "https://www.ipsnews.net/2026/03/un-amid-security-risks-in-middle-east-humanitarian-work-is-underway/",
+    "event_codes": {
+      "19": 14,
+      "18": 4,
       "14": 1
     },
     "keywords": [
-      "iran",
-      "army",
-      "drone",
-      "barrage",
-      "targets",
-      "bases",
-      "kuwait",
-      "satellite",
-      "images",
-      "unveil",
-      "significant",
-      "damage"
+      "2026",
+      "amid",
+      "security",
+      "risks",
+      "middle",
+      "east",
+      "humanitarian",
+      "work",
+      "underway"
     ]
   },
   "IRQ": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/world/mid-east/iraq-must-not-be-used-to-launch-attacks-on-neighbors-baghdad-krg",
+    "risk_score": 9.8,
+    "count": 11,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/06/765048/Iraq-s-Nujaba-vows-to-avenge-US-assassination-of-PMU-commander",
     "event_codes": {
+      "18": 7,
       "19": 3,
       "17": 1
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
+      "detail",
+      "2026",
+      "765048",
       "iraq",
-      "must",
-      "not",
-      "used",
-      "launch",
-      "attacks",
-      "neighbors",
-      "baghdad",
-      "krg"
+      "nujaba",
+      "vows",
+      "avenge",
+      "assassination",
+      "pmu",
+      "commander"
     ]
   },
   "ISR": {
-    "risk_score": 9.34,
-    "count": 10,
-    "top_news": "https://www.thejournal.ie/irish-troops-accounted-for-attack-un-peacekeepers-lebanon-6977615-Mar2026/",
+    "risk_score": 19.42,
+    "count": 20,
+    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
     "event_codes": {
-      "19": 7,
-      "15": 2,
-      "18": 1
+      "19": 15,
+      "17": 2,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "irish",
-      "troops",
-      "accounted",
-      "for",
-      "attack",
-      "peacekeepers",
-      "lebanon",
-      "6977615",
-      "mar2026"
+      "world",
+      "article",
+      "shia",
+      "crescent",
+      "fear",
+      "anger",
+      "iran",
+      "war",
+      "religion"
     ]
   },
-  "JOR": {
-    "risk_score": 3.0,
+  "KEN": {
+    "risk_score": 2.3,
     "count": 3,
-    "top_news": "https://calgarysun.com/news/crime/defence-says-murder-suspect-should-be-convicted-manslaughter",
+    "top_news": "https://www.wsws.org/en/articles/2026/03/06/ngbe-m06.html",
     "event_codes": {
-      "19": 3
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "crime",
-      "defence",
-      "says",
-      "murder",
-      "suspect",
-      "should",
-      "convicted",
-      "manslaughter"
+      "articles",
+      "2026",
+      "ngbe",
+      "m06.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "article",
+      "shia",
+      "crescent",
+      "fear",
+      "anger",
+      "iran",
+      "war",
+      "religion"
+    ]
+  },
+  "LBN": {
+    "risk_score": 14.35,
+    "count": 15,
+    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
+    "event_codes": {
+      "19": 10,
+      "18": 3,
+      "17": 1,
+      "20": 1
+    },
+    "keywords": [
+      "world",
+      "article",
+      "shia",
+      "crescent",
+      "fear",
+      "anger",
+      "iran",
+      "war",
+      "religion"
     ]
   },
   "NGA": {
-    "risk_score": 19.15,
-    "count": 23,
-    "top_news": "https://www.channelstv.com/2026/03/06/gov-nwifuru-mourns-ex-dep-govs-father-killed-by-kidnappers-says-perpetrators-will-face-justice/",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.opinionnigeria.com/i-deserve-apology-adoke-says-after-fg-resolves-opl-245-dispute/",
     "event_codes": {
-      "18": 7,
-      "19": 6,
-      "17": 4,
-      "14": 3,
-      "16": 3
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "gov",
-      "nwifuru",
-      "mourns",
-      "dep",
-      "govs",
-      "father",
-      "killed",
-      "kidnappers",
+      "deserve",
+      "apology",
+      "adoke",
       "says",
-      "perpetrators",
-      "will",
-      "face",
-      "justice"
+      "after",
+      "resolves",
+      "opl",
+      "245",
+      "dispute"
     ]
   },
-  "PER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://nypost.com/2026/03/06/us-news/elizabeth-smart-and-natalee-holloways-parents-reveal-what-nancy-guthries-family-are-facing/",
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/police-raids-easton-bethlehem-net-183456901.html",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "2026",
       "news",
-      "elizabeth",
-      "smart",
-      "and",
-      "natalee",
-      "holloways",
-      "parents",
-      "reveal",
-      "what",
-      "nancy",
-      "guthries",
-      "family",
-      "are",
-      "facing"
+      "articles",
+      "police",
+      "raids",
+      "easton",
+      "bethlehem",
+      "net",
+      "183456901.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "article",
+      "shia",
+      "crescent",
+      "fear",
+      "anger",
+      "iran",
+      "war",
+      "religion"
     ]
   }
 }
