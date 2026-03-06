@@ -1,111 +1,243 @@
 {
-  "COL": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/estefany-rodriguez-florez-ice-arrest-nashville-b2933760.html",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.eastidahonews.com/2026/03/trump-rules-out-talks-absent-irans-unconditional-surrender-as-israel-strikes-lebanon/",
     "event_codes": {
-      "17": 3,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "rules",
+      "out",
+      "talks",
+      "absent",
+      "irans",
+      "unconditional",
+      "surrender",
+      "israel",
+      "strikes",
+      "lebanon"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://kashmirreader.com/2026/03/07/us-not-expanding-military-objectives-in-iran/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "not",
+      "expanding",
+      "military",
+      "objectives",
+      "iran"
+    ]
+  },
+  "CAF": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://isp.netscape.com/news/world/story/0001/20260306/e0a444a4bca0a3bb007b1e873627df04",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
       "world",
-      "americas",
-      "politics",
-      "estefany",
-      "rodriguez",
-      "florez",
-      "ice",
-      "arrest",
-      "nashville",
-      "b2933760.html"
+      "story",
+      "0001",
+      "20260306",
+      "e0a444a4bca0a3bb007b1e873627df04"
+    ]
+  },
+  "CMR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "http://www.eastcountymagazine.org/ecm-world-watch-national-and-global-news-429",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "ecm",
+      "world",
+      "watch",
+      "national",
+      "and",
+      "global",
+      "news",
+      "429"
     ]
   },
   "IRN": {
-    "risk_score": 25.43,
-    "count": 30,
-    "top_news": "https://www.techdirt.com/2026/03/05/",
+    "risk_score": 39.19,
+    "count": 45,
+    "top_news": "https://www.eastidahonews.com/2026/03/trump-rules-out-talks-absent-irans-unconditional-surrender-as-israel-strikes-lebanon/",
     "event_codes": {
-      "19": 10,
-      "18": 8,
-      "14": 5,
-      "15": 4,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/278906605/four-drones-shot-down-over-erbil-in-iraq-kurdistan-region",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "278906605",
-      "four",
-      "drones",
-      "shot",
-      "down",
-      "over",
-      "erbil",
-      "iraq",
-      "kurdistan",
-      "region"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.25,
-    "count": 8,
-    "top_news": "http://europe.chinadaily.com.cn/a/202603/06/WS69aa8feda310d6866eb3c2b8.html",
-    "event_codes": {
-      "19": 4,
-      "18": 3,
+      "19": 30,
+      "17": 10,
+      "18": 2,
+      "14": 1,
+      "15": 1,
       "16": 1
     },
     "keywords": [
-      "202603",
-      "ws69aa8feda310d6866eb3c2b8.html"
+      "2026",
+      "trump",
+      "rules",
+      "out",
+      "talks",
+      "absent",
+      "irans",
+      "unconditional",
+      "surrender",
+      "israel",
+      "strikes",
+      "lebanon"
     ]
   },
-  "MMR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://el-observador.com/2026/03/06/rohingya-refugees-death-reveals-a-system-in-crisis/",
+  "ISR": {
+    "risk_score": 36.05,
+    "count": 37,
+    "top_news": "https://www.lebanondemocrat.com/news/national/war-in-the-middle-east-latest-developments/article_48c3abae-8950-5cfe-b7d7-b46444df3f9a.html",
     "event_codes": {
-      "20": 2
+      "19": 34,
+      "14": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article",
+      "48c3abae",
+      "8950",
+      "5cfe",
+      "b7d7",
+      "b46444df3f9a.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://kashmirreader.com/2026/03/07/us-not-expanding-military-objectives-in-iran/",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "2026",
-      "rohingya",
-      "refugees",
-      "death",
-      "reveals",
-      "system",
-      "crisis"
+      "not",
+      "expanding",
+      "military",
+      "objectives",
+      "iran"
     ]
   },
-  "VEN": {
+  "LBN": {
+    "risk_score": 10.5,
+    "count": 11,
+    "top_news": "https://www.lebanondemocrat.com/news/national/war-in-the-middle-east-latest-developments/article_48c3abae-8950-5cfe-b7d7-b46444df3f9a.html",
+    "event_codes": {
+      "19": 10,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article",
+      "48c3abae",
+      "8950",
+      "5cfe",
+      "b7d7",
+      "b46444df3f9a.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 18.1,
+    "count": 20,
+    "top_news": "https://www.nationalaccordnewspaper.com/zulum-pays-sympathy-visit-to-victims-of-ngoshe-attack-assures-rescue-of-abducted-residents/",
+    "event_codes": {
+      "18": 13,
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "zulum",
+      "pays",
+      "sympathy",
+      "visit",
+      "victims",
+      "ngoshe",
+      "attack",
+      "assures",
+      "rescue",
+      "abducted",
+      "residents"
+    ]
+  },
+  "QAT": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.independent.co.uk/news/world/americas/cuba-florida-speedboat-dead-dies-b2933707.html",
+    "top_news": "https://news.az/news/qatar-partially-resumes-air-navigation-through-emergency-routes",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "world",
-      "americas",
-      "cuba",
-      "florida",
-      "speedboat",
-      "dead",
-      "dies",
-      "b2933707.html"
+      "qatar",
+      "partially",
+      "resumes",
+      "air",
+      "navigation",
+      "through",
+      "emergency",
+      "routes"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.eyeradio.org/162836-2/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "162836"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.newser.com/story/384952/two-long-lost-animals-found-in-remote-forests.html",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "story",
+      "384952",
+      "two",
+      "long",
+      "lost",
+      "animals",
+      "found",
+      "remote",
+      "forests.html"
     ]
   }
 }
