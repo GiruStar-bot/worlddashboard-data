@@ -1,234 +1,154 @@
 {
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.dailymail.co.uk/news/article-15620209/Middle-East-burns-night-Iran-attacks-multiple-countries-hosting-US-bases-Israel-pounds-Tehran-Lebanon.html",
+  "EGY": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://athens-times.com/315-greeks-repatriated-from-middle-east-amid-escalating-conflict-2/",
     "event_codes": {
-      "19": 5
+      "19": 4
+    },
+    "keywords": [
+      "315",
+      "greeks",
+      "repatriated",
+      "from",
+      "middle",
+      "east",
+      "amid",
+      "escalating",
+      "conflict"
+    ]
+  },
+  "IRN": {
+    "risk_score": 31.38,
+    "count": 37,
+    "top_news": "https://openthemagazine.com/world/war-on-iran-the-price-of-syrianisation",
+    "event_codes": {
+      "19": 17,
+      "17": 7,
+      "15": 6,
+      "18": 6,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "war",
+      "iran",
+      "the",
+      "price",
+      "syrianisation"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.dailymail.co.uk/news/article-15620191/us-israel-iran-war-trump-day-seven-live-updates.html",
+    "event_codes": {
+      "19": 6
     },
     "keywords": [
       "news",
       "article",
-      "15620209",
-      "middle",
-      "east",
-      "burns",
-      "night",
-      "iran",
-      "attacks",
-      "multiple",
-      "countries",
-      "hosting",
-      "bases",
+      "15620191",
       "israel",
-      "pounds",
-      "tehran",
-      "lebanon.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 56.58,
-    "count": 62,
-    "top_news": "https://www.asiaone.com/money/wealthy-asians-look-move-dubai-assets-closer-home-iran-war-fears",
-    "event_codes": {
-      "19": 47,
-      "14": 6,
-      "15": 3,
-      "17": 3,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "money",
-      "wealthy",
-      "asians",
-      "look",
-      "move",
-      "dubai",
-      "assets",
-      "closer",
-      "home",
-      "iran",
-      "war",
-      "fears"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.hani.co.kr/arti/english_edition/e_international/1248077.html",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "arti",
-      "english",
-      "edition",
-      "international",
-      "1248077.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 27.34,
-    "count": 28,
-    "top_news": "https://www.durangoherald.com/articles/the-latest-israeli-strikes-pound-iran-and-lebanon-as-us-warns-attacks-will-intensify/",
-    "event_codes": {
-      "19": 26,
-      "15": 2
-    },
-    "keywords": [
-      "articles",
-      "the",
-      "latest",
-      "israeli",
-      "strikes",
-      "pound",
-      "iran",
-      "and",
-      "lebanon",
-      "warns",
-      "attacks",
-      "will",
-      "intensify"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/cbs-bari-weiss-iran-war-trump-b2933098.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "americas",
-      "politics",
-      "cbs",
-      "bari",
-      "weiss",
       "iran",
       "war",
       "trump",
-      "b2933098.html"
+      "day",
+      "seven",
+      "live",
+      "updates.html"
     ]
   },
   "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.heraldmalaysia.com/news/israel-strikes-beirut-as-mideast-war-enters-seventh-day/87882/2",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/minnesota-lawmakers-weigh-self-driving-090026088.html",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
       "news",
-      "israel",
-      "strikes",
-      "beirut",
-      "mideast",
-      "war",
-      "enters",
-      "seventh",
-      "day",
-      "87882"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.benzinga.com/news/politics/26/03/51089484/us-iran-war-march-6-updates-iranian-military-academy-hit-saudi-arabia-intercepts-3-drones-etihad-airways-resumes-key-flights",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "politics",
-      "51089484",
-      "iran",
-      "war",
-      "march",
-      "updates",
-      "iranian",
-      "military",
-      "academy",
-      "hit",
-      "saudi",
-      "arabia",
-      "intercepts",
-      "drones",
-      "etihad",
-      "airways",
-      "resumes",
-      "key",
-      "flights"
+      "articles",
+      "minnesota",
+      "lawmakers",
+      "weigh",
+      "self",
+      "driving",
+      "090026088.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://blueprint.ng/catholic-bishops-plea-on-insecurity-2027-polls/",
+    "risk_score": 13.4,
+    "count": 14,
+    "top_news": "https://dailytrust.com/boko-haram-knows-no-ramadan/",
     "event_codes": {
-      "19": 2
+      "19": 10,
+      "18": 3,
+      "17": 1
     },
     "keywords": [
-      "catholic",
-      "bishops",
-      "plea",
-      "insecurity",
-      "2027",
-      "polls"
+      "boko",
+      "haram",
+      "knows",
+      "ramadan"
     ]
   },
-  "QAT": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.heraldmalaysia.com/news/israel-strikes-beirut-as-mideast-war-enters-seventh-day/87882/2",
+  "PER": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://aliran.com/web-specials/another-terror-attack-on-cuba-the-66-year-war-that-washington-refuses-to-end",
     "event_codes": {
-      "19": 5
+      "17": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "strikes",
-      "beirut",
-      "mideast",
+      "web",
+      "specials",
+      "another",
+      "terror",
+      "attack",
+      "cuba",
+      "the",
+      "year",
       "war",
-      "enters",
-      "seventh",
-      "day",
-      "87882"
+      "that",
+      "washington",
+      "refuses",
+      "end"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.birminghammail.co.uk/motoring/motoring-news/diesel-drivers-face-problem-uk-33540735",
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://lacrossetribune.com/news/state-and-regional/ia/image_08205300-c673-509b-a21f-848fa07434a0.html",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "motoring",
-      "motoring",
       "news",
-      "diesel",
-      "drivers",
-      "face",
-      "problem",
-      "33540735"
+      "state",
+      "and",
+      "regional",
+      "image",
+      "08205300",
+      "c673",
+      "509b",
+      "a21f",
+      "848fa07434a0.html"
     ]
   },
   "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260306073241.i8ivl5vs.html",
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4369516",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "afp",
-      "260306073241.i8ivl5vs.html"
+      "tag",
+      "index"
     ]
   }
 }
