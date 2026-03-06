@@ -1,107 +1,267 @@
 {
-  "BOL": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/03/06/belarus-leader-pardons-18-prisoners-in-an-effort-to-improve-ties-with-us",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.adn.com/nation-world/2026/03/06/trump-rules-out-negotiations-with-iran-without-unconditional-surrender/",
     "event_codes": {
-      "17": 5,
-      "19": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
+      "nation",
       "world",
       "2026",
-      "belarus",
-      "leader",
-      "pardons",
-      "prisoners",
-      "effort",
-      "improve",
-      "ties",
-      "with"
+      "trump",
+      "rules",
+      "out",
+      "negotiations",
+      "with",
+      "iran",
+      "without",
+      "unconditional",
+      "surrender"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.surinenglish.com/malaga/the-history-the-fight-for-womens-rights-20260306164758-nt.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "malaga",
+      "the",
+      "history",
+      "the",
+      "fight",
+      "for",
+      "womens",
+      "rights",
+      "20260306164758",
+      "nt.html"
+    ]
+  },
+  "ETH": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/278906083/south-sudan-army-orders-evacuation-of-un-peacekeepers-ahead-of-offensive-operations",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "278906083",
+      "south",
+      "sudan",
+      "army",
+      "orders",
+      "evacuation",
+      "peacekeepers",
+      "ahead",
+      "offensive",
+      "operations"
     ]
   },
   "IRN": {
-    "risk_score": 20.32,
-    "count": 22,
-    "top_news": "https://dominicanrepublicpost.com/kurdish-opposition-mulls-whether-to-trust-trump-after-iran-uprising-call/",
+    "risk_score": 38.62,
+    "count": 46,
+    "top_news": "https://www.marinij.com/2026/03/06/israel-iran-lebanon-us/",
     "event_codes": {
-      "19": 16,
-      "14": 3,
-      "17": 2,
+      "19": 26,
+      "14": 11,
+      "16": 4,
+      "17": 3,
+      "15": 1,
       "18": 1
     },
     "keywords": [
-      "kurdish",
-      "opposition",
-      "mulls",
-      "whether",
-      "trust",
-      "trump",
-      "after",
+      "2026",
+      "israel",
       "iran",
-      "uprising",
-      "call"
+      "lebanon"
     ]
   },
   "IRQ": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/drone-attacks-target-opposition-iranian-155816012.html",
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.thewrap.com/media-platforms/journalism/cnn-cbs-news-fox-news-correspondents-talk-war-in-iran/",
     "event_codes": {
-      "19": 5
+      "14": 2,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
+      "media",
+      "platforms",
+      "journalism",
+      "cnn",
+      "cbs",
       "news",
-      "articles",
-      "drone",
-      "attacks",
-      "target",
-      "opposition",
-      "iranian",
-      "155816012.html"
+      "fox",
+      "news",
+      "correspondents",
+      "talk",
+      "war",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 6.75,
-    "count": 7,
-    "top_news": "https://www.perthnow.com.au/news/conflict/trump-seeks-surrender-to-make-iran-great-again-c-21860624",
+    "risk_score": 21.34,
+    "count": 24,
+    "top_news": "https://nypost.com/2026/03/06/world-news/israel-pounds-beirut-in-expansion-of-war-iran-says-countries-have-begun-mediation-efforts/",
     "event_codes": {
-      "19": 5,
-      "14": 1,
+      "19": 16,
+      "14": 2,
+      "15": 2,
+      "17": 2,
+      "16": 1,
       "18": 1
     },
     "keywords": [
+      "2026",
+      "world",
       "news",
-      "conflict",
-      "trump",
-      "seeks",
-      "surrender",
-      "make",
+      "israel",
+      "pounds",
+      "beirut",
+      "expansion",
+      "war",
       "iran",
-      "great",
-      "again",
-      "21860624"
+      "says",
+      "countries",
+      "have",
+      "begun",
+      "mediation",
+      "efforts"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/03/06/world-news/israel-pounds-beirut-in-expansion-of-war-iran-says-countries-have-begun-mediation-efforts/",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "israel",
+      "pounds",
+      "beirut",
+      "expansion",
+      "war",
+      "iran",
+      "says",
+      "countries",
+      "have",
+      "begun",
+      "mediation",
+      "efforts"
     ]
   },
   "NGA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/03/06/nema-supports-victims-of-market-fire-in-osun-with-relief-materials/",
+    "risk_score": 17.2,
+    "count": 19,
+    "top_news": "https://www.bbc.com/pidgin/articles/cm28rw211k8o",
     "event_codes": {
-      "17": 2,
+      "19": 9,
+      "18": 8,
+      "17": 2
+    },
+    "keywords": [
+      "pidgin",
+      "articles",
+      "cm28rw211k8o"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://legalinsurrection.com/2026/03/operation-epic-fury-updates-u-s-israeli-strikes-decimate-irans-ballistic-missile-capabilities/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "nema",
-      "supports",
-      "victims",
-      "market",
-      "fire",
-      "osun",
-      "with",
-      "relief",
-      "materials"
+      "operation",
+      "epic",
+      "fury",
+      "updates",
+      "israeli",
+      "strikes",
+      "decimate",
+      "irans",
+      "ballistic",
+      "missile",
+      "capabilities"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/278906083/south-sudan-army-orders-evacuation-of-un-peacekeepers-ahead-of-offensive-operations",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "278906083",
+      "south",
+      "sudan",
+      "army",
+      "orders",
+      "evacuation",
+      "peacekeepers",
+      "ahead",
+      "offensive",
+      "operations"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/news/iran-has-ability-prolong-war-us-and-israel-says-military-expert",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "has",
+      "ability",
+      "prolong",
+      "war",
+      "and",
+      "israel",
+      "says",
+      "military",
+      "expert"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.surinenglish.com/malaga/the-history-the-fight-for-womens-rights-20260306164758-nt.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "malaga",
+      "the",
+      "history",
+      "the",
+      "fight",
+      "for",
+      "womens",
+      "rights",
+      "20260306164758",
+      "nt.html"
     ]
   }
 }
