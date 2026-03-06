@@ -1,118 +1,111 @@
 {
-  "IRN": {
-    "risk_score": 12.8,
-    "count": 17,
-    "top_news": "https://www.bbc.co.uk/news/articles/c75ekve9yq9o",
+  "COL": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/estefany-rodriguez-florez-ice-arrest-nashville-b2933760.html",
     "event_codes": {
-      "19": 8,
-      "16": 5,
-      "17": 2,
-      "18": 2
+      "17": 3,
+      "19": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "c75ekve9yq9o"
+      "world",
+      "americas",
+      "politics",
+      "estefany",
+      "rodriguez",
+      "florez",
+      "ice",
+      "arrest",
+      "nashville",
+      "b2933760.html"
     ]
   },
-  "ISR": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.yahoo.com/news/articles/fact-check-protesting-veteran-brian-221100399.html",
+  "IRN": {
+    "risk_score": 25.43,
+    "count": 30,
+    "top_news": "https://www.techdirt.com/2026/03/05/",
     "event_codes": {
       "19": 10,
+      "18": 8,
+      "14": 5,
+      "15": 4,
+      "16": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "fact",
-      "check",
-      "protesting",
-      "veteran",
-      "brian",
-      "221100399.html"
+      "2026"
     ]
   },
-  "JOR": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://www.cbc.ca/news/canada/calgary/robert-matthews-jordan-jacques-vetten-murder-trial-final-arguments-9.7117730",
-    "event_codes": {
-      "17": 5,
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "canada",
-      "calgary",
-      "robert",
-      "matthews",
-      "jordan",
-      "jacques",
-      "vetten",
-      "murder",
-      "trial",
-      "final",
-      "arguments",
-      "9.7117730"
-    ]
-  },
-  "KWT": {
+  "IRQ": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.aol.com/articles/us-believes-russia-providing-iran-214044469.html",
+    "top_news": "http://www.bignewsnetwork.com/news/278906605/four-drones-shot-down-over-erbil-in-iraq-kurdistan-region",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "articles",
-      "believes",
-      "russia",
-      "providing",
-      "iran",
-      "214044469.html"
+      "news",
+      "278906605",
+      "four",
+      "drones",
+      "shot",
+      "down",
+      "over",
+      "erbil",
+      "iraq",
+      "kurdistan",
+      "region"
     ]
   },
-  "LBN": {
+  "ISR": {
+    "risk_score": 7.25,
+    "count": 8,
+    "top_news": "http://europe.chinadaily.com.cn/a/202603/06/WS69aa8feda310d6866eb3c2b8.html",
+    "event_codes": {
+      "19": 4,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "202603",
+      "ws69aa8feda310d6866eb3c2b8.html"
+    ]
+  },
+  "MMR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.unocha.org:443/news/un-relief-chief-warns-moment-grave-peril-humanitarian-crises-escalate-middle-east",
+    "top_news": "https://el-observador.com/2026/03/06/rohingya-refugees-death-reveals-a-system-in-crisis/",
     "event_codes": {
-      "19": 2
+      "20": 2
+    },
+    "keywords": [
+      "2026",
+      "rohingya",
+      "refugees",
+      "death",
+      "reveals",
+      "system",
+      "crisis"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.independent.co.uk/news/world/americas/cuba-florida-speedboat-dead-dies-b2933707.html",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "relief",
-      "chief",
-      "warns",
-      "moment",
-      "grave",
-      "peril",
-      "humanitarian",
-      "crises",
-      "escalate",
-      "middle",
-      "east"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.gdnonline.com:443/Details/1377804/Saudi-Aramco-shores-up-Red-Sea-oil-shipments",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "details",
-      "1377804",
-      "saudi",
-      "aramco",
-      "shores",
-      "red",
-      "sea",
-      "oil",
-      "shipments"
+      "world",
+      "americas",
+      "cuba",
+      "florida",
+      "speedboat",
+      "dead",
+      "dies",
+      "b2933707.html"
     ]
   }
 }
