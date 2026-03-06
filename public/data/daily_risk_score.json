@@ -1,175 +1,107 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bbc.co.uk/news/articles/ce3gd22x3xgo",
+  "BOL": {
+    "risk_score": 3.5,
+    "count": 6,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/03/06/belarus-leader-pardons-18-prisoners-in-an-effort-to-improve-ties-with-us",
     "event_codes": {
-      "19": 2
+      "17": 5,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "ce3gd22x3xgo"
+      "world",
+      "2026",
+      "belarus",
+      "leader",
+      "pardons",
+      "prisoners",
+      "effort",
+      "improve",
+      "ties",
+      "with"
     ]
   },
   "IRN": {
-    "risk_score": 11.25,
-    "count": 13,
-    "top_news": "https://english.news.cn/20260306/a68b4be7cbcb45fbaa60b04c84f4a34b/c.html",
+    "risk_score": 20.32,
+    "count": 22,
+    "top_news": "https://dominicanrepublicpost.com/kurdish-opposition-mulls-whether-to-trust-trump-after-iran-uprising-call/",
     "event_codes": {
-      "19": 8,
-      "14": 5
+      "19": 16,
+      "14": 3,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "20260306",
-      "a68b4be7cbcb45fbaa60b04c84f4a34b",
-      "c.html"
+      "kurdish",
+      "opposition",
+      "mulls",
+      "whether",
+      "trust",
+      "trump",
+      "after",
+      "iran",
+      "uprising",
+      "call"
     ]
   },
   "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/john-cantlie-hostage-photojournalist-mosul-sms0667d7",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "article",
-      "john",
-      "cantlie",
-      "hostage",
-      "photojournalist",
-      "mosul",
-      "sms0667d7"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.44,
-    "count": 20,
-    "top_news": "https://www.irishexaminer.com/world/arid-41805530.html",
-    "event_codes": {
-      "19": 12,
-      "17": 6,
-      "15": 2
-    },
-    "keywords": [
-      "world",
-      "arid",
-      "41805530.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newsday.com/news/nation/stranded-travelers-us-response-iran-war-j76607",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "stranded",
-      "travelers",
-      "response",
-      "iran",
-      "war",
-      "j76607"
-    ]
-  },
-  "LBN": {
     "risk_score": 5.0,
-    "count": 7,
-    "top_news": "https://www.wdel.com/news/the-latest-israeli-strikes-pound-iran-and-lebanon-as-us-warns-attacks-will-intensify/article_6393320d-fbce-5d73-a4ca-38598034d50a.html",
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/drone-attacks-target-opposition-iranian-155816012.html",
     "event_codes": {
-      "17": 4,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "the",
-      "latest",
-      "israeli",
-      "strikes",
-      "pound",
-      "iran",
-      "and",
-      "lebanon",
-      "warns",
-      "attacks",
-      "will",
-      "intensify",
-      "article",
-      "6393320d",
-      "fbce",
-      "5d73",
-      "a4ca",
-      "38598034d50a.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.6,
-    "count": 8,
-    "top_news": "https://www.yahoo.com/news/articles/islamic-militants-abduct-more-300-152914317.html",
-    "event_codes": {
-      "18": 4,
-      "19": 4
+      "19": 5
     },
     "keywords": [
       "news",
       "articles",
-      "islamic",
-      "militants",
-      "abduct",
-      "more",
-      "300",
-      "152914317.html"
+      "drone",
+      "attacks",
+      "target",
+      "opposition",
+      "iranian",
+      "155816012.html"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://clubofmozambique.com/news/trump-demands-irans-unconditional-surrender-as-war-upends-global-markets/",
+  "ISR": {
+    "risk_score": 6.75,
+    "count": 7,
+    "top_news": "https://www.perthnow.com.au/news/conflict/trump-seeks-surrender-to-make-iran-great-again-c-21860624",
     "event_codes": {
+      "19": 5,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "conflict",
+      "trump",
+      "seeks",
+      "surrender",
+      "make",
+      "iran",
+      "great",
+      "again",
+      "21860624"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://dailypost.ng/2026/03/06/nema-supports-victims-of-market-fire-in-osun-with-relief-materials/",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "trump",
-      "demands",
-      "irans",
-      "unconditional",
-      "surrender",
-      "war",
-      "upends",
-      "global",
-      "markets"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://nypost.com/2026/03/06/world-news/giant-bodybuilder-knocks-out-2-tourists-in-wild-street-fight-outside-bar/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
       "2026",
-      "world",
-      "news",
-      "giant",
-      "bodybuilder",
-      "knocks",
-      "out",
-      "tourists",
-      "wild",
-      "street",
-      "fight",
-      "outside",
-      "bar"
+      "nema",
+      "supports",
+      "victims",
+      "market",
+      "fire",
+      "osun",
+      "with",
+      "relief",
+      "materials"
     ]
   }
 }
