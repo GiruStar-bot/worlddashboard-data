@@ -1,180 +1,130 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.democracynow.org/2026/3/6/headlines/iranian_strikes_on_mideast_oil_sites_trigger_global_energy_chaos",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "headlines",
-      "iranian",
-      "strikes",
-      "mideast",
-      "oil",
-      "sites",
-      "trigger",
-      "global",
-      "energy",
-      "chaos"
-    ]
-  },
   "IRN": {
-    "risk_score": 15.31,
-    "count": 19,
-    "top_news": "https://www.nbcsandiego.com/news/local/camp-pendleton-closes-main-gate-for-investigation-of-package/3991068/",
+    "risk_score": 12.1,
+    "count": 14,
+    "top_news": "https://www.newsweek.com/tucker-carlsons-merch-is-a-surprise-hit-with-liberals-11635800",
     "event_codes": {
-      "19": 8,
-      "17": 5,
+      "19": 9,
       "14": 3,
-      "15": 1,
-      "16": 1,
-      "18": 1
+      "17": 2
     },
     "keywords": [
-      "news",
-      "local",
-      "camp",
-      "pendleton",
-      "closes",
-      "main",
-      "gate",
-      "for",
-      "investigation",
-      "package",
-      "3991068"
+      "tucker",
+      "carlsons",
+      "merch",
+      "surprise",
+      "hit",
+      "with",
+      "liberals",
+      "11635800"
     ]
   },
   "IRQ": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.foxnews.com/world/iran-proxies-wage-war-israel-threaten-us-interests-iraq-slammed-not-disarming-them",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.news18.com/world/israel-held-talks-with-kurdish-militias-as-border-offensive-plans-against-iran-emerge-report-ws-l-9946933.html",
     "event_codes": {
-      "16": 3,
       "19": 2
     },
     "keywords": [
       "world",
-      "iran",
-      "proxies",
-      "wage",
-      "war",
       "israel",
-      "threaten",
-      "interests",
-      "iraq",
-      "slammed",
-      "not",
-      "disarming",
-      "them"
+      "held",
+      "talks",
+      "with",
+      "kurdish",
+      "militias",
+      "border",
+      "offensive",
+      "plans",
+      "against",
+      "iran",
+      "emerge",
+      "report",
+      "9946933.html"
     ]
   },
   "ISR": {
-    "risk_score": 5.95,
-    "count": 8,
-    "top_news": "https://www.rollingstone.com/politics/political-commentary/iran-war-christian-crusade-pete-hegseth-1235525813/",
+    "risk_score": 15.54,
+    "count": 17,
+    "top_news": "https://english.wafa.ps/Pages/Details/168074",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "14": 1,
-      "17": 1
+      "19": 8,
+      "18": 5,
+      "17": 3,
+      "15": 1
     },
     "keywords": [
-      "politics",
-      "political",
-      "commentary",
-      "iran",
-      "war",
-      "christian",
-      "crusade",
-      "pete",
-      "hegseth",
-      "1235525813"
+      "pages",
+      "details",
+      "168074"
     ]
   },
-  "LBN": {
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.democracynow.org/2026/3/6/headlines/israels_renewed_assault_on_lebanon_kills_123_with_hundreds_of_thousands_displaced",
+    "top_news": "https://www.rawstory.com/raw-investigates/pete-hegseth-2675565886/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "headlines",
-      "israels",
-      "renewed",
-      "assault",
-      "lebanon",
-      "kills",
-      "123",
-      "with",
-      "hundreds",
-      "thousands",
-      "displaced"
+      "raw",
+      "investigates",
+      "pete",
+      "hegseth",
+      "2675565886"
     ]
   },
-  "NER": {
-    "risk_score": 5.5,
+  "LBN": {
+    "risk_score": 5.35,
     "count": 6,
-    "top_news": "https://dailypost.ng/2026/03/06/troops-neutralise-several-high-profile-terrorists-rescue-hostages/",
+    "top_news": "https://www.livemint.com/news/us-news/trump-issues-stern-warning-to-iran-amid-middle-east-conflict-says-you-will-face-absolute-guaranteed-death-11772816304418.html",
     "event_codes": {
       "19": 5,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "troops",
-      "neutralise",
-      "several",
-      "high",
-      "profile",
-      "terrorists",
-      "rescue",
-      "hostages"
+      "news",
+      "news",
+      "trump",
+      "issues",
+      "stern",
+      "warning",
+      "iran",
+      "amid",
+      "middle",
+      "east",
+      "conflict",
+      "says",
+      "you",
+      "will",
+      "face",
+      "absolute",
+      "guaranteed",
+      "death",
+      "11772816304418.html"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://dailypost.ng/2026/03/06/troops-neutralise-several-high-profile-terrorists-rescue-hostages/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "troops",
-      "neutralise",
-      "several",
-      "high",
-      "profile",
-      "terrorists",
-      "rescue",
-      "hostages"
-    ]
-  },
-  "SDN": {
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.democracynow.org/2026/3/6/headlines/169_are_killed_including_civilians_as_insurgents_raid_town_in_south_sudan",
+    "top_news": "https://www.newsweek.com/iran-war-briefing-day-7-trump-says-no-deal-israel-hammers-tehran-beirut-11634450",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "headlines",
-      "169",
-      "are",
-      "killed",
-      "including",
-      "civilians",
-      "insurgents",
-      "raid",
-      "town",
-      "south",
-      "sudan"
+      "iran",
+      "war",
+      "briefing",
+      "day",
+      "trump",
+      "says",
+      "deal",
+      "israel",
+      "hammers",
+      "tehran",
+      "beirut",
+      "11634450"
     ]
   }
 }
