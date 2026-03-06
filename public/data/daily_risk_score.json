@@ -1,106 +1,285 @@
 {
-  "BHR": {
+  "ARE": {
+    "risk_score": 3.2,
+    "count": 5,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/860711/trump-warns-iranian-forces-to-surrender-or-die-as-middle-east-conflict-intensifies",
+    "event_codes": {
+      "16": 3,
+      "19": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "860711",
+      "trump",
+      "warns",
+      "iranian",
+      "forces",
+      "surrender",
+      "die",
+      "middle",
+      "east",
+      "conflict",
+      "intensifies"
+    ]
+  },
+  "IRN": {
+    "risk_score": 45.9,
+    "count": 50,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/860711/trump-warns-iranian-forces-to-surrender-or-die-as-middle-east-conflict-intensifies",
+    "event_codes": {
+      "19": 39,
+      "17": 4,
+      "16": 3,
+      "14": 2,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "860711",
+      "trump",
+      "warns",
+      "iranian",
+      "forces",
+      "surrender",
+      "die",
+      "middle",
+      "east",
+      "conflict",
+      "intensifies"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-strikes-and-interceptions-reported-across-gulf-live-blog",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "middle",
+      "east",
+      "iran",
+      "eastern",
+      "states",
+      "artc",
+      "iranian",
+      "strikes",
+      "and",
+      "interceptions",
+      "reported",
+      "across",
+      "gulf",
+      "live",
+      "blog"
+    ]
+  },
+  "ISR": {
+    "risk_score": 19.3,
+    "count": 20,
+    "top_news": "https://aviationweek.com/defense/budget-policy-operations/israel-vows-more-surprises-operations-focus-iranian-missiles",
+    "event_codes": {
+      "19": 14,
+      "18": 4,
+      "14": 2
+    },
+    "keywords": [
+      "defense",
+      "budget",
+      "policy",
+      "operations",
+      "israel",
+      "vows",
+      "more",
+      "surprises",
+      "operations",
+      "focus",
+      "iranian",
+      "missiles"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/03/gachagua-skips-ngeno-funeral-tormentors-crocodile-tears/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "gachagua",
+      "skips",
+      "ngeno",
+      "funeral",
+      "tormentors",
+      "crocodile",
+      "tears"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/860711/trump-warns-iranian-forces-to-surrender-or-die-as-middle-east-conflict-intensifies",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "860711",
+      "trump",
+      "warns",
+      "iranian",
+      "forces",
+      "surrender",
+      "die",
+      "middle",
+      "east",
+      "conflict",
+      "intensifies"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "http://www.bignewsnetwork.com/news/278905589/iran-launches-new-wave-of-attacks-on-israel",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "278905589",
+      "iran",
+      "launches",
+      "new",
+      "wave",
+      "attacks",
+      "israel"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://pmnewsnigeria.com/2026/03/06/troops-crush-terrorists-in-fierce-overnight-battles/",
+    "event_codes": {
+      "18": 3,
+      "19": 3,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "crush",
+      "terrorists",
+      "fierce",
+      "overnight",
+      "battles"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.news18.com/world/oil-at-150-in-weeks-qatar-minister-sounds-alarm-as-west-asia-war-chokes-global-supply-ws-l-9946153.html",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "oil",
+      "150",
+      "weeks",
+      "qatar",
+      "minister",
+      "sounds",
+      "alarm",
+      "west",
+      "asia",
+      "war",
+      "chokes",
+      "global",
+      "supply",
+      "9946153.html"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.spectator.com.au/2026/03/emmanuel-macron-is-having-a-good-war/",
+    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iranian-strikes-and-interceptions-reported-across-gulf-live-blog",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "emmanuel",
-      "macron",
-      "having",
-      "good",
-      "war"
+      "news",
+      "middle",
+      "east",
+      "iran",
+      "eastern",
+      "states",
+      "artc",
+      "iranian",
+      "strikes",
+      "and",
+      "interceptions",
+      "reported",
+      "across",
+      "gulf",
+      "live",
+      "blog"
     ]
   },
-  "IRN": {
-    "risk_score": 10.56,
-    "count": 14,
-    "top_news": "https://peoplesdailyng.com/ramadan-onaiyekan-al-habibiyyah-task-nigerian-on-harmony-shun-divisions/",
+  "SYR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.firstpost.com/explainers/who-are-the-kurds-who-could-lead-the-next-phase-of-iran-war-13986866.html",
     "event_codes": {
-      "19": 6,
-      "17": 4,
-      "15": 3,
-      "16": 1
+      "19": 6
     },
     "keywords": [
-      "ramadan",
-      "onaiyekan",
-      "habibiyyah",
-      "task",
-      "nigerian",
-      "harmony",
-      "shun",
-      "divisions"
+      "explainers",
+      "who",
+      "are",
+      "the",
+      "kurds",
+      "who",
+      "could",
+      "lead",
+      "the",
+      "next",
+      "phase",
+      "iran",
+      "war",
+      "13986866.html"
     ]
   },
-  "ISR": {
+  "TUR": {
     "risk_score": 8.0,
     "count": 8,
-    "top_news": "https://news.sky.com/story/four-arrested-on-suspicion-of-syping-for-iran-13515093",
+    "top_news": "https://www.firstpost.com/explainers/who-are-the-kurds-who-could-lead-the-next-phase-of-iran-war-13986866.html",
     "event_codes": {
       "19": 8
     },
     "keywords": [
-      "story",
-      "four",
-      "arrested",
-      "suspicion",
-      "syping",
-      "for",
+      "explainers",
+      "who",
+      "are",
+      "the",
+      "kurds",
+      "who",
+      "could",
+      "lead",
+      "the",
+      "next",
+      "phase",
       "iran",
-      "13515093"
-    ]
-  },
-  "LBY": {
-    "risk_score": 3.6,
-    "count": 6,
-    "top_news": "https://www.independent.ie/world-news/europe/kyiv-and-moscow-swap-400-prisoners-in-spite-of-stalled-talks/a253529620.html",
-    "event_codes": {
-      "16": 3,
-      "17": 3
-    },
-    "keywords": [
-      "world",
-      "news",
-      "europe",
-      "kyiv",
-      "and",
-      "moscow",
-      "swap",
-      "400",
-      "prisoners",
-      "spite",
-      "stalled",
-      "talks",
-      "a253529620.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.premiumtimesng.com/foreign/world-foreign/861845-rift-within-anglican-communion-deepens-as-conservative-anglican-bloc-forms-new-council.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "foreign",
-      "world",
-      "foreign",
-      "861845",
-      "rift",
-      "within",
-      "anglican",
-      "communion",
-      "deepens",
-      "conservative",
-      "anglican",
-      "bloc",
-      "forms",
-      "new",
-      "council.html"
+      "war",
+      "13986866.html"
     ]
   }
 }
