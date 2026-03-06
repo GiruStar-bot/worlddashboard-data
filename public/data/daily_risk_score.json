@@ -1,218 +1,228 @@
 {
-  "CMR": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.hrw.org/news/2026/03/06/cameroonian-separatist-leaders-arrested-in-belgium",
+  "BRN": {
+    "risk_score": 11.2,
+    "count": 16,
+    "top_news": "https://seapowermagazine.org/uss-cincinnati-returns-to-homeport-in-san-diego/",
     "event_codes": {
-      "17": 4
+      "16": 16
     },
     "keywords": [
-      "news",
-      "2026",
-      "cameroonian",
-      "separatist",
-      "leaders",
-      "arrested",
-      "belgium"
+      "uss",
+      "cincinnati",
+      "returns",
+      "homeport",
+      "san",
+      "diego"
     ]
   },
-  "COL": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://thebogotapost.com/colombia-defense-minister-questions-eln-election-ceasefire-pledge/55635/",
+  "GUY": {
+    "risk_score": 5.5,
+    "count": 8,
+    "top_news": "https://www.stabroeknews.com/2026/03/06/news/guyana/labourer-charged-over-parfait-harmonie-shop-murder/",
     "event_codes": {
-      "19": 4,
-      "16": 1
+      "17": 5,
+      "19": 3
     },
     "keywords": [
-      "colombia",
-      "defense",
-      "minister",
-      "questions",
-      "eln",
-      "election",
-      "ceasefire",
-      "pledge",
-      "55635"
+      "2026",
+      "news",
+      "guyana",
+      "labourer",
+      "charged",
+      "over",
+      "parfait",
+      "harmonie",
+      "shop",
+      "murder"
+    ]
+  },
+  "IDN": {
+    "risk_score": 8.4,
+    "count": 12,
+    "top_news": "https://seapowermagazine.org/uss-cincinnati-returns-to-homeport-in-san-diego/",
+    "event_codes": {
+      "16": 12
+    },
+    "keywords": [
+      "uss",
+      "cincinnati",
+      "returns",
+      "homeport",
+      "san",
+      "diego"
     ]
   },
   "IRN": {
-    "risk_score": 18.55,
-    "count": 19,
-    "top_news": "https://www.ipsnews.net/2026/03/un-amid-security-risks-in-middle-east-humanitarian-work-is-underway/",
-    "event_codes": {
-      "19": 14,
-      "18": 4,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "amid",
-      "security",
-      "risks",
-      "middle",
-      "east",
-      "humanitarian",
-      "work",
-      "underway"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 9.8,
+    "risk_score": 10.05,
     "count": 11,
-    "top_news": "https://www.presstv.ir/Detail/2026/03/06/765048/Iraq-s-Nujaba-vows-to-avenge-US-assassination-of-PMU-commander",
+    "top_news": "https://oilprice.com/Energy/Energy-General/Azerbaijan-Vows-Iron-Fist-Response-After-Iranian-Drone-Attack.html",
     "event_codes": {
-      "18": 7,
-      "19": 3,
-      "17": 1
+      "19": 8,
+      "14": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "765048",
-      "iraq",
-      "nujaba",
+      "energy",
+      "energy",
+      "general",
+      "azerbaijan",
       "vows",
-      "avenge",
-      "assassination",
-      "pmu",
-      "commander"
+      "iron",
+      "fist",
+      "response",
+      "after",
+      "iranian",
+      "drone",
+      "attack.html"
     ]
   },
   "ISR": {
-    "risk_score": 19.42,
-    "count": 20,
-    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
-    "event_codes": {
-      "19": 15,
-      "17": 2,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "article",
-      "shia",
-      "crescent",
-      "fear",
-      "anger",
-      "iran",
-      "war",
-      "religion"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.wsws.org/en/articles/2026/03/06/ngbe-m06.html",
-    "event_codes": {
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "articles",
-      "2026",
-      "ngbe",
-      "m06.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "article",
-      "shia",
-      "crescent",
-      "fear",
-      "anger",
-      "iran",
-      "war",
-      "religion"
-    ]
-  },
-  "LBN": {
-    "risk_score": 14.35,
-    "count": 15,
-    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
-    "event_codes": {
-      "19": 10,
-      "18": 3,
-      "17": 1,
-      "20": 1
-    },
-    "keywords": [
-      "world",
-      "article",
-      "shia",
-      "crescent",
-      "fear",
-      "anger",
-      "iran",
-      "war",
-      "religion"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.opinionnigeria.com/i-deserve-apology-adoke-says-after-fg-resolves-opl-245-dispute/",
+    "risk_score": 7.25,
+    "count": 9,
+    "top_news": "https://slate.com/news-and-politics/2026/03/iran-trump-news-war-kurds-kurdistan.html",
     "event_codes": {
       "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "deserve",
-      "apology",
-      "adoke",
-      "says",
-      "after",
-      "resolves",
-      "opl",
-      "245",
-      "dispute"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/police-raids-easton-bethlehem-net-183456901.html",
-    "event_codes": {
-      "19": 2,
+      "14": 3,
+      "16": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "police",
-      "raids",
-      "easton",
-      "bethlehem",
-      "net",
-      "183456901.html"
+      "and",
+      "politics",
+      "2026",
+      "iran",
+      "trump",
+      "news",
+      "war",
+      "kurds",
+      "kurdistan.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://abcnews.com/Business/trump-stop-surge-oil-prices-experts-weigh/story?id=130786830",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "business",
+      "trump",
+      "stop",
+      "surge",
+      "oil",
+      "prices",
+      "experts",
+      "weigh",
+      "story"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.tipperarylive.ie/news/national-news/2032500/taoiseach-condemns-reckless-strike-on-peacekeeping-base-in-lebanon.html",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "news",
+      "2032500",
+      "taoiseach",
+      "condemns",
+      "reckless",
+      "strike",
+      "peacekeeping",
+      "base",
+      "lebanon.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 12.0,
+    "count": 18,
+    "top_news": "https://seapowermagazine.org/uss-cincinnati-returns-to-homeport-in-san-diego/",
+    "event_codes": {
+      "16": 18
+    },
+    "keywords": [
+      "uss",
+      "cincinnati",
+      "returns",
+      "homeport",
+      "san",
+      "diego"
+    ]
+  },
+  "SGP": {
+    "risk_score": 8.4,
+    "count": 12,
+    "top_news": "https://seapowermagazine.org/uss-cincinnati-returns-to-homeport-in-san-diego/",
+    "event_codes": {
+      "16": 12
+    },
+    "keywords": [
+      "uss",
+      "cincinnati",
+      "returns",
+      "homeport",
+      "san",
+      "diego"
     ]
   },
   "VEN": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.theglobeandmail.com/world/article-shia-crescent-fear-anger-iran-war-religion/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://slate.com/news-and-politics/2026/03/iran-trump-news-war-kurds-kurdistan.html",
     "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "and",
+      "politics",
+      "2026",
+      "iran",
+      "trump",
+      "news",
+      "war",
+      "kurds",
+      "kurdistan.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://seapowermagazine.org/uss-cincinnati-returns-to-homeport-in-san-diego/",
+    "event_codes": {
+      "16": 6
+    },
+    "keywords": [
+      "uss",
+      "cincinnati",
+      "returns",
+      "homeport",
+      "san",
+      "diego"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://bulawayo24.com/index-id-opinion-sc-columnist-byo-262735.html",
+    "event_codes": {
+      "16": 4,
       "18": 3
     },
     "keywords": [
-      "world",
-      "article",
-      "shia",
-      "crescent",
-      "fear",
-      "anger",
-      "iran",
-      "war",
-      "religion"
+      "index",
+      "opinion",
+      "columnist",
+      "byo",
+      "262735.html"
     ]
   }
 }
