@@ -1,149 +1,100 @@
 {
-  "ARE": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.dailymail.co.uk/news/article-15624157/Donald-Trump-says-Iran-hit-hard-vows-expand-US-list-targets-mocks-country-Loser-Middle-East.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15624157",
-      "donald",
-      "trump",
-      "says",
-      "iran",
-      "hit",
-      "hard",
-      "vows",
-      "expand",
-      "list",
-      "targets",
-      "mocks",
-      "country",
-      "loser",
-      "middle",
-      "east.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 14.05,
-    "count": 17,
-    "top_news": "https://www.theguardian.com/world/2026/mar/07/iran-us-israel-war-regime-change",
-    "event_codes": {
-      "19": 10,
-      "14": 2,
-      "16": 2,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "mar",
-      "iran",
-      "israel",
-      "war",
-      "regime",
-      "change"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.78,
-    "count": 19,
-    "top_news": "https://www.israelnationalnews.com/flashes/678445",
-    "event_codes": {
-      "19": 9,
-      "17": 5,
-      "18": 3,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "flashes",
-      "678445"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.cp24.com/news/world/2026/03/07/qatar-bahrain-and-uae-intercept-missiles-and-drones-from-iran-live-updates-here/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "qatar",
-      "bahrain",
-      "and",
-      "uae",
-      "intercept",
-      "missiles",
-      "and",
-      "drones",
-      "from",
-      "iran",
-      "live",
-      "updates",
-      "here"
-    ]
-  },
-  "KWT": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://nbcmontana.com/news/nation-world/trump-to-attend-dignified-transfer-for-6-soldiers-killed-in-middle-east-drone-strike-department-of-war-pete-hegseth-conflict-iran-israel-united-states-dover-air-force-base",
+    "top_news": "http://www.bignewsnetwork.com/news/278907820/iran-condemns-attack-on-desalination-plant-strikes-us-base-in-bahrain-in-response",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "nation",
-      "world",
-      "trump",
-      "attend",
-      "dignified",
-      "transfer",
-      "for",
-      "soldiers",
-      "killed",
-      "middle",
-      "east",
-      "drone",
-      "strike",
-      "department",
-      "war",
-      "pete",
-      "hegseth",
-      "conflict",
+      "278907820",
       "iran",
-      "israel",
-      "united",
-      "states",
-      "dover",
-      "air",
-      "force",
-      "base"
+      "condemns",
+      "attack",
+      "desalination",
+      "plant",
+      "strikes",
+      "base",
+      "bahrain",
+      "response"
     ]
   },
-  "LBN": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://www.theglobeandmail.com/world/article-israel-lebanon-middle-east-war/",
+  "IRN": {
+    "risk_score": 32.47,
+    "count": 40,
+    "top_news": "https://www.aol.co.uk/articles/iranian-president-apology-reveal-holds-180316980.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 18,
+      "14": 9,
+      "17": 9,
+      "16": 3,
+      "15": 1
     },
     "keywords": [
-      "world",
-      "article",
+      "articles",
+      "iranian",
+      "president",
+      "apology",
+      "reveal",
+      "holds",
+      "180316980.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.72,
+    "count": 18,
+    "top_news": "https://www.bellingcat.com/news/2026/03/07/the-incendiary-bomb-never-seen-in-israel-before/",
+    "event_codes": {
+      "19": 17,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "the",
+      "incendiary",
+      "bomb",
+      "never",
+      "seen",
       "israel",
-      "lebanon",
-      "middle",
-      "east",
-      "war"
+      "before"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dailytrust.com/zulum-insurgents-strike-ngoshe-after-being-chased-from-sambisa/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "zulum",
+      "insurgents",
+      "strike",
+      "ngoshe",
+      "after",
+      "being",
+      "chased",
+      "from",
+      "sambisa"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.aol.com/articles/trump-launched-war-fraud-heres-110149490.html",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "articles",
+      "trump",
+      "launched",
+      "war",
+      "fraud",
+      "heres",
+      "110149490.html"
     ]
   }
 }
