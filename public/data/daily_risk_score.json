@@ -1,90 +1,103 @@
 {
   "IRN": {
-    "risk_score": 10.64,
-    "count": 13,
-    "top_news": "https://www.yahoo.com/news/articles/iran-war-day-eight-everything-100458672.html",
+    "risk_score": 17.87,
+    "count": 21,
+    "top_news": "https://www.aol.co.uk/articles/badenoch-starmer-too-scared-left-133931106.html",
     "event_codes": {
-      "19": 5,
-      "14": 4,
+      "19": 12,
+      "14": 5,
+      "17": 2,
       "15": 1,
-      "16": 1,
-      "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
       "articles",
-      "iran",
-      "war",
-      "day",
-      "eight",
-      "everything",
-      "100458672.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://www.keighleynews.co.uk/news/national/25917009.badenoch-says-uk-in-war-whether-starmer-likes-not/",
-    "event_codes": {
-      "18": 4,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "25917009.badenoch",
-      "says",
-      "war",
-      "whether",
+      "badenoch",
       "starmer",
-      "likes",
-      "not"
+      "too",
+      "scared",
+      "left",
+      "133931106.html"
     ]
   },
   "ISR": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://www.ynetnews.com/article/r1kbh5kfbl",
+    "risk_score": 12.8,
+    "count": 14,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/07/hezbollah-says-fighters-clashed-with-israeli-commando-unit-that-landed-in-eastern-lebanon/",
     "event_codes": {
-      "19": 10,
-      "18": 1
+      "19": 11,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "article",
-      "r1kbh5kfbl"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wbap.com/2026/03/07/irans-president-rejects-surrender/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
+      "news",
+      "mena",
       "2026",
-      "irans",
-      "president",
-      "rejects",
-      "surrender"
+      "hezbollah",
+      "says",
+      "fighters",
+      "clashed",
+      "with",
+      "israeli",
+      "commando",
+      "unit",
+      "that",
+      "landed",
+      "eastern",
+      "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 8.45,
-    "count": 9,
-    "top_news": "https://www.wbap.com/2026/03/07/irans-president-rejects-surrender/",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/03/07/dozens-killed-in-lebanon-as-israel-searches-for-signs-of-navigator-missing-for-40-years",
     "event_codes": {
-      "19": 7,
-      "17": 1,
-      "18": 1
+      "19": 10
     },
     "keywords": [
+      "world",
       "2026",
-      "irans",
-      "president",
-      "rejects",
-      "surrender"
+      "dozens",
+      "killed",
+      "lebanon",
+      "israel",
+      "searches",
+      "for",
+      "signs",
+      "navigator",
+      "missing",
+      "for",
+      "years"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.3,
+    "count": 5,
+    "top_news": "https://quicknews-africa.net/plwds-appeal-for-inclusion-in-lg-appointments/",
+    "event_codes": {
+      "17": 3,
+      "16": 2
+    },
+    "keywords": [
+      "plwds",
+      "appeal",
+      "for",
+      "inclusion",
+      "appointments"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://focustaiwan.tw:443/cross-strait/202603070010",
+    "event_codes": {
+      "14": 3,
+      "17": 1
+    },
+    "keywords": [
+      "cross",
+      "strait",
+      "202603070010"
     ]
   }
 }
