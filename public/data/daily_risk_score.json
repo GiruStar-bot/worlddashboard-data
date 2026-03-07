@@ -1,92 +1,58 @@
 {
   "IRN": {
-    "risk_score": 26.93,
-    "count": 29,
-    "top_news": "https://theasian.asia/archives/203800",
+    "risk_score": 8.3,
+    "count": 9,
+    "top_news": "https://www.dailymail.co.uk/news/article-15623611/US-bombers-fly-UK-airbase-ahead-big-one-US-promises-surge-attacks-against-Iran.html",
     "event_codes": {
-      "19": 23,
-      "15": 4,
-      "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "archives",
-      "203800"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://tribune.com.pk/story/2596282/us-skips-congressional-review-to-approve-munitions-sale-to-israel",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "story",
-      "2596282",
-      "skips",
-      "congressional",
-      "review",
-      "approve",
-      "munitions",
-      "sale",
-      "israel"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/israel-fires-broad-scale-strikes-on-tehran-as-war-hits-2nd-week-219683",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "israel",
-      "fires",
-      "broad",
-      "scale",
-      "strikes",
-      "tehran",
-      "war",
-      "hits",
-      "2nd",
-      "week",
-      "219683"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/iran-halt-strikes-neighbours-unless-082501872.html",
-    "event_codes": {
-      "19": 2
+      "19": 7,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "iran",
-      "halt",
-      "strikes",
-      "neighbours",
-      "unless",
-      "082501872.html"
+      "article",
+      "15623611",
+      "bombers",
+      "fly",
+      "airbase",
+      "ahead",
+      "big",
+      "one",
+      "promises",
+      "surge",
+      "attacks",
+      "against",
+      "iran.html"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/iran-apologises-striking-neighbours-just-090852954.html",
+  "ISR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.africanews.com/2026/03/07/more-israeli-strikes-pound-lebanon-overnight/",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "articles",
-      "iran",
-      "apologises",
-      "striking",
-      "neighbours",
-      "just",
-      "090852954.html"
+      "2026",
+      "more",
+      "israeli",
+      "strikes",
+      "pound",
+      "lebanon",
+      "overnight"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://tass.com/world/2098115",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "2098115"
     ]
   }
 }
