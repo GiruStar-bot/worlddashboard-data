@@ -1,72 +1,250 @@
 {
   "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.courant.com/2026/03/07/trump-pays-respects-to-6-us-army-members-killed-in-iran-war-2/",
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.stabroeknews.com/2026/03/07/news/world/israel-iran-trade-more-blows-iranian-president-draws-criticism-at-home-for-apology/",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "trump",
-      "pays",
-      "respects",
-      "army",
-      "members",
-      "killed",
+      "news",
+      "world",
+      "israel",
       "iran",
-      "war"
+      "trade",
+      "more",
+      "blows",
+      "iranian",
+      "president",
+      "draws",
+      "criticism",
+      "home",
+      "for",
+      "apology"
     ]
   },
-  "ECU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://taskandpurpose.com/news/us-ecuador-drug-strike/",
+  "BHR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.kptv.com/2026/03/07/iranian-attacks-target-gulf-states-us-warns-bombing-will-intensify/",
     "event_codes": {
-      "19": 3
+      "19": 5
     },
     "keywords": [
-      "news",
-      "ecuador",
-      "drug",
-      "strike"
+      "2026",
+      "iranian",
+      "attacks",
+      "target",
+      "gulf",
+      "states",
+      "warns",
+      "bombing",
+      "will",
+      "intensify"
     ]
   },
   "IRN": {
-    "risk_score": 37.26,
-    "count": 43,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/us-special-relationship-starmer-trump-k25zmrbpv",
+    "risk_score": 50.9,
+    "count": 54,
+    "top_news": "https://www.kptv.com/2026/03/07/iranian-attacks-target-gulf-states-us-warns-bombing-will-intensify/",
     "event_codes": {
-      "19": 26,
-      "17": 7,
-      "14": 4,
-      "15": 3,
-      "18": 3
+      "19": 46,
+      "17": 5,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "article",
-      "special",
-      "relationship",
-      "starmer",
-      "trump",
-      "k25zmrbpv"
+      "2026",
+      "iranian",
+      "attacks",
+      "target",
+      "gulf",
+      "states",
+      "warns",
+      "bombing",
+      "will",
+      "intensify"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.kptv.com/2026/03/07/iranian-attacks-target-gulf-states-us-warns-bombing-will-intensify/",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "2026",
+      "iranian",
+      "attacks",
+      "target",
+      "gulf",
+      "states",
+      "warns",
+      "bombing",
+      "will",
+      "intensify"
     ]
   },
   "ISR": {
-    "risk_score": 9.6,
-    "count": 11,
-    "top_news": "https://english.news.cn/20260308/fde96ade3177455a835a0bc861c5c188/c.html",
+    "risk_score": 37.9,
+    "count": 38,
+    "top_news": "http://harrisondaily.com/stories/the-latest-israel-hammers-beirut-and-tehran-as-iranian-president-apologizes-to-gulf-neighbors,365792",
     "event_codes": {
-      "19": 7,
-      "14": 4
+      "19": 38
     },
     "keywords": [
-      "20260308",
-      "fde96ade3177455a835a0bc861c5c188",
-      "c.html"
+      "stories",
+      "the",
+      "latest",
+      "israel",
+      "hammers",
+      "beirut",
+      "and",
+      "tehran",
+      "iranian",
+      "president",
+      "apologizes",
+      "gulf",
+      "neighbors,365792"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "http://harrisondaily.com/stories/the-latest-israel-hammers-beirut-and-tehran-as-iranian-president-apologizes-to-gulf-neighbors,365792",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "stories",
+      "the",
+      "latest",
+      "israel",
+      "hammers",
+      "beirut",
+      "and",
+      "tehran",
+      "iranian",
+      "president",
+      "apologizes",
+      "gulf",
+      "neighbors,365792"
+    ]
+  },
+  "LBN": {
+    "risk_score": 13.5,
+    "count": 14,
+    "top_news": "http://harrisondaily.com/stories/the-latest-israel-hammers-beirut-and-tehran-as-iranian-president-apologizes-to-gulf-neighbors,365792",
+    "event_codes": {
+      "19": 13,
+      "17": 1
+    },
+    "keywords": [
+      "stories",
+      "the",
+      "latest",
+      "israel",
+      "hammers",
+      "beirut",
+      "and",
+      "tehran",
+      "iranian",
+      "president",
+      "apologizes",
+      "gulf",
+      "neighbors,365792"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ctvnews.ca/world/israel-hamas-war/article/a-3rd-palestinian-has-been-killed-in-the-west-bank-this-week-as-violence-surges/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "israel",
+      "hamas",
+      "war",
+      "article",
+      "3rd",
+      "palestinian",
+      "has",
+      "been",
+      "killed",
+      "the",
+      "west",
+      "bank",
+      "this",
+      "week",
+      "violence",
+      "surges"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.thecable.ng/iran-hits-dubai-saudi-arabia-despite-promise-to-spare-neighbouring-countries/",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "iran",
+      "hits",
+      "dubai",
+      "saudi",
+      "arabia",
+      "despite",
+      "promise",
+      "spare",
+      "neighbouring",
+      "countries"
+    ]
+  },
+  "SAU": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.kptv.com/2026/03/07/iranian-attacks-target-gulf-states-us-warns-bombing-will-intensify/",
+    "event_codes": {
+      "19": 6,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "iranian",
+      "attacks",
+      "target",
+      "gulf",
+      "states",
+      "warns",
+      "bombing",
+      "will",
+      "intensify"
+    ]
+  },
+  "THA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailyexcelsior.com/sri-lanka-will-repatriate-bodies-of-iranian-sailors-killed-in-us-attack/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "sri",
+      "lanka",
+      "will",
+      "repatriate",
+      "bodies",
+      "iranian",
+      "sailors",
+      "killed",
+      "attack"
     ]
   }
 }
