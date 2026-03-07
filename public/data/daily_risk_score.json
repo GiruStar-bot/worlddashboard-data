@@ -1,152 +1,102 @@
 {
-  "AGO": {
-    "risk_score": 2.85,
+  "IRN": {
+    "risk_score": 21.63,
+    "count": 23,
+    "top_news": "https://www.reflector.com/news/national/new-strikes-light-up-the-night-in-tehran-as-israel-vows-many-surprises/article_1a0a7ff8-6b3d-5fbf-978d-38f967d5120b.html",
+    "event_codes": {
+      "19": 18,
+      "15": 2,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "new",
+      "strikes",
+      "light",
+      "the",
+      "night",
+      "tehran",
+      "israel",
+      "vows",
+      "many",
+      "surprises",
+      "article",
+      "1a0a7ff8",
+      "6b3d",
+      "5fbf",
+      "978d",
+      "38f967d5120b.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.ghanamma.com/2026/03/07/angolas-tourism-awakening-why-portugal-south-africa-china-and-brazil-are-flocking-to-africas-newest-hotspot/",
+    "top_news": "http://www.azerbaijannews.net/news/278907985/trump-attends-return-of-slain-troops-to-us-soil",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "angolas",
-      "tourism",
-      "awakening",
-      "why",
-      "portugal",
-      "south",
-      "africa",
-      "china",
-      "and",
-      "brazil",
-      "are",
-      "flocking",
-      "africas",
-      "newest",
-      "hotspot"
+      "news",
+      "278907985",
+      "trump",
+      "attends",
+      "return",
+      "slain",
+      "troops",
+      "soil"
     ]
   },
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/08/iran-vows-will-never-bow-as-trump-threatens-very-hard-strikes-amid-soaring-middle-east-conflict",
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.niagarafallsreview.ca/news/world/middle-east/a-3rd-palestinian-has-been-killed-in-the-west-bank-this-week-as-violence-surges/article_a2d89067-e4b4-5a2a-b3cd-309931a4bc51.html",
     "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "3rd",
+      "palestinian",
+      "has",
+      "been",
+      "killed",
+      "the",
+      "west",
+      "bank",
+      "this",
+      "week",
+      "violence",
+      "surges",
+      "article",
+      "a2d89067",
+      "e4b4",
+      "5a2a",
+      "b3cd",
+      "309931a4bc51.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.christianitydaily.com:443/news/syria-libya-to-worst-religious-freedom-violators-list.html",
+    "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "2026",
-      "iran",
-      "vows",
-      "will",
-      "never",
-      "bow",
-      "trump",
-      "threatens",
-      "very",
-      "hard",
-      "strikes",
-      "amid",
-      "soaring",
-      "middle",
-      "east",
-      "conflict"
-    ]
-  },
-  "IRN": {
-    "risk_score": 17.65,
-    "count": 19,
-    "top_news": "https://www.gdnonline.com:443/Details/1377884/POWERLESS-PRESIDENT-Iran-%E2%80%98apologises%E2%80%99-for-attacks-but-continues-to-target-Gulf-States",
-    "event_codes": {
-      "19": 15,
-      "14": 2,
-      "17": 2
-    },
-    "keywords": [
-      "details",
-      "1377884",
-      "powerless",
-      "president",
-      "iran",
-      "%e2%80%98apologises%e2%80%99",
-      "for",
-      "attacks",
-      "but",
-      "continues",
-      "target",
-      "gulf",
-      "states"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.46,
-    "count": 18,
-    "top_news": "https://www.reviewjournal.com/news/politics-and-government/a-new-wave-of-strikes-lights-up-the-night-in-tehran-as-netanyahu-vows-many-surprises-3716410/",
-    "event_codes": {
-      "19": 12,
-      "17": 6
-    },
-    "keywords": [
       "news",
-      "politics",
-      "and",
-      "government",
-      "new",
-      "wave",
-      "strikes",
-      "lights",
-      "the",
-      "night",
-      "tehran",
-      "netanyahu",
-      "vows",
-      "many",
-      "surprises",
-      "3716410"
-    ]
-  },
-  "LBN": {
-    "risk_score": 10.8,
-    "count": 12,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/08/iran-vows-will-never-bow-as-trump-threatens-very-hard-strikes-amid-soaring-middle-east-conflict",
-    "event_codes": {
-      "19": 10,
-      "16": 2
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "vows",
-      "will",
-      "never",
-      "bow",
-      "trump",
-      "threatens",
-      "very",
-      "hard",
-      "strikes",
-      "amid",
-      "soaring",
-      "middle",
-      "east",
-      "conflict"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.countypress.co.uk/news/25917287.turkeys-largest-warship-off-isle-wight-5-days-southampton/",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "news",
-      "25917287.turkeys",
-      "largest",
-      "warship",
-      "off",
-      "isle",
-      "wight",
-      "days",
-      "southampton"
+      "syria",
+      "libya",
+      "worst",
+      "religious",
+      "freedom",
+      "violators",
+      "list.html"
     ]
   }
 }
