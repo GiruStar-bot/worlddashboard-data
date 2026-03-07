@@ -1,63 +1,97 @@
 {
   "ARE": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.manchestereveningnews.co.uk/news/world-news/dubai-resident-killed-iran-missile-33551185",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/air-war-against-iran-enters-180140998.html",
     "event_codes": {
-      "19": 7
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "news",
-      "dubai",
-      "resident",
-      "killed",
+      "articles",
+      "air",
+      "war",
+      "against",
       "iran",
-      "missile",
-      "33551185"
+      "enters",
+      "180140998.html"
     ]
   },
   "IRN": {
-    "risk_score": 30.25,
-    "count": 31,
-    "top_news": "https://www.islamicinvitationturkey.com/us-initiated-assault-on-civilian-infrastructure-araghchi/",
+    "risk_score": 39.35,
+    "count": 45,
+    "top_news": "https://www.goskagit.com/news/politics/irans-president-apologizes-for-strikes-on-neighbors-even-as-missiles-and-drones-target-their-cities/article_1da8b7e5-fe1a-5d10-934e-72103d68e67e.html",
     "event_codes": {
-      "19": 26,
-      "18": 4,
-      "14": 1
+      "19": 22,
+      "18": 9,
+      "14": 7,
+      "15": 5,
+      "17": 2
     },
     "keywords": [
-      "initiated",
-      "assault",
-      "civilian",
-      "infrastructure",
-      "araghchi"
+      "news",
+      "politics",
+      "irans",
+      "president",
+      "apologizes",
+      "for",
+      "strikes",
+      "neighbors",
+      "even",
+      "missiles",
+      "and",
+      "drones",
+      "target",
+      "their",
+      "cities",
+      "article",
+      "1da8b7e5",
+      "fe1a",
+      "5d10",
+      "934e",
+      "72103d68e67e.html"
     ]
   },
   "ISR": {
-    "risk_score": 9.8,
-    "count": 10,
-    "top_news": "https://themedialine.org/top-stories/iran-has-powerful-friends-but-will-china-or-russia-actually-join-the-fight/",
+    "risk_score": 15.99,
+    "count": 17,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/07/765092/Iran-will-continue-hitting-enemy-targets-in-region-Judiciary-chief",
     "event_codes": {
-      "19": 8,
-      "18": 2
+      "19": 9,
+      "18": 6,
+      "15": 2
     },
     "keywords": [
-      "top",
-      "stories",
+      "detail",
+      "2026",
+      "765092",
       "iran",
-      "has",
-      "powerful",
-      "friends",
-      "but",
       "will",
-      "china",
-      "russia",
-      "actually",
-      "join",
-      "the",
-      "fight"
+      "continue",
+      "hitting",
+      "enemy",
+      "targets",
+      "region",
+      "judiciary",
+      "chief"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/air-war-against-iran-enters-180140998.html",
+    "event_codes": {
+      "15": 4
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "air",
+      "war",
+      "against",
+      "iran",
+      "enters",
+      "180140998.html"
     ]
   }
 }
