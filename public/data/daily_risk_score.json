@@ -1,180 +1,90 @@
 {
-  "ETH": {
-    "risk_score": 9.34,
-    "count": 10,
-    "top_news": "https://www.thereporterethiopia.com/49607/",
+  "ARE": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.sakshipost.com/news/international/dubai-airport-suspends-flights-after-explosions-amid-rising-iran-conflict-477878",
     "event_codes": {
-      "19": 7,
-      "15": 2,
-      "18": 1
+      "19": 5,
+      "16": 1
     },
     "keywords": [
-      "49607"
+      "news",
+      "international",
+      "dubai",
+      "airport",
+      "suspends",
+      "flights",
+      "after",
+      "explosions",
+      "amid",
+      "rising",
+      "iran",
+      "conflict",
+      "477878"
     ]
   },
   "IRN": {
-    "risk_score": 22.52,
-    "count": 30,
-    "top_news": "https://www.middleeastmonitor.com/20260307-bombs-over-classrooms-the-girls-the-world-forgot-before-international-womens-day/",
+    "risk_score": 16.05,
+    "count": 20,
+    "top_news": "https://www.azernews.az/region/255385.html",
     "event_codes": {
-      "19": 15,
-      "17": 12,
-      "16": 2,
-      "15": 1
+      "19": 13,
+      "16": 4,
+      "17": 3
     },
     "keywords": [
-      "20260307",
-      "bombs",
-      "over",
-      "classrooms",
-      "the",
-      "girls",
-      "the",
-      "world",
-      "forgot",
-      "before",
-      "international",
-      "womens",
-      "day"
+      "region",
+      "255385.html"
     ]
   },
   "ISR": {
-    "risk_score": 14.6,
-    "count": 16,
-    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h19kchktwg",
+    "risk_score": 13.62,
+    "count": 17,
+    "top_news": "https://www.moneycontrol.com/world/reports-say-blue-sparrow-missile-used-in-strike-that-killed-iran-s-supreme-leader-article-13853699.html",
     "event_codes": {
       "19": 8,
+      "16": 4,
       "18": 3,
-      "16": 2,
-      "20": 2,
-      "14": 1
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "opinions",
-      "analysis",
+      "world",
+      "reports",
+      "say",
+      "blue",
+      "sparrow",
+      "missile",
+      "used",
+      "strike",
+      "that",
+      "killed",
+      "iran",
+      "supreme",
+      "leader",
       "article",
-      "h19kchktwg"
-    ]
-  },
-  "KWT": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://abcnews.com/US/trump-attend-dignified-transfer-6-fallen-service-members/story?id=130838735",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "trump",
-      "attend",
-      "dignified",
-      "transfer",
-      "fallen",
-      "service",
-      "members",
-      "story"
+      "13853699.html"
     ]
   },
   "LBN": {
-    "risk_score": 2.22,
-    "count": 4,
-    "top_news": "https://www.ynetnews.com/article/b1r0i00kfzg",
-    "event_codes": {
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "article",
-      "b1r0i00kfzg"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.5,
+    "risk_score": 4.8,
     "count": 5,
-    "top_news": "https://theeagleonline.com.ng/how-killaboi-killed-by-first-class-daughter-mother/",
+    "top_news": "https://www.scoop.co.nz/stories/WO2603/S00065/on-day-seven-of-middle-east-war-no-let-up-in-suffering.htm",
     "event_codes": {
-      "17": 5
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "how",
-      "killaboi",
-      "killed",
-      "first",
-      "class",
-      "daughter",
-      "mother"
-    ]
-  },
-  "QAT": {
-    "risk_score": 5.5,
-    "count": 8,
-    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h19kchktwg",
-    "event_codes": {
-      "17": 5,
-      "19": 3
-    },
-    "keywords": [
-      "opinions",
-      "analysis",
-      "article",
-      "h19kchktwg"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://en.apa.az/asia/saudi-arabia-warns-iran-against-miscalculation-after-missile-drone-attacks-495513",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "asia",
-      "saudi",
-      "arabia",
-      "warns",
-      "iran",
-      "against",
-      "miscalculation",
-      "after",
-      "missile",
-      "drone",
-      "attacks",
-      "495513"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://en.apa.az/asia/lebanon-says-16-killed-in-overnight-strikes-amid-reported-idf-raid-495517",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "asia",
-      "lebanon",
-      "says",
-      "killed",
-      "overnight",
-      "strikes",
-      "amid",
-      "reported",
-      "idf",
-      "raid",
-      "495517"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.75,
-    "count": 4,
-    "top_news": "https://www.ynetnews.com/article/bkmojptkzx",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "article",
-      "bkmojptkzx"
+      "stories",
+      "wo2603",
+      "s00065",
+      "day",
+      "seven",
+      "middle",
+      "east",
+      "war",
+      "let",
+      "suffering.htm"
     ]
   }
 }
