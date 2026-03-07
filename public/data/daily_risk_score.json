@@ -1,103 +1,218 @@
 {
-  "IRN": {
-    "risk_score": 17.87,
-    "count": 21,
-    "top_news": "https://www.aol.co.uk/articles/badenoch-starmer-too-scared-left-133931106.html",
+  "ARE": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.foxnews.com/world/iran-warns-european-countries-legitimate-targets-join-conflict",
     "event_codes": {
-      "19": 12,
-      "14": 5,
-      "17": 2,
-      "15": 1,
+      "19": 2,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "articles",
-      "badenoch",
-      "starmer",
-      "too",
-      "scared",
-      "left",
-      "133931106.html"
+      "world",
+      "iran",
+      "warns",
+      "european",
+      "countries",
+      "legitimate",
+      "targets",
+      "join",
+      "conflict"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.84,
+    "count": 11,
+    "top_news": "https://www.newswest9.com/article/news/nation-world/attack-on-iran/president-trump-join-grieving-families-return-soldiers-killed-in-action-iran-conflict/507-3b763ca9-ec64-4816-804a-2cb067f5ed65",
+    "event_codes": {
+      "19": 8,
+      "15": 2,
+      "16": 1
+    },
+    "keywords": [
+      "article",
+      "news",
+      "nation",
+      "world",
+      "attack",
+      "iran",
+      "president",
+      "trump",
+      "join",
+      "grieving",
+      "families",
+      "return",
+      "soldiers",
+      "killed",
+      "action",
+      "iran",
+      "conflict",
+      "507",
+      "3b763ca9",
+      "ec64",
+      "4816",
+      "804a",
+      "2cb067f5ed65"
     ]
   },
   "ISR": {
-    "risk_score": 12.8,
-    "count": 14,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/07/hezbollah-says-fighters-clashed-with-israeli-commando-unit-that-landed-in-eastern-lebanon/",
+    "risk_score": 4.7,
+    "count": 6,
+    "top_news": "https://www.edenmagnet.com.au/story/9192877/israel-hits-beirut-warns-lebanon-of-heavy-price/",
     "event_codes": {
-      "19": 11,
-      "14": 2,
-      "17": 1
+      "19": 3,
+      "16": 2,
+      "18": 1
     },
     "keywords": [
+      "story",
+      "9192877",
+      "israel",
+      "hits",
+      "beirut",
+      "warns",
+      "lebanon",
+      "heavy",
+      "price"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.newswest9.com/article/news/nation-world/attack-on-iran/president-trump-join-grieving-families-return-soldiers-killed-in-action-iran-conflict/507-3b763ca9-ec64-4816-804a-2cb067f5ed65",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "article",
       "news",
-      "mena",
-      "2026",
-      "hezbollah",
-      "says",
-      "fighters",
-      "clashed",
-      "with",
-      "israeli",
-      "commando",
-      "unit",
-      "that",
-      "landed",
-      "eastern",
-      "lebanon"
+      "nation",
+      "world",
+      "attack",
+      "iran",
+      "president",
+      "trump",
+      "join",
+      "grieving",
+      "families",
+      "return",
+      "soldiers",
+      "killed",
+      "action",
+      "iran",
+      "conflict",
+      "507",
+      "3b763ca9",
+      "ec64",
+      "4816",
+      "804a",
+      "2cb067f5ed65"
     ]
   },
   "LBN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/03/07/dozens-killed-in-lebanon-as-israel-searches-for-signs-of-navigator-missing-for-40-years",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.el-balad.com/16871715",
     "event_codes": {
-      "19": 10
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "16871715"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.foxnews.com/world/iran-warns-european-countries-legitimate-targets-join-conflict",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "world",
+      "iran",
+      "warns",
+      "european",
+      "countries",
+      "legitimate",
+      "targets",
+      "join",
+      "conflict"
+    ]
+  },
+  "SDN": {
+    "risk_score": 10.45,
+    "count": 14,
+    "top_news": "https://www.afriquesenlutte.org/afrique-de-l-est/soudan/article/sudan-release-or-charge-political",
+    "event_codes": {
+      "18": 7,
+      "17": 6,
+      "19": 1
+    },
+    "keywords": [
+      "afrique",
+      "est",
+      "soudan",
+      "article",
+      "sudan",
+      "release",
+      "charge",
+      "political"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://watchingamerica.com/2026/03/07/attacks-on-iran-reckless-action-that-raises-middle-east-tensions/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
       "2026",
-      "dozens",
+      "attacks",
+      "iran",
+      "reckless",
+      "action",
+      "that",
+      "raises",
+      "middle",
+      "east",
+      "tensions"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newswest9.com/article/news/nation-world/attack-on-iran/president-trump-join-grieving-families-return-soldiers-killed-in-action-iran-conflict/507-3b763ca9-ec64-4816-804a-2cb067f5ed65",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "news",
+      "nation",
+      "world",
+      "attack",
+      "iran",
+      "president",
+      "trump",
+      "join",
+      "grieving",
+      "families",
+      "return",
+      "soldiers",
       "killed",
-      "lebanon",
-      "israel",
-      "searches",
-      "for",
-      "signs",
-      "navigator",
-      "missing",
-      "for",
-      "years"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.3,
-    "count": 5,
-    "top_news": "https://quicknews-africa.net/plwds-appeal-for-inclusion-in-lg-appointments/",
-    "event_codes": {
-      "17": 3,
-      "16": 2
-    },
-    "keywords": [
-      "plwds",
-      "appeal",
-      "for",
-      "inclusion",
-      "appointments"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.45,
-    "count": 4,
-    "top_news": "https://focustaiwan.tw:443/cross-strait/202603070010",
-    "event_codes": {
-      "14": 3,
-      "17": 1
-    },
-    "keywords": [
-      "cross",
-      "strait",
-      "202603070010"
+      "action",
+      "iran",
+      "conflict",
+      "507",
+      "3b763ca9",
+      "ec64",
+      "4816",
+      "804a",
+      "2cb067f5ed65"
     ]
   }
 }
