@@ -1,58 +1,180 @@
 {
-  "IRN": {
-    "risk_score": 8.3,
-    "count": 9,
-    "top_news": "https://www.dailymail.co.uk/news/article-15623611/US-bombers-fly-UK-airbase-ahead-big-one-US-promises-surge-attacks-against-Iran.html",
+  "ETH": {
+    "risk_score": 9.34,
+    "count": 10,
+    "top_news": "https://www.thereporterethiopia.com/49607/",
     "event_codes": {
       "19": 7,
-      "16": 1,
+      "15": 2,
       "18": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "15623611",
-      "bombers",
-      "fly",
-      "airbase",
-      "ahead",
-      "big",
-      "one",
-      "promises",
-      "surge",
-      "attacks",
-      "against",
-      "iran.html"
+      "49607"
+    ]
+  },
+  "IRN": {
+    "risk_score": 22.52,
+    "count": 30,
+    "top_news": "https://www.middleeastmonitor.com/20260307-bombs-over-classrooms-the-girls-the-world-forgot-before-international-womens-day/",
+    "event_codes": {
+      "19": 15,
+      "17": 12,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "20260307",
+      "bombs",
+      "over",
+      "classrooms",
+      "the",
+      "girls",
+      "the",
+      "world",
+      "forgot",
+      "before",
+      "international",
+      "womens",
+      "day"
     ]
   },
   "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.africanews.com/2026/03/07/more-israeli-strikes-pound-lebanon-overnight/",
+    "risk_score": 14.6,
+    "count": 16,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h19kchktwg",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 8,
+      "18": 3,
+      "16": 2,
+      "20": 2,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "more",
-      "israeli",
-      "strikes",
-      "pound",
-      "lebanon",
-      "overnight"
+      "opinions",
+      "analysis",
+      "article",
+      "h19kchktwg"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://abcnews.com/US/trump-attend-dignified-transfer-6-fallen-service-members/story?id=130838735",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "trump",
+      "attend",
+      "dignified",
+      "transfer",
+      "fallen",
+      "service",
+      "members",
+      "story"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.22,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/b1r0i00kfzg",
+    "event_codes": {
+      "17": 3,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "b1r0i00kfzg"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://theeagleonline.com.ng/how-killaboi-killed-by-first-class-daughter-mother/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "how",
+      "killaboi",
+      "killed",
+      "first",
+      "class",
+      "daughter",
+      "mother"
     ]
   },
   "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://tass.com/world/2098115",
+    "risk_score": 5.5,
+    "count": 8,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h19kchktwg",
     "event_codes": {
-      "19": 4
+      "17": 5,
+      "19": 3
     },
     "keywords": [
-      "world",
-      "2098115"
+      "opinions",
+      "analysis",
+      "article",
+      "h19kchktwg"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://en.apa.az/asia/saudi-arabia-warns-iran-against-miscalculation-after-missile-drone-attacks-495513",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "asia",
+      "saudi",
+      "arabia",
+      "warns",
+      "iran",
+      "against",
+      "miscalculation",
+      "after",
+      "missile",
+      "drone",
+      "attacks",
+      "495513"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://en.apa.az/asia/lebanon-says-16-killed-in-overnight-strikes-amid-reported-idf-raid-495517",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "lebanon",
+      "says",
+      "killed",
+      "overnight",
+      "strikes",
+      "amid",
+      "reported",
+      "idf",
+      "raid",
+      "495517"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.75,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/bkmojptkzx",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "article",
+      "bkmojptkzx"
     ]
   }
 }
