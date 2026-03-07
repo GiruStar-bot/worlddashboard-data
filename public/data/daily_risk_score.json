@@ -1,184 +1,149 @@
 {
   "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/iran-fires-at-gulf-neighbours-as-trump-threatens-more-strikes/articleshow/129226013.cms",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "defence",
-      "iran",
-      "fires",
-      "gulf",
-      "neighbours",
-      "trump",
-      "threatens",
-      "more",
-      "strikes",
-      "articleshow",
-      "129226013.cms"
-    ]
-  },
-  "BOL": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://www.defensenews.com/opinion/commentary/2021/11/16/swift-trans-atlantic-action-kept-turkey-from-fueling-belarus-hybrid-attacks/",
-    "event_codes": {
-      "16": 2,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
-      "commentary",
-      "2021",
-      "swift",
-      "trans",
-      "atlantic",
-      "action",
-      "kept",
-      "turkey",
-      "from",
-      "fueling",
-      "belarus",
-      "hybrid",
-      "attacks"
-    ]
-  },
-  "IRN": {
-    "risk_score": 14.42,
-    "count": 15,
-    "top_news": "https://www.livemint.com/news/us-news/we-are-no-easy-prey-uae-president-mohamed-bin-zayed-al-nahyan-issues-defiant-warning-to-iran-11772898646280.html",
-    "event_codes": {
-      "19": 9,
-      "18": 5,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "news",
-      "are",
-      "easy",
-      "prey",
-      "uae",
-      "president",
-      "mohamed",
-      "bin",
-      "zayed",
-      "nahyan",
-      "issues",
-      "defiant",
-      "warning",
-      "iran",
-      "11772898646280.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.85,
-    "count": 13,
-    "top_news": "https://www.kimt.com/news/irans-president-apologizes-for-strikes-on-neighbors-as-missiles-and-drones-still-pound-their-cities/article_bf5b8ed6-2108-427f-adb8-daca54cc0e31.html",
-    "event_codes": {
-      "19": 11,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "irans",
-      "president",
-      "apologizes",
-      "for",
-      "strikes",
-      "neighbors",
-      "missiles",
-      "and",
-      "drones",
-      "still",
-      "pound",
-      "their",
-      "cities",
-      "article",
-      "bf5b8ed6",
-      "2108",
-      "427f",
-      "adb8",
-      "daca54cc0e31.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
+    "risk_score": 4.9,
     "count": 5,
-    "top_news": "https://www.kimt.com/news/irans-president-apologizes-for-strikes-on-neighbors-as-missiles-and-drones-still-pound-their-cities/article_bf5b8ed6-2108-427f-adb8-daca54cc0e31.html",
+    "top_news": "https://www.dailymail.co.uk/news/article-15624157/Donald-Trump-says-Iran-hit-hard-vows-expand-US-list-targets-mocks-country-Loser-Middle-East.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
       "news",
-      "irans",
-      "president",
-      "apologizes",
-      "for",
-      "strikes",
-      "neighbors",
-      "missiles",
-      "and",
-      "drones",
-      "still",
-      "pound",
-      "their",
-      "cities",
       "article",
-      "bf5b8ed6",
-      "2108",
-      "427f",
-      "adb8",
-      "daca54cc0e31.html"
+      "15624157",
+      "donald",
+      "trump",
+      "says",
+      "iran",
+      "hit",
+      "hard",
+      "vows",
+      "expand",
+      "list",
+      "targets",
+      "mocks",
+      "country",
+      "loser",
+      "middle",
+      "east.html"
     ]
   },
-  "NGA": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/03/07/nigerian-army-kills-45-militants-in-clashes-in-northwest-state-of-katsina",
+  "IRN": {
+    "risk_score": 14.05,
+    "count": 17,
+    "top_news": "https://www.theguardian.com/world/2026/mar/07/iran-us-israel-war-regime-change",
     "event_codes": {
-      "19": 7
+      "19": 10,
+      "14": 2,
+      "16": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
       "world",
       "2026",
-      "nigerian",
-      "army",
-      "kills",
-      "militants",
-      "clashes",
-      "northwest",
-      "state",
-      "katsina"
+      "mar",
+      "iran",
+      "israel",
+      "war",
+      "regime",
+      "change"
     ]
   },
-  "QAT": {
+  "ISR": {
+    "risk_score": 16.78,
+    "count": 19,
+    "top_news": "https://www.israelnationalnews.com/flashes/678445",
+    "event_codes": {
+      "19": 9,
+      "17": 5,
+      "18": 3,
+      "14": 1,
+      "15": 1
+    },
+    "keywords": [
+      "flashes",
+      "678445"
+    ]
+  },
+  "JOR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.lemonde.fr/en/international/article/2026/03/07/dubai-s-main-airport-briefly-closed-as-iran-launches-missiles-across-the-gulf_6751196_4.html",
+    "top_news": "https://www.cp24.com/news/world/2026/03/07/qatar-bahrain-and-uae-intercept-missiles-and-drones-from-iran-live-updates-here/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "international",
-      "article",
+      "news",
+      "world",
       "2026",
-      "dubai",
-      "main",
-      "airport",
-      "briefly",
-      "closed",
-      "iran",
-      "launches",
+      "qatar",
+      "bahrain",
+      "and",
+      "uae",
+      "intercept",
       "missiles",
-      "across",
-      "the",
-      "gulf",
-      "6751196",
-      "4.html"
+      "and",
+      "drones",
+      "from",
+      "iran",
+      "live",
+      "updates",
+      "here"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nbcmontana.com/news/nation-world/trump-to-attend-dignified-transfer-for-6-soldiers-killed-in-middle-east-drone-strike-department-of-war-pete-hegseth-conflict-iran-israel-united-states-dover-air-force-base",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "world",
+      "trump",
+      "attend",
+      "dignified",
+      "transfer",
+      "for",
+      "soldiers",
+      "killed",
+      "middle",
+      "east",
+      "drone",
+      "strike",
+      "department",
+      "war",
+      "pete",
+      "hegseth",
+      "conflict",
+      "iran",
+      "israel",
+      "united",
+      "states",
+      "dover",
+      "air",
+      "force",
+      "base"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.theglobeandmail.com/world/article-israel-lebanon-middle-east-war/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "article",
+      "israel",
+      "lebanon",
+      "middle",
+      "east",
+      "war"
     ]
   }
 }
