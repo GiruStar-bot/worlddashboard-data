@@ -1,106 +1,100 @@
 {
-  "ARE": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.omakchronicle.com/news/national/netanyahu-vows-to-carry-on-war-eradicate-iranian-regime/article_6f0542bd-c58e-5c3c-a388-bbb919031b9b.html",
+  "AGO": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/",
     "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "netanyahu",
-      "vows",
-      "carry",
-      "war",
-      "eradicate",
-      "iranian",
-      "regime",
-      "article",
-      "6f0542bd",
-      "c58e",
-      "5c3c",
-      "a388",
-      "bbb919031b9b.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 18.55,
-    "count": 21,
-    "top_news": "https://www.independentsentinel.com/iran-is-bombing-their-neighbors-today-the-irgc-runs-the-country/",
-    "event_codes": {
-      "19": 15,
-      "14": 3,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "iran",
-      "bombing",
-      "their",
-      "neighbors",
-      "today",
-      "the",
-      "irgc",
-      "runs",
-      "the",
-      "country"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://www.newsweek.com/oil-refinery-struck-in-tehran-what-to-know-11640011",
-    "event_codes": {
-      "19": 3,
-      "14": 1,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "oil",
-      "refinery",
-      "struck",
-      "tehran",
-      "what",
-      "know",
-      "11640011"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/exclusive-saudi-told-iran-not-205559698.html",
-    "event_codes": {
-      "16": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "exclusive",
-      "saudi",
-      "told",
-      "iran",
-      "not",
-      "205559698.html"
+      "science",
+      "2026",
+      "hunting",
+      "for",
+      "elusive",
+      "ghost",
+      "elephants"
     ]
   },
-  "YEM": {
+  "IRN": {
+    "risk_score": 16.25,
+    "count": 17,
+    "top_news": "https://www.express.co.uk/news/us/2179585/trump-ashen-faced-dead-soldiers",
+    "event_codes": {
+      "19": 14,
+      "14": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2179585",
+      "trump",
+      "ashen",
+      "faced",
+      "dead",
+      "soldiers"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.75,
+    "count": 17,
+    "top_news": "https://english.news.cn/20260308/6fb7a3ddeab843f7a62f8ae5377f3954/c.html",
+    "event_codes": {
+      "19": 11,
+      "18": 4,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "20260308",
+      "6fb7a3ddeab843f7a62f8ae5377f3954",
+      "c.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.lemonde.fr/en/economy/article/2026/03/07/as-gas-prices-soar-europe-faces-threat-of-an-energy-shock_6751199_19.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "economy",
+      "article",
+      "2026",
+      "gas",
+      "prices",
+      "soar",
+      "europe",
+      "faces",
+      "threat",
+      "energy",
+      "shock",
+      "6751199",
+      "19.html"
+    ]
+  },
+  "TUR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-889167",
+    "top_news": "https://www.aa.com.tr/en/middle-east/debris-from-missile-interception-hits-tower-in-dubai-marina-officials-say/3854344",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "middle",
       "east",
-      "iran",
-      "news",
-      "article",
-      "889167"
+      "debris",
+      "from",
+      "missile",
+      "interception",
+      "hits",
+      "tower",
+      "dubai",
+      "marina",
+      "officials",
+      "say",
+      "3854344"
     ]
   }
 }
