@@ -1,48 +1,168 @@
 {
-  "IRN": {
-    "risk_score": 9.56,
-    "count": 12,
-    "top_news": "https://www.ocregister.com/2026/03/07/susan-shelley-trump-isnt-starting-a-war-with-iran-hes-ending-one/",
+  "BHR": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://viconsortium.com/vi-world/virgin-islands-iran-signals-halt-to-gulf-strikes-while-rejecting-trump-s-surrender-demand-as-war-intensifies--drone-hits-dubai-airport--trump-floats-cuba-takeover",
     "event_codes": {
-      "19": 5,
-      "16": 4,
-      "15": 3
+      "19": 9
+    },
+    "keywords": [
+      "world",
+      "virgin",
+      "islands",
+      "iran",
+      "signals",
+      "halt",
+      "gulf",
+      "strikes",
+      "while",
+      "rejecting",
+      "trump",
+      "surrender",
+      "demand",
+      "war",
+      "intensifies",
+      "drone",
+      "hits",
+      "dubai",
+      "airport",
+      "trump",
+      "floats",
+      "cuba",
+      "takeover"
+    ]
+  },
+  "IRN": {
+    "risk_score": 23.45,
+    "count": 24,
+    "top_news": "https://alaska-native-news.com/call-grows-to-impeach-trump-the-most-dangerous-man-on-the-planet/83019/",
+    "event_codes": {
+      "19": 21,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "call",
+      "grows",
+      "impeach",
+      "trump",
+      "the",
+      "most",
+      "dangerous",
+      "man",
+      "the",
+      "planet",
+      "83019"
+    ]
+  },
+  "ISR": {
+    "risk_score": 22.75,
+    "count": 28,
+    "top_news": "https://nypost.com/2026/03/07/world-news/irans-mehrabad-airport-set-on-fire-by-idf/",
+    "event_codes": {
+      "19": 15,
+      "17": 11,
+      "18": 2
     },
     "keywords": [
       "2026",
-      "susan",
-      "shelley",
-      "trump",
-      "isnt",
-      "starting",
-      "war",
-      "with",
-      "iran",
-      "hes",
-      "ending",
-      "one"
+      "world",
+      "news",
+      "irans",
+      "mehrabad",
+      "airport",
+      "set",
+      "fire",
+      "idf"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ocregister.com/2026/03/07/susan-shelley-trump-isnt-starting-a-war-with-iran-hes-ending-one/",
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://theindianawaaz.com/west-asia-conflict-enters-eighth-day-as-us-israel-and-iran-launch-fresh-airstrikes/",
     "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "west",
+      "asia",
+      "conflict",
+      "enters",
+      "eighth",
+      "day",
+      "israel",
+      "and",
+      "iran",
+      "launch",
+      "fresh",
+      "airstrikes"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.journalismpakistan.com/indian-reporter-says-israel-restricts-media-amid-wartime-reporting",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "indian",
+      "reporter",
+      "says",
+      "israel",
+      "restricts",
+      "media",
+      "amid",
+      "wartime",
+      "reporting"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/kurds-won-t-solve-iran-154936557.html",
+    "event_codes": {
+      "17": 4,
       "19": 2
     },
     "keywords": [
-      "2026",
-      "susan",
-      "shelley",
-      "trump",
-      "isnt",
-      "starting",
-      "war",
-      "with",
+      "news",
+      "articles",
+      "kurds",
+      "won",
+      "solve",
       "iran",
-      "hes",
-      "ending",
-      "one"
+      "154936557.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 11.12,
+    "count": 12,
+    "top_news": "https://www.military.com/daily-news/investigations-and-features/2026/03/06/twelve-vietnam-vets-return-battlefields-they-left-behind-50-years-ago.html",
+    "event_codes": {
+      "19": 10,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "daily",
+      "news",
+      "investigations",
+      "and",
+      "features",
+      "2026",
+      "twelve",
+      "vietnam",
+      "vets",
+      "return",
+      "battlefields",
+      "they",
+      "left",
+      "behind",
+      "years",
+      "ago.html"
     ]
   }
 }
