@@ -2,108 +2,130 @@
   "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260308073058.lkrgtucs.html",
+    "top_news": "https://www.philstar.com/business/2026/03/08/2512884/march-8-pal-cebu-pacific-cancel-flights-amid-middle-east-tensions",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "afp",
-      "260308073058.lkrgtucs.html"
+      "business",
+      "2026",
+      "2512884",
+      "march",
+      "pal",
+      "cebu",
+      "pacific",
+      "cancel",
+      "flights",
+      "amid",
+      "middle",
+      "east",
+      "tensions"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/20260308/e05bb51a4cd94391950d2960b9f82301/c.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "20260308",
+      "e05bb51a4cd94391950d2960b9f82301",
+      "c.html"
     ]
   },
   "IRN": {
-    "risk_score": 16.81,
-    "count": 19,
-    "top_news": "https://www.thejournal.ie/iran-war-us-israel-lebanon-6978563-Mar2026/",
+    "risk_score": 10.65,
+    "count": 13,
+    "top_news": "https://english.news.cn/20260308/83f627fd7e5342babcbbc0a0b0265cb7/c.html",
     "event_codes": {
-      "19": 13,
-      "15": 3,
-      "17": 2,
-      "14": 1
+      "19": 8,
+      "17": 4,
+      "16": 1
     },
     "keywords": [
-      "iran",
-      "war",
-      "israel",
-      "lebanon",
-      "6978563",
-      "mar2026"
+      "20260308",
+      "83f627fd7e5342babcbbc0a0b0265cb7",
+      "c.html"
     ]
   },
-  "ISR": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://news.az/news/iran-launched-operation-madman",
-    "event_codes": {
-      "19": 12
-    },
-    "keywords": [
-      "news",
-      "iran",
-      "launched",
-      "operation",
-      "madman"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.95,
-    "count": 10,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/862311-ghana-calls-for-un-probe-after-missiles-hit-peacekeeping-battalion-in-lebanon.html",
-    "event_codes": {
-      "19": 9,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "top",
-      "news",
-      "862311",
-      "ghana",
-      "calls",
-      "for",
-      "probe",
-      "after",
-      "missiles",
-      "hit",
-      "peacekeeping",
-      "battalion",
-      "lebanon.html"
-    ]
-  },
-  "QAT": {
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.spacewar.com/afp/260308073058.lkrgtucs.html",
+    "top_news": "https://www.businessinsider.com/decadeslong-wars-hold-key-lessons-for-us-military-in-iran-2026-3",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "afp",
-      "260308073058.lkrgtucs.html"
+      "decadeslong",
+      "wars",
+      "hold",
+      "key",
+      "lessons",
+      "for",
+      "military",
+      "iran",
+      "2026"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260308073058.lkrgtucs.html",
+  "ISR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4369773",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "17": 1
     },
     "keywords": [
-      "afp",
-      "260308073058.lkrgtucs.html"
+      "tag",
+      "index"
     ]
   },
-  "SDN": {
+  "LBY": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.spacewar.com/afp/260308080335.bfrlrf1y.html",
+    "top_news": "https://www.businessinsider.com/decadeslong-wars-hold-key-lessons-for-us-military-in-iran-2026-3",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "afp",
-      "260308080335.bfrlrf1y.html"
+      "decadeslong",
+      "wars",
+      "hold",
+      "key",
+      "lessons",
+      "for",
+      "military",
+      "iran",
+      "2026"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.4,
+    "count": 13,
+    "top_news": "https://www.nationalaccordnewspaper.com/nigerian-army-debunks-report-of-40-soldiers-killed-in-borno-attacks-details-troops-heroic-fight-against-boko-haram/",
+    "event_codes": {
+      "17": 9,
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "nigerian",
+      "army",
+      "debunks",
+      "report",
+      "soldiers",
+      "killed",
+      "borno",
+      "attacks",
+      "details",
+      "troops",
+      "heroic",
+      "fight",
+      "against",
+      "boko",
+      "haram"
     ]
   }
 }
