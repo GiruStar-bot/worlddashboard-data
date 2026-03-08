@@ -1,131 +1,210 @@
 {
   "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.philstar.com/business/2026/03/08/2512884/march-8-pal-cebu-pacific-cancel-flights-amid-middle-east-tensions",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dailythepatriot.com/pakistani-driver-killed-after-interception-debris-hits-vehicle-in-dubai/",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "business",
-      "2026",
-      "2512884",
-      "march",
-      "pal",
-      "cebu",
-      "pacific",
-      "cancel",
-      "flights",
-      "amid",
-      "middle",
-      "east",
-      "tensions"
+      "pakistani",
+      "driver",
+      "killed",
+      "after",
+      "interception",
+      "debris",
+      "hits",
+      "vehicle",
+      "dubai"
     ]
   },
   "BHR": {
+    "risk_score": 2.75,
+    "count": 4,
+    "top_news": "https://www.ibtimes.co.in/israeli-drone-strikes-ramada-hotel-beirut-iranian-attacks-hit-kuwait-899025",
+    "event_codes": {
+      "16": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "israeli",
+      "drone",
+      "strikes",
+      "ramada",
+      "hotel",
+      "beirut",
+      "iranian",
+      "attacks",
+      "hit",
+      "kuwait",
+      "899025"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.9,
+    "count": 15,
+    "top_news": "https://www.newsweek.com/iran-war-live-trump-says-he-couldnt-care-less-about-threats-11640966",
+    "event_codes": {
+      "19": 8,
+      "18": 4,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "live",
+      "trump",
+      "says",
+      "couldnt",
+      "care",
+      "less",
+      "about",
+      "threats",
+      "11640966"
+    ]
+  },
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.news.cn/20260308/e05bb51a4cd94391950d2960b9f82301/c.html",
+    "top_news": "https://theaviationist.com/2026/03/08/iranian-f-14-fleet-update/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "20260308",
-      "e05bb51a4cd94391950d2960b9f82301",
-      "c.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 10.65,
-    "count": 13,
-    "top_news": "https://english.news.cn/20260308/83f627fd7e5342babcbbc0a0b0265cb7/c.html",
-    "event_codes": {
-      "19": 8,
-      "17": 4,
-      "16": 1
-    },
-    "keywords": [
-      "20260308",
-      "83f627fd7e5342babcbbc0a0b0265cb7",
-      "c.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.businessinsider.com/decadeslong-wars-hold-key-lessons-for-us-military-in-iran-2026-3",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "decadeslong",
-      "wars",
-      "hold",
-      "key",
-      "lessons",
-      "for",
-      "military",
-      "iran",
-      "2026"
+      "2026",
+      "iranian",
+      "fleet",
+      "update"
     ]
   },
   "ISR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4369773",
+    "risk_score": 16.54,
+    "count": 18,
+    "top_news": "https://www.newsweek.com/iran-war-live-trump-says-he-couldnt-care-less-about-threats-11640966",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "19": 12,
+      "16": 2,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "tag",
-      "index"
+      "iran",
+      "war",
+      "live",
+      "trump",
+      "says",
+      "couldnt",
+      "care",
+      "less",
+      "about",
+      "threats",
+      "11640966"
     ]
   },
-  "LBY": {
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theindianawaaz.com/irans-president-pezeshkian-says-neighbouring-countries-will-no-longer-be-targeted-unless-provoked/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "irans",
+      "president",
+      "pezeshkian",
+      "says",
+      "neighbouring",
+      "countries",
+      "will",
+      "longer",
+      "targeted",
+      "unless",
+      "provoked"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.maltatoday.com.mt/news/national/140201/authorities_evacuate_26_maltese_nationals_from_qatar_to_berlin",
+    "event_codes": {
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "140201",
+      "authorities",
+      "evacuate",
+      "maltese",
+      "nationals",
+      "from",
+      "qatar",
+      "berlin"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://theindianawaaz.com/irans-president-pezeshkian-says-neighbouring-countries-will-no-longer-be-targeted-unless-provoked/",
+    "event_codes": {
+      "19": 6,
+      "18": 2
+    },
+    "keywords": [
+      "irans",
+      "president",
+      "pezeshkian",
+      "says",
+      "neighbouring",
+      "countries",
+      "will",
+      "longer",
+      "targeted",
+      "unless",
+      "provoked"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ibtimes.co.in/israeli-drone-strikes-ramada-hotel-beirut-iranian-attacks-hit-kuwait-899025",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israeli",
+      "drone",
+      "strikes",
+      "ramada",
+      "hotel",
+      "beirut",
+      "iranian",
+      "attacks",
+      "hit",
+      "kuwait",
+      "899025"
+    ]
+  },
+  "SAU": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.businessinsider.com/decadeslong-wars-hold-key-lessons-for-us-military-in-iran-2026-3",
+    "top_news": "https://timesofmalta.com/article/us-israel-hit-five-oil-sites-near-tehran.1125154",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "decadeslong",
-      "wars",
-      "hold",
-      "key",
-      "lessons",
-      "for",
-      "military",
-      "iran",
-      "2026"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.4,
-    "count": 13,
-    "top_news": "https://www.nationalaccordnewspaper.com/nigerian-army-debunks-report-of-40-soldiers-killed-in-borno-attacks-details-troops-heroic-fight-against-boko-haram/",
-    "event_codes": {
-      "17": 9,
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "nigerian",
-      "army",
-      "debunks",
-      "report",
-      "soldiers",
-      "killed",
-      "borno",
-      "attacks",
-      "details",
-      "troops",
-      "heroic",
-      "fight",
-      "against",
-      "boko",
-      "haram"
+      "article",
+      "israel",
+      "hit",
+      "five",
+      "oil",
+      "sites",
+      "near",
+      "tehran.1125154"
     ]
   }
 }
