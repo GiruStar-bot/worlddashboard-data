@@ -1,138 +1,245 @@
 {
   "ARE": {
-    "risk_score": 5.95,
-    "count": 7,
-    "top_news": "https://www.wsls.com/news/world/2026/03/08/the-latest-israel-hits-lebanon-and-tehran-oil-depot-as-desalination-plants-become-targets/",
-    "event_codes": {
-      "19": 4,
-      "14": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "the",
-      "latest",
-      "israel",
-      "hits",
-      "lebanon",
-      "and",
-      "tehran",
-      "oil",
-      "depot",
-      "desalination",
-      "plants",
-      "become",
-      "targets"
-    ]
-  },
-  "IRN": {
-    "risk_score": 32.3,
-    "count": 34,
-    "top_news": "https://www.dailymail.co.uk/news/article-15625813/Hell-Earth-Red-Crescent-warns-Tehran-submerged-toxic-rain-cause-chemical-burns-skin-damage-lungs-Israel-strikes-oil-facilities.html",
-    "event_codes": {
-      "19": 26,
-      "14": 4,
-      "18": 4
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15625813",
-      "hell",
-      "earth",
-      "red",
-      "crescent",
-      "warns",
-      "tehran",
-      "submerged",
-      "toxic",
-      "rain",
-      "cause",
-      "chemical",
-      "burns",
-      "skin",
-      "damage",
-      "lungs",
-      "israel",
-      "strikes",
-      "oil",
-      "facilities.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 29.29,
-    "count": 31,
-    "top_news": "https://www.kiwiblog.co.nz/2026/03/i_have_reservations_about_war_with_iran_too_but_joe_carolan_and_his_ilk_are_hypocrites_of_the_highest_order.html",
-    "event_codes": {
-      "19": 24,
-      "14": 3,
-      "17": 3,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "have",
-      "reservations",
-      "about",
-      "war",
-      "with",
-      "iran",
-      "too",
-      "but",
-      "joe",
-      "carolan",
-      "and",
-      "his",
-      "ilk",
-      "are",
-      "hypocrites",
-      "the",
-      "highest",
-      "order.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.9,
+    "risk_score": 5.5,
     "count": 6,
-    "top_news": "https://www.insidenova.com/news/national/tehran-fuel-dumps-burn-as-iran-warns-it-can-fight-for-months/article_4ac1456a-605f-5d1b-8d3a-e56350f39f9b.html",
+    "top_news": "https://dominicanrepublicpost.com/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack/",
     "event_codes": {
       "19": 5,
-      "18": 1
+      "17": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "tehran",
-      "fuel",
-      "dumps",
-      "burn",
-      "iran",
-      "warns",
-      "can",
-      "fight",
-      "for",
-      "months",
-      "article",
-      "4ac1456a",
-      "605f",
-      "5d1b",
-      "8d3a",
-      "e56350f39f9b.html"
+      "bahrain",
+      "says",
+      "water",
+      "desalination",
+      "plant",
+      "damaged",
+      "iranian",
+      "drone",
+      "attack"
     ]
   },
-  "PSE": {
+  "BHR": {
+    "risk_score": 2.87,
+    "count": 3,
+    "top_news": "https://www.theglobeandmail.com/business/article-iran-us-israel-war-bahrain-desalination-plant-conflict/",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "business",
+      "article",
+      "iran",
+      "israel",
+      "war",
+      "bahrain",
+      "desalination",
+      "plant",
+      "conflict"
+    ]
+  },
+  "BRA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.jpost.com/israel-news/article-889209",
+    "top_news": "https://www.tvguide.co.uk/schedule/bcd6f988-0fca-5de2-ba82-e71403c6ffe6/planet-earth-ii",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "israel",
+      "schedule",
+      "bcd6f988",
+      "0fca",
+      "5de2",
+      "ba82",
+      "e71403c6ffe6",
+      "planet",
+      "earth"
+    ]
+  },
+  "ECU": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.newstribune.com/news/2026/mar/08/us-ecuador-bomb-drug-trafficker-camp-near/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
       "news",
+      "2026",
+      "mar",
+      "ecuador",
+      "bomb",
+      "drug",
+      "trafficker",
+      "camp",
+      "near"
+    ]
+  },
+  "IRN": {
+    "risk_score": 44.97,
+    "count": 48,
+    "top_news": "https://www.theglobeandmail.com/business/article-iran-us-israel-war-bahrain-desalination-plant-conflict/",
+    "event_codes": {
+      "19": 35,
+      "18": 7,
+      "16": 3,
+      "17": 3
+    },
+    "keywords": [
+      "business",
       "article",
-      "889209"
+      "iran",
+      "israel",
+      "war",
+      "bahrain",
+      "desalination",
+      "plant",
+      "conflict"
+    ]
+  },
+  "ISR": {
+    "risk_score": 23.5,
+    "count": 24,
+    "top_news": "https://www.theglobeandmail.com/business/article-iran-us-israel-war-bahrain-desalination-plant-conflict/",
+    "event_codes": {
+      "19": 19,
+      "18": 5
+    },
+    "keywords": [
+      "business",
+      "article",
+      "iran",
+      "israel",
+      "war",
+      "bahrain",
+      "desalination",
+      "plant",
+      "conflict"
+    ]
+  },
+  "LBN": {
+    "risk_score": 15.8,
+    "count": 16,
+    "top_news": "http://www.china.org.cn/2026-03/07/content_118370311.shtml",
+    "event_codes": {
+      "19": 13,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "content",
+      "118370311.shtml"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.76,
+    "count": 10,
+    "top_news": "https://www.thecable.ng/newspaper-headlines-fg-plans-evacuation-of-1000-nigerians-in-iran/",
+    "event_codes": {
+      "17": 9,
+      "19": 1
+    },
+    "keywords": [
+      "newspaper",
+      "headlines",
+      "plans",
+      "evacuation",
+      "1000",
+      "nigerians",
+      "iran"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.news18.com/world/amid-war-in-iran-qatar-keeps-70-government-staff-on-wfh-30-return-to-office-ws-l-9948787.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "amid",
+      "war",
+      "iran",
+      "qatar",
+      "keeps",
+      "government",
+      "staff",
+      "wfh",
+      "return",
+      "office",
+      "9948787.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/bahrain-says-water-desalination-plant-damaged-in-iranian-drone-attack/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "bahrain",
+      "says",
+      "water",
+      "desalination",
+      "plant",
+      "damaged",
+      "iranian",
+      "drone",
+      "attack"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/news/israeli-settlers-kill-three-palestinians-attacks-surge-iran-war",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "settlers",
+      "kill",
+      "three",
+      "palestinians",
+      "attacks",
+      "surge",
+      "iran",
+      "war"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.moneycontrol.com/world/trump-must-pay-the-price-for-killing-khamenei-iran-s-top-official-warns-trump-shrugs-it-off-article-13854162.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "must",
+      "pay",
+      "the",
+      "price",
+      "for",
+      "killing",
+      "khamenei",
+      "iran",
+      "top",
+      "official",
+      "warns",
+      "trump",
+      "shrugs",
+      "off",
+      "article",
+      "13854162.html"
     ]
   }
 }
