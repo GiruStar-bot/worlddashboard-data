@@ -1,116 +1,147 @@
 {
-  "IRN": {
-    "risk_score": 8.05,
-    "count": 11,
-    "top_news": "https://eadaily.com/en/news/2026/03/08/corridors-end-in-a-wall-is-the-second-sarajevo-coming-and-what-does-donald-trump-have-to-do-with-it",
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jagranjosh.com/current-affairs/world-current-affairs-this-week-us-tariffs-indiacanada-deal-and-raisina-dialogue-1850000751-1",
     "event_codes": {
-      "14": 5,
-      "19": 4,
-      "16": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "corridors",
-      "end",
-      "wall",
-      "the",
-      "second",
-      "sarajevo",
-      "coming",
+      "current",
+      "affairs",
+      "world",
+      "current",
+      "affairs",
+      "this",
+      "week",
+      "tariffs",
+      "indiacanada",
+      "deal",
       "and",
-      "what",
-      "does",
-      "donald",
-      "trump",
-      "have",
-      "with"
+      "raisina",
+      "dialogue",
+      "1850000751"
+    ]
+  },
+  "IRN": {
+    "risk_score": 20.95,
+    "count": 22,
+    "top_news": "https://www.hellenicshippingnews.com/how-the-war-in-iran-is-impacting-em-sovereigns/",
+    "event_codes": {
+      "19": 18,
+      "18": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "how",
+      "the",
+      "war",
+      "iran",
+      "impacting",
+      "sovereigns"
     ]
   },
   "ISR": {
-    "risk_score": 16.75,
-    "count": 17,
-    "top_news": "https://www.omanobserver.om/article/1185746/world/region/beirut-death-toll-nears-400-of-israeli-strikes",
+    "risk_score": 21.06,
+    "count": 23,
+    "top_news": "https://au.news.yahoo.com/trump-rejects-settling-iran-war-023834223.html",
     "event_codes": {
-      "19": 14,
-      "18": 3
+      "19": 15,
+      "17": 6,
+      "18": 2
     },
     "keywords": [
-      "article",
-      "1185746",
-      "world",
-      "region",
-      "beirut",
-      "death",
-      "toll",
-      "nears",
-      "400",
-      "israeli",
-      "strikes"
+      "trump",
+      "rejects",
+      "settling",
+      "iran",
+      "war",
+      "023834223.html"
     ]
   },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.omanobserver.om/article/1185746/world/region/beirut-death-toll-nears-400-of-israeli-strikes",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.wafa.ps/Pages/Details/168117",
     "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
-      "article",
-      "1185746",
-      "world",
-      "region",
-      "beirut",
-      "death",
-      "toll",
-      "nears",
-      "400",
-      "israeli",
-      "strikes"
+      "pages",
+      "details",
+      "168117"
     ]
   },
-  "PSE": {
+  "KWT": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://abcnews4.com/news/local/charleston-councilman-ross-appel-reflects-on-israel-trip-urges-nuance-over-narratives",
+    "top_news": "https://www.cnbctv18.com/world/iran-israel-war-10-key-developments-from-day-9-as-strikes-continue-to-spread-across-west-asia-ws-l-19864328.htm",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "local",
-      "charleston",
-      "councilman",
-      "ross",
-      "appel",
-      "reflects",
+      "world",
+      "iran",
       "israel",
-      "trip",
-      "urges",
-      "nuance",
-      "over",
-      "narratives"
+      "war",
+      "key",
+      "developments",
+      "from",
+      "day",
+      "strikes",
+      "continue",
+      "spread",
+      "across",
+      "west",
+      "asia",
+      "19864328.htm"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.65,
+    "count": 8,
+    "top_news": "https://chimpreports.com/un-chief-condemns-missile-strikes-on-ghanaian-peacekeepers-in-lebanon/",
+    "event_codes": {
+      "19": 7,
+      "14": 1
+    },
+    "keywords": [
+      "chief",
+      "condemns",
+      "missile",
+      "strikes",
+      "ghanaian",
+      "peacekeepers",
+      "lebanon"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.indcatholicnews.com/news/54523",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "54523"
     ]
   },
   "SAU": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.omanobserver.om/article/1185747/world/region/kuwait-airport-bahrain-desalination-unit-struck",
+    "top_news": "https://au.news.yahoo.com/trump-rejects-settling-iran-war-023834223.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "article",
-      "1185747",
-      "world",
-      "region",
-      "kuwait",
-      "airport",
-      "bahrain",
-      "desalination",
-      "unit",
-      "struck"
+      "trump",
+      "rejects",
+      "settling",
+      "iran",
+      "war",
+      "023834223.html"
     ]
   }
 }
