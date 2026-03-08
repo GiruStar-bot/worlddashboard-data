@@ -1,92 +1,168 @@
 {
-  "IRN": {
-    "risk_score": 22.05,
-    "count": 27,
-    "top_news": "https://www.breitbart.com/politics/2026/03/08/report-trump-weighing-special-ops-raid-to-secure-irans-enriched-uranium-stockpile/",
+  "COL": {
+    "risk_score": 4.85,
+    "count": 6,
+    "top_news": "https://www.dw.com/en/colombias-congressional-election-gets-underway/a-76266658",
     "event_codes": {
-      "19": 17,
-      "17": 6,
-      "16": 3,
-      "18": 1
+      "14": 3,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "politics",
-      "2026",
+      "colombias",
+      "congressional",
+      "election",
+      "gets",
+      "underway",
+      "76266658"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.22,
+    "count": 13,
+    "top_news": "https://www.livemint.com/news/world/usisrael-iran-conflict-tehran-picks-new-supreme-leader-as-war-rages-on-report-says-name-not-revealed-yet-11772968419422.html",
+    "event_codes": {
+      "19": 11,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "usisrael",
+      "iran",
+      "conflict",
+      "tehran",
+      "picks",
+      "new",
+      "supreme",
+      "leader",
+      "war",
+      "rages",
       "report",
-      "trump",
-      "weighing",
-      "special",
-      "ops",
-      "raid",
-      "secure",
-      "irans",
-      "enriched",
-      "uranium",
-      "stockpile"
+      "says",
+      "name",
+      "not",
+      "revealed",
+      "yet",
+      "11772968419422.html"
     ]
   },
   "ISR": {
-    "risk_score": 11.42,
+    "risk_score": 11.9,
     "count": 12,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/03/08/3-palestinians-killed-in-west-bank-clash-bringing-toll-from-week-of-violence-to-6",
+    "top_news": "https://hotair.com/headlines/2026/03/08/the-iran-war-began-on-7-october-n3812632",
     "event_codes": {
-      "19": 9,
-      "14": 1,
-      "17": 1,
+      "19": 11,
       "18": 1
     },
     "keywords": [
-      "world",
+      "headlines",
       "2026",
-      "palestinians",
+      "the",
+      "iran",
+      "war",
+      "began",
+      "october",
+      "n3812632"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.boston.com/news/national-news/2026/03/07/trump-will-join-grieving-families-for-the-return-of-soldiers-killed-in-iran-war/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "national",
+      "news",
+      "2026",
+      "trump",
+      "will",
+      "join",
+      "grieving",
+      "families",
+      "for",
+      "the",
+      "return",
+      "soldiers",
       "killed",
-      "west",
-      "bank",
-      "clash",
-      "bringing",
-      "toll",
-      "from",
-      "week",
-      "violence"
+      "iran",
+      "war"
     ]
   },
   "LBN": {
-    "risk_score": 7.3,
-    "count": 9,
-    "top_news": "https://www.breitbart.com/politics/2026/03/07/the-atlantics-brooks-im-bugged-by-those-who-think-they-know-future-on-iran-we-dont/",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://krdo.com/news/2026/03/08/what-we-know-on-the-ninth-day-of-the-us-and-israels-war-with-iran/",
     "event_codes": {
-      "19": 6,
-      "17": 2,
-      "16": 1
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "politics",
+      "news",
       "2026",
-      "the",
-      "atlantics",
-      "brooks",
-      "bugged",
-      "those",
-      "who",
-      "think",
-      "they",
+      "what",
       "know",
-      "future",
-      "iran",
-      "dont"
+      "the",
+      "ninth",
+      "day",
+      "the",
+      "and",
+      "israels",
+      "war",
+      "with",
+      "iran"
     ]
   },
-  "SDN": {
+  "VNM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.news.cn/20260308/4d1733e5eca1449cbc95e269a930b366/c.html",
+    "top_news": "https://hotair.com/betsy-mccaughey/2026/03/08/democrats-lie-and-slander-us-to-stop-commander-in-chief-n3812612",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "20260308",
-      "4d1733e5eca1449cbc95e269a930b366",
-      "c.html"
+      "betsy",
+      "mccaughey",
+      "2026",
+      "democrats",
+      "lie",
+      "and",
+      "slander",
+      "stop",
+      "commander",
+      "chief",
+      "n3812612"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.boston.com/news/national-news/2026/03/07/trump-will-join-grieving-families-for-the-return-of-soldiers-killed-in-iran-war/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "news",
+      "2026",
+      "trump",
+      "will",
+      "join",
+      "grieving",
+      "families",
+      "for",
+      "the",
+      "return",
+      "soldiers",
+      "killed",
+      "iran",
+      "war"
     ]
   }
 }
