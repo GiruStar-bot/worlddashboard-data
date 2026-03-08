@@ -1,48 +1,198 @@
 {
-  "IRN": {
-    "risk_score": 13.82,
-    "count": 15,
-    "top_news": "https://www.stcatharinesstandard.ca/thestar/business/the-latest-iran-accused-of-attacks-in-uae-and-bahrain-smoke-blankets-tehran-from-israeli/article_54115241-9c5b-50fb-8c45-da5533d8992a.html",
+  "BHR": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.wdbo.com/news/world/latest-israeli/NOSXCLV6G42P3BNZ4ZNZZBRBSY/",
     "event_codes": {
-      "19": 12,
-      "14": 1,
-      "15": 1,
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "latest",
+      "israeli",
+      "nosxclv6g42p3bnz4znzzbrbsy"
+    ]
+  },
+  "IDN": {
+    "risk_score": 5.4,
+    "count": 9,
+    "top_news": "https://www.yahoo.com/news/articles/indonesian-president-us-ties-questioned-063303288.html",
+    "event_codes": {
+      "14": 6,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "indonesian",
+      "president",
+      "ties",
+      "questioned",
+      "063303288.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 33.15,
+    "count": 37,
+    "top_news": "https://www.freepressjournal.in/analysis/the-middle-east-conflict-the-great-power-games-and-their-unintended-consequences",
+    "event_codes": {
+      "19": 25,
+      "14": 5,
+      "18": 4,
+      "16": 2,
       "17": 1
     },
     "keywords": [
-      "thestar",
-      "business",
+      "analysis",
       "the",
-      "latest",
-      "iran",
-      "accused",
-      "attacks",
-      "uae",
+      "middle",
+      "east",
+      "conflict",
+      "the",
+      "great",
+      "power",
+      "games",
       "and",
-      "bahrain",
-      "smoke",
-      "blankets",
-      "tehran",
-      "from",
-      "israeli",
-      "article",
-      "54115241",
-      "9c5b",
-      "50fb",
-      "8c45",
-      "da5533d8992a.html"
+      "their",
+      "unintended",
+      "consequences"
     ]
   },
   "ISR": {
-    "risk_score": 3.95,
+    "risk_score": 22.45,
+    "count": 23,
+    "top_news": "https://honestreporting.com/%E2%96%B6-three-viral-claims-about-israels-bomb-shelters-fact-checked/",
+    "event_codes": {
+      "19": 20,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "%e2%96%b6",
+      "three",
+      "viral",
+      "claims",
+      "about",
+      "israels",
+      "bomb",
+      "shelters",
+      "fact",
+      "checked"
+    ]
+  },
+  "KWT": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.bworldonline.com/world/2026/03/08/734820/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "734820",
+      "trump",
+      "rejects",
+      "settling",
+      "iran",
+      "war",
+      "raises",
+      "prospect",
+      "killing",
+      "all",
+      "its",
+      "potential",
+      "leaders"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newsx.com/world/conflict-war-live-iran-israel-us-conflict-rages-across-middle-east-as-uae-reveals-astonishing-numbers-of-ballistic-missiles-and-drones-intercepted-check-details-here-dubai-blast-news-179466/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "conflict",
+      "war",
+      "live",
+      "iran",
+      "israel",
+      "conflict",
+      "rages",
+      "across",
+      "middle",
+      "east",
+      "uae",
+      "reveals",
+      "astonishing",
+      "numbers",
+      "ballistic",
+      "missiles",
+      "and",
+      "drones",
+      "intercepted",
+      "check",
+      "details",
+      "here",
+      "dubai",
+      "blast",
+      "news",
+      "179466"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.manilatimes.net/2026/03/09/regions/repatriated-palawan-fishermen-receive-aid/2295514",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "regions",
+      "repatriated",
+      "palawan",
+      "fishermen",
+      "receive",
+      "aid",
+      "2295514"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.9,
+    "count": 8,
+    "top_news": "https://punchng.com/police-arrest-nigerien-two-others-for-kidnapping-in-edo/",
+    "event_codes": {
+      "17": 6,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "police",
+      "arrest",
+      "nigerien",
+      "two",
+      "others",
+      "for",
+      "kidnapping",
+      "edo"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.stcatharinesstandard.ca/thestar/business/the-latest-iran-accused-of-attacks-in-uae-and-bahrain-smoke-blankets-tehran-from-israeli/article_54115241-9c5b-50fb-8c45-da5533d8992a.html",
+    "top_news": "https://www.reflector.com/news/national/the-latest-iran-accused-of-attacks-in-uae-and-bahrain-smoke-blankets-tehran-from-israeli/article_8637121b-070e-5620-acbf-122c08034f0d.html",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "thestar",
-      "business",
+      "news",
+      "national",
       "the",
       "latest",
       "iran",
@@ -57,27 +207,36 @@
       "from",
       "israeli",
       "article",
-      "54115241",
-      "9c5b",
-      "50fb",
-      "8c45",
-      "da5533d8992a.html"
+      "8637121b",
+      "070e",
+      "5620",
+      "acbf",
+      "122c08034f0d.html"
     ]
   },
-  "NGA": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.nigerianeye.com/2026/03/bandits-disguise-in-hijabs-attack.html",
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bworldonline.com/world/2026/03/08/734820/trump-rejects-settling-iran-war-raises-prospect-of-killing-all-its-potential-leaders/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 2
     },
     "keywords": [
+      "world",
       "2026",
-      "bandits",
-      "disguise",
-      "hijabs",
-      "attack.html"
+      "734820",
+      "trump",
+      "rejects",
+      "settling",
+      "iran",
+      "war",
+      "raises",
+      "prospect",
+      "killing",
+      "all",
+      "its",
+      "potential",
+      "leaders"
     ]
   }
 }
