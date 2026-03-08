@@ -1,117 +1,113 @@
 {
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.hellenicshippingnews.com/one-week-into-the-iran-war-a-maritime-intelligence-breakdown/",
+  "IRN": {
+    "risk_score": 22.9,
+    "count": 23,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/03/08/iran-tries-to-appear-calm-as-it-selects-new-supreme-leader-amid-us-israeli-bombardment/",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "one",
-      "week",
-      "into",
-      "the",
-      "iran",
-      "war",
-      "maritime",
-      "intelligence",
-      "breakdown"
-    ]
-  },
-  "BRA": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://variety.com/2026/tv/global/thailand-girl-from-nowhere-japanese-adaptation-1236681807/",
-    "event_codes": {
-      "17": 5,
+      "19": 22,
       "18": 1
     },
     "keywords": [
+      "world",
+      "middle",
+      "east",
       "2026",
-      "global",
-      "thailand",
-      "girl",
-      "from",
-      "nowhere",
-      "japanese",
-      "adaptation",
-      "1236681807"
+      "iran",
+      "tries",
+      "appear",
+      "calm",
+      "selects",
+      "new",
+      "supreme",
+      "leader",
+      "amid",
+      "israeli",
+      "bombardment"
     ]
   },
-  "IRN": {
-    "risk_score": 13.67,
-    "count": 14,
-    "top_news": "https://www.spacewar.com/afp/260308212658.nrbosa75.html",
+  "IRQ": {
+    "risk_score": 5.84,
+    "count": 6,
+    "top_news": "https://english.news.cn/20260309/1b55170bb73547f0904a7c55078932b0/c.html",
     "event_codes": {
-      "19": 13,
-      "15": 1
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "afp",
-      "260308212658.nrbosa75.html"
+      "20260309",
+      "1b55170bb73547f0904a7c55078932b0",
+      "c.html"
     ]
   },
   "ISR": {
-    "risk_score": 12.1,
-    "count": 13,
-    "top_news": "https://www.spacewar.com/afp/260308212658.nrbosa75.html",
+    "risk_score": 16.94,
+    "count": 18,
+    "top_news": "https://www.israelnationalnews.com/news/423597",
     "event_codes": {
-      "19": 8,
-      "18": 3,
-      "14": 2
+      "19": 10,
+      "18": 4,
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "afp",
-      "260308212658.nrbosa75.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.nzherald.co.nz/world/in-wars-first-week-a-punishing-military-campaign-with-no-coherent-endgame/premium/GOSHIXYTABG63AE7BTPVY4H7KA/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "world",
-      "wars",
-      "first",
-      "week",
-      "punishing",
-      "military",
-      "campaign",
-      "with",
-      "coherent",
-      "endgame",
-      "premium",
-      "goshixytabg63ae7btpvy4h7ka"
+      "news",
+      "423597"
     ]
   },
   "LBN": {
-    "risk_score": 7.9,
-    "count": 9,
-    "top_news": "https://english.news.cn/20260309/b829728e196c4442b45d59723f50af62/c.html",
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://english.news.cn/20260309/c2a8ea4d2d9c4801a83a16c6b9cf6aa7/c.html",
     "event_codes": {
       "19": 6,
-      "17": 2,
       "18": 1
     },
     "keywords": [
       "20260309",
-      "b829728e196c4442b45d59723f50af62",
+      "c2a8ea4d2d9c4801a83a16c6b9cf6aa7",
       "c.html"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260308210756.dohayeam.html",
+  "NGA": {
+    "risk_score": 3.55,
+    "count": 5,
+    "top_news": "https://saharareporters.com/2026/03/08/tinubu-presidency-rewarding-ex-minister-oduahs-apc-defection-n154billion-settlement-deal",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "afp",
-      "260308210756.dohayeam.html"
+      "2026",
+      "tinubu",
+      "presidency",
+      "rewarding",
+      "minister",
+      "oduahs",
+      "apc",
+      "defection",
+      "n154billion",
+      "settlement",
+      "deal"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.naharnet.com/stories/en/318817-iran-names-khamenei-s-son-as-new-supreme-leader",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "stories",
+      "318817",
+      "iran",
+      "names",
+      "khamenei",
+      "son",
+      "new",
+      "supreme",
+      "leader"
     ]
   }
 }
