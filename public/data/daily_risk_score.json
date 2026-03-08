@@ -1,79 +1,138 @@
 {
-  "IRN": {
-    "risk_score": 8.75,
-    "count": 10,
-    "top_news": "https://www.news18.com/world/irans-president-says-his-remarks-misinterpreted-by-enemy-amid-stir-over-his-apology-ws-l-9948840.html",
+  "ARE": {
+    "risk_score": 5.95,
+    "count": 7,
+    "top_news": "https://www.wsls.com/news/world/2026/03/08/the-latest-israel-hits-lebanon-and-tehran-oil-depot-as-desalination-plants-become-targets/",
     "event_codes": {
-      "19": 6,
-      "14": 3,
-      "16": 1
+      "19": 4,
+      "14": 3
     },
     "keywords": [
+      "news",
       "world",
-      "irans",
-      "president",
-      "says",
-      "his",
-      "remarks",
-      "misinterpreted",
-      "enemy",
-      "amid",
-      "stir",
-      "over",
-      "his",
-      "apology",
-      "9948840.html"
+      "2026",
+      "the",
+      "latest",
+      "israel",
+      "hits",
+      "lebanon",
+      "and",
+      "tehran",
+      "oil",
+      "depot",
+      "desalination",
+      "plants",
+      "become",
+      "targets"
+    ]
+  },
+  "IRN": {
+    "risk_score": 32.3,
+    "count": 34,
+    "top_news": "https://www.dailymail.co.uk/news/article-15625813/Hell-Earth-Red-Crescent-warns-Tehran-submerged-toxic-rain-cause-chemical-burns-skin-damage-lungs-Israel-strikes-oil-facilities.html",
+    "event_codes": {
+      "19": 26,
+      "14": 4,
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15625813",
+      "hell",
+      "earth",
+      "red",
+      "crescent",
+      "warns",
+      "tehran",
+      "submerged",
+      "toxic",
+      "rain",
+      "cause",
+      "chemical",
+      "burns",
+      "skin",
+      "damage",
+      "lungs",
+      "israel",
+      "strikes",
+      "oil",
+      "facilities.html"
     ]
   },
   "ISR": {
-    "risk_score": 9.35,
-    "count": 10,
-    "top_news": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-08-26?post-id=cmmhgjel100033b6steb6a0fg",
+    "risk_score": 29.29,
+    "count": 31,
+    "top_news": "https://www.kiwiblog.co.nz/2026/03/i_have_reservations_about_war_with_iran_too_but_joe_carolan_and_his_ilk_are_hypocrites_of_the_highest_order.html",
     "event_codes": {
-      "19": 8,
-      "16": 1,
+      "19": 24,
+      "14": 3,
+      "17": 3,
       "18": 1
     },
     "keywords": [
-      "world",
-      "live",
-      "news",
-      "iran",
-      "war",
-      "israel",
-      "trump"
-    ]
-  },
-  "QAT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://article.wn.com/view/2026/03/08/Qatar_extends_remote_work_for_majority_of_government_staff/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "view",
       "2026",
-      "qatar",
-      "extends",
-      "remote",
-      "work",
-      "for",
-      "majority",
-      "government",
-      "staff"
+      "have",
+      "reservations",
+      "about",
+      "war",
+      "with",
+      "iran",
+      "too",
+      "but",
+      "joe",
+      "carolan",
+      "and",
+      "his",
+      "ilk",
+      "are",
+      "hypocrites",
+      "the",
+      "highest",
+      "order.html"
     ]
   },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://sana.sy/en/international/2301135/",
+  "LBN": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.insidenova.com/news/national/tehran-fuel-dumps-burn-as-iran-warns-it-can-fight-for-months/article_4ac1456a-605f-5d1b-8d3a-e56350f39f9b.html",
     "event_codes": {
-      "19": 4
+      "19": 5,
+      "18": 1
     },
     "keywords": [
-      "international",
-      "2301135"
+      "news",
+      "national",
+      "tehran",
+      "fuel",
+      "dumps",
+      "burn",
+      "iran",
+      "warns",
+      "can",
+      "fight",
+      "for",
+      "months",
+      "article",
+      "4ac1456a",
+      "605f",
+      "5d1b",
+      "8d3a",
+      "e56350f39f9b.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/israel-news/article-889209",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "889209"
     ]
   }
 }
