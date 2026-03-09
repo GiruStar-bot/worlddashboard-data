@@ -1,67 +1,112 @@
 {
-  "IRN": {
-    "risk_score": 9.75,
-    "count": 11,
-    "top_news": "https://english.aawsat.com/arab-world/5249059-us-only-guarantees-security-beirut-airport-road-leading-it",
+  "BHR": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260309043448.amm7kc7r.html",
     "event_codes": {
-      "19": 6,
-      "18": 3,
-      "14": 1,
-      "16": 1
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5249059",
-      "only",
-      "guarantees",
-      "security",
-      "beirut",
-      "airport",
-      "road",
-      "leading"
+      "afp",
+      "260309043448.amm7kc7r.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.52,
+    "count": 18,
+    "top_news": "https://www.spacewar.com/afp/260309043448.amm7kc7r.html",
+    "event_codes": {
+      "19": 9,
+      "14": 4,
+      "18": 4,
+      "17": 1
+    },
+    "keywords": [
+      "afp",
+      "260309043448.amm7kc7r.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.opednews.com/populum/page.php?f=Will-Iraq-stand-against-th-Iran-Nuclear-Talks_Iran-War_Iran-Contra-Scandal_Iran-contra-Drugs-260309-265.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "populum",
+      "page.php"
     ]
   },
   "ISR": {
-    "risk_score": 7.3,
-    "count": 9,
-    "top_news": "https://www.trend.az/iran/4162593.html",
+    "risk_score": 5.55,
+    "count": 7,
+    "top_news": "https://www.omanobserver.om/article/1185767/world/region/war-in-the-middle-east-latest-developments",
     "event_codes": {
-      "19": 4,
-      "17": 3,
-      "18": 2
+      "19": 3,
+      "17": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "iran",
-      "4162593.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260308/f11c70407eff488282a4398965fe5840/c.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "20260308",
-      "f11c70407eff488282a4398965fe5840",
-      "c.html"
+      "article",
+      "1185767",
+      "world",
+      "region",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments"
     ]
   },
   "NGA": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.myjoyonline.com/nigerian-army-kills-45-in-katsina-clash/",
+    "risk_score": 13.35,
+    "count": 18,
+    "top_news": "https://dailypost.ng/2026/03/09/police-arrest-more-suspects-over-killing-of-lagos-monarchs-son/",
     "event_codes": {
-      "19": 6
+      "17": 8,
+      "19": 6,
+      "18": 3,
+      "14": 1
     },
     "keywords": [
-      "nigerian",
-      "army",
-      "kills",
-      "katsina",
-      "clash"
+      "2026",
+      "police",
+      "arrest",
+      "more",
+      "suspects",
+      "over",
+      "killing",
+      "lagos",
+      "monarchs",
+      "son"
+    ]
+  },
+  "QAT": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://aero-news.net:443/index.cfm?do=main.textpost&id=A4529A82-50B0-4E97-80BC-7899C4426FED",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "index.cfm"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260309064943.n7ccyrjo.html",
+    "event_codes": {
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "afp",
+      "260309064943.n7ccyrjo.html"
     ]
   }
 }
