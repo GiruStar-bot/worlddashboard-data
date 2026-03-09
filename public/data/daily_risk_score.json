@@ -1,112 +1,190 @@
 {
-  "BHR": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260309043448.amm7kc7r.html",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.manchestereveningnews.co.uk/news/showbiz-news/vicky-pattison-gives-update-flees-33554673",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "afp",
-      "260309043448.amm7kc7r.html"
+      "news",
+      "showbiz",
+      "news",
+      "vicky",
+      "pattison",
+      "gives",
+      "update",
+      "flees",
+      "33554673"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.irishexaminer.com/world/arid-41806634.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "arid",
+      "41806634.html"
+    ]
+  },
+  "ETH": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://tradearabia.com:443/News/390085/Ethiopian-Airlines-celebrates-International-Women%E2%80%99s-Day",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "390085",
+      "ethiopian",
+      "airlines",
+      "celebrates",
+      "international",
+      "women%e2%80%99s",
+      "day"
     ]
   },
   "IRN": {
-    "risk_score": 16.52,
-    "count": 18,
-    "top_news": "https://www.spacewar.com/afp/260309043448.amm7kc7r.html",
+    "risk_score": 28.46,
+    "count": 32,
+    "top_news": "https://www.theguardian.com/australia-news/2026/mar/09/australia-iran-war-deception-greens-shoebridge",
     "event_codes": {
-      "19": 9,
-      "14": 4,
+      "19": 21,
       "18": 4,
+      "15": 3,
+      "16": 3,
       "17": 1
     },
     "keywords": [
-      "afp",
-      "260309043448.amm7kc7r.html"
+      "australia",
+      "news",
+      "2026",
+      "mar",
+      "australia",
+      "iran",
+      "war",
+      "deception",
+      "greens",
+      "shoebridge"
     ]
   },
   "IRQ": {
+    "risk_score": 7.7,
+    "count": 8,
+    "top_news": "https://www.irishexaminer.com/world/arid-41806634.html",
+    "event_codes": {
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "arid",
+      "41806634.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 27.42,
+    "count": 29,
+    "top_news": "https://www.wimbledonguardian.co.uk/news/national/uk-today/25918496.new-booking-portal-help-stranded-brits-get-home-uae/",
+    "event_codes": {
+      "19": 18,
+      "18": 6,
+      "15": 2,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "today",
+      "25918496.new",
+      "booking",
+      "portal",
+      "help",
+      "stranded",
+      "brits",
+      "get",
+      "home",
+      "uae"
+    ]
+  },
+  "LBN": {
+    "risk_score": 9.94,
+    "count": 12,
+    "top_news": "https://www.livemint.com/global/iran-picks-supreme-leader-s-son-to-run-country-11773036365081.html",
+    "event_codes": {
+      "19": 7,
+      "17": 3,
+      "15": 2
+    },
+    "keywords": [
+      "global",
+      "iran",
+      "picks",
+      "supreme",
+      "leader",
+      "son",
+      "run",
+      "country",
+      "11773036365081.html"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 4.84,
+    "count": 8,
+    "top_news": "https://peoplesdailyng.com/nido-africa-calls-for-immediate-release-of-42-detained-nigerians-in-mozambique/",
+    "event_codes": {
+      "17": 8
+    },
+    "keywords": [
+      "nido",
+      "africa",
+      "calls",
+      "for",
+      "immediate",
+      "release",
+      "detained",
+      "nigerians",
+      "mozambique"
+    ]
+  },
+  "SAU": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.opednews.com/populum/page.php?f=Will-Iraq-stand-against-th-Iran-Nuclear-Talks_Iran-War_Iran-Contra-Scandal_Iran-contra-Drugs-260309-265.html",
+    "top_news": "https://www.livemint.com/market/stock-market-news/aramco-share-price-hits-52-week-high-as-strait-of-hormuz-disruption-pushes-brent-crude-oil-prices-toward-120-saudi-ara-11773040714848.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "populum",
-      "page.php"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.55,
-    "count": 7,
-    "top_news": "https://www.omanobserver.om/article/1185767/world/region/war-in-the-middle-east-latest-developments",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "1185767",
-      "world",
-      "region",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments"
-    ]
-  },
-  "NGA": {
-    "risk_score": 13.35,
-    "count": 18,
-    "top_news": "https://dailypost.ng/2026/03/09/police-arrest-more-suspects-over-killing-of-lagos-monarchs-son/",
-    "event_codes": {
-      "17": 8,
-      "19": 6,
-      "18": 3,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "arrest",
-      "more",
-      "suspects",
-      "over",
-      "killing",
-      "lagos",
-      "monarchs",
-      "son"
-    ]
-  },
-  "QAT": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://aero-news.net:443/index.cfm?do=main.textpost&id=A4529A82-50B0-4E97-80BC-7899C4426FED",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "index.cfm"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260309064943.n7ccyrjo.html",
-    "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
-      "afp",
-      "260309064943.n7ccyrjo.html"
+      "market",
+      "stock",
+      "market",
+      "news",
+      "aramco",
+      "share",
+      "price",
+      "hits",
+      "week",
+      "high",
+      "strait",
+      "hormuz",
+      "disruption",
+      "pushes",
+      "brent",
+      "crude",
+      "oil",
+      "prices",
+      "toward",
+      "120",
+      "saudi",
+      "ara",
+      "11773040714848.html"
     ]
   }
 }
