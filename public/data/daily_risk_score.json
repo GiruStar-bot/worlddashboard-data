@@ -1,190 +1,168 @@
 {
-  "EGY": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.gazettelive.co.uk/news/uk-world-news/glasgow-central-station-closed-dozens-33554590",
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.sbs.com.au/news/article/irans-tactics-in-the-face-of-overwhelming-us-force/gydqfbfcz",
     "event_codes": {
-      "18": 2,
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "article",
+      "irans",
+      "tactics",
+      "the",
+      "face",
+      "overwhelming",
+      "force",
+      "gydqfbfcz"
+    ]
+  },
+  "ECU": {
+    "risk_score": 3.65,
+    "count": 5,
+    "top_news": "https://www.sbs.com.au/news/podcast-episode/women-across-the-world-take-to-the-streets-to-mark-international-womens-day/n7vtfgq08",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "podcast",
+      "episode",
+      "women",
+      "across",
+      "the",
+      "world",
+      "take",
+      "the",
+      "streets",
+      "mark",
+      "international",
+      "womens",
+      "day",
+      "n7vtfgq08"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.4,
+    "count": 22,
+    "top_news": "https://www.sbs.com.au/news/article/irans-tactics-in-the-face-of-overwhelming-us-force/gydqfbfcz",
+    "event_codes": {
+      "19": 20,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "irans",
+      "tactics",
+      "the",
+      "face",
+      "overwhelming",
+      "force",
+      "gydqfbfcz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.6,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war",
+    "event_codes": {
+      "16": 4,
+      "18": 1,
       "19": 1
     },
     "keywords": [
       "news",
-      "world",
-      "news",
-      "glasgow",
-      "central",
-      "station",
-      "closed",
-      "dozens",
-      "33554590"
-    ]
-  },
-  "IDN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.9news.com.au/national/australian-duo-dodge-death-penalty-for-murder-of-melbourne-dad-in-luxury-bali-villa/b9a50af0-d7a2-47c3-b0dd-ee8b3277377f",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "national",
-      "australian",
-      "duo",
-      "dodge",
-      "death",
-      "penalty",
-      "for",
-      "murder",
-      "melbourne",
-      "dad",
-      "luxury",
-      "bali",
-      "villa",
-      "b9a50af0",
-      "d7a2",
-      "47c3",
-      "b0dd",
-      "ee8b3277377f"
-    ]
-  },
-  "IRN": {
-    "risk_score": 25.66,
-    "count": 27,
-    "top_news": "https://www.hani.co.kr/arti/english_edition/english_editorials/1248442.html",
-    "event_codes": {
-      "19": 20,
-      "18": 3,
-      "15": 2,
-      "17": 2
-    },
-    "keywords": [
-      "arti",
-      "english",
-      "edition",
-      "english",
-      "editorials",
-      "1248442.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 41.04,
-    "count": 42,
-    "top_news": "https://www.thehitavada.com/Encyc/2026/3/9/iranian-drone-damages-desalination-plant-in-bahrain.html",
-    "event_codes": {
-      "19": 36,
-      "17": 3,
-      "18": 3
-    },
-    "keywords": [
-      "encyc",
       "2026",
-      "iranian",
-      "drone",
-      "damages",
-      "desalination",
-      "plant",
-      "bahrain.html"
+      "which",
+      "and",
+      "israeli",
+      "military",
+      "companies",
+      "are",
+      "profiting",
+      "from",
+      "the",
+      "iran",
+      "war"
     ]
   },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.lebanondemocrat.com/news/national/war-in-the-middle-east-latest-developments/article_06205509-121d-5284-87c8-34df7fae28c0.html",
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15627779/Greying-Kim-Jong-sits-hand-hand-daughter-concert-praises-North-Koreas-strong-willed-physically-weak-women.html",
     "event_codes": {
-      "19": 3
+      "18": 2
     },
     "keywords": [
       "news",
-      "national",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
       "article",
-      "06205509",
-      "121d",
-      "5284",
-      "87c8",
-      "34df7fae28c0.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 10.95,
-    "count": 11,
-    "top_news": "https://theheraldghana.com/wounded-ghanaian-peacekeepers-undergo-medical-treatment-after-israeli-missile-attack/",
-    "event_codes": {
-      "19": 10,
-      "18": 1
-    },
-    "keywords": [
-      "wounded",
-      "ghanaian",
-      "peacekeepers",
-      "undergo",
-      "medical",
-      "treatment",
-      "after",
-      "israeli",
-      "missile",
-      "attack"
+      "15627779",
+      "greying",
+      "kim",
+      "jong",
+      "sits",
+      "hand",
+      "hand",
+      "daughter",
+      "concert",
+      "praises",
+      "north",
+      "koreas",
+      "strong",
+      "willed",
+      "physically",
+      "weak",
+      "women.html"
     ]
   },
   "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-khamenei-s-son-mojtaba-named-as-new-iranian-supreme-leader-state-media-confirms-live-blog",
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/3/9/which-us-and-israeli-military-companies-are-profiting-from-the-iran-war",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "15": 1
     },
     "keywords": [
       "news",
-      "middle",
-      "east",
+      "2026",
+      "which",
+      "and",
+      "israeli",
+      "military",
+      "companies",
+      "are",
+      "profiting",
+      "from",
+      "the",
       "iran",
-      "eastern",
-      "states",
-      "artc",
-      "khamenei",
-      "son",
-      "mojtaba",
-      "named",
-      "new",
-      "iranian",
-      "supreme",
-      "leader",
-      "state",
-      "media",
-      "confirms",
-      "live",
-      "blog"
+      "war"
     ]
   },
-  "SAU": {
-    "risk_score": 6.92,
-    "count": 7,
-    "top_news": "https://www.lebanondemocrat.com/news/national/war-in-the-middle-east-latest-developments/article_06205509-121d-5284-87c8-34df7fae28c0.html",
+  "TUR": {
+    "risk_score": 4.4,
+    "count": 9,
+    "top_news": "https://www.theguardian.com/world/2026/mar/09/istanbul-mayor-ekrem-imamoglu-trial-corruption-turkey",
     "event_codes": {
-      "19": 6,
-      "17": 1
+      "17": 8,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "article",
-      "06205509",
-      "121d",
-      "5284",
-      "87c8",
-      "34df7fae28c0.html"
+      "world",
+      "2026",
+      "mar",
+      "istanbul",
+      "mayor",
+      "ekrem",
+      "imamoglu",
+      "trial",
+      "corruption",
+      "turkey"
     ]
   }
 }
