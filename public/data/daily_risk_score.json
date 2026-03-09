@@ -1,142 +1,133 @@
 {
-  "BHR": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.dailymail.co.uk/vertical-galleries/article-15629795/Iran-wont-surrender-Israeli-official-warns.html",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "vertical",
-      "galleries",
-      "article",
-      "15629795",
-      "iran",
-      "wont",
-      "surrender",
-      "israeli",
-      "official",
-      "warns.html"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.nbcbayarea.com/news/local/hayward-family-deaf-boy-deported-colombia/4048985/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "local",
-      "hayward",
-      "family",
-      "deaf",
-      "boy",
-      "deported",
-      "colombia",
-      "4048985"
-    ]
-  },
   "IRN": {
-    "risk_score": 26.74,
-    "count": 30,
-    "top_news": "https://www.nzherald.co.nz/world/irans-shadowy-new-supreme-leader-will-see-us-as-an-implacable-enemy/THM4YRXLIRCIFED563ZWGW64ZM/",
+    "risk_score": 18.33,
+    "count": 21,
+    "top_news": "https://www.frontpagemag.com/medvedev-carlson-mamdani-three-appalled-by-operation-epic-fury/",
     "event_codes": {
-      "19": 19,
-      "18": 4,
-      "16": 3,
-      "17": 3,
-      "15": 1
+      "19": 14,
+      "15": 4,
+      "17": 3
     },
     "keywords": [
-      "world",
-      "irans",
-      "shadowy",
-      "new",
-      "supreme",
-      "leader",
-      "will",
-      "see",
-      "implacable",
-      "enemy",
-      "thm4yrxlircifed563zwgw64zm"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/10/the-presidency-and-the-politics-of-global-intervention",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "presidency",
-      "and",
-      "the",
-      "politics",
-      "global",
-      "intervention"
+      "medvedev",
+      "carlson",
+      "mamdani",
+      "three",
+      "appalled",
+      "operation",
+      "epic",
+      "fury"
     ]
   },
   "ISR": {
-    "risk_score": 10.02,
-    "count": 13,
-    "top_news": "https://sputnikglobe.com/20260309/how-irans-toxic-rain-reveals-us-israel-discord-1123798342.html",
+    "risk_score": 10.45,
+    "count": 12,
+    "top_news": "https://www.middleeasteye.net/news/lindsey-graham-threatens-saudi-arabia-if-they-do-not-join-war-iran",
     "event_codes": {
-      "17": 6,
       "19": 6,
-      "14": 1
+      "17": 3,
+      "18": 3
     },
     "keywords": [
-      "20260309",
-      "how",
-      "irans",
-      "toxic",
-      "rain",
-      "reveals",
-      "israel",
-      "discord",
-      "1123798342.html"
+      "news",
+      "lindsey",
+      "graham",
+      "threatens",
+      "saudi",
+      "arabia",
+      "they",
+      "not",
+      "join",
+      "war",
+      "iran"
     ]
   },
   "KWT": {
-    "risk_score": 4.0,
+    "risk_score": 2.95,
     "count": 4,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/10/the-presidency-and-the-politics-of-global-intervention",
+    "top_news": "https://english.aawsat.com/gulf/5249356-kuwait-summons-iranian-ambassador-protests-missile-and-drone-attacks",
     "event_codes": {
-      "19": 4
+      "14": 3,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "the",
-      "presidency",
+      "gulf",
+      "5249356",
+      "kuwait",
+      "summons",
+      "iranian",
+      "ambassador",
+      "protests",
+      "missile",
       "and",
-      "the",
-      "politics",
-      "global",
-      "intervention"
+      "drone",
+      "attacks"
     ]
   },
-  "LBY": {
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/10/the-presidency-and-the-politics-of-global-intervention",
+    "top_news": "https://www.voltairenet.org/article223895.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "article223895.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.frontpagemag.com/medvedev-carlson-mamdani-three-appalled-by-operation-epic-fury/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "medvedev",
+      "carlson",
+      "mamdani",
+      "three",
+      "appalled",
+      "operation",
+      "epic",
+      "fury"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.04,
+    "count": 7,
+    "top_news": "https://english.aawsat.com/arab-world/5249324-syrian-leader-announces-support-lebanese-counterpart-disarm-hezbollah",
+    "event_codes": {
+      "15": 7
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5249324",
+      "syrian",
+      "leader",
+      "announces",
+      "support",
+      "lebanese",
+      "counterpart",
+      "disarm",
+      "hezbollah"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://www.lusakatimes.com/2026/03/09/zambian-juvenile-detained-in-malawi/",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
       "2026",
-      "the",
-      "presidency",
-      "and",
-      "the",
-      "politics",
-      "global",
-      "intervention"
+      "zambian",
+      "juvenile",
+      "detained",
+      "malawi"
     ]
   }
 }
