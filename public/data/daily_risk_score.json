@@ -1,130 +1,127 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.heritage.org/middle-east/commentary/now-the-time-irans-people-take-back-their-country",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.the-sun.com/news/16066064/",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "commentary",
-      "now",
-      "the",
-      "time",
-      "irans",
-      "people",
-      "take",
-      "back",
-      "their",
-      "country"
+      "news",
+      "16066064"
     ]
   },
   "IRN": {
-    "risk_score": 7.66,
-    "count": 8,
-    "top_news": "https://www.dailyindependent.com/national/ap-news-summary-at-6-59-p-m-edt/article_c821e460-d731-5a36-bc81-5c659f123fe1.html",
+    "risk_score": 12.61,
+    "count": 14,
+    "top_news": "http://www.bignewsnetwork.com/news/278914615/over-1300-iranian-civilians-killed-nearly-10000-civilian-sites-destroyed-in-us-israeli-military-strikes-iran-un-envoy",
     "event_codes": {
+      "16": 4,
       "19": 4,
       "17": 3,
-      "18": 1
+      "18": 3
     },
     "keywords": [
-      "national",
       "news",
-      "summary",
-      "edt",
-      "article",
-      "c821e460",
-      "d731",
-      "5a36",
-      "bc81",
-      "5c659f123fe1.html"
+      "278914615",
+      "over",
+      "1300",
+      "iranian",
+      "civilians",
+      "killed",
+      "nearly",
+      "10000",
+      "civilian",
+      "sites",
+      "destroyed",
+      "israeli",
+      "military",
+      "strikes",
+      "iran",
+      "envoy"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.greanvillepost.com/2026/03/10/2011-year-of-the-dupe/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "2011",
+      "year",
+      "the",
+      "dupe"
     ]
   },
   "ISR": {
-    "risk_score": 9.8,
-    "count": 11,
-    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-hezbollah-poses-greater-immediate-threat-to-israel-than-iran",
+    "risk_score": 10.02,
+    "count": 12,
+    "top_news": "https://www.yahoo.com/news/articles/toronto-police-shots-fired-us-121144728.html",
     "event_codes": {
-      "19": 9,
-      "16": 2
+      "19": 6,
+      "17": 4,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "israel",
-      "defense",
-      "artc",
-      "hezbollah",
-      "poses",
-      "greater",
-      "immediate",
-      "threat",
-      "israel",
-      "than",
-      "iran"
+      "articles",
+      "toronto",
+      "police",
+      "shots",
+      "fired",
+      "121144728.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailyindependent.com/national/ap-news-summary-at-6-59-p-m-edt/article_c821e460-d731-5a36-bc81-5c659f123fe1.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "national",
-      "news",
-      "summary",
-      "edt",
-      "article",
-      "c821e460",
-      "d731",
-      "5a36",
-      "bc81",
-      "5c659f123fe1.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.heritage.org/middle-east/commentary/now-the-time-irans-people-take-back-their-country",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "commentary",
-      "now",
-      "the",
-      "time",
-      "irans",
-      "people",
-      "take",
-      "back",
-      "their",
-      "country"
-    ]
-  },
-  "SSD": {
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.africanews.com/2026/03/10/south-sudan-un-official-concerned-over-human-rights-violations/",
+    "top_news": "https://english.wafa.ps/Pages/Details/168188",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "pages",
+      "details",
+      "168188"
+    ]
+  },
+  "SAU": {
+    "risk_score": 5.85,
+    "count": 6,
+    "top_news": "https://www.theinertia.com/features/adrena-wave-pool-saudi-arabia-marcus-paladino/",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "features",
+      "adrena",
+      "wave",
+      "pool",
+      "saudi",
+      "arabia",
+      "marcus",
+      "paladino"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.greanvillepost.com/2026/03/10/2011-year-of-the-dupe/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "south",
-      "sudan",
-      "official",
-      "concerned",
-      "over",
-      "human",
-      "rights",
-      "violations"
+      "2011",
+      "year",
+      "the",
+      "dupe"
     ]
   }
 }
