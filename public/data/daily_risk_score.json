@@ -1,130 +1,62 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.channelnewsasia.com/world/us-iran-threats-war-israel-strikes-hegseth-5985086",
+  "BRA": {
+    "risk_score": 5.33,
+    "count": 7,
+    "top_news": "https://buenosairesherald.com/politics/judiciary/argentina-grants-political-asylum-to-pro-bolsonaro-coup-rioter",
     "event_codes": {
-      "19": 3
+      "17": 6,
+      "14": 1
     },
     "keywords": [
-      "world",
-      "iran",
-      "threats",
-      "war",
-      "israel",
-      "strikes",
-      "hegseth",
-      "5985086"
+      "politics",
+      "judiciary",
+      "argentina",
+      "grants",
+      "political",
+      "asylum",
+      "pro",
+      "bolsonaro",
+      "coup",
+      "rioter"
     ]
   },
   "IRN": {
-    "risk_score": 24.58,
-    "count": 28,
-    "top_news": "http://www.bignewsnetwork.com/news/278914540/news-analysis-will-yemen-houthis-join-the-war-to-support-iran",
-    "event_codes": {
-      "19": 19,
-      "17": 6,
-      "15": 3
-    },
-    "keywords": [
-      "news",
-      "278914540",
-      "news",
-      "analysis",
-      "will",
-      "yemen",
-      "houthis",
-      "join",
-      "the",
-      "war",
-      "support",
-      "iran"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "http://www.bignewsnetwork.com/news/278914539/daily-brief-about-us-israeli-strikes-on-iran-day-11",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "278914539",
-      "daily",
-      "brief",
-      "about",
-      "israeli",
-      "strikes",
-      "iran",
-      "day"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.5,
-    "count": 11,
-    "top_news": "http://www.bignewsnetwork.com/news/278914540/news-analysis-will-yemen-houthis-join-the-war-to-support-iran",
-    "event_codes": {
-      "19": 8,
-      "14": 1,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "278914540",
-      "news",
-      "analysis",
-      "will",
-      "yemen",
-      "houthis",
-      "join",
-      "the",
-      "war",
-      "support",
-      "iran"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://www.al-monitor.com/originals/2026/03/war-middle-east-latest-developments-5",
+    "risk_score": 11.67,
+    "count": 12,
+    "top_news": "https://www.rawstory.com/trump-iran-2676006472/",
     "event_codes": {
       "19": 6,
-      "16": 2
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "war",
-      "middle",
-      "east",
-      "latest",
-      "developments"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://athens-times.com/iranian-missiles-test-nato-air-defenses-near-critical-radar-base-in-turkey/",
-    "event_codes": {
-      "19": 2,
+      "20": 4,
       "15": 1,
       "18": 1
     },
     "keywords": [
-      "iranian",
-      "missiles",
-      "test",
-      "nato",
-      "air",
-      "defenses",
-      "near",
-      "critical",
-      "radar",
-      "base",
-      "turkey"
+      "trump",
+      "iran",
+      "2676006472"
     ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.rawstory.com/trump-iran-2676006472/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "trump",
+      "iran",
+      "2676006472"
+    ]
+  },
+  "NGA": {
+    "risk_score": 14.34,
+    "count": 15,
+    "top_news": "https://pidgin.informationng.com/?p=34150",
+    "event_codes": {
+      "19": 12,
+      "17": 3
+    },
+    "keywords": []
   }
 }
