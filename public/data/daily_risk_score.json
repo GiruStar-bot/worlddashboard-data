@@ -1,135 +1,237 @@
 {
-  "EGY": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "http://baystreet.ca/foreignmarketwrap/4886/Markets-Rebound-Amid-Hope-of-Wars-End",
+  "ARE": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.theguardian.com/australia-news/2026/mar/10/albanese-government-response-iran-war-labor-mps",
     "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
+      "19": 7
     },
     "keywords": [
-      "foreignmarketwrap",
-      "4886",
-      "markets",
-      "rebound",
-      "amid",
-      "hope",
-      "wars",
-      "end"
+      "australia",
+      "news",
+      "2026",
+      "mar",
+      "albanese",
+      "government",
+      "response",
+      "iran",
+      "war",
+      "labor",
+      "mps"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.channelstv.com/2026/03/10/saudi-aramco-ceo-war-could-have-catastrophic-consequences-on-oil-markets/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "saudi",
+      "aramco",
+      "ceo",
+      "war",
+      "could",
+      "have",
+      "catastrophic",
+      "consequences",
+      "oil",
+      "markets"
     ]
   },
   "IRN": {
-    "risk_score": 20.62,
-    "count": 23,
-    "top_news": "https://legalinsurrection.com/2026/03/hegseth-today-will-be-our-most-intense-day-of-strikes-inside-iran/",
+    "risk_score": 17.3,
+    "count": 20,
+    "top_news": "https://www.thebanker.com/content/1d65b2a1-c90e-4d1d-a596-19488eb0ff40",
     "event_codes": {
-      "19": 15,
-      "17": 3,
-      "18": 2,
-      "14": 1,
-      "15": 1,
-      "20": 1
+      "19": 12,
+      "18": 3,
+      "14": 2,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "hegseth",
-      "today",
-      "will",
-      "our",
+      "content",
+      "1d65b2a1",
+      "c90e",
+      "4d1d",
+      "a596",
+      "19488eb0ff40"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 7.72,
+    "count": 8,
+    "top_news": "https://jamaica-gleaner.com/article/news/20260310/iranian-barrages-target-israel-us-warns-iran-most-intense-day-strikes",
+    "event_codes": {
+      "19": 7,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "news",
+      "20260310",
+      "iranian",
+      "barrages",
+      "target",
+      "israel",
+      "warns",
+      "iran",
       "most",
       "intense",
       "day",
-      "strikes",
-      "inside",
-      "iran"
+      "strikes"
     ]
   },
   "ISR": {
-    "risk_score": 15.8,
-    "count": 16,
-    "top_news": "https://saharareporters.com/2026/03/10/israeli-strike-kills-catholic-priest-christian-community-lebanon",
-    "event_codes": {
-      "19": 14,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "strike",
-      "kills",
-      "catholic",
-      "priest",
-      "christian",
-      "community",
-      "lebanon"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://saharareporters.com/2026/03/10/israeli-strike-kills-catholic-priest-christian-community-lebanon",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "strike",
-      "kills",
-      "catholic",
-      "priest",
-      "christian",
-      "community",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.25,
+    "risk_score": 13.9,
     "count": 15,
-    "top_news": "https://saharareporters.com/2026/03/10/nscdc-officer-shot-dead-during-clash-tipper-drivers-rivers-state",
+    "top_news": "https://jamaica-gleaner.com/article/news/20260310/iranian-barrages-target-israel-us-warns-iran-most-intense-day-strikes",
     "event_codes": {
-      "16": 4,
-      "14": 3,
-      "18": 3,
-      "19": 3,
-      "17": 2
+      "19": 10,
+      "17": 2,
+      "18": 2,
+      "20": 1
     },
     "keywords": [
-      "2026",
-      "nscdc",
-      "officer",
-      "shot",
-      "dead",
-      "during",
-      "clash",
-      "tipper",
-      "drivers",
-      "rivers",
-      "state"
+      "article",
+      "news",
+      "20260310",
+      "iranian",
+      "barrages",
+      "target",
+      "israel",
+      "warns",
+      "iran",
+      "most",
+      "intense",
+      "day",
+      "strikes"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.yasstribune.com.au/story/9195136/us-military-striking-iranian-mine-laying-ships-general/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "story",
+      "9195136",
+      "military",
+      "striking",
+      "iranian",
+      "mine",
+      "laying",
+      "ships",
+      "general"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.yasstribune.com.au/story/9195136/us-military-striking-iranian-mine-laying-ships-general/",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "9195136",
+      "military",
+      "striking",
+      "iranian",
+      "mine",
+      "laying",
+      "ships",
+      "general"
     ]
   },
   "SOM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/somalia-journalist-shot-dead-in-kismayo",
+    "top_news": "https://www.justsecurity.org/133456/early-edition-march-10-2026/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "media",
-      "centre",
+      "133456",
+      "early",
+      "edition",
+      "march",
+      "2026"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aa.com.tr/en/europe/un-rights-chief-urges-immediate-ceasefire-in-south-sudan-as-fears-of-war-crimes-grow/3857999",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "europe",
+      "rights",
+      "chief",
+      "urges",
+      "immediate",
+      "ceasefire",
+      "south",
+      "sudan",
+      "fears",
+      "war",
+      "crimes",
+      "grow",
+      "3857999"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://ktvz.com/news/national-world/cnn-world/2026/03/10/ahmed-al-sharaa-fast-facts/",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
       "news",
-      "detail",
-      "category",
-      "press",
-      "releases",
-      "article",
-      "somalia",
-      "journalist",
-      "shot",
-      "dead",
-      "kismayo"
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "ahmed",
+      "sharaa",
+      "fast",
+      "facts"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.72,
+    "count": 6,
+    "top_news": "https://www.aa.com.tr/en/middle-east/iran-says-8-month-old-girl-among-193-children-killed-in-us-israeli-attacks/3858092",
+    "event_codes": {
+      "19": 5,
+      "15": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "says",
+      "month",
+      "old",
+      "girl",
+      "among",
+      "193",
+      "children",
+      "killed",
+      "israeli",
+      "attacks",
+      "3858092"
     ]
   }
 }
