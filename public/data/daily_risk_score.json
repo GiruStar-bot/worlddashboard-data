@@ -1,97 +1,135 @@
 {
-  "IRN": {
-    "risk_score": 5.39,
-    "count": 6,
-    "top_news": "https://www.dailymail.co.uk/news/article-15631757/Iran-tells-Trump-careful-not-eliminated-hits-threats-US-President-said-does-not-believe-new-Supreme-Leader-live-peace.html",
+  "EGY": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "http://baystreet.ca/foreignmarketwrap/4886/Markets-Rebound-Amid-Hope-of-Wars-End",
     "event_codes": {
-      "19": 4,
-      "15": 2
+      "18": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "15631757",
-      "iran",
-      "tells",
-      "trump",
-      "careful",
-      "not",
-      "eliminated",
-      "hits",
-      "threats",
-      "president",
-      "said",
-      "does",
-      "not",
-      "believe",
-      "new",
-      "supreme",
-      "leader",
-      "live",
-      "peace.html"
+      "foreignmarketwrap",
+      "4886",
+      "markets",
+      "rebound",
+      "amid",
+      "hope",
+      "wars",
+      "end"
+    ]
+  },
+  "IRN": {
+    "risk_score": 20.62,
+    "count": 23,
+    "top_news": "https://legalinsurrection.com/2026/03/hegseth-today-will-be-our-most-intense-day-of-strikes-inside-iran/",
+    "event_codes": {
+      "19": 15,
+      "17": 3,
+      "18": 2,
+      "14": 1,
+      "15": 1,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "hegseth",
+      "today",
+      "will",
+      "our",
+      "most",
+      "intense",
+      "day",
+      "strikes",
+      "inside",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.thelocal.dk/20260310/danish-supreme-court-case-opens-on-arms-sales-to-israel",
+    "risk_score": 15.8,
+    "count": 16,
+    "top_news": "https://saharareporters.com/2026/03/10/israeli-strike-kills-catholic-priest-christian-community-lebanon",
     "event_codes": {
+      "19": 14,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strike",
+      "kills",
+      "catholic",
+      "priest",
+      "christian",
+      "community",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://saharareporters.com/2026/03/10/israeli-strike-kills-catholic-priest-christian-community-lebanon",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strike",
+      "kills",
+      "catholic",
+      "priest",
+      "christian",
+      "community",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.25,
+    "count": 15,
+    "top_news": "https://saharareporters.com/2026/03/10/nscdc-officer-shot-dead-during-clash-tipper-drivers-rivers-state",
+    "event_codes": {
+      "16": 4,
+      "14": 3,
+      "18": 3,
       "19": 3,
-      "18": 1
+      "17": 2
     },
     "keywords": [
-      "20260310",
-      "danish",
-      "supreme",
-      "court",
-      "case",
-      "opens",
-      "arms",
-      "sales",
-      "israel"
+      "2026",
+      "nscdc",
+      "officer",
+      "shot",
+      "dead",
+      "during",
+      "clash",
+      "tipper",
+      "drivers",
+      "rivers",
+      "state"
     ]
   },
-  "MYS": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "http://dailyexpress.com.my/news/277414/three-cars-belonging-to-cikgu-chandra-torched-in-puchong/",
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/somalia-journalist-shot-dead-in-kismayo",
     "event_codes": {
-      "18": 4,
-      "19": 2
+      "19": 3
     },
     "keywords": [
+      "media",
+      "centre",
       "news",
-      "277414",
-      "three",
-      "cars",
-      "belonging",
-      "cikgu",
-      "chandra",
-      "torched",
-      "puchong"
-    ]
-  },
-  "TUR": {
-    "risk_score": 7.84,
-    "count": 18,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-fm-warns-iranian-counterpart-violating-istanbuls-airspace",
-    "event_codes": {
-      "16": 16,
-      "15": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "turkish",
-      "warns",
-      "iranian",
-      "counterpart",
-      "violating",
-      "istanbuls",
-      "airspace"
+      "detail",
+      "category",
+      "press",
+      "releases",
+      "article",
+      "somalia",
+      "journalist",
+      "shot",
+      "dead",
+      "kismayo"
     ]
   }
 }
