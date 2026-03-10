@@ -1,113 +1,114 @@
 {
-  "BRA": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/paraguay-rises-to-fourth-freest-economy-in-south-america/",
+  "COL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.latimes.com/world-nation/story/2026-03-10/trial-opens-in-miami-for-4-men-charged-in-assassination-of-haitis-president-jovenel-moise",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "paraguay",
-      "rises",
-      "fourth",
-      "freest",
-      "economy",
-      "south",
-      "america"
+      "world",
+      "nation",
+      "story",
+      "2026",
+      "trial",
+      "opens",
+      "miami",
+      "for",
+      "men",
+      "charged",
+      "assassination",
+      "haitis",
+      "president",
+      "jovenel",
+      "moise"
     ]
   },
   "IRN": {
-    "risk_score": 11.0,
-    "count": 12,
-    "top_news": "https://understandingwar.org/research/middle-east/iran-update-morning-special-report-march-10-2026/",
+    "risk_score": 12.72,
+    "count": 14,
+    "top_news": "https://saharareporters.com/2026/03/10/four-iranian-diplomats-killed-israeli-strike-lebanon",
     "event_codes": {
-      "19": 10,
-      "17": 2
+      "19": 9,
+      "14": 2,
+      "15": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "research",
-      "middle",
-      "east",
-      "iran",
-      "update",
-      "morning",
-      "special",
-      "report",
-      "march",
-      "2026"
+      "2026",
+      "four",
+      "iranian",
+      "diplomats",
+      "killed",
+      "israeli",
+      "strike",
+      "lebanon"
     ]
   },
   "ISR": {
+    "risk_score": 9.6,
+    "count": 10,
+    "top_news": "https://www.devilslakejournal.com/opinion/11067/five-things-americans-need-to-know-about-the-u-s-and-iran/",
+    "event_codes": {
+      "19": 9,
+      "16": 1
+    },
+    "keywords": [
+      "opinion",
+      "11067",
+      "five",
+      "things",
+      "americans",
+      "need",
+      "know",
+      "about",
+      "the",
+      "and",
+      "iran"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://saharareporters.com/2026/03/10/four-iranian-diplomats-killed-israeli-strike-lebanon",
+    "event_codes": {
+      "19": 3,
+      "14": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "four",
+      "iranian",
+      "diplomats",
+      "killed",
+      "israeli",
+      "strike",
+      "lebanon"
+    ]
+  },
+  "TUR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://understandingwar.org/research/middle-east/iran-update-morning-special-report-march-10-2026/",
+    "top_news": "https://thehardtackle.com/transfer-news/2026/03/11/arsenal-manchester-united-in-transfer-tussle-to-sign-victor-osimhen-learn-price/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "research",
-      "middle",
-      "east",
-      "iran",
-      "update",
-      "morning",
-      "special",
-      "report",
-      "march",
-      "2026"
-    ]
-  },
-  "NGA": {
-    "risk_score": 15.7,
-    "count": 17,
-    "top_news": "https://www.nigerianeye.com/2026/03/edo-shooting-nothing-will-happen-if-you.html",
-    "event_codes": {
-      "19": 12,
-      "18": 3,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "edo",
-      "shooting",
-      "nothing",
-      "will",
-      "happen",
-      "you.html"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/news/advocacy-groups-sue-trump-administration-maintain-temporary-visas-somalis",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
+      "transfer",
       "news",
-      "advocacy",
-      "groups",
-      "sue",
-      "trump",
-      "administration",
-      "maintain",
-      "temporary",
-      "visas",
-      "somalis"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://sana.sy/en/syria/2301750/",
-    "event_codes": {
-      "20": 3,
-      "17": 2
-    },
-    "keywords": [
-      "syria",
-      "2301750"
+      "2026",
+      "arsenal",
+      "manchester",
+      "united",
+      "transfer",
+      "tussle",
+      "sign",
+      "victor",
+      "osimhen",
+      "learn",
+      "price"
     ]
   }
 }
