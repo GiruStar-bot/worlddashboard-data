@@ -1,62 +1,130 @@
 {
-  "BRA": {
-    "risk_score": 5.33,
-    "count": 7,
-    "top_news": "https://buenosairesherald.com/politics/judiciary/argentina-grants-political-asylum-to-pro-bolsonaro-coup-rioter",
-    "event_codes": {
-      "17": 6,
-      "14": 1
-    },
-    "keywords": [
-      "politics",
-      "judiciary",
-      "argentina",
-      "grants",
-      "political",
-      "asylum",
-      "pro",
-      "bolsonaro",
-      "coup",
-      "rioter"
-    ]
-  },
-  "IRN": {
-    "risk_score": 11.67,
-    "count": 12,
-    "top_news": "https://www.rawstory.com/trump-iran-2676006472/",
-    "event_codes": {
-      "19": 6,
-      "20": 4,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "trump",
-      "iran",
-      "2676006472"
-    ]
-  },
-  "ISR": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.rawstory.com/trump-iran-2676006472/",
+    "top_news": "https://www.heritage.org/middle-east/commentary/now-the-time-irans-people-take-back-their-country",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "trump",
-      "iran",
-      "2676006472"
+      "middle",
+      "east",
+      "commentary",
+      "now",
+      "the",
+      "time",
+      "irans",
+      "people",
+      "take",
+      "back",
+      "their",
+      "country"
     ]
   },
-  "NGA": {
-    "risk_score": 14.34,
-    "count": 15,
-    "top_news": "https://pidgin.informationng.com/?p=34150",
+  "IRN": {
+    "risk_score": 7.66,
+    "count": 8,
+    "top_news": "https://www.dailyindependent.com/national/ap-news-summary-at-6-59-p-m-edt/article_c821e460-d731-5a36-bc81-5c659f123fe1.html",
     "event_codes": {
-      "19": 12,
-      "17": 3
+      "19": 4,
+      "17": 3,
+      "18": 1
     },
-    "keywords": []
+    "keywords": [
+      "national",
+      "news",
+      "summary",
+      "edt",
+      "article",
+      "c821e460",
+      "d731",
+      "5a36",
+      "bc81",
+      "5c659f123fe1.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.8,
+    "count": 11,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-hezbollah-poses-greater-immediate-threat-to-israel-than-iran",
+    "event_codes": {
+      "19": 9,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "defense",
+      "artc",
+      "hezbollah",
+      "poses",
+      "greater",
+      "immediate",
+      "threat",
+      "israel",
+      "than",
+      "iran"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailyindependent.com/national/ap-news-summary-at-6-59-p-m-edt/article_c821e460-d731-5a36-bc81-5c659f123fe1.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "national",
+      "news",
+      "summary",
+      "edt",
+      "article",
+      "c821e460",
+      "d731",
+      "5a36",
+      "bc81",
+      "5c659f123fe1.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.heritage.org/middle-east/commentary/now-the-time-irans-people-take-back-their-country",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "commentary",
+      "now",
+      "the",
+      "time",
+      "irans",
+      "people",
+      "take",
+      "back",
+      "their",
+      "country"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.africanews.com/2026/03/10/south-sudan-un-official-concerned-over-human-rights-violations/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "south",
+      "sudan",
+      "official",
+      "concerned",
+      "over",
+      "human",
+      "rights",
+      "violations"
+    ]
   }
 }
