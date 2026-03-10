@@ -1,110 +1,130 @@
 {
-  "EGY": {
-    "risk_score": 2.3,
+  "ARE": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://nypost.com/2026/03/10/us-news/ex-dc-police-officer-accused-of-sexually-assaulting-10-women-he-met-on-dating-apps/",
+    "top_news": "https://www.channelnewsasia.com/world/us-iran-threats-war-israel-strikes-hegseth-5985086",
     "event_codes": {
-      "18": 2,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "2026",
-      "news",
-      "police",
-      "officer",
-      "accused",
-      "sexually",
-      "assaulting",
-      "women",
-      "met",
-      "dating",
-      "apps"
+      "world",
+      "iran",
+      "threats",
+      "war",
+      "israel",
+      "strikes",
+      "hegseth",
+      "5985086"
     ]
   },
   "IRN": {
-    "risk_score": 10.3,
-    "count": 12,
-    "top_news": "https://legalinsurrection.com/2026/03/op-epic-fury-updates-irans-top-regime-operative-threatens-to-eliminate-trump/",
+    "risk_score": 24.58,
+    "count": 28,
+    "top_news": "http://www.bignewsnetwork.com/news/278914540/news-analysis-will-yemen-houthis-join-the-war-to-support-iran",
     "event_codes": {
-      "19": 5,
-      "18": 4,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "epic",
-      "fury",
-      "updates",
-      "irans",
-      "top",
-      "regime",
-      "operative",
-      "threatens",
-      "eliminate",
-      "trump"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.74,
-    "count": 7,
-    "top_news": "https://legalinsurrection.com/2026/03/op-epic-fury-updates-irans-top-regime-operative-threatens-to-eliminate-trump/",
-    "event_codes": {
-      "17": 3,
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "epic",
-      "fury",
-      "updates",
-      "irans",
-      "top",
-      "regime",
-      "operative",
-      "threatens",
-      "eliminate",
-      "trump"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.nationalaccordnewspaper.com/igp-disu-inaugurates-visits-kaiama-as-police-arrest-32-suspected-bandits-recover-arms/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "igp",
-      "disu",
-      "inaugurates",
-      "visits",
-      "kaiama",
-      "police",
-      "arrest",
-      "suspected",
-      "bandits",
-      "recover",
-      "arms"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/trump-signaling-exit-iran-war-201155375.html",
-    "event_codes": {
-      "19": 2
+      "19": 19,
+      "17": 6,
+      "15": 3
     },
     "keywords": [
       "news",
-      "articles",
-      "trump",
-      "signaling",
-      "exit",
-      "iran",
+      "278914540",
+      "news",
+      "analysis",
+      "will",
+      "yemen",
+      "houthis",
+      "join",
+      "the",
       "war",
-      "201155375.html"
+      "support",
+      "iran"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "http://www.bignewsnetwork.com/news/278914539/daily-brief-about-us-israeli-strikes-on-iran-day-11",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "278914539",
+      "daily",
+      "brief",
+      "about",
+      "israeli",
+      "strikes",
+      "iran",
+      "day"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.5,
+    "count": 11,
+    "top_news": "http://www.bignewsnetwork.com/news/278914540/news-analysis-will-yemen-houthis-join-the-war-to-support-iran",
+    "event_codes": {
+      "19": 8,
+      "14": 1,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "278914540",
+      "news",
+      "analysis",
+      "will",
+      "yemen",
+      "houthis",
+      "join",
+      "the",
+      "war",
+      "support",
+      "iran"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://www.al-monitor.com/originals/2026/03/war-middle-east-latest-developments-5",
+    "event_codes": {
+      "19": 6,
+      "16": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "war",
+      "middle",
+      "east",
+      "latest",
+      "developments"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://athens-times.com/iranian-missiles-test-nato-air-defenses-near-critical-radar-base-in-turkey/",
+    "event_codes": {
+      "19": 2,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "iranian",
+      "missiles",
+      "test",
+      "nato",
+      "air",
+      "defenses",
+      "near",
+      "critical",
+      "radar",
+      "base",
+      "turkey"
     ]
   }
 }
