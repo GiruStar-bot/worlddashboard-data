@@ -1,155 +1,127 @@
 {
-  "BHR": {
+  "IDN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.newsx.com/world/what-is-the-brahmos-missile-and-why-does-indonesia-want-it-nation-moves-closer-to-major-missile-deal-worth-450-million-with-india-180502/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "what",
+      "the",
+      "brahmos",
+      "missile",
+      "and",
+      "why",
+      "does",
+      "indonesia",
+      "want",
+      "nation",
+      "moves",
+      "closer",
+      "major",
+      "missile",
+      "deal",
+      "worth",
+      "450",
+      "million",
+      "with",
+      "india",
+      "180502"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.55,
+    "count": 18,
+    "top_news": "https://www.moneycontrol.com/world/i-m-willing-to-live-with-that-says-trump-on-being-asked-whether-us-strikes-killed-more-than-100-schoolgirls-in-iran-article-13856054.html",
+    "event_codes": {
+      "19": 9,
+      "14": 3,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "willing",
+      "live",
+      "with",
+      "that",
+      "says",
+      "trump",
+      "being",
+      "asked",
+      "whether",
+      "strikes",
+      "killed",
+      "more",
+      "than",
+      "100",
+      "schoolgirls",
+      "iran",
+      "article",
+      "13856054.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.albawaba.net/news/israeli-army-launches-new-wave-strikes-1623557",
+    "event_codes": {
+      "18": 3,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "army",
+      "launches",
+      "new",
+      "wave",
+      "strikes",
+      "1623557"
+    ]
+  },
+  "SOM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-11-9.7119190",
+    "top_news": "https://horseedmedia.net/somalia-puntland-rights-body-challenges-u-s-over-2025-airstrike-death/419548/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "livestory",
-      "iran",
-      "israel",
-      "war",
-      "day",
-      "9.7119190"
+      "somalia",
+      "puntland",
+      "rights",
+      "body",
+      "challenges",
+      "over",
+      "2025",
+      "airstrike",
+      "death",
+      "419548"
     ]
   },
-  "IRN": {
-    "risk_score": 24.02,
-    "count": 25,
-    "top_news": "https://dominicanrepublicpost.com/air-strike-kills-four-iran-linked-fighters-in-iraq/",
+  "TUR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://athens-times.com/turkish-linked-firm-supplies-27000-bombs-to-israel-via-u-s/",
     "event_codes": {
-      "19": 22,
-      "14": 2,
-      "15": 1
-    },
-    "keywords": [
-      "air",
-      "strike",
-      "kills",
-      "four",
-      "iran",
-      "linked",
-      "fighters",
-      "iraq"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://globalnews.ca/news/11722318/drone-attacks-iran-war-erbil-iraq/",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "11722318",
-      "drone",
-      "attacks",
-      "iran",
-      "war",
-      "erbil",
-      "iraq"
-    ]
-  },
-  "ISR": {
-    "risk_score": 27.04,
-    "count": 29,
-    "top_news": "https://www.express.co.uk/news/world/2180373/iran-rules-out-ceasefire-sends",
-    "event_codes": {
-      "19": 22,
-      "15": 2,
-      "17": 2,
-      "18": 2,
+      "19": 2,
       "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "2180373",
-      "iran",
-      "rules",
-      "out",
-      "ceasefire",
-      "sends"
-    ]
-  },
-  "KWT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.cbc.ca/news/world/livestory/iran-israel-us-war-day-11-9.7119190",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "livestory",
-      "iran",
+      "turkish",
+      "linked",
+      "firm",
+      "supplies",
+      "27000",
+      "bombs",
       "israel",
-      "war",
-      "day",
-      "9.7119190"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://dominicanrepublicpost.com/israel-launches-new-wave-of-attacks-on-southern-and-eastern-lebanon/",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "israel",
-      "launches",
-      "new",
-      "wave",
-      "attacks",
-      "southern",
-      "and",
-      "eastern",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.15,
-    "count": 8,
-    "top_news": "https://punchng.com/ex-army-general-convicted-of-misappropriation-loses-appeal-heads-to-scourt/",
-    "event_codes": {
-      "17": 7,
-      "14": 1
-    },
-    "keywords": [
-      "army",
-      "general",
-      "convicted",
-      "misappropriation",
-      "loses",
-      "appeal",
-      "heads",
-      "scourt"
-    ]
-  },
-  "SAU": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.express.co.uk/news/world/2180373/iran-rules-out-ceasefire-sends",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2180373",
-      "iran",
-      "rules",
-      "out",
-      "ceasefire",
-      "sends"
+      "via"
     ]
   }
 }
