@@ -1,72 +1,261 @@
 {
-  "IRN": {
-    "risk_score": 12.42,
-    "count": 13,
-    "top_news": "https://newstodaynet.com/2026/03/11/petrol-bomb-hurled-at-karti-chidambarams-office-in-karaikudi/",
+  "ARE": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/india-news/indian-national-injured-drones-fall-near-dubai-airport-amid-iran-us-war-middle-east-uae-abu-dhabi-strikes-missile-101773216117629.html",
     "event_codes": {
-      "19": 8,
-      "18": 3,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "petrol",
-      "bomb",
-      "hurled",
-      "karti",
-      "chidambarams",
-      "office",
-      "karaikudi"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thehindu.com/news/international/rebellion-of-american-commentator-tucker-carlson-against-christian-zionism-us-support-for-israel/article70730004.ece",
-    "event_codes": {
+      "16": 3,
       "19": 3
     },
     "keywords": [
+      "india",
       "news",
-      "international",
-      "rebellion",
-      "american",
-      "commentator",
-      "tucker",
-      "carlson",
-      "against",
-      "christian",
-      "zionism",
-      "support",
-      "for",
-      "israel",
-      "article70730004.ece"
+      "indian",
+      "national",
+      "injured",
+      "drones",
+      "fall",
+      "near",
+      "dubai",
+      "airport",
+      "amid",
+      "iran",
+      "war",
+      "middle",
+      "east",
+      "uae",
+      "abu",
+      "dhabi",
+      "strikes",
+      "missile",
+      "101773216117629.html"
     ]
   },
-  "ISR": {
-    "risk_score": 8.94,
-    "count": 11,
-    "top_news": "https://www.thehindu.com/news/international/rebellion-of-american-commentator-tucker-carlson-against-christian-zionism-us-support-for-israel/article70730004.ece",
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/3/11/iran-fires-missiles-drones-at-gulf-nations-as-ship-hit-in-strait-of-hormuz",
     "event_codes": {
-      "14": 4,
-      "19": 4,
-      "17": 3
+      "19": 4
     },
     "keywords": [
       "news",
-      "international",
-      "rebellion",
-      "american",
-      "commentator",
-      "tucker",
-      "carlson",
-      "against",
-      "christian",
-      "zionism",
-      "support",
-      "for",
+      "2026",
+      "iran",
+      "fires",
+      "missiles",
+      "drones",
+      "gulf",
+      "nations",
+      "ship",
+      "hit",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "BRA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.rappler.com/technology/lawsuit-challenges-united-states-policy-barring-social-media-researcher-visas/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "technology",
+      "lawsuit",
+      "challenges",
+      "united",
+      "states",
+      "policy",
+      "barring",
+      "social",
+      "media",
+      "researcher",
+      "visas"
+    ]
+  },
+  "COD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://chimpreports.com/breaking-drc-army-drones-strike-m23-positions-in-goma/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "breaking",
+      "drc",
+      "army",
+      "drones",
+      "strike",
+      "m23",
+      "positions",
+      "goma"
+    ]
+  },
+  "IRN": {
+    "risk_score": 29.3,
+    "count": 31,
+    "top_news": "https://www.messengernewspapers.co.uk/news/national/25925812.iran-keeps-pressure-oil-infrastructure-global-energy-crisis-fears-grow/",
+    "event_codes": {
+      "19": 28,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25925812.iran",
+      "keeps",
+      "pressure",
+      "oil",
+      "infrastructure",
+      "global",
+      "energy",
+      "crisis",
+      "fears",
+      "grow"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/3/11/iran-war-what-is-happening-on-day-12-of-us-israel-attacks",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "iran",
+      "war",
+      "what",
+      "happening",
+      "day",
       "israel",
-      "article70730004.ece"
+      "attacks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.32,
+    "count": 17,
+    "top_news": "https://ghanaiantimes.com.gh/iran-expanding-middle-east-conflict-israeli-ambassador/",
+    "event_codes": {
+      "19": 11,
+      "17": 4,
+      "18": 2
+    },
+    "keywords": [
+      "iran",
+      "expanding",
+      "middle",
+      "east",
+      "conflict",
+      "israeli",
+      "ambassador"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/3/11/israel-continues-to-pound-lebanon-hits-dense-area-of-central-beirut",
+    "event_codes": {
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "israel",
+      "continues",
+      "pound",
+      "lebanon",
+      "hits",
+      "dense",
+      "area",
+      "central",
+      "beirut"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thecable.ng/newspaper-headlines-icpc-gets-court-order-to-detain-el-rufai-for-another-14-days/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "newspaper",
+      "headlines",
+      "icpc",
+      "gets",
+      "court",
+      "order",
+      "detain",
+      "rufai",
+      "for",
+      "another",
+      "days"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.terrorism-info.org.il/en/spotlight-on-terrorism-and-the-israeli-palestinian-conflict-march-3-10-2026/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "spotlight",
+      "terrorism",
+      "and",
+      "the",
+      "israeli",
+      "palestinian",
+      "conflict",
+      "march",
+      "2026"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/3/11/iran-war-what-is-happening-on-day-12-of-us-israel-attacks",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "iran",
+      "war",
+      "what",
+      "happening",
+      "day",
+      "israel",
+      "attacks"
+    ]
+  },
+  "SSD": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/sspdf-accused-of-poisoning-water-wells-as-un-rights-chief-urges-ceasefire",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "article",
+      "sspdf",
+      "accused",
+      "poisoning",
+      "water",
+      "wells",
+      "rights",
+      "chief",
+      "urges",
+      "ceasefire"
     ]
   }
 }
