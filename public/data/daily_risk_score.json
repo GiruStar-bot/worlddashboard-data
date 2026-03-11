@@ -1,163 +1,97 @@
 {
-  "IRN": {
-    "risk_score": 36.82,
-    "count": 40,
-    "top_news": "https://nevadanewsandviews.com/trumps-bold-and-necessary-attack-on-iran/",
+  "CHL": {
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/kast-takes-office-chilean-president-175130020.html",
     "event_codes": {
-      "19": 31,
-      "17": 4,
-      "18": 3,
-      "15": 1,
-      "16": 1
+      "16": 2,
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "trumps",
-      "bold",
-      "and",
-      "necessary",
-      "attack",
-      "iran"
+      "news",
+      "articles",
+      "kast",
+      "takes",
+      "office",
+      "chilean",
+      "president",
+      "175130020.html"
+    ]
+  },
+  "ECU": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.taipeitimes.com/News/world/archives/2026/03/12/2003853695",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "archives",
+      "2026",
+      "2003853695"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.45,
+    "count": 14,
+    "top_news": "https://ktbb.com/post/?p=1487397",
+    "event_codes": {
+      "19": 6,
+      "17": 5,
+      "14": 1,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "post"
     ]
   },
   "ISR": {
-    "risk_score": 36.0,
-    "count": 40,
-    "top_news": "https://nevadanewsandviews.com/trumps-bold-and-necessary-attack-on-iran/",
+    "risk_score": 7.94,
+    "count": 10,
+    "top_news": "https://ktbb.com/post/?p=1487351",
     "event_codes": {
-      "19": 30,
-      "17": 5,
-      "18": 3,
-      "16": 2
+      "19": 4,
+      "14": 2,
+      "16": 2,
+      "17": 2
     },
     "keywords": [
-      "trumps",
-      "bold",
-      "and",
-      "necessary",
-      "attack",
-      "iran"
+      "post"
     ]
   },
-  "KEN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.livemint.com/global/russia-lures-recruits-from-africa-to-feed-its-ukraine-war-machine-11773246795215.html",
+  "THA": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://aninews.in/news/world/asia/india-deplores-attacks-on-commercial-shipping-amid-west-asia-conflict-mea-after-strikes-on-thai-flagged-cargo-ship20260311225407/",
     "event_codes": {
       "17": 3,
-      "19": 2
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "global",
-      "russia",
-      "lures",
-      "recruits",
-      "from",
-      "africa",
-      "feed",
-      "its",
-      "ukraine",
-      "war",
-      "machine",
-      "11773246795215.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.bangordailynews.com/2026/03/11/nation/number-of-casualties-us-israel-iran-war/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "nation",
-      "number",
-      "casualties",
-      "israel",
-      "iran",
-      "war"
-    ]
-  },
-  "LBN": {
-    "risk_score": 15.29,
-    "count": 16,
-    "top_news": "https://www.moroccoworldnews.com/2026/03/282252/hrw-accuses-israel-of-unlawfully-using-white-phosphorus-in-lebanese-town/",
-    "event_codes": {
-      "19": 14,
-      "15": 2
-    },
-    "keywords": [
-      "2026",
-      "282252",
-      "hrw",
-      "accuses",
-      "israel",
-      "unlawfully",
-      "using",
-      "white",
-      "phosphorus",
-      "lebanese",
-      "town"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.5,
-    "count": 8,
-    "top_news": "https://hallmarknews.com/musa-orders-service-chiefs-to-review-military-strategy-as-terror-attacks-escalate-in-north/",
-    "event_codes": {
-      "19": 5,
-      "17": 3
-    },
-    "keywords": [
-      "musa",
-      "orders",
-      "service",
-      "chiefs",
-      "review",
-      "military",
-      "strategy",
-      "terror",
+      "news",
+      "world",
+      "asia",
+      "india",
+      "deplores",
       "attacks",
-      "escalate",
-      "north"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://tribune.com.pk/story/2597081/as-many-as-150-us-troops-wounded-so-far-in-iran-war-sources-say",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "story",
-      "2597081",
-      "many",
-      "150",
-      "troops",
-      "wounded",
-      "far",
-      "iran",
-      "war",
-      "sources",
-      "say"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bangordailynews.com/2026/03/11/nation/number-of-casualties-us-israel-iran-war/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "nation",
-      "number",
-      "casualties",
-      "israel",
-      "iran",
-      "war"
+      "commercial",
+      "shipping",
+      "amid",
+      "west",
+      "asia",
+      "conflict",
+      "mea",
+      "after",
+      "strikes",
+      "thai",
+      "flagged",
+      "cargo",
+      "ship20260311225407"
     ]
   }
 }
