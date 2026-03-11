@@ -1,113 +1,121 @@
 {
-  "BRA": {
+  "ARE": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.thejakartapost.com/world/2026/03/11/drones-fall-near-dubai-airport-ships-hit-as-iran-presses-on-with-attacks.html",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "drones",
+      "fall",
+      "near",
+      "dubai",
+      "airport",
+      "ships",
+      "hit",
+      "iran",
+      "presses",
+      "with",
+      "attacks.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.75,
+    "count": 18,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4486775/iran-irgc-degraded-united-states-israel-war/",
+    "event_codes": {
+      "19": 14,
+      "14": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "4486775",
+      "iran",
+      "irgc",
+      "degraded",
+      "united",
+      "states",
+      "israel",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.arkansasonline.com/news/2026/mar/11/us-says-16-iran-vessels-destroyed/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mar",
+      "says",
+      "iran",
+      "vessels",
+      "destroyed"
+    ]
+  },
+  "NGA": {
+    "risk_score": 15.44,
+    "count": 16,
+    "top_news": "https://www.legit.ng/nigeria/1700602-dont-surrender-bandits-igp-tells-kwara-communities/",
+    "event_codes": {
+      "19": 14,
+      "15": 2
+    },
+    "keywords": [
+      "nigeria",
+      "1700602",
+      "dont",
+      "surrender",
+      "bandits",
+      "igp",
+      "tells",
+      "kwara",
+      "communities"
+    ]
+  },
+  "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yachtsandyachting.com/news/294368/Globe40-Leg-5-Update-Another-fight-for-the-finish",
+    "top_news": "https://www.radiotamazuj.org/en/news/article/opinion-why-commander-william-nyuon-left-the-splm-a-torit-faction",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "294368",
-      "globe40",
-      "leg",
-      "update",
-      "another",
-      "fight",
-      "for",
+      "article",
+      "opinion",
+      "why",
+      "commander",
+      "william",
+      "nyuon",
+      "left",
       "the",
-      "finish"
+      "splm",
+      "torit",
+      "faction"
     ]
   },
-  "IRN": {
-    "risk_score": 9.27,
-    "count": 10,
-    "top_news": "https://www.military.com/daily-news/2026/03/10/army-veteran-who-survived-major-missile-blast-iraq-sounds-alarm-tbis.html",
+  "SSD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.globalissues.org/news/2026/03/10/42524",
     "event_codes": {
-      "19": 6,
-      "17": 2,
-      "18": 2
+      "19": 4
     },
     "keywords": [
-      "daily",
       "news",
       "2026",
-      "army",
-      "veteran",
-      "who",
-      "survived",
-      "major",
-      "missile",
-      "blast",
-      "iraq",
-      "sounds",
-      "alarm",
-      "tbis.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.44,
-    "count": 15,
-    "top_news": "https://www.israelnationalnews.com/news/423746",
-    "event_codes": {
-      "19": 7,
-      "16": 3,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "423746"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.dw.com/en/lebanon-hezbollah-iran-us-israel-war-humanitarian-crisis/a-76293444",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "lebanon",
-      "hezbollah",
-      "iran",
-      "israel",
-      "war",
-      "humanitarian",
-      "crisis",
-      "76293444"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.dw.com/en/nigeria-boko-haram-sahel-militants-insurgency-jihadist-groups/a-76292753",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "nigeria",
-      "boko",
-      "haram",
-      "sahel",
-      "militants",
-      "insurgency",
-      "jihadist",
-      "groups",
-      "76292753"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/423742",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "423742"
+      "42524"
     ]
   }
 }
