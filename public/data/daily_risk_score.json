@@ -1,118 +1,121 @@
 {
-  "IRN": {
-    "risk_score": 7.45,
-    "count": 9,
-    "top_news": "https://www.yahoo.com/news/articles/mojtaba-khamenei-frontrunner-irans-supreme-132307213.html",
+  "COD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://english.news.cn/20260312/11252a36ee87487b97eb61803bd1b9fd/c.html",
     "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 2,
-      "14": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "articles",
-      "mojtaba",
-      "khamenei",
-      "frontrunner",
-      "irans",
-      "supreme",
-      "132307213.html"
+      "20260312",
+      "11252a36ee87487b97eb61803bd1b9fd",
+      "c.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.5,
+    "count": 14,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/03/12/iran-warns-of-long-war-that-would-destroy-world-economy",
+    "event_codes": {
+      "19": 11,
+      "17": 3
+    },
+    "keywords": [
+      "category",
+      "highlight",
+      "2026",
+      "iran",
+      "warns",
+      "long",
+      "war",
+      "that",
+      "would",
+      "destroy",
+      "world",
+      "economy"
     ]
   },
   "ISR": {
-    "risk_score": 3.05,
-    "count": 5,
-    "top_news": "https://tribune.com.pk/story/2597092/israels-breaking-bad-in-usa",
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://www.gamereactor.eu/iran-tells-the-world-get-ready-for-oil-to-be-200-a-barrel-1688793/",
     "event_codes": {
-      "17": 2,
-      "14": 1,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "story",
-      "2597092",
-      "israels",
-      "breaking",
-      "bad",
-      "usa"
-    ]
-  },
-  "KHM": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://www.abc.net.au/news/2026-03-12/cambodia-says-it-will-shut-down-scam-centres-by-end-of-april/106444574",
-    "event_codes": {
-      "19": 2,
+      "19": 7,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "cambodia",
-      "says",
-      "will",
-      "shut",
-      "down",
-      "scam",
-      "centres",
-      "end",
-      "april",
-      "106444574"
+      "iran",
+      "tells",
+      "the",
+      "world",
+      "get",
+      "ready",
+      "for",
+      "oil",
+      "200",
+      "barrel",
+      "1688793"
     ]
-  },
-  "MLI": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://lestimes.com/?p=89939",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": []
   },
   "NGA": {
-    "risk_score": 4.9,
-    "count": 9,
-    "top_news": "https://saharareporters.com/2026/03/11/arewa-youths-urge-tinubu-sack-defence-minister-over-rising-insecurity-northern-nigeria",
+    "risk_score": 6.76,
+    "count": 7,
+    "top_news": "https://www.premiumtimesng.com/regional/nnorth-east/863374-nigerian-troops-reportedly-reclaim-borno-village-seized-by-boko-haram.html",
     "event_codes": {
-      "17": 8,
-      "18": 1
+      "19": 4,
+      "17": 3
     },
     "keywords": [
-      "2026",
-      "arewa",
-      "youths",
-      "urge",
-      "tinubu",
-      "sack",
-      "defence",
-      "minister",
-      "over",
-      "rising",
-      "insecurity",
-      "northern",
-      "nigeria"
+      "regional",
+      "nnorth",
+      "east",
+      "863374",
+      "nigerian",
+      "troops",
+      "reportedly",
+      "reclaim",
+      "borno",
+      "village",
+      "seized",
+      "boko",
+      "haram.html"
     ]
   },
-  "VNM": {
+  "SDN": {
     "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.inquirer.com/crime/trung-duc-lu-fbi-most-wanted-philadelphia-20260311.html",
+    "count": 3,
+    "top_news": "https://www.thestar.com.my/news/world/2026/03/12/xinhua-middle-east-news-summary-at-2200-gmt-march-11",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "crime",
-      "trung",
-      "duc",
-      "fbi",
-      "most",
-      "wanted",
-      "philadelphia",
-      "20260311.html"
+      "news",
+      "world",
+      "2026",
+      "xinhua",
+      "middle",
+      "east",
+      "news",
+      "summary",
+      "2200",
+      "gmt",
+      "march"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262827.html",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "index",
+      "news",
+      "national",
+      "byo",
+      "262827.html"
     ]
   }
 }
