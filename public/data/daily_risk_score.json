@@ -1,159 +1,83 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://guardianlv.com/2026/03/140-us-soldiers-wounded-8-severely-update/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "140",
-      "soldiers",
-      "wounded",
-      "severely",
-      "update"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://en.tempo.co/read/2091861/prabowo-indonesia-does-not-interfere-in-other-countries-internal-affairs",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "read",
-      "2091861",
-      "prabowo",
-      "indonesia",
-      "does",
-      "not",
-      "interfere",
-      "other",
-      "countries",
-      "internal",
-      "affairs"
-    ]
-  },
   "IRN": {
-    "risk_score": 14.2,
-    "count": 15,
-    "top_news": "https://www.nvdaily.com/nvdaily/community-reflects-on-end-of-regime-war-in-iran/article_db5789cc-99b4-57b0-b3c4-ca32d2e9e6c1.html",
+    "risk_score": 10.6,
+    "count": 11,
+    "top_news": "https://www.rediff.com/news/special/has-us-repeated-its-iraq-mistake/20260311.htm",
     "event_codes": {
-      "19": 9,
-      "20": 3,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "nvdaily",
-      "community",
-      "reflects",
-      "end",
-      "regime",
-      "war",
-      "iran",
-      "article",
-      "db5789cc",
-      "99b4",
-      "57b0",
-      "b3c4",
-      "ca32d2e9e6c1.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.yahoo.com/news/articles/israel-targets-hezbollah-iran-technical-222309192.html",
-    "event_codes": {
-      "19": 8
+      "19": 6,
+      "18": 4,
+      "14": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "israel",
-      "targets",
-      "hezbollah",
+      "special",
+      "has",
+      "repeated",
+      "its",
+      "iraq",
+      "mistake",
+      "20260311.htm"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.deccanchronicle.com/west-asia/iran-says-carries-out-strikes-on-us-israeli-targets-state-media-1943017",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "west",
+      "asia",
       "iran",
-      "technical",
-      "222309192.html"
+      "says",
+      "carries",
+      "out",
+      "strikes",
+      "israeli",
+      "targets",
+      "state",
+      "media",
+      "1943017"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.75,
+    "count": 13,
+    "top_news": "https://www.asiaone.com/world/hezbollah-returns-guerrilla-roots-awaits-israeli-invasion",
+    "event_codes": {
+      "19": 5,
+      "17": 4,
+      "14": 3,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "hezbollah",
+      "returns",
+      "guerrilla",
+      "roots",
+      "awaits",
+      "israeli",
+      "invasion"
     ]
   },
   "LBN": {
-    "risk_score": 3.95,
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/israel-targets-hezbollah-iran-technical-222309192.html",
+    "top_news": "https://www.rediff.com/news/special/has-us-repeated-its-iraq-mistake/20260311.htm",
     "event_codes": {
       "19": 4
     },
     "keywords": [
       "news",
-      "articles",
-      "israel",
-      "targets",
-      "hezbollah",
-      "iran",
-      "technical",
-      "222309192.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 29.2,
-    "count": 32,
-    "top_news": "https://punchng.com/lagos-2027-president-tinubus-litmus-test/",
-    "event_codes": {
-      "19": 20,
-      "18": 8,
-      "17": 4
-    },
-    "keywords": [
-      "lagos",
-      "2027",
-      "president",
-      "tinubus",
-      "litmus",
-      "test"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailymail.co.uk/news/article-15633899/HMS-Dragon-ends-Britains-embarrassment.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15633899",
-      "hms",
-      "dragon",
-      "ends",
-      "britains",
-      "embarrassment.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/11/civil-war-drives-drugs-epidemic-across-border",
-    "event_codes": {
-      "18": 4
-    },
-    "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
-      "2026",
-      "civil",
-      "war",
-      "drives",
-      "drugs",
-      "epidemic",
-      "across",
-      "border"
+      "special",
+      "has",
+      "repeated",
+      "its",
+      "iraq",
+      "mistake",
+      "20260311.htm"
     ]
   }
 }
