@@ -1,77 +1,130 @@
 {
-  "IRN": {
-    "risk_score": 15.47,
-    "count": 18,
-    "top_news": "https://www.hindustantimes.com/india-news/india-denounces-attacks-on-merchant-shipping-after-iran-targets-kandla-bound-vessel-101773245894160.html",
+  "CHL": {
+    "risk_score": 3.15,
+    "count": 6,
+    "top_news": "https://www.elciudadano.com/en/macarena-mercado-reflects-on-personal-trauma-and-legal-victory-against-police-abuse/03/11/",
     "event_codes": {
-      "19": 10,
-      "18": 3,
-      "17": 2,
-      "14": 1,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "india",
-      "news",
-      "india",
-      "denounces",
-      "attacks",
-      "merchant",
-      "shipping",
-      "after",
-      "iran",
-      "targets",
-      "kandla",
-      "bound",
-      "vessel",
-      "101773245894160.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.2,
-    "count": 7,
-    "top_news": "https://techcrunch.com/2026/03/11/stryker-hack-pro-iran-hacktivist-group-handala-says-it-is-behind-attack/",
-    "event_codes": {
-      "19": 4,
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "stryker",
-      "hack",
-      "pro",
-      "iran",
-      "hacktivist",
-      "group",
-      "handala",
-      "says",
-      "behind",
-      "attack"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.05,
-    "count": 3,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/guterres-urges-womens-rights-activists-to-keep-shaking-the-foundations-of-privilege/",
-    "event_codes": {
-      "17": 2,
+      "17": 5,
       "14": 1
     },
     "keywords": [
-      "channelafrica",
+      "macarena",
+      "mercado",
+      "reflects",
+      "personal",
+      "trauma",
+      "and",
+      "legal",
+      "victory",
+      "against",
+      "police",
+      "abuse"
+    ]
+  },
+  "ECU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/running-list-countries-where-trump-185245792.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
       "news",
-      "guterres",
-      "urges",
-      "womens",
-      "rights",
-      "activists",
-      "keep",
-      "shaking",
-      "the",
-      "foundations",
-      "privilege"
+      "articles",
+      "running",
+      "list",
+      "countries",
+      "where",
+      "trump",
+      "185245792.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 18.72,
+    "count": 21,
+    "top_news": "https://understandingwar.org/research/middle-east/iran-update-morning-special-report-march-11-2026/",
+    "event_codes": {
+      "19": 15,
+      "16": 2,
+      "18": 2,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "research",
+      "middle",
+      "east",
+      "iran",
+      "update",
+      "morning",
+      "special",
+      "report",
+      "march",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.1,
+    "count": 20,
+    "top_news": "https://www.dw.com/en/iran-war-tehran-demands-reparations-to-end-conflict/live-76297820",
+    "event_codes": {
+      "19": 10,
+      "17": 6,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "tehran",
+      "demands",
+      "reparations",
+      "end",
+      "conflict",
+      "live",
+      "76297820"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.14,
+    "count": 14,
+    "top_news": "https://dailytrust.com/breaking-soldiers-gun-down-terrorists-recapture-borno-military-base/",
+    "event_codes": {
+      "19": 9,
+      "15": 2,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "breaking",
+      "soldiers",
+      "gun",
+      "down",
+      "terrorists",
+      "recapture",
+      "borno",
+      "military",
+      "base"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://syriadirect.org/one-year-after-syrias-coastal-massacres-justice-remains-elusive/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "one",
+      "year",
+      "after",
+      "syrias",
+      "coastal",
+      "massacres",
+      "justice",
+      "remains",
+      "elusive"
     ]
   }
 }
