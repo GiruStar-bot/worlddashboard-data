@@ -1,97 +1,119 @@
 {
-  "CHL": {
-    "risk_score": 3.8,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/articles/kast-takes-office-chilean-president-175130020.html",
+  "COL": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://marxist.com/ecuador-trades-cuban-embassy-for-american-troops-and-bombs.htm",
     "event_codes": {
-      "16": 2,
-      "17": 2,
-      "19": 2
+      "19": 5
     },
     "keywords": [
-      "news",
-      "articles",
-      "kast",
-      "takes",
-      "office",
-      "chilean",
-      "president",
-      "175130020.html"
+      "ecuador",
+      "trades",
+      "cuban",
+      "embassy",
+      "for",
+      "american",
+      "troops",
+      "and",
+      "bombs.htm"
     ]
   },
   "ECU": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.taipeitimes.com/News/world/archives/2026/03/12/2003853695",
+    "risk_score": 4.8,
+    "count": 8,
+    "top_news": "https://marxist.com/ecuador-trades-cuban-embassy-for-american-troops-and-bombs.htm",
     "event_codes": {
-      "17": 4
+      "17": 6,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "archives",
-      "2026",
-      "2003853695"
+      "ecuador",
+      "trades",
+      "cuban",
+      "embassy",
+      "for",
+      "american",
+      "troops",
+      "and",
+      "bombs.htm"
     ]
   },
   "IRN": {
-    "risk_score": 10.45,
-    "count": 14,
-    "top_news": "https://ktbb.com/post/?p=1487397",
+    "risk_score": 13.4,
+    "count": 16,
+    "top_news": "https://english.aawsat.com/arab-world/5250168-iraqi-pm-tells-iranian-president-attacks-targeting-iraq-are-unacceptable",
     "event_codes": {
-      "19": 6,
-      "17": 5,
-      "14": 1,
-      "16": 1,
+      "19": 9,
+      "14": 3,
+      "17": 3,
       "18": 1
     },
     "keywords": [
-      "post"
+      "arab",
+      "world",
+      "5250168",
+      "iraqi",
+      "tells",
+      "iranian",
+      "president",
+      "attacks",
+      "targeting",
+      "iraq",
+      "are",
+      "unacceptable"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5250168-iraqi-pm-tells-iranian-president-attacks-targeting-iraq-are-unacceptable",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5250168",
+      "iraqi",
+      "tells",
+      "iranian",
+      "president",
+      "attacks",
+      "targeting",
+      "iraq",
+      "are",
+      "unacceptable"
     ]
   },
   "ISR": {
-    "risk_score": 7.94,
-    "count": 10,
-    "top_news": "https://ktbb.com/post/?p=1487351",
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "http://thechiefleader.com/stories/the-effect-of-dehumanization,56113",
     "event_codes": {
       "19": 4,
-      "14": 2,
-      "16": 2,
-      "17": 2
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "post"
+      "stories",
+      "the",
+      "effect",
+      "dehumanization,56113"
     ]
   },
-  "THA": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://aninews.in/news/world/asia/india-deplores-attacks-on-commercial-shipping-amid-west-asia-conflict-mea-after-strikes-on-thai-flagged-cargo-ship20260311225407/",
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.washingtonjewishweek.com/opinion-lawmakers-with-blinders/",
     "event_codes": {
-      "17": 3,
-      "19": 2,
-      "16": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "asia",
-      "india",
-      "deplores",
-      "attacks",
-      "commercial",
-      "shipping",
-      "amid",
-      "west",
-      "asia",
-      "conflict",
-      "mea",
-      "after",
-      "strikes",
-      "thai",
-      "flagged",
-      "cargo",
-      "ship20260311225407"
+      "opinion",
+      "lawmakers",
+      "with",
+      "blinders"
     ]
   }
 }
