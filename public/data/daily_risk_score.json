@@ -1,121 +1,85 @@
 {
-  "COD": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260312/11252a36ee87487b97eb61803bd1b9fd/c.html",
+  "EGY": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://alextimes.com/local-news/crime/ex-d-c-officer-indicted-on-32-felony-counts-in-alexandria/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "20260312",
-      "11252a36ee87487b97eb61803bd1b9fd",
-      "c.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 12.5,
-    "count": 14,
-    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/03/12/iran-warns-of-long-war-that-would-destroy-world-economy",
-    "event_codes": {
-      "19": 11,
-      "17": 3
-    },
-    "keywords": [
-      "category",
-      "highlight",
-      "2026",
-      "iran",
-      "warns",
-      "long",
-      "war",
-      "that",
-      "would",
-      "destroy",
-      "world",
-      "economy"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.gamereactor.eu/iran-tells-the-world-get-ready-for-oil-to-be-200-a-barrel-1688793/",
-    "event_codes": {
-      "19": 7,
-      "18": 2,
+      "18": 4,
       "17": 1
     },
     "keywords": [
+      "local",
+      "news",
+      "crime",
+      "officer",
+      "indicted",
+      "felony",
+      "counts",
+      "alexandria"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.4,
+    "count": 16,
+    "top_news": "https://www.marketscreener.com/news/us-intelligence-says-iran-government-is-not-at-risk-of-collapse-say-sources-ce7e5fddd88df225",
+    "event_codes": {
+      "19": 10,
+      "16": 6
+    },
+    "keywords": [
+      "news",
+      "intelligence",
+      "says",
       "iran",
-      "tells",
-      "the",
-      "world",
-      "get",
-      "ready",
-      "for",
-      "oil",
-      "200",
-      "barrel",
-      "1688793"
+      "government",
+      "not",
+      "risk",
+      "collapse",
+      "say",
+      "sources",
+      "ce7e5fddd88df225"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.9,
+    "count": 8,
+    "top_news": "https://dominicanrepublicpost.com/iran-linked-hackers-hit-medical-giant-stryker-in-retaliatory-cyberattack/",
+    "event_codes": {
+      "18": 5,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "iran",
+      "linked",
+      "hackers",
+      "hit",
+      "medical",
+      "giant",
+      "stryker",
+      "retaliatory",
+      "cyberattack"
     ]
   },
   "NGA": {
-    "risk_score": 6.76,
-    "count": 7,
-    "top_news": "https://www.premiumtimesng.com/regional/nnorth-east/863374-nigerian-troops-reportedly-reclaim-borno-village-seized-by-boko-haram.html",
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://peoplesdailyng.com/terrorism-court-sentences-three-arrested-by-dss-to-10-years-in-prison-for-arms-trafficking/",
     "event_codes": {
-      "19": 4,
-      "17": 3
+      "17": 5
     },
     "keywords": [
-      "regional",
-      "nnorth",
-      "east",
-      "863374",
-      "nigerian",
-      "troops",
-      "reportedly",
-      "reclaim",
-      "borno",
-      "village",
-      "seized",
-      "boko",
-      "haram.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thestar.com.my/news/world/2026/03/12/xinhua-middle-east-news-summary-at-2200-gmt-march-11",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "xinhua",
-      "middle",
-      "east",
-      "news",
-      "summary",
-      "2200",
-      "gmt",
-      "march"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262827.html",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "index",
-      "news",
-      "national",
-      "byo",
-      "262827.html"
+      "terrorism",
+      "court",
+      "sentences",
+      "three",
+      "arrested",
+      "dss",
+      "years",
+      "prison",
+      "for",
+      "arms",
+      "trafficking"
     ]
   }
 }
