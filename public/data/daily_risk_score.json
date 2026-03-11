@@ -1,144 +1,90 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hindustantimes.com/world-news/4-civilians-killed-in-iranian-drone-missile-attacks-on-uae-what-we-know-about-the-victims-101773201571153.html",
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/iran-keeps-up-pressure-on-oil-infrastructure-as-concerns-of-global-energy-crisis-grow/articleshow/129439541.cms",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "17": 2
     },
     "keywords": [
+      "news",
+      "international",
       "world",
       "news",
-      "civilians",
-      "killed",
-      "iranian",
-      "drone",
-      "missile",
-      "attacks",
-      "uae",
-      "what",
-      "know",
-      "about",
-      "the",
-      "victims",
-      "101773201571153.html"
+      "iran",
+      "keeps",
+      "pressure",
+      "oil",
+      "infrastructure",
+      "concerns",
+      "global",
+      "energy",
+      "crisis",
+      "grow",
+      "articleshow",
+      "129439541.cms"
     ]
   },
-  "BHR": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.moneycontrol.com/world/iran-launches-wave-37-attacks-tel-aviv-jerusalem-and-us-bases-in-the-gulf-region-article-13856625.html",
+    "top_news": "https://en.apa.az/asia/drone-attack-on-us-diplomatic-facility-in-baghdad-496025",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "iran",
-      "launches",
-      "wave",
-      "attacks",
-      "tel",
-      "aviv",
-      "jerusalem",
-      "and",
-      "bases",
-      "the",
-      "gulf",
-      "region",
-      "article",
-      "13856625.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 19.52,
-    "count": 22,
-    "top_news": "https://www.hindustantimes.com/world-news/4-civilians-killed-in-iranian-drone-missile-attacks-on-uae-what-we-know-about-the-victims-101773201571153.html",
-    "event_codes": {
-      "19": 15,
-      "17": 4,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "civilians",
-      "killed",
-      "iranian",
+      "asia",
       "drone",
-      "missile",
-      "attacks",
-      "uae",
-      "what",
-      "know",
-      "about",
-      "the",
-      "victims",
-      "101773201571153.html"
+      "attack",
+      "diplomatic",
+      "facility",
+      "baghdad",
+      "496025"
     ]
   },
   "ISR": {
-    "risk_score": 18.8,
-    "count": 20,
-    "top_news": "https://www.yorkpress.co.uk/news/25924957.york-residents-stranded-middle-east-insurance-bid---mp/",
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://nuclear-news.net/2026/03/11/6-punching-them-while-theyre-down-us-israel-bomb-irans-schools-hospitals-with-no-stupid-rules-of-engagement/",
     "event_codes": {
-      "19": 16,
-      "17": 2,
-      "18": 2
+      "19": 5,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "25924957.york",
-      "residents",
-      "stranded",
-      "middle",
-      "east",
-      "insurance",
-      "bid"
+      "2026",
+      "punching",
+      "them",
+      "while",
+      "theyre",
+      "down",
+      "israel",
+      "bomb",
+      "irans",
+      "schools",
+      "hospitals",
+      "with",
+      "stupid",
+      "rules",
+      "engagement"
     ]
   },
   "LBN": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.oneidadispatch.com/2026/03/10/iran-israel-us-war/",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://timesofmalta.com/article/israeli-strike-hits-central-beirut.1125277",
     "event_codes": {
-      "19": 4,
-      "16": 2
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "israel",
-      "war"
-    ]
-  },
-  "MYS": {
-    "risk_score": 8.61,
-    "count": 10,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/03/11/international-drug-trafficking-syndicate-smashed-with-the-arrest-of-four-rm935mil-worth-of-cannabis-seized",
-    "event_codes": {
-      "17": 4,
-      "18": 3,
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "international",
-      "drug",
-      "trafficking",
-      "syndicate",
-      "smashed",
-      "with",
-      "the",
-      "arrest",
-      "four",
-      "rm935mil",
-      "worth",
-      "cannabis",
-      "seized"
+      "article",
+      "israeli",
+      "strike",
+      "hits",
+      "central",
+      "beirut.1125277"
     ]
   }
 }
