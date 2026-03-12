@@ -1,158 +1,12 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.kacu.org/2026-03-12/fear-of-iranian-mines-in-the-strait-of-hormuz-could-further-slow-the-flow-of-oil",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "fear",
-      "iranian",
-      "mines",
-      "the",
-      "strait",
-      "hormuz",
-      "could",
-      "further",
-      "slow",
-      "the",
-      "flow",
-      "oil"
-    ]
-  },
-  "COD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.miragenews.com/sudan-drone-strikes-womens-safety-dr-congo-1636228/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "sudan",
-      "drone",
-      "strikes",
-      "womens",
-      "safety",
-      "congo",
-      "1636228"
-    ]
-  },
   "IRN": {
-    "risk_score": 25.15,
-    "count": 26,
-    "top_news": "https://www.brandonsun.com/national/2026/03/12/ottawas-failure-to-disclose-attack-on-military-in-kuwait-shameful-tory-mp",
+    "risk_score": 14.2,
+    "count": 15,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-889835",
     "event_codes": {
-      "19": 18,
-      "18": 4,
-      "20": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "national",
-      "2026",
-      "ottawas",
-      "failure",
-      "disclose",
-      "attack",
-      "military",
-      "kuwait",
-      "shameful",
-      "tory"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theguardian.com/politics/2026/mar/12/linking-iran-russia-john-healey-uk-role-in-us-israel-war",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "politics",
-      "2026",
-      "mar",
-      "linking",
-      "iran",
-      "russia",
-      "john",
-      "healey",
-      "role",
-      "israel",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://www.news18.com/world/netanyahu-says-israel-crushing-iran-hezbollah-calls-mojtaba-khamenei-puppet-of-irgc-ws-l-9957844.html",
-    "event_codes": {
-      "19": 9,
+      "19": 11,
       "14": 2,
-      "16": 2
-    },
-    "keywords": [
-      "world",
-      "netanyahu",
-      "says",
-      "israel",
-      "crushing",
-      "iran",
-      "hezbollah",
-      "calls",
-      "mojtaba",
-      "khamenei",
-      "puppet",
-      "irgc",
-      "9957844.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.42,
-    "count": 3,
-    "top_news": "https://www.broadwayworld.com/article/Taylor-Iman-Jones-Jordan-Fisher-and-More-to-Star-in-THE-KINGS-CRITIQUE-Industry-Reading-20260312",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "article",
-      "taylor",
-      "iman",
-      "jones",
-      "jordan",
-      "fisher",
-      "and",
-      "more",
-      "star",
-      "the",
-      "kings",
-      "critique",
-      "industry",
-      "reading",
-      "20260312"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.okaz.com.sa/politics/na/2239791",
-    "event_codes": {
       "18": 2
-    },
-    "keywords": [
-      "politics",
-      "2239791"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-889824",
-    "event_codes": {
-      "19": 3
     },
     "keywords": [
       "middle",
@@ -160,24 +14,114 @@
       "iran",
       "news",
       "article",
-      "889824"
+      "889835"
     ]
   },
-  "SDN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.miragenews.com/sudan-drone-strikes-womens-safety-dr-congo-1636228/",
+  "IRQ": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/world-news/attack-on-oil-tankers-off-iraq-kills-one-rescue-operation-ongoing-101773305772957.html",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "18": 2
     },
     "keywords": [
-      "sudan",
-      "drone",
-      "strikes",
-      "womens",
-      "safety",
-      "congo",
-      "1636228"
+      "world",
+      "news",
+      "attack",
+      "oil",
+      "tankers",
+      "off",
+      "iraq",
+      "kills",
+      "one",
+      "rescue",
+      "operation",
+      "ongoing",
+      "101773305772957.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.55,
+    "count": 19,
+    "top_news": "https://nypost.com/2026/03/12/world-news/teen-tells-the-post-about-iranian-missile-strike-that-killed-her-mom-and-grandma-in-bomb-shelter/",
+    "event_codes": {
+      "16": 7,
+      "19": 6,
+      "17": 3,
+      "14": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "teen",
+      "tells",
+      "the",
+      "post",
+      "about",
+      "iranian",
+      "missile",
+      "strike",
+      "that",
+      "killed",
+      "her",
+      "mom",
+      "and",
+      "grandma",
+      "bomb",
+      "shelter"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wsmv.com/2026/03/12/suspect-shot-by-officer-after-road-rage-incident-smyrna-police-say/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "suspect",
+      "shot",
+      "officer",
+      "after",
+      "road",
+      "rage",
+      "incident",
+      "smyrna",
+      "police",
+      "say"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.wboc.com/news/salisbury-man-sentenced-to-life-plus-60-years-for-2023-gang-war-murder/article_a82a9f41-1e9a-4752-8972-a10a225e7cba.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "salisbury",
+      "man",
+      "sentenced",
+      "life",
+      "plus",
+      "years",
+      "for",
+      "2023",
+      "gang",
+      "war",
+      "murder",
+      "article",
+      "a82a9f41",
+      "1e9a",
+      "4752",
+      "8972",
+      "a10a225e7cba.html"
     ]
   }
 }
