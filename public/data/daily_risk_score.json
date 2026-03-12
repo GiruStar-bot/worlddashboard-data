@@ -1,130 +1,119 @@
 {
   "ARG": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://newint.org/nationalism/2026/argentina-past-denied",
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://forward.com/fast-forward/811675/as-milei-celebrates-ties-with-jews-in-ny-argentine-streamer-draws-antisemitism-complaint-for-mocking-his-israel-support/",
     "event_codes": {
-      "17": 5
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "nationalism",
-      "2026",
-      "argentina",
-      "past",
-      "denied"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://www.thejakartapost.com/opinion/2026/03/12/prabowo-and-the-military.html",
-    "event_codes": {
-      "15": 3
-    },
-    "keywords": [
-      "opinion",
-      "2026",
-      "prabowo",
-      "and",
-      "the",
-      "military.html"
+      "fast",
+      "forward",
+      "811675",
+      "milei",
+      "celebrates",
+      "ties",
+      "with",
+      "jews",
+      "argentine",
+      "streamer",
+      "draws",
+      "antisemitism",
+      "complaint",
+      "for",
+      "mocking",
+      "his",
+      "israel",
+      "support"
     ]
   },
   "IRN": {
-    "risk_score": 18.9,
-    "count": 19,
-    "top_news": "https://www.keysnews.com/news/national/iran-says-war-could-destroy-global-economy-trump-vows-to-finish-job/article_15c3c0f4-b15b-55e0-86d2-cd7fc98f57e8.html",
+    "risk_score": 16.02,
+    "count": 17,
+    "top_news": "https://www.manilatimes.net/2026/03/12/world/americas-emea/iran-threatens-prolonged-war-as-trump-says-it-is-near-defeat/2298375",
     "event_codes": {
-      "19": 18,
-      "18": 1
+      "19": 13,
+      "18": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "national",
+      "2026",
+      "world",
+      "americas",
+      "emea",
       "iran",
-      "says",
+      "threatens",
+      "prolonged",
       "war",
-      "could",
-      "destroy",
-      "global",
-      "economy",
       "trump",
-      "vows",
-      "finish",
-      "job",
-      "article",
-      "15c3c0f4",
-      "b15b",
-      "55e0",
-      "86d2",
-      "cd7fc98f57e8.html"
+      "says",
+      "near",
+      "defeat",
+      "2298375"
     ]
   },
   "ISR": {
-    "risk_score": 12.15,
+    "risk_score": 17.5,
     "count": 18,
-    "top_news": "https://www.ynetnews.com/article/bydlyuyczg",
+    "top_news": "https://www.theatlantic.com/newsletters/2026/03/members-of-congress-openly-attacking-muslim-americans/686336/",
     "event_codes": {
-      "17": 9,
-      "19": 7,
-      "16": 2
+      "19": 16,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "bydlyuyczg"
+      "newsletters",
+      "2026",
+      "members",
+      "congress",
+      "openly",
+      "attacking",
+      "muslim",
+      "americans",
+      "686336"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.keysnews.com/news/national/iran-says-war-could-destroy-global-economy-trump-vows-to-finish-job/article_15c3c0f4-b15b-55e0-86d2-cd7fc98f57e8.html",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.longwarjournal.org/archives/2026/03/analysis-lebanon-war-intensifies-as-idf-strikes-harder-and-hezbollah-escalates-attacks.php",
     "event_codes": {
-      "19": 5
+      "19": 3
     },
     "keywords": [
-      "news",
-      "national",
-      "iran",
-      "says",
+      "archives",
+      "2026",
+      "analysis",
+      "lebanon",
       "war",
-      "could",
-      "destroy",
-      "global",
-      "economy",
-      "trump",
-      "vows",
-      "finish",
-      "job",
-      "article",
-      "15c3c0f4",
-      "b15b",
-      "55e0",
-      "86d2",
-      "cd7fc98f57e8.html"
+      "intensifies",
+      "idf",
+      "strikes",
+      "harder",
+      "and",
+      "hezbollah",
+      "escalates",
+      "attacks.php"
     ]
   },
-  "QAT": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://www.dallasnews.com/news/2026/03/11/i-could-still-be-there-dallas-woman-gets-out-of-doha-with-help-of-trump-adviser/",
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 11,
+    "top_news": "https://dailytrust.com/sallah-emir-bayero-notifies-police-of-durbar-preparations/",
     "event_codes": {
-      "17": 7
+      "17": 10,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "could",
-      "still",
-      "there",
-      "dallas",
-      "woman",
-      "gets",
-      "out",
-      "doha",
-      "with",
-      "help",
-      "trump",
-      "adviser"
+      "sallah",
+      "emir",
+      "bayero",
+      "notifies",
+      "police",
+      "durbar",
+      "preparations"
     ]
   }
 }
