@@ -1,144 +1,158 @@
 {
-  "CAF": {
-    "risk_score": 4.0,
+  "BHR": {
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "https://www.prokerala.com/news/articles/a1738455.html",
+    "top_news": "https://theconservativetreehouse.com/blog/2026/03/12/thursday-march-12th-open-thread-2/",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "a1738455.html"
+      "blog",
+      "2026",
+      "thursday",
+      "march",
+      "12th",
+      "open",
+      "thread"
     ]
   },
-  "COD": {
+  "IRN": {
+    "risk_score": 25.12,
+    "count": 27,
+    "top_news": "https://www.independent.ie/world-news/middle-east/many-of-irans-missile-launch-sites-have-still-not-been-located-by-us-forces/a1052632314.html",
+    "event_codes": {
+      "19": 17,
+      "17": 4,
+      "15": 3,
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "news",
+      "middle",
+      "east",
+      "many",
+      "irans",
+      "missile",
+      "launch",
+      "sites",
+      "have",
+      "still",
+      "not",
+      "been",
+      "located",
+      "forces",
+      "a1052632314.html"
+    ]
+  },
+  "IRQ": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.prokerala.com/news/articles/a1738455.html",
+    "top_news": "https://www.lemonde.fr/en/obituaries/article/2026/03/12/death-of-salih-muslim-a-key-figure-in-the-political-autonomy-of-syria-s-kurdish-minority_6751354_15.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "news",
-      "articles",
-      "a1738455.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 14.72,
-    "count": 15,
-    "top_news": "https://www.al-monitor.com/originals/2026/03/iran-targets-fuel-facilities-sending-oil-soaring-again",
-    "event_codes": {
-      "19": 14,
-      "15": 1
-    },
-    "keywords": [
-      "originals",
+      "obituaries",
+      "article",
       "2026",
-      "iran",
-      "targets",
-      "fuel",
-      "facilities",
-      "sending",
-      "oil",
-      "soaring",
-      "again"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 11.3,
-    "count": 12,
-    "top_news": "https://www.digitaljournal.com/world/iran-targets-fuel-facilities-sending-oil-soaring-again/article",
-    "event_codes": {
-      "19": 10,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "targets",
-      "fuel",
-      "facilities",
-      "sending",
-      "oil",
-      "soaring",
-      "again",
-      "article"
+      "death",
+      "salih",
+      "muslim",
+      "key",
+      "figure",
+      "the",
+      "political",
+      "autonomy",
+      "syria",
+      "kurdish",
+      "minority",
+      "6751354",
+      "15.html"
     ]
   },
   "ISR": {
-    "risk_score": 10.64,
-    "count": 11,
-    "top_news": "https://www.digitaljournal.com/world/iran-targets-fuel-facilities-sending-oil-soaring-again/article",
+    "risk_score": 10.08,
+    "count": 12,
+    "top_news": "https://www.trend.az/world/4163815.html",
     "event_codes": {
-      "19": 9,
-      "15": 1,
-      "17": 1
+      "19": 6,
+      "15": 3,
+      "17": 3
     },
     "keywords": [
       "world",
-      "iran",
-      "targets",
-      "fuel",
-      "facilities",
-      "sending",
-      "oil",
-      "soaring",
-      "again",
-      "article"
+      "4163815.html"
     ]
   },
-  "LBN": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/03/12/irans-unrelenting-attacks-on-mideast-shipping-and-energy-infrastructure-send-oil-prices-soaring",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "faith",
-      "2026",
-      "irans",
-      "unrelenting",
-      "attacks",
-      "mideast",
-      "shipping",
-      "and",
-      "energy",
-      "infrastructure",
-      "send",
-      "oil",
-      "prices",
-      "soaring"
-    ]
-  },
-  "QAT": {
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.kob.com/ap-top-news/drone-strike-kills-un-aid-worker-in-the-eastern-congo-city-of-goma/",
+    "top_news": "https://www.lemonde.fr/en/obituaries/article/2026/03/12/death-of-salih-muslim-a-key-figure-in-the-political-autonomy-of-syria-s-kurdish-minority_6751354_15.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "top",
-      "news",
-      "drone",
-      "strike",
-      "kills",
-      "aid",
-      "worker",
+      "obituaries",
+      "article",
+      "2026",
+      "death",
+      "salih",
+      "muslim",
+      "key",
+      "figure",
       "the",
-      "eastern",
-      "congo",
-      "city",
-      "goma"
+      "political",
+      "autonomy",
+      "syria",
+      "kurdish",
+      "minority",
+      "6751354",
+      "15.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.lemonde.fr/en/obituaries/article/2026/03/12/death-of-salih-muslim-a-key-figure-in-the-political-autonomy-of-syria-s-kurdish-minority_6751354_15.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "obituaries",
+      "article",
+      "2026",
+      "death",
+      "salih",
+      "muslim",
+      "key",
+      "figure",
+      "the",
+      "political",
+      "autonomy",
+      "syria",
+      "kurdish",
+      "minority",
+      "6751354",
+      "15.html"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thezimbabwean.co/2026/03/government-warns-of-fraudulent-overseas-job-schemes/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "government",
+      "warns",
+      "fraudulent",
+      "overseas",
+      "job",
+      "schemes"
     ]
   }
 }
