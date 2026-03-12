@@ -1,165 +1,104 @@
 {
-  "ARE": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-airfares-skyrocket-jet-fuel-costs-west-asia-war-impact-summer-travel/articleshow/129516619.cms",
+  "BFA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.africanews.com/2026/03/12/at-least-38-civilians-killed-in-burkina-faso-in-wave-of-jnim-attacks/",
     "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "city",
-      "ranchi",
-      "ranchi",
-      "airfares",
-      "skyrocket",
-      "jet",
-      "fuel",
-      "costs",
-      "west",
-      "asia",
-      "war",
-      "impact",
-      "summer",
-      "travel",
-      "articleshow",
-      "129516619.cms"
+      "2026",
+      "least",
+      "civilians",
+      "killed",
+      "burkina",
+      "faso",
+      "wave",
+      "jnim",
+      "attacks"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://havanatimes.org/news/international-news-briefs-for-thursday-march-12-2026/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "international",
+      "news",
+      "briefs",
+      "for",
+      "thursday",
+      "march",
+      "2026"
     ]
   },
   "IRN": {
-    "risk_score": 33.57,
-    "count": 41,
-    "top_news": "https://www.dailyrecord.co.uk/news/uk-world-news/british-troops-under-fire-air-36858487",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://havanatimes.org/news/international-news-briefs-for-thursday-march-12-2026/",
     "event_codes": {
-      "19": 22,
-      "17": 13,
-      "14": 3,
-      "18": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "british",
-      "troops",
-      "under",
-      "fire",
-      "air",
-      "36858487"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://article.wn.com/view/2026/03/12/Iranian_Strike_Hits_Iraqi_Base_Hosting_Hungarian_Troops/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "view",
-      "2026",
-      "iranian",
-      "strike",
-      "hits",
-      "iraqi",
-      "base",
-      "hosting",
-      "hungarian",
-      "troops"
-    ]
-  },
-  "ISR": {
-    "risk_score": 19.6,
-    "count": 21,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-settlers-exploit-iran-war-curbs-to-raise-west-bank-violence",
-    "event_codes": {
-      "19": 18,
-      "17": 2,
-      "14": 1
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "israeli",
-      "settlers",
-      "exploit",
-      "iran",
-      "war",
-      "curbs",
-      "raise",
-      "west",
-      "bank",
-      "violence"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.1,
-    "count": 5,
-    "top_news": "https://saharareporters.com/2026/03/12/sowore-leads-protest-abia-nnamdi-kanus-release-prison-activists-decry-oppression",
-    "event_codes": {
-      "14": 4,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "sowore",
-      "leads",
-      "protest",
-      "abia",
-      "nnamdi",
-      "kanus",
-      "release",
-      "prison",
-      "activists",
-      "decry",
-      "oppression"
+      "news",
+      "international",
+      "news",
+      "briefs",
+      "for",
+      "thursday",
+      "march",
+      "2026"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-settlers-exploit-iran-war-curbs-to-raise-west-bank-violence",
+  "ISR": {
+    "risk_score": 10.4,
+    "count": 13,
+    "top_news": "https://www.timeshighereducation.com/news/st-andrews-rector-reinstated-court-after-governance-row",
     "event_codes": {
-      "19": 2
+      "19": 7,
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
-      "israeli",
-      "settlers",
-      "exploit",
-      "iran",
-      "war",
-      "curbs",
-      "raise",
-      "west",
-      "bank",
-      "violence"
+      "news",
+      "andrews",
+      "rector",
+      "reinstated",
+      "court",
+      "after",
+      "governance",
+      "row"
     ]
   },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://saharareporters.com/2026/03/12/us-not-focused-rising-oil-prices-stopping-irans-nuclear-weapons-plan-says-trump",
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-idf-says-senior-iranian-imam-hossein-division-commanders-killed-in-lebanon-strike",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "not",
-      "focused",
-      "rising",
-      "oil",
-      "prices",
-      "stopping",
-      "irans",
-      "nuclear",
-      "weapons",
-      "plan",
+      "news",
+      "israel",
+      "defense",
+      "artc",
+      "idf",
       "says",
-      "trump"
+      "senior",
+      "iranian",
+      "imam",
+      "hossein",
+      "division",
+      "commanders",
+      "killed",
+      "lebanon",
+      "strike"
     ]
   }
 }
