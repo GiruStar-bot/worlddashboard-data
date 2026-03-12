@@ -1,86 +1,140 @@
 {
-  "IRN": {
-    "risk_score": 10.07,
-    "count": 11,
-    "top_news": "https://www.news18.com/world/egregious-india-backs-un-resolution-condemning-irans-attacks-on-gulf-countries-9955977.html",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/economy/2026/3/12/why-historic-oil-reserves-release-may-do-little-to-bring-down-rising-prices",
     "event_codes": {
-      "19": 8,
-      "15": 1,
-      "17": 1,
-      "18": 1
+      "18": 3
     },
     "keywords": [
-      "world",
-      "egregious",
-      "india",
-      "backs",
-      "resolution",
-      "condemning",
-      "irans",
-      "attacks",
-      "gulf",
-      "countries",
-      "9955977.html"
+      "economy",
+      "2026",
+      "why",
+      "historic",
+      "oil",
+      "reserves",
+      "release",
+      "may",
+      "little",
+      "bring",
+      "down",
+      "rising",
+      "prices"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.45,
+    "count": 7,
+    "top_news": "https://www.bbc.com/news/live/c4gqjyk0vx3t",
+    "event_codes": {
+      "19": 4,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "live",
+      "c4gqjyk0vx3t"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aljazeera.com/economy/2026/3/12/why-historic-oil-reserves-release-may-do-little-to-bring-down-rising-prices",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "economy",
+      "2026",
+      "why",
+      "historic",
+      "oil",
+      "reserves",
+      "release",
+      "may",
+      "little",
+      "bring",
+      "down",
+      "rising",
+      "prices"
     ]
   },
   "ISR": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.wlky.com/article/president-trump-kentucky-iran-war-economy-ed-gallrein/70717721",
+    "risk_score": 4.75,
+    "count": 7,
+    "top_news": "https://www.maitlandmercury.com.au/story/9196880/police-state-hate-speech-laws-arrests-spark-anger/",
     "event_codes": {
-      "19": 9
+      "17": 5,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "president",
-      "trump",
-      "kentucky",
-      "iran",
-      "war",
-      "economy",
-      "gallrein",
-      "70717721"
+      "story",
+      "9196880",
+      "police",
+      "state",
+      "hate",
+      "speech",
+      "laws",
+      "arrests",
+      "spark",
+      "anger"
+    ]
+  },
+  "KEN": {
+    "risk_score": 9.2,
+    "count": 12,
+    "top_news": "https://www.kenyan-post.com/2026/03/dci-parades-faces-of-ruthless-gang.html",
+    "event_codes": {
+      "17": 5,
+      "19": 4,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "dci",
+      "parades",
+      "faces",
+      "ruthless",
+      "gang.html"
     ]
   },
   "KHM": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://abcnews.com/Business/wireStory/cambodia-aims-shut-online-scam-centers-end-april-130987811",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.morningsun.net/stories/cambodia-aims-to-shut-down-all-online-scam-centers-there-by-the-end-of-april,319345",
     "event_codes": {
-      "17": 5,
-      "19": 5
+      "19": 2
     },
     "keywords": [
-      "business",
-      "wirestory",
+      "stories",
       "cambodia",
       "aims",
       "shut",
+      "down",
+      "all",
       "online",
       "scam",
       "centers",
+      "there",
+      "the",
       "end",
-      "april",
-      "130987811"
+      "april,319345"
     ]
   },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://openthemagazine.com/world/stay-indoors-bahrain-issues-advisory-after-blaze-in-muharraq",
+  "NGA": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202603120028.html",
     "event_codes": {
-      "19": 4
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "stay",
-      "indoors",
-      "bahrain",
-      "issues",
-      "advisory",
-      "after",
-      "blaze",
-      "muharraq"
+      "stories",
+      "202603120028.html"
     ]
   }
 }
