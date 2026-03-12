@@ -1,154 +1,149 @@
 {
-  "BOL": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.wboc.com/news/international/belarus-journalist-convicted-of-treason-and-sentenced-to-9-years-in-prison/article_8d4a0f93-ba07-52e7-87bb-160469b181fb.html",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "international",
-      "belarus",
-      "journalist",
-      "convicted",
-      "treason",
-      "and",
-      "sentenced",
-      "years",
-      "prison",
-      "article",
-      "8d4a0f93",
-      "ba07",
-      "52e7",
-      "87bb",
-      "160469b181fb.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 18.07,
-    "count": 21,
-    "top_news": "https://www.messenger-inquirer.com/news/lebanons-latest-conflict-brings-backlash-against-hezbollah/article_2a839bda-336a-5deb-87e1-6d2e06850306.html",
-    "event_codes": {
-      "19": 10,
-      "14": 4,
-      "18": 3,
-      "17": 2,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "lebanons",
-      "latest",
-      "conflict",
-      "brings",
-      "backlash",
-      "against",
-      "hezbollah",
-      "article",
-      "2a839bda",
-      "336a",
-      "5deb",
-      "87e1",
-      "6d2e06850306.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.52,
-    "count": 8,
-    "top_news": "https://www.thetimes.com/world/middle-east/israel-iran/article/iran-latest-news-oil-us-irsrael-kvrtd7ks9",
-    "event_codes": {
-      "16": 4,
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "iran",
-      "article",
-      "iran",
-      "latest",
-      "news",
-      "oil",
-      "irsrael",
-      "kvrtd7ks9"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.news4jax.com/news/2026/03/12/the-latest-key-oil-price-spikes-over-100-as-iranian-attacks-hit-shipping/",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "the",
-      "latest",
-      "key",
-      "oil",
-      "price",
-      "spikes",
-      "over",
-      "100",
-      "iranian",
-      "attacks",
-      "hit",
-      "shipping"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.express.co.uk/news/world/2181225/bahrain-airport-rocked-explosion-iran-dubai-abu-dhabi-qatar",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2181225",
-      "bahrain",
-      "airport",
-      "rocked",
-      "explosion",
-      "iran",
-      "dubai",
-      "abu",
-      "dhabi",
-      "qatar"
-    ]
-  },
-  "TUR": {
+  "CAF": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aa.com.tr/en/middle-east/saudi-arabia-announces-interception-destruction-of-3-ballistic-missiles-launched-toward-prince-sultan-air-base/3860598",
+    "top_news": "https://observer.ug/news/un-condemns-drone-strike-that-killed-unicef-staff-in-goma/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
+      "news",
+      "condemns",
+      "drone",
+      "strike",
+      "that",
+      "killed",
+      "unicef",
+      "staff",
+      "goma"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.22,
+    "count": 22,
+    "top_news": "https://athens-times.com/oil-surges-past-100-amid-attacks-on-tankers-and-geopolitical-tensions/",
+    "event_codes": {
+      "19": 17,
+      "18": 4,
+      "15": 1
+    },
+    "keywords": [
+      "oil",
+      "surges",
+      "past",
+      "100",
+      "amid",
+      "attacks",
+      "tankers",
+      "and",
+      "geopolitical",
+      "tensions"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.ibtimes.co.in/iran-israel-war-iraq-shuts-down-oil-ports-after-2-tankers-attacked-one-killed-38-rescued-899270",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "iran",
+      "israel",
+      "war",
+      "iraq",
+      "shuts",
+      "down",
+      "oil",
+      "ports",
+      "after",
+      "tankers",
+      "attacked",
+      "one",
+      "killed",
+      "rescued",
+      "899270"
+    ]
+  },
+  "ISR": {
+    "risk_score": 21.92,
+    "count": 23,
+    "top_news": "https://www.israelnationalnews.com/news/423797",
+    "event_codes": {
+      "19": 17,
+      "18": 4,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "423797"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://www.news18.com/explainers/will-iraq-face-the-ghost-of-iran-war-again-why-baghdad-matters-to-the-us-israel-and-tehran-shil-ws-l-9956494.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "explainers",
+      "will",
+      "iraq",
+      "face",
+      "the",
+      "ghost",
+      "iran",
+      "war",
+      "again",
+      "why",
+      "baghdad",
+      "matters",
+      "the",
+      "israel",
+      "and",
+      "tehran",
+      "shil",
+      "9956494.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://baystreet.ca/articles/commodities/119113/Saudi-Arabia-Shoots-Down-Drones-Targeting-Major-Shaybah-Oilfield",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "commodities",
+      "119113",
       "saudi",
       "arabia",
-      "announces",
-      "interception",
-      "destruction",
-      "ballistic",
-      "missiles",
-      "launched",
-      "toward",
-      "prince",
-      "sultan",
-      "air",
-      "base",
-      "3860598"
+      "shoots",
+      "down",
+      "drones",
+      "targeting",
+      "major",
+      "shaybah",
+      "oilfield"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-262835.html",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "index",
+      "news",
+      "national",
+      "byo",
+      "262835.html"
     ]
   }
 }
