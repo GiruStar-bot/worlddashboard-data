@@ -1,65 +1,139 @@
 {
   "IRN": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.newkerala.com/news/a/irans-envoy-un-alleges-that-israel-assassinated-four-517.htm",
+    "risk_score": 19.25,
+    "count": 20,
+    "top_news": "https://www.dailymail.co.uk/news/article-15638779/Iran-shows-huge-underground-tunnels-filled-attack-boats-naval-drones-regime-ramps-attacks-cargo-ships-Gulf.html",
     "event_codes": {
-      "16": 3,
-      "18": 2,
-      "19": 1
+      "19": 17,
+      "14": 2,
+      "18": 1
     },
     "keywords": [
       "news",
-      "irans",
-      "envoy",
-      "alleges",
-      "that",
-      "israel",
-      "assassinated",
-      "four",
-      "517.htm"
+      "article",
+      "15638779",
+      "iran",
+      "shows",
+      "huge",
+      "underground",
+      "tunnels",
+      "filled",
+      "attack",
+      "boats",
+      "naval",
+      "drones",
+      "regime",
+      "ramps",
+      "attacks",
+      "cargo",
+      "ships",
+      "gulf.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.birminghammail.co.uk/travel/uk-tourists-cancel-turkey-cyprus-33577478",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "travel",
+      "tourists",
+      "cancel",
+      "turkey",
+      "cyprus",
+      "33577478"
     ]
   },
   "ISR": {
-    "risk_score": 3.52,
-    "count": 4,
-    "top_news": "https://www.cityam.com/ftse-100-live-oil-gulf-stocks-shares-markets-trump-iran-energy/",
+    "risk_score": 19.3,
+    "count": 22,
+    "top_news": "https://www.egyptindependent.com/hezbollah-launches-major-offensive-following-israels-ground-incursion/",
     "event_codes": {
-      "18": 2,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "ftse",
-      "100",
-      "live",
-      "oil",
-      "gulf",
-      "stocks",
-      "shares",
-      "markets",
-      "trump",
-      "iran",
-      "energy"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.92,
-    "count": 9,
-    "top_news": "https://www.nationalaccordnewspaper.com/court-sentences-3-arrested-by-dss-to-10-years-for-arms-trafficking/",
-    "event_codes": {
-      "17": 8,
+      "19": 8,
+      "18": 7,
+      "17": 4,
+      "15": 2,
       "16": 1
     },
     "keywords": [
-      "court",
-      "sentences",
-      "arrested",
-      "dss",
-      "years",
-      "for",
-      "arms",
-      "trafficking"
+      "hezbollah",
+      "launches",
+      "major",
+      "offensive",
+      "following",
+      "israels",
+      "ground",
+      "incursion"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.74,
+    "count": 6,
+    "top_news": "https://www.kpbs.org/news/international/2026/03/12/oil-price-surges-as-iran-steps-up-attacks-on-ships-in-the-persian-gulf",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "2026",
+      "oil",
+      "price",
+      "surges",
+      "iran",
+      "steps",
+      "attacks",
+      "ships",
+      "the",
+      "persian",
+      "gulf"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.surinametimes.com/artikel/eu-and-uk-demand-israel-stop-surge-in-west-bank-settler-violence-since-iran-war",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "artikel",
+      "and",
+      "demand",
+      "israel",
+      "stop",
+      "surge",
+      "west",
+      "bank",
+      "settler",
+      "violence",
+      "since",
+      "iran",
+      "war"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/five-vessels-attacked-amid-reports-034514987.html",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "five",
+      "vessels",
+      "attacked",
+      "amid",
+      "reports",
+      "034514987.html"
     ]
   }
 }
