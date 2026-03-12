@@ -1,102 +1,216 @@
 {
   "ARE": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://medafricatimes.com/44414-two-ghanaians-injured-in-drone-incident-near-dubai-airport.html",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-supreme-leader-trump-oil-b2937272.html",
     "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "44414",
-      "two",
-      "ghanaians",
-      "injured",
-      "drone",
-      "incident",
-      "near",
-      "dubai",
-      "airport.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 18.82,
-    "count": 22,
-    "top_news": "https://www.shtfplan.com/war/hegseth-warns-most-intense-day-of-operation-epic-fury-imminent",
-    "event_codes": {
-      "19": 13,
-      "17": 7,
-      "16": 2
-    },
-    "keywords": [
-      "war",
-      "hegseth",
-      "warns",
-      "most",
-      "intense",
-      "day",
-      "operation",
-      "epic",
-      "fury",
-      "imminent"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.75,
-    "count": 6,
-    "top_news": "https://www.abc.net.au/news/2026-03-12/two-tankers-set-ablaze-iraqi-waters-amid-iran-escalating-attack/106449210",
-    "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "two",
-      "tankers",
-      "set",
-      "ablaze",
-      "iraqi",
-      "waters",
-      "amid",
-      "iran",
-      "escalating",
-      "attack",
-      "106449210"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.25,
-    "count": 26,
-    "top_news": "https://consortiumnews.com/2026/03/12/days-11-12-war-on-iran/",
-    "event_codes": {
-      "19": 17,
-      "14": 5,
       "17": 4
     },
     "keywords": [
-      "2026",
-      "days",
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
       "war",
-      "iran"
+      "live",
+      "updates",
+      "supreme",
+      "leader",
+      "trump",
+      "oil",
+      "b2937272.html"
     ]
   },
-  "LBN": {
-    "risk_score": 3.76,
+  "BHR": {
+    "risk_score": 3.57,
     "count": 4,
-    "top_news": "https://www.ummid.com/news/2026/3/12/collapse-of-global-trust-in-western-diplomacy.html",
+    "top_news": "https://www.mintpressnews.com/iran-strikes-us-fifth-fleet-base-bahrain-erupts-in-uprising-saudi-forces-move-to-crush-dissent/290716/",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "18": 3,
+      "15": 1
+    },
+    "keywords": [
+      "iran",
+      "strikes",
+      "fifth",
+      "fleet",
+      "base",
+      "bahrain",
+      "erupts",
+      "uprising",
+      "saudi",
+      "forces",
+      "move",
+      "crush",
+      "dissent",
+      "290716"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.antaranews.com/news/408167/malayan-sun-bear-rescued-from-poacher-trap-released-in-w-kalimantan",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
+      "408167",
+      "malayan",
+      "sun",
+      "bear",
+      "rescued",
+      "from",
+      "poacher",
+      "trap",
+      "released",
+      "kalimantan"
+    ]
+  },
+  "IRN": {
+    "risk_score": 30.04,
+    "count": 40,
+    "top_news": "https://english.elpais.com/international/2026-03-12/the-front-line-basements-where-ukraine-specializes-in-electronic-warfare.html",
+    "event_codes": {
+      "19": 18,
+      "17": 8,
+      "14": 6,
+      "16": 6,
+      "15": 2
+    },
+    "keywords": [
+      "international",
       "2026",
-      "collapse",
-      "global",
-      "trust",
-      "western",
-      "diplomacy.html"
+      "the",
+      "front",
+      "line",
+      "basements",
+      "where",
+      "ukraine",
+      "specializes",
+      "electronic",
+      "warfare.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.al-monitor.com/live-blog/irans-new-supreme-leader-urges-revenge-irgc-boats-attack-oil-tankers",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "irans",
+      "new",
+      "supreme",
+      "leader",
+      "urges",
+      "revenge",
+      "irgc",
+      "boats",
+      "attack",
+      "oil",
+      "tankers"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.92,
+    "count": 15,
+    "top_news": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5745689/iran-issues-statement-purported-to-be-from-new-leader-as-war-with-u-s-and-israel-rages",
+    "event_codes": {
+      "17": 9,
+      "19": 3,
+      "16": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "npr",
+      "5745689",
+      "iran",
+      "issues",
+      "statement",
+      "purported",
+      "from",
+      "new",
+      "leader",
+      "war",
+      "with",
+      "and",
+      "israel",
+      "rages"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-updates-supreme-leader-trump-oil-b2937272.html",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "live",
+      "updates",
+      "supreme",
+      "leader",
+      "trump",
+      "oil",
+      "b2937272.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.16,
+    "count": 5,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/863588-demolitions-makoko-residents-activists-react-to-lagos-assemblys-relocation-proposal.html",
+    "event_codes": {
+      "17": 4,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "863588",
+      "demolitions",
+      "makoko",
+      "residents",
+      "activists",
+      "react",
+      "lagos",
+      "assemblys",
+      "relocation",
+      "proposal.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.02,
+    "count": 3,
+    "top_news": "https://www.middleeastmonitor.com/20260312-shadows-of-deception-false-flag-risks-in-the-israel-iran-conflict/",
+    "event_codes": {
+      "15": 1,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "20260312",
+      "shadows",
+      "deception",
+      "false",
+      "flag",
+      "risks",
+      "the",
+      "israel",
+      "iran",
+      "conflict"
     ]
   }
 }
