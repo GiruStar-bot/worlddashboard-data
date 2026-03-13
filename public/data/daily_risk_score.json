@@ -1,115 +1,165 @@
 {
-  "BRA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.anglocelt.ie/2026/03/13/councillors-want-murrin-out/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "councillors",
-      "want",
-      "murrin",
-      "out"
-    ]
-  },
-  "IRN": {
-    "risk_score": 15.12,
-    "count": 17,
-    "top_news": "https://www.yahoo.com/news/articles/know-irans-long-range-shahed-144058611.html",
-    "event_codes": {
-      "19": 8,
-      "18": 4,
-      "14": 2,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "know",
-      "irans",
-      "long",
-      "range",
-      "shahed",
-      "144058611.html"
-    ]
-  },
-  "IRQ": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.defenseone.com/threats/2026/03/the-d-brief-march-13-2026/412113/",
+    "top_news": "https://www.upi.com/Top_News/World-News/2026/03/13/latam-bolivia-marset-cabrera-arrested-us/3941773414926/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "threats",
+      "top",
+      "news",
+      "world",
+      "news",
       "2026",
-      "the",
-      "brief",
-      "march",
-      "2026",
-      "412113"
+      "latam",
+      "bolivia",
+      "marset",
+      "cabrera",
+      "arrested",
+      "3941773414926"
+    ]
+  },
+  "IRN": {
+    "risk_score": 14.3,
+    "count": 15,
+    "top_news": "https://www.newsweek.com/strait-hormuz-us-iran-war-ships-oil-gas-11674220",
+    "event_codes": {
+      "19": 13,
+      "14": 2
+    },
+    "keywords": [
+      "strait",
+      "hormuz",
+      "iran",
+      "war",
+      "ships",
+      "oil",
+      "gas",
+      "11674220"
     ]
   },
   "ISR": {
-    "risk_score": 14.72,
-    "count": 17,
-    "top_news": "https://www.dailybreeze.com/2026/03/13/iran-us-israel-war/",
+    "risk_score": 10.72,
+    "count": 12,
+    "top_news": "https://yalibnan.com/2026/03/13/lebanon-awaiting-israeli-response-to-president-aouns-offer-of-peace-talks/",
     "event_codes": {
-      "19": 12,
-      "17": 4,
-      "15": 1
+      "19": 8,
+      "17": 3,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "iran",
-      "israel",
-      "war"
+      "lebanon",
+      "awaiting",
+      "israeli",
+      "response",
+      "president",
+      "aouns",
+      "offer",
+      "peace",
+      "talks"
     ]
   },
   "LBN": {
-    "risk_score": 4.9,
+    "risk_score": 4.44,
     "count": 5,
-    "top_news": "https://midutahradio.com/news/national-news/suspect-in-michigan-synagogue-attack-lost-family-in-israeli-strike-on-lebanon-mayor/",
+    "top_news": "https://www.aol.co.uk/articles/trump-calls-iran-leaders-deranged-163835212.html",
     "event_codes": {
-      "19": 5
+      "19": 3,
+      "15": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "news",
-      "suspect",
-      "michigan",
-      "synagogue",
-      "attack",
-      "lost",
-      "family",
-      "israeli",
-      "strike",
-      "lebanon",
-      "mayor"
+      "articles",
+      "trump",
+      "calls",
+      "iran",
+      "leaders",
+      "deranged",
+      "163835212.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://quicknews-africa.net/court-adjourns-trial-of-man-charged-with-defaming-efcc-chairman/",
+    "risk_score": 6.3,
+    "count": 7,
+    "top_news": "https://theeagleonline.com.ng/borno-troops-repel-terrorist-attacks-at-azir-bridge-banki-army/",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 5,
+      "14": 2
     },
     "keywords": [
-      "court",
-      "adjourns",
-      "trial",
-      "man",
-      "charged",
-      "with",
-      "defaming",
-      "efcc",
-      "chairman"
+      "borno",
+      "troops",
+      "repel",
+      "terrorist",
+      "attacks",
+      "azir",
+      "bridge",
+      "banki",
+      "army"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.eyeradio.org/after-deadly-attack-health-services-remain-severely-disrupted-in-abiemnhom/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "after",
+      "deadly",
+      "attack",
+      "health",
+      "services",
+      "remain",
+      "severely",
+      "disrupted",
+      "abiemnhom"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thetimes.com/us/american-politics/article/isis-young-men-terrorism-new-york-emir-balat-ibrahim-kayumi-cn60kxn5x",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "american",
+      "politics",
+      "article",
+      "isis",
+      "young",
+      "men",
+      "terrorism",
+      "new",
+      "york",
+      "emir",
+      "balat",
+      "ibrahim",
+      "kayumi",
+      "cn60kxn5x"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.the-sun.com/news/16079457/nato-forces-third-ballistic-missile-turkey-iran/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "16079457",
+      "nato",
+      "forces",
+      "third",
+      "ballistic",
+      "missile",
+      "turkey",
+      "iran"
     ]
   }
 }
