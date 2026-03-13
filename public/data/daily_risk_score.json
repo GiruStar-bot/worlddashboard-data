@@ -1,43 +1,124 @@
 {
   "IRN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.theguardian.com/us-news/2026/mar/13/old-dominion-arrest-gun-seller",
+    "risk_score": 9.2,
+    "count": 12,
+    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/why-the-us-is-sending-assault-ship-uss-tripoli-thousands-of-marines-to-the-middle-east-and-what-it-means-for-iran-vs-israel-war/articleshow/129564511.cms",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 6,
+      "17": 3,
+      "14": 2,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "why",
+      "the",
+      "sending",
+      "assault",
+      "ship",
+      "uss",
+      "tripoli",
+      "thousands",
+      "marines",
+      "the",
+      "middle",
+      "east",
+      "and",
+      "what",
+      "means",
+      "for",
+      "iran",
+      "israel",
+      "war",
+      "articleshow",
+      "129564511.cms"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.channel4.com/news/iranian-drone-kills-two-members-of-iranian-kurdish-militia",
+    "event_codes": {
+      "19": 5
     },
     "keywords": [
       "news",
-      "2026",
-      "mar",
-      "old",
-      "dominion",
-      "arrest",
-      "gun",
-      "seller"
+      "iranian",
+      "drone",
+      "kills",
+      "two",
+      "members",
+      "iranian",
+      "kurdish",
+      "militia"
     ]
   },
-  "NGA": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://abcnews.com/International/wireStory/drone-strikes-clashes-eastern-congo-threaten-regions-peace-131050006",
+  "ISR": {
+    "risk_score": 8.3,
+    "count": 9,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/03/13/us-faces-elevated-terrorism-threats-against-backdrop-of-iran-war-and-cuts-at-fbi-justice-department",
     "event_codes": {
-      "19": 5,
-      "17": 2
+      "19": 6,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "international",
-      "wirestory",
-      "drone",
-      "strikes",
-      "clashes",
-      "eastern",
-      "congo",
-      "threaten",
-      "regions",
-      "peace",
-      "131050006"
+      "world",
+      "2026",
+      "faces",
+      "elevated",
+      "terrorism",
+      "threats",
+      "against",
+      "backdrop",
+      "iran",
+      "war",
+      "and",
+      "cuts",
+      "fbi",
+      "justice",
+      "department"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailymail.co.uk/debate/article-15640991/ChatGPT-Islamic-terrorist-propaganda.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "debate",
+      "article",
+      "15640991",
+      "chatgpt",
+      "islamic",
+      "terrorist",
+      "propaganda.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.greaterbelize.com/court-orders-removal-of-terror-group-from-belizes-sanctions-list/",
+    "event_codes": {
+      "14": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "court",
+      "orders",
+      "removal",
+      "terror",
+      "group",
+      "from",
+      "belizes",
+      "sanctions",
+      "list"
     ]
   }
 }
