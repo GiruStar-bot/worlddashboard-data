@@ -1,111 +1,210 @@
 {
   "ARE": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://udaipurkiran.com/us-ready-to-provide-naval-security-in-strait-of-hormuz-amid-rising-tensions/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.livemint.com/news/world/dubai-abu-dhabi-news-live-updates-missile-alert-iran-us-israel-etihad-flight-status-american-iran-war-update-11773378176217.html",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "ready",
-      "provide",
-      "naval",
-      "security",
-      "strait",
-      "hormuz",
-      "amid",
-      "rising",
-      "tensions"
+      "news",
+      "world",
+      "dubai",
+      "abu",
+      "dhabi",
+      "news",
+      "live",
+      "updates",
+      "missile",
+      "alert",
+      "iran",
+      "israel",
+      "etihad",
+      "flight",
+      "status",
+      "american",
+      "iran",
+      "war",
+      "update",
+      "11773378176217.html"
+    ]
+  },
+  "COL": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://kaieteurnewsonline.com/2026/03/13/advocates-push-for-major-probe-as-u-s-boat-strikes-in-latin-america-kill-157/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "advocates",
+      "push",
+      "for",
+      "major",
+      "probe",
+      "boat",
+      "strikes",
+      "latin",
+      "america",
+      "kill",
+      "157"
+    ]
+  },
+  "ETH": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202603130003.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "stories",
+      "202603130003.html"
     ]
   },
   "IRN": {
-    "risk_score": 15.44,
-    "count": 16,
-    "top_news": "https://dunyanews.tv/en/World/940295-trump-says-he-thinks-irans-new-supreme-leader-is-alive-but-damaged",
+    "risk_score": 15.92,
+    "count": 17,
+    "top_news": "https://www.trend.az/iran/4164370.html",
     "event_codes": {
-      "19": 14,
-      "15": 2
-    },
-    "keywords": [
-      "world",
-      "940295",
-      "trump",
-      "says",
-      "thinks",
-      "irans",
-      "new",
-      "supreme",
-      "leader",
-      "alive",
-      "but",
-      "damaged"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "https://dominicanrepublicpost.com/french-soldier-killed-others-wounded-in-attack-in-iraq-macron-says/",
-    "event_codes": {
-      "19": 5,
-      "18": 3
-    },
-    "keywords": [
-      "french",
-      "soldier",
-      "killed",
-      "others",
-      "wounded",
-      "attack",
-      "iraq",
-      "macron",
-      "says"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.11,
-    "count": 16,
-    "top_news": "https://www.citizen.co.za/news/news-world/middle-east-war-latest-heres-what-happened-overnight-3/",
-    "event_codes": {
-      "17": 6,
-      "19": 6,
-      "14": 3,
+      "19": 13,
+      "14": 2,
+      "15": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "news",
+      "iran",
+      "4164370.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.hindustantimes.com/world-news/french-soldier-killed-in-iraqi-kurdistan-in-drone-attack-pm-emmanuel-macron-calls-strike-unacceptable-101773374999304.html",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
       "world",
-      "middle",
-      "east",
-      "war",
-      "latest",
-      "heres",
-      "what",
-      "happened",
-      "overnight"
+      "news",
+      "french",
+      "soldier",
+      "killed",
+      "iraqi",
+      "kurdistan",
+      "drone",
+      "attack",
+      "emmanuel",
+      "macron",
+      "calls",
+      "strike",
+      "unacceptable",
+      "101773374999304.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.hindustantimes.com/world-news/french-soldier-killed-in-iraqi-kurdistan-in-drone-attack-pm-emmanuel-macron-calls-strike-unacceptable-101773374999304.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "world",
+      "news",
+      "french",
+      "soldier",
+      "killed",
+      "iraqi",
+      "kurdistan",
+      "drone",
+      "attack",
+      "emmanuel",
+      "macron",
+      "calls",
+      "strike",
+      "unacceptable",
+      "101773374999304.html"
     ]
   },
   "LBN": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://www.citizen.co.za/news/news-world/middle-east-war-latest-heres-what-happened-overnight-3/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cnn.com/2026/03/13/middleeast/us-israel-iran-middle-east-war-what-we-know-intl-hnk",
     "event_codes": {
-      "19": 6,
-      "16": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "news",
-      "world",
+      "2026",
+      "middleeast",
+      "israel",
+      "iran",
       "middle",
       "east",
       "war",
-      "latest",
-      "heres",
       "what",
-      "happened",
-      "overnight"
+      "know",
+      "intl",
+      "hnk"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.dailymail.co.uk/news/article-15642085/dezi-freeman-wife-charges-police-shooting-porepunkah-victoria.html",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15642085",
+      "dezi",
+      "freeman",
+      "wife",
+      "charges",
+      "police",
+      "shooting",
+      "porepunkah",
+      "victoria.html"
+    ]
+  },
+  "SSD": {
+    "risk_score": 12.5,
+    "count": 13,
+    "top_news": "https://allafrica.com/stories/202603130003.html",
+    "event_codes": {
+      "19": 12,
+      "17": 1
+    },
+    "keywords": [
+      "stories",
+      "202603130003.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.marketscreener.com/news/vietnam-produces-world-s-largest-trade-surplus-with-us-jan-data-shows-ce7e5fd2df8ef421",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "vietnam",
+      "produces",
+      "world",
+      "largest",
+      "trade",
+      "surplus",
+      "with",
+      "jan",
+      "data",
+      "shows",
+      "ce7e5fd2df8ef421"
     ]
   }
 }
