@@ -1,74 +1,85 @@
 {
   "IRN": {
-    "risk_score": 15.64,
-    "count": 17,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/03/13/congressional-democrats-say-trump-tariffs-will-cost-us-households-more-than-2500-this-year",
+    "risk_score": 12.55,
+    "count": 13,
+    "top_news": "https://www.hindustantimes.com/world-news/sri-lanka-hands-over-bodies-of-45-iranian-sailors-killed-in-tanker-attack-to-embassy-101773389978944.html",
     "event_codes": {
-      "19": 12,
-      "15": 2,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "congressional",
-      "democrats",
-      "say",
-      "trump",
-      "tariffs",
-      "will",
-      "cost",
-      "households",
-      "more",
-      "than",
-      "2500",
-      "this",
-      "year"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://sana.sy/en/international/2302252/",
-    "event_codes": {
-      "19": 2,
+      "19": 11,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "international",
-      "2302252"
+      "world",
+      "news",
+      "sri",
+      "lanka",
+      "hands",
+      "over",
+      "bodies",
+      "iranian",
+      "sailors",
+      "killed",
+      "tanker",
+      "attack",
+      "embassy",
+      "101773389978944.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.aawsat.com/arab-world/5250691-french-soldier-killed-drone-attack-iraq",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5250691",
+      "french",
+      "soldier",
+      "killed",
+      "drone",
+      "attack",
+      "iraq"
     ]
   },
   "ISR": {
-    "risk_score": 8.75,
-    "count": 10,
-    "top_news": "https://kashmirlife.net/why-nobody-predicted-this-428082/",
+    "risk_score": 10.3,
+    "count": 11,
+    "top_news": "https://www.dagelijksestandaard.nl/terrorisme/de-eindeloze-cyclus-van-geweld-israel-vernietigt-gezin-in-libanon-familielid-pleegt-wanstaltige-aanslag-op-synagoge-in-vs",
     "event_codes": {
-      "19": 5,
-      "16": 4,
-      "14": 1
+      "19": 9,
+      "14": 2
     },
     "keywords": [
-      "why",
-      "nobody",
-      "predicted",
-      "this",
-      "428082"
+      "terrorisme",
+      "eindeloze",
+      "cyclus",
+      "van",
+      "geweld",
+      "israel",
+      "vernietigt",
+      "gezin",
+      "libanon",
+      "familielid",
+      "pleegt",
+      "wanstaltige",
+      "aanslag",
+      "synagoge"
     ]
   },
   "LBN": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.nbcnewyork.com/news/national-international/trump-threatens-iran-new-wave-attacks-gulf-states-israel/6476102/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thetelegraphandargus.co.uk/news/national/25932956.donald-trump-threatens-iran-new-wave-attacks-gulf-states-israel/",
     "event_codes": {
-      "19": 3,
-      "18": 2
+      "19": 4
     },
     "keywords": [
       "news",
       "national",
-      "international",
+      "25932956.donald",
       "trump",
       "threatens",
       "iran",
@@ -77,67 +88,49 @@
       "attacks",
       "gulf",
       "states",
-      "israel",
-      "6476102"
+      "israel"
     ]
   },
-  "NGA": {
-    "risk_score": 5.64,
-    "count": 9,
-    "top_news": "https://www.nigerianeye.com/2026/03/their-commanders-are-being-killed.html",
-    "event_codes": {
-      "17": 6,
-      "16": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "their",
-      "commanders",
-      "are",
-      "being",
-      "killed.html"
-    ]
-  },
-  "SAU": {
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/two-killed-oman-following-drone-075821457.html",
+    "top_news": "https://www.aljazeera.com/news/2026/3/13/israel-attacks-beirut-in-targeted-killing-attempt-kills-several-in-south",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "two",
-      "killed",
-      "oman",
-      "following",
-      "drone",
-      "075821457.html"
+      "2026",
+      "israel",
+      "attacks",
+      "beirut",
+      "targeted",
+      "killing",
+      "attempt",
+      "kills",
+      "several",
+      "south"
     ]
   },
-  "TUR": {
-    "risk_score": 3.0,
+  "QAT": {
+    "risk_score": 2.7,
     "count": 3,
-    "top_news": "https://www.aa.com.tr/en/middle-east/number-of-iranian-missile-launchers-largely-unchanged-after-week-of-airstrikes-report/3862736",
+    "top_news": "https://english.aawsat.com/world/5250720-afghanistan-accuses-pakistan-targeting-homes-airstrikes-kill-least-4-civilians",
     "event_codes": {
-      "19": 3
+      "18": 3
     },
     "keywords": [
-      "middle",
-      "east",
-      "number",
-      "iranian",
-      "missile",
-      "launchers",
-      "largely",
-      "unchanged",
-      "after",
-      "week",
+      "world",
+      "5250720",
+      "afghanistan",
+      "accuses",
+      "pakistan",
+      "targeting",
+      "homes",
       "airstrikes",
-      "report",
-      "3862736"
+      "kill",
+      "least",
+      "civilians"
     ]
   }
 }
