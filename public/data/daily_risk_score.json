@@ -1,92 +1,103 @@
 {
   "IRN": {
-    "risk_score": 19.0,
-    "count": 19,
-    "top_news": "https://www.dailymail.co.uk/news/article-15638643/How-long-range-Iranian-drones-strike-deep-European-mainland-plot-attack-Californian-coast-emerges.html",
+    "risk_score": 19.29,
+    "count": 21,
+    "top_news": "https://www.rediff.com/news/report/iran-fires-swarm-of-drones-at-us-israeli-positions/20260314.htm",
     "event_codes": {
-      "19": 14,
-      "18": 5
+      "19": 11,
+      "18": 5,
+      "17": 4,
+      "14": 1
     },
     "keywords": [
       "news",
-      "article",
-      "15638643",
-      "how",
-      "long",
-      "range",
-      "iranian",
+      "report",
+      "iran",
+      "fires",
+      "swarm",
       "drones",
-      "strike",
-      "deep",
-      "european",
-      "mainland",
-      "plot",
-      "attack",
-      "californian",
-      "coast",
-      "emerges.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.nigerianeye.com/2026/03/tinubu-inherited-foamy-economy-in-2023.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "tinubu",
-      "inherited",
-      "foamy",
-      "economy",
-      "2023.html"
+      "israeli",
+      "positions",
+      "20260314.htm"
     ]
   },
   "ISR": {
-    "risk_score": 6.64,
-    "count": 7,
-    "top_news": "https://www.theweek.in/news/middle-east/2026/03/14/is-benjamin-netanyahu-dead-israeli-media-finally-has-a-response-to-the-prime-ministers-situation.html",
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.newkerala.com/news/a/cm-stalin-announces-rs-2unit-subsidy-eateries-switching-553.htm",
     "event_codes": {
-      "18": 3,
-      "17": 2,
-      "19": 2
+      "19": 6,
+      "18": 2
     },
     "keywords": [
       "news",
-      "middle",
-      "east",
-      "2026",
-      "benjamin",
-      "netanyahu",
-      "dead",
-      "israeli",
-      "media",
-      "finally",
-      "has",
-      "response",
-      "the",
-      "prime",
-      "ministers",
-      "situation.html"
+      "stalin",
+      "announces",
+      "2unit",
+      "subsidy",
+      "eateries",
+      "switching",
+      "553.htm"
     ]
   },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/arab-world/5251163-burhan-heading-showdown-sudan%E2%80%99s-islamists",
+  "LBN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/14/blast-outside-jewish-school-in-amsterdam-no-injuries",
     "event_codes": {
-      "19": 2
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "arab",
+      "category",
       "world",
-      "5251163",
-      "burhan",
-      "heading",
-      "showdown",
-      "sudan%e2%80%99s",
-      "islamists"
+      "2026",
+      "blast",
+      "outside",
+      "jewish",
+      "school",
+      "amsterdam",
+      "injuries"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.84,
+    "count": 3,
+    "top_news": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-14-26?post-id=cmmprss4n00003b6uwuzgwtuq",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "live",
+      "news",
+      "iran",
+      "war",
+      "israel",
+      "trump"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/world/venezuelas-students-reclaim-the-streets-after-years-of-oppression",
+    "event_codes": {
+      "14": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "venezuelas",
+      "students",
+      "reclaim",
+      "the",
+      "streets",
+      "after",
+      "years",
+      "oppression"
     ]
   }
 }
