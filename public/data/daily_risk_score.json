@@ -1,110 +1,134 @@
 {
-  "IRN": {
-    "risk_score": 10.95,
-    "count": 11,
-    "top_news": "https://themedialine.org/headlines/israeli-attacks-on-checkpoints-have-spread-fear-among-the-basij-and-the-irgc/",
+  "ARE": {
+    "risk_score": 6.5,
+    "count": 9,
+    "top_news": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/03/14/irgc-waves-40-45-past",
     "event_codes": {
-      "19": 11
+      "17": 5,
+      "19": 4
     },
     "keywords": [
-      "headlines",
-      "israeli",
-      "attacks",
-      "checkpoints",
-      "have",
-      "spread",
-      "fear",
-      "among",
-      "the",
-      "basij",
-      "and",
-      "the",
-      "irgc"
+      "tpv3",
+      "voices.php",
+      "2026",
+      "irgc",
+      "waves",
+      "past"
+    ]
+  },
+  "IRN": {
+    "risk_score": 28.17,
+    "count": 33,
+    "top_news": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/03/14/irgc-waves-40-45-past",
+    "event_codes": {
+      "19": 19,
+      "17": 8,
+      "18": 4,
+      "16": 2
+    },
+    "keywords": [
+      "tpv3",
+      "voices.php",
+      "2026",
+      "irgc",
+      "waves",
+      "past"
     ]
   },
   "ISR": {
-    "risk_score": 18.59,
-    "count": 20,
-    "top_news": "https://imemc.org/article/nablus-colonizers-kill-a-palestinian-injure-three-in-qusra/",
+    "risk_score": 33.86,
+    "count": 37,
+    "top_news": "https://www.thetimes.com/world/middle-east/article/iran-war-uae-abu-dhabi-gulf-states-trump-992pmmj9v",
     "event_codes": {
-      "19": 16,
+      "19": 25,
+      "17": 5,
+      "18": 4,
       "15": 2,
-      "14": 1,
-      "17": 1
+      "16": 1
     },
     "keywords": [
+      "world",
+      "middle",
+      "east",
       "article",
-      "nablus",
-      "colonizers",
-      "kill",
-      "palestinian",
-      "injure",
-      "three",
-      "qusra"
+      "iran",
+      "war",
+      "uae",
+      "abu",
+      "dhabi",
+      "gulf",
+      "states",
+      "trump",
+      "992pmmj9v"
     ]
   },
   "LBN": {
-    "risk_score": 5.44,
+    "risk_score": 7.68,
+    "count": 8,
+    "top_news": "https://legalinsurrection.com/2026/03/democrat-senator-suddenly-open-to-dhs-funding-after-michigan-synagogue-attack/",
+    "event_codes": {
+      "17": 4,
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "democrat",
+      "senator",
+      "suddenly",
+      "open",
+      "dhs",
+      "funding",
+      "after",
+      "michigan",
+      "synagogue",
+      "attack"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.rnz.co.nz/news/world/589628/war-in-the-middle-east-casualty-figures-from-across-the-region",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "589628",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "casualty",
+      "figures",
+      "from",
+      "across",
+      "the",
+      "region"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://www.kuow.org:443/stories/u-s-embassy-in-baghdad-again-urges-americans-to-leave-iraq-as-trump-touts-strikes-on-iran",
+    "top_news": "https://www.rnz.co.nz/news/world/589628/war-in-the-middle-east-casualty-figures-from-across-the-region",
     "event_codes": {
-      "19": 4,
-      "15": 2
+      "19": 6
     },
     "keywords": [
-      "stories",
-      "embassy",
-      "baghdad",
-      "again",
-      "urges",
-      "americans",
-      "leave",
-      "iraq",
-      "trump",
-      "touts",
-      "strikes",
-      "iran"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://naija247news.com/iswap-commander-who-led-onslaught-against-abubakar-shekau-reportedly-killed-by-nigerian-army/",
-    "event_codes": {
-      "19": 10,
-      "18": 1
-    },
-    "keywords": [
-      "iswap",
-      "commander",
-      "who",
-      "led",
-      "onslaught",
-      "against",
-      "abubakar",
-      "shekau",
-      "reportedly",
-      "killed",
-      "nigerian",
-      "army"
-    ]
-  },
-  "PSE": {
-    "risk_score": 13.0,
-    "count": 13,
-    "top_news": "https://imemc.org/article/nablus-colonizers-kill-a-palestinian-injure-three-in-qusra/",
-    "event_codes": {
-      "19": 13
-    },
-    "keywords": [
-      "article",
-      "nablus",
-      "colonizers",
-      "kill",
-      "palestinian",
-      "injure",
-      "three",
-      "qusra"
+      "news",
+      "world",
+      "589628",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "casualty",
+      "figures",
+      "from",
+      "across",
+      "the",
+      "region"
     ]
   }
 }
