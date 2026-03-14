@@ -1,96 +1,92 @@
 {
   "IRN": {
-    "risk_score": 17.34,
-    "count": 18,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-north-beirut-suburb-south-lebanon/articleshow/129571410.cms",
+    "risk_score": 19.0,
+    "count": 19,
+    "top_news": "https://www.dailymail.co.uk/news/article-15638643/How-long-range-Iranian-drones-strike-deep-European-mainland-plot-attack-Californian-coast-emerges.html",
     "event_codes": {
-      "19": 15,
-      "15": 2,
-      "18": 1
+      "19": 14,
+      "18": 5
     },
     "keywords": [
       "news",
-      "defence",
-      "israeli",
-      "strikes",
-      "north",
-      "beirut",
-      "suburb",
-      "south",
-      "lebanon",
-      "articleshow",
-      "129571410.cms"
+      "article",
+      "15638643",
+      "how",
+      "long",
+      "range",
+      "iranian",
+      "drones",
+      "strike",
+      "deep",
+      "european",
+      "mainland",
+      "plot",
+      "attack",
+      "californian",
+      "coast",
+      "emerges.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.nigerianeye.com/2026/03/tinubu-inherited-foamy-economy-in-2023.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "tinubu",
+      "inherited",
+      "foamy",
+      "economy",
+      "2023.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-north-beirut-suburb-south-lebanon/articleshow/129571410.cms",
+    "risk_score": 6.64,
+    "count": 7,
+    "top_news": "https://www.theweek.in/news/middle-east/2026/03/14/is-benjamin-netanyahu-dead-israeli-media-finally-has-a-response-to-the-prime-ministers-situation.html",
     "event_codes": {
-      "19": 8,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "defence",
-      "israeli",
-      "strikes",
-      "north",
-      "beirut",
-      "suburb",
-      "south",
-      "lebanon",
-      "articleshow",
-      "129571410.cms"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.aa.com.tr/en/americas/5-us-air-force-refueling-planes-struck-damaged-at-saudi-arabia-s-prince-sultan-air-base-wall-street-journal/3864107",
-    "event_codes": {
+      "18": 3,
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "americas",
-      "air",
-      "force",
-      "refueling",
-      "planes",
-      "struck",
-      "damaged",
-      "saudi",
-      "arabia",
-      "prince",
-      "sultan",
-      "air",
-      "base",
-      "wall",
-      "street",
-      "journal",
-      "3864107"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.aa.com.tr/en/middle-east/iraqi-group-claims-8-attacks-on-us-bases-in-last-24-hours/3864154",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
+      "news",
       "middle",
       "east",
-      "iraqi",
-      "group",
-      "claims",
-      "attacks",
-      "bases",
-      "last",
-      "hours",
-      "3864154"
+      "2026",
+      "benjamin",
+      "netanyahu",
+      "dead",
+      "israeli",
+      "media",
+      "finally",
+      "has",
+      "response",
+      "the",
+      "prime",
+      "ministers",
+      "situation.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.aawsat.com/arab-world/5251163-burhan-heading-showdown-sudan%E2%80%99s-islamists",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5251163",
+      "burhan",
+      "heading",
+      "showdown",
+      "sudan%e2%80%99s",
+      "islamists"
     ]
   }
 }
