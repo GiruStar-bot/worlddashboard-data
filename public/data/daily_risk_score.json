@@ -1,70 +1,95 @@
 {
-  "IRN": {
-    "risk_score": 14.9,
-    "count": 15,
-    "top_news": "https://www.thehindu.com/news/international/iran-threatens-us-companies-in-region-if-energy-facilities-hit/article70744566.ece",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.easternriverinachronicle.com.au/story/9198748/us-urges-other-countries-to-help-secure-strait-off-iran/",
     "event_codes": {
-      "19": 13,
-      "18": 2
+      "19": 3
     },
     "keywords": [
-      "news",
-      "international",
-      "iran",
-      "threatens",
-      "companies",
-      "region",
-      "energy",
-      "facilities",
-      "hit",
-      "article70744566.ece"
+      "story",
+      "9198748",
+      "urges",
+      "other",
+      "countries",
+      "help",
+      "secure",
+      "strait",
+      "off",
+      "iran"
     ]
   },
-  "IRQ": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/national/mojtaba-khamenei-the-cleric-with-a-gun/article70744423.ece",
+  "IRN": {
+    "risk_score": 9.95,
+    "count": 11,
+    "top_news": "https://www.newstalkzb.co.nz/news/world/trump-urges-allies-to-send-warships-as-iran-war-chokes-strait-of-hormuz/",
     "event_codes": {
-      "19": 4,
+      "19": 8,
+      "17": 2,
       "18": 1
     },
     "keywords": [
       "news",
-      "national",
-      "mojtaba",
-      "khamenei",
-      "the",
-      "cleric",
-      "with",
-      "gun",
-      "article70744423.ece"
+      "world",
+      "trump",
+      "urges",
+      "allies",
+      "send",
+      "warships",
+      "iran",
+      "war",
+      "chokes",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://navhindtimes.in/worldnews/tehran-says-us-attacked-it-from-uae-as-iran-war-enters-its-3rd-week/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "worldnews",
+      "tehran",
+      "says",
+      "attacked",
+      "from",
+      "uae",
+      "iran",
+      "war",
+      "enters",
+      "its",
+      "3rd",
+      "week"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.livemint.com/news/world/iran-foreign-minister-abbas-araghchi-rejects-us-claims-about-iran-new-supreme-leader-s-health-11773515956743.html",
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/03/14/trump-rejects-peace-overtures-and-calls-on-countries-to-send-ships-to-strait-of-hormuz/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "17": 5,
+      "19": 2
     },
     "keywords": [
-      "news",
       "world",
-      "iran",
-      "foreign",
-      "minister",
-      "abbas",
-      "araghchi",
+      "middle",
+      "east",
+      "2026",
+      "trump",
       "rejects",
-      "claims",
-      "about",
-      "iran",
-      "new",
-      "supreme",
-      "leader",
-      "health",
-      "11773515956743.html"
+      "peace",
+      "overtures",
+      "and",
+      "calls",
+      "countries",
+      "send",
+      "ships",
+      "strait",
+      "hormuz"
     ]
   }
 }
