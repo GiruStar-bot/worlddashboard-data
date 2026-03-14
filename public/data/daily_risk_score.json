@@ -1,95 +1,105 @@
 {
-  "ARE": {
+  "IRN": {
+    "risk_score": 15.45,
+    "count": 17,
+    "top_news": "https://www.mediaite.com/online/trump-declares-iran-can-attack-oil-ships-no-matter-how-badly-defeated-they-are-in-attempt-at-reassuring-rant/",
+    "event_codes": {
+      "19": 12,
+      "17": 2,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "online",
+      "trump",
+      "declares",
+      "iran",
+      "can",
+      "attack",
+      "oil",
+      "ships",
+      "matter",
+      "how",
+      "badly",
+      "defeated",
+      "they",
+      "are",
+      "attempt",
+      "reassuring",
+      "rant"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.mediaite.com/online/trump-declares-iran-can-attack-oil-ships-no-matter-how-badly-defeated-they-are-in-attempt-at-reassuring-rant/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "online",
+      "trump",
+      "declares",
+      "iran",
+      "can",
+      "attack",
+      "oil",
+      "ships",
+      "matter",
+      "how",
+      "badly",
+      "defeated",
+      "they",
+      "are",
+      "attempt",
+      "reassuring",
+      "rant"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 10,
+    "top_news": "https://www.businessinsider.com/photos-fire-key-uae-oil-hub-after-intercepted-drone-attack-2026-3",
+    "event_codes": {
+      "19": 6,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "photos",
+      "fire",
+      "key",
+      "uae",
+      "oil",
+      "hub",
+      "after",
+      "intercepted",
+      "drone",
+      "attack",
+      "2026"
+    ]
+  },
+  "JOR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.easternriverinachronicle.com.au/story/9198748/us-urges-other-countries-to-help-secure-strait-off-iran/",
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/smoke-seen-rising-from-direction-of-uae-energy-facility-101773521730465.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "story",
-      "9198748",
-      "urges",
-      "other",
-      "countries",
-      "help",
-      "secure",
-      "strait",
-      "off",
-      "iran"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.95,
-    "count": 11,
-    "top_news": "https://www.newstalkzb.co.nz/news/world/trump-urges-allies-to-send-warships-as-iran-war-chokes-strait-of-hormuz/",
-    "event_codes": {
-      "19": 8,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
+      "world",
       "news",
-      "world",
-      "trump",
-      "urges",
-      "allies",
-      "send",
-      "warships",
-      "iran",
-      "war",
-      "chokes",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://navhindtimes.in/worldnews/tehran-says-us-attacked-it-from-uae-as-iran-war-enters-its-3rd-week/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "worldnews",
-      "tehran",
-      "says",
-      "attacked",
+      "news",
+      "smoke",
+      "seen",
+      "rising",
       "from",
+      "direction",
       "uae",
-      "iran",
-      "war",
-      "enters",
-      "its",
-      "3rd",
-      "week"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.5,
-    "count": 7,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/03/14/trump-rejects-peace-overtures-and-calls-on-countries-to-send-ships-to-strait-of-hormuz/",
-    "event_codes": {
-      "17": 5,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "trump",
-      "rejects",
-      "peace",
-      "overtures",
-      "and",
-      "calls",
-      "countries",
-      "send",
-      "ships",
-      "strait",
-      "hormuz"
+      "energy",
+      "facility",
+      "101773521730465.html"
     ]
   }
 }
