@@ -1,131 +1,150 @@
 {
-  "ARE": {
+  "BHR": {
+    "risk_score": 7.0,
+    "count": 11,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-889884",
+    "event_codes": {
+      "17": 8,
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "889884"
+    ]
+  },
+  "IRN": {
+    "risk_score": 25.79,
+    "count": 27,
+    "top_news": "https://www.asiaone.com:443/world/congressional-democrats-say-trump-tariffs-will-cost-us-households-more-3223-year",
+    "event_codes": {
+      "19": 20,
+      "17": 3,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "congressional",
+      "democrats",
+      "say",
+      "trump",
+      "tariffs",
+      "will",
+      "cost",
+      "households",
+      "more",
+      "3223",
+      "year"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-13-2026/",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "research",
+      "middle",
+      "east",
+      "iran",
+      "update",
+      "evening",
+      "special",
+      "report",
+      "march",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.94,
+    "count": 12,
+    "top_news": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-13-2026/",
+    "event_codes": {
+      "19": 9,
+      "15": 2,
+      "17": 1
+    },
+    "keywords": [
+      "research",
+      "middle",
+      "east",
+      "iran",
+      "update",
+      "evening",
+      "special",
+      "report",
+      "march",
+      "2026"
+    ]
+  },
+  "KWT": {
     "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://gulfnews.com/uae/debris-from-missile-interception-hits-dubai-building-no-injuries-reported-1.500474064",
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-889884",
     "event_codes": {
       "17": 2,
       "19": 1
     },
     "keywords": [
-      "uae",
-      "debris",
-      "from",
-      "missile",
-      "interception",
-      "hits",
-      "dubai",
-      "building",
-      "injuries",
-      "reported",
-      "1.500474064"
-    ]
-  },
-  "IRN": {
-    "risk_score": 17.72,
-    "count": 18,
-    "top_news": "https://www.newkerala.com/news/a/suicide-drone-missile-strike-target-radar-system-helipad-658.htm",
-    "event_codes": {
-      "19": 14,
-      "18": 3,
-      "17": 1
-    },
-    "keywords": [
+      "middle",
+      "east",
+      "iran",
       "news",
-      "suicide",
-      "drone",
-      "missile",
-      "strike",
-      "target",
-      "radar",
-      "system",
-      "helipad",
-      "658.htm"
+      "article",
+      "889884"
     ]
   },
-  "IRQ": {
-    "risk_score": 11.0,
-    "count": 11,
-    "top_news": "https://nypost.com/2026/03/14/world-news/us-embassy-in-baghdad-hit-in-missile-attack/",
-    "event_codes": {
-      "19": 11
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "news",
-      "embassy",
-      "baghdad",
-      "hit",
-      "missile",
-      "attack"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://blueprint.ng/over-122843-terrorists-have-surrendered-under-operation-hadin-kai-dhq/",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "over",
-      "122843",
-      "terrorists",
-      "have",
-      "surrendered",
-      "under",
-      "operation",
-      "hadin",
-      "kai",
-      "dhq"
-    ]
-  },
-  "PSE": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.econotimes.com/Israel-Iran-War-Escalates-Gaza-West-Bank-and-Lebanon-Death-Tolls-Rise-1736275",
+    "top_news": "https://understandingwar.org/research/middle-east/iran-update-evening-special-report-march-13-2026/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "israel",
+      "research",
+      "middle",
+      "east",
       "iran",
-      "war",
-      "escalates",
-      "gaza",
-      "west",
-      "bank",
-      "and",
-      "lebanon",
-      "death",
-      "tolls",
-      "rise",
-      "1736275"
+      "update",
+      "evening",
+      "special",
+      "report",
+      "march",
+      "2026"
     ]
   },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.thestar.com.my/news/world/2026/03/14/us-prosecutors-defend-block-on-venezuelan-state-funds-for-maduro039s-defense",
+  "NGA": {
+    "risk_score": 7.9,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/features-and-interviews/863962-investigation-the-illegal-timber-trade-fuelling-terrorism-in-north-central-nigeria-benin.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 6,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "prosecutors",
-      "defend",
-      "block",
-      "venezuelan",
-      "state",
-      "funds",
-      "for",
-      "maduro039s",
-      "defense"
+      "features",
+      "and",
+      "interviews",
+      "863962",
+      "investigation",
+      "the",
+      "illegal",
+      "timber",
+      "trade",
+      "fuelling",
+      "terrorism",
+      "north",
+      "central",
+      "nigeria",
+      "benin.html"
     ]
   }
 }
