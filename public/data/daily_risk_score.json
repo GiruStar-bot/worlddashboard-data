@@ -1,205 +1,96 @@
 {
   "IRN": {
-    "risk_score": 19.22,
-    "count": 20,
-    "top_news": "https://www.arkansasonline.com/news/2026/mar/14/bolsonaro-hospitalized-with-pneumonia-synagogue/",
+    "risk_score": 17.34,
+    "count": 18,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-north-beirut-suburb-south-lebanon/articleshow/129571410.cms",
     "event_codes": {
-      "19": 16,
-      "18": 2,
-      "15": 1,
+      "19": 15,
+      "15": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "defence",
+      "israeli",
+      "strikes",
+      "north",
+      "beirut",
+      "suburb",
+      "south",
+      "lebanon",
+      "articleshow",
+      "129571410.cms"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.5,
+    "count": 9,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-north-beirut-suburb-south-lebanon/articleshow/129571410.cms",
+    "event_codes": {
+      "19": 8,
       "17": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "mar",
-      "bolsonaro",
-      "hospitalized",
-      "with",
-      "pneumonia",
-      "synagogue"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.koreatimes.co.kr/world/20260314/us-bombs-military-sites-on-iranian-island-as-trump-threatens-its-oil-infrastructure",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "20260314",
-      "bombs",
-      "military",
-      "sites",
-      "iranian",
-      "island",
-      "trump",
-      "threatens",
-      "its",
-      "oil",
-      "infrastructure"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-it-launched-multiple-attacks-israeli-positions",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "hezbollah",
-      "says",
-      "launched",
-      "multiple",
-      "attacks",
+      "defence",
       "israeli",
-      "positions"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.capitalfm.co.ke/news/2026/03/ruto-credits-broad-based-govt-for-seamless-legislation/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "ruto",
-      "credits",
-      "broad",
-      "based",
-      "govt",
-      "for",
-      "seamless",
-      "legislation"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.premiumtimesng.com/news/headlines/863853-updated-us-israel-iran-war-all-six-us-soldiers-in-crashed-plane-confirmed-dead.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "headlines",
-      "863853",
-      "updated",
-      "israel",
-      "iran",
-      "war",
-      "all",
-      "six",
-      "soldiers",
-      "crashed",
-      "plane",
-      "confirmed",
-      "dead.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/un-launches-308-million-flash-appeal-as-guterres-visits-lebanon-amid-escalating-regional-war/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "channelafrica",
-      "news",
-      "launches",
-      "308",
-      "million",
-      "flash",
-      "appeal",
-      "guterres",
-      "visits",
+      "strikes",
+      "north",
+      "beirut",
+      "suburb",
+      "south",
       "lebanon",
-      "amid",
-      "escalating",
-      "regional",
-      "war"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.brisbanetimes.com.au/world/middle-east/trump-promises-more-pain-for-iran-as-vital-shipping-lane-remains-out-of-bounds-20260314-p5oahj.html",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "trump",
-      "promises",
-      "more",
-      "pain",
-      "for",
-      "iran",
-      "vital",
-      "shipping",
-      "lane",
-      "remains",
-      "out",
-      "bounds",
-      "20260314",
-      "p5oahj.html"
-    ]
-  },
-  "QAT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://thepeninsulaqatar.com/article/14/03/2026/ministry-of-defense-announces-interception-of-missile-attack",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "ministry",
-      "defense",
-      "announces",
-      "interception",
-      "missile",
-      "attack"
+      "articleshow",
+      "129571410.cms"
     ]
   },
   "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.premiumtimesng.com/news/headlines/863853-updated-us-israel-iran-war-all-six-us-soldiers-in-crashed-plane-confirmed-dead.html",
+    "risk_score": 3.84,
+    "count": 4,
+    "top_news": "https://www.aa.com.tr/en/americas/5-us-air-force-refueling-planes-struck-damaged-at-saudi-arabia-s-prince-sultan-air-base-wall-street-journal/3864107",
     "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "headlines",
-      "863853",
-      "updated",
-      "israel",
-      "iran",
-      "war",
-      "all",
-      "six",
-      "soldiers",
-      "crashed",
-      "plane",
-      "confirmed",
-      "dead.html"
+      "americas",
+      "air",
+      "force",
+      "refueling",
+      "planes",
+      "struck",
+      "damaged",
+      "saudi",
+      "arabia",
+      "prince",
+      "sultan",
+      "air",
+      "base",
+      "wall",
+      "street",
+      "journal",
+      "3864107"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.aa.com.tr/en/middle-east/iraqi-group-claims-8-attacks-on-us-bases-in-last-24-hours/3864154",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iraqi",
+      "group",
+      "claims",
+      "attacks",
+      "bases",
+      "last",
+      "hours",
+      "3864154"
     ]
   }
 }
