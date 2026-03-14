@@ -1,161 +1,157 @@
 {
-  "BOL": {
+  "IRN": {
+    "risk_score": 10.65,
+    "count": 11,
+    "top_news": "https://www.dorsetecho.co.uk/news/national/25937064.donald-trump-urges-uk-send-warships-help-secure-strait-hormuz/",
+    "event_codes": {
+      "19": 7,
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25937064.donald",
+      "trump",
+      "urges",
+      "send",
+      "warships",
+      "help",
+      "secure",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-osama-bin-laden-henchman-b2937502.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "americas",
+      "politics",
+      "trump",
+      "iran",
+      "osama",
+      "bin",
+      "laden",
+      "henchman",
+      "b2937502.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://www.americanthinker.com/blog/2026/03/the_kharg_island_raid_signals_trump_s_plan_to_defund_the_mullahs.html",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "blog",
+      "2026",
+      "the",
+      "kharg",
+      "island",
+      "raid",
+      "signals",
+      "trump",
+      "plan",
+      "defund",
+      "the",
+      "mullahs.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.independent.com.mt/articles/2026-03-14/world-news/The-Latest-Trump-threatens-Iran-s-oil-infrastructure-after-US-bombs-strategic-island-6736288009",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "world",
+      "news",
+      "the",
+      "latest",
+      "trump",
+      "threatens",
+      "iran",
+      "oil",
+      "infrastructure",
+      "after",
+      "bombs",
+      "strategic",
+      "island",
+      "6736288009"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://pmnewsnigeria.com/2026/03/14/suleja-vigilante-operative-arrested-after-son-killed-friend-with-his-gun/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "suleja",
+      "vigilante",
+      "operative",
+      "arrested",
+      "after",
+      "son",
+      "killed",
+      "friend",
+      "with",
+      "his",
+      "gun"
+    ]
+  },
+  "NGA": {
     "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://www.perthnow.com.au/news/politics/belarusian-dissident-says-she-read-700-books-in-jail-c-21944373",
+    "top_news": "https://pmnewsnigeria.com/2026/03/14/kano-police-nab-four-suspects-recover-stolen-vehicles/",
     "event_codes": {
       "17": 4
     },
     "keywords": [
-      "news",
-      "politics",
-      "belarusian",
-      "dissident",
-      "says",
-      "she",
-      "read",
-      "700",
-      "books",
-      "jail",
-      "21944373"
+      "2026",
+      "kano",
+      "police",
+      "nab",
+      "four",
+      "suspects",
+      "recover",
+      "stolen",
+      "vehicles"
     ]
   },
-  "IRN": {
-    "risk_score": 18.25,
-    "count": 20,
-    "top_news": "https://www.independentsentinel.com/iranian-drone-response-to-the-bombing-of-kharg-island-what-will-follow/",
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thetimes.com/world/middle-east/israel-iran/article/strait-of-hormuz-shadow-fleet-crews-hfv6csmzv",
     "event_codes": {
-      "19": 11,
-      "14": 4,
-      "18": 4,
-      "16": 1
-    },
-    "keywords": [
-      "iranian",
-      "drone",
-      "response",
-      "the",
-      "bombing",
-      "kharg",
-      "island",
-      "what",
-      "will",
-      "follow"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.9news.com.au/world/us-israel-iran-war-donald-trump-sends-2500-more-marines-as-conflict-enters-third-week/c91f61a6-1930-4dbb-ad2e-e4724fb2a93b",
-    "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "world",
+      "middle",
+      "east",
       "israel",
       "iran",
-      "war",
-      "donald",
-      "trump",
-      "sends",
-      "2500",
-      "more",
-      "marines",
-      "conflict",
-      "enters",
-      "third",
-      "week",
-      "c91f61a6",
-      "1930",
-      "4dbb",
-      "ad2e",
-      "e4724fb2a93b"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.standardmedia.co.ke/health/health-science/article/2001543070/world-sleep-day-four-in-10-kenyans-battle-insomnia",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "health",
-      "health",
-      "science",
       "article",
-      "2001543070",
-      "world",
-      "sleep",
-      "day",
-      "four",
-      "kenyans",
-      "battle",
-      "insomnia"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.marketscreener.com/news/hamas-calls-on-iran-not-to-target-neighboring-countries-but-affirms-its-right-to-self-defence-ce7e5fd3d189f424",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "hamas",
-      "calls",
-      "iran",
-      "not",
-      "target",
-      "neighboring",
-      "countries",
-      "but",
-      "affirms",
-      "its",
-      "right",
-      "self",
-      "defence",
-      "ce7e5fd3d189f424"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://littleapplepost.com/posts/551b15d2-4028-4542-b054-a4337fb4ec7d",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "posts",
-      "551b15d2",
-      "4028",
-      "4542",
-      "b054",
-      "a4337fb4ec7d"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.durangoherald.com/articles/iranians-grapple-with-whether-to-flee-the-country-because-of-the-war/",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "articles",
-      "iranians",
-      "grapple",
-      "with",
-      "whether",
-      "flee",
-      "the",
-      "country",
-      "because",
-      "the",
-      "war"
+      "strait",
+      "hormuz",
+      "shadow",
+      "fleet",
+      "crews",
+      "hfv6csmzv"
     ]
   }
 }
