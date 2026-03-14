@@ -1,82 +1,131 @@
 {
-  "IRN": {
-    "risk_score": 11.4,
-    "count": 12,
-    "top_news": "https://www.yahoo.com/news/articles/trump-threatens-strike-irans-kharg-033005654.html",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://gulfnews.com/uae/debris-from-missile-interception-hits-dubai-building-no-injuries-reported-1.500474064",
     "event_codes": {
-      "19": 10,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "trump",
-      "threatens",
-      "strike",
-      "irans",
-      "kharg",
-      "033005654.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.17,
-    "count": 16,
-    "top_news": "https://www.yahoo.com/news/articles/trump-threatens-strike-irans-kharg-033005654.html",
-    "event_codes": {
-      "19": 10,
-      "17": 3,
-      "14": 1,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "trump",
-      "threatens",
-      "strike",
-      "irans",
-      "kharg",
-      "033005654.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/trump-threatens-strike-irans-kharg-033005654.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "trump",
-      "threatens",
-      "strike",
-      "irans",
-      "kharg",
-      "033005654.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://wrp.org.uk/news/full-support-for-al-quds-day-protest-on-sunday/",
-    "event_codes": {
-      "17": 4,
-      "14": 1,
+      "17": 2,
       "19": 1
     },
     "keywords": [
+      "uae",
+      "debris",
+      "from",
+      "missile",
+      "interception",
+      "hits",
+      "dubai",
+      "building",
+      "injuries",
+      "reported",
+      "1.500474064"
+    ]
+  },
+  "IRN": {
+    "risk_score": 17.72,
+    "count": 18,
+    "top_news": "https://www.newkerala.com/news/a/suicide-drone-missile-strike-target-radar-system-helipad-658.htm",
+    "event_codes": {
+      "19": 14,
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
       "news",
-      "full",
-      "support",
+      "suicide",
+      "drone",
+      "missile",
+      "strike",
+      "target",
+      "radar",
+      "system",
+      "helipad",
+      "658.htm"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://nypost.com/2026/03/14/world-news/us-embassy-in-baghdad-hit-in-missile-attack/",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "embassy",
+      "baghdad",
+      "hit",
+      "missile",
+      "attack"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://blueprint.ng/over-122843-terrorists-have-surrendered-under-operation-hadin-kai-dhq/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "over",
+      "122843",
+      "terrorists",
+      "have",
+      "surrendered",
+      "under",
+      "operation",
+      "hadin",
+      "kai",
+      "dhq"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.econotimes.com/Israel-Iran-War-Escalates-Gaza-West-Bank-and-Lebanon-Death-Tolls-Rise-1736275",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "iran",
+      "war",
+      "escalates",
+      "gaza",
+      "west",
+      "bank",
+      "and",
+      "lebanon",
+      "death",
+      "tolls",
+      "rise",
+      "1736275"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thestar.com.my/news/world/2026/03/14/us-prosecutors-defend-block-on-venezuelan-state-funds-for-maduro039s-defense",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "prosecutors",
+      "defend",
+      "block",
+      "venezuelan",
+      "state",
+      "funds",
       "for",
-      "quds",
-      "day",
-      "protest",
-      "sunday"
+      "maduro039s",
+      "defense"
     ]
   }
 }
