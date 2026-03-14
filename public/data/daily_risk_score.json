@@ -1,77 +1,131 @@
 {
-  "IRN": {
-    "risk_score": 8.94,
-    "count": 11,
-    "top_news": "https://www.bostonglobe.com/2026/03/14/world/iran-threatens-war-third-week/",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.tribuneindia.com/live-blog/world/west-asia-conflict-us-bombs-irans-kharg-island-trump-warns-oil-infrastructure-could-be-next/",
     "event_codes": {
-      "19": 5,
-      "16": 3,
-      "17": 2,
-      "18": 1
+      "16": 5,
+      "19": 1
     },
     "keywords": [
-      "2026",
+      "live",
+      "blog",
       "world",
-      "iran",
-      "threatens",
-      "war",
-      "third",
-      "week"
+      "west",
+      "asia",
+      "conflict",
+      "bombs",
+      "irans",
+      "kharg",
+      "island",
+      "trump",
+      "warns",
+      "oil",
+      "infrastructure",
+      "could",
+      "next"
+    ]
+  },
+  "IRN": {
+    "risk_score": 24.32,
+    "count": 28,
+    "top_news": "https://www.tribuneindia.com/live-blog/world/west-asia-conflict-us-bombs-irans-kharg-island-trump-warns-oil-infrastructure-could-be-next/",
+    "event_codes": {
+      "19": 18,
+      "17": 4,
+      "18": 3,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "world",
+      "west",
+      "asia",
+      "conflict",
+      "bombs",
+      "irans",
+      "kharg",
+      "island",
+      "trump",
+      "warns",
+      "oil",
+      "infrastructure",
+      "could",
+      "next"
     ]
   },
   "IRQ": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.tribuneindia.com/live-blog/world/west-asia-conflict-us-bombs-irans-kharg-island-trump-warns-oil-infrastructure-could-be-next/",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "world",
+      "west",
+      "asia",
+      "conflict",
+      "bombs",
+      "irans",
+      "kharg",
+      "island",
+      "trump",
+      "warns",
+      "oil",
+      "infrastructure",
+      "could",
+      "next"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.15,
+    "count": 12,
+    "top_news": "https://www.spacewar.com/afp/260314163000.azixtuaa.html",
+    "event_codes": {
+      "19": 4,
+      "14": 3,
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "afp",
+      "260314163000.azixtuaa.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/france-un-push-direct-talks-163432161.html",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "france",
+      "push",
+      "direct",
+      "talks",
+      "163432161.html"
+    ]
+  },
+  "TUR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.bostonglobe.com/2026/03/14/world/iran-threatens-war-third-week/",
+    "top_news": "https://www.spacewar.com/afp/260314170109.kvnnug1u.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "world",
-      "iran",
-      "threatens",
-      "war",
-      "third",
-      "week"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.newsinenglish.no/2026/03/14/middle-east-in-flames-as-ukraines-needs-also-rise/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "middle",
-      "east",
-      "flames",
-      "ukraines",
-      "needs",
-      "also",
-      "rise"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.0,
-    "count": 9,
-    "top_news": "https://www.channelstv.com/2026/03/14/20-killed-as-bandits-ambush-security-patrol-in-plateau/",
-    "event_codes": {
-      "18": 5,
-      "14": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "killed",
-      "bandits",
-      "ambush",
-      "security",
-      "patrol",
-      "plateau"
+      "afp",
+      "260314170109.kvnnug1u.html"
     ]
   }
 }
