@@ -1,119 +1,123 @@
 {
   "ARE": {
-    "risk_score": 2.3,
-    "count": 5,
-    "top_news": "https://www.dailymail.co.uk/news/article-15645639/Abu-Dhabi-arrests-45-drone-missile-UAE-social-media-crackdown.html",
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-war-dubai-influencers-uae-safe-b2936551.html",
     "event_codes": {
-      "17": 3,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15645639",
-      "abu",
-      "dhabi",
-      "arrests",
-      "drone",
-      "missile",
-      "uae",
-      "social",
-      "media",
-      "crackdown.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 33.0,
-    "count": 38,
-    "top_news": "https://chicago.suntimes.com/columnists/2026/03/14/iran-children-school-bombing-u-s-israel-trump-negar-mortazavi-rummana-hussain",
-    "event_codes": {
-      "19": 19,
-      "18": 7,
-      "14": 6,
-      "17": 6
-    },
-    "keywords": [
-      "columnists",
-      "2026",
-      "iran",
-      "children",
-      "school",
-      "bombing",
-      "israel",
-      "trump",
-      "negar",
-      "mortazavi",
-      "rummana",
-      "hussain"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/motaz-malhees-misses-oscars-while-the-voice-of-hind-rajab-earns-academy-award-nomination/articleshow/129572415.cms",
-    "event_codes": {
-      "19": 6,
-      "16": 1
-    },
-    "keywords": [
-      "entertainment",
-      "english",
-      "hollywood",
-      "news",
-      "motaz",
-      "malhees",
-      "misses",
-      "oscars",
-      "while",
-      "the",
-      "voice",
-      "hind",
-      "rajab",
-      "earns",
-      "academy",
-      "award",
-      "nomination",
-      "articleshow",
-      "129572415.cms"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://thefrontierpost.com/macron-thanks-iraqi-pm-for-measures-to-safeguard-french-forces/",
-    "event_codes": {
-      "19": 4,
+      "19": 5,
       "18": 1
     },
     "keywords": [
-      "macron",
-      "thanks",
-      "iraqi",
-      "for",
-      "measures",
-      "safeguard",
-      "french",
-      "forces"
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "dubai",
+      "influencers",
+      "uae",
+      "safe",
+      "b2936551.html"
     ]
   },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.legit.ng/nigeria/1701108-us-israel-iran-pro-iranian-protests-hit-abuja-3-states/",
+  "IRN": {
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/iran-supreme-leader-disfigured-pete-hegseth-mojtaba-khamenei-b2938441.html",
     "event_codes": {
+      "19": 16
+    },
+    "keywords": [
+      "news",
+      "world",
+      "americas",
+      "politics",
+      "iran",
+      "supreme",
+      "leader",
+      "disfigured",
+      "pete",
+      "hegseth",
+      "mojtaba",
+      "khamenei",
+      "b2938441.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/862352/secret-inon-plan-exposed-explosive-claims-that-middle-east-wars-aim-to-dismantle-iran-and-reshape-the-region%20title=",
+    "event_codes": {
+      "19": 6,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "862352",
+      "secret",
+      "inon",
+      "plan",
+      "exposed",
+      "explosive",
+      "claims",
+      "that",
+      "middle",
+      "east",
+      "wars",
+      "aim",
+      "dismantle",
+      "iran",
+      "and",
+      "reshape",
+      "the",
+      "region%20title="
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.22,
+    "count": 8,
+    "top_news": "https://theeagleonline.com.ng/nigeria-conjoined-with-darkness-by-corruption-inefficiency-by-steve-omolale/",
+    "event_codes": {
+      "17": 4,
+      "18": 2,
       "19": 2
     },
     "keywords": [
       "nigeria",
-      "1701108",
-      "israel",
-      "iran",
-      "pro",
-      "iranian",
-      "protests",
-      "hit",
-      "abuja",
-      "states"
+      "conjoined",
+      "with",
+      "darkness",
+      "corruption",
+      "inefficiency",
+      "steve",
+      "omolale"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.zimeye.net/2026/03/14/guruve-serial-killer-anymore-zvitsva-seeks-forgiveness-from-first-lady-auxillia-mnangagwa/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "guruve",
+      "serial",
+      "killer",
+      "anymore",
+      "zvitsva",
+      "seeks",
+      "forgiveness",
+      "from",
+      "first",
+      "lady",
+      "auxillia",
+      "mnangagwa"
     ]
   }
 }
