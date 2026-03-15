@@ -1,101 +1,124 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.livemint.com/news/world/19-indians-among-35-in-trouble-as-uae-orders-arrests-over-war-footage-fabrication-of-clips-using-ai-report-11773592073097.html",
+  "IRN": {
+    "risk_score": 18.2,
+    "count": 19,
+    "top_news": "https://www.express.co.uk/news/world/2182495/chilling-US-military-base-drone",
     "event_codes": {
-      "19": 2
+      "19": 16,
+      "14": 2,
+      "18": 1
     },
     "keywords": [
       "news",
       "world",
-      "indians",
-      "among",
-      "trouble",
-      "uae",
-      "orders",
-      "arrests",
-      "over",
-      "war",
-      "footage",
-      "fabrication",
-      "clips",
-      "using",
-      "report",
-      "11773592073097.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.75,
-    "count": 5,
-    "top_news": "https://www.foxnews.com/media/us-could-take-irans-main-oil-export-hub-at-time-our-choosing-keane-says",
-    "event_codes": {
-      "19": 3,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "media",
-      "could",
-      "take",
-      "irans",
-      "main",
-      "oil",
-      "export",
-      "hub",
-      "time",
-      "our",
-      "choosing",
-      "keane",
-      "says"
+      "2182495",
+      "chilling",
+      "military",
+      "base",
+      "drone"
     ]
   },
   "ISR": {
-    "risk_score": 10.45,
-    "count": 13,
-    "top_news": "https://www.cbsnews.com/news/israel-defense-forces-ayman-mohamad-ghazali-brother-michigan-synagogue-suspect-hezbollah-commander/",
+    "risk_score": 16.5,
+    "count": 18,
+    "top_news": "https://reliefweb.int/report/occupied-palestinian-territory/alarm-over-pattern-unlawful-killings-two-palestinian-families-killed-and-settlers-terrorising-communities",
     "event_codes": {
-      "19": 7,
-      "14": 3,
+      "19": 15,
       "17": 3
     },
     "keywords": [
-      "news",
-      "israel",
-      "defense",
-      "forces",
-      "ayman",
-      "mohamad",
-      "ghazali",
-      "brother",
-      "michigan",
-      "synagogue",
-      "suspect",
-      "hezbollah",
-      "commander"
+      "report",
+      "occupied",
+      "palestinian",
+      "territory",
+      "alarm",
+      "over",
+      "pattern",
+      "unlawful",
+      "killings",
+      "two",
+      "palestinian",
+      "families",
+      "killed",
+      "and",
+      "settlers",
+      "terrorising",
+      "communities"
     ]
   },
   "LBN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.cbsnews.com/news/israel-defense-forces-ayman-mohamad-ghazali-brother-michigan-synagogue-suspect-hezbollah-commander/",
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.chicagotribune.com/2026/03/15/trumps-countries-warships-strait-of-hormuz/",
     "event_codes": {
-      "19": 8
+      "19": 5,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "defense",
-      "forces",
-      "ayman",
-      "mohamad",
-      "ghazali",
-      "brother",
-      "michigan",
-      "synagogue",
-      "suspect",
-      "hezbollah",
-      "commander"
+      "2026",
+      "trumps",
+      "countries",
+      "warships",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://reliefweb.int/report/occupied-palestinian-territory/alarm-over-pattern-unlawful-killings-two-palestinian-families-killed-and-settlers-terrorising-communities",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "report",
+      "occupied",
+      "palestinian",
+      "territory",
+      "alarm",
+      "over",
+      "pattern",
+      "unlawful",
+      "killings",
+      "two",
+      "palestinian",
+      "families",
+      "killed",
+      "and",
+      "settlers",
+      "terrorising",
+      "communities"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.jpost.com/middle-east/article-890034",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "890034"
+    ]
+  },
+  "SYR": {
+    "risk_score": 10.2,
+    "count": 13,
+    "top_news": "https://www.jpost.com/middle-east/article-890030",
+    "event_codes": {
+      "17": 5,
+      "18": 5,
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "890030"
     ]
   }
 }
