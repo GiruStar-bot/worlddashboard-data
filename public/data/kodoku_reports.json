@@ -2,8 +2,8 @@
   "chokepoints": {
     "hormuz": {
       "name": "Strait of Hormuz",
-      "disruption_risk": 80.1,
-      "crisis_score_raw": 24.0285
+      "disruption_risk": 65.3,
+      "crisis_score_raw": 19.5889
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -12,8 +12,8 @@
     },
     "suez": {
       "name": "Suez Canal",
-      "disruption_risk": 61.0,
-      "crisis_score_raw": 18.31
+      "disruption_risk": 100.0,
+      "crisis_score_raw": 32.8393
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
@@ -32,8 +32,8 @@
     },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 17.3,
-      "crisis_score_raw": 5.196
+      "disruption_risk": 23.4,
+      "crisis_score_raw": 7.0287
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
@@ -49,7 +49,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 80.1
+          "disruption_risk": 65.3
         },
         {
           "id": "malacca",
@@ -62,10 +62,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 19.9,
+      "survival_rate": 34.7,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 80.1,
-      "insight": "【致命的警告】 エネルギー航路 (中東 - 日本)の生存確率が19.9%まで急落。Strait of Hormuzの機能不全リスク（80.1%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
+      "max_disruption_risk": 65.3,
+      "insight": "【致命的警告】 エネルギー航路 (中東 - 日本)の生存確率が34.7%まで急落。Strait of Hormuzの機能不全リスク（65.3%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
     },
     {
       "id": "middle_east_to_europe",
@@ -74,7 +74,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 80.1
+          "disruption_risk": 65.3
         },
         {
           "id": "bab_el_mandeb",
@@ -84,13 +84,13 @@
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 61.0
+          "disruption_risk": 100.0
         }
       ],
-      "survival_rate": 19.9,
-      "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 80.1,
-      "insight": "【致命的警告】 エネルギー航路 (中東 - 欧州)の生存確率が19.9%まで急落。Strait of Hormuzの機能不全リスク（80.1%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
+      "survival_rate": 0.0,
+      "critical_node": "Suez Canal",
+      "max_disruption_risk": 100.0,
+      "insight": "【致命的警告】 エネルギー航路 (中東 - 欧州)の生存確率が0.0%まで急落。Suez Canalの機能不全リスク（100.0%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
     },
     {
       "id": "asia_to_europe_suez",
@@ -109,13 +109,13 @@
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 61.0
+          "disruption_risk": 100.0
         }
       ],
-      "survival_rate": 39.0,
+      "survival_rate": 0.0,
       "critical_node": "Suez Canal",
-      "max_disruption_risk": 61.0,
-      "insight": "【致命的警告】 主要貿易航路 (アジア - 欧州 / スエズ経由)の生存確率が39.0%まで急落。Suez Canalの機能不全リスク（61.0%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
+      "max_disruption_risk": 100.0,
+      "insight": "【致命的警告】 主要貿易航路 (アジア - 欧州 / スエズ経由)の生存確率が0.0%まで急落。Suez Canalの機能不全リスク（100.0%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
     },
     {
       "id": "asia_to_europe_cape",
@@ -164,18 +164,18 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 17.3
+          "disruption_risk": 23.4
         },
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 61.0
+          "disruption_risk": 100.0
         }
       ],
-      "survival_rate": 39.0,
+      "survival_rate": 0.0,
       "critical_node": "Suez Canal",
-      "max_disruption_risk": 61.0,
-      "insight": "【致命的警告】 黒海・地中海航路の生存確率が39.0%まで急落。Suez Canalの機能不全リスク（61.0%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
+      "max_disruption_risk": 100.0,
+      "insight": "【致命的警告】 黒海・地中海航路の生存確率が0.0%まで急落。Suez Canalの機能不全リスク（100.0%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
     }
   ]
 }
