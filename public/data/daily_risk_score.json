@@ -1,13 +1,14 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.cadillacnews.com/ap/business/the-latest-gulf-countries-report-new-attacks-after-iran-warns-major-uae-ports-to-evacuate/article_64e65a61-b718-5c4c-ad52-c909d774b92c.html",
+    "risk_score": 9.92,
+    "count": 10,
+    "top_news": "https://www.durangoherald.com/articles/the-latest-gulf-countries-report-new-attacks-after-iran-warns-major-uae-ports-to-evacuate/",
     "event_codes": {
-      "19": 5
+      "19": 9,
+      "17": 1
     },
     "keywords": [
-      "business",
+      "articles",
       "the",
       "latest",
       "gulf",
@@ -21,44 +22,69 @@
       "major",
       "uae",
       "ports",
-      "evacuate",
-      "article",
-      "64e65a61",
-      "b718",
-      "5c4c",
-      "ad52",
-      "c909d774b92c.html"
+      "evacuate"
     ]
   },
-  "TUR": {
+  "ISR": {
+    "risk_score": 8.4,
+    "count": 9,
+    "top_news": "https://www.foxnews.com/world/trump-seeks-warships-from-other-countries-help-secure-strait-hormuz",
+    "event_codes": {
+      "19": 7,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "seeks",
+      "warships",
+      "from",
+      "other",
+      "countries",
+      "help",
+      "secure",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "KEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.cadillacnews.com/ap/business/the-latest-gulf-countries-report-new-attacks-after-iran-warns-major-uae-ports-to-evacuate/article_64e65a61-b718-5c4c-ad52-c909d774b92c.html",
+    "top_news": "https://chimpreports.com/kenya-flags-turkish-national-over-alleged-al-shabaab-financing-links/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "business",
-      "the",
-      "latest",
-      "gulf",
-      "countries",
-      "report",
-      "new",
-      "attacks",
-      "after",
-      "iran",
-      "warns",
-      "major",
-      "uae",
-      "ports",
-      "evacuate",
+      "kenya",
+      "flags",
+      "turkish",
+      "national",
+      "over",
+      "alleged",
+      "shabaab",
+      "financing",
+      "links"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://www.newsday.co.zw/thestandard/news/article/200052671/mnangagwa-2030-plot-in-sinister-twist",
+    "event_codes": {
+      "17": 4,
+      "18": 1
+    },
+    "keywords": [
+      "thestandard",
+      "news",
       "article",
-      "64e65a61",
-      "b718",
-      "5c4c",
-      "ad52",
-      "c909d774b92c.html"
+      "200052671",
+      "mnangagwa",
+      "2030",
+      "plot",
+      "sinister",
+      "twist"
     ]
   }
 }
