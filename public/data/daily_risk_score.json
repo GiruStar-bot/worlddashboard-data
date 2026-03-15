@@ -1,95 +1,121 @@
 {
   "IRN": {
-    "risk_score": 21.45,
-    "count": 22,
-    "top_news": "https://www.israelnationalnews.com/news/423955",
+    "risk_score": 41.14,
+    "count": 45,
+    "top_news": "https://www.newsday.com/news/nation/iran-israel-us-latest-march-15-2026-u04497",
     "event_codes": {
-      "19": 19,
-      "18": 2,
-      "17": 1
+      "19": 31,
+      "17": 8,
+      "18": 4,
+      "14": 2
     },
     "keywords": [
       "news",
-      "423955"
+      "nation",
+      "iran",
+      "israel",
+      "latest",
+      "march",
+      "2026",
+      "u04497"
     ]
   },
   "ISR": {
-    "risk_score": 11.85,
-    "count": 13,
-    "top_news": "https://isp.netscape.com/news/world/story/0001/20260315/ec9966789dbd71f85fe5776fe864ab97",
+    "risk_score": 18.95,
+    "count": 30,
+    "top_news": "https://www.siasat.com/iran-guards-vows-to-kill-netanyahu-labels-him-child-killing-criminal-3435229/",
     "event_codes": {
+      "16": 17,
       "19": 8,
       "18": 3,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "guards",
+      "vows",
+      "kill",
+      "netanyahu",
+      "labels",
+      "him",
+      "child",
+      "killing",
+      "criminal",
+      "3435229"
+    ]
+  },
+  "KWT": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.bostonglobe.com/2026/03/15/world/trump-rejects-deal-with-iran-on-current-terms-war-rages-on/",
+    "event_codes": {
+      "19": 5,
       "17": 2
     },
     "keywords": [
-      "news",
+      "2026",
       "world",
-      "story",
-      "0001",
-      "20260315",
-      "ec9966789dbd71f85fe5776fe864ab97"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.25,
-    "count": 5,
-    "top_news": "https://www.standardmedia.co.ke/opinion/article/2001543094/kenyan-farmers-dont-lack-land-or-rain-make-machinery-affordable",
-    "event_codes": {
-      "14": 5
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "2001543094",
-      "kenyan",
-      "farmers",
-      "dont",
-      "lack",
-      "land",
-      "rain",
-      "make",
-      "machinery",
-      "affordable"
+      "trump",
+      "rejects",
+      "deal",
+      "with",
+      "iran",
+      "current",
+      "terms",
+      "war",
+      "rages"
     ]
   },
   "PSE": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://isp.netscape.com/news/world/story/0001/20260315/ec9966789dbd71f85fe5776fe864ab97",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thesunchronicle.com/news/nation_world/hospital-officials-say-an-israeli-strike-killed-4-in-gaza-including-a-child-and-his/article_f7b1ce41-c339-504c-b99d-21112f3b2c1f.html",
     "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
       "news",
+      "nation",
       "world",
-      "story",
-      "0001",
-      "20260315",
-      "ec9966789dbd71f85fe5776fe864ab97"
+      "hospital",
+      "officials",
+      "say",
+      "israeli",
+      "strike",
+      "killed",
+      "gaza",
+      "including",
+      "child",
+      "and",
+      "his",
+      "article",
+      "f7b1ce41",
+      "c339",
+      "504c",
+      "b99d",
+      "21112f3b2c1f.html"
     ]
   },
-  "SYR": {
-    "risk_score": 6.63,
-    "count": 7,
-    "top_news": "https://english.aawsat.com/arab-world/5251463-syria-foils-weapons-smuggling-attempt-near-lebanese-border",
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newindianexpress.com/world/2026/Mar/15/pm-is-fine-netanyahus-office-dismisses-his-death-rumours-as-fake",
     "event_codes": {
-      "17": 4,
-      "19": 2,
-      "18": 1
+      "18": 2
     },
     "keywords": [
-      "arab",
       "world",
-      "5251463",
-      "syria",
-      "foils",
-      "weapons",
-      "smuggling",
-      "attempt",
-      "near",
-      "lebanese",
-      "border"
+      "2026",
+      "mar",
+      "fine",
+      "netanyahus",
+      "office",
+      "dismisses",
+      "his",
+      "death",
+      "rumours",
+      "fake"
     ]
   }
 }
