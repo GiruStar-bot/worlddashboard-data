@@ -1,108 +1,95 @@
 {
   "IRN": {
-    "risk_score": 33.77,
-    "count": 36,
-    "top_news": "https://www.manchestereveningnews.co.uk/news/world-news/iran-war-live-middle-east-33568470",
+    "risk_score": 21.45,
+    "count": 22,
+    "top_news": "https://www.israelnationalnews.com/news/423955",
     "event_codes": {
-      "19": 27,
-      "16": 4,
-      "18": 4,
+      "19": 19,
+      "18": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "world",
-      "news",
-      "iran",
-      "war",
-      "live",
-      "middle",
-      "east",
-      "33568470"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://openthemagazine.com/world/shiite-militia-group-claims-strikes-on-us-bases-in-iraq-as-dispute-grows-over-kc-135-crash",
-    "event_codes": {
-      "19": 10,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "shiite",
-      "militia",
-      "group",
-      "claims",
-      "strikes",
-      "bases",
-      "iraq",
-      "dispute",
-      "grows",
-      "over",
-      "135",
-      "crash"
+      "423955"
     ]
   },
   "ISR": {
-    "risk_score": 30.76,
-    "count": 34,
-    "top_news": "https://www.aa.com.tr/en/world/morning-briefing-march-15-2026/3865104",
+    "risk_score": 11.85,
+    "count": 13,
+    "top_news": "https://isp.netscape.com/news/world/story/0001/20260315/ec9966789dbd71f85fe5776fe864ab97",
     "event_codes": {
-      "19": 21,
-      "18": 5,
+      "19": 8,
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "story",
+      "0001",
+      "20260315",
+      "ec9966789dbd71f85fe5776fe864ab97"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.25,
+    "count": 5,
+    "top_news": "https://www.standardmedia.co.ke/opinion/article/2001543094/kenyan-farmers-dont-lack-land-or-rain-make-machinery-affordable",
+    "event_codes": {
+      "14": 5
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "2001543094",
+      "kenyan",
+      "farmers",
+      "dont",
+      "lack",
+      "land",
+      "rain",
+      "make",
+      "machinery",
+      "affordable"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://isp.netscape.com/news/world/story/0001/20260315/ec9966789dbd71f85fe5776fe864ab97",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "world",
+      "story",
+      "0001",
+      "20260315",
+      "ec9966789dbd71f85fe5776fe864ab97"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.63,
+    "count": 7,
+    "top_news": "https://english.aawsat.com/arab-world/5251463-syria-foils-weapons-smuggling-attempt-near-lebanese-border",
+    "event_codes": {
       "17": 4,
-      "15": 2,
-      "16": 1,
-      "20": 1
+      "19": 2,
+      "18": 1
     },
     "keywords": [
+      "arab",
       "world",
-      "morning",
-      "briefing",
-      "march",
-      "2026",
-      "3865104"
-    ]
-  },
-  "LBN": {
-    "risk_score": 15.9,
-    "count": 16,
-    "top_news": "https://www.aa.com.tr/en/middle-east/14-people-including-4-children-killed-in-israeli-attacks-in-southern-lebanon/3865149",
-    "event_codes": {
-      "19": 14,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "people",
-      "including",
-      "children",
-      "killed",
-      "israeli",
-      "attacks",
-      "southern",
-      "lebanon",
-      "3865149"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aa.com.tr/en/world/morning-briefing-march-15-2026/3865104",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "morning",
-      "briefing",
-      "march",
-      "2026",
-      "3865104"
+      "5251463",
+      "syria",
+      "foils",
+      "weapons",
+      "smuggling",
+      "attempt",
+      "near",
+      "lebanese",
+      "border"
     ]
   }
 }
