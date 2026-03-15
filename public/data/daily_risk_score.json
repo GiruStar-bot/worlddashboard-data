@@ -1,137 +1,192 @@
 {
-  "IRN": {
-    "risk_score": 11.6,
-    "count": 14,
-    "top_news": "https://www.freepressjournal.in/world/iranian-students-protest-outside-un-office-in-tehran-over-us-israel-attack-on-elementary-school",
+  "ARE": {
+    "risk_score": 4.6,
+    "count": 8,
+    "top_news": "https://www.canberratimes.com.au/story/9198748/trump-warns-of-more-strikes-on-irans-oil-export-hub/",
     "event_codes": {
-      "19": 7,
+      "16": 4,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "story",
+      "9198748",
+      "trump",
+      "warns",
+      "more",
+      "strikes",
+      "irans",
+      "oil",
+      "export",
+      "hub"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.14,
+    "count": 16,
+    "top_news": "https://www.ibtimes.co.in/trump-rejects-iran-deal-seeks-global-support-secure-strait-hormuz-says-gulf-now-united-against-899405",
+    "event_codes": {
+      "19": 11,
       "14": 2,
-      "16": 2,
       "17": 2,
       "18": 1
     },
     "keywords": [
-      "world",
-      "iranian",
-      "students",
-      "protest",
-      "outside",
-      "office",
-      "tehran",
-      "over",
-      "israel",
-      "attack",
-      "elementary",
-      "school"
+      "trump",
+      "rejects",
+      "iran",
+      "deal",
+      "seeks",
+      "global",
+      "support",
+      "secure",
+      "strait",
+      "hormuz",
+      "says",
+      "gulf",
+      "now",
+      "united",
+      "against",
+      "899405"
     ]
   },
   "ISR": {
-    "risk_score": 19.85,
-    "count": 23,
-    "top_news": "https://bangaloremirror.indiatimes.com/bangalore/others/war-widens-iran-threatens-gulf-oil-ports/articleshow/129583766.cms",
+    "risk_score": 19.5,
+    "count": 20,
+    "top_news": "https://www.nbcmiami.com/news/national-international/us-service-members-killed-refueling-plane-crashes-iraq/3780689/",
     "event_codes": {
-      "19": 15,
-      "16": 3,
-      "18": 3,
-      "17": 2
+      "19": 19,
+      "17": 1
     },
     "keywords": [
-      "bangalore",
-      "others",
-      "war",
-      "widens",
-      "iran",
-      "threatens",
-      "gulf",
-      "oil",
-      "ports",
-      "articleshow",
-      "129583766.cms"
+      "news",
+      "national",
+      "international",
+      "service",
+      "members",
+      "killed",
+      "refueling",
+      "plane",
+      "crashes",
+      "iraq",
+      "3780689"
     ]
   },
   "LBN": {
-    "risk_score": 6.95,
-    "count": 7,
-    "top_news": "https://www.aol.com/articles/chief-tedros-says-12-dead-205113215.html",
+    "risk_score": 4.55,
+    "count": 5,
+    "top_news": "https://www.journal-news.com/news/nation-world/trump-urges-us-allies-to-send-warships-to-strait-of-hormuz-as-iran-vows-to-retaliate/TLF5N23VEFIGPEFJT2JNZEBAPE/",
     "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "articles",
-      "chief",
-      "tedros",
-      "says",
-      "dead",
-      "205113215.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.25,
-    "count": 10,
-    "top_news": "https://dailypost.ng/2026/03/15/police-begin-investigation-into-death-of-nscdc-personnel-in-kano-attack/",
-    "event_codes": {
-      "18": 6,
-      "17": 2,
+      "19": 3,
       "14": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "begin",
-      "investigation",
-      "into",
-      "death",
-      "nscdc",
-      "personnel",
-      "kano",
-      "attack"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.76,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/423948",
-    "event_codes": {
-      "15": 3,
-      "17": 2,
-      "19": 2,
-      "14": 1
+      "18": 1
     },
     "keywords": [
       "news",
-      "423948"
+      "nation",
+      "world",
+      "trump",
+      "urges",
+      "allies",
+      "send",
+      "warships",
+      "strait",
+      "hormuz",
+      "iran",
+      "vows",
+      "retaliate",
+      "tlf5n23vefigpefjt2jnzebape"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/03/15/johari-confirms-malaysia-us-trade-deal-cancelled",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "johari",
+      "confirms",
+      "malaysia",
+      "trade",
+      "deal",
+      "cancelled"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/15/palestinian-ministry-says-israeli-troops-kill-2-children-parents-in-west-bank",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "category",
+      "world",
+      "2026",
+      "palestinian",
+      "ministry",
+      "says",
+      "israeli",
+      "troops",
+      "kill",
+      "children",
+      "parents",
+      "west",
+      "bank"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ibtimes.co.in/trump-rejects-iran-deal-seeks-global-support-secure-strait-hormuz-says-gulf-now-united-against-899405",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "trump",
+      "rejects",
+      "iran",
+      "deal",
+      "seeks",
+      "global",
+      "support",
+      "secure",
+      "strait",
+      "hormuz",
+      "says",
+      "gulf",
+      "now",
+      "united",
+      "against",
+      "899405"
     ]
   },
   "TUR": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/423948",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/15/palestinian-ministry-says-israeli-troops-kill-2-children-parents-in-west-bank",
     "event_codes": {
-      "15": 3
+      "19": 2
     },
     "keywords": [
-      "news",
-      "423948"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.thestandard.co.zw/standard-people/article/200052667/the-many-faces-of-rutendo-matinyarare",
-    "event_codes": {
-      "16": 5
-    },
-    "keywords": [
-      "standard",
-      "people",
-      "article",
-      "200052667",
-      "the",
-      "many",
-      "faces",
-      "rutendo",
-      "matinyarare"
+      "category",
+      "world",
+      "2026",
+      "palestinian",
+      "ministry",
+      "says",
+      "israeli",
+      "troops",
+      "kill",
+      "children",
+      "parents",
+      "west",
+      "bank"
     ]
   }
 }
