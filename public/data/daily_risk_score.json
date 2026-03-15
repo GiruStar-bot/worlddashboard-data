@@ -1,107 +1,153 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.gazetaexpress.com/en/Emirates-shoots-down-4-missiles-and-6-Iranian-drones/",
+  "IRN": {
+    "risk_score": 21.15,
+    "count": 24,
+    "top_news": "https://www.surinametimes.com/artikel/more-than-110-people-killed-in-irans-kurdistan",
     "event_codes": {
-      "17": 2,
+      "19": 15,
+      "17": 3,
+      "18": 3,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "artikel",
+      "more",
+      "than",
+      "110",
+      "people",
+      "killed",
+      "irans",
+      "kurdistan"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.forbes.com/sites/zacharyfolk/2026/03/15/bill-ackman-appears-to-donate-to-gofundme-campaigns-for-us-service-members-who-died-in-middle-east/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "emirates",
-      "shoots",
-      "down",
-      "missiles",
-      "and",
-      "iranian",
-      "drones"
-    ]
-  },
-  "COL": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.okaz.com.sa/variety/na/2240204",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "variety",
-      "2240204"
-    ]
-  },
-  "IRN": {
-    "risk_score": 11.3,
-    "count": 14,
-    "top_news": "https://www.irishexaminer.com/world/arid-41810750.html",
-    "event_codes": {
-      "19": 9,
-      "17": 3,
-      "16": 2
-    },
-    "keywords": [
-      "world",
-      "arid",
-      "41810750.html"
+      "sites",
+      "zacharyfolk",
+      "2026",
+      "bill",
+      "ackman",
+      "appears",
+      "donate",
+      "gofundme",
+      "campaigns",
+      "for",
+      "service",
+      "members",
+      "who",
+      "died",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 23.96,
-    "count": 26,
-    "top_news": "https://www.dw.com/en/israeli-troops-kill-palestinian-family-of-4-in-west-bank/a-76366659",
+    "risk_score": 25.5,
+    "count": 27,
+    "top_news": "https://english.aawsat.com/world/5251583-israeli-military-claims-brother-man-who-attacked-michigan-synagogue-was-hezbollah",
     "event_codes": {
-      "19": 17,
-      "17": 6,
-      "18": 3
+      "19": 22,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
+      "world",
+      "5251583",
       "israeli",
-      "troops",
-      "kill",
-      "palestinian",
-      "family",
-      "west",
-      "bank",
-      "76366659"
+      "military",
+      "claims",
+      "brother",
+      "man",
+      "who",
+      "attacked",
+      "michigan",
+      "synagogue",
+      "was",
+      "hezbollah"
     ]
   },
   "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://georgiabulletin.org/news/2026/03/pope-leo-xiv-calls-for-middle-east-ceasefire/",
+    "top_news": "https://www.whmi.com/news/fox/brother-michigan-synagogue-attacker-hezbollah-terrorist-israel-alleges",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "2026",
-      "pope",
-      "leo",
-      "xiv",
-      "calls",
-      "for",
-      "middle",
-      "east",
-      "ceasefire"
+      "fox",
+      "brother",
+      "michigan",
+      "synagogue",
+      "attacker",
+      "hezbollah",
+      "terrorist",
+      "israel",
+      "alleges"
     ]
   },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://news.az/news/explosions-over-uae-as-air-defenses-intercept-iranian-ballistic-missiles",
+  "LBY": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.surinametimes.com/artikel/us-attacks-military-sites-on-irans-kharg-island",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "artikel",
+      "attacks",
+      "military",
+      "sites",
+      "irans",
+      "kharg",
+      "island"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://themedialine.org/headlines/damascus-appoints-kurdish-commander-deputy-defense-minister-signaling-shift-with-kurdish-forces/",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "headlines",
+      "damascus",
+      "appoints",
+      "kurdish",
+      "commander",
+      "deputy",
+      "defense",
+      "minister",
+      "signaling",
+      "shift",
+      "with",
+      "kurdish",
+      "forces"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.56,
+    "count": 4,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/03/16/2003853893",
+    "event_codes": {
+      "15": 3,
+      "16": 1
     },
     "keywords": [
       "news",
-      "explosions",
-      "over",
-      "uae",
-      "air",
-      "defenses",
-      "intercept",
-      "iranian",
-      "ballistic",
-      "missiles"
+      "taiwan",
+      "archives",
+      "2026",
+      "2003853893"
     ]
   }
 }
