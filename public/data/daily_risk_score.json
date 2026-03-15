@@ -1,80 +1,232 @@
 {
   "IRN": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://www.alternet.org/trump-turkey/",
+    "risk_score": 10.92,
+    "count": 13,
+    "top_news": "https://www.deccanchronicle.com/world/middle-east/trumps-call-for-countries-to-send-warships-to-protect-the-strait-of-hormuz-brings-no-promises-1944055",
     "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
-      "trump",
-      "turkey"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.5,
-    "count": 12,
-    "top_news": "https://www.seattletimes.com/business/the-latest-gulf-countries-report-new-attacks-after-iran-warns-major-uae-ports-to-evacuate/",
-    "event_codes": {
-      "19": 11,
-      "17": 1
-    },
-    "keywords": [
-      "business",
-      "the",
-      "latest",
-      "gulf",
-      "countries",
-      "report",
-      "new",
-      "attacks",
-      "after",
-      "iran",
-      "warns",
-      "major",
-      "uae",
-      "ports",
-      "evacuate"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.seattletimes.com/business/the-latest-gulf-countries-report-new-attacks-after-iran-warns-major-uae-ports-to-evacuate/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "business",
-      "the",
-      "latest",
-      "gulf",
-      "countries",
-      "report",
-      "new",
-      "attacks",
-      "after",
-      "iran",
-      "warns",
-      "major",
-      "uae",
-      "ports",
-      "evacuate"
-    ]
-  },
-  "TUR": {
-    "risk_score": 6.7,
-    "count": 8,
-    "top_news": "https://www.alternet.org/trump-turkey/",
-    "event_codes": {
-      "19": 5,
-      "14": 2,
+      "18": 5,
+      "19": 4,
+      "17": 2,
+      "15": 1,
       "16": 1
     },
     "keywords": [
+      "world",
+      "middle",
+      "east",
+      "trumps",
+      "call",
+      "for",
+      "countries",
+      "send",
+      "warships",
+      "protect",
+      "the",
+      "strait",
+      "hormuz",
+      "brings",
+      "promises",
+      "1944055"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cbsnews.com/news/dan-crenshaw-texas-republican-face-the-nation-transcript-03-15-2026/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "dan",
+      "crenshaw",
+      "texas",
+      "republican",
+      "face",
+      "the",
+      "nation",
+      "transcript",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.5,
+    "count": 18,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/15/iran-welcomes-any-regional-initiative-leading-to-a-just-end-to-war-says-araghchi/",
+    "event_codes": {
+      "19": 14,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "iran",
+      "welcomes",
+      "any",
+      "regional",
+      "initiative",
+      "leading",
+      "just",
+      "end",
+      "war",
+      "says",
+      "araghchi"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.4,
+    "count": 6,
+    "top_news": "https://www.gazettelive.co.uk/news/uk-world-news/canary-islands-travel-warning-issued-33595133",
+    "event_codes": {
+      "16": 6
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "canary",
+      "islands",
+      "travel",
+      "warning",
+      "issued",
+      "33595133"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://whoradio.iheart.com/content/2026-03-15-iowa-attorney-general-warns-of-fake-memorial-website-for-fallen-soldi/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "content",
+      "2026",
+      "iowa",
+      "attorney",
+      "general",
+      "warns",
+      "fake",
+      "memorial",
+      "website",
+      "for",
+      "fallen",
+      "soldi"
+    ]
+  },
+  "LBN": {
+    "risk_score": 11.9,
+    "count": 13,
+    "top_news": "https://www.wfmj.com/story/53479636/israeli-military-claims-brother-of-man-who-attacked-michigan-synagogue-was-hezbollah-commander",
+    "event_codes": {
+      "19": 10,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "53479636",
+      "israeli",
+      "military",
+      "claims",
+      "brother",
+      "man",
+      "who",
+      "attacked",
+      "michigan",
+      "synagogue",
+      "was",
+      "hezbollah",
+      "commander"
+    ]
+  },
+  "LBY": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://saharareporters.com/2026/03/15/libyan-family-hands-son-police-reveals-hiding-place-after-defrauding-16-victims-12",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "libyan",
+      "family",
+      "hands",
+      "son",
+      "police",
+      "reveals",
+      "hiding",
+      "place",
+      "after",
+      "defrauding",
+      "victims"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.5,
+    "count": 17,
+    "top_news": "https://www.channelstv.com/2026/03/15/ndlea-arrests-grandpa-with-cocaine-hidden-in-food-items-at-abuja-airport/",
+    "event_codes": {
+      "17": 9,
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "ndlea",
+      "arrests",
+      "grandpa",
+      "with",
+      "cocaine",
+      "hidden",
+      "food",
+      "items",
+      "abuja",
+      "airport"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://mondoweiss.net/2026/03/weekly-briefing-trump-and-netanyahu-miscalculated-and-now-theyre-going-to-find-out/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "weekly",
+      "briefing",
       "trump",
-      "turkey"
+      "and",
+      "netanyahu",
+      "miscalculated",
+      "and",
+      "now",
+      "theyre",
+      "going",
+      "find",
+      "out"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.44,
+    "count": 6,
+    "top_news": "https://mareeg.com/al-shabab-executes-five-men-accused-of-spying-in-southern-somalia/",
+    "event_codes": {
+      "17": 4,
+      "15": 2
+    },
+    "keywords": [
+      "shabab",
+      "executes",
+      "five",
+      "men",
+      "accused",
+      "spying",
+      "southern",
+      "somalia"
     ]
   }
 }
