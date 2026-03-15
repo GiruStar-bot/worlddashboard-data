@@ -1,47 +1,113 @@
 {
   "IRN": {
-    "risk_score": 5.85,
-    "count": 7,
-    "top_news": "https://worldtribune.com/trump-raid-on-irans-kharg-island-called-checkmate-on-regime-is-new-leader-dead/",
+    "risk_score": 30.1,
+    "count": 31,
+    "top_news": "https://theconversation.com/why-donald-trump-is-losing-the-war-at-home-278079",
     "event_codes": {
-      "19": 4,
+      "19": 29,
       "14": 1,
-      "16": 1,
-      "18": 1
+      "17": 1
     },
     "keywords": [
+      "why",
+      "donald",
       "trump",
-      "raid",
-      "irans",
-      "kharg",
-      "island",
-      "called",
-      "checkmate",
-      "regime",
-      "new",
-      "leader",
-      "dead"
+      "losing",
+      "the",
+      "war",
+      "home",
+      "278079"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.news.cn/20260316/ec4b86eaf8e84deb9d4a1b43135bdd0a/c.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "20260316",
+      "ec4b86eaf8e84deb9d4a1b43135bdd0a",
+      "c.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://www.newkerala.com/news/a/israel-says-gazas-rafah-crossing-reopen-limited-movement-256.htm",
+    "risk_score": 29.15,
+    "count": 30,
+    "top_news": "https://www.halsteadgazette.co.uk/news/national/25938342.trump-seeks-help-keep-strait-hormuz-open-iran-sees-no-reason-talk/",
     "event_codes": {
+      "19": 26,
       "17": 2,
-      "19": 2
+      "18": 2
     },
     "keywords": [
       "news",
-      "israel",
-      "says",
-      "gazas",
-      "rafah",
-      "crossing",
-      "reopen",
-      "limited",
-      "movement",
-      "256.htm"
+      "national",
+      "25938342.trump",
+      "seeks",
+      "help",
+      "keep",
+      "strait",
+      "hormuz",
+      "open",
+      "iran",
+      "sees",
+      "reason",
+      "talk"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-hits-beiruts-southern-suburbs-0",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "strike",
+      "hits",
+      "beiruts",
+      "southern",
+      "suburbs"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://localnews8.com/news/national-world/cnn-world/2026/03/15/israeli-forces-shoot-and-kill-4-members-of-palestinian-family-officials-say-after-opening-fire-on-car-in-west-bank/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "israeli",
+      "forces",
+      "shoot",
+      "and",
+      "kill",
+      "members",
+      "palestinian",
+      "family",
+      "officials",
+      "say",
+      "after",
+      "opening",
+      "fire",
+      "car",
+      "west",
+      "bank"
     ]
   }
 }
