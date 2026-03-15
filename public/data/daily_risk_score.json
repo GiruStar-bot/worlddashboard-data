@@ -1,61 +1,137 @@
 {
   "IRN": {
-    "risk_score": 14.35,
-    "count": 15,
-    "top_news": "https://www.myjoyonline.com/trump-calls-for-allies-to-help-secure-strait-of-hormuz-as-iran-vows-to-step-up-retaliation/",
+    "risk_score": 19.8,
+    "count": 20,
+    "top_news": "https://www.news18.com/world/us-base-in-iraq-hit-by-drone-strike-as-iran-war-spreads-to-neighbouring-countries-watch-9961142.html",
     "event_codes": {
-      "19": 10,
-      "18": 4,
-      "16": 1
+      "19": 17,
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "base",
+      "iraq",
+      "hit",
+      "drone",
+      "strike",
+      "iran",
+      "war",
+      "spreads",
+      "neighbouring",
+      "countries",
+      "watch",
+      "9961142.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.news18.com/world/us-base-in-iraq-hit-by-drone-strike-as-iran-war-spreads-to-neighbouring-countries-watch-9961142.html",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "base",
+      "iraq",
+      "hit",
+      "drone",
+      "strike",
+      "iran",
+      "war",
+      "spreads",
+      "neighbouring",
+      "countries",
+      "watch",
+      "9961142.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.siasat.com/trump-calls-on-allies-to-secure-strait-of-hormuz-as-gulf-attacks-intensify-3435121/",
+    "event_codes": {
+      "19": 4,
+      "18": 1
     },
     "keywords": [
       "trump",
       "calls",
-      "for",
       "allies",
-      "help",
       "secure",
       "strait",
       "hormuz",
-      "iran",
-      "vows",
-      "step",
-      "retaliation"
+      "gulf",
+      "attacks",
+      "intensify",
+      "3435121"
     ]
   },
-  "IRQ": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.myjoyonline.com/us-embassy-in-baghdad-iraq-attacked-with-missile-that-hits-helipad/",
+    "top_news": "https://www.siasat.com/trump-calls-on-allies-to-secure-strait-of-hormuz-as-gulf-attacks-intensify-3435121/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "embassy",
-      "baghdad",
-      "iraq",
-      "attacked",
-      "with",
-      "missile",
-      "that",
-      "hits",
-      "helipad"
+      "trump",
+      "calls",
+      "allies",
+      "secure",
+      "strait",
+      "hormuz",
+      "gulf",
+      "attacks",
+      "intensify",
+      "3435121"
     ]
   },
-  "ISR": {
-    "risk_score": 6.85,
-    "count": 7,
-    "top_news": "https://taylorvilledailynews.com/local-news/srn-us-news/12400f123c3793c5525a078c1cb54990",
+  "NGA": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://punchng.com/scrap-nysc-if-you-cant-protect-corpers-parents-tell-fg/",
     "event_codes": {
-      "19": 6,
-      "18": 1
+      "18": 4
     },
     "keywords": [
-      "local",
+      "scrap",
+      "nysc",
+      "you",
+      "cant",
+      "protect",
+      "corpers",
+      "parents",
+      "tell"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thedigitalcourier.com/news/national/deadly-israeli-settler-violence-surges-in-west-bank-during-iran-war/article_1ffdb938-7240-528d-8dba-15ba66ea8ce4.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "news",
-      "srn",
-      "news",
-      "12400f123c3793c5525a078c1cb54990"
+      "national",
+      "deadly",
+      "israeli",
+      "settler",
+      "violence",
+      "surges",
+      "west",
+      "bank",
+      "during",
+      "iran",
+      "war",
+      "article",
+      "1ffdb938",
+      "7240",
+      "528d",
+      "8dba",
+      "15ba66ea8ce4.html"
     ]
   }
 }
