@@ -1,153 +1,101 @@
 {
-  "IRN": {
-    "risk_score": 21.15,
-    "count": 24,
-    "top_news": "https://www.surinametimes.com/artikel/more-than-110-people-killed-in-irans-kurdistan",
-    "event_codes": {
-      "19": 15,
-      "17": 3,
-      "18": 3,
-      "16": 2,
-      "14": 1
-    },
-    "keywords": [
-      "artikel",
-      "more",
-      "than",
-      "110",
-      "people",
-      "killed",
-      "irans",
-      "kurdistan"
-    ]
-  },
-  "IRQ": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.forbes.com/sites/zacharyfolk/2026/03/15/bill-ackman-appears-to-donate-to-gofundme-campaigns-for-us-service-members-who-died-in-middle-east/",
+    "top_news": "https://www.livemint.com/news/world/19-indians-among-35-in-trouble-as-uae-orders-arrests-over-war-footage-fabrication-of-clips-using-ai-report-11773592073097.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "sites",
-      "zacharyfolk",
-      "2026",
-      "bill",
-      "ackman",
-      "appears",
-      "donate",
-      "gofundme",
-      "campaigns",
-      "for",
-      "service",
-      "members",
-      "who",
-      "died",
-      "middle",
-      "east"
-    ]
-  },
-  "ISR": {
-    "risk_score": 25.5,
-    "count": 27,
-    "top_news": "https://english.aawsat.com/world/5251583-israeli-military-claims-brother-man-who-attacked-michigan-synagogue-was-hezbollah",
-    "event_codes": {
-      "19": 22,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "world",
-      "5251583",
-      "israeli",
-      "military",
-      "claims",
-      "brother",
-      "man",
-      "who",
-      "attacked",
-      "michigan",
-      "synagogue",
-      "was",
-      "hezbollah"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.whmi.com/news/fox/brother-michigan-synagogue-attacker-hezbollah-terrorist-israel-alleges",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
       "news",
-      "fox",
-      "brother",
-      "michigan",
-      "synagogue",
-      "attacker",
-      "hezbollah",
-      "terrorist",
-      "israel",
-      "alleges"
+      "world",
+      "indians",
+      "among",
+      "trouble",
+      "uae",
+      "orders",
+      "arrests",
+      "over",
+      "war",
+      "footage",
+      "fabrication",
+      "clips",
+      "using",
+      "report",
+      "11773592073097.html"
     ]
   },
-  "LBY": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.surinametimes.com/artikel/us-attacks-military-sites-on-irans-kharg-island",
+  "IRN": {
+    "risk_score": 4.75,
+    "count": 5,
+    "top_news": "https://www.foxnews.com/media/us-could-take-irans-main-oil-export-hub-at-time-our-choosing-keane-says",
     "event_codes": {
       "19": 3,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "artikel",
-      "attacks",
-      "military",
-      "sites",
+      "media",
+      "could",
+      "take",
       "irans",
-      "kharg",
-      "island"
+      "main",
+      "oil",
+      "export",
+      "hub",
+      "time",
+      "our",
+      "choosing",
+      "keane",
+      "says"
     ]
   },
-  "SYR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://themedialine.org/headlines/damascus-appoints-kurdish-commander-deputy-defense-minister-signaling-shift-with-kurdish-forces/",
+  "ISR": {
+    "risk_score": 10.45,
+    "count": 13,
+    "top_news": "https://www.cbsnews.com/news/israel-defense-forces-ayman-mohamad-ghazali-brother-michigan-synagogue-suspect-hezbollah-commander/",
     "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "headlines",
-      "damascus",
-      "appoints",
-      "kurdish",
-      "commander",
-      "deputy",
-      "defense",
-      "minister",
-      "signaling",
-      "shift",
-      "with",
-      "kurdish",
-      "forces"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.56,
-    "count": 4,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/03/16/2003853893",
-    "event_codes": {
-      "15": 3,
-      "16": 1
+      "19": 7,
+      "14": 3,
+      "17": 3
     },
     "keywords": [
       "news",
-      "taiwan",
-      "archives",
-      "2026",
-      "2003853893"
+      "israel",
+      "defense",
+      "forces",
+      "ayman",
+      "mohamad",
+      "ghazali",
+      "brother",
+      "michigan",
+      "synagogue",
+      "suspect",
+      "hezbollah",
+      "commander"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.cbsnews.com/news/israel-defense-forces-ayman-mohamad-ghazali-brother-michigan-synagogue-suspect-hezbollah-commander/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "defense",
+      "forces",
+      "ayman",
+      "mohamad",
+      "ghazali",
+      "brother",
+      "michigan",
+      "synagogue",
+      "suspect",
+      "hezbollah",
+      "commander"
     ]
   }
 }
