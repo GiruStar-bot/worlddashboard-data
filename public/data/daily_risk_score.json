@@ -1,61 +1,137 @@
 {
-  "IRN": {
-    "risk_score": 12.82,
-    "count": 15,
-    "top_news": "https://abcnews.com/International/privatemessages-reveal-iranians-feel-hopefor-future-bombs-fall/story?id=130995435",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sofrep.com/news/iran-threatens-wider-war/",
     "event_codes": {
-      "19": 10,
-      "17": 3,
-      "14": 1,
-      "15": 1
+      "19": 2
     },
     "keywords": [
-      "international",
-      "privatemessages",
-      "reveal",
-      "iranians",
-      "feel",
-      "hopefor",
-      "future",
-      "bombs",
-      "fall",
-      "story"
+      "news",
+      "iran",
+      "threatens",
+      "wider",
+      "war"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.55,
+    "count": 6,
+    "top_news": "https://www.straitstimes.com/world/middle-east/trump-warns-of-more-strikes-on-irans-kharg-island-pressures-allies-to-secure-oil-chokepoint",
+    "event_codes": {
+      "14": 4,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "trump",
+      "warns",
+      "more",
+      "strikes",
+      "irans",
+      "kharg",
+      "island",
+      "pressures",
+      "allies",
+      "secure",
+      "oil",
+      "chokepoint"
     ]
   },
   "IRQ": {
-    "risk_score": 3.0,
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sofrep.com/news/iran-threatens-wider-war/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "threatens",
+      "wider",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.55,
+    "count": 13,
+    "top_news": "https://www.cnn.com/2026/03/15/us/michigan-synagogue-attacker-brother-hezbollah",
+    "event_codes": {
+      "19": 7,
+      "17": 5,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "michigan",
+      "synagogue",
+      "attacker",
+      "brother",
+      "hezbollah"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.cnn.com/2026/03/15/us/michigan-synagogue-attacker-brother-hezbollah",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "michigan",
+      "synagogue",
+      "attacker",
+      "brother",
+      "hezbollah"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://mynews13.com:443/fl/orlando/international/2026/03/14/iran-us-israel-war-third-week",
+    "top_news": "https://www.bnionline.net/en/news/junta-airstrike-pow-detention-center-karenni-state-kills-five-including-child",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "orlando",
-      "international",
-      "2026",
-      "iran",
-      "israel",
-      "war",
-      "third",
-      "week"
+      "news",
+      "junta",
+      "airstrike",
+      "pow",
+      "detention",
+      "center",
+      "karenni",
+      "state",
+      "kills",
+      "five",
+      "including",
+      "child"
     ]
   },
-  "ISR": {
-    "risk_score": 13.35,
-    "count": 19,
-    "top_news": "https://www.thejournal.ie/helen-mcentee-boston-us-iran-6985920-Mar2026/",
+  "TUR": {
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://www.news18.com/agency-feeds/funeral-held-for-turkish-truck-driver-killed-in-missile-strike-in-iran-9962036.html",
     "event_codes": {
-      "14": 9,
-      "17": 5,
-      "19": 5
+      "14": 4
     },
     "keywords": [
-      "helen",
-      "mcentee",
-      "boston",
+      "agency",
+      "feeds",
+      "funeral",
+      "held",
+      "for",
+      "turkish",
+      "truck",
+      "driver",
+      "killed",
+      "missile",
+      "strike",
       "iran",
-      "6985920",
-      "mar2026"
+      "9962036.html"
     ]
   }
 }
