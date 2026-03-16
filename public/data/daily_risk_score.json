@@ -1,99 +1,186 @@
 {
   "ARE": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/dubai-news-police-close-4-roads-after-drone-hits-fuel-tank-near-dubai-international-airport/articleshow/129602946.cms",
+    "risk_score": 5.9,
+    "count": 8,
+    "top_news": "https://www.livemint.com/news/india/saw-him-personally-when-israels-envoy-to-india-refutes-netanyahu-death-rumours-11773647412878.html",
     "event_codes": {
-      "19": 2,
-      "16": 1,
-      "17": 1
+      "19": 4,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "india",
+      "saw",
+      "him",
+      "personally",
+      "when",
+      "israels",
+      "envoy",
+      "india",
+      "refutes",
+      "netanyahu",
+      "death",
+      "rumours",
+      "11773647412878.html"
+    ]
+  },
+  "BFA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://issafrica.org/iss-today/algeria-s-return-to-the-sahel-an-opportunity-to-show-aes-cohesion",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "iss",
+      "today",
+      "algeria",
+      "return",
+      "the",
+      "sahel",
+      "opportunity",
+      "show",
+      "aes",
+      "cohesion"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.95,
+    "count": 18,
+    "top_news": "https://www.moneycontrol.com/world/why-pakistan-pm-sharif-fears-this-one-request-from-saudi-arabia-islamabad-never-imagined-article-13861588.html",
+    "event_codes": {
+      "19": 10,
+      "16": 5,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "world",
+      "why",
+      "pakistan",
+      "sharif",
+      "fears",
+      "this",
+      "one",
+      "request",
+      "from",
+      "saudi",
+      "arabia",
+      "islamabad",
+      "never",
+      "imagined",
+      "article",
+      "13861588.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 21.2,
+    "count": 22,
+    "top_news": "https://www.livemint.com/news/india/saw-him-personally-when-israels-envoy-to-india-refutes-netanyahu-death-rumours-11773647412878.html",
+    "event_codes": {
+      "19": 19,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "india",
+      "saw",
+      "him",
+      "personally",
+      "when",
+      "israels",
+      "envoy",
+      "india",
+      "refutes",
+      "netanyahu",
+      "death",
+      "rumours",
+      "11773647412878.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://issafrica.org/iss-today/algeria-s-return-to-the-sahel-an-opportunity-to-show-aes-cohesion",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "iss",
+      "today",
+      "algeria",
+      "return",
+      "the",
+      "sahel",
+      "opportunity",
+      "show",
+      "aes",
+      "cohesion"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nbcnews.com/world/middle-east/israeli-soldiers-fire-family-car-occupied-west-bank-killing-4-rcna263633",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "world",
       "middle",
       "east",
-      "dubai",
-      "news",
-      "police",
-      "close",
-      "roads",
-      "after",
-      "drone",
-      "hits",
-      "fuel",
-      "tank",
-      "near",
-      "dubai",
-      "international",
-      "airport",
-      "articleshow",
-      "129602946.cms"
+      "israeli",
+      "soldiers",
+      "fire",
+      "family",
+      "car",
+      "occupied",
+      "west",
+      "bank",
+      "killing",
+      "rcna263633"
     ]
   },
-  "IDN": {
-    "risk_score": 3.72,
-    "count": 6,
-    "top_news": "https://en.antaranews.com/news/408634/riau-fires-rage-in-five-regions-three-others-cooling-down",
+  "SGP": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://shipandbunker.com/news/apac/223502-analysis-singapore-february-bunker-sales-up-12-year-on-year",
     "event_codes": {
-      "17": 4,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "408634",
-      "riau",
-      "fires",
-      "rage",
-      "five",
-      "regions",
-      "three",
-      "others",
-      "cooling",
-      "down"
-    ]
-  },
-  "IRN": {
-    "risk_score": 19.8,
-    "count": 24,
-    "top_news": "https://www.israelnationalnews.com/news/424016",
-    "event_codes": {
-      "19": 15,
-      "16": 5,
-      "14": 2,
-      "17": 1,
+      "19": 2,
       "18": 1
     },
     "keywords": [
       "news",
-      "424016"
+      "apac",
+      "223502",
+      "analysis",
+      "singapore",
+      "february",
+      "bunker",
+      "sales",
+      "year",
+      "year"
     ]
   },
-  "ISR": {
-    "risk_score": 17.74,
-    "count": 19,
-    "top_news": "https://www.israelnationalnews.com/news/424011",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://grist.org/politics/4-ways-trump-is-sabotaging-climate-action-around-the-world/",
     "event_codes": {
-      "19": 13,
-      "18": 3,
-      "15": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "424011"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/424011",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "424011"
+      "politics",
+      "ways",
+      "trump",
+      "sabotaging",
+      "climate",
+      "action",
+      "around",
+      "the",
+      "world"
     ]
   }
 }
