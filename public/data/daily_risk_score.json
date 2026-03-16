@@ -1,81 +1,117 @@
 {
-  "IRN": {
-    "risk_score": 9.44,
-    "count": 11,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/houthis-assist-iran-war-red-sea-oil-hdqc2bsl2",
+  "ARE": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://theindianawaaz.com/drone-strike-causes-fire-at-abu-dhabis-shah-oil-field-and-fujairah-oil-industry/",
     "event_codes": {
-      "19": 5,
-      "17": 3,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "article",
-      "houthis",
-      "assist",
-      "iran",
-      "war",
-      "red",
-      "sea",
-      "oil",
-      "hdqc2bsl2"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/houthis-assist-iran-war-red-sea-oil-hdqc2bsl2",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "article",
-      "houthis",
-      "assist",
-      "iran",
-      "war",
-      "red",
-      "sea",
-      "oil",
-      "hdqc2bsl2"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.15,
-    "count": 6,
-    "top_news": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-11/article",
-    "event_codes": {
-      "19": 4,
-      "14": 1,
+      "19": 2,
       "16": 1
     },
     "keywords": [
-      "world",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "article"
+      "drone",
+      "strike",
+      "causes",
+      "fire",
+      "abu",
+      "dhabis",
+      "shah",
+      "oil",
+      "field",
+      "and",
+      "fujairah",
+      "oil",
+      "industry"
     ]
   },
-  "LBN": {
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nhpr.org/2026-03-16/judge-releases-ecuadorian-woman-detained-ice",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "judge",
+      "releases",
+      "ecuadorian",
+      "woman",
+      "detained",
+      "ice"
+    ]
+  },
+  "IRN": {
+    "risk_score": 18.1,
+    "count": 20,
+    "top_news": "https://hotair.com/david-strom/2026/03/16/are-iranian-security-forces-turning-on-each-other-n3812915",
+    "event_codes": {
+      "19": 15,
+      "17": 2,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "david",
+      "strom",
+      "2026",
+      "are",
+      "iranian",
+      "security",
+      "forces",
+      "turning",
+      "each",
+      "other",
+      "n3812915"
+    ]
+  },
+  "IRQ": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=441996",
+    "top_news": "https://english.news.cn/20260317/a9548e022c844b16bb71ebc863d5716b/c.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
+      "20260317",
+      "a9548e022c844b16bb71ebc863d5716b",
+      "c.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.2,
+    "count": 16,
+    "top_news": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
+    "event_codes": {
+      "19": 10,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
       "news",
-      "article.aspx"
+      "2026",
+      "mar",
+      "troops",
+      "iran",
+      "war"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.1,
+    "count": 9,
+    "top_news": "https://www.theguardian.com/us-news/2026/mar/16/us-troops-iran-war",
+    "event_codes": {
+      "19": 6,
+      "14": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mar",
+      "troops",
+      "iran",
+      "war"
     ]
   }
 }
