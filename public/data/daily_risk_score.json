@@ -1,134 +1,259 @@
 {
   "ARE": {
-    "risk_score": 5.0,
+    "risk_score": 4.0,
     "count": 5,
-    "top_news": "https://www.wokv.com/news/world/latest-trump-calls/2KTMCC3TA44JNK7GFV2FN7SWV4/",
+    "top_news": "https://www.deccanchronicle.com/world/americas/trump-calls-for-help-to-reopen-the-strait-of-hormuz-1944187",
     "event_codes": {
-      "19": 5
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
       "world",
-      "latest",
+      "americas",
       "trump",
       "calls",
-      "2ktmcc3ta44jnk7gfv2fn7swv4"
+      "for",
+      "help",
+      "reopen",
+      "the",
+      "strait",
+      "hormuz",
+      "1944187"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://naharnet.com/stories/en/318968-war-in-the-middle-east-latest-developments",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "318968",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments"
     ]
   },
   "IRN": {
-    "risk_score": 12.45,
-    "count": 13,
-    "top_news": "https://www.wokv.com/news/world/latest-trump-calls/2KTMCC3TA44JNK7GFV2FN7SWV4/",
+    "risk_score": 16.8,
+    "count": 23,
+    "top_news": "https://www.euronews.com/2026/03/16/spain-temporarily-relocates-special-forces-from-iraq-over-security-fears",
     "event_codes": {
-      "19": 13
+      "19": 10,
+      "17": 9,
+      "16": 3,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "latest",
-      "trump",
-      "calls",
-      "2ktmcc3ta44jnk7gfv2fn7swv4"
+      "2026",
+      "spain",
+      "temporarily",
+      "relocates",
+      "special",
+      "forces",
+      "from",
+      "iraq",
+      "over",
+      "security",
+      "fears"
     ]
   },
   "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.airforcetimes.com/news/your-air-force/2018/03/16/he-was-golden-pj-killed-in-iraq-crash-remembered-as-outdoorsman-loyal-friend/",
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://www.euronews.com/2026/03/16/spain-temporarily-relocates-special-forces-from-iraq-over-security-fears",
     "event_codes": {
-      "19": 3
+      "14": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "your",
-      "air",
-      "force",
-      "2018",
-      "was",
-      "golden",
-      "killed",
+      "2026",
+      "spain",
+      "temporarily",
+      "relocates",
+      "special",
+      "forces",
+      "from",
       "iraq",
-      "crash",
-      "remembered",
-      "outdoorsman",
-      "loyal",
-      "friend"
+      "over",
+      "security",
+      "fears"
     ]
   },
   "ISR": {
-    "risk_score": 20.89,
+    "risk_score": 21.5,
     "count": 22,
-    "top_news": "https://www.wokv.com/news/world/latest-trump-calls/2KTMCC3TA44JNK7GFV2FN7SWV4/",
+    "top_news": "https://radiofreesyria.com/iran-strikes-uae-infrastructure-as-gulf-leaders-warn-of-wider-regional-war/",
     "event_codes": {
-      "19": 19,
-      "15": 2,
-      "17": 1
+      "19": 20,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "latest",
-      "trump",
-      "calls",
-      "2ktmcc3ta44jnk7gfv2fn7swv4"
+      "iran",
+      "strikes",
+      "uae",
+      "infrastructure",
+      "gulf",
+      "leaders",
+      "warn",
+      "wider",
+      "regional",
+      "war"
     ]
   },
   "LBN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://dominicanrepublicpost.com/israeli-military-launches-limited-ground-operations-in-southern-lebanon/",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "israeli",
-      "military",
-      "launches",
-      "limited",
-      "ground",
-      "operations",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "MYS": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/03/16/two-armed-forces-personnel-killed-in-four-vehicle-crash",
+    "top_news": "https://reason.com/2026/03/16/recent-shootings-are-a-wake-up-call-to-take-responsibility-for-your-own-defense/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "recent",
+      "shootings",
+      "are",
+      "wake",
+      "call",
+      "take",
+      "responsibility",
+      "for",
+      "your",
+      "own",
+      "defense"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theweek.in/news/defence/2026/03/16/how-iran-destroyed-mq-9a-predator-uav-at-ali-al-salem-air-base-revealed.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "nation",
+      "defence",
       "2026",
-      "two",
-      "armed",
-      "forces",
-      "personnel",
-      "killed",
-      "four",
-      "vehicle",
-      "crash"
+      "how",
+      "iran",
+      "destroyed",
+      "predator",
+      "uav",
+      "ali",
+      "salem",
+      "air",
+      "base",
+      "revealed.html"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.newsday.co.zw/local-news/article/200052723/police-nab-singaporean-businessman-over-cash-drugs-stash",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "local",
+      "news",
+      "article",
+      "200052723",
+      "police",
+      "nab",
+      "singaporean",
+      "businessman",
+      "over",
+      "cash",
+      "drugs",
+      "stash"
     ]
   },
   "SOM": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://www.namibian.com.na/we-will-go-wherever-they-hide-rooting-out-is-in-somalia/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.deccanchronicle.com/world/eu-considers-measures-to-ensure-uninterrupted-access-to-strait-of-hormuz-1944207",
     "event_codes": {
-      "17": 3,
-      "19": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "will",
-      "wherever",
-      "they",
-      "hide",
-      "rooting",
-      "out",
-      "somalia"
+      "world",
+      "considers",
+      "measures",
+      "ensure",
+      "uninterrupted",
+      "access",
+      "strait",
+      "hormuz",
+      "1944207"
+    ]
+  },
+  "SSD": {
+    "risk_score": 6.5,
+    "count": 9,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/ex-ezo-commissioner-five-others-jailed-for-killing-suspected-sorcerers",
+    "event_codes": {
+      "17": 5,
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "article",
+      "ezo",
+      "commissioner",
+      "five",
+      "others",
+      "jailed",
+      "for",
+      "killing",
+      "suspected",
+      "sorcerers"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thejournal.ie/parents-and-children-shot-west-bank-6986548-Mar2026/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "parents",
+      "and",
+      "children",
+      "shot",
+      "west",
+      "bank",
+      "6986548",
+      "mar2026"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.nbcnews.com/world/cuba/cuba-allow-nationals-living-abroad-invest-businesses-island-economy-rcna263637",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "cuba",
+      "cuba",
+      "allow",
+      "nationals",
+      "living",
+      "abroad",
+      "invest",
+      "businesses",
+      "island",
+      "economy",
+      "rcna263637"
     ]
   }
 }
