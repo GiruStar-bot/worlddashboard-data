@@ -1,265 +1,226 @@
 {
-  "ARE": {
+  "ARG": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.upi.com/Top_News/World-News/2026/03/17/latam-argentina-iran-threat/3061773772400/",
+    "event_codes": {
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "top",
+      "news",
+      "world",
+      "news",
+      "2026",
+      "latam",
+      "argentina",
+      "iran",
+      "threat",
+      "3061773772400"
+    ]
+  },
+  "EGY": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.wdrb.com/news/national/iran-keeps-up-attacks-on-neighbors-after-israel-says-it-killed-2-of-its-top/article_b68b972c-aee1-5799-a9f3-bd67f02683f9.html",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "iran",
+      "keeps",
+      "attacks",
+      "neighbors",
+      "after",
+      "israel",
+      "says",
+      "killed",
+      "its",
+      "top",
+      "article",
+      "b68b972c",
+      "aee1",
+      "5799",
+      "a9f3",
+      "bd67f02683f9.html"
+    ]
+  },
+  "ETH": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "top_news": "https://www.spacewar.com/afp/260317153902.cjybou9s.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "irans",
-      "regime",
-      "breaking",
-      "point",
-      "76400122"
-    ]
-  },
-  "COL": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/03/17/colombia-seeks-a-us-sanctions-exemption-to-invest-in-venezuelan-energy-projects",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "colombia",
-      "seeks",
-      "sanctions",
-      "exemption",
-      "invest",
-      "venezuelan",
-      "energy",
-      "projects"
+      "afp",
+      "260317153902.cjybou9s.html"
     ]
   },
   "IRN": {
-    "risk_score": 61.65,
-    "count": 65,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-won-war-iran-israeli-foreign-minister-says",
+    "risk_score": 17.14,
+    "count": 23,
+    "top_news": "https://www.spacewar.com/afp/260317173203.tsb6pta3.html",
     "event_codes": {
-      "19": 55,
-      "14": 4,
-      "17": 3,
-      "18": 2,
+      "17": 9,
+      "19": 7,
+      "18": 4,
+      "15": 2,
       "16": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israel",
-      "has",
-      "won",
-      "war",
-      "iran",
-      "israeli",
-      "foreign",
-      "minister",
-      "says"
+      "afp",
+      "260317173203.tsb6pta3.html"
     ]
   },
   "IRQ": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.wdrb.com/news/national/iran-keeps-up-attacks-on-neighbors-after-israel-says-it-killed-2-of-its-top/article_b68b972c-aee1-5799-a9f3-bd67f02683f9.html",
     "event_codes": {
       "19": 3,
-      "16": 2
+      "17": 1
     },
     "keywords": [
-      "irans",
-      "regime",
-      "breaking",
-      "point",
-      "76400122"
+      "news",
+      "national",
+      "iran",
+      "keeps",
+      "attacks",
+      "neighbors",
+      "after",
+      "israel",
+      "says",
+      "killed",
+      "its",
+      "top",
+      "article",
+      "b68b972c",
+      "aee1",
+      "5799",
+      "a9f3",
+      "bd67f02683f9.html"
     ]
   },
   "ISR": {
-    "risk_score": 37.4,
-    "count": 40,
-    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "risk_score": 25.04,
+    "count": 31,
+    "top_news": "https://www.mintpressnews.com/failing-to-destroy-hezbollah-israel-seeks-to-spark-a-lebanese-civil-war/290741/",
     "event_codes": {
-      "19": 29,
-      "18": 6,
-      "17": 3,
-      "14": 2
+      "19": 14,
+      "17": 11,
+      "18": 3,
+      "15": 2,
+      "14": 1
     },
     "keywords": [
-      "irans",
-      "regime",
-      "breaking",
-      "point",
-      "76400122"
+      "failing",
+      "destroy",
+      "hezbollah",
+      "israel",
+      "seeks",
+      "spark",
+      "lebanese",
+      "civil",
+      "war",
+      "290741"
     ]
   },
-  "JOR": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+  "LBN": {
+    "risk_score": 9.25,
+    "count": 10,
+    "top_news": "https://www.spacewar.com/afp/260317154151.ce3xn885.html",
     "event_codes": {
-      "19": 3,
+      "19": 8,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "irans",
-      "regime",
-      "breaking",
-      "point",
-      "76400122"
+      "afp",
+      "260317154151.ce3xn885.html"
     ]
   },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "irans",
-      "regime",
-      "breaking",
-      "point",
-      "76400122"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.7,
+  "NER": {
+    "risk_score": 2.5,
     "count": 5,
-    "top_news": "https://www.camera.org/article/how-did-the-bbc-portray-hezbollahs-escalation/",
+    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/864809-court-convicts-delta-contractor-forgery.html",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "17": 5
     },
     "keywords": [
-      "article",
-      "how",
-      "did",
-      "the",
-      "bbc",
-      "portray",
-      "hezbollahs",
-      "escalation"
+      "regional",
+      "south",
+      "south",
+      "regional",
+      "864809",
+      "court",
+      "convicts",
+      "delta",
+      "contractor",
+      "forgery.html"
     ]
   },
   "NGA": {
-    "risk_score": 10.94,
-    "count": 12,
-    "top_news": "https://saharareporters.com/2026/03/17/bandits-attack-immigration-checkpoint-niger-state-abduct-officer-steal-two-ak-47-rifles",
+    "risk_score": 9.01,
+    "count": 10,
+    "top_news": "https://www.thisdaylive.com/2026/03/17/troops-foil-terrorist-attempt-to-overrun-four-military-locations-in-north-east-inflict-heavy-casualties/",
     "event_codes": {
-      "18": 9,
-      "17": 2,
-      "19": 1
+      "19": 5,
+      "17": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "bandits",
-      "attack",
-      "immigration",
-      "checkpoint",
-      "niger",
-      "state",
-      "abduct",
-      "officer",
-      "steal",
-      "two",
-      "rifles"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://english.wafa.ps/Pages/Details/168389",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "168389"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://nationalpost.com/opinion/jack-mintz-why-mark-carney-should-visit-israel",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "opinion",
-      "jack",
-      "mintz",
-      "why",
-      "mark",
-      "carney",
-      "should",
-      "visit",
-      "israel"
+      "troops",
+      "foil",
+      "terrorist",
+      "attempt",
+      "overrun",
+      "four",
+      "military",
+      "locations",
+      "north",
+      "east",
+      "inflict",
+      "heavy",
+      "casualties"
     ]
   },
   "SYR": {
-    "risk_score": 4.2,
-    "count": 5,
-    "top_news": "https://www.middleeastmonitor.com/20260317-the-explosion-inside-trumps-war-machine-joe-kent-resigns/",
-    "event_codes": {
-      "18": 3,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "20260317",
-      "the",
-      "explosion",
-      "inside",
-      "trumps",
-      "war",
-      "machine",
-      "joe",
-      "kent",
-      "resigns"
-    ]
-  },
-  "TUR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "top_news": "https://sana.sy/en/syria/2303629/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "irans",
-      "regime",
-      "breaking",
-      "point",
-      "76400122"
+      "syria",
+      "2303629"
     ]
   },
-  "VEN": {
+  "TWN": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/03/17/colombia-seeks-a-us-sanctions-exemption-to-invest-in-venezuelan-energy-projects",
+    "count": 2,
+    "top_news": "https://www.straitstimes.com/asia/iran-war-is-not-delaying-us-weapons-shipments-to-taiwan-officials-say",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "business",
-      "2026",
-      "colombia",
-      "seeks",
-      "sanctions",
-      "exemption",
-      "invest",
-      "venezuelan",
-      "energy",
-      "projects"
+      "asia",
+      "iran",
+      "war",
+      "not",
+      "delaying",
+      "weapons",
+      "shipments",
+      "taiwan",
+      "officials",
+      "say"
     ]
   }
 }
