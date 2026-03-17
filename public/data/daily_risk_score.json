@@ -2,15 +2,15 @@
   "ARE": {
     "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.local10.com/news/world/2026/03/17/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/",
+    "top_news": "https://www.nbcconnecticut.com/news/national-international/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/3714647/",
     "event_codes": {
       "19": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
+      "national",
+      "international",
       "the",
       "latest",
       "uae",
@@ -21,22 +21,69 @@
       "strikes",
       "beirut",
       "and",
-      "tehran"
+      "tehran",
+      "3714647"
     ]
   },
   "IRN": {
-    "risk_score": 6.06,
-    "count": 7,
-    "top_news": "https://www.local10.com/news/world/2026/03/17/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/",
+    "risk_score": 10.9,
+    "count": 13,
+    "top_news": "https://propakistani.pk/2026/03/17/another-pakistani-killed-in-uae-after-missile-debris-falls-in-abu-dhabi/",
     "event_codes": {
-      "19": 5,
-      "16": 1,
-      "17": 1
+      "19": 7,
+      "17": 4,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "another",
+      "pakistani",
+      "killed",
+      "uae",
+      "after",
+      "missile",
+      "debris",
+      "falls",
+      "abu",
+      "dhabi"
+    ]
+  },
+  "ISR": {
+    "risk_score": 26.05,
+    "count": 28,
+    "top_news": "https://www.winnipegfreepress.com/canada/2026/03/17/israel-seeking-significant-change-in-how-canada-tackles-antisemitism",
+    "event_codes": {
+      "19": 16,
+      "18": 7,
+      "16": 2,
+      "17": 2,
+      "20": 1
+    },
+    "keywords": [
+      "canada",
+      "2026",
+      "israel",
+      "seeking",
+      "significant",
+      "change",
+      "how",
+      "canada",
+      "tackles",
+      "antisemitism"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.nbcconnecticut.com/news/national-international/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/3714647/",
+    "event_codes": {
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
+      "national",
+      "international",
       "the",
       "latest",
       "uae",
@@ -47,74 +94,32 @@
       "strikes",
       "beirut",
       "and",
-      "tehran"
+      "tehran",
+      "3714647"
     ]
   },
-  "ISR": {
+  "QAT": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.azernews.az/region/255829.html",
+    "count": 3,
+    "top_news": "https://www.euronews.com/2026/03/17/israel-says-it-has-launched-new-strikes-targeting-tehran-and-beirut-as-war-in-iran-enters-",
     "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "region",
-      "255829.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://deadline.com/2026/03/dream-of-another-summer-interview-irene-bartolome-1236757600/",
-    "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
       "2026",
-      "dream",
-      "another",
-      "summer",
-      "interview",
-      "irene",
-      "bartolome",
-      "1236757600"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://isp.netscape.com/news/world/story/0001/20260317/3eaeb7f126866ab3c8b1d927a8bc7168",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "story",
-      "0001",
-      "20260317",
-      "3eaeb7f126866ab3c8b1d927a8bc7168"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "https://en.protothema.gr/2026/03/17/how-the-war-in-iran-hit-turkey/",
-    "event_codes": {
-      "14": 3,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "how",
-      "the",
+      "israel",
+      "says",
+      "has",
+      "launched",
+      "new",
+      "strikes",
+      "targeting",
+      "tehran",
+      "and",
+      "beirut",
       "war",
       "iran",
-      "hit",
-      "turkey"
+      "enters"
     ]
   }
 }
