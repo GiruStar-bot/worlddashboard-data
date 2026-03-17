@@ -1,128 +1,138 @@
 {
-  "IRN": {
-    "risk_score": 27.55,
-    "count": 29,
-    "top_news": "https://balkaninsight.com/2026/03/17/albanian-mps-adopt-resolution-declaring-iran-state-sponsor-of-terrorism/bi/",
+  "ARE": {
+    "risk_score": 4.1,
+    "count": 9,
+    "top_news": "https://www.thedailystar.net/business/news/attacks-uaes-fujairah-port-and-shah-gas-field-add-energy-disruption-4131001",
     "event_codes": {
-      "19": 27,
-      "16": 1,
+      "16": 8,
+      "18": 1
+    },
+    "keywords": [
+      "business",
+      "news",
+      "attacks",
+      "uaes",
+      "fujairah",
+      "port",
+      "and",
+      "shah",
+      "gas",
+      "field",
+      "add",
+      "energy",
+      "disruption",
+      "4131001"
+    ]
+  },
+  "IRN": {
+    "risk_score": 19.4,
+    "count": 25,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-890273",
+    "event_codes": {
+      "17": 11,
+      "19": 7,
+      "18": 5,
+      "14": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "890273"
+    ]
+  },
+  "ISR": {
+    "risk_score": 33.7,
+    "count": 39,
+    "top_news": "https://www.adn.com/nation-world/2026/03/17/israel-says-it-killed-2-top-iranian-officials/",
+    "event_codes": {
+      "17": 13,
+      "19": 11,
+      "18": 10,
+      "15": 3,
+      "14": 2
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "2026",
+      "israel",
+      "says",
+      "killed",
+      "top",
+      "iranian",
+      "officials"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.naroomanewsonline.com.au/story/9201574/lebanese-army-says-one-soldier-killed-in-israeli-strike/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "9201574",
+      "lebanese",
+      "army",
+      "says",
+      "one",
+      "soldier",
+      "killed",
+      "israeli",
+      "strike"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.7,
+    "count": 6,
+    "top_news": "https://www.thisdaylive.com/2026/03/17/maiduguri-blast-frank-decries-tinubus-uk-trip/",
+    "event_codes": {
+      "16": 3,
+      "19": 2,
       "17": 1
     },
     "keywords": [
       "2026",
-      "albanian",
-      "mps",
-      "adopt",
-      "resolution",
-      "declaring",
-      "iran",
-      "state",
-      "sponsor",
-      "terrorism"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.12news.com/article/news/nation-world/attack-on-iran/israel-top-iranian-security-officials-killed-by-airstrikes/507-b668ec27-15bc-4eac-85f6-bb2e5553fa13",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "news",
-      "nation",
-      "world",
-      "attack",
-      "iran",
-      "israel",
-      "top",
-      "iranian",
-      "security",
-      "officials",
-      "killed",
-      "airstrikes",
-      "507",
-      "b668ec27",
-      "15bc",
-      "4eac",
-      "85f6",
-      "bb2e5553fa13"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.75,
-    "count": 14,
-    "top_news": "https://www.12news.com/article/news/nation-world/attack-on-iran/israel-top-iranian-security-officials-killed-by-airstrikes/507-b668ec27-15bc-4eac-85f6-bb2e5553fa13",
-    "event_codes": {
-      "19": 8,
-      "17": 3,
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "news",
-      "nation",
-      "world",
-      "attack",
-      "iran",
-      "israel",
-      "top",
-      "iranian",
-      "security",
-      "officials",
-      "killed",
-      "airstrikes",
-      "507",
-      "b668ec27",
-      "15bc",
-      "4eac",
-      "85f6",
-      "bb2e5553fa13"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ariananews.af/israels-katz-says-irans-security-chief-killed-tehran-strikes-gulf-neighbours/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israels",
-      "katz",
-      "says",
-      "irans",
-      "security",
-      "chief",
-      "killed",
-      "tehran",
-      "strikes",
-      "gulf",
-      "neighbours"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.1,
-    "count": 13,
-    "top_news": "https://punchng.com/families-search-for-missing-relatives-after-maiduguri-bomb-blasts/",
-    "event_codes": {
-      "18": 4,
-      "19": 4,
-      "16": 3,
-      "17": 2
-    },
-    "keywords": [
-      "families",
-      "search",
-      "for",
-      "missing",
-      "relatives",
-      "after",
       "maiduguri",
-      "bomb",
-      "blasts"
+      "blast",
+      "frank",
+      "decries",
+      "tinubus",
+      "trip"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hindustantimes.com/world-news/iran-war-started-under-pressure-from-israel-us-counter-terror-body-chief-joe-kent-in-resignation-to-trump-full-text-101773754930928.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "news",
+      "iran",
+      "war",
+      "started",
+      "under",
+      "pressure",
+      "from",
+      "israel",
+      "counter",
+      "terror",
+      "body",
+      "chief",
+      "joe",
+      "kent",
+      "resignation",
+      "trump",
+      "full",
+      "text",
+      "101773754930928.html"
     ]
   }
 }
