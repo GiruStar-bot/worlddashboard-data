@@ -1,168 +1,120 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.9news.com/article/news/nation-world/attack-on-iran/israel-top-iranian-security-officials-killed-by-airstrikes/507-b668ec27-15bc-4eac-85f6-bb2e5553fa13",
+  "IRN": {
+    "risk_score": 45.6,
+    "count": 50,
+    "top_news": "https://english.pravda.ru/news/hotspots/166198-ali-larijani-reported-killed-israel-strike-tehran/",
     "event_codes": {
-      "19": 2
+      "19": 34,
+      "18": 6,
+      "17": 5,
+      "14": 4,
+      "16": 1
     },
     "keywords": [
-      "article",
       "news",
-      "nation",
-      "world",
-      "attack",
-      "iran",
-      "israel",
-      "top",
-      "iranian",
-      "security",
-      "officials",
+      "hotspots",
+      "166198",
+      "ali",
+      "larijani",
+      "reported",
       "killed",
-      "airstrikes",
-      "507",
-      "b668ec27",
-      "15bc",
-      "4eac",
-      "85f6",
-      "bb2e5553fa13"
+      "israel",
+      "strike",
+      "tehran"
     ]
   },
-  "IRN": {
-    "risk_score": 24.55,
-    "count": 28,
-    "top_news": "https://www.nbclosangeles.com/news/national-international/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/3862295/",
+  "IRQ": {
+    "risk_score": 5.24,
+    "count": 6,
+    "top_news": "https://www.newser.com/story/385537/drones-rockets-target-us-embassy-in-baghdad.html",
     "event_codes": {
-      "19": 16,
-      "18": 6,
-      "16": 3,
-      "17": 2,
-      "14": 1
+      "19": 4,
+      "15": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "international",
-      "the",
-      "latest",
-      "uae",
-      "briefly",
-      "closes",
-      "airspace",
-      "israel",
-      "strikes",
-      "beirut",
-      "and",
-      "tehran",
-      "3862295"
+      "story",
+      "385537",
+      "drones",
+      "rockets",
+      "target",
+      "embassy",
+      "baghdad.html"
     ]
   },
   "ISR": {
-    "risk_score": 23.19,
-    "count": 25,
-    "top_news": "https://pmnewsnigeria.com/2026/03/17/israel-kills-basij-commander-highest-iranian-military-assassiantion-since-khamenei/",
+    "risk_score": 29.85,
+    "count": 30,
+    "top_news": "https://www.novinite.com/articles/237543/Shockwaves+Across+Tehran:+Israel+Eliminates+Iran%E2%80%99s+Key+Security+Leaders+in+Precision+Strikes",
     "event_codes": {
-      "19": 17,
-      "14": 3,
-      "17": 3,
-      "18": 2
+      "19": 29,
+      "18": 1
+    },
+    "keywords": [
+      "articles",
+      "237543",
+      "shockwaves+across+tehran:+israel+eliminates+iran%e2%80%99s+key+security+leaders+in+precision+strikes"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/03/17/over-2300-civil-defence-personnel-to-be-deployed-for-ops-prihatin-aidilfitri-nationwide",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "2026",
+      "over",
+      "2300",
+      "civil",
+      "defence",
+      "personnel",
+      "deployed",
+      "for",
+      "ops",
+      "prihatin",
+      "aidilfitri",
+      "nationwide"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.yahoo.com/news/articles/timeline-attacks-nigerias-northeastern-borno-105336542.html",
+    "event_codes": {
+      "18": 3,
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "timeline",
+      "attacks",
+      "nigerias",
+      "northeastern",
+      "borno",
+      "105336542.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.ocregister.com/2026/03/17/israel-iranian-officials-killed-iran-war/",
+    "event_codes": {
+      "16": 2,
+      "19": 2
     },
     "keywords": [
       "2026",
       "israel",
-      "kills",
-      "basij",
-      "commander",
-      "highest",
       "iranian",
-      "military",
-      "assassiantion",
-      "since",
-      "khamenei"
-    ]
-  },
-  "NER": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://www.thisdaylive.com/2026/03/17/tinubus-appointment-of-dg-dss-the-nifty-strategy-that-ended-sit-at-home/",
-    "event_codes": {
-      "18": 6
-    },
-    "keywords": [
-      "2026",
-      "tinubus",
-      "appointment",
-      "dss",
-      "the",
-      "nifty",
-      "strategy",
-      "that",
-      "ended",
-      "sit",
-      "home"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.94,
-    "count": 9,
-    "top_news": "https://pmnewsnigeria.com/2026/03/17/alleged-thuggery-kano-apc-tackles-kwankwasiyya-movement/",
-    "event_codes": {
-      "18": 4,
-      "17": 2,
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "2026",
-      "alleged",
-      "thuggery",
-      "kano",
-      "apc",
-      "tackles",
-      "kwankwasiyya",
-      "movement"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://smallwarsjournal.com/2026/03/17/taiwan-t-dome-drone-warfare/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "taiwan",
-      "dome",
-      "drone",
-      "warfare"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://nehandaradio.com/2026/03/17/who-will-drive-the-bus-mamvura-or-general-chiwenga-will-president-mnangagwa-retire-peacefully-part-1/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "who",
-      "will",
-      "drive",
-      "the",
-      "bus",
-      "mamvura",
-      "general",
-      "chiwenga",
-      "will",
-      "president",
-      "mnangagwa",
-      "retire",
-      "peacefully",
-      "part"
+      "officials",
+      "killed",
+      "iran",
+      "war"
     ]
   }
 }
