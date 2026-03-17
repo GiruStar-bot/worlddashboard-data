@@ -1,125 +1,201 @@
 {
   "ARE": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.nbcconnecticut.com/news/national-international/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/3714647/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "international",
-      "the",
-      "latest",
-      "uae",
-      "briefly",
-      "closes",
-      "airspace",
-      "israel",
-      "strikes",
-      "beirut",
-      "and",
-      "tehran",
-      "3714647"
-    ]
-  },
-  "IRN": {
-    "risk_score": 10.9,
-    "count": 13,
-    "top_news": "https://propakistani.pk/2026/03/17/another-pakistani-killed-in-uae-after-missile-debris-falls-in-abu-dhabi/",
-    "event_codes": {
-      "19": 7,
-      "17": 4,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "another",
-      "pakistani",
-      "killed",
-      "uae",
-      "after",
-      "missile",
-      "debris",
-      "falls",
-      "abu",
-      "dhabi"
-    ]
-  },
-  "ISR": {
-    "risk_score": 26.05,
-    "count": 28,
-    "top_news": "https://www.winnipegfreepress.com/canada/2026/03/17/israel-seeking-significant-change-in-how-canada-tackles-antisemitism",
-    "event_codes": {
-      "19": 16,
-      "18": 7,
-      "16": 2,
-      "17": 2,
-      "20": 1
-    },
-    "keywords": [
-      "canada",
-      "2026",
-      "israel",
-      "seeking",
-      "significant",
-      "change",
-      "how",
-      "canada",
-      "tackles",
-      "antisemitism"
-    ]
-  },
-  "KWT": {
     "risk_score": 4.0,
     "count": 5,
-    "top_news": "https://www.nbcconnecticut.com/news/national-international/the-latest-uae-briefly-closes-airspace-as-israel-strikes-beirut-and-tehran/3714647/",
+    "top_news": "https://www.irishmirror.ie/news/irish-news/crime/kinahan-ally-stalked-innocent-man-36877664",
     "event_codes": {
       "19": 3,
       "17": 2
     },
     "keywords": [
       "news",
-      "national",
-      "international",
-      "the",
-      "latest",
-      "uae",
-      "briefly",
-      "closes",
-      "airspace",
-      "israel",
-      "strikes",
-      "beirut",
-      "and",
-      "tehran",
-      "3714647"
+      "irish",
+      "news",
+      "crime",
+      "kinahan",
+      "ally",
+      "stalked",
+      "innocent",
+      "man",
+      "36877664"
     ]
   },
-  "QAT": {
+  "IRN": {
+    "risk_score": 18.92,
+    "count": 20,
+    "top_news": "https://www.news18.com/world/donald-trump-was-warned-of-likely-iranian-retaliation-on-us-allies-in-gulf-report-9981314.html",
+    "event_codes": {
+      "19": 14,
+      "18": 3,
+      "14": 1,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "donald",
+      "trump",
+      "was",
+      "warned",
+      "likely",
+      "iranian",
+      "retaliation",
+      "allies",
+      "gulf",
+      "report",
+      "9981314.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.wgauradio.com/news/world/israel-launches-new/DZKX3B3IP427VE3DEWFK6WKGNU/",
+    "event_codes": {
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "israel",
+      "launches",
+      "new",
+      "dzkx3b3ip427ve3dewfk6wkgnu"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.69,
+    "count": 17,
+    "top_news": "https://indianexpress.com/article/trending/trending-globally/lebanese-influencer-natalie-kamal-el-din-critical-husband-daughter-killed-israel-airstrike-10586454/",
+    "event_codes": {
+      "19": 11,
+      "18": 3,
+      "17": 2,
+      "20": 1
+    },
+    "keywords": [
+      "article",
+      "trending",
+      "trending",
+      "globally",
+      "lebanese",
+      "influencer",
+      "natalie",
+      "kamal",
+      "din",
+      "critical",
+      "husband",
+      "daughter",
+      "killed",
+      "israel",
+      "airstrike",
+      "10586454"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.15,
+    "count": 5,
+    "top_news": "https://www.independent.ie/world-news/africa/kenyans-no-longer-allowed-to-fight-for-russia-in-ukraine/a993321303.html",
+    "event_codes": {
+      "19": 3,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "africa",
+      "kenyans",
+      "longer",
+      "allowed",
+      "fight",
+      "for",
+      "russia",
+      "ukraine",
+      "a993321303.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://indianexpress.com/article/trending/trending-globally/lebanese-influencer-natalie-kamal-el-din-critical-husband-daughter-killed-israel-airstrike-10586454/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "trending",
+      "trending",
+      "globally",
+      "lebanese",
+      "influencer",
+      "natalie",
+      "kamal",
+      "din",
+      "critical",
+      "husband",
+      "daughter",
+      "killed",
+      "israel",
+      "airstrike",
+      "10586454"
+    ]
+  },
+  "MMR": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://www.bnionline.net/en/news/ulaaa-urges-people-eight-point-defense-strategy-against-juntas-airstrikes",
+    "event_codes": {
+      "19": 6,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "ulaaa",
+      "urges",
+      "people",
+      "eight",
+      "point",
+      "defense",
+      "strategy",
+      "against",
+      "juntas",
+      "airstrikes"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newsghana.com.gh/suicide-bombers-kill-23-in-coordinated-maiduguri-attacks/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "suicide",
+      "bombers",
+      "kill",
+      "coordinated",
+      "maiduguri",
+      "attacks"
+    ]
+  },
+  "SGP": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.euronews.com/2026/03/17/israel-says-it-has-launched-new-strikes-targeting-tehran-and-beirut-as-war-in-iran-enters-",
+    "top_news": "https://www.asiaone.com/singapore/627-aljunied-road-fire-explosion-worker-injured",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "israel",
-      "says",
-      "has",
-      "launched",
-      "new",
-      "strikes",
-      "targeting",
-      "tehran",
-      "and",
-      "beirut",
-      "war",
-      "iran",
-      "enters"
+      "singapore",
+      "627",
+      "aljunied",
+      "road",
+      "fire",
+      "explosion",
+      "worker",
+      "injured"
     ]
   }
 }
