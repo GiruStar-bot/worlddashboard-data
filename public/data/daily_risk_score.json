@@ -1,226 +1,166 @@
 {
-  "ARG": {
-    "risk_score": 3.85,
-    "count": 4,
-    "top_news": "https://www.upi.com/Top_News/World-News/2026/03/17/latam-argentina-iran-threat/3061773772400/",
+  "ETH": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bryantimes.com/news/lebanon-says-israeli-strikes-kill-three-soldiers/article_14195777-b4a8-52d3-a42c-d099c2e58772.html",
     "event_codes": {
-      "18": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "top",
       "news",
-      "world",
-      "news",
-      "2026",
-      "latam",
-      "argentina",
-      "iran",
-      "threat",
-      "3061773772400"
+      "lebanon",
+      "says",
+      "israeli",
+      "strikes",
+      "kill",
+      "three",
+      "soldiers",
+      "article",
+      "14195777",
+      "b4a8",
+      "52d3",
+      "a42c",
+      "d099c2e58772.html"
     ]
   },
-  "EGY": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://www.wdrb.com/news/national/iran-keeps-up-attacks-on-neighbors-after-israel-says-it-killed-2-of-its-top/article_b68b972c-aee1-5799-a9f3-bd67f02683f9.html",
+  "IRN": {
+    "risk_score": 27.37,
+    "count": 32,
+    "top_news": "https://www.foxnews.com/world/iran-regime-hides-bunkers-civilians-left-exposed-without-adequate-bomb-shelters-sirens",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 18,
+      "17": 5,
+      "18": 5,
+      "14": 2,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "iran",
+      "regime",
+      "hides",
+      "bunkers",
+      "civilians",
+      "left",
+      "exposed",
+      "without",
+      "adequate",
+      "bomb",
+      "shelters",
+      "sirens"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hurriyetdailynews.com/israels-actions-are-dragging-region-toward-a-disaster-erdogan-220065",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "israels",
+      "actions",
+      "are",
+      "dragging",
+      "region",
+      "toward",
+      "disaster",
+      "erdogan",
+      "220065"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://www.thisisoxfordshire.co.uk/news/national/25945459.iran-keeps-attacks-neighbours-israel-says-killed-two-top-officials/",
+    "event_codes": {
+      "19": 8,
+      "16": 2
     },
     "keywords": [
       "news",
       "national",
-      "iran",
+      "25945459.iran",
       "keeps",
       "attacks",
-      "neighbors",
-      "after",
+      "neighbours",
       "israel",
       "says",
       "killed",
-      "its",
+      "two",
       "top",
-      "article",
-      "b68b972c",
-      "aee1",
-      "5799",
-      "a9f3",
-      "bd67f02683f9.html"
+      "officials"
     ]
   },
-  "ETH": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260317153902.cjybou9s.html",
+    "top_news": "https://www.bryantimes.com/news/lebanon-says-israeli-strikes-kill-three-soldiers/article_14195777-b4a8-52d3-a42c-d099c2e58772.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "afp",
-      "260317153902.cjybou9s.html"
+      "news",
+      "lebanon",
+      "says",
+      "israeli",
+      "strikes",
+      "kill",
+      "three",
+      "soldiers",
+      "article",
+      "14195777",
+      "b4a8",
+      "52d3",
+      "a42c",
+      "d099c2e58772.html"
     ]
   },
-  "IRN": {
-    "risk_score": 17.14,
-    "count": 23,
-    "top_news": "https://www.spacewar.com/afp/260317173203.tsb6pta3.html",
+  "NGA": {
+    "risk_score": 6.02,
+    "count": 9,
+    "top_news": "https://peoplesdailyng.com/uba-sani-offers-new-plots-to-malali-low-cost-residents-whose-houses-were-destroyed-by-el-rufai/",
     "event_codes": {
-      "17": 9,
-      "19": 7,
-      "18": 4,
-      "15": 2,
-      "16": 1
+      "17": 5,
+      "14": 2,
+      "18": 2
     },
     "keywords": [
-      "afp",
-      "260317173203.tsb6pta3.html"
+      "uba",
+      "sani",
+      "offers",
+      "new",
+      "plots",
+      "malali",
+      "low",
+      "cost",
+      "residents",
+      "whose",
+      "houses",
+      "were",
+      "destroyed",
+      "rufai"
     ]
   },
-  "IRQ": {
+  "SYR": {
     "risk_score": 3.5,
     "count": 4,
-    "top_news": "https://www.wdrb.com/news/national/iran-keeps-up-attacks-on-neighbors-after-israel-says-it-killed-2-of-its-top/article_b68b972c-aee1-5799-a9f3-bd67f02683f9.html",
+    "top_news": "https://www.christianpost.com/news/counterterrorism-director-joe-kent-resigns-over-iran-war.html",
     "event_codes": {
       "19": 3,
       "17": 1
     },
     "keywords": [
       "news",
-      "national",
+      "counterterrorism",
+      "director",
+      "joe",
+      "kent",
+      "resigns",
+      "over",
       "iran",
-      "keeps",
-      "attacks",
-      "neighbors",
-      "after",
-      "israel",
-      "says",
-      "killed",
-      "its",
-      "top",
-      "article",
-      "b68b972c",
-      "aee1",
-      "5799",
-      "a9f3",
-      "bd67f02683f9.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 25.04,
-    "count": 31,
-    "top_news": "https://www.mintpressnews.com/failing-to-destroy-hezbollah-israel-seeks-to-spark-a-lebanese-civil-war/290741/",
-    "event_codes": {
-      "19": 14,
-      "17": 11,
-      "18": 3,
-      "15": 2,
-      "14": 1
-    },
-    "keywords": [
-      "failing",
-      "destroy",
-      "hezbollah",
-      "israel",
-      "seeks",
-      "spark",
-      "lebanese",
-      "civil",
-      "war",
-      "290741"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.25,
-    "count": 10,
-    "top_news": "https://www.spacewar.com/afp/260317154151.ce3xn885.html",
-    "event_codes": {
-      "19": 8,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "afp",
-      "260317154151.ce3xn885.html"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/864809-court-convicts-delta-contractor-forgery.html",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "regional",
-      "south",
-      "south",
-      "regional",
-      "864809",
-      "court",
-      "convicts",
-      "delta",
-      "contractor",
-      "forgery.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.01,
-    "count": 10,
-    "top_news": "https://www.thisdaylive.com/2026/03/17/troops-foil-terrorist-attempt-to-overrun-four-military-locations-in-north-east-inflict-heavy-casualties/",
-    "event_codes": {
-      "19": 5,
-      "17": 3,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "troops",
-      "foil",
-      "terrorist",
-      "attempt",
-      "overrun",
-      "four",
-      "military",
-      "locations",
-      "north",
-      "east",
-      "inflict",
-      "heavy",
-      "casualties"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://sana.sy/en/syria/2303629/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "syria",
-      "2303629"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.straitstimes.com/asia/iran-war-is-not-delaying-us-weapons-shipments-to-taiwan-officials-say",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "asia",
-      "iran",
-      "war",
-      "not",
-      "delaying",
-      "weapons",
-      "shipments",
-      "taiwan",
-      "officials",
-      "say"
+      "war.html"
     ]
   }
 }
