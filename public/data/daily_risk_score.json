@@ -1,72 +1,111 @@
 {
-  "IRN": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://www.skynews.com.au/world-news/global-affairs/trump-administration-iran-have-been-in-direct-contact-in-recent-days-report/news-story/f3e2d1382165070231daa397353352a5?nk=7431ec5a2ecce7bff47b7ec0072313f1-1773720134",
+  "ARE": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.hindustantimes.com/india-news/iran-punishing-uae-for-supporting-us-and-moderation-101773720224737.html",
     "event_codes": {
-      "14": 3,
-      "19": 3
+      "19": 3,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "world",
+      "india",
       "news",
-      "global",
-      "affairs",
-      "trump",
-      "administration",
       "iran",
-      "have",
-      "been",
-      "direct",
-      "contact",
-      "recent",
-      "days",
-      "report",
+      "punishing",
+      "uae",
+      "for",
+      "supporting",
+      "and",
+      "moderation",
+      "101773720224737.html"
+    ]
+  },
+  "CAF": {
+    "risk_score": 4.32,
+    "count": 6,
+    "top_news": "https://www.thisisoxfordshire.co.uk/news/25939890.brasenose-college-appoints-alyson-king-principal/",
+    "event_codes": {
+      "15": 6
+    },
+    "keywords": [
       "news",
-      "story",
-      "f3e2d1382165070231daa397353352a5"
+      "25939890.brasenose",
+      "college",
+      "appoints",
+      "alyson",
+      "king",
+      "principal"
+    ]
+  },
+  "IRN": {
+    "risk_score": 33.9,
+    "count": 37,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/16/765468/Iran-FM-denies-contact-with-US-envoy-says-rumors-geared-to-mislead-oil-traders",
+    "event_codes": {
+      "19": 26,
+      "17": 5,
+      "18": 5,
+      "16": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "765468",
+      "iran",
+      "denies",
+      "contact",
+      "with",
+      "envoy",
+      "says",
+      "rumors",
+      "geared",
+      "mislead",
+      "oil",
+      "traders"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://calgarysun.com/news/world/iran-attacks-rejects-trump-ceasefire-claim/wcm/4c3b5d39-ff50-45eb-ac8b-35d22856a24c",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/16/765467/Larijani-mocks-Trump-claims-on-Iran-rallies-being-AI-draws-parallel-to-Pahlavi-Era",
     "event_codes": {
+      "18": 5
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "765467",
+      "larijani",
+      "mocks",
+      "trump",
+      "claims",
+      "iran",
+      "rallies",
+      "being",
+      "draws",
+      "parallel",
+      "pahlavi",
+      "era"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.chiangraitimes.com/hot-news/crime/chiang-rai-immigration-captures-fugitives/",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
+      "hot",
       "news",
-      "world",
-      "iran",
-      "attacks",
-      "rejects",
-      "trump",
-      "ceasefire",
-      "claim",
-      "wcm",
-      "4c3b5d39",
-      "ff50",
-      "45eb",
-      "ac8b",
-      "35d22856a24c"
-    ]
-  },
-  "SSD": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.aol.com/news/fire-came-sky-burned-them-000903943.html",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "fire",
-      "came",
-      "sky",
-      "burned",
-      "them",
-      "000903943.html"
+      "crime",
+      "chiang",
+      "rai",
+      "immigration",
+      "captures",
+      "fugitives"
     ]
   }
 }
