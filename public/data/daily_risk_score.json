@@ -1,88 +1,265 @@
 {
-  "IRN": {
-    "risk_score": 18.6,
-    "count": 20,
-    "top_news": "https://www.ibtimes.co.uk/iran-security-figure-ali-larijani-killed-tehran-strike-1786229",
-    "event_codes": {
-      "19": 13,
-      "18": 3,
-      "14": 2,
-      "17": 2
-    },
-    "keywords": [
-      "iran",
-      "security",
-      "figure",
-      "ali",
-      "larijani",
-      "killed",
-      "tehran",
-      "strike",
-      "1786229"
-    ]
-  },
-  "IRQ": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.outdoorhub.com/news/2026/03/17/trumps-interior-dept-moves-restore-bear-baiting-state-authorized-hunting-alaska-national-preserves/",
+    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
     "event_codes": {
-      "18": 1,
+      "19": 2
+    },
+    "keywords": [
+      "irans",
+      "regime",
+      "breaking",
+      "point",
+      "76400122"
+    ]
+  },
+  "COL": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.winnipegfreepress.com/business/2026/03/17/colombia-seeks-a-us-sanctions-exemption-to-invest-in-venezuelan-energy-projects",
+    "event_codes": {
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "news",
+      "business",
       "2026",
-      "trumps",
-      "interior",
-      "dept",
-      "moves",
-      "restore",
-      "bear",
-      "baiting",
-      "state",
-      "authorized",
-      "hunting",
-      "alaska",
-      "national",
-      "preserves"
+      "colombia",
+      "seeks",
+      "sanctions",
+      "exemption",
+      "invest",
+      "venezuelan",
+      "energy",
+      "projects"
+    ]
+  },
+  "IRN": {
+    "risk_score": 61.65,
+    "count": 65,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-won-war-iran-israeli-foreign-minister-says",
+    "event_codes": {
+      "19": 55,
+      "14": 4,
+      "17": 3,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israel",
+      "has",
+      "won",
+      "war",
+      "iran",
+      "israeli",
+      "foreign",
+      "minister",
+      "says"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "irans",
+      "regime",
+      "breaking",
+      "point",
+      "76400122"
     ]
   },
   "ISR": {
-    "risk_score": 16.64,
-    "count": 19,
-    "top_news": "https://www.ibtimes.co.uk/iran-security-figure-ali-larijani-killed-tehran-strike-1786229",
+    "risk_score": 37.4,
+    "count": 40,
+    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
     "event_codes": {
-      "19": 11,
-      "17": 4,
-      "15": 2,
-      "18": 2
+      "19": 29,
+      "18": 6,
+      "17": 3,
+      "14": 2
     },
     "keywords": [
-      "iran",
-      "security",
-      "figure",
-      "ali",
-      "larijani",
-      "killed",
-      "tehran",
-      "strike",
-      "1786229"
+      "irans",
+      "regime",
+      "breaking",
+      "point",
+      "76400122"
     ]
   },
-  "TWN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.taipeitimes.com/News/biz/archives/2026/03/18/2003853999",
+  "JOR": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "biz",
-      "archives",
+      "irans",
+      "regime",
+      "breaking",
+      "point",
+      "76400122"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "irans",
+      "regime",
+      "breaking",
+      "point",
+      "76400122"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.camera.org/article/how-did-the-bbc-portray-hezbollahs-escalation/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "how",
+      "did",
+      "the",
+      "bbc",
+      "portray",
+      "hezbollahs",
+      "escalation"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.94,
+    "count": 12,
+    "top_news": "https://saharareporters.com/2026/03/17/bandits-attack-immigration-checkpoint-niger-state-abduct-officer-steal-two-ak-47-rifles",
+    "event_codes": {
+      "18": 9,
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
       "2026",
-      "2003853999"
+      "bandits",
+      "attack",
+      "immigration",
+      "checkpoint",
+      "niger",
+      "state",
+      "abduct",
+      "officer",
+      "steal",
+      "two",
+      "rifles"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/168389",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168389"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://nationalpost.com/opinion/jack-mintz-why-mark-carney-should-visit-israel",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "opinion",
+      "jack",
+      "mintz",
+      "why",
+      "mark",
+      "carney",
+      "should",
+      "visit",
+      "israel"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.middleeastmonitor.com/20260317-the-explosion-inside-trumps-war-machine-joe-kent-resigns/",
+    "event_codes": {
+      "18": 3,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "20260317",
+      "the",
+      "explosion",
+      "inside",
+      "trumps",
+      "war",
+      "machine",
+      "joe",
+      "kent",
+      "resigns"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dw.com/en/is-irans-regime-at-a-breaking-point/a-76400122",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "irans",
+      "regime",
+      "breaking",
+      "point",
+      "76400122"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/business/2026/03/17/colombia-seeks-a-us-sanctions-exemption-to-invest-in-venezuelan-energy-projects",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "colombia",
+      "seeks",
+      "sanctions",
+      "exemption",
+      "invest",
+      "venezuelan",
+      "energy",
+      "projects"
     ]
   }
 }
