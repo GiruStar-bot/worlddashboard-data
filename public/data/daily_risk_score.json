@@ -1,39 +1,214 @@
 {
-  "IRN": {
-    "risk_score": 16.55,
-    "count": 17,
-    "top_news": "https://www.local10.com/news/2026/03/17/iran-keeps-up-attacks-on-neighbors-after-israel-killed-2-of-its-top-officials/",
+  "CAF": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://news.wjct.org/national-news/2026-03-17/khameneis-killing-renews-questions-about-u-s-assassinating-foreign-leaders",
     "event_codes": {
-      "19": 11,
-      "18": 5,
-      "14": 1
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "national",
+      "news",
+      "2026",
+      "khameneis",
+      "killing",
+      "renews",
+      "questions",
+      "about",
+      "assassinating",
+      "foreign",
+      "leaders"
+    ]
+  },
+  "ECU": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://thecitypaperbogota.com/news/colombias-petro-accuses-ecuador-of-cross-border-bombing/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2026",
+      "colombias",
+      "petro",
+      "accuses",
+      "ecuador",
+      "cross",
+      "border",
+      "bombing"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.iraqsun.com/news/278928470/al-azhar-condemns-iran-unjustified-attacks-on-gulf-states-several-arab-and-islamic-states",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "278928470",
+      "azhar",
+      "condemns",
       "iran",
-      "keeps",
+      "unjustified",
       "attacks",
-      "neighbors",
-      "after",
+      "gulf",
+      "states",
+      "several",
+      "arab",
+      "and",
+      "islamic",
+      "states"
+    ]
+  },
+  "ETH": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.advocateanddemocrat.com/news/national/article_f4d2bc26-71c9-5537-ba28-f4b2d4bd25a4.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "article",
+      "f4d2bc26",
+      "71c9",
+      "5537",
+      "ba28",
+      "f4b2d4bd25a4.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 54.45,
+    "count": 58,
+    "top_news": "https://news.wjct.org/national-news/2026-03-17/khameneis-killing-renews-questions-about-u-s-assassinating-foreign-leaders",
+    "event_codes": {
+      "19": 41,
+      "18": 9,
+      "17": 6,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "national",
+      "news",
+      "2026",
+      "khameneis",
+      "killing",
+      "renews",
+      "questions",
+      "about",
+      "assassinating",
+      "foreign",
+      "leaders"
+    ]
+  },
+  "ISR": {
+    "risk_score": 42.5,
+    "count": 44,
+    "top_news": "https://www.gazetteandherald.co.uk/news/national/25945459.iran-keeps-attacking-neighbours-confirms-israel-killed-two-top-officials/",
+    "event_codes": {
+      "19": 33,
+      "18": 8,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25945459.iran",
+      "keeps",
+      "attacking",
+      "neighbours",
+      "confirms",
       "israel",
       "killed",
-      "its",
+      "two",
       "top",
       "officials"
     ]
   },
-  "ISR": {
-    "risk_score": 10.65,
-    "count": 11,
-    "top_news": "https://www.israelnationalnews.com/news/424124",
+  "LBN": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://greatbendpost.com/posts/f432d514-1596-47a8-a24f-c28438eb57a5",
     "event_codes": {
-      "19": 10,
-      "14": 1
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "posts",
+      "f432d514",
+      "1596",
+      "47a8",
+      "a24f",
+      "c28438eb57a5"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://greatbendpost.com/posts/f432d514-1596-47a8-a24f-c28438eb57a5",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "posts",
+      "f432d514",
+      "1596",
+      "47a8",
+      "a24f",
+      "c28438eb57a5"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/news/international/iran-confirms-security-chief-larijani-killed-as-israel-vows-to-target-new-supreme-leader/article70755862.ece",
+    "event_codes": {
+      "18": 3
     },
     "keywords": [
       "news",
-      "424124"
+      "international",
+      "iran",
+      "confirms",
+      "security",
+      "chief",
+      "larijani",
+      "killed",
+      "israel",
+      "vows",
+      "target",
+      "new",
+      "supreme",
+      "leader",
+      "article70755862.ece"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://news.wjct.org/national-news/2026-03-17/khameneis-killing-renews-questions-about-u-s-assassinating-foreign-leaders",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "national",
+      "news",
+      "2026",
+      "khameneis",
+      "killing",
+      "renews",
+      "questions",
+      "about",
+      "assassinating",
+      "foreign",
+      "leaders"
     ]
   }
 }
