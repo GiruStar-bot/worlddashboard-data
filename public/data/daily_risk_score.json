@@ -1,138 +1,97 @@
 {
-  "ARE": {
-    "risk_score": 4.1,
-    "count": 9,
-    "top_news": "https://www.thedailystar.net/business/news/attacks-uaes-fujairah-port-and-shah-gas-field-add-energy-disruption-4131001",
-    "event_codes": {
-      "16": 8,
-      "18": 1
-    },
-    "keywords": [
-      "business",
-      "news",
-      "attacks",
-      "uaes",
-      "fujairah",
-      "port",
-      "and",
-      "shah",
-      "gas",
-      "field",
-      "add",
-      "energy",
-      "disruption",
-      "4131001"
-    ]
-  },
   "IRN": {
-    "risk_score": 19.4,
-    "count": 25,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-890273",
+    "risk_score": 11.65,
+    "count": 12,
+    "top_news": "https://www.adn.com/nation-world/2026/03/17/israel-urges-iranians-to-revolt-but-privately-assesses-theyll-be-slaughtered/",
     "event_codes": {
-      "17": 11,
-      "19": 7,
-      "18": 5,
-      "14": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "890273"
-    ]
-  },
-  "ISR": {
-    "risk_score": 33.7,
-    "count": 39,
-    "top_news": "https://www.adn.com/nation-world/2026/03/17/israel-says-it-killed-2-top-iranian-officials/",
-    "event_codes": {
-      "17": 13,
-      "19": 11,
-      "18": 10,
-      "15": 3,
-      "14": 2
+      "19": 10,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "nation",
       "world",
       "2026",
       "israel",
-      "says",
-      "killed",
-      "top",
-      "iranian",
-      "officials"
+      "urges",
+      "iranians",
+      "revolt",
+      "but",
+      "privately",
+      "assesses",
+      "theyll",
+      "slaughtered"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.naroomanewsonline.com.au/story/9201574/lebanese-army-says-one-soldier-killed-in-israeli-strike/",
+  "ISR": {
+    "risk_score": 6.25,
+    "count": 9,
+    "top_news": "https://www.adn.com/nation-world/2026/03/17/israel-urges-iranians-to-revolt-but-privately-assesses-theyll-be-slaughtered/",
     "event_codes": {
-      "19": 3
+      "16": 4,
+      "18": 2,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
+      "nation",
+      "world",
+      "2026",
+      "israel",
+      "urges",
+      "iranians",
+      "revolt",
+      "but",
+      "privately",
+      "assesses",
+      "theyll",
+      "slaughtered"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.indiatoday.in/india/story/nia-arrests-seven-foreigners-matthew-vandyke-nia-custody-cia-asset-al-qaida-affiliate-freedom-fighter-pow-2883367-2026-03-17",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "india",
       "story",
-      "9201574",
-      "lebanese",
-      "army",
-      "says",
-      "one",
-      "soldier",
-      "killed",
-      "israeli",
-      "strike"
+      "nia",
+      "arrests",
+      "seven",
+      "foreigners",
+      "matthew",
+      "vandyke",
+      "nia",
+      "custody",
+      "cia",
+      "asset",
+      "qaida",
+      "affiliate",
+      "freedom",
+      "fighter",
+      "pow",
+      "2883367",
+      "2026"
     ]
   },
   "NGA": {
-    "risk_score": 3.7,
-    "count": 6,
-    "top_news": "https://www.thisdaylive.com/2026/03/17/maiduguri-blast-frank-decries-tinubus-uk-trip/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://punchng.com/bandits-kill-15-in-fresh-katsina-community-attack/",
     "event_codes": {
-      "16": 3,
-      "19": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "maiduguri",
-      "blast",
-      "frank",
-      "decries",
-      "tinubus",
-      "trip"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hindustantimes.com/world-news/iran-war-started-under-pressure-from-israel-us-counter-terror-body-chief-joe-kent-in-resignation-to-trump-full-text-101773754930928.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "news",
-      "iran",
-      "war",
-      "started",
-      "under",
-      "pressure",
-      "from",
-      "israel",
-      "counter",
-      "terror",
-      "body",
-      "chief",
-      "joe",
-      "kent",
-      "resignation",
-      "trump",
-      "full",
-      "text",
-      "101773754930928.html"
+      "bandits",
+      "kill",
+      "fresh",
+      "katsina",
+      "community",
+      "attack"
     ]
   }
 }
