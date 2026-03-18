@@ -1,123 +1,148 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.13newsnow.com/article/news/local/mycity/hampton/hampton-man-survives-missile-attack-bahrain/291-3a1fa5d5-d2ea-47d4-b257-fe7796b8562a",
+  "COL": {
+    "risk_score": 7.4,
+    "count": 13,
+    "top_news": "https://thecitypaperbogota.com/news/colombia-arrests-mastermind-of-ecuador-candidate-villavicencios-murder/",
     "event_codes": {
-      "19": 3
+      "17": 7,
+      "14": 6
     },
     "keywords": [
-      "article",
       "news",
-      "local",
-      "mycity",
-      "hampton",
-      "hampton",
-      "man",
-      "survives",
-      "missile",
-      "attack",
-      "bahrain",
-      "291",
-      "3a1fa5d5",
-      "d2ea",
-      "47d4",
-      "b257",
-      "fe7796b8562a"
+      "colombia",
+      "arrests",
+      "mastermind",
+      "ecuador",
+      "candidate",
+      "villavicencios",
+      "murder"
+    ]
+  },
+  "ECU": {
+    "risk_score": 4.44,
+    "count": 6,
+    "top_news": "https://www.sanfordherald.com/news/national/costa-rica-cuts-ties-with-cuba-closes-embassy-in-havana/article_321d435f-2da4-5703-8a1c-ddce628fc74c.html",
+    "event_codes": {
+      "15": 2,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "costa",
+      "rica",
+      "cuts",
+      "ties",
+      "with",
+      "cuba",
+      "closes",
+      "embassy",
+      "havana",
+      "article",
+      "321d435f",
+      "2da4",
+      "5703",
+      "8a1c",
+      "ddce628fc74c.html"
     ]
   },
   "IRN": {
-    "risk_score": 13.5,
-    "count": 15,
-    "top_news": "https://www.independent.co.uk/news/uk/politics/britain-missiles-middle-east-forces-iran-war-b2941190.html",
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.sbs.com.au/news/article/iran-says-it-will-hit-gulf-energy-targets-in-response-to-israeli-strikes-on-pars-gas-field/7dvu0z3fn",
     "event_codes": {
       "19": 9,
-      "18": 3,
-      "14": 2,
-      "17": 1
+      "18": 3
     },
     "keywords": [
       "news",
-      "politics",
-      "britain",
-      "missiles",
-      "middle",
-      "east",
-      "forces",
+      "article",
       "iran",
-      "war",
-      "b2941190.html"
+      "says",
+      "will",
+      "hit",
+      "gulf",
+      "energy",
+      "targets",
+      "response",
+      "israeli",
+      "strikes",
+      "pars",
+      "gas",
+      "field",
+      "7dvu0z3fn"
     ]
   },
   "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.newindianexpress.com/world/2026/Mar/18/live-west-asia-war-irans-supreme-leader-vows-revenge-for-larijanis-killing-pezeshkian-slams-energy-infra-attack",
+    "risk_score": 14.96,
+    "count": 16,
+    "top_news": "https://www.oann.com/newsroom/israel-eliminates-iranian-intelligence-minister-third-assassination-in-2-days/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 7,
+      "18": 5,
+      "17": 4
     },
     "keywords": [
-      "world",
-      "2026",
-      "mar",
-      "live",
-      "west",
-      "asia",
-      "war",
-      "irans",
-      "supreme",
-      "leader",
-      "vows",
-      "revenge",
-      "for",
-      "larijanis",
-      "killing",
-      "pezeshkian",
-      "slams",
-      "energy",
-      "infra",
-      "attack"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.wtvm.com/2026/03/18/auburn-police-arrest-two-march-shooting-third-suspect-still-wanted/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "auburn",
-      "police",
-      "arrest",
-      "two",
-      "march",
-      "shooting",
+      "newsroom",
+      "israel",
+      "eliminates",
+      "iranian",
+      "intelligence",
+      "minister",
       "third",
-      "suspect",
-      "still",
-      "wanted"
+      "assassination",
+      "days"
     ]
   },
-  "LBN": {
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.singletonargus.com.au/story/9202518/at-least-10-dead-as-israel-escalates-strikes-in-lebanon/",
+    "top_news": "https://keyt.com/news/national-world/cnn-world/2026/03/18/palestinian-man-in-the-west-bank-says-he-was-sexually-assaulted-by-israeli-settlers/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "story",
-      "9202518",
-      "least",
-      "dead",
-      "israel",
-      "escalates",
-      "strikes",
-      "lebanon"
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "palestinian",
+      "man",
+      "the",
+      "west",
+      "bank",
+      "says",
+      "was",
+      "sexually",
+      "assaulted",
+      "israeli",
+      "settlers"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15659131/British-teacher-Kiwi-cousin-killed-charging-elephant-walking-safari-Zambia.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15659131",
+      "british",
+      "teacher",
+      "kiwi",
+      "cousin",
+      "killed",
+      "charging",
+      "elephant",
+      "walking",
+      "safari",
+      "zambia.html"
     ]
   }
 }
