@@ -1,175 +1,156 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://uk.news.yahoo.com/colombia-minister-examining-ecuador-whether-153611259.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "colombia",
-      "minister",
-      "examining",
-      "ecuador",
-      "whether",
-      "153611259.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 16.34,
-    "count": 19,
-    "top_news": "http://thepeninsulaqatar.com/article/18/03/2026/qatar-intercepts-4-ballistic-missiles-one-fell-in-ras-laffan-industrial-city",
-    "event_codes": {
-      "19": 11,
-      "17": 5,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "qatar",
-      "intercepts",
-      "ballistic",
-      "missiles",
-      "one",
-      "fell",
-      "ras",
-      "laffan",
-      "industrial",
-      "city"
-    ]
-  },
-  "IRQ": {
+  "BHR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://thepeninsulaqatar.com/article/18/03/2026/iraqi-air-defenses-shoot-down-drone-at-perimeter-of-baghdad-international-airport",
+    "top_news": "https://tradearabia.com:443/News/390431/Bahrain-destroys-129-missiles,-233-drones-since-start-of-Iranian-attacks/MISC",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "article",
-      "2026",
-      "iraqi",
-      "air",
-      "defenses",
-      "shoot",
-      "down",
-      "drone",
-      "perimeter",
-      "baghdad",
-      "international",
-      "airport"
+      "news",
+      "390431",
+      "bahrain",
+      "destroys",
+      "129",
+      "missiles,",
+      "233",
+      "drones",
+      "since",
+      "start",
+      "iranian",
+      "attacks",
+      "misc"
+    ]
+  },
+  "ECU": {
+    "risk_score": 2.22,
+    "count": 4,
+    "top_news": "https://www.latintimes.com/petro-says-investigation-confirms-bomb-colombian-territory-ecuadors-army-vows-diplomatic-595789",
+    "event_codes": {
+      "17": 3,
+      "15": 1
+    },
+    "keywords": [
+      "petro",
+      "says",
+      "investigation",
+      "confirms",
+      "bomb",
+      "colombian",
+      "territory",
+      "ecuadors",
+      "army",
+      "vows",
+      "diplomatic",
+      "595789"
+    ]
+  },
+  "IRN": {
+    "risk_score": 33.5,
+    "count": 37,
+    "top_news": "https://tradearabia.com:443/News/390431/Bahrain-destroys-129-missiles,-233-drones-since-start-of-Iranian-attacks/MISC",
+    "event_codes": {
+      "19": 18,
+      "18": 7,
+      "17": 6,
+      "20": 4,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "390431",
+      "bahrain",
+      "destroys",
+      "129",
+      "missiles,",
+      "233",
+      "drones",
+      "since",
+      "start",
+      "iranian",
+      "attacks",
+      "misc"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://marxist.com/iraq-iran-war-the-forging-of-the-islamic-republic.htm",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "iraq",
+      "iran",
+      "war",
+      "the",
+      "forging",
+      "the",
+      "islamic",
+      "republic.htm"
     ]
   },
   "ISR": {
-    "risk_score": 8.2,
-    "count": 10,
-    "top_news": "https://www.kmvt.com/2026/03/18/top-counterterrorism-official-resigns-over-iran-war/",
+    "risk_score": 11.8,
+    "count": 12,
+    "top_news": "https://hotair.com/ed-morrissey/2026/03/18/iran-president-dont-target-me-bro-n3813006",
     "event_codes": {
-      "19": 5,
-      "14": 2,
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "19": 7,
+      "18": 5
     },
     "keywords": [
+      "morrissey",
       "2026",
-      "top",
-      "counterterrorism",
-      "official",
-      "resigns",
-      "over",
       "iran",
-      "war"
+      "president",
+      "dont",
+      "target",
+      "bro",
+      "n3813006"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.riponpress.com/editorial/ex-kc-135-member-questions-claimed-military-success-in-iran/article_cdca0f8c-22d0-4506-95b3-86fb89f39f04.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "editorial",
-      "135",
-      "member",
-      "questions",
-      "claimed",
-      "military",
-      "success",
-      "iran",
-      "article",
-      "cdca0f8c",
-      "22d0",
-      "4506",
-      "95b3",
-      "86fb89f39f04.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-890451",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "890451"
-    ]
-  },
-  "QAT": {
+  "NGA": {
     "risk_score": 2.9,
-    "count": 3,
-    "top_news": "http://thepeninsulaqatar.com/article/18/03/2026/qatar-intercepts-4-ballistic-missiles-one-fell-in-ras-laffan-industrial-city",
+    "count": 5,
+    "top_news": "https://dailypost.ng/2026/03/18/police-rescue-two-arrest-three-suspects-over-abduction-of-cocoa-farmers-in-ibadan/",
     "event_codes": {
-      "19": 2,
+      "17": 4,
       "18": 1
     },
     "keywords": [
-      "article",
       "2026",
-      "qatar",
-      "intercepts",
-      "ballistic",
-      "missiles",
-      "one",
-      "fell",
-      "ras",
-      "laffan",
-      "industrial",
-      "city"
+      "police",
+      "rescue",
+      "two",
+      "arrest",
+      "three",
+      "suspects",
+      "over",
+      "abduction",
+      "cocoa",
+      "farmers",
+      "ibadan"
     ]
   },
-  "SAU": {
-    "risk_score": 5.84,
-    "count": 6,
-    "top_news": "https://www.riponpress.com/editorial/ex-kc-135-member-questions-claimed-military-success-in-iran/article_cdca0f8c-22d0-4506-95b3-86fb89f39f04.html",
+  "VEN": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://grenadachronicle.com/delcy-rodriguez-replaces-venezuelas-defence-minister-vladimir-padrino/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "16": 3,
+      "14": 2,
+      "18": 2
     },
     "keywords": [
-      "editorial",
-      "135",
-      "member",
-      "questions",
-      "claimed",
-      "military",
-      "success",
-      "iran",
-      "article",
-      "cdca0f8c",
-      "22d0",
-      "4506",
-      "95b3",
-      "86fb89f39f04.html"
+      "delcy",
+      "rodriguez",
+      "replaces",
+      "venezuelas",
+      "defence",
+      "minister",
+      "vladimir",
+      "padrino"
     ]
   }
 }
