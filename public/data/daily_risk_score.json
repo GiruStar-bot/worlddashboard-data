@@ -1,148 +1,74 @@
 {
-  "COL": {
-    "risk_score": 7.4,
-    "count": 13,
-    "top_news": "https://thecitypaperbogota.com/news/colombia-arrests-mastermind-of-ecuador-candidate-villavicencios-murder/",
-    "event_codes": {
-      "17": 7,
-      "14": 6
-    },
-    "keywords": [
-      "news",
-      "colombia",
-      "arrests",
-      "mastermind",
-      "ecuador",
-      "candidate",
-      "villavicencios",
-      "murder"
-    ]
-  },
-  "ECU": {
-    "risk_score": 4.44,
-    "count": 6,
-    "top_news": "https://www.sanfordherald.com/news/national/costa-rica-cuts-ties-with-cuba-closes-embassy-in-havana/article_321d435f-2da4-5703-8a1c-ddce628fc74c.html",
-    "event_codes": {
-      "15": 2,
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "costa",
-      "rica",
-      "cuts",
-      "ties",
-      "with",
-      "cuba",
-      "closes",
-      "embassy",
-      "havana",
-      "article",
-      "321d435f",
-      "2da4",
-      "5703",
-      "8a1c",
-      "ddce628fc74c.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://www.sbs.com.au/news/article/iran-says-it-will-hit-gulf-energy-targets-in-response-to-israeli-strikes-on-pars-gas-field/7dvu0z3fn",
+    "risk_score": 13.52,
+    "count": 15,
+    "top_news": "https://wcyb.com/news/nation-world/fact-check-team-how-much-has-the-war-with-iran-cost-the-american-taxpayer-operation-epic-furty-pentagon-tomahawk-iran-iraq-afghanistan",
     "event_codes": {
-      "19": 9,
-      "18": 3
+      "19": 10,
+      "17": 2,
+      "18": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "article",
+      "nation",
+      "world",
+      "fact",
+      "check",
+      "team",
+      "how",
+      "much",
+      "has",
+      "the",
+      "war",
+      "with",
       "iran",
-      "says",
-      "will",
-      "hit",
-      "gulf",
-      "energy",
-      "targets",
-      "response",
-      "israeli",
-      "strikes",
-      "pars",
-      "gas",
-      "field",
-      "7dvu0z3fn"
+      "cost",
+      "the",
+      "american",
+      "taxpayer",
+      "operation",
+      "epic",
+      "furty",
+      "pentagon",
+      "tomahawk",
+      "iran",
+      "iraq",
+      "afghanistan"
     ]
   },
   "ISR": {
-    "risk_score": 14.96,
-    "count": 16,
-    "top_news": "https://www.oann.com/newsroom/israel-eliminates-iranian-intelligence-minister-third-assassination-in-2-days/",
+    "risk_score": 23.32,
+    "count": 24,
+    "top_news": "http://www.jpost.com/israel-news/defense-news/article-890480",
     "event_codes": {
-      "19": 7,
-      "18": 5,
-      "17": 4
+      "19": 21,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "newsroom",
       "israel",
-      "eliminates",
-      "iranian",
-      "intelligence",
-      "minister",
-      "third",
-      "assassination",
-      "days"
+      "news",
+      "defense",
+      "news",
+      "article",
+      "890480"
     ]
   },
   "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://keyt.com/news/national-world/cnn-world/2026/03/18/palestinian-man-in-the-west-bank-says-he-was-sexually-assaulted-by-israeli-settlers/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-890479",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "palestinian",
-      "man",
-      "the",
-      "west",
-      "bank",
-      "says",
-      "was",
-      "sexually",
-      "assaulted",
-      "israeli",
-      "settlers"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailymail.co.uk/news/article-15659131/British-teacher-Kiwi-cousin-killed-charging-elephant-walking-safari-Zambia.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
+      "middle",
+      "east",
+      "iran",
       "news",
       "article",
-      "15659131",
-      "british",
-      "teacher",
-      "kiwi",
-      "cousin",
-      "killed",
-      "charging",
-      "elephant",
-      "walking",
-      "safari",
-      "zambia.html"
+      "890479"
     ]
   }
 }
