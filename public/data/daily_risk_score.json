@@ -1,188 +1,131 @@
 {
-  "EGY": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.union-bulletin.com/news/world/both-sides-in-iran-war-ratchet-up-attacks-on-energy-facilities-as-oil-prices-surge/article_9d7c855b-91cd-50bc-aebd-27284adfd78b.html",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "both",
-      "sides",
-      "iran",
-      "war",
-      "ratchet",
-      "attacks",
-      "energy",
-      "facilities",
-      "oil",
-      "prices",
-      "surge",
-      "article",
-      "9d7c855b",
-      "91cd",
-      "50bc",
-      "aebd",
-      "27284adfd78b.html"
-    ]
-  },
-  "IDN": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://en.tempo.co/read/2093484/police-more-than-four-people-may-be-behind-attack-on-andrie-yunus",
-    "event_codes": {
-      "18": 4
-    },
-    "keywords": [
-      "read",
-      "2093484",
-      "police",
-      "more",
-      "than",
-      "four",
-      "people",
-      "may",
-      "behind",
-      "attack",
-      "andrie",
-      "yunus"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.15,
-    "count": 18,
-    "top_news": "https://indianexpress.com/article/world/donald-trump-kharg-island-iran-war-oil-infrastructure-risks-strait-of-hormuz-10589154/",
+    "risk_score": 22.37,
+    "count": 24,
+    "top_news": "https://www.democracynow.org/2026/3/18/ai_warfare",
     "event_codes": {
-      "19": 13,
-      "14": 2,
-      "16": 1,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "world",
-      "donald",
-      "trump",
-      "kharg",
-      "island",
-      "iran",
-      "war",
-      "oil",
-      "infrastructure",
-      "risks",
-      "strait",
-      "hormuz",
-      "10589154"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.union-bulletin.com/news/world/both-sides-in-iran-war-ratchet-up-attacks-on-energy-facilities-as-oil-prices-surge/article_9d7c855b-91cd-50bc-aebd-27284adfd78b.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "both",
-      "sides",
-      "iran",
-      "war",
-      "ratchet",
-      "attacks",
-      "energy",
-      "facilities",
-      "oil",
-      "prices",
-      "surge",
-      "article",
-      "9d7c855b",
-      "91cd",
-      "50bc",
-      "aebd",
-      "27284adfd78b.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.2,
-    "count": 11,
-    "top_news": "https://www.kcbd.com/2026/03/18/wednesday-morning-top-stories-police-investigating-overnight-shooting-central-lubbock/",
-    "event_codes": {
-      "18": 5,
-      "19": 5,
-      "17": 1
+      "18": 12,
+      "19": 8,
+      "17": 3,
+      "14": 1
     },
     "keywords": [
       "2026",
-      "wednesday",
-      "morning",
-      "top",
-      "stories",
-      "police",
-      "investigating",
-      "overnight",
-      "shooting",
-      "central",
-      "lubbock"
+      "warfare"
     ]
   },
-  "SGP": {
+  "ISR": {
+    "risk_score": 9.5,
+    "count": 10,
+    "top_news": "https://cbn.com/news/israel/trump-netanyahu-hail-hit-iranian-leader-larijani-trump-hints-us-leaving-near-future",
+    "event_codes": {
+      "19": 9,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "trump",
+      "netanyahu",
+      "hail",
+      "hit",
+      "iranian",
+      "leader",
+      "larijani",
+      "trump",
+      "hints",
+      "leaving",
+      "near",
+      "future"
+    ]
+  },
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.mirror.co.uk/news/world-news/donald-trump-escalates-iran-war-36887283",
+    "top_news": "https://www.democracynow.org/2026/3/18/ai_warfare",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "donald",
-      "trump",
-      "escalates",
+      "2026",
+      "warfare"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://grenadachronicle.com/iran-threatens-to-strike-gulf-energy-facilities-after-south-pars-attack/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "iran",
-      "war",
-      "36887283"
+      "threatens",
+      "strike",
+      "gulf",
+      "energy",
+      "facilities",
+      "after",
+      "south",
+      "pars",
+      "attack"
     ]
   },
-  "SYR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.el-balad.com/16885006",
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thejournal.ie/state-still-trying-to-determine-age-of-somali-national-accused-of-murdering-ukrainian-teenager-6988349-Mar2026/",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "16885006"
+      "state",
+      "still",
+      "trying",
+      "determine",
+      "age",
+      "somali",
+      "national",
+      "accused",
+      "murdering",
+      "ukrainian",
+      "teenager",
+      "6988349",
+      "mar2026"
     ]
   },
-  "TUR": {
-    "risk_score": 4.0,
+  "SSD": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.wgnsradio.com/article/98407/rutherford-county-mans-appeal-rejected-in-2018-fatal-hotel-shooting-case",
+    "top_news": "https://www.channelafrica.co.za/channelafrica/news/rhinos-reintroduced-in-ugandan-park-after-more-than-four-decades/",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 5
     },
     "keywords": [
-      "article",
-      "98407",
-      "rutherford",
-      "county",
-      "mans",
-      "appeal",
-      "rejected",
-      "2018",
-      "fatal",
-      "hotel",
-      "shooting",
-      "case"
+      "channelafrica",
+      "news",
+      "rhinos",
+      "reintroduced",
+      "ugandan",
+      "park",
+      "after",
+      "more",
+      "than",
+      "four",
+      "decades"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.democracynow.org/2026/3/18/ai_warfare",
+    "event_codes": {
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "warfare"
     ]
   }
 }
