@@ -1,198 +1,169 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.algemeiner.com/2026/03/18/argentine-jewish-community-commemorates-deadly-israeli-embassy-bombing-justice-remains-elusive-34-years-later/",
+  "IDN": {
+    "risk_score": 4.9,
+    "count": 6,
+    "top_news": "https://en.tempo.co/read/2093503/prabowo-urged-to-form-joint-fact-finding-team-in-andrie-yunus-case",
     "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "argentine",
-      "jewish",
-      "community",
-      "commemorates",
-      "deadly",
-      "israeli",
-      "embassy",
-      "bombing",
-      "justice",
-      "remains",
-      "elusive",
-      "years",
-      "later"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.newsday.com/news/nation/ecuador-villavicencio-suspect-arrested-mexico-colombia-g76335",
-    "event_codes": {
-      "17": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "ecuador",
-      "villavicencio",
-      "suspect",
-      "arrested",
-      "mexico",
-      "colombia",
-      "g76335"
-    ]
-  },
-  "ECU": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.newsday.com/news/nation/ecuador-villavicencio-suspect-arrested-mexico-colombia-g76335",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "ecuador",
-      "villavicencio",
-      "suspect",
-      "arrested",
-      "mexico",
-      "colombia",
-      "g76335"
-    ]
-  },
-  "IRN": {
-    "risk_score": 21.75,
-    "count": 24,
-    "top_news": "https://www.algemeiner.com/2026/03/18/argentine-jewish-community-commemorates-deadly-israeli-embassy-bombing-justice-remains-elusive-34-years-later/",
-    "event_codes": {
-      "19": 16,
-      "17": 3,
-      "18": 3,
+      "18": 4,
       "14": 2
     },
     "keywords": [
+      "read",
+      "2093503",
+      "prabowo",
+      "urged",
+      "form",
+      "joint",
+      "fact",
+      "finding",
+      "team",
+      "andrie",
+      "yunus",
+      "case"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.0,
+    "count": 15,
+    "top_news": "https://www.latimes.com/opinion/story/2026-03-18/iran-war-united-states-terrorism-counterterrorism",
+    "event_codes": {
+      "19": 15
+    },
+    "keywords": [
+      "opinion",
+      "story",
       "2026",
-      "argentine",
-      "jewish",
-      "community",
-      "commemorates",
-      "deadly",
-      "israeli",
-      "embassy",
-      "bombing",
-      "justice",
-      "remains",
-      "elusive",
-      "years",
-      "later"
+      "iran",
+      "war",
+      "united",
+      "states",
+      "terrorism",
+      "counterterrorism"
     ]
   },
   "IRQ": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.rawstory.com/cameras-banned-dignified-transfer/",
+    "risk_score": 5.3,
+    "count": 6,
+    "top_news": "https://www.kentreporter.com/2026/03/18/pilot-killed-in-iraq-was-kentwood-high-school-graduate/",
     "event_codes": {
-      "18": 3,
-      "19": 1
+      "19": 5,
+      "16": 1
     },
     "keywords": [
-      "cameras",
-      "banned",
-      "dignified",
-      "transfer"
+      "2026",
+      "pilot",
+      "killed",
+      "iraq",
+      "was",
+      "kentwood",
+      "high",
+      "school",
+      "graduate"
     ]
   },
   "ISR": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "https://www.yahoo.com/news/world/article/iran-war-latest-updates-oil-prices-jump-after-strike-on-iranian-energy-site-top-tehran-official-killed-and-more-key-events-that-got-us-here-170844434.html",
+    "risk_score": 26.8,
+    "count": 28,
+    "top_news": "https://www.latimes.com/opinion/story/2026-03-18/iran-war-united-states-terrorism-counterterrorism",
     "event_codes": {
-      "19": 6,
+      "19": 24,
+      "17": 2,
       "18": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "article",
+      "opinion",
+      "story",
+      "2026",
       "iran",
       "war",
-      "latest",
-      "updates",
-      "oil",
-      "prices",
-      "jump",
-      "after",
-      "strike",
-      "iranian",
-      "energy",
-      "site",
-      "top",
-      "tehran",
-      "official",
-      "killed",
-      "and",
-      "more",
-      "key",
-      "events",
-      "that",
-      "got",
-      "here",
-      "170844434.html"
+      "united",
+      "states",
+      "terrorism",
+      "counterterrorism"
     ]
   },
-  "NGA": {
-    "risk_score": 11.72,
-    "count": 13,
-    "top_news": "https://www.thestar.com/news/world/africa/at-least-60-militants-killed-in-nigeria-as-troops-repel-attack-on-base-army-says/article_b478252b-e11e-5f01-8bff-b576806455b8.html",
+  "LBN": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.siasat.com/supreme-leader-vows-retaliation-as-iran-orders-gulf-oilfields-to-evacuate-3437365/",
     "event_codes": {
-      "18": 8,
-      "19": 3,
-      "15": 1,
+      "19": 10
+    },
+    "keywords": [
+      "supreme",
+      "leader",
+      "vows",
+      "retaliation",
+      "iran",
+      "orders",
+      "gulf",
+      "oilfields",
+      "evacuate",
+      "3437365"
+    ]
+  },
+  "QAT": {
+    "risk_score": 7.25,
+    "count": 8,
+    "top_news": "https://www.yahoo.com/news/articles/qatar-says-iran-missile-attack-185915883.html",
+    "event_codes": {
+      "19": 5,
+      "18": 2,
       "16": 1
     },
     "keywords": [
       "news",
-      "world",
-      "africa",
-      "least",
-      "militants",
-      "killed",
-      "nigeria",
-      "troops",
-      "repel",
-      "attack",
-      "base",
-      "army",
+      "articles",
+      "qatar",
       "says",
+      "iran",
+      "missile",
+      "attack",
+      "185915883.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15658091/A-somber-Trump-gives-final-salute-six-US-troops-killed-Iran-war-death-toll-continues-rise.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
       "article",
-      "b478252b",
-      "e11e",
-      "5f01",
-      "8bff",
-      "b576806455b8.html"
+      "15658091",
+      "somber",
+      "trump",
+      "gives",
+      "final",
+      "salute",
+      "six",
+      "troops",
+      "killed",
+      "iran",
+      "war",
+      "death",
+      "toll",
+      "continues",
+      "rise.html"
     ]
   },
   "SYR": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://consortiumnews.com/2026/03/18/a-crack-in-us-war-machine-a-slap-in-trumps-face/",
+    "count": 2,
+    "top_news": "https://www.newsweek.com/will-lebanon-survive-operation-remove-hezbollah-11686699",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "crack",
-      "war",
-      "machine",
-      "slap",
-      "trumps",
-      "face"
+      "will",
+      "lebanon",
+      "survive",
+      "operation",
+      "remove",
+      "hezbollah",
+      "11686699"
     ]
   }
 }
