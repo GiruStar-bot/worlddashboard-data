@@ -1,154 +1,241 @@
 {
   "ARE": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.durangoherald.com/articles/iran-lashes-out-with-attacks-on-israel-and-gulf-neighbors-as-israel-hits-beirut/",
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://thepeninsulaqatar.com/article/18/03/2026/live-updates-gulf-countries-continue-intercepting-missiles-as-regional-tension-enters-19th-day",
     "event_codes": {
-      "16": 3,
-      "19": 3
+      "14": 2,
+      "19": 1
     },
     "keywords": [
-      "articles",
-      "iran",
-      "lashes",
-      "out",
-      "with",
-      "attacks",
-      "israel",
-      "and",
+      "article",
+      "2026",
+      "live",
+      "updates",
       "gulf",
-      "neighbors",
-      "israel",
-      "hits",
-      "beirut"
+      "countries",
+      "continue",
+      "intercepting",
+      "missiles",
+      "regional",
+      "tension",
+      "enters",
+      "19th",
+      "day"
     ]
   },
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.clickondetroit.com/news/world/2026/03/18/iran-lashes-out-with-attacks-on-israel-and-gulf-neighbors-as-israel-hits-beirut/",
+  "COD": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202603180031.html",
     "event_codes": {
-      "19": 2
+      "16": 2,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "iran",
-      "lashes",
-      "out",
-      "with",
-      "attacks",
-      "israel",
-      "and",
-      "gulf",
-      "neighbors",
-      "israel",
-      "hits",
-      "beirut"
+      "stories",
+      "202603180031.html"
     ]
   },
   "IRN": {
-    "risk_score": 25.75,
-    "count": 28,
-    "top_news": "https://www.manchestereveningnews.co.uk/news/uk-news/keir-starmer-faces-mps-questions-33612315",
+    "risk_score": 21.45,
+    "count": 24,
+    "top_news": "https://www.foxnews.com/opinion/trumps-strait-showdown-five-bold-moves-crush-iran-threat",
     "event_codes": {
-      "19": 16,
-      "18": 6,
-      "14": 5,
-      "17": 1
+      "19": 13,
+      "17": 4,
+      "14": 3,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "news",
-      "keir",
-      "starmer",
-      "faces",
-      "mps",
-      "questions",
-      "33612315"
+      "opinion",
+      "trumps",
+      "strait",
+      "showdown",
+      "five",
+      "bold",
+      "moves",
+      "crush",
+      "iran",
+      "threat"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://warontherocks.com/2026/03/double-edged-swords-how-military-purges-shape-authoritarian-appetite-for-war/",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "double",
+      "edged",
+      "swords",
+      "how",
+      "military",
+      "purges",
+      "shape",
+      "authoritarian",
+      "appetite",
+      "for",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 15.7,
-    "count": 16,
-    "top_news": "https://english.wafa.ps/Pages/Details/168397",
+    "risk_score": 11.4,
+    "count": 12,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/mar/18/israel-gaza-model-lebanon-international-reaction-sanctions",
     "event_codes": {
-      "19": 8,
-      "18": 6,
-      "20": 2
+      "19": 11,
+      "17": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168397"
+      "commentisfree",
+      "2026",
+      "mar",
+      "israel",
+      "gaza",
+      "model",
+      "lebanon",
+      "international",
+      "reaction",
+      "sanctions"
+    ]
+  },
+  "KEN": {
+    "risk_score": 6.05,
+    "count": 7,
+    "top_news": "https://www.tuko.co.ke/kenya/620741-kisumu-man-sentenced-45-years-jail-pleading-guilty-murdering-younger-brother-nephew/",
+    "event_codes": {
+      "19": 5,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "kenya",
+      "620741",
+      "kisumu",
+      "man",
+      "sentenced",
+      "years",
+      "jail",
+      "pleading",
+      "guilty",
+      "murdering",
+      "younger",
+      "brother",
+      "nephew"
     ]
   },
   "LBN": {
+    "risk_score": 4.62,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/israel-strikes-destroys-building-heart-075106796.html",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "israel",
+      "strikes",
+      "destroys",
+      "building",
+      "heart",
+      "075106796.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/03/18/nigerian-troops-gun-down-61-terrorists-in-borno/",
+    "event_codes": {
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "nigerian",
+      "troops",
+      "gun",
+      "down",
+      "terrorists",
+      "borno"
+    ]
+  },
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.durangoherald.com/articles/iran-lashes-out-with-attacks-on-israel-and-gulf-neighbors-as-israel-hits-beirut/",
+    "top_news": "https://www.qatar-tribune.com/article/224773/latest-news/defence-ministry-says-missile-attack-intercepted",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "articles",
-      "iran",
-      "lashes",
-      "out",
-      "with",
-      "attacks",
-      "israel",
-      "and",
-      "gulf",
-      "neighbors",
-      "israel",
-      "hits",
-      "beirut"
+      "article",
+      "224773",
+      "latest",
+      "news",
+      "defence",
+      "ministry",
+      "says",
+      "missile",
+      "attack",
+      "intercepted"
     ]
   },
-  "NER": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/864809-court-convicts-delta-contractor-for-forgery.html",
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
     "event_codes": {
-      "17": 5
+      "19": 2
     },
     "keywords": [
-      "regional",
-      "south",
-      "south",
-      "regional",
-      "864809",
-      "court",
-      "convicts",
-      "delta",
-      "contractor",
+      "2026",
+      "5751167",
+      "israel",
+      "democrats",
+      "primaries",
+      "polling"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://focustaiwan.tw:443/politics/202603180010",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "politics",
+      "202603180010"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://warontherocks.com/2026/03/double-edged-swords-how-military-purges-shape-authoritarian-appetite-for-war/",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "double",
+      "edged",
+      "swords",
+      "how",
+      "military",
+      "purges",
+      "shape",
+      "authoritarian",
+      "appetite",
       "for",
-      "forgery.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 6.4,
-    "count": 9,
-    "top_news": "https://tribune.com.pk/story/2598234/dar-turkish-counterpart-urge-de-escalation-as-iran-war-rattles-region",
-    "event_codes": {
-      "17": 4,
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "story",
-      "2598234",
-      "dar",
-      "turkish",
-      "counterpart",
-      "urge",
-      "escalation",
-      "iran",
-      "war",
-      "rattles",
-      "region"
+      "war"
     ]
   }
 }
