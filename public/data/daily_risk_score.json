@@ -1,104 +1,154 @@
 {
-  "IRN": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://homenewshere.com/national/news/article_83682b7c-6dfc-53e2-ab44-c76c1f321aec.html",
+  "ARE": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://www.durangoherald.com/articles/iran-lashes-out-with-attacks-on-israel-and-gulf-neighbors-as-israel-hits-beirut/",
     "event_codes": {
-      "19": 12
+      "16": 3,
+      "19": 3
     },
     "keywords": [
-      "national",
-      "news",
-      "article",
-      "83682b7c",
-      "6dfc",
-      "53e2",
-      "ab44",
-      "c76c1f321aec.html"
+      "articles",
+      "iran",
+      "lashes",
+      "out",
+      "with",
+      "attacks",
+      "israel",
+      "and",
+      "gulf",
+      "neighbors",
+      "israel",
+      "hits",
+      "beirut"
     ]
   },
-  "IRQ": {
+  "EGY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://isp.netscape.com/news/world/story/0001/20260318/5b4338067e0c09a2d0fd51b8d9de8bf1",
+    "top_news": "https://www.clickondetroit.com/news/world/2026/03/18/iran-lashes-out-with-attacks-on-israel-and-gulf-neighbors-as-israel-hits-beirut/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
       "world",
-      "story",
-      "0001",
-      "20260318",
-      "5b4338067e0c09a2d0fd51b8d9de8bf1"
+      "2026",
+      "iran",
+      "lashes",
+      "out",
+      "with",
+      "attacks",
+      "israel",
+      "and",
+      "gulf",
+      "neighbors",
+      "israel",
+      "hits",
+      "beirut"
     ]
   },
-  "ISR": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://www.rediff.com/news/column/m-r-narayan-swamy-if-iran-why-not-pakistan-mr-trump/20260318.htm",
+  "IRN": {
+    "risk_score": 25.75,
+    "count": 28,
+    "top_news": "https://www.manchestereveningnews.co.uk/news/uk-news/keir-starmer-faces-mps-questions-33612315",
     "event_codes": {
-      "20": 7,
-      "19": 5
+      "19": 16,
+      "18": 6,
+      "14": 5,
+      "17": 1
     },
     "keywords": [
       "news",
-      "column",
-      "narayan",
-      "swamy",
-      "iran",
-      "why",
-      "not",
-      "pakistan",
-      "trump",
-      "20260318.htm"
+      "news",
+      "keir",
+      "starmer",
+      "faces",
+      "mps",
+      "questions",
+      "33612315"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.7,
+    "count": 16,
+    "top_news": "https://english.wafa.ps/Pages/Details/168397",
+    "event_codes": {
+      "19": 8,
+      "18": 6,
+      "20": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168397"
     ]
   },
   "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://isp.netscape.com/news/world/story/0001/20260318/5b4338067e0c09a2d0fd51b8d9de8bf1",
+    "top_news": "https://www.durangoherald.com/articles/iran-lashes-out-with-attacks-on-israel-and-gulf-neighbors-as-israel-hits-beirut/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "world",
+      "articles",
+      "iran",
+      "lashes",
+      "out",
+      "with",
+      "attacks",
+      "israel",
+      "and",
+      "gulf",
+      "neighbors",
+      "israel",
+      "hits",
+      "beirut"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/864809-court-convicts-delta-contractor-for-forgery.html",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "regional",
+      "south",
+      "south",
+      "regional",
+      "864809",
+      "court",
+      "convicts",
+      "delta",
+      "contractor",
+      "for",
+      "forgery.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 6.4,
+    "count": 9,
+    "top_news": "https://tribune.com.pk/story/2598234/dar-turkish-counterpart-urge-de-escalation-as-iran-war-rattles-region",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
       "story",
-      "0001",
-      "20260318",
-      "5b4338067e0c09a2d0fd51b8d9de8bf1"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.26,
-    "count": 4,
-    "top_news": "https://punchng.com/nwobodo-denies-wifes-involvement-in-enugu-property-demolition/",
-    "event_codes": {
-      "15": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "nwobodo",
-      "denies",
-      "wifes",
-      "involvement",
-      "enugu",
-      "property",
-      "demolition"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://allafrica.com/stories/202603180034.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "stories",
-      "202603180034.html"
+      "2598234",
+      "dar",
+      "turkish",
+      "counterpart",
+      "urge",
+      "escalation",
+      "iran",
+      "war",
+      "rattles",
+      "region"
     ]
   }
 }
