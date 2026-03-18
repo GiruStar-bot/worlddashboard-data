@@ -1,182 +1,160 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/arab-world/5252536-hamas-holds-consultations-cairo-revive-gaza-agreement",
+  "ARE": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.marketscreener.com/news/which-key-iranian-figures-have-been-killed-in-us-israeli-strikes-ce7e5ed9d98ef026",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5252536",
-      "hamas",
-      "holds",
-      "consultations",
-      "cairo",
-      "revive",
-      "gaza",
-      "agreement"
+      "news",
+      "which",
+      "key",
+      "iranian",
+      "figures",
+      "have",
+      "been",
+      "killed",
+      "israeli",
+      "strikes",
+      "ce7e5ed9d98ef026"
     ]
   },
   "IRN": {
-    "risk_score": 48.65,
-    "count": 54,
-    "top_news": "https://article.wn.com/view/2026/03/18/Dubai_Abu_Dhabi_News_LIVE_Iran_fires_missile_with_cluster_bo/",
+    "risk_score": 55.99,
+    "count": 61,
+    "top_news": "https://www.hurriyetdailynews.com/iran-vows-revenge-as-israel-ups-pressure-on-leadership-220093",
     "event_codes": {
-      "19": 34,
-      "18": 8,
-      "14": 7,
-      "17": 4,
-      "16": 1
+      "19": 43,
+      "18": 7,
+      "14": 6,
+      "15": 2,
+      "16": 2,
+      "17": 1
     },
     "keywords": [
-      "view",
-      "2026",
-      "dubai",
-      "abu",
-      "dhabi",
-      "news",
-      "live",
       "iran",
-      "fires",
-      "missile",
-      "with",
-      "cluster"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.manilatimes.net/2026/03/18/news/12-filipino-seafarers-rescued-from-oil-tanker-attacked-by-explosive-laden-iranian-boats-says-ph-embassy-in-iraq/2302553",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "news",
-      "filipino",
-      "seafarers",
-      "rescued",
-      "from",
-      "oil",
-      "tanker",
-      "attacked",
-      "explosive",
-      "laden",
-      "iranian",
-      "boats",
-      "says",
-      "embassy",
-      "iraq",
-      "2302553"
+      "vows",
+      "revenge",
+      "israel",
+      "ups",
+      "pressure",
+      "leadership",
+      "220093"
     ]
   },
   "ISR": {
-    "risk_score": 33.05,
-    "count": 38,
-    "top_news": "https://english.aawsat.com/world/5252543-iran-hold-funeral-slain-security-chief-it-vows-vengeance",
+    "risk_score": 20.77,
+    "count": 23,
+    "top_news": "https://www.middleeasteye.net/news/israel-iran-intelligence-minister-killed-claim",
     "event_codes": {
-      "19": 17,
-      "18": 11,
-      "17": 5,
-      "16": 3,
-      "14": 2
-    },
-    "keywords": [
-      "world",
-      "5252543",
-      "iran",
-      "hold",
-      "funeral",
-      "slain",
-      "security",
-      "chief",
-      "vows",
-      "vengeance"
-    ]
-  },
-  "LBN": {
-    "risk_score": 16.37,
-    "count": 17,
-    "top_news": "https://tribune.com.pk/story/2598253/israel-military-says-its-tank-fire-hit-un-lebanon-base-regrets-incident",
-    "event_codes": {
-      "19": 11,
+      "19": 14,
       "18": 5,
+      "16": 3,
       "15": 1
     },
     "keywords": [
-      "story",
-      "2598253",
+      "news",
       "israel",
-      "military",
-      "says",
-      "its",
-      "tank",
-      "fire",
-      "hit",
-      "lebanon",
-      "base",
-      "regrets",
-      "incident"
+      "iran",
+      "intelligence",
+      "minister",
+      "killed",
+      "claim"
+    ]
+  },
+  "KEN": {
+    "risk_score": 7.0,
+    "count": 10,
+    "top_news": "https://allafrica.com/stories/202603180111.html",
+    "event_codes": {
+      "17": 6,
+      "19": 4
+    },
+    "keywords": [
+      "stories",
+      "202603180111.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://kfgo.com/2026/03/18/services-scheduled-for-minnesota-soldier-killed-in-kuwait/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "services",
+      "scheduled",
+      "for",
+      "minnesota",
+      "soldier",
+      "killed",
+      "kuwait"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-journalist-beirut",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "air",
+      "strike",
+      "kills",
+      "journalist",
+      "beirut"
     ]
   },
   "NGA": {
-    "risk_score": 7.72,
-    "count": 11,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/suicide-bombings-show-resilience-of-nigerian-jihadists-despite-years-of-war/",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.channelstv.com/2026/03/18/borno-bombings-death-toll-now-24-normalcy-has-been-restored-police/",
     "event_codes": {
-      "17": 7,
-      "18": 2,
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "channelafrica",
-      "news",
-      "suicide",
+      "2026",
+      "borno",
       "bombings",
-      "show",
-      "resilience",
-      "nigerian",
-      "jihadists",
-      "despite",
-      "years",
-      "war"
+      "death",
+      "toll",
+      "now",
+      "normalcy",
+      "has",
+      "been",
+      "restored",
+      "police"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.rawstory.com/raw-investigates/neo-nazi-jan-6/",
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hellenicshippingnews.com/iran-crisis-threatens-55-65-of-indias-lng-imports-via-hormuz-explained/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "raw",
-      "investigates",
-      "neo",
-      "nazi",
-      "jan"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/zimbabwes-dcp-steps-up-battle-over-disputed-amendment-bill/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "channelafrica",
-      "news",
-      "zimbabwes",
-      "dcp",
-      "steps",
-      "battle",
-      "over",
-      "disputed",
-      "amendment",
-      "bill"
+      "iran",
+      "crisis",
+      "threatens",
+      "indias",
+      "lng",
+      "imports",
+      "via",
+      "hormuz",
+      "explained"
     ]
   }
 }
