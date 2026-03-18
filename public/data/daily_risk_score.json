@@ -1,117 +1,149 @@
 {
-  "BHR": {
+  "IRN": {
+    "risk_score": 29.77,
+    "count": 35,
+    "top_news": "https://news.webindia123.com/news/Articles/World/20260318/4428554.html",
+    "event_codes": {
+      "19": 23,
+      "16": 5,
+      "14": 2,
+      "17": 2,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "world",
+      "20260318",
+      "4428554.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.6,
+    "count": 18,
+    "top_news": "https://www.indiatvnews.com/news/india/jag-laadki-tanker-reaches-gujarat-s-mundra-port-with-80-800-metric-tonnes-of-crude-oil-2026-03-18-1034138",
+    "event_codes": {
+      "19": 14,
+      "18": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "india",
+      "jag",
+      "laadki",
+      "tanker",
+      "reaches",
+      "gujarat",
+      "mundra",
+      "port",
+      "with",
+      "800",
+      "metric",
+      "tonnes",
+      "crude",
+      "oil",
+      "2026",
+      "1034138"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://cbs2iowa.com/news/local/public-visitation-for-iowa-soldier-killed-in-kuwait",
+    "event_codes": {
+      "19": 4,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "local",
+      "public",
+      "visitation",
+      "for",
+      "iowa",
+      "soldier",
+      "killed",
+      "kuwait"
+    ]
+  },
+  "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.presstv.ir/Detail/2026/03/17/765469/Iran-strikes-heart-of-occupied-territories-US-base-in-Qatar-in-57th-wave-of-retaliation",
+    "top_news": "https://wrp.org.uk/features/dozens-of-doctors-nurses-and-paramedics-killed-in-relentless-israeli-bombing-of-lebanon/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "detail",
-      "2026",
-      "765469",
-      "iran",
-      "strikes",
-      "heart",
-      "occupied",
-      "territories",
-      "base",
-      "qatar",
-      "57th",
-      "wave",
-      "retaliation"
+      "features",
+      "dozens",
+      "doctors",
+      "nurses",
+      "and",
+      "paramedics",
+      "killed",
+      "relentless",
+      "israeli",
+      "bombing",
+      "lebanon"
     ]
   },
-  "IRN": {
-    "risk_score": 13.87,
-    "count": 16,
-    "top_news": "https://www.thetimes.com/uk/politics/article/antisemitism-is-running-riot-in-uk-says-october-7-attack-survivor-8jwgltvw9",
+  "SAU": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://pjmedia.com/uzay-bulut/2026/03/17/pakistans-double-game-between-iran-and-the-us-running-with-the-hare-and-hunting-with-the-hound-n4950746",
     "event_codes": {
-      "19": 5,
-      "20": 5,
-      "17": 3,
-      "14": 2,
-      "15": 1
+      "19": 7
     },
     "keywords": [
-      "politics",
-      "article",
-      "antisemitism",
+      "uzay",
+      "bulut",
+      "2026",
+      "pakistans",
+      "double",
+      "game",
+      "between",
+      "iran",
+      "and",
+      "the",
       "running",
-      "riot",
-      "says",
-      "october",
-      "attack",
-      "survivor",
-      "8jwgltvw9"
+      "with",
+      "the",
+      "hare",
+      "and",
+      "hunting",
+      "with",
+      "the",
+      "hound",
+      "n4950746"
     ]
   },
-  "ISR": {
-    "risk_score": 23.62,
-    "count": 27,
-    "top_news": "https://www.presstv.ir/Detail/2026/03/17/765469/Iran-strikes-heart-of-occupied-territories-US-base-in-Qatar-in-57th-wave-of-retaliation",
+  "SGP": {
+    "risk_score": 2.8,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/singapore/environment/what-do-higher-energy-prices-and-the-war-in-the-middle-east-mean-for-renewables",
     "event_codes": {
-      "19": 19,
-      "17": 6,
-      "14": 2
+      "17": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "765469",
-      "iran",
-      "strikes",
-      "heart",
-      "occupied",
-      "territories",
-      "base",
-      "qatar",
-      "57th",
-      "wave",
-      "retaliation"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.africanews.com/2026/03/17/residents-of-nigerias-maiduguri-on-high-alert-after-coordinated-explosions-kill-23/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "residents",
-      "nigerias",
-      "maiduguri",
-      "high",
-      "alert",
-      "after",
-      "coordinated",
-      "explosions",
-      "kill"
-    ]
-  },
-  "PER": {
-    "risk_score": 6.66,
-    "count": 8,
-    "top_news": "https://www.pressdemocrat.com/2026/03/17/dont-make-me-do-this-santa-rosa-officer-tells-man-before-shooting/",
-    "event_codes": {
-      "19": 4,
-      "15": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "dont",
-      "make",
-      "this",
-      "santa",
-      "rosa",
-      "officer",
-      "tells",
-      "man",
-      "before",
-      "shooting"
+      "singapore",
+      "environment",
+      "what",
+      "higher",
+      "energy",
+      "prices",
+      "and",
+      "the",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "mean",
+      "for",
+      "renewables"
     ]
   }
 }
