@@ -1,137 +1,250 @@
 {
-  "IRN": {
-    "risk_score": 17.35,
-    "count": 19,
-    "top_news": "https://tass.com/world/2103845",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.hindustantimes.com/world-news/worlds-largest-lng-plant-in-qatar-hit-by-iranian-missiles-suffers-extensive-damage-101773896004394.html",
     "event_codes": {
-      "19": 14,
-      "14": 3,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "news",
+      "worlds",
+      "largest",
+      "lng",
+      "plant",
+      "qatar",
+      "hit",
+      "iranian",
+      "missiles",
+      "suffers",
+      "extensive",
+      "damage",
+      "101773896004394.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.71,
+    "count": 17,
+    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
+    "event_codes": {
+      "19": 12,
+      "15": 3,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "how",
+      "many",
+      "people",
+      "have",
+      "been",
+      "killed",
+      "the",
+      "iran",
+      "war",
+      "4000",
+      "show",
+      "estimates",
+      "101773895355129.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 7.35,
+    "count": 8,
+    "top_news": "https://english.news.cn/20260319/1bd6eb49fc3943babc5c3f839f0b0b64/c.html",
+    "event_codes": {
+      "19": 6,
       "16": 1,
       "18": 1
     },
     "keywords": [
-      "world",
-      "2103845"
+      "20260319",
+      "1bd6eb49fc3943babc5c3f839f0b0b64",
+      "c.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.05,
-    "count": 10,
-    "top_news": "https://www.newkerala.com/news/a/irans-envoy-un-blames-uae-providing-territory-us-878.htm",
+    "risk_score": 13.7,
+    "count": 15,
+    "top_news": "https://www.newkerala.com/news/a/centre-launches-relief-scheme-rs-500-crore-outlay-746.htm",
     "event_codes": {
-      "19": 5,
-      "17": 3,
-      "14": 1,
-      "18": 1
+      "18": 7,
+      "19": 7,
+      "16": 1
     },
     "keywords": [
       "news",
-      "irans",
-      "envoy",
-      "blames",
-      "uae",
-      "providing",
-      "territory",
-      "878.htm"
+      "centre",
+      "launches",
+      "relief",
+      "scheme",
+      "500",
+      "crore",
+      "outlay",
+      "746.htm"
     ]
   },
   "KWT": {
-    "risk_score": 3.55,
-    "count": 4,
-    "top_news": "https://aninews.in/news/world/asia/limited-fire-breaks-out-at-kuwait-oil-refinery-after-drone-attack20260319132838/",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
     "event_codes": {
-      "19": 2,
-      "14": 1,
-      "18": 1
+      "19": 6
     },
     "keywords": [
-      "news",
       "world",
-      "asia",
-      "limited",
-      "fire",
-      "breaks",
-      "out",
-      "kuwait",
-      "oil",
-      "refinery",
-      "after",
-      "drone",
-      "attack20260319132838"
+      "news",
+      "how",
+      "many",
+      "people",
+      "have",
+      "been",
+      "killed",
+      "the",
+      "iran",
+      "war",
+      "4000",
+      "show",
+      "estimates",
+      "101773895355129.html"
     ]
   },
   "LBN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.newkerala.com/news/a/irans-envoy-un-blames-uae-providing-territory-us-878.htm",
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
     "event_codes": {
-      "18": 3,
-      "19": 1
+      "17": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
+      "world",
       "news",
-      "irans",
-      "envoy",
-      "blames",
-      "uae",
-      "providing",
-      "territory",
-      "878.htm"
+      "how",
+      "many",
+      "people",
+      "have",
+      "been",
+      "killed",
+      "the",
+      "iran",
+      "war",
+      "4000",
+      "show",
+      "estimates",
+      "101773895355129.html"
     ]
   },
   "QAT": {
-    "risk_score": 3.75,
-    "count": 5,
-    "top_news": "https://santamariatimes.com/ap/business/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again/article_05221c50-1858-5a8d-a1ae-18b2d2a62fca.html",
-    "event_codes": {
-      "16": 2,
-      "14": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "business",
-      "the",
-      "latest",
-      "trump",
-      "threatens",
-      "strike",
-      "worlds",
-      "largest",
-      "gas",
-      "field",
-      "iran",
-      "attacks",
-      "qatar",
-      "again",
-      "article",
-      "05221c50",
-      "1858",
-      "5a8d",
-      "a1ae",
-      "18b2d2a62fca.html"
-    ]
-  },
-  "THA": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://theprint.in/world/thailands-anutin-returns-to-power-with-broad-backing-and-nationalist-push/2883389/",
+    "top_news": "https://www.channelstv.com/2026/03/19/israel-will-not-strike-irans-gas-plant-again-trump-makes-u-turn/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "2026",
+      "israel",
+      "will",
+      "not",
+      "strike",
+      "irans",
+      "gas",
+      "plant",
+      "again",
+      "trump",
+      "makes",
+      "turn"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "world",
-      "thailands",
-      "anutin",
-      "returns",
-      "power",
-      "with",
-      "broad",
-      "backing",
-      "and",
-      "nationalist",
-      "push",
-      "2883389"
+      "news",
+      "how",
+      "many",
+      "people",
+      "have",
+      "been",
+      "killed",
+      "the",
+      "iran",
+      "war",
+      "4000",
+      "show",
+      "estimates",
+      "101773895355129.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/19/record-number-of-migrant-deaths-in-mediterranean-for-early-2026",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "category",
+      "world",
+      "2026",
+      "record",
+      "number",
+      "migrant",
+      "deaths",
+      "mediterranean",
+      "for",
+      "early",
+      "2026"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.12,
+    "count": 4,
+    "top_news": "https://horseedmedia.net/somalia-deploys-troops-to-southwest-amid-deepening-political-rift/419798/",
+    "event_codes": {
+      "16": 3,
+      "15": 1
+    },
+    "keywords": [
+      "somalia",
+      "deploys",
+      "troops",
+      "southwest",
+      "amid",
+      "deepening",
+      "political",
+      "rift",
+      "419798"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.cbc.ca/news/world/tehran-intensifies-attacks-gulf-energy-9.7134336",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "tehran",
+      "intensifies",
+      "attacks",
+      "gulf",
+      "energy",
+      "9.7134336"
     ]
   }
 }
