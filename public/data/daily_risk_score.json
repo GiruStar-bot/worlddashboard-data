@@ -1,89 +1,171 @@
 {
-  "EGY": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h1yzrztcbe",
+  "ARE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.express.co.uk/news/uk/2184368/foreign-office-issues-new-travel",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "opinions",
-      "analysis",
-      "article",
-      "h1yzrztcbe"
+      "news",
+      "2184368",
+      "foreign",
+      "office",
+      "issues",
+      "new",
+      "travel"
+    ]
+  },
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.theage.com.au/world/asia/the-shocking-moment-an-indonesian-activist-was-attacked-with-chemicals-in-jakarta-20260319-p5qs7s.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "asia",
+      "the",
+      "shocking",
+      "moment",
+      "indonesian",
+      "activist",
+      "was",
+      "attacked",
+      "with",
+      "chemicals",
+      "jakarta",
+      "20260319",
+      "p5qs7s.html"
     ]
   },
   "IRN": {
-    "risk_score": 15.89,
-    "count": 18,
-    "top_news": "https://www.espritdecorps.ca/on-target-4/on-target-why-canada-will-say-no-to-trumps-war-in-iran",
+    "risk_score": 8.9,
+    "count": 9,
+    "top_news": "https://www.ijn.com/us-israel-strikes-iran-tucker-carlson-chabad/",
     "event_codes": {
-      "19": 10,
-      "18": 4,
-      "15": 2,
-      "14": 1,
-      "17": 1
+      "19": 7,
+      "18": 2
     },
     "keywords": [
-      "target",
-      "target",
-      "why",
-      "canada",
-      "will",
-      "say",
-      "trumps",
-      "war",
-      "iran"
+      "israel",
+      "strikes",
+      "iran",
+      "tucker",
+      "carlson",
+      "chabad"
     ]
   },
   "ISR": {
-    "risk_score": 5.62,
-    "count": 6,
-    "top_news": "https://www.clevelandjewishnews.com/columnists/jonathan_tobin/the-mamdani-victimhood-narrative-and-the-american-future/article_89d04cfc-4973-4d4e-bc4d-578ea7717dbf.html",
+    "risk_score": 11.4,
+    "count": 15,
+    "top_news": "https://mondoweiss.net/2026/03/this-lebanese-village-resisted-two-israeli-commando-drops-last-week-heres-why-israel-is-targeting-it/",
     "event_codes": {
-      "19": 3,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "columnists",
-      "jonathan",
-      "tobin",
-      "the",
-      "mamdani",
-      "victimhood",
-      "narrative",
-      "and",
-      "the",
-      "american",
-      "future",
-      "article",
-      "89d04cfc",
-      "4973",
-      "4d4e",
-      "bc4d",
-      "578ea7717dbf.html"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.manilatimes.net/2026/03/20/world/netanyahu-says-iran-decimated-tehran-warns-zero-restraint/2304105",
-    "event_codes": {
-      "19": 4
+      "19": 6,
+      "16": 3,
+      "17": 3,
+      "18": 3
     },
     "keywords": [
       "2026",
-      "world",
-      "netanyahu",
-      "says",
+      "this",
+      "lebanese",
+      "village",
+      "resisted",
+      "two",
+      "israeli",
+      "commando",
+      "drops",
+      "last",
+      "week",
+      "heres",
+      "why",
+      "israel",
+      "targeting"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.16,
+    "count": 5,
+    "top_news": "https://mondoweiss.net/2026/03/this-lebanese-village-resisted-two-israeli-commando-drops-last-week-heres-why-israel-is-targeting-it/",
+    "event_codes": {
+      "15": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "this",
+      "lebanese",
+      "village",
+      "resisted",
+      "two",
+      "israeli",
+      "commando",
+      "drops",
+      "last",
+      "week",
+      "heres",
+      "why",
+      "israel",
+      "targeting"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ijn.com/israel-saves-syrian-druze-girl-with-heart-defect/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "saves",
+      "syrian",
+      "druze",
+      "girl",
+      "with",
+      "heart",
+      "defect"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ijn.com/gulf-states-passive-in-the-face-of-iran-attacks-why/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "gulf",
+      "states",
+      "passive",
+      "the",
+      "face",
       "iran",
-      "decimated",
-      "tehran",
-      "warns",
-      "zero",
-      "restraint",
-      "2304105"
+      "attacks",
+      "why"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.sbs.com.au/news/article/donald-trump-targets-cuba-big-mistake/wmuyyglmb",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "article",
+      "donald",
+      "trump",
+      "targets",
+      "cuba",
+      "big",
+      "mistake",
+      "wmuyyglmb"
     ]
   }
 }
