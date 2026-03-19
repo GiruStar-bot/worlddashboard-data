@@ -1,92 +1,190 @@
 {
-  "IRN": {
-    "risk_score": 21.4,
-    "count": 27,
-    "top_news": "https://www.washingtonexaminer.com/policy/national-security/4497198/fbi-investigating-trump-official-joe-kent/",
+  "ARE": {
+    "risk_score": 2.74,
+    "count": 3,
+    "top_news": "https://www.irishnews.com/news/northern-ireland/northern-ireland-libel-lawyer-paul-tweed-wins-legal-case-against-middle-east-expert-DHN4Q7UZKBC4BFUBVYNRNMXTXU/",
     "event_codes": {
-      "19": 14,
-      "17": 11,
-      "18": 2
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "policy",
-      "national",
-      "security",
-      "4497198",
-      "fbi",
-      "investigating",
-      "trump",
-      "official",
-      "joe",
-      "kent"
+      "news",
+      "northern",
+      "ireland",
+      "northern",
+      "ireland",
+      "libel",
+      "lawyer",
+      "paul",
+      "tweed",
+      "wins",
+      "legal",
+      "case",
+      "against",
+      "middle",
+      "east",
+      "expert",
+      "dhn4q7uzkbc4bfubvynrnmxtxu"
+    ]
+  },
+  "BOL": {
+    "risk_score": 6.6,
+    "count": 9,
+    "top_news": "https://www.themoscowtimes.com/2026/03/19/belarus-frees-250-political-prisoners-in-us-brokered-deal-a92276",
+    "event_codes": {
+      "16": 5,
+      "17": 4
+    },
+    "keywords": [
+      "2026",
+      "belarus",
+      "frees",
+      "250",
+      "political",
+      "prisoners",
+      "brokered",
+      "deal",
+      "a92276"
+    ]
+  },
+  "CHL": {
+    "risk_score": 3.67,
+    "count": 6,
+    "top_news": "https://www.mining.com/chilean-court-revives-2-5b-dominga-project-permit/",
+    "event_codes": {
+      "17": 4,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "chilean",
+      "court",
+      "revives",
+      "dominga",
+      "project",
+      "permit"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.9,
+    "count": 18,
+    "top_news": "https://www.thejournal.ie/strait-of-hormuz-allies-statement-6989411-Mar2026/",
+    "event_codes": {
+      "19": 15,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "strait",
+      "hormuz",
+      "allies",
+      "statement",
+      "6989411",
+      "mar2026"
     ]
   },
   "ISR": {
-    "risk_score": 15.7,
-    "count": 16,
-    "top_news": "https://www.yahoo.com/news/articles/despite-trump-comments-israeli-officials-134343485.html",
+    "risk_score": 24.75,
+    "count": 26,
+    "top_news": "https://english.wafa.ps/Pages/Details/168454",
     "event_codes": {
-      "19": 11,
-      "18": 5
+      "19": 17,
+      "18": 6,
+      "20": 2,
+      "16": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168454"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thejournal.ie/strait-of-hormuz-allies-statement-6989411-Mar2026/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "strait",
+      "hormuz",
+      "allies",
+      "statement",
+      "6989411",
+      "mar2026"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.standard.co.uk/news/world/british-journalist-survives-israel-strike-lebanon-rt-idf-b1275675.html",
+    "event_codes": {
+      "19": 5,
+      "17": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "despite",
-      "trump",
-      "comments",
-      "israeli",
-      "officials",
-      "134343485.html"
+      "world",
+      "british",
+      "journalist",
+      "survives",
+      "israel",
+      "strike",
+      "lebanon",
+      "idf",
+      "b1275675.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/168456",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168456"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.84,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260319162512.o2ejlfd0.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "afp",
+      "260319162512.o2ejlfd0.html"
     ]
   },
   "SAU": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.ibtimes.co.in/usiranisrael-war-araghchi-calls-200bn-tip-iceberg-jibes-us-israel-first-tax-iran-899610",
-    "event_codes": {
-      "18": 3,
-      "19": 1
-    },
-    "keywords": [
-      "usiranisrael",
-      "war",
-      "araghchi",
-      "calls",
-      "200bn",
-      "tip",
-      "iceberg",
-      "jibes",
-      "israel",
-      "first",
-      "tax",
-      "iran",
-      "899610"
-    ]
-  },
-  "SSD": {
-    "risk_score": 2.5,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/sheltering-under-trees-displaced-peoples-plight-in-jonglei-upper-nile-and-lakes-states",
+    "top_news": "https://www.al-monitor.com/live-blog/us-weighs-easing-some-iran-oil-sanctions-urges-citizens-leave-saudi-arabia",
     "event_codes": {
-      "14": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "article",
-      "sheltering",
-      "under",
-      "trees",
-      "displaced",
-      "peoples",
-      "plight",
-      "jonglei",
-      "upper",
-      "nile",
-      "and",
-      "lakes",
-      "states"
+      "live",
+      "blog",
+      "weighs",
+      "easing",
+      "some",
+      "iran",
+      "oil",
+      "sanctions",
+      "urges",
+      "citizens",
+      "leave",
+      "saudi",
+      "arabia"
     ]
   }
 }
