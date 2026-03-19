@@ -1,286 +1,191 @@
 {
-  "IRN": {
-    "risk_score": 55.5,
-    "count": 60,
-    "top_news": "https://www.yahoo.com/news/articles/esmail-khatib-assassinated-iran-intelligence-215316854.html",
-    "event_codes": {
-      "19": 44,
-      "17": 6,
-      "18": 6,
-      "14": 4
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "esmail",
-      "khatib",
-      "assassinated",
-      "iran",
-      "intelligence",
-      "215316854.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.laosnews.net/news/278930519/the-iran-war-is-exposing-this-major-shift-of-the-21st-century",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278930519",
-      "the",
-      "iran",
-      "war",
-      "exposing",
-      "this",
-      "major",
-      "shift",
-      "the",
-      "21st",
-      "century"
-    ]
-  },
-  "ISR": {
-    "risk_score": 61.6,
-    "count": 63,
-    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/03/18/palestinian-man-in-the-west-bank-says-he-was-sexually-assaulted-by-israeli-settlers/",
-    "event_codes": {
-      "19": 53,
-      "18": 9,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "palestinian",
-      "man",
-      "the",
-      "west",
-      "bank",
-      "says",
-      "was",
-      "sexually",
-      "assaulted",
-      "israeli",
-      "settlers"
-    ]
-  },
-  "LBN": {
-    "risk_score": 14.0,
-    "count": 14,
-    "top_news": "https://www.thehindubusinessline.com/news/world/both-sides-in-iran-war-step-up-attacks-on-energy-facilities-as-oil-prices-surge/article70759712.ece",
-    "event_codes": {
-      "19": 14
-    },
-    "keywords": [
-      "news",
-      "world",
-      "both",
-      "sides",
-      "iran",
-      "war",
-      "step",
-      "attacks",
-      "energy",
-      "facilities",
-      "oil",
-      "prices",
-      "surge",
-      "article70759712.ece"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://punchng.com/troops-kill-three-iswap-commanders-80-fighters-in-borno/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "troops",
-      "kill",
-      "three",
-      "iswap",
-      "commanders",
-      "fighters",
-      "borno"
-    ]
-  },
-  "NGA": {
-    "risk_score": 23.38,
-    "count": 30,
-    "top_news": "http://www.bignewsnetwork.com/news/278930674/uae-condemns-terrorist-attack-in-maiduguri-nigeria",
-    "event_codes": {
-      "19": 9,
-      "18": 8,
-      "16": 5,
-      "15": 4,
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "278930674",
-      "uae",
-      "condemns",
-      "terrorist",
-      "attack",
-      "maiduguri",
-      "nigeria"
-    ]
-  },
-  "PSE": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/03/18/palestinian-man-in-the-west-bank-says-he-was-sexually-assaulted-by-israeli-settlers/",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "palestinian",
-      "man",
-      "the",
-      "west",
-      "bank",
-      "says",
-      "was",
-      "sexually",
-      "assaulted",
-      "israeli",
-      "settlers"
-    ]
-  },
-  "QAT": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.albawaba.net/news/riyadh-rocked-blasts-iran-widens-war-1624068",
+    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/03/18/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again",
     "event_codes": {
       "17": 2,
       "19": 1
     },
     "keywords": [
-      "news",
-      "riyadh",
-      "rocked",
-      "blasts",
+      "arts",
+      "and",
+      "life",
+      "life",
+      "faith",
+      "2026",
+      "the",
+      "latest",
+      "trump",
+      "threatens",
+      "strike",
+      "worlds",
+      "largest",
+      "gas",
+      "field",
       "iran",
-      "widens",
-      "war",
-      "1624068"
+      "attacks",
+      "qatar",
+      "again"
     ]
   },
-  "SAU": {
-    "risk_score": 3.79,
-    "count": 4,
-    "top_news": "https://www.fairfieldsuntimes.com/news/national/iran-targets-gulf-energy-sites-after-intel-chief-killed/article_5e97e285-0e53-5001-8330-478792675238.html",
+  "IRN": {
+    "risk_score": 12.5,
+    "count": 14,
+    "top_news": "https://www.newkerala.com/news/a/israel-us-coordinated-strike-irans-south-pars-reports-axios-trumps-807.htm",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 11,
+      "17": 3
     },
     "keywords": [
       "news",
-      "national",
-      "iran",
-      "targets",
-      "gulf",
-      "energy",
-      "sites",
-      "after",
-      "intel",
-      "chief",
-      "killed",
-      "article",
-      "5e97e285",
-      "0e53",
-      "5001",
-      "8330",
-      "478792675238.html"
+      "israel",
+      "coordinated",
+      "strike",
+      "irans",
+      "south",
+      "pars",
+      "reports",
+      "axios",
+      "trumps",
+      "807.htm"
     ]
   },
-  "SDN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://english.news.cn/20260319/e46a8f09d2cd4a57a9a1efe403f5939a/c.html",
+  "IRQ": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/03/18/a-hollowed-out-state-department-strains-to-manage-the-iran-war-officials-say",
     "event_codes": {
-      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "hollowed",
+      "out",
+      "state",
+      "department",
+      "strains",
+      "manage",
+      "the",
+      "iran",
+      "war",
+      "officials",
+      "say"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.3,
+    "count": 14,
+    "top_news": "https://www.newkerala.com/news/a/israel-us-coordinated-strike-irans-south-pars-reports-axios-trumps-807.htm",
+    "event_codes": {
+      "19": 11,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "20260319",
-      "e46a8f09d2cd4a57a9a1efe403f5939a",
-      "c.html"
+      "news",
+      "israel",
+      "coordinated",
+      "strike",
+      "irans",
+      "south",
+      "pars",
+      "reports",
+      "axios",
+      "trumps",
+      "807.htm"
     ]
   },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.carlow-nationalist.ie/news/national-news/state-still-trying-to-determine-age-of-vadym-davydenko-murder-accused_arid-91565.html",
+  "KHM": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://abcnews.com/International/wireStory/thai-parliament-convenes-vote-new-prime-minister-incumbent-131206429",
     "event_codes": {
+      "17": 5,
       "19": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "news",
-      "state",
-      "still",
-      "trying",
-      "determine",
-      "age",
-      "vadym",
-      "davydenko",
-      "murder",
-      "accused",
-      "arid",
-      "91565.html"
+      "international",
+      "wirestory",
+      "thai",
+      "parliament",
+      "convenes",
+      "vote",
+      "new",
+      "prime",
+      "minister",
+      "incumbent",
+      "131206429"
     ]
   },
-  "TCD": {
+  "LBN": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260319/e46a8f09d2cd4a57a9a1efe403f5939a/c.html",
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/03/18/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again",
     "event_codes": {
-      "17": 2,
+      "19": 3
+    },
+    "keywords": [
+      "arts",
+      "and",
+      "life",
+      "life",
+      "faith",
+      "2026",
+      "the",
+      "latest",
+      "trump",
+      "threatens",
+      "strike",
+      "worlds",
+      "largest",
+      "gas",
+      "field",
+      "iran",
+      "attacks",
+      "qatar",
+      "again"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cnn.com/2026/03/18/middleeast/us-israel-iran-middle-east-war-day-20-what-we-know-intl-hnk",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "20260319",
-      "e46a8f09d2cd4a57a9a1efe403f5939a",
-      "c.html"
+      "2026",
+      "middleeast",
+      "israel",
+      "iran",
+      "middle",
+      "east",
+      "war",
+      "day",
+      "what",
+      "know",
+      "intl",
+      "hnk"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thehindubusinessline.com/news/world/what-to-know-about-lebanons-rising-conflict-between-israel-and-hezbollah/article70759711.ece",
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailystar.co.uk/news/world-news/trump-pledges-massively-blow-up-36890757",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
       "news",
       "world",
-      "what",
-      "know",
-      "about",
-      "lebanons",
-      "rising",
-      "conflict",
-      "between",
-      "israel",
-      "and",
-      "hezbollah",
-      "article70759711.ece"
+      "news",
+      "trump",
+      "pledges",
+      "massively",
+      "blow",
+      "36890757"
     ]
   }
 }
