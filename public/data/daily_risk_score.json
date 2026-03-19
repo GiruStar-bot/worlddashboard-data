@@ -1,93 +1,170 @@
 {
-  "IDN": {
-    "risk_score": 2.95,
-    "count": 5,
-    "top_news": "https://en.antaranews.com/news/409186/indonesia-pushes-full-probe-into-acid-attack-on-rights-activist",
+  "BOL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://cyprus-mail.com/2026/03/19/trump-envoy-meets-lukashenko-in-bid-to-negotiate-more-prisoner-releases-in-belarus",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "409186",
-      "indonesia",
-      "pushes",
-      "full",
-      "probe",
-      "into",
-      "acid",
-      "attack",
-      "rights",
-      "activist"
+      "2026",
+      "trump",
+      "envoy",
+      "meets",
+      "lukashenko",
+      "bid",
+      "negotiate",
+      "more",
+      "prisoner",
+      "releases",
+      "belarus"
     ]
   },
   "IRN": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/424216",
-    "event_codes": {
-      "19": 5,
-      "17": 2,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "424216"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.92,
-    "count": 15,
-    "top_news": "https://www.nbcwashington.com/news/national-international/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again/4078294/",
+    "risk_score": 13.01,
+    "count": 14,
+    "top_news": "https://montrealgazette.com:443/opinion/columnists/neal-i-welcome-the-fall-of-a-dictator-but-i-question-the-war-in-iran",
     "event_codes": {
       "19": 10,
-      "18": 3,
-      "15": 1,
+      "15": 2,
+      "14": 1,
       "17": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "international",
+      "opinion",
+      "columnists",
+      "neal",
+      "welcome",
       "the",
-      "latest",
-      "trump",
-      "threatens",
-      "strike",
-      "worlds",
-      "largest",
-      "gas",
-      "field",
+      "fall",
+      "dictator",
+      "but",
+      "question",
+      "the",
+      "war",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.5,
+    "count": 15,
+    "top_news": "https://www.siasat.com/saudi-arabia-urges-iran-to-recalculate-as-gulf-attacks-escalate-3437496/",
+    "event_codes": {
+      "19": 10,
+      "16": 3,
+      "14": 2
+    },
+    "keywords": [
+      "saudi",
+      "arabia",
+      "urges",
       "iran",
+      "recalculate",
+      "gulf",
       "attacks",
-      "qatar",
-      "again",
-      "4078294"
+      "escalate",
+      "3437496"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/863316/middle-east-on-the-brink-as-iran-threatens-to-burn-persian-gulf-while-trump-issues-south-pars-warning",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "863316",
+      "middle",
+      "east",
+      "the",
+      "brink",
+      "iran",
+      "threatens",
+      "burn",
+      "persian",
+      "gulf",
+      "while",
+      "trump",
+      "issues",
+      "south",
+      "pars",
+      "warning"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.44,
+    "count": 11,
+    "top_news": "https://www.africanews.com/2026/03/19/nigerias-army-chief-visits-maiduguri-following-deadly-suicide-bombings/",
+    "event_codes": {
+      "19": 9,
+      "15": 2
+    },
+    "keywords": [
+      "2026",
+      "nigerias",
+      "army",
+      "chief",
+      "visits",
+      "maiduguri",
+      "following",
+      "deadly",
+      "suicide",
+      "bombings"
     ]
   },
   "PSE": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/19/missile-fragment-kills-three-palestinians-in-west-bank-and-thai-worker-in-israel/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/865268-us-israel-iran-war-day-20-war-threatens-global-gas-supply.html",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "mena",
-      "2026",
-      "missile",
-      "fragment",
-      "kills",
-      "three",
-      "palestinians",
-      "west",
-      "bank",
-      "and",
-      "thai",
-      "worker",
-      "israel"
+      "headlines",
+      "865268",
+      "israel",
+      "iran",
+      "war",
+      "day",
+      "war",
+      "threatens",
+      "global",
+      "gas",
+      "supply.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/863316/middle-east-on-the-brink-as-iran-threatens-to-burn-persian-gulf-while-trump-issues-south-pars-warning",
+    "event_codes": {
+      "17": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "863316",
+      "middle",
+      "east",
+      "the",
+      "brink",
+      "iran",
+      "threatens",
+      "burn",
+      "persian",
+      "gulf",
+      "while",
+      "trump",
+      "issues",
+      "south",
+      "pars",
+      "warning"
     ]
   }
 }
