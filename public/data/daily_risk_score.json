@@ -1,89 +1,137 @@
 {
   "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.thetimes.com/us/news-today/article/iran-us-war-live-latest-news-trump-oil-today-krj3ls7zm",
+    "risk_score": 17.35,
+    "count": 19,
+    "top_news": "https://tass.com/world/2103845",
     "event_codes": {
-      "19": 8,
-      "18": 2
+      "19": 14,
+      "14": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "today",
-      "article",
-      "iran",
-      "war",
-      "live",
-      "latest",
-      "news",
-      "trump",
-      "oil",
-      "today",
-      "krj3ls7zm"
+      "world",
+      "2103845"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.watoday.com.au/business/companies/australians-use-banned-bookie-as-war-wagers-spark-journalist-death-threats-20260318-p5onen.html",
+    "risk_score": 8.05,
+    "count": 10,
+    "top_news": "https://www.newkerala.com/news/a/irans-envoy-un-blames-uae-providing-territory-us-878.htm",
     "event_codes": {
-      "19": 5
+      "19": 5,
+      "17": 3,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "irans",
+      "envoy",
+      "blames",
+      "uae",
+      "providing",
+      "territory",
+      "878.htm"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.55,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/asia/limited-fire-breaks-out-at-kuwait-oil-refinery-after-drone-attack20260319132838/",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "asia",
+      "limited",
+      "fire",
+      "breaks",
+      "out",
+      "kuwait",
+      "oil",
+      "refinery",
+      "after",
+      "drone",
+      "attack20260319132838"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.newkerala.com/news/a/irans-envoy-un-blames-uae-providing-territory-us-878.htm",
+    "event_codes": {
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "irans",
+      "envoy",
+      "blames",
+      "uae",
+      "providing",
+      "territory",
+      "878.htm"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.75,
+    "count": 5,
+    "top_news": "https://santamariatimes.com/ap/business/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again/article_05221c50-1858-5a8d-a1ae-18b2d2a62fca.html",
+    "event_codes": {
+      "16": 2,
+      "14": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
       "business",
-      "companies",
-      "australians",
-      "use",
-      "banned",
-      "bookie",
-      "war",
-      "wagers",
-      "spark",
-      "journalist",
-      "death",
-      "threats",
-      "20260318",
-      "p5onen.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.thetimes.com/us/news-today/article/iran-us-war-live-latest-news-trump-oil-today-krj3ls7zm",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "today",
-      "article",
-      "iran",
-      "war",
-      "live",
+      "the",
       "latest",
-      "news",
       "trump",
-      "oil",
-      "today",
-      "krj3ls7zm"
+      "threatens",
+      "strike",
+      "worlds",
+      "largest",
+      "gas",
+      "field",
+      "iran",
+      "attacks",
+      "qatar",
+      "again",
+      "article",
+      "05221c50",
+      "1858",
+      "5a8d",
+      "a1ae",
+      "18b2d2a62fca.html"
     ]
   },
-  "SYR": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://warontherocks.com/2026/03/islamic-state-containment-is-collapsing-in-syria/",
+  "THA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://theprint.in/world/thailands-anutin-returns-to-power-with-broad-backing-and-nationalist-push/2883389/",
     "event_codes": {
-      "19": 10,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "2026",
-      "islamic",
-      "state",
-      "containment",
-      "collapsing",
-      "syria"
+      "world",
+      "thailands",
+      "anutin",
+      "returns",
+      "power",
+      "with",
+      "broad",
+      "backing",
+      "and",
+      "nationalist",
+      "push",
+      "2883389"
     ]
   }
 }
