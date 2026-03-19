@@ -1,78 +1,88 @@
 {
   "IRN": {
-    "risk_score": 13.0,
+    "risk_score": 12.32,
     "count": 13,
-    "top_news": "https://www.oann.com/commentary/how-53-democrats-gave-comfort-to-the-iranian-mullahs/",
+    "top_news": "https://www.channel4.com/news/irans-delicate-peace-with-gulf-neighbours-under-threat",
     "event_codes": {
-      "19": 13
+      "19": 7,
+      "18": 5,
+      "15": 1
     },
     "keywords": [
-      "commentary",
-      "how",
-      "democrats",
-      "gave",
-      "comfort",
-      "the",
-      "iranian",
-      "mullahs"
+      "news",
+      "irans",
+      "delicate",
+      "peace",
+      "with",
+      "gulf",
+      "neighbours",
+      "under",
+      "threat"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.52,
+    "count": 4,
+    "top_news": "https://www.aa.com.tr/en/americas/trump-says-no-plans-to-deploy-troops-to-mideast/3872054",
+    "event_codes": {
+      "16": 2,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "americas",
+      "trump",
+      "says",
+      "plans",
+      "deploy",
+      "troops",
+      "mideast",
+      "3872054"
     ]
   },
   "ISR": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "https://dailyreckoning.com/escalation-ladders/",
+    "risk_score": 8.75,
+    "count": 10,
+    "top_news": "https://www.aa.com.tr/en/middle-east/lebanon-death-toll-from-israeli-attacks-surpasses-1-000/3872106",
     "event_codes": {
-      "19": 5,
-      "18": 2,
-      "14": 1
+      "19": 4,
+      "14": 3,
+      "18": 3
     },
     "keywords": [
-      "escalation",
-      "ladders"
+      "middle",
+      "east",
+      "lebanon",
+      "death",
+      "toll",
+      "from",
+      "israeli",
+      "attacks",
+      "surpasses",
+      "000",
+      "3872106"
     ]
   },
-  "JOR": {
-    "risk_score": 3.25,
+  "TUR": {
+    "risk_score": 4.44,
     "count": 5,
-    "top_news": "https://www.oann.com/newsroom/report-fbi-investigating-fmr-natl-counterterrorism-director-joe-kent-citing-classified-leaks-prior-to-resignation/",
+    "top_news": "https://www.aa.com.tr/en/middle-east/lebanon-death-toll-from-israeli-attacks-surpasses-1-000/3872106",
     "event_codes": {
-      "14": 5
+      "19": 3,
+      "15": 2
     },
     "keywords": [
-      "newsroom",
-      "report",
-      "fbi",
-      "investigating",
-      "fmr",
-      "natl",
-      "counterterrorism",
-      "director",
-      "joe",
-      "kent",
-      "citing",
-      "classified",
-      "leaks",
-      "prior",
-      "resignation"
-    ]
-  },
-  "QAT": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.washingtonexaminer.com/policy/defense/4498002/netanyahu-disputes-israel-dragged-us-war-iran/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "policy",
-      "defense",
-      "4498002",
-      "netanyahu",
-      "disputes",
-      "israel",
-      "dragged",
-      "war",
-      "iran"
+      "middle",
+      "east",
+      "lebanon",
+      "death",
+      "toll",
+      "from",
+      "israeli",
+      "attacks",
+      "surpasses",
+      "000",
+      "3872106"
     ]
   }
 }
