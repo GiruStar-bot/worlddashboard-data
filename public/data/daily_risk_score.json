@@ -1,190 +1,173 @@
 {
-  "ARE": {
-    "risk_score": 2.74,
-    "count": 3,
-    "top_news": "https://www.irishnews.com/news/northern-ireland/northern-ireland-libel-lawyer-paul-tweed-wins-legal-case-against-middle-east-expert-DHN4Q7UZKBC4BFUBVYNRNMXTXU/",
-    "event_codes": {
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "northern",
-      "ireland",
-      "northern",
-      "ireland",
-      "libel",
-      "lawyer",
-      "paul",
-      "tweed",
-      "wins",
-      "legal",
-      "case",
-      "against",
-      "middle",
-      "east",
-      "expert",
-      "dhn4q7uzkbc4bfubvynrnmxtxu"
-    ]
-  },
-  "BOL": {
-    "risk_score": 6.6,
-    "count": 9,
-    "top_news": "https://www.themoscowtimes.com/2026/03/19/belarus-frees-250-political-prisoners-in-us-brokered-deal-a92276",
-    "event_codes": {
-      "16": 5,
-      "17": 4
-    },
-    "keywords": [
-      "2026",
-      "belarus",
-      "frees",
-      "250",
-      "political",
-      "prisoners",
-      "brokered",
-      "deal",
-      "a92276"
-    ]
-  },
-  "CHL": {
-    "risk_score": 3.67,
-    "count": 6,
-    "top_news": "https://www.mining.com/chilean-court-revives-2-5b-dominga-project-permit/",
-    "event_codes": {
-      "17": 4,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "chilean",
-      "court",
-      "revives",
-      "dominga",
-      "project",
-      "permit"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.9,
-    "count": 18,
-    "top_news": "https://www.thejournal.ie/strait-of-hormuz-allies-statement-6989411-Mar2026/",
+    "risk_score": 16.84,
+    "count": 20,
+    "top_news": "https://www.theepochtimes.com/world/qatarenergy-may-not-guarantee-lng-contracts-for-up-to-5-years-after-iran-attacks-6001053",
     "event_codes": {
-      "19": 15,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "strait",
-      "hormuz",
-      "allies",
-      "statement",
-      "6989411",
-      "mar2026"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.75,
-    "count": 26,
-    "top_news": "https://english.wafa.ps/Pages/Details/168454",
-    "event_codes": {
-      "19": 17,
-      "18": 6,
-      "20": 2,
+      "19": 13,
+      "17": 4,
+      "15": 2,
       "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168454"
+      "world",
+      "qatarenergy",
+      "may",
+      "not",
+      "guarantee",
+      "lng",
+      "contracts",
+      "for",
+      "years",
+      "after",
+      "iran",
+      "attacks",
+      "6001053"
     ]
   },
-  "KWT": {
-    "risk_score": 2.5,
+  "IRQ": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.klcc.org/npr-world-news/2026-03-19/japans-pm-to-visit-trump-as-president-continues-pleas-for-help-with-strait-of-hormuz",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "npr",
+      "world",
+      "news",
+      "2026",
+      "japans",
+      "visit",
+      "trump",
+      "president",
+      "continues",
+      "pleas",
+      "for",
+      "help",
+      "with",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 29.5,
+    "count": 31,
+    "top_news": "https://www.news8000.com/news/politics/national-politics/joe-kents-resignation-reignites-antisemitism-fears-and-debate-over-israeli-influence/article_b6e5fb5f-dd87-5851-831c-656ca2415cd1.html",
+    "event_codes": {
+      "19": 28,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "national",
+      "politics",
+      "joe",
+      "kents",
+      "resignation",
+      "reignites",
+      "antisemitism",
+      "fears",
+      "and",
+      "debate",
+      "over",
+      "israeli",
+      "influence",
+      "article",
+      "b6e5fb5f",
+      "dd87",
+      "5851",
+      "831c",
+      "656ca2415cd1.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.thejournal.ie/strait-of-hormuz-allies-statement-6989411-Mar2026/",
+    "top_news": "https://yalibnan.com/2026/03/19/israeli-strike-injures-russia-today-crew-in-southern-lebanon/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strike",
+      "injures",
+      "russia",
+      "today",
+      "crew",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://nationalpost.com/news/world/war-on-iran-latest-developments",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "war",
+      "iran",
+      "latest",
+      "developments"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nationalpost.com/news/world/war-on-iran-latest-developments",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "war",
+      "iran",
+      "latest",
+      "developments"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.straitstimes.com/singapore/woman-arrested-179-luxury-watches-worth-over-1m-seized-in-islandwide-iras-raids",
     "event_codes": {
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "strait",
-      "hormuz",
-      "allies",
-      "statement",
-      "6989411",
-      "mar2026"
+      "singapore",
+      "woman",
+      "arrested",
+      "179",
+      "luxury",
+      "watches",
+      "worth",
+      "over",
+      "seized",
+      "islandwide",
+      "iras",
+      "raids"
     ]
   },
-  "LBN": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://www.standard.co.uk/news/world/british-journalist-survives-israel-strike-lebanon-rt-idf-b1275675.html",
-    "event_codes": {
-      "19": 5,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "british",
-      "journalist",
-      "survives",
-      "israel",
-      "strike",
-      "lebanon",
-      "idf",
-      "b1275675.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://english.wafa.ps/Pages/Details/168456",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "168456"
-    ]
-  },
-  "QAT": {
-    "risk_score": 3.84,
+  "SYR": {
+    "risk_score": 2.92,
     "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260319162512.o2ejlfd0.html",
+    "top_news": "https://sana.sy/en/syria/2304152/",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "afp",
-      "260319162512.o2ejlfd0.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.al-monitor.com/live-blog/us-weighs-easing-some-iran-oil-sanctions-urges-citizens-leave-saudi-arabia",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "weighs",
-      "easing",
-      "some",
-      "iran",
-      "oil",
-      "sanctions",
-      "urges",
-      "citizens",
-      "leave",
-      "saudi",
-      "arabia"
+      "syria",
+      "2304152"
     ]
   }
 }
