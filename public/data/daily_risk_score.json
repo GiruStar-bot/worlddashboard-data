@@ -1,250 +1,93 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.hindustantimes.com/world-news/worlds-largest-lng-plant-in-qatar-hit-by-iranian-missiles-suffers-extensive-damage-101773896004394.html",
+  "IDN": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://en.antaranews.com/news/409186/indonesia-pushes-full-probe-into-acid-attack-on-rights-activist",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 4,
+      "19": 1
     },
     "keywords": [
-      "world",
       "news",
-      "worlds",
-      "largest",
-      "lng",
-      "plant",
-      "qatar",
-      "hit",
-      "iranian",
-      "missiles",
-      "suffers",
-      "extensive",
-      "damage",
-      "101773896004394.html"
+      "409186",
+      "indonesia",
+      "pushes",
+      "full",
+      "probe",
+      "into",
+      "acid",
+      "attack",
+      "rights",
+      "activist"
     ]
   },
   "IRN": {
-    "risk_score": 15.71,
-    "count": 17,
-    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
-    "event_codes": {
-      "19": 12,
-      "15": 3,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "how",
-      "many",
-      "people",
-      "have",
-      "been",
-      "killed",
-      "the",
-      "iran",
-      "war",
-      "4000",
-      "show",
-      "estimates",
-      "101773895355129.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 7.35,
+    "risk_score": 7.0,
     "count": 8,
-    "top_news": "https://english.news.cn/20260319/1bd6eb49fc3943babc5c3f839f0b0b64/c.html",
+    "top_news": "https://www.israelnationalnews.com/news/424216",
     "event_codes": {
-      "19": 6,
-      "16": 1,
-      "18": 1
+      "19": 5,
+      "17": 2,
+      "20": 1
     },
     "keywords": [
-      "20260319",
-      "1bd6eb49fc3943babc5c3f839f0b0b64",
-      "c.html"
+      "news",
+      "424216"
     ]
   },
   "ISR": {
-    "risk_score": 13.7,
+    "risk_score": 13.92,
     "count": 15,
-    "top_news": "https://www.newkerala.com/news/a/centre-launches-relief-scheme-rs-500-crore-outlay-746.htm",
+    "top_news": "https://www.nbcwashington.com/news/national-international/the-latest-trump-threatens-to-strike-worlds-largest-gas-field-if-iran-attacks-qatar-again/4078294/",
     "event_codes": {
-      "18": 7,
-      "19": 7,
-      "16": 1
+      "19": 10,
+      "18": 3,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
       "news",
-      "centre",
-      "launches",
-      "relief",
-      "scheme",
-      "500",
-      "crore",
-      "outlay",
-      "746.htm"
-    ]
-  },
-  "KWT": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "news",
-      "how",
-      "many",
-      "people",
-      "have",
-      "been",
-      "killed",
+      "national",
+      "international",
       "the",
-      "iran",
-      "war",
-      "4000",
-      "show",
-      "estimates",
-      "101773895355129.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.4,
-    "count": 5,
-    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "how",
-      "many",
-      "people",
-      "have",
-      "been",
-      "killed",
-      "the",
-      "iran",
-      "war",
-      "4000",
-      "show",
-      "estimates",
-      "101773895355129.html"
-    ]
-  },
-  "QAT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.channelstv.com/2026/03/19/israel-will-not-strike-irans-gas-plant-again-trump-makes-u-turn/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "israel",
-      "will",
-      "not",
-      "strike",
-      "irans",
-      "gas",
-      "plant",
-      "again",
+      "latest",
       "trump",
-      "makes",
-      "turn"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hindustantimes.com/world-news/how-many-people-have-been-killed-in-the-us-iran-war-4000-show-estimates-101773895355129.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "news",
-      "how",
-      "many",
-      "people",
-      "have",
-      "been",
-      "killed",
-      "the",
+      "threatens",
+      "strike",
+      "worlds",
+      "largest",
+      "gas",
+      "field",
       "iran",
-      "war",
-      "4000",
-      "show",
-      "estimates",
-      "101773895355129.html"
+      "attacks",
+      "qatar",
+      "again",
+      "4078294"
     ]
   },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/19/record-number-of-migrant-deaths-in-mediterranean-for-early-2026",
+  "PSE": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/19/missile-fragment-kills-three-palestinians-in-west-bank-and-thai-worker-in-israel/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "category",
-      "world",
-      "2026",
-      "record",
-      "number",
-      "migrant",
-      "deaths",
-      "mediterranean",
-      "for",
-      "early",
-      "2026"
-    ]
-  },
-  "SOM": {
-    "risk_score": 3.12,
-    "count": 4,
-    "top_news": "https://horseedmedia.net/somalia-deploys-troops-to-southwest-amid-deepening-political-rift/419798/",
-    "event_codes": {
-      "16": 3,
+      "19": 2,
       "15": 1
     },
     "keywords": [
-      "somalia",
-      "deploys",
-      "troops",
-      "southwest",
-      "amid",
-      "deepening",
-      "political",
-      "rift",
-      "419798"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.cbc.ca/news/world/tehran-intensifies-attacks-gulf-energy-9.7134336",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
       "news",
-      "world",
-      "tehran",
-      "intensifies",
-      "attacks",
-      "gulf",
-      "energy",
-      "9.7134336"
+      "mena",
+      "2026",
+      "missile",
+      "fragment",
+      "kills",
+      "three",
+      "palestinians",
+      "west",
+      "bank",
+      "and",
+      "thai",
+      "worker",
+      "israel"
     ]
   }
 }
