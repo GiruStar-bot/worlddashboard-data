@@ -1,84 +1,68 @@
 {
-  "IRN": {
-    "risk_score": 13.25,
-    "count": 15,
-    "top_news": "https://www.jns.org/news/u-s-news/epic-fury-on-track-hegseth-says-today-will-be-the-biggest-attack-yet",
+  "BOL": {
+    "risk_score": 4.5,
+    "count": 9,
+    "top_news": "https://www.journalismpakistan.com/belarus-frees-jailed-journalist-in-sanctions-deal",
     "event_codes": {
-      "19": 10,
-      "14": 5
+      "17": 9
     },
     "keywords": [
-      "news",
-      "news",
-      "epic",
-      "fury",
-      "track",
-      "hegseth",
-      "says",
-      "today",
-      "will",
-      "the",
-      "biggest",
-      "attack",
-      "yet"
+      "belarus",
+      "frees",
+      "jailed",
+      "journalist",
+      "sanctions",
+      "deal"
     ]
   },
-  "ISR": {
-    "risk_score": 13.0,
-    "count": 14,
-    "top_news": "https://www.rttnews.com/3632589/european-shares-rebound-as-oil-supply-concerns-ease.aspx",
+  "IRN": {
+    "risk_score": 10.44,
+    "count": 12,
+    "top_news": "https://www.epc.eu/publication/i-had-a-ringside-seat-for-the-iranian-revolution-foreign-meddling-didnt-work-then-either/",
     "event_codes": {
-      "19": 11,
-      "17": 2,
+      "19": 8,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "publication",
+      "had",
+      "ringside",
+      "seat",
+      "for",
+      "the",
+      "iranian",
+      "revolution",
+      "foreign",
+      "meddling",
+      "didnt",
+      "work",
+      "then",
+      "either"
+    ]
+  },
+  "SYR": {
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/",
+    "event_codes": {
+      "19": 6,
+      "16": 3,
       "18": 1
     },
     "keywords": [
-      "3632589",
-      "european",
-      "shares",
-      "rebound",
-      "oil",
-      "supply",
-      "concerns",
-      "ease.aspx"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newkerala.com/news/a/turkish-president-calls-unity-solidarity-eid-message-amid-420.htm",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "turkish",
-      "president",
-      "calls",
-      "unity",
-      "solidarity",
-      "eid",
-      "message",
-      "amid",
-      "420.htm"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailystar.co.uk/news/us-news/donald-trump-will-not-hesitate-36897039",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "news",
-      "donald",
-      "trump",
-      "will",
-      "not",
-      "hesitate",
-      "36897039"
+      "2026",
+      "why",
+      "did",
+      "the",
+      "united",
+      "states",
+      "lift",
+      "sanctions",
+      "assads",
+      "chemical",
+      "weapons",
+      "scientists"
     ]
   }
 }
