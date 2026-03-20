@@ -1,68 +1,81 @@
 {
-  "BOL": {
-    "risk_score": 4.5,
-    "count": 9,
-    "top_news": "https://www.journalismpakistan.com/belarus-frees-jailed-journalist-in-sanctions-deal",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.express.co.uk/news/world/2184461/dubai-dream-dies-property-bubble-iran-war",
     "event_codes": {
-      "17": 9
+      "19": 2
     },
     "keywords": [
-      "belarus",
-      "frees",
-      "jailed",
-      "journalist",
-      "sanctions",
-      "deal"
+      "news",
+      "world",
+      "2184461",
+      "dubai",
+      "dream",
+      "dies",
+      "property",
+      "bubble",
+      "iran",
+      "war"
     ]
   },
   "IRN": {
-    "risk_score": 10.44,
-    "count": 12,
-    "top_news": "https://www.epc.eu/publication/i-had-a-ringside-seat-for-the-iranian-revolution-foreign-meddling-didnt-work-then-either/",
+    "risk_score": 21.02,
+    "count": 23,
+    "top_news": "https://www.express.co.uk/news/world/2184461/dubai-dream-dies-property-bubble-iran-war",
     "event_codes": {
-      "19": 8,
-      "15": 2,
-      "17": 2
+      "19": 15,
+      "14": 4,
+      "18": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "publication",
-      "had",
-      "ringside",
-      "seat",
-      "for",
-      "the",
-      "iranian",
-      "revolution",
-      "foreign",
-      "meddling",
-      "didnt",
-      "work",
-      "then",
-      "either"
+      "news",
+      "world",
+      "2184461",
+      "dubai",
+      "dream",
+      "dies",
+      "property",
+      "bubble",
+      "iran",
+      "war"
     ]
   },
-  "SYR": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/",
+  "ISR": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.hindustantimes.com/ht-insight/international-affairs/shifting-dynamics-in-the-strait-of-bab-almandab-101774002552125.html",
     "event_codes": {
-      "19": 6,
-      "16": 3,
-      "18": 1
+      "19": 12
     },
     "keywords": [
-      "2026",
-      "why",
-      "did",
+      "insight",
+      "international",
+      "affairs",
+      "shifting",
+      "dynamics",
       "the",
-      "united",
-      "states",
-      "lift",
-      "sanctions",
-      "assads",
-      "chemical",
-      "weapons",
-      "scientists"
+      "strait",
+      "bab",
+      "almandab",
+      "101774002552125.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.marketscreener.com/news/battle-of-the-barrel-ce7e5edfda8ff525",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "battle",
+      "the",
+      "barrel",
+      "ce7e5edfda8ff525"
     ]
   }
 }
