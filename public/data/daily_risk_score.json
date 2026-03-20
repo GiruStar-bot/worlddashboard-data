@@ -1,64 +1,187 @@
 {
-  "IRN": {
-    "risk_score": 23.7,
-    "count": 25,
-    "top_news": "https://www.pasadenastarnews.com/2026/03/20/iran-us-war-three-weeks/",
+  "ARE": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.worldpoliticsreview.com/us-iran-war-gulf-states-security-alliance/",
     "event_codes": {
-      "19": 20,
-      "18": 3,
-      "14": 1,
-      "16": 1
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "gulf",
+      "states",
+      "security",
+      "alliance"
+    ]
+  },
+  "IRN": {
+    "risk_score": 18.97,
+    "count": 21,
+    "top_news": "https://cyprus-mail.com/2026/03/20/us-sending-marines-and-amphibious-assault-ship-to-middle-east-officials-say",
+    "event_codes": {
+      "19": 14,
+      "14": 5,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "iran",
-      "war",
-      "three",
-      "weeks"
+      "sending",
+      "marines",
+      "and",
+      "amphibious",
+      "assault",
+      "ship",
+      "middle",
+      "east",
+      "officials",
+      "say"
     ]
   },
-  "ISR": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.bnnbloomberg.ca/business/international/2026/03/20/irans-military-warns-parks-recreational-areas-and-tourist-destinations-worldwide-wont-be-safe-for-enemies/",
+  "IRQ": {
+    "risk_score": 4.92,
+    "count": 5,
+    "top_news": "https://kdhnews.com/business/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-3-weeks-into/article_3ffb0a1d-ae05-54a4-a340-cc48c2875ea8.html",
     "event_codes": {
-      "19": 6,
+      "19": 4,
       "17": 1
     },
     "keywords": [
       "business",
-      "international",
-      "2026",
-      "irans",
-      "military",
-      "warns",
-      "parks",
-      "recreational",
-      "areas",
+      "iran",
+      "threatens",
+      "world",
+      "tourism",
+      "sites",
       "and",
-      "tourist",
-      "destinations",
-      "worldwide",
-      "wont",
-      "safe",
-      "for",
-      "enemies"
+      "says",
+      "still",
+      "building",
+      "missiles",
+      "weeks",
+      "into",
+      "article",
+      "3ffb0a1d",
+      "ae05",
+      "54a4",
+      "a340",
+      "cc48c2875ea8.html"
     ]
   },
-  "NGA": {
-    "risk_score": 3.25,
-    "count": 5,
-    "top_news": "https://blueprint.ng/kukah-reflections-of-wisdom-from-a-shepherds-heart/",
+  "ISR": {
+    "risk_score": 13.0,
+    "count": 15,
+    "top_news": "https://kdhnews.com/business/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-3-weeks-into/article_3ffb0a1d-ae05-54a4-a340-cc48c2875ea8.html",
     "event_codes": {
-      "14": 5
+      "19": 10,
+      "17": 4,
+      "18": 1
     },
     "keywords": [
-      "kukah",
-      "reflections",
-      "wisdom",
-      "from",
-      "shepherds",
-      "heart"
+      "business",
+      "iran",
+      "threatens",
+      "world",
+      "tourism",
+      "sites",
+      "and",
+      "says",
+      "still",
+      "building",
+      "missiles",
+      "weeks",
+      "into",
+      "article",
+      "3ffb0a1d",
+      "ae05",
+      "54a4",
+      "a340",
+      "cc48c2875ea8.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/tvshowbiz/article-15664963/Pregnant-Sophie-Kasaei-says-miserable-struggling-gender-disappointment-unborn-baby-gives-update-hospitalised-boyfriend-Jordan-Brooks.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "tvshowbiz",
+      "article",
+      "15664963",
+      "pregnant",
+      "sophie",
+      "kasaei",
+      "says",
+      "miserable",
+      "struggling",
+      "gender",
+      "disappointment",
+      "unborn",
+      "baby",
+      "gives",
+      "update",
+      "hospitalised",
+      "boyfriend",
+      "jordan",
+      "brooks.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dawn.com/news/1984103/eid-is-gone-for-us-war-displacement-cast-shadow-over-eid-holiday-in-lebanon",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "1984103",
+      "eid",
+      "gone",
+      "for",
+      "war",
+      "displacement",
+      "cast",
+      "shadow",
+      "over",
+      "eid",
+      "holiday",
+      "lebanon"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.wcnc.com/article/news/crime/salisbury-north-carolina-homicide-investigation-deadly-shooting-beard-street-march-19/275-9e05bce7-ec9a-4e36-9cd5-d57d89af68c8",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "news",
+      "crime",
+      "salisbury",
+      "north",
+      "carolina",
+      "homicide",
+      "investigation",
+      "deadly",
+      "shooting",
+      "beard",
+      "street",
+      "march",
+      "275",
+      "9e05bce7",
+      "ec9a",
+      "4e36",
+      "9cd5",
+      "d57d89af68c8"
     ]
   }
 }
