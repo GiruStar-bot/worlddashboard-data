@@ -1,109 +1,153 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/middle-east-war-latest-explosions-072526342.html",
+  "IRN": {
+    "risk_score": 28.8,
+    "count": 32,
+    "top_news": "https://www.greenleft.org.au/2026/1449/world/afghanistan-and-pakistan-war-neglected-world",
     "event_codes": {
-      "19": 2
+      "19": 24,
+      "17": 3,
+      "14": 2,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "articles",
-      "middle",
-      "east",
+      "2026",
+      "1449",
+      "world",
+      "afghanistan",
+      "and",
+      "pakistan",
       "war",
-      "latest",
-      "explosions",
-      "072526342.html"
+      "neglected",
+      "world"
     ]
   },
-  "IRN": {
-    "risk_score": 9.42,
-    "count": 10,
-    "top_news": "https://www.al-monitor.com/live-blog/iran-warns-attacks-global-tourist-sites-us-urges-citizens-leave-syria",
+  "IRQ": {
+    "risk_score": 3.65,
+    "count": 5,
+    "top_news": "https://www.reflector.com/news/national/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-3-weeks-into/article_a253eb53-c7f4-57fd-88b1-21e011748058.html",
     "event_codes": {
-      "19": 8,
-      "17": 2
+      "17": 2,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "live",
-      "blog",
+      "news",
+      "national",
       "iran",
-      "warns",
-      "attacks",
-      "global",
-      "tourist",
+      "threatens",
+      "world",
+      "tourism",
       "sites",
-      "urges",
-      "citizens",
-      "leave",
-      "syria"
+      "and",
+      "says",
+      "still",
+      "building",
+      "missiles",
+      "weeks",
+      "into",
+      "article",
+      "a253eb53",
+      "c7f4",
+      "57fd",
+      "88b1",
+      "21e011748058.html"
     ]
   },
   "ISR": {
-    "risk_score": 12.8,
-    "count": 14,
-    "top_news": "https://www.al-monitor.com/live-blog/iran-warns-attacks-global-tourist-sites-us-urges-citizens-leave-syria",
+    "risk_score": 24.25,
+    "count": 26,
+    "top_news": "https://www.reflector.com/news/national/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-3-weeks-into/article_a253eb53-c7f4-57fd-88b1-21e011748058.html",
     "event_codes": {
-      "19": 8,
-      "18": 4,
-      "14": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "iran",
-      "warns",
-      "attacks",
-      "global",
-      "tourist",
-      "sites",
-      "urges",
-      "citizens",
-      "leave",
-      "syria"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "https://www.forbes.com/sites/unicefusa/2026/03/20/over-1800-children-killed-or-injured-as-middle-east-conflict-deepens/",
-    "event_codes": {
+      "19": 20,
       "18": 3,
-      "19": 3
+      "17": 2,
+      "14": 1
     },
     "keywords": [
+      "news",
+      "national",
+      "iran",
+      "threatens",
+      "world",
+      "tourism",
       "sites",
-      "unicefusa",
-      "2026",
-      "over",
-      "1800",
-      "children",
-      "killed",
-      "injured",
-      "middle",
-      "east",
-      "conflict",
-      "deepens"
+      "and",
+      "says",
+      "still",
+      "building",
+      "missiles",
+      "weeks",
+      "into",
+      "article",
+      "a253eb53",
+      "c7f4",
+      "57fd",
+      "88b1",
+      "21e011748058.html"
     ]
   },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://abcnews.com/International/south-pars-largest-natural-gas-field-world-lifeline/story?id=131217943",
+  "LBN": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://www.reflector.com/news/national/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-3-weeks-into/article_a253eb53-c7f4-57fd-88b1-21e011748058.html",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "14": 1
     },
     "keywords": [
-      "international",
-      "south",
-      "pars",
-      "largest",
-      "natural",
-      "gas",
-      "field",
+      "news",
+      "national",
+      "iran",
+      "threatens",
       "world",
-      "lifeline",
-      "story"
+      "tourism",
+      "sites",
+      "and",
+      "says",
+      "still",
+      "building",
+      "missiles",
+      "weeks",
+      "into",
+      "article",
+      "a253eb53",
+      "c7f4",
+      "57fd",
+      "88b1",
+      "21e011748058.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.hindustantimes.com/world-news/five-oclock-follies-iran-says-its-vietnam-redux-for-us-what-that-means-when-abbas-araghchi-says-iran-winning-101774024981513.html",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "five",
+      "oclock",
+      "follies",
+      "iran",
+      "says",
+      "its",
+      "vietnam",
+      "redux",
+      "for",
+      "what",
+      "that",
+      "means",
+      "when",
+      "abbas",
+      "araghchi",
+      "says",
+      "iran",
+      "winning",
+      "101774024981513.html"
     ]
   }
 }
