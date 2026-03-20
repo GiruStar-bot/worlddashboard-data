@@ -1,87 +1,230 @@
 {
   "IRN": {
-    "risk_score": 11.54,
-    "count": 13,
-    "top_news": "https://www.irishmirror.ie/news/world-news/teen-publicly-executed-iran-over-36896832",
+    "risk_score": 24.47,
+    "count": 26,
+    "top_news": "https://www.dailymail.co.uk/sciencetech/article-15664239/US-stealth-jets-F35-Experts.html",
     "event_codes": {
-      "19": 6,
+      "19": 18,
       "18": 4,
-      "15": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "teen",
-      "publicly",
-      "executed",
-      "iran",
-      "over",
-      "36896832"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.8,
-    "count": 12,
-    "top_news": "https://www.pressdemocrat.com/2026/03/20/brownstein-netanyahu-won-trump-but-hes-losing-america/",
-    "event_codes": {
-      "19": 9,
-      "18": 2,
-      "20": 1
-    },
-    "keywords": [
-      "2026",
-      "brownstein",
-      "netanyahu",
-      "won",
-      "trump",
-      "but",
-      "hes",
-      "losing",
-      "america"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.22,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/03/20/soldiers-stopping-us-from-burying-killed-relatives-cross-river-community-cries-out/",
-    "event_codes": {
-      "17": 3,
+      "17": 2,
+      "14": 1,
       "15": 1
     },
     "keywords": [
-      "2026",
-      "soldiers",
-      "stopping",
-      "from",
-      "burying",
-      "killed",
-      "relatives",
-      "cross",
-      "river",
-      "community",
-      "cries",
-      "out"
+      "sciencetech",
+      "article",
+      "15664239",
+      "stealth",
+      "jets",
+      "f35",
+      "experts.html"
     ]
   },
-  "ZWE": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://www.theindependent.co.zw/local-news/article/200052894/bloodbath-in-zims-lithium-fields",
+  "ISR": {
+    "risk_score": 21.47,
+    "count": 22,
+    "top_news": "https://yalibnan.com/2026/03/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-civilians-were-attacked/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 19,
+      "15": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "local",
-      "news",
+      "2026",
+      "israel",
+      "says",
+      "hit",
+      "syrian",
+      "army",
+      "camps",
+      "the",
+      "south",
+      "after",
+      "druze",
+      "civilians",
+      "were",
+      "attacked"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.standardmedia.co.ke/national/article/2001543500/lightning-kills-one-in-kilifi",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "national",
       "article",
-      "200052894",
-      "bloodbath",
-      "zims",
-      "lithium",
-      "fields"
+      "2001543500",
+      "lightning",
+      "kills",
+      "one",
+      "kilifi"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.ibtimes.co.in/usiran-war-update-enemies-security-must-be-taken-away-says-mojtaba-khamenei-irgc-spokesman-899667",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "usiran",
+      "war",
+      "update",
+      "enemies",
+      "security",
+      "must",
+      "taken",
+      "away",
+      "says",
+      "mojtaba",
+      "khamenei",
+      "irgc",
+      "spokesman",
+      "899667"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.9,
+    "count": 6,
+    "top_news": "https://www.dailyexcelsior.com/iran-hits-kuwaiti-oil-refinery-and-explosions-boom-over-tehran-from-israeli-attack/",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "iran",
+      "hits",
+      "kuwaiti",
+      "oil",
+      "refinery",
+      "and",
+      "explosions",
+      "boom",
+      "over",
+      "tehran",
+      "from",
+      "israeli",
+      "attack"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.84,
+    "count": 3,
+    "top_news": "https://www.trend.az/azerbaijan/business/4167419.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "azerbaijan",
+      "business",
+      "4167419.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.nbcdfw.com/news/national-international/the-latest-tehran-still-building-missiles-war-will-go-on/3999138/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
+      "the",
+      "latest",
+      "tehran",
+      "still",
+      "building",
+      "missiles",
+      "war",
+      "will",
+      "3999138"
+    ]
+  },
+  "TCD": {
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/new-war-fears-terror-attack-36899054",
+    "event_codes": {
+      "17": 4,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "latest",
+      "news",
+      "new",
+      "war",
+      "fears",
+      "terror",
+      "attack",
+      "36899054"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newsx.com/world/why-has-al-aqsa-mosque-been-closed-for-eid-prayers-hundreds-gather-outside-jerusalems-holy-site-tear-gas-fired-as-worshippers-clash-with-police-israel-moon-sighting-eid-prayers-185956/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "why",
+      "has",
+      "aqsa",
+      "mosque",
+      "been",
+      "closed",
+      "for",
+      "eid",
+      "prayers",
+      "hundreds",
+      "gather",
+      "outside",
+      "jerusalems",
+      "holy",
+      "site",
+      "tear",
+      "gas",
+      "fired",
+      "worshippers",
+      "clash",
+      "with",
+      "police",
+      "israel",
+      "moon",
+      "sighting",
+      "eid",
+      "prayers",
+      "185956"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/sciencetech/article-15664239/US-stealth-jets-F35-Experts.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "sciencetech",
+      "article",
+      "15664239",
+      "stealth",
+      "jets",
+      "f35",
+      "experts.html"
     ]
   }
 }
