@@ -1,42 +1,135 @@
 {
-  "IRN": {
-    "risk_score": 5.01,
-    "count": 7,
-    "top_news": "https://www.thejournal.ie/trump-us-consideing-winding-down-war-iran-strait-hormuz-6991015-Mar2026/",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.nbcwashington.com/news/local/northern-virginia/one-of-four-men-charged-in-murder-for-hire-plot-testifies-against-another/4079097/",
     "event_codes": {
-      "16": 3,
-      "19": 3,
-      "14": 1
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "local",
+      "northern",
+      "virginia",
+      "one",
+      "four",
+      "men",
+      "charged",
+      "murder",
+      "for",
+      "hire",
+      "plot",
+      "testifies",
+      "against",
+      "another",
+      "4079097"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.67,
+    "count": 14,
+    "top_news": "https://www.newsweek.com/trump-says-us-may-wind-down-middle-east-military-operation-11713936",
+    "event_codes": {
+      "19": 11,
+      "18": 2,
+      "15": 1
     },
     "keywords": [
       "trump",
-      "consideing",
-      "winding",
+      "says",
+      "may",
+      "wind",
       "down",
-      "war",
-      "iran",
-      "strait",
-      "hormuz",
-      "6991015",
-      "mar2026"
+      "middle",
+      "east",
+      "military",
+      "operation",
+      "11713936"
     ]
   },
   "ISR": {
-    "risk_score": 4.49,
-    "count": 6,
-    "top_news": "https://www.washingtoninstitute.org/policy-analysis/can-hezbollah-be-dismantled",
+    "risk_score": 5.55,
+    "count": 7,
+    "top_news": "https://www.newsweek.com/trump-says-us-may-wind-down-middle-east-military-operation-11713936",
     "event_codes": {
-      "15": 2,
-      "19": 2,
+      "19": 3,
+      "17": 2,
       "14": 1,
-      "16": 1
+      "18": 1
     },
     "keywords": [
-      "policy",
-      "analysis",
-      "can",
-      "hezbollah",
-      "dismantled"
+      "trump",
+      "says",
+      "may",
+      "wind",
+      "down",
+      "middle",
+      "east",
+      "military",
+      "operation",
+      "11713936"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.fox32chicago.com/news/chicago-police-officer-relieved-of-powers-after-fatal-humboldt-park-shooting",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "chicago",
+      "police",
+      "officer",
+      "relieved",
+      "powers",
+      "after",
+      "fatal",
+      "humboldt",
+      "park",
+      "shooting"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newsweek.com/trump-says-us-may-wind-down-middle-east-military-operation-11713936",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "trump",
+      "says",
+      "may",
+      "wind",
+      "down",
+      "middle",
+      "east",
+      "military",
+      "operation",
+      "11713936"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newsweek.com/trump-says-us-may-wind-down-middle-east-military-operation-11713936",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "trump",
+      "says",
+      "may",
+      "wind",
+      "down",
+      "middle",
+      "east",
+      "military",
+      "operation",
+      "11713936"
     ]
   }
 }
