@@ -1,81 +1,158 @@
 {
-  "ARE": {
+  "ECU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.express.co.uk/news/world/2184461/dubai-dream-dies-property-bubble-iran-war",
+    "top_news": "https://theintercept.com/2026/03/19/trump-world-wars-iran-somalia-boat-strikes/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
+      "2026",
+      "trump",
       "world",
-      "2184461",
-      "dubai",
-      "dream",
-      "dies",
-      "property",
-      "bubble",
+      "wars",
       "iran",
-      "war"
+      "somalia",
+      "boat",
+      "strikes"
     ]
   },
   "IRN": {
-    "risk_score": 21.02,
-    "count": 23,
-    "top_news": "https://www.express.co.uk/news/world/2184461/dubai-dream-dies-property-bubble-iran-war",
+    "risk_score": 13.95,
+    "count": 18,
+    "top_news": "https://ktar.com/national-news/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/5838139/",
     "event_codes": {
-      "19": 15,
-      "14": 4,
-      "18": 2,
-      "15": 1,
-      "17": 1
+      "19": 7,
+      "15": 5,
+      "16": 2,
+      "17": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
+      "national",
       "news",
-      "world",
-      "2184461",
-      "dubai",
-      "dream",
-      "dies",
-      "property",
-      "bubble",
+      "pete",
+      "hegseths",
+      "christian",
+      "rhetoric",
+      "draws",
+      "renewed",
+      "scrutiny",
+      "after",
+      "the",
+      "goes",
+      "war",
+      "with",
       "iran",
-      "war"
+      "5838139"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theglobeandmail.com/business/commentary/article-trump-maga-joe-kent/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "business",
+      "commentary",
+      "article",
+      "trump",
+      "maga",
+      "joe",
+      "kent"
     ]
   },
   "ISR": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://www.hindustantimes.com/ht-insight/international-affairs/shifting-dynamics-in-the-strait-of-bab-almandab-101774002552125.html",
+    "risk_score": 15.1,
+    "count": 18,
+    "top_news": "https://www.spacewar.com/afp/260320103746.od6po111.html",
     "event_codes": {
-      "19": 12
+      "19": 10,
+      "15": 5,
+      "17": 3
     },
     "keywords": [
-      "insight",
-      "international",
-      "affairs",
-      "shifting",
-      "dynamics",
-      "the",
-      "strait",
-      "bab",
-      "almandab",
-      "101774002552125.html"
+      "afp",
+      "260320103746.od6po111.html"
     ]
   },
-  "QAT": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.marketscreener.com/news/battle-of-the-barrel-ce7e5edfda8ff525",
+  "LBN": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.newsweek.com/israel-removing-hezbollah-would-be-its-biggest-victory-in-decades-11706721",
     "event_codes": {
-      "19": 5
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "battle",
-      "the",
-      "barrel",
-      "ce7e5edfda8ff525"
+      "israel",
+      "removing",
+      "hezbollah",
+      "would",
+      "its",
+      "biggest",
+      "victory",
+      "decades",
+      "11706721"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newsweek.com/israel-removing-hezbollah-would-be-its-biggest-victory-in-decades-11706721",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "removing",
+      "hezbollah",
+      "would",
+      "its",
+      "biggest",
+      "victory",
+      "decades",
+      "11706721"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theintercept.com/2026/03/19/trump-world-wars-iran-somalia-boat-strikes/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "world",
+      "wars",
+      "iran",
+      "somalia",
+      "boat",
+      "strikes"
+    ]
+  },
+  "SOM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://theintercept.com/2026/03/19/trump-world-wars-iran-somalia-boat-strikes/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "world",
+      "wars",
+      "iran",
+      "somalia",
+      "boat",
+      "strikes"
     ]
   }
 }
