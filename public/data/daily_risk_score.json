@@ -1,63 +1,107 @@
 {
-  "IRN": {
-    "risk_score": 17.62,
-    "count": 20,
-    "top_news": "https://www.dawn.com/news/1977184/widespread-protests-held-across-sindh-over-khameneis-assassination",
+  "CHL": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.unionleader.com/opinion/op-eds/christian-urrutia-andru-volinsky-political-violence-is-a-problem-in-nh/article_99439d59-15b5-44fe-8fe0-d3bfe817fd7d.html",
     "event_codes": {
-      "19": 10,
-      "14": 6,
-      "18": 3,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "1977184",
-      "widespread",
-      "protests",
-      "held",
-      "across",
-      "sindh",
-      "over",
-      "khameneis",
-      "assassination"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.8,
-    "count": 10,
-    "top_news": "https://www.thecitizen.in/opinion/arab-regimes-lost-in-pro-israel-gamblehighlight-1266711",
-    "event_codes": {
-      "14": 6,
-      "19": 3,
+      "19": 2,
       "18": 1
     },
     "keywords": [
       "opinion",
-      "arab",
-      "regimes",
-      "lost",
-      "pro",
-      "israel",
-      "gamblehighlight",
-      "1266711"
+      "eds",
+      "christian",
+      "urrutia",
+      "andru",
+      "volinsky",
+      "political",
+      "violence",
+      "problem",
+      "article",
+      "99439d59",
+      "15b5",
+      "44fe",
+      "8fe0",
+      "d3bfe817fd7d.html"
     ]
   },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://theshillongtimes.com/2026/03/20/oil-spikes-as-iran-hits-gulf-energy-site/",
+  "IRN": {
+    "risk_score": 8.72,
+    "count": 11,
+    "top_news": "https://www.moneycontrol.com/world/empty-hall-or-something-more-iaea-has-many-questions-on-iran-s-underground-nuclear-site-article-13865795.html",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "17": 3,
+      "14": 2,
+      "15": 1
     },
     "keywords": [
-      "2026",
-      "oil",
-      "spikes",
+      "world",
+      "empty",
+      "hall",
+      "something",
+      "more",
+      "iaea",
+      "has",
+      "many",
+      "questions",
       "iran",
-      "hits",
-      "gulf",
-      "energy",
-      "site"
+      "underground",
+      "nuclear",
+      "site",
+      "article",
+      "13865795.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.65,
+    "count": 14,
+    "top_news": "https://www.moneycontrol.com/world/day-after-pledging-no-more-strikes-israel-pounds-tehran-with-airstrikes-as-iranians-observe-nowruz-article-13865784.html",
+    "event_codes": {
+      "19": 12,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "day",
+      "after",
+      "pledging",
+      "more",
+      "strikes",
+      "israel",
+      "pounds",
+      "tehran",
+      "with",
+      "airstrikes",
+      "iranians",
+      "observe",
+      "nowruz",
+      "article",
+      "13865784.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.84,
+    "count": 5,
+    "top_news": "https://www.surinametimes.com/artikel/trump-threatens-to-blow-up-entirety-of-major-iran-gas-field-if-it-attacks-qatar-again",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "artikel",
+      "trump",
+      "threatens",
+      "blow",
+      "entirety",
+      "major",
+      "iran",
+      "gas",
+      "field",
+      "attacks",
+      "qatar",
+      "again"
     ]
   }
 }
