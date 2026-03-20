@@ -1,85 +1,87 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.denverpost.com/2026/03/20/iran-us-war-three-weeks/",
+  "IRN": {
+    "risk_score": 13.95,
+    "count": 15,
+    "top_news": "https://www.mediaite.com/media/news/thugs-and-animals-trump-reacts-to-irans-latest-round-of-executions/",
     "event_codes": {
-      "19": 2
+      "19": 10,
+      "18": 3,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "iran",
-      "war",
-      "three",
-      "weeks"
+      "media",
+      "news",
+      "thugs",
+      "and",
+      "animals",
+      "trump",
+      "reacts",
+      "irans",
+      "latest",
+      "round",
+      "executions"
     ]
   },
-  "IRN": {
-    "risk_score": 23.11,
-    "count": 31,
-    "top_news": "https://aninews.in/news/world/middle-east/a-stupid-war-launched-by-israel-austrian-analyst-tom-cooper-on-west-asia-conflict20260321012006/",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://thefrontierpost.com/iran-war-forces-nato-to-shift-iraq-mission-to-europe/",
     "event_codes": {
-      "17": 13,
-      "19": 12,
-      "14": 5,
-      "16": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "stupid",
+      "iran",
       "war",
-      "launched",
-      "israel",
-      "austrian",
-      "analyst",
-      "tom",
-      "cooper",
-      "west",
-      "asia",
-      "conflict20260321012006"
+      "forces",
+      "nato",
+      "shift",
+      "iraq",
+      "mission",
+      "europe"
     ]
   },
   "ISR": {
-    "risk_score": 10.62,
+    "risk_score": 10.05,
     "count": 13,
-    "top_news": "https://jweekly.com/2026/03/20/rabbinic-burnout-no-blood-libel-at-sonoma-state-iran-campaign-is-good/",
+    "top_news": "https://dominicanrepublicpost.com/iranians-celebrate-persian-new-year-in-first-wartime-nowruz-in-decades/",
     "event_codes": {
-      "18": 4,
-      "19": 4,
-      "14": 2,
-      "17": 2,
-      "15": 1
+      "19": 6,
+      "17": 5,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "rabbinic",
-      "burnout",
-      "blood",
-      "libel",
-      "sonoma",
-      "state",
-      "iran",
-      "campaign",
-      "good"
+      "iranians",
+      "celebrate",
+      "persian",
+      "new",
+      "year",
+      "first",
+      "wartime",
+      "nowruz",
+      "decades"
     ]
   },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://www.nigerianeye.com/2026/03/kano-government-moves-to-compensate.html",
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.wtvq.com/berea-man-sentenced-to-prison-after-pointing-gun-at-officers-during-domestic-call/",
     "event_codes": {
-      "17": 4,
-      "19": 2
+      "17": 5
     },
     "keywords": [
-      "2026",
-      "kano",
-      "government",
-      "moves",
-      "compensate.html"
+      "berea",
+      "man",
+      "sentenced",
+      "prison",
+      "after",
+      "pointing",
+      "gun",
+      "officers",
+      "during",
+      "domestic",
+      "call"
     ]
   }
 }
