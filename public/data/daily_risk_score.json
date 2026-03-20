@@ -1,120 +1,103 @@
 {
-  "BHR": {
+  "IRN": {
+    "risk_score": 11.74,
+    "count": 13,
+    "top_news": "https://www.orissapost.com/irans-new-leader-mojtaba-khamenei-vows-to-strip-enemies-security/",
+    "event_codes": {
+      "19": 8,
+      "15": 2,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "irans",
+      "new",
+      "leader",
+      "mojtaba",
+      "khamenei",
+      "vows",
+      "strip",
+      "enemies",
+      "security"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.reviewjournal.com/opinion/editorials/editorial-kents-grandstanding-claims-dont-withstand-scrutiny-3727262/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "opinion",
+      "editorials",
+      "editorial",
+      "kents",
+      "grandstanding",
+      "claims",
+      "dont",
+      "withstand",
+      "scrutiny",
+      "3727262"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.reviewjournal.com/opinion/editorials/editorial-kents-grandstanding-claims-dont-withstand-scrutiny-3727262/",
+    "event_codes": {
+      "19": 8,
+      "18": 1
+    },
+    "keywords": [
+      "opinion",
+      "editorials",
+      "editorial",
+      "kents",
+      "grandstanding",
+      "claims",
+      "dont",
+      "withstand",
+      "scrutiny",
+      "3727262"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://thefrontierpost.com/drone-attack-causes-fire-at-kuwait-oil-refinery-state-media/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "drone",
+      "attack",
+      "causes",
+      "fire",
+      "kuwait",
+      "oil",
+      "refinery",
+      "state",
+      "media"
+    ]
+  },
+  "QAT": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://cyprus-mail.com/2026/03/20/fresh-israeli-strikes-on-iran-widen-conflict-after-trump-warning",
+    "top_news": "https://www.jacarandafm.com/news/news/netanyahu-says-iran-decimated-targets-gulf-facilities/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "2026",
-      "fresh",
-      "israeli",
-      "strikes",
+      "news",
+      "news",
+      "netanyahu",
+      "says",
       "iran",
-      "widen",
-      "conflict",
-      "after",
-      "trump",
-      "warning"
-    ]
-  },
-  "IRN": {
-    "risk_score": 15.0,
-    "count": 15,
-    "top_news": "https://www.watoday.com.au/world/middle-east/israel-launches-more-attacks-on-iran-as-crisis-deepens-20260320-p5reqr.html",
-    "event_codes": {
-      "19": 15
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "launches",
-      "more",
-      "attacks",
-      "iran",
-      "crisis",
-      "deepens",
-      "20260320",
-      "p5reqr.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dw.com/en/drone-defense-in-the-iran-war-what-can-ukraine-offer/a-76410396",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "drone",
-      "defense",
-      "the",
-      "iran",
-      "war",
-      "what",
-      "can",
-      "ukraine",
-      "offer",
-      "76410396"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.watoday.com.au/world/middle-east/israel-launches-more-attacks-on-iran-as-crisis-deepens-20260320-p5reqr.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "launches",
-      "more",
-      "attacks",
-      "iran",
-      "crisis",
-      "deepens",
-      "20260320",
-      "p5reqr.html"
-    ]
-  },
-  "MMR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.bssnews.net/business/370405",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "business",
-      "370405"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.watoday.com.au/world/middle-east/israel-launches-more-attacks-on-iran-as-crisis-deepens-20260320-p5reqr.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "launches",
-      "more",
-      "attacks",
-      "iran",
-      "crisis",
-      "deepens",
-      "20260320",
-      "p5reqr.html"
+      "decimated",
+      "targets",
+      "gulf",
+      "facilities"
     ]
   }
 }
