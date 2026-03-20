@@ -1,155 +1,137 @@
 {
-  "IRN": {
-    "risk_score": 43.59,
-    "count": 47,
-    "top_news": "https://www.ironmountaindailynews.com/news/2026/03/iran-escalates-attacks-on-gulf-energy-sites/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15661857/Dubai-property-bubble-bursts-Irans-attacks-make-unsellable.html",
     "event_codes": {
-      "19": 28,
-      "18": 9,
-      "14": 5,
-      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15661857",
+      "dubai",
+      "property",
+      "bubble",
+      "bursts",
+      "irans",
+      "attacks",
+      "make",
+      "unsellable.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.76,
+    "count": 25,
+    "top_news": "https://www.dailymail.co.uk/news/article-15661857/Dubai-property-bubble-bursts-Irans-attacks-make-unsellable.html",
+    "event_codes": {
+      "19": 15,
+      "15": 3,
+      "14": 2,
       "17": 2,
+      "18": 2,
       "16": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "iran",
-      "escalates",
+      "article",
+      "15661857",
+      "dubai",
+      "property",
+      "bubble",
+      "bursts",
+      "irans",
       "attacks",
-      "gulf",
-      "energy",
-      "sites"
+      "make",
+      "unsellable.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://abcnews.com/Politics/pentagon-plans-national-guard-dc-2029-2-us/story?id=131234530",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "politics",
+      "pentagon",
+      "plans",
+      "national",
+      "guard",
+      "2029",
+      "story"
     ]
   },
   "ISR": {
-    "risk_score": 29.11,
-    "count": 32,
-    "top_news": "https://www.nzherald.co.nz/world/russia-accuses-israel-of-targeted-strike-that-wounded-rt-crew-in-lebanon/GB5SPXLO3NG2TBLEILFAN2JLRA/",
+    "risk_score": 17.64,
+    "count": 19,
+    "top_news": "https://www.rnz.co.nz/news/world/590171/us-israel-tactics-diverge-on-iran-as-trump-s-goals-still-fuzzy",
     "event_codes": {
-      "19": 16,
-      "17": 5,
-      "15": 4,
-      "18": 4,
-      "14": 1,
-      "16": 1,
-      "20": 1
+      "19": 13,
+      "16": 4,
+      "15": 2
     },
     "keywords": [
+      "news",
       "world",
-      "russia",
-      "accuses",
+      "590171",
       "israel",
-      "targeted",
-      "strike",
-      "that",
-      "wounded",
-      "crew",
-      "lebanon",
-      "gb5spxlo3ng2tbleilfan2jlra"
-    ]
-  },
-  "JOR": {
-    "risk_score": 5.35,
-    "count": 6,
-    "top_news": "https://www.chicagotribune.com/2026/03/19/chicago-police-officer-stripped-of-police-powers/",
-    "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "chicago",
-      "police",
-      "officer",
-      "stripped",
-      "police",
-      "powers"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://pjmedia.com/bryan-s-jung/2026/03/19/us-f-35-makes-an-emergency-landing-after-being-hit-by-iranian-fire-n4950846",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "bryan",
-      "jung",
-      "2026",
-      "makes",
-      "emergency",
-      "landing",
-      "after",
-      "being",
-      "hit",
-      "iranian",
-      "fire",
-      "n4950846"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://religionnews.com/2026/03/19/shuttered-stores-canceled-pilgrimages-can-bethlehems-christians-survive-another-easter/",
-    "event_codes": {
-      "16": 4
-    },
-    "keywords": [
-      "2026",
-      "shuttered",
-      "stores",
-      "canceled",
-      "pilgrimages",
-      "can",
-      "bethlehems",
-      "christians",
-      "survive",
-      "another",
-      "easter"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.channelnewsasia.com/world/netanyahu-iran-us-israel-war-zero-restraint-gulf-energy-strikes-6005151",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "netanyahu",
+      "tactics",
+      "diverge",
       "iran",
-      "israel",
-      "war",
-      "zero",
-      "restraint",
+      "trump",
+      "goals",
+      "still",
+      "fuzzy"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.keysnews.com/ap/business/iran-retaliates-against-gulf-energy-sites-as-stocks-sink-worldwide/article_2503d763-a40d-5653-b47c-68c2e1bc0b9a.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "business",
+      "iran",
+      "retaliates",
+      "against",
       "gulf",
       "energy",
-      "strikes",
-      "6005151"
+      "sites",
+      "stocks",
+      "sink",
+      "worldwide",
+      "article",
+      "2503d763",
+      "a40d",
+      "5653",
+      "b47c",
+      "68c2e1bc0b9a.html"
     ]
   },
-  "SAU": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/iran-regime-binyamin-netanyahu-mzwb8t0sm",
+  "THA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.dailymail.co.uk/news/article-15661857/Dubai-property-bubble-bursts-Irans-attacks-make-unsellable.html",
     "event_codes": {
-      "18": 2,
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
+      "news",
       "article",
-      "iran",
-      "regime",
-      "binyamin",
-      "netanyahu",
-      "mzwb8t0sm"
+      "15661857",
+      "dubai",
+      "property",
+      "bubble",
+      "bursts",
+      "irans",
+      "attacks",
+      "make",
+      "unsellable.html"
     ]
   }
 }
