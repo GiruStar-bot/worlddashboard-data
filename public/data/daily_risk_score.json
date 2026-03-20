@@ -1,106 +1,114 @@
 {
-  "AGO": {
-    "risk_score": 2.85,
-    "count": 4,
-    "top_news": "https://www.kpcnews.com/heraldrepublican/article_d296fd02-5d0a-4b30-a543-ce1e93d69d86.html",
+  "BHR": {
+    "risk_score": 4.8,
+    "count": 7,
+    "top_news": "https://truthout.org/articles/irans-retaliation-reignites-discontent-with-us-military-bases-in-middle-east/",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "14": 6,
+      "17": 1
     },
     "keywords": [
-      "heraldrepublican",
-      "article",
-      "d296fd02",
-      "5d0a",
-      "4b30",
-      "a543",
-      "ce1e93d69d86.html"
-    ]
-  },
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.tribuneindia.com/live-blog/world/iran-israel-war-live-updates-israel-says-it-will-hold-off-striking-key-iranian-natural-gas-field-as-war-rattles-energy-markets/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "world",
-      "iran",
-      "israel",
-      "war",
-      "live",
-      "updates",
-      "israel",
-      "says",
-      "will",
-      "hold",
-      "off",
-      "striking",
-      "key",
-      "iranian",
-      "natural",
-      "gas",
-      "field",
-      "war",
-      "rattles",
-      "energy",
-      "markets"
+      "articles",
+      "irans",
+      "retaliation",
+      "reignites",
+      "discontent",
+      "with",
+      "military",
+      "bases",
+      "middle",
+      "east"
     ]
   },
   "IRN": {
-    "risk_score": 12.92,
-    "count": 14,
-    "top_news": "https://www.pakistanlink.org/Headlines/March26/20/15.htm",
+    "risk_score": 16.84,
+    "count": 20,
+    "top_news": "https://www.nbr.co.nz/market-review/iran-knocks-out-natural-gas-eyes-shift-off-ai/",
     "event_codes": {
-      "19": 10,
-      "15": 1,
-      "16": 1,
-      "17": 1,
+      "19": 9,
+      "17": 4,
+      "18": 4,
+      "15": 2,
+      "16": 1
+    },
+    "keywords": [
+      "market",
+      "review",
+      "iran",
+      "knocks",
+      "out",
+      "natural",
+      "gas",
+      "eyes",
+      "shift",
+      "off"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 6.74,
+    "count": 7,
+    "top_news": "https://www.thenationalnews.com/opinion/comment/2026/03/20/iraq-baghdad-iran-israel-us-middle-east-war/",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
       "18": 1
     },
     "keywords": [
-      "headlines",
-      "march26",
-      "15.htm"
+      "opinion",
+      "comment",
+      "2026",
+      "iraq",
+      "baghdad",
+      "iran",
+      "israel",
+      "middle",
+      "east",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 56.42,
-    "count": 60,
-    "top_news": "https://kashmirlife.net/jpdcl-schedules-power-shutdown-in-several-areas-2-429034/",
+    "risk_score": 3.62,
+    "count": 5,
+    "top_news": "https://jordantimes.com/news/region/lebanon-state-media-says-israeli-jets-struck-southern-towns",
     "event_codes": {
-      "19": 42,
-      "17": 8,
-      "18": 8,
-      "15": 2
+      "19": 2,
+      "15": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "jpdcl",
-      "schedules",
-      "power",
-      "shutdown",
-      "several",
-      "areas",
-      "429034"
+      "news",
+      "region",
+      "lebanon",
+      "state",
+      "media",
+      "says",
+      "israeli",
+      "jets",
+      "struck",
+      "southern",
+      "towns"
     ]
   },
-  "PSE": {
-    "risk_score": 43.19,
-    "count": 45,
-    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-18-march-2026/",
+  "LBN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://jordantimes.com/news/region/lebanon-state-media-says-israeli-jets-struck-southern-towns",
     "event_codes": {
-      "19": 30,
-      "18": 11,
-      "17": 4
+      "19": 4
     },
     "keywords": [
-      "occupied",
-      "palestine",
-      "march",
-      "2026"
+      "news",
+      "region",
+      "lebanon",
+      "state",
+      "media",
+      "says",
+      "israeli",
+      "jets",
+      "struck",
+      "southern",
+      "towns"
     ]
   }
 }
