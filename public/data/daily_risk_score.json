@@ -1,49 +1,45 @@
 {
   "IRN": {
-    "risk_score": 7.0,
+    "risk_score": 6.47,
     "count": 7,
-    "top_news": "https://www.ynetnews.com/article/bypposh9wg",
+    "top_news": "http://www.editorandpublisher.com/stories/stars-and-stripes-defends-its-independence-amid-new-pentagon-pressures,260760",
     "event_codes": {
-      "19": 7
+      "19": 5,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "bypposh9wg"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.prokerala.com/news/articles/a1742016.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1742016.html"
+      "stories",
+      "stars",
+      "and",
+      "stripes",
+      "defends",
+      "its",
+      "independence",
+      "amid",
+      "new",
+      "pentagon",
+      "pressures,260760"
     ]
   },
   "NGA": {
-    "risk_score": 7.54,
-    "count": 9,
-    "top_news": "https://www.opinionnigeria.com/us-troops-in-nigeria-use-reaper-drones-for-intelligence-says-military/",
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://hallmarknews.com/nigeria-deepens-u-s-military-ties-as-200-troops-powerful-drones-arrive/",
     "event_codes": {
-      "18": 4,
-      "15": 2,
-      "19": 2,
-      "17": 1
+      "17": 4,
+      "19": 3
     },
     "keywords": [
-      "troops",
       "nigeria",
-      "use",
-      "reaper",
+      "deepens",
+      "military",
+      "ties",
+      "200",
+      "troops",
+      "powerful",
       "drones",
-      "for",
-      "intelligence",
-      "says",
-      "military"
+      "arrive"
     ]
   }
 }
