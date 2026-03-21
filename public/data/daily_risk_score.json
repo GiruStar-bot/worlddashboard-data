@@ -1,12 +1,12 @@
 {
   "IRN": {
-    "risk_score": 13.02,
-    "count": 14,
-    "top_news": "https://www.clactonandfrintongazette.co.uk/news/national/25956681.irans-main-nuclear-enrichment-site-hit-air-strike/",
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.eppingforestguardian.co.uk/news/national/25956681.irans-main-nuclear-enrichment-site-hit-air-strike/",
     "event_codes": {
-      "19": 11,
-      "16": 2,
-      "18": 1
+      "19": 3,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
       "news",
@@ -21,61 +21,70 @@
       "strike"
     ]
   },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4371600",
+  "ISR": {
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "https://www.israelnationalnews.com/news/424319",
     "event_codes": {
-      "19": 3
+      "19": 8
     },
     "keywords": [
-      "tag",
-      "index"
+      "news",
+      "424319"
     ]
   },
-  "ISR": {
-    "risk_score": 8.36,
-    "count": 10,
-    "top_news": "https://www.jns.org/news/u-s-news/iaea-irans-natanz-nuclear-enrichment-site-attacked",
+  "LBY": {
+    "risk_score": 2.34,
+    "count": 3,
+    "top_news": "https://gcaptain.com/libya-contracts-salvage-firm-to-secure-explosive-lng-carrier-arctic-metagaz/",
     "event_codes": {
-      "15": 3,
-      "18": 3,
-      "19": 3,
+      "17": 3
+    },
+    "keywords": [
+      "libya",
+      "contracts",
+      "salvage",
+      "firm",
+      "secure",
+      "explosive",
+      "lng",
+      "carrier",
+      "arctic",
+      "metagaz"
+    ]
+  },
+  "MMR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://dailypioneer.com/news/the-rising-security-challenges-in-northeast-india",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "news",
-      "iaea",
-      "irans",
-      "natanz",
-      "nuclear",
-      "enrichment",
-      "site",
-      "attacked"
+      "the",
+      "rising",
+      "security",
+      "challenges",
+      "northeast",
+      "india"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/865724-us-court-sentences-nigerian-to-seven-years-in-prison-for-email-fraud.html",
+  "TWN": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/03/22/2003854237",
     "event_codes": {
-      "17": 4
+      "17": 4,
+      "19": 1
     },
     "keywords": [
       "news",
-      "top",
-      "news",
-      "865724",
-      "court",
-      "sentences",
-      "nigerian",
-      "seven",
-      "years",
-      "prison",
-      "for",
-      "email",
-      "fraud.html"
+      "editorials",
+      "archives",
+      "2026",
+      "2003854237"
     ]
   }
 }
