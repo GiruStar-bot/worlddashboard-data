@@ -1,90 +1,49 @@
 {
   "IRN": {
-    "risk_score": 3.9,
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.ynetnews.com/article/bypposh9wg",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "article",
+      "bypposh9wg"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.eppingforestguardian.co.uk/news/national/25956681.irans-main-nuclear-enrichment-site-hit-air-strike/",
+    "top_news": "https://www.prokerala.com/news/articles/a1742016.html",
     "event_codes": {
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "19": 5
     },
     "keywords": [
       "news",
-      "national",
-      "25956681.irans",
-      "main",
-      "nuclear",
-      "enrichment",
-      "site",
-      "hit",
-      "air",
-      "strike"
+      "articles",
+      "a1742016.html"
     ]
   },
-  "ISR": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/424319",
+  "NGA": {
+    "risk_score": 7.54,
+    "count": 9,
+    "top_news": "https://www.opinionnigeria.com/us-troops-in-nigeria-use-reaper-drones-for-intelligence-says-military/",
     "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "news",
-      "424319"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://gcaptain.com/libya-contracts-salvage-firm-to-secure-explosive-lng-carrier-arctic-metagaz/",
-    "event_codes": {
-      "17": 3
-    },
-    "keywords": [
-      "libya",
-      "contracts",
-      "salvage",
-      "firm",
-      "secure",
-      "explosive",
-      "lng",
-      "carrier",
-      "arctic",
-      "metagaz"
-    ]
-  },
-  "MMR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://dailypioneer.com/news/the-rising-security-challenges-in-northeast-india",
-    "event_codes": {
+      "18": 4,
+      "15": 2,
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "the",
-      "rising",
-      "security",
-      "challenges",
-      "northeast",
-      "india"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.95,
-    "count": 5,
-    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/03/22/2003854237",
-    "event_codes": {
-      "17": 4,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "editorials",
-      "archives",
-      "2026",
-      "2003854237"
+      "troops",
+      "nigeria",
+      "use",
+      "reaper",
+      "drones",
+      "for",
+      "intelligence",
+      "says",
+      "military"
     ]
   }
 }
