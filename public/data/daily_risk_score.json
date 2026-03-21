@@ -1,123 +1,76 @@
 {
-  "CAF": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.cbc.ca/radio/asithappens/yema-lumumba-assassination-trial-9.7136710",
+  "IRN": {
+    "risk_score": 14.72,
+    "count": 15,
+    "top_news": "https://www.rawstory.com/mike-lee-2676530525/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 1
+      "19": 14,
+      "15": 1
     },
     "keywords": [
-      "radio",
-      "asithappens",
-      "yema",
-      "lumumba",
-      "assassination",
-      "trial",
-      "9.7136710"
+      "mike",
+      "lee",
+      "2676530525"
     ]
   },
-  "IRN": {
-    "risk_score": 11.24,
-    "count": 12,
-    "top_news": "https://theconservativetreehouse.com/blog/2026/03/21/iran-launches-intermediate-range-ballistic-missile-further-than-all-prior-capabilities/comment-page-1/",
+  "ISR": {
+    "risk_score": 20.4,
+    "count": 22,
+    "top_news": "https://www.spacewar.com/afp/260321200448.y94do6oc.html",
     "event_codes": {
-      "19": 8,
+      "19": 18,
       "17": 3,
       "18": 1
     },
     "keywords": [
-      "blog",
-      "2026",
-      "iran",
-      "launches",
-      "intermediate",
-      "range",
-      "ballistic",
-      "missile",
-      "further",
-      "than",
-      "all",
-      "prior",
-      "capabilities",
-      "comment",
-      "page"
+      "afp",
+      "260321200448.y94do6oc.html"
     ]
   },
-  "ISR": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.thv11.com/article/news/nation-world/trump-hints-at-wind-down-of-war-as-us-sends-more-troops-and-iran-threatens-tourism-sites/616-0e98d1f6-a881-43c5-91cb-ec1c6b671c23",
+  "LBY": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.afriquesenlutte.org/afrique-du-nord/libye/article/libya-whipped-beaten-and-hung-from",
     "event_codes": {
-      "19": 7,
-      "18": 2,
-      "17": 1
+      "17": 3,
+      "18": 1
     },
     "keywords": [
+      "afrique",
+      "nord",
+      "libye",
       "article",
-      "news",
-      "nation",
-      "world",
-      "trump",
-      "hints",
-      "wind",
-      "down",
-      "war",
-      "sends",
-      "more",
-      "troops",
+      "libya",
+      "whipped",
+      "beaten",
       "and",
-      "iran",
-      "threatens",
-      "tourism",
-      "sites",
-      "616",
-      "0e98d1f6",
-      "a881",
-      "43c5",
-      "91cb",
-      "ec1c6b671c23"
+      "hung",
+      "from"
     ]
   },
-  "NGA": {
-    "risk_score": 8.42,
-    "count": 10,
-    "top_news": "https://saharareporters.com/2026/03/21/gunmen-abduct-kano-local-govt-secretary-after-midnight-raid-residence",
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.elciudadano.com/en/palestinian-ambassador-highlights-escalating-colonialism-in-west-bank-settler-terrorism-under-the-guise-of-regional-warfare/03/21/",
     "event_codes": {
-      "19": 4,
-      "18": 3,
-      "17": 2,
-      "15": 1
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "gunmen",
-      "abduct",
-      "kano",
-      "local",
-      "govt",
-      "secretary",
-      "after",
-      "midnight",
-      "raid",
-      "residence"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/m-glad-dead-trump-reacts-203124682.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "articles",
-      "glad",
-      "dead",
-      "trump",
-      "reacts",
-      "203124682.html"
+      "palestinian",
+      "ambassador",
+      "highlights",
+      "escalating",
+      "colonialism",
+      "west",
+      "bank",
+      "settler",
+      "terrorism",
+      "under",
+      "the",
+      "guise",
+      "regional",
+      "warfare"
     ]
   }
 }
