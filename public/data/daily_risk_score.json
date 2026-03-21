@@ -1,89 +1,87 @@
 {
   "IRN": {
-    "risk_score": 20.37,
-    "count": 24,
-    "top_news": "https://dominicanrepublicpost.com/iran-war-whats-happening-on-day-22-of-us-israel-attacks/",
+    "risk_score": 19.33,
+    "count": 21,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/03/21/latest-developments-in-middle-east-war-3",
     "event_codes": {
-      "19": 13,
-      "17": 5,
-      "18": 3,
+      "19": 12,
+      "18": 4,
+      "15": 3,
       "14": 1,
-      "15": 1,
-      "16": 1
+      "17": 1
     },
     "keywords": [
-      "iran",
-      "war",
-      "whats",
-      "happening",
-      "day",
-      "israel",
-      "attacks"
+      "category",
+      "highlight",
+      "2026",
+      "latest",
+      "developments",
+      "middle",
+      "east",
+      "war"
     ]
   },
-  "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.el-balad.com/16887839",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "16887839"
-    ]
-  },
-  "NER": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.hindustantimes.com/world-news/while-iran-war-rages-whats-us-military-doing-in-this-african-nation-american-return-to-nigeria-explained-101774086997451.html",
+    "top_news": "https://www.gazetaexpress.com/en/Iraqi-intelligence-headquarters-attacked-with-drone--one-officer-killed/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
+      "iraqi",
+      "intelligence",
+      "headquarters",
+      "attacked",
+      "with",
+      "drone",
+      "one",
+      "officer",
+      "killed"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.88,
+    "count": 18,
+    "top_news": "https://aninews.in/news/world/middle-east/suspected-iranian-cluster-bomb-attack-damages-kindergarten-injures-people-in-israel20260321162116/",
+    "event_codes": {
+      "17": 7,
+      "19": 5,
+      "15": 3,
+      "18": 3
+    },
+    "keywords": [
       "news",
-      "while",
-      "iran",
-      "war",
-      "rages",
-      "whats",
-      "military",
-      "doing",
-      "this",
-      "african",
-      "nation",
-      "american",
-      "return",
-      "nigeria",
-      "explained",
-      "101774086997451.html"
+      "world",
+      "middle",
+      "east",
+      "suspected",
+      "iranian",
+      "cluster",
+      "bomb",
+      "attack",
+      "damages",
+      "kindergarten",
+      "injures",
+      "people",
+      "israel20260321162116"
     ]
   },
   "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hindustantimes.com/world-news/while-iran-war-rages-whats-us-military-doing-in-this-african-nation-american-return-to-nigeria-explained-101774086997451.html",
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://www.nigerianeye.com/2026/03/police-arrest-suspects-in-edo-school.html",
     "event_codes": {
-      "19": 3
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "news",
-      "while",
-      "iran",
-      "war",
-      "rages",
-      "whats",
-      "military",
-      "doing",
-      "this",
-      "african",
-      "nation",
-      "american",
-      "return",
-      "nigeria",
-      "explained",
-      "101774086997451.html"
+      "2026",
+      "police",
+      "arrest",
+      "suspects",
+      "edo",
+      "school.html"
     ]
   }
 }
