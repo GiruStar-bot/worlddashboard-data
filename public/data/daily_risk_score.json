@@ -1,122 +1,56 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260321/5d5c8de181b24ddb98429b6b018a4bee/c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "20260321",
-      "5d5c8de181b24ddb98429b6b018a4bee",
-      "c.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.mirror.co.uk/news/world-news/iran-issues-chilling-threat-uk-36903494",
+    "risk_score": 13.52,
+    "count": 14,
+    "top_news": "https://ianslive.in/pakistan-exploiting-religion-to-mask-its-savage-agenda-in-occupied-gilgit-baltistan-report--20260321191407",
     "event_codes": {
-      "19": 7,
+      "19": 10,
       "18": 2,
+      "14": 1,
       "17": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "iran",
-      "issues",
-      "chilling",
-      "threat",
-      "36903494"
+      "pakistan",
+      "exploiting",
+      "religion",
+      "mask",
+      "its",
+      "savage",
+      "agenda",
+      "occupied",
+      "gilgit",
+      "baltistan",
+      "report",
+      "20260321191407"
     ]
   },
-  "ISR": {
-    "risk_score": 5.05,
-    "count": 8,
-    "top_news": "https://www.dagelijksestandaard.nl/midden-oosten/israelisch-parlementslid-yitzhak-kroizer-eist-etnische-zuivering-en-annexatie-in-krankzinnig-tv-optreden",
-    "event_codes": {
-      "17": 6,
-      "14": 1,
-      "19": 1
-    },
-    "keywords": [
-      "midden",
-      "oosten",
-      "israelisch",
-      "parlementslid",
-      "yitzhak",
-      "kroizer",
-      "eist",
-      "etnische",
-      "zuivering",
-      "annexatie",
-      "krankzinnig",
-      "optreden"
-    ]
-  },
-  "JOR": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://jordantimes.com/news/local/rjaf-downs-35-of-36-missiles-drones-in-3rd-week-of-war-statement",
+    "top_news": "https://www.ynetnews.com/article/byxo6znqwe",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
+      "article",
+      "byxo6znqwe"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/03/21/local-government-secretary-abducted-by-gunmen-in-kano/",
+    "event_codes": {
+      "18": 6
+    },
+    "keywords": [
+      "2026",
       "local",
-      "rjaf",
-      "downs",
-      "missiles",
-      "drones",
-      "3rd",
-      "week",
-      "war",
-      "statement"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://english.news.cn/20260321/9af02df7d2d742158fde9e89dd000167/c.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "20260321",
-      "9af02df7d2d742158fde9e89dd000167",
-      "c.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://english.news.cn/africa/20260321/a8aebd6e0dc742f49736cb9630619767/c.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "africa",
-      "20260321",
-      "a8aebd6e0dc742f49736cb9630619767",
-      "c.html"
-    ]
-  },
-  "TCD": {
-    "risk_score": 6.88,
-    "count": 9,
-    "top_news": "https://english.news.cn/africa/20260321/a8aebd6e0dc742f49736cb9630619767/c.html",
-    "event_codes": {
-      "15": 4,
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "africa",
-      "20260321",
-      "a8aebd6e0dc742f49736cb9630619767",
-      "c.html"
+      "government",
+      "secretary",
+      "abducted",
+      "gunmen",
+      "kano"
     ]
   }
 }
