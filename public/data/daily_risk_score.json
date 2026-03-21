@@ -1,82 +1,157 @@
 {
-  "CAF": {
+  "EGY": {
+    "risk_score": 2.77,
+    "count": 4,
+    "top_news": "https://www.jns.org/analysis/egypt-walks-a-tightrope-between-iran-and-the-gulf",
+    "event_codes": {
+      "16": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "analysis",
+      "egypt",
+      "walks",
+      "tightrope",
+      "between",
+      "iran",
+      "and",
+      "the",
+      "gulf"
+    ]
+  },
+  "IDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.express.co.uk/news/world/2183069/worlds-biggest-gold-mine-airport",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2183069",
+      "worlds",
+      "biggest",
+      "gold",
+      "mine",
+      "airport"
+    ]
+  },
+  "IRN": {
+    "risk_score": 14.3,
+    "count": 15,
+    "top_news": "https://www.jns.org/analysis/egypt-walks-a-tightrope-between-iran-and-the-gulf",
+    "event_codes": {
+      "19": 12,
+      "14": 2,
+      "18": 1
+    },
+    "keywords": [
+      "analysis",
+      "egypt",
+      "walks",
+      "tightrope",
+      "between",
+      "iran",
+      "and",
+      "the",
+      "gulf"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.35,
+    "count": 11,
+    "top_news": "https://www.jns.org/analysis/egypt-walks-a-tightrope-between-iran-and-the-gulf",
+    "event_codes": {
+      "19": 6,
+      "18": 4,
+      "14": 1
+    },
+    "keywords": [
+      "analysis",
+      "egypt",
+      "walks",
+      "tightrope",
+      "between",
+      "iran",
+      "and",
+      "the",
+      "gulf"
+    ]
+  },
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://africa.com/congos-president-sassou-nguesso-secures-fifth-term/",
+    "top_news": "https://www.newsx.com/world/did-iranian-air-defences-down-a-hostile-israeli-f-16-fighter-jet-in-central-iran-irgc-makes-a-big-claim-as-west-asia-conflict-intensifies-186429/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "congos",
-      "president",
-      "sassou",
-      "nguesso",
-      "secures",
-      "fifth",
-      "term"
+      "world",
+      "did",
+      "iranian",
+      "air",
+      "defences",
+      "down",
+      "hostile",
+      "israeli",
+      "fighter",
+      "jet",
+      "central",
+      "iran",
+      "irgc",
+      "makes",
+      "big",
+      "claim",
+      "west",
+      "asia",
+      "conflict",
+      "intensifies",
+      "186429"
     ]
   },
-  "IRN": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.breitbart.com/europe/2026/03/21/iran-says-strike-hit-its-natanz-nuclear-enrichment-facility/",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/865714-two-killed-as-tanker-truck-collide-on-lagos-lekki-epe-expressway.html",
     "event_codes": {
-      "19": 5,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "europe",
-      "2026",
-      "iran",
-      "says",
-      "strike",
-      "hit",
-      "its",
-      "natanz",
-      "nuclear",
-      "enrichment",
-      "facility"
+      "news",
+      "top",
+      "news",
+      "865714",
+      "two",
+      "killed",
+      "tanker",
+      "truck",
+      "collide",
+      "lagos",
+      "lekki",
+      "epe",
+      "expressway.html"
     ]
   },
-  "ISR": {
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://sputnikglobe.com/20260321/attack-on-natanz-facility-blatant-violation-of-international-law---russias-mfa-spox--1123873694.html",
+    "top_news": "https://www.fox32chicago.com/news/iran-war-live-updates-trump-says-attacks-winding-down",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "20260321",
-      "attack",
-      "natanz",
-      "facility",
-      "blatant",
-      "violation",
-      "international",
-      "law",
-      "russias",
-      "mfa",
-      "spox",
-      "1123873694.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://africa.com/tinubu-seeks-british-investments-during-historic-state-visit/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "tinubu",
-      "seeks",
-      "british",
-      "investments",
-      "during",
-      "historic",
-      "state",
-      "visit"
+      "news",
+      "iran",
+      "war",
+      "live",
+      "updates",
+      "trump",
+      "says",
+      "attacks",
+      "winding",
+      "down"
     ]
   }
 }
