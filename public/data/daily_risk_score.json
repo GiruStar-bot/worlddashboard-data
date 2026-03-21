@@ -1,87 +1,81 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://japantoday.com/category/world/us-sending-marines-and-amphibious-assault-ship-to-middle-east-officials-say2",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "category",
-      "world",
-      "sending",
-      "marines",
-      "and",
-      "amphibious",
-      "assault",
-      "ship",
-      "middle",
-      "east",
-      "officials",
-      "say2"
-    ]
-  },
-  "BRA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-saturday-march-21-2026/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "sao",
-      "paulo",
-      "nightlife",
-      "guide",
-      "for",
-      "saturday",
-      "march",
-      "2026"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.85,
-    "count": 18,
-    "top_news": "https://inews.co.uk/news/world/hidden-weapons-iran-reserve-missiles-drones-agents-4304399",
+    "risk_score": 13.02,
+    "count": 14,
+    "top_news": "https://www.clactonandfrintongazette.co.uk/news/national/25956681.irans-main-nuclear-enrichment-site-hit-air-strike/",
     "event_codes": {
-      "19": 16,
-      "16": 1,
+      "19": 11,
+      "16": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25956681.irans",
+      "main",
+      "nuclear",
+      "enrichment",
+      "site",
+      "hit",
+      "air",
+      "strike"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4371600",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "tag",
+      "index"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.36,
+    "count": 10,
+    "top_news": "https://www.jns.org/news/u-s-news/iaea-irans-natanz-nuclear-enrichment-site-attacked",
+    "event_codes": {
+      "15": 3,
+      "18": 3,
+      "19": 3,
       "17": 1
     },
     "keywords": [
       "news",
-      "world",
-      "hidden",
-      "weapons",
-      "iran",
-      "reserve",
-      "missiles",
-      "drones",
-      "agents",
-      "4304399"
+      "news",
+      "iaea",
+      "irans",
+      "natanz",
+      "nuclear",
+      "enrichment",
+      "site",
+      "attacked"
     ]
   },
-  "ISR": {
-    "risk_score": 8.65,
-    "count": 10,
-    "top_news": "https://tribune.com.pk/story/2598671/european-nations-decry-increasing-settler-terror-in-west-bank",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/865724-us-court-sentences-nigerian-to-seven-years-in-prison-for-email-fraud.html",
     "event_codes": {
-      "19": 5,
-      "18": 3,
-      "17": 2
+      "17": 4
     },
     "keywords": [
-      "story",
-      "2598671",
-      "european",
-      "nations",
-      "decry",
-      "increasing",
-      "settler",
-      "terror",
-      "west",
-      "bank"
+      "news",
+      "top",
+      "news",
+      "865724",
+      "court",
+      "sentences",
+      "nigerian",
+      "seven",
+      "years",
+      "prison",
+      "for",
+      "email",
+      "fraud.html"
     ]
   }
 }
