@@ -1,123 +1,144 @@
 {
   "IRN": {
-    "risk_score": 22.31,
-    "count": 25,
-    "top_news": "https://www.10news.com/us-news/iran-war/mixed-us-messages-trump-talks-winding-down-iran-war-as-ships-head-to-region",
-    "event_codes": {
-      "19": 16,
-      "17": 6,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "iran",
-      "war",
-      "mixed",
-      "messages",
-      "trump",
-      "talks",
-      "winding",
-      "down",
-      "iran",
-      "war",
-      "ships",
-      "head",
-      "region"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-diego-garcia-trump-oil-strait-of-hormuz-b2943101.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "live",
-      "diego",
-      "garcia",
-      "trump",
-      "oil",
-      "strait",
-      "hormuz",
-      "b2943101.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 25.5,
+    "risk_score": 25.35,
     "count": 27,
-    "top_news": "https://nationalpost.com/news/canada/canadians-believe-israelis-face-more-prejudice-than-palestinians-due-to-war-on-iran-poll",
+    "top_news": "https://www.thehindu.com/news/international/israel-says-attacks-against-iran-will-increase-significantly-next-week-britain-condemns-tehran-targeting-diego-garcia-air-base/article70769178.ece",
     "event_codes": {
-      "19": 24,
-      "17": 3
-    },
-    "keywords": [
-      "news",
-      "canada",
-      "canadians",
-      "believe",
-      "israelis",
-      "face",
-      "more",
-      "prejudice",
-      "than",
-      "palestinians",
-      "due",
-      "war",
-      "iran",
-      "poll"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.nbcchicago.com/news/national-international/iran-us-israel-war-trump-march-21-2026-live-updates/3911589/",
-    "event_codes": {
-      "19": 6,
+      "19": 21,
+      "16": 3,
+      "18": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "national",
       "international",
-      "iran",
       "israel",
-      "war",
-      "trump",
-      "march",
-      "2026",
-      "live",
-      "updates",
-      "3911589"
+      "says",
+      "attacks",
+      "against",
+      "iran",
+      "will",
+      "increase",
+      "significantly",
+      "next",
+      "week",
+      "britain",
+      "condemns",
+      "tehran",
+      "targeting",
+      "diego",
+      "garcia",
+      "air",
+      "base",
+      "article70769178.ece"
     ]
   },
-  "VNM": {
-    "risk_score": 9.2,
-    "count": 12,
-    "top_news": "https://news.tuoitre.vn/ho-chi-minh-city-police-arrest-man-for-assaulting-female-shipper-103260321160955806.htm",
+  "ISR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://localnews8.com/news/national-world/cnn-world/2026/03/21/its-been-18-months-since-the-last-war-in-lebanon-this-time-its-different/",
     "event_codes": {
-      "18": 8,
-      "17": 4
+      "19": 6,
+      "18": 1
     },
     "keywords": [
-      "chi",
-      "minh",
-      "city",
-      "police",
-      "arrest",
-      "man",
-      "for",
-      "assaulting",
-      "female",
-      "shipper",
-      "103260321160955806.htm"
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "its",
+      "been",
+      "months",
+      "since",
+      "the",
+      "last",
+      "war",
+      "lebanon",
+      "this",
+      "time",
+      "its",
+      "different"
+    ]
+  },
+  "JOR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.wfmz.com/business/the-latest-israel-says-attacks-on-iran-to-ramp-up-as-trump-mulls-winding-down/article_757fcf39-4749-58ad-bab0-2932e1225154.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "business",
+      "the",
+      "latest",
+      "israel",
+      "says",
+      "attacks",
+      "iran",
+      "ramp",
+      "trump",
+      "mulls",
+      "winding",
+      "down",
+      "article",
+      "757fcf39",
+      "4749",
+      "58ad",
+      "bab0",
+      "2932e1225154.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yakimaherald.com/news/nation_and_world/business/israel-threatens-a-surge-in-attacks-on-iran-as-britain-condemns-tehran-targeting-a-us/article_a8132152-f676-5838-bf75-a29208a3fcc3.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "and",
+      "world",
+      "business",
+      "israel",
+      "threatens",
+      "surge",
+      "attacks",
+      "iran",
+      "britain",
+      "condemns",
+      "tehran",
+      "targeting",
+      "article",
+      "a8132152",
+      "f676",
+      "5838",
+      "bf75",
+      "a29208a3fcc3.html"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://nehandaradio.com/2026/03/21/chinhoyi-university-student-leader-dylan-cole-abducted-from-lecture-theatre/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "2026",
+      "chinhoyi",
+      "university",
+      "student",
+      "leader",
+      "dylan",
+      "cole",
+      "abducted",
+      "from",
+      "lecture",
+      "theatre"
     ]
   }
 }
