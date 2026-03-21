@@ -1,66 +1,123 @@
 {
-  "IRN": {
+  "CAF": {
     "risk_score": 3.8,
     "count": 5,
-    "top_news": "https://www.abc.net.au/news/2026-03-22/middle-east-war-leaves-sailors-at-risk-in-persian-gulf-near-iran/106479052",
+    "top_news": "https://www.cbc.ca/radio/asithappens/yema-lumumba-assassination-trial-9.7136710",
     "event_codes": {
-      "14": 2,
-      "17": 1,
-      "18": 1,
+      "17": 2,
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "news",
+      "radio",
+      "asithappens",
+      "yema",
+      "lumumba",
+      "assassination",
+      "trial",
+      "9.7136710"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.24,
+    "count": 12,
+    "top_news": "https://theconservativetreehouse.com/blog/2026/03/21/iran-launches-intermediate-range-ballistic-missile-further-than-all-prior-capabilities/comment-page-1/",
+    "event_codes": {
+      "19": 8,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "blog",
       "2026",
-      "middle",
-      "east",
-      "war",
-      "leaves",
-      "sailors",
-      "risk",
-      "persian",
-      "gulf",
-      "near",
       "iran",
-      "106479052"
+      "launches",
+      "intermediate",
+      "range",
+      "ballistic",
+      "missile",
+      "further",
+      "than",
+      "all",
+      "prior",
+      "capabilities",
+      "comment",
+      "page"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.nhgazette.com/2026/03/21/setting-the-record-straight-on-wwii/",
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://www.thv11.com/article/news/nation-world/trump-hints-at-wind-down-of-war-as-us-sends-more-troops-and-iran-threatens-tourism-sites/616-0e98d1f6-a881-43c5-91cb-ec1c6b671c23",
     "event_codes": {
-      "19": 2
+      "19": 7,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "setting",
-      "the",
-      "record",
-      "straight",
-      "wwii"
+      "article",
+      "news",
+      "nation",
+      "world",
+      "trump",
+      "hints",
+      "wind",
+      "down",
+      "war",
+      "sends",
+      "more",
+      "troops",
+      "and",
+      "iran",
+      "threatens",
+      "tourism",
+      "sites",
+      "616",
+      "0e98d1f6",
+      "a881",
+      "43c5",
+      "91cb",
+      "ec1c6b671c23"
     ]
   },
   "NGA": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://dailypost.ng/2026/03/21/army-neutralizes-several-bandits-in-gun-battle-with-bello-turjis-faction/",
+    "risk_score": 8.42,
+    "count": 10,
+    "top_news": "https://saharareporters.com/2026/03/21/gunmen-abduct-kano-local-govt-secretary-after-midnight-raid-residence",
     "event_codes": {
       "19": 4,
+      "18": 3,
+      "17": 2,
       "15": 1
     },
     "keywords": [
       "2026",
-      "army",
-      "neutralizes",
-      "several",
-      "bandits",
-      "gun",
-      "battle",
-      "with",
-      "bello",
-      "turjis",
-      "faction"
+      "gunmen",
+      "abduct",
+      "kano",
+      "local",
+      "govt",
+      "secretary",
+      "after",
+      "midnight",
+      "raid",
+      "residence"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.co.uk/articles/m-glad-dead-trump-reacts-203124682.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "glad",
+      "dead",
+      "trump",
+      "reacts",
+      "203124682.html"
     ]
   }
 }
