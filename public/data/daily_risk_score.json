@@ -1,77 +1,168 @@
 {
   "IRN": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://aninews.in/news/world/middle-east/no-damage-to-nuclear-research-centre-in-israels-negev-iaea20260322031447/",
+    "risk_score": 42.45,
+    "count": 47,
+    "top_news": "https://en.apa.az/europe/uk-pm-assures-cyprus-that-akrotiri-air-base-will-not-be-used-for-attacks-on-iran-497846",
     "event_codes": {
-      "18": 2,
-      "14": 1
+      "19": 33,
+      "17": 7,
+      "15": 4,
+      "18": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "damage",
-      "nuclear",
-      "research",
-      "centre",
-      "israels",
-      "negev",
-      "iaea20260322031447"
+      "europe",
+      "assures",
+      "cyprus",
+      "that",
+      "akrotiri",
+      "air",
+      "base",
+      "will",
+      "not",
+      "used",
+      "for",
+      "attacks",
+      "iran",
+      "497846"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/21/765639/zionist-takeover-trump-war-iran-reveals-who-really-dictates-us-foreign-policy",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "765639",
+      "zionist",
+      "takeover",
+      "trump",
+      "war",
+      "iran",
+      "reveals",
+      "who",
+      "really",
+      "dictates",
+      "foreign",
+      "policy"
     ]
   },
   "ISR": {
-    "risk_score": 5.35,
-    "count": 6,
-    "top_news": "https://www.channel3000.com/news/dozens-injured-in-israel-after-iranian-missile-strikes-target-areas-near-nuclear-research-center/article_ce98183d-2728-5eda-bbeb-aa2f72169e7f.html",
+    "risk_score": 15.85,
+    "count": 17,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/21/765674/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-mar-21",
     "event_codes": {
+      "19": 12,
       "18": 3,
-      "19": 2,
-      "17": 1
+      "17": 2
     },
     "keywords": [
-      "news",
-      "dozens",
-      "injured",
-      "israel",
-      "after",
-      "iranian",
-      "missile",
-      "strikes",
-      "target",
-      "areas",
-      "near",
-      "nuclear",
-      "research",
-      "center",
+      "detail",
+      "2026",
+      "765674",
+      "true",
+      "promise",
+      "iran",
+      "resistance",
+      "axis",
+      "ops",
+      "against",
+      "israeli",
+      "sites",
+      "mar"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://en.ammonnews.net/article/90012",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "article",
-      "ce98183d",
-      "2728",
-      "5eda",
-      "bbeb",
-      "aa2f72169e7f.html"
+      "90012"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/lebanon-beirut-bombing-israel-iran-war-kp6zvb9xn",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://townhall.com/tipsheet/scott-mcclallen/2026/03/21/temple-israel-pictures-show-aftermath-of-terrorist-targeting-childrens-daycare-n2673240",
     "event_codes": {
-      "18": 2
+      "19": 4
+    },
+    "keywords": [
+      "tipsheet",
+      "scott",
+      "mcclallen",
+      "2026",
+      "temple",
+      "israel",
+      "pictures",
+      "show",
+      "aftermath",
+      "terrorist",
+      "targeting",
+      "childrens",
+      "daycare",
+      "n2673240"
+    ]
+  },
+  "LBY": {
+    "risk_score": 7.74,
+    "count": 9,
+    "top_news": "https://www.dailymail.co.uk/news/article-15667843/secret-Iranian-armada-sinking-US-aircraft-carrier-Strait-Hormuz-Speedboats-armed-torpedoes-explosive-drones-fleet-mini-subs-IAN-GALLAGHER.html",
+    "event_codes": {
+      "18": 7,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15667843",
+      "secret",
+      "iranian",
+      "armada",
+      "sinking",
+      "aircraft",
+      "carrier",
+      "strait",
+      "hormuz",
+      "speedboats",
+      "armed",
+      "torpedoes",
+      "explosive",
+      "drones",
+      "fleet",
+      "mini",
+      "subs",
+      "ian",
+      "gallagher.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports",
+    "event_codes": {
+      "19": 7
     },
     "keywords": [
       "world",
-      "middle",
-      "east",
-      "article",
-      "lebanon",
-      "beirut",
-      "bombing",
-      "israel",
-      "iran",
-      "war",
-      "kp6zvb9xn"
+      "2026",
+      "mar",
+      "strike",
+      "sudan",
+      "hospital",
+      "kills",
+      "wounds",
+      "world",
+      "health",
+      "organization",
+      "reports"
     ]
   }
 }
