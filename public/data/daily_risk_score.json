@@ -1,135 +1,131 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.sentinelandenterprise.com/2026/03/22/my-faith-in-god-has-helped-me-stay-strong/",
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.birminghammail.co.uk/news/midlands-news/brawl-erupts-birmingham-city-centre-33638686",
     "event_codes": {
-      "19": 2
+      "19": 7
     },
     "keywords": [
+      "news",
+      "midlands",
+      "news",
+      "brawl",
+      "erupts",
+      "birmingham",
+      "city",
+      "centre",
+      "33638686"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.76,
+    "count": 6,
+    "top_news": "https://pjmedia.com/rick-moran/2026/03/22/where-in-the-world-is-mojtaba-khamenei-n4950926",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "rick",
+      "moran",
       "2026",
-      "faith",
-      "god",
-      "has",
-      "helped",
-      "stay",
-      "strong"
+      "where",
+      "the",
+      "world",
+      "mojtaba",
+      "khamenei",
+      "n4950926"
     ]
   },
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.wafa.ps/Pages/Details/168512",
+  "KEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://kenya-today.com/breaking-raphael-tuju-vanishes-after-reporting-surveillance-in-karen-dispute/",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "pages",
-      "details",
-      "168512"
+      "breaking",
+      "raphael",
+      "tuju",
+      "vanishes",
+      "after",
+      "reporting",
+      "surveillance",
+      "karen",
+      "dispute"
     ]
   },
-  "IDN": {
-    "risk_score": 2.85,
+  "LBN": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/west-asia-turmoil-lt-backs-government-to-back-capex-flags-need-for-deficit-headroom/articleshow/129733506.cms",
+    "top_news": "https://economictimes.indiatimes.com/news/defence/usiran-tensions-spike-with-threats-of-wider-war-after-nuclear-site-strikes/articleshow/129734101.cms",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "industry",
-      "indl",
-      "goods",
-      "svs",
-      "engineering",
-      "west",
-      "asia",
-      "turmoil",
-      "backs",
-      "government",
-      "back",
-      "capex",
-      "flags",
-      "need",
-      "for",
-      "deficit",
-      "headroom",
+      "news",
+      "defence",
+      "usiran",
+      "tensions",
+      "spike",
+      "with",
+      "threats",
+      "wider",
+      "war",
+      "after",
+      "nuclear",
+      "site",
+      "strikes",
       "articleshow",
-      "129733506.cms"
+      "129734101.cms"
     ]
   },
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.aol.co.uk/articles/map-shows-london-range-iranian-110239552.html",
+  "NGA": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.nationalaccordnewspaper.com/zulum-visits-victims-of-ngoshe-attack-assures-enhanced-security-humanitarian-support/",
     "event_codes": {
-      "19": 7
+      "19": 8,
+      "18": 1
     },
     "keywords": [
-      "articles",
-      "map",
-      "shows",
-      "london",
-      "range",
-      "iranian",
-      "110239552.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.55,
-    "count": 14,
-    "top_news": "https://www.naroomanewsonline.com.au/story/9204601/dozens-hurt-after-iran-strike-on-israeli-desert-towns/",
-    "event_codes": {
-      "19": 9,
-      "17": 2,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "story",
-      "9204601",
-      "dozens",
-      "hurt",
-      "after",
-      "iran",
-      "strike",
-      "israeli",
-      "desert",
-      "towns"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.naroomanewsonline.com.au/story/9204601/dozens-hurt-after-iran-strike-on-israeli-desert-towns/",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "story",
-      "9204601",
-      "dozens",
-      "hurt",
-      "after",
-      "iran",
-      "strike",
-      "israeli",
-      "desert",
-      "towns"
+      "zulum",
+      "visits",
+      "victims",
+      "ngoshe",
+      "attack",
+      "assures",
+      "enhanced",
+      "security",
+      "humanitarian",
+      "support"
     ]
   },
   "PSE": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://english.wafa.ps/Pages/Details/168512",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/usiran-tensions-spike-with-threats-of-wider-war-after-nuclear-site-strikes/articleshow/129734101.cms",
     "event_codes": {
-      "18": 4,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "168512"
+      "news",
+      "defence",
+      "usiran",
+      "tensions",
+      "spike",
+      "with",
+      "threats",
+      "wider",
+      "war",
+      "after",
+      "nuclear",
+      "site",
+      "strikes",
+      "articleshow",
+      "129734101.cms"
     ]
   }
 }
