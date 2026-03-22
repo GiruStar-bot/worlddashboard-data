@@ -1,86 +1,109 @@
 {
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://reason.com/2026/03/22/murder-in-antarctica/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "murder",
+      "antarctica"
+    ]
+  },
   "IRN": {
-    "risk_score": 9.81,
+    "risk_score": 9.15,
     "count": 11,
-    "top_news": "https://www.twincities.com/2026/03/22/chuck-devore-the-us-has-the-ability-to-achieve-victory-in-iran/",
+    "top_news": "https://www.wuft.org/2026-03-22/trump-threatens-to-obliterate-irans-power-plants-as-iran-strikes-2-israeli-cities",
     "event_codes": {
       "19": 6,
-      "15": 3,
+      "16": 3,
       "14": 1,
       "18": 1
     },
     "keywords": [
       "2026",
-      "chuck",
-      "devore",
-      "the",
-      "has",
-      "the",
-      "ability",
-      "achieve",
-      "victory",
-      "iran"
+      "trump",
+      "threatens",
+      "obliterate",
+      "irans",
+      "power",
+      "plants",
+      "iran",
+      "strikes",
+      "israeli",
+      "cities"
     ]
   },
   "ISR": {
-    "risk_score": 14.42,
-    "count": 19,
-    "top_news": "https://www.twincities.com/2026/03/22/ware-clarke-the-us-desperately-needs-functional-counterterrorism/",
+    "risk_score": 15.7,
+    "count": 16,
+    "top_news": "https://gazette.com/2026/03/21/iran-fires-missiles-farther-than-ever-as-its-main-nuclear-enrichment-site-is-struck-again/",
     "event_codes": {
-      "17": 5,
-      "19": 5,
-      "14": 4,
-      "18": 4,
-      "15": 1
+      "19": 12,
+      "18": 4
     },
     "keywords": [
       "2026",
-      "ware",
-      "clarke",
-      "the",
-      "desperately",
-      "needs",
-      "functional",
-      "counterterrorism"
+      "iran",
+      "fires",
+      "missiles",
+      "farther",
+      "than",
+      "ever",
+      "its",
+      "main",
+      "nuclear",
+      "enrichment",
+      "site",
+      "struck",
+      "again"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://gazette.com/2026/03/21/iran-fires-missiles-farther-than-ever-as-its-main-nuclear-enrichment-site-is-struck-again/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "fires",
+      "missiles",
+      "farther",
+      "than",
+      "ever",
+      "its",
+      "main",
+      "nuclear",
+      "enrichment",
+      "site",
+      "struck",
+      "again"
     ]
   },
   "PSE": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.jpost.com/israel-news/article-890763",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "article",
-      "890763"
-    ]
-  },
-  "VNM": {
     "risk_score": 3.9,
-    "count": 5,
-    "top_news": "https://news.tuoitre.vn/chinese-murder-suspect-apprehended-at-ho-chi-minh-city-airport-before-fleeing-vietnam-103260322125427693.htm",
+    "count": 4,
+    "top_news": "https://www.channelstv.com/2026/03/22/israel-army-reports-settler-arson-attacks-in-occupied-west-bank/",
     "event_codes": {
-      "17": 2,
-      "19": 2,
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "chinese",
-      "murder",
-      "suspect",
-      "apprehended",
-      "chi",
-      "minh",
-      "city",
-      "airport",
-      "before",
-      "fleeing",
-      "vietnam",
-      "103260322125427693.htm"
+      "2026",
+      "israel",
+      "army",
+      "reports",
+      "settler",
+      "arson",
+      "attacks",
+      "occupied",
+      "west",
+      "bank"
     ]
   }
 }
