@@ -1,107 +1,117 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://reason.com/2026/03/22/murder-in-antarctica/",
+  "BOL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.naturalnews.com/2026-03-22-missile-threat-us-gabbard-adversaries-expand-arsenal.html",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
       "2026",
-      "murder",
-      "antarctica"
+      "missile",
+      "threat",
+      "gabbard",
+      "adversaries",
+      "expand",
+      "arsenal.html"
     ]
   },
   "IRN": {
-    "risk_score": 9.15,
-    "count": 11,
-    "top_news": "https://www.wuft.org/2026-03-22/trump-threatens-to-obliterate-irans-power-plants-as-iran-strikes-2-israeli-cities",
+    "risk_score": 13.5,
+    "count": 14,
+    "top_news": "https://jowhar.com/tech-titans-clash-in-first-major-ai-conflict/",
     "event_codes": {
-      "19": 6,
-      "16": 3,
-      "14": 1,
-      "18": 1
+      "19": 13,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "trump",
-      "threatens",
-      "obliterate",
-      "irans",
-      "power",
-      "plants",
-      "iran",
-      "strikes",
-      "israeli",
-      "cities"
+      "tech",
+      "titans",
+      "clash",
+      "first",
+      "major",
+      "conflict"
     ]
   },
   "ISR": {
-    "risk_score": 15.7,
-    "count": 16,
-    "top_news": "https://gazette.com/2026/03/21/iran-fires-missiles-farther-than-ever-as-its-main-nuclear-enrichment-site-is-struck-again/",
+    "risk_score": 9.9,
+    "count": 10,
+    "top_news": "https://scroll.in/reel/1091542/please-dont-leave-me-hind-rajab-pleaded-why-her-voice-needs-to-be-heard",
     "event_codes": {
-      "19": 12,
-      "18": 4
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "fires",
-      "missiles",
-      "farther",
-      "than",
-      "ever",
-      "its",
-      "main",
-      "nuclear",
-      "enrichment",
-      "site",
-      "struck",
-      "again"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://gazette.com/2026/03/21/iran-fires-missiles-farther-than-ever-as-its-main-nuclear-enrichment-site-is-struck-again/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "fires",
-      "missiles",
-      "farther",
-      "than",
-      "ever",
-      "its",
-      "main",
-      "nuclear",
-      "enrichment",
-      "site",
-      "struck",
-      "again"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.channelstv.com/2026/03/22/israel-army-reports-settler-arson-attacks-in-occupied-west-bank/",
-    "event_codes": {
-      "19": 3,
+      "19": 9,
       "18": 1
     },
     "keywords": [
+      "reel",
+      "1091542",
+      "please",
+      "dont",
+      "leave",
+      "hind",
+      "rajab",
+      "pleaded",
+      "why",
+      "her",
+      "voice",
+      "needs",
+      "heard"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://jowhar.com/tech-titans-clash-in-first-major-ai-conflict/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "tech",
+      "titans",
+      "clash",
+      "first",
+      "major",
+      "conflict"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.65,
+    "count": 7,
+    "top_news": "https://peoplesdailyng.com/nigeria-pushes-for-deeper-africa-latin-america-ties-at-celac-forum-in-colombia/",
+    "event_codes": {
+      "17": 6,
+      "14": 1
+    },
+    "keywords": [
+      "nigeria",
+      "pushes",
+      "for",
+      "deeper",
+      "africa",
+      "latin",
+      "america",
+      "ties",
+      "celac",
+      "forum",
+      "colombia"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://aleteia.org/2026/03/22/my-compatriot-jesus-christ-listen-to-this-priest-from-west-bank/",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
       "2026",
-      "israel",
-      "army",
-      "reports",
-      "settler",
-      "arson",
-      "attacks",
-      "occupied",
+      "compatriot",
+      "jesus",
+      "christ",
+      "listen",
+      "this",
+      "priest",
+      "from",
       "west",
       "bank"
     ]
