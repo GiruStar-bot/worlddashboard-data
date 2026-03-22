@@ -1,123 +1,103 @@
 {
-  "BFA": {
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.hindustantimes.com/world-news/dubai-news-live-updates-abu-dhabi-uae-airports-flight-status-missiles-drones-attack-middle-east-iran-us-war-saudi-qatar-101774143551873.html",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "dubai",
+      "news",
+      "live",
+      "updates",
+      "abu",
+      "dhabi",
+      "uae",
+      "airports",
+      "flight",
+      "status",
+      "missiles",
+      "drones",
+      "attack",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "saudi",
+      "qatar",
+      "101774143551873.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.5,
+    "count": 12,
+    "top_news": "https://www.orissapost.com/defiant-iran/",
+    "event_codes": {
+      "19": 8,
+      "16": 3,
+      "17": 1
+    },
+    "keywords": [
+      "defiant",
+      "iran"
+    ]
+  },
+  "ISR": {
     "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://punchng.com/nigeria-recorded-two-worlds-deadliest-terror-attacks-report/",
+    "top_news": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-trump-strait-of-hormuz-tehran-attacks-israel-khamenei-netanyahu-oil-prices-middle-east-latest-101774143934572.html",
     "event_codes": {
       "19": 6
     },
     "keywords": [
-      "nigeria",
-      "recorded",
-      "two",
-      "worlds",
-      "deadliest",
-      "terror",
+      "world",
+      "news",
+      "iran",
+      "war",
+      "live",
+      "updates",
+      "trump",
+      "strait",
+      "hormuz",
+      "tehran",
       "attacks",
-      "report"
-    ]
-  },
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.theitem.com/stories/dozens-injured-in-israel-after-iranian-missile-strikes-target-areas-near-nuclear-research-center,440967",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "stories",
-      "dozens",
-      "injured",
       "israel",
-      "after",
-      "iranian",
-      "missile",
-      "strikes",
-      "target",
-      "areas",
-      "near",
-      "nuclear",
-      "research",
-      "center,440967"
+      "khamenei",
+      "netanyahu",
+      "oil",
+      "prices",
+      "middle",
+      "east",
+      "latest",
+      "101774143934572.html"
     ]
   },
-  "IRN": {
-    "risk_score": 17.15,
-    "count": 20,
-    "top_news": "http://www.arabherald.com/news/278936168/daily-world-briefing-march-22",
+  "TCD": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "http://www.businessghana.com/site/news/politics/345383/Drone-attack-from-Sudan-kills-17-in-Chad,-Chadian-government-says",
     "event_codes": {
-      "19": 8,
-      "18": 6,
-      "14": 5,
+      "19": 3,
       "17": 1
     },
     "keywords": [
+      "site",
       "news",
-      "278936168",
-      "daily",
-      "world",
-      "briefing",
-      "march"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.75,
-    "count": 17,
-    "top_news": "https://www.gulte.com/shorts/402007/iran-missile-strike-injures-over-100-in-israel",
-    "event_codes": {
-      "19": 13,
-      "18": 4
-    },
-    "keywords": [
-      "shorts",
-      "402007",
-      "iran",
-      "missile",
-      "strike",
-      "injures",
-      "over",
-      "100",
-      "israel"
-    ]
-  },
-  "NER": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://punchng.com/nigeria-recorded-two-worlds-deadliest-terror-attacks-report/",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "nigeria",
-      "recorded",
-      "two",
-      "worlds",
-      "deadliest",
-      "terror",
-      "attacks",
-      "report"
-    ]
-  },
-  "NGA": {
-    "risk_score": 13.94,
-    "count": 15,
-    "top_news": "https://punchng.com/nigeria-recorded-two-worlds-deadliest-terror-attacks-report/",
-    "event_codes": {
-      "19": 11,
-      "15": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "nigeria",
-      "recorded",
-      "two",
-      "worlds",
-      "deadliest",
-      "terror",
-      "attacks",
-      "report"
+      "politics",
+      "345383",
+      "drone",
+      "attack",
+      "from",
+      "sudan",
+      "kills",
+      "chad,",
+      "chadian",
+      "government",
+      "says"
     ]
   }
 }
