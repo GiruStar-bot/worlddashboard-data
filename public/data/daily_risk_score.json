@@ -1,63 +1,139 @@
 {
-  "BHR": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.hindustantimes.com/world-news/us-operated-patriot-missile-used-to-intercept-iranian-drone-in-bahrain-blast-on-march-9-us-iran-war-middle-east-101774165147529.html",
+    "top_news": "https://dominicanrepublicpost.com/iran-war-whats-happening-on-day-23-of-us-israel-attacks/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "news",
-      "operated",
-      "patriot",
-      "missile",
-      "used",
-      "intercept",
-      "iranian",
-      "drone",
-      "bahrain",
-      "blast",
-      "march",
       "iran",
       "war",
-      "middle",
-      "east",
-      "101774165147529.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.lbc.co.uk/article/iran-developed-missiles-capable-striking-london-israel-starmer-5HjdWhg_2/",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "article",
-      "iran",
-      "developed",
-      "missiles",
-      "capable",
-      "striking",
-      "london",
+      "whats",
+      "happening",
+      "day",
       "israel",
-      "starmer",
-      "5hjdwhg"
+      "attacks"
     ]
   },
-  "ISR": {
-    "risk_score": 8.45,
-    "count": 9,
-    "top_news": "https://english.wafa.ps/Pages/Details/168506",
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/iran-war-whats-happening-on-day-23-of-us-israel-attacks/",
     "event_codes": {
-      "18": 6,
       "19": 3
     },
     "keywords": [
-      "pages",
-      "details",
-      "168506"
+      "iran",
+      "war",
+      "whats",
+      "happening",
+      "day",
+      "israel",
+      "attacks"
+    ]
+  },
+  "IRN": {
+    "risk_score": 18.8,
+    "count": 20,
+    "top_news": "http://thepeninsulaqatar.com/article/22/03/2026/live-updates-trump-threatens-to-obliterate-iran-power-plants-as-tehran-warns-of-retaliation",
+    "event_codes": {
+      "19": 16,
+      "14": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "live",
+      "updates",
+      "trump",
+      "threatens",
+      "obliterate",
+      "iran",
+      "power",
+      "plants",
+      "tehran",
+      "warns",
+      "retaliation"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dominicanrepublicpost.com/iran-war-whats-happening-on-day-23-of-us-israel-attacks/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "whats",
+      "happening",
+      "day",
+      "israel",
+      "attacks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.0,
+    "count": 15,
+    "top_news": "https://dominicanrepublicpost.com/iran-war-whats-happening-on-day-23-of-us-israel-attacks/",
+    "event_codes": {
+      "19": 14,
+      "18": 1
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "whats",
+      "happening",
+      "day",
+      "israel",
+      "attacks"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dominicanrepublicpost.com/six-killed-as-qatar-army-helicopter-crashes-due-to-technical-malfunction/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "six",
+      "killed",
+      "qatar",
+      "army",
+      "helicopter",
+      "crashes",
+      "due",
+      "technical",
+      "malfunction"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://indianexpress.com/article/world/trump-iran-power-plant-threat-strait-of-hormuz-dimona-missile-strike-10594839/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "world",
+      "trump",
+      "iran",
+      "power",
+      "plant",
+      "threat",
+      "strait",
+      "hormuz",
+      "dimona",
+      "missile",
+      "strike",
+      "10594839"
     ]
   }
 }
