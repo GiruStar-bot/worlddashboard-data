@@ -1,86 +1,92 @@
 {
   "IRN": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-kills-four-gaza",
+    "risk_score": 23.12,
+    "count": 26,
+    "top_news": "https://aninews.in/news/world/middle-east/uae-expresses-solidarity-with-qatar-turkiye-over-helicopter-crash-that-killed-seven20260322231543/",
     "event_codes": {
-      "19": 6,
-      "14": 2
+      "19": 10,
+      "18": 8,
+      "15": 5,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "attacks",
-      "kills",
-      "four",
-      "gaza"
+      "news",
+      "world",
+      "middle",
+      "east",
+      "uae",
+      "expresses",
+      "solidarity",
+      "with",
+      "qatar",
+      "turkiye",
+      "over",
+      "helicopter",
+      "crash",
+      "that",
+      "killed",
+      "seven20260322231543"
     ]
   },
   "ISR": {
-    "risk_score": 40.47,
-    "count": 46,
-    "top_news": "https://english.wafa.ps/Pages/Details/168523",
+    "risk_score": 8.65,
+    "count": 9,
+    "top_news": "https://www.thejournal.ie/iran-trump-strait-of-hormuz-6991661-Mar2026/",
     "event_codes": {
-      "19": 26,
-      "17": 7,
-      "18": 7,
-      "15": 3,
-      "16": 3
+      "19": 8,
+      "14": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168523"
+      "iran",
+      "trump",
+      "strait",
+      "hormuz",
+      "6991661",
+      "mar2026"
     ]
   },
-  "LBN": {
+  "QAT": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-probes-if-israeli-soldier-responsible-death-citizen-lebanese",
+    "top_news": "https://www.zerohedge.com/geopolitical/punish-iran-saudi-arabia-uae-inch-closer-joining-us-israeli-war",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israel",
-      "probes",
+      "geopolitical",
+      "punish",
+      "iran",
+      "saudi",
+      "arabia",
+      "uae",
+      "inch",
+      "closer",
+      "joining",
       "israeli",
-      "soldier",
-      "responsible",
-      "death",
-      "citizen",
-      "lebanese"
+      "war"
     ]
   },
-  "PSE": {
-    "risk_score": 9.25,
-    "count": 10,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-settlers-torch-west-bank-villages-in-wave-of-violence",
+  "SAU": {
+    "risk_score": 8.29,
+    "count": 9,
+    "top_news": "https://www.zerohedge.com/geopolitical/punish-iran-saudi-arabia-uae-inch-closer-joining-us-israeli-war",
     "event_codes": {
-      "19": 8,
-      "17": 1,
-      "18": 1
+      "19": 7,
+      "15": 2
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
+      "geopolitical",
+      "punish",
+      "iran",
+      "saudi",
+      "arabia",
+      "uae",
+      "inch",
+      "closer",
+      "joining",
       "israeli",
-      "settlers",
-      "torch",
-      "west",
-      "bank",
-      "villages",
-      "wave",
-      "violence"
+      "war"
     ]
   }
 }
