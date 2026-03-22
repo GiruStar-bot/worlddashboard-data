@@ -1,95 +1,86 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.newsx.com/world/qatari-military-helicopter-crashes-into-sea-due-to-technical-failure-killing-six-people-search-operations-underway-as-one-person-goes-missing-186709/",
+    "risk_score": 9.81,
+    "count": 11,
+    "top_news": "https://www.twincities.com/2026/03/22/chuck-devore-the-us-has-the-ability-to-achieve-victory-in-iran/",
     "event_codes": {
-      "19": 3,
+      "19": 6,
+      "15": 3,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "world",
-      "qatari",
-      "military",
-      "helicopter",
-      "crashes",
-      "into",
-      "sea",
-      "due",
-      "technical",
-      "failure",
-      "killing",
-      "six",
-      "people",
-      "search",
-      "operations",
-      "underway",
-      "one",
-      "person",
-      "goes",
-      "missing",
-      "186709"
+      "2026",
+      "chuck",
+      "devore",
+      "the",
+      "has",
+      "the",
+      "ability",
+      "achieve",
+      "victory",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.theyeshivaworld.com/news/general/2527872/israeli-murdered-in-hezbollah-anti-tank-missile-strike-in-galil.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "general",
-      "2527872",
-      "israeli",
-      "murdered",
-      "hezbollah",
-      "anti",
-      "tank",
-      "missile",
-      "strike",
-      "galil.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-890781",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "890781"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.7,
-    "count": 9,
-    "top_news": "https://www.standardmedia.co.ke/national/article/2001543591/kenya-launches-campaign-extends-amnesty-to-citizens-in-russian-military",
+    "risk_score": 14.42,
+    "count": 19,
+    "top_news": "https://www.twincities.com/2026/03/22/ware-clarke-the-us-desperately-needs-functional-counterterrorism/",
     "event_codes": {
       "17": 5,
-      "16": 3,
+      "19": 5,
+      "14": 4,
+      "18": 4,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "ware",
+      "clarke",
+      "the",
+      "desperately",
+      "needs",
+      "functional",
+      "counterterrorism"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.jpost.com/israel-news/article-890763",
+    "event_codes": {
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "national",
+      "israel",
+      "news",
       "article",
-      "2001543591",
-      "kenya",
-      "launches",
-      "campaign",
-      "extends",
-      "amnesty",
-      "citizens",
-      "russian",
-      "military"
+      "890763"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://news.tuoitre.vn/chinese-murder-suspect-apprehended-at-ho-chi-minh-city-airport-before-fleeing-vietnam-103260322125427693.htm",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "chinese",
+      "murder",
+      "suspect",
+      "apprehended",
+      "chi",
+      "minh",
+      "city",
+      "airport",
+      "before",
+      "fleeing",
+      "vietnam",
+      "103260322125427693.htm"
     ]
   }
 }
