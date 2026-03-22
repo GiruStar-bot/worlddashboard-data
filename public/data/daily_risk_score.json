@@ -1,72 +1,99 @@
 {
-  "BOL": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://www.journalismpakistan.com/bbc-faces-claims-of-restricting-journalists-during-gaza-war",
-    "event_codes": {
-      "14": 2,
-      "17": 2
-    },
-    "keywords": [
-      "bbc",
-      "faces",
-      "claims",
-      "restricting",
-      "journalists",
-      "during",
-      "gaza",
-      "war"
-    ]
-  },
-  "IRN": {
-    "risk_score": 13.66,
-    "count": 17,
-    "top_news": "https://www.terradaily.com/afp/260322124931.qbt9cl53.html",
-    "event_codes": {
-      "19": 9,
-      "17": 5,
-      "14": 1,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "afp",
-      "260322124931.qbt9cl53.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.3,
-    "count": 12,
-    "top_news": "https://www.rediff.com/news/report/attack-on-diego-garcia-shows-iran-can-hit-deep-in-europe-netanyahu/20260322.htm",
-    "event_codes": {
-      "19": 8,
-      "14": 2,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "report",
-      "attack",
-      "diego",
-      "garcia",
-      "shows",
-      "iran",
-      "can",
-      "hit",
-      "deep",
-      "europe",
-      "netanyahu",
-      "20260322.htm"
-    ]
-  },
-  "LBN": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.cp24.com/news/2026/03/22/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-ultimatum/",
+    "top_news": "https://www.durangoherald.com/articles/the-latest-trump-says-us-will-obliterate-irans-power-plants-if-it-doesnt-open-strait-of-hormuz/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "articles",
+      "the",
+      "latest",
+      "trump",
+      "says",
+      "will",
+      "obliterate",
+      "irans",
+      "power",
+      "plants",
+      "doesnt",
+      "open",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "EGY": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.straitstimes.com/world/middle-east/israeli-airstrikes-kill-four-in-gaza-palestinian-officials-say",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "israeli",
+      "airstrikes",
+      "kill",
+      "four",
+      "gaza",
+      "palestinian",
+      "officials",
+      "say"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://salinapost.com/posts/5efec7ef-2c2d-4ff8-8ea2-e42bff64653b",
+    "event_codes": {
+      "19": 9
+    },
+    "keywords": [
+      "posts",
+      "5efec7ef",
+      "2c2d",
+      "4ff8",
+      "8ea2",
+      "e42bff64653b"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.92,
+    "count": 25,
+    "top_news": "https://www.rte.ie/news/middle-east/2026/0322/1564660-lebanon-leader-calls-strikes-prelude-to-ground-invasion/",
+    "event_codes": {
+      "19": 24,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "middle",
+      "east",
+      "2026",
+      "0322",
+      "1564660",
+      "lebanon",
+      "leader",
+      "calls",
+      "strikes",
+      "prelude",
+      "ground",
+      "invasion"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.newsandsentinel.com/news/local-news/2026/03/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-ultimatum/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "local",
       "news",
       "2026",
       "iran",
@@ -85,29 +112,87 @@
     ]
   },
   "NGA": {
-    "risk_score": 12.5,
-    "count": 14,
-    "top_news": "https://theeagleonline.com.ng/the-insecurity-triad-1-how-kidnapping-became-nigerias-multi-billion-naira-ransom-industry-by-max-amuchie/",
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/entertainment/nollywood/865921-they-didnt-owe-us-i-bought-my-first-car-from-papa-ajasco-pa-james.html",
     "event_codes": {
-      "18": 11,
-      "19": 2,
-      "14": 1
+      "17": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
+      "entertainment",
+      "nollywood",
+      "865921",
+      "they",
+      "didnt",
+      "owe",
+      "bought",
+      "first",
+      "car",
+      "from",
+      "papa",
+      "ajasco",
+      "james.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.energy-pedia.com/news/qatar/h-e--minister-saad-sherida-al-kaabi--the-missile-attacks-reduced-qatar%E2%80%99s-lng-export-capacity-by-17pc-and-caused-an-estimated-loss-of-usd20-billion-203",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "qatar",
+      "minister",
+      "saad",
+      "sherida",
+      "kaabi",
       "the",
-      "insecurity",
-      "triad",
-      "how",
-      "kidnapping",
-      "became",
-      "nigerias",
-      "multi",
+      "missile",
+      "attacks",
+      "reduced",
+      "qatar%e2%80%99s",
+      "lng",
+      "export",
+      "capacity",
+      "17pc",
+      "and",
+      "caused",
+      "estimated",
+      "loss",
+      "usd20",
       "billion",
-      "naira",
-      "ransom",
-      "industry",
-      "max",
-      "amuchie"
+      "203"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.scmp.com/news/world/united-states-canada/article/3347508/syrians-protest-against-alcohol-sale-limits-personal-freedom-curbs",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "united",
+      "states",
+      "canada",
+      "article",
+      "3347508",
+      "syrians",
+      "protest",
+      "against",
+      "alcohol",
+      "sale",
+      "limits",
+      "personal",
+      "freedom",
+      "curbs"
     ]
   }
 }
