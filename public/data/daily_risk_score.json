@@ -1,107 +1,45 @@
 {
-  "IRN": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://www.yahoo.com/news/articles/scores-hurt-iranian-missiles-hit-123216787.html",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.channelnewsasia.com/asia/electric-vehicles-indonesia-nickel-mining-environment-5983106",
     "event_codes": {
-      "17": 5,
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "electric",
+      "vehicles",
+      "indonesia",
+      "nickel",
+      "mining",
+      "environment",
+      "5983106"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/flashes/680630",
+    "event_codes": {
       "19": 5
     },
     "keywords": [
-      "news",
-      "articles",
-      "scores",
-      "hurt",
-      "iranian",
-      "missiles",
-      "hit",
-      "123216787.html"
+      "flashes",
+      "680630"
     ]
   },
   "ISR": {
-    "risk_score": 12.95,
-    "count": 13,
-    "top_news": "https://www.yahoo.com/news/articles/scores-hurt-iranian-missiles-hit-123216787.html",
+    "risk_score": 9.42,
+    "count": 10,
+    "top_news": "https://www.israelnationalnews.com/flashes/680630",
     "event_codes": {
-      "19": 12,
-      "18": 1
+      "19": 8,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "scores",
-      "hurt",
-      "iranian",
-      "missiles",
-      "hit",
-      "123216787.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://libertynewsnow.com/un-youth-ambassador-sings-song-about-murdering-who/article2738",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "youth",
-      "ambassador",
-      "sings",
-      "song",
-      "about",
-      "murdering",
-      "who",
-      "article2738"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.channelstv.com/2026/03/22/doha-confirms-four-qataris-three-turks-killed-in-helicopter-crash/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "doha",
-      "confirms",
-      "four",
-      "qataris",
-      "three",
-      "turks",
-      "killed",
-      "helicopter",
-      "crash"
-    ]
-  },
-  "VEN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://timesofindia.indiatimes.com/world/us/killing-of-sheridan-gorman-venezuelan-migrant-arrested-for-execution-style-murder-of-new-york-teen-in-chicago/articleshow/129733061.cms",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "killing",
-      "sheridan",
-      "gorman",
-      "venezuelan",
-      "migrant",
-      "arrested",
-      "for",
-      "execution",
-      "style",
-      "murder",
-      "new",
-      "york",
-      "teen",
-      "chicago",
-      "articleshow",
-      "129733061.cms"
+      "flashes",
+      "680630"
     ]
   }
 }
