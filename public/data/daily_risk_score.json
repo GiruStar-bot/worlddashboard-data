@@ -1,24 +1,85 @@
 {
-  "ISR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.pakistantoday.com.pk/2026/03/23/pakistan-tops-global-terrorism-index-as-deaths-hit-decade-high-in-2025",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://weeklyblitz.net/2026/03/23/us-congress-resolution-pakistan-1971-genocide-bangladesh/",
     "event_codes": {
-      "19": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "congress",
+      "resolution",
+      "pakistan",
+      "1971",
+      "genocide",
+      "bangladesh"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.62,
+    "count": 17,
+    "top_news": "https://politicaldog101.com/2026/03/iran-israel-midday-3-22-2026-the-strait-of-hormuz/",
+    "event_codes": {
+      "19": 13,
+      "17": 2,
+      "15": 1,
       "18": 1
     },
     "keywords": [
       "2026",
-      "pakistan",
-      "tops",
-      "global",
-      "terrorism",
-      "index",
-      "deaths",
-      "hit",
-      "decade",
-      "high",
-      "2025"
+      "iran",
+      "israel",
+      "midday",
+      "2026",
+      "the",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.02,
+    "count": 13,
+    "top_news": "https://politicaldog101.com/2026/03/israel-gaza-3-22-2026-israeli-hamas-hunting-continues-the-west-bank/",
+    "event_codes": {
+      "19": 6,
+      "18": 3,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "gaza",
+      "2026",
+      "israeli",
+      "hamas",
+      "hunting",
+      "continues",
+      "the",
+      "west",
+      "bank"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://politicaldog101.com/2026/03/israel-gaza-3-22-2026-israeli-hamas-hunting-continues-the-west-bank/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "gaza",
+      "2026",
+      "israeli",
+      "hamas",
+      "hunting",
+      "continues",
+      "the",
+      "west",
+      "bank"
     ]
   }
 }
