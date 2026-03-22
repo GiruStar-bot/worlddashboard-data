@@ -1,61 +1,122 @@
 {
-  "IRN": {
-    "risk_score": 18.08,
-    "count": 20,
-    "top_news": "https://www.aol.co.uk/articles/trump-gives-iran-48-hour-040649994.html",
-    "event_codes": {
-      "19": 14,
-      "15": 4,
-      "14": 2
-    },
-    "keywords": [
-      "articles",
-      "trump",
-      "gives",
-      "iran",
-      "hour",
-      "040649994.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.0,
-    "count": 15,
-    "top_news": "https://www.aol.co.uk/articles/trump-gives-iran-48-hour-040649994.html",
-    "event_codes": {
-      "19": 15
-    },
-    "keywords": [
-      "articles",
-      "trump",
-      "gives",
-      "iran",
-      "hour",
-      "040649994.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
+  "BHR": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.hometownregister.com/news/national/iranian-missiles-sow-panic-destruction-in-israeli-towns/article_b49c878b-fe9e-503b-bb0b-d1eb298888e6.html",
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/patriot-missile-involved-in-bahrain-blast-likely-us-operated-analysis-finds/articleshow/129729087.cms",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "national",
-      "iranian",
-      "missiles",
-      "sow",
-      "panic",
-      "destruction",
-      "israeli",
-      "towns",
-      "article",
-      "b49c878b",
-      "fe9e",
-      "503b",
-      "bb0b",
-      "d1eb298888e6.html"
+      "international",
+      "world",
+      "news",
+      "patriot",
+      "missile",
+      "involved",
+      "bahrain",
+      "blast",
+      "likely",
+      "operated",
+      "analysis",
+      "finds",
+      "articleshow",
+      "129729087.cms"
+    ]
+  },
+  "COL": {
+    "risk_score": 6.7,
+    "count": 9,
+    "top_news": "https://www.southwalesargus.co.uk/news/25956276.newport-chepstow-magor-aberbargoed-criminals-jailed/",
+    "event_codes": {
+      "17": 4,
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "25956276.newport",
+      "chepstow",
+      "magor",
+      "aberbargoed",
+      "criminals",
+      "jailed"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hospital-reports-150-treated-after-arad-dimona-attacks",
+    "event_codes": {
+      "19": 5,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "hospital",
+      "reports",
+      "150",
+      "treated",
+      "after",
+      "arad",
+      "dimona",
+      "attacks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.wsbradio.com/news/world/trump-threatens/7GWS5DYVLA3HXILDZFUQ65TFHA/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "world",
+      "trump",
+      "threatens",
+      "7gws5dyvla3hxildzfuq65tfha"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wsbradio.com/news/world/trump-threatens/7GWS5DYVLA3HXILDZFUQ65TFHA/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "trump",
+      "threatens",
+      "7gws5dyvla3hxildzfuq65tfha"
+    ]
+  },
+  "SGP": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/03/22/2-more-malaysians-nabbed-for-impersonating-sporean-officals",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "more",
+      "malaysians",
+      "nabbed",
+      "for",
+      "impersonating",
+      "sporean",
+      "officals"
     ]
   }
 }
