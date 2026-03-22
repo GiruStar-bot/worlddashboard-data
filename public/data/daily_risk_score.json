@@ -1,131 +1,111 @@
 {
   "IRN": {
+    "risk_score": 32.0,
+    "count": 34,
+    "top_news": "https://athens-times.com/netanyahu-urges-europe-to-join-war-against-iran-iran-threatens-the-entire-world/",
+    "event_codes": {
+      "19": 24,
+      "18": 7,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "netanyahu",
+      "urges",
+      "europe",
+      "join",
+      "war",
+      "against",
+      "iran",
+      "iran",
+      "threatens",
+      "the",
+      "entire",
+      "world"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.naharnet.com/stories/en/319098-iran-fired-missiles-at-joint-us-uk-base-in-indian-ocean",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "stories",
+      "319098",
+      "iran",
+      "fired",
+      "missiles",
+      "joint",
+      "base",
+      "indian",
+      "ocean"
+    ]
+  },
+  "ISR": {
+    "risk_score": 34.74,
+    "count": 36,
+    "top_news": "https://athens-times.com/netanyahu-urges-europe-to-join-war-against-iran-iran-threatens-the-entire-world/",
+    "event_codes": {
+      "19": 28,
+      "18": 5,
+      "15": 2,
+      "16": 1
+    },
+    "keywords": [
+      "netanyahu",
+      "urges",
+      "europe",
+      "join",
+      "war",
+      "against",
+      "iran",
+      "iran",
+      "threatens",
+      "the",
+      "entire",
+      "world"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.perthnow.com.au/news/conflict/israel-hits-key-lebanon-bridge-orders-homes-destroyed-c-22028974",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "conflict",
+      "israel",
+      "hits",
+      "key",
+      "lebanon",
+      "bridge",
+      "orders",
+      "homes",
+      "destroyed",
+      "22028974"
+    ]
+  },
+  "SAU": {
     "risk_score": 7.0,
     "count": 7,
-    "top_news": "https://www.birminghammail.co.uk/news/midlands-news/brawl-erupts-birmingham-city-centre-33638686",
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260321-gcc01.htm",
     "event_codes": {
       "19": 7
     },
     "keywords": [
+      "wmd",
+      "library",
       "news",
-      "midlands",
-      "news",
-      "brawl",
-      "erupts",
-      "birmingham",
-      "city",
-      "centre",
-      "33638686"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.76,
-    "count": 6,
-    "top_news": "https://pjmedia.com/rick-moran/2026/03/22/where-in-the-world-is-mojtaba-khamenei-n4950926",
-    "event_codes": {
-      "17": 3,
-      "19": 3
-    },
-    "keywords": [
-      "rick",
-      "moran",
+      "syria",
       "2026",
-      "where",
-      "the",
-      "world",
-      "mojtaba",
-      "khamenei",
-      "n4950926"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://kenya-today.com/breaking-raphael-tuju-vanishes-after-reporting-surveillance-in-karen-dispute/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "breaking",
-      "raphael",
-      "tuju",
-      "vanishes",
-      "after",
-      "reporting",
-      "surveillance",
-      "karen",
-      "dispute"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/usiran-tensions-spike-with-threats-of-wider-war-after-nuclear-site-strikes/articleshow/129734101.cms",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "defence",
-      "usiran",
-      "tensions",
-      "spike",
-      "with",
-      "threats",
-      "wider",
-      "war",
-      "after",
-      "nuclear",
-      "site",
-      "strikes",
-      "articleshow",
-      "129734101.cms"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.nationalaccordnewspaper.com/zulum-visits-victims-of-ngoshe-attack-assures-enhanced-security-humanitarian-support/",
-    "event_codes": {
-      "19": 8,
-      "18": 1
-    },
-    "keywords": [
-      "zulum",
-      "visits",
-      "victims",
-      "ngoshe",
-      "attack",
-      "assures",
-      "enhanced",
-      "security",
-      "humanitarian",
-      "support"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/usiran-tensions-spike-with-threats-of-wider-war-after-nuclear-site-strikes/articleshow/129734101.cms",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "defence",
-      "usiran",
-      "tensions",
-      "spike",
-      "with",
-      "threats",
-      "wider",
-      "war",
-      "after",
-      "nuclear",
-      "site",
-      "strikes",
-      "articleshow",
-      "129734101.cms"
+      "syria",
+      "260321",
+      "gcc01.htm"
     ]
   }
 }
