@@ -1,45 +1,135 @@
 {
-  "IDN": {
+  "BRA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.channelnewsasia.com/asia/electric-vehicles-indonesia-nickel-mining-environment-5983106",
+    "top_news": "https://www.sentinelandenterprise.com/2026/03/22/my-faith-in-god-has-helped-me-stay-strong/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "2026",
+      "faith",
+      "god",
+      "has",
+      "helped",
+      "stay",
+      "strong"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.wafa.ps/Pages/Details/168512",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168512"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/west-asia-turmoil-lt-backs-government-to-back-capex-flags-need-for-deficit-headroom/articleshow/129733506.cms",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "industry",
+      "indl",
+      "goods",
+      "svs",
+      "engineering",
+      "west",
       "asia",
-      "electric",
-      "vehicles",
-      "indonesia",
-      "nickel",
-      "mining",
-      "environment",
-      "5983106"
+      "turmoil",
+      "backs",
+      "government",
+      "back",
+      "capex",
+      "flags",
+      "need",
+      "for",
+      "deficit",
+      "headroom",
+      "articleshow",
+      "129733506.cms"
     ]
   },
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/flashes/680630",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.aol.co.uk/articles/map-shows-london-range-iranian-110239552.html",
     "event_codes": {
-      "19": 5
+      "19": 7
     },
     "keywords": [
-      "flashes",
-      "680630"
+      "articles",
+      "map",
+      "shows",
+      "london",
+      "range",
+      "iranian",
+      "110239552.html"
     ]
   },
   "ISR": {
-    "risk_score": 9.42,
-    "count": 10,
-    "top_news": "https://www.israelnationalnews.com/flashes/680630",
+    "risk_score": 12.55,
+    "count": 14,
+    "top_news": "https://www.naroomanewsonline.com.au/story/9204601/dozens-hurt-after-iran-strike-on-israeli-desert-towns/",
     "event_codes": {
-      "19": 8,
-      "17": 2
+      "19": 9,
+      "17": 2,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "flashes",
-      "680630"
+      "story",
+      "9204601",
+      "dozens",
+      "hurt",
+      "after",
+      "iran",
+      "strike",
+      "israeli",
+      "desert",
+      "towns"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.naroomanewsonline.com.au/story/9204601/dozens-hurt-after-iran-strike-on-israeli-desert-towns/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "story",
+      "9204601",
+      "dozens",
+      "hurt",
+      "after",
+      "iran",
+      "strike",
+      "israeli",
+      "desert",
+      "towns"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://english.wafa.ps/Pages/Details/168512",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168512"
     ]
   }
 }
