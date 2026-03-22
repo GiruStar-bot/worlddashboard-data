@@ -1,87 +1,107 @@
 {
   "IRN": {
-    "risk_score": 18.4,
-    "count": 20,
-    "top_news": "https://dailypost.ng/2026/03/22/iran-swears-revenge-after-trump-ultimatum-over-hormuz-strait/",
+    "risk_score": 12.6,
+    "count": 15,
+    "top_news": "https://www.winnipegfreepress.com/canada/2026/03/22/b-c-naturopath-alleges-suspects-in-iran-activists-murder-sought-to-silence-him",
     "event_codes": {
-      "19": 13,
-      "15": 3,
-      "17": 3,
-      "18": 1
+      "19": 8,
+      "15": 5,
+      "17": 2
     },
     "keywords": [
+      "canada",
       "2026",
+      "naturopath",
+      "alleges",
+      "suspects",
       "iran",
-      "swears",
-      "revenge",
-      "after",
-      "trump",
-      "ultimatum",
-      "over",
-      "hormuz",
-      "strait"
+      "activists",
+      "murder",
+      "sought",
+      "silence",
+      "him"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.84,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/arab-world/5253896-attacks-baghdad-breach-fragile-militia-truce",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5253896",
+      "attacks",
+      "baghdad",
+      "breach",
+      "fragile",
+      "militia",
+      "truce"
     ]
   },
   "ISR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.theweek.in/news/middle-east/2026/03/22/why-dimona-is-called-little-india-iranian-cluster-munition-hit-central-israeli-town.html",
+    "risk_score": 16.52,
+    "count": 17,
+    "top_news": "https://english.aawsat.com/arab-world/5253910-fighting-south-lebanon-reaches-close-combat-stage",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 14,
+      "18": 2,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "middle",
-      "east",
-      "2026",
-      "why",
-      "dimona",
-      "called",
-      "little",
-      "india",
-      "iranian",
-      "cluster",
-      "munition",
-      "hit",
-      "central",
+      "arab",
+      "world",
+      "5253910",
+      "fighting",
+      "south",
+      "lebanon",
+      "reaches",
+      "close",
+      "combat",
+      "stage"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/arab-world/5253910-fighting-south-lebanon-reaches-close-combat-stage",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5253910",
+      "fighting",
+      "south",
+      "lebanon",
+      "reaches",
+      "close",
+      "combat",
+      "stage"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/gulf/5253887-gcc-secretary-general-condemns-israeli-aggression-southern-syria",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "gulf",
+      "5253887",
+      "gcc",
+      "secretary",
+      "general",
+      "condemns",
       "israeli",
-      "town.html"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.juancole.com/2026/03/attacks-mideast-downturn.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "attacks",
-      "mideast",
-      "downturn.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bangordailynews.com/2026/03/22/aroostook/aroostook-culture/frenchville-raising-35k-honor-650-veterans-joam40zk0w/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "aroostook",
-      "aroostook",
-      "culture",
-      "frenchville",
-      "raising",
-      "35k",
-      "honor",
-      "650",
-      "veterans",
-      "joam40zk0w"
+      "aggression",
+      "southern",
+      "syria"
     ]
   }
 }
