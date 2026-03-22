@@ -1,48 +1,83 @@
 {
-  "ISR": {
-    "risk_score": 18.2,
-    "count": 20,
-    "top_news": "https://www.theguardian.com/world/2026/mar/22/israeli-settlers-carry-out-series-of-west-bank-attacks-as-security-forces-stand-by",
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.cjme.com/2026/03/22/u-s-and-iran-threaten-to-expand-the-war-to-the-regions-power-plants/",
     "event_codes": {
-      "19": 14,
-      "17": 3,
-      "18": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
       "2026",
-      "mar",
-      "israeli",
-      "settlers",
-      "carry",
-      "out",
-      "series",
-      "west",
-      "bank",
-      "attacks",
-      "security",
-      "forces",
-      "stand"
+      "and",
+      "iran",
+      "threaten",
+      "expand",
+      "the",
+      "war",
+      "the",
+      "regions",
+      "power",
+      "plants"
     ]
   },
-  "LBN": {
-    "risk_score": 4.37,
-    "count": 5,
-    "top_news": "https://globalnews.ca/news/11741217/iran-us-threats-strikes-near-nuclear-sites/",
+  "ISR": {
+    "risk_score": 17.42,
+    "count": 18,
+    "top_news": "https://www.israelnationalnews.com/news/424373",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
+      "19": 16,
+      "17": 2
     },
     "keywords": [
       "news",
-      "11741217",
+      "424373"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.92,
+    "count": 9,
+    "top_news": "https://www.twincities.com/2026/03/21/iran-threatens-to-close-strait-of-hormuz-and-hit-power-plants-after-trumps-48-hour-ultimatum/",
+    "event_codes": {
+      "19": 8,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
       "iran",
-      "threats",
-      "strikes",
-      "near",
-      "nuclear",
-      "sites"
+      "threatens",
+      "close",
+      "strait",
+      "hormuz",
+      "and",
+      "hit",
+      "power",
+      "plants",
+      "after",
+      "trumps",
+      "hour",
+      "ultimatum"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.cjme.com/2026/03/22/u-s-and-iran-threaten-to-expand-the-war-to-the-regions-power-plants/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "and",
+      "iran",
+      "threaten",
+      "expand",
+      "the",
+      "war",
+      "the",
+      "regions",
+      "power",
+      "plants"
     ]
   }
 }
