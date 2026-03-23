@@ -1,60 +1,217 @@
 {
-  "IRN": {
-    "risk_score": 11.25,
-    "count": 12,
-    "top_news": "https://www.rawstory.com/trump-2676577525/",
+  "CHL": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://havanatimes.org/news/international-news-briefs-for-monday-march-23-2026/",
     "event_codes": {
-      "19": 11,
-      "16": 1
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "trump",
-      "2676577525"
+      "news",
+      "international",
+      "news",
+      "briefs",
+      "for",
+      "monday",
+      "march",
+      "2026"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.kurv.com/israeli-settlers-smash-cars-and-set-fires-in-the-west-bank-as-4-palestinians-killed-in-gaza/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "israeli",
+      "settlers",
+      "smash",
+      "cars",
+      "and",
+      "set",
+      "fires",
+      "the",
+      "west",
+      "bank",
+      "palestinians",
+      "killed",
+      "gaza"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.2,
+    "count": 9,
+    "top_news": "https://www.mirror.co.uk/news/politics/uk-defence-secretary-gives-major-36911168",
+    "event_codes": {
+      "19": 7,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "defence",
+      "secretary",
+      "gives",
+      "major",
+      "36911168"
     ]
   },
   "ISR": {
-    "risk_score": 19.3,
-    "count": 20,
-    "top_news": "https://www.breitbart.com/politics/2026/03/23/who-is-running-iran-cia-mossad-search-for-signs-of-unseen-supreme-leader-mojtaba-khamenei-no-proof-hes-at-the-helm/",
+    "risk_score": 15.64,
+    "count": 18,
+    "top_news": "https://www.israelnationalnews.com/news/424442",
     "event_codes": {
-      "19": 17,
-      "18": 2,
-      "17": 1
+      "19": 10,
+      "17": 6,
+      "18": 2
     },
     "keywords": [
-      "politics",
-      "2026",
-      "who",
-      "running",
-      "iran",
-      "cia",
-      "mossad",
-      "search",
-      "for",
-      "signs",
-      "unseen",
-      "supreme",
-      "leader",
-      "mojtaba",
-      "khamenei",
-      "proof",
-      "hes",
-      "the",
-      "helm"
+      "news",
+      "424442"
     ]
   },
-  "LBN": {
-    "risk_score": 4.92,
+  "NGA": {
+    "risk_score": 3.6,
     "count": 5,
-    "top_news": "https://euobserver.com/author/dominika-pihova/",
+    "top_news": "https://www.the-messenger.com/news/world/article_c7c90a2c-641d-5f48-bb61-495362017a04.html",
     "event_codes": {
-      "19": 4,
+      "17": 2,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "article",
+      "c7c90a2c",
+      "641d",
+      "5f48",
+      "bb61",
+      "495362017a04.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://havanatimes.org/news/international-news-briefs-for-monday-march-23-2026/",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "author",
-      "dominika",
-      "pihova"
+      "news",
+      "international",
+      "news",
+      "briefs",
+      "for",
+      "monday",
+      "march",
+      "2026"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/business/5254372-policy-resilience-and-transport-lifelines-saudi-arabia%E2%80%99s-shield-against-hormuz",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "business",
+      "5254372",
+      "policy",
+      "resilience",
+      "and",
+      "transport",
+      "lifelines",
+      "saudi",
+      "arabia%e2%80%99s",
+      "shield",
+      "against",
+      "hormuz"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.straitstimes.com/singapore/trio-arrested-for-allegedly-setting-off-fireworks-in-ghim-moh",
+    "event_codes": {
+      "15": 4
+    },
+    "keywords": [
+      "singapore",
+      "trio",
+      "arrested",
+      "for",
+      "allegedly",
+      "setting",
+      "off",
+      "fireworks",
+      "ghim",
+      "moh"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.journalismpakistan.com/turkish-reporter-arrested-under-disinformation-charge",
+    "event_codes": {
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "turkish",
+      "reporter",
+      "arrested",
+      "under",
+      "disinformation",
+      "charge"
+    ]
+  },
+  "VEN": {
+    "risk_score": 9.4,
+    "count": 10,
+    "top_news": "https://www.dailymail.co.uk/news/article-15671149/illinois-governor-jb-pritzker-minnesota-ice-sheridan-gorman.html",
+    "event_codes": {
+      "19": 8,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15671149",
+      "illinois",
+      "governor",
+      "pritzker",
+      "minnesota",
+      "ice",
+      "sheridan",
+      "gorman.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/standard-rifle-now-anti-drone-152347059.html",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "standard",
+      "rifle",
+      "now",
+      "anti",
+      "drone",
+      "152347059.html"
     ]
   }
 }
