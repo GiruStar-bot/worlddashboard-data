@@ -1,94 +1,138 @@
 {
-  "IRN": {
-    "risk_score": 10.12,
-    "count": 11,
-    "top_news": "https://www.dailymail.co.uk/news/article-15669875/Why-did-PM-public-dark-30-hours-Chagos-strike-Tory-leader-accuses-Starmer-culture-cover-ups-Iran-attack-US-UK-base.html",
+  "BFA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.thetidenewsonline.com/2026/03/nigeria-recorded-two-worlds-deadliest-terror-attacks-in-2025-report/",
     "event_codes": {
-      "19": 9,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15669875",
-      "why",
-      "did",
-      "public",
-      "dark",
-      "hours",
-      "chagos",
-      "strike",
-      "tory",
-      "leader",
-      "accuses",
-      "starmer",
-      "culture",
-      "cover",
-      "ups",
-      "iran",
-      "attack",
-      "base.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.gdnonline.com:443/Details/1379355",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "details",
-      "1379355"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1379355",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "details",
-      "1379355"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.northwestsignal.net/news/article_9bd21c3a-952d-5972-bac6-427b1ded531c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "9bd21c3a",
-      "952d",
-      "5972",
-      "bac6",
-      "427b1ded531c.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://news.antiwar.com/2026/03/22/two-killed-by-us-missile-strike-on-boat-in-the-eastern-pacific/",
-    "event_codes": {
-      "18": 3
+      "19": 6
     },
     "keywords": [
       "2026",
+      "nigeria",
+      "recorded",
       "two",
-      "killed",
-      "missile",
-      "strike",
-      "boat",
+      "worlds",
+      "deadliest",
+      "terror",
+      "attacks",
+      "2025",
+      "report"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.75,
+    "count": 23,
+    "top_news": "https://asianews.network/vessels-are-becoming-like-jails-concern-mounts-for-sailors-stranded-in-persian-gulf/",
+    "event_codes": {
+      "19": 19,
+      "18": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "vessels",
+      "are",
+      "becoming",
+      "like",
+      "jails",
+      "concern",
+      "mounts",
+      "for",
+      "sailors",
+      "stranded",
+      "persian",
+      "gulf"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.43,
+    "count": 9,
+    "top_news": "https://original.antiwar.com/david_gornoski/2026/03/22/netanyahus-pagan-confession-christs-active-kingship-collapses-bibis-genghis-khan-fantasy/",
+    "event_codes": {
+      "19": 6,
+      "16": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "david",
+      "gornoski",
+      "2026",
+      "netanyahus",
+      "pagan",
+      "confession",
+      "christs",
+      "active",
+      "kingship",
+      "collapses",
+      "bibis",
+      "genghis",
+      "khan",
+      "fantasy"
+    ]
+  },
+  "NER": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.thetidenewsonline.com/2026/03/nigeria-recorded-two-worlds-deadliest-terror-attacks-in-2025-report/",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "nigeria",
+      "recorded",
+      "two",
+      "worlds",
+      "deadliest",
+      "terror",
+      "attacks",
+      "2025",
+      "report"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.0,
+    "count": 13,
+    "top_news": "https://www.thetidenewsonline.com/2026/03/explosions-rock-lagos-criver-kill-one-injure-40/",
+    "event_codes": {
+      "19": 9,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "explosions",
+      "rock",
+      "lagos",
+      "criver",
+      "kill",
+      "one",
+      "injure"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://mynorthwest.com/national/the-latest-us-central-command-leader-says-iran-campaign-is-ahead-or-on-plan/4220127",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "national",
       "the",
-      "eastern",
-      "pacific"
+      "latest",
+      "central",
+      "command",
+      "leader",
+      "says",
+      "iran",
+      "campaign",
+      "ahead",
+      "plan",
+      "4220127"
     ]
   }
 }
