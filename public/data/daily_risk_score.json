@@ -1,36 +1,44 @@
 {
   "IRN": {
-    "risk_score": 16.27,
-    "count": 18,
-    "top_news": "https://www.nwaonline.com/news/2026/mar/23/strait-closure-threatened-if-us-hits-plants/",
+    "risk_score": 10.4,
+    "count": 11,
+    "top_news": "https://www.cbc.ca/news/world/israel-new-attacks-tehran-9.7138210",
     "event_codes": {
-      "19": 13,
-      "14": 4,
-      "15": 1
+      "19": 9,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "mar",
-      "strait",
-      "closure",
-      "threatened",
-      "hits",
-      "plants"
+      "world",
+      "israel",
+      "new",
+      "attacks",
+      "tehran",
+      "9.7138210"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.spacewar.com/afp/260323102032.1i55psxt.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "afp",
+      "260323102032.1i55psxt.html"
     ]
   },
   "ISR": {
-    "risk_score": 9.8,
-    "count": 10,
-    "top_news": "https://nypost.com/2026/03/23/world-news/iran-threatens-to-start-hitting-gulf-power-plants-and-mine-waters-as-israel-launches-new-attacks/",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.kfvs12.com/2026/03/23/iran-threatens-start-hitting-gulf-power-plants-mine-waters-israel-launches-new-attacks/",
     "event_codes": {
-      "19": 8,
-      "18": 2
+      "19": 9
     },
     "keywords": [
       "2026",
-      "world",
-      "news",
       "iran",
       "threatens",
       "start",
@@ -38,7 +46,6 @@
       "gulf",
       "power",
       "plants",
-      "and",
       "mine",
       "waters",
       "israel",
@@ -47,45 +54,48 @@
       "attacks"
     ]
   },
-  "LBN": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://www.nwaonline.com/news/2026/mar/23/strait-closure-threatened-if-us-hits-plants/",
+  "NGA": {
+    "risk_score": 11.69,
+    "count": 16,
+    "top_news": "https://www.cnbcafrica.com/2026/us-drones-deployed-to-nigeria-alongside-troops-for-intelligence-training",
     "event_codes": {
-      "17": 3
+      "17": 5,
+      "19": 4,
+      "14": 3,
+      "15": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "drones",
+      "deployed",
+      "nigeria",
+      "alongside",
+      "troops",
+      "for",
+      "intelligence",
+      "training"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newkerala.com/news/a/tip-iceberg-iranian-state-media-reveals-missile-filled-underground-945.htm",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "mar",
-      "strait",
-      "closure",
-      "threatened",
-      "hits",
-      "plants"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.85,
-    "count": 11,
-    "top_news": "https://nigerianobservernews.com/2026/03/viral-edo-school-bullying-arrest-suspects-to-face-family-court-police/",
-    "event_codes": {
-      "19": 6,
-      "17": 4,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "viral",
-      "edo",
-      "school",
-      "bullying",
-      "arrest",
-      "suspects",
-      "face",
-      "family",
-      "court",
-      "police"
+      "tip",
+      "iceberg",
+      "iranian",
+      "state",
+      "media",
+      "reveals",
+      "missile",
+      "filled",
+      "underground",
+      "945.htm"
     ]
   }
 }
