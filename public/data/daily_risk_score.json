@@ -1,68 +1,72 @@
 {
   "IRN": {
-    "risk_score": 12.79,
-    "count": 14,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=442475",
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "http://www.bignewsnetwork.com/news/278940013/for-iran-war-to-end-us-participation-alone-would-not-suffice-ex-diplomat-goel",
     "event_codes": {
-      "19": 9,
-      "15": 2,
-      "18": 2,
-      "14": 1
+      "19": 4,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "article.aspx"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.jpost.com/middle-east/article-890986",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "890986"
+      "278940013",
+      "for",
+      "iran",
+      "war",
+      "end",
+      "participation",
+      "alone",
+      "would",
+      "not",
+      "suffice",
+      "diplomat",
+      "goel"
     ]
   },
   "ISR": {
-    "risk_score": 13.25,
-    "count": 15,
-    "top_news": "https://www.thetimes.com/world/middle-east/israel-iran/article/how-many-missiles-iran-war-ztwhk5twp",
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "http://www.bignewsnetwork.com/news/278940002/increasing-hostilities-along-blue-line-hike-casualties-displacement-in-southern-lebanon-un",
     "event_codes": {
-      "19": 9,
-      "18": 3,
-      "14": 2,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "iran",
-      "article",
-      "how",
-      "many",
-      "missiles",
-      "iran",
-      "war",
-      "ztwhk5twp"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=442475",
-    "event_codes": {
-      "19": 3
+      "19": 3,
+      "18": 2
     },
     "keywords": [
       "news",
-      "article.aspx"
+      "278940002",
+      "increasing",
+      "hostilities",
+      "along",
+      "blue",
+      "line",
+      "hike",
+      "casualties",
+      "displacement",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/278940002/increasing-hostilities-along-blue-line-hike-casualties-displacement-in-southern-lebanon-un",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "278940002",
+      "increasing",
+      "hostilities",
+      "along",
+      "blue",
+      "line",
+      "hike",
+      "casualties",
+      "displacement",
+      "southern",
+      "lebanon"
     ]
   }
 }
