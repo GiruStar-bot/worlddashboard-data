@@ -1,101 +1,142 @@
 {
   "IRN": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.cbc.ca/news/world/israel-new-attacks-tehran-9.7138210",
+    "risk_score": 34.55,
+    "count": 39,
+    "top_news": "https://www.standard.co.uk/news/politics/missile-attack-iran-london-diego-garcia-trump-war-b1276031.html",
     "event_codes": {
-      "19": 9,
+      "19": 26,
+      "14": 7,
+      "18": 3,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "missile",
+      "attack",
+      "iran",
+      "london",
+      "diego",
+      "garcia",
+      "trump",
+      "war",
+      "b1276031.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/economy/2026/3/23/iran-war-whats-happening-on-day-24-of-us-israel-attacks",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "economy",
+      "2026",
+      "iran",
+      "war",
+      "whats",
+      "happening",
+      "day",
+      "israel",
+      "attacks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 26.4,
+    "count": 27,
+    "top_news": "https://www.israelnationalnews.com/flashes/680763",
+    "event_codes": {
+      "19": 25,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "israel",
-      "new",
-      "attacks",
-      "tehran",
-      "9.7138210"
+      "flashes",
+      "680763"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260323102032.1i55psxt.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "afp",
-      "260323102032.1i55psxt.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.0,
+  "LBN": {
+    "risk_score": 8.4,
     "count": 9,
-    "top_news": "https://www.kfvs12.com/2026/03/23/iran-threatens-start-hitting-gulf-power-plants-mine-waters-israel-launches-new-attacks/",
+    "top_news": "https://www.bankingnews.gr/diethni/articles/864015/iran-and-us-trade-threats-as-tensions-flare-in-the-persian-gulf",
     "event_codes": {
-      "19": 9
+      "19": 7,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
+      "diethni",
+      "articles",
+      "864015",
       "iran",
-      "threatens",
-      "start",
-      "hitting",
-      "gulf",
-      "power",
-      "plants",
-      "mine",
-      "waters",
-      "israel",
-      "launches",
-      "new",
-      "attacks"
+      "and",
+      "trade",
+      "threats",
+      "tensions",
+      "flare",
+      "the",
+      "persian",
+      "gulf"
     ]
   },
-  "NGA": {
-    "risk_score": 11.69,
-    "count": 16,
-    "top_news": "https://www.cnbcafrica.com/2026/us-drones-deployed-to-nigeria-alongside-troops-for-intelligence-training",
+  "PSE": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/864015/iran-and-us-trade-threats-as-tensions-flare-in-the-persian-gulf",
     "event_codes": {
-      "17": 5,
-      "19": 4,
-      "14": 3,
-      "15": 2,
-      "18": 2
+      "19": 6,
+      "20": 2
     },
     "keywords": [
-      "2026",
-      "drones",
-      "deployed",
-      "nigeria",
-      "alongside",
-      "troops",
-      "for",
-      "intelligence",
-      "training"
+      "diethni",
+      "articles",
+      "864015",
+      "iran",
+      "and",
+      "trade",
+      "threats",
+      "tensions",
+      "flare",
+      "the",
+      "persian",
+      "gulf"
     ]
   },
   "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.newkerala.com/news/a/tip-iceberg-iranian-state-media-reveals-missile-filled-underground-945.htm",
+    "top_news": "https://openthemagazine.com/world/will-a-reluctant-pakistan-be-drawn-into-the-iran-war",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "world",
+      "will",
+      "reluctant",
+      "pakistan",
+      "drawn",
+      "into",
+      "the",
+      "iran",
+      "war"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.express.co.uk/news/uk/2185291/migrant-shoots-student-dead",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "news",
-      "tip",
-      "iceberg",
-      "iranian",
-      "state",
-      "media",
-      "reveals",
-      "missile",
-      "filled",
-      "underground",
-      "945.htm"
+      "2185291",
+      "migrant",
+      "shoots",
+      "student",
+      "dead"
     ]
   }
 }
