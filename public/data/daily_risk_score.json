@@ -1,72 +1,83 @@
 {
-  "IRN": {
-    "risk_score": 5.55,
-    "count": 6,
-    "top_news": "http://www.bignewsnetwork.com/news/278940013/for-iran-war-to-end-us-participation-alone-would-not-suffice-ex-diplomat-goel",
+  "CHL": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://hitconsultant.net/2026/03/20/xcath-worlds-first-telerobotic-stroke-surgery-mechanical-thrombectomy/",
     "event_codes": {
-      "19": 4,
-      "14": 1,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "278940013",
-      "for",
+      "2026",
+      "xcath",
+      "worlds",
+      "first",
+      "telerobotic",
+      "stroke",
+      "surgery",
+      "mechanical",
+      "thrombectomy"
+    ]
+  },
+  "COL": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailymaverick.co.za/article/2026-03-23-colombian-military-plane-with-125-on-board-crashes-after-takeoff-sources-say-71-rescued/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "colombian",
+      "military",
+      "plane",
+      "with",
+      "125",
+      "board",
+      "crashes",
+      "after",
+      "takeoff",
+      "sources",
+      "say",
+      "rescued"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://www.thewrap.com/media-platforms/politics/joe-scarborough-chuck-schumer-iran-spar-donald-trump/",
+    "event_codes": {
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "media",
+      "platforms",
+      "politics",
+      "joe",
+      "scarborough",
+      "chuck",
+      "schumer",
       "iran",
-      "war",
-      "end",
-      "participation",
-      "alone",
-      "would",
-      "not",
-      "suffice",
-      "diplomat",
-      "goel"
+      "spar",
+      "donald",
+      "trump"
     ]
   },
   "ISR": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "http://www.bignewsnetwork.com/news/278940002/increasing-hostilities-along-blue-line-hike-casualties-displacement-in-southern-lebanon-un",
+    "risk_score": 6.8,
+    "count": 9,
+    "top_news": "https://www.spacewar.com/afp/260323204419.m2iz3j8w.html",
     "event_codes": {
-      "19": 3,
-      "18": 2
+      "18": 3,
+      "14": 2,
+      "17": 2,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "278940002",
-      "increasing",
-      "hostilities",
-      "along",
-      "blue",
-      "line",
-      "hike",
-      "casualties",
-      "displacement",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278940002/increasing-hostilities-along-blue-line-hike-casualties-displacement-in-southern-lebanon-un",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278940002",
-      "increasing",
-      "hostilities",
-      "along",
-      "blue",
-      "line",
-      "hike",
-      "casualties",
-      "displacement",
-      "southern",
-      "lebanon"
+      "afp",
+      "260323204419.m2iz3j8w.html"
     ]
   }
 }
