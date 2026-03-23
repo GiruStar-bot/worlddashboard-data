@@ -1,102 +1,91 @@
 {
   "IRN": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://panow.com/2026/03/22/israel-launches-new-wave-of-attacks-on-tehran-and-iran-threatens-to-start-hitting-gulf-power-plants/",
+    "risk_score": 16.27,
+    "count": 18,
+    "top_news": "https://www.nwaonline.com/news/2026/mar/23/strait-closure-threatened-if-us-hits-plants/",
     "event_codes": {
-      "19": 9,
-      "14": 2,
-      "17": 2
+      "19": 13,
+      "14": 4,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mar",
+      "strait",
+      "closure",
+      "threatened",
+      "hits",
+      "plants"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.8,
+    "count": 10,
+    "top_news": "https://nypost.com/2026/03/23/world-news/iran-threatens-to-start-hitting-gulf-power-plants-and-mine-waters-as-israel-launches-new-attacks/",
+    "event_codes": {
+      "19": 8,
+      "18": 2
     },
     "keywords": [
       "2026",
-      "israel",
-      "launches",
-      "new",
-      "wave",
-      "attacks",
-      "tehran",
-      "and",
+      "world",
+      "news",
       "iran",
       "threatens",
       "start",
       "hitting",
       "gulf",
       "power",
+      "plants",
+      "and",
+      "mine",
+      "waters",
+      "israel",
+      "launches",
+      "new",
+      "attacks"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.34,
+    "count": 3,
+    "top_news": "https://www.nwaonline.com/news/2026/mar/23/strait-closure-threatened-if-us-hits-plants/",
+    "event_codes": {
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mar",
+      "strait",
+      "closure",
+      "threatened",
+      "hits",
       "plants"
     ]
   },
-  "ISR": {
-    "risk_score": 13.12,
-    "count": 14,
-    "top_news": "https://countercurrents.org/2026/03/israel-kills-5-palestinians-in-gaza-as-ceasefire-violations-continue/",
+  "NGA": {
+    "risk_score": 8.85,
+    "count": 11,
+    "top_news": "https://nigerianobservernews.com/2026/03/viral-edo-school-bullying-arrest-suspects-to-face-family-court-police/",
     "event_codes": {
-      "19": 11,
-      "14": 2,
-      "15": 1
+      "19": 6,
+      "17": 4,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "israel",
-      "kills",
-      "palestinians",
-      "gaza",
-      "ceasefire",
-      "violations",
-      "continue"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.95,
-    "count": 5,
-    "top_news": "https://www.the-star.co.ke/news/2026-03-23-uon-students-clash-with-police-amid-water-shortage-protest",
-    "event_codes": {
-      "14": 3,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "uon",
-      "students",
-      "clash",
-      "with",
-      "police",
-      "amid",
-      "water",
-      "shortage",
-      "protest"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.livemint.com/news/world/us-israel-iran-war-live-updates-strait-of-hormuz-oil-prices-uae-qatar-dubai-trump-tehran-attack-march-23-2026-11774223186426.html",
-    "event_codes": {
-      "14": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "israel",
-      "iran",
-      "war",
-      "live",
-      "updates",
-      "strait",
-      "hormuz",
-      "oil",
-      "prices",
-      "uae",
-      "qatar",
-      "dubai",
-      "trump",
-      "tehran",
-      "attack",
-      "march",
-      "2026",
-      "11774223186426.html"
+      "viral",
+      "edo",
+      "school",
+      "bullying",
+      "arrest",
+      "suspects",
+      "face",
+      "family",
+      "court",
+      "police"
     ]
   }
 }
