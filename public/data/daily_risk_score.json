@@ -1,217 +1,156 @@
 {
-  "CHL": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://havanatimes.org/news/international-news-briefs-for-monday-march-23-2026/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "news",
-      "briefs",
-      "for",
-      "monday",
-      "march",
-      "2026"
-    ]
-  },
-  "EGY": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.kurv.com/israeli-settlers-smash-cars-and-set-fires-in-the-west-bank-as-4-palestinians-killed-in-gaza/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "israeli",
-      "settlers",
-      "smash",
-      "cars",
-      "and",
-      "set",
-      "fires",
-      "the",
-      "west",
-      "bank",
-      "palestinians",
-      "killed",
-      "gaza"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.2,
-    "count": 9,
-    "top_news": "https://www.mirror.co.uk/news/politics/uk-defence-secretary-gives-major-36911168",
+    "risk_score": 13.41,
+    "count": 15,
+    "top_news": "https://www.spacewar.com/afp/260323160456.0pgr6ijl.html",
     "event_codes": {
-      "19": 7,
+      "19": 9,
+      "17": 3,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "afp",
+      "260323160456.0pgr6ijl.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.35,
+    "count": 11,
+    "top_news": "https://www.spacewar.com/afp/260323142044.ikyqm9o8.html",
+    "event_codes": {
+      "19": 8,
+      "17": 3
+    },
+    "keywords": [
+      "afp",
+      "260323142044.ikyqm9o8.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.spacewar.com/afp/260323142044.ikyqm9o8.html",
+    "event_codes": {
+      "19": 3,
       "16": 1,
       "17": 1
     },
     "keywords": [
-      "news",
-      "politics",
-      "defence",
-      "secretary",
-      "gives",
-      "major",
-      "36911168"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.64,
-    "count": 18,
-    "top_news": "https://www.israelnationalnews.com/news/424442",
-    "event_codes": {
-      "19": 10,
-      "17": 6,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "424442"
+      "afp",
+      "260323142044.ikyqm9o8.html"
     ]
   },
   "NGA": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://www.the-messenger.com/news/world/article_c7c90a2c-641d-5f48-bb61-495362017a04.html",
+    "risk_score": 9.75,
+    "count": 12,
+    "top_news": "https://punchng.com/police-arraign-baruwa-others-deny-shooting-nurtw-members-in-abuja/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "14": 1
+      "19": 7,
+      "17": 3,
+      "14": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "article",
-      "c7c90a2c",
-      "641d",
-      "5f48",
-      "bb61",
-      "495362017a04.html"
+      "police",
+      "arraign",
+      "baruwa",
+      "others",
+      "deny",
+      "shooting",
+      "nurtw",
+      "members",
+      "abuja"
     ]
   },
-  "PSE": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://havanatimes.org/news/international-news-briefs-for-monday-march-23-2026/",
+  "QAT": {
+    "risk_score": 5.32,
+    "count": 7,
+    "top_news": "https://www.dailysabah.com/politics/turkiye-bids-farewell-to-qatar-helicopter-crash-martyrs/news",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "15": 6,
+      "19": 1
+    },
+    "keywords": [
+      "politics",
+      "turkiye",
+      "bids",
+      "farewell",
+      "qatar",
+      "helicopter",
+      "crash",
+      "martyrs",
+      "news"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://www.thehindu.com/news/international/as-conflicts-intensify-in-sudan-and-south-sudan-fleeing-civilians-are-caught-within-closed-borders/article70775877.ece",
+    "event_codes": {
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "news",
       "international",
-      "news",
-      "briefs",
-      "for",
-      "monday",
-      "march",
-      "2026"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://english.aawsat.com/business/5254372-policy-resilience-and-transport-lifelines-saudi-arabia%E2%80%99s-shield-against-hormuz",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "business",
-      "5254372",
-      "policy",
-      "resilience",
+      "conflicts",
+      "intensify",
+      "sudan",
       "and",
-      "transport",
-      "lifelines",
-      "saudi",
-      "arabia%e2%80%99s",
-      "shield",
-      "against",
-      "hormuz"
-    ]
-  },
-  "SGP": {
-    "risk_score": 2.88,
-    "count": 4,
-    "top_news": "https://www.straitstimes.com/singapore/trio-arrested-for-allegedly-setting-off-fireworks-in-ghim-moh",
-    "event_codes": {
-      "15": 4
-    },
-    "keywords": [
-      "singapore",
-      "trio",
-      "arrested",
-      "for",
-      "allegedly",
-      "setting",
-      "off",
-      "fireworks",
-      "ghim",
-      "moh"
+      "south",
+      "sudan",
+      "fleeing",
+      "civilians",
+      "are",
+      "caught",
+      "within",
+      "closed",
+      "borders",
+      "article70775877.ece"
     ]
   },
   "TUR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.journalismpakistan.com/turkish-reporter-arrested-under-disinformation-charge",
+    "risk_score": 3.52,
+    "count": 5,
+    "top_news": "https://www.dailysabah.com/politics/turkiye-bids-farewell-to-qatar-helicopter-crash-martyrs/news",
     "event_codes": {
       "14": 2,
-      "17": 2
-    },
-    "keywords": [
-      "turkish",
-      "reporter",
-      "arrested",
-      "under",
-      "disinformation",
-      "charge"
-    ]
-  },
-  "VEN": {
-    "risk_score": 9.4,
-    "count": 10,
-    "top_news": "https://www.dailymail.co.uk/news/article-15671149/illinois-governor-jb-pritzker-minnesota-ice-sheridan-gorman.html",
-    "event_codes": {
-      "19": 8,
+      "15": 1,
       "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15671149",
-      "illinois",
-      "governor",
-      "pritzker",
-      "minnesota",
-      "ice",
-      "sheridan",
-      "gorman.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/standard-rifle-now-anti-drone-152347059.html",
-    "event_codes": {
-      "17": 2,
       "19": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "standard",
-      "rifle",
-      "now",
-      "anti",
-      "drone",
-      "152347059.html"
+      "politics",
+      "turkiye",
+      "bids",
+      "farewell",
+      "qatar",
+      "helicopter",
+      "crash",
+      "martyrs",
+      "news"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://chicago.suntimes.com/crime/2026/03/23/chicago-crime-trump-sheridan-gorman-loyola-murder-shooting-deportation-immigration",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "crime",
+      "2026",
+      "chicago",
+      "crime",
+      "trump",
+      "sheridan",
+      "gorman",
+      "loyola",
+      "murder",
+      "shooting",
+      "deportation",
+      "immigration"
     ]
   }
 }
