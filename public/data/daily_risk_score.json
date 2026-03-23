@@ -1,106 +1,164 @@
 {
-  "IRN": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://www.wiltsglosstandard.co.uk/news/national/25960791.government-must-plan-iran-war-continue-for-time-starmer-says/",
-    "event_codes": {
-      "19": 3,
-      "14": 1,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "25960791.government",
-      "must",
-      "plan",
-      "iran",
-      "war",
-      "continue",
-      "for",
-      "time",
-      "starmer",
-      "says"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.thebostonpilot.com/article.php?ID=202171",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "article.php"
-    ]
-  },
-  "SDN": {
+  "BOL": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/64-dead-in-east-darfur-hospital-strike-who-reports-2000-killed-in-sudan-health-facilities",
+    "top_news": "https://www.independent.co.uk/news/world/europe/lithuania-belarus-drone-varena-lake-b2944075.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "all",
       "news",
-      "article",
-      "dead",
-      "east",
-      "darfur",
-      "hospital",
-      "strike",
-      "who",
-      "reports",
-      "2000",
-      "killed",
-      "sudan",
-      "health",
-      "facilities"
+      "world",
+      "europe",
+      "lithuania",
+      "belarus",
+      "drone",
+      "varena",
+      "lake",
+      "b2944075.html"
     ]
   },
-  "SSD": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/%E2%99%A6-sudan-news-highlights-%E2%99%A6-10",
+  "IRN": {
+    "risk_score": 13.5,
+    "count": 18,
+    "top_news": "https://www.islamicinvitationturkey.com/iran-and-resistance-groups-operations-against-us-israeli-interests-on-march-22nd/",
     "event_codes": {
-      "19": 3,
-      "15": 1
+      "14": 8,
+      "19": 6,
+      "17": 3,
+      "16": 1
     },
     "keywords": [
-      "all",
-      "news",
-      "article",
-      "%e2%99%a6",
-      "sudan",
-      "news",
-      "highlights",
-      "%e2%99%a6"
+      "iran",
+      "and",
+      "resistance",
+      "groups",
+      "operations",
+      "against",
+      "israeli",
+      "interests",
+      "march",
+      "22nd"
     ]
   },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.foxnews.com/politics/pritzker-breaks-silence-migrant-charged-students-murder-blames-trump-politicizing-case",
+  "ISR": {
+    "risk_score": 20.25,
+    "count": 22,
+    "top_news": "https://www.jns.org/opinion/mosiuoa-lekota-knew-apartheid",
     "event_codes": {
-      "17": 3,
+      "19": 15,
+      "17": 2,
+      "18": 2,
+      "20": 2,
+      "16": 1
+    },
+    "keywords": [
+      "opinion",
+      "mosiuoa",
+      "lekota",
+      "knew",
+      "apartheid"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.edmontonexaminer.com:443/news/crime/an-edmonton-man-was-convicted-of-killing-a-sex-offender-in-jail-hes-now-been-found-guilty-of-another-homicide",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "crime",
+      "edmonton",
+      "man",
+      "was",
+      "convicted",
+      "killing",
+      "sex",
+      "offender",
+      "jail",
+      "hes",
+      "now",
+      "been",
+      "found",
+      "guilty",
+      "another",
+      "homicide"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.islamicinvitationturkey.com/iran-and-resistance-groups-operations-against-us-israeli-interests-on-march-22nd/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "iran",
+      "and",
+      "resistance",
+      "groups",
+      "operations",
+      "against",
+      "israeli",
+      "interests",
+      "march",
+      "22nd"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.74,
+    "count": 6,
+    "top_news": "https://www.opinionnigeria.com/the-reckoning-kaduna-demands-nasir-el-rufai-must-face-justice-not-as-a-matter-of-politics-but-as-a-matter-of-law-by-nnamdi-prince/",
+    "event_codes": {
+      "17": 4,
+      "18": 1,
       "19": 1
     },
     "keywords": [
+      "the",
+      "reckoning",
+      "kaduna",
+      "demands",
+      "nasir",
+      "rufai",
+      "must",
+      "face",
+      "justice",
+      "not",
+      "matter",
       "politics",
-      "pritzker",
-      "breaks",
-      "silence",
-      "migrant",
-      "charged",
-      "students",
-      "murder",
-      "blames",
-      "trump",
-      "politicizing",
-      "case"
+      "but",
+      "matter",
+      "law",
+      "nnamdi",
+      "prince"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://nypost.com/2026/03/23/us-news/loyola-student-sheridan-gormans-mom-makes-solemn-vow-after-daughters-murder/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "loyola",
+      "student",
+      "sheridan",
+      "gormans",
+      "mom",
+      "makes",
+      "solemn",
+      "vow",
+      "after",
+      "daughters",
+      "murder"
     ]
   }
 }
