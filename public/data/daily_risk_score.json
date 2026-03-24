@@ -1,62 +1,121 @@
 {
-  "COL": {
+  "IRN": {
+    "risk_score": 13.66,
+    "count": 16,
+    "top_news": "https://www.breitbart.com/middle-east/2026/03/24/iran-arrests-hundreds-for-online-activities-aimed-at-undermining-national-security/",
+    "event_codes": {
+      "19": 9,
+      "15": 3,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "iran",
+      "arrests",
+      "hundreds",
+      "for",
+      "online",
+      "activities",
+      "aimed",
+      "undermining",
+      "national",
+      "security"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.algemeiner.com/2026/03/24/airstrikes-target-hq-leader-iran-backed-shiite-militia-umbrella-group-iraq/",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "airstrikes",
+      "target",
+      "leader",
+      "iran",
+      "backed",
+      "shiite",
+      "militia",
+      "umbrella",
+      "group",
+      "iraq"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.85,
+    "count": 8,
+    "top_news": "https://www.breitbart.com/middle-east/2026/03/24/lebanon-ejects-iranian-ambassador-as-israel-digs-in-to-fight-hezbollah/",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "lebanon",
+      "ejects",
+      "iranian",
+      "ambassador",
+      "israel",
+      "digs",
+      "fight",
+      "hezbollah"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.24,
+    "count": 10,
+    "top_news": "https://www.aa.com.tr/en/middle-east/lebanon-says-israeli-strikes-have-killed-1-072-since-march-2/3877568",
+    "event_codes": {
+      "19": 6,
+      "15": 2,
+      "16": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "lebanon",
+      "says",
+      "israeli",
+      "strikes",
+      "have",
+      "killed",
+      "072",
+      "since",
+      "march",
+      "3877568"
+    ]
+  },
+  "VEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/search-four-missing-soldiers-colombia-112013978.html",
+    "top_news": "https://www.breitbart.com/politics/2026/03/24/chicago-democrat-suggests-sheridan-gorman-might-have-startled-illegal-alien-accused-murdering-her/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "search",
-      "four",
-      "missing",
-      "soldiers",
-      "colombia",
-      "112013978.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 8.47,
-    "count": 9,
-    "top_news": "https://www.spacewar.com/afp/260324200842.nt4rg3o3.html",
-    "event_codes": {
-      "19": 7,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "afp",
-      "260324200842.nt4rg3o3.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.82,
-    "count": 10,
-    "top_news": "https://www.spacewar.com/afp/260324200842.nt4rg3o3.html",
-    "event_codes": {
-      "19": 4,
-      "17": 3,
-      "14": 1,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "afp",
-      "260324200842.nt4rg3o3.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.spacewar.com/afp/260324202121.lz11f3dm.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "afp",
-      "260324202121.lz11f3dm.html"
+      "politics",
+      "2026",
+      "chicago",
+      "democrat",
+      "suggests",
+      "sheridan",
+      "gorman",
+      "might",
+      "have",
+      "startled",
+      "illegal",
+      "alien",
+      "accused",
+      "murdering",
+      "her"
     ]
   }
 }
