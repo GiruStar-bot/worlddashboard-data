@@ -1,133 +1,78 @@
 {
-  "COL": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://nypost.com/2026/03/24/us-news/trans-migrant-gets-sweetheart-plea-deal-in-rape-of-14-year-old-boy-inside-nyc-bodega-bathroom/",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/25/brazilian-court-grants-house-arrest-for-jailed-bolsonaro",
     "event_codes": {
-      "18": 3
+      "17": 4
     },
     "keywords": [
+      "category",
+      "world",
       "2026",
-      "news",
-      "trans",
-      "migrant",
-      "gets",
-      "sweetheart",
-      "plea",
-      "deal",
-      "rape",
-      "year",
-      "old",
-      "boy",
-      "inside",
-      "nyc",
-      "bodega",
-      "bathroom"
+      "brazilian",
+      "court",
+      "grants",
+      "house",
+      "arrest",
+      "for",
+      "jailed",
+      "bolsonaro"
     ]
   },
   "IRN": {
-    "risk_score": 7.34,
-    "count": 9,
-    "top_news": "https://www.braintreeandwithamtimes.co.uk/news/national/25962637.us-send-around-1-000-troops-82nd-airborne-division-middle-east/",
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/war-middle-east-latest-developments-140040731.html",
     "event_codes": {
-      "19": 5,
-      "15": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "25962637.us",
-      "send",
-      "around",
-      "000",
-      "troops",
-      "82nd",
-      "airborne",
-      "division",
-      "middle",
-      "east"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.72,
-    "count": 5,
-    "top_news": "https://www.haaretz.com/israel-news/israel-security/2026-03-24/ty-article/.premium/iran-missiles-hezbollah-rockets-fired-at-israel-kill-one-over-dozen-wounded/0000019d-20eb-d868-a1bd-7aeb4b040000",
-    "event_codes": {
-      "17": 2,
       "19": 2,
       "15": 1
     },
     "keywords": [
-      "israel",
       "news",
-      "israel",
-      "security",
-      "2026",
-      "article",
-      ".premium",
-      "iran",
-      "missiles",
-      "hezbollah",
-      "rockets",
-      "fired",
-      "israel",
-      "kill",
-      "one",
-      "over",
-      "dozen",
-      "wounded",
-      "0000019d",
-      "20eb",
-      "d868",
-      "a1bd",
-      "7aeb4b040000"
+      "articles",
+      "war",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "140040731.html"
     ]
   },
-  "NER": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.zmescience.com/science/news-science/spinosaurus-mirabilis-african-desert/",
+  "ISR": {
+    "risk_score": 8.45,
+    "count": 9,
+    "top_news": "https://www.yahoo.com/news/articles/war-middle-east-latest-developments-140040731.html",
     "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "science",
-      "news",
-      "science",
-      "spinosaurus",
-      "mirabilis",
-      "african",
-      "desert"
-    ]
-  },
-  "VEN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://nypost.com/2026/03/24/us-news/chicago-mayor-asked-about-citys-immigration-policies-after-illegal-immigrant-allegedly-killed-college-student/",
-    "event_codes": {
-      "19": 5,
+      "19": 8,
       "17": 1
     },
     "keywords": [
-      "2026",
       "news",
-      "chicago",
-      "mayor",
-      "asked",
-      "about",
-      "citys",
-      "immigration",
-      "policies",
-      "after",
-      "illegal",
-      "immigrant",
-      "allegedly",
-      "killed",
-      "college",
-      "student"
+      "articles",
+      "war",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "140040731.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theintercept.com/2026/03/22/beirut-lebanon-displaced-israel-iran-war/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "beirut",
+      "lebanon",
+      "displaced",
+      "israel",
+      "iran",
+      "war"
     ]
   }
 }
