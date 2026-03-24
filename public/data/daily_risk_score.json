@@ -1,101 +1,82 @@
 {
-  "IRN": {
-    "risk_score": 14.42,
-    "count": 18,
-    "top_news": "https://www.newsx.com/world/us-iran-talks-trump-claims-theres-progress-tehran-mojtaba-khamenei-denies-any-negotiations-and-israel-pm-netanyahu-insists-attacks-will-continue-everything-explained-187452/",
-    "event_codes": {
-      "19": 7,
-      "16": 4,
-      "14": 3,
-      "18": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "talks",
-      "trump",
-      "claims",
-      "theres",
-      "progress",
-      "tehran",
-      "mojtaba",
-      "khamenei",
-      "denies",
-      "any",
-      "negotiations",
-      "and",
-      "israel",
-      "netanyahu",
-      "insists",
-      "attacks",
-      "will",
-      "continue",
-      "everything",
-      "explained",
-      "187452"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.6,
-    "count": 12,
-    "top_news": "https://www.newsx.com/world/us-iran-talks-trump-claims-theres-progress-tehran-mojtaba-khamenei-denies-any-negotiations-and-israel-pm-netanyahu-insists-attacks-will-continue-everything-explained-187452/",
-    "event_codes": {
-      "19": 10,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "talks",
-      "trump",
-      "claims",
-      "theres",
-      "progress",
-      "tehran",
-      "mojtaba",
-      "khamenei",
-      "denies",
-      "any",
-      "negotiations",
-      "and",
-      "israel",
-      "netanyahu",
-      "insists",
-      "attacks",
-      "will",
-      "continue",
-      "everything",
-      "explained",
-      "187452"
-    ]
-  },
-  "LBN": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.semissourian.com/world/iran-targets-israel-and-gulf-arab-states-even-as-trump-says-us-is-in-talks-to-end-the-war-7ec3c6c4",
+    "top_news": "http://www.brazilsun.com/news/278940568/at-least-66-dead-in-hercules-c-130-crash",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "iran",
-      "targets",
+      "news",
+      "278940568",
+      "least",
+      "dead",
+      "hercules",
+      "130",
+      "crash"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.0,
+    "count": 19,
+    "top_news": "https://www.israelnationalnews.com/flashes/680885",
+    "event_codes": {
+      "19": 9,
+      "16": 6,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "flashes",
+      "680885"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.01,
+    "count": 12,
+    "top_news": "https://www.lbcgroup.tv/news/news-bulletin-reports/917607/israel-expands-ground-operations-in-south-lebanon-deepens-buffer-zone/en",
+    "event_codes": {
+      "19": 6,
+      "18": 3,
+      "15": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "bulletin",
+      "reports",
+      "917607",
       "israel",
-      "and",
-      "gulf",
-      "arab",
-      "states",
-      "even",
-      "trump",
-      "says",
-      "talks",
-      "end",
-      "the",
+      "expands",
+      "ground",
+      "operations",
+      "south",
+      "lebanon",
+      "deepens",
+      "buffer",
+      "zone"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/3/24/us-israel-war-on-iran-whats-happening-on-day-25-of-attacks",
+    "event_codes": {
+      "17": 5,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "israel",
       "war",
-      "7ec3c6c4"
+      "iran",
+      "whats",
+      "happening",
+      "day",
+      "attacks"
     ]
   }
 }
