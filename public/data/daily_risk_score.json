@@ -1,93 +1,139 @@
 {
   "IRN": {
-    "risk_score": 7.4,
-    "count": 9,
-    "top_news": "http://thepeninsulaqatar.com/article/24/03/2026/uae-defense-ministry-says-it-engaged-22-iran-origin-projectiles",
+    "risk_score": 4.95,
+    "count": 7,
+    "top_news": "https://www.hometownregister.com/news/national/war-in-the-middle-east-latest-developments/article_b153a7de-b5cc-58dc-9052-dfffa05cefad.html",
     "event_codes": {
-      "19": 5,
+      "19": 3,
+      "16": 2,
       "14": 1,
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "17": 1
     },
     "keywords": [
+      "news",
+      "national",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
       "article",
-      "2026",
-      "uae",
-      "defense",
-      "ministry",
-      "says",
-      "engaged",
-      "iran",
-      "origin",
-      "projectiles"
+      "b153a7de",
+      "b5cc",
+      "58dc",
+      "9052",
+      "dfffa05cefad.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.hometownregister.com/news/national/war-in-the-middle-east-latest-developments/article_b153a7de-b5cc-58dc-9052-dfffa05cefad.html",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article",
+      "b153a7de",
+      "b5cc",
+      "58dc",
+      "9052",
+      "dfffa05cefad.html"
     ]
   },
   "ISR": {
-    "risk_score": 11.8,
+    "risk_score": 13.15,
     "count": 16,
-    "top_news": "https://english.wafa.ps/Pages/Details/168609",
+    "top_news": "https://www.hometownregister.com/news/national/war-in-the-middle-east-latest-developments/article_b153a7de-b5cc-58dc-9052-dfffa05cefad.html",
     "event_codes": {
-      "17": 7,
-      "18": 7,
-      "19": 2
+      "19": 9,
+      "16": 2,
+      "17": 2,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168609"
+      "news",
+      "national",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article",
+      "b153a7de",
+      "b5cc",
+      "58dc",
+      "9052",
+      "dfffa05cefad.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://english.elpais.com/international/2026-03-24/israel-prepares-major-invasion-of-southern-lebanon-to-the-despair-of-its-inhabitants-entire-families-are-arriving-dead.html",
+  "KEN": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/news/2026-03-24-42-guns-surrendered-as-disarmament-gains-pace",
     "event_codes": {
-      "17": 2,
+      "14": 3,
       "19": 1
     },
     "keywords": [
-      "international",
+      "news",
       "2026",
-      "israel",
-      "prepares",
-      "major",
-      "invasion",
-      "southern",
-      "lebanon",
-      "the",
-      "despair",
-      "its",
-      "inhabitants",
-      "entire",
-      "families",
-      "are",
-      "arriving",
-      "dead.html"
+      "guns",
+      "surrendered",
+      "disarmament",
+      "gains",
+      "pace"
     ]
   },
-  "VEN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://english.elpais.com/usa/2026-03-24/sheridan-gorman-the-latest-case-trump-is-using-to-defend-the-expulsion-of-migrants.html",
+  "LBN": {
+    "risk_score": 16.3,
+    "count": 19,
+    "top_news": "https://news.az/news/israeli-air-strikes-hit-tyre-in-southern-lebanon",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 13,
+      "17": 3,
+      "16": 2,
+      "18": 1
     },
     "keywords": [
-      "usa",
-      "2026",
-      "sheridan",
-      "gorman",
-      "the",
-      "latest",
-      "case",
-      "trump",
-      "using",
-      "defend",
-      "the",
-      "expulsion",
-      "migrants.html"
+      "news",
+      "israeli",
+      "air",
+      "strikes",
+      "hit",
+      "tyre",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://news.az/news/israeli-strikes-kill-two-paramedics-in-southern-lebanon",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "strikes",
+      "kill",
+      "two",
+      "paramedics",
+      "southern",
+      "lebanon"
     ]
   }
 }
