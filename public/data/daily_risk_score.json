@@ -1,50 +1,74 @@
 {
-  "COL": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.israelnationalnews.com/flashes/680862",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "flashes",
-      "680862"
-    ]
-  },
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.washingtoninstitute.org/policy-analysis/irans-force-multiplier-tracking-wars-maritime-and-energy-effects",
+    "risk_score": 12.55,
+    "count": 16,
+    "top_news": "https://www.asiaone.com:443/world/rockets-launched-iraqs-mosul-towards-us-base-syria-sources-say",
     "event_codes": {
-      "19": 4
+      "19": 6,
+      "17": 5,
+      "18": 3,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
-      "policy",
-      "analysis",
-      "irans",
-      "force",
-      "multiplier",
-      "tracking",
-      "wars",
-      "maritime",
-      "and",
-      "energy",
-      "effects"
+      "world",
+      "rockets",
+      "launched",
+      "iraqs",
+      "mosul",
+      "towards",
+      "base",
+      "syria",
+      "sources",
+      "say"
     ]
   },
   "ISR": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.ktvb.com/article/news/nation-world/attack-on-iran/trump-deadline-iran-power-plant-strikes/507-a3c53754-19ab-4746-a234-901b486f611f",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "article",
+      "news",
+      "nation",
+      "world",
+      "attack",
+      "iran",
+      "trump",
+      "deadline",
+      "iran",
+      "power",
+      "plant",
+      "strikes",
+      "507",
+      "a3c53754",
+      "19ab",
+      "4746",
+      "a234",
+      "901b486f611f"
+    ]
+  },
+  "SYR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.wsws.org/en/articles/2026/03/23/smhc-m23.html",
+    "top_news": "https://www.asiaone.com:443/world/rockets-launched-iraqs-mosul-towards-us-base-syria-sources-say",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "articles",
-      "2026",
-      "smhc",
-      "m23.html"
+      "world",
+      "rockets",
+      "launched",
+      "iraqs",
+      "mosul",
+      "towards",
+      "base",
+      "syria",
+      "sources",
+      "say"
     ]
   }
 }
