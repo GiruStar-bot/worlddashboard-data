@@ -1,103 +1,150 @@
 {
   "IRN": {
-    "risk_score": 14.64,
-    "count": 16,
-    "top_news": "https://www.abc.net.au/news/2026-03-26/what-we-know-about-iran-war-negotiations/106496052",
+    "risk_score": 15.04,
+    "count": 18,
+    "top_news": "http://www.jpost.com/israel-news/politics-and-diplomacy/article-891214",
     "event_codes": {
       "19": 10,
-      "17": 4,
-      "18": 2
+      "16": 3,
+      "17": 2,
+      "18": 2,
+      "15": 1
     },
     "keywords": [
+      "israel",
+      "news",
+      "politics",
+      "and",
+      "diplomacy",
+      "article",
+      "891214"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.kawc.org/npr-news/2026-03-25/iran-rejects-trumps-proposal-to-end-the-war-and-lays-out-5-conditions",
+    "event_codes": {
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "npr",
       "news",
       "2026",
-      "what",
-      "know",
-      "about",
       "iran",
+      "rejects",
+      "trumps",
+      "proposal",
+      "end",
+      "the",
       "war",
-      "negotiations",
-      "106496052"
+      "and",
+      "lays",
+      "out",
+      "conditions"
     ]
   },
   "ISR": {
-    "risk_score": 6.9,
-    "count": 8,
-    "top_news": "https://www.unocha.org:443/news/todays-top-news-lebanon-occupied-palestinian-territory-sudan-ukraine-somalia",
+    "risk_score": 15.52,
+    "count": 20,
+    "top_news": "https://www.reflector.com/news/national/iran-rejects-us-ceasefire-plan-issues-its-own-demands-as-strikes-land-across-the-mideast/article_7aa1c64d-4258-54ab-92a0-82d61be3feea.html",
     "event_codes": {
-      "19": 5,
-      "14": 2,
-      "16": 1
+      "19": 11,
+      "17": 6,
+      "16": 3
     },
     "keywords": [
       "news",
-      "todays",
-      "top",
-      "news",
-      "lebanon",
-      "occupied",
-      "palestinian",
-      "territory",
-      "sudan",
-      "ukraine",
-      "somalia"
+      "national",
+      "iran",
+      "rejects",
+      "ceasefire",
+      "plan",
+      "issues",
+      "its",
+      "own",
+      "demands",
+      "strikes",
+      "land",
+      "across",
+      "the",
+      "mideast",
+      "article",
+      "7aa1c64d",
+      "4258",
+      "54ab",
+      "92a0",
+      "82d61be3feea.html"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://diplomat.so/articles/989/Cross-Border-Attacks-Escalate-Israel-Hezbollah-Tensions",
+    "risk_score": 8.64,
+    "count": 12,
+    "top_news": "https://www.thenationalnews.com/news/europe/2026/03/25/four-jailed-in-germany-over-hamas-weapons-depots/",
     "event_codes": {
-      "19": 3
+      "17": 6,
+      "19": 4,
+      "16": 2
     },
     "keywords": [
-      "articles",
-      "989",
-      "cross",
-      "border",
-      "attacks",
-      "escalate",
-      "israel",
-      "hezbollah",
-      "tensions"
+      "news",
+      "europe",
+      "2026",
+      "four",
+      "jailed",
+      "germany",
+      "over",
+      "hamas",
+      "weapons",
+      "depots"
     ]
   },
   "NGA": {
-    "risk_score": 8.25,
-    "count": 10,
-    "top_news": "https://dailytrust.com/dss-rescues-abducted-kano-lg-secretary-arrests-two-suspects/",
+    "risk_score": 11.77,
+    "count": 13,
+    "top_news": "https://theeagleonline.com.ng/businessday-to-launch-she-means-business-africas-first-womens-business-intelligence-ecosystem/",
     "event_codes": {
-      "19": 4,
-      "17": 3,
-      "18": 3
+      "19": 6,
+      "18": 5,
+      "17": 2
     },
     "keywords": [
-      "dss",
-      "rescues",
-      "abducted",
-      "kano",
-      "secretary",
-      "arrests",
-      "two",
-      "suspects"
+      "businessday",
+      "launch",
+      "she",
+      "means",
+      "business",
+      "africas",
+      "first",
+      "womens",
+      "business",
+      "intelligence",
+      "ecosystem"
     ]
   },
-  "YEM": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/iran-warns-ready-open-front-190213560.html",
+    "top_news": "https://www.kawc.org/npr-news/2026-03-25/iran-rejects-trumps-proposal-to-end-the-war-and-lays-out-5-conditions",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "npr",
       "news",
-      "articles",
+      "2026",
       "iran",
-      "warns",
-      "ready",
-      "open",
-      "front",
-      "190213560.html"
+      "rejects",
+      "trumps",
+      "proposal",
+      "end",
+      "the",
+      "war",
+      "and",
+      "lays",
+      "out",
+      "conditions"
     ]
   }
 }
