@@ -1,78 +1,131 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/03/25/brazilian-court-grants-house-arrest-for-jailed-bolsonaro",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "category",
-      "world",
-      "2026",
-      "brazilian",
-      "court",
-      "grants",
-      "house",
-      "arrest",
-      "for",
-      "jailed",
-      "bolsonaro"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.62,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/war-middle-east-latest-developments-140040731.html",
+    "risk_score": 14.0,
+    "count": 15,
+    "top_news": "https://www.thehindubusinessline.com/opinion/asim-munir-the-worlds-most-unlikely-peacemaker/article70780811.ece",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "19": 11,
+      "16": 3,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "war",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "140040731.html"
+      "opinion",
+      "asim",
+      "munir",
+      "the",
+      "worlds",
+      "most",
+      "unlikely",
+      "peacemaker",
+      "article70780811.ece"
     ]
   },
   "ISR": {
-    "risk_score": 8.45,
-    "count": 9,
-    "top_news": "https://www.yahoo.com/news/articles/war-middle-east-latest-developments-140040731.html",
+    "risk_score": 22.31,
+    "count": 24,
+    "top_news": "https://www.unionleader.com/news/military/israel-says-war-isn-t-ending-even-as-trump-touts-peace-talks/article_a194825a-324d-46cb-ae8f-3c1e5d4fb2b1.html",
     "event_codes": {
-      "19": 8,
-      "17": 1
+      "19": 16,
+      "15": 3,
+      "18": 3,
+      "16": 2
     },
     "keywords": [
       "news",
-      "articles",
+      "military",
+      "israel",
+      "says",
       "war",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "140040731.html"
+      "isn",
+      "ending",
+      "even",
+      "trump",
+      "touts",
+      "peace",
+      "talks",
+      "article",
+      "a194825a",
+      "324d",
+      "46cb",
+      "ae8f",
+      "3c1e5d4fb2b1.html"
     ]
   },
-  "LBN": {
+  "LBY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://theintercept.com/2026/03/22/beirut-lebanon-displaced-israel-iran-war/",
+    "top_news": "https://www.thehindubusinessline.com/opinion/asim-munir-the-worlds-most-unlikely-peacemaker/article70780811.ece",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "beirut",
-      "lebanon",
-      "displaced",
-      "israel",
-      "iran",
-      "war"
+      "opinion",
+      "asim",
+      "munir",
+      "the",
+      "worlds",
+      "most",
+      "unlikely",
+      "peacemaker",
+      "article70780811.ece"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://punchng.com/yilwatda-basiru-cleared-as-apc-maps-out-2027-convention/",
+    "event_codes": {
+      "14": 6
+    },
+    "keywords": [
+      "yilwatda",
+      "basiru",
+      "cleared",
+      "apc",
+      "maps",
+      "out",
+      "2027",
+      "convention"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://imemc.org/article/child-killed-several-palestinians-injured-across-gaza/",
+    "event_codes": {
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "article",
+      "child",
+      "killed",
+      "several",
+      "palestinians",
+      "injured",
+      "across",
+      "gaza"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.livemint.com/global/what-a-battle-to-reopen-the-strait-of-hormuz-would-look-like-11774400350798.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "global",
+      "what",
+      "battle",
+      "reopen",
+      "the",
+      "strait",
+      "hormuz",
+      "would",
+      "look",
+      "like",
+      "11774400350798.html"
     ]
   }
 }
