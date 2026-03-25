@@ -1,162 +1,84 @@
 {
-  "IRN": {
-    "risk_score": 15.62,
-    "count": 17,
-    "top_news": "https://www.guardian.co.tt/news/iran-rejects-us-ceasefire-plan-issues-its-own-demands-as-strikes-land-across-the-mideast-6.2.2547022.8517ce9f7f",
-    "event_codes": {
-      "19": 13,
-      "17": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "iran",
-      "rejects",
-      "ceasefire",
-      "plan",
-      "issues",
-      "its",
-      "own",
-      "demands",
-      "strikes",
-      "land",
-      "across",
-      "the",
-      "mideast",
-      "6.2.2547022.8517ce9f7f"
-    ]
-  },
-  "ISR": {
-    "risk_score": 20.2,
-    "count": 22,
-    "top_news": "https://www.bbc.co.uk/news/articles/c3dlxzjd30ro",
-    "event_codes": {
-      "19": 16,
-      "17": 3,
-      "18": 3
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "c3dlxzjd30ro"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://newrepublic.com/post/208157/trump-15-point-peace-plan-iran-pakistan",
-    "event_codes": {
-      "16": 3,
-      "19": 1
-    },
-    "keywords": [
-      "post",
-      "208157",
-      "trump",
-      "point",
-      "peace",
-      "plan",
-      "iran",
-      "pakistan"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.95,
-    "count": 10,
-    "top_news": "https://blueprint.ng/2-in-trouble-for-klling-19-year-old-student/",
-    "event_codes": {
-      "19": 5,
-      "14": 3,
-      "17": 2
-    },
-    "keywords": [
-      "trouble",
-      "for",
-      "klling",
-      "year",
-      "old",
-      "student"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/b19t3f11szx",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "article",
-      "b19t3f11szx"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.6,
-    "count": 5,
-    "top_news": "https://www.aspenpublicradio.org/2026-03-25/iran-rejects-trumps-proposal-to-end-the-war-and-lays-out-5-conditions",
-    "event_codes": {
-      "16": 4,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "rejects",
-      "trumps",
-      "proposal",
-      "end",
-      "the",
-      "war",
-      "and",
-      "lays",
-      "out",
-      "conditions"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.wmal.com/2026/03/25/tucker-carlson-calls-for-u-s-to-share-power-with-china-says-american-military-cant-defend-taiwan/",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "tucker",
-      "carlson",
-      "calls",
-      "for",
-      "share",
-      "power",
-      "with",
-      "china",
-      "says",
-      "american",
-      "military",
-      "cant",
-      "defend",
-      "taiwan"
-    ]
-  },
-  "VEN": {
+  "ECU": {
     "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://dailycaller.com/2026/03/25/loyola-phoenix-sheridan-gorman-murder-illegal-immigrant/",
+    "top_news": "https://truthout.org/articles/farmers-describe-torture-from-us-ecuadorian-joint-military-operation/",
     "event_codes": {
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "loyola",
-      "phoenix",
-      "sheridan",
-      "gorman",
-      "murder",
-      "illegal",
-      "immigrant"
+      "articles",
+      "farmers",
+      "describe",
+      "torture",
+      "from",
+      "ecuadorian",
+      "joint",
+      "military",
+      "operation"
+    ]
+  },
+  "IRN": {
+    "risk_score": 20.72,
+    "count": 21,
+    "top_news": "https://www.jpost.com/israel-news/article-891199",
+    "event_codes": {
+      "19": 20,
+      "15": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "891199"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.77,
+    "count": 6,
+    "top_news": "https://www.jpost.com/israel-news/article-891199",
+    "event_codes": {
+      "19": 4,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "891199"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://santamariatimes.com/news/calmatters/commentary/dan-walters/it-s-supposed-to-be-a-race-for-governor-but-candidates-and-voters-seem-disengaged/article_9ad4cbcf-ee16-4bd3-a560-a50bd9586216.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "calmatters",
+      "commentary",
+      "dan",
+      "walters",
+      "supposed",
+      "race",
+      "for",
+      "governor",
+      "but",
+      "candidates",
+      "and",
+      "voters",
+      "seem",
+      "disengaged",
+      "article",
+      "9ad4cbcf",
+      "ee16",
+      "4bd3",
+      "a560",
+      "a50bd9586216.html"
     ]
   }
 }
