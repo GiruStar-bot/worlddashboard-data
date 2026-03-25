@@ -1,62 +1,55 @@
 {
-  "IRN": {
-    "risk_score": 26.4,
-    "count": 30,
-    "top_news": "https://newrepublic.com/post/208173/white-house-karoline-leavitt-trump-mission-accomplished-regime-change-iran",
+  "BHR": {
+    "risk_score": 3.42,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1379568",
     "event_codes": {
-      "19": 17,
-      "17": 5,
-      "15": 4,
-      "18": 4
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "post",
-      "208173",
-      "white",
-      "house",
-      "karoline",
-      "leavitt",
-      "trump",
-      "mission",
-      "accomplished",
-      "regime",
-      "change",
-      "iran"
+      "details",
+      "1379568"
     ]
   },
-  "IRQ": {
+  "ETH": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.theglobeandmail.com/world/article-imprisoned-canadian-says-he-was-tortured-in-ethiopia/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "world",
+      "article",
+      "imprisoned",
+      "canadian",
+      "says",
+      "was",
+      "tortured",
+      "ethiopia"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://bleedingcool.com/comics/old-wolverine-and-new-captain-america-head-to-armageddon-spoilers/",
+    "top_news": "https://hotair.com/headlines/2026/03/25/enough-pretending-this-war-has-been-going-on-since-1979-n3813202",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "comics",
-      "old",
-      "wolverine",
-      "and",
-      "new",
-      "captain",
-      "america",
-      "head",
-      "armageddon",
-      "spoilers"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.94,
-    "count": 10,
-    "top_news": "https://www.ynetnews.com/article/bjvubp11o11e",
-    "event_codes": {
-      "19": 6,
-      "14": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "article",
-      "bjvubp11o11e"
+      "headlines",
+      "2026",
+      "enough",
+      "pretending",
+      "this",
+      "war",
+      "has",
+      "been",
+      "going",
+      "since",
+      "1979",
+      "n3813202"
     ]
   }
 }
