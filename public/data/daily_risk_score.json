@@ -1,84 +1,103 @@
 {
-  "ECU": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://truthout.org/articles/farmers-describe-torture-from-us-ecuadorian-joint-military-operation/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "articles",
-      "farmers",
-      "describe",
-      "torture",
-      "from",
-      "ecuadorian",
-      "joint",
-      "military",
-      "operation"
-    ]
-  },
   "IRN": {
-    "risk_score": 20.72,
-    "count": 21,
-    "top_news": "https://www.jpost.com/israel-news/article-891199",
+    "risk_score": 14.64,
+    "count": 16,
+    "top_news": "https://www.abc.net.au/news/2026-03-26/what-we-know-about-iran-war-negotiations/106496052",
     "event_codes": {
-      "19": 20,
-      "15": 1
+      "19": 10,
+      "17": 4,
+      "18": 2
     },
     "keywords": [
-      "israel",
       "news",
-      "article",
-      "891199"
+      "2026",
+      "what",
+      "know",
+      "about",
+      "iran",
+      "war",
+      "negotiations",
+      "106496052"
     ]
   },
   "ISR": {
-    "risk_score": 5.77,
-    "count": 6,
-    "top_news": "https://www.jpost.com/israel-news/article-891199",
+    "risk_score": 6.9,
+    "count": 8,
+    "top_news": "https://www.unocha.org:443/news/todays-top-news-lebanon-occupied-palestinian-territory-sudan-ukraine-somalia",
     "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
+      "19": 5,
+      "14": 2,
+      "16": 1
     },
     "keywords": [
-      "israel",
       "news",
-      "article",
-      "891199"
+      "todays",
+      "top",
+      "news",
+      "lebanon",
+      "occupied",
+      "palestinian",
+      "territory",
+      "sudan",
+      "ukraine",
+      "somalia"
     ]
   },
-  "TCD": {
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://diplomat.so/articles/989/Cross-Border-Attacks-Escalate-Israel-Hezbollah-Tensions",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "989",
+      "cross",
+      "border",
+      "attacks",
+      "escalate",
+      "israel",
+      "hezbollah",
+      "tensions"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.25,
+    "count": 10,
+    "top_news": "https://dailytrust.com/dss-rescues-abducted-kano-lg-secretary-arrests-two-suspects/",
+    "event_codes": {
+      "19": 4,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "dss",
+      "rescues",
+      "abducted",
+      "kano",
+      "secretary",
+      "arrests",
+      "two",
+      "suspects"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://santamariatimes.com/news/calmatters/commentary/dan-walters/it-s-supposed-to-be-a-race-for-governor-but-candidates-and-voters-seem-disengaged/article_9ad4cbcf-ee16-4bd3-a560-a50bd9586216.html",
+    "top_news": "https://www.yahoo.com/news/articles/iran-warns-ready-open-front-190213560.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "calmatters",
-      "commentary",
-      "dan",
-      "walters",
-      "supposed",
-      "race",
-      "for",
-      "governor",
-      "but",
-      "candidates",
-      "and",
-      "voters",
-      "seem",
-      "disengaged",
-      "article",
-      "9ad4cbcf",
-      "ee16",
-      "4bd3",
-      "a560",
-      "a50bd9586216.html"
+      "articles",
+      "iran",
+      "warns",
+      "ready",
+      "open",
+      "front",
+      "190213560.html"
     ]
   }
 }
