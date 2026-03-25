@@ -1,42 +1,108 @@
 {
   "IRN": {
-    "risk_score": 13.22,
-    "count": 14,
-    "top_news": "https://www.ibtimes.co.uk/us-troops-conscientious-objector-middle-east-1788228",
+    "risk_score": 14.47,
+    "count": 15,
+    "top_news": "https://www.democracynow.org/2026/3/25/wes_bryant",
     "event_codes": {
       "19": 12,
-      "15": 1,
-      "17": 1
+      "14": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "troops",
-      "conscientious",
-      "objector",
+      "2026",
+      "wes",
+      "bryant"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-891164",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
       "middle",
       "east",
-      "1788228"
+      "iran",
+      "news",
+      "article",
+      "891164"
     ]
   },
   "ISR": {
-    "risk_score": 6.95,
-    "count": 10,
-    "top_news": "https://www.lbc.co.uk/article/iran-claims-to-have-fired-missiles-at-us-aircraft-carrier-5HjdWqk_2/",
+    "risk_score": 20.04,
+    "count": 27,
+    "top_news": "https://www.jpost.com/middle-east/article-891181",
     "event_codes": {
-      "17": 5,
-      "18": 3,
-      "14": 1,
-      "19": 1
+      "19": 12,
+      "17": 9,
+      "16": 3,
+      "15": 2,
+      "18": 1
     },
     "keywords": [
+      "middle",
+      "east",
       "article",
-      "iran",
-      "claims",
-      "have",
-      "fired",
-      "missiles",
-      "aircraft",
-      "carrier",
-      "5hjdwqk"
+      "891181"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://www.jpost.com/middle-east/article-891181",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "891181"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.swindonadvertiser.co.uk/news/national/25968546.arrests-germany-uk-tracks-inner-tube-shipment-suspected-boat-gang/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25968546.arrests",
+      "germany",
+      "tracks",
+      "inner",
+      "tube",
+      "shipment",
+      "suspected",
+      "boat",
+      "gang"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.memphisflyer.com/memphis-gangs-falling-apart-as-770-members-arrested-task-force-says/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "memphis",
+      "gangs",
+      "falling",
+      "apart",
+      "770",
+      "members",
+      "arrested",
+      "task",
+      "force",
+      "says"
     ]
   }
 }
