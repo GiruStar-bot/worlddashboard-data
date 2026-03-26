@@ -1,49 +1,165 @@
 {
   "IRN": {
-    "risk_score": 13.86,
-    "count": 16,
-    "top_news": "https://www.newkerala.com/news/a/trump-says-iran-begging-deal-after-strikes-186.htm",
+    "risk_score": 15.15,
+    "count": 17,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-nato-iran-war-tehran-b2946348.html",
     "event_codes": {
-      "19": 9,
-      "17": 4,
-      "15": 2,
-      "14": 1
+      "19": 12,
+      "16": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "news",
+      "world",
+      "middle",
+      "east",
       "trump",
-      "says",
+      "nato",
       "iran",
-      "begging",
-      "deal",
-      "after",
-      "strikes",
-      "186.htm"
+      "war",
+      "tehran",
+      "b2946348.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://yellowhammernews.com/senate-unanimously-passes-tuberville-britt-resolution-honoring-six-airmen-killed-in-iraq/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "senate",
+      "unanimously",
+      "passes",
+      "tuberville",
+      "britt",
+      "resolution",
+      "honoring",
+      "six",
+      "airmen",
+      "killed",
+      "iraq"
     ]
   },
   "ISR": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/hjjsl11qjbl",
+    "risk_score": 14.85,
+    "count": 16,
+    "top_news": "https://www.israelnationalnews.com/news/424648",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "19": 13,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "hjjsl11qjbl"
+      "news",
+      "424648"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ynetnews.com/article/hjjsl11qjbl",
+    "risk_score": 8.9,
+    "count": 9,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2530559/hyd-sgt-aviaad-volansky-killed-by-hezbollah-anti-tank-missile-in-lebanon.html",
     "event_codes": {
-      "19": 2
+      "19": 8,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "hjjsl11qjbl"
+      "news",
+      "israel",
+      "news",
+      "2530559",
+      "hyd",
+      "sgt",
+      "aviaad",
+      "volansky",
+      "killed",
+      "hezbollah",
+      "anti",
+      "tank",
+      "missile",
+      "lebanon.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://thealabamabaptist.org/two-more-christians-slain-in-persecution-in-nigeria/",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "two",
+      "more",
+      "christians",
+      "slain",
+      "persecution",
+      "nigeria"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.csmonitor.com/World/Middle-East/2026/0326/israeli-settler-violence-condemned-west-bank-palestinians",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "0326",
+      "israeli",
+      "settler",
+      "violence",
+      "condemned",
+      "west",
+      "bank",
+      "palestinians"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://diplomat.so/articles/1000/Somali-Army-Defeats-Militants-in-Mubarak",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "articles",
+      "1000",
+      "somali",
+      "army",
+      "defeats",
+      "militants",
+      "mubarak"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://wccftech.com/computex-2026-takes-shape-as-nvidia-jensen-huang-and-intel-lip-bu-tan-confirm-keynotes/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "computex",
+      "2026",
+      "takes",
+      "shape",
+      "nvidia",
+      "jensen",
+      "huang",
+      "and",
+      "intel",
+      "lip",
+      "tan",
+      "confirm",
+      "keynotes"
     ]
   }
 }
