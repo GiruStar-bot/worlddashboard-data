@@ -1,49 +1,172 @@
 {
-  "IRN": {
-    "risk_score": 8.38,
-    "count": 10,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/iran-takes-call-on-nuclear-action-against-us-one-million-fighters-ready-for-ground-invasion-101774554734499.html",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bloodhorse.com/horse-racing/articles/290843/kentucky-derby-bids-on-offer-in-dubai-and-japan",
     "event_codes": {
-      "19": 5,
-      "15": 4,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "world",
-      "news",
-      "news",
+      "horse",
+      "racing",
+      "articles",
+      "290843",
+      "kentucky",
+      "derby",
+      "bids",
+      "offer",
+      "dubai",
+      "and",
+      "japan"
+    ]
+  },
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://theindianawaaz.com/iran-war-indian-and-pakistani-killed-when-missile-debris-fell-on-them-in-abu-dhabi/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "iran",
-      "takes",
-      "call",
-      "nuclear",
-      "action",
-      "against",
-      "one",
-      "million",
-      "fighters",
-      "ready",
-      "for",
-      "ground",
-      "invasion",
-      "101774554734499.html"
+      "war",
+      "indian",
+      "and",
+      "pakistani",
+      "killed",
+      "when",
+      "missile",
+      "debris",
+      "fell",
+      "them",
+      "abu",
+      "dhabi"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.3,
+    "count": 16,
+    "top_news": "https://www.breitbart.com/europe/2026/03/26/in-safe-hands-uk-defence-boss-stumbles-on-basic-military-questions/",
+    "event_codes": {
+      "19": 9,
+      "17": 5,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "europe",
+      "2026",
+      "safe",
+      "hands",
+      "defence",
+      "boss",
+      "stumbles",
+      "basic",
+      "military",
+      "questions"
     ]
   },
   "ISR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.aol.co.uk/articles/uganda-military-chief-offers-fight-222940693.html",
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.frontpagemag.com/rama-duwaji-and-judging-mamdani-by-the-company-he-keeps/",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "rama",
+      "duwaji",
+      "and",
+      "judging",
+      "mamdani",
+      "the",
+      "company",
+      "keeps"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.spacewar.com/afp/260326210136.c54roux3.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "afp",
+      "260326210136.c54roux3.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.breitbart.com/africa/2026/03/26/reports-u-s-flying-reaper-drones-for-anti-jihadist-recon-in-nigeria/",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "africa",
+      "2026",
+      "reports",
+      "flying",
+      "reaper",
+      "drones",
+      "for",
+      "anti",
+      "jihadist",
+      "recon",
+      "nigeria"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.frontpagemag.com/europe-to-euthanize-girl-raped-by-migrants/",
+    "event_codes": {
+      "18": 5
+    },
+    "keywords": [
+      "europe",
+      "euthanize",
+      "girl",
+      "raped",
+      "migrants"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://theworld.org/episodes/2026/03/26/international-olympic-committee-bans-transgender-women-from-competing-in-womens-events",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "episodes",
+      "2026",
+      "international",
+      "olympic",
+      "committee",
+      "bans",
+      "transgender",
+      "women",
+      "from",
+      "competing",
+      "womens",
+      "events"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.okaz.com.sa/articles/authors/2241605",
+    "event_codes": {
+      "18": 3
     },
     "keywords": [
       "articles",
-      "uganda",
-      "military",
-      "chief",
-      "offers",
-      "fight",
-      "222940693.html"
+      "authors",
+      "2241605"
     ]
   }
 }
