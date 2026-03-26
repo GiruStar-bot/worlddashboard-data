@@ -1,84 +1,128 @@
 {
-  "IRN": {
-    "risk_score": 5.66,
-    "count": 7,
-    "top_news": "https://www.dw.com/en/iran-us-israel-war-missiles-drones-strait-of-hormuz/a-76503329",
+  "ARE": {
+    "risk_score": 4.35,
+    "count": 5,
+    "top_news": "https://grenadachronicle.com/two-teenagers-killed-in-shiraz-two-dead-in-abu-dhabi-as-iran-war-expands/",
     "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "two",
+      "teenagers",
+      "killed",
+      "shiraz",
+      "two",
+      "dead",
+      "abu",
+      "dhabi",
+      "iran",
+      "war",
+      "expands"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.51,
+    "count": 9,
+    "top_news": "https://www.trend.az/iran/4168566.html",
+    "event_codes": {
+      "14": 2,
       "15": 2,
       "17": 2,
-      "16": 1,
-      "18": 1,
-      "19": 1
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "iran",
-      "israel",
-      "war",
-      "missiles",
-      "drones",
-      "strait",
-      "hormuz",
-      "76503329"
+      "4168566.html"
     ]
   },
   "ISR": {
-    "risk_score": 9.32,
-    "count": 10,
-    "top_news": "https://english.wafa.ps/Pages/Details/168690",
+    "risk_score": 19.42,
+    "count": 23,
+    "top_news": "https://grenadachronicle.com/two-teenagers-killed-in-shiraz-two-dead-in-abu-dhabi-as-iran-war-expands/",
     "event_codes": {
+      "19": 12,
+      "17": 4,
       "18": 4,
-      "19": 4,
-      "16": 1,
-      "17": 1
+      "14": 1,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168690"
+      "two",
+      "teenagers",
+      "killed",
+      "shiraz",
+      "two",
+      "dead",
+      "abu",
+      "dhabi",
+      "iran",
+      "war",
+      "expands"
     ]
   },
-  "NGA": {
-    "risk_score": 7.44,
-    "count": 8,
-    "top_news": "https://allafrica.com/stories/202603260126.html",
-    "event_codes": {
-      "19": 6,
-      "15": 2
-    },
-    "keywords": [
-      "stories",
-      "202603260126.html"
-    ]
-  },
-  "SAU": {
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/gulf-news-middle-east-states-losing-patience-with-iran-could-join-us-israel-war-against-tehran-report/articleshow/129817193.cms",
+    "top_news": "https://grenadachronicle.com/two-teenagers-killed-in-shiraz-two-dead-in-abu-dhabi-as-iran-war-expands/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "gulf",
-      "news",
-      "middle",
-      "east",
-      "states",
-      "losing",
-      "patience",
-      "with",
+      "two",
+      "teenagers",
+      "killed",
+      "shiraz",
+      "two",
+      "dead",
+      "abu",
+      "dhabi",
       "iran",
-      "could",
-      "join",
-      "israel",
       "war",
-      "against",
-      "tehran",
-      "report",
-      "articleshow",
-      "129817193.cms"
+      "expands"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-soldier-killed-south-lebanon-fighting",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "soldier",
+      "killed",
+      "south",
+      "lebanon",
+      "fighting"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.ewn.co.za/2026/03/26/venezuelas-maduro-back-in-us-court-after-stunning-capture",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "venezuelas",
+      "maduro",
+      "back",
+      "court",
+      "after",
+      "stunning",
+      "capture"
     ]
   }
 }
