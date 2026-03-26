@@ -1,138 +1,106 @@
 {
-  "IRN": {
-    "risk_score": 2.72,
+  "CHL": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.aa.com.tr/en/americas/us-central-command-confirms-death-of-iran-s-irgc-navy-commander-/3880573",
+    "top_news": "https://www.lemonde.fr/en/france/article/2026/03/26/nicolas-zepeda-sentenced-to-life-in-prison-for-murdering-ex-girlfriend_6751839_7.html",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "americas",
-      "central",
-      "command",
-      "confirms",
-      "death",
-      "iran",
-      "irgc",
-      "navy",
-      "commander",
-      "3880573"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.36,
-    "count": 16,
-    "top_news": "https://www.aa.com.tr/en/middle-east/israel-s-lebanon-offensive-raises-fears-of-deeper-invasion-and-occupation/3880610",
-    "event_codes": {
-      "19": 6,
-      "14": 5,
-      "17": 4,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israel",
-      "lebanon",
-      "offensive",
-      "raises",
-      "fears",
-      "deeper",
-      "invasion",
-      "and",
-      "occupation",
-      "3880610"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.journalismpakistan.com/israeli-strike-kills-lebanese-journalist-probe-urged",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israeli",
-      "strike",
-      "kills",
-      "lebanese",
-      "journalist",
-      "probe",
-      "urged"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278946480/iran-pezeshkian-says-tehran-seeks-complete-end-to-war-malaysian-pm-thanks-iran-for-tanker-passage-through-hormuz",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278946480",
-      "iran",
-      "pezeshkian",
-      "says",
-      "tehran",
-      "seeks",
-      "complete",
-      "end",
-      "war",
-      "malaysian",
-      "thanks",
-      "iran",
+      "france",
+      "article",
+      "2026",
+      "nicolas",
+      "zepeda",
+      "sentenced",
+      "life",
+      "prison",
       "for",
-      "tanker",
-      "passage",
-      "through",
-      "hormuz"
+      "murdering",
+      "girlfriend",
+      "6751839",
+      "7.html"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aa.com.tr/en/middle-east/palestinian-youth-killed-his-3-family-members-seriously-injured-in-israeli-occupiers-attack/3880940",
+  "IRN": {
+    "risk_score": 7.65,
+    "count": 8,
+    "top_news": "https://www.rollingstone.com/politics/politics-features/who-said-it-pete-hegseth-colin-jost-1235537545/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "palestinian",
-      "youth",
-      "killed",
-      "his",
-      "family",
-      "members",
-      "seriously",
-      "injured",
-      "israeli",
-      "occupiers",
-      "attack",
-      "3880940"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.breitbart.com/politics/2026/03/25/trump-attacks-democrat-sanctuary-policies-murder-sheridan-gorman/",
-    "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 5,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
       "politics",
+      "politics",
+      "features",
+      "who",
+      "said",
+      "pete",
+      "hegseth",
+      "colin",
+      "jost",
+      "1235537545"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://thefrontierpost.com/palestinians-bury-man-killed-in-west-bank-army-car-chase/",
+    "event_codes": {
+      "19": 8,
+      "14": 2
+    },
+    "keywords": [
+      "palestinians",
+      "bury",
+      "man",
+      "killed",
+      "west",
+      "bank",
+      "army",
+      "car",
+      "chase"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 6,
+    "top_news": "https://nigerianobservernews.com/2026/03/igbinedion-university-mobilises-stakeholders-to-combat-deforestation/",
+    "event_codes": {
+      "17": 5,
+      "19": 1
+    },
+    "keywords": [
       "2026",
-      "trump",
-      "attacks",
-      "democrat",
-      "sanctuary",
-      "policies",
-      "murder",
-      "sheridan",
-      "gorman"
+      "igbinedion",
+      "university",
+      "mobilises",
+      "stakeholders",
+      "combat",
+      "deforestation"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.84,
+    "count": 7,
+    "top_news": "https://thefrontierpost.com/palestinians-bury-man-killed-in-west-bank-army-car-chase/",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "palestinians",
+      "bury",
+      "man",
+      "killed",
+      "west",
+      "bank",
+      "army",
+      "car",
+      "chase"
     ]
   }
 }
