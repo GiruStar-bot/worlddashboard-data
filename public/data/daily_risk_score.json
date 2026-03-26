@@ -1,240 +1,77 @@
 {
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/26/iran-launches-new-wave-of-attacks-on-gulf-states-after-un-condemnation/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "launches",
-      "new",
-      "wave",
-      "attacks",
-      "gulf",
-      "states",
-      "after",
-      "condemnation"
-    ]
-  },
-  "BRA": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://economictimes.indiatimes.com/news/india/from-scrap-to-sniper-delhi-police-bust-global-arms-racket-linking-pakistan-nepal-bangladesh-to-old-delhi/articleshow/129821014.cms",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "news",
-      "india",
-      "from",
-      "scrap",
-      "sniper",
-      "delhi",
-      "police",
-      "bust",
-      "global",
-      "arms",
-      "racket",
-      "linking",
-      "pakistan",
-      "nepal",
-      "bangladesh",
-      "old",
-      "delhi",
-      "articleshow",
-      "129821014.cms"
-    ]
-  },
   "IRN": {
-    "risk_score": 18.3,
-    "count": 21,
-    "top_news": "https://www.thenationalnews.com/news/gulf/2026/03/25/uae-rejects-irans-pretexts-for-attacks-on-civilians-and-infrastructure/",
+    "risk_score": 25.32,
+    "count": 31,
+    "top_news": "https://www.forbes.com/sites/davidhambling/2026/03/26/russian-female-drone-pilots-flying-against-the-wind-of-tradition/",
     "event_codes": {
-      "19": 12,
+      "19": 15,
+      "16": 5,
+      "18": 5,
       "17": 3,
-      "16": 2,
-      "18": 2,
-      "20": 2
+      "14": 2,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "gulf",
+      "sites",
+      "davidhambling",
       "2026",
-      "uae",
-      "rejects",
-      "irans",
-      "pretexts",
-      "for",
-      "attacks",
-      "civilians",
-      "and",
-      "infrastructure"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/26/iran-launches-new-wave-of-attacks-on-gulf-states-after-un-condemnation/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "launches",
-      "new",
-      "wave",
-      "attacks",
-      "gulf",
-      "states",
-      "after",
-      "condemnation"
+      "russian",
+      "female",
+      "drone",
+      "pilots",
+      "flying",
+      "against",
+      "the",
+      "wind",
+      "tradition"
     ]
   },
   "ISR": {
-    "risk_score": 13.4,
-    "count": 14,
-    "top_news": "https://www.ibtimes.co.in/two-killed-3-others-injured-when-debris-intercepted-ballistic-missile-falls-abu-dhabi-899994",
+    "risk_score": 12.8,
+    "count": 16,
+    "top_news": "https://www.rediff.com/news/report/iran-naval-commander-killed-in-strike-claims-israeli-media-no-confirmation-from-iran/20260326.htm",
     "event_codes": {
-      "19": 13,
-      "16": 1
+      "19": 7,
+      "16": 4,
+      "18": 3,
+      "14": 2
     },
     "keywords": [
-      "two",
+      "news",
+      "report",
+      "iran",
+      "naval",
+      "commander",
       "killed",
-      "others",
-      "injured",
-      "when",
-      "debris",
-      "intercepted",
-      "ballistic",
-      "missile",
-      "falls",
-      "abu",
-      "dhabi",
-      "899994"
+      "strike",
+      "claims",
+      "israeli",
+      "media",
+      "confirmation",
+      "from",
+      "iran",
+      "20260326.htm"
     ]
   },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ibtimes.co.in/two-killed-3-others-injured-when-debris-intercepted-ballistic-missile-falls-abu-dhabi-899994",
+  "VEN": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.sbs.com.au/news/article/nicolas-maduro-to-appear-in-us-court-months-after-abduction/iktcqtldz",
     "event_codes": {
-      "19": 2
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "two",
-      "killed",
-      "others",
-      "injured",
-      "when",
-      "debris",
-      "intercepted",
-      "ballistic",
-      "missile",
-      "falls",
-      "abu",
-      "dhabi",
-      "899994"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://www.standardmedia.co.ke/crime-and-justice/article/2001543914/four-police-officers-arrested-for-robbery",
-    "event_codes": {
-      "17": 7
-    },
-    "keywords": [
-      "crime",
-      "and",
-      "justice",
+      "news",
       "article",
-      "2001543914",
-      "four",
-      "police",
-      "officers",
-      "arrested",
-      "for",
-      "robbery"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/26/iran-launches-new-wave-of-attacks-on-gulf-states-after-un-condemnation/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "launches",
-      "new",
-      "wave",
-      "attacks",
-      "gulf",
-      "states",
+      "nicolas",
+      "maduro",
+      "appear",
+      "court",
+      "months",
       "after",
-      "condemnation"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/26/iran-launches-new-wave-of-attacks-on-gulf-states-after-un-condemnation/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "launches",
-      "new",
-      "wave",
-      "attacks",
-      "gulf",
-      "states",
-      "after",
-      "condemnation"
-    ]
-  },
-  "SDN": {
-    "risk_score": 7.9,
-    "count": 8,
-    "top_news": "https://www.theguardian.com/world/2026/mar/26/sudan-drone-strikes-civilian-targets-north-darfur-market-north-kordofan-truck",
-    "event_codes": {
-      "19": 6,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "mar",
-      "sudan",
-      "drone",
-      "strikes",
-      "civilian",
-      "targets",
-      "north",
-      "darfur",
-      "market",
-      "north",
-      "kordofan",
-      "truck"
+      "abduction",
+      "iktcqtldz"
     ]
   }
 }
