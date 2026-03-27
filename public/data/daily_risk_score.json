@@ -1,40 +1,69 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://gulfnews.com/uae/usisrael-war-with-iran-day-28-what-you-need-to-know-1.500487810",
+  "IRN": {
+    "risk_score": 7.15,
+    "count": 10,
+    "top_news": "https://www.hurriyetdailynews.com/iran-guards-say-carried-out-attacks-on-israel-us-forces-in-gulf-220368",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "14": 3,
+      "16": 3
     },
     "keywords": [
-      "uae",
-      "usisrael",
-      "war",
-      "with",
       "iran",
-      "day",
-      "what",
-      "you",
-      "need",
-      "know",
-      "1.500487810"
+      "guards",
+      "say",
+      "carried",
+      "out",
+      "attacks",
+      "israel",
+      "forces",
+      "gulf",
+      "220368"
     ]
   },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.meed.com:443/trump-pauses-strikes-on-iran-energy-plants",
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://scroll.in/latest/1091699/top-updates-trump-extends-deadline-for-iran-to-open-strait-of-hormuz-or-face-strikes-on-power-grids",
     "event_codes": {
-      "18": 4,
       "19": 2
     },
     "keywords": [
+      "latest",
+      "1091699",
+      "top",
+      "updates",
       "trump",
-      "pauses",
-      "strikes",
+      "extends",
+      "deadline",
+      "for",
       "iran",
-      "energy",
-      "plants"
+      "open",
+      "strait",
+      "hormuz",
+      "face",
+      "strikes",
+      "power",
+      "grids"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://politicaldog101.com/2026/03/irantrump-warevening-3-26-2026-trump-gives-iran-more-time/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "irantrump",
+      "warevening",
+      "2026",
+      "trump",
+      "gives",
+      "iran",
+      "more",
+      "time"
     ]
   }
 }
