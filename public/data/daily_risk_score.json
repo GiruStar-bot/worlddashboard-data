@@ -1,70 +1,65 @@
 {
   "IRN": {
-    "risk_score": 6.7,
-    "count": 8,
-    "top_news": "https://www.interest.co.nz/economy/137845/iran-has-been-threatening-close-strait-hormuz-years-%E2%80%93-it%E2%80%99s-key-part-tehran%E2%80%99s-defence",
+    "risk_score": 8.3,
+    "count": 10,
+    "top_news": "https://www.winnipegfreepress.com/breakingnews/2026/03/27/russia-is-sending-upgraded-drones-used-in-the-ukraine-war-to-iran-officials-say",
     "event_codes": {
-      "18": 3,
-      "19": 3,
-      "17": 2
+      "18": 6,
+      "19": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "economy",
-      "137845",
+      "breakingnews",
+      "2026",
+      "russia",
+      "sending",
+      "upgraded",
+      "drones",
+      "used",
+      "the",
+      "ukraine",
+      "war",
       "iran",
-      "has",
-      "been",
-      "threatening",
-      "close",
-      "strait",
-      "hormuz",
-      "years",
-      "%e2%80%93",
-      "it%e2%80%99s",
-      "key",
-      "part",
-      "tehran%e2%80%99s",
-      "defence"
+      "officials",
+      "say"
     ]
   },
-  "SOM": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://horseedmedia.net/somali-forces-kill-over-42-al-shabaab-terrorists-including-2-ringleaders-in-military-operations/419996/",
-    "event_codes": {
-      "18": 4,
-      "19": 1
-    },
-    "keywords": [
-      "somali",
-      "forces",
-      "kill",
-      "over",
-      "shabaab",
-      "terrorists",
-      "including",
-      "ringleaders",
-      "military",
-      "operations",
-      "419996"
-    ]
-  },
-  "VEN": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.ibtimes.co.uk/trump-statue-remark-cabinet-meeting-fuel-costs-1788857",
+    "top_news": "https://1430kasi.iheart.com/content/2026-03-27-200-more-iowa-national-guard-soldiers-returned-home-this-week/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "trump",
-      "statue",
-      "remark",
-      "cabinet",
-      "meeting",
-      "fuel",
-      "costs",
-      "1788857"
+      "content",
+      "2026",
+      "200",
+      "more",
+      "iowa",
+      "national",
+      "guard",
+      "soldiers",
+      "returned",
+      "home",
+      "this",
+      "week"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.52,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/flashes/681478",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "flashes",
+      "681478"
     ]
   }
 }
