@@ -1,198 +1,106 @@
 {
   "ARE": {
-    "risk_score": 2.5,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.thenationalnews.com/future/technology/2026/03/27/gecko-robotics-jake-loosararian-adnoc/",
+    "top_news": "https://www.bangordailynews.com/2026/03/27/politics/washington/us-iran-war-missile-drone-stockpiles/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "future",
-      "technology",
       "2026",
-      "gecko",
-      "robotics",
-      "jake",
-      "loosararian",
-      "adnoc"
-    ]
-  },
-  "BOL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.elpais.com/international/2026-03-26/eight-police-officers-for-3000-cases-the-challenge-of-investigating-war-crimes-in-ukraine.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "international",
-      "2026",
-      "eight",
-      "police",
-      "officers",
-      "for",
-      "3000",
-      "cases",
-      "the",
-      "challenge",
-      "investigating",
+      "politics",
+      "washington",
+      "iran",
       "war",
-      "crimes",
-      "ukraine.html"
+      "missile",
+      "drone",
+      "stockpiles"
     ]
   },
-  "IRN": {
-    "risk_score": 16.07,
-    "count": 17,
-    "top_news": "https://www.mediaite.com/media/podcasts/joe-kent-claims-probe-into-trumps-would-be-assassin-and-link-to-iran-was-shut-down-we-were-stopped/",
-    "event_codes": {
-      "19": 12,
-      "18": 3,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "media",
-      "podcasts",
-      "joe",
-      "kent",
-      "claims",
-      "probe",
-      "into",
-      "trumps",
-      "would",
-      "assassin",
-      "and",
-      "link",
-      "iran",
-      "was",
-      "shut",
-      "down",
-      "were",
-      "stopped"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.72,
+  "CHL": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/27/iraq-must-reign-in-iran-backed-militias-or-risk-regional-isolation-say-officials/",
-    "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iraq",
-      "must",
-      "reign",
-      "iran",
-      "backed",
-      "militias",
-      "risk",
-      "regional",
-      "isolation",
-      "say",
-      "officials"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.1,
-    "count": 11,
-    "top_news": "https://www.heritagefl.com/story/2026/03/27/news/weekly-roundup-of-world-briefs/23112.html",
-    "event_codes": {
-      "17": 5,
-      "19": 3,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "story",
-      "2026",
-      "news",
-      "weekly",
-      "roundup",
-      "world",
-      "briefs",
-      "23112.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/hkfdbvvjbe",
+    "top_news": "https://www.newsday.com/news/nation/chile-calama-stabbing-school-antofagasta-s04344",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "article",
-      "hkfdbvvjbe"
+      "news",
+      "nation",
+      "chile",
+      "calama",
+      "stabbing",
+      "school",
+      "antofagasta",
+      "s04344"
     ]
   },
-  "NGA": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://dailypost.ng/2026/03/27/coas-orders-relentless-operations-against-terrorists-reaffirms-troop-welfare/",
+  "IRN": {
+    "risk_score": 8.02,
+    "count": 9,
+    "top_news": "https://www.bangordailynews.com/2026/03/27/politics/washington/us-iran-war-missile-drone-stockpiles/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 2
+      "19": 6,
+      "15": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "coas",
-      "orders",
-      "relentless",
-      "operations",
-      "against",
-      "terrorists",
-      "reaffirms",
-      "troop",
-      "welfare"
+      "politics",
+      "washington",
+      "iran",
+      "war",
+      "missile",
+      "drone",
+      "stockpiles"
     ]
   },
-  "SDN": {
+  "ISR": {
+    "risk_score": 9.16,
+    "count": 12,
+    "top_news": "https://www.thenation.com/article/world/al-shifa-graduation-gaza/",
+    "event_codes": {
+      "15": 3,
+      "19": 3,
+      "14": 2,
+      "18": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "world",
+      "shifa",
+      "graduation",
+      "gaza"
+    ]
+  },
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.lemonde.fr/en/le-monde-africa/article/2026/03/27/el-daein-hospital-in-darfur-was-deliberately-struck-by-sudanese-army_6751874_124.html",
+    "top_news": "https://themedialine.org/top-stories/both-gulf-countries-took-iranian-fire-one-called-for-war-the-other-called-tehran/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "monde",
-      "africa",
-      "article",
-      "2026",
-      "daein",
-      "hospital",
-      "darfur",
-      "was",
-      "deliberately",
-      "struck",
-      "sudanese",
-      "army",
-      "6751874",
-      "124.html"
-    ]
-  },
-  "TWN": {
-    "risk_score": 7.3,
-    "count": 10,
-    "top_news": "https://www.taipeitimes.com/News/front/archives/2026/03/28/2003854600",
-    "event_codes": {
-      "17": 4,
-      "19": 4,
-      "14": 2
-    },
-    "keywords": [
-      "news",
-      "front",
-      "archives",
-      "2026",
-      "2003854600"
+      "top",
+      "stories",
+      "both",
+      "gulf",
+      "countries",
+      "took",
+      "iranian",
+      "fire",
+      "one",
+      "called",
+      "for",
+      "war",
+      "the",
+      "other",
+      "called",
+      "tehran"
     ]
   }
 }
