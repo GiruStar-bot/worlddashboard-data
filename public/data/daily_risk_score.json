@@ -1,149 +1,40 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/eight-arrested-joint-scotland-spain-081853179.html",
+  "IRN": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/fbi-director-kash-patels-personal-150153560.html",
     "event_codes": {
-      "17": 2,
+      "14": 2,
+      "18": 2,
+      "17": 1,
       "19": 1
     },
     "keywords": [
       "news",
       "articles",
-      "eight",
-      "arrested",
-      "joint",
-      "scotland",
-      "spain",
-      "081853179.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.25,
-    "count": 10,
-    "top_news": "https://www.ibtimes.co.in/irans-fm-abbas-araghchi-slams-us-israel-over-deadly-school-strike-asks-hold-aggressors-900100",
-    "event_codes": {
-      "19": 7,
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "irans",
-      "abbas",
-      "araghchi",
-      "slams",
-      "israel",
-      "over",
-      "deadly",
-      "school",
-      "strike",
-      "asks",
-      "hold",
-      "aggressors",
-      "900100"
+      "fbi",
+      "director",
+      "kash",
+      "patels",
+      "personal",
+      "150153560.html"
     ]
   },
   "ISR": {
-    "risk_score": 5.38,
-    "count": 7,
-    "top_news": "https://tribune.com.pk/story/2599614/hezbollah-claims-destroying-nearly-100-israeli-merkava-tanks",
+    "risk_score": 11.55,
+    "count": 12,
+    "top_news": "https://freerepublic.com/focus/f-news/4372435/posts",
     "event_codes": {
-      "15": 4,
-      "19": 2,
-      "17": 1
+      "19": 8,
+      "20": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "story",
-      "2599614",
-      "hezbollah",
-      "claims",
-      "destroying",
-      "nearly",
-      "100",
-      "israeli",
-      "merkava",
-      "tanks"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://tribune.com.pk/story/2599614/hezbollah-claims-destroying-nearly-100-israeli-merkava-tanks",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "story",
-      "2599614",
-      "hezbollah",
-      "claims",
-      "destroying",
-      "nearly",
-      "100",
-      "israeli",
-      "merkava",
-      "tanks"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.72,
-    "count": 5,
-    "top_news": "https://www.opinionnigeria.com/tension-at-apc-convention-as-journalists-clash-over-accreditation-tags/",
-    "event_codes": {
-      "17": 4,
-      "15": 1
-    },
-    "keywords": [
-      "tension",
-      "apc",
-      "convention",
-      "journalists",
-      "clash",
-      "over",
-      "accreditation",
-      "tags"
-    ]
-  },
-  "QAT": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://www.zerohedge.com/markets/qatarenergy-declares-forcemajeure-lng-shipments-through-may-representing-many-90-cargoes",
-    "event_codes": {
-      "17": 3,
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "markets",
-      "qatarenergy",
-      "declares",
-      "forcemajeure",
-      "lng",
-      "shipments",
-      "through",
-      "may",
-      "representing",
-      "many",
-      "cargoes"
-    ]
-  },
-  "TCD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thecable.ng/nigerias-military-victory-in-mallam-fatori-and-the-imperative-of-consolidation/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "nigerias",
-      "military",
-      "victory",
-      "mallam",
-      "fatori",
-      "and",
-      "the",
-      "imperative",
-      "consolidation"
+      "focus",
+      "news",
+      "4372435",
+      "posts"
     ]
   }
 }
