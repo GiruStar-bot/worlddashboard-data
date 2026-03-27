@@ -1,99 +1,122 @@
 {
-  "BOL": {
-    "risk_score": 2.22,
-    "count": 4,
-    "top_news": "https://www.euronews.com/2026/03/27/talk-to-lukashenka-or-face-putin-freed-belarus-activist-warns-eu",
-    "event_codes": {
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "2026",
-      "talk",
-      "lukashenka",
-      "face",
-      "putin",
-      "freed",
-      "belarus",
-      "activist",
-      "warns"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.88,
-    "count": 19,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/864933/trump-trapped-in-iran-deadlock-70-000-troops-face-annihilation-shock-strike-on-israeli-frigates-in-mediterranean",
+    "risk_score": 29.15,
+    "count": 32,
+    "top_news": "https://www.fox5dc.com/news/iran-latest-israel-expand-attack-iran-trump-delays-deadline-strait-hormuz",
     "event_codes": {
-      "19": 13,
-      "15": 3,
-      "16": 2,
-      "17": 1
+      "19": 17,
+      "18": 5,
+      "14": 4,
+      "17": 3,
+      "20": 2,
+      "16": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "864933",
-      "trump",
-      "trapped",
+      "news",
       "iran",
-      "deadlock",
-      "000",
-      "troops",
-      "face",
-      "annihilation",
-      "shock",
-      "strike",
-      "israeli",
-      "frigates",
-      "mediterranean"
+      "latest",
+      "israel",
+      "expand",
+      "attack",
+      "iran",
+      "trump",
+      "delays",
+      "deadline",
+      "strait",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 14.8,
-    "count": 16,
-    "top_news": "https://www.bnnbloomberg.ca/business/international/2026/03/27/israel-launches-a-new-wave-of-strikes-on-iran-with-no-sign-of-diplomatic-breakthrough/",
+    "risk_score": 21.9,
+    "count": 25,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/27/765913/Hezbollah-conducts-over-100-anti-Israel-operations-one-day",
     "event_codes": {
-      "19": 12,
-      "18": 2,
-      "16": 1,
-      "17": 1
+      "19": 18,
+      "17": 6,
+      "18": 1
     },
     "keywords": [
-      "business",
-      "international",
+      "detail",
       "2026",
+      "765913",
+      "hezbollah",
+      "conducts",
+      "over",
+      "100",
+      "anti",
       "israel",
-      "launches",
-      "new",
-      "wave",
-      "strikes",
+      "operations",
+      "one",
+      "day"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://naharnet.com/stories/en/319068-iran-intensifies-attacks-on-gulf-energy-sites-after-israel-struck-its-key-gas-field",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "stories",
+      "319068",
       "iran",
-      "with",
-      "sign",
-      "diplomatic",
-      "breakthrough"
+      "intensifies",
+      "attacks",
+      "gulf",
+      "energy",
+      "sites",
+      "after",
+      "israel",
+      "struck",
+      "its",
+      "key",
+      "gas",
+      "field"
     ]
   },
   "LBN": {
-    "risk_score": 8.92,
-    "count": 9,
-    "top_news": "https://article.wn.com/view/2026/03/27/Iran_War_LIVE_Updates_IAEA_flags_concerns_after_strike_on_Te/",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://countercurrents.org/2026/03/over-one-million-displaced-by-israels-assault-and-forced-displacement-threats-in-lebanon/",
     "event_codes": {
-      "19": 8,
-      "17": 1
+      "19": 8
     },
     "keywords": [
-      "view",
       "2026",
-      "iran",
-      "war",
-      "live",
-      "updates",
-      "iaea",
-      "flags",
-      "concerns",
-      "after",
-      "strike"
+      "over",
+      "one",
+      "million",
+      "displaced",
+      "israels",
+      "assault",
+      "and",
+      "forced",
+      "displacement",
+      "threats",
+      "lebanon"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://japantoday.com/category/world/turkey-condemns-attack-on-black-sea-oil-tanker-that-departed-russia",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "category",
+      "world",
+      "turkey",
+      "condemns",
+      "attack",
+      "black",
+      "sea",
+      "oil",
+      "tanker",
+      "that",
+      "departed",
+      "russia"
     ]
   }
 }
