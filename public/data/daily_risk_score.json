@@ -1,40 +1,198 @@
 {
-  "IRN": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/articles/fbi-director-kash-patels-personal-150153560.html",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thenationalnews.com/future/technology/2026/03/27/gecko-robotics-jake-loosararian-adnoc/",
     "event_codes": {
-      "14": 2,
-      "18": 2,
-      "17": 1,
-      "19": 1
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "future",
+      "technology",
+      "2026",
+      "gecko",
+      "robotics",
+      "jake",
+      "loosararian",
+      "adnoc"
+    ]
+  },
+  "BOL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.elpais.com/international/2026-03-26/eight-police-officers-for-3000-cases-the-challenge-of-investigating-war-crimes-in-ukraine.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "international",
+      "2026",
+      "eight",
+      "police",
+      "officers",
+      "for",
+      "3000",
+      "cases",
+      "the",
+      "challenge",
+      "investigating",
+      "war",
+      "crimes",
+      "ukraine.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.07,
+    "count": 17,
+    "top_news": "https://www.mediaite.com/media/podcasts/joe-kent-claims-probe-into-trumps-would-be-assassin-and-link-to-iran-was-shut-down-we-were-stopped/",
+    "event_codes": {
+      "19": 12,
+      "18": 3,
+      "14": 1,
+      "15": 1
+    },
+    "keywords": [
+      "media",
+      "podcasts",
+      "joe",
+      "kent",
+      "claims",
+      "probe",
+      "into",
+      "trumps",
+      "would",
+      "assassin",
+      "and",
+      "link",
+      "iran",
+      "was",
+      "shut",
+      "down",
+      "were",
+      "stopped"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/27/iraq-must-reign-in-iran-backed-militias-or-risk-regional-isolation-say-officials/",
+    "event_codes": {
+      "19": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "fbi",
-      "director",
-      "kash",
-      "patels",
-      "personal",
-      "150153560.html"
+      "mena",
+      "2026",
+      "iraq",
+      "must",
+      "reign",
+      "iran",
+      "backed",
+      "militias",
+      "risk",
+      "regional",
+      "isolation",
+      "say",
+      "officials"
     ]
   },
   "ISR": {
-    "risk_score": 11.55,
-    "count": 12,
-    "top_news": "https://freerepublic.com/focus/f-news/4372435/posts",
+    "risk_score": 8.1,
+    "count": 11,
+    "top_news": "https://www.heritagefl.com/story/2026/03/27/news/weekly-roundup-of-world-briefs/23112.html",
     "event_codes": {
-      "19": 8,
-      "20": 2,
-      "14": 1,
+      "17": 5,
+      "19": 3,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "2026",
+      "news",
+      "weekly",
+      "roundup",
+      "world",
+      "briefs",
+      "23112.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/hkfdbvvjbe",
+    "event_codes": {
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "focus",
+      "article",
+      "hkfdbvvjbe"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/03/27/coas-orders-relentless-operations-against-terrorists-reaffirms-troop-welfare/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "coas",
+      "orders",
+      "relentless",
+      "operations",
+      "against",
+      "terrorists",
+      "reaffirms",
+      "troop",
+      "welfare"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.lemonde.fr/en/le-monde-africa/article/2026/03/27/el-daein-hospital-in-darfur-was-deliberately-struck-by-sudanese-army_6751874_124.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "monde",
+      "africa",
+      "article",
+      "2026",
+      "daein",
+      "hospital",
+      "darfur",
+      "was",
+      "deliberately",
+      "struck",
+      "sudanese",
+      "army",
+      "6751874",
+      "124.html"
+    ]
+  },
+  "TWN": {
+    "risk_score": 7.3,
+    "count": 10,
+    "top_news": "https://www.taipeitimes.com/News/front/archives/2026/03/28/2003854600",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "14": 2
+    },
+    "keywords": [
       "news",
-      "4372435",
-      "posts"
+      "front",
+      "archives",
+      "2026",
+      "2003854600"
     ]
   }
 }
