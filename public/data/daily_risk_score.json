@@ -1,19 +1,40 @@
 {
-  "ISR": {
-    "risk_score": 7.9,
-    "count": 9,
-    "top_news": "http://en.ce.cn/main/latest/202603/t20260327_2861398.shtml",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://gulfnews.com/uae/usisrael-war-with-iran-day-28-what-you-need-to-know-1.500487810",
     "event_codes": {
-      "19": 5,
-      "16": 3,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "main",
-      "latest",
-      "202603",
-      "t20260327",
-      "2861398.shtml"
+      "uae",
+      "usisrael",
+      "war",
+      "with",
+      "iran",
+      "day",
+      "what",
+      "you",
+      "need",
+      "know",
+      "1.500487810"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.meed.com:443/trump-pauses-strikes-on-iran-energy-plants",
+    "event_codes": {
+      "18": 4,
+      "19": 2
+    },
+    "keywords": [
+      "trump",
+      "pauses",
+      "strikes",
+      "iran",
+      "energy",
+      "plants"
     ]
   }
 }
