@@ -1,96 +1,195 @@
 {
-  "IDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.perthnow.com.au/news/bali/bali-murder-dutch-tourist-rene-pouw-brutally-killed-by-two-male-assassins-while-girlfriend-forced-to-watch-c-22057083",
+  "BFA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.swissinfo.ch/eng/war-peace/women-harvest-hope-as-extremist-threat-grows-in-benin/91162140",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
-      "news",
-      "bali",
-      "bali",
-      "murder",
-      "dutch",
-      "tourist",
-      "rene",
-      "pouw",
-      "brutally",
-      "killed",
-      "two",
-      "male",
-      "assassins",
-      "while",
-      "girlfriend",
-      "forced",
-      "watch",
-      "22057083"
+      "eng",
+      "war",
+      "peace",
+      "women",
+      "harvest",
+      "hope",
+      "extremist",
+      "threat",
+      "grows",
+      "benin",
+      "91162140"
+    ]
+  },
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/03/27/israel-launches-new-wave-of-strikes-on-iran-with-no-sign-of-diplomatic-breakthrough",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "arts",
+      "and",
+      "life",
+      "life",
+      "faith",
+      "2026",
+      "israel",
+      "launches",
+      "new",
+      "wave",
+      "strikes",
+      "iran",
+      "with",
+      "sign",
+      "diplomatic",
+      "breakthrough"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.newstatesman.com/international-politics/2026/03/watching-the-lights-go-out-in-havana",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "international",
+      "politics",
+      "2026",
+      "watching",
+      "the",
+      "lights",
+      "out",
+      "havana"
     ]
   },
   "IRN": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/03/27/iran-war-updates-live-us-trump-israel-energy-middle-east/",
+    "risk_score": 7.92,
+    "count": 8,
+    "top_news": "http://www.china.org.cn/2026-03/27/content_118405269.shtml",
     "event_codes": {
-      "19": 5,
+      "19": 6,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
       "2026",
-      "iran",
-      "war",
-      "updates",
-      "live",
-      "trump",
-      "israel",
-      "energy",
-      "middle",
-      "east"
+      "content",
+      "118405269.shtml"
     ]
   },
   "ISR": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "https://www.meadvilletribune.com/opinion/letter-iran-s-actions-warrant-a-forceful-response/article_0921f662-0d5b-11ef-813b-938d5f25c0a3.html",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "http://www.china.org.cn/2026-03/27/content_118405269.shtml",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "19": 6,
+      "18": 1
     },
     "keywords": [
-      "opinion",
-      "letter",
-      "iran",
-      "actions",
-      "warrant",
-      "forceful",
-      "response",
-      "article",
-      "0921f662",
-      "0d5b",
-      "11ef",
-      "813b",
-      "938d5f25c0a3.html"
+      "2026",
+      "content",
+      "118405269.shtml"
     ]
   },
-  "ZWE": {
-    "risk_score": 7.05,
-    "count": 10,
-    "top_news": "https://dailynews.co.zw/15-zimbabweans-killed-in-ukraine-russia-war/",
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/03/27/unemployed-man-charged-over-2022-murder-after-evading-capture-for-four-years",
     "event_codes": {
-      "17": 4,
-      "18": 3,
-      "16": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "zimbabweans",
-      "killed",
-      "ukraine",
-      "russia",
-      "war"
+      "news",
+      "nation",
+      "2026",
+      "unemployed",
+      "man",
+      "charged",
+      "over",
+      "2022",
+      "murder",
+      "after",
+      "evading",
+      "capture",
+      "for",
+      "four",
+      "years"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.5,
+    "count": 10,
+    "top_news": "https://dailypost.ng/2026/03/27/police-confirm-arrest-of-suspect-behind-aso-conflict-near-abuja-reveal-casualty-figures/",
+    "event_codes": {
+      "19": 7,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "confirm",
+      "arrest",
+      "suspect",
+      "behind",
+      "aso",
+      "conflict",
+      "near",
+      "abuja",
+      "reveal",
+      "casualty",
+      "figures"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://yourdemocracy.net/drupal/node/59204",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "drupal",
+      "node",
+      "59204"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://yourdemocracy.net/drupal/node/59204",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "drupal",
+      "node",
+      "59204"
+    ]
+  },
+  "VNM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.averyjournal.com/news/community/a-war-that-left-no-one-unchanged/article_2bb5baab-1ea0-4f2c-8be0-3275070c089e.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "community",
+      "war",
+      "that",
+      "left",
+      "one",
+      "unchanged",
+      "article",
+      "2bb5baab",
+      "1ea0",
+      "4f2c",
+      "8be0",
+      "3275070c089e.html"
     ]
   }
 }
