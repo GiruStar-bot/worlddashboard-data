@@ -1,195 +1,244 @@
 {
-  "BFA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.swissinfo.ch/eng/war-peace/women-harvest-hope-as-extremist-threat-grows-in-benin/91162140",
+  "BOL": {
+    "risk_score": 5.6,
+    "count": 7,
+    "top_news": "https://www.lrytas.lt/english/politics/2026/03/27/news/media-coale-calls-on-lithuania-to-restore-ties-with-belarus-41830303/",
     "event_codes": {
-      "19": 3
+      "16": 7
     },
     "keywords": [
-      "eng",
-      "war",
-      "peace",
-      "women",
-      "harvest",
-      "hope",
-      "extremist",
-      "threat",
-      "grows",
-      "benin",
-      "91162140"
-    ]
-  },
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/03/27/israel-launches-new-wave-of-strikes-on-iran-with-no-sign-of-diplomatic-breakthrough",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "faith",
-      "2026",
-      "israel",
-      "launches",
-      "new",
-      "wave",
-      "strikes",
-      "iran",
-      "with",
-      "sign",
-      "diplomatic",
-      "breakthrough"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.newstatesman.com/international-politics/2026/03/watching-the-lights-go-out-in-havana",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "international",
+      "english",
       "politics",
       "2026",
-      "watching",
-      "the",
-      "lights",
-      "out",
-      "havana"
+      "news",
+      "media",
+      "coale",
+      "calls",
+      "lithuania",
+      "restore",
+      "ties",
+      "with",
+      "belarus",
+      "41830303"
     ]
   },
   "IRN": {
-    "risk_score": 7.92,
-    "count": 8,
-    "top_news": "http://www.china.org.cn/2026-03/27/content_118405269.shtml",
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.counterpunch.org/2026/03/27/hosts-have-power-over-dangerous-guests-spain-shows-how-countries-hosting-u-s-bases-can-push-for-peace/",
     "event_codes": {
-      "19": 6,
+      "19": 12,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "hosts",
+      "have",
+      "power",
+      "over",
+      "dangerous",
+      "guests",
+      "spain",
+      "shows",
+      "how",
+      "countries",
+      "hosting",
+      "bases",
+      "can",
+      "push",
+      "for",
+      "peace"
+    ]
+  },
+  "ISR": {
+    "risk_score": 32.47,
+    "count": 33,
+    "top_news": "https://www.counterpunch.org/2026/03/27/the-empire-versus-iran-which-side-are-you-on/",
+    "event_codes": {
+      "19": 22,
+      "18": 8,
+      "20": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "empire",
+      "versus",
+      "iran",
+      "which",
+      "side",
+      "are",
+      "you"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.2news.com/news/world/the-latest-israel-launches-strikes-on-heart-of-tehran-as-trump-delays-strait-of-hormuz/article_4c0cb535-c56c-5702-8893-60d0e91c2b0e.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "the",
+      "latest",
+      "israel",
+      "launches",
+      "strikes",
+      "heart",
+      "tehran",
+      "trump",
+      "delays",
+      "strait",
+      "hormuz",
+      "article",
+      "4c0cb535",
+      "c56c",
+      "5702",
+      "8893",
+      "60d0e91c2b0e.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.newsweek.com/iran-knows-how-to-fight-a-war-without-friendsdoes-the-us-11740710",
+    "event_codes": {
+      "19": 4,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "content",
-      "118405269.shtml"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "http://www.china.org.cn/2026-03/27/content_118405269.shtml",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "content",
-      "118405269.shtml"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/03/27/unemployed-man-charged-over-2022-murder-after-evading-capture-for-four-years",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "unemployed",
-      "man",
-      "charged",
-      "over",
-      "2022",
-      "murder",
-      "after",
-      "evading",
-      "capture",
-      "for",
-      "four",
-      "years"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.5,
-    "count": 10,
-    "top_news": "https://dailypost.ng/2026/03/27/police-confirm-arrest-of-suspect-behind-aso-conflict-near-abuja-reveal-casualty-figures/",
-    "event_codes": {
-      "19": 7,
-      "17": 3
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "confirm",
-      "arrest",
-      "suspect",
-      "behind",
-      "aso",
-      "conflict",
-      "near",
-      "abuja",
-      "reveal",
-      "casualty",
-      "figures"
+      "iran",
+      "knows",
+      "how",
+      "fight",
+      "war",
+      "without",
+      "friendsdoes",
+      "the",
+      "11740710"
     ]
   },
   "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.prokerala.com/news/articles/a1744076.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1744076.html"
+    ]
+  },
+  "SOM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://yourdemocracy.net/drupal/node/59204",
+    "top_news": "https://www.wsbradio.com/news/world/somali-children-are/6BK7W3Q4QQYMBAOSV4DSMKBAR4/",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "somali",
+      "children",
+      "are",
+      "6bk7w3q4qqymbaosv4dsmkbar4"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.straitstimes.com/world/middle-east/un-says-1700-killed-in-syrias-suweida-violence-cites-possible-war-crimes",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "says",
+      "1700",
+      "killed",
+      "syrias",
+      "suweida",
+      "violence",
+      "cites",
+      "possible",
+      "war",
+      "crimes"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.zerohedge.com/energy/key-russian-baltic-oil-port-primorsk-resumes-loading-after-ukraine-attack",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "drupal",
-      "node",
-      "59204"
+      "energy",
+      "key",
+      "russian",
+      "baltic",
+      "oil",
+      "port",
+      "primorsk",
+      "resumes",
+      "loading",
+      "after",
+      "ukraine",
+      "attack"
     ]
   },
-  "SAU": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://yourdemocracy.net/drupal/node/59204",
+  "VEN": {
+    "risk_score": 5.66,
+    "count": 7,
+    "top_news": "https://www.counterpunch.org/2026/03/27/roaming-charges-eyes-open-minds-wide-shut/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 5,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "drupal",
-      "node",
-      "59204"
+      "2026",
+      "roaming",
+      "charges",
+      "eyes",
+      "open",
+      "minds",
+      "wide",
+      "shut"
     ]
   },
-  "VNM": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.averyjournal.com/news/community/a-war-that-left-no-one-unchanged/article_2bb5baab-1ea0-4f2c-8be0-3275070c089e.html",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.counterpunch.org/2026/03/27/the-united-states-is-formally-at-war-with-iran-at-least-the-swiss-say-so/",
     "event_codes": {
-      "19": 6
+      "19": 2
     },
     "keywords": [
-      "news",
-      "community",
+      "2026",
+      "the",
+      "united",
+      "states",
+      "formally",
       "war",
-      "that",
-      "left",
-      "one",
-      "unchanged",
-      "article",
-      "2bb5baab",
-      "1ea0",
-      "4f2c",
-      "8be0",
-      "3275070c089e.html"
+      "with",
+      "iran",
+      "least",
+      "the",
+      "swiss",
+      "say"
     ]
   }
 }
