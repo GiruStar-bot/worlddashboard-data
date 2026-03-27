@@ -1,106 +1,124 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.bangordailynews.com/2026/03/27/politics/washington/us-iran-war-missile-drone-stockpiles/",
+  "IRN": {
+    "risk_score": 20.02,
+    "count": 24,
+    "top_news": "https://www.middleeasteye.net/news/uae-has-active-role-iran-war-and-will-be-pounded-if-us-invades-iranian-sources-say",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "politics",
-      "washington",
-      "iran",
-      "war",
-      "missile",
-      "drone",
-      "stockpiles"
-    ]
-  },
-  "CHL": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.newsday.com/news/nation/chile-calama-stabbing-school-antofagasta-s04344",
-    "event_codes": {
-      "19": 2,
+      "19": 12,
+      "16": 8,
+      "17": 2,
+      "15": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "nation",
-      "chile",
-      "calama",
-      "stabbing",
-      "school",
-      "antofagasta",
-      "s04344"
-    ]
-  },
-  "IRN": {
-    "risk_score": 8.02,
-    "count": 9,
-    "top_news": "https://www.bangordailynews.com/2026/03/27/politics/washington/us-iran-war-missile-drone-stockpiles/",
-    "event_codes": {
-      "19": 6,
-      "15": 1,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "politics",
-      "washington",
+      "uae",
+      "has",
+      "active",
+      "role",
       "iran",
       "war",
-      "missile",
-      "drone",
-      "stockpiles"
+      "and",
+      "will",
+      "pounded",
+      "invades",
+      "iranian",
+      "sources",
+      "say"
     ]
   },
   "ISR": {
-    "risk_score": 9.16,
-    "count": 12,
-    "top_news": "https://www.thenation.com/article/world/al-shifa-graduation-gaza/",
+    "risk_score": 17.8,
+    "count": 20,
+    "top_news": "https://www.middleeasteye.net/news/uae-has-active-role-iran-war-and-will-be-pounded-if-us-invades-iranian-sources-say",
     "event_codes": {
-      "15": 3,
-      "19": 3,
-      "14": 2,
-      "18": 2,
-      "16": 1,
+      "19": 9,
+      "14": 5,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "uae",
+      "has",
+      "active",
+      "role",
+      "iran",
+      "war",
+      "and",
+      "will",
+      "pounded",
+      "invades",
+      "iranian",
+      "sources",
+      "say"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.4,
+    "count": 13,
+    "top_news": "https://www.defensenews.com/global/mideast-africa/2026/03/27/combat-zone-widens-in-lebanon-as-israel-and-hezbollah-escalate-attacks/",
+    "event_codes": {
+      "19": 6,
+      "16": 3,
+      "18": 3,
       "17": 1
     },
     "keywords": [
-      "article",
-      "world",
-      "shifa",
-      "graduation",
-      "gaza"
+      "global",
+      "mideast",
+      "africa",
+      "2026",
+      "combat",
+      "zone",
+      "widens",
+      "lebanon",
+      "israel",
+      "and",
+      "hezbollah",
+      "escalate",
+      "attacks"
     ]
   },
-  "KWT": {
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://themedialine.org/top-stories/both-gulf-countries-took-iranian-fire-one-called-for-war-the-other-called-tehran/",
+    "top_news": "https://www.yahoo.com/news/articles/huge-iranian-missile-fragments-intercepted-182410815.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "top",
-      "stories",
-      "both",
-      "gulf",
-      "countries",
-      "took",
+      "news",
+      "articles",
+      "huge",
       "iranian",
-      "fire",
-      "one",
-      "called",
+      "missile",
+      "fragments",
+      "intercepted",
+      "182410815.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.5,
+    "count": 8,
+    "top_news": "https://nypost.com/2026/03/27/us-news/judges-outrageous-reason-for-letting-grandpa-vicha-killer-walk-free/",
+    "event_codes": {
+      "17": 5,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "judges",
+      "outrageous",
+      "reason",
       "for",
-      "war",
-      "the",
-      "other",
-      "called",
-      "tehran"
+      "letting",
+      "grandpa",
+      "vicha",
+      "killer",
+      "walk",
+      "free"
     ]
   }
 }
