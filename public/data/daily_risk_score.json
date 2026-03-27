@@ -1,67 +1,70 @@
 {
   "IRN": {
-    "risk_score": 7.95,
+    "risk_score": 6.7,
     "count": 8,
-    "top_news": "https://finance.yahoo.com/economy/articles/china-official-calm-belies-war-102021995.html",
+    "top_news": "https://www.interest.co.nz/economy/137845/iran-has-been-threatening-close-strait-hormuz-years-%E2%80%93-it%E2%80%99s-key-part-tehran%E2%80%99s-defence",
     "event_codes": {
-      "19": 6,
-      "18": 2
+      "18": 3,
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "economy",
-      "articles",
-      "china",
-      "official",
-      "calm",
-      "belies",
-      "war",
-      "102021995.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.reflector.com/news/national/iran-says-it-will-facilitate-and-expedite-humanitarian-aid-through-the-strait-of-hormuz/article_e4075567-a9cb-5ede-b3b6-672b24cbdcbd.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "national",
+      "137845",
       "iran",
-      "says",
-      "will",
-      "facilitate",
-      "and",
-      "expedite",
-      "humanitarian",
-      "aid",
-      "through",
-      "the",
+      "has",
+      "been",
+      "threatening",
+      "close",
       "strait",
       "hormuz",
-      "article",
-      "e4075567",
-      "a9cb",
-      "5ede",
-      "b3b6",
-      "672b24cbdcbd.html"
+      "years",
+      "%e2%80%93",
+      "it%e2%80%99s",
+      "key",
+      "part",
+      "tehran%e2%80%99s",
+      "defence"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://horseedmedia.net/somali-forces-kill-over-42-al-shabaab-terrorists-including-2-ringleaders-in-military-operations/419996/",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "somali",
+      "forces",
+      "kill",
+      "over",
+      "shabaab",
+      "terrorists",
+      "including",
+      "ringleaders",
+      "military",
+      "operations",
+      "419996"
     ]
   },
   "VEN": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.chicagotribune.com/2026/03/27/sheridan-gorman-suspect-court/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ibtimes.co.uk/trump-statue-remark-cabinet-meeting-fuel-costs-1788857",
     "event_codes": {
-      "19": 4,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "sheridan",
-      "gorman",
-      "suspect",
-      "court"
+      "trump",
+      "statue",
+      "remark",
+      "cabinet",
+      "meeting",
+      "fuel",
+      "costs",
+      "1788857"
     ]
   }
 }
