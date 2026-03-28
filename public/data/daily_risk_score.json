@@ -2,101 +2,88 @@
   "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.jpost.com/middle-east/article-891454",
+    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=391617",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "891454"
+      "wire"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=391617",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wire"
     ]
   },
   "IRN": {
-    "risk_score": 11.85,
-    "count": 13,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/27/israel-strikes-two-iranian-nuclear-sites-for-first-time-in-war/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://pakobserver.net/iran-damages-us-military-assets-leaves-american-personnel-at-saudi-airbase/",
     "event_codes": {
-      "19": 6,
-      "18": 5,
-      "16": 1,
-      "17": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "israel",
-      "strikes",
-      "two",
-      "iranian",
-      "nuclear",
-      "sites",
-      "for",
-      "first",
-      "time",
-      "war"
+      "iran",
+      "damages",
+      "military",
+      "assets",
+      "leaves",
+      "american",
+      "personnel",
+      "saudi",
+      "airbase"
     ]
   },
   "ISR": {
-    "risk_score": 14.97,
-    "count": 17,
-    "top_news": "https://www.standardmedia.co.ke/asia/article/2001544062/attacks-across-middle-east-as-iran-war-enters-second-month",
+    "risk_score": 9.31,
+    "count": 10,
+    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=391617",
     "event_codes": {
-      "19": 9,
-      "17": 4,
-      "18": 2,
-      "16": 1,
-      "20": 1
-    },
-    "keywords": [
-      "asia",
-      "article",
-      "2001544062",
-      "attacks",
-      "across",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "enters",
-      "second",
-      "month"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thecollegefix.com/uw-madison-condemns-student-governments-illegal-flawed-israel-divestment-demand/",
-    "event_codes": {
-      "20": 2
-    },
-    "keywords": [
-      "madison",
-      "condemns",
-      "student",
-      "governments",
-      "illegal",
-      "flawed",
-      "israel",
-      "divestment",
-      "demand"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.44,
-    "count": 4,
-    "top_news": "https://www.jpost.com/middle-east/article-891454",
-    "event_codes": {
+      "19": 6,
       "15": 2,
-      "19": 2
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "891454"
+      "wire"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.82,
+    "count": 4,
+    "top_news": "https://www.lahainanews.com/wire/?category=5041&ID=391617",
+    "event_codes": {
+      "18": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "wire"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/man-found-dead-unlocked-patrol-074140723.html",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "man",
+      "found",
+      "dead",
+      "unlocked",
+      "patrol",
+      "074140723.html"
     ]
   }
 }
