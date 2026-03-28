@@ -1,117 +1,160 @@
 {
-  "EGY": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thetimes.com/uk/crime/article/met-police-antisemitism-jewish-tottenham-0p2fllkmv",
+  "BHR": {
+    "risk_score": 6.25,
+    "count": 10,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/28/765986/bahraini-youth-death-custody-over-solidarity-iran-amid-israeli-us-war",
     "event_codes": {
-      "19": 4
+      "14": 7,
+      "17": 3
     },
     "keywords": [
-      "crime",
-      "article",
-      "met",
-      "police",
-      "antisemitism",
-      "jewish",
-      "tottenham",
-      "0p2fllkmv"
+      "detail",
+      "2026",
+      "765986",
+      "bahraini",
+      "youth",
+      "death",
+      "custody",
+      "over",
+      "solidarity",
+      "iran",
+      "amid",
+      "israeli",
+      "war"
     ]
   },
   "IRN": {
-    "risk_score": 9.9,
-    "count": 11,
-    "top_news": "https://www.rockymounttelegram.com/news/national/the-latest-iranian-backed-houthi-rebels-claim-responsibility-for-missile-attack-on-israel/article_2cfd2fa2-0347-5b06-bb26-aa106fc64d2a.html",
+    "risk_score": 28.7,
+    "count": 34,
+    "top_news": "https://redstate.com/wardclark/2026/03/28/new-iran-hackers-breach-fbi-chief-kash-patels-personal-email-n2200740",
     "event_codes": {
-      "19": 6,
-      "18": 3,
-      "14": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "the",
-      "latest",
-      "iranian",
-      "backed",
-      "houthi",
-      "rebels",
-      "claim",
-      "responsibility",
-      "for",
-      "missile",
-      "attack",
-      "israel",
-      "article",
-      "2cfd2fa2",
-      "0347",
-      "5b06",
-      "bb26",
-      "aa106fc64d2a.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.1,
-    "count": 25,
-    "top_news": "https://news.sky.com/story/three-lebanese-journalists-killed-in-israeli-airstrike-on-car-13525607",
-    "event_codes": {
-      "19": 17,
-      "14": 3,
+      "19": 20,
+      "14": 10,
       "16": 2,
       "17": 1,
-      "18": 1,
-      "20": 1
+      "18": 1
     },
     "keywords": [
-      "story",
-      "three",
-      "lebanese",
-      "journalists",
-      "killed",
-      "israeli",
-      "airstrike",
-      "car",
-      "13525607"
+      "wardclark",
+      "2026",
+      "new",
+      "iran",
+      "hackers",
+      "breach",
+      "fbi",
+      "chief",
+      "kash",
+      "patels",
+      "personal",
+      "email",
+      "n2200740"
     ]
   },
-  "LBN": {
-    "risk_score": 10.65,
-    "count": 11,
-    "top_news": "http://www.bignewsnetwork.com/news/278950247/israeli-airstrikes-on-s-lebanon-kill-5-injure-1",
-    "event_codes": {
-      "19": 10,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "278950247",
-      "israeli",
-      "airstrikes",
-      "lebanon",
-      "kill",
-      "injure"
-    ]
-  },
-  "TUR": {
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.middleeasteye.net/news/qatar-elder-statesman-warns-israels-war-iran-risks-spiralling-out-control",
+    "top_news": "https://www.presstv.ir/Detail/2026/03/28/765992/Drone-attack-on-residence-of-Iraqi-Kurdistan-president-%E2%80%98clear-act-of-terrorism%E2%80%99--IRGC",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "qatar",
-      "elder",
-      "statesman",
-      "warns",
-      "israels",
-      "war",
+      "detail",
+      "2026",
+      "765992",
+      "drone",
+      "attack",
+      "residence",
+      "iraqi",
+      "kurdistan",
+      "president",
+      "%e2%80%98clear",
+      "act",
+      "terrorism%e2%80%99",
+      "irgc"
+    ]
+  },
+  "ISR": {
+    "risk_score": 41.55,
+    "count": 44,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/28/765992/Drone-attack-on-residence-of-Iraqi-Kurdistan-president-%E2%80%98clear-act-of-terrorism%E2%80%99--IRGC",
+    "event_codes": {
+      "19": 35,
+      "14": 7,
+      "18": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "765992",
+      "drone",
+      "attack",
+      "residence",
+      "iraqi",
+      "kurdistan",
+      "president",
+      "%e2%80%98clear",
+      "act",
+      "terrorism%e2%80%99",
+      "irgc"
+    ]
+  },
+  "LBN": {
+    "risk_score": 24.67,
+    "count": 25,
+    "top_news": "https://www.wapt.com/article/israeli-airstrike-lebanon-kills-3-journalists/70873840",
+    "event_codes": {
+      "19": 24,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "airstrike",
+      "lebanon",
+      "kills",
+      "journalists",
+      "70873840"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.manilatimes.net/2026/03/29/world/israel-hits-iran-naval-research-site-fresh-blasts-rattle-tehran/2309924",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "israel",
+      "hits",
       "iran",
-      "risks",
-      "spiralling",
-      "out",
-      "control"
+      "naval",
+      "research",
+      "site",
+      "fresh",
+      "blasts",
+      "rattle",
+      "tehran",
+      "2309924"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/houthis-enter-iran-war-missile-181740055.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "articles",
+      "houthis",
+      "enter",
+      "iran",
+      "war",
+      "missile",
+      "181740055.html"
     ]
   }
 }
