@@ -1,114 +1,121 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://lufkindailynews.com/anpa/us/the-latest-iranian-backed-houthi-rebels-claim-responsibility-for-missile-attack-on-israel/article_7fe2d3fb-395f-5dd8-8d1d-94786f9ba0e9.html",
+  "BHR": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.siasat.com/days-of-iran-threatening-global-shipping-over-us-central-command-3442432/",
     "event_codes": {
-      "19": 2
+      "18": 3,
+      "19": 3
     },
     "keywords": [
-      "anpa",
-      "the",
-      "latest",
-      "iranian",
-      "backed",
-      "houthi",
-      "rebels",
-      "claim",
-      "responsibility",
-      "for",
-      "missile",
-      "attack",
-      "israel",
-      "article",
-      "7fe2d3fb",
-      "395f",
-      "5dd8",
-      "8d1d",
-      "94786f9ba0e9.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.jpost.com/opinion/article-891295",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "891295"
+      "days",
+      "iran",
+      "threatening",
+      "global",
+      "shipping",
+      "over",
+      "central",
+      "command",
+      "3442432"
     ]
   },
   "IRN": {
-    "risk_score": 10.15,
-    "count": 12,
-    "top_news": "https://fortune.com/2026/03/28/iran-backed-houthis-first-missile-launch-israel-ships-red-sea-traffic-suez-canal/",
+    "risk_score": 9.5,
+    "count": 10,
+    "top_news": "https://www.siasat.com/days-of-iran-threatening-global-shipping-over-us-central-command-3442432/",
     "event_codes": {
-      "19": 7,
-      "14": 3,
-      "16": 1,
+      "19": 9,
+      "17": 1
+    },
+    "keywords": [
+      "days",
+      "iran",
+      "threatening",
+      "global",
+      "shipping",
+      "over",
+      "central",
+      "command",
+      "3442432"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.95,
+    "count": 12,
+    "top_news": "https://www.siasat.com/days-of-iran-threatening-global-shipping-over-us-central-command-3442432/",
+    "event_codes": {
+      "19": 11,
       "18": 1
     },
     "keywords": [
-      "2026",
+      "days",
       "iran",
-      "backed",
-      "houthis",
-      "first",
-      "missile",
-      "launch",
-      "israel",
-      "ships",
-      "red",
-      "sea",
-      "traffic",
-      "suez",
-      "canal"
+      "threatening",
+      "global",
+      "shipping",
+      "over",
+      "central",
+      "command",
+      "3442432"
     ]
   },
-  "IRQ": {
+  "LBN": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.winnipegfreepress.com/breakingnews/2026/03/28/israeli-airstrike-in-southern-lebanon-kills-3-journalists-covering-the-war",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "breakingnews",
+      "2026",
+      "israeli",
+      "airstrike",
+      "southern",
+      "lebanon",
+      "kills",
+      "journalists",
+      "covering",
+      "the",
+      "war"
+    ]
+  },
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.irishdentist.ie/trip-to-kurdistan-on-the-border-with-iran-on-the-most-dangerous-front-line-in-the-world/16724/",
+    "top_news": "https://www.siasat.com/days-of-iran-threatening-global-shipping-over-us-central-command-3442432/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "trip",
-      "kurdistan",
-      "the",
-      "border",
-      "with",
+      "days",
       "iran",
-      "the",
-      "most",
-      "dangerous",
-      "front",
-      "line",
-      "the",
-      "world",
-      "16724"
+      "threatening",
+      "global",
+      "shipping",
+      "over",
+      "central",
+      "command",
+      "3442432"
     ]
   },
-  "ISR": {
-    "risk_score": 4.45,
-    "count": 6,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-891463",
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.siasat.com/days-of-iran-threatening-global-shipping-over-us-central-command-3442432/",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "891463"
+      "days",
+      "iran",
+      "threatening",
+      "global",
+      "shipping",
+      "over",
+      "central",
+      "command",
+      "3442432"
     ]
   }
 }
