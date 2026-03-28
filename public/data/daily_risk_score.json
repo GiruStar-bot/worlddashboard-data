@@ -1,62 +1,139 @@
 {
-  "IRN": {
-    "risk_score": 4.5,
+  "EGY": {
+    "risk_score": 4.0,
     "count": 5,
-    "top_news": "https://www.nujournal.com/opinion/letters/2026/03/28/miscalculation-of-an-analogy/",
+    "top_news": "https://www.bozemandailychronicle.com/ap_news/business/yemen-s-houthis-claim-responsibility-for-a-missile-attack-on-israel-their-first-since-the/article_39973dd4-5554-5a7d-b44a-f5ab250898ea.html",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "opinion",
-      "letters",
+      "news",
+      "business",
+      "yemen",
+      "houthis",
+      "claim",
+      "responsibility",
+      "for",
+      "missile",
+      "attack",
+      "israel",
+      "their",
+      "first",
+      "since",
+      "the",
+      "article",
+      "39973dd4",
+      "5554",
+      "5a7d",
+      "b44a",
+      "f5ab250898ea.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/28/indian-pilots-flag-serious-risk-to-passengers-crew-urge-dgca-to-halt-flights-in-west-asia-conflict-zones-seek-insurance-cover",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "aseanplus",
+      "aseanplus",
+      "news",
       "2026",
-      "miscalculation",
-      "analogy"
+      "indian",
+      "pilots",
+      "flag",
+      "serious",
+      "risk",
+      "passengers",
+      "crew",
+      "urge",
+      "dgca",
+      "halt",
+      "flights",
+      "west",
+      "asia",
+      "conflict",
+      "zones",
+      "seek",
+      "insurance",
+      "cover"
     ]
   },
   "ISR": {
-    "risk_score": 7.9,
-    "count": 8,
-    "top_news": "https://navhindtimes.in/editorial/chink-in-the-armour/",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://en.apa.az/asia/foreign-worker-hurt-in-drone-attack-on-omani-port-498615",
     "event_codes": {
-      "19": 7,
-      "18": 1
+      "19": 7
     },
     "keywords": [
-      "editorial",
-      "chink",
-      "the",
-      "armour"
+      "asia",
+      "foreign",
+      "worker",
+      "hurt",
+      "drone",
+      "attack",
+      "omani",
+      "port",
+      "498615"
     ]
   },
-  "KHM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://lancasteronline.com/features/entertainment/conestoga-valley-grad-daughter-of-cambodian-refugees-returns-home-to-read-her-poetry-at-f/article_035f500c-08c7-4a52-9d12-47a792bf4caa.html",
+  "KEN": {
+    "risk_score": 3.6,
+    "count": 5,
+    "top_news": "https://ghettoradio.co.ke/youth-storm-nairobi-streets-to-challenge-selective-morality/",
     "event_codes": {
-      "19": 2
+      "14": 4,
+      "19": 1
     },
     "keywords": [
-      "features",
-      "entertainment",
-      "conestoga",
-      "valley",
-      "grad",
-      "daughter",
-      "cambodian",
-      "refugees",
-      "returns",
-      "home",
-      "read",
-      "her",
-      "poetry",
-      "article",
-      "035f500c",
-      "08c7",
-      "4a52",
-      "9d12",
-      "47a792bf4caa.html"
+      "youth",
+      "storm",
+      "nairobi",
+      "streets",
+      "challenge",
+      "selective",
+      "morality"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thecable.ng/newspaper-headlines-teenagers-packaged-bomb-in-flask-to-attack-borno-hospital/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "newspaper",
+      "headlines",
+      "teenagers",
+      "packaged",
+      "bomb",
+      "flask",
+      "attack",
+      "borno",
+      "hospital"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.khaama.com/pakistan-says-military-operation-in-afghanistan-will-continue/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "pakistan",
+      "says",
+      "military",
+      "operation",
+      "afghanistan",
+      "will",
+      "continue"
     ]
   }
 }
