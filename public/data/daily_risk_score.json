@@ -1,97 +1,59 @@
 {
-  "IRN": {
-    "risk_score": 13.0,
-    "count": 13,
-    "top_news": "https://www.hometownregister.com/news/national/attacks-across-middle-east-as-iran-war-enters-second-month/article_282430cc-64a2-5ae8-ba70-506ed7a18127.html",
-    "event_codes": {
-      "19": 13
-    },
-    "keywords": [
-      "news",
-      "national",
-      "attacks",
-      "across",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "enters",
-      "second",
-      "month",
-      "article",
-      "282430cc",
-      "64a2",
-      "5ae8",
-      "ba70",
-      "506ed7a18127.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 17.35,
-    "count": 19,
-    "top_news": "https://21stcenturywire.com/2026/03/19/israel-strikes-worlds-largest-gas-field-iran-retaliates-whats-next-patrick-henningsen-talks-with-dialogue-works/",
-    "event_codes": {
-      "19": 16,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "israel",
-      "strikes",
-      "worlds",
-      "largest",
-      "gas",
-      "field",
-      "iran",
-      "retaliates",
-      "whats",
-      "next",
-      "patrick",
-      "henningsen",
-      "talks",
-      "with",
-      "dialogue",
-      "works"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hometownregister.com/news/national/attacks-across-middle-east-as-iran-war-enters-second-month/article_282430cc-64a2-5ae8-ba70-506ed7a18127.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "national",
-      "attacks",
-      "across",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "enters",
-      "second",
-      "month",
-      "article",
-      "282430cc",
-      "64a2",
-      "5ae8",
-      "ba70",
-      "506ed7a18127.html"
-    ]
-  },
-  "SAU": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.hometownregister.com/news/national/attacks-across-middle-east-as-iran-war-enters-second-month/article_282430cc-64a2-5ae8-ba70-506ed7a18127.html",
+    "top_news": "https://www.jpost.com/middle-east/article-891454",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "middle",
+      "east",
+      "article",
+      "891454"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.85,
+    "count": 13,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/03/27/israel-strikes-two-iranian-nuclear-sites-for-first-time-in-war/",
+    "event_codes": {
+      "19": 6,
+      "18": 5,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
       "news",
-      "national",
+      "mena",
+      "2026",
+      "israel",
+      "strikes",
+      "two",
+      "iranian",
+      "nuclear",
+      "sites",
+      "for",
+      "first",
+      "time",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.97,
+    "count": 17,
+    "top_news": "https://www.standardmedia.co.ke/asia/article/2001544062/attacks-across-middle-east-as-iran-war-enters-second-month",
+    "event_codes": {
+      "19": 9,
+      "17": 4,
+      "18": 2,
+      "16": 1,
+      "20": 1
+    },
+    "keywords": [
+      "asia",
+      "article",
+      "2001544062",
       "attacks",
       "across",
       "middle",
@@ -100,37 +62,41 @@
       "war",
       "enters",
       "second",
-      "month",
-      "article",
-      "282430cc",
-      "64a2",
-      "5ae8",
-      "ba70",
-      "506ed7a18127.html"
+      "month"
     ]
   },
-  "TUR": {
-    "risk_score": 2.6,
-    "count": 4,
-    "top_news": "https://21stcenturywire.com/2026/01/24/interview-with-mep-danilo-della-valle-eu-weakness-in-africa-not-caused-by-us-but-still-exploited-by-it/",
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thecollegefix.com/uw-madison-condemns-student-governments-illegal-flawed-israel-divestment-demand/",
     "event_codes": {
-      "14": 4
+      "20": 2
     },
     "keywords": [
-      "2026",
-      "interview",
-      "with",
-      "mep",
-      "danilo",
-      "della",
-      "valle",
-      "weakness",
-      "africa",
-      "not",
-      "caused",
-      "but",
-      "still",
-      "exploited"
+      "madison",
+      "condemns",
+      "student",
+      "governments",
+      "illegal",
+      "flawed",
+      "israel",
+      "divestment",
+      "demand"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.44,
+    "count": 4,
+    "top_news": "https://www.jpost.com/middle-east/article-891454",
+    "event_codes": {
+      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "891454"
     ]
   }
 }
