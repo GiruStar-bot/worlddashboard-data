@@ -1,50 +1,137 @@
 {
-  "IRN": {
-    "risk_score": 13.65,
-    "count": 14,
-    "top_news": "https://www.rawstory.com/iran-war-2676632260/",
+  "BHR": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1379738",
     "event_codes": {
-      "19": 13,
-      "14": 1
+      "14": 2,
+      "19": 2
     },
     "keywords": [
-      "iran",
-      "war",
-      "2676632260"
+      "details",
+      "1379738"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.1,
+    "count": 12,
+    "top_news": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-we-dont-have-to-be-there-for-nato/articleshow/129857138.cms",
+    "event_codes": {
+      "19": 7,
+      "18": 3,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "global",
+      "trends",
+      "trump",
+      "says",
+      "dont",
+      "have",
+      "there",
+      "for",
+      "nato",
+      "articleshow",
+      "129857138.cms"
     ]
   },
   "ISR": {
-    "risk_score": 13.0,
-    "count": 13,
-    "top_news": "https://freerepublic.com/focus/f-bloggers/4372515/posts",
+    "risk_score": 16.23,
+    "count": 18,
+    "top_news": "https://www.moneycontrol.com/world/iran-ballistic-missile-attack-kills-one-in-tel-aviv-amid-escalating-israel-iran-conflict-article-13873022.html",
     "event_codes": {
-      "19": 13
+      "19": 11,
+      "17": 4,
+      "15": 2,
+      "18": 1
     },
     "keywords": [
-      "focus",
-      "bloggers",
-      "4372515",
-      "posts"
+      "world",
+      "iran",
+      "ballistic",
+      "missile",
+      "attack",
+      "kills",
+      "one",
+      "tel",
+      "aviv",
+      "amid",
+      "escalating",
+      "israel",
+      "iran",
+      "conflict",
+      "article",
+      "13873022.html"
     ]
   },
-  "VNM": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.gazetaexpress.com/en/david-chase-from-the-sopranos-to-the-project-with-lsd/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-28-1986-anandpur-sahib-firing-10605344/",
     "event_codes": {
-      "19": 3,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "david",
-      "chase",
-      "from",
+      "article",
+      "opinion",
+      "years",
+      "ago",
+      "years",
+      "ago",
+      "march",
+      "1986",
+      "anandpur",
+      "sahib",
+      "firing",
+      "10605344"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.87,
+    "count": 5,
+    "top_news": "https://www.aei.org/articles/china-taiwan-update-march-27-2026/",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "articles",
+      "china",
+      "taiwan",
+      "update",
+      "march",
+      "2026"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nbcchicago.com/news/local/prosecutors-detail-what-happened-the-night-loyola-freshman-sheridan-gorman-was-shot-and-killed/3914766/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "local",
+      "prosecutors",
+      "detail",
+      "what",
+      "happened",
       "the",
-      "sopranos",
-      "the",
-      "project",
-      "with",
-      "lsd"
+      "night",
+      "loyola",
+      "freshman",
+      "sheridan",
+      "gorman",
+      "was",
+      "shot",
+      "and",
+      "killed",
+      "3914766"
     ]
   }
 }
