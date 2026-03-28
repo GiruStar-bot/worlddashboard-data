@@ -1,64 +1,13 @@
 {
-  "COL": {
-    "risk_score": 3.3,
-    "count": 5,
-    "top_news": "https://www.dailymail.co.uk/news/article-15687263/eric-fernando-gutierrez-molina-american-airlines-colombia-devils-breath.html",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://lufkindailynews.com/anpa/us/the-latest-iranian-backed-houthi-rebels-claim-responsibility-for-missile-attack-on-israel/article_7fe2d3fb-395f-5dd8-8d1d-94786f9ba0e9.html",
     "event_codes": {
-      "17": 3,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "article",
-      "15687263",
-      "eric",
-      "fernando",
-      "gutierrez",
-      "molina",
-      "american",
-      "airlines",
-      "colombia",
-      "devils",
-      "breath.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://tribune.com.pk/story/2599770/us-has-fired-over-850-tomahawk-missiles-at-iran-raising-stockpile-concerns-report",
-    "event_codes": {
-      "19": 7,
-      "18": 2
-    },
-    "keywords": [
-      "story",
-      "2599770",
-      "has",
-      "fired",
-      "over",
-      "850",
-      "tomahawk",
-      "missiles",
-      "iran",
-      "raising",
-      "stockpile",
-      "concerns",
-      "report"
-    ]
-  },
-  "ISR": {
-    "risk_score": 17.06,
-    "count": 18,
-    "top_news": "https://www.clickondetroit.com/news/world/2026/03/28/the-latest-iranian-backed-houthi-rebels-claim-responsibility-for-missile-attack-on-israel/",
-    "event_codes": {
-      "19": 13,
-      "17": 3,
-      "14": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
+      "anpa",
       "the",
       "latest",
       "iranian",
@@ -70,98 +19,96 @@
       "for",
       "missile",
       "attack",
-      "israel"
+      "israel",
+      "article",
+      "7fe2d3fb",
+      "395f",
+      "5dd8",
+      "8d1d",
+      "94786f9ba0e9.html"
     ]
   },
-  "KWT": {
+  "EGY": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.deccanchronicle.com/world/ukraines-zelenskyy-visits-uae-to-discuss-security-situation-1946885",
+    "top_news": "https://www.jpost.com/opinion/article-891295",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "world",
-      "ukraines",
-      "zelenskyy",
-      "visits",
-      "uae",
-      "discuss",
-      "security",
-      "situation",
-      "1946885"
+      "opinion",
+      "article",
+      "891295"
     ]
   },
-  "LBN": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.clickondetroit.com/news/world/2026/03/28/the-latest-iranian-backed-houthi-rebels-claim-responsibility-for-missile-attack-on-israel/",
+  "IRN": {
+    "risk_score": 10.15,
+    "count": 12,
+    "top_news": "https://fortune.com/2026/03/28/iran-backed-houthis-first-missile-launch-israel-ships-red-sea-traffic-suez-canal/",
     "event_codes": {
-      "19": 3,
-      "14": 1
+      "19": 7,
+      "14": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
       "2026",
-      "the",
-      "latest",
-      "iranian",
+      "iran",
       "backed",
-      "houthi",
-      "rebels",
-      "claim",
-      "responsibility",
-      "for",
+      "houthis",
+      "first",
       "missile",
-      "attack",
-      "israel"
+      "launch",
+      "israel",
+      "ships",
+      "red",
+      "sea",
+      "traffic",
+      "suez",
+      "canal"
     ]
   },
-  "PSE": {
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.arabherald.com/news/278949829/xinhua-headlines-one-month-into-us-israeli-war-with-iran-havoc-with-no-end-in-sight",
+    "top_news": "https://www.irishdentist.ie/trip-to-kurdistan-on-the-border-with-iran-on-the-most-dangerous-front-line-in-the-world/16724/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "278949829",
-      "xinhua",
-      "headlines",
-      "one",
-      "month",
-      "into",
-      "israeli",
-      "war",
+      "trip",
+      "kurdistan",
+      "the",
+      "border",
       "with",
       "iran",
-      "havoc",
-      "with",
-      "end",
-      "sight"
+      "the",
+      "most",
+      "dangerous",
+      "front",
+      "line",
+      "the",
+      "world",
+      "16724"
     ]
   },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/gulf/5256210-saudi-arabia-two-drones-intercepted-and-destroyed-recent-hours",
+  "ISR": {
+    "risk_score": 4.45,
+    "count": 6,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-891463",
     "event_codes": {
-      "19": 4
+      "17": 2,
+      "19": 2,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
-      "gulf",
-      "5256210",
-      "saudi",
-      "arabia",
-      "two",
-      "drones",
-      "intercepted",
-      "and",
-      "destroyed",
-      "recent",
-      "hours"
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "891463"
     ]
   }
 }
