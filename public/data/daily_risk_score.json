@@ -1,185 +1,84 @@
 {
-  "ARE": {
+  "BHR": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.theblaze.com/columns/opinion/i-saw-the-sky-light-up-over-dubai-the-real-shock-came-next",
+    "count": 4,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/glasgow-crime-boss-steven-lyons-36936947",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "17": 4
     },
     "keywords": [
-      "columns",
-      "opinion",
-      "saw",
-      "the",
-      "sky",
-      "light",
-      "over",
-      "dubai",
-      "the",
-      "real",
-      "shock",
-      "came",
-      "next"
+      "news",
+      "latest",
+      "news",
+      "glasgow",
+      "crime",
+      "boss",
+      "steven",
+      "lyons",
+      "36936947"
     ]
   },
-  "IDN": {
+  "IRN": {
+    "risk_score": 18.37,
+    "count": 19,
+    "top_news": "http://www.oklahomastar.com/news/278945614/israel-says-it-killed-irgc-navy-commander-alireza-tangsiri",
+    "event_codes": {
+      "19": 17,
+      "14": 1,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "278945614",
+      "israel",
+      "says",
+      "killed",
+      "irgc",
+      "navy",
+      "commander",
+      "alireza",
+      "tangsiri"
+    ]
+  },
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://countercurrents.org/2026/03/imperialism-never-disappeared-it-adapted/",
+    "top_news": "http://www.oklahomastar.com/news/278945614/israel-says-it-killed-irgc-navy-commander-alireza-tangsiri",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "imperialism",
-      "never",
-      "disappeared",
-      "adapted"
-    ]
-  },
-  "IRN": {
-    "risk_score": 15.4,
-    "count": 17,
-    "top_news": "https://www.thehindu.com/news/international/zelenskyy-visits-uae-for-talks-on-security-situation/article70796073.ece",
-    "event_codes": {
-      "19": 12,
-      "16": 2,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
       "news",
-      "international",
-      "zelenskyy",
-      "visits",
-      "uae",
-      "for",
-      "talks",
-      "security",
-      "situation",
-      "article70796073.ece"
+      "278945614",
+      "israel",
+      "says",
+      "killed",
+      "irgc",
+      "navy",
+      "commander",
+      "alireza",
+      "tangsiri"
     ]
   },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.asiaone.com/singapore/shanmugam-on-fadiah-nadwa-fikri-malaysia-activist-denied-entry",
+  "QAT": {
+    "risk_score": 9.3,
+    "count": 15,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/glasgow-crime-boss-steven-lyons-36936947",
     "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "singapore",
-      "shanmugam",
-      "fadiah",
-      "nadwa",
-      "fikri",
-      "malaysia",
-      "activist",
-      "denied",
-      "entry"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thehindu.com/news/international/zelenskyy-visits-uae-for-talks-on-security-situation/article70796073.ece",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "international",
-      "zelenskyy",
-      "visits",
-      "uae",
-      "for",
-      "talks",
-      "security",
-      "situation",
-      "article70796073.ece"
-    ]
-  },
-  "KWT": {
-    "risk_score": 4.92,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/international/zelenskyy-visits-uae-for-talks-on-security-situation/article70796073.ece",
-    "event_codes": {
+      "17": 9,
       "19": 4,
-      "17": 1
+      "16": 2
     },
     "keywords": [
       "news",
-      "international",
-      "zelenskyy",
-      "visits",
-      "uae",
-      "for",
-      "talks",
-      "security",
-      "situation",
-      "article70796073.ece"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.asiaone.com/singapore/shanmugam-on-fadiah-nadwa-fikri-malaysia-activist-denied-entry",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "singapore",
-      "shanmugam",
-      "fadiah",
-      "nadwa",
-      "fikri",
-      "malaysia",
-      "activist",
-      "denied",
-      "entry"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://www.nigerianeye.com/2026/03/police-begins-probe-into-teenagers-body.html",
-    "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "begins",
-      "probe",
-      "into",
-      "teenagers",
-      "body.html"
-    ]
-  },
-  "SGP": {
-    "risk_score": 3.9,
-    "count": 7,
-    "top_news": "https://www.asiaone.com/singapore/shanmugam-on-fadiah-nadwa-fikri-malaysia-activist-denied-entry",
-    "event_codes": {
-      "17": 5,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "singapore",
-      "shanmugam",
-      "fadiah",
-      "nadwa",
-      "fikri",
-      "malaysia",
-      "activist",
-      "denied",
-      "entry"
+      "latest",
+      "news",
+      "glasgow",
+      "crime",
+      "boss",
+      "steven",
+      "lyons",
+      "36936947"
     ]
   }
 }
