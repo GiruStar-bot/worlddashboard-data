@@ -1,108 +1,117 @@
 {
-  "IRN": {
-    "risk_score": 3.3,
+  "EGY": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.bostonglobe.com/2026/03/28/world/near-irans-rugged-frontier-kurds-yearn-join-fight/",
+    "top_news": "https://www.thetimes.com/uk/crime/article/met-police-antisemitism-jewish-tottenham-0p2fllkmv",
     "event_codes": {
-      "14": 2,
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "world",
-      "near",
-      "irans",
-      "rugged",
-      "frontier",
-      "kurds",
-      "yearn",
-      "join",
-      "fight"
+      "crime",
+      "article",
+      "met",
+      "police",
+      "antisemitism",
+      "jewish",
+      "tottenham",
+      "0p2fllkmv"
     ]
   },
-  "IRQ": {
+  "IRN": {
+    "risk_score": 9.9,
+    "count": 11,
+    "top_news": "https://www.rockymounttelegram.com/news/national/the-latest-iranian-backed-houthi-rebels-claim-responsibility-for-missile-attack-on-israel/article_2cfd2fa2-0347-5b06-bb26-aa106fc64d2a.html",
+    "event_codes": {
+      "19": 6,
+      "18": 3,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "the",
+      "latest",
+      "iranian",
+      "backed",
+      "houthi",
+      "rebels",
+      "claim",
+      "responsibility",
+      "for",
+      "missile",
+      "attack",
+      "israel",
+      "article",
+      "2cfd2fa2",
+      "0347",
+      "5b06",
+      "bb26",
+      "aa106fc64d2a.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 22.1,
+    "count": 25,
+    "top_news": "https://news.sky.com/story/three-lebanese-journalists-killed-in-israeli-airstrike-on-car-13525607",
+    "event_codes": {
+      "19": 17,
+      "14": 3,
+      "16": 2,
+      "17": 1,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "story",
+      "three",
+      "lebanese",
+      "journalists",
+      "killed",
+      "israeli",
+      "airstrike",
+      "car",
+      "13525607"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.65,
+    "count": 11,
+    "top_news": "http://www.bignewsnetwork.com/news/278950247/israeli-airstrikes-on-s-lebanon-kill-5-injure-1",
+    "event_codes": {
+      "19": 10,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "278950247",
+      "israeli",
+      "airstrikes",
+      "lebanon",
+      "kill",
+      "injure"
+    ]
+  },
+  "TUR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.bostonglobe.com/2026/03/28/world/near-irans-rugged-frontier-kurds-yearn-join-fight/",
+    "top_news": "https://www.middleeasteye.net/news/qatar-elder-statesman-warns-israels-war-iran-risks-spiralling-out-control",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "world",
-      "near",
-      "irans",
-      "rugged",
-      "frontier",
-      "kurds",
-      "yearn",
-      "join",
-      "fight"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.55,
-    "count": 6,
-    "top_news": "https://torontosun.com/news/world/iran-war-updates-houthi-rebels-missile-attack-israel",
-    "event_codes": {
-      "16": 2,
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
       "news",
-      "world",
-      "iran",
+      "qatar",
+      "elder",
+      "statesman",
+      "warns",
+      "israels",
       "war",
-      "updates",
-      "houthi",
-      "rebels",
-      "missile",
-      "attack",
-      "israel"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.bostonglobe.com/2026/03/28/world/near-irans-rugged-frontier-kurds-yearn-join-fight/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "near",
-      "irans",
-      "rugged",
-      "frontier",
-      "kurds",
-      "yearn",
-      "join",
-      "fight"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.algemeiner.com/2026/03/28/yemens-houthis-confirm-launching-attack-on-israel-for-first-time-in-current-war/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "yemens",
-      "houthis",
-      "confirm",
-      "launching",
-      "attack",
-      "israel",
-      "for",
-      "first",
-      "time",
-      "current",
-      "war"
+      "iran",
+      "risks",
+      "spiralling",
+      "out",
+      "control"
     ]
   }
 }
