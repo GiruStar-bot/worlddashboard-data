@@ -1,112 +1,127 @@
 {
-  "COL": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.whmi.com/news/fox/father-slain-20-year-old-killed-illegal-immigrant-issues-stark-warning-after-sheridan-gorman-killing",
+  "IRN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/03/28/war-ukraine-offers-to-protect-uae-from-iranian-attacks/",
     "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "fox",
-      "father",
-      "slain",
-      "year",
-      "old",
-      "killed",
-      "illegal",
-      "immigrant",
-      "issues",
-      "stark",
-      "warning",
-      "after",
-      "sheridan",
-      "gorman",
-      "killing"
-    ]
-  },
-  "IDN": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.dailyrecord.co.uk/news/scottish-news/criminal-record-steven-lyons-arrested-36937734",
-    "event_codes": {
-      "17": 4,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "scottish",
-      "news",
-      "criminal",
-      "record",
-      "steven",
-      "lyons",
-      "arrested",
-      "36937734"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.41,
-    "count": 16,
-    "top_news": "https://cyprus-mail.com/2026/03/28/israeli-airstrike-kills-three-lebanese-journalists-israel-says-it-targeted-one",
-    "event_codes": {
-      "19": 10,
-      "15": 3,
-      "14": 2,
-      "18": 1
+      "19": 5,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "israeli",
-      "airstrike",
-      "kills",
-      "three",
-      "lebanese",
-      "journalists",
-      "israel",
-      "says",
-      "targeted",
-      "one"
+      "war",
+      "ukraine",
+      "offers",
+      "protect",
+      "uae",
+      "from",
+      "iranian",
+      "attacks"
     ]
   },
-  "LBN": {
+  "ISR": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2530958/israeli-man-killed-several-injured-in-iranian-cluster-missile-attack-on-tel-aviv.html",
+    "event_codes": {
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "2530958",
+      "israeli",
+      "man",
+      "killed",
+      "several",
+      "injured",
+      "iranian",
+      "cluster",
+      "missile",
+      "attack",
+      "tel",
+      "aviv.html"
+    ]
+  },
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://cyprus-mail.com/2026/03/28/israeli-airstrike-kills-three-lebanese-journalists-israel-says-it-targeted-one",
+    "top_news": "http://www.bignewsnetwork.com/news/278950124/jordanian-armed-forces-report-22-iranian-missiles-launched-at-kingdom-within-one-week",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "airstrike",
-      "kills",
-      "three",
-      "lebanese",
-      "journalists",
+      "news",
+      "278950124",
+      "jordanian",
+      "armed",
+      "forces",
+      "report",
+      "iranian",
+      "missiles",
+      "launched",
+      "kingdom",
+      "within",
+      "one",
+      "week"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/israel-targeted-yemen-houthis-first-183116049.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
       "israel",
-      "says",
       "targeted",
-      "one"
+      "yemen",
+      "houthis",
+      "first",
+      "183116049.html"
     ]
   },
   "NGA": {
-    "risk_score": 3.65,
-    "count": 5,
-    "top_news": "https://blueprint.ng/the-unforgettable-heroine-sophie-oluwole/",
+    "risk_score": 7.14,
+    "count": 8,
+    "top_news": "https://dailypost.ng/2026/03/28/security-forces-kill-two-bandits-foil-daylight-raid-in-kano/",
     "event_codes": {
-      "17": 2,
-      "14": 1,
-      "18": 1,
-      "19": 1
+      "19": 4,
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "the",
-      "unforgettable",
-      "heroine",
-      "sophie",
-      "oluwole"
+      "2026",
+      "security",
+      "forces",
+      "kill",
+      "two",
+      "bandits",
+      "foil",
+      "daylight",
+      "raid",
+      "kano"
+    ]
+  },
+  "YEM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.aol.co.uk/articles/israel-targeted-yemen-houthis-first-183116049.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "articles",
+      "israel",
+      "targeted",
+      "yemen",
+      "houthis",
+      "first",
+      "183116049.html"
     ]
   }
 }
