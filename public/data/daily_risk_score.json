@@ -1,42 +1,113 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://udaipurkiran.com/missile-strike-hits-us-base-in-saudi-arabia-10-soldiers-injured/",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.dailyrecord.co.uk/news/scottish-news/crime-boss-steven-lyons-homeless-36932227",
     "event_codes": {
-      "19": 2
+      "17": 5
     },
     "keywords": [
-      "missile",
-      "strike",
-      "hits",
-      "base",
-      "saudi",
-      "arabia",
-      "soldiers",
-      "injured"
+      "news",
+      "scottish",
+      "news",
+      "crime",
+      "boss",
+      "steven",
+      "lyons",
+      "homeless",
+      "36932227"
     ]
   },
-  "KWT": {
+  "IRN": {
+    "risk_score": 12.8,
+    "count": 13,
+    "top_news": "https://www.perthnow.com.au/news/australia/us-iran-war-updates-anthony-albanese-announces-new-fuel-security-powers-as-petrol-prices-spike-in-australia-c-22061204",
+    "event_codes": {
+      "19": 11,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "australia",
+      "iran",
+      "war",
+      "updates",
+      "anthony",
+      "albanese",
+      "announces",
+      "new",
+      "fuel",
+      "security",
+      "powers",
+      "petrol",
+      "prices",
+      "spike",
+      "australia",
+      "22061204"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.9,
+    "count": 14,
+    "top_news": "https://scroll.in/latest/1091725/top-updates-five-indians-injured-due-to-falling-missile-debris-in-abu-dhabi",
+    "event_codes": {
+      "19": 11,
+      "18": 3
+    },
+    "keywords": [
+      "latest",
+      "1091725",
+      "top",
+      "updates",
+      "five",
+      "indians",
+      "injured",
+      "due",
+      "falling",
+      "missile",
+      "debris",
+      "abu",
+      "dhabi"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.washingtonexaminer.com/policy/foreign-policy/4507498/trump-praise-gulf-allies-slam-nato-miami-speech/",
+    "top_news": "https://politicaldog101.com/2026/03/irantrump-warevening-3-27-2026-trump-is-bored-with-his-iran-war/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "policy",
-      "foreign",
-      "policy",
-      "4507498",
+      "2026",
+      "irantrump",
+      "warevening",
+      "2026",
       "trump",
-      "praise",
-      "gulf",
-      "allies",
-      "slam",
-      "nato",
-      "miami",
-      "speech"
+      "bored",
+      "with",
+      "his",
+      "iran",
+      "war"
+    ]
+  },
+  "QAT": {
+    "risk_score": 5.4,
+    "count": 8,
+    "top_news": "https://www.dailyrecord.co.uk/news/scottish-news/crime-boss-steven-lyons-homeless-36932227",
+    "event_codes": {
+      "17": 4,
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "scottish",
+      "news",
+      "crime",
+      "boss",
+      "steven",
+      "lyons",
+      "homeless",
+      "36932227"
     ]
   }
 }
