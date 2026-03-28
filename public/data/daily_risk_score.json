@@ -1,24 +1,139 @@
 {
-  "ISR": {
-    "risk_score": 10.99,
-    "count": 12,
-    "top_news": "https://pjmedia.com/rick-moran/2026/03/28/tolerant-canada-now-home-to-a-polite-pogrom-n4951166",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.opednews.com/populum/page.php?f=The-New-York-Times-and-Was-Invasion_Iran-War_New-York-Times_Pentagon-260328-338.html",
     "event_codes": {
-      "19": 8,
-      "17": 3,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "rick",
-      "moran",
+      "populum",
+      "page.php"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.72,
+    "count": 17,
+    "top_news": "https://news.sky.com/story/police-thwart-suspected-bomb-attack-outside-a-bank-of-america-building-in-paris-13522371",
+    "event_codes": {
+      "19": 10,
+      "18": 4,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "story",
+      "police",
+      "thwart",
+      "suspected",
+      "bomb",
+      "attack",
+      "outside",
+      "bank",
+      "america",
+      "building",
+      "paris",
+      "13522371"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.0,
+    "count": 27,
+    "top_news": "https://www.opednews.com/populum/page.php?f=The-New-York-Times-and-Was-Invasion_Iran-War_New-York-Times_Pentagon-260328-338.html",
+    "event_codes": {
+      "19": 23,
+      "17": 4
+    },
+    "keywords": [
+      "populum",
+      "page.php"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.yahoo.com/news/articles/houthi-missile-attack-israel-stokes-163046643.html",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "houthi",
+      "missile",
+      "attack",
+      "israel",
+      "stokes",
+      "163046643.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.youralaskalink.com/news/national/war-in-the-middle-east-latest-developments/article_d66ab6d6-db10-56aa-a50c-54d6e1684592.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "national",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article",
+      "d66ab6d6",
+      "db10",
+      "56aa",
+      "a50c",
+      "54d6e1684592.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nypost.com/2026/03/28/us-news/university-student-paper-launches-ice-tracker-days-after-illegal-migrant-charged-in-sheridan-gormans-murder/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "tolerant",
-      "canada",
-      "now",
-      "home",
-      "polite",
-      "pogrom",
-      "n4951166"
+      "news",
+      "university",
+      "student",
+      "paper",
+      "launches",
+      "ice",
+      "tracker",
+      "days",
+      "after",
+      "illegal",
+      "migrant",
+      "charged",
+      "sheridan",
+      "gormans",
+      "murder"
+    ]
+  },
+  "YEM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.naroomanewsonline.com.au/story/9209407/houthis-fire-at-israel-as-kuwait-airport-hit-by-drones/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "story",
+      "9209407",
+      "houthis",
+      "fire",
+      "israel",
+      "kuwait",
+      "airport",
+      "hit",
+      "drones"
     ]
   }
 }
