@@ -1,61 +1,124 @@
 {
   "IRN": {
-    "risk_score": 12.9,
-    "count": 14,
-    "top_news": "https://ctnewsjunkie.com/2026/03/28/third-no-kings-rally-draws-thousands-to-hartford/",
+    "risk_score": 14.15,
+    "count": 16,
+    "top_news": "https://www.scmp.com/opinion/asia-opinion/article/3347725/ai-infrastructure-front-line-lessons-asean-iran-war",
     "event_codes": {
-      "19": 12,
-      "16": 1,
-      "17": 1
+      "19": 9,
+      "14": 5,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "third",
-      "kings",
-      "rally",
-      "draws",
-      "thousands",
-      "hartford"
+      "opinion",
+      "asia",
+      "opinion",
+      "article",
+      "3347725",
+      "infrastructure",
+      "front",
+      "line",
+      "lessons",
+      "asean",
+      "iran",
+      "war"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.spacewar.com/afp/260328201138.xy3kxzao.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "afp",
+      "260328201138.xy3kxzao.html"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.naroomanewsonline.com.au/story/9209407/yemens-houthis-enter-iran-war-with-attacks-on-israel/",
+    "risk_score": 13.8,
+    "count": 16,
+    "top_news": "https://dailyfreepress.com/03/28/13/218960/trump-administration-sues-harvard-for-indifference-towards-antisemitism-harvard-faculty-denounce-claim/",
     "event_codes": {
-      "19": 3
+      "19": 11,
+      "17": 3,
+      "14": 2
     },
     "keywords": [
-      "story",
-      "9209407",
-      "yemens",
-      "houthis",
-      "enter",
-      "iran",
-      "war",
-      "with",
-      "attacks",
-      "israel"
+      "218960",
+      "trump",
+      "administration",
+      "sues",
+      "harvard",
+      "for",
+      "indifference",
+      "towards",
+      "antisemitism",
+      "harvard",
+      "faculty",
+      "denounce",
+      "claim"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newvision.co.ug/category/world/war-in-the-middle-east-latest-developments-NV_230755_032026",
+    "risk_score": 5.3,
+    "count": 6,
+    "top_news": "https://www.cnn.com/2026/03/28/middleeast/lebanese-journalists-killed-israel-hezbollah-latam-intl",
     "event_codes": {
+      "14": 2,
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "category",
-      "world",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "230755",
-      "032026"
+      "2026",
+      "middleeast",
+      "lebanese",
+      "journalists",
+      "killed",
+      "israel",
+      "hezbollah",
+      "latam",
+      "intl"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.65,
+    "count": 4,
+    "top_news": "https://punchng.com/sokoto-pdp-to-shun-wike-led-factions-convention-insists-on-neutrality/",
+    "event_codes": {
+      "16": 3,
+      "14": 1
+    },
+    "keywords": [
+      "sokoto",
+      "pdp",
+      "shun",
+      "wike",
+      "led",
+      "factions",
+      "convention",
+      "insists",
+      "neutrality"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://punchng.com/lebanon-denounces-death-of-three-journalists-killed-by-israeli-strike/",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "lebanon",
+      "denounces",
+      "death",
+      "three",
+      "journalists",
+      "killed",
+      "israeli",
+      "strike"
     ]
   }
 }
