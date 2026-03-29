@@ -1,50 +1,73 @@
 {
   "IRN": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://www.mirror.co.uk/news/world-news/iran-war-trump-invasion-live-36939036",
+    "risk_score": 11.6,
+    "count": 14,
+    "top_news": "https://tribune.com.pk/story/2599907/iran-guards-say-struck-bahrain-uae-aluminium-plants",
     "event_codes": {
-      "19": 2,
-      "14": 1,
-      "18": 1
+      "19": 6,
+      "14": 4,
+      "18": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
+      "story",
+      "2599907",
       "iran",
-      "war",
-      "trump",
-      "invasion",
-      "live",
-      "36939036"
+      "guards",
+      "say",
+      "struck",
+      "bahrain",
+      "uae",
+      "aluminium",
+      "plants"
     ]
   },
   "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://english.news.cn/20260329/5a60b59bc1224c94b34997ccefa03159/c.html",
+    "risk_score": 19.3,
+    "count": 20,
+    "top_news": "https://english.wafa.ps/Pages/Details/168761",
     "event_codes": {
-      "19": 8
+      "19": 18,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "20260329",
-      "5a60b59bc1224c94b34997ccefa03159",
-      "c.html"
+      "pages",
+      "details",
+      "168761"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://spectator.org/the-bishops-misplaced-priorities/",
+  "LBN": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://english.wafa.ps/Pages/Details/168765",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "18": 1
     },
     "keywords": [
-      "the",
-      "bishops",
-      "misplaced",
-      "priorities"
+      "pages",
+      "details",
+      "168765"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://antonyloewenstein.com/australias-ambition-to-become-global-arms-dealer/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "australias",
+      "ambition",
+      "become",
+      "global",
+      "arms",
+      "dealer"
     ]
   }
 }
