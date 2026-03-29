@@ -1,124 +1,148 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.journalismpakistan.com/arrests-killings-mark-grim-week-for-press-freedom",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "arrests",
-      "killings",
-      "mark",
-      "grim",
-      "week",
-      "for",
-      "press",
-      "freedom"
-    ]
-  },
   "IRN": {
-    "risk_score": 25.29,
-    "count": 28,
-    "top_news": "https://theasian.asia/archives/203979",
+    "risk_score": 16.59,
+    "count": 20,
+    "top_news": "https://www.fox5ny.com/news/iran-war-updates-middle-east",
     "event_codes": {
-      "19": 18,
-      "17": 6,
-      "18": 4
-    },
-    "keywords": [
-      "archives",
-      "203979"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theatlantic.com/international/2026/03/kurdish-troops-us-iran-war/686572/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "international",
-      "2026",
-      "kurdish",
-      "troops",
-      "iran",
-      "war",
-      "686572"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.54,
-    "count": 17,
-    "top_news": "https://english.wafa.ps/Pages/Details/168769",
-    "event_codes": {
-      "19": 13,
-      "17": 3,
+      "18": 7,
+      "19": 7,
+      "16": 3,
+      "17": 2,
       "15": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168769"
+      "news",
+      "iran",
+      "war",
+      "updates",
+      "middle",
+      "east"
     ]
   },
-  "KWT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.nvdaily.com/associated_press_national/the-latest-iran-warns-the-us-against-a-ground-invasion-as-regional-powers-meet-in/article_fd897b7e-3498-5776-b64a-af0a1ae43afd.html",
+  "ISR": {
+    "risk_score": 26.05,
+    "count": 27,
+    "top_news": "https://www.ashleycountyledger.com/news/national/iran-accuses-us-of-plotting-ground-attack-despite-diplomatic-talk/article_6caf06ad-7996-51b5-9164-dc1ef09e0fa4.html",
     "event_codes": {
-      "19": 4
+      "19": 20,
+      "18": 6,
+      "14": 1
     },
     "keywords": [
-      "associated",
-      "press",
+      "news",
       "national",
-      "the",
-      "latest",
       "iran",
-      "warns",
-      "the",
-      "against",
+      "accuses",
+      "plotting",
       "ground",
-      "invasion",
-      "regional",
-      "powers",
-      "meet",
+      "attack",
+      "despite",
+      "diplomatic",
+      "talk",
       "article",
-      "fd897b7e",
-      "3498",
-      "5776",
-      "b64a",
-      "af0a1ae43afd.html"
+      "6caf06ad",
+      "7996",
+      "51b5",
+      "9164",
+      "dc1ef09e0fa4.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.al-monitor.com/originals/2026/03/funeral-near-beirut-journalists-killed-israeli-strike",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "funeral",
+      "near",
+      "beirut",
+      "journalists",
+      "killed",
+      "israeli",
+      "strike"
     ]
   },
   "NGA": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://saharareporters.com/2026/03/29/ndlea-uncovers-cocaine-hidden-inside-fish-heads-bound-india-arrests-80-year-old-man-drug",
+    "risk_score": 8.9,
+    "count": 11,
+    "top_news": "https://punchng.com/ndlea-seizes-cocaine-hidden-in-dry-fish-arrests-grandpa-with-meth/",
     "event_codes": {
-      "17": 5,
+      "19": 7,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "ndlea",
+      "seizes",
+      "cocaine",
+      "hidden",
+      "dry",
+      "fish",
+      "arrests",
+      "grandpa",
+      "with",
+      "meth"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://wtop.com/national/2026/03/the-latest-regional-powers-to-meet-in-pakistan-to-discuss-how-to-end-mideast-fighting/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "national",
+      "2026",
+      "the",
+      "latest",
+      "regional",
+      "powers",
+      "meet",
+      "pakistan",
+      "discuss",
+      "how",
+      "end",
+      "mideast",
+      "fighting"
+    ]
+  },
+  "VNM": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://freebeacon.com/culture/coups-and-consequences/",
+    "event_codes": {
       "19": 5
     },
     "keywords": [
+      "culture",
+      "coups",
+      "and",
+      "consequences"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://article.wn.com/view/2026/03/29/Yemeni_forces_announce_ballistic_missile_strike_on_sensitive/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "view",
       "2026",
-      "ndlea",
-      "uncovers",
-      "cocaine",
-      "hidden",
-      "inside",
-      "fish",
-      "heads",
-      "bound",
-      "india",
-      "arrests",
-      "year",
-      "old",
-      "man",
-      "drug"
+      "yemeni",
+      "forces",
+      "announce",
+      "ballistic",
+      "missile",
+      "strike",
+      "sensitive"
     ]
   }
 }
