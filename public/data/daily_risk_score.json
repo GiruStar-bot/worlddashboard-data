@@ -1,80 +1,130 @@
 {
   "IRN": {
-    "risk_score": 20.57,
-    "count": 23,
-    "top_news": "https://www.yahoo.com/news/articles/iran-says-bracing-ground-assault-151921754.html",
+    "risk_score": 13.25,
+    "count": 14,
+    "top_news": "https://athens-times.com/iran-strikes-us-linked-base-in-jordan-warns-of-response-to-uss-abraham-lincoln/",
     "event_codes": {
-      "19": 14,
-      "17": 5,
+      "19": 9,
+      "18": 3,
+      "16": 2
+    },
+    "keywords": [
+      "iran",
+      "strikes",
+      "linked",
+      "base",
+      "jordan",
+      "warns",
+      "response",
+      "uss",
+      "abraham",
+      "lincoln"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.55,
+    "count": 11,
+    "top_news": "https://www.thehindubusinessline.com/news/world/iran-warns-us-against-ground-invasion-as-regional-diplomats-seek-end-to-war/article70800276.ece",
+    "event_codes": {
+      "19": 7,
       "18": 3,
       "14": 1
     },
     "keywords": [
       "news",
-      "articles",
+      "world",
       "iran",
-      "says",
-      "bracing",
+      "warns",
+      "against",
       "ground",
-      "assault",
-      "151921754.html"
+      "invasion",
+      "regional",
+      "diplomats",
+      "seek",
+      "end",
+      "war",
+      "article70800276.ece"
     ]
   },
-  "ISR": {
-    "risk_score": 24.36,
-    "count": 27,
-    "top_news": "https://www.thenationalnews.com/news/uae/2026/03/29/uae-iran-missile-strikes/",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.2news.com/news/national/the-latest-regional-powers-meet-in-pakistan-as-iran-warns-us-against-ground-invasion/article_2bee76b5-b3f9-5584-9556-5ca6aaaf5f02.html",
     "event_codes": {
-      "19": 15,
-      "14": 5,
-      "17": 4,
-      "18": 3
+      "19": 2
     },
     "keywords": [
       "news",
-      "uae",
-      "2026",
-      "uae",
+      "national",
+      "the",
+      "latest",
+      "regional",
+      "powers",
+      "meet",
+      "pakistan",
       "iran",
-      "missile",
-      "strikes"
+      "warns",
+      "against",
+      "ground",
+      "invasion",
+      "article",
+      "2bee76b5",
+      "b3f9",
+      "5584",
+      "9556",
+      "5ca6aaaf5f02.html"
     ]
   },
   "LBN": {
-    "risk_score": 10.12,
-    "count": 11,
-    "top_news": "https://www.yahoo.com/news/articles/iran-says-bracing-ground-assault-151921754.html",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.lbc.co.uk/article/israel-expansion-southern-lebanon-5HjdX2g_2/",
     "event_codes": {
-      "19": 7,
-      "14": 2,
-      "17": 1,
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "iran",
-      "says",
-      "bracing",
-      "ground",
-      "assault",
-      "151921754.html"
+      "article",
+      "israel",
+      "expansion",
+      "southern",
+      "lebanon",
+      "5hjdx2g"
     ]
   },
-  "SYR": {
+  "SDN": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://radiofreesyria.com/syria-shot-down-drones-targeting-a-us-base/",
+    "top_news": "https://www.newsday.com/news/nation/sudan-war-military-rsf-g76002",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "syria",
-      "shot",
-      "down",
-      "drones",
-      "targeting",
-      "base"
+      "news",
+      "nation",
+      "sudan",
+      "war",
+      "military",
+      "rsf",
+      "g76002"
+    ]
+  },
+  "TWN": {
+    "risk_score": 8.32,
+    "count": 12,
+    "top_news": "https://www.taipeitimes.com/News/feat/archives/2026/03/30/2003854693",
+    "event_codes": {
+      "14": 4,
+      "17": 4,
+      "19": 3,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "feat",
+      "archives",
+      "2026",
+      "2003854693"
     ]
   }
 }
