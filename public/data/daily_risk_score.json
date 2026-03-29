@@ -1,54 +1,61 @@
 {
   "IRN": {
-    "risk_score": 5.55,
-    "count": 6,
-    "top_news": "https://sana.sy/en/international/2306375/",
+    "risk_score": 9.46,
+    "count": 11,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-891574",
     "event_codes": {
-      "19": 3,
+      "19": 5,
+      "15": 3,
       "18": 2,
-      "14": 1
+      "17": 1
     },
     "keywords": [
-      "international",
-      "2306375"
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "891574"
     ]
   },
-  "SOM": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://nypost.com/2026/03/29/business/scott-bessent-launches-crackdown-on-health-care-fraud-after-somali-scam-scandal-in-minnesota/",
+  "ISR": {
+    "risk_score": 7.02,
+    "count": 8,
+    "top_news": "https://www.cnn.com/2026/03/29/middleeast/iran-threats-ground-invasion-latam-intl",
     "event_codes": {
-      "15": 3
+      "19": 5,
+      "14": 2,
+      "15": 1
     },
     "keywords": [
       "2026",
-      "business",
-      "scott",
-      "bessent",
-      "launches",
-      "crackdown",
-      "health",
-      "care",
-      "fraud",
-      "after",
-      "somali",
-      "scam",
-      "scandal",
-      "minnesota"
+      "middleeast",
+      "iran",
+      "threats",
+      "ground",
+      "invasion",
+      "latam",
+      "intl"
     ]
   },
-  "SYR": {
-    "risk_score": 2.17,
-    "count": 3,
-    "top_news": "https://sana.sy/en/syria/2306311/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.businesstimes.com.sg/international/teheran-briefly-loses-power-after-strikes-peace-push-ramps",
     "event_codes": {
-      "15": 1,
-      "17": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "syria",
-      "2306311"
+      "international",
+      "teheran",
+      "briefly",
+      "loses",
+      "power",
+      "after",
+      "strikes",
+      "peace",
+      "push",
+      "ramps"
     ]
   }
 }
