@@ -1,32 +1,97 @@
 {
-  "IRN": {
-    "risk_score": 10.4,
-    "count": 13,
-    "top_news": "https://www.yahoo.com/news/articles/idf-strikes-tehran-command-centers-083416824.html",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://moneyweek.com/investments/china-stock-markets/ram-charan-on-chinas-quiet-quest-for-world-domination",
     "event_codes": {
-      "14": 7,
-      "18": 3,
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "idf",
-      "strikes",
-      "tehran",
-      "command",
-      "centers",
-      "083416824.html"
+      "investments",
+      "china",
+      "stock",
+      "markets",
+      "ram",
+      "charan",
+      "chinas",
+      "quiet",
+      "quest",
+      "for",
+      "world",
+      "domination"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.3,
+    "count": 13,
+    "top_news": "https://www.dw.com/en/iran-war-iran-waiting-for-us-ground-assault-says-speaker/live-76581165",
+    "event_codes": {
+      "18": 7,
+      "19": 6
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "iran",
+      "waiting",
+      "for",
+      "ground",
+      "assault",
+      "says",
+      "speaker",
+      "live",
+      "76581165"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://timesofindia.indiatimes.com/defence/international/3-billion-toll-us-counts-losses-in-aircraft-drones-defence-systems/articleshow/129878775.cms",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "defence",
+      "international",
+      "billion",
+      "toll",
+      "counts",
+      "losses",
+      "aircraft",
+      "drones",
+      "defence",
+      "systems",
+      "articleshow",
+      "129878775.cms"
     ]
   },
   "ISR": {
-    "risk_score": 5.55,
-    "count": 6,
-    "top_news": "https://www.nbclosangeles.com/news/national-international/live-updates-war-with-iran-march-29/3868193/",
+    "risk_score": 8.45,
+    "count": 10,
+    "top_news": "https://www.thecable.ng/us-israel-war-on-iran-and-collapse-of-the-global-order/",
     "event_codes": {
       "19": 4,
-      "14": 1,
-      "18": 1
+      "14": 3,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "israel",
+      "war",
+      "iran",
+      "and",
+      "collapse",
+      "the",
+      "global",
+      "order"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nbcphiladelphia.com/news/national-international/live-updates-war-with-iran-march-29/4376218/",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
@@ -38,14 +103,16 @@
       "with",
       "iran",
       "march",
-      "3868193"
+      "4376218"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.nbclosangeles.com/news/national-international/live-updates-war-with-iran-march-29/3868193/",
+    "risk_score": 5.2,
+    "count": 6,
+    "top_news": "https://www.nbcchicago.com/news/national-international/live-updates-war-with-iran-march-29/3915232/",
     "event_codes": {
+      "16": 2,
+      "18": 2,
       "19": 2
     },
     "keywords": [
@@ -58,19 +125,49 @@
       "with",
       "iran",
       "march",
-      "3868193"
+      "3915232"
     ]
   },
-  "SYR": {
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 10,
+    "top_news": "https://peoplesdailyng.com/army-decimate-terror-enclaves-arrest-20-rescue-kidnap-victims/",
+    "event_codes": {
+      "19": 6,
+      "17": 4
+    },
+    "keywords": [
+      "army",
+      "decimate",
+      "terror",
+      "enclaves",
+      "arrest",
+      "rescue",
+      "kidnap",
+      "victims"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260329062658.fqnd1myj.html",
+    "top_news": "https://en.apa.az/asia/eu-mission-warns-of-threat-of-attacks-on-ships-in-the-red-sea-and-gulf-of-aden-498724",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "afp",
-      "260329062658.fqnd1myj.html"
+      "asia",
+      "mission",
+      "warns",
+      "threat",
+      "attacks",
+      "ships",
+      "the",
+      "red",
+      "sea",
+      "and",
+      "gulf",
+      "aden",
+      "498724"
     ]
   }
 }
