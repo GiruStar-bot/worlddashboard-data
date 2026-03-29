@@ -1,61 +1,67 @@
 {
   "IRN": {
-    "risk_score": 10.05,
+    "risk_score": 15.0,
+    "count": 15,
+    "top_news": "https://www.middleeasteye.net/news/after-trump-said-mbs-was-kissing-his-ass-gulf-leaders-told-send-children-fight-israel",
+    "event_codes": {
+      "19": 15
+    },
+    "keywords": [
+      "news",
+      "after",
+      "trump",
+      "said",
+      "mbs",
+      "was",
+      "kissing",
+      "his",
+      "ass",
+      "gulf",
+      "leaders",
+      "told",
+      "send",
+      "children",
+      "fight",
+      "israel"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.95,
     "count": 11,
-    "top_news": "https://www.gdnonline.com:443/Details/1379892/Strict-call-to-stay-indoors-during-interceptive-action",
+    "top_news": "https://www.rte.ie/news/world/2026/0329/1565823-unifil-lebanon/",
     "event_codes": {
       "19": 8,
       "14": 3
     },
     "keywords": [
-      "details",
-      "1379892",
-      "strict",
-      "call",
-      "stay",
-      "indoors",
-      "during",
-      "interceptive",
-      "action"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/power-outages-tehran-kabaj-shrapnel-221348202.html",
-    "event_codes": {
-      "19": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
       "news",
-      "articles",
-      "power",
-      "outages",
-      "tehran",
-      "kabaj",
-      "shrapnel",
-      "221348202.html"
+      "world",
+      "2026",
+      "0329",
+      "1565823",
+      "unifil",
+      "lebanon"
     ]
   },
-  "VNM": {
-    "risk_score": 4.56,
-    "count": 7,
-    "top_news": "https://b1027.com/ixp/481/p/doug-hegdahl-vietnam-war-hero/",
+  "LBN": {
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://yalibnan.com/2026/03/30/hundreds-attend-funeral-for-lebanese-journalists-killed-in-israeli-strike/",
     "event_codes": {
-      "15": 3,
-      "17": 3,
-      "18": 1
+      "19": 13,
+      "18": 3
     },
     "keywords": [
-      "ixp",
-      "481",
-      "doug",
-      "hegdahl",
-      "vietnam",
-      "war",
-      "hero"
+      "2026",
+      "hundreds",
+      "attend",
+      "funeral",
+      "for",
+      "lebanese",
+      "journalists",
+      "killed",
+      "israeli",
+      "strike"
     ]
   }
 }
