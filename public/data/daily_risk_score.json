@@ -1,61 +1,81 @@
 {
   "IRN": {
-    "risk_score": 7.29,
-    "count": 8,
-    "top_news": "https://www.washingtonexaminer.com/news/world/4507154/ukraine-offering-us-drone-expertise-to-combat-iran-trump/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.albawaba.com/news/iran-strikes-israel-revenge-jesus-1624530",
     "event_codes": {
-      "19": 5,
-      "14": 1,
-      "15": 1,
-      "17": 1
+      "19": 4
     },
     "keywords": [
       "news",
-      "world",
-      "4507154",
-      "ukraine",
-      "offering",
-      "drone",
-      "expertise",
-      "combat",
       "iran",
-      "trump"
+      "strikes",
+      "israel",
+      "revenge",
+      "jesus",
+      "1624530"
     ]
   },
   "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.washingtonexaminer.com/news/world/4507154/ukraine-offering-us-drone-expertise-to-combat-iran-trump/",
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.standardmedia.co.ke/world/article/2001544128/us-condemns-attack-on-home-of-the-leader-of-autonomous-iraqi-kurdistan",
     "event_codes": {
-      "19": 2
+      "18": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
       "world",
-      "4507154",
-      "ukraine",
-      "offering",
-      "drone",
-      "expertise",
-      "combat",
-      "iran",
-      "trump"
+      "article",
+      "2001544128",
+      "condemns",
+      "attack",
+      "home",
+      "the",
+      "leader",
+      "autonomous",
+      "iraqi",
+      "kurdistan"
     ]
   },
   "ISR": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20260329/4432791.html",
+    "risk_score": 12.16,
+    "count": 15,
+    "top_news": "https://www.albawaba.com/news/iran-strikes-israel-revenge-jesus-1624530",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 8,
+      "17": 4,
+      "15": 3
     },
     "keywords": [
       "news",
-      "articles",
+      "iran",
+      "strikes",
+      "israel",
+      "revenge",
+      "jesus",
+      "1624530"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.3,
+    "count": 11,
+    "top_news": "https://www.standardmedia.co.ke/world/article/2001544127/israeli-strike-kills-three-journalists-in-south-lebanon",
+    "event_codes": {
+      "19": 9,
+      "14": 2
+    },
+    "keywords": [
       "world",
-      "20260329",
-      "4432791.html"
+      "article",
+      "2001544127",
+      "israeli",
+      "strike",
+      "kills",
+      "three",
+      "journalists",
+      "south",
+      "lebanon"
     ]
   }
 }
