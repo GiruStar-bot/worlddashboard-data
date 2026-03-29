@@ -1,203 +1,149 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.mirror.co.uk/news/world-news/brit-gang-boss-pictured-during-36940755",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "brit",
-      "gang",
-      "boss",
-      "pictured",
-      "during",
-      "36940755"
-    ]
-  },
-  "IDN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.mirror.co.uk/news/world-news/brit-gang-boss-pictured-during-36940755",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "brit",
-      "gang",
-      "boss",
-      "pictured",
-      "during",
-      "36940755"
-    ]
-  },
   "IRN": {
-    "risk_score": 25.1,
-    "count": 27,
-    "top_news": "https://www.newsminer.com/opinion/letters_to_editor/the-trump-and-hegseth-war/article_2fafc709-ded0-4709-8692-f6606962d795.html",
+    "risk_score": 9.95,
+    "count": 11,
+    "top_news": "https://www.middleeastmonitor.com/20260329-japanese-atomic-bomb-survivors-send-letters-to-us-israel-urging-peace-amid-iran-war/",
     "event_codes": {
-      "19": 18,
-      "18": 7,
-      "17": 2
+      "19": 8,
+      "14": 3
     },
     "keywords": [
-      "opinion",
+      "20260329",
+      "japanese",
+      "atomic",
+      "bomb",
+      "survivors",
+      "send",
       "letters",
-      "editor",
-      "the",
-      "trump",
-      "and",
-      "hegseth",
-      "war",
-      "article",
-      "2fafc709",
-      "ded0",
-      "4709",
-      "8692",
-      "f6606962d795.html"
+      "israel",
+      "urging",
+      "peace",
+      "amid",
+      "iran",
+      "war"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.knopnews2.com/2026/03/29/ogallala-fourth-graders-get-tour-fire-fighting-blackhawk-helicopter/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "ogallala",
+      "fourth",
+      "graders",
+      "get",
+      "tour",
+      "fire",
+      "fighting",
+      "blackhawk",
+      "helicopter"
     ]
   },
   "ISR": {
-    "risk_score": 26.2,
-    "count": 28,
-    "top_news": "https://www.dailymail.co.uk/news/article-15689409/Netanyahu-widen-invasion-Lebanon-saying-Hezbollah-fire-rockets-us.html",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://news.az/news/iran-attacked-a-us-base-in-jordan-using-drones",
     "event_codes": {
-      "19": 23,
-      "14": 2,
-      "17": 2,
-      "18": 1
+      "19": 4
     },
     "keywords": [
       "news",
-      "article",
-      "15689409",
-      "netanyahu",
-      "widen",
-      "invasion",
-      "lebanon",
-      "saying",
-      "hezbollah",
-      "fire",
-      "rockets",
-      "us.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.idahopress.com/ap_news/us/the-latest-regional-powers-meet-in-pakistan-as-iran-warns-us-against-ground-invasion/article_22da16c9-2236-503d-ac15-db080b619e1a.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "the",
-      "latest",
-      "regional",
-      "powers",
-      "meet",
-      "pakistan",
       "iran",
-      "warns",
-      "against",
-      "ground",
-      "invasion",
-      "article",
-      "22da16c9",
-      "2236",
-      "503d",
-      "ac15",
-      "db080b619e1a.html"
+      "attacked",
+      "base",
+      "jordan",
+      "using",
+      "drones"
     ]
   },
   "LBN": {
-    "risk_score": 2.5,
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.dailymail.co.uk/news/article-15689409/Netanyahu-widen-invasion-Lebanon-saying-Hezbollah-fire-rockets-us.html",
+    "top_news": "https://www.middleeastmonitor.com/20260329-netanyahu-orders-expansion-of-israeli-occupation-in-southern-lebanon/",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15689409",
-      "netanyahu",
-      "widen",
-      "invasion",
-      "lebanon",
-      "saying",
-      "hezbollah",
-      "fire",
-      "rockets",
-      "us.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.4,
-    "count": 13,
-    "top_news": "https://punchng.com/police-assaulted-our-leader-opened-fire-on-us-ogun-students-allege/",
-    "event_codes": {
-      "17": 11,
-      "18": 1,
+      "17": 2,
       "19": 1
     },
     "keywords": [
+      "20260329",
+      "netanyahu",
+      "orders",
+      "expansion",
+      "israeli",
+      "occupation",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/03/29/police-arrest-suspected-phone-snatcher-who-stabbed-victim-to-death-in-kaduna/",
+    "event_codes": {
+      "17": 3,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
       "police",
-      "assaulted",
-      "our",
-      "leader",
-      "opened",
-      "fire",
-      "ogun",
-      "students",
-      "allege"
+      "arrest",
+      "suspected",
+      "phone",
+      "snatcher",
+      "who",
+      "stabbed",
+      "victim",
+      "death",
+      "kaduna"
     ]
   },
   "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://maritime-executive.com/article/houthis-attack-on-israel-threatens-red-sea-ceasefire",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "article",
-      "houthis",
-      "attack",
-      "israel",
-      "threatens",
-      "red",
-      "sea",
-      "ceasefire"
-    ]
-  },
-  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-trump-ground-invasion-middle-east-b2947904.html",
+    "top_news": "https://www.thedailystar.net/business/economy/news/food-exports-the-gulf-feel-war-shock-4138631",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "business",
+      "economy",
       "news",
-      "world",
-      "middle",
-      "east",
-      "iran",
-      "trump",
-      "ground",
-      "invasion",
-      "middle",
-      "east",
-      "b2947904.html"
+      "food",
+      "exports",
+      "the",
+      "gulf",
+      "feel",
+      "war",
+      "shock",
+      "4138631"
+    ]
+  },
+  "SYR": {
+    "risk_score": 8.82,
+    "count": 10,
+    "top_news": "https://www.al-monitor.com/originals/2026/03/muted-palm-sunday-syria-after-violence-christian-town",
+    "event_codes": {
+      "15": 3,
+      "17": 3,
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "muted",
+      "palm",
+      "sunday",
+      "syria",
+      "after",
+      "violence",
+      "christian",
+      "town"
     ]
   }
 }
