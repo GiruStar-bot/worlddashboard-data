@@ -1,81 +1,124 @@
 {
+  "COL": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.journalismpakistan.com/arrests-killings-mark-grim-week-for-press-freedom",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "arrests",
+      "killings",
+      "mark",
+      "grim",
+      "week",
+      "for",
+      "press",
+      "freedom"
+    ]
+  },
   "IRN": {
+    "risk_score": 25.29,
+    "count": 28,
+    "top_news": "https://theasian.asia/archives/203979",
+    "event_codes": {
+      "19": 18,
+      "17": 6,
+      "18": 4
+    },
+    "keywords": [
+      "archives",
+      "203979"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theatlantic.com/international/2026/03/kurdish-troops-us-iran-war/686572/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "international",
+      "2026",
+      "kurdish",
+      "troops",
+      "iran",
+      "war",
+      "686572"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.54,
+    "count": 17,
+    "top_news": "https://english.wafa.ps/Pages/Details/168769",
+    "event_codes": {
+      "19": 13,
+      "17": 3,
+      "15": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168769"
+    ]
+  },
+  "KWT": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.albawaba.com/news/iran-strikes-israel-revenge-jesus-1624530",
+    "top_news": "https://www.nvdaily.com/associated_press_national/the-latest-iran-warns-the-us-against-a-ground-invasion-as-regional-powers-meet-in/article_fd897b7e-3498-5776-b64a-af0a1ae43afd.html",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "news",
-      "iran",
-      "strikes",
-      "israel",
-      "revenge",
-      "jesus",
-      "1624530"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.standardmedia.co.ke/world/article/2001544128/us-condemns-attack-on-home-of-the-leader-of-autonomous-iraqi-kurdistan",
-    "event_codes": {
-      "18": 3,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "article",
-      "2001544128",
-      "condemns",
-      "attack",
-      "home",
+      "associated",
+      "press",
+      "national",
       "the",
-      "leader",
-      "autonomous",
-      "iraqi",
-      "kurdistan"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.16,
-    "count": 15,
-    "top_news": "https://www.albawaba.com/news/iran-strikes-israel-revenge-jesus-1624530",
-    "event_codes": {
-      "19": 8,
-      "17": 4,
-      "15": 3
-    },
-    "keywords": [
-      "news",
+      "latest",
       "iran",
-      "strikes",
-      "israel",
-      "revenge",
-      "jesus",
-      "1624530"
+      "warns",
+      "the",
+      "against",
+      "ground",
+      "invasion",
+      "regional",
+      "powers",
+      "meet",
+      "article",
+      "fd897b7e",
+      "3498",
+      "5776",
+      "b64a",
+      "af0a1ae43afd.html"
     ]
   },
-  "LBN": {
-    "risk_score": 10.3,
-    "count": 11,
-    "top_news": "https://www.standardmedia.co.ke/world/article/2001544127/israeli-strike-kills-three-journalists-in-south-lebanon",
+  "NGA": {
+    "risk_score": 7.5,
+    "count": 10,
+    "top_news": "https://saharareporters.com/2026/03/29/ndlea-uncovers-cocaine-hidden-inside-fish-heads-bound-india-arrests-80-year-old-man-drug",
     "event_codes": {
-      "19": 9,
-      "14": 2
+      "17": 5,
+      "19": 5
     },
     "keywords": [
-      "world",
-      "article",
-      "2001544127",
-      "israeli",
-      "strike",
-      "kills",
-      "three",
-      "journalists",
-      "south",
-      "lebanon"
+      "2026",
+      "ndlea",
+      "uncovers",
+      "cocaine",
+      "hidden",
+      "inside",
+      "fish",
+      "heads",
+      "bound",
+      "india",
+      "arrests",
+      "year",
+      "old",
+      "man",
+      "drug"
     ]
   }
 }
