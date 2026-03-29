@@ -1,147 +1,50 @@
 {
   "IRN": {
-    "risk_score": 11.44,
-    "count": 12,
-    "top_news": "https://www.thehindu.com/news/international/iran-guards-say-struck-bahrain-uae-aluminium-plants/article70798793.ece",
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.mirror.co.uk/news/world-news/iran-war-trump-invasion-live-36939036",
     "event_codes": {
-      "19": 10,
-      "15": 2
+      "19": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "international",
+      "world",
+      "news",
       "iran",
-      "guards",
-      "say",
-      "struck",
-      "bahrain",
-      "uae",
-      "aluminium",
-      "plants",
-      "article70798793.ece"
+      "war",
+      "trump",
+      "invasion",
+      "live",
+      "36939036"
     ]
   },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.jpost.com/israel-news/article-891486",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://english.news.cn/20260329/5a60b59bc1224c94b34997ccefa03159/c.html",
     "event_codes": {
-      "19": 6
+      "19": 8
     },
     "keywords": [
-      "israel",
-      "news",
-      "article",
-      "891486"
+      "20260329",
+      "5a60b59bc1224c94b34997ccefa03159",
+      "c.html"
     ]
   },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thewestmorlandgazette.co.uk/news/national/25977427.iranian-backed-houthi-rebels-claim-missile-launches-towards-israel/",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://spectator.org/the-bishops-misplaced-priorities/",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "25977427.iranian",
-      "backed",
-      "houthi",
-      "rebels",
-      "claim",
-      "missile",
-      "launches",
-      "towards",
-      "israel"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.2,
-    "count": 11,
-    "top_news": "https://dailypost.ng/2026/03/29/nigerian-newspapers-10-things-you-need-to-know-sunday-morning-119/",
-    "event_codes": {
-      "19": 8,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "nigerian",
-      "newspapers",
-      "things",
-      "you",
-      "need",
-      "know",
-      "sunday",
-      "morning",
-      "119"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theintelligencer.net/news/top-headlines/2026/03/iranian-attack-on-saudi-base-injures-us-troops-more-american-forces-arrive-in-the-middle-east/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "top",
-      "headlines",
-      "2026",
-      "iranian",
-      "attack",
-      "saudi",
-      "base",
-      "injures",
-      "troops",
-      "more",
-      "american",
-      "forces",
-      "arrive",
       "the",
-      "middle",
-      "east"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.khaama.com/turkey-detains-57-afghan-migrants-found-hidden-in-truck-tanker/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "turkey",
-      "detains",
-      "afghan",
-      "migrants",
-      "found",
-      "hidden",
-      "truck",
-      "tanker"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thewestmorlandgazette.co.uk/news/national/25977427.iranian-backed-houthi-rebels-claim-missile-launches-towards-israel/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "national",
-      "25977427.iranian",
-      "backed",
-      "houthi",
-      "rebels",
-      "claim",
-      "missile",
-      "launches",
-      "towards",
-      "israel"
+      "bishops",
+      "misplaced",
+      "priorities"
     ]
   }
 }
