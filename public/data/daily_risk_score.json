@@ -1,70 +1,147 @@
 {
   "IRN": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/03/28/hacked-hospitals-hidden-spyware-iran-conflict-shows-how-digital-fight-is-ingrained-in-warfare",
+    "risk_score": 11.44,
+    "count": 12,
+    "top_news": "https://www.thehindu.com/news/international/iran-guards-say-struck-bahrain-uae-aluminium-plants/article70798793.ece",
     "event_codes": {
-      "18": 3,
-      "19": 2
-    },
-    "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "sci",
-      "tech",
-      "2026",
-      "hacked",
-      "hospitals",
-      "hidden",
-      "spyware",
-      "iran",
-      "conflict",
-      "shows",
-      "how",
-      "digital",
-      "fight",
-      "ingrained",
-      "warfare"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.wdbo.com/news/world/hacked-hospitals/MEDL4ELV3Q7H7KWG5JWV65KZZU/",
-    "event_codes": {
-      "19": 5
+      "19": 10,
+      "15": 2
     },
     "keywords": [
       "news",
-      "world",
-      "hacked",
-      "hospitals",
-      "medl4elv3q7h7kwg5jwv65kzzu"
+      "international",
+      "iran",
+      "guards",
+      "say",
+      "struck",
+      "bahrain",
+      "uae",
+      "aluminium",
+      "plants",
+      "article70798793.ece"
     ]
   },
-  "LBN": {
+  "ISR": {
     "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/03/28/the-latest-regional-powers-to-meet-in-pakistan-to-discuss-how-to-end-mideast-fighting",
+    "top_news": "https://www.jpost.com/israel-news/article-891486",
     "event_codes": {
       "19": 6
     },
     "keywords": [
-      "world",
+      "israel",
+      "news",
+      "article",
+      "891486"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thewestmorlandgazette.co.uk/news/national/25977427.iranian-backed-houthi-rebels-claim-missile-launches-towards-israel/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25977427.iranian",
+      "backed",
+      "houthi",
+      "rebels",
+      "claim",
+      "missile",
+      "launches",
+      "towards",
+      "israel"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.2,
+    "count": 11,
+    "top_news": "https://dailypost.ng/2026/03/29/nigerian-newspapers-10-things-you-need-to-know-sunday-morning-119/",
+    "event_codes": {
+      "19": 8,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
       "2026",
+      "nigerian",
+      "newspapers",
+      "things",
+      "you",
+      "need",
+      "know",
+      "sunday",
+      "morning",
+      "119"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theintelligencer.net/news/top-headlines/2026/03/iranian-attack-on-saudi-base-injures-us-troops-more-american-forces-arrive-in-the-middle-east/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "top",
+      "headlines",
+      "2026",
+      "iranian",
+      "attack",
+      "saudi",
+      "base",
+      "injures",
+      "troops",
+      "more",
+      "american",
+      "forces",
+      "arrive",
       "the",
-      "latest",
-      "regional",
-      "powers",
-      "meet",
-      "pakistan",
-      "discuss",
-      "how",
-      "end",
-      "mideast",
-      "fighting"
+      "middle",
+      "east"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.khaama.com/turkey-detains-57-afghan-migrants-found-hidden-in-truck-tanker/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "turkey",
+      "detains",
+      "afghan",
+      "migrants",
+      "found",
+      "hidden",
+      "truck",
+      "tanker"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thewestmorlandgazette.co.uk/news/national/25977427.iranian-backed-houthi-rebels-claim-missile-launches-towards-israel/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "national",
+      "25977427.iranian",
+      "backed",
+      "houthi",
+      "rebels",
+      "claim",
+      "missile",
+      "launches",
+      "towards",
+      "israel"
     ]
   }
 }
