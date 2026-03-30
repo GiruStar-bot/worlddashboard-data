@@ -1,117 +1,16 @@
 {
-  "COL": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.iri.org/resources/statement-of-findings-and-recommendations-iri-pre-election-assessment-mission-to-colombias-2026-presidential-elections/",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "resources",
-      "statement",
-      "findings",
-      "and",
-      "recommendations",
-      "iri",
-      "pre",
-      "election",
-      "assessment",
-      "mission",
-      "colombias",
-      "2026",
-      "presidential",
-      "elections"
-    ]
-  },
-  "EGY": {
-    "risk_score": 4.9,
-    "count": 6,
-    "top_news": "https://www.latimes.com/politics/story/2026-03-30/trump-says-serious-talks-are-occurring-threatens-strikes-on-iran-energy-water-sites",
-    "event_codes": {
-      "18": 3,
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "politics",
-      "story",
-      "2026",
-      "trump",
-      "says",
-      "serious",
-      "talks",
-      "are",
-      "occurring",
-      "threatens",
-      "strikes",
-      "iran",
-      "energy",
-      "water",
-      "sites"
-    ]
-  },
   "IRN": {
-    "risk_score": 14.55,
-    "count": 15,
-    "top_news": "https://www.mediaite.com/media/news/nbcs-garrett-haake-confronts-karoline-leavitt-in-tense-briefing-room-clash-why-is-trump-threatening-a-potential-war-crime/",
+    "risk_score": 7.8,
+    "count": 9,
+    "top_news": "https://www.anglocelt.ie/2026/03/30/irish-peacekeepers-in-lebanon-safe-and-accounted-for-mcentee/",
     "event_codes": {
-      "19": 13,
-      "14": 1,
+      "19": 5,
+      "14": 2,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "media",
-      "news",
-      "nbcs",
-      "garrett",
-      "haake",
-      "confronts",
-      "karoline",
-      "leavitt",
-      "tense",
-      "briefing",
-      "room",
-      "clash",
-      "why",
-      "trump",
-      "threatening",
-      "potential",
-      "war",
-      "crime"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.76,
-    "count": 29,
-    "top_news": "https://www.yahoo.com/news/articles/two-more-un-peacekeepers-killed-181115989.html",
-    "event_codes": {
-      "19": 16,
-      "14": 4,
-      "17": 4,
-      "15": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "two",
-      "more",
-      "peacekeepers",
-      "killed",
-      "181115989.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 12.95,
-    "count": 13,
-    "top_news": "https://www.breakingnews.ie/world/irish-peacekeepers-in-lebanon-safe-and-accounted-for-mcentee-1881104.html",
-    "event_codes": {
-      "19": 13
-    },
-    "keywords": [
-      "world",
+      "2026",
       "irish",
       "peacekeepers",
       "lebanon",
@@ -119,68 +18,106 @@
       "and",
       "accounted",
       "for",
-      "mcentee",
-      "1881104.html"
+      "mcentee"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.4,
+    "count": 18,
+    "top_news": "https://www.al-monitor.com/originals/2026/03/two-more-un-peacekeepers-killed-south-lebanon",
+    "event_codes": {
+      "19": 11,
+      "17": 3,
+      "20": 3,
+      "18": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "two",
+      "more",
+      "peacekeepers",
+      "killed",
+      "south",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 11.35,
+    "count": 13,
+    "top_news": "https://www.al-monitor.com/originals/2026/03/two-more-un-peacekeepers-killed-south-lebanon",
+    "event_codes": {
+      "19": 8,
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "two",
+      "more",
+      "peacekeepers",
+      "killed",
+      "south",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 3.3,
-    "count": 5,
-    "top_news": "https://punchng.com/can-condemns-jos-killings-urges-probe/",
+    "risk_score": 6.85,
+    "count": 9,
+    "top_news": "https://thesun.ng/suspected-boko-haram-fighters-attack-borno-community/",
     "event_codes": {
-      "16": 2,
-      "19": 2,
+      "19": 4,
+      "14": 3,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "can",
-      "condemns",
-      "jos",
-      "killings",
-      "urges",
-      "probe"
+      "suspected",
+      "boko",
+      "haram",
+      "fighters",
+      "attack",
+      "borno",
+      "community"
     ]
   },
-  "PSE": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.christianpost.com/news/priest-of-christian-village-in-west-bank-condemns-settler-attacks.html",
+  "THA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thedailybeast.com/little-marco-squirms-after-being-cornered-for-contradicting-trump/",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "priest",
-      "christian",
-      "village",
-      "west",
-      "bank",
-      "condemns",
-      "settler",
-      "attacks.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 6.95,
-    "count": 8,
-    "top_news": "https://www.breitbart.com/immigration/2026/03/30/hundreds-gather-for-weekend-memorial-service-honoring-sheridan-gorman/",
-    "event_codes": {
-      "19": 5,
-      "14": 3
-    },
-    "keywords": [
-      "immigration",
-      "2026",
-      "hundreds",
-      "gather",
+      "little",
+      "marco",
+      "squirms",
+      "after",
+      "being",
+      "cornered",
       "for",
-      "weekend",
-      "memorial",
-      "service",
-      "honoring",
-      "sheridan",
-      "gorman"
+      "contradicting",
+      "trump"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.16,
+    "count": 4,
+    "top_news": "https://thefrontierpost.com/turkey-says-nato-defences-down-missile-from-iran/",
+    "event_codes": {
+      "15": 3,
+      "19": 1
+    },
+    "keywords": [
+      "turkey",
+      "says",
+      "nato",
+      "defences",
+      "down",
+      "missile",
+      "from",
+      "iran"
     ]
   }
 }
