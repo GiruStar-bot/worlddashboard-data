@@ -1,67 +1,196 @@
 {
   "IRN": {
-    "risk_score": 15.0,
-    "count": 15,
-    "top_news": "https://www.middleeasteye.net/news/after-trump-said-mbs-was-kissing-his-ass-gulf-leaders-told-send-children-fight-israel",
+    "risk_score": 35.11,
+    "count": 40,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/29/766027/awacs-down-how-irans-precision-strike-shattered-us-air-dominance-over-persian-gulf",
     "event_codes": {
-      "19": 15
+      "19": 20,
+      "14": 8,
+      "18": 8,
+      "15": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "after",
-      "trump",
-      "said",
-      "mbs",
-      "was",
-      "kissing",
-      "his",
-      "ass",
-      "gulf",
-      "leaders",
-      "told",
-      "send",
-      "children",
-      "fight",
-      "israel"
+      "detail",
+      "2026",
+      "766027",
+      "awacs",
+      "down",
+      "how",
+      "irans",
+      "precision",
+      "strike",
+      "shattered",
+      "air",
+      "dominance",
+      "over",
+      "persian",
+      "gulf"
     ]
   },
   "ISR": {
-    "risk_score": 9.95,
-    "count": 11,
-    "top_news": "https://www.rte.ie/news/world/2026/0329/1565823-unifil-lebanon/",
+    "risk_score": 31.9,
+    "count": 35,
+    "top_news": "https://www.kurv.com/israeli-police-prevent-catholic-leaders-from-celebrating-palm-sunday-mass-at-jerusalem-church/",
     "event_codes": {
-      "19": 8,
-      "14": 3
+      "19": 25,
+      "17": 4,
+      "18": 4,
+      "14": 2
+    },
+    "keywords": [
+      "israeli",
+      "police",
+      "prevent",
+      "catholic",
+      "leaders",
+      "from",
+      "celebrating",
+      "palm",
+      "sunday",
+      "mass",
+      "jerusalem",
+      "church"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/29/766046/US-Israeli-aggression-on-Iran--What-happened-on-30th-day-of-the-imposed-war",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "766046",
+      "israeli",
+      "aggression",
+      "iran",
+      "what",
+      "happened",
+      "30th",
+      "day",
+      "the",
+      "imposed",
+      "war"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/278952233/kuwait-iranian-attack-damages-power-water-distillation-plant-kills-indian-worker",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "0329",
-      "1565823",
-      "unifil",
-      "lebanon"
+      "278952233",
+      "kuwait",
+      "iranian",
+      "attack",
+      "damages",
+      "power",
+      "water",
+      "distillation",
+      "plant",
+      "kills",
+      "indian",
+      "worker"
     ]
   },
   "LBN": {
-    "risk_score": 16.0,
-    "count": 16,
-    "top_news": "https://yalibnan.com/2026/03/30/hundreds-attend-funeral-for-lebanese-journalists-killed-in-israeli-strike/",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.fox5dc.com/news/iran-war-updates-middle-east",
     "event_codes": {
-      "19": 13,
-      "18": 3
+      "19": 5
     },
     "keywords": [
+      "news",
+      "iran",
+      "war",
+      "updates",
+      "middle",
+      "east"
+    ]
+  },
+  "MLI": {
+    "risk_score": 13.8,
+    "count": 16,
+    "top_news": "https://www.perthnow.com.au/news/vic/dezi-freeman-police-shoot-dead-fugitive-gunman-after-porepunkah-cop-killer-spent-six-months-on-the-run-c-22066284",
+    "event_codes": {
+      "19": 12,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "vic",
+      "dezi",
+      "freeman",
+      "police",
+      "shoot",
+      "dead",
+      "fugitive",
+      "gunman",
+      "after",
+      "porepunkah",
+      "cop",
+      "killer",
+      "spent",
+      "six",
+      "months",
+      "the",
+      "run",
+      "22066284"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/278952260/idf-suspends-reserve-battalion-over-assault-detention-of-us-based-crew-in-west-bank",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "278952260",
+      "idf",
+      "suspends",
+      "reserve",
+      "battalion",
+      "over",
+      "assault",
+      "detention",
+      "based",
+      "crew",
+      "west",
+      "bank"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.presstv.ir/Detail/2026/03/29/766046/US-Israeli-aggression-on-Iran--What-happened-on-30th-day-of-the-imposed-war",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "detail",
       "2026",
-      "hundreds",
-      "attend",
-      "funeral",
-      "for",
-      "lebanese",
-      "journalists",
-      "killed",
+      "766046",
       "israeli",
-      "strike"
+      "aggression",
+      "iran",
+      "what",
+      "happened",
+      "30th",
+      "day",
+      "the",
+      "imposed",
+      "war"
     ]
   }
 }
