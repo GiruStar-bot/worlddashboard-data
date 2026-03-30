@@ -1,123 +1,162 @@
 {
+  "ETH": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.spiked-online.com/2026/03/30/why-was-the-afghan-child-rapist-ever-allowed-into-britain/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "why",
+      "was",
+      "the",
+      "afghan",
+      "child",
+      "rapist",
+      "ever",
+      "allowed",
+      "into",
+      "britain"
+    ]
+  },
   "IRN": {
-    "risk_score": 7.8,
-    "count": 9,
-    "top_news": "https://www.anglocelt.ie/2026/03/30/irish-peacekeepers-in-lebanon-safe-and-accounted-for-mcentee/",
-    "event_codes": {
-      "19": 5,
-      "14": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "irish",
-      "peacekeepers",
-      "lebanon",
-      "safe",
-      "and",
-      "accounted",
-      "for",
-      "mcentee"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.4,
-    "count": 18,
-    "top_news": "https://www.al-monitor.com/originals/2026/03/two-more-un-peacekeepers-killed-south-lebanon",
-    "event_codes": {
-      "19": 11,
-      "17": 3,
-      "20": 3,
-      "18": 1
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "two",
-      "more",
-      "peacekeepers",
-      "killed",
-      "south",
-      "lebanon"
-    ]
-  },
-  "LBN": {
-    "risk_score": 11.35,
+    "risk_score": 10.09,
     "count": 13,
-    "top_news": "https://www.al-monitor.com/originals/2026/03/two-more-un-peacekeepers-killed-south-lebanon",
+    "top_news": "https://nypost.com/2026/03/30/world-news/ex-us-general-insists-iran-campaign-is-further-along-than-expected-based-on-years-of-simulations/",
     "event_codes": {
-      "19": 8,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "two",
-      "more",
-      "peacekeepers",
-      "killed",
-      "south",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.85,
-    "count": 9,
-    "top_news": "https://thesun.ng/suspected-boko-haram-fighters-attack-borno-community/",
-    "event_codes": {
-      "19": 4,
-      "14": 3,
-      "16": 1,
+      "19": 7,
+      "16": 3,
+      "15": 2,
       "17": 1
     },
     "keywords": [
-      "suspected",
-      "boko",
-      "haram",
-      "fighters",
-      "attack",
-      "borno",
-      "community"
+      "2026",
+      "world",
+      "news",
+      "general",
+      "insists",
+      "iran",
+      "campaign",
+      "further",
+      "along",
+      "than",
+      "expected",
+      "based",
+      "years",
+      "simulations"
     ]
   },
-  "THA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thedailybeast.com/little-marco-squirms-after-being-cornered-for-contradicting-trump/",
+  "ISR": {
+    "risk_score": 21.12,
+    "count": 29,
+    "top_news": "https://www.clevelandjewishnews.com/jta/war-with-iran-casts-a-shadow-as-persian-jews-mark-nowruz-in-new-york-city/article_f066d408-0ce3-5383-9702-946a37321fb7.html",
     "event_codes": {
-      "19": 4
+      "17": 14,
+      "19": 11,
+      "16": 2,
+      "18": 2
     },
     "keywords": [
-      "little",
-      "marco",
-      "squirms",
-      "after",
-      "being",
-      "cornered",
-      "for",
-      "contradicting",
-      "trump"
+      "jta",
+      "war",
+      "with",
+      "iran",
+      "casts",
+      "shadow",
+      "persian",
+      "jews",
+      "mark",
+      "nowruz",
+      "new",
+      "york",
+      "city",
+      "article",
+      "f066d408",
+      "0ce3",
+      "5383",
+      "9702",
+      "946a37321fb7.html"
     ]
   },
-  "TUR": {
-    "risk_score": 3.16,
-    "count": 4,
-    "top_news": "https://thefrontierpost.com/turkey-says-nato-defences-down-missile-from-iran/",
+  "LBN": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.naroomanewsonline.com.au/story/9210710/three-united-nations-peacekeepers-killed-in-lebanon/",
     "event_codes": {
-      "15": 3,
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "9210710",
+      "three",
+      "united",
+      "nations",
+      "peacekeepers",
+      "killed",
+      "lebanon"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.odt.co.nz/opinion/two-roads-diverged-wood",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "two",
+      "roads",
+      "diverged",
+      "wood"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.latimes.com/entertainment-arts/story/2026-03-30/alex-duong-dies-comedian-blue-bloods",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "entertainment",
+      "arts",
+      "story",
+      "2026",
+      "alex",
+      "duong",
+      "dies",
+      "comedian",
+      "blue",
+      "bloods"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wyso.org/npr-news/2026-03-30/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-hes-suing-in-u-s-court",
+    "event_codes": {
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "turkey",
+      "npr",
+      "news",
+      "2026",
+      "yemeni",
+      "politician",
       "says",
-      "nato",
-      "defences",
-      "down",
-      "missile",
-      "from",
-      "iran"
+      "former",
+      "soldiers",
+      "tried",
+      "kill",
+      "him",
+      "now",
+      "hes",
+      "suing",
+      "court"
     ]
   }
 }
