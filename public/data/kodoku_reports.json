@@ -2,8 +2,8 @@
   "chokepoints": {
     "hormuz": {
       "name": "Strait of Hormuz",
-      "disruption_risk": 34.6,
-      "crisis_score_raw": 10.3714
+      "disruption_risk": 63.5,
+      "crisis_score_raw": 19.0451
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -13,12 +13,12 @@
     "suez": {
       "name": "Suez Canal",
       "disruption_risk": 100.0,
-      "crisis_score_raw": 36.3167
+      "crisis_score_raw": 44.223
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
-      "disruption_risk": 0.0,
-      "crisis_score_raw": 0.0
+      "disruption_risk": 0.4,
+      "crisis_score_raw": 0.1323
     },
     "panama": {
       "name": "Panama Canal",
@@ -32,8 +32,8 @@
     },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 34.9,
-      "crisis_score_raw": 10.4582
+      "disruption_risk": 56.5,
+      "crisis_score_raw": 16.9597
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
@@ -49,7 +49,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 34.6
+          "disruption_risk": 63.5
         },
         {
           "id": "malacca",
@@ -62,10 +62,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 65.4,
+      "survival_rate": 36.5,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 34.6,
-      "insight": "警告: エネルギー航路 (中東 - 日本)の生存確率が65.4%まで低下。半径1500km圏内の紛争激化により、Strait of Hormuzが深刻なボトルネックとなっている（封鎖リスク34.6%）。速やかな代替ルートへの切り替えを推奨。"
+      "max_disruption_risk": 63.5,
+      "insight": "【致命的警告】 エネルギー航路 (中東 - 日本)の生存確率が36.5%まで急落。Strait of Hormuzの機能不全リスク（63.5%）が極めて高く、サプライチェーン断絶の危機。直ちに代替航路（例: 喜望峰回り等）を実行せよ。"
     },
     {
       "id": "middle_east_to_europe",
@@ -74,12 +74,12 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 34.6
+          "disruption_risk": 63.5
         },
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 0.0
+          "disruption_risk": 0.4
         },
         {
           "id": "suez",
@@ -104,7 +104,7 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 0.0
+          "disruption_risk": 0.4
         },
         {
           "id": "suez",
@@ -164,7 +164,7 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 34.9
+          "disruption_risk": 56.5
         },
         {
           "id": "suez",
