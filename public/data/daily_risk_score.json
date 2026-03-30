@@ -1,131 +1,183 @@
 {
-  "COL": {
+  "IRN": {
+    "risk_score": 12.72,
+    "count": 13,
+    "top_news": "https://www.the-star.co.ke/news/world/2026-03-30-how-us-could-try-to-seize-irans-kharg-island",
+    "event_codes": {
+      "19": 12,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "how",
+      "could",
+      "try",
+      "seize",
+      "irans",
+      "kharg",
+      "island"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.92,
+    "count": 14,
+    "top_news": "https://www.ktvb.com/article/news/nation-world/attack-on-iran/united-nations-peacekeepers-iran-war/507-6dd93a50-ed32-49e1-ad68-b5da92f3ec25",
+    "event_codes": {
+      "19": 8,
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "news",
+      "nation",
+      "world",
+      "attack",
+      "iran",
+      "united",
+      "nations",
+      "peacekeepers",
+      "iran",
+      "war",
+      "507",
+      "6dd93a50",
+      "ed32",
+      "49e1",
+      "ad68",
+      "b5da92f3ec25"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.0,
+    "count": 8,
+    "top_news": "https://www.the-star.co.ke/news/2026-03-30-police-seek-sakaja-over-senate-snub",
+    "event_codes": {
+      "17": 8
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "police",
+      "seek",
+      "sakaja",
+      "over",
+      "senate",
+      "snub"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ktvb.com/article/news/nation-world/attack-on-iran/united-nations-peacekeepers-iran-war/507-6dd93a50-ed32-49e1-ad68-b5da92f3ec25",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "news",
+      "nation",
+      "world",
+      "attack",
+      "iran",
+      "united",
+      "nations",
+      "peacekeepers",
+      "iran",
+      "war",
+      "507",
+      "6dd93a50",
+      "ed32",
+      "49e1",
+      "ad68",
+      "b5da92f3ec25"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.17,
+    "count": 5,
+    "top_news": "https://www.africanews.com/2026/03/30/acfta-fest-2026-unites-africas-youth-innovation-and-culture-in-abuja/",
+    "event_codes": {
+      "17": 3,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "acfta",
+      "fest",
+      "2026",
+      "unites",
+      "africas",
+      "youth",
+      "innovation",
+      "and",
+      "culture",
+      "abuja"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.indiatvnews.com/news/world/unidentified-gunmen-kill-over-70-in-south-sudan-after-dispute-at-gold-mine-2026-03-30-1035641",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "unidentified",
+      "gunmen",
+      "kill",
+      "over",
+      "south",
+      "sudan",
+      "after",
+      "dispute",
+      "gold",
+      "mine",
+      "2026",
+      "1035641"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.taipeitimes.com/News/front/archives/2026/03/31/2003854752",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "front",
+      "archives",
+      "2026",
+      "2003854752"
+    ]
+  },
+  "VNM": {
     "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://www.foxnews.com/us/chicago-brandon-johnson-blasts-assaults-against-immigrants-slain-sheridan-gorman-laid-rest",
+    "top_news": "https://www.the-independent.com/news/world/americas/crime/justyn-pennell-murder-confession-child-killer-docuseries-b2948531.html",
     "event_codes": {
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "chicago",
-      "brandon",
-      "johnson",
-      "blasts",
-      "assaults",
-      "against",
-      "immigrants",
-      "slain",
-      "sheridan",
-      "gorman",
-      "laid",
-      "rest"
-    ]
-  },
-  "IRN": {
-    "risk_score": 18.52,
-    "count": 19,
-    "top_news": "https://www.jalopnik.com/2135422/ulta-luxury-automakers-real-victim-us-israeli-war/",
-    "event_codes": {
-      "19": 16,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "2135422",
-      "ulta",
-      "luxury",
-      "automakers",
-      "real",
-      "victim",
-      "israeli",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.fox6now.com/news/fort-atkinson-brush-fire-hebron-township-spreads-barn-house",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
       "news",
-      "fort",
-      "atkinson",
-      "brush",
-      "fire",
-      "hebron",
-      "township",
-      "spreads",
-      "barn",
-      "house"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "blog",
-      "2026",
-      "blessed",
-      "are",
-      "the",
-      "peacemakers",
-      "becoming",
-      "people",
-      "the",
-      "seventh",
-      "beatitude"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/03/30/bashir-ahmad-urges-action-against-foreigner-alex-babir-over-alleged-hate-speech/",
-    "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "bashir",
-      "ahmad",
-      "urges",
-      "action",
-      "against",
-      "foreigner",
-      "alex",
-      "babir",
-      "over",
-      "alleged",
-      "hate",
-      "speech"
-    ]
-  },
-  "SDN": {
-    "risk_score": 5.2,
-    "count": 7,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/over-70-killed-in-attack-on-gold-mine-near-juba",
-    "event_codes": {
-      "16": 4,
-      "19": 2,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "over",
-      "killed",
-      "attack",
-      "gold",
-      "mine",
-      "near",
-      "juba"
+      "world",
+      "americas",
+      "crime",
+      "justyn",
+      "pennell",
+      "murder",
+      "confession",
+      "child",
+      "killer",
+      "docuseries",
+      "b2948531.html"
     ]
   }
 }
