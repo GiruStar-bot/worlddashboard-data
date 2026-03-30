@@ -1,123 +1,174 @@
 {
-  "EGY": {
-    "risk_score": 2.9,
+  "IRN": {
+    "risk_score": 12.5,
+    "count": 14,
+    "top_news": "https://www.dailymail.co.uk/news/article-15690787/Diesel-shortages-weeks-experts-warn-energy-shock-WORSE-1970s-Reeves-begs-states-not-choke-Britains-supplies-hoarding-oil-gas.html",
+    "event_codes": {
+      "19": 7,
+      "18": 4,
+      "14": 3
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15690787",
+      "diesel",
+      "shortages",
+      "weeks",
+      "experts",
+      "warn",
+      "energy",
+      "shock",
+      "worse",
+      "1970s",
+      "reeves",
+      "begs",
+      "states",
+      "not",
+      "choke",
+      "britains",
+      "supplies",
+      "hoarding",
+      "oil",
+      "gas.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 32.41,
+    "count": 35,
+    "top_news": "https://www.thejc.com/opinion/my-open-letter-to-uk-jews-all-of-us-battling-together-we-will-defeat-this-hatred-o8d8plsa",
+    "event_codes": {
+      "19": 18,
+      "18": 8,
+      "17": 6,
+      "15": 3
+    },
+    "keywords": [
+      "opinion",
+      "open",
+      "letter",
+      "jews",
+      "all",
+      "battling",
+      "together",
+      "will",
+      "defeat",
+      "this",
+      "hatred",
+      "o8d8plsa"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.85,
     "count": 3,
-    "top_news": "https://www.cnn.com/2026/03/30/politics/trump-iran-pakistan-houthis-strait-of-hormuz-analysis",
+    "top_news": "https://abcnews.com/Politics/escaping-middle-east-inside-rush-evacuate/story?id=131525458",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "2026",
       "politics",
-      "trump",
-      "iran",
-      "pakistan",
-      "houthis",
-      "strait",
-      "hormuz",
-      "analysis"
+      "escaping",
+      "middle",
+      "east",
+      "inside",
+      "rush",
+      "evacuate",
+      "story"
     ]
   },
-  "IRN": {
-    "risk_score": 10.1,
-    "count": 12,
-    "top_news": "https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311",
+  "LBY": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.thehitavada.com/Encyc/2026/3/30/2500-us-marines-arrive-as-iran-speaker-warns-us-troops-will-be-set-on-fire.html",
     "event_codes": {
-      "19": 7,
-      "14": 4,
-      "17": 1
+      "18": 3
     },
     "keywords": [
-      "international",
-      "live",
-      "updates",
-      "iran",
-      "live",
-      "updates",
-      "trump",
-      "touts",
-      "big",
-      "day",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.1,
-    "count": 9,
-    "top_news": "https://www.haaretz.com/israel-news/israel-security/2026-03-30/ty-article-live/trump-direct-indirect-iran-talks-doing-extremely-well-deal-could-be-soon/0000019d-3cb9-d143-a1fd-3cbf17540000",
-    "event_codes": {
-      "14": 4,
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "israel",
-      "security",
+      "encyc",
       "2026",
-      "article",
-      "live",
-      "trump",
-      "direct",
-      "indirect",
+      "2500",
+      "marines",
+      "arrive",
       "iran",
-      "talks",
-      "doing",
-      "extremely",
-      "well",
-      "deal",
-      "could",
-      "soon",
-      "0000019d",
-      "3cb9",
-      "d143",
-      "a1fd",
-      "3cbf17540000"
+      "speaker",
+      "warns",
+      "troops",
+      "will",
+      "set",
+      "fire.html"
     ]
   },
-  "MMR": {
-    "risk_score": 3.52,
-    "count": 5,
-    "top_news": "https://www.straitstimes.com/asia/se-asia/general-coup-leader-soon-to-be-president-myanmars-min-aung-hlaing",
+  "NGA": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://blueprint.ng/shettiman-dukawuya-at-30-linking-three-regions-and-generations/",
     "event_codes": {
-      "17": 4,
-      "15": 1
+      "17": 7
     },
     "keywords": [
-      "asia",
-      "asia",
-      "general",
-      "coup",
-      "leader",
-      "soon",
-      "president",
-      "myanmars",
-      "min",
-      "aung",
-      "hlaing"
+      "shettiman",
+      "dukawuya",
+      "linking",
+      "three",
+      "regions",
+      "and",
+      "generations"
     ]
   },
-  "THA": {
-    "risk_score": 4.07,
-    "count": 5,
-    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/03/30/5-nabbed-510kg-of-meth-seized-in-perlis-raids",
+  "PSE": {
+    "risk_score": 17.36,
+    "count": 19,
+    "top_news": "https://imemc.org/article/israeli-soldiers-kill-a-palestinian-near-hebron-14/",
     "event_codes": {
-      "17": 2,
-      "19": 2,
+      "18": 14,
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "soldiers",
+      "kill",
+      "palestinian",
+      "near",
+      "hebron"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.thehitavada.com/Encyc/2026/3/30/2500-us-marines-arrive-as-iran-speaker-warns-us-troops-will-be-set-on-fire.html",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "encyc",
+      "2026",
+      "2500",
+      "marines",
+      "arrive",
+      "iran",
+      "speaker",
+      "warns",
+      "troops",
+      "will",
+      "set",
+      "fire.html"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://focustaiwan.tw/politics/202603300013",
+    "event_codes": {
+      "19": 4,
       "14": 1
     },
     "keywords": [
-      "category",
-      "nation",
-      "2026",
-      "nabbed",
-      "510kg",
-      "meth",
-      "seized",
-      "perlis",
-      "raids"
+      "politics",
+      "202603300013"
     ]
   }
 }
