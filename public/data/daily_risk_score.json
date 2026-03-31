@@ -1,42 +1,56 @@
 {
-  "IRN": {
-    "risk_score": 20.5,
-    "count": 23,
-    "top_news": "https://www.newsandsentinel.com/news/local-news/2026/03/trump-again-threatens-widespread-destruction-in-iran-if-a-deal-is-not-reached-shortly/",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.flickeringmyth.com/4k-ultra-hd-review-blood-from-the-mummys-tomb-1971/",
     "event_codes": {
-      "19": 18,
-      "17": 5
+      "19": 2
     },
     "keywords": [
-      "news",
-      "local",
-      "news",
-      "2026",
-      "trump",
-      "again",
-      "threatens",
-      "widespread",
-      "destruction",
-      "iran",
-      "deal",
-      "not",
-      "reached",
-      "shortly"
+      "ultra",
+      "review",
+      "blood",
+      "from",
+      "the",
+      "mummys",
+      "tomb",
+      "1971"
     ]
   },
-  "ISR": {
-    "risk_score": 11.5,
-    "count": 12,
-    "top_news": "https://www.newsandsentinel.com/news/local-news/2026/03/trump-again-threatens-widespread-destruction-in-iran-if-a-deal-is-not-reached-shortly/",
+  "IRN": {
+    "risk_score": 13.6,
+    "count": 15,
+    "top_news": "https://townhall.com/columnists/calthomas/2026/03/31/lessons-from-the-vietnam-war-for-iran-n2673663",
     "event_codes": {
-      "19": 11,
+      "19": 10,
+      "18": 3,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "news",
-      "local",
-      "news",
+      "columnists",
+      "calthomas",
       "2026",
+      "lessons",
+      "from",
+      "the",
+      "vietnam",
+      "war",
+      "for",
+      "iran",
+      "n2673663"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.95,
+    "count": 10,
+    "top_news": "https://www.dailyadvance.com/news/world/trump-again-threatens-widespread-destruction-in-iran-if-a-deal-is-not-reached-shortly/article_4643a4ad-2952-5069-8ac9-fddb72ce6668.html",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "news",
+      "world",
       "trump",
       "again",
       "threatens",
@@ -46,32 +60,89 @@
       "deal",
       "not",
       "reached",
-      "shortly"
+      "shortly",
+      "article",
+      "4643a4ad",
+      "2952",
+      "5069",
+      "8ac9",
+      "fddb72ce6668.html"
     ]
   },
-  "KWT": {
+  "LBN": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260331020028.97vos2jx.html",
+    "top_news": "https://www.dailyadvance.com/news/world/trump-again-threatens-widespread-destruction-in-iran-if-a-deal-is-not-reached-shortly/article_4643a4ad-2952-5069-8ac9-fddb72ce6668.html",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "afp",
-      "260331020028.97vos2jx.html"
+      "news",
+      "world",
+      "trump",
+      "again",
+      "threatens",
+      "widespread",
+      "destruction",
+      "iran",
+      "deal",
+      "not",
+      "reached",
+      "shortly",
+      "article",
+      "4643a4ad",
+      "2952",
+      "5069",
+      "8ac9",
+      "fddb72ce6668.html"
     ]
   },
-  "LBN": {
-    "risk_score": 4.9,
+  "NGA": {
+    "risk_score": 3.55,
     "count": 5,
-    "top_news": "https://www.spacewar.com/afp/260331010326.zyl3peik.html",
+    "top_news": "https://www.dailydispatch.co.za/news/2026-03-31-protest-over-nigerian-king-erupts-into-violence-in-buffalo-city-cbd/",
     "event_codes": {
-      "19": 4,
+      "14": 4,
       "18": 1
     },
     "keywords": [
-      "afp",
-      "260331010326.zyl3peik.html"
+      "news",
+      "2026",
+      "protest",
+      "over",
+      "nigerian",
+      "king",
+      "erupts",
+      "into",
+      "violence",
+      "buffalo",
+      "city",
+      "cbd"
+    ]
+  },
+  "SGP": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/03/31/singaporean-man-charged-with-murdering-fellow-countryman-near-johor-night-club",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "2026",
+      "singaporean",
+      "man",
+      "charged",
+      "with",
+      "murdering",
+      "fellow",
+      "countryman",
+      "near",
+      "johor",
+      "night",
+      "club"
     ]
   }
 }
