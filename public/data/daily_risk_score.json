@@ -1,76 +1,167 @@
 {
-  "IRN": {
-    "risk_score": 19.52,
-    "count": 24,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=442981",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://jewishpress.com/pesach-the-night-we-remember-the-war-we-are-living/",
     "event_codes": {
-      "19": 9,
-      "16": 7,
-      "18": 5,
-      "17": 3
+      "19": 2
     },
     "keywords": [
-      "news",
-      "article.aspx"
+      "pesach",
+      "the",
+      "night",
+      "remember",
+      "the",
+      "war",
+      "are",
+      "living"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://news.sky.com/story/alleged-scottish-crime-boss-steven-lyons-set-to-be-deported-to-spain-after-arrest-in-bali-13526581",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "story",
+      "alleged",
+      "scottish",
+      "crime",
+      "boss",
+      "steven",
+      "lyons",
+      "set",
+      "deported",
+      "spain",
+      "after",
+      "arrest",
+      "bali",
+      "13526581"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.05,
+    "count": 17,
+    "top_news": "https://diplomat.so/articles/1042/IDF-Confirms-4-Deaths-in-Southern-Lebanon",
+    "event_codes": {
+      "19": 7,
+      "17": 5,
+      "18": 3,
+      "16": 2
+    },
+    "keywords": [
+      "articles",
+      "1042",
+      "idf",
+      "confirms",
+      "deaths",
+      "southern",
+      "lebanon"
     ]
   },
   "IRQ": {
-    "risk_score": 6.0,
-    "count": 8,
-    "top_news": "https://www.cbsnews.com/news/american-journalist-shelly-kittleson-kidnapped-iraq/",
+    "risk_score": 12.95,
+    "count": 14,
+    "top_news": "https://diplomat.so/articles/1043/Iraqi-Militia-Bases-Hit-in-Anbar-and-Nineveh",
     "event_codes": {
-      "18": 5,
-      "17": 3
+      "18": 7,
+      "19": 6,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "american",
-      "journalist",
-      "shelly",
-      "kittleson",
-      "kidnapped",
-      "iraq"
+      "articles",
+      "1043",
+      "iraqi",
+      "militia",
+      "bases",
+      "hit",
+      "anbar",
+      "and",
+      "nineveh"
     ]
   },
   "ISR": {
-    "risk_score": 11.5,
-    "count": 14,
-    "top_news": "https://www.yahoo.com/news/articles/netanyahu-expects-irans-leadership-fall-193834823.html",
+    "risk_score": 23.14,
+    "count": 27,
+    "top_news": "https://jewishpress.com/pesach-the-night-we-remember-the-war-we-are-living/",
     "event_codes": {
-      "17": 4,
-      "18": 4,
-      "19": 4,
-      "14": 2
+      "19": 17,
+      "17": 6,
+      "16": 3,
+      "15": 1
+    },
+    "keywords": [
+      "pesach",
+      "the",
+      "night",
+      "remember",
+      "the",
+      "war",
+      "are",
+      "living"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thenationalnews.com/news/2026/03/31/qatar-warns-iranian-attacks-cross-many-red-lines-as-regional-powers-push-for-end-to-war/",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "articles",
-      "netanyahu",
-      "expects",
-      "irans",
-      "leadership",
-      "fall",
-      "193834823.html"
+      "2026",
+      "qatar",
+      "warns",
+      "iranian",
+      "attacks",
+      "cross",
+      "many",
+      "red",
+      "lines",
+      "regional",
+      "powers",
+      "push",
+      "for",
+      "end",
+      "war"
     ]
   },
-  "NGA": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://thesun.ng/plateau-killings-unijos-students-staff-confirmed-among-victims/",
+  "LBN": {
+    "risk_score": 11.59,
+    "count": 14,
+    "top_news": "https://diplomat.so/articles/1042/IDF-Confirms-4-Deaths-in-Southern-Lebanon",
     "event_codes": {
-      "14": 2,
-      "17": 1,
-      "19": 1
+      "19": 8,
+      "17": 5,
+      "15": 1
     },
     "keywords": [
-      "plateau",
-      "killings",
-      "unijos",
-      "students",
-      "staff",
-      "confirmed",
-      "among",
-      "victims"
+      "articles",
+      "1042",
+      "idf",
+      "confirms",
+      "deaths",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://forward.com/opinion/816346/passover-empathy-israel-palestinians/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "816346",
+      "passover",
+      "empathy",
+      "israel",
+      "palestinians"
     ]
   }
 }
