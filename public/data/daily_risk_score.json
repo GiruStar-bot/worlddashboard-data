@@ -1,98 +1,116 @@
 {
-  "ARE": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.moneycontrol.com/world/missile-debris-hits-dubai-homes-as-uae-responds-to-iranian-drone-and-missile-threats-article-13875546.html",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "missile",
-      "debris",
-      "hits",
-      "dubai",
-      "homes",
-      "uae",
-      "responds",
-      "iranian",
-      "drone",
-      "and",
-      "missile",
-      "threats",
-      "article",
-      "13875546.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 6.72,
-    "count": 9,
-    "top_news": "https://www.yorkpress.co.uk/news/national/25982942.keir-starmer-chair-cobra-costs-households-iran-war-become-clear/",
+    "risk_score": 4.62,
+    "count": 6,
+    "top_news": "https://indianexpress.com/article/explained/bunker-buster-bomb-explained-isfahan-strike-10611537/",
     "event_codes": {
-      "19": 4,
-      "17": 3,
-      "16": 2
+      "19": 3,
+      "15": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "25982942.keir",
-      "starmer",
-      "chair",
-      "cobra",
-      "costs",
-      "households",
-      "iran",
-      "war",
-      "become",
-      "clear"
+      "article",
+      "explained",
+      "bunker",
+      "buster",
+      "bomb",
+      "explained",
+      "isfahan",
+      "strike",
+      "10611537"
     ]
   },
   "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.wemu.org/michigan-news/2026-03-31/fbi-temple-israel-attack-was-an-act-of-terrorism",
+    "risk_score": 22.66,
+    "count": 26,
+    "top_news": "https://grenadachronicle.com/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war/",
+    "event_codes": {
+      "19": 14,
+      "17": 7,
+      "18": 4,
+      "15": 1
+    },
+    "keywords": [
+      "gaza",
+      "families",
+      "reunite",
+      "years",
+      "after",
+      "babies",
+      "evacuated",
+      "amid",
+      "israels",
+      "war"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-threatens-widespread-destruction-in-iran-if-deal-not-reached-shortly",
     "event_codes": {
       "19": 2,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "michigan",
-      "news",
-      "2026",
-      "fbi",
-      "temple",
-      "israel",
-      "attack",
-      "was",
-      "act",
-      "terrorism"
+      "spotlight",
+      "iran",
+      "tensions",
+      "iran",
+      "war",
+      "trump",
+      "threatens",
+      "widespread",
+      "destruction",
+      "iran",
+      "deal",
+      "not",
+      "reached",
+      "shortly"
     ]
   },
-  "MYS": {
-    "risk_score": 2.84,
-    "count": 4,
-    "top_news": "https://www.latimes.com/environment/story/2026-03-31/as-tina-falls-ill-samuel-l-jackson-calls-for-sanctuary-for-former-la-zoo-elephants",
+  "NGA": {
+    "risk_score": 6.7,
+    "count": 8,
+    "top_news": "https://www.ewn.co.za/2026/03/31/talks-planned-after-kugompo-unrest-over-igbo-king-coronation",
     "event_codes": {
-      "17": 4
+      "19": 4,
+      "14": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "environment",
-      "story",
       "2026",
-      "tina",
-      "falls",
-      "ill",
-      "samuel",
-      "jackson",
-      "calls",
-      "for",
-      "sanctuary",
-      "for",
-      "former",
-      "zoo",
-      "elephants"
+      "talks",
+      "planned",
+      "after",
+      "kugompo",
+      "unrest",
+      "over",
+      "igbo",
+      "king",
+      "coronation"
+    ]
+  },
+  "VEN": {
+    "risk_score": 6.7,
+    "count": 13,
+    "top_news": "https://timesofoman.com/article/170089-us-reopens-embassy-in-venezuela-after-seizing-nicolas-maduro",
+    "event_codes": {
+      "16": 10,
+      "18": 3
+    },
+    "keywords": [
+      "article",
+      "170089",
+      "reopens",
+      "embassy",
+      "venezuela",
+      "after",
+      "seizing",
+      "nicolas",
+      "maduro"
     ]
   }
 }
