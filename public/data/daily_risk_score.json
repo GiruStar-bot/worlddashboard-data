@@ -1,211 +1,123 @@
 {
-  "BHR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://theconversation.com/irans-attacks-drone-on-as-the-u-s-is-at-risk-of-losing-the-war-279295",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "irans",
-      "attacks",
-      "drone",
-      "the",
-      "risk",
-      "losing",
-      "the",
-      "war",
-      "279295"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.52,
-    "count": 9,
-    "top_news": "https://www.mediaite.com/media/news/pro-trump-reporter-presses-hegseth-on-his-message-to-maga-supporters-who-are-very-worried-about-boots-on-the-ground/",
-    "event_codes": {
-      "18": 3,
-      "19": 3,
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
-      "media",
-      "news",
-      "pro",
-      "trump",
-      "reporter",
-      "presses",
-      "hegseth",
-      "his",
-      "message",
-      "maga",
-      "supporters",
-      "who",
-      "are",
-      "very",
-      "worried",
-      "about",
-      "boots",
-      "the",
-      "ground"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 12.2,
-    "count": 13,
-    "top_news": "https://theconversation.com/irans-attacks-drone-on-as-the-u-s-is-at-risk-of-losing-the-war-279295",
-    "event_codes": {
-      "18": 8,
-      "19": 5
-    },
-    "keywords": [
-      "irans",
-      "attacks",
-      "drone",
-      "the",
-      "risk",
-      "losing",
-      "the",
-      "war",
-      "279295"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.4,
-    "count": 28,
-    "top_news": "https://www.naharnet.com/stories/en/319284-israeli-strike-hits-apartment-in-mansourieh-north-of-beirut",
-    "event_codes": {
-      "19": 13,
-      "17": 8,
-      "18": 4,
-      "14": 3
-    },
-    "keywords": [
-      "stories",
-      "319284",
-      "israeli",
-      "strike",
-      "hits",
-      "apartment",
-      "mansourieh",
-      "north",
-      "beirut"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://theconversation.com/irans-attacks-drone-on-as-the-u-s-is-at-risk-of-losing-the-war-279295",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "irans",
-      "attacks",
-      "drone",
-      "the",
-      "risk",
-      "losing",
-      "the",
-      "war",
-      "279295"
-    ]
-  },
-  "KWT": {
+  "ARE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://theconversation.com/irans-attacks-drone-on-as-the-u-s-is-at-risk-of-losing-the-war-279295",
+    "top_news": "https://www.theamericanconservative.com/iran-war-enters-32nd-day-go-get-your-own-oil/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "iran",
+      "war",
+      "enters",
+      "32nd",
+      "day",
+      "get",
+      "your",
+      "own",
+      "oil"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dominicanrepublicpost.com/un-aid-chief-warns-of-new-israeli-occupation-in-southern-lebanon/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "aid",
+      "chief",
+      "warns",
+      "new",
+      "israeli",
+      "occupation",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.22,
+    "count": 5,
+    "top_news": "https://dominicanrepublicpost.com/qatar-says-irans-attacks-on-neighbours-crossed-many-red-lines/",
+    "event_codes": {
+      "19": 3,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "qatar",
+      "says",
       "irans",
       "attacks",
-      "drone",
-      "the",
-      "risk",
-      "losing",
-      "the",
+      "neighbours",
+      "crossed",
+      "many",
+      "red",
+      "lines"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.82,
+    "count": 13,
+    "top_news": "https://www.theamericanconservative.com/iran-war-enters-32nd-day-go-get-your-own-oil/",
+    "event_codes": {
+      "17": 6,
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "iran",
       "war",
-      "279295"
+      "enters",
+      "32nd",
+      "day",
+      "get",
+      "your",
+      "own",
+      "oil"
     ]
   },
   "LBN": {
-    "risk_score": 9.95,
-    "count": 10,
-    "top_news": "https://www.naharnet.com/stories/en/319284-israeli-strike-hits-apartment-in-mansourieh-north-of-beirut",
+    "risk_score": 10.4,
+    "count": 12,
+    "top_news": "https://dominicanrepublicpost.com/un-aid-chief-warns-of-new-israeli-occupation-in-southern-lebanon/",
     "event_codes": {
-      "19": 10
+      "19": 8,
+      "17": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "stories",
-      "319284",
+      "aid",
+      "chief",
+      "warns",
+      "new",
       "israeli",
-      "strike",
-      "hits",
-      "apartment",
-      "mansourieh",
-      "north",
-      "beirut"
+      "occupation",
+      "southern",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://dailypost.ng/2026/03/31/dont-fight-politicians-battles-mahdi-shehu-warns-supporters/",
+    "risk_score": 5.15,
+    "count": 8,
+    "top_news": "https://peoplesdailyng.com/troops-kill-scores-of-terrorists-arrest-274-rescue-268-dhq/",
     "event_codes": {
-      "19": 3,
-      "14": 2,
-      "17": 2
+      "17": 5,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "dont",
-      "fight",
-      "politicians",
-      "battles",
-      "mahdi",
-      "shehu",
-      "warns",
-      "supporters"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://theconversation.com/irans-attacks-drone-on-as-the-u-s-is-at-risk-of-losing-the-war-279295",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "irans",
-      "attacks",
-      "drone",
-      "the",
-      "risk",
-      "losing",
-      "the",
-      "war",
-      "279295"
-    ]
-  },
-  "SAU": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://theconversation.com/irans-attacks-drone-on-as-the-u-s-is-at-risk-of-losing-the-war-279295",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "irans",
-      "attacks",
-      "drone",
-      "the",
-      "risk",
-      "losing",
-      "the",
-      "war",
-      "279295"
+      "troops",
+      "kill",
+      "scores",
+      "terrorists",
+      "arrest",
+      "274",
+      "rescue",
+      "268",
+      "dhq"
     ]
   }
 }
