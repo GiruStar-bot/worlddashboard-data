@@ -1,81 +1,163 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.washingtonexaminer.com/news/crime/4509827/michigan-synagogue-attack-terrorism-hezbollah/",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "crime",
-      "4509827",
-      "michigan",
-      "synagogue",
-      "attack",
-      "terrorism",
-      "hezbollah"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.5,
-    "count": 20,
-    "top_news": "https://dominicanrepublicpost.com/israels-parliament-passes-death-penalty-bill-targeting-palestinians/",
-    "event_codes": {
-      "19": 8,
-      "17": 6,
-      "18": 6
-    },
-    "keywords": [
-      "israels",
-      "parliament",
-      "passes",
-      "death",
-      "penalty",
-      "bill",
-      "targeting",
-      "palestinians"
-    ]
-  },
-  "KWT": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.kmxt.org/2026-03-30/irans-strike-hurt-up-to-20-u-s-personnel-and-damaged-2-radar-jets-in-saudi-arabia",
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/syquw8uo11e",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "irans",
-      "strike",
-      "hurt",
-      "personnel",
-      "and",
-      "damaged",
-      "radar",
-      "jets",
-      "saudi",
-      "arabia"
+      "opinions",
+      "analysis",
+      "article",
+      "syquw8uo11e"
     ]
   },
-  "LAO": {
-    "risk_score": 2.5,
+  "EGY": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.themirror.com/news/us-news/man-who-missed-multiple-cancer-1765632",
+    "top_news": "https://nbcmontana.com/news/local/thousands-protest-trump-agenda-at-no-kings-rallies-in-montana",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "news",
-      "man",
-      "who",
-      "missed",
-      "multiple",
-      "cancer",
-      "1765632"
+      "local",
+      "thousands",
+      "protest",
+      "trump",
+      "agenda",
+      "kings",
+      "rallies",
+      "montana"
+    ]
+  },
+  "IRN": {
+    "risk_score": 26.24,
+    "count": 28,
+    "top_news": "https://www.newser.com/story/386382/fbi-synagogue-attacker-was-inspired-by-hezbollah.html",
+    "event_codes": {
+      "19": 22,
+      "15": 2,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "story",
+      "386382",
+      "fbi",
+      "synagogue",
+      "attacker",
+      "was",
+      "inspired",
+      "hezbollah.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 8.84,
+    "count": 9,
+    "top_news": "https://www.longwarjournal.org/archives/2026/03/home-of-kurdistan-region-president-targeted-american-universities-threatened-as-attacks-escalate-in-iraq.php",
+    "event_codes": {
+      "19": 7,
+      "17": 2
+    },
+    "keywords": [
+      "archives",
+      "2026",
+      "home",
+      "kurdistan",
+      "region",
+      "president",
+      "targeted",
+      "american",
+      "universities",
+      "threatened",
+      "attacks",
+      "escalate",
+      "iraq.php"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.2,
+    "count": 29,
+    "top_news": "https://www.goulburnpost.com.au/story/9210784/michigan-synagogue-attack-an-act-of-terrorism-fbi/",
+    "event_codes": {
+      "19": 16,
+      "18": 6,
+      "17": 5,
+      "14": 2
+    },
+    "keywords": [
+      "story",
+      "9210784",
+      "michigan",
+      "synagogue",
+      "attack",
+      "act",
+      "terrorism",
+      "fbi"
+    ]
+  },
+  "LBN": {
+    "risk_score": 9.0,
+    "count": 10,
+    "top_news": "https://www.goulburnpost.com.au/story/9210784/michigan-synagogue-attack-an-act-of-terrorism-fbi/",
+    "event_codes": {
+      "19": 8,
+      "17": 2
+    },
+    "keywords": [
+      "story",
+      "9210784",
+      "michigan",
+      "synagogue",
+      "attack",
+      "act",
+      "terrorism",
+      "fbi"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://africa.com/nigeria-maiduguri-bombings-show-new-threat-to-civilians/",
+    "event_codes": {
+      "18": 4,
+      "17": 1
+    },
+    "keywords": [
+      "nigeria",
+      "maiduguri",
+      "bombings",
+      "show",
+      "new",
+      "threat",
+      "civilians"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wxpr.org/2026-03-30/yemeni-politician-says-former-u-s-soldiers-tried-to-kill-him-now-hes-suing-in-u-s-court",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "yemeni",
+      "politician",
+      "says",
+      "former",
+      "soldiers",
+      "tried",
+      "kill",
+      "him",
+      "now",
+      "hes",
+      "suing",
+      "court"
     ]
   }
 }
