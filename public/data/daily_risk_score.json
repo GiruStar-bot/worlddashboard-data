@@ -1,116 +1,128 @@
 {
-  "IRN": {
-    "risk_score": 4.62,
-    "count": 6,
-    "top_news": "https://indianexpress.com/article/explained/bunker-buster-bomb-explained-isfahan-strike-10611537/",
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/gaming/xbox-teases-next-gears-war-36949069",
     "event_codes": {
-      "19": 3,
-      "15": 1,
-      "16": 1,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "article",
-      "explained",
-      "bunker",
-      "buster",
-      "bomb",
-      "explained",
-      "isfahan",
-      "strike",
-      "10611537"
+      "gaming",
+      "xbox",
+      "teases",
+      "next",
+      "gears",
+      "war",
+      "36949069"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.express.co.uk/news/politics/2188755/nick-ferrari-james-murray-lbc-labour-fuel-crisis",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "2188755",
+      "nick",
+      "ferrari",
+      "james",
+      "murray",
+      "lbc",
+      "labour",
+      "fuel",
+      "crisis"
     ]
   },
   "ISR": {
-    "risk_score": 22.66,
-    "count": 26,
-    "top_news": "https://grenadachronicle.com/gaza-families-reunite-years-after-babies-evacuated-amid-israels-war/",
+    "risk_score": 12.3,
+    "count": 13,
+    "top_news": "https://www.smdailyjournal.com/business/trump-voices-frustration-with-allies-as-iran-war-and-strait-closure-pushes-fuel-prices-higher/article_45f2ce8c-3aad-5872-be42-65fa33344a28.html",
     "event_codes": {
-      "19": 14,
-      "17": 7,
-      "18": 4,
-      "15": 1
-    },
-    "keywords": [
-      "gaza",
-      "families",
-      "reunite",
-      "years",
-      "after",
-      "babies",
-      "evacuated",
-      "amid",
-      "israels",
-      "war"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/trump-threatens-widespread-destruction-in-iran-if-deal-not-reached-shortly",
-    "event_codes": {
-      "19": 2,
+      "19": 11,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "spotlight",
-      "iran",
-      "tensions",
+      "business",
+      "trump",
+      "voices",
+      "frustration",
+      "with",
+      "allies",
       "iran",
       "war",
-      "trump",
-      "threatens",
-      "widespread",
-      "destruction",
-      "iran",
-      "deal",
-      "not",
-      "reached",
-      "shortly"
+      "and",
+      "strait",
+      "closure",
+      "pushes",
+      "fuel",
+      "prices",
+      "higher",
+      "article",
+      "45f2ce8c",
+      "3aad",
+      "5872",
+      "be42",
+      "65fa33344a28.html"
     ]
   },
-  "NGA": {
-    "risk_score": 6.7,
-    "count": 8,
-    "top_news": "https://www.ewn.co.za/2026/03/31/talks-planned-after-kugompo-unrest-over-igbo-king-coronation",
+  "KWT": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://article.wn.com/view/2026/03/31/Iran_hits_oil_tanker_off_Dubai_as_fighting_continues_on_all_/",
     "event_codes": {
-      "19": 4,
-      "14": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "talks",
-      "planned",
-      "after",
-      "kugompo",
-      "unrest",
-      "over",
-      "igbo",
-      "king",
-      "coronation"
-    ]
-  },
-  "VEN": {
-    "risk_score": 6.7,
-    "count": 13,
-    "top_news": "https://timesofoman.com/article/170089-us-reopens-embassy-in-venezuela-after-seizing-nicolas-maduro",
-    "event_codes": {
-      "16": 10,
       "18": 3
     },
     "keywords": [
-      "article",
-      "170089",
-      "reopens",
-      "embassy",
-      "venezuela",
-      "after",
-      "seizing",
-      "nicolas",
-      "maduro"
+      "view",
+      "2026",
+      "iran",
+      "hits",
+      "oil",
+      "tanker",
+      "off",
+      "dubai",
+      "fighting",
+      "continues",
+      "all"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.baltimoresun.com/2026/03/31/iran-war/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.44,
+    "count": 8,
+    "top_news": "https://www.premiumtimesng.com/news/more-news/868115-security-forces-foil-kidnap-in-nasarawa.html",
+    "event_codes": {
+      "19": 4,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "more",
+      "news",
+      "868115",
+      "security",
+      "forces",
+      "foil",
+      "kidnap",
+      "nasarawa.html"
     ]
   }
 }
