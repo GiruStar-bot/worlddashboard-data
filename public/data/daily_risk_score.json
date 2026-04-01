@@ -1,94 +1,211 @@
 {
   "ARE": {
-    "risk_score": 5.85,
-    "count": 6,
-    "top_news": "https://www.nbcnews.com/world/middle-east/live-blog/live-updates-iran-war-trump-address-nation-rcna266149",
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://thefrontierpost.com/qatar-says-iran-missile-struck-tanker-in-its-waters/",
     "event_codes": {
-      "19": 4,
-      "18": 2
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "qatar",
+      "says",
+      "iran",
+      "missile",
+      "struck",
+      "tanker",
+      "its",
+      "waters"
+    ]
+  },
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.moneycontrol.com/world/irgc-claims-attack-on-sites-in-israel-us-helicopter-unit-in-kuwait-used-over-100-missiles-attack-drones-article-13876902.html",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "world",
-      "middle",
-      "east",
-      "live",
-      "blog",
-      "live",
-      "updates",
-      "iran",
-      "war",
-      "trump",
-      "address",
-      "nation",
-      "rcna266149"
+      "irgc",
+      "claims",
+      "attack",
+      "sites",
+      "israel",
+      "helicopter",
+      "unit",
+      "kuwait",
+      "used",
+      "over",
+      "100",
+      "missiles",
+      "attack",
+      "drones",
+      "article",
+      "13876902.html"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/israel-news/article-891610",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "891610"
     ]
   },
   "IRN": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://www.nbcnews.com/world/middle-east/live-blog/live-updates-iran-war-trump-address-nation-rcna266149",
+    "risk_score": 14.95,
+    "count": 16,
+    "top_news": "https://www.rrdailyherald.com/news/national/uk-police-arrest-three-more-over-jewish-ambulance-attack/article_f76c9813-5cad-55b1-9dc2-46c941a33718.html",
     "event_codes": {
+      "19": 11,
       "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "police",
+      "arrest",
+      "three",
+      "more",
+      "over",
+      "jewish",
+      "ambulance",
+      "attack",
+      "article",
+      "f76c9813",
+      "5cad",
+      "55b1",
+      "9dc2",
+      "46c941a33718.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.22,
+    "count": 30,
+    "top_news": "https://thefrontierpost.com/qatar-says-iran-missile-struck-tanker-in-its-waters/",
+    "event_codes": {
+      "19": 12,
+      "14": 7,
+      "18": 5,
+      "17": 4,
+      "16": 2
+    },
+    "keywords": [
+      "qatar",
+      "says",
+      "iran",
+      "missile",
+      "struck",
+      "tanker",
+      "its",
+      "waters"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.moneycontrol.com/world/irgc-claims-attack-on-sites-in-israel-us-helicopter-unit-in-kuwait-used-over-100-missiles-attack-drones-article-13876902.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
       "world",
-      "middle",
-      "east",
-      "live",
-      "blog",
-      "live",
-      "updates",
-      "iran",
-      "war",
-      "trump",
-      "address",
-      "nation",
-      "rcna266149"
+      "irgc",
+      "claims",
+      "attack",
+      "sites",
+      "israel",
+      "helicopter",
+      "unit",
+      "kuwait",
+      "used",
+      "over",
+      "100",
+      "missiles",
+      "attack",
+      "drones",
+      "article",
+      "13876902.html"
     ]
   },
-  "ISR": {
+  "LBN": {
     "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://www.rnz.co.nz/news/world/591293/us-eyes-swift-end-to-war-as-fresh-attacks-hit-gulf-states-and-iran",
+    "top_news": "https://www.middleeastmonitor.com/20260401-lebanon-rejects-israeli-plans-for-security-zone-in-south/",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "591293",
-      "eyes",
-      "swift",
-      "end",
-      "war",
-      "fresh",
-      "attacks",
-      "hit",
-      "gulf",
-      "states",
-      "and",
-      "iran"
+      "20260401",
+      "lebanon",
+      "rejects",
+      "israeli",
+      "plans",
+      "for",
+      "security",
+      "zone",
+      "south"
     ]
   },
   "NGA": {
-    "risk_score": 13.24,
-    "count": 17,
-    "top_news": "https://www.nigerianeye.com/2026/04/eight-charcoal-burners-kidnapped-in.html",
+    "risk_score": 4.15,
+    "count": 6,
+    "top_news": "https://www.thecable.ng/condolence-as-nigerias-security-policy/",
     "event_codes": {
-      "19": 7,
-      "17": 6,
-      "15": 2,
-      "18": 2
+      "14": 3,
+      "16": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "eight",
-      "charcoal",
-      "burners",
-      "kidnapped",
-      "in.html"
+      "condolence",
+      "nigerias",
+      "security",
+      "policy"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.memphisflyer.com/memphis-gangs/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "memphis",
+      "gangs"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 5.63,
+    "count": 7,
+    "top_news": "https://www.newsday.co.zw/editorials/article/200053407/when-borders-fail-smugglers-thrive",
+    "event_codes": {
+      "19": 3,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "editorials",
+      "article",
+      "200053407",
+      "when",
+      "borders",
+      "fail",
+      "smugglers",
+      "thrive"
     ]
   }
 }
