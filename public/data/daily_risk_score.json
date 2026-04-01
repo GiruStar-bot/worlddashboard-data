@@ -1,69 +1,153 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.mirror.co.uk/travel/news/three-major-airlines-announce-middle-36952205",
+  "ARE": {
+    "risk_score": 5.81,
+    "count": 7,
+    "top_news": "https://www.nhregister.com/news/article/the-latest-trump-says-the-military-could-end-its-22182687.php",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "15": 3,
+      "19": 3,
+      "14": 1
     },
     "keywords": [
-      "travel",
       "news",
-      "three",
-      "major",
-      "airlines",
-      "announce",
-      "middle",
-      "36952205"
+      "article",
+      "the",
+      "latest",
+      "trump",
+      "says",
+      "the",
+      "military",
+      "could",
+      "end",
+      "its",
+      "22182687.php"
+    ]
+  },
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.nhregister.com/news/article/the-latest-trump-says-the-military-could-end-its-22182687.php",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "article",
+      "the",
+      "latest",
+      "trump",
+      "says",
+      "the",
+      "military",
+      "could",
+      "end",
+      "its",
+      "22182687.php"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.3,
+    "count": 13,
+    "top_news": "https://www.minotdailynews.com/opinion/national-columnists/2026/04/lessons-from-vietnam-war-for-iran/",
+    "event_codes": {
+      "19": 8,
+      "18": 4,
+      "16": 1
+    },
+    "keywords": [
+      "opinion",
+      "national",
+      "columnists",
+      "2026",
+      "lessons",
+      "from",
+      "vietnam",
+      "war",
+      "for",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 15.65,
-    "count": 16,
-    "top_news": "https://imemc.org/article/israeli-forces-shoot-a-palestinian-in-qalandia/",
+    "risk_score": 15.75,
+    "count": 17,
+    "top_news": "https://www.spacewar.com/afp/260401050802.gdrqdlsj.html",
     "event_codes": {
-      "19": 11,
-      "18": 5
+      "19": 9,
+      "14": 3,
+      "20": 3,
+      "18": 2
     },
     "keywords": [
-      "article",
-      "israeli",
-      "forces",
-      "shoot",
-      "palestinian",
-      "qalandia"
+      "afp",
+      "260401050802.gdrqdlsj.html"
     ]
   },
-  "SDN": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202604010006.html",
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://countercurrents.org/2026/04/onward-israels-spartan-soldiers/",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "stories",
-      "202604010006.html"
+      "2026",
+      "onward",
+      "israels",
+      "spartan",
+      "soldiers"
     ]
   },
-  "SSD": {
+  "MLI": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.rte.ie/news/world/2026/0401/1566194-russia-plane-crash/",
+    "top_news": "https://www.easternriverinachronicle.com.au/story/9211642/freeman-family-anguish-as-tip-off-leads-to-1m-claim/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "world",
+      "story",
+      "9211642",
+      "freeman",
+      "family",
+      "anguish",
+      "tip",
+      "off",
+      "leads",
+      "claim"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.rferl.org/a/china-iran-taiwan-trump-xi-military-invasion-mick-ryan/33721581.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "china",
+      "iran",
+      "taiwan",
+      "trump",
+      "military",
+      "invasion",
+      "mick",
+      "ryan",
+      "33721581.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://countercurrents.org/2026/04/onward-israels-spartan-soldiers/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "0401",
-      "1566194",
-      "russia",
-      "plane",
-      "crash"
+      "onward",
+      "israels",
+      "spartan",
+      "soldiers"
     ]
   }
 }
