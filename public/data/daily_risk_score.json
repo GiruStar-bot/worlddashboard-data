@@ -1,200 +1,241 @@
 {
-  "GUY": {
-    "risk_score": 5.9,
-    "count": 10,
-    "top_news": "https://kaieteurnewsonline.com/2026/04/01/i-need-my-son-home-mother-of-death-row-inmate-cries-out-for-justice/",
+  "ARE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.el-balad.com/16898590",
     "event_codes": {
-      "17": 7,
-      "19": 2,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "2026",
-      "need",
-      "son",
-      "home",
-      "mother",
-      "death",
-      "row",
-      "inmate",
-      "cries",
-      "out",
+      "16898590"
+    ]
+  },
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/865886/historic-us-defeat-war-ending-soon-without-a-deal-iran-ready-for-6-months-of-combat-we-launched-5-644-missiles%20title=",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "865886",
+      "historic",
+      "defeat",
+      "war",
+      "ending",
+      "soon",
+      "without",
+      "deal",
+      "iran",
+      "ready",
       "for",
-      "justice"
+      "months",
+      "combat",
+      "launched",
+      "644",
+      "missiles%20title="
     ]
   },
   "IRN": {
-    "risk_score": 14.2,
-    "count": 15,
-    "top_news": "https://www.qatar-tribune.com/article/226783/latest-news/defence-ministry-announces-interception-of-two-cruise-missiles-damage-caused-by-a-third-to-oil-tanker-with-no-casualties",
+    "risk_score": 22.21,
+    "count": 25,
+    "top_news": "https://www.omakchronicle.com/news/national/trump-says-war-could-end-in-two-three-weeks-as-israel-strikes-tehran/article_572b1131-6db7-5159-99f9-b13d6b4dca71.html",
     "event_codes": {
-      "19": 12,
-      "14": 2,
-      "18": 1
+      "19": 16,
+      "15": 3,
+      "16": 3,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
+      "news",
+      "national",
+      "trump",
+      "says",
+      "war",
+      "could",
+      "end",
+      "two",
+      "three",
+      "weeks",
+      "israel",
+      "strikes",
+      "tehran",
       "article",
-      "226783",
+      "572b1131",
+      "6db7",
+      "5159",
+      "99f9",
+      "b13d6b4dca71.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/breaking-british-motor-oil-company-36952981",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "news",
       "latest",
       "news",
-      "defence",
-      "ministry",
-      "announces",
-      "interception",
-      "two",
-      "cruise",
-      "missiles",
-      "damage",
-      "caused",
-      "third",
+      "breaking",
+      "british",
+      "motor",
       "oil",
-      "tanker",
-      "with",
-      "casualties"
+      "company",
+      "36952981"
     ]
   },
   "ISR": {
-    "risk_score": 13.3,
-    "count": 14,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20260401/4433908.html",
+    "risk_score": 18.55,
+    "count": 19,
+    "top_news": "https://www.durangoherald.com/articles/iran-hits-tanker-off-coast-of-qatar-kuwait-airport-and-israel-kills-5-in-beirut-attack/",
     "event_codes": {
-      "19": 12,
-      "14": 2
+      "19": 15,
+      "18": 4
     },
     "keywords": [
-      "news",
       "articles",
-      "world",
-      "20260401",
-      "4433908.html"
+      "iran",
+      "hits",
+      "tanker",
+      "off",
+      "coast",
+      "qatar",
+      "kuwait",
+      "airport",
+      "and",
+      "israel",
+      "kills",
+      "beirut",
+      "attack"
     ]
   },
   "KWT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/865886/historic-us-defeat-war-ending-soon-without-a-deal-iran-ready-for-6-months-of-combat-we-launched-5-644-missiles%20title=",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "865886",
+      "historic",
+      "defeat",
+      "war",
+      "ending",
+      "soon",
+      "without",
+      "deal",
+      "iran",
+      "ready",
+      "for",
+      "months",
+      "combat",
+      "launched",
+      "644",
+      "missiles%20title="
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.durangoherald.com/articles/iran-hits-tanker-off-coast-of-qatar-kuwait-airport-and-israel-kills-5-in-beirut-attack/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "articles",
+      "iran",
+      "hits",
+      "tanker",
+      "off",
+      "coast",
+      "qatar",
+      "kuwait",
+      "airport",
+      "and",
+      "israel",
+      "kills",
+      "beirut",
+      "attack"
+    ]
+  },
+  "LBY": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.foxnews.com/opinion/president-trumps-new-iran-option-uss-tripoli-ready-strike-fast-hard",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "president",
+      "trumps",
+      "new",
+      "iran",
+      "option",
+      "uss",
+      "tripoli",
+      "ready",
+      "strike",
+      "fast",
+      "hard"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/865886/historic-us-defeat-war-ending-soon-without-a-deal-iran-ready-for-6-months-of-combat-we-launched-5-644-missiles%20title=",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "865886",
+      "historic",
+      "defeat",
+      "war",
+      "ending",
+      "soon",
+      "without",
+      "deal",
+      "iran",
+      "ready",
+      "for",
+      "months",
+      "combat",
+      "launched",
+      "644",
+      "missiles%20title="
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.thewestonmercury.co.uk/news/national/25986194.iran-continues-attacks-hits-tanker-off-qatars-coast-airport-kuwait/",
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/breaking-british-motor-oil-company-36952981",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "national",
-      "25986194.iran",
-      "continues",
-      "attacks",
-      "hits",
-      "tanker",
-      "off",
-      "qatars",
-      "coast",
-      "airport",
-      "kuwait"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://aninews.in/news/world/middle-east/israel-eliminates-quds-force-engineering-head-claims-he-advanced-underground-projects-across-lebanon-syria20260401125340/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
+      "latest",
       "news",
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "eliminates",
-      "quds",
-      "force",
-      "engineering",
-      "head",
-      "claims",
-      "advanced",
-      "underground",
-      "projects",
-      "across",
-      "lebanon",
-      "syria20260401125340"
-    ]
-  },
-  "QAT": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.thewestonmercury.co.uk/news/national/25986194.iran-continues-attacks-hits-tanker-off-qatars-coast-airport-kuwait/",
-    "event_codes": {
-      "19": 7,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "25986194.iran",
-      "continues",
-      "attacks",
-      "hits",
-      "tanker",
-      "off",
-      "qatars",
-      "coast",
-      "airport",
-      "kuwait"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.rightspeak.net/2026/04/islamopandering-in-salt-lake-city-woke.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "islamopandering",
-      "salt",
-      "lake",
-      "city",
-      "woke.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.17,
-    "count": 5,
-    "top_news": "https://www.chiangraitimes.com/china/hinas-bird-h5n1-flu-silence-and-suppression/",
-    "event_codes": {
-      "17": 3,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "china",
-      "hinas",
-      "bird",
-      "h5n1",
-      "flu",
-      "silence",
-      "and",
-      "suppression"
-    ]
-  },
-  "TUR": {
-    "risk_score": 6.2,
-    "count": 12,
-    "top_news": "https://www.liverpoolecho.co.uk/news/uk-world-news/high-ranking-crime-boss-deported-33694746",
-    "event_codes": {
-      "17": 10,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "high",
-      "ranking",
-      "crime",
-      "boss",
-      "deported",
-      "33694746"
+      "breaking",
+      "british",
+      "motor",
+      "oil",
+      "company",
+      "36952981"
     ]
   }
 }
