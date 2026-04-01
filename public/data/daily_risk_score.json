@@ -1,79 +1,104 @@
 {
-  "IRN": {
-    "risk_score": 10.59,
-    "count": 12,
-    "top_news": "https://www.dailystar.co.uk/news/uk-news/fuming-rachel-reeves-slams-planless-36956920",
-    "event_codes": {
-      "19": 6,
-      "14": 2,
-      "15": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "news",
-      "fuming",
-      "rachel",
-      "reeves",
-      "slams",
-      "planless",
-      "36956920"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.01,
-    "count": 16,
-    "top_news": "https://thefrontierpost.com/beirut-strike-killed-top-hezbollah-commander-group-says/",
-    "event_codes": {
-      "19": 11,
-      "17": 3,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "beirut",
-      "strike",
-      "killed",
-      "top",
-      "hezbollah",
-      "commander",
-      "group",
-      "says"
-    ]
-  },
-  "LBN": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.taipeitimes.com/News/front/archives/2026/04/02/2003854877",
+    "top_news": "https://insightcrime.org/news/many-lives-ivan-mordisco-colombia-most-wanted/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "front",
-      "archives",
-      "2026",
-      "2003854877"
+      "many",
+      "lives",
+      "ivan",
+      "mordisco",
+      "colombia",
+      "most",
+      "wanted"
     ]
   },
-  "NGA": {
-    "risk_score": 16.25,
-    "count": 17,
-    "top_news": "https://www.christiandaily.com/news/herdsmen-kill-13-christians-at-wedding-reception-in-nigeria",
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://abcnews.com/International/iran-war-timeline-1-month-escalating-strikes-broadening/story?id=131606351",
     "event_codes": {
-      "19": 12,
-      "18": 3,
-      "14": 1,
+      "19": 6
+    },
+    "keywords": [
+      "international",
+      "iran",
+      "war",
+      "timeline",
+      "month",
+      "escalating",
+      "strikes",
+      "broadening",
+      "story"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://globalnews.ca/news/11755228/american-journalist-kidnapped-warned-of-threats-officials/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "11755228",
+      "american",
+      "journalist",
+      "kidnapped",
+      "warned",
+      "threats",
+      "officials"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 9,
+    "top_news": "https://www.northcountrypublicradio.org/news/npr/g-s1-115947/this-fringe-actor-finds-the-spotlight-in-israel-s-most-provocative-film-post-oct-7",
+    "event_codes": {
+      "19": 5,
+      "16": 3,
       "17": 1
     },
     "keywords": [
       "news",
-      "herdsmen",
-      "kill",
-      "christians",
-      "wedding",
-      "reception",
-      "nigeria"
+      "npr",
+      "115947",
+      "this",
+      "fringe",
+      "actor",
+      "finds",
+      "the",
+      "spotlight",
+      "israel",
+      "most",
+      "provocative",
+      "film",
+      "post",
+      "oct"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.rferl.org/a/iran-israel-us-houthi-drone-strike-kuwait-kurd-iraq/33722530.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "iran",
+      "israel",
+      "houthi",
+      "drone",
+      "strike",
+      "kuwait",
+      "kurd",
+      "iraq",
+      "33722530.html"
     ]
   }
 }
