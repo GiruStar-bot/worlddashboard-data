@@ -1,211 +1,140 @@
 {
-  "ARE": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://thefrontierpost.com/qatar-says-iran-missile-struck-tanker-in-its-waters/",
+  "ECU": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://prospect.org/2026/04/01/trump-drug-war-ecuador-drug-cartels-cocaine/",
     "event_codes": {
-      "18": 2,
-      "19": 2
+      "19": 3,
+      "18": 2
     },
     "keywords": [
-      "qatar",
-      "says",
-      "iran",
-      "missile",
-      "struck",
-      "tanker",
-      "its",
-      "waters"
-    ]
-  },
-  "BHR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.moneycontrol.com/world/irgc-claims-attack-on-sites-in-israel-us-helicopter-unit-in-kuwait-used-over-100-missiles-attack-drones-article-13876902.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "irgc",
-      "claims",
-      "attack",
-      "sites",
-      "israel",
-      "helicopter",
-      "unit",
-      "kuwait",
-      "used",
-      "over",
-      "100",
-      "missiles",
-      "attack",
-      "drones",
-      "article",
-      "13876902.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/israel-news/article-891610",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "article",
-      "891610"
+      "2026",
+      "trump",
+      "drug",
+      "war",
+      "ecuador",
+      "drug",
+      "cartels",
+      "cocaine"
     ]
   },
   "IRN": {
-    "risk_score": 14.95,
-    "count": 16,
-    "top_news": "https://www.rrdailyherald.com/news/national/uk-police-arrest-three-more-over-jewish-ambulance-attack/article_f76c9813-5cad-55b1-9dc2-46c941a33718.html",
+    "risk_score": 14.15,
+    "count": 15,
+    "top_news": "https://www.nvdaily.com/associated_press_national/the-latest-trump-claims-iran-s-president-wants-a-ceasefire-ahead-of-his-address-to/article_413ff7d8-3a13-5946-b004-147dbc4c14f8.html",
     "event_codes": {
       "19": 11,
       "18": 3,
-      "17": 2
+      "16": 1
     },
     "keywords": [
-      "news",
+      "associated",
+      "press",
       "national",
-      "police",
-      "arrest",
-      "three",
-      "more",
-      "over",
-      "jewish",
-      "ambulance",
-      "attack",
+      "the",
+      "latest",
+      "trump",
+      "claims",
+      "iran",
+      "president",
+      "wants",
+      "ceasefire",
+      "ahead",
+      "his",
+      "address",
       "article",
-      "f76c9813",
-      "5cad",
-      "55b1",
-      "9dc2",
-      "46c941a33718.html"
+      "413ff7d8",
+      "3a13",
+      "5946",
+      "b004",
+      "147dbc4c14f8.html"
     ]
   },
   "ISR": {
-    "risk_score": 25.22,
-    "count": 30,
-    "top_news": "https://thefrontierpost.com/qatar-says-iran-missile-struck-tanker-in-its-waters/",
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://nyunews.com/news/2026/04/01/tel-aviv-temporarily-closed-iranian-strike-threats/",
     "event_codes": {
-      "19": 12,
-      "14": 7,
-      "18": 5,
-      "17": 4,
-      "16": 2
+      "19": 4,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "qatar",
-      "says",
-      "iran",
-      "missile",
-      "struck",
-      "tanker",
-      "its",
-      "waters"
+      "news",
+      "2026",
+      "tel",
+      "aviv",
+      "temporarily",
+      "closed",
+      "iranian",
+      "strike",
+      "threats"
     ]
   },
   "KWT": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.hindustantimes.com/india-news/nearly-1-200-indians-mostly-students-have-returned-from-iran-officials-101775049502772.html",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "india",
+      "news",
+      "nearly",
+      "200",
+      "indians",
+      "mostly",
+      "students",
+      "have",
+      "returned",
+      "from",
+      "iran",
+      "officials",
+      "101775049502772.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/hezbollah-field-commander-killed-idf-125321018.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "hezbollah",
+      "field",
+      "commander",
+      "killed",
+      "idf",
+      "125321018.html"
+    ]
+  },
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.moneycontrol.com/world/irgc-claims-attack-on-sites-in-israel-us-helicopter-unit-in-kuwait-used-over-100-missiles-attack-drones-article-13876902.html",
+    "top_news": "https://www.zerohedge.com/geopolitical/uae-poised-join-anti-iran-operations-trump-rips-nato-paper-tiger-says-exit-beyond",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "irgc",
-      "claims",
-      "attack",
-      "sites",
-      "israel",
-      "helicopter",
-      "unit",
-      "kuwait",
-      "used",
-      "over",
-      "100",
-      "missiles",
-      "attack",
-      "drones",
-      "article",
-      "13876902.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.middleeastmonitor.com/20260401-lebanon-rejects-israeli-plans-for-security-zone-in-south/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "20260401",
-      "lebanon",
-      "rejects",
-      "israeli",
-      "plans",
-      "for",
-      "security",
-      "zone",
-      "south"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.15,
-    "count": 6,
-    "top_news": "https://www.thecable.ng/condolence-as-nigerias-security-policy/",
-    "event_codes": {
-      "14": 3,
-      "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "condolence",
-      "nigerias",
-      "security",
-      "policy"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.memphisflyer.com/memphis-gangs/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "memphis",
-      "gangs"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 5.63,
-    "count": 7,
-    "top_news": "https://www.newsday.co.zw/editorials/article/200053407/when-borders-fail-smugglers-thrive",
-    "event_codes": {
-      "19": 3,
-      "15": 1,
-      "16": 1,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "editorials",
-      "article",
-      "200053407",
-      "when",
-      "borders",
-      "fail",
-      "smugglers",
-      "thrive"
+      "geopolitical",
+      "uae",
+      "poised",
+      "join",
+      "anti",
+      "iran",
+      "operations",
+      "trump",
+      "rips",
+      "nato",
+      "paper",
+      "tiger",
+      "says",
+      "exit",
+      "beyond"
     ]
   }
 }
