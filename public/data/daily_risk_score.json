@@ -1,133 +1,143 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.riotimesonline.com/argentina-irgc-terrorist-designation-milei/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "argentina",
-      "irgc",
-      "terrorist",
-      "designation",
-      "milei"
-    ]
-  },
-  "EGY": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "https://promptnewsonline.com/middle-east-crisis-how-tinubus-policy-of-naira-for-crude-guarantee-supply-security-in-nigeria/",
-    "event_codes": {
-      "14": 3,
-      "19": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "crisis",
-      "how",
-      "tinubus",
-      "policy",
-      "naira",
-      "for",
-      "crude",
-      "guarantee",
-      "supply",
-      "security",
-      "nigeria"
-    ]
-  },
   "IRN": {
-    "risk_score": 14.27,
-    "count": 15,
-    "top_news": "https://www.tribuneindia.com/news/top-headlines/indian-citizen-injured-in-drone-attack-in-uae/",
+    "risk_score": 18.11,
+    "count": 21,
+    "top_news": "https://www.express.co.uk/news/politics/2189360/starmer-trump-bullying-row",
     "event_codes": {
-      "19": 11,
-      "18": 2,
-      "14": 1,
-      "15": 1
+      "19": 14,
+      "15": 3,
+      "16": 2,
+      "17": 2
     },
     "keywords": [
       "news",
-      "top",
-      "headlines",
-      "indian",
-      "citizen",
-      "injured",
-      "drone",
-      "attack",
-      "uae"
+      "politics",
+      "2189360",
+      "starmer",
+      "trump",
+      "bullying",
+      "row"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.wisn.com/article/american-journalist-with-wisconsin-ties-kidnapped-in-baghdad/70906063",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "article",
+      "american",
+      "journalist",
+      "with",
+      "wisconsin",
+      "ties",
+      "kidnapped",
+      "baghdad",
+      "70906063"
     ]
   },
   "ISR": {
-    "risk_score": 5.12,
-    "count": 7,
-    "top_news": "https://www.rigzone.com/news/wire/trump_says_ceasefire_only_possible_when_hormuz_reopens-01-apr-2026-183352-article/",
+    "risk_score": 10.35,
+    "count": 13,
+    "top_news": "https://english.kontan.co.id/news/indonesia-calls-for-investigation-into-peacekeeper-deaths",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "15": 1,
-      "16": 1
+      "17": 5,
+      "19": 5,
+      "18": 3
     },
     "keywords": [
       "news",
-      "wire",
-      "trump",
-      "says",
-      "ceasefire",
-      "only",
-      "possible",
-      "when",
-      "hormuz",
-      "reopens",
-      "apr",
-      "2026",
-      "183352",
-      "article"
-    ]
-  },
-  "JOR": {
-    "risk_score": 7.7,
-    "count": 10,
-    "top_news": "https://www.mirror.co.uk/3am/celebrity-news/pregnant-sophie-kasaei-tears-jordan-36956237",
-    "event_codes": {
-      "17": 4,
-      "18": 3,
-      "19": 3
-    },
-    "keywords": [
-      "3am",
-      "celebrity",
-      "news",
-      "pregnant",
-      "sophie",
-      "kasaei",
-      "tears",
-      "jordan",
-      "36956237"
+      "indonesia",
+      "calls",
+      "for",
+      "investigation",
+      "into",
+      "peacekeeper",
+      "deaths"
     ]
   },
   "NGA": {
-    "risk_score": 14.2,
-    "count": 18,
-    "top_news": "https://thesun.ng/lagos-6-slain-traders-buried-amid-tears-calls-for-justice/",
+    "risk_score": 20.0,
+    "count": 22,
+    "top_news": "https://saharareporters.com/2026/04/01/our-worthless-lives-jeff-godwin-doki-phd",
     "event_codes": {
-      "17": 7,
-      "19": 6,
-      "14": 4,
-      "18": 1
+      "19": 10,
+      "18": 8,
+      "17": 4
     },
     "keywords": [
-      "lagos",
-      "slain",
-      "traders",
-      "buried",
+      "2026",
+      "our",
+      "worthless",
+      "lives",
+      "jeff",
+      "godwin",
+      "doki",
+      "phd"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.wafa.ps/Pages/Details/168894",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "168894"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://economictimes.indiatimes.com/news/india/over-1150-indians-exit-iran-via-land-borders-amid-west-asia-conflict-mea/articleshow/129957121.cms",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "india",
+      "over",
+      "1150",
+      "indians",
+      "exit",
+      "iran",
+      "via",
+      "land",
+      "borders",
       "amid",
-      "tears",
-      "calls",
-      "for",
-      "justice"
+      "west",
+      "asia",
+      "conflict",
+      "mea",
+      "articleshow",
+      "129957121.cms"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.catholicworldreport.com/2026/04/01/syrias-churches-scale-back-easter-celebrations-after-attack-on-christian-town/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "syrias",
+      "churches",
+      "scale",
+      "back",
+      "easter",
+      "celebrations",
+      "after",
+      "attack",
+      "christian",
+      "town"
     ]
   }
 }
