@@ -1,117 +1,81 @@
 {
-  "BRA": {
+  "COD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.bostonglobe.com/2026/04/02/world/when-racism-is-crime-brazil-puts-tourist-trial-word-gesture/",
+    "top_news": "http://www.pambazuka.org/index.php/Assassins-Patrice-Lumumba-Trial",
     "event_codes": {
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "2026",
-      "world",
-      "when",
-      "racism",
-      "crime",
-      "brazil",
-      "puts",
-      "tourist",
-      "trial",
-      "word",
-      "gesture"
-    ]
-  },
-  "CMR": {
-    "risk_score": 3.3,
-    "count": 5,
-    "top_news": "https://cameroon-concord.com/politics/cameroun-ghost-towns-exile-diplomacy-and-a-spreading-post-election-crisis",
-    "event_codes": {
-      "16": 2,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "politics",
-      "cameroun",
-      "ghost",
-      "towns",
-      "exile",
-      "diplomacy",
-      "and",
-      "spreading",
-      "post",
-      "election",
-      "crisis"
+      "index.php",
+      "assassins",
+      "patrice",
+      "lumumba",
+      "trial"
     ]
   },
   "IRN": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://news.antiwar.com/2026/04/02/senior-iranian-official-involved-in-attempt-at-peace-talks-severely-wounded-by-us-israeli-strike/",
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.newkerala.com/news/a/us-withdraw-from-iran-two-three-weeks-as-404.htm",
     "event_codes": {
-      "19": 8,
-      "17": 2,
-      "20": 2,
-      "16": 1
+      "19": 3,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "senior",
-      "iranian",
-      "official",
-      "involved",
-      "attempt",
-      "peace",
-      "talks",
-      "severely",
-      "wounded",
-      "israeli",
-      "strike"
+      "news",
+      "withdraw",
+      "from",
+      "iran",
+      "two",
+      "three",
+      "weeks",
+      "404.htm"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://abcnews.com/International/american-journalist-abducted-iraq-trained-case-kidnapped-colleague/story?id=131653465",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "international",
+      "american",
+      "journalist",
+      "abducted",
+      "iraq",
+      "trained",
+      "case",
+      "kidnapped",
+      "colleague",
+      "story"
     ]
   },
   "ISR": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://news.antiwar.com/2026/04/02/israel-has-killed-at-least-713-palestinians-in-gaza-since-signing-trump-backed-ceasefire-deal-health-ministry/",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/opinion/singapore-must-stay-vigilant-for-spillover-security-risks-from-iran-war",
     "event_codes": {
-      "19": 8,
-      "17": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "israel",
-      "has",
-      "killed",
-      "least",
-      "713",
-      "palestinians",
-      "gaza",
-      "since",
-      "signing",
-      "trump",
-      "backed",
-      "ceasefire",
-      "deal",
-      "health",
-      "ministry"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://news.antiwar.com/2026/04/02/israeli-attacks-kill-at-least-27-in-lebanon-pm-sees-no-end-in-sight/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "attacks",
-      "kill",
-      "least",
-      "lebanon",
-      "sees",
-      "end",
-      "sight"
+      "opinion",
+      "singapore",
+      "must",
+      "stay",
+      "vigilant",
+      "for",
+      "spillover",
+      "security",
+      "risks",
+      "from",
+      "iran",
+      "war"
     ]
   }
 }
