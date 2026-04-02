@@ -1,66 +1,96 @@
 {
   "IRN": {
-    "risk_score": 13.22,
-    "count": 15,
-    "top_news": "https://www.ibtimes.com/iran-reportedly-executing-political-prisoners-war-israel-us-rages-3800778",
+    "risk_score": 13.16,
+    "count": 16,
+    "top_news": "https://americanisraelite.com/despite-cluster-challenge-israel-maintains-high-interception-rate-against-iranian-missiles/",
     "event_codes": {
       "19": 7,
-      "18": 3,
-      "14": 2,
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
-      "iran",
-      "reportedly",
-      "executing",
-      "political",
-      "prisoners",
-      "war",
-      "israel",
-      "rages",
-      "3800778"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.9,
-    "count": 10,
-    "top_news": "https://www.ibtimes.com/iran-reportedly-executing-political-prisoners-war-israel-us-rages-3800778",
-    "event_codes": {
-      "19": 8,
+      "17": 4,
+      "15": 3,
       "18": 2
     },
     "keywords": [
-      "iran",
-      "reportedly",
-      "executing",
-      "political",
-      "prisoners",
-      "war",
+      "despite",
+      "cluster",
+      "challenge",
       "israel",
-      "rages",
-      "3800778"
+      "maintains",
+      "high",
+      "interception",
+      "rate",
+      "against",
+      "iranian",
+      "missiles"
     ]
   },
-  "TUR": {
-    "risk_score": 4.17,
-    "count": 5,
-    "top_news": "https://www.warringtonguardian.co.uk/news/25992807.family-statements-reveal-impact-michele-kennedy-murder/",
+  "ISR": {
+    "risk_score": 16.25,
+    "count": 25,
+    "top_news": "https://americanisraelite.com/israel-briefs-march-27-april-2/",
     "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1,
-      "18": 1
+      "17": 9,
+      "16": 7,
+      "19": 6,
+      "14": 1,
+      "18": 1,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "25992807.family",
-      "statements",
-      "reveal",
-      "impact",
-      "michele",
-      "kennedy",
-      "murder"
+      "israel",
+      "briefs",
+      "march",
+      "april"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sana.sy/en/international/2307396/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "international",
+      "2307396"
+    ]
+  },
+  "NGA": {
+    "risk_score": 19.22,
+    "count": 22,
+    "top_news": "https://blueprint.ng/2027-oyo-central-battling-with-under-development-alli/",
+    "event_codes": {
+      "17": 7,
+      "19": 6,
+      "15": 5,
+      "18": 4
+    },
+    "keywords": [
+      "2027",
+      "oyo",
+      "central",
+      "battling",
+      "with",
+      "under",
+      "development",
+      "alli"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://africa.com/somali-army-seizes-baidoa-as-regional-leader-resigns/",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "somali",
+      "army",
+      "seizes",
+      "baidoa",
+      "regional",
+      "leader",
+      "resigns"
     ]
   }
 }
