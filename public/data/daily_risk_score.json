@@ -1,58 +1,110 @@
 {
   "IRN": {
-    "risk_score": 8.47,
-    "count": 9,
-    "top_news": "https://www.al-monitor.com/originals/2026/04/trump-announces-destruction-irans-tallest-bridge",
+    "risk_score": 7.05,
+    "count": 10,
+    "top_news": "https://www.tribuneindia.com/news/comment/trump-wants-to-reshape-iran/",
     "event_codes": {
-      "19": 5,
-      "18": 3,
-      "15": 1
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "trump",
-      "announces",
-      "destruction",
-      "irans",
-      "tallest",
-      "bridge"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.64,
-    "count": 7,
-    "top_news": "https://foxsanantonio.com/news/nation-world/us-issues-security-alert-for-americans-in-iraq-days-after-journalist-abducted-shelly-kittleson-kataib-hezbollah-iran-war-revolutionary-guard-middle-east",
-    "event_codes": {
-      "15": 2,
-      "18": 2,
-      "19": 2,
-      "16": 1
+      "17": 5,
+      "19": 3,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "nation",
-      "world",
-      "issues",
-      "security",
-      "alert",
-      "for",
-      "americans",
-      "iraq",
-      "days",
+      "comment",
+      "trump",
+      "wants",
+      "reshape",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.newkerala.com/news/a/irgc-launches-missile-strikes-tel-aviv-haifa-wave-326.htm",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "irgc",
+      "launches",
+      "missile",
+      "strikes",
+      "tel",
+      "aviv",
+      "haifa",
+      "wave",
+      "326.htm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 14.67,
+    "count": 17,
+    "top_news": "https://www.breitbart.com/africa/2026/04/02/nigeria-irate-mobs-attack-christian-community-after-palm-sunday-massacre/",
+    "event_codes": {
+      "19": 10,
+      "17": 3,
+      "16": 2,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "africa",
+      "2026",
+      "nigeria",
+      "irate",
+      "mobs",
+      "attack",
+      "christian",
+      "community",
       "after",
-      "journalist",
-      "abducted",
-      "shelly",
-      "kittleson",
-      "kataib",
-      "hezbollah",
-      "iran",
-      "war",
-      "revolutionary",
-      "guard",
-      "middle",
-      "east"
+      "palm",
+      "sunday",
+      "massacre"
+    ]
+  },
+  "SSD": {
+    "risk_score": 4.32,
+    "count": 5,
+    "top_news": "https://www.justiceinfo.net/en/157376-battered-s-sudan-at-critical-point-un-experts.html",
+    "event_codes": {
+      "19": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "157376",
+      "battered",
+      "sudan",
+      "critical",
+      "point",
+      "experts.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://www.breitbart.com/politics/2026/04/02/chicago-mayor-says-illegal-aliens-deserve-amnesty-in-wake-of-sheridan-gormans-murder/",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "chicago",
+      "mayor",
+      "says",
+      "illegal",
+      "aliens",
+      "deserve",
+      "amnesty",
+      "wake",
+      "sheridan",
+      "gormans",
+      "murder"
     ]
   }
 }
