@@ -1,103 +1,183 @@
 {
-  "BFA": {
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.newstribune.com/news/2026/apr/02/trump-says-iran-ceasefire-only-possible-when-hormuz-reopens/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "apr",
+      "trump",
+      "says",
+      "iran",
+      "ceasefire",
+      "only",
+      "possible",
+      "when",
+      "hormuz",
+      "reopens"
+    ]
+  },
+  "IRN": {
+    "risk_score": 19.9,
+    "count": 22,
+    "top_news": "http://www.newstribune.com/news/2026/apr/02/trump-says-iran-ceasefire-only-possible-when-hormuz-reopens/",
+    "event_codes": {
+      "19": 14,
+      "16": 5,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "apr",
+      "trump",
+      "says",
+      "iran",
+      "ceasefire",
+      "only",
+      "possible",
+      "when",
+      "hormuz",
+      "reopens"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.71,
+    "count": 20,
+    "top_news": "http://www.newstribune.com/news/2026/apr/02/trump-says-iran-ceasefire-only-possible-when-hormuz-reopens/",
+    "event_codes": {
+      "19": 14,
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "apr",
+      "trump",
+      "says",
+      "iran",
+      "ceasefire",
+      "only",
+      "possible",
+      "when",
+      "hormuz",
+      "reopens"
+    ]
+  },
+  "KEN": {
+    "risk_score": 6.84,
+    "count": 7,
+    "top_news": "https://www.standardmedia.co.ke/eastern/article/2001544434/jubilation-as-matungulu-girls-is-conferred-national-status",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "eastern",
+      "article",
+      "2001544434",
+      "jubilation",
+      "matungulu",
+      "girls",
+      "conferred",
+      "national",
+      "status"
+    ]
+  },
+  "LBN": {
+    "risk_score": 15.82,
+    "count": 16,
+    "top_news": "https://sana.sy/en/international/2307302/",
+    "event_codes": {
+      "19": 13,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "international",
+      "2307302"
+    ]
+  },
+  "LBY": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/over-1-800-killed-since-104157018.html",
+    "top_news": "https://dominicanrepublicpost.com/libyan-military-leader-may-have-combat-drones-despite-un-embargo/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "libyan",
+      "military",
+      "leader",
+      "may",
+      "have",
+      "combat",
+      "drones",
+      "despite",
+      "embargo"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dominicanrepublicpost.com/libyan-military-leader-may-have-combat-drones-despite-un-embargo/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "libyan",
+      "military",
+      "leader",
+      "may",
+      "have",
+      "combat",
+      "drones",
+      "despite",
+      "embargo"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.newstribune.com/news/2026/apr/02/commentary-two-deaths-zero-accountability/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "articles",
-      "over",
-      "800",
-      "killed",
-      "since",
-      "104157018.html"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.scmp.com/week-asia/lifestyle-culture/article/3348805/bali-rocked-spate-murder-cases-indonesian-island-more-dangerous-now",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "week",
-      "asia",
-      "lifestyle",
-      "culture",
-      "article",
-      "3348805",
-      "bali",
-      "rocked",
-      "spate",
-      "murder",
-      "cases",
-      "indonesian",
-      "island",
-      "more",
-      "dangerous",
-      "now"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.trend.az/iran/4170427.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "iran",
-      "4170427.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.advocate-news.com/2026/04/02/iran-us-israel-trump/",
-    "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
       "2026",
-      "iran",
-      "israel",
-      "trump"
+      "apr",
+      "commentary",
+      "two",
+      "deaths",
+      "zero",
+      "accountability"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.advocate-news.com/2026/04/02/iran-us-israel-trump/",
+  "ZWE": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://www.newzimbabwe.com/four-armed-robbers-shot-dead-in-shootout-with-police-officers/",
     "event_codes": {
-      "19": 3
+      "17": 3,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "israel",
-      "trump"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://thesun.ng/troops-dislodge-boko-haram-terrorists-in-borno/",
-    "event_codes": {
-      "17": 5,
-      "19": 5
-    },
-    "keywords": [
-      "troops",
-      "dislodge",
-      "boko",
-      "haram",
-      "terrorists",
-      "borno"
+      "four",
+      "armed",
+      "robbers",
+      "shot",
+      "dead",
+      "shootout",
+      "with",
+      "police",
+      "officers"
     ]
   }
 }
