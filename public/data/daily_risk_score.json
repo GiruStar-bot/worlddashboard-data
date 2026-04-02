@@ -1,110 +1,117 @@
 {
-  "IRN": {
-    "risk_score": 7.05,
-    "count": 10,
-    "top_news": "https://www.tribuneindia.com/news/comment/trump-wants-to-reshape-iran/",
-    "event_codes": {
-      "17": 5,
-      "19": 3,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "comment",
-      "trump",
-      "wants",
-      "reshape",
-      "iran"
-    ]
-  },
-  "ISR": {
+  "BRA": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.newkerala.com/news/a/irgc-launches-missile-strikes-tel-aviv-haifa-wave-326.htm",
+    "count": 2,
+    "top_news": "https://www.bostonglobe.com/2026/04/02/world/when-racism-is-crime-brazil-puts-tourist-trial-word-gesture/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "irgc",
-      "launches",
-      "missile",
-      "strikes",
-      "tel",
-      "aviv",
-      "haifa",
-      "wave",
-      "326.htm"
-    ]
-  },
-  "NGA": {
-    "risk_score": 14.67,
-    "count": 17,
-    "top_news": "https://www.breitbart.com/africa/2026/04/02/nigeria-irate-mobs-attack-christian-community-after-palm-sunday-massacre/",
-    "event_codes": {
-      "19": 10,
-      "17": 3,
-      "16": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "africa",
       "2026",
-      "nigeria",
-      "irate",
-      "mobs",
-      "attack",
-      "christian",
-      "community",
-      "after",
-      "palm",
-      "sunday",
-      "massacre"
+      "world",
+      "when",
+      "racism",
+      "crime",
+      "brazil",
+      "puts",
+      "tourist",
+      "trial",
+      "word",
+      "gesture"
     ]
   },
-  "SSD": {
-    "risk_score": 4.32,
+  "CMR": {
+    "risk_score": 3.3,
     "count": 5,
-    "top_news": "https://www.justiceinfo.net/en/157376-battered-s-sudan-at-critical-point-un-experts.html",
+    "top_news": "https://cameroon-concord.com/politics/cameroun-ghost-towns-exile-diplomacy-and-a-spreading-post-election-crisis",
     "event_codes": {
-      "19": 3,
-      "16": 1,
+      "16": 2,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "157376",
-      "battered",
-      "sudan",
-      "critical",
-      "point",
-      "experts.html"
+      "politics",
+      "cameroun",
+      "ghost",
+      "towns",
+      "exile",
+      "diplomacy",
+      "and",
+      "spreading",
+      "post",
+      "election",
+      "crisis"
     ]
   },
-  "VEN": {
-    "risk_score": 6.8,
-    "count": 7,
-    "top_news": "https://www.breitbart.com/politics/2026/04/02/chicago-mayor-says-illegal-aliens-deserve-amnesty-in-wake-of-sheridan-gormans-murder/",
+  "IRN": {
+    "risk_score": 11.4,
+    "count": 13,
+    "top_news": "https://news.antiwar.com/2026/04/02/senior-iranian-official-involved-in-attempt-at-peace-talks-severely-wounded-by-us-israeli-strike/",
     "event_codes": {
-      "19": 6,
-      "18": 1
+      "19": 8,
+      "17": 2,
+      "20": 2,
+      "16": 1
     },
     "keywords": [
-      "politics",
       "2026",
-      "chicago",
-      "mayor",
-      "says",
-      "illegal",
-      "aliens",
-      "deserve",
-      "amnesty",
-      "wake",
-      "sheridan",
-      "gormans",
-      "murder"
+      "senior",
+      "iranian",
+      "official",
+      "involved",
+      "attempt",
+      "peace",
+      "talks",
+      "severely",
+      "wounded",
+      "israeli",
+      "strike"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.5,
+    "count": 9,
+    "top_news": "https://news.antiwar.com/2026/04/02/israel-has-killed-at-least-713-palestinians-in-gaza-since-signing-trump-backed-ceasefire-deal-health-ministry/",
+    "event_codes": {
+      "19": 8,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "has",
+      "killed",
+      "least",
+      "713",
+      "palestinians",
+      "gaza",
+      "since",
+      "signing",
+      "trump",
+      "backed",
+      "ceasefire",
+      "deal",
+      "health",
+      "ministry"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.antiwar.com/2026/04/02/israeli-attacks-kill-at-least-27-in-lebanon-pm-sees-no-end-in-sight/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "attacks",
+      "kill",
+      "least",
+      "lebanon",
+      "sees",
+      "end",
+      "sight"
     ]
   }
 }
