@@ -1,70 +1,177 @@
 {
-  "BRA": {
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://townhall.com/tipsheet/jeff-charles/2026/04/02/iran-responds-to-trump-speech-with-more-threats-n2673842",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "tipsheet",
+      "jeff",
+      "charles",
+      "2026",
+      "iran",
+      "responds",
+      "trump",
+      "speech",
+      "with",
+      "more",
+      "threats",
+      "n2673842"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.92,
+    "count": 10,
+    "top_news": "https://www.israelnationalnews.com/news/424960",
+    "event_codes": {
+      "19": 9,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "424960"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.65,
+    "count": 11,
+    "top_news": "https://townhall.com/tipsheet/jeff-charles/2026/04/02/iran-responds-to-trump-speech-with-more-threats-n2673842",
+    "event_codes": {
+      "19": 8,
+      "20": 2,
+      "14": 1
+    },
+    "keywords": [
+      "tipsheet",
+      "jeff",
+      "charles",
+      "2026",
+      "iran",
+      "responds",
+      "trump",
+      "speech",
+      "with",
+      "more",
+      "threats",
+      "n2673842"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15702049/Moment-Irans-tallest-bridge-highest-Middle-East-blown-pieces-US-Israeli-airstrikes.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15702049",
+      "moment",
+      "irans",
+      "tallest",
+      "bridge",
+      "highest",
+      "middle",
+      "east",
+      "blown",
+      "pieces",
+      "israeli",
+      "airstrikes.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.channelstv.com/2026/04/02/kogi-records-major-drop-in-malaria-prevalence-commissioner/",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "kogi",
+      "records",
+      "major",
+      "drop",
+      "malaria",
+      "prevalence",
+      "commissioner"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theglobeandmail.com/opinion/article-israels-government-does-not-seem-to-care-what-the-world-thinks/",
+    "event_codes": {
+      "19": 1,
+      "20": 1
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "israels",
+      "government",
+      "does",
+      "not",
+      "seem",
+      "care",
+      "what",
+      "the",
+      "world",
+      "thinks"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.1,
+    "count": 6,
+    "top_news": "https://history.howstuffworks.com/world-history/who-is-iran-allies-with.htm",
+    "event_codes": {
+      "16": 5,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "history",
+      "who",
+      "iran",
+      "allies",
+      "with.htm"
+    ]
+  },
+  "TCD": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.eurasiareview.com/02042026-sudan-war-becomes-direct-security-threat-to-chad/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "02042026",
+      "sudan",
+      "war",
+      "becomes",
+      "direct",
+      "security",
+      "threat",
+      "chad"
+    ]
+  },
+  "TUR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.liverpoolecho.co.uk/news/uk-world-news/man-who-murdered-wirral-boxer-33708805",
+    "top_news": "https://www.eng.kavkaz-uzel.eu/articles/74153",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "man",
-      "who",
-      "murdered",
-      "wirral",
-      "boxer",
-      "33708805"
-    ]
-  },
-  "IRN": {
-    "risk_score": 8.84,
-    "count": 10,
-    "top_news": "https://www.newstatesman.com/international-politics/2026/04/how-would-a-us-ground-assault-on-iran-unfold",
-    "event_codes": {
-      "18": 4,
-      "19": 3,
-      "15": 2,
-      "16": 1
-    },
-    "keywords": [
-      "international",
-      "politics",
-      "2026",
-      "how",
-      "would",
-      "ground",
-      "assault",
-      "iran",
-      "unfold"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.9,
-    "count": 12,
-    "top_news": "https://www.odnako.org/pentagon-prepares-for-weeks-of-ground-operations-in-iran-tehran-threatens-us-universities-in-the-middle-east/",
-    "event_codes": {
-      "15": 4,
-      "19": 3,
-      "14": 2,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "pentagon",
-      "prepares",
-      "for",
-      "weeks",
-      "ground",
-      "operations",
-      "iran",
-      "tehran",
-      "threatens",
-      "universities",
-      "the",
-      "middle",
-      "east"
+      "articles",
+      "74153"
     ]
   }
 }
