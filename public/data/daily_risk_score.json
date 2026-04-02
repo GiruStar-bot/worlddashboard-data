@@ -1,74 +1,58 @@
 {
-  "BHR": {
-    "risk_score": 4.0,
-    "count": 8,
-    "top_news": "https://www.gdnonline.com:443/Details/1380316",
-    "event_codes": {
-      "17": 8
-    },
-    "keywords": [
-      "details",
-      "1380316"
-    ]
-  },
   "IRN": {
-    "risk_score": 11.22,
-    "count": 12,
-    "top_news": "https://www.spokesman.com/stories/2026/apr/02/iranians-reel-from-us-israeli-attacks-on-civilian-/",
+    "risk_score": 8.47,
+    "count": 9,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/trump-announces-destruction-irans-tallest-bridge",
     "event_codes": {
-      "19": 8,
-      "18": 2,
-      "16": 1,
-      "17": 1
+      "19": 5,
+      "18": 3,
+      "15": 1
     },
     "keywords": [
-      "stories",
+      "originals",
       "2026",
-      "apr",
-      "iranians",
-      "reel",
-      "from",
-      "israeli",
-      "attacks",
-      "civilian"
+      "trump",
+      "announces",
+      "destruction",
+      "irans",
+      "tallest",
+      "bridge"
     ]
   },
-  "ISR": {
-    "risk_score": 12.9,
-    "count": 14,
-    "top_news": "https://foreignpolicy.com/2026/04/02/hezbollah-israel-invasion-occupation-guerrilla-lebanon/",
+  "IRQ": {
+    "risk_score": 5.64,
+    "count": 7,
+    "top_news": "https://foxsanantonio.com/news/nation-world/us-issues-security-alert-for-americans-in-iraq-days-after-journalist-abducted-shelly-kittleson-kataib-hezbollah-iran-war-revolutionary-guard-middle-east",
     "event_codes": {
-      "19": 10,
+      "15": 2,
       "18": 2,
-      "16": 1,
-      "17": 1
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "2026",
+      "news",
+      "nation",
+      "world",
+      "issues",
+      "security",
+      "alert",
+      "for",
+      "americans",
+      "iraq",
+      "days",
+      "after",
+      "journalist",
+      "abducted",
+      "shelly",
+      "kittleson",
+      "kataib",
       "hezbollah",
-      "israel",
-      "invasion",
-      "occupation",
-      "guerrilla",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.nigerianeye.com/2026/04/this-wll-not-happen-again-tinubu.html",
-    "event_codes": {
-      "17": 3,
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "this",
-      "wll",
-      "not",
-      "happen",
-      "again",
-      "tinubu.html"
+      "iran",
+      "war",
+      "revolutionary",
+      "guard",
+      "middle",
+      "east"
     ]
   }
 }
