@@ -1,110 +1,139 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/world/5258333-israel-wary-sudden-trump-shift-despite-war-pledge",
+    "risk_score": 17.16,
+    "count": 18,
+    "top_news": "https://www.dailystar.co.uk/news/us-news/trump-mocks-weak-starmer-savage-36964476",
     "event_codes": {
-      "19": 2
+      "19": 15,
+      "15": 3
     },
     "keywords": [
-      "world",
-      "5258333",
-      "israel",
-      "wary",
-      "sudden",
+      "news",
+      "news",
       "trump",
-      "shift",
-      "despite",
-      "war",
-      "pledge"
+      "mocks",
+      "weak",
+      "starmer",
+      "savage",
+      "36964476"
     ]
   },
   "ISR": {
-    "risk_score": 12.4,
-    "count": 14,
-    "top_news": "https://www.jns.org/news/israel-news/iran-fires-missiles-at-central-israel-overnight",
+    "risk_score": 5.4,
+    "count": 8,
+    "top_news": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
     "event_codes": {
-      "19": 11,
-      "17": 3
+      "17": 4,
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "iran",
-      "fires",
-      "missiles",
-      "central",
-      "israel",
-      "overnight"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.capitalfm.co.ke/news/2026/04/sixteen-kenyans-missing-in-russia-after-army-recruitment/",
-    "event_codes": {
-      "14": 2,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
       "2026",
-      "sixteen",
-      "kenyans",
-      "missing",
-      "russia",
-      "after",
-      "army",
-      "recruitment"
+      "116314",
+      "iran",
+      "hits",
+      "gulf",
+      "refineries",
+      "trump",
+      "warns",
+      "will",
+      "attack",
+      "iranian",
+      "bridges",
+      "power",
+      "plants"
     ]
   },
-  "LBN": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.jns.org/news/israel-news/idf-over-3-500-targets-struck-some-1-000-hezbollah-terrorists-killed-in-lebanon",
-    "event_codes": {
-      "19": 4,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "idf",
-      "over",
-      "500",
-      "targets",
-      "struck",
-      "some",
-      "000",
-      "hezbollah",
-      "terrorists",
-      "killed",
-      "lebanon"
-    ]
-  },
-  "SGP": {
-    "risk_score": 3.5,
+  "KHM": {
+    "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://www.straitstimes.com/singapore/courts-crime/suspect-in-geylang-murder-brought-back-to-crime-scene",
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/04/03/duo-charged-with-murder-after-hiding-in-cambodia-for-4-years",
     "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "singapore",
-      "courts",
-      "crime",
-      "suspect",
-      "geylang",
+      "category",
+      "nation",
+      "2026",
+      "duo",
+      "charged",
+      "with",
       "murder",
-      "brought",
-      "back",
-      "crime",
-      "scene"
+      "after",
+      "hiding",
+      "cambodia",
+      "for",
+      "years"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "116314",
+      "iran",
+      "hits",
+      "gulf",
+      "refineries",
+      "trump",
+      "warns",
+      "will",
+      "attack",
+      "iranian",
+      "bridges",
+      "power",
+      "plants"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/04/03/duo-charged-with-murder-after-hiding-in-cambodia-for-4-years",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "duo",
+      "charged",
+      "with",
+      "murder",
+      "after",
+      "hiding",
+      "cambodia",
+      "for",
+      "years"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.thecable.ng/apc-to-adc-your-crisis-self-inflicted-desperation-for-power-got-you-here/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "apc",
+      "adc",
+      "your",
+      "crisis",
+      "self",
+      "inflicted",
+      "desperation",
+      "for",
+      "power",
+      "got",
+      "you",
+      "here"
     ]
   }
 }
