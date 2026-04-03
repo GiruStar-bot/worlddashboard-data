@@ -1,89 +1,125 @@
 {
   "BRA": {
-    "risk_score": 3.8,
-    "count": 6,
-    "top_news": "https://news.az/news/why-a-brazilian-lawmaker-is-targeting-israeli-military-entry",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.presstelegram.com/2026/04/03/an-army-reservists-body-was-never-found-now-an-la-jury-says-her-fiance-murdered-her/",
     "event_codes": {
-      "17": 3,
-      "19": 2,
-      "16": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "why",
-      "brazilian",
-      "lawmaker",
-      "targeting",
-      "israeli",
-      "military",
-      "entry"
+      "2026",
+      "army",
+      "reservists",
+      "body",
+      "was",
+      "never",
+      "found",
+      "now",
+      "jury",
+      "says",
+      "her",
+      "fiance",
+      "murdered",
+      "her"
+    ]
+  },
+  "EGY": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.aol.co.uk/articles/iran-claims-downed-us-fighter-133258107.html",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "articles",
+      "iran",
+      "claims",
+      "downed",
+      "fighter",
+      "133258107.html"
     ]
   },
   "IRN": {
-    "risk_score": 15.5,
-    "count": 16,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/india-commissions-third-nuclear-powered-submarine-ins-aridaman/articleshow/130007335.cms",
+    "risk_score": 7.22,
+    "count": 8,
+    "top_news": "https://www.krwg.org/national-news/2026-04-03/a-u-s-jet-goes-down-over-iran-a-u-s-official-confirms",
     "event_codes": {
-      "19": 15,
+      "19": 6,
+      "15": 1,
       "17": 1
     },
     "keywords": [
+      "national",
       "news",
-      "defence",
-      "india",
-      "commissions",
-      "third",
-      "nuclear",
-      "powered",
-      "submarine",
-      "ins",
-      "aridaman",
-      "articleshow",
-      "130007335.cms"
+      "2026",
+      "jet",
+      "goes",
+      "down",
+      "over",
+      "iran",
+      "official",
+      "confirms"
     ]
   },
   "ISR": {
-    "risk_score": 4.72,
-    "count": 7,
-    "top_news": "https://www.siasat.com/us-fighter-jet-downed-over-iran-as-conflict-widens-on-day-35-3446085/",
+    "risk_score": 9.37,
+    "count": 10,
+    "top_news": "https://www.thenation.com/article/world/netanyahu-war-iran-israel-diplomacy-critique/",
     "event_codes": {
-      "17": 4,
-      "19": 2,
+      "18": 5,
+      "19": 4,
       "15": 1
     },
     "keywords": [
-      "fighter",
-      "jet",
-      "downed",
-      "over",
+      "article",
+      "world",
+      "netanyahu",
+      "war",
       "iran",
-      "conflict",
-      "widens",
-      "day",
-      "3446085"
+      "israel",
+      "diplomacy",
+      "critique"
     ]
   },
-  "NGA": {
-    "risk_score": 7.3,
+  "JOR": {
+    "risk_score": 5.5,
     "count": 9,
-    "top_news": "https://blueprint.ng/this-is-not-my-handwriting-witness-in-owo-church-attack-trial-denies-statement-in-court/",
+    "top_news": "https://cajnewsafrica.com/2026/04/03/africa-must-resist-us-influence/",
     "event_codes": {
-      "17": 3,
-      "18": 3,
-      "19": 3
+      "17": 7,
+      "19": 2
     },
     "keywords": [
-      "this",
-      "not",
-      "handwriting",
-      "witness",
-      "owo",
-      "church",
-      "attack",
-      "trial",
-      "denies",
-      "statement",
-      "court"
+      "2026",
+      "africa",
+      "must",
+      "resist",
+      "influence"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://avweb.com/aviation-news/military-aviation/us-f-15e-shot-down-over-iran-one-crew-member-rescued/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "aviation",
+      "news",
+      "military",
+      "aviation",
+      "15e",
+      "shot",
+      "down",
+      "over",
+      "iran",
+      "one",
+      "crew",
+      "member",
+      "rescued"
     ]
   }
 }
