@@ -1,49 +1,120 @@
 {
   "IRN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://antonyloewenstein.com/the-antony-loewenstein-podcast-the-death-sentence-that-was-always-there/",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.rediff.com/news/report/eight-killed-95-injured-in-us-israeli-strikes-on-iran-bridge/20260403.htm",
     "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "the",
-      "antony",
-      "loewenstein",
-      "podcast",
-      "the",
-      "death",
-      "sentence",
-      "that",
-      "was",
-      "always",
-      "there"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.gmw.cn/2026-04/03/content_38689702.htm",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "content",
-      "38689702.htm"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.malaysiakini.com/news/771704",
-    "event_codes": {
-      "17": 4
+      "19": 8
     },
     "keywords": [
       "news",
-      "771704"
+      "report",
+      "eight",
+      "killed",
+      "injured",
+      "israeli",
+      "strikes",
+      "iran",
+      "bridge",
+      "20260403.htm"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/03/766243/Iraq-resistance-strikes-US-occupation-bases-in-six-operations-over-past-24-hours",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "766243",
+      "iraq",
+      "resistance",
+      "strikes",
+      "occupation",
+      "bases",
+      "six",
+      "operations",
+      "over",
+      "past",
+      "hours"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/03/766243/Iraq-resistance-strikes-US-occupation-bases-in-six-operations-over-past-24-hours",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "766243",
+      "iraq",
+      "resistance",
+      "strikes",
+      "occupation",
+      "bases",
+      "six",
+      "operations",
+      "over",
+      "past",
+      "hours"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/news/international/kuwait-oil-refinery-units-on-fire-after-drone-attack-state-media/article70818784.ece",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "international",
+      "kuwait",
+      "oil",
+      "refinery",
+      "units",
+      "fire",
+      "after",
+      "drone",
+      "attack",
+      "state",
+      "media",
+      "article70818784.ece"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theguardian.com/world/live/2026/apr/03/middle-east-crisis-live-trump-urges-iran-to-make-deal-after-bridge-strike",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "live",
+      "2026",
+      "apr",
+      "middle",
+      "east",
+      "crisis",
+      "live",
+      "trump",
+      "urges",
+      "iran",
+      "make",
+      "deal",
+      "after",
+      "bridge",
+      "strike"
     ]
   }
 }
