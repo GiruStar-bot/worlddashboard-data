@@ -1,120 +1,65 @@
 {
-  "BFA": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202604030092.html",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "stories",
-      "202604030092.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 11.99,
-    "count": 13,
-    "top_news": "https://www.moneycontrol.com/world/iran-claims-second-us-f-35-shot-down-over-central-tehran-article-13878938.html",
+    "risk_score": 7.9,
+    "count": 10,
+    "top_news": "https://metro.co.uk/2026/04/03/irans-tallest-bridge-collapses-seconds-us-israeli-air-strikes-peace-talks-27836922/",
     "event_codes": {
-      "19": 7,
-      "18": 3,
-      "17": 2,
+      "19": 6,
+      "17": 3,
       "16": 1
     },
     "keywords": [
-      "world",
-      "iran",
-      "claims",
-      "second",
-      "shot",
-      "down",
-      "over",
-      "central",
-      "tehran",
-      "article",
-      "13878938.html"
+      "2026",
+      "irans",
+      "tallest",
+      "bridge",
+      "collapses",
+      "seconds",
+      "israeli",
+      "air",
+      "strikes",
+      "peace",
+      "talks",
+      "27836922"
     ]
   },
   "ISR": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.the-messenger.com/news/world/article_3df6be91-97ed-5a2d-8c42-a8ced232746d.html",
+    "risk_score": 12.7,
+    "count": 21,
+    "top_news": "https://www.wsws.org/en/articles/2026/04/03/dghx-a03.html",
     "event_codes": {
-      "17": 3,
-      "19": 3
+      "17": 16,
+      "19": 3,
+      "14": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "article",
-      "3df6be91",
-      "97ed",
-      "5a2d",
-      "8c42",
-      "a8ced232746d.html"
-    ]
-  },
-  "KEN": {
-    "risk_score": 12.65,
-    "count": 13,
-    "top_news": "https://www.the-star.co.ke/news/2026-04-03-law-student-found-dead-in-rongai-hostel",
-    "event_codes": {
-      "18": 7,
-      "19": 6
-    },
-    "keywords": [
-      "news",
+      "articles",
       "2026",
-      "law",
-      "student",
-      "found",
-      "dead",
-      "rongai",
-      "hostel"
+      "dghx",
+      "a03.html"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.livemint.com/news/world/usiran-war-kuwait-international-airport-hit-by-drone-attacks-radar-system-severely-damaged-11774692106628.html",
+  "YEM": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://athens-times.com/trump-threatens-iran-with-new-strikes-make-a-deal-before-its-too-late/",
     "event_codes": {
-      "19": 2
+      "19": 8,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "usiran",
-      "war",
-      "kuwait",
-      "international",
-      "airport",
-      "hit",
-      "drone",
-      "attacks",
-      "radar",
-      "system",
-      "severely",
-      "damaged",
-      "11774692106628.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.97,
-    "count": 13,
-    "top_news": "https://dailytrust.com/gunmen-abduct-9-in-sokoto-community/",
-    "event_codes": {
-      "17": 5,
-      "19": 4,
-      "18": 3,
-      "15": 1
-    },
-    "keywords": [
-      "gunmen",
-      "abduct",
-      "sokoto",
-      "community"
+      "trump",
+      "threatens",
+      "iran",
+      "with",
+      "new",
+      "strikes",
+      "make",
+      "deal",
+      "before",
+      "its",
+      "too",
+      "late"
     ]
   }
 }
