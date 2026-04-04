@@ -1,52 +1,169 @@
 {
-  "IRN": {
-    "risk_score": 18.0,
-    "count": 19,
-    "top_news": "http://www.israelherald.com/news/278963274/uae-debris-from-aerial-interception-falls-onto-building-in-dubai-marina-no-injuries-reported",
+  "BHR": {
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "https://www.irishtimes.com/business/2026/04/04/darragh-obrien-needs-to-move-swiftly-to-fill-eight-senior-posts-at-daa/",
     "event_codes": {
-      "19": 17,
-      "17": 2
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "darragh",
+      "obrien",
+      "needs",
+      "move",
+      "swiftly",
+      "fill",
+      "eight",
+      "senior",
+      "posts",
+      "daa"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://countercurrents.org/2026/04/torture-and-degrading-treatment-the-case-of-dr-abu-safiya-and-gazas-broken-medical-system/",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "2026",
+      "torture",
+      "and",
+      "degrading",
+      "treatment",
+      "the",
+      "case",
+      "abu",
+      "safiya",
+      "and",
+      "gazas",
+      "broken",
+      "medical",
+      "system"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.2,
+    "count": 12,
+    "top_news": "https://www.thehindu.com/news/international/bahrain-cracks-down-on-dissent-as-iran-war-reignites-internal-unrest/article70822415.ece",
+    "event_codes": {
+      "19": 8,
+      "17": 4
     },
     "keywords": [
       "news",
-      "278963274",
-      "uae",
-      "debris",
-      "from",
-      "aerial",
-      "interception",
-      "falls",
-      "onto",
-      "building",
-      "dubai",
-      "marina",
-      "injuries",
-      "reported"
+      "international",
+      "bahrain",
+      "cracks",
+      "down",
+      "dissent",
+      "iran",
+      "war",
+      "reignites",
+      "internal",
+      "unrest",
+      "article70822415.ece"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "http://www.israelherald.com/news/278963274/uae-debris-from-aerial-interception-falls-onto-building-in-dubai-marina-no-injuries-reported",
+    "risk_score": 18.4,
+    "count": 19,
+    "top_news": "https://countercurrents.org/2026/04/torture-and-degrading-treatment-the-case-of-dr-abu-safiya-and-gazas-broken-medical-system/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 12,
+      "18": 6,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "torture",
+      "and",
+      "degrading",
+      "treatment",
+      "the",
+      "case",
+      "abu",
+      "safiya",
+      "and",
+      "gazas",
+      "broken",
+      "medical",
+      "system"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.52,
+    "count": 8,
+    "top_news": "https://www.thehindu.com/news/international/three-peacekeepers-wounded-in-lebanon-are-indonesian-un/article70822419.ece",
+    "event_codes": {
+      "18": 4,
+      "19": 3,
+      "15": 1
     },
     "keywords": [
       "news",
-      "278963274",
-      "uae",
-      "debris",
-      "from",
-      "aerial",
-      "interception",
-      "falls",
-      "onto",
-      "building",
-      "dubai",
-      "marina",
-      "injuries",
-      "reported"
+      "international",
+      "three",
+      "peacekeepers",
+      "wounded",
+      "lebanon",
+      "are",
+      "indonesian",
+      "article70822419.ece"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.opinionnigeria.com/uk-court-jails-man-for-life-over-murder-of-nigerian-woman/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "court",
+      "jails",
+      "man",
+      "for",
+      "life",
+      "over",
+      "murder",
+      "nigerian",
+      "woman"
+    ]
+  },
+  "SDN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.independent.ie/world-news/africa/sudanese-rebels-using-rape-as-a-weapon-of-war-in-a-pattern-of-deliberate-tactics-designed-to-humiliate-and-terrorise-says-ngo/a1445465098.html",
+    "event_codes": {
+      "18": 5,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "africa",
+      "sudanese",
+      "rebels",
+      "using",
+      "rape",
+      "weapon",
+      "war",
+      "pattern",
+      "deliberate",
+      "tactics",
+      "designed",
+      "humiliate",
+      "and",
+      "terrorise",
+      "says",
+      "ngo",
+      "a1445465098.html"
     ]
   }
 }
