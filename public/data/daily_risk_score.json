@@ -1,93 +1,118 @@
 {
-  "IDN": {
-    "risk_score": 3.9,
-    "count": 5,
-    "top_news": "https://en.antaranews.com/news/411117/indonesia-secures-airport-for-return-of-fallen-peacekeepers",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/278964153/uae-condemns-terrorist-attack-in-dr-congo",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "411117",
-      "indonesia",
-      "secures",
-      "airport",
-      "for",
-      "return",
-      "fallen",
-      "peacekeepers"
+      "278964153",
+      "uae",
+      "condemns",
+      "terrorist",
+      "attack",
+      "congo"
     ]
   },
   "IRN": {
-    "risk_score": 4.4,
-    "count": 7,
-    "top_news": "https://www.wokv.com/news/world/iran-says-strike-hit/BQ7P2SAK4Y3M7PGUQIW7GVCZGU/",
+    "risk_score": 11.8,
+    "count": 13,
+    "top_news": "https://www.euronews.com/2026/04/04/us-and-iran-race-to-find-missing-downed-pilot-as-lebanon-faces-intense-israeli-strikes",
     "event_codes": {
-      "17": 6,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "iran",
-      "says",
-      "strike",
-      "hit",
-      "bq7p2sak4y3m7pguqiw7gvczgu"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.5,
-    "count": 12,
-    "top_news": "https://english.wafa.ps/Pages/Details/168960",
-    "event_codes": {
-      "19": 7,
-      "17": 2,
-      "18": 2,
-      "14": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "168960"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "https://english.wafa.ps/Pages/Details/168964",
-    "event_codes": {
-      "19": 3,
+      "19": 10,
+      "16": 1,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "168964"
+      "2026",
+      "and",
+      "iran",
+      "race",
+      "find",
+      "missing",
+      "downed",
+      "pilot",
+      "lebanon",
+      "faces",
+      "intense",
+      "israeli",
+      "strikes"
     ]
   },
-  "TCD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.standardmedia.co.ke/national/article/2001544616/officers-in-kenyan-led-haiti-mission-linked-to-sexual-abuses",
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.news.cn/20260404/c3ca60a4e03b479eb1423b50fac022d6/c.html",
     "event_codes": {
-      "18": 2
+      "19": 5
     },
     "keywords": [
-      "national",
-      "article",
-      "2001544616",
-      "officers",
-      "kenyan",
-      "led",
-      "haiti",
-      "mission",
-      "linked",
-      "sexual",
-      "abuses"
+      "20260404",
+      "c3ca60a4e03b479eb1423b50fac022d6",
+      "c.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "http://www.bignewsnetwork.com/news/278964166/israeli-airstrikes-kill-14-in-southern-lebanon-strikes-hit-beirut-suburbs",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "278964166",
+      "israeli",
+      "airstrikes",
+      "kill",
+      "southern",
+      "lebanon",
+      "strikes",
+      "hit",
+      "beirut",
+      "suburbs"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.2,
+    "count": 5,
+    "top_news": "https://peoplesdailyng.com/alleged-attack-on-bishop-kukahs-residence-sokoto-catholic-cathedral-false-8-div/",
+    "event_codes": {
+      "16": 3,
+      "19": 2
+    },
+    "keywords": [
+      "alleged",
+      "attack",
+      "bishop",
+      "kukahs",
+      "residence",
+      "sokoto",
+      "catholic",
+      "cathedral",
+      "false",
+      "div"
+    ]
+  },
+  "TWN": {
+    "risk_score": 5.5,
+    "count": 11,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/05/2003855062",
+    "event_codes": {
+      "16": 6,
+      "14": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "taiwan",
+      "archives",
+      "2026",
+      "2003855062"
     ]
   }
 }
