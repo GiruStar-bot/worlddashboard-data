@@ -1,124 +1,139 @@
 {
-  "IRN": {
-    "risk_score": 8.4,
-    "count": 9,
-    "top_news": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-internal-memo-confirms-aws-centres-hit-in-dubai-and-bahrain-says-services-should-not-be-/articleshow/130016706.cms",
-    "event_codes": {
-      "19": 5,
-      "18": 3,
-      "17": 1
-    },
-    "keywords": [
-      "technology",
-      "tech",
-      "news",
-      "amazon",
-      "internal",
-      "memo",
-      "confirms",
-      "aws",
-      "centres",
-      "hit",
-      "dubai",
-      "and",
-      "bahrain",
-      "says",
-      "services",
-      "should",
-      "not",
-      "articleshow",
-      "130016706.cms"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://www.gdnonline.com:443/Details/1380431/Iraq-closes-Shalamcheh-crossing-with-Iran-after-airstrikes-kill-Iraqi",
-    "event_codes": {
-      "19": 6,
-      "16": 2
-    },
-    "keywords": [
-      "details",
-      "1380431",
-      "iraq",
-      "closes",
-      "shalamcheh",
-      "crossing",
-      "with",
-      "iran",
-      "after",
-      "airstrikes",
-      "kill",
-      "iraqi"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.32,
-    "count": 20,
-    "top_news": "https://english.wafa.ps/Pages/Details/168954",
-    "event_codes": {
-      "19": 14,
-      "18": 3,
-      "15": 1,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "168954"
-    ]
-  },
-  "PSE": {
-    "risk_score": 10.5,
-    "count": 11,
-    "top_news": "https://english.wafa.ps/Pages/Details/168958",
-    "event_codes": {
-      "18": 6,
-      "19": 5
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "168958"
-    ]
-  },
-  "SYR": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.middleeasteye.net/news/syrian-government-understating-kidnappings-alawite-women-report",
+    "top_news": "https://egyptianstreets.com/2026/04/04/petrojet-engineer-hossam-sadek-khalifa-becomes-first-egyptian-killed-in-iranian-attacks-on-uae/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "syrian",
-      "government",
-      "understating",
-      "kidnappings",
-      "alawite",
-      "women",
-      "report"
+      "2026",
+      "petrojet",
+      "engineer",
+      "hossam",
+      "sadek",
+      "khalifa",
+      "becomes",
+      "first",
+      "egyptian",
+      "killed",
+      "iranian",
+      "attacks",
+      "uae"
     ]
   },
-  "VNM": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/news/vietnam-israel-defence-ties-palestine-solidarity",
+  "IRN": {
+    "risk_score": 23.5,
+    "count": 26,
+    "top_news": "https://egyptianstreets.com/2026/04/04/petrojet-engineer-hossam-sadek-khalifa-becomes-first-egyptian-killed-in-iranian-attacks-on-uae/",
+    "event_codes": {
+      "19": 16,
+      "17": 9,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "petrojet",
+      "engineer",
+      "hossam",
+      "sadek",
+      "khalifa",
+      "becomes",
+      "first",
+      "egyptian",
+      "killed",
+      "iranian",
+      "attacks",
+      "uae"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/04/04/strike-kills-1-iraqi-fighter-near-syrian-border",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "category",
+      "world",
+      "2026",
+      "strike",
+      "kills",
+      "iraqi",
+      "fighter",
+      "near",
+      "syrian",
+      "border"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.68,
+    "count": 8,
+    "top_news": "https://www.boston.com/news/world-news/2026/04/04/us-presses-search-for-a-missing-serviceman-as-iran-calls-on-public-to-find-enemy-pilot/",
     "event_codes": {
       "16": 3,
-      "18": 2,
-      "17": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "news",
-      "vietnam",
-      "israel",
-      "defence",
-      "ties",
-      "palestine",
-      "solidarity"
+      "world",
+      "news",
+      "2026",
+      "presses",
+      "search",
+      "for",
+      "missing",
+      "serviceman",
+      "iran",
+      "calls",
+      "public",
+      "find",
+      "enemy",
+      "pilot"
+    ]
+  },
+  "MYS": {
+    "risk_score": 4.25,
+    "count": 5,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/04/04/two-held-for-diesel-smuggling-in-sandakan",
+    "event_codes": {
+      "19": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "2026",
+      "two",
+      "held",
+      "for",
+      "diesel",
+      "smuggling",
+      "sandakan"
+    ]
+  },
+  "NGA": {
+    "risk_score": 13.64,
+    "count": 14,
+    "top_news": "https://naija247news.com/11-killed-50-houses-burnt-in-fresh-nasarawa-attack-as-police-launch-manhunt/",
+    "event_codes": {
+      "19": 12,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "killed",
+      "houses",
+      "burnt",
+      "fresh",
+      "nasarawa",
+      "attack",
+      "police",
+      "launch",
+      "manhunt"
     ]
   }
 }
