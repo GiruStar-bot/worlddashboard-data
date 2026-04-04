@@ -1,184 +1,78 @@
 {
-  "ARE": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-506",
+  "IRN": {
+    "risk_score": 25.29,
+    "count": 28,
+    "top_news": "https://www.easternriverinachronicle.com.au/story/9214340/downed-planes-spell-peril-for-trump-as-iran-hunts-pilot/",
     "event_codes": {
+      "19": 21,
+      "17": 7
+    },
+    "keywords": [
+      "story",
+      "9214340",
+      "downed",
+      "planes",
+      "spell",
+      "peril",
+      "for",
+      "trump",
+      "iran",
+      "hunts",
+      "pilot"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.eng.kavkaz-uzel.eu/articles/74200",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "articles",
+      "74200"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.8,
+    "count": 10,
+    "top_news": "https://www.nationalaccordnewspaper.com/troops-arrest-fake-security-operatives-neutralize-terrorists-in-plateau-as-new-military-deployment-yields-results/",
+    "event_codes": {
+      "17": 5,
       "19": 4,
       "16": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "morning",
-      "update",
-      "506"
+      "troops",
+      "arrest",
+      "fake",
+      "security",
+      "operatives",
+      "neutralize",
+      "terrorists",
+      "plateau",
+      "new",
+      "military",
+      "deployment",
+      "yields",
+      "results"
     ]
   },
-  "BRA": {
-    "risk_score": 2.5,
+  "SAU": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.somersetlive.co.uk/news/local-news/killer-who-slaughtered-pair-remote-10901886",
+    "top_news": "https://propakistani.pk/2026/04/04/pakistani-national-executed-in-saudi-arabia/",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "local",
-      "news",
-      "killer",
-      "who",
-      "slaughtered",
-      "pair",
-      "remote",
-      "10901886"
-    ]
-  },
-  "COD": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/278963658/the-bilderberg-titan-on-trial-this-murder-waited-65-years-for-justice",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278963658",
-      "the",
-      "bilderberg",
-      "titan",
-      "trial",
-      "this",
-      "murder",
-      "waited",
-      "years",
-      "for",
-      "justice"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://en.antaranews.com/news/411085/indonesia-foils-reptile-smuggling-attempt-to-dubai",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "411085",
-      "indonesia",
-      "foils",
-      "reptile",
-      "smuggling",
-      "attempt",
-      "dubai"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.99,
-    "count": 7,
-    "top_news": "https://www.scmp.com/week-asia/economics/article/3348996/uae-squeezes-iranian-economic-lifeline-retaliation-attacks",
-    "event_codes": {
-      "19": 3,
-      "15": 2,
-      "14": 1,
+      "17": 2,
       "18": 1
     },
     "keywords": [
-      "week",
-      "asia",
-      "economics",
-      "article",
-      "3348996",
-      "uae",
-      "squeezes",
-      "iranian",
-      "economic",
-      "lifeline",
-      "retaliation",
-      "attacks"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hurriyetdailynews.com/syria-says-israeli-tank-fire-kills-man-in-countrys-south-220621",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "syria",
-      "says",
-      "israeli",
-      "tank",
-      "fire",
-      "kills",
-      "man",
-      "countrys",
-      "south",
-      "220621"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278963644/malaysian-regulators-join-forces-to-combat-online-scams",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278963644",
-      "malaysian",
-      "regulators",
-      "join",
-      "forces",
-      "combat",
-      "online",
-      "scams"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://promptnewsonline.com/troops-nab-suspected-boko-haram-logistics-operatives/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "troops",
-      "nab",
-      "suspected",
-      "boko",
-      "haram",
-      "logistics",
-      "operatives"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/syria-says-israeli-tank-fire-kills-man-in-countrys-south-220621",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "syria",
-      "says",
-      "israeli",
-      "tank",
-      "fire",
-      "kills",
-      "man",
-      "countrys",
-      "south",
-      "220621"
+      "2026",
+      "pakistani",
+      "national",
+      "executed",
+      "saudi",
+      "arabia"
     ]
   }
 }
