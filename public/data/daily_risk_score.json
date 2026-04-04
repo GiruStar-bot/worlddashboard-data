@@ -1,78 +1,148 @@
 {
+  "ARE": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.geo.tv/latest/658457-uae-death-toll-hits-10-as-intercepted-iranian-strikes-cause-deadly-debris",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "latest",
+      "658457",
+      "uae",
+      "death",
+      "toll",
+      "hits",
+      "intercepted",
+      "iranian",
+      "strikes",
+      "cause",
+      "deadly",
+      "debris"
+    ]
+  },
   "IRN": {
-    "risk_score": 25.29,
-    "count": 28,
-    "top_news": "https://www.easternriverinachronicle.com.au/story/9214340/downed-planes-spell-peril-for-trump-as-iran-hunts-pilot/",
+    "risk_score": 19.52,
+    "count": 21,
+    "top_news": "https://www.geo.tv/latest/658457-uae-death-toll-hits-10-as-intercepted-iranian-strikes-cause-deadly-debris",
     "event_codes": {
-      "19": 21,
-      "17": 7
-    },
-    "keywords": [
-      "story",
-      "9214340",
-      "downed",
-      "planes",
-      "spell",
-      "peril",
-      "for",
-      "trump",
-      "iran",
-      "hunts",
-      "pilot"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.eng.kavkaz-uzel.eu/articles/74200",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "articles",
-      "74200"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.8,
-    "count": 10,
-    "top_news": "https://www.nationalaccordnewspaper.com/troops-arrest-fake-security-operatives-neutralize-terrorists-in-plateau-as-new-military-deployment-yields-results/",
-    "event_codes": {
-      "17": 5,
-      "19": 4,
+      "19": 15,
+      "18": 3,
+      "17": 2,
       "16": 1
     },
     "keywords": [
-      "troops",
-      "arrest",
-      "fake",
-      "security",
-      "operatives",
-      "neutralize",
-      "terrorists",
-      "plateau",
-      "new",
-      "military",
-      "deployment",
-      "yields",
-      "results"
+      "latest",
+      "658457",
+      "uae",
+      "death",
+      "toll",
+      "hits",
+      "intercepted",
+      "iranian",
+      "strikes",
+      "cause",
+      "deadly",
+      "debris"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://propakistani.pk/2026/04/04/pakistani-national-executed-in-saudi-arabia/",
+  "ISR": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://countercurrents.org/2026/04/executing-with-prejudice-israels-death-penalty-law/",
     "event_codes": {
-      "17": 2,
-      "18": 1
+      "18": 2,
+      "19": 2
     },
     "keywords": [
       "2026",
-      "pakistani",
-      "national",
-      "executed",
-      "saudi",
-      "arabia"
+      "executing",
+      "with",
+      "prejudice",
+      "israels",
+      "death",
+      "penalty",
+      "law"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/the-world-this-week-us-iran-ground-invasion-trump-hormuz-blockade-myanmar-president-election-10618164/",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "article",
+      "upsc",
+      "current",
+      "affairs",
+      "upsc",
+      "essentials",
+      "the",
+      "world",
+      "this",
+      "week",
+      "iran",
+      "ground",
+      "invasion",
+      "trump",
+      "hormuz",
+      "blockade",
+      "myanmar",
+      "president",
+      "election",
+      "10618164"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/the-world-this-week-us-iran-ground-invasion-trump-hormuz-blockade-myanmar-president-election-10618164/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "upsc",
+      "current",
+      "affairs",
+      "upsc",
+      "essentials",
+      "the",
+      "world",
+      "this",
+      "week",
+      "iran",
+      "ground",
+      "invasion",
+      "trump",
+      "hormuz",
+      "blockade",
+      "myanmar",
+      "president",
+      "election",
+      "10618164"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.hurriyetdailynews.com/over-1-million-irregular-migrants-apprehended-in-turkiye-in-five-years-220629",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "over",
+      "million",
+      "irregular",
+      "migrants",
+      "apprehended",
+      "turkiye",
+      "five",
+      "years",
+      "220629"
     ]
   }
 }
