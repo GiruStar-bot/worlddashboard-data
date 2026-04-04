@@ -1,75 +1,93 @@
 {
-  "IRN": {
-    "risk_score": 22.25,
-    "count": 27,
-    "top_news": "https://www.thehindu.com/news/international/for-trump-the-cost-of-iran-war-is-rising/article70823412.ece",
+  "IDN": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://en.antaranews.com/news/411117/indonesia-secures-airport-for-return-of-fallen-peacekeepers",
     "event_codes": {
-      "19": 16,
-      "16": 5,
-      "17": 3,
-      "18": 3
+      "17": 2,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "international",
+      "411117",
+      "indonesia",
+      "secures",
+      "airport",
       "for",
-      "trump",
-      "the",
-      "cost",
+      "return",
+      "fallen",
+      "peacekeepers"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.4,
+    "count": 7,
+    "top_news": "https://www.wokv.com/news/world/iran-says-strike-hit/BQ7P2SAK4Y3M7PGUQIW7GVCZGU/",
+    "event_codes": {
+      "17": 6,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
       "iran",
-      "war",
-      "rising",
-      "article70823412.ece"
+      "says",
+      "strike",
+      "hit",
+      "bq7p2sak4y3m7pguqiw7gvczgu"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-892034",
+    "risk_score": 10.5,
+    "count": 12,
+    "top_news": "https://english.wafa.ps/Pages/Details/168960",
     "event_codes": {
-      "19": 4
+      "19": 7,
+      "17": 2,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "892034"
+      "pages",
+      "details",
+      "168960"
     ]
   },
   "LBN": {
-    "risk_score": 4.4,
+    "risk_score": 4.45,
     "count": 5,
-    "top_news": "https://www.spacewar.com/afp/260404132850.30g4eze0.html",
+    "top_news": "https://english.wafa.ps/Pages/Details/168964",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "afp",
-      "260404132850.30g4eze0.html"
+      "pages",
+      "details",
+      "168964"
     ]
   },
-  "SAU": {
+  "TCD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thehindu.com/news/international/for-trump-the-cost-of-iran-war-is-rising/article70823412.ece",
+    "top_news": "https://www.standardmedia.co.ke/national/article/2001544616/officers-in-kenyan-led-haiti-mission-linked-to-sexual-abuses",
     "event_codes": {
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "news",
-      "international",
-      "for",
-      "trump",
-      "the",
-      "cost",
-      "iran",
-      "war",
-      "rising",
-      "article70823412.ece"
+      "national",
+      "article",
+      "2001544616",
+      "officers",
+      "kenyan",
+      "led",
+      "haiti",
+      "mission",
+      "linked",
+      "sexual",
+      "abuses"
     ]
   }
 }
