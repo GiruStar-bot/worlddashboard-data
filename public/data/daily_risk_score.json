@@ -1,80 +1,107 @@
 {
   "IRN": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.cbsnews.com/news/ex-iranian-guard-leader-soleimani-family-ice-custody/",
+    "risk_score": 13.52,
+    "count": 15,
+    "top_news": "https://www.newsghana.com.gh/iran-war-at-six-weeks-a-shifting-conflict-with-global-consequences/",
     "event_codes": {
-      "19": 7,
-      "18": 1
+      "19": 9,
+      "17": 3,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "iranian",
-      "guard",
-      "leader",
-      "soleimani",
-      "family",
-      "ice",
-      "custody"
+      "iran",
+      "war",
+      "six",
+      "weeks",
+      "shifting",
+      "conflict",
+      "with",
+      "global",
+      "consequences"
     ]
   },
   "ISR": {
-    "risk_score": 3.95,
-    "count": 5,
-    "top_news": "https://armenianweekly.com/2026/04/02/why-do-some-jews-in-israel/",
+    "risk_score": 20.05,
+    "count": 23,
+    "top_news": "https://www.spacewar.com/afp/260404182406.pyy5zt2f.html",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
+      "19": 14,
+      "14": 4,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
-      "2026",
-      "why",
-      "some",
-      "jews",
-      "israel"
+      "afp",
+      "260404182406.pyy5zt2f.html"
     ]
   },
-  "NGA": {
+  "LBN": {
     "risk_score": 4.5,
     "count": 5,
-    "top_news": "https://www.vanguardngr.com/2026/04/jos-killings-protect-lives-or-step-aside-pfn-tells-fg/",
+    "top_news": "https://www.rnz.co.nz/news/world/591526/trump-warns-iran-has-48-hours-to-make-a-deal-hunt-goes-on-for-missing-us-pilot",
     "event_codes": {
       "19": 4,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "jos",
-      "killings",
-      "protect",
-      "lives",
-      "step",
-      "aside",
-      "pfn",
-      "tells"
+      "news",
+      "world",
+      "591526",
+      "trump",
+      "warns",
+      "iran",
+      "has",
+      "hours",
+      "make",
+      "deal",
+      "hunt",
+      "goes",
+      "for",
+      "missing",
+      "pilot"
     ]
   },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://siouxlandnews.com/news/nation-world/trump-syria-attack-very-soon-or-not-so-soon-at-all-04-12-2018",
+  "SAU": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.newsghana.com.gh/iran-strikes-tech-infrastructure-after-threatening-nvidia-apple-and-google/",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "nation",
-      "world",
-      "trump",
-      "syria",
-      "attack",
-      "very",
-      "soon",
-      "not",
-      "soon",
-      "all",
-      "2018"
+      "iran",
+      "strikes",
+      "tech",
+      "infrastructure",
+      "after",
+      "threatening",
+      "nvidia",
+      "apple",
+      "and",
+      "google"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.45,
+    "count": 6,
+    "top_news": "https://cyprus-mail.com/2026/04/04/jailed-istanbul-mayor-defends-self-over-makarios-statue-accusation",
+    "event_codes": {
+      "14": 3,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "jailed",
+      "istanbul",
+      "mayor",
+      "defends",
+      "self",
+      "over",
+      "makarios",
+      "statue",
+      "accusation"
     ]
   }
 }
