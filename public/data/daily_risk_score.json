@@ -1,118 +1,93 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278964153/uae-condemns-terrorist-attack-in-dr-congo",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278964153",
-      "uae",
-      "condemns",
-      "terrorist",
-      "attack",
-      "congo"
-    ]
-  },
   "IRN": {
-    "risk_score": 11.8,
-    "count": 13,
-    "top_news": "https://www.euronews.com/2026/04/04/us-and-iran-race-to-find-missing-downed-pilot-as-lebanon-faces-intense-israeli-strikes",
+    "risk_score": 10.0,
+    "count": 16,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/04/us-revokes-green-cards-and-visas-of-several-iranian-nationals-connected-to-tehran-government",
     "event_codes": {
-      "19": 10,
-      "16": 1,
-      "17": 1,
+      "17": 11,
+      "19": 3,
+      "14": 1,
       "18": 1
     },
     "keywords": [
+      "world",
       "2026",
+      "revokes",
+      "green",
+      "cards",
       "and",
-      "iran",
-      "race",
-      "find",
-      "missing",
-      "downed",
-      "pilot",
-      "lebanon",
-      "faces",
-      "intense",
-      "israeli",
-      "strikes"
+      "visas",
+      "several",
+      "iranian",
+      "nationals",
+      "connected",
+      "tehran",
+      "government"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://english.news.cn/20260404/c3ca60a4e03b479eb1423b50fac022d6/c.html",
+    "risk_score": 5.95,
+    "count": 7,
+    "top_news": "http://www.russiaherald.com/news/278962565/iran-detains-leading-iranian-human-rights-lawyer-nasrin-sotoudeh",
     "event_codes": {
-      "19": 5
+      "17": 3,
+      "18": 2,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "20260404",
-      "c3ca60a4e03b479eb1423b50fac022d6",
-      "c.html"
+      "news",
+      "278962565",
+      "iran",
+      "detains",
+      "leading",
+      "iranian",
+      "human",
+      "rights",
+      "lawyer",
+      "nasrin",
+      "sotoudeh"
     ]
   },
   "LBN": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "http://www.bignewsnetwork.com/news/278964166/israeli-airstrikes-kill-14-in-southern-lebanon-strikes-hit-beirut-suburbs",
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://cyprus-mail.com/2026/04/04/regional-firefighting-hub-in-cyprus-to-be-inaugurated-this-month",
     "event_codes": {
-      "18": 3,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "278964166",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "southern",
-      "lebanon",
-      "strikes",
-      "hit",
-      "beirut",
-      "suburbs"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://peoplesdailyng.com/alleged-attack-on-bishop-kukahs-residence-sokoto-catholic-cathedral-false-8-div/",
-    "event_codes": {
-      "16": 3,
-      "19": 2
-    },
-    "keywords": [
-      "alleged",
-      "attack",
-      "bishop",
-      "kukahs",
-      "residence",
-      "sokoto",
-      "catholic",
-      "cathedral",
-      "false",
-      "div"
-    ]
-  },
-  "TWN": {
-    "risk_score": 5.5,
-    "count": 11,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/05/2003855062",
-    "event_codes": {
-      "16": 6,
-      "14": 4,
+      "19": 6,
       "17": 1
     },
     "keywords": [
-      "news",
-      "taiwan",
-      "archives",
       "2026",
-      "2003855062"
+      "regional",
+      "firefighting",
+      "hub",
+      "cyprus",
+      "inaugurated",
+      "this",
+      "month"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ghanamma.com/2026/04/04/stanbic-ibtc-unveils-sustainable-growth-agenda-at-nigeria-business-summit-tech-business/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "stanbic",
+      "ibtc",
+      "unveils",
+      "sustainable",
+      "growth",
+      "agenda",
+      "nigeria",
+      "business",
+      "summit",
+      "tech",
+      "business"
     ]
   }
 }
