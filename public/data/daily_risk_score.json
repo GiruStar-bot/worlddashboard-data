@@ -1,28 +1,117 @@
 {
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.lankaweb.com/news/items/2026/04/04/easter-sunday-20019-to-iris-dena-2026-the-weaponization-of-religion-in-the-indian-ocean-world/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://kfgo.com/2026/04/04/us-agents-arrest-niece-of-irans-qassem-soleimani-after-rubio-revoked-green-card/",
     "event_codes": {
-      "19": 3
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "agents",
+      "arrest",
+      "niece",
+      "irans",
+      "qassem",
+      "soleimani",
+      "after",
+      "rubio",
+      "revoked",
+      "green",
+      "card"
+    ]
+  },
+  "IRN": {
+    "risk_score": 30.59,
+    "count": 40,
+    "top_news": "http://www.cambodiantimes.com/news/278964427/will-be-a-big-relief-former-diplomat-manju-seth-hails-indian-lpg-tanker-transit-through-strait-of-hormuz",
+    "event_codes": {
+      "19": 18,
+      "17": 14,
+      "18": 3,
+      "15": 2,
+      "16": 2,
+      "14": 1
     },
     "keywords": [
       "news",
-      "items",
-      "2026",
-      "easter",
-      "sunday",
-      "20019",
-      "iris",
-      "dena",
-      "2026",
-      "the",
-      "weaponization",
-      "religion",
-      "the",
+      "278964427",
+      "will",
+      "big",
+      "relief",
+      "former",
+      "diplomat",
+      "manju",
+      "seth",
+      "hails",
       "indian",
-      "ocean",
-      "world"
+      "lpg",
+      "tanker",
+      "transit",
+      "through",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260404200127.91hj9dgo.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "afp",
+      "260404200127.91hj9dgo.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.8,
+    "count": 12,
+    "top_news": "https://www.spacewar.com/afp/260404224009.bcg61qni.html",
+    "event_codes": {
+      "19": 8,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "afp",
+      "260404224009.bcg61qni.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://www.spacewar.com/afp/260404224009.bcg61qni.html",
+    "event_codes": {
+      "16": 2,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "afp",
+      "260404224009.bcg61qni.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.thecable.ng/lere-olayinka-wike-didnt-intend-to-shoot-seun-okinbaloye-comment-was-hyperbolic/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "lere",
+      "olayinka",
+      "wike",
+      "didnt",
+      "intend",
+      "shoot",
+      "seun",
+      "okinbaloye",
+      "comment",
+      "was",
+      "hyperbolic"
     ]
   }
 }
