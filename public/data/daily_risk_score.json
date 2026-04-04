@@ -1,63 +1,168 @@
 {
-  "IRN": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://www.mid-day.com/news/world-news/article/west-asia-war-debris-from-aerial-interception-hits-oracle-building-in-dubai-internet-city-no-injuries-reported-23624105",
-    "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "article",
-      "west",
-      "asia",
-      "war",
-      "debris",
-      "from",
-      "aerial",
-      "interception",
-      "hits",
-      "oracle",
-      "building",
-      "dubai",
-      "internet",
-      "city",
-      "injuries",
-      "reported",
-      "23624105"
-    ]
-  },
-  "ISR": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.mid-day.com/news/world-news/article/west-asia-war-debris-from-aerial-interception-hits-oracle-building-in-dubai-internet-city-no-injuries-reported-23624105",
+    "top_news": "https://www.dailysabah.com/world/mid-east/iran-says-it-struck-israel-linked-ship-in-hormuz-strait",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
       "world",
+      "mid",
+      "east",
+      "iran",
+      "says",
+      "struck",
+      "israel",
+      "linked",
+      "ship",
+      "hormuz",
+      "strait"
+    ]
+  },
+  "IRN": {
+    "risk_score": 17.3,
+    "count": 18,
+    "top_news": "https://theconversation.com/us-and-iran-a-brief-history-of-how-decades-of-mistrust-and-bad-blood-led-to-open-warfare-279712",
+    "event_codes": {
+      "19": 15,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "and",
+      "iran",
+      "brief",
+      "history",
+      "how",
+      "decades",
+      "mistrust",
+      "and",
+      "bad",
+      "blood",
+      "led",
+      "open",
+      "warfare",
+      "279712"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.jns.org/news/u-s-news/search-ongoing-for-us-f-15-crew-member-missing-in-iran",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "news",
+      "news",
+      "search",
+      "ongoing",
+      "for",
+      "crew",
+      "member",
+      "missing",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.68,
+    "count": 27,
+    "top_news": "https://www.jns.org/feature/israels-north-stays-strong-under-hezbollah-assault",
+    "event_codes": {
+      "19": 15,
+      "18": 8,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "feature",
+      "israels",
+      "north",
+      "stays",
+      "strong",
+      "under",
+      "hezbollah",
+      "assault"
+    ]
+  },
+  "LBN": {
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://www.islamicinvitationturkey.com/hezbollah-rockets-strike-israeli-settlements-military-gatherings-and-infrastructure/",
+    "event_codes": {
+      "19": 16
+    },
+    "keywords": [
+      "hezbollah",
+      "rockets",
+      "strike",
+      "israeli",
+      "settlements",
+      "military",
+      "gatherings",
+      "and",
+      "infrastructure"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.4,
+    "count": 5,
+    "top_news": "https://dailypost.ng/2026/04/04/army-arrests-suspected-kidnapping-kingpin-in-adamawa/",
+    "event_codes": {
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "army",
+      "arrests",
+      "suspected",
+      "kidnapping",
+      "kingpin",
+      "adamawa"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.67,
+    "count": 9,
+    "top_news": "https://imemc.org/article/army-conducts-widespread-invasions-abductions-across-west-bank/",
+    "event_codes": {
+      "18": 6,
+      "15": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
       "article",
+      "army",
+      "conducts",
+      "widespread",
+      "invasions",
+      "abductions",
+      "across",
       "west",
-      "asia",
-      "war",
-      "debris",
-      "from",
-      "aerial",
-      "interception",
-      "hits",
-      "oracle",
-      "building",
-      "dubai",
-      "internet",
-      "city",
-      "injuries",
-      "reported",
-      "23624105"
+      "bank"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.moneycontrol.com/world/what-is-csar-inside-us-militarys-riskiest-rescue-mission-article-13880056.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "what",
+      "csar",
+      "inside",
+      "militarys",
+      "riskiest",
+      "rescue",
+      "mission",
+      "article",
+      "13880056.html"
     ]
   }
 }
