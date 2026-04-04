@@ -1,93 +1,151 @@
 {
   "IRN": {
-    "risk_score": 10.0,
-    "count": 16,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/04/us-revokes-green-cards-and-visas-of-several-iranian-nationals-connected-to-tehran-government",
+    "risk_score": 26.35,
+    "count": 33,
+    "top_news": "https://www.ckom.com/2026/04/04/iran-calls-on-public-to-find-enemy-pilot-as-u-s-continues-frantic-search/",
     "event_codes": {
-      "17": 11,
-      "19": 3,
-      "14": 1,
-      "18": 1
+      "17": 13,
+      "19": 13,
+      "18": 7
     },
     "keywords": [
-      "world",
       "2026",
-      "revokes",
-      "green",
-      "cards",
-      "and",
-      "visas",
-      "several",
-      "iranian",
-      "nationals",
-      "connected",
-      "tehran",
-      "government"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.95,
-    "count": 7,
-    "top_news": "http://www.russiaherald.com/news/278962565/iran-detains-leading-iranian-human-rights-lawyer-nasrin-sotoudeh",
-    "event_codes": {
-      "17": 3,
-      "18": 2,
-      "14": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "278962565",
       "iran",
-      "detains",
-      "leading",
-      "iranian",
-      "human",
-      "rights",
-      "lawyer",
-      "nasrin",
-      "sotoudeh"
+      "calls",
+      "public",
+      "find",
+      "enemy",
+      "pilot",
+      "continues",
+      "frantic",
+      "search"
     ]
   },
-  "LBN": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://cyprus-mail.com/2026/04/04/regional-firefighting-hub-in-cyprus-to-be-inaugurated-this-month",
-    "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "regional",
-      "firefighting",
-      "hub",
-      "cyprus",
-      "inaugurated",
-      "this",
-      "month"
-    ]
-  },
-  "NGA": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.ghanamma.com/2026/04/04/stanbic-ibtc-unveils-sustainable-growth-agenda-at-nigeria-business-summit-tech-business/",
+    "top_news": "https://www.marketscreener.com/news/us-agents-arrest-relatives-of-iran-s-qassem-soleimani-after-revoking-their-green-cards-ce7e51d2dd8ff126",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "stanbic",
-      "ibtc",
-      "unveils",
-      "sustainable",
-      "growth",
-      "agenda",
-      "nigeria",
-      "business",
-      "summit",
-      "tech",
-      "business"
+      "news",
+      "agents",
+      "arrest",
+      "relatives",
+      "iran",
+      "qassem",
+      "soleimani",
+      "after",
+      "revoking",
+      "their",
+      "green",
+      "cards",
+      "ce7e51d2dd8ff126"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.5,
+    "count": 17,
+    "top_news": "https://www.aa.com.tr/en/middle-east/11-killed-in-israeli-strikes-across-southern-lebanon/3891920",
+    "event_codes": {
+      "19": 13,
+      "17": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "killed",
+      "israeli",
+      "strikes",
+      "across",
+      "southern",
+      "lebanon",
+      "3891920"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.85,
+    "count": 7,
+    "top_news": "https://www.aa.com.tr/en/middle-east/11-killed-in-israeli-strikes-across-southern-lebanon/3891920",
+    "event_codes": {
+      "19": 4,
+      "18": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "killed",
+      "israeli",
+      "strikes",
+      "across",
+      "southern",
+      "lebanon",
+      "3891920"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.aa.com.tr/en/africa/at-least-9-al-shabaab-terrorists-killed-during-intelligence-operation-in-somalia/3891854",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "africa",
+      "least",
+      "shabaab",
+      "terrorists",
+      "killed",
+      "during",
+      "intelligence",
+      "operation",
+      "somalia",
+      "3891854"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.aa.com.tr/en/middle-east/3-killed-several-injured-in-us-israeli-attack-in-western-iranian-province/3891918",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "killed",
+      "several",
+      "injured",
+      "israeli",
+      "attack",
+      "western",
+      "iranian",
+      "province",
+      "3891918"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://krcgtv.com/news/nation-world/russia-plans-to-send-second-oil-tanker-to-cuba",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "world",
+      "russia",
+      "plans",
+      "send",
+      "second",
+      "oil",
+      "tanker",
+      "cuba"
     ]
   }
 }
