@@ -1,38 +1,75 @@
 {
   "IRN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-boasts-70-irans-steel-production-capacity-destroyed",
+    "risk_score": 22.25,
+    "count": 27,
+    "top_news": "https://www.thehindu.com/news/international/for-trump-the-cost-of-iran-war-is-rising/article70823412.ece",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 16,
+      "16": 5,
+      "17": 3,
+      "18": 3
     },
     "keywords": [
-      "geopolitical",
-      "netanyahu",
-      "boasts",
-      "irans",
-      "steel",
-      "production",
-      "capacity",
-      "destroyed"
+      "news",
+      "international",
+      "for",
+      "trump",
+      "the",
+      "cost",
+      "iran",
+      "war",
+      "rising",
+      "article70823412.ece"
     ]
   },
-  "NGA": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://www.thecable.ng/11-killed-50-houses-burnt-in-communal-clash-in-nasarawa/",
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-892034",
     "event_codes": {
-      "19": 8,
+      "19": 4
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "892034"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.spacewar.com/afp/260404132850.30g4eze0.html",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "killed",
-      "houses",
-      "burnt",
-      "communal",
-      "clash",
-      "nasarawa"
+      "afp",
+      "260404132850.30g4eze0.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thehindu.com/news/international/for-trump-the-cost-of-iran-war-is-rising/article70823412.ece",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "for",
+      "trump",
+      "the",
+      "cost",
+      "iran",
+      "war",
+      "rising",
+      "article70823412.ece"
     ]
   }
 }
