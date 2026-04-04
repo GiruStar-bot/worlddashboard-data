@@ -1,85 +1,88 @@
 {
   "BHR": {
-    "risk_score": 4.3,
-    "count": 7,
-    "top_news": "https://www.gdnonline.com:443/Details/1380460",
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1380460/Rude-passenger%E2%80%99s-sentence-cut-in-assault-case",
     "event_codes": {
-      "17": 5,
-      "18": 2
+      "17": 3,
+      "18": 1
     },
     "keywords": [
       "details",
-      "1380460"
+      "1380460",
+      "rude",
+      "passenger%e2%80%99s",
+      "sentence",
+      "cut",
+      "assault",
+      "case"
     ]
   },
   "IRN": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "https://english.news.cn/20260405/9537909649694b29917b678640f51a88/c.html",
+    "risk_score": 10.25,
+    "count": 11,
+    "top_news": "https://www.lbc.co.uk/article/iran-war-us-trump-warning-peace-talks-5HjdXKz_2/",
     "event_codes": {
-      "19": 7,
-      "17": 1
+      "19": 8,
+      "14": 2,
+      "18": 1
     },
     "keywords": [
-      "20260405",
-      "9537909649694b29917b678640f51a88",
-      "c.html"
+      "article",
+      "iran",
+      "war",
+      "trump",
+      "warning",
+      "peace",
+      "talks",
+      "5hjdxkz"
     ]
   },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260405/9537909649694b29917b678640f51a88/c.html",
+  "ISR": {
+    "risk_score": 4.6,
+    "count": 7,
+    "top_news": "https://wsau.com/2026/04/04/downed-planes-spell-new-peril-for-trump-as-tehran-hunts-missing-us-pilot/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "20260405",
-      "9537909649694b29917b678640f51a88",
-      "c.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.channelnewsasia.com/world/israel-warns-strike-lebanon-syria-border-crossing-attacks-continue-6036991",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "israel",
-      "warns",
-      "strike",
-      "lebanon",
-      "syria",
-      "border",
-      "crossing",
-      "attacks",
-      "continue",
-      "6036991"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.vanguardngr.com/2026/04/tinubu-approves-skills-centre-1000mw-power-project-for-plateau/",
-    "event_codes": {
-      "18": 2,
+      "17": 4,
       "14": 1,
+      "18": 1,
       "19": 1
     },
     "keywords": [
       "2026",
-      "tinubu",
-      "approves",
-      "skills",
-      "centre",
-      "1000mw",
-      "power",
-      "project",
+      "downed",
+      "planes",
+      "spell",
+      "new",
+      "peril",
       "for",
-      "plateau"
+      "trump",
+      "tehran",
+      "hunts",
+      "missing",
+      "pilot"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/trump-israel-pressure-iran-ahead-deadline-search-continues-missing-us-airman",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "trump",
+      "israel",
+      "pressure",
+      "iran",
+      "ahead",
+      "deadline",
+      "search",
+      "continues",
+      "missing",
+      "airman"
     ]
   }
 }
