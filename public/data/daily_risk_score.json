@@ -1,78 +1,85 @@
 {
   "IRN": {
-    "risk_score": 4.45,
-    "count": 6,
-    "top_news": "https://www.wnd.com/2026/04/time-filibuster-carve-terrorism/",
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.adn.com/nation-world/2026/04/04/trump-gives-iran-48-hours-to-open-strait-of-hormuz-as-search-continues-for-missing-us-pilot/",
     "event_codes": {
-      "17": 3,
-      "19": 2,
-      "18": 1
+      "19": 5,
+      "17": 2
     },
     "keywords": [
+      "nation",
+      "world",
       "2026",
-      "time",
-      "filibuster",
-      "carve",
-      "terrorism"
+      "trump",
+      "gives",
+      "iran",
+      "hours",
+      "open",
+      "strait",
+      "hormuz",
+      "search",
+      "continues",
+      "for",
+      "missing",
+      "pilot"
     ]
   },
   "ISR": {
-    "risk_score": 9.15,
-    "count": 11,
-    "top_news": "https://www.middleeasteye.net/news/pro-palestine-rallies-sweep-syria-amid-gaza-genocide-and-israeli-occupation",
-    "event_codes": {
-      "14": 3,
-      "16": 3,
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "pro",
-      "palestine",
-      "rallies",
-      "sweep",
-      "syria",
-      "amid",
-      "gaza",
-      "genocide",
-      "and",
-      "israeli",
-      "occupation"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://allafrica.com/stories/202604040170.html",
-    "event_codes": {
-      "14": 2,
-      "18": 2
-    },
-    "keywords": [
-      "stories",
-      "202604040170.html"
-    ]
-  },
-  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278964400/1st-ld-writethru-yemen-houthis-announce-joint-operation-targeting-israel",
+    "top_news": "https://www.independent.co.uk/news/world/europe/czech-arson-attach-ukraine-drones-arrest-b2951943.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "278964400",
-      "1st",
-      "writethru",
-      "yemen",
-      "houthis",
-      "announce",
-      "joint",
-      "operation",
-      "targeting",
-      "israel"
+      "world",
+      "europe",
+      "czech",
+      "arson",
+      "attach",
+      "ukraine",
+      "drones",
+      "arrest",
+      "b2951943.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theeagleonline.com.ng/wikes-aide-clarifies-comment-on-channels-tvs-okinbaloye/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wikes",
+      "aide",
+      "clarifies",
+      "comment",
+      "channels",
+      "tvs",
+      "okinbaloye"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sofrep.com/news/us-iran-war-pilot-missing-ukraine-russia-war-strikes-overnight/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "war",
+      "pilot",
+      "missing",
+      "ukraine",
+      "russia",
+      "war",
+      "strikes",
+      "overnight"
     ]
   }
 }
