@@ -1,84 +1,157 @@
 {
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/israeli-fire-kills-four-palestinians-gaza-medics-say",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "israeli",
+      "fire",
+      "kills",
+      "four",
+      "palestinians",
+      "gaza",
+      "medics",
+      "say"
+    ]
+  },
   "IRN": {
-    "risk_score": 17.38,
-    "count": 24,
-    "top_news": "http://www.jpost.com/middle-east/article-892105",
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://dunyanews.tv/en/World/944335-iran-says-it-is-acting-in-selfdefence-pezeshkian-urges-americans-to-",
     "event_codes": {
-      "19": 9,
-      "17": 6,
-      "15": 4,
-      "16": 4,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "892105"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "http://www.jpost.com/defense-and-tech/article-892064",
-    "event_codes": {
-      "19": 7,
-      "17": 1
-    },
-    "keywords": [
-      "defense",
-      "and",
-      "tech",
-      "article",
-      "892064"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hindustantimes.com/world-news/how-us-airman-hid-behind-enemy-lines-in-iran-a-beacon-a-7-000-ft-climb-and-nearly-two-days-before-rescue-101775382478646.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "news",
-      "how",
-      "airman",
-      "hid",
-      "behind",
-      "enemy",
-      "lines",
-      "iran",
-      "beacon",
-      "000",
-      "climb",
-      "and",
-      "nearly",
-      "two",
-      "days",
-      "before",
-      "rescue",
-      "101775382478646.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.9,
-    "count": 12,
-    "top_news": "https://peoplesdailyng.com/ndlea-arrests-pastor-wife-bandits-female-drug-supplier/",
-    "event_codes": {
-      "17": 11,
+      "19": 3,
       "16": 1
     },
     "keywords": [
+      "world",
+      "944335",
+      "iran",
+      "says",
+      "acting",
+      "selfdefence",
+      "pezeshkian",
+      "urges",
+      "americans"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dunyanews.tv/en/World/944335-iran-says-it-is-acting-in-selfdefence-pezeshkian-urges-americans-to-",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "944335",
+      "iran",
+      "says",
+      "acting",
+      "selfdefence",
+      "pezeshkian",
+      "urges",
+      "americans"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.95,
+    "count": 20,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/israeli-fire-kills-four-palestinians-gaza-medics-say",
+    "event_codes": {
+      "19": 12,
+      "14": 4,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "israeli",
+      "fire",
+      "kills",
+      "four",
+      "palestinians",
+      "gaza",
+      "medics",
+      "say"
+    ]
+  },
+  "NGA": {
+    "risk_score": 15.7,
+    "count": 19,
+    "top_news": "https://dailypost.ng/2026/04/05/ndlea-uncovers-cocaine-in-palm-kernel-oil-cans-arrests-kingpin-in-lagos-hideout/",
+    "event_codes": {
+      "19": 10,
+      "17": 6,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
       "ndlea",
+      "uncovers",
+      "cocaine",
+      "palm",
+      "kernel",
+      "oil",
+      "cans",
       "arrests",
-      "pastor",
-      "wife",
-      "bandits",
-      "female",
-      "drug",
-      "supplier"
+      "kingpin",
+      "lagos",
+      "hideout"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "http://thepeninsulaqatar.com/article/05/04/2026/palestinian-wounded-by-gunfire-3-others-arrested-during-israeli-forces-incursions-in-west-bank",
+    "event_codes": {
+      "19": 6,
+      "17": 3
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "palestinian",
+      "wounded",
+      "gunfire",
+      "others",
+      "arrested",
+      "during",
+      "israeli",
+      "forces",
+      "incursions",
+      "west",
+      "bank"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://www.clevelandjewishnews.com/jns/uae-decries-mob-attack-on-its-damascus-embassy/article_3cce3fda-e867-5470-8959-e288fd177f37.html",
+    "event_codes": {
+      "14": 3,
+      "19": 2
+    },
+    "keywords": [
+      "jns",
+      "uae",
+      "decries",
+      "mob",
+      "attack",
+      "its",
+      "damascus",
+      "embassy",
+      "article",
+      "3cce3fda",
+      "e867",
+      "5470",
+      "8959",
+      "e288fd177f37.html"
     ]
   }
 }
