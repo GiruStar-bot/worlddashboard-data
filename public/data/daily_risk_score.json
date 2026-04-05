@@ -1,60 +1,80 @@
 {
   "IRN": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://www.king5.com/article/news/nation-world/us-military-aircraft-hit-in-iran-war-are-first-shot-down-by-enemy-fire-in-over-20-years/616-d20f53d6-138c-43d9-bcbd-92ac7133b39b",
+    "risk_score": 18.2,
+    "count": 19,
+    "top_news": "https://www.mirror.co.uk/news/world-news/pilot-rescued-iran-search-live-36962856",
     "event_codes": {
-      "19": 4,
-      "16": 1,
-      "18": 1
+      "19": 17,
+      "17": 2
     },
     "keywords": [
-      "article",
       "news",
-      "nation",
       "world",
-      "military",
-      "aircraft",
-      "hit",
+      "news",
+      "pilot",
+      "rescued",
       "iran",
-      "war",
-      "are",
-      "first",
-      "shot",
-      "down",
-      "enemy",
-      "fire",
-      "over",
-      "years",
-      "616",
-      "d20f53d6",
-      "138c",
-      "43d9",
-      "bcbd",
-      "92ac7133b39b"
+      "search",
+      "live",
+      "36962856"
     ]
   },
-  "VNM": {
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.afr.com/world/north-america/sold-my-soul-how-lawyers-comedians-are-teaching-ai-to-talk-20260331-p5zka9",
+    "top_news": "https://www.mirror.co.uk/news/world-news/pilot-rescued-iran-search-live-36962856",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "news",
       "world",
-      "north",
-      "america",
-      "sold",
-      "soul",
-      "how",
-      "lawyers",
-      "comedians",
-      "are",
-      "teaching",
-      "talk",
-      "20260331",
-      "p5zka9"
+      "news",
+      "pilot",
+      "rescued",
+      "iran",
+      "search",
+      "live",
+      "36962856"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.thehindu.com/news/international/kuwait-power-water-desalination-plants-damaged-by-iranian-attack-government/article70825856.ece",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "international",
+      "kuwait",
+      "power",
+      "water",
+      "desalination",
+      "plants",
+      "damaged",
+      "iranian",
+      "attack",
+      "government",
+      "article70825856.ece"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/04/plateau-peace-reports-buried-as-killings-continue/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "plateau",
+      "peace",
+      "reports",
+      "buried",
+      "killings",
+      "continue"
     ]
   }
 }
