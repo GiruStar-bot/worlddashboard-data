@@ -1,38 +1,76 @@
 {
   "IRN": {
-    "risk_score": 18.57,
-    "count": 21,
-    "top_news": "https://attackofthefanboy.com/politics/the-niece-of-irans-most-infamous-general-was-living-a-lavish-la-lifestyle-while-calling-america-the-great-satan-and-ice-just-showed-up-at-her-door/",
+    "risk_score": 8.45,
+    "count": 10,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-892150",
     "event_codes": {
-      "19": 14,
-      "17": 3,
-      "16": 2,
-      "18": 2
+      "19": 7,
+      "14": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "politics",
-      "the",
-      "niece",
-      "irans",
-      "most",
-      "infamous",
-      "general",
-      "was",
-      "living",
-      "lavish",
-      "lifestyle",
-      "while",
-      "calling",
-      "america",
-      "the",
-      "great",
-      "satan",
-      "and",
-      "ice",
-      "just",
-      "showed",
-      "her",
-      "door"
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "892150"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.0,
+    "count": 15,
+    "top_news": "http://www.jpost.com/opinion/article-892075",
+    "event_codes": {
+      "19": 13,
+      "17": 2
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "892075"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.44,
+    "count": 10,
+    "top_news": "https://www.marketscreener.com/news/nigerian-army-rescues-31-hostages-after-church-attack-ce7e51d2dc8cf320",
+    "event_codes": {
+      "19": 8,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "nigerian",
+      "army",
+      "rescues",
+      "hostages",
+      "after",
+      "church",
+      "attack",
+      "ce7e51d2dc8cf320"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.82,
+    "count": 4,
+    "top_news": "https://www.euronews.com/2026/04/05/missing-us-pilot-has-been-rescued-in-iran-says-trump",
+    "event_codes": {
+      "18": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "missing",
+      "pilot",
+      "has",
+      "been",
+      "rescued",
+      "iran",
+      "says",
+      "trump"
     ]
   }
 }
