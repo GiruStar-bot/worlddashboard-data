@@ -1,50 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 9.7,
-    "count": 12,
-    "top_news": "https://nuclear-news.net/2026/04/05/2-a-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one-iaea/",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://edition.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil",
     "event_codes": {
-      "19": 8,
-      "16": 3,
-      "17": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "projectile",
-      "hits",
-      "near",
-      "irans",
-      "bushehr",
-      "nuclear",
-      "plant",
-      "killing",
-      "one",
-      "iaea"
+      "world",
+      "live",
+      "news",
+      "iran",
+      "war",
+      "trump",
+      "oil"
     ]
   },
-  "ISR": {
-    "risk_score": 11.95,
-    "count": 15,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/gaza-civil-defence-hospital-say-israeli-strike-kills-4/articleshow/130035075.cms",
+  "IRN": {
+    "risk_score": 19.4,
+    "count": 24,
+    "top_news": "https://www.bssnews.net/international/374638",
     "event_codes": {
-      "19": 9,
-      "16": 4,
-      "17": 1,
+      "19": 14,
+      "17": 9,
       "18": 1
     },
     "keywords": [
+      "international",
+      "374638"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://edition.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "live",
       "news",
-      "defence",
-      "gaza",
-      "civil",
-      "defence",
-      "hospital",
-      "say",
-      "israeli",
-      "strike",
-      "kills",
-      "articleshow",
-      "130035075.cms"
+      "iran",
+      "war",
+      "trump",
+      "oil"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://en.people.cn/n3/2026/0405/c90000-20443552.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "0405",
+      "c90000",
+      "20443552.html"
     ]
   }
 }
