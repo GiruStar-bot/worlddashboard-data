@@ -1,137 +1,58 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278965650/trump-says-deadline-to-open-strait-is-evening-of-april-7-edt",
+  "ISR": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.npr.org/transcripts/nx-s1-5763606",
     "event_codes": {
-      "19": 2
+      "19": 5
     },
     "keywords": [
-      "news",
-      "278965650",
-      "trump",
-      "says",
-      "deadline",
-      "open",
-      "strait",
-      "evening",
-      "april",
-      "edt"
+      "transcripts",
+      "5763606"
     ]
   },
-  "IRN": {
-    "risk_score": 30.85,
-    "count": 32,
-    "top_news": "http://www.bignewsnetwork.com/news/278965650/trump-says-deadline-to-open-strait-is-evening-of-april-7-edt",
-    "event_codes": {
-      "19": 27,
-      "17": 3,
-      "14": 2
-    },
-    "keywords": [
-      "news",
-      "278965650",
-      "trump",
-      "says",
-      "deadline",
-      "open",
-      "strait",
-      "evening",
-      "april",
-      "edt"
-    ]
-  },
-  "IRQ": {
+  "JOR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.bignewsnetwork.com/news/278965650/trump-says-deadline-to-open-strait-is-evening-of-april-7-edt",
+    "top_news": "https://sana.sy/en/international/2308361/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "278965650",
-      "trump",
-      "says",
-      "deadline",
-      "open",
-      "strait",
-      "evening",
-      "april",
-      "edt"
-    ]
-  },
-  "ISR": {
-    "risk_score": 17.15,
-    "count": 18,
-    "top_news": "https://www.greaterbelize.com/trumps-48-hours-or-hell-warning-escalates-conflict-with-iran/",
-    "event_codes": {
-      "19": 13,
-      "18": 3,
-      "17": 2
-    },
-    "keywords": [
-      "trumps",
-      "hours",
-      "hell",
-      "warning",
-      "escalates",
-      "conflict",
-      "with",
-      "iran"
+      "international",
+      "2308361"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278965650/trump-says-deadline-to-open-strait-is-evening-of-april-7-edt",
+    "risk_score": 5.37,
+    "count": 6,
+    "top_news": "https://www.npr.org/transcripts/nx-s1-5763606",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "278965650",
-      "trump",
-      "says",
-      "deadline",
-      "open",
-      "strait",
-      "evening",
-      "april",
-      "edt"
-    ]
-  },
-  "NGA": {
-    "risk_score": 19.44,
-    "count": 21,
-    "top_news": "https://www.vanguardngr.com/2026/04/adc-condemns-renewed-bandits-attacks-on-katsina-communities/",
-    "event_codes": {
-      "19": 17,
-      "15": 2,
+      "19": 4,
       "17": 2
     },
     "keywords": [
-      "2026",
-      "adc",
-      "condemns",
-      "renewed",
-      "bandits",
-      "attacks",
-      "katsina",
-      "communities"
+      "transcripts",
+      "5763606"
     ]
   },
-  "PSE": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://english.wafa.ps/Pages/Details/169018",
+  "NGA": {
+    "risk_score": 12.24,
+    "count": 15,
+    "top_news": "https://www.nigerianeye.com/2026/04/troops-repel-bandits-attack-in-agatu.html",
     "event_codes": {
-      "19": 11
+      "19": 7,
+      "17": 4,
+      "15": 2,
+      "18": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "169018"
+      "2026",
+      "troops",
+      "repel",
+      "bandits",
+      "attack",
+      "agatu.html"
     ]
   }
 }
