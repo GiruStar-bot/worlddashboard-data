@@ -1,61 +1,110 @@
 {
   "IRN": {
-    "risk_score": 12.7,
-    "count": 13,
-    "top_news": "https://www.kyivpost.com/post/73270",
+    "risk_score": 16.8,
+    "count": 17,
+    "top_news": "https://aviationweek.com/defense/budget-policy-operations/second-f-15e-crew-member-rescued-inside-iran",
     "event_codes": {
-      "19": 7,
-      "18": 6
+      "19": 15,
+      "18": 2
     },
     "keywords": [
-      "post",
-      "73270"
+      "defense",
+      "budget",
+      "policy",
+      "operations",
+      "second",
+      "15e",
+      "crew",
+      "member",
+      "rescued",
+      "inside",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.middleeastmonitor.com/20260405-over-1460-killed-in-lebanon-since-beginning-of-israeli-attacks-on-march-2-health-ministry/",
+    "risk_score": 18.7,
+    "count": 19,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/least-11-killed-israeli-airstrikes-lebanon-easter-sunday",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 16,
+      "18": 3
     },
     "keywords": [
-      "20260405",
-      "over",
-      "1460",
+      "originals",
+      "2026",
+      "least",
       "killed",
-      "lebanon",
-      "since",
-      "beginning",
       "israeli",
-      "attacks",
-      "march",
-      "health",
-      "ministry"
+      "airstrikes",
+      "lebanon",
+      "easter",
+      "sunday"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
+    "risk_score": 5.95,
     "count": 6,
-    "top_news": "https://www.middleeastmonitor.com/20260405-over-1460-killed-in-lebanon-since-beginning-of-israeli-attacks-on-march-2-health-ministry/",
+    "top_news": "https://www.postregister.com/news/national/the-latest-trump-threatens-to-strike-irans-infrastructure-if-strait-of-hormuz-isnt-reopened/article_a2d927da-5059-5da6-886d-3ecef7f62b45.html",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 6
     },
     "keywords": [
-      "20260405",
-      "over",
-      "1460",
-      "killed",
-      "lebanon",
-      "since",
-      "beginning",
-      "israeli",
-      "attacks",
-      "march",
-      "health",
-      "ministry"
+      "news",
+      "national",
+      "the",
+      "latest",
+      "trump",
+      "threatens",
+      "strike",
+      "irans",
+      "infrastructure",
+      "strait",
+      "hormuz",
+      "isnt",
+      "reopened",
+      "article",
+      "a2d927da",
+      "5059",
+      "5da6",
+      "886d",
+      "3ecef7f62b45.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 23.6,
+    "count": 34,
+    "top_news": "https://saharareporters.com/2026/04/05/easter-sunday-massacre-terrorists-attack-two-churches-kaduna-kill-least-seven",
+    "event_codes": {
+      "17": 20,
+      "19": 10,
+      "18": 4
+    },
+    "keywords": [
+      "2026",
+      "easter",
+      "sunday",
+      "massacre",
+      "terrorists",
+      "attack",
+      "two",
+      "churches",
+      "kaduna",
+      "kill",
+      "least",
+      "seven"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://sana.sy/en/international/2308111/",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "international",
+      "2308111"
     ]
   }
 }
