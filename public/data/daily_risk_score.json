@@ -1,49 +1,108 @@
 {
   "IRN": {
-    "risk_score": 4.9,
-    "count": 6,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-iran-us-war-strait-hormuz-deadline-b2952106.html",
+    "risk_score": 8.75,
+    "count": 11,
+    "top_news": "https://slguardian.org/the-hollowing-out-of-war-crimes/",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 1
+      "19": 7,
+      "17": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "trump",
-      "iran",
+      "the",
+      "hollowing",
+      "out",
       "war",
-      "strait",
-      "hormuz",
-      "deadline",
-      "b2952106.html"
+      "crimes"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://slguardian.org/pentagon-under-siege-how-pete-hegseth-is-remaking-americas-military/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "pentagon",
+      "under",
+      "siege",
+      "how",
+      "pete",
+      "hegseth",
+      "remaking",
+      "americas",
+      "military"
     ]
   },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 6,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-iran-us-war-strait-hormuz-deadline-b2952106.html",
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://imemc.org/article/west-bank-on-sunday-israeli-military-and-paramilitary-attacks-continue/",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "14": 1,
-      "17": 1
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "west",
+      "bank",
+      "sunday",
+      "israeli",
+      "military",
+      "and",
+      "paramilitary",
+      "attacks",
+      "continue"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.02,
+    "count": 3,
+    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=443274",
+    "event_codes": {
+      "14": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "world",
-      "middle",
-      "east",
-      "trump",
-      "iran",
-      "war",
-      "strait",
-      "hormuz",
-      "deadline",
-      "b2952106.html"
+      "article.aspx"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://punchng.com/tinubu-reviewing-media-tariff-concerns-as-promised-minister/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "tinubu",
+      "reviewing",
+      "media",
+      "tariff",
+      "concerns",
+      "promised",
+      "minister"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://slguardian.org/from-terrorist-to-trusted-ally-how-britain-groomed-syrias-president/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "from",
+      "terrorist",
+      "trusted",
+      "ally",
+      "how",
+      "britain",
+      "groomed",
+      "syrias",
+      "president"
     ]
   }
 }
