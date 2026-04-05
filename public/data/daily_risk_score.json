@@ -1,66 +1,129 @@
 {
-  "BHR": {
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/welcome-to-the-jungle-suniel-shettys-grand-entry-scene-to-be-shot-on-200-foot-yacht-in-dubai/articleshow/130035742.cms",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "entertainment",
+      "hindi",
+      "bollywood",
+      "news",
+      "welcome",
+      "the",
+      "jungle",
+      "suniel",
+      "shettys",
+      "grand",
+      "entry",
+      "scene",
+      "shot",
+      "200",
+      "foot",
+      "yacht",
+      "dubai",
+      "articleshow",
+      "130035742.cms"
+    ]
+  },
+  "IDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://edition.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil",
+    "top_news": "https://www.scmp.com/news/asia/southeast-asia/article/3349076/indonesia-lays-rest-peacekeepers-killed-lebanon-prabowo-condemns-attacks",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "world",
-      "live",
       "news",
-      "iran",
-      "war",
-      "trump",
-      "oil"
+      "asia",
+      "southeast",
+      "asia",
+      "article",
+      "3349076",
+      "indonesia",
+      "lays",
+      "rest",
+      "peacekeepers",
+      "killed",
+      "lebanon",
+      "prabowo",
+      "condemns",
+      "attacks"
     ]
   },
   "IRN": {
-    "risk_score": 19.4,
-    "count": 24,
-    "top_news": "https://www.bssnews.net/international/374638",
+    "risk_score": 10.4,
+    "count": 11,
+    "top_news": "https://www.newsweek.com/iran-war-live-rescued-airman-injured-but-will-be-just-fine-says-trump-11784511",
     "event_codes": {
-      "19": 14,
-      "17": 9,
-      "18": 1
+      "19": 9,
+      "16": 2
     },
     "keywords": [
-      "international",
-      "374638"
+      "iran",
+      "war",
+      "live",
+      "rescued",
+      "airman",
+      "injured",
+      "but",
+      "will",
+      "just",
+      "fine",
+      "says",
+      "trump",
+      "11784511"
     ]
   },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://edition.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil",
+  "ISR": {
+    "risk_score": 4.9,
+    "count": 7,
+    "top_news": "https://www.israelnationalnews.com/news/425038",
     "event_codes": {
+      "17": 4,
       "19": 3
     },
     "keywords": [
-      "2026",
-      "world",
-      "live",
       "news",
-      "iran",
-      "war",
-      "trump",
-      "oil"
+      "425038"
     ]
   },
-  "TWN": {
+  "KWT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.juancole.com/2026/04/surging-prices-israel.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "surging",
+      "prices",
+      "israel.html"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://en.people.cn/n3/2026/0405/c90000-20443552.html",
+    "top_news": "https://www.durangoherald.com/articles/us-aviator-missing-after-iran-shot-down-fighter-jet-has-been-rescued/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "0405",
-      "c90000",
-      "20443552.html"
+      "articles",
+      "aviator",
+      "missing",
+      "after",
+      "iran",
+      "shot",
+      "down",
+      "fighter",
+      "jet",
+      "has",
+      "been",
+      "rescued"
     ]
   }
 }
