@@ -1,52 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 16.8,
-    "count": 17,
-    "top_news": "https://aviationweek.com/defense/budget-policy-operations/second-f-15e-crew-member-rescued-inside-iran",
+  "BHR": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "http://www.russiaherald.com/news/278965408/trump-warns-iran-over-hormuz-threatens-power-plants-and-bridges",
     "event_codes": {
-      "19": 15,
-      "18": 2
+      "18": 6,
+      "19": 1
     },
     "keywords": [
-      "defense",
-      "budget",
-      "policy",
-      "operations",
-      "second",
-      "15e",
-      "crew",
-      "member",
-      "rescued",
-      "inside",
-      "iran"
+      "news",
+      "278965408",
+      "trump",
+      "warns",
+      "iran",
+      "over",
+      "hormuz",
+      "threatens",
+      "power",
+      "plants",
+      "and",
+      "bridges"
+    ]
+  },
+  "IRN": {
+    "risk_score": 19.17,
+    "count": 21,
+    "top_news": "https://www.dailystar.co.uk/news/world-news/pope-leo-takes-aim-trump-36972062",
+    "event_codes": {
+      "19": 15,
+      "14": 3,
+      "16": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "pope",
+      "leo",
+      "takes",
+      "aim",
+      "trump",
+      "36972062"
     ]
   },
   "ISR": {
-    "risk_score": 18.7,
-    "count": 19,
-    "top_news": "https://www.al-monitor.com/originals/2026/04/least-11-killed-israeli-airstrikes-lebanon-easter-sunday",
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://english.aawsat.com/arab-world/5258977-israel-renews-lebanon-strikes-forces-syria-border-crossing-closed",
     "event_codes": {
-      "19": 16,
-      "18": 3
+      "19": 5,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "originals",
-      "2026",
-      "least",
-      "killed",
-      "israeli",
-      "airstrikes",
+      "arab",
+      "world",
+      "5258977",
+      "israel",
+      "renews",
       "lebanon",
-      "easter",
-      "sunday"
+      "strikes",
+      "forces",
+      "syria",
+      "border",
+      "crossing",
+      "closed"
     ]
   },
   "LBN": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.postregister.com/news/national/the-latest-trump-threatens-to-strike-irans-infrastructure-if-strait-of-hormuz-isnt-reopened/article_a2d927da-5059-5da6-886d-3ecef7f62b45.html",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.mykxlg.com/news/national/the-latest-trump-threatens-to-strike-irans-infrastructure-if-strait-of-hormuz-isnt-reopened/article_4c9a7108-6276-5f4c-afe4-a6644d42c18b.html",
     "event_codes": {
-      "19": 6
+      "19": 7
     },
     "keywords": [
       "news",
@@ -63,48 +91,47 @@
       "isnt",
       "reopened",
       "article",
-      "a2d927da",
-      "5059",
-      "5da6",
-      "886d",
-      "3ecef7f62b45.html"
+      "4c9a7108",
+      "6276",
+      "5f4c",
+      "afe4",
+      "a6644d42c18b.html"
     ]
   },
   "NGA": {
-    "risk_score": 23.6,
-    "count": 34,
-    "top_news": "https://saharareporters.com/2026/04/05/easter-sunday-massacre-terrorists-attack-two-churches-kaduna-kill-least-seven",
+    "risk_score": 14.9,
+    "count": 18,
+    "top_news": "https://punchng.com/army-kills-bandit-leaders-son-scores-of-fighters-in-zamfara-raid/",
     "event_codes": {
-      "17": 20,
-      "19": 10,
-      "18": 4
+      "19": 11,
+      "17": 6,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "easter",
-      "sunday",
-      "massacre",
-      "terrorists",
-      "attack",
-      "two",
-      "churches",
-      "kaduna",
-      "kill",
-      "least",
-      "seven"
+      "army",
+      "kills",
+      "bandit",
+      "leaders",
+      "son",
+      "scores",
+      "fighters",
+      "zamfara",
+      "raid"
     ]
   },
   "PSE": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://sana.sy/en/international/2308111/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.chicagotribune.com/2026/04/05/us-aviator-rescued-trump-iran/",
     "event_codes": {
-      "18": 4,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "international",
-      "2308111"
+      "2026",
+      "aviator",
+      "rescued",
+      "trump",
+      "iran"
     ]
   }
 }
