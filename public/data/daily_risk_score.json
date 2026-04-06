@@ -1,90 +1,150 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/israeli-army-fire-vehicle-southern-155834289.html",
+  "IRN": {
+    "risk_score": 15.1,
+    "count": 16,
+    "top_news": "https://www.moneycontrol.com/world/entire-iran-can-be-taken-out-tomorrow-night-trump-warns-as-tuesday-8-pm-deadline-nears-end-article-13881607.html",
     "event_codes": {
-      "19": 2
+      "19": 11,
+      "18": 3,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "israeli",
-      "army",
-      "fire",
-      "vehicle",
-      "southern",
-      "155834289.html"
+      "world",
+      "entire",
+      "iran",
+      "can",
+      "taken",
+      "out",
+      "tomorrow",
+      "night",
+      "trump",
+      "warns",
+      "tuesday",
+      "deadline",
+      "nears",
+      "end",
+      "article",
+      "13881607.html"
     ]
   },
-  "IRN": {
-    "risk_score": 11.26,
-    "count": 13,
-    "top_news": "https://www.siasat.com/iran-rejects-ceasefire-proposal-as-trump-calls-it-a-significant-step-3447800/",
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.twincities.com/2026/04/06/letters-something-should-have-been-done-about-iran-a-long-time-ago/",
     "event_codes": {
-      "19": 7,
-      "17": 6
+      "19": 4
     },
     "keywords": [
+      "2026",
+      "letters",
+      "something",
+      "should",
+      "have",
+      "been",
+      "done",
+      "about",
       "iran",
-      "rejects",
-      "ceasefire",
-      "proposal",
-      "trump",
-      "calls",
-      "significant",
-      "step",
-      "3447800"
+      "long",
+      "time",
+      "ago"
     ]
   },
   "ISR": {
-    "risk_score": 21.57,
-    "count": 22,
-    "top_news": "https://www.justsecurity.org/135772/early-edition-april-6-2026/",
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://oswegocountytoday.com/opinion/letters-to-the-editor/the-u-s-israeli-invasion-of-lebanon/",
     "event_codes": {
-      "19": 15,
-      "18": 6,
-      "17": 1
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "135772",
-      "early",
-      "edition",
-      "april",
-      "2026"
+      "opinion",
+      "letters",
+      "the",
+      "editor",
+      "the",
+      "israeli",
+      "invasion",
+      "lebanon"
     ]
   },
-  "PSE": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/israeli-army-fire-vehicle-southern-155834289.html",
+    "top_news": "https://oswegocountytoday.com/opinion/letters-to-the-editor/the-u-s-israeli-invasion-of-lebanon/",
     "event_codes": {
       "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "letters",
+      "the",
+      "editor",
+      "the",
+      "israeli",
+      "invasion",
+      "lebanon"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4515966/rwanda-gas-project-isis-mozambique/",
+    "event_codes": {
+      "15": 3
     },
     "keywords": [
       "news",
-      "articles",
-      "israeli",
-      "army",
-      "fire",
-      "vehicle",
-      "southern",
-      "155834289.html"
+      "world",
+      "4515966",
+      "rwanda",
+      "gas",
+      "project",
+      "isis",
+      "mozambique"
     ]
   },
-  "SDN": {
+  "NGA": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.channelafrica.co.za/channelafrica/news/nigerias-army-has-rescued-31-civilians/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "channelafrica",
+      "news",
+      "nigerias",
+      "army",
+      "has",
+      "rescued",
+      "civilians"
+    ]
+  },
+  "VEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.justsecurity.org/135772/early-edition-april-6-2026/",
+    "top_news": "https://english.elpais.com/international/2026-04-06/juan-carlos-valencia-gonzalez-emerges-in-power-vacuum-at-the-head-of-the-jalisco-new-generation-cartel.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "135772",
-      "early",
-      "edition",
-      "april",
-      "2026"
+      "international",
+      "2026",
+      "juan",
+      "carlos",
+      "valencia",
+      "gonzalez",
+      "emerges",
+      "power",
+      "vacuum",
+      "the",
+      "head",
+      "the",
+      "jalisco",
+      "new",
+      "generation",
+      "cartel.html"
     ]
   }
 }
