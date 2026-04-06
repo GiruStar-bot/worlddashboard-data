@@ -1,63 +1,94 @@
 {
   "IRN": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://www.nbcsandiego.com/news/national-international/war-iran-us-israel-middle-east-april-6/4005740/",
+    "risk_score": 22.95,
+    "count": 28,
+    "top_news": "https://www.dailymail.co.uk/news/article-15709171/Moment-Iran-missile-lands-yards-away-Israeli-woman-knocked-floor-miraculously-manages-walk-away.html",
     "event_codes": {
-      "19": 7,
+      "19": 16,
+      "17": 10,
       "18": 2
     },
     "keywords": [
       "news",
-      "national",
-      "international",
-      "war",
+      "article",
+      "15709171",
+      "moment",
       "iran",
-      "israel",
-      "middle",
-      "east",
-      "april",
-      "4005740"
+      "missile",
+      "lands",
+      "yards",
+      "away",
+      "israeli",
+      "woman",
+      "knocked",
+      "floor",
+      "miraculously",
+      "manages",
+      "walk",
+      "away.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20260406-drone-attack-targets-us-victoria-base-near-baghdad-airport/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "20260406",
+      "drone",
+      "attack",
+      "targets",
+      "victoria",
+      "base",
+      "near",
+      "baghdad",
+      "airport"
     ]
   },
   "ISR": {
-    "risk_score": 11.45,
-    "count": 13,
-    "top_news": "https://imemc.org/article/2026/04/06/",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://krmg.com/2026/04/06/the-latest-airstrikes-kill-more-than-25-people-in-iranian-cities-as-trumps-deadline-looms/",
     "event_codes": {
-      "19": 6,
-      "18": 5,
-      "17": 2
+      "19": 9,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "2026"
+      "2026",
+      "the",
+      "latest",
+      "airstrikes",
+      "kill",
+      "more",
+      "than",
+      "people",
+      "iranian",
+      "cities",
+      "trumps",
+      "deadline",
+      "looms"
     ]
   },
   "NGA": {
-    "risk_score": 9.07,
-    "count": 10,
-    "top_news": "https://ynaija.com/top-5-stories-of-the-day-air-peace-to-launch-london-flights-from-oguns-gateway-airport/",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://pmnewsnigeria.com/2026/04/06/why-nigeria-must-fix-the-language-of-conflict-now/",
     "event_codes": {
-      "19": 4,
-      "18": 3,
-      "16": 2,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "top",
-      "stories",
+      "2026",
+      "why",
+      "nigeria",
+      "must",
+      "fix",
       "the",
-      "day",
-      "air",
-      "peace",
-      "launch",
-      "london",
-      "flights",
-      "from",
-      "oguns",
-      "gateway",
-      "airport"
+      "language",
+      "conflict",
+      "now"
     ]
   }
 }
