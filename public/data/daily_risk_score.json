@@ -1,49 +1,90 @@
 {
   "IRN": {
-    "risk_score": 18.47,
-    "count": 23,
-    "top_news": "https://www.wnd.com/2026/04/somebody-leaked-trump-threatens-jail-reporter-info-about/",
+    "risk_score": 7.72,
+    "count": 10,
+    "top_news": "https://www.ckom.com/2026/04/06/trump-brushes-off-war-crime-concerns-as-he-repeats-threats-to-iran/",
     "event_codes": {
-      "19": 9,
-      "17": 6,
-      "18": 5,
-      "16": 2,
-      "14": 1
+      "19": 5,
+      "17": 4,
+      "15": 1
     },
     "keywords": [
       "2026",
-      "somebody",
-      "leaked",
       "trump",
-      "threatens",
-      "jail",
-      "reporter",
-      "info",
-      "about"
+      "brushes",
+      "off",
+      "war",
+      "crime",
+      "concerns",
+      "repeats",
+      "threats",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://nypost.com/2026/04/06/world-news/iranian-strike-kills-4-in-israel-others-spared-after-missile-failed-to-explode/",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.canberratimes.com.au/story/9216202/israeli-strike-kills-10-near-a-gaza-strip-school/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "9216202",
+      "israeli",
+      "strike",
+      "kills",
+      "near",
+      "gaza",
+      "strip",
+      "school"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://abc7ny.com/story/man-cleared-killing-run-dmcs-jam-master-jay-could-soon-freed/18848844/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "man",
+      "cleared",
+      "killing",
+      "run",
+      "dmcs",
+      "jam",
+      "master",
+      "jay",
+      "could",
+      "soon",
+      "freed",
+      "18848844"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.naturalnews.com/2026-04-06-last-ditch-45-day-truce-talks-fail-as-iran-rejects-us-ceasefire-demands.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "world",
-      "news",
-      "iranian",
-      "strike",
-      "kills",
-      "israel",
-      "others",
-      "spared",
-      "after",
-      "missile",
-      "failed",
-      "explode"
+      "last",
+      "ditch",
+      "day",
+      "truce",
+      "talks",
+      "fail",
+      "iran",
+      "rejects",
+      "ceasefire",
+      "demands.html"
     ]
   }
 }
