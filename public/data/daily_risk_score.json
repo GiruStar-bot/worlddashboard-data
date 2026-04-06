@@ -1,42 +1,96 @@
 {
   "IRN": {
-    "risk_score": 6.72,
-    "count": 11,
-    "top_news": "https://www.euronews.com/2026/04/06/trump-iran-deadline",
+    "risk_score": 16.1,
+    "count": 21,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/op-ed-the-war-on-iran-regional-power-politics-and-domestic-exclusion",
     "event_codes": {
+      "19": 11,
       "17": 5,
-      "16": 3,
-      "19": 2,
-      "15": 1
+      "16": 4,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "trump",
+      "all",
+      "news",
+      "article",
+      "the",
+      "war",
       "iran",
-      "deadline"
+      "regional",
+      "power",
+      "politics",
+      "and",
+      "domestic",
+      "exclusion"
     ]
   },
   "ISR": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/irgc-intelligence-chief-majid-khademi-killed-in-israeli-strike/articleshow/130070385.cms",
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://www.hometownregister.com/news/national/trump-doubles-down-on-iran-threat-says-ceasefire-not-good-enough/article_e871de26-0201-593b-bc91-31fffcf2c381.html",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "19": 7,
+      "17": 2
     },
     "keywords": [
       "news",
-      "defence",
-      "irgc",
-      "intelligence",
-      "chief",
-      "majid",
-      "khademi",
-      "killed",
-      "israeli",
-      "strike",
-      "articleshow",
-      "130070385.cms"
+      "national",
+      "trump",
+      "doubles",
+      "down",
+      "iran",
+      "threat",
+      "says",
+      "ceasefire",
+      "not",
+      "good",
+      "enough",
+      "article",
+      "e871de26",
+      "0201",
+      "593b",
+      "bc91",
+      "31fffcf2c381.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.opednews.com/populum/page.php?f=Tomgram-Eric-Ross-Foreve-Iran_Military_Trump_Wars-260406-945.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "populum",
+      "page.php"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://thefrontierpost.com/israel-moves-toward-executing-palestinian-children/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "israel",
+      "moves",
+      "toward",
+      "executing",
+      "palestinian",
+      "children"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.opednews.com/populum/page.php?f=Tomgram-Eric-Ross-Foreve-Iran_Military_Trump_Wars-260406-945.html",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "populum",
+      "page.php"
     ]
   }
 }
