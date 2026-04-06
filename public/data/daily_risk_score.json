@@ -1,152 +1,106 @@
 {
   "IRN": {
-    "risk_score": 12.5,
-    "count": 13,
-    "top_news": "https://www.hindustantimes.com/world-news/iran-guards-intelligence-chief-major-general-majid-khademi-killed-us-israeli-strikes-iran-war-latest-news-101775465294760.html",
+    "risk_score": 20.3,
+    "count": 22,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/06/766384/IRGC-intelligence-chief-martyred-in-US-Israeli-strike-on-Tehran",
     "event_codes": {
-      "18": 8,
-      "19": 5
+      "19": 10,
+      "18": 9,
+      "17": 3
     },
     "keywords": [
-      "world",
-      "news",
-      "iran",
-      "guards",
+      "detail",
+      "2026",
+      "766384",
+      "irgc",
       "intelligence",
       "chief",
-      "major",
-      "general",
-      "majid",
-      "khademi",
-      "killed",
+      "martyred",
       "israeli",
-      "strikes",
-      "iran",
-      "war",
-      "latest",
-      "news",
-      "101775465294760.html"
+      "strike",
+      "tehran"
     ]
   },
   "ISR": {
-    "risk_score": 17.45,
-    "count": 18,
-    "top_news": "https://nypost.com/2026/04/06/opinion/aoc-lifts-the-veil-she-wont-help-protect-innocent-civilians-so-long-as-theyre-israelis/",
+    "risk_score": 31.1,
+    "count": 39,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/06/766384/IRGC-intelligence-chief-martyred-in-US-Israeli-strike-on-Tehran",
     "event_codes": {
       "19": 13,
-      "18": 4,
-      "17": 1
+      "17": 11,
+      "18": 9,
+      "14": 5,
+      "16": 1
     },
     "keywords": [
+      "detail",
       "2026",
-      "opinion",
-      "aoc",
-      "lifts",
-      "the",
-      "veil",
-      "she",
-      "wont",
-      "help",
-      "protect",
-      "innocent",
-      "civilians",
-      "long",
-      "theyre",
-      "israelis"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.chennaionline.com/news/uae-defends-against-iranian-missile-attacks/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "uae",
-      "defends",
-      "against",
-      "iranian",
-      "missile",
-      "attacks"
+      "766384",
+      "irgc",
+      "intelligence",
+      "chief",
+      "martyred",
+      "israeli",
+      "strike",
+      "tehran"
     ]
   },
   "LBN": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://www.catholicworldreport.com/2026/04/03/ukraine-bishop-war-could-spread-to-countries-that-never-imagined-it-reaching-them/",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-kills-christian-party-official-lebanon",
     "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
+      "19": 8
     },
     "keywords": [
-      "2026",
-      "ukraine",
-      "bishop",
-      "war",
-      "could",
-      "spread",
-      "countries",
-      "that",
-      "never",
-      "imagined",
-      "reaching",
-      "them"
-    ]
-  },
-  "NGA": {
-    "risk_score": 21.1,
-    "count": 24,
-    "top_news": "https://www.nigerianeye.com/2026/04/nigeria-is-bleeding-peter-obi-raises.html",
-    "event_codes": {
-      "19": 14,
-      "18": 6,
-      "16": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "nigeria",
-      "bleeding",
-      "peter",
-      "obi",
-      "raises.html"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "strike",
+      "kills",
+      "christian",
+      "party",
+      "official",
+      "lebanon"
     ]
   },
   "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bssnews.net/others/374971",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://theintercept.com/2026/04/03/iran-war-fighter-jet-shot-down-trump/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "others",
-      "374971"
+      "2026",
+      "iran",
+      "war",
+      "fighter",
+      "jet",
+      "shot",
+      "down",
+      "trump"
     ]
   },
-  "SYR": {
-    "risk_score": 2.65,
-    "count": 4,
-    "top_news": "https://www.wired.com/story/how-one-syrian-fought-to-the-death-for-a-free-internet/",
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://mareeg.com/somalia-says-12-al-shabab-fighters-killed-in-airstrike-near-baidoa/",
     "event_codes": {
-      "17": 2,
-      "14": 1,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "story",
-      "how",
-      "one",
-      "syrian",
-      "fought",
-      "the",
-      "death",
-      "for",
-      "free",
-      "internet"
+      "somalia",
+      "says",
+      "shabab",
+      "fighters",
+      "killed",
+      "airstrike",
+      "near",
+      "baidoa"
     ]
   }
 }
