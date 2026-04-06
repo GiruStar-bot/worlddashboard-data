@@ -1,90 +1,80 @@
 {
   "IRN": {
-    "risk_score": 7.72,
-    "count": 10,
-    "top_news": "https://www.ckom.com/2026/04/06/trump-brushes-off-war-crime-concerns-as-he-repeats-threats-to-iran/",
+    "risk_score": 6.94,
+    "count": 8,
+    "top_news": "https://www.fox10phoenix.com/news/rubio-revokes-visas-green-cards-iranian-nationals",
     "event_codes": {
       "19": 5,
-      "17": 4,
-      "15": 1
+      "15": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "trump",
-      "brushes",
-      "off",
+      "news",
+      "rubio",
+      "revokes",
+      "visas",
+      "green",
+      "cards",
+      "iranian",
+      "nationals"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.sbs.com.au/news/dateline/article/iraqis-and-us-veterans-grapple-with-the-painful-legacy-of-the-iraq-war/tshell3gq",
+    "event_codes": {
+      "19": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "dateline",
+      "article",
+      "iraqis",
+      "and",
+      "veterans",
+      "grapple",
+      "with",
+      "the",
+      "painful",
+      "legacy",
+      "the",
+      "iraq",
       "war",
-      "crime",
-      "concerns",
-      "repeats",
-      "threats",
-      "iran"
+      "tshell3gq"
     ]
   },
-  "ISR": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.canberratimes.com.au/story/9216202/israeli-strike-kills-10-near-a-gaza-strip-school/",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "story",
-      "9216202",
-      "israeli",
-      "strike",
-      "kills",
-      "near",
-      "gaza",
-      "strip",
-      "school"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.9,
+  "VEN": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://abc7ny.com/story/man-cleared-killing-run-dmcs-jam-master-jay-could-soon-freed/18848844/",
+    "top_news": "https://www.mesabitribune.com/around_the_web/news/newly-released-surveillance-footage-of-jan-14-ice-shooting-contradicts-agent-s-account/article_628f5ce7-fa0d-52a7-abcf-6bf6e2b67313.html",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "story",
-      "man",
-      "cleared",
-      "killing",
-      "run",
-      "dmcs",
-      "jam",
-      "master",
-      "jay",
-      "could",
-      "soon",
-      "freed",
-      "18848844"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.naturalnews.com/2026-04-06-last-ditch-45-day-truce-talks-fail-as-iran-rejects-us-ceasefire-demands.html",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "last",
-      "ditch",
-      "day",
-      "truce",
-      "talks",
-      "fail",
-      "iran",
-      "rejects",
-      "ceasefire",
-      "demands.html"
+      "around",
+      "the",
+      "web",
+      "news",
+      "newly",
+      "released",
+      "surveillance",
+      "footage",
+      "jan",
+      "ice",
+      "shooting",
+      "contradicts",
+      "agent",
+      "account",
+      "article",
+      "628f5ce7",
+      "fa0d",
+      "52a7",
+      "abcf",
+      "6bf6e2b67313.html"
     ]
   }
 }
