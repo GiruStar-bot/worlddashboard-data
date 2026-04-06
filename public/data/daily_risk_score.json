@@ -1,24 +1,90 @@
 {
-  "IRN": {
-    "risk_score": 3.52,
-    "count": 5,
-    "top_news": "https://www.saltwire.com/newfoundland-labrador/gwynne-dyer-is-history-repeating-itself-with-middle-east-crisis",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/israeli-army-fire-vehicle-southern-155834289.html",
     "event_codes": {
-      "16": 3,
       "19": 2
     },
     "keywords": [
-      "newfoundland",
-      "labrador",
-      "gwynne",
-      "dyer",
-      "history",
-      "repeating",
-      "itself",
-      "with",
-      "middle",
-      "east",
-      "crisis"
+      "news",
+      "articles",
+      "israeli",
+      "army",
+      "fire",
+      "vehicle",
+      "southern",
+      "155834289.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.26,
+    "count": 13,
+    "top_news": "https://www.siasat.com/iran-rejects-ceasefire-proposal-as-trump-calls-it-a-significant-step-3447800/",
+    "event_codes": {
+      "19": 7,
+      "17": 6
+    },
+    "keywords": [
+      "iran",
+      "rejects",
+      "ceasefire",
+      "proposal",
+      "trump",
+      "calls",
+      "significant",
+      "step",
+      "3447800"
+    ]
+  },
+  "ISR": {
+    "risk_score": 21.57,
+    "count": 22,
+    "top_news": "https://www.justsecurity.org/135772/early-edition-april-6-2026/",
+    "event_codes": {
+      "19": 15,
+      "18": 6,
+      "17": 1
+    },
+    "keywords": [
+      "135772",
+      "early",
+      "edition",
+      "april",
+      "2026"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/israeli-army-fire-vehicle-southern-155834289.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "israeli",
+      "army",
+      "fire",
+      "vehicle",
+      "southern",
+      "155834289.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.justsecurity.org/135772/early-edition-april-6-2026/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "135772",
+      "early",
+      "edition",
+      "april",
+      "2026"
     ]
   }
 }
