@@ -1,45 +1,156 @@
 {
-  "IRN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.zerohedge.com/geopolitical/gunmen-attempt-storm-israeli-consulate-istanbul-terror-attack",
+  "CHL": {
+    "risk_score": 2.55,
+    "count": 4,
+    "top_news": "https://www.elciudadano.com/en/australia-takes-action-against-impunity-extradition-of-adriana-rivas-right-hand-woman-of-mamo-contreras-finalized/04/07/",
     "event_codes": {
-      "19": 3,
-      "17": 1,
+      "17": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "geopolitical",
-      "gunmen",
-      "attempt",
-      "storm",
+      "australia",
+      "takes",
+      "action",
+      "against",
+      "impunity",
+      "extradition",
+      "adriana",
+      "rivas",
+      "right",
+      "hand",
+      "woman",
+      "mamo",
+      "contreras",
+      "finalized"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.05,
+    "count": 13,
+    "top_news": "http://www.bignewsnetwork.com/news/278969753/how-close-is-the-middle-east-to-a-nuclear-catastrophe",
+    "event_codes": {
+      "19": 6,
+      "17": 4,
+      "14": 1,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "278969753",
+      "how",
+      "close",
+      "the",
+      "middle",
+      "east",
+      "nuclear",
+      "catastrophe"
+    ]
+  },
+  "ISR": {
+    "risk_score": 22.76,
+    "count": 30,
+    "top_news": "http://www.bignewsnetwork.com/news/278969753/how-close-is-the-middle-east-to-a-nuclear-catastrophe",
+    "event_codes": {
+      "19": 15,
+      "16": 10,
+      "17": 5
+    },
+    "keywords": [
+      "news",
+      "278969753",
+      "how",
+      "close",
+      "the",
+      "middle",
+      "east",
+      "nuclear",
+      "catastrophe"
+    ]
+  },
+  "JOR": {
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "https://allhiphop.com/news/judge-pampers-jam-master-jay-killer-wishes-him-good-luck-grants-freedom/",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "judge",
+      "pampers",
+      "jam",
+      "master",
+      "jay",
+      "killer",
+      "wishes",
+      "him",
+      "good",
+      "luck",
+      "grants",
+      "freedom"
+    ]
+  },
+  "SAU": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://www.taipeitimes.com/News/front/archives/2026/04/08/2003855218",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "front",
+      "archives",
+      "2026",
+      "2003855218"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/04/07/gunfight-outside-israeli-consulate-in-istanbul-leaves-one-attacker-dead/",
+    "event_codes": {
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "gunfight",
+      "outside",
       "israeli",
       "consulate",
       "istanbul",
-      "terror",
-      "attack"
+      "leaves",
+      "one",
+      "attacker",
+      "dead"
     ]
   },
-  "SYR": {
-    "risk_score": 6.77,
-    "count": 7,
-    "top_news": "https://www.justiceinfo.net/en/157535-syria_a_commission_for_the_missing_still_at_the_experimental_stage.html",
+  "TWN": {
+    "risk_score": 10.7,
+    "count": 15,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/08/2003855232",
     "event_codes": {
-      "19": 5,
-      "17": 1,
-      "20": 1
+      "16": 5,
+      "17": 4,
+      "14": 2,
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "157535",
-      "syria",
-      "commission",
-      "for",
-      "the",
-      "missing",
-      "still",
-      "the",
-      "experimental",
-      "stage.html"
+      "news",
+      "taiwan",
+      "archives",
+      "2026",
+      "2003855232"
     ]
   }
 }
