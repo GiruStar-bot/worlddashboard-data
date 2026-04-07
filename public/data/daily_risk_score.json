@@ -1,77 +1,103 @@
 {
-  "IRN": {
-    "risk_score": 15.8,
-    "count": 19,
-    "top_news": "https://allafrica.com/stories/202604070073.html",
+  "CMR": {
+    "risk_score": 3.12,
+    "count": 4,
+    "top_news": "https://www.cameroon-concord.com/politics/cameroon-military-execute-suspected-witness-of-killers-of-genderme-officers-in-belo",
     "event_codes": {
-      "19": 10,
-      "17": 5,
-      "14": 2,
-      "18": 2
+      "15": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "stories",
-      "202604070073.html"
+      "politics",
+      "cameroon",
+      "military",
+      "execute",
+      "suspected",
+      "witness",
+      "killers",
+      "genderme",
+      "officers",
+      "belo"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.02,
+    "count": 14,
+    "top_news": "https://www.thehour.com/news/world/article/bridge-linking-saudi-arabia-to-bahrain-closed-22192852.php",
+    "event_codes": {
+      "19": 6,
+      "17": 5,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "article",
+      "bridge",
+      "linking",
+      "saudi",
+      "arabia",
+      "bahrain",
+      "closed",
+      "22192852.php"
     ]
   },
   "ISR": {
-    "risk_score": 9.45,
-    "count": 13,
-    "top_news": "https://jamaica-gleaner.com/article/commentary/20260407/michael-abrahams-israels-palestinian-purge-prescription",
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://newstodaynet.com/2026/04/07/chief-of-irgc-intelligence-israel/",
     "event_codes": {
-      "17": 7,
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "commentary",
-      "20260407",
-      "michael",
-      "abrahams",
-      "israels",
-      "palestinian",
-      "purge",
-      "prescription"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.2,
-    "count": 10,
-    "top_news": "https://www.vanguardngr.com/2026/04/1402-nigerians-killed-abducted-by-terrorists-in-96-days-intersociety/",
-    "event_codes": {
-      "19": 4,
-      "16": 3,
-      "18": 3
-    },
-    "keywords": [
-      "2026",
-      "1402",
-      "nigerians",
-      "killed",
-      "abducted",
-      "terrorists",
-      "days",
-      "intersociety"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://jamaica-gleaner.com/article/commentary/20260407/michael-abrahams-israels-palestinian-purge-prescription",
-    "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
-      "article",
-      "commentary",
-      "20260407",
-      "michael",
-      "abrahams",
-      "israels",
-      "palestinian",
-      "purge",
-      "prescription"
+      "2026",
+      "chief",
+      "irgc",
+      "intelligence",
+      "israel"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://newstodaynet.com/2026/04/07/violence-in-nigeria-kills-26/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "violence",
+      "nigeria",
+      "kills"
+    ]
+  },
+  "SAU": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "http://www.arabherald.com/news/278968466/saudi-ministry-of-defence-seven-ballistic-missiles-launched-toward-eastern-region-intercepted-destroyed",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "278968466",
+      "saudi",
+      "ministry",
+      "defence",
+      "seven",
+      "ballistic",
+      "missiles",
+      "launched",
+      "toward",
+      "eastern",
+      "region",
+      "intercepted",
+      "destroyed"
     ]
   }
 }
