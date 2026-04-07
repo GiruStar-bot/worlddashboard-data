@@ -1,133 +1,172 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/u-n-envoy-meets-sudan-rivals-as-humanitarian-crisis-deepens",
+  "IRN": {
+    "risk_score": 6.32,
+    "count": 8,
+    "top_news": "https://www.express.co.uk/news/uk/2191031/iran-money-money-luxury-flats-powerless-uk",
     "event_codes": {
-      "19": 3
+      "17": 4,
+      "19": 3,
+      "18": 1
     },
     "keywords": [
       "news",
-      "article",
-      "envoy",
-      "meets",
-      "sudan",
-      "rivals",
-      "humanitarian",
-      "crisis",
-      "deepens"
+      "2191031",
+      "iran",
+      "money",
+      "money",
+      "luxury",
+      "flats",
+      "powerless"
     ]
   },
-  "IRN": {
-    "risk_score": 14.0,
-    "count": 14,
-    "top_news": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+  "ISR": {
+    "risk_score": 17.05,
+    "count": 19,
+    "top_news": "https://www.israelnationalnews.com/news/425175",
     "event_codes": {
-      "19": 14
+      "19": 11,
+      "18": 4,
+      "17": 2,
+      "16": 1,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "425175"
+    ]
+  },
+  "LBY": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/07/sarkozy-says-he-owes-france-the-truth-as-he-challenges-conviction-over-alleged-libya-funding",
+    "event_codes": {
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "world",
       "2026",
-      "apr",
-      "israel",
-      "warns",
-      "iran",
-      "lives",
-      "risk",
-      "they",
-      "use",
-      "trains",
-      "trump",
-      "deadline"
+      "sarkozy",
+      "says",
+      "owes",
+      "france",
+      "the",
+      "truth",
+      "challenges",
+      "conviction",
+      "over",
+      "alleged",
+      "libya",
+      "funding"
     ]
   },
-  "ISR": {
-    "risk_score": 14.0,
-    "count": 14,
-    "top_news": "https://www.nbclosangeles.com/news/national-international/live-updates-iran-war-us-israel-middle-east-april-7/3872287/",
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/07/sarkozy-says-he-owes-france-the-truth-as-he-challenges-conviction-over-alleged-libya-funding",
     "event_codes": {
-      "19": 14
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "sarkozy",
+      "says",
+      "owes",
+      "france",
+      "the",
+      "truth",
+      "challenges",
+      "conviction",
+      "over",
+      "alleged",
+      "libya",
+      "funding"
+    ]
+  },
+  "NGA": {
+    "risk_score": 16.5,
+    "count": 28,
+    "top_news": "https://www.israelnationalnews.com/news/425175",
+    "event_codes": {
+      "17": 19,
+      "16": 3,
+      "19": 3,
+      "18": 2,
+      "20": 1
     },
     "keywords": [
       "news",
-      "national",
-      "international",
+      "425175"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "live",
       "updates",
       "iran",
       "war",
+      "trump",
+      "deadline",
+      "power",
+      "plants",
+      "human",
+      "chains",
       "israel",
-      "middle",
-      "east",
-      "april",
-      "3872287"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.74,
-    "count": 12,
-    "top_news": "https://saharareporters.com/2026/04/07/tinubu-chief-mourner-not-commander-chief-adc-blasts-nigerian-president-over-recycled",
-    "event_codes": {
-      "17": 5,
-      "19": 4,
-      "15": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "tinubu",
-      "chief",
-      "mourner",
-      "not",
-      "commander",
-      "chief",
-      "adc",
-      "blasts",
-      "nigerian",
-      "president",
-      "over",
-      "recycled"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.thailand-business-news.com/asean/malaysia/299150-thailand-confiscates-100000-litres-of-diesel-linked-to-malaysian-firm-in-sadao",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "asean",
-      "malaysia",
-      "299150",
-      "thailand",
-      "confiscates",
-      "100000",
-      "litres",
-      "diesel",
-      "linked",
-      "malaysian",
-      "firm",
-      "sadao"
+      "train",
+      "strikes"
     ]
   },
   "TUR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.mirror.co.uk/news/world-news/istanbul-live-gun-fire-erupts-36978084",
+    "risk_score": 24.95,
+    "count": 26,
+    "top_news": "https://bianet.org/haber/gunfight-near-israeli-consulate-in-istanbul-leaves-one-dead-318438",
     "event_codes": {
-      "19": 8
+      "19": 23,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
+      "haber",
+      "gunfight",
+      "near",
+      "israeli",
+      "consulate",
       "istanbul",
-      "live",
-      "gun",
-      "fire",
-      "erupts",
-      "36978084"
+      "leaves",
+      "one",
+      "dead",
+      "318438"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.benzinga.com/markets/tech/26/04/51674105/the-silicon-battle-china-goes-after-taiwans-most-valuable-asset",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
+      "markets",
+      "tech",
+      "51674105",
+      "the",
+      "silicon",
+      "battle",
+      "china",
+      "goes",
+      "after",
+      "taiwans",
+      "most",
+      "valuable",
+      "asset"
     ]
   }
 }
