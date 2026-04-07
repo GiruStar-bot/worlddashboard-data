@@ -1,146 +1,45 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.fairfieldsuntimes.com/news/national/key-infrastructure-in-iran-hit-ahead-of-trump-deadline/article_2a5e5e08-9d67-525c-8415-0e877e575b0a.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "national",
-      "key",
-      "infrastructure",
-      "iran",
-      "hit",
-      "ahead",
-      "trump",
-      "deadline",
-      "article",
-      "2a5e5e08",
-      "9d67",
-      "525c",
-      "8415",
-      "0e877e575b0a.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 18.5,
-    "count": 21,
-    "top_news": "https://www.alternet.org/trump-nukes-2676673124/",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.zerohedge.com/geopolitical/gunmen-attempt-storm-israeli-consulate-istanbul-terror-attack",
     "event_codes": {
-      "19": 15,
-      "17": 5,
+      "19": 3,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "trump",
-      "nukes",
-      "2676673124"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.12,
-    "count": 22,
-    "top_news": "https://www.alternet.org/trump-nukes-2676673124/",
-    "event_codes": {
-      "19": 11,
-      "17": 5,
-      "18": 3,
-      "14": 2,
-      "15": 1
-    },
-    "keywords": [
-      "trump",
-      "nukes",
-      "2676673124"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.reflector.com/news/national/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isnt-reached/article_d8b96d21-36b6-599e-8d6e-5198bc738293.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "national",
-      "trump",
-      "warns",
-      "whole",
-      "civilization",
-      "will",
-      "die",
-      "tonight",
-      "deal",
-      "with",
-      "iran",
-      "isnt",
-      "reached",
-      "article",
-      "d8b96d21",
-      "36b6",
-      "599e",
-      "8d6e",
-      "5198bc738293.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "http://thepeninsulaqatar.com/article/07/04/2026/palestinian-youth-succumbs-to-injuries-as-israeli-forces-continue-bombardment-airstrikes-on-gaza",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "palestinian",
-      "youth",
-      "succumbs",
-      "injuries",
-      "israeli",
-      "forces",
-      "continue",
-      "bombardment",
-      "airstrikes",
-      "gaza"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.canoncitydailyrecord.com/2026/04/07/iran-war-trump-deadline/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "war",
-      "trump",
-      "deadline"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.67,
-    "count": 5,
-    "top_news": "https://www.tivysideadvertiser.co.uk/news/national/26000705.gunmen-attack-building-housing-israeli-consulate-istanbul/",
-    "event_codes": {
-      "19": 4,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "26000705.gunmen",
-      "attack",
-      "building",
-      "housing",
+      "geopolitical",
+      "gunmen",
+      "attempt",
+      "storm",
       "israeli",
       "consulate",
-      "istanbul"
+      "istanbul",
+      "terror",
+      "attack"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.77,
+    "count": 7,
+    "top_news": "https://www.justiceinfo.net/en/157535-syria_a_commission_for_the_missing_still_at_the_experimental_stage.html",
+    "event_codes": {
+      "19": 5,
+      "17": 1,
+      "20": 1
+    },
+    "keywords": [
+      "157535",
+      "syria",
+      "commission",
+      "for",
+      "the",
+      "missing",
+      "still",
+      "the",
+      "experimental",
+      "stage.html"
     ]
   }
 }
