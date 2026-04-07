@@ -1,172 +1,210 @@
 {
-  "IRN": {
-    "risk_score": 6.32,
+  "ARE": {
+    "risk_score": 7.6,
     "count": 8,
-    "top_news": "https://www.express.co.uk/news/uk/2191031/iran-money-money-luxury-flats-powerless-uk",
+    "top_news": "https://www.jagonews24.com/en/national/news/91582",
     "event_codes": {
-      "17": 4,
-      "19": 3,
-      "18": 1
+      "19": 8
     },
     "keywords": [
+      "national",
       "news",
-      "2191031",
-      "iran",
-      "money",
-      "money",
-      "luxury",
-      "flats",
-      "powerless"
+      "91582"
     ]
   },
-  "ISR": {
-    "risk_score": 17.05,
-    "count": 19,
-    "top_news": "https://www.israelnationalnews.com/news/425175",
-    "event_codes": {
-      "19": 11,
-      "18": 4,
-      "17": 2,
-      "16": 1,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "425175"
-    ]
-  },
-  "LBY": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/07/sarkozy-says-he-owes-france-the-truth-as-he-challenges-conviction-over-alleged-libya-funding",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "sarkozy",
-      "says",
-      "owes",
-      "france",
-      "the",
-      "truth",
-      "challenges",
-      "conviction",
-      "over",
-      "alleged",
-      "libya",
-      "funding"
-    ]
-  },
-  "NER": {
+  "BHR": {
     "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/07/sarkozy-says-he-owes-france-the-truth-as-he-challenges-conviction-over-alleged-libya-funding",
+    "count": 4,
+    "top_news": "https://www.citizensvoice.com/2026/04/07/iran-war-trump-deadline/",
     "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "sarkozy",
-      "says",
-      "owes",
-      "france",
-      "the",
-      "truth",
-      "challenges",
-      "conviction",
-      "over",
-      "alleged",
-      "libya",
-      "funding"
-    ]
-  },
-  "NGA": {
-    "risk_score": 16.5,
-    "count": 28,
-    "top_news": "https://www.israelnationalnews.com/news/425175",
-    "event_codes": {
-      "17": 19,
-      "16": 3,
-      "19": 3,
-      "18": 2,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "425175"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
-    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "trump",
+      "deadline"
+    ]
+  },
+  "IRN": {
+    "risk_score": 37.2,
+    "count": 40,
+    "top_news": "https://www.citizensvoice.com/2026/04/07/iran-war-trump-deadline/",
+    "event_codes": {
+      "19": 30,
+      "18": 5,
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "trump",
+      "deadline"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.8,
+    "count": 17,
+    "top_news": "https://www.nbcnewyork.com/news/national-international/live-updates-iran-war-us-israel-middle-east-april-7/6486569/",
+    "event_codes": {
+      "19": 17
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
       "live",
       "updates",
       "iran",
       "war",
-      "trump",
-      "deadline",
-      "power",
-      "plants",
-      "human",
-      "chains",
       "israel",
-      "train",
-      "strikes"
+      "middle",
+      "east",
+      "april",
+      "6486569"
+    ]
+  },
+  "KEN": {
+    "risk_score": 10.41,
+    "count": 12,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/04/two-killed-as-police-clash-with-anti-mining-protesters-in-siaya/",
+    "event_codes": {
+      "14": 5,
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "two",
+      "killed",
+      "police",
+      "clash",
+      "with",
+      "anti",
+      "mining",
+      "protesters",
+      "siaya"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/us-iran-war-death-toll-israel-lebanon-kuwait-b2952925.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "death",
+      "toll",
+      "israel",
+      "lebanon",
+      "kuwait",
+      "b2952925.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/us-iran-war-death-toll-israel-lebanon-kuwait-b2952925.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "death",
+      "toll",
+      "israel",
+      "lebanon",
+      "kuwait",
+      "b2952925.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://quicknews-africa.net/court-remands-man-over-alleged-possession-of-15-6kg-cannabis/",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "court",
+      "remands",
+      "man",
+      "over",
+      "alleged",
+      "possession",
+      "6kg",
+      "cannabis"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/us-iran-war-death-toll-israel-lebanon-kuwait-b2952925.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "death",
+      "toll",
+      "israel",
+      "lebanon",
+      "kuwait",
+      "b2952925.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "http://www.tnledger.com/editorial/Article.aspx?id=202211",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "editorial",
+      "article.aspx"
     ]
   },
   "TUR": {
-    "risk_score": 24.95,
-    "count": 26,
-    "top_news": "https://bianet.org/haber/gunfight-near-israeli-consulate-in-istanbul-leaves-one-dead-318438",
+    "risk_score": 11.74,
+    "count": 13,
+    "top_news": "https://www.cbc.ca/news/world/hungary-istanbul-israel-consulate-incident-9.7154453",
     "event_codes": {
-      "19": 23,
-      "17": 2,
-      "18": 1
+      "19": 9,
+      "14": 2,
+      "15": 2
     },
     "keywords": [
-      "haber",
-      "gunfight",
-      "near",
-      "israeli",
-      "consulate",
+      "news",
+      "world",
+      "hungary",
       "istanbul",
-      "leaves",
-      "one",
-      "dead",
-      "318438"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://www.benzinga.com/markets/tech/26/04/51674105/the-silicon-battle-china-goes-after-taiwans-most-valuable-asset",
-    "event_codes": {
-      "15": 3
-    },
-    "keywords": [
-      "markets",
-      "tech",
-      "51674105",
-      "the",
-      "silicon",
-      "battle",
-      "china",
-      "goes",
-      "after",
-      "taiwans",
-      "most",
-      "valuable",
-      "asset"
+      "israel",
+      "consulate",
+      "incident",
+      "9.7154453"
     ]
   }
 }
