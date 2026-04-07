@@ -1,61 +1,136 @@
 {
   "IRN": {
-    "risk_score": 23.34,
-    "count": 29,
-    "top_news": "https://www.newsweek.com/israel-reacts-to-reports-it-bombed-synagogue-in-iran-11793398",
+    "risk_score": 28.55,
+    "count": 32,
+    "top_news": "https://www.democracynow.org/2026/4/7/headlines/iranian_attack_on_us_base_in_kuwait_injures_15_us_soldiers",
     "event_codes": {
-      "19": 15,
-      "17": 9,
-      "16": 3,
-      "18": 2
+      "19": 17,
+      "18": 10,
+      "17": 3,
+      "16": 2
     },
     "keywords": [
-      "israel",
-      "reacts",
-      "reports",
-      "bombed",
-      "synagogue",
-      "iran",
-      "11793398"
+      "2026",
+      "headlines",
+      "iranian",
+      "attack",
+      "base",
+      "kuwait",
+      "injures",
+      "soldiers"
     ]
   },
   "IRQ": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://www.the-messenger.com/news/world/article_2873502c-32c3-5805-af1d-3dc9442331c8.html",
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.fox32chicago.com/tag/iran-war",
     "event_codes": {
-      "18": 4,
-      "19": 2
+      "18": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "article",
-      "2873502c",
-      "32c3",
-      "5805",
-      "af1d",
-      "3dc9442331c8.html"
+      "tag",
+      "iran",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 7.36,
-    "count": 9,
-    "top_news": "https://www.newsweek.com/israel-reacts-to-reports-it-bombed-synagogue-in-iran-11793398",
+    "risk_score": 9.9,
+    "count": 10,
+    "top_news": "https://www.democracynow.org/2026/4/7/headlines/one_gunman_killed_two_others_injured_in_shooting_at_israeli_consulate_in_istanbul",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "17": 2,
-      "15": 1
+      "19": 8,
+      "18": 2
     },
     "keywords": [
-      "israel",
-      "reacts",
-      "reports",
-      "bombed",
-      "synagogue",
-      "iran",
-      "11793398"
+      "2026",
+      "headlines",
+      "one",
+      "gunman",
+      "killed",
+      "two",
+      "others",
+      "injured",
+      "shooting",
+      "israeli",
+      "consulate",
+      "istanbul"
+    ]
+  },
+  "JOR": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.aceshowbiz.com/news/view/00252762.html",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "view",
+      "00252762.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/anger-sorrow-funeral-lebanese-anti-hezbollah-party-official-killed-israel",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "anger",
+      "sorrow",
+      "funeral",
+      "lebanese",
+      "anti",
+      "hezbollah",
+      "party",
+      "official",
+      "killed",
+      "israel"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/04/07/terrorists-kill-five-set-niger-community-ablaze-abduct-several/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "terrorists",
+      "kill",
+      "five",
+      "set",
+      "niger",
+      "community",
+      "ablaze",
+      "abduct",
+      "several"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.channelstv.com/2026/04/07/it-was-figurative-wike-denies-threat-against-channels-tvs-okinbaloye/",
+    "event_codes": {
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "was",
+      "figurative",
+      "wike",
+      "denies",
+      "threat",
+      "against",
+      "channels",
+      "tvs",
+      "okinbaloye"
     ]
   }
 }
