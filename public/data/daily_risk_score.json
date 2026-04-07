@@ -1,114 +1,145 @@
 {
+  "BFA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://ghanaiantimes.com.gh/burkina-faso-rejects-report-claiming-over-1800-civilian-killings/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "burkina",
+      "faso",
+      "rejects",
+      "report",
+      "claiming",
+      "over",
+      "1800",
+      "civilian",
+      "killings"
+    ]
+  },
   "IRN": {
-    "risk_score": 23.45,
-    "count": 25,
-    "top_news": "https://en.apa.az/asia/idf-says-it-struck-one-of-irans-few-remaining-plants-producing-materials-for-ballistic-missiles-500130",
+    "risk_score": 8.87,
+    "count": 10,
+    "top_news": "https://www.aljazeera.com/news/2026/4/7/iran-war-what-is-happening-on-day-39-of-us-israeli-attacks",
     "event_codes": {
-      "19": 20,
-      "18": 2,
+      "19": 7,
       "14": 1,
-      "16": 1,
+      "15": 1,
       "17": 1
-    },
-    "keywords": [
-      "asia",
-      "idf",
-      "says",
-      "struck",
-      "one",
-      "irans",
-      "few",
-      "remaining",
-      "plants",
-      "producing",
-      "materials",
-      "for",
-      "ballistic",
-      "missiles",
-      "500130"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.8,
-    "count": 13,
-    "top_news": "https://www.novinite.com/articles/237909/Israeli+Strike+Kills+10+at+Gaza+School,+WHO+Shuts+Down+Evacuations",
-    "event_codes": {
-      "17": 6,
-      "19": 5,
-      "16": 2
-    },
-    "keywords": [
-      "articles",
-      "237909",
-      "israeli+strike+kills+10+at+gaza+school,+who+shuts+down+evacuations"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.44,
-    "count": 4,
-    "top_news": "https://www.capitalfm.co.ke/news/2026/04/govt-begins-construction-of-security-camp-near-marsabit-wajir-border-to-curb-drug-and-human-trafficking/",
-    "event_codes": {
-      "15": 2,
-      "17": 2
     },
     "keywords": [
       "news",
       "2026",
-      "govt",
-      "begins",
-      "construction",
-      "security",
-      "camp",
-      "near",
-      "marsabit",
-      "wajir",
-      "border",
-      "curb",
-      "drug",
-      "and",
-      "human",
-      "trafficking"
+      "iran",
+      "war",
+      "what",
+      "happening",
+      "day",
+      "israeli",
+      "attacks"
     ]
   },
-  "KWT": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://en.apa.az/asia/15-americans-wounded-in-drone-attack-on-ali-al-salem-base-in-kuwait-500090",
+  "ISR": {
+    "risk_score": 13.27,
+    "count": 14,
+    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260407/421ee64fdc9a5c26460df8119c7d1b3f",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 9,
+      "18": 3,
+      "17": 2
     },
     "keywords": [
-      "asia",
-      "americans",
-      "wounded",
-      "drone",
-      "attack",
-      "ali",
-      "salem",
-      "base",
-      "kuwait",
-      "500090"
+      "news",
+      "world",
+      "story",
+      "0001",
+      "20260407",
+      "421ee64fdc9a5c26460df8119c7d1b3f"
+    ]
+  },
+  "MYS": {
+    "risk_score": 6.9,
+    "count": 12,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/04/07/court-issues-arrest-warrants-against-daims-sons-ex-lawyer",
+    "event_codes": {
+      "17": 10,
+      "14": 2
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "court",
+      "issues",
+      "arrest",
+      "warrants",
+      "against",
+      "daims",
+      "sons",
+      "lawyer"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/04/07/rival-terrorist-factions-clash-in-kebbi-raising-fresh-security-concerns/",
+    "risk_score": 14.42,
+    "count": 15,
+    "top_news": "https://www.channelstv.com/2026/04/06/enough-of-hollow-rhetoric-atiku-faults-tinubus-comment-over-killings/",
     "event_codes": {
-      "19": 4
+      "19": 11,
+      "18": 3,
+      "15": 1
     },
     "keywords": [
       "2026",
-      "rival",
-      "terrorist",
-      "factions",
-      "clash",
-      "kebbi",
-      "raising",
-      "fresh",
-      "security",
-      "concerns"
+      "enough",
+      "hollow",
+      "rhetoric",
+      "atiku",
+      "faults",
+      "tinubus",
+      "comment",
+      "over",
+      "killings"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.lockhaven.com/news/police-court-and-fires/2026/04/police-news-april-7-4/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "police",
+      "court",
+      "and",
+      "fires",
+      "2026",
+      "police",
+      "news",
+      "april"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jamaicaobserver.com/2026/04/07/middle-east-war-global-economic-fallout-20260407-0855-206772/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "middle",
+      "east",
+      "war",
+      "global",
+      "economic",
+      "fallout",
+      "20260407",
+      "0855",
+      "206772"
     ]
   }
 }
