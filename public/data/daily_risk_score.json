@@ -1,133 +1,177 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wfmz.com/news/ap/ap-national/the-latest-us-and-israel-strike-irans-oil-rail-and-bridges-ahead-of-trump-deadline/article_7c67579f-161c-5290-947c-f95db723f358.html",
+  "BRA": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.semissourian.com/world/the-top-photos-of-the-day-by-aps-photojournalists-fe3cb841",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "the",
+      "top",
+      "photos",
+      "the",
+      "day",
+      "aps",
+      "photojournalists",
+      "fe3cb841"
+    ]
+  },
+  "CHL": {
+    "risk_score": 5.9,
+    "count": 9,
+    "top_news": "https://lancasteronline.com/news/local/lancaster-man-gets-prison-term-in-failed-gun-theft-that-left-accomplice-dead/article_6169a6c4-69d3-4456-9e38-5b187d342a70.html",
+    "event_codes": {
+      "17": 5,
+      "19": 3,
+      "16": 1
     },
     "keywords": [
       "news",
-      "national",
-      "the",
-      "latest",
-      "and",
-      "israel",
-      "strike",
-      "irans",
-      "oil",
-      "rail",
-      "and",
-      "bridges",
-      "ahead",
-      "trump",
-      "deadline",
+      "local",
+      "lancaster",
+      "man",
+      "gets",
+      "prison",
+      "term",
+      "failed",
+      "gun",
+      "theft",
+      "that",
+      "left",
+      "accomplice",
+      "dead",
       "article",
-      "7c67579f",
-      "161c",
-      "5290",
-      "947c",
-      "f95db723f358.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://www.arlnow.com/2026/04/07/columbia-pike-bank-robber-sentenced-to-almost-four-years-in-federal-prison/",
-    "event_codes": {
-      "17": 7
-    },
-    "keywords": [
-      "2026",
-      "columbia",
-      "pike",
-      "bank",
-      "robber",
-      "sentenced",
-      "almost",
-      "four",
-      "years",
-      "federal",
-      "prison"
+      "6169a6c4",
+      "69d3",
+      "4456",
+      "9e38",
+      "5b187d342a70.html"
     ]
   },
   "IRN": {
-    "risk_score": 4.1,
-    "count": 6,
-    "top_news": "https://www.siasat.com/only-trump-knows-what-to-do-says-white-house-as-iran-rains-missiles-on-israel-3448477/",
+    "risk_score": 17.32,
+    "count": 20,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/07/766463/Iran-s-Jewish-community-condemns-US-Israeli-attack-on-synagogue-in-Tehran",
     "event_codes": {
-      "17": 3,
-      "19": 2,
-      "14": 1
+      "19": 13,
+      "16": 2,
+      "17": 2,
+      "18": 2,
+      "15": 1
     },
     "keywords": [
-      "only",
-      "trump",
-      "knows",
-      "what",
-      "says",
-      "white",
-      "house",
+      "detail",
+      "2026",
+      "766463",
       "iran",
-      "rains",
-      "missiles",
-      "israel",
-      "3448477"
+      "jewish",
+      "community",
+      "condemns",
+      "israeli",
+      "attack",
+      "synagogue",
+      "tehran"
     ]
   },
   "ISR": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.siasat.com/only-trump-knows-what-to-do-says-white-house-as-iran-rains-missiles-on-israel-3448477/",
+    "risk_score": 29.8,
+    "count": 31,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/07/766467/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-april7",
     "event_codes": {
-      "19": 3,
+      "19": 19,
+      "18": 10,
+      "14": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "766467",
+      "true",
+      "promise",
+      "iran",
+      "resistance",
+      "axis",
+      "ops",
+      "against",
+      "israeli",
+      "sites",
+      "april7"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.75,
+    "count": 10,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/07/766467/true-promise-4-iran-resistance-axis-ops-against-us-israeli-sites-april7",
+    "event_codes": {
+      "19": 6,
+      "14": 3,
       "17": 1
     },
     "keywords": [
-      "only",
-      "trump",
-      "knows",
-      "what",
-      "says",
-      "white",
-      "house",
+      "detail",
+      "2026",
+      "766467",
+      "true",
+      "promise",
       "iran",
-      "rains",
-      "missiles",
-      "israel",
-      "3448477"
+      "resistance",
+      "axis",
+      "ops",
+      "against",
+      "israeli",
+      "sites",
+      "april7"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.0,
+    "count": 18,
+    "top_news": "https://blueprint.ng/niger-baga-community-set-on-fire-as-terrorists-kill-kidnap-many/",
+    "event_codes": {
+      "17": 13,
+      "18": 5
+    },
+    "keywords": [
+      "niger",
+      "baga",
+      "community",
+      "set",
+      "fire",
+      "terrorists",
+      "kill",
+      "kidnap",
+      "many"
     ]
   },
   "SAU": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.wfmz.com/news/ap/ap-national/the-latest-us-and-israel-strike-irans-oil-rail-and-bridges-ahead-of-trump-deadline/article_7c67579f-161c-5290-947c-f95db723f358.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hometownregister.com/news/national/pakistan-makes-last-minute-bid-to-avert-trump-threat-to-destroy-iran/article_4aeac9f6-a164-5141-afac-27c9adbd7089.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
       "news",
       "national",
-      "the",
-      "latest",
-      "and",
-      "israel",
-      "strike",
-      "irans",
-      "oil",
-      "rail",
-      "and",
-      "bridges",
-      "ahead",
+      "pakistan",
+      "makes",
+      "last",
+      "minute",
+      "bid",
+      "avert",
       "trump",
-      "deadline",
+      "threat",
+      "destroy",
+      "iran",
       "article",
-      "7c67579f",
-      "161c",
-      "5290",
-      "947c",
-      "f95db723f358.html"
+      "4aeac9f6",
+      "a164",
+      "5141",
+      "afac",
+      "27c9adbd7089.html"
     ]
   }
 }
