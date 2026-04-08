@@ -1,55 +1,183 @@
 {
   "IRN": {
-    "risk_score": 8.7,
-    "count": 11,
-    "top_news": "http://www.pauldavisoncrime.com/search/label/Gary%20Berntsen",
+    "risk_score": 17.58,
+    "count": 18,
+    "top_news": "https://www.union-bulletin.com/news/world/trump-says-us-will-dig-up-uranium-buried-in-iran-iran-does-not-confirm/article_e94827c5-9f4c-587c-8214-963c94ff2601.html",
     "event_codes": {
-      "14": 6,
-      "19": 4,
-      "17": 1
+      "19": 12,
+      "17": 4,
+      "18": 2
     },
     "keywords": [
-      "search",
-      "label",
-      "gary%20berntsen"
+      "news",
+      "world",
+      "trump",
+      "says",
+      "will",
+      "dig",
+      "uranium",
+      "buried",
+      "iran",
+      "iran",
+      "does",
+      "not",
+      "confirm",
+      "article",
+      "e94827c5",
+      "9f4c",
+      "587c",
+      "8214",
+      "963c94ff2601.html"
     ]
   },
   "IRQ": {
+    "risk_score": 3.1,
+    "count": 4,
+    "top_news": "https://news.webindia123.com/news/Articles/World/20260408/4436517.html",
+    "event_codes": {
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "world",
+      "20260408",
+      "4436517.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/867406/israeli-fury-trump-a-global-clown-as-iran-dictates-terms-idf-defies-ceasefire-with-new-strikes-on-lebanon%20title=",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "867406",
+      "israeli",
+      "fury",
+      "trump",
+      "global",
+      "clown",
+      "iran",
+      "dictates",
+      "terms",
+      "idf",
+      "defies",
+      "ceasefire",
+      "with",
+      "new",
+      "strikes",
+      "lebanon%20title="
+    ]
+  },
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.pauldavisoncrime.com/search/label/Gary%20Berntsen",
+    "top_news": "https://www.union-bulletin.com/news/world/trump-says-us-will-dig-up-uranium-buried-in-iran-iran-does-not-confirm/article_e94827c5-9f4c-587c-8214-963c94ff2601.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "search",
-      "label",
-      "gary%20berntsen"
+      "news",
+      "world",
+      "trump",
+      "says",
+      "will",
+      "dig",
+      "uranium",
+      "buried",
+      "iran",
+      "iran",
+      "does",
+      "not",
+      "confirm",
+      "article",
+      "e94827c5",
+      "9f4c",
+      "587c",
+      "8214",
+      "963c94ff2601.html"
     ]
   },
-  "ISR": {
-    "risk_score": 8.44,
-    "count": 9,
-    "top_news": "https://www.ibtimes.co.uk/iran-ceasefire-wont-save-israel-hezbollah-netanyahu-clarifies-lebanon-not-included-deal-1790678",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.union-bulletin.com/news/world/trump-says-us-will-dig-up-uranium-buried-in-iran-iran-does-not-confirm/article_e94827c5-9f4c-587c-8214-963c94ff2601.html",
     "event_codes": {
-      "18": 4,
-      "19": 3,
-      "17": 2
+      "19": 2
     },
     "keywords": [
+      "news",
+      "world",
+      "trump",
+      "says",
+      "will",
+      "dig",
+      "uranium",
+      "buried",
       "iran",
-      "ceasefire",
-      "wont",
-      "save",
-      "israel",
-      "hezbollah",
-      "netanyahu",
-      "clarifies",
-      "lebanon",
+      "iran",
+      "does",
       "not",
-      "included",
-      "deal",
-      "1790678"
+      "confirm",
+      "article",
+      "e94827c5",
+      "9f4c",
+      "587c",
+      "8214",
+      "963c94ff2601.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.thecable.ng/gunmen-kill-20-in-niger-state/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "gunmen",
+      "kill",
+      "niger",
+      "state"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.coventrytelegraph.net/news/local-news/nigel-farage-says-afghan-rapist-33728588",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "local",
+      "news",
+      "nigel",
+      "farage",
+      "says",
+      "afghan",
+      "rapist",
+      "33728588"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://abcnews.com/alerts/syria/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "alerts",
+      "syria"
     ]
   }
 }
