@@ -1,69 +1,123 @@
 {
-  "IRN": {
-    "risk_score": 10.27,
-    "count": 13,
-    "top_news": "https://www.idahostatejournal.com/news/national/the-latest-trump-pulls-back-on-threats-as-us-israel-and-iran-reach-a-2/article_4dde51f1-29cb-5cbe-81e7-44a99ffb2354.html",
+  "GUY": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://kaieteurnewsonline.com/2026/04/08/five-words-that-fit-many-guyanese-politicians/",
     "event_codes": {
-      "19": 7,
-      "16": 2,
-      "17": 2,
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "five",
+      "words",
+      "that",
+      "fit",
+      "many",
+      "guyanese",
+      "politicians"
+    ]
+  },
+  "IRN": {
+    "risk_score": 14.87,
+    "count": 17,
+    "top_news": "https://www.dailypress.net/opinion/local-columns/2026/04/pope-leos-flawed-war-doctrine/",
+    "event_codes": {
+      "19": 12,
+      "17": 3,
       "14": 1,
       "15": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "the",
-      "latest",
-      "trump",
-      "pulls",
-      "back",
-      "threats",
-      "israel",
-      "and",
-      "iran",
-      "reach",
-      "article",
-      "4dde51f1",
-      "29cb",
-      "5cbe",
-      "81e7",
-      "44a99ffb2354.html"
+      "opinion",
+      "local",
+      "columns",
+      "2026",
+      "pope",
+      "leos",
+      "flawed",
+      "war",
+      "doctrine"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260408/ff0070d6e8a245ad8e6819f1dc66e7af/c.html",
+    "risk_score": 4.76,
+    "count": 5,
+    "top_news": "https://en.tempo.co/read/2097024/unifil-says-israeli-forces-detained-peacekeeper-in-south-lebanon",
     "event_codes": {
-      "19": 4
+      "17": 3,
+      "19": 2
     },
     "keywords": [
-      "20260408",
-      "ff0070d6e8a245ad8e6819f1dc66e7af",
-      "c.html"
+      "read",
+      "2097024",
+      "unifil",
+      "says",
+      "israeli",
+      "forces",
+      "detained",
+      "peacekeeper",
+      "south",
+      "lebanon"
     ]
   },
-  "NGA": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.cnbcafrica.com/2026/benin-finance-minister-wadagni-seeks-his-own-mandate-in-election",
+  "KEN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/04/gachagua-kikuyu-rally-police-standoff-public-order-act/",
     "event_codes": {
-      "19": 2,
-      "17": 1,
-      "18": 1
+      "19": 5
     },
     "keywords": [
+      "news",
       "2026",
-      "benin",
-      "finance",
-      "minister",
-      "wadagni",
-      "seeks",
-      "his",
-      "own",
-      "mandate",
-      "election"
+      "gachagua",
+      "kikuyu",
+      "rally",
+      "police",
+      "standoff",
+      "public",
+      "order",
+      "act"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.52,
+    "count": 6,
+    "top_news": "https://www.ibtimes.co.uk/rocket-strike-basra-protests-diplomatic-tensions-1790675",
+    "event_codes": {
+      "19": 3,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "rocket",
+      "strike",
+      "basra",
+      "protests",
+      "diplomatic",
+      "tensions",
+      "1790675"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://en.tempo.co/read/2097024/unifil-says-israeli-forces-detained-peacekeeper-in-south-lebanon",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "read",
+      "2097024",
+      "unifil",
+      "says",
+      "israeli",
+      "forces",
+      "detained",
+      "peacekeeper",
+      "south",
+      "lebanon"
     ]
   }
 }
