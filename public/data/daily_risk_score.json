@@ -1,64 +1,124 @@
 {
-  "IRN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260408011746.nbcx34o2.html",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ksat.com/news/world/2026/04/08/us-israel-and-iran-agree-to-a-2-week-ceasefire-though-firings-continue/",
     "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "afp",
-      "260408011746.nbcx34o2.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 8.7,
-    "count": 11,
-    "top_news": "https://www.miragenews.com/american-journalist-shelly-kittleson-freed-1651607/",
-    "event_codes": {
-      "18": 8,
-      "17": 3
-    },
-    "keywords": [
-      "american",
-      "journalist",
-      "shelly",
-      "kittleson",
-      "freed",
-      "1651607"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.2news.com/news/national/american-journalist-shelly-kittleson-has-been-released-week-after-kidnapping-in-iraq-rubio-says/article_cbdaf4b5-f259-598a-a298-5d127270ba5b.html",
-    "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "national",
-      "american",
-      "journalist",
-      "shelly",
-      "kittleson",
-      "has",
-      "been",
-      "released",
+      "world",
+      "2026",
+      "israel",
+      "and",
+      "iran",
+      "agree",
       "week",
-      "after",
-      "kidnapping",
-      "iraq",
-      "rubio",
-      "says",
+      "ceasefire",
+      "though",
+      "firings",
+      "continue"
+    ]
+  },
+  "IRN": {
+    "risk_score": 27.8,
+    "count": 32,
+    "top_news": "https://dunyanews.tv/en/World/944779-anger-sorrow-at-funeral-of-lebanese-antihezbollah-party-official-kil",
+    "event_codes": {
+      "19": 21,
+      "14": 5,
+      "16": 3,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "944779",
+      "anger",
+      "sorrow",
+      "funeral",
+      "lebanese",
+      "antihezbollah",
+      "party",
+      "official",
+      "kil"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.95,
+    "count": 16,
+    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260407/3e1a3a8e96656629abd1152c098e9caf",
+    "event_codes": {
+      "19": 16
+    },
+    "keywords": [
+      "news",
+      "world",
+      "story",
+      "0001",
+      "20260407",
+      "3e1a3a8e96656629abd1152c098e9caf"
+    ]
+  },
+  "LBN": {
+    "risk_score": 9.4,
+    "count": 10,
+    "top_news": "https://www.middletownpress.com/news/world/article/us-israel-and-iran-agree-to-a-2-week-ceasefire-22194959.php",
+    "event_codes": {
+      "19": 8,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "world",
       "article",
-      "cbdaf4b5",
-      "f259",
-      "598a",
-      "a298",
-      "5d127270ba5b.html"
+      "israel",
+      "and",
+      "iran",
+      "agree",
+      "week",
+      "ceasefire",
+      "22194959.php"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.2,
+    "count": 9,
+    "top_news": "https://promptnewsonline.com/after-ndlea-raid-pretty-mike-reopens-lagos-nightclub/",
+    "event_codes": {
+      "17": 4,
+      "16": 3,
+      "19": 2
+    },
+    "keywords": [
+      "after",
+      "ndlea",
+      "raid",
+      "pretty",
+      "mike",
+      "reopens",
+      "lagos",
+      "nightclub"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://thepeninsulaqatar.com/article/08/04/2026/ministry-of-defense-announces-interceptingmissile-attack-targeting-qatar",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "ministry",
+      "defense",
+      "announces",
+      "interceptingmissile",
+      "attack",
+      "targeting",
+      "qatar"
     ]
   }
 }
