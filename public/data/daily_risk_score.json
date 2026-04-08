@@ -1,124 +1,118 @@
 {
   "IRN": {
-    "risk_score": 21.25,
-    "count": 22,
-    "top_news": "https://sl.china-embassy.gov.cn/eng/fyrth/202604/t20260408_11888565.htm",
+    "risk_score": 13.96,
+    "count": 17,
+    "top_news": "https://www.breitbart.com/politics/2026/04/08/pete-hegseth-declares-historic-overwhelming-victory-iran-trump-forged-this-moment/",
     "event_codes": {
-      "19": 20,
+      "19": 9,
+      "15": 3,
+      "17": 2,
       "14": 1,
-      "17": 1
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "eng",
-      "fyrth",
-      "202604",
-      "t20260408",
-      "11888565.htm"
-    ]
-  },
-  "ISR": {
-    "risk_score": 20.4,
-    "count": 22,
-    "top_news": "https://www.ibtimes.com/israel-reportedly-unhappy-about-not-being-included-ceasefire-talks-iran-3801025",
-    "event_codes": {
-      "19": 11,
-      "18": 10,
-      "16": 1
-    },
-    "keywords": [
-      "israel",
-      "reportedly",
-      "unhappy",
-      "about",
-      "not",
-      "being",
-      "included",
-      "ceasefire",
-      "talks",
-      "iran",
-      "3801025"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.thegazette.com/news/world/us-israel-and-iran-agree-to-a-2-week-ceasefire-but-much-remains-unclear-and/article_4e330a59-9702-5628-9b4a-d022d661d453.html",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "world",
-      "israel",
-      "and",
-      "iran",
-      "agree",
-      "week",
-      "ceasefire",
-      "but",
-      "much",
-      "remains",
-      "unclear",
-      "and",
-      "article",
-      "4e330a59",
-      "9702",
-      "5628",
-      "9b4a",
-      "d022d661d453.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.africanews.com/2026/04/08/gunmen-kill-60-in-northwest-nigeria-locals-and-humanitarian-groups-say/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
+      "politics",
       "2026",
-      "gunmen",
-      "kill",
-      "northwest",
-      "nigeria",
-      "locals",
-      "and",
-      "humanitarian",
-      "groups",
-      "say"
+      "pete",
+      "hegseth",
+      "declares",
+      "historic",
+      "overwhelming",
+      "victory",
+      "iran",
+      "trump",
+      "forged",
+      "this",
+      "moment"
     ]
   },
-  "SAU": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.washingtonjewishweek.com/opinion-why-the-us-has-a-tsa-and-a-dhs/",
+    "top_news": "http://www.israelherald.com/news/278971758/xinhua-headlines-us-israel-iran-agree-to-ceasefire-but-peace-remains-elusive",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "why",
-      "the",
-      "has",
-      "tsa",
-      "and",
-      "dhs"
+      "news",
+      "278971758",
+      "xinhua",
+      "headlines",
+      "israel",
+      "iran",
+      "agree",
+      "ceasefire",
+      "but",
+      "peace",
+      "remains",
+      "elusive"
     ]
   },
-  "VNM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://essexnewsdaily.com/headlne-news/vietnam-veterans-day-commemorated/",
+  "ISR": {
+    "risk_score": 9.9,
+    "count": 10,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4374106",
     "event_codes": {
-      "19": 4
+      "19": 9,
+      "18": 1
     },
     "keywords": [
-      "headlne",
+      "tag",
+      "index"
+    ]
+  },
+  "LBN": {
+    "risk_score": 12.7,
+    "count": 13,
+    "top_news": "https://www.middleeastmonitor.com/20260408-iran-may-quit-us-ceasefire-if-israel-continues-attacks-in-lebanon-iranian-media/",
+    "event_codes": {
+      "19": 12,
+      "18": 1
+    },
+    "keywords": [
+      "20260408",
+      "iran",
+      "may",
+      "quit",
+      "ceasefire",
+      "israel",
+      "continues",
+      "attacks",
+      "lebanon",
+      "iranian",
+      "media"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.7,
+    "count": 9,
+    "top_news": "https://baptiststandard.com/news/world/nigerian-christians-experience-deadly-easter-attacks/",
+    "event_codes": {
+      "19": 6,
+      "18": 3
+    },
+    "keywords": [
       "news",
-      "vietnam",
-      "veterans",
-      "day",
-      "commemorated"
+      "world",
+      "nigerian",
+      "christians",
+      "experience",
+      "deadly",
+      "easter",
+      "attacks"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/bjvuygn211l",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "bjvuygn211l"
     ]
   }
 }
