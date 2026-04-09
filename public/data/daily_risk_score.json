@@ -1,113 +1,113 @@
 {
-  "IRN": {
-    "risk_score": 16.4,
-    "count": 19,
-    "top_news": "https://www.hindustantimes.com/world-news/ceasefire-teeters-on-its-first-day-101775714453892.html",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thechronicle.com.gh/saudi-arabia-uae-kuwait-bahrain-report-attacks-after-iran-us-ceasefire/",
     "event_codes": {
-      "19": 13,
+      "19": 2
+    },
+    "keywords": [
+      "saudi",
+      "arabia",
+      "uae",
+      "kuwait",
+      "bahrain",
+      "report",
+      "attacks",
+      "after",
+      "iran",
+      "ceasefire"
+    ]
+  },
+  "IRN": {
+    "risk_score": 14.5,
+    "count": 17,
+    "top_news": "https://www.dailymail.co.uk/news/article-15717971/Britain-clash-Trump-Cooper-US-Iran-tolls-shipping-Hormuz.html",
+    "event_codes": {
+      "19": 11,
       "17": 4,
       "14": 1,
       "18": 1
     },
     "keywords": [
-      "world",
       "news",
-      "ceasefire",
-      "teeters",
-      "its",
-      "first",
-      "day",
-      "101775714453892.html"
+      "article",
+      "15717971",
+      "britain",
+      "clash",
+      "trump",
+      "cooper",
+      "iran",
+      "tolls",
+      "shipping",
+      "hormuz.html"
     ]
   },
   "ISR": {
-    "risk_score": 17.65,
-    "count": 19,
-    "top_news": "https://english.news.cn/20260409/176e0d40b9c14cb8b8ff8b495f294b3a/c.html",
+    "risk_score": 30.2,
+    "count": 31,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-abduct-palestinian-teen-in-west-bank-leave-others-injured/3899005",
     "event_codes": {
-      "19": 14,
-      "18": 3,
-      "17": 2
+      "19": 24,
+      "18": 6,
+      "17": 1
     },
     "keywords": [
-      "20260409",
-      "176e0d40b9c14cb8b8ff8b495f294b3a",
-      "c.html"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.garoweonline.com/en/world/africa/from-china-to-the-frontlines-the-secret-logistics-network-fueling-al-shabaab-disrupted-in-nairobi",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "world",
-      "africa",
-      "from",
-      "china",
-      "the",
-      "frontlines",
-      "the",
-      "secret",
-      "logistics",
-      "network",
-      "fueling",
-      "shabaab",
-      "disrupted",
-      "nairobi"
+      "middle",
+      "east",
+      "israeli",
+      "occupiers",
+      "abduct",
+      "palestinian",
+      "teen",
+      "west",
+      "bank",
+      "leave",
+      "others",
+      "injured",
+      "3899005"
     ]
   },
   "LBN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.hindustantimes.com/world-news/ceasefire-teeters-on-its-first-day-101775714453892.html",
+    "risk_score": 5.85,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/israeli-military-says-killed-hezbollah-074334986.html",
     "event_codes": {
-      "19": 2,
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "israeli",
+      "military",
+      "says",
+      "killed",
+      "hezbollah",
+      "074334986.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-shoot-dead-palestinian-during-clashes-in-northern-west-bank/3898903",
+    "event_codes": {
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "world",
-      "news",
-      "ceasefire",
-      "teeters",
-      "its",
-      "first",
-      "day",
-      "101775714453892.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 41.05,
-    "count": 44,
-    "top_news": "https://punchng.com/anti-immigrant-protests-in-south-africa/",
-    "event_codes": {
-      "19": 29,
-      "17": 8,
-      "18": 6,
-      "14": 1
-    },
-    "keywords": [
-      "anti",
-      "immigrant",
-      "protests",
-      "south",
-      "africa"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260409/ac1f22219e6d46f596d444ce4e37ed5d/c.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "20260409",
-      "ac1f22219e6d46f596d444ce4e37ed5d",
-      "c.html"
+      "middle",
+      "east",
+      "israeli",
+      "occupiers",
+      "shoot",
+      "dead",
+      "palestinian",
+      "during",
+      "clashes",
+      "northern",
+      "west",
+      "bank",
+      "3898903"
     ]
   }
 }
