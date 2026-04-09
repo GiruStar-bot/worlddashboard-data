@@ -1,81 +1,107 @@
 {
   "IRN": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "http://www.britainnews.net/news/278972571/rutte-tells-trump-most-nato-members-helpful-to-us-war-effort",
+    "risk_score": 10.11,
+    "count": 11,
+    "top_news": "https://www.yahoo.com/news/articles/analysis-us-iran-talk-truce-050141791.html",
     "event_codes": {
-      "19": 12
+      "19": 9,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
       "news",
-      "278972571",
-      "rutte",
-      "tells",
-      "trump",
-      "most",
-      "nato",
-      "members",
-      "helpful",
-      "war",
-      "effort"
+      "articles",
+      "analysis",
+      "iran",
+      "talk",
+      "truce",
+      "050141791.html"
     ]
   },
   "ISR": {
-    "risk_score": 14.9,
-    "count": 15,
-    "top_news": "https://www.ynetnews.com/article/skooeqvn11x",
+    "risk_score": 14.4,
+    "count": 16,
+    "top_news": "https://sputnikglobe.com/20260409/vance-claims-lebanon-is-not-part-of-the-ceasefire-1123963648.html",
     "event_codes": {
-      "19": 15
+      "19": 12,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "skooeqvn11x"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.britainnews.net/news/278972571/rutte-tells-trump-most-nato-members-helpful-to-us-war-effort",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "278972571",
-      "rutte",
-      "tells",
-      "trump",
-      "most",
-      "nato",
-      "members",
-      "helpful",
-      "war",
-      "effort"
+      "20260409",
+      "vance",
+      "claims",
+      "lebanon",
+      "not",
+      "part",
+      "the",
+      "ceasefire",
+      "1123963648.html"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-ceasefire-was-israel-kept-out-of-talks-till-the-end/articleshow/130127710.cms",
+    "risk_score": 5.45,
+    "count": 6,
+    "top_news": "https://sputnikglobe.com/20260409/vance-claims-lebanon-is-not-part-of-the-ceasefire-1123963648.html",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "17": 1
     },
     "keywords": [
+      "20260409",
+      "vance",
+      "claims",
+      "lebanon",
+      "not",
+      "part",
+      "the",
+      "ceasefire",
+      "1123963648.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/analysis-us-iran-talk-truce-050141791.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "analysis",
+      "iran",
+      "talk",
+      "truce",
+      "050141791.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/middle-east/eus-kaja-kallas-urges-shift-from-fragile-us-iran-ceasefire-to-permanent-peace-during-riyadh-mission20260409103606/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
       "world",
       "middle",
       "east",
+      "eus",
+      "kaja",
+      "kallas",
+      "urges",
+      "shift",
+      "from",
+      "fragile",
       "iran",
       "ceasefire",
-      "was",
-      "israel",
-      "kept",
-      "out",
-      "talks",
-      "till",
-      "the",
-      "end",
-      "articleshow",
-      "130127710.cms"
+      "permanent",
+      "peace",
+      "during",
+      "riyadh",
+      "mission20260409103606"
     ]
   }
 }
