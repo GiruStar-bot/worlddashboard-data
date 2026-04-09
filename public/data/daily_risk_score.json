@@ -1,105 +1,115 @@
 {
-  "IRN": {
-    "risk_score": 9.25,
-    "count": 10,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/867617/something-is-wrong-with-the-three-peace-plans-us-demands-iran-surrender-nuclear-material-irgc-prepares-deterrent-strike-on-israel",
+  "CMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cameroon-concord.com/headlines/cameroonians-dying-in-ukraine-yaound-summons-russian-ambassador",
     "event_codes": {
-      "19": 7,
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "867617",
-      "something",
-      "wrong",
-      "with",
-      "the",
-      "three",
-      "peace",
-      "plans",
-      "demands",
-      "iran",
-      "surrender",
-      "nuclear",
-      "material",
-      "irgc",
-      "prepares",
-      "deterrent",
-      "strike",
-      "israel"
-    ]
-  },
-  "ISR": {
-    "risk_score": 26.22,
-    "count": 27,
-    "top_news": "https://dailypioneer.com/news/israel-strikes-beirut-without-warning-amid-ceasefire",
-    "event_codes": {
-      "19": 23,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "strikes",
-      "beirut",
-      "without",
-      "warning",
-      "amid",
-      "ceasefire"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.2,
-    "count": 10,
-    "top_news": "https://cyprus-mail.com/2026/04/09/uk-spain-urge-lebanon-inclusion-in-ceasefire-after-israeli-deadly-strikes",
-    "event_codes": {
-      "19": 7,
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "spain",
-      "urge",
-      "lebanon",
-      "inclusion",
-      "ceasefire",
-      "after",
-      "israeli",
-      "deadly",
-      "strikes"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://allafrica.com/stories/202604090125.html",
-    "event_codes": {
-      "16": 2,
       "19": 2
     },
     "keywords": [
-      "stories",
-      "202604090125.html"
+      "headlines",
+      "cameroonians",
+      "dying",
+      "ukraine",
+      "yaound",
+      "summons",
+      "russian",
+      "ambassador"
     ]
   },
-  "TUR": {
-    "risk_score": 11.1,
-    "count": 12,
-    "top_news": "https://www.wsws.org/en/articles/2026/04/09/vxrg-a09.html",
+  "IRN": {
+    "risk_score": 11.65,
+    "count": 14,
+    "top_news": "https://www.islamicinvitationturkey.com/army-spokesman-announces-ceasefire-in-accordance-with-iranian-conditions-following-failed-hostilities/",
     "event_codes": {
       "19": 7,
-      "18": 4,
+      "14": 3,
+      "18": 2,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "articles",
+      "army",
+      "spokesman",
+      "announces",
+      "ceasefire",
+      "accordance",
+      "with",
+      "iranian",
+      "conditions",
+      "following",
+      "failed",
+      "hostilities"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.2,
+    "count": 20,
+    "top_news": "https://www.ariananews.af/israel-prepares-for-long-conflict-despite-us-iran-ceasefire-efforts/",
+    "event_codes": {
+      "19": 14,
+      "14": 2,
+      "17": 2,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "israel",
+      "prepares",
+      "for",
+      "long",
+      "conflict",
+      "despite",
+      "iran",
+      "ceasefire",
+      "efforts"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.islamicinvitationturkey.com/zionist-killer-regime-unleashes-most-intense-strikes-on-lebanon-resulting-in-hundreds-of-fatalities/",
+    "event_codes": {
+      "19": 7,
+      "20": 1
+    },
+    "keywords": [
+      "zionist",
+      "killer",
+      "regime",
+      "unleashes",
+      "most",
+      "intense",
+      "strikes",
+      "lebanon",
+      "resulting",
+      "hundreds",
+      "fatalities"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.35,
+    "count": 9,
+    "top_news": "https://saharareporters.com/2026/04/09/breaking-boko-haram-attacks-military-base-borno-kills-army-general-several-other",
+    "event_codes": {
+      "19": 7,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
       "2026",
-      "vxrg",
-      "a09.html"
+      "breaking",
+      "boko",
+      "haram",
+      "attacks",
+      "military",
+      "base",
+      "borno",
+      "kills",
+      "army",
+      "general",
+      "several",
+      "other"
     ]
   }
 }
