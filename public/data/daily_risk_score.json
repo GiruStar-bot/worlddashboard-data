@@ -1,113 +1,105 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://thechronicle.com.gh/saudi-arabia-uae-kuwait-bahrain-report-attacks-after-iran-us-ceasefire/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "saudi",
-      "arabia",
-      "uae",
-      "kuwait",
-      "bahrain",
-      "report",
-      "attacks",
-      "after",
-      "iran",
-      "ceasefire"
-    ]
-  },
   "IRN": {
-    "risk_score": 14.5,
-    "count": 17,
-    "top_news": "https://www.dailymail.co.uk/news/article-15717971/Britain-clash-Trump-Cooper-US-Iran-tolls-shipping-Hormuz.html",
+    "risk_score": 9.25,
+    "count": 10,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/867617/something-is-wrong-with-the-three-peace-plans-us-demands-iran-surrender-nuclear-material-irgc-prepares-deterrent-strike-on-israel",
     "event_codes": {
-      "19": 11,
-      "17": 4,
-      "14": 1,
+      "19": 7,
+      "14": 2,
       "18": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "15717971",
-      "britain",
-      "clash",
-      "trump",
-      "cooper",
+      "diethni",
+      "articles",
+      "867617",
+      "something",
+      "wrong",
+      "with",
+      "the",
+      "three",
+      "peace",
+      "plans",
+      "demands",
       "iran",
-      "tolls",
-      "shipping",
-      "hormuz.html"
+      "surrender",
+      "nuclear",
+      "material",
+      "irgc",
+      "prepares",
+      "deterrent",
+      "strike",
+      "israel"
     ]
   },
   "ISR": {
-    "risk_score": 30.2,
-    "count": 31,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-abduct-palestinian-teen-in-west-bank-leave-others-injured/3899005",
+    "risk_score": 26.22,
+    "count": 27,
+    "top_news": "https://dailypioneer.com/news/israel-strikes-beirut-without-warning-amid-ceasefire",
     "event_codes": {
-      "19": 24,
-      "18": 6,
-      "17": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "occupiers",
-      "abduct",
-      "palestinian",
-      "teen",
-      "west",
-      "bank",
-      "leave",
-      "others",
-      "injured",
-      "3899005"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.85,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/articles/israeli-military-says-killed-hezbollah-074334986.html",
-    "event_codes": {
-      "19": 6
+      "19": 23,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "israeli",
-      "military",
-      "says",
-      "killed",
-      "hezbollah",
-      "074334986.html"
+      "israel",
+      "strikes",
+      "beirut",
+      "without",
+      "warning",
+      "amid",
+      "ceasefire"
     ]
   },
-  "PSE": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-shoot-dead-palestinian-during-clashes-in-northern-west-bank/3898903",
+  "LBN": {
+    "risk_score": 9.2,
+    "count": 10,
+    "top_news": "https://cyprus-mail.com/2026/04/09/uk-spain-urge-lebanon-inclusion-in-ceasefire-after-israeli-deadly-strikes",
     "event_codes": {
-      "19": 3,
+      "19": 7,
+      "14": 2,
       "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
+      "2026",
+      "spain",
+      "urge",
+      "lebanon",
+      "inclusion",
+      "ceasefire",
+      "after",
       "israeli",
-      "occupiers",
-      "shoot",
-      "dead",
-      "palestinian",
-      "during",
-      "clashes",
-      "northern",
-      "west",
-      "bank",
-      "3898903"
+      "deadly",
+      "strikes"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202604090125.html",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "202604090125.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 11.1,
+    "count": 12,
+    "top_news": "https://www.wsws.org/en/articles/2026/04/09/vxrg-a09.html",
+    "event_codes": {
+      "19": 7,
+      "18": 4,
+      "17": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "vxrg",
+      "a09.html"
     ]
   }
 }
