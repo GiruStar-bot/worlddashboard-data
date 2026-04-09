@@ -1,175 +1,81 @@
 {
-  "BHR": {
+  "IRN": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "http://www.britainnews.net/news/278972571/rutte-tells-trump-most-nato-members-helpful-to-us-war-effort",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "news",
+      "278972571",
+      "rutte",
+      "tells",
+      "trump",
+      "most",
+      "nato",
+      "members",
+      "helpful",
+      "war",
+      "effort"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.9,
+    "count": 15,
+    "top_news": "https://www.ynetnews.com/article/skooeqvn11x",
+    "event_codes": {
+      "19": 15
+    },
+    "keywords": [
+      "article",
+      "skooeqvn11x"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.britainnews.net/news/278972571/rutte-tells-trump-most-nato-members-helpful-to-us-war-effort",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "278972571",
+      "rutte",
+      "tells",
+      "trump",
+      "most",
+      "nato",
+      "members",
+      "helpful",
+      "war",
+      "effort"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.wdrb.com/news/national/ceasefire-is-threatened-as-israel-expands-lebanon-strikes-and-iran-closes-strait-again/article_2ed1aed5-42e0-537e-bbb7-11b844fc8d41.html",
+    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-ceasefire-was-israel-kept-out-of-talks-till-the-end/articleshow/130127710.cms",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "national",
+      "world",
+      "middle",
+      "east",
+      "iran",
       "ceasefire",
-      "threatened",
+      "was",
       "israel",
-      "expands",
-      "lebanon",
-      "strikes",
-      "and",
-      "iran",
-      "closes",
-      "strait",
-      "again",
-      "article",
-      "2ed1aed5",
-      "42e0",
-      "537e",
-      "bbb7",
-      "11b844fc8d41.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 39.52,
-    "count": 43,
-    "top_news": "https://www.columbian.com/news/2026/apr/08/u-s-israel-and-iran-agree-to-a-2-week-ceasefire-but-much-remains-unclear-and-some-attacks-continue/",
-    "event_codes": {
-      "19": 33,
-      "14": 4,
-      "17": 4,
-      "20": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "apr",
-      "israel",
-      "and",
-      "iran",
-      "agree",
-      "week",
-      "ceasefire",
-      "but",
-      "much",
-      "remains",
-      "unclear",
-      "and",
-      "some",
-      "attacks",
-      "continue"
-    ]
-  },
-  "ISR": {
-    "risk_score": 41.05,
-    "count": 44,
-    "top_news": "https://www.rockymounttelegram.com/news/national/the-latest-iran-closes-the-strait-of-hormuz-in-response-to-israeli-attacks-on-lebanon/article_728c1384-492c-5a7e-9b92-6485cf004391.html",
-    "event_codes": {
-      "19": 35,
-      "18": 3,
-      "16": 2,
-      "17": 2,
-      "14": 1,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "national",
+      "kept",
+      "out",
+      "talks",
+      "till",
       "the",
-      "latest",
-      "iran",
-      "closes",
-      "the",
-      "strait",
-      "hormuz",
-      "response",
-      "israeli",
-      "attacks",
-      "lebanon",
-      "article",
-      "728c1384",
-      "492c",
-      "5a7e",
-      "9b92",
-      "6485cf004391.html"
-    ]
-  },
-  "KWT": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.columbian.com/news/2026/apr/08/u-s-israel-and-iran-agree-to-a-2-week-ceasefire-but-much-remains-unclear-and-some-attacks-continue/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "apr",
-      "israel",
-      "and",
-      "iran",
-      "agree",
-      "week",
-      "ceasefire",
-      "but",
-      "much",
-      "remains",
-      "unclear",
-      "and",
-      "some",
-      "attacks",
-      "continue"
-    ]
-  },
-  "LBN": {
-    "risk_score": 10.8,
-    "count": 12,
-    "top_news": "https://www.rockymounttelegram.com/news/national/the-latest-iran-closes-the-strait-of-hormuz-in-response-to-israeli-attacks-on-lebanon/article_728c1384-492c-5a7e-9b92-6485cf004391.html",
-    "event_codes": {
-      "19": 10,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "the",
-      "latest",
-      "iran",
-      "closes",
-      "the",
-      "strait",
-      "hormuz",
-      "response",
-      "israeli",
-      "attacks",
-      "lebanon",
-      "article",
-      "728c1384",
-      "492c",
-      "5a7e",
-      "9b92",
-      "6485cf004391.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.02,
-    "count": 3,
-    "top_news": "https://www.chiangraitimes.com/news/north-thailand/northern-thailands-wildfire-crisis-shows-progress-amid-regional-surges/",
-    "event_codes": {
-      "14": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "north",
-      "thailand",
-      "northern",
-      "thailands",
-      "wildfire",
-      "crisis",
-      "shows",
-      "progress",
-      "amid",
-      "regional",
-      "surges"
+      "end",
+      "articleshow",
+      "130127710.cms"
     ]
   }
 }
