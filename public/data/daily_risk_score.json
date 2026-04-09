@@ -1,51 +1,130 @@
 {
   "IRN": {
-    "risk_score": 8.1,
-    "count": 10,
-    "top_news": "https://nypost.com/2026/04/09/us-news/why-melania-trump-gave-shock-epstein-announcement/",
+    "risk_score": 12.09,
+    "count": 15,
+    "top_news": "https://www.dailymail.co.uk/news/article-15719971/Keir-Starmer-denies-Iranian-claims-civilians-killed-attacks-launched-RAF-bases-blames-Donald-Trump-sending-Britons-energy-bills-sky-high.html",
     "event_codes": {
-      "15": 5,
-      "19": 4,
-      "17": 1
+      "19": 9,
+      "15": 2,
+      "16": 2,
+      "17": 2
     },
     "keywords": [
-      "2026",
       "news",
-      "why",
-      "melania",
+      "article",
+      "15719971",
+      "keir",
+      "starmer",
+      "denies",
+      "iranian",
+      "claims",
+      "civilians",
+      "killed",
+      "attacks",
+      "launched",
+      "raf",
+      "bases",
+      "blames",
+      "donald",
       "trump",
-      "gave",
-      "shock",
-      "epstein",
-      "announcement"
+      "sending",
+      "britons",
+      "energy",
+      "bills",
+      "sky",
+      "high.html"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://english.news.cn/europe/20260410/4752da14f4d446a188cae842175dd808/c.html",
+    "risk_score": 9.45,
+    "count": 11,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/04/09/theyre-doing-the-same-thing-they-did-to-gaza-relatives-attempt-to-identify-dead-in-lebanon/",
     "event_codes": {
-      "19": 3
+      "19": 8,
+      "17": 3
     },
     "keywords": [
-      "europe",
-      "20260410",
-      "4752da14f4d446a188cae842175dd808",
-      "c.html"
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "theyre",
+      "doing",
+      "the",
+      "same",
+      "thing",
+      "they",
+      "did",
+      "gaza",
+      "relatives",
+      "attempt",
+      "identify",
+      "dead",
+      "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/europe/20260410/4752da14f4d446a188cae842175dd808/c.html",
+    "risk_score": 5.67,
+    "count": 6,
+    "top_news": "https://www.koreatimes.co.kr/world/20260410/netanyahu-israel-wants-to-start-peace-talks-with-lebanon-as-soon-as-possible",
     "event_codes": {
-      "19": 4
+      "19": 5,
+      "15": 1
     },
     "keywords": [
-      "europe",
+      "world",
       "20260410",
-      "4752da14f4d446a188cae842175dd808",
-      "c.html"
+      "netanyahu",
+      "israel",
+      "wants",
+      "start",
+      "peace",
+      "talks",
+      "with",
+      "lebanon",
+      "soon",
+      "possible"
+    ]
+  },
+  "NGA": {
+    "risk_score": 24.55,
+    "count": 25,
+    "top_news": "https://punchng.com/lagos-resident-shot-dead-in-suspected-cult-violence/",
+    "event_codes": {
+      "19": 20,
+      "18": 5
+    },
+    "keywords": [
+      "lagos",
+      "resident",
+      "shot",
+      "dead",
+      "suspected",
+      "cult",
+      "violence"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://kashmirreader.com/2026/04/10/israel-prepares-for-forever-war-despite-united-states-iran-truce-talks/",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "prepares",
+      "for",
+      "forever",
+      "war",
+      "despite",
+      "united",
+      "states",
+      "iran",
+      "truce",
+      "talks"
     ]
   }
 }
