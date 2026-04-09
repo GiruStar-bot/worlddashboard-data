@@ -1,115 +1,139 @@
 {
-  "CMR": {
+  "ECU": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.greenleft.org.au/2026/1451/world/us-ecuador-joint-military-operations-violate-human-rights",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "1451",
+      "world",
+      "ecuador",
+      "joint",
+      "military",
+      "operations",
+      "violate",
+      "human",
+      "rights"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.59,
+    "count": 12,
+    "top_news": "https://news.az/news/goldman-sees-brent-above-100-if-hormuz-stays-shut",
+    "event_codes": {
+      "19": 7,
+      "16": 3,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "goldman",
+      "sees",
+      "brent",
+      "above",
+      "100",
+      "hormuz",
+      "stays",
+      "shut"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.thenassauguardian.com/lifestyles/what-jesus-did/article_7bccbc75-4ed7-47bb-adeb-18eaa598bcc1.html",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "lifestyles",
+      "what",
+      "jesus",
+      "did",
+      "article",
+      "7bccbc75",
+      "4ed7",
+      "47bb",
+      "adeb",
+      "18eaa598bcc1.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.middleeastmonitor.com/20260409-un-israeli-shell-killed-indonesian-peacekeepers-in-southern-lebanon/",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "20260409",
+      "israeli",
+      "shell",
+      "killed",
+      "indonesian",
+      "peacekeepers",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.5,
+    "count": 14,
+    "top_news": "https://www.vanguardngr.com/2026/04/inec-and-its-professors-of-iniquity-by-ikechukwu-amaechi/",
+    "event_codes": {
+      "17": 11,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "inec",
+      "and",
+      "its",
+      "professors",
+      "iniquity",
+      "ikechukwu",
+      "amaechi"
+    ]
+  },
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.cameroon-concord.com/headlines/cameroonians-dying-in-ukraine-yaound-summons-russian-ambassador",
+    "top_news": "https://www.offshore-technology.com/news/qatarenergy-to-resume-lng-output/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "headlines",
-      "cameroonians",
-      "dying",
-      "ukraine",
-      "yaound",
-      "summons",
-      "russian",
-      "ambassador"
+      "news",
+      "qatarenergy",
+      "resume",
+      "lng",
+      "output"
     ]
   },
-  "IRN": {
-    "risk_score": 11.65,
-    "count": 14,
-    "top_news": "https://www.islamicinvitationturkey.com/army-spokesman-announces-ceasefire-in-accordance-with-iranian-conditions-following-failed-hostilities/",
-    "event_codes": {
-      "19": 7,
-      "14": 3,
-      "18": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "army",
-      "spokesman",
-      "announces",
-      "ceasefire",
-      "accordance",
-      "with",
-      "iranian",
-      "conditions",
-      "following",
-      "failed",
-      "hostilities"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.2,
-    "count": 20,
-    "top_news": "https://www.ariananews.af/israel-prepares-for-long-conflict-despite-us-iran-ceasefire-efforts/",
-    "event_codes": {
-      "19": 14,
-      "14": 2,
-      "17": 2,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "israel",
-      "prepares",
-      "for",
-      "long",
-      "conflict",
-      "despite",
-      "iran",
-      "ceasefire",
-      "efforts"
-    ]
-  },
-  "LBN": {
-    "risk_score": 8.0,
+  "SDN": {
+    "risk_score": 6.5,
     "count": 8,
-    "top_news": "https://www.islamicinvitationturkey.com/zionist-killer-regime-unleashes-most-intense-strikes-on-lebanon-resulting-in-hundreds-of-fatalities/",
+    "top_news": "https://www.dailysabah.com/world/africa/darfur-drone-strike-kills-at-least-12-including-6-children",
     "event_codes": {
-      "19": 7,
-      "20": 1
+      "19": 5,
+      "17": 3
     },
     "keywords": [
-      "zionist",
-      "killer",
-      "regime",
-      "unleashes",
-      "most",
-      "intense",
-      "strikes",
-      "lebanon",
-      "resulting",
-      "hundreds",
-      "fatalities"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.35,
-    "count": 9,
-    "top_news": "https://saharareporters.com/2026/04/09/breaking-boko-haram-attacks-military-base-borno-kills-army-general-several-other",
-    "event_codes": {
-      "19": 7,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "breaking",
-      "boko",
-      "haram",
-      "attacks",
-      "military",
-      "base",
-      "borno",
+      "world",
+      "africa",
+      "darfur",
+      "drone",
+      "strike",
       "kills",
-      "army",
-      "general",
-      "several",
-      "other"
+      "least",
+      "including",
+      "children"
     ]
   }
 }
