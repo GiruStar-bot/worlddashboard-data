@@ -1,104 +1,203 @@
 {
   "IRN": {
-    "risk_score": 11.07,
-    "count": 14,
-    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260410/1acfb8e733e476b0919689e0682cbb05",
+    "risk_score": 28.03,
+    "count": 33,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/10/766587/FM-Araghchi-honors-legacy-martyred-diplomat-Kharrazi",
     "event_codes": {
-      "19": 7,
-      "17": 4,
-      "16": 3
+      "19": 16,
+      "17": 6,
+      "18": 5,
+      "16": 4,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "story",
-      "0001",
-      "20260410",
-      "1acfb8e733e476b0919689e0682cbb05"
+      "detail",
+      "2026",
+      "766587",
+      "araghchi",
+      "honors",
+      "legacy",
+      "martyred",
+      "diplomat",
+      "kharrazi"
     ]
   },
   "ISR": {
-    "risk_score": 8.82,
+    "risk_score": 28.75,
+    "count": 31,
+    "top_news": "https://www.nbcbayarea.com/news/national-international/israel-us-iran-war-middle-east-april-10-2026-live-updates/4066707/",
+    "event_codes": {
+      "19": 14,
+      "18": 11,
+      "16": 6
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
+      "israel",
+      "iran",
+      "war",
+      "middle",
+      "east",
+      "april",
+      "2026",
+      "live",
+      "updates",
+      "4066707"
+    ]
+  },
+  "KHM": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://phnompenhpost.com/national/strikes-continue-more-allegations-of-thai-use-of-toxic-smoke/",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "national",
+      "strikes",
+      "continue",
+      "more",
+      "allegations",
+      "thai",
+      "use",
+      "toxic",
+      "smoke"
+    ]
+  },
+  "LBN": {
+    "risk_score": 26.0,
+    "count": 28,
+    "top_news": "https://www.dw.com/en/germany-police-suspect-antisemitism-in-israeli-restaurant-attack-in-munich/a-76736160",
+    "event_codes": {
+      "19": 19,
+      "16": 6,
+      "18": 3
+    },
+    "keywords": [
+      "germany",
+      "police",
+      "suspect",
+      "antisemitism",
+      "israeli",
+      "restaurant",
+      "attack",
+      "munich",
+      "76736160"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.5,
+    "count": 19,
+    "top_news": "https://www.thecable.ng/mr-president-heed-the-madman/",
+    "event_codes": {
+      "18": 14,
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "president",
+      "heed",
+      "the",
+      "madman"
+    ]
+  },
+  "SDN": {
+    "risk_score": 9.0,
     "count": 9,
-    "top_news": "https://www.jns.org/feature/coping-with-hospital-patients-in-wartime",
+    "top_news": "https://www.justiceinfo.net/en/157671-lafarge-trial-a-step-beyond-nuremberg.html",
     "event_codes": {
       "19": 7,
+      "18": 2
+    },
+    "keywords": [
+      "157671",
+      "lafarge",
+      "trial",
+      "step",
+      "beyond",
+      "nuremberg.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260409-unocha01.htm",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260409",
+      "unocha01.htm"
+    ]
+  },
+  "THA": {
+    "risk_score": 4.82,
+    "count": 5,
+    "top_news": "https://phnompenhpost.com/national/strikes-continue-more-allegations-of-thai-use-of-toxic-smoke/",
+    "event_codes": {
+      "19": 3,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "feature",
-      "coping",
-      "with",
-      "hospital",
-      "patients",
-      "wartime"
+      "national",
+      "strikes",
+      "continue",
+      "more",
+      "allegations",
+      "thai",
+      "use",
+      "toxic",
+      "smoke"
     ]
   },
-  "LBN": {
-    "risk_score": 3.75,
-    "count": 4,
-    "top_news": "https://www.thetimes.com/world/middle-east/article/why-asymmetric-warfare-future-iran-war-ukraine-russia-8szxmcsg9",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.justiceinfo.net/en/157671-lafarge-trial-a-step-beyond-nuremberg.html",
     "event_codes": {
-      "18": 2,
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "article",
-      "why",
-      "asymmetric",
-      "warfare",
-      "future",
-      "iran",
-      "war",
-      "ukraine",
-      "russia",
-      "8szxmcsg9"
+      "157671",
+      "lafarge",
+      "trial",
+      "step",
+      "beyond",
+      "nuremberg.html"
     ]
   },
-  "NGA": {
-    "risk_score": 9.8,
-    "count": 12,
-    "top_news": "https://bentelevision.com/court-clears-top-executive-firm-of-money-laundering-charges/",
+  "ZWE": {
+    "risk_score": 3.15,
+    "count": 5,
+    "top_news": "https://www.newsday.co.zw/business/article/200053719/zcdc-lines-up-280k-carats-for-dubai-sale",
     "event_codes": {
-      "19": 5,
-      "14": 2,
-      "16": 2,
-      "17": 2,
+      "17": 3,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "court",
-      "clears",
-      "top",
-      "executive",
-      "firm",
-      "money",
-      "laundering",
-      "charges"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://bentelevision.com/un-condemns-deadly-sudan-wedding-drone-attack-that-left-30-civilians-dead/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "condemns",
-      "deadly",
-      "sudan",
-      "wedding",
-      "drone",
-      "attack",
-      "that",
-      "left",
-      "civilians",
-      "dead"
+      "business",
+      "article",
+      "200053719",
+      "zcdc",
+      "lines",
+      "280k",
+      "carats",
+      "for",
+      "dubai",
+      "sale"
     ]
   }
 }
