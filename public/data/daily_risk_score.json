@@ -1,63 +1,81 @@
 {
   "IRN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "http://theitem.com/stories/us-and-iran-prepare-for-high-level-talks-as-israel-and-hezbollah-trade-more-fire,441741",
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://links.org.au/opposing-western-intervention-and-iranian-regime",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "16": 4,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "stories",
+      "opposing",
+      "western",
+      "intervention",
       "and",
-      "iran",
-      "prepare",
-      "for",
-      "high",
-      "level",
-      "talks",
-      "israel",
-      "and",
-      "hezbollah",
-      "trade",
-      "more",
-      "fire,441741"
+      "iranian",
+      "regime"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aol.co.uk/articles/vance-warns-iran-don-t-184321289.html",
+    "risk_score": 4.65,
+    "count": 6,
+    "top_news": "http://www.bignewsnetwork.com/news/278976202/humanitarian-response-across-mideast-deteriorates-with-services-strained-un",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "articles",
-      "vance",
-      "warns",
-      "iran",
-      "don",
-      "184321289.html"
+      "news",
+      "278976202",
+      "humanitarian",
+      "response",
+      "across",
+      "mideast",
+      "deteriorates",
+      "with",
+      "services",
+      "strained"
     ]
   },
-  "TUR": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://dailypost.ng/2026/04/10/israel-may-use-nuclear-weapons-against-iran-prof-mearsheimer/",
+    "top_news": "http://www.bignewsnetwork.com/news/278976208/attempted-assassination-tucker-carlson-on-israeli-attack-on-rt-correspondent",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "israel",
-      "may",
-      "use",
-      "nuclear",
-      "weapons",
-      "against",
-      "iran",
-      "prof",
-      "mearsheimer"
+      "news",
+      "278976208",
+      "attempted",
+      "assassination",
+      "tucker",
+      "carlson",
+      "israeli",
+      "attack",
+      "correspondent"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://www.sconeadvocate.com.au/story/9219912/nigeria-convicts-almost-400-in-mass-terrorism-trial/",
+    "event_codes": {
+      "16": 3,
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "9219912",
+      "nigeria",
+      "convicts",
+      "almost",
+      "400",
+      "mass",
+      "terrorism",
+      "trial"
     ]
   }
 }
