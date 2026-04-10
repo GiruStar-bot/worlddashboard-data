@@ -1,118 +1,75 @@
 {
   "IRN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.idahostatejournal.com/opinion/columns/opinion-pope-leos-flawed-war-doctrine/article_8e69ced4-9d23-443f-a787-163665a87a86.html",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going",
     "event_codes": {
-      "19": 3,
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "pakistan",
+      "sets",
+      "modest",
+      "goal",
+      "for",
+      "iran",
+      "summit",
+      "deal",
+      "keep",
+      "talks",
+      "going"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.45,
+    "count": 12,
+    "top_news": "https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire",
+    "event_codes": {
+      "19": 10,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "opinion",
-      "columns",
-      "opinion",
-      "pope",
-      "leos",
-      "flawed",
+      "news",
+      "2026",
+      "neither",
       "war",
-      "doctrine",
-      "article",
-      "8e69ced4",
-      "9d23",
-      "443f",
-      "a787",
-      "163665a87a86.html"
+      "nor",
+      "peace",
+      "what",
+      "gaza",
+      "looks",
+      "like",
+      "six",
+      "months",
+      "into",
+      "ceasefire"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://sofrep.com/news/maximum-pressure-maximum-purpose-the-strategic-imperative-of-sustained-coercion-against-the-iranian-regime/",
+  "LBN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.bryantimes.com/news/war-in-the-middle-east-latest-developments/article_74b7d228-52e6-5578-93fc-4aa007f01bbe.html",
     "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "maximum",
-      "pressure",
-      "maximum",
-      "purpose",
+      "war",
       "the",
-      "strategic",
-      "imperative",
-      "sustained",
-      "coercion",
-      "against",
-      "the",
-      "iranian",
-      "regime"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://english.news.cn/20260410/99feb1141601458db666770ce720abe8/c.html",
-    "event_codes": {
-      "19": 7,
-      "16": 1
-    },
-    "keywords": [
-      "20260410",
-      "99feb1141601458db666770ce720abe8",
-      "c.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://english.news.cn/20260410/88b9f875eee34a71af54ee4d9aa60f33/c.html",
-    "event_codes": {
-      "19": 5,
-      "16": 1
-    },
-    "keywords": [
-      "20260410",
-      "88b9f875eee34a71af54ee4d9aa60f33",
-      "c.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://english.news.cn/africa/20260410/d03ff409a6d94725b427f1cc3e4ec5e4/c.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "africa",
-      "20260410",
-      "d03ff409a6d94725b427f1cc3e4ec5e4",
-      "c.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://sofrep.com/news/maximum-pressure-maximum-purpose-the-strategic-imperative-of-sustained-coercion-against-the-iranian-regime/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "maximum",
-      "pressure",
-      "maximum",
-      "purpose",
-      "the",
-      "strategic",
-      "imperative",
-      "sustained",
-      "coercion",
-      "against",
-      "the",
-      "iranian",
-      "regime"
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article",
+      "74b7d228",
+      "52e6",
+      "5578",
+      "93fc",
+      "4aa007f01bbe.html"
     ]
   }
 }
