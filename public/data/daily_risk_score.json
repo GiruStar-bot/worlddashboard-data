@@ -1,81 +1,101 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://links.org.au/opposing-western-intervention-and-iranian-regime",
+  "BHR": {
+    "risk_score": 4.4,
+    "count": 8,
+    "top_news": "https://www.gdnonline.com:443/Details/1381087",
     "event_codes": {
-      "16": 4,
-      "18": 2,
-      "19": 1
+      "17": 7,
+      "18": 1
     },
     "keywords": [
-      "opposing",
-      "western",
-      "intervention",
-      "and",
-      "iranian",
-      "regime"
+      "details",
+      "1381087"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.gdnonline.com:443/Details/1381084",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "details",
+      "1381084"
     ]
   },
   "ISR": {
-    "risk_score": 4.65,
+    "risk_score": 3.95,
     "count": 6,
-    "top_news": "http://www.bignewsnetwork.com/news/278976202/humanitarian-response-across-mideast-deteriorates-with-services-strained-un",
+    "top_news": "https://thefrontierpost.com/13-killed-in-israeli-strike-on-nabatieh-idf-says-30-rockets-fired-from-lebanon/",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "14": 1
+      "17": 4,
+      "19": 2
     },
     "keywords": [
-      "news",
-      "278976202",
-      "humanitarian",
-      "response",
-      "across",
-      "mideast",
-      "deteriorates",
-      "with",
-      "services",
-      "strained"
+      "killed",
+      "israeli",
+      "strike",
+      "nabatieh",
+      "idf",
+      "says",
+      "rockets",
+      "fired",
+      "from",
+      "lebanon"
     ]
   },
   "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://thefrontierpost.com/13-killed-in-israeli-strike-on-nabatieh-idf-says-30-rockets-fired-from-lebanon/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "killed",
+      "israeli",
+      "strike",
+      "nabatieh",
+      "idf",
+      "says",
+      "rockets",
+      "fired",
+      "from",
+      "lebanon"
+    ]
+  },
+  "MMR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/278976208/attempted-assassination-tucker-carlson-on-israeli-attack-on-rt-correspondent",
+    "top_news": "https://www.flickeringmyth.com/rambo-complete-collection-coming-to-4k-ultra-hd/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "278976208",
-      "attempted",
-      "assassination",
-      "tucker",
-      "carlson",
-      "israeli",
-      "attack",
-      "correspondent"
+      "rambo",
+      "complete",
+      "collection",
+      "coming",
+      "ultra"
     ]
   },
   "NGA": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.sconeadvocate.com.au/story/9219912/nigeria-convicts-almost-400-in-mass-terrorism-trial/",
+    "risk_score": 6.65,
+    "count": 7,
+    "top_news": "https://dailytrust.com/ex-katsina-nnpp-guber-candidate-dumps-party/",
     "event_codes": {
-      "16": 3,
-      "19": 3
+      "19": 6,
+      "14": 1
     },
     "keywords": [
-      "story",
-      "9219912",
-      "nigeria",
-      "convicts",
-      "almost",
-      "400",
-      "mass",
-      "terrorism",
-      "trial"
+      "katsina",
+      "nnpp",
+      "guber",
+      "candidate",
+      "dumps",
+      "party"
     ]
   }
 }
