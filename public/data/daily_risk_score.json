@@ -1,137 +1,104 @@
 {
-  "BRA": {
-    "risk_score": 4.2,
-    "count": 7,
-    "top_news": "https://www.dailymail.co.uk/home/books/article-15719207/Painted-Renoir-one-murdered-Nazis.html",
-    "event_codes": {
-      "16": 3,
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "home",
-      "books",
-      "article",
-      "15719207",
-      "painted",
-      "renoir",
-      "one",
-      "murdered",
-      "nazis.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 6.7,
-    "count": 9,
-    "top_news": "https://www.rediff.com/news/special/dont-expect-too-much-from-islamabad-summit/20260410.htm",
+    "risk_score": 11.07,
+    "count": 14,
+    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260410/1acfb8e733e476b0919689e0682cbb05",
     "event_codes": {
-      "19": 4,
-      "14": 2,
-      "17": 2,
-      "16": 1
+      "19": 7,
+      "17": 4,
+      "16": 3
     },
     "keywords": [
       "news",
-      "special",
-      "dont",
-      "expect",
-      "too",
-      "much",
-      "from",
-      "islamabad",
-      "summit",
-      "20260410.htm"
+      "world",
+      "story",
+      "0001",
+      "20260410",
+      "1acfb8e733e476b0919689e0682cbb05"
     ]
   },
   "ISR": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.arkansasonline.com/news/2026/apr/10/robert-steinbuch-never-again-again/",
-    "event_codes": {
-      "19": 3,
-      "20": 3
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "apr",
-      "robert",
-      "steinbuch",
-      "never",
-      "again",
-      "again"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.eng.kavkaz-uzel.eu/articles/74355",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "articles",
-      "74355"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.rediff.com/news/special/dont-expect-too-much-from-islamabad-summit/20260410.htm",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "special",
-      "dont",
-      "expect",
-      "too",
-      "much",
-      "from",
-      "islamabad",
-      "summit",
-      "20260410.htm"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.42,
-    "count": 4,
-    "top_news": "https://www.sunstar.com.ph/zamboanga/malaysian-3-others-arrested-p35-m-shabu-seized",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "zamboanga",
-      "malaysian",
-      "others",
-      "arrested",
-      "p35",
-      "shabu",
-      "seized"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.8,
+    "risk_score": 8.82,
     "count": 9,
-    "top_news": "https://www.arkansasonline.com/news/2026/apr/10/israel-lifts-restrictions-on-all-holy-sites/",
+    "top_news": "https://www.jns.org/feature/coping-with-hospital-patients-in-wartime",
     "event_codes": {
-      "17": 4,
-      "16": 2,
-      "19": 2,
+      "19": 7,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "apr",
-      "israel",
-      "lifts",
-      "restrictions",
-      "all",
-      "holy",
-      "sites"
+      "feature",
+      "coping",
+      "with",
+      "hospital",
+      "patients",
+      "wartime"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.75,
+    "count": 4,
+    "top_news": "https://www.thetimes.com/world/middle-east/article/why-asymmetric-warfare-future-iran-war-ukraine-russia-8szxmcsg9",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "article",
+      "why",
+      "asymmetric",
+      "warfare",
+      "future",
+      "iran",
+      "war",
+      "ukraine",
+      "russia",
+      "8szxmcsg9"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.8,
+    "count": 12,
+    "top_news": "https://bentelevision.com/court-clears-top-executive-firm-of-money-laundering-charges/",
+    "event_codes": {
+      "19": 5,
+      "14": 2,
+      "16": 2,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "court",
+      "clears",
+      "top",
+      "executive",
+      "firm",
+      "money",
+      "laundering",
+      "charges"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://bentelevision.com/un-condemns-deadly-sudan-wedding-drone-attack-that-left-30-civilians-dead/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "condemns",
+      "deadly",
+      "sudan",
+      "wedding",
+      "drone",
+      "attack",
+      "that",
+      "left",
+      "civilians",
+      "dead"
     ]
   }
 }
