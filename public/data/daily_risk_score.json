@@ -1,81 +1,104 @@
 {
   "IRN": {
-    "risk_score": 8.15,
-    "count": 10,
-    "top_news": "https://www.kpbs.org/news/international/2026/04/10/trump-says-iran-is-doing-a-very-poor-job-in-reopening-the-strait-of-hormuz",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/breakingnews/2026/04/10/us-and-iran-prepare-for-ceasefire-talks-as-netanyahu-authorizes-negotiations-with-lebanon",
     "event_codes": {
-      "19": 4,
-      "18": 3,
       "17": 2,
-      "16": 1
+      "19": 1
     },
     "keywords": [
-      "news",
-      "international",
+      "breakingnews",
       "2026",
-      "trump",
-      "says",
+      "and",
       "iran",
-      "doing",
-      "very",
-      "poor",
-      "job",
-      "reopening",
-      "the",
-      "strait",
-      "hormuz"
+      "prepare",
+      "for",
+      "ceasefire",
+      "talks",
+      "netanyahu",
+      "authorizes",
+      "negotiations",
+      "with",
+      "lebanon"
     ]
   },
   "ISR": {
-    "risk_score": 9.85,
-    "count": 11,
-    "top_news": "https://www.wyomingnewsnow.tv/news/national/war-in-the-middle-east-latest-developments/article_f863acfb-0c91-5a7c-8fd8-77cf0ff69daf.html",
+    "risk_score": 11.8,
+    "count": 13,
+    "top_news": "https://www.israelnationalnews.com/flashes/682947",
     "event_codes": {
-      "19": 7,
-      "16": 1,
-      "17": 1,
-      "18": 1,
-      "20": 1
+      "19": 10,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "article",
-      "f863acfb",
-      "0c91",
-      "5a7c",
-      "8fd8",
-      "77cf0ff69daf.html"
+      "flashes",
+      "682947"
     ]
   },
-  "LBN": {
-    "risk_score": 7.65,
-    "count": 8,
-    "top_news": "https://www.thetimes.com/world/middle-east/israel-hezbollah-war/article/lebanon-beirut-israel-attack-dispatch-xgwdjn255",
+  "NGA": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://punchng.com/coas-vows-defeat-of-terrorists-says-army-steadfast-undeterred/",
     "event_codes": {
-      "19": 7,
-      "16": 1
+      "17": 4,
+      "16": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
+      "coas",
+      "vows",
+      "defeat",
+      "terrorists",
+      "says",
+      "army",
+      "steadfast",
+      "undeterred"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/politics/israel-killed-254-in-lebanon-on-day-cease-fire-declared-erdogan-says/news",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "politics",
       "israel",
-      "hezbollah",
-      "war",
-      "article",
+      "killed",
+      "254",
       "lebanon",
-      "beirut",
-      "israel",
-      "attack",
-      "dispatch",
-      "xgwdjn255"
+      "day",
+      "cease",
+      "fire",
+      "declared",
+      "erdogan",
+      "says",
+      "news"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.kccu.org/u-s/2026-04-10/months-after-the-ice-shootings-in-minnesota-a-federal-probe-remains-elusive",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "months",
+      "after",
+      "the",
+      "ice",
+      "shootings",
+      "minnesota",
+      "federal",
+      "probe",
+      "remains",
+      "elusive"
     ]
   }
 }
