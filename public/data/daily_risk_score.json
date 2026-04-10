@@ -1,75 +1,124 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.aljazeera.com/news/2026/4/10/pakistan-sets-modest-goal-for-us-iran-summit-a-deal-to-keep-talks-going",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.manilatimes.net/2026/04/10/world/usiran-talks-loom-as-israelhezbollah-clashes-threaten-fragile-ceasefire/2318199",
     "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "pakistan",
-      "sets",
-      "modest",
-      "goal",
-      "for",
-      "iran",
-      "summit",
-      "deal",
-      "keep",
-      "talks",
-      "going"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.45,
-    "count": 12,
-    "top_news": "https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire",
-    "event_codes": {
-      "19": 10,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "neither",
-      "war",
-      "nor",
-      "peace",
-      "what",
-      "gaza",
-      "looks",
-      "like",
-      "six",
-      "months",
-      "into",
-      "ceasefire"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.bryantimes.com/news/war-in-the-middle-east-latest-developments/article_74b7d228-52e6-5578-93fc-4aa007f01bbe.html",
-    "event_codes": {
-      "16": 2,
       "19": 2
     },
     "keywords": [
+      "2026",
+      "world",
+      "usiran",
+      "talks",
+      "loom",
+      "israelhezbollah",
+      "clashes",
+      "threaten",
+      "fragile",
+      "ceasefire",
+      "2318199"
+    ]
+  },
+  "ETH": {
+    "risk_score": 8.95,
+    "count": 12,
+    "top_news": "https://www.bucksfreepress.co.uk/news/national/26012026.two-men-guilty-part-violent-mob-asylum-hotel-protest-epping/",
+    "event_codes": {
+      "18": 7,
+      "17": 4,
+      "14": 1
+    },
+    "keywords": [
       "news",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
+      "national",
+      "26012026.two",
+      "men",
+      "guilty",
+      "part",
+      "violent",
+      "mob",
+      "asylum",
+      "hotel",
+      "protest",
+      "epping"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.lbc.co.uk/article/pope-leo-warning-military-action-trump-5HjdXZ6_2/",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
       "article",
-      "74b7d228",
-      "52e6",
-      "5578",
-      "93fc",
-      "4aa007f01bbe.html"
+      "pope",
+      "leo",
+      "warning",
+      "military",
+      "action",
+      "trump",
+      "5hjdxz6"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.4,
+    "count": 10,
+    "top_news": "https://www.lbc.co.uk/article/pope-leo-warning-military-action-trump-5HjdXZ6_2/",
+    "event_codes": {
+      "19": 9,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "pope",
+      "leo",
+      "warning",
+      "military",
+      "action",
+      "trump",
+      "5hjdxz6"
+    ]
+  },
+  "MLI": {
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://www.yourlocalguardian.co.uk/news/26011955.croydon-murder--appeal-help-finding-suspect-two-years/",
+    "event_codes": {
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "26011955.croydon",
+      "murder",
+      "appeal",
+      "help",
+      "finding",
+      "suspect",
+      "two",
+      "years"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.3,
+    "count": 9,
+    "top_news": "https://www.thetablet.co.uk/news/christians-condemn-latest-easter-attacks-in-nigeria/",
+    "event_codes": {
+      "17": 7,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "christians",
+      "condemn",
+      "latest",
+      "easter",
+      "attacks",
+      "nigeria"
     ]
   }
 }
