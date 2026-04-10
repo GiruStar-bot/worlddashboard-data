@@ -1,130 +1,60 @@
 {
   "IRN": {
-    "risk_score": 12.09,
+    "risk_score": 14.4,
     "count": 15,
-    "top_news": "https://www.dailymail.co.uk/news/article-15719971/Keir-Starmer-denies-Iranian-claims-civilians-killed-attacks-launched-RAF-bases-blames-Donald-Trump-sending-Britons-energy-bills-sky-high.html",
+    "top_news": "https://slguardian.org/exclusive-interview-pacifism-can-backfire-force-may-be-needed-against-evil-regimes/",
     "event_codes": {
-      "19": 9,
-      "15": 2,
-      "16": 2,
-      "17": 2
+      "19": 13,
+      "14": 2
+    },
+    "keywords": [
+      "exclusive",
+      "interview",
+      "pacifism",
+      "can",
+      "backfire",
+      "force",
+      "may",
+      "needed",
+      "against",
+      "evil",
+      "regimes"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.35,
+    "count": 9,
+    "top_news": "https://slguardian.org/the-bridge-that-saved-civilization/",
+    "event_codes": {
+      "19": 8,
+      "16": 1
+    },
+    "keywords": [
+      "the",
+      "bridge",
+      "that",
+      "saved",
+      "civilization"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15720665/crumbling-truce-Iran-Supreme-Leader-Trump-Strait.html",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
       "article",
-      "15719971",
-      "keir",
-      "starmer",
-      "denies",
-      "iranian",
-      "claims",
-      "civilians",
-      "killed",
-      "attacks",
-      "launched",
-      "raf",
-      "bases",
-      "blames",
-      "donald",
-      "trump",
-      "sending",
-      "britons",
-      "energy",
-      "bills",
-      "sky",
-      "high.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.45,
-    "count": 11,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/04/09/theyre-doing-the-same-thing-they-did-to-gaza-relatives-attempt-to-identify-dead-in-lebanon/",
-    "event_codes": {
-      "19": 8,
-      "17": 3
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "theyre",
-      "doing",
-      "the",
-      "same",
-      "thing",
-      "they",
-      "did",
-      "gaza",
-      "relatives",
-      "attempt",
-      "identify",
-      "dead",
-      "lebanon"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.67,
-    "count": 6,
-    "top_news": "https://www.koreatimes.co.kr/world/20260410/netanyahu-israel-wants-to-start-peace-talks-with-lebanon-as-soon-as-possible",
-    "event_codes": {
-      "19": 5,
-      "15": 1
-    },
-    "keywords": [
-      "world",
-      "20260410",
-      "netanyahu",
-      "israel",
-      "wants",
-      "start",
-      "peace",
-      "talks",
-      "with",
-      "lebanon",
-      "soon",
-      "possible"
-    ]
-  },
-  "NGA": {
-    "risk_score": 24.55,
-    "count": 25,
-    "top_news": "https://punchng.com/lagos-resident-shot-dead-in-suspected-cult-violence/",
-    "event_codes": {
-      "19": 20,
-      "18": 5
-    },
-    "keywords": [
-      "lagos",
-      "resident",
-      "shot",
-      "dead",
-      "suspected",
-      "cult",
-      "violence"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.62,
-    "count": 3,
-    "top_news": "https://kashmirreader.com/2026/04/10/israel-prepares-for-forever-war-despite-united-states-iran-truce-talks/",
-    "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "2026",
-      "israel",
-      "prepares",
-      "for",
-      "forever",
-      "war",
-      "despite",
-      "united",
-      "states",
-      "iran",
+      "15720665",
+      "crumbling",
       "truce",
-      "talks"
+      "iran",
+      "supreme",
+      "leader",
+      "trump",
+      "strait.html"
     ]
   }
 }
