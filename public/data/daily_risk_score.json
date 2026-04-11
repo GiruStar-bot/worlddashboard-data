@@ -1,70 +1,84 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/israel-says-dropped-18-000-160825217.html",
+    "risk_score": 5.7,
+    "count": 9,
+    "top_news": "https://www.dailymail.co.uk/news/article-15724695/Irans-notorious-propaganda-boss-luxury-life-Los-Angeles.html",
     "event_codes": {
+      "16": 3,
+      "17": 3,
       "19": 3
     },
     "keywords": [
       "news",
-      "articles",
-      "israel",
-      "says",
-      "dropped",
-      "000",
-      "160825217.html"
+      "article",
+      "15724695",
+      "irans",
+      "notorious",
+      "propaganda",
+      "boss",
+      "luxury",
+      "life",
+      "los",
+      "angeles.html"
     ]
   },
-  "ISR": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.reflector.com/news/national/the-latest-us-and-iranian-officials-meet-face-to-face-in-islamabad-ceasefire-talks/article_a3e01da8-f895-5c76-aa3c-cb3503e99999.html",
+  "IRQ": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.dailymail.co.uk/news/article-15724695/Irans-notorious-propaganda-boss-luxury-life-Los-Angeles.html",
     "event_codes": {
       "19": 2,
-      "18": 1,
-      "20": 1
+      "17": 1
     },
     "keywords": [
       "news",
-      "national",
-      "the",
-      "latest",
-      "and",
-      "iranian",
-      "officials",
-      "meet",
-      "face",
-      "face",
-      "islamabad",
-      "ceasefire",
-      "talks",
       "article",
-      "a3e01da8",
-      "f895",
-      "5c76",
-      "aa3c",
-      "cb3503e99999.html"
+      "15724695",
+      "irans",
+      "notorious",
+      "propaganda",
+      "boss",
+      "luxury",
+      "life",
+      "los",
+      "angeles.html"
     ]
   },
-  "NGA": {
-    "risk_score": 6.35,
+  "ISR": {
+    "risk_score": 7.0,
     "count": 9,
-    "top_news": "https://www.nigerianeye.com/2026/04/i-have-killed-over-100-people-repentant.html",
+    "top_news": "https://www.dailymail.co.uk/news/article-15724823/us-destroyers-strait-hormuz-iran-war.html",
     "event_codes": {
-      "14": 3,
-      "17": 3,
-      "19": 2,
-      "18": 1
+      "19": 5,
+      "17": 4
     },
     "keywords": [
-      "2026",
-      "have",
-      "killed",
-      "over",
-      "100",
-      "people",
-      "repentant.html"
+      "news",
+      "article",
+      "15724823",
+      "destroyers",
+      "strait",
+      "hormuz",
+      "iran",
+      "war.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.co.uk/news/article-15724823/us-destroyers-strait-hormuz-iran-war.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15724823",
+      "destroyers",
+      "strait",
+      "hormuz",
+      "iran",
+      "war.html"
     ]
   }
 }
