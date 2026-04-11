@@ -1,110 +1,113 @@
 {
-  "ECU": {
+  "IRN": {
+    "risk_score": 15.72,
+    "count": 19,
+    "top_news": "https://english.aawsat.com/world/5261097-iran-counts-its-human-material-losses-5-weeks-war",
+    "event_codes": {
+      "19": 10,
+      "17": 6,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "5261097",
+      "iran",
+      "counts",
+      "its",
+      "human",
+      "material",
+      "losses",
+      "weeks",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "http://www.mexicostar.com/news/278977363/trapped-and-blackmailed-ex-israeli-spox-warns-us-iran-ceasefire-hinges-on-hormuz-blockade",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "278977363",
+      "trapped",
+      "and",
+      "blackmailed",
+      "israeli",
+      "spox",
+      "warns",
+      "iran",
+      "ceasefire",
+      "hinges",
+      "hormuz",
+      "blockade"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/arsenal-xi-vs-bournemouth-confirmed-074831747.html",
+    "top_news": "https://english.aawsat.com/world/5261097-iran-counts-its-human-material-losses-5-weeks-war",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "articles",
-      "arsenal",
-      "bournemouth",
-      "confirmed",
-      "074831747.html"
+      "world",
+      "5261097",
+      "iran",
+      "counts",
+      "its",
+      "human",
+      "material",
+      "losses",
+      "weeks",
+      "war"
     ]
   },
-  "IRN": {
-    "risk_score": 4.0,
+  "SAU": {
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "http://www.myanmarnews.net/news/278977113/vance-arrives-in-pakistan-for-crucial-iran-talks",
+    "top_news": "https://www.armstrongeconomics.com/world-news/tyranny/the-war-powers-act-must-be-revised/",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "18": 1
     },
     "keywords": [
+      "world",
       "news",
-      "278977113",
-      "vance",
-      "arrives",
-      "pakistan",
-      "for",
-      "crucial",
-      "iran",
-      "talks"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.9,
-    "count": 12,
-    "top_news": "https://www.yumasun.com/news/national_news/the-latest-vance-arrives-in-pakistan-for-talks-with-iranian-officials-to-shore-up-shaky/article_27ed43c5-ff2c-511a-a52a-631d43221f9d.html",
-    "event_codes": {
-      "19": 12
-    },
-    "keywords": [
-      "news",
-      "national",
-      "news",
+      "tyranny",
       "the",
-      "latest",
-      "vance",
-      "arrives",
-      "pakistan",
-      "for",
-      "talks",
-      "with",
-      "iranian",
-      "officials",
-      "shore",
-      "shaky",
-      "article",
-      "27ed43c5",
-      "ff2c",
-      "511a",
-      "a52a",
-      "631d43221f9d.html"
+      "war",
+      "powers",
+      "act",
+      "must",
+      "revised"
     ]
   },
-  "LBN": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "http://www.myanmarnews.net/news/278977113/vance-arrives-in-pakistan-for-crucial-iran-talks",
+  "THA": {
+    "risk_score": 12.0,
+    "count": 13,
+    "top_news": "https://www.freepressjournal.in/india/cbi-coordinates-return-of-wanted-fugitive-of-haryana-police-sahil-chauhan-from-thailand-through-interpol",
     "event_codes": {
-      "19": 5,
-      "18": 1
+      "19": 11,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "278977113",
-      "vance",
-      "arrives",
-      "pakistan",
-      "for",
-      "crucial",
-      "iran",
-      "talks"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.4,
-    "count": 12,
-    "top_news": "https://promptnewsonline.com/navy-nabs-personnel-over-clash-with-soldiers-during-tinubus-bayelsa-visit/",
-    "event_codes": {
-      "19": 6,
-      "17": 5,
-      "18": 1
-    },
-    "keywords": [
-      "navy",
-      "nabs",
-      "personnel",
-      "over",
-      "clash",
-      "with",
-      "soldiers",
-      "during",
-      "tinubus",
-      "bayelsa",
-      "visit"
+      "india",
+      "cbi",
+      "coordinates",
+      "return",
+      "wanted",
+      "fugitive",
+      "haryana",
+      "police",
+      "sahil",
+      "chauhan",
+      "from",
+      "thailand",
+      "through",
+      "interpol"
     ]
   }
 }
