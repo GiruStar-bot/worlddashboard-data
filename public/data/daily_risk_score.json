@@ -1,71 +1,49 @@
 {
-  "IRN": {
-    "risk_score": 9.17,
-    "count": 10,
-    "top_news": "https://indianexpress.com/article/world/iran-delegation-pakistan-minab-victims-blood-stained-school-bags-shoes-10630660/",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.co.uk/articles/arsenal-xi-vs-bournemouth-confirmed-074831747.html",
     "event_codes": {
-      "19": 7,
-      "14": 1,
-      "15": 1,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "article",
-      "world",
-      "iran",
-      "delegation",
+      "articles",
+      "arsenal",
+      "bournemouth",
+      "confirmed",
+      "074831747.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.myanmarnews.net/news/278977113/vance-arrives-in-pakistan-for-crucial-iran-talks",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "278977113",
+      "vance",
+      "arrives",
       "pakistan",
-      "minab",
-      "victims",
-      "blood",
-      "stained",
-      "school",
-      "bags",
-      "shoes",
-      "10630660"
+      "for",
+      "crucial",
+      "iran",
+      "talks"
     ]
   },
   "ISR": {
-    "risk_score": 11.5,
+    "risk_score": 11.9,
     "count": 12,
-    "top_news": "https://lancasteronline.com/news/world/us-iran-talks-set-to-bring-together-vance-and-iranian-officials-in-pakistan-as-ceasefire/article_0b956c26-8dd8-516a-8d57-1880ccb1fc4d.html",
+    "top_news": "https://www.yumasun.com/news/national_news/the-latest-vance-arrives-in-pakistan-for-talks-with-iranian-officials-to-shore-up-shaky/article_27ed43c5-ff2c-511a-a52a-631d43221f9d.html",
     "event_codes": {
-      "19": 11,
-      "17": 1
+      "19": 12
     },
     "keywords": [
       "news",
-      "world",
-      "iran",
-      "talks",
-      "set",
-      "bring",
-      "together",
-      "vance",
-      "and",
-      "iranian",
-      "officials",
-      "pakistan",
-      "ceasefire",
-      "article",
-      "0b956c26",
-      "8dd8",
-      "516a",
-      "8d57",
-      "1880ccb1fc4d.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "https://www.union-bulletin.com/news/northwest/the-latest-vance-arrives-in-pakistan-for-talks-with-iranian-officials-to-shore-up-shaky/article_85b7b744-8e64-508a-b283-9ca9b6750c07.html",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
+      "national",
       "news",
-      "northwest",
       "the",
       "latest",
       "vance",
@@ -79,38 +57,54 @@
       "shore",
       "shaky",
       "article",
-      "85b7b744",
-      "8e64",
-      "508a",
-      "b283",
-      "9ca9b6750c07.html"
+      "27ed43c5",
+      "ff2c",
+      "511a",
+      "a52a",
+      "631d43221f9d.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "http://www.myanmarnews.net/news/278977113/vance-arrives-in-pakistan-for-crucial-iran-talks",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "278977113",
+      "vance",
+      "arrives",
+      "pakistan",
+      "for",
+      "crucial",
+      "iran",
+      "talks"
     ]
   },
   "NGA": {
-    "risk_score": 6.44,
-    "count": 7,
-    "top_news": "https://punchng.com/morning-recap-how-terrorists-overran-military-base-navy-arrests-personnel-after-bayelsa-clash-other-top-stories/",
+    "risk_score": 9.4,
+    "count": 12,
+    "top_news": "https://promptnewsonline.com/navy-nabs-personnel-over-clash-with-soldiers-during-tinubus-bayelsa-visit/",
     "event_codes": {
-      "19": 5,
-      "15": 2
+      "19": 6,
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "morning",
-      "recap",
-      "how",
-      "terrorists",
-      "overran",
-      "military",
-      "base",
       "navy",
-      "arrests",
+      "nabs",
       "personnel",
-      "after",
-      "bayelsa",
+      "over",
       "clash",
-      "other",
-      "top",
-      "stories"
+      "with",
+      "soldiers",
+      "during",
+      "tinubus",
+      "bayelsa",
+      "visit"
     ]
   }
 }
