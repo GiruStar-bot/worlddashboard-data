@@ -1,26 +1,38 @@
 {
-  "IRN": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/iranian-officials-warn-of-internal-sedition-and-a-second-pmoi-assault/",
+  "ISR": {
+    "risk_score": 24.85,
+    "count": 27,
+    "top_news": "https://imemc.org/article/israeli-colonizers-kill-a-palestinian-near-ramallah/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 1
+      "19": 21,
+      "14": 5,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "iran",
-      "resistance",
-      "iranian",
-      "officials",
-      "warn",
-      "internal",
-      "sedition",
-      "and",
-      "second",
-      "pmoi",
-      "assault"
+      "article",
+      "israeli",
+      "colonizers",
+      "kill",
+      "palestinian",
+      "near",
+      "ramallah"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://imemc.org/article/israeli-colonizers-kill-a-palestinian-near-ramallah/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "colonizers",
+      "kill",
+      "palestinian",
+      "near",
+      "ramallah"
     ]
   }
 }
