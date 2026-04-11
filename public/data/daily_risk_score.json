@@ -1,38 +1,90 @@
 {
-  "ISR": {
-    "risk_score": 24.85,
-    "count": 27,
-    "top_news": "https://imemc.org/article/israeli-colonizers-kill-a-palestinian-near-ramallah/",
+  "IRN": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-warns-qatar-lng-213117555.html",
     "event_codes": {
-      "19": 21,
-      "14": 5,
-      "16": 1
+      "19": 9
     },
     "keywords": [
-      "article",
-      "israeli",
-      "colonizers",
-      "kill",
-      "palestinian",
-      "near",
-      "ramallah"
+      "sectors",
+      "energy",
+      "articles",
+      "goldman",
+      "sachs",
+      "warns",
+      "qatar",
+      "lng",
+      "213117555.html"
     ]
   },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://imemc.org/article/israeli-colonizers-kill-a-palestinian-near-ramallah/",
+  "ISR": {
+    "risk_score": 34.05,
+    "count": 45,
+    "top_news": "https://www.cp24.com/news/world/2026/04/11/lebanese-bury-13-officers-killed-by-israel-as-grief-and-outrage-surge-ahead-of-talks-in-the-us/",
     "event_codes": {
-      "19": 5
+      "16": 23,
+      "19": 9,
+      "14": 7,
+      "17": 3,
+      "18": 2,
+      "20": 1
     },
     "keywords": [
-      "article",
+      "news",
+      "world",
+      "2026",
+      "lebanese",
+      "bury",
+      "officers",
+      "killed",
+      "israel",
+      "grief",
+      "and",
+      "outrage",
+      "surge",
+      "ahead",
+      "talks",
+      "the"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.05,
+    "count": 6,
+    "top_news": "https://grenadachronicle.com/israeli-strikes-kill-at-least-18-people-across-southern-lebanon/",
+    "event_codes": {
+      "14": 2,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
       "israeli",
-      "colonizers",
+      "strikes",
       "kill",
-      "palestinian",
-      "near",
-      "ramallah"
+      "least",
+      "people",
+      "across",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://finance.yahoo.com/sectors/energy/articles/goldman-sachs-warns-qatar-lng-213117555.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "sectors",
+      "energy",
+      "articles",
+      "goldman",
+      "sachs",
+      "warns",
+      "qatar",
+      "lng",
+      "213117555.html"
     ]
   }
 }
