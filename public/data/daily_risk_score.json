@@ -1,16 +1,43 @@
 {
   "IRN": {
-    "risk_score": 7.87,
-    "count": 10,
-    "top_news": "https://www.whec.com/ap-top-news/the-latest-negotiations-between-us-and-iran-begin-after-progress-in-earlier-indirect-discussions/",
+    "risk_score": 13.62,
+    "count": 15,
+    "top_news": "https://www.jns.org/news/israel-news/idf-1-400-hezbollah-terrorists-killed-over-200-missile-launchers-destroyed",
     "event_codes": {
-      "19": 6,
-      "16": 3,
-      "15": 1
+      "19": 12,
+      "15": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "top",
       "news",
+      "israel",
+      "news",
+      "idf",
+      "400",
+      "hezbollah",
+      "terrorists",
+      "killed",
+      "over",
+      "200",
+      "missile",
+      "launchers",
+      "destroyed"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.1,
+    "count": 24,
+    "top_news": "https://www.2news.com/news/national/the-latest-negotiations-between-us-and-iran-begin-after-progress-in-earlier-indirect-discussions/article_9f9ce49c-4d40-5e9b-b627-f54c2fcf83cc.html",
+    "event_codes": {
+      "17": 11,
+      "14": 6,
+      "19": 4,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "national",
       "the",
       "latest",
       "negotiations",
@@ -22,42 +49,57 @@
       "progress",
       "earlier",
       "indirect",
-      "discussions"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.3,
-    "count": 8,
-    "top_news": "https://www.dailymail.co.uk/news/article-15724477/Met-Police-arrests-Palestine-Action-supporters-London-protest.html",
-    "event_codes": {
-      "17": 6,
-      "14": 2
-    },
-    "keywords": [
-      "news",
+      "discussions",
       "article",
-      "15724477",
-      "met",
-      "police",
-      "arrests",
-      "palestine",
-      "action",
-      "supporters",
-      "london",
-      "protest.html"
+      "9f9ce49c",
+      "4d40",
+      "5e9b",
+      "b627",
+      "f54c2fcf83cc.html"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260411/4f6345b9d7744b5093f5e28846726b0e/c.html",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "http://www.batonrougepost.com/news/278977871/netanyahu-slams-spain-for-defaming-idf-heroes",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "20260411",
-      "4f6345b9d7744b5093f5e28846726b0e",
-      "c.html"
+      "news",
+      "278977871",
+      "netanyahu",
+      "slams",
+      "spain",
+      "for",
+      "defaming",
+      "idf",
+      "heroes"
+    ]
+  },
+  "NGA": {
+    "risk_score": 22.2,
+    "count": 25,
+    "top_news": "https://saharareporters.com/2026/04/11/breaking-least-1100-nigerians-abducted-january-under-tinubu-govt-amnesty-intl-demands",
+    "event_codes": {
+      "18": 13,
+      "19": 9,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "breaking",
+      "least",
+      "1100",
+      "nigerians",
+      "abducted",
+      "january",
+      "under",
+      "tinubu",
+      "govt",
+      "amnesty",
+      "intl",
+      "demands"
     ]
   }
 }
