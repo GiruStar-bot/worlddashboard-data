@@ -1,14 +1,33 @@
 {
   "IRN": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://lufkindailynews.com/anpa/us/the-latest-us-and-iranian-officials-meet-face-to-face-in-islamabad-ceasefire-talks/article_270368d5-be1b-5b1e-b881-f52da20ba584.html",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/israel-says-dropped-18-000-160825217.html",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "anpa",
+      "news",
+      "articles",
+      "israel",
+      "says",
+      "dropped",
+      "000",
+      "160825217.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.reflector.com/news/national/the-latest-us-and-iranian-officials-meet-face-to-face-in-islamabad-ceasefire-talks/article_a3e01da8-f895-5c76-aa3c-cb3503e99999.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "national",
       "the",
       "latest",
       "and",
@@ -21,78 +40,31 @@
       "ceasefire",
       "talks",
       "article",
-      "270368d5",
-      "be1b",
-      "5b1e",
-      "b881",
-      "f52da20ba584.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.42,
-    "count": 33,
-    "top_news": "https://www.middleeasteye.net/news/us-and-iran-hold-direct-talks-pakistan-end-war",
-    "event_codes": {
-      "17": 11,
-      "14": 10,
-      "19": 10,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "and",
-      "iran",
-      "hold",
-      "direct",
-      "talks",
-      "pakistan",
-      "end",
-      "war"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.15,
-    "count": 9,
-    "top_news": "https://www.digitaljournal.com/world/planes-fly-from-beirut-airport-despite-israeli-bombing/article",
-    "event_codes": {
-      "19": 5,
-      "17": 2,
-      "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "planes",
-      "fly",
-      "from",
-      "beirut",
-      "airport",
-      "despite",
-      "israeli",
-      "bombing",
-      "article"
+      "a3e01da8",
+      "f895",
+      "5c76",
+      "aa3c",
+      "cb3503e99999.html"
     ]
   },
   "NGA": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.the-star.co.ke/news/africa/2026-04-11-nearly-400-sentenced-in-nigeria-for-links-to-militant-islamists",
+    "risk_score": 6.35,
+    "count": 9,
+    "top_news": "https://www.nigerianeye.com/2026/04/i-have-killed-over-100-people-repentant.html",
     "event_codes": {
+      "14": 3,
       "17": 3,
-      "19": 3
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "africa",
       "2026",
-      "nearly",
-      "400",
-      "sentenced",
-      "nigeria",
-      "for",
-      "links",
-      "militant",
-      "islamists"
+      "have",
+      "killed",
+      "over",
+      "100",
+      "people",
+      "repentant.html"
     ]
   }
 }
