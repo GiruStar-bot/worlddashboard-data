@@ -1,44 +1,38 @@
 {
-  "IRN": {
-    "risk_score": 4.32,
-    "count": 6,
-    "top_news": "https://www.thetimes-tribune.com/2026/04/12/us-central-command-says-it-will-begin-blockade-of-iranian-ports-monday/",
+  "ISR": {
+    "risk_score": 16.47,
+    "count": 22,
+    "top_news": "https://www.wsws.org/en/articles/2026/04/12/jehh-a12.html",
     "event_codes": {
-      "17": 4,
-      "18": 1,
+      "17": 10,
+      "14": 3,
+      "18": 3,
+      "19": 3,
+      "20": 3
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "jehh",
+      "a12.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.thisdaylive.com/2026/04/12/naf-investigates-alleged-civilian-casualties-in-jilli/",
+    "event_codes": {
+      "17": 2,
       "19": 1
     },
     "keywords": [
       "2026",
-      "central",
-      "command",
-      "says",
-      "will",
-      "begin",
-      "blockade",
-      "iranian",
-      "ports",
-      "monday"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.5,
-    "count": 8,
-    "top_news": "https://grenadachronicle.com/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza/",
-    "event_codes": {
-      "16": 3,
-      "14": 2,
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "history",
-      "flotilla",
-      "campaigns",
-      "end",
-      "israels",
-      "siege",
-      "gaza"
+      "naf",
+      "investigates",
+      "alleged",
+      "civilian",
+      "casualties",
+      "jilli"
     ]
   }
 }
