@@ -1,115 +1,70 @@
 {
-  "IRN": {
-    "risk_score": 10.41,
-    "count": 11,
-    "top_news": "https://www.themarysue.com/tucker-carlson-drops-another-bomb-as-he-suspects-donald-trump-is-being-blackmailed/",
+  "BRA": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://www.newsweek.com/amanda-ungaro-describes-hellish-ice-experience-infested-with-lice-11817271",
     "event_codes": {
-      "19": 5,
       "17": 3,
-      "18": 3
+      "19": 1
     },
     "keywords": [
-      "tucker",
-      "carlson",
-      "drops",
-      "another",
-      "bomb",
-      "suspects",
-      "donald",
-      "trump",
-      "being",
-      "blackmailed"
+      "amanda",
+      "ungaro",
+      "describes",
+      "hellish",
+      "ice",
+      "experience",
+      "infested",
+      "with",
+      "lice",
+      "11817271"
     ]
   },
   "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.middleeastmonitor.com/20260412-lebanon-says-35-killed-in-israeli-attacks-over-past-24-hours-death-toll-rises-to-2055/",
+    "risk_score": 2.22,
+    "count": 4,
+    "top_news": "https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-the-begin-doctrine-and-how-pakistan-is-seen-as-a-growing-threat-to-israel-1950058",
     "event_codes": {
-      "19": 3
+      "17": 3,
+      "15": 1
     },
     "keywords": [
-      "20260412",
-      "lebanon",
-      "says",
-      "killed",
-      "israeli",
-      "attacks",
-      "over",
-      "past",
-      "hours",
-      "death",
-      "toll",
-      "rises",
-      "2055"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeastmonitor.com/20260412-lebanon-says-35-killed-in-israeli-attacks-over-past-24-hours-death-toll-rises-to-2055/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "20260412",
-      "lebanon",
-      "says",
-      "killed",
-      "israeli",
-      "attacks",
-      "over",
-      "past",
-      "hours",
-      "death",
-      "toll",
-      "rises",
-      "2055"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.5,
-    "count": 17,
-    "top_news": "https://www.thecable.ng/ndlea-arrests-93-year-old-man-medical-doctor-for-drug-trafficking/",
-    "event_codes": {
-      "17": 8,
-      "18": 6,
-      "19": 3
-    },
-    "keywords": [
-      "ndlea",
-      "arrests",
-      "year",
-      "old",
-      "man",
-      "medical",
-      "doctor",
-      "for",
-      "drug",
-      "trafficking"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.16,
-    "count": 5,
-    "top_news": "https://www.forbes.com/sites/pauliddon/2026/04/12/will-iran-war-result-in-nuclear-weapon-transfers-to-the-middle-east/",
-    "event_codes": {
-      "16": 5
-    },
-    "keywords": [
-      "sites",
-      "pauliddon",
-      "2026",
-      "will",
-      "iran",
-      "war",
-      "result",
-      "nuclear",
-      "weapon",
-      "transfers",
+      "opinion",
+      "columnists",
+      "bhopinder",
+      "singh",
       "the",
-      "middle",
-      "east"
+      "begin",
+      "doctrine",
+      "and",
+      "how",
+      "pakistan",
+      "seen",
+      "growing",
+      "threat",
+      "israel",
+      "1950058"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailymail.co.uk/news/article-15726879/Four-men-arrested-murder-Brit-businessman-Kenya.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15726879",
+      "four",
+      "men",
+      "arrested",
+      "murder",
+      "brit",
+      "businessman",
+      "kenya.html"
     ]
   }
 }
