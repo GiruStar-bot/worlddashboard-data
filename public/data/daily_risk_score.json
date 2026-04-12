@@ -1,95 +1,79 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.ibtimes.co.in/over-52-3-lakh-domestic-lpg-cylinders-delivered-day-no-dry-outs-govt-900960",
+    "risk_score": 5.2,
+    "count": 6,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/war-middle-east-latest-developments-10",
     "event_codes": {
-      "19": 4
+      "19": 4,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "over",
-      "lakh",
-      "domestic",
-      "lpg",
-      "cylinders",
-      "delivered",
-      "day",
-      "dry",
-      "outs",
-      "govt",
-      "900960"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yoursourceone.com/columbia_basin/flags-lowered-for-fallen-ellensburg-connected-air-force-captain-killed-in-iraq-crash/article_d4bacf85-ca82-4a8d-860f-d2022b22d4ff.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "columbia",
-      "basin",
-      "flags",
-      "lowered",
-      "for",
-      "fallen",
-      "ellensburg",
-      "connected",
-      "air",
-      "force",
-      "captain",
-      "killed",
-      "iraq",
-      "crash",
-      "article",
-      "d4bacf85",
-      "ca82",
-      "4a8d",
-      "860f",
-      "d2022b22d4ff.html"
+      "originals",
+      "2026",
+      "war",
+      "middle",
+      "east",
+      "latest",
+      "developments"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.ironmountaindailynews.com/news/2026/04/trump-calls-for-strait-of-hormuz-blockade/",
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.ketr.org/2026-04-12/the-u-s-military-says-it-will-blockade-iranian-ports-as-iran-peace-talks-collapse",
     "event_codes": {
-      "19": 4
+      "17": 3,
+      "19": 3
     },
     "keywords": [
-      "news",
       "2026",
-      "trump",
-      "calls",
-      "for",
-      "strait",
-      "hormuz",
-      "blockade"
+      "the",
+      "military",
+      "says",
+      "will",
+      "blockade",
+      "iranian",
+      "ports",
+      "iran",
+      "peace",
+      "talks",
+      "collapse"
     ]
   },
   "LBN": {
-    "risk_score": 2.4,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.valleynewslive.com/2026/04/12/iran-blames-us-after-ceasefire-talks-break-down-vance-heads-home-without-an-agreement/",
+    "top_news": "https://www.al-monitor.com/originals/2026/04/war-middle-east-latest-developments-10",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 3
     },
     "keywords": [
+      "originals",
       "2026",
-      "iran",
-      "blames",
-      "after",
-      "ceasefire",
-      "talks",
-      "break",
-      "down",
-      "vance",
-      "heads",
-      "home",
-      "without",
-      "agreement"
+      "war",
+      "middle",
+      "east",
+      "latest",
+      "developments"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://dailytrust.com/gunmen-attack-herders-kill-five-cattle-in-plateau-community/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "gunmen",
+      "attack",
+      "herders",
+      "kill",
+      "five",
+      "cattle",
+      "plateau",
+      "community"
     ]
   }
 }
