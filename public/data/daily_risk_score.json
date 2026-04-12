@@ -1,50 +1,131 @@
 {
   "IRN": {
-    "risk_score": 5.1,
-    "count": 6,
-    "top_news": "https://pakobserver.net/us-iran-talks-history-is-in-the-making/",
+    "risk_score": 9.5,
+    "count": 12,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/palestinian-killed-in-west-bank-as-violence-surges-during-iran-israel-war/articleshow/130202714.cms",
     "event_codes": {
-      "19": 4,
-      "14": 2
-    },
-    "keywords": [
-      "iran",
-      "talks",
-      "history",
-      "the",
-      "making"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.newkerala.com/news/a/mourning-sidon-after-israeli-strike-kills-13-lebanese-613.htm",
-    "event_codes": {
-      "19": 3,
-      "16": 1
+      "16": 6,
+      "19": 5,
+      "18": 1
     },
     "keywords": [
       "news",
-      "mourning",
-      "sidon",
-      "after",
-      "israeli",
-      "strike",
-      "kills",
-      "lebanese",
-      "613.htm"
+      "international",
+      "world",
+      "news",
+      "palestinian",
+      "killed",
+      "west",
+      "bank",
+      "violence",
+      "surges",
+      "during",
+      "iran",
+      "israel",
+      "war",
+      "articleshow",
+      "130202714.cms"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.1,
+    "count": 14,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/palestinian-killed-in-west-bank-as-violence-surges-during-iran-israel-war/articleshow/130202714.cms",
+    "event_codes": {
+      "19": 12,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "international",
+      "world",
+      "news",
+      "palestinian",
+      "killed",
+      "west",
+      "bank",
+      "violence",
+      "surges",
+      "during",
+      "iran",
+      "israel",
+      "war",
+      "articleshow",
+      "130202714.cms"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cubaheadlines.com/articles/325677",
+    "risk_score": 2.1,
+    "count": 4,
+    "top_news": "https://www.independent.ie/world-news/middle-east/barry-ohalloran-lebanon-and-israels-moves-towards-peace-talks-offer-a-glimmer-of-hope-in-middle-east/a878054271.html",
     "event_codes": {
-      "19": 2
+      "16": 3,
+      "18": 1
     },
     "keywords": [
-      "articles",
-      "325677"
+      "world",
+      "news",
+      "middle",
+      "east",
+      "barry",
+      "ohalloran",
+      "lebanon",
+      "and",
+      "israels",
+      "moves",
+      "towards",
+      "peace",
+      "talks",
+      "offer",
+      "glimmer",
+      "hope",
+      "middle",
+      "east",
+      "a878054271.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.vanguardngr.com/2026/04/b-haram-deadly-counter-assault-army-narrates-pathetic-story-of-how-gen-braimah-was-killed-in-benisheikh/",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "haram",
+      "deadly",
+      "counter",
+      "assault",
+      "army",
+      "narrates",
+      "pathetic",
+      "story",
+      "how",
+      "gen",
+      "braimah",
+      "was",
+      "killed",
+      "benisheikh"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://dailypioneer.com/news/deported-gangster-back-in-police-custody",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "deported",
+      "gangster",
+      "back",
+      "police",
+      "custody"
     ]
   }
 }
