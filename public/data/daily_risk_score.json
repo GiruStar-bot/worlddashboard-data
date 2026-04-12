@@ -1,69 +1,169 @@
 {
   "IRN": {
-    "risk_score": 7.5,
-    "count": 9,
-    "top_news": "https://www.forbes.com/sites/kensilverstein/2026/04/12/central-asia-the-new-energy-battleground-not-on-your-radar/",
+    "risk_score": 5.64,
+    "count": 6,
+    "top_news": "https://www.express.co.uk/news/world/2193130/trump-threatens-blow-iran-to",
     "event_codes": {
-      "19": 5,
-      "16": 4
-    },
-    "keywords": [
-      "sites",
-      "kensilverstein",
-      "2026",
-      "central",
-      "asia",
-      "the",
-      "new",
-      "energy",
-      "battleground",
-      "not",
-      "your",
-      "radar"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.85,
-    "count": 17,
-    "top_news": "https://www.irishtimes.com/ireland/2026/04/12/cancellation-of-israeli-charity-fundraiser-an-act-of-anti-semitic-censorship-shatter-says/",
-    "event_codes": {
-      "17": 6,
-      "19": 6,
-      "14": 3,
-      "16": 2
-    },
-    "keywords": [
-      "ireland",
-      "2026",
-      "cancellation",
-      "israeli",
-      "charity",
-      "fundraiser",
-      "act",
-      "anti",
-      "semitic",
-      "censorship",
-      "shatter",
-      "says"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.2,
-    "count": 7,
-    "top_news": "https://www.theglobeandmail.com/world/article-us-iran-war-peace-talks-pakistan/",
-    "event_codes": {
-      "19": 5,
-      "16": 1,
+      "19": 4,
+      "15": 1,
       "17": 1
     },
     "keywords": [
+      "news",
       "world",
-      "article",
+      "2193130",
+      "trump",
+      "threatens",
+      "blow",
+      "iran"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.dailysabah.com/politics/turkiye-unites-against-israels-attacks-on-president-erdogan/news",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "politics",
+      "turkiye",
+      "unites",
+      "against",
+      "israels",
+      "attacks",
+      "president",
+      "erdogan",
+      "news"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.19,
+    "count": 18,
+    "top_news": "https://www.dailysabah.com/world/mid-east/trump-claims-us-naval-blockade-of-hormuz-after-iran-talks-fail",
+    "event_codes": {
+      "19": 6,
+      "17": 5,
+      "18": 4,
+      "15": 2,
+      "14": 1
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "trump",
+      "claims",
+      "naval",
+      "blockade",
+      "hormuz",
+      "after",
       "iran",
-      "war",
-      "peace",
       "talks",
-      "pakistan"
+      "fail"
+    ]
+  },
+  "KHM": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://phnompenhpost.com/national/continued-scam-crackdowns-sweep-kingdom/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "national",
+      "continued",
+      "scam",
+      "crackdowns",
+      "sweep",
+      "kingdom"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://smallwarsjournal.com/2026/04/12/sof-news-operation-epic-fury-update-12-april-2026/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "sof",
+      "news",
+      "operation",
+      "epic",
+      "fury",
+      "update",
+      "april",
+      "2026"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.0,
+    "count": 10,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/871179-871179civilians-feared-killed-as-naf-airstrike-hits-border-market.html",
+    "event_codes": {
+      "19": 8,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "headlines",
+      "871179",
+      "871179civilians",
+      "feared",
+      "killed",
+      "naf",
+      "airstrike",
+      "hits",
+      "border",
+      "market.html"
+    ]
+  },
+  "PER": {
+    "risk_score": 7.26,
+    "count": 10,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/12/perus-voters-face-choice-of-35-contenders-for-ninth-president-in-10-years",
+    "event_codes": {
+      "17": 8,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "perus",
+      "voters",
+      "face",
+      "choice",
+      "contenders",
+      "for",
+      "ninth",
+      "president",
+      "years"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.2,
+    "count": 6,
+    "top_news": "https://www.walesonline.co.uk/news/wales-news/man-due-court-after-son-33757070",
+    "event_codes": {
+      "19": 3,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "wales",
+      "news",
+      "man",
+      "due",
+      "court",
+      "after",
+      "son",
+      "33757070"
     ]
   }
 }
