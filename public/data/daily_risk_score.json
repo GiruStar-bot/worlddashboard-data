@@ -1,83 +1,97 @@
 {
-  "IRN": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.theguardian.com/commentisfree/2026/apr/12/king-charles-us-visit-tough-love-speech-congress",
+  "IDN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://en.antaranews.com/news/411996/jakarta-backs-invasive-catfish-crackdown-for-ecosystem-safety",
     "event_codes": {
-      "19": 3,
-      "14": 1
+      "19": 6
     },
     "keywords": [
-      "commentisfree",
-      "2026",
-      "apr",
-      "king",
-      "charles",
-      "visit",
-      "tough",
-      "love",
-      "speech",
-      "congress"
+      "news",
+      "411996",
+      "jakarta",
+      "backs",
+      "invasive",
+      "catfish",
+      "crackdown",
+      "for",
+      "ecosystem",
+      "safety"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.4,
+    "count": 8,
+    "top_news": "https://www.hindustantimes.com/world-news/donald-trump-is-the-war-s-biggest-loser-101775979360238.html",
+    "event_codes": {
+      "19": 4,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "donald",
+      "trump",
+      "the",
+      "war",
+      "biggest",
+      "loser",
+      "101775979360238.html"
     ]
   },
   "ISR": {
-    "risk_score": 16.44,
-    "count": 20,
-    "top_news": "http://www.jpost.com/history/article-892550",
+    "risk_score": 11.96,
+    "count": 19,
+    "top_news": "https://www.silwanic.net/article/news/79958",
     "event_codes": {
-      "19": 10,
-      "17": 8,
-      "14": 2
-    },
-    "keywords": [
-      "history",
-      "article",
-      "892550"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/history/article-892550",
-    "event_codes": {
+      "16": 6,
+      "17": 6,
+      "14": 5,
       "19": 2
     },
     "keywords": [
-      "history",
       "article",
-      "892550"
+      "news",
+      "79958"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.95,
+    "count": 7,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/04/gachagua-ruto-akorino-kiambu-land-clash/",
+    "event_codes": {
+      "19": 4,
+      "14": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "gachagua",
+      "ruto",
+      "akorino",
+      "kiambu",
+      "land",
+      "clash"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://bentelevision.com/terror-crackdown-deepens-as-fg-releases-sanctions-list/",
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/04/12/troops-smash-terrorist-camps-recover-weapons-in-bauchi/",
     "event_codes": {
-      "17": 4
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "terror",
-      "crackdown",
-      "deepens",
-      "releases",
-      "sanctions",
-      "list"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-892660",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "892660"
+      "2026",
+      "troops",
+      "smash",
+      "terrorist",
+      "camps",
+      "recover",
+      "weapons",
+      "bauchi"
     ]
   }
 }
