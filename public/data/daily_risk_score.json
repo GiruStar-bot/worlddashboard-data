@@ -1,70 +1,153 @@
 {
   "IRN": {
-    "risk_score": 7.2,
-    "count": 9,
-    "top_news": "https://en.tempo.co/read/2097738/fact-check-no-evidence-4000-us-troops-killed-at-ben-gurion-airport",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.nbcsandiego.com/news/national-international/live-updates-iran-war-us-israel-middle-east-april-12/4008934/",
     "event_codes": {
-      "16": 5,
-      "19": 4
+      "16": 3,
+      "17": 1
     },
     "keywords": [
-      "read",
-      "2097738",
-      "fact",
-      "check",
-      "evidence",
-      "4000",
-      "troops",
-      "killed",
-      "ben",
-      "gurion",
-      "airport"
+      "news",
+      "national",
+      "international",
+      "live",
+      "updates",
+      "iran",
+      "war",
+      "israel",
+      "middle",
+      "east",
+      "april",
+      "4008934"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://en.tempo.co/read/2097738/fact-check-no-evidence-4000-us-troops-killed-at-ben-gurion-airport",
+    "risk_score": 16.67,
+    "count": 18,
+    "top_news": "https://www.perthnow.com.au/news/australia-warns-aid-workers-under-threat-in-lebanon-after-new-israeli-attack-two-years-on-from-zomi-frankcoms-death-c-22129654",
     "event_codes": {
-      "19": 4
+      "19": 11,
+      "15": 4,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "read",
-      "2097738",
-      "fact",
-      "check",
-      "evidence",
-      "4000",
-      "troops",
-      "killed",
-      "ben",
-      "gurion",
-      "airport"
+      "news",
+      "australia",
+      "warns",
+      "aid",
+      "workers",
+      "under",
+      "threat",
+      "lebanon",
+      "after",
+      "new",
+      "israeli",
+      "attack",
+      "two",
+      "years",
+      "from",
+      "zomi",
+      "frankcoms",
+      "death",
+      "22129654"
     ]
   },
-  "NGA": {
-    "risk_score": 16.2,
-    "count": 20,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/871100-police-launch-manhunt-for-killers-of-imo-traditional-ruler.html",
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.standardmedia.co.ke/national/article/2001545169/atwoli-urges-ruto-to-ban-political-rallies-over-rising-tensions",
     "event_codes": {
-      "17": 7,
-      "19": 7,
-      "15": 3,
-      "18": 3
+      "17": 4
+    },
+    "keywords": [
+      "national",
+      "article",
+      "2001545169",
+      "atwoli",
+      "urges",
+      "ruto",
+      "ban",
+      "political",
+      "rallies",
+      "over",
+      "rising",
+      "tensions"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.12,
+    "count": 3,
+    "top_news": "https://www.wkyufm.org/news/2026-04-12/no-deal-u-s-iran-peace-talks-in-islamabad-collapse",
+    "event_codes": {
+      "16": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "top",
+      "2026",
+      "deal",
+      "iran",
+      "peace",
+      "talks",
+      "islamabad",
+      "collapse"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.wafa.ps/Pages/Details/169308",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "169308"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/civilian-death-toll-from-north-darfur-drone-attack-on-wedding-procession-rises-to-58",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "all",
       "news",
-      "871100",
-      "police",
-      "launch",
-      "manhunt",
-      "for",
-      "killers",
-      "imo",
-      "traditional",
-      "ruler.html"
+      "article",
+      "civilian",
+      "death",
+      "toll",
+      "from",
+      "north",
+      "darfur",
+      "drone",
+      "attack",
+      "wedding",
+      "procession",
+      "rises"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/lifestyle/travel/foreign-office-warns-do-not-37000751",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "lifestyle",
+      "travel",
+      "foreign",
+      "office",
+      "warns",
+      "not",
+      "37000751"
     ]
   }
 }
