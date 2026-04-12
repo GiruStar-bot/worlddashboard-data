@@ -1,90 +1,44 @@
 {
-  "BOL": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.koreaherald.com/article/10715290",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "article",
-      "10715290"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.15,
-    "count": 10,
-    "top_news": "https://www.americanthinker.com/blog/2026/04/with_the_peace_talks_ended_trump_has_a_powerful_brilliant_new_plan_for_iran.html",
+    "risk_score": 4.32,
+    "count": 6,
+    "top_news": "https://www.thetimes-tribune.com/2026/04/12/us-central-command-says-it-will-begin-blockade-of-iranian-ports-monday/",
     "event_codes": {
-      "16": 6,
-      "17": 2,
-      "19": 2
+      "17": 4,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "blog",
       "2026",
-      "with",
-      "the",
-      "peace",
-      "talks",
-      "ended",
-      "trump",
-      "has",
-      "powerful",
-      "brilliant",
-      "new",
-      "plan",
-      "for",
-      "iran.html"
+      "central",
+      "command",
+      "says",
+      "will",
+      "begin",
+      "blockade",
+      "iranian",
+      "ports",
+      "monday"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.albawaba.com/news/haifa-hit-iranian-missiles-israel-1625379",
+    "risk_score": 5.5,
+    "count": 8,
+    "top_news": "https://grenadachronicle.com/history-of-flotilla-campaigns-to-end-israels-siege-of-gaza/",
     "event_codes": {
-      "19": 3
+      "16": 3,
+      "14": 2,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "haifa",
-      "hit",
-      "iranian",
-      "missiles",
-      "israel",
-      "1625379"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/starmer-refuses-join-trump-hormuz-202240081.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "articles",
-      "starmer",
-      "refuses",
-      "join",
-      "trump",
-      "hormuz",
-      "202240081.html"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 5.0,
-    "count": 10,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-263786.html",
-    "event_codes": {
-      "17": 10
-    },
-    "keywords": [
-      "index",
-      "news",
-      "national",
-      "byo",
-      "263786.html"
+      "history",
+      "flotilla",
+      "campaigns",
+      "end",
+      "israels",
+      "siege",
+      "gaza"
     ]
   }
 }
