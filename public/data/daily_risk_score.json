@@ -1,102 +1,105 @@
 {
-  "IRN": {
-    "risk_score": 3.85,
-    "count": 5,
-    "top_news": "https://www.aol.co.uk/articles/iran-must-stop-blackmailing-world-163623665.html",
+  "BFA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.maravipost.com/naci-response-to-human-rights-watchs-unfounded-report-on-burkina-faso/",
     "event_codes": {
-      "17": 2,
-      "19": 2,
+      "20": 3
+    },
+    "keywords": [
+      "naci",
+      "response",
+      "human",
+      "rights",
+      "watchs",
+      "unfounded",
+      "report",
+      "burkina",
+      "faso"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.37,
+    "count": 17,
+    "top_news": "https://www.aljazeera.com/opinions/2026/4/12/seven-ways-america-can-win-the-ceasefire-and-end-the-war",
+    "event_codes": {
+      "19": 12,
+      "16": 3,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "articles",
-      "iran",
-      "must",
-      "stop",
-      "blackmailing",
-      "world",
-      "163623665.html"
+      "opinions",
+      "2026",
+      "seven",
+      "ways",
+      "america",
+      "can",
+      "win",
+      "the",
+      "ceasefire",
+      "and",
+      "end",
+      "the",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 13.94,
-    "count": 20,
-    "top_news": "https://morningstaronline.co.uk/article/israeli-air-attacks-kill-least-18-people-across-southern-lebanon",
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.naharnet.com:443/stories/en/319477-at-least-5-killed-in-extensive-israeli-strikes-on-south-lebanon",
     "event_codes": {
-      "17": 10,
-      "19": 5,
-      "14": 2,
-      "15": 2,
+      "19": 3,
       "16": 1
     },
     "keywords": [
-      "article",
-      "israeli",
-      "air",
-      "attacks",
-      "kill",
+      "stories",
+      "319477",
       "least",
-      "people",
-      "across",
-      "southern",
+      "killed",
+      "extensive",
+      "israeli",
+      "strikes",
+      "south",
       "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://morningstaronline.co.uk/article/israeli-air-attacks-kill-least-18-people-across-southern-lebanon",
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://legitgov.org/attempted-assassination-tucker-carlson-on-israeli-attack-on-rt-correspondent/",
     "event_codes": {
-      "19": 4
+      "19": 4,
+      "16": 2
     },
     "keywords": [
-      "article",
+      "attempted",
+      "assassination",
+      "tucker",
+      "carlson",
       "israeli",
-      "air",
-      "attacks",
-      "kill",
-      "least",
-      "people",
-      "across",
-      "southern",
-      "lebanon"
+      "attack",
+      "correspondent"
     ]
   },
   "NGA": {
-    "risk_score": 14.9,
-    "count": 18,
-    "top_news": "https://dailypost.ng/2026/04/12/kano-garo-has-90-chance-to-emerge-as-deputy-governor-doguwa/",
+    "risk_score": 10.85,
+    "count": 13,
+    "top_news": "https://thesun.ng/ndlea-arrests-21-seizes-illicit-drugs-locally-made-weapons/",
     "event_codes": {
-      "19": 12,
-      "17": 5,
-      "16": 1
+      "19": 6,
+      "17": 4,
+      "18": 3
     },
     "keywords": [
-      "2026",
-      "kano",
-      "garo",
-      "has",
-      "chance",
-      "emerge",
-      "deputy",
-      "governor",
-      "doguwa"
-    ]
-  },
-  "VNM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://wgna.com/ixp/705/p/national-defense-authorization-act/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "ixp",
-      "705",
-      "national",
-      "defense",
-      "authorization",
-      "act"
+      "ndlea",
+      "arrests",
+      "seizes",
+      "illicit",
+      "drugs",
+      "locally",
+      "made",
+      "weapons"
     ]
   }
 }
