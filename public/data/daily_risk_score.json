@@ -1,43 +1,69 @@
 {
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://dailytrust.com/residents-demand-military-base-as-bandits-displace-kaduna-communities/",
+  "IRN": {
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://www.forbes.com/sites/kensilverstein/2026/04/12/central-asia-the-new-energy-battleground-not-on-your-radar/",
     "event_codes": {
-      "18": 5
+      "19": 5,
+      "16": 4
     },
     "keywords": [
-      "residents",
-      "demand",
-      "military",
-      "base",
-      "bandits",
-      "displace",
-      "kaduna",
-      "communities"
+      "sites",
+      "kensilverstein",
+      "2026",
+      "central",
+      "asia",
+      "the",
+      "new",
+      "energy",
+      "battleground",
+      "not",
+      "your",
+      "radar"
     ]
   },
-  "SOM": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.themainewire.com/2026/04/survivors-advocates-escalate-pressure-on-maine-community-foundation-over-lewiston-fund-controversy/",
+  "ISR": {
+    "risk_score": 12.85,
+    "count": 17,
+    "top_news": "https://www.irishtimes.com/ireland/2026/04/12/cancellation-of-israeli-charity-fundraiser-an-act-of-anti-semitic-censorship-shatter-says/",
     "event_codes": {
-      "19": 4,
+      "17": 6,
+      "19": 6,
+      "14": 3,
+      "16": 2
+    },
+    "keywords": [
+      "ireland",
+      "2026",
+      "cancellation",
+      "israeli",
+      "charity",
+      "fundraiser",
+      "act",
+      "anti",
+      "semitic",
+      "censorship",
+      "shatter",
+      "says"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.2,
+    "count": 7,
+    "top_news": "https://www.theglobeandmail.com/world/article-us-iran-war-peace-talks-pakistan/",
+    "event_codes": {
+      "19": 5,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "survivors",
-      "advocates",
-      "escalate",
-      "pressure",
-      "maine",
-      "community",
-      "foundation",
-      "over",
-      "lewiston",
-      "fund",
-      "controversy"
+      "world",
+      "article",
+      "iran",
+      "war",
+      "peace",
+      "talks",
+      "pakistan"
     ]
   }
 }
