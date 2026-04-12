@@ -1,131 +1,99 @@
 {
-  "IRN": {
-    "risk_score": 9.5,
-    "count": 12,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/palestinian-killed-in-west-bank-as-violence-surges-during-iran-israel-war/articleshow/130202714.cms",
-    "event_codes": {
-      "16": 6,
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "world",
-      "news",
-      "palestinian",
-      "killed",
-      "west",
-      "bank",
-      "violence",
-      "surges",
-      "during",
-      "iran",
-      "israel",
-      "war",
-      "articleshow",
-      "130202714.cms"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.1,
-    "count": 14,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/palestinian-killed-in-west-bank-as-violence-surges-during-iran-israel-war/articleshow/130202714.cms",
-    "event_codes": {
-      "19": 12,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "world",
-      "news",
-      "palestinian",
-      "killed",
-      "west",
-      "bank",
-      "violence",
-      "surges",
-      "during",
-      "iran",
-      "israel",
-      "war",
-      "articleshow",
-      "130202714.cms"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.1,
+  "ARE": {
+    "risk_score": 2.9,
     "count": 4,
-    "top_news": "https://www.independent.ie/world-news/middle-east/barry-ohalloran-lebanon-and-israels-moves-towards-peace-talks-offer-a-glimmer-of-hope-in-middle-east/a878054271.html",
+    "top_news": "https://indianexpress.com/article/cities/delhi/gangster-wanted-in-16-cases-deported-from-thailand-arrested-by-haryana-stf-10632165/",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "cities",
+      "delhi",
+      "gangster",
+      "wanted",
+      "cases",
+      "deported",
+      "from",
+      "thailand",
+      "arrested",
+      "haryana",
+      "stf",
+      "10632165"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.7,
+    "count": 7,
+    "top_news": "https://groundviews.org/2026/04/12/iran-us-talks-has-a-resurgent-civilisation-blunted-western-neo-imperialism/",
     "event_codes": {
       "16": 3,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "middle",
-      "east",
-      "barry",
-      "ohalloran",
-      "lebanon",
-      "and",
-      "israels",
-      "moves",
-      "towards",
-      "peace",
-      "talks",
-      "offer",
-      "glimmer",
-      "hope",
-      "middle",
-      "east",
-      "a878054271.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.vanguardngr.com/2026/04/b-haram-deadly-counter-assault-army-narrates-pathetic-story-of-how-gen-braimah-was-killed-in-benisheikh/",
-    "event_codes": {
-      "19": 5,
-      "18": 1
+      "19": 3,
+      "14": 1
     },
     "keywords": [
       "2026",
-      "haram",
-      "deadly",
-      "counter",
-      "assault",
-      "army",
-      "narrates",
-      "pathetic",
-      "story",
-      "how",
-      "gen",
-      "braimah",
-      "was",
-      "killed",
-      "benisheikh"
+      "iran",
+      "talks",
+      "has",
+      "resurgent",
+      "civilisation",
+      "blunted",
+      "western",
+      "neo",
+      "imperialism"
     ]
   },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://dailypioneer.com/news/deported-gangster-back-in-police-custody",
+  "ISR": {
+    "risk_score": 11.46,
+    "count": 15,
+    "top_news": "https://countercurrents.org/2026/04/suffocated-on-the-outskirts-of-jerusalem/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "14": 8,
+      "17": 4,
+      "19": 3
     },
     "keywords": [
-      "news",
-      "deported",
-      "gangster",
-      "back",
-      "police",
-      "custody"
+      "2026",
+      "suffocated",
+      "the",
+      "outskirts",
+      "jerusalem"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.kenyan-post.com/2026/04/when-i-die-bury-me-within-48-hours.html",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "when",
+      "die",
+      "bury",
+      "within",
+      "hours.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://countercurrents.org/2026/04/suffocated-on-the-outskirts-of-jerusalem/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "suffocated",
+      "the",
+      "outskirts",
+      "jerusalem"
     ]
   }
 }
