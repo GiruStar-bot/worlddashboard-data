@@ -1,85 +1,102 @@
 {
-  "BRA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.thedailybeast.com/melania-trumps-party-pal-spills-on-hellish-ice-ordeal/",
+  "IRN": {
+    "risk_score": 3.85,
+    "count": 5,
+    "top_news": "https://www.aol.co.uk/articles/iran-must-stop-blackmailing-world-163623665.html",
     "event_codes": {
       "17": 2,
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "melania",
-      "trumps",
-      "party",
-      "pal",
-      "spills",
-      "hellish",
-      "ice",
-      "ordeal"
+      "articles",
+      "iran",
+      "must",
+      "stop",
+      "blackmailing",
+      "world",
+      "163623665.html"
     ]
   },
-  "IRN": {
-    "risk_score": 13.45,
-    "count": 18,
-    "top_news": "https://www.nbcnews.com/world/iran/collapse-us-iran-talks-pakistan-path-peace-less-clear-rcna319607",
+  "ISR": {
+    "risk_score": 13.94,
+    "count": 20,
+    "top_news": "https://morningstaronline.co.uk/article/israeli-air-attacks-kill-least-18-people-across-southern-lebanon",
     "event_codes": {
-      "16": 6,
-      "19": 6,
-      "14": 3,
-      "17": 3
+      "17": 10,
+      "19": 5,
+      "14": 2,
+      "15": 2,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "iran",
-      "collapse",
-      "iran",
-      "talks",
-      "pakistan",
-      "path",
-      "peace",
-      "less",
-      "clear",
-      "rcna319607"
+      "article",
+      "israeli",
+      "air",
+      "attacks",
+      "kill",
+      "least",
+      "people",
+      "across",
+      "southern",
+      "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenational.scot/news/26014355.us-will-blockade-strait-hormuz-failed-iran-talks-trump-says/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://morningstaronline.co.uk/article/israeli-air-attacks-kill-least-18-people-across-southern-lebanon",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "news",
-      "26014355.us",
-      "will",
-      "blockade",
-      "strait",
-      "hormuz",
-      "failed",
-      "iran",
-      "talks",
-      "trump",
-      "says"
+      "article",
+      "israeli",
+      "air",
+      "attacks",
+      "kill",
+      "least",
+      "people",
+      "across",
+      "southern",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 23.0,
-    "count": 26,
-    "top_news": "https://punchng.com/insecurity-retired-general-urges-nigerians-to-lean-on-god/",
+    "risk_score": 14.9,
+    "count": 18,
+    "top_news": "https://dailypost.ng/2026/04/12/kano-garo-has-90-chance-to-emerge-as-deputy-governor-doguwa/",
     "event_codes": {
-      "19": 16,
+      "19": 12,
       "17": 5,
-      "18": 5
+      "16": 1
     },
     "keywords": [
-      "insecurity",
-      "retired",
-      "general",
-      "urges",
-      "nigerians",
-      "lean",
-      "god"
+      "2026",
+      "kano",
+      "garo",
+      "has",
+      "chance",
+      "emerge",
+      "deputy",
+      "governor",
+      "doguwa"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://wgna.com/ixp/705/p/national-defense-authorization-act/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "ixp",
+      "705",
+      "national",
+      "defense",
+      "authorization",
+      "act"
     ]
   }
 }
