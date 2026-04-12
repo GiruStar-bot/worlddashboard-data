@@ -1,70 +1,81 @@
 {
-  "BRA": {
-    "risk_score": 2.45,
-    "count": 4,
-    "top_news": "https://www.newsweek.com/amanda-ungaro-describes-hellish-ice-experience-infested-with-lice-11817271",
+  "IRN": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.dailymail.co.uk/news/article-15726919/Britain-not-involved-Trumps-blockade-Strait-Hormuz-US-President-vows-completely-close-oil-tanker-route.html",
     "event_codes": {
       "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "amanda",
-      "ungaro",
-      "describes",
-      "hellish",
-      "ice",
-      "experience",
-      "infested",
-      "with",
-      "lice",
-      "11817271"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.22,
-    "count": 4,
-    "top_news": "https://www.deccanchronicle.com/opinion/columnists/bhopinder-singh-the-begin-doctrine-and-how-pakistan-is-seen-as-a-growing-threat-to-israel-1950058",
-    "event_codes": {
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "opinion",
-      "columnists",
-      "bhopinder",
-      "singh",
-      "the",
-      "begin",
-      "doctrine",
-      "and",
-      "how",
-      "pakistan",
-      "seen",
-      "growing",
-      "threat",
-      "israel",
-      "1950058"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dailymail.co.uk/news/article-15726879/Four-men-arrested-murder-Brit-businessman-Kenya.html",
-    "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "news",
       "article",
-      "15726879",
-      "four",
-      "men",
-      "arrested",
-      "murder",
-      "brit",
-      "businessman",
-      "kenya.html"
+      "15726919",
+      "britain",
+      "not",
+      "involved",
+      "trumps",
+      "blockade",
+      "strait",
+      "hormuz",
+      "president",
+      "vows",
+      "completely",
+      "close",
+      "oil",
+      "tanker",
+      "route.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.25,
+    "count": 9,
+    "top_news": "https://english.wafa.ps/Pages/Details/169329",
+    "event_codes": {
+      "19": 7,
+      "17": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "169329"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wdiy.org/npr-news/2026-04-12/trump-claims-u-s-will-close-strait-of-hormuz-as-iran-peace-talks-collapse",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "npr",
+      "news",
+      "2026",
+      "trump",
+      "claims",
+      "will",
+      "close",
+      "strait",
+      "hormuz",
+      "iran",
+      "peace",
+      "talks",
+      "collapse"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.bbc.co.uk/news/articles/cgk021z3ejpo",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cgk021z3ejpo"
     ]
   }
 }
