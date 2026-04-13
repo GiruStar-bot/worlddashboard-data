@@ -1,75 +1,122 @@
 {
-  "IRN": {
-    "risk_score": 3.77,
-    "count": 5,
-    "top_news": "https://www.hawaiitribune-herald.com/2026/04/13/opinion/there-has-been-no-victory-yet-for-the-iranian-people/",
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.surinenglish.com/andalucia/cordoba-police-arrest-man-suspected-stabbing-his-20260413140927-nt.html",
     "event_codes": {
-      "16": 2,
-      "14": 1,
-      "15": 1,
-      "19": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "opinion",
-      "there",
-      "has",
-      "been",
-      "victory",
-      "yet",
-      "for",
-      "the",
-      "iranian",
-      "people"
+      "andalucia",
+      "cordoba",
+      "police",
+      "arrest",
+      "man",
+      "suspected",
+      "stabbing",
+      "his",
+      "20260413140927",
+      "nt.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.65,
+    "count": 12,
+    "top_news": "https://www.alternet.org/iran-hegseth-holy-war/",
+    "event_codes": {
+      "16": 4,
+      "18": 3,
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "iran",
+      "hegseth",
+      "holy",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://ejpress.org/israel-condemns-effigy-of-netanyahu-blown-up-in-spain/",
+    "risk_score": 13.75,
+    "count": 15,
+    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-says-iran-ceasefire-could-end-any-moment-backs-trumps-blockade-tehran-blasts",
     "event_codes": {
-      "19": 5,
+      "19": 10,
+      "16": 2,
       "17": 1,
-      "18": 1
+      "18": 1,
+      "20": 1
     },
     "keywords": [
-      "israel",
-      "condemns",
-      "effigy",
+      "geopolitical",
       "netanyahu",
-      "blown",
-      "spain"
+      "says",
+      "iran",
+      "ceasefire",
+      "could",
+      "end",
+      "any",
+      "moment",
+      "backs",
+      "trumps",
+      "blockade",
+      "tehran",
+      "blasts"
     ]
   },
   "LBN": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://www.jpost.com/middle-east/article-892814",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-says-iran-ceasefire-could-end-any-moment-backs-trumps-blockade-tehran-blasts",
     "event_codes": {
-      "14": 1,
-      "16": 1,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "892814"
+      "geopolitical",
+      "netanyahu",
+      "says",
+      "iran",
+      "ceasefire",
+      "could",
+      "end",
+      "any",
+      "moment",
+      "backs",
+      "trumps",
+      "blockade",
+      "tehran",
+      "blasts"
     ]
   },
-  "SSD": {
-    "risk_score": 9.25,
-    "count": 11,
-    "top_news": "https://allafrica.com/stories/202604130214.html",
+  "NER": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://africa.com/al-qaeda-and-islamic-state-affiliates-clash-in-niger/",
     "event_codes": {
-      "18": 5,
-      "14": 3,
-      "19": 2,
-      "17": 1
+      "19": 5
     },
     "keywords": [
-      "stories",
-      "202604130214.html"
+      "qaeda",
+      "and",
+      "islamic",
+      "state",
+      "affiliates",
+      "clash",
+      "niger"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.jpost.com/international/article-892844",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "international",
+      "article",
+      "892844"
     ]
   }
 }
