@@ -1,126 +1,157 @@
 {
-  "IDN": {
-    "risk_score": 3.49,
-    "count": 5,
-    "top_news": "https://en.antaranews.com/news/412081/indonesia-china-expand-partnership-on-poverty-alleviation",
+  "CMR": {
+    "risk_score": 4.34,
+    "count": 6,
+    "top_news": "https://www.cameroon-concord.com/society/buea-man-shot-shielding-wife-as-armed-robbers-storm-bonduma-home",
     "event_codes": {
       "15": 2,
-      "16": 2,
-      "14": 1
+      "17": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "412081",
-      "indonesia",
-      "china",
-      "expand",
-      "partnership",
-      "poverty",
-      "alleviation"
+      "society",
+      "buea",
+      "man",
+      "shot",
+      "shielding",
+      "wife",
+      "armed",
+      "robbers",
+      "storm",
+      "bonduma",
+      "home"
     ]
   },
   "IRN": {
-    "risk_score": 12.2,
-    "count": 14,
-    "top_news": "https://reason.com/2026/04/13/see-ya-swalwell/",
+    "risk_score": 11.4,
+    "count": 13,
+    "top_news": "https://www.democracynow.org/2026/4/13/ervand_abrahamian",
     "event_codes": {
-      "16": 6,
-      "19": 6,
-      "18": 2
+      "19": 7,
+      "15": 5,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "see",
-      "swalwell"
+      "ervand",
+      "abrahamian"
     ]
   },
   "ISR": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://www.oskaloosa.com/news/national_news/israel-and-hezbollah-clash-in-strategic-lebanese-village-ahead-of-official-talks/article_ed419b86-bdee-504b-bc0c-57adfc5b1fcc.html",
+    "risk_score": 37.4,
+    "count": 43,
+    "top_news": "https://english.aawsat.com/arab-world/5261923-israel-army-ups-hezbollah-death-toll-april-8-strikes-over-250",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "19": 23,
+      "17": 10,
+      "18": 7,
+      "14": 2,
+      "20": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5261923",
+      "israel",
+      "army",
+      "ups",
+      "hezbollah",
+      "death",
+      "toll",
+      "april",
+      "strikes",
+      "over",
+      "250"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.wsmv.com/2026/04/13/no-students-aboard-when-school-bus-suv-collide-wilson-county/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "students",
+      "aboard",
+      "when",
+      "school",
+      "bus",
+      "suv",
+      "collide",
+      "wilson",
+      "county"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.hometownregister.com/news/national/no-warning-survivors-say-nigerian-air-force-bombed-packed-market/article_d80a1bc9-7593-5063-a28b-e255d5647274.html",
+    "event_codes": {
+      "19": 3,
+      "20": 2
     },
     "keywords": [
       "news",
       "national",
-      "news",
-      "israel",
-      "and",
-      "hezbollah",
-      "clash",
-      "strategic",
-      "lebanese",
-      "village",
-      "ahead",
-      "official",
-      "talks",
+      "warning",
+      "survivors",
+      "say",
+      "nigerian",
+      "air",
+      "force",
+      "bombed",
+      "packed",
+      "market",
       "article",
-      "ed419b86",
-      "bdee",
-      "504b",
-      "bc0c",
-      "57adfc5b1fcc.html"
+      "d80a1bc9",
+      "7593",
+      "5063",
+      "a28b",
+      "e255d5647274.html"
     ]
   },
-  "MYS": {
-    "risk_score": 7.44,
-    "count": 14,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/04/13/akps-stations-first-intake-of-armed-forces-veterans-at-klia-port-klang",
+  "PSE": {
+    "risk_score": 9.4,
+    "count": 12,
+    "top_news": "https://www.middleeastmonitor.com/20260413-israeli-army-detains-30-palestinians-in-west-bank-raids/",
     "event_codes": {
-      "17": 12,
-      "15": 2
+      "17": 5,
+      "19": 4,
+      "18": 2,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "akps",
-      "stations",
-      "first",
-      "intake",
-      "armed",
-      "forces",
-      "veterans",
-      "klia",
-      "port",
-      "klang"
-    ]
-  },
-  "NGA": {
-    "risk_score": 13.0,
-    "count": 14,
-    "top_news": "https://www.premiumtimesng.com/regional/nnorth-east/871440-insurgents-reportedly-kill-colonel-other-soldiers-in-borno.html",
-    "event_codes": {
-      "19": 12,
-      "17": 2
-    },
-    "keywords": [
-      "regional",
-      "nnorth",
-      "east",
-      "871440",
-      "insurgents",
-      "reportedly",
-      "kill",
-      "colonel",
-      "other",
-      "soldiers",
-      "borno.html"
+      "20260413",
+      "israeli",
+      "army",
+      "detains",
+      "palestinians",
+      "west",
+      "bank",
+      "raids"
     ]
   },
   "SYR": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "https://sana.sy/en/international/2310138/",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.middleeastmonitor.com/20260413-french-cement-company-lafarge-found-guilty-of-financing-terrorism-in-syria/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "17": 4
     },
     "keywords": [
-      "international",
-      "2310138"
+      "20260413",
+      "french",
+      "cement",
+      "company",
+      "lafarge",
+      "found",
+      "guilty",
+      "financing",
+      "terrorism",
+      "syria"
     ]
   }
 }
