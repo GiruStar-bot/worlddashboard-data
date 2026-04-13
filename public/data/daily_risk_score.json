@@ -1,122 +1,126 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.surinenglish.com/andalucia/cordoba-police-arrest-man-suspected-stabbing-his-20260413140927-nt.html",
+  "IDN": {
+    "risk_score": 3.49,
+    "count": 5,
+    "top_news": "https://en.antaranews.com/news/412081/indonesia-china-expand-partnership-on-poverty-alleviation",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "15": 2,
+      "16": 2,
+      "14": 1
     },
     "keywords": [
-      "andalucia",
-      "cordoba",
-      "police",
-      "arrest",
-      "man",
-      "suspected",
-      "stabbing",
-      "his",
-      "20260413140927",
-      "nt.html"
+      "news",
+      "412081",
+      "indonesia",
+      "china",
+      "expand",
+      "partnership",
+      "poverty",
+      "alleviation"
     ]
   },
   "IRN": {
-    "risk_score": 9.65,
-    "count": 12,
-    "top_news": "https://www.alternet.org/iran-hegseth-holy-war/",
+    "risk_score": 12.2,
+    "count": 14,
+    "top_news": "https://reason.com/2026/04/13/see-ya-swalwell/",
     "event_codes": {
-      "16": 4,
-      "18": 3,
-      "19": 3,
-      "17": 2
+      "16": 6,
+      "19": 6,
+      "18": 2
     },
     "keywords": [
-      "iran",
-      "hegseth",
-      "holy",
-      "war"
+      "2026",
+      "see",
+      "swalwell"
     ]
   },
   "ISR": {
-    "risk_score": 13.75,
-    "count": 15,
-    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-says-iran-ceasefire-could-end-any-moment-backs-trumps-blockade-tehran-blasts",
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://www.oskaloosa.com/news/national_news/israel-and-hezbollah-clash-in-strategic-lebanese-village-ahead-of-official-talks/article_ed419b86-bdee-504b-bc0c-57adfc5b1fcc.html",
     "event_codes": {
-      "19": 10,
-      "16": 2,
-      "17": 1,
-      "18": 1,
-      "20": 1
+      "19": 5,
+      "14": 1
     },
     "keywords": [
-      "geopolitical",
-      "netanyahu",
-      "says",
-      "iran",
-      "ceasefire",
-      "could",
-      "end",
-      "any",
-      "moment",
-      "backs",
-      "trumps",
-      "blockade",
-      "tehran",
-      "blasts"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-says-iran-ceasefire-could-end-any-moment-backs-trumps-blockade-tehran-blasts",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "geopolitical",
-      "netanyahu",
-      "says",
-      "iran",
-      "ceasefire",
-      "could",
-      "end",
-      "any",
-      "moment",
-      "backs",
-      "trumps",
-      "blockade",
-      "tehran",
-      "blasts"
-    ]
-  },
-  "NER": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://africa.com/al-qaeda-and-islamic-state-affiliates-clash-in-niger/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "qaeda",
+      "news",
+      "national",
+      "news",
+      "israel",
       "and",
-      "islamic",
-      "state",
-      "affiliates",
+      "hezbollah",
       "clash",
-      "niger"
+      "strategic",
+      "lebanese",
+      "village",
+      "ahead",
+      "official",
+      "talks",
+      "article",
+      "ed419b86",
+      "bdee",
+      "504b",
+      "bc0c",
+      "57adfc5b1fcc.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 7.44,
+    "count": 14,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/04/13/akps-stations-first-intake-of-armed-forces-veterans-at-klia-port-klang",
+    "event_codes": {
+      "17": 12,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "2026",
+      "akps",
+      "stations",
+      "first",
+      "intake",
+      "armed",
+      "forces",
+      "veterans",
+      "klia",
+      "port",
+      "klang"
+    ]
+  },
+  "NGA": {
+    "risk_score": 13.0,
+    "count": 14,
+    "top_news": "https://www.premiumtimesng.com/regional/nnorth-east/871440-insurgents-reportedly-kill-colonel-other-soldiers-in-borno.html",
+    "event_codes": {
+      "19": 12,
+      "17": 2
+    },
+    "keywords": [
+      "regional",
+      "nnorth",
+      "east",
+      "871440",
+      "insurgents",
+      "reportedly",
+      "kill",
+      "colonel",
+      "other",
+      "soldiers",
+      "borno.html"
     ]
   },
   "SYR": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.jpost.com/international/article-892844",
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://sana.sy/en/international/2310138/",
     "event_codes": {
-      "17": 4
+      "19": 4,
+      "17": 1
     },
     "keywords": [
       "international",
-      "article",
-      "892844"
+      "2310138"
     ]
   }
 }
