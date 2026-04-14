@@ -1,129 +1,139 @@
 {
-  "IRN": {
-    "risk_score": 6.85,
-    "count": 9,
-    "top_news": "https://www.messenger-inquirer.com/ap/elections/zelenskyy-meets-merz-in-berlin-as-ukraine-seeks-more-support-from-germany-against-russia/article_3965d093-53b2-5010-afcf-3dcd4d0725ef.html",
+  "BRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/14/us-forces-to-join-combat-drills-in-philippines-to-show-commitment-to-asia-while-fighting-iran",
     "event_codes": {
-      "16": 6,
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "elections",
-      "zelenskyy",
-      "meets",
-      "merz",
-      "berlin",
-      "ukraine",
-      "seeks",
-      "more",
-      "support",
-      "from",
-      "germany",
-      "against",
-      "russia",
-      "article",
-      "3965d093",
-      "53b2",
-      "5010",
-      "afcf",
-      "3dcd4d0725ef.html"
+      "world",
+      "2026",
+      "forces",
+      "join",
+      "combat",
+      "drills",
+      "philippines",
+      "show",
+      "commitment",
+      "asia",
+      "while",
+      "fighting",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 6.2,
+    "risk_score": 7.6,
     "count": 8,
-    "top_news": "https://www.foxnews.com/opinion/morning-glory-us-iran-negotiations-islamabad-became-reykjavk-20",
+    "top_news": "https://www.middleeastmonitor.com/20260414-hezbollah-rejects-any-deal-from-us-backed-lebanon-israel-talks/",
     "event_codes": {
-      "19": 5,
-      "16": 2,
-      "17": 1
+      "18": 4,
+      "19": 4
     },
     "keywords": [
-      "opinion",
-      "morning",
-      "glory",
-      "iran",
-      "negotiations",
-      "islamabad",
-      "became",
-      "reykjavk"
+      "20260414",
+      "hezbollah",
+      "rejects",
+      "any",
+      "deal",
+      "from",
+      "backed",
+      "lebanon",
+      "israel",
+      "talks"
     ]
   },
-  "MYS": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.stomp.sg/trending-now/msian-man-rapes-domestic-helper-rochor-after-seeing-her-sexually-assaulted-another-man-gets-8-years",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.baltimoresun.com/2026/04/14/us-iran-war-talks/",
     "event_codes": {
-      "18": 2,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "trending",
-      "now",
-      "msian",
-      "man",
-      "rapes",
-      "domestic",
-      "helper",
-      "rochor",
-      "after",
-      "seeing",
-      "her",
-      "sexually",
-      "assaulted",
-      "another",
-      "man",
-      "gets",
-      "years"
+      "2026",
+      "iran",
+      "war",
+      "talks"
     ]
   },
   "NGA": {
-    "risk_score": 9.55,
-    "count": 16,
-    "top_news": "https://ghanaiantimes.com.gh/nigeria-air-force-orders-investigation-into-airstrike/",
+    "risk_score": 9.9,
+    "count": 12,
+    "top_news": "https://news.az/news/nigeria-arrests-33-suspects-over-kwara-church-abductions",
     "event_codes": {
-      "17": 12,
-      "19": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "nigeria",
-      "air",
-      "force",
-      "orders",
-      "investigation",
-      "into",
-      "airstrike"
-    ]
-  },
-  "TUR": {
-    "risk_score": 6.77,
-    "count": 8,
-    "top_news": "https://www.indiatvnews.com/news/world/sixteen-injured-as-former-student-opens-fire-at-turkey-school-before-shooting-self-dead-2026-04-14-1037484",
-    "event_codes": {
-      "19": 4,
-      "16": 2,
-      "15": 1,
-      "18": 1
+      "19": 6,
+      "17": 4,
+      "18": 2
     },
     "keywords": [
       "news",
+      "nigeria",
+      "arrests",
+      "suspects",
+      "over",
+      "kwara",
+      "church",
+      "abductions"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://imemc.org/article/israeli-forces-abduct-dozens-in-west-bank-invasions-3/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "forces",
+      "abduct",
+      "dozens",
+      "west",
+      "bank",
+      "invasions"
+    ]
+  },
+  "SDN": {
+    "risk_score": 9.17,
+    "count": 10,
+    "top_news": "https://www.miragenews.com/sudan-245-child-casualties-in-2026s-first-90-1655001/",
+    "event_codes": {
+      "18": 7,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "sudan",
+      "245",
+      "child",
+      "casualties",
+      "2026s",
+      "first",
+      "1655001"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.brandonsun.com/world/2026/04/14/a-gunman-opens-fire-at-a-high-school-in-turkey-wounding-at-least-16-reports-say",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
       "world",
-      "sixteen",
-      "injured",
-      "former",
-      "student",
+      "2026",
+      "gunman",
       "opens",
       "fire",
-      "turkey",
+      "high",
       "school",
-      "before",
-      "shooting",
-      "self",
-      "dead",
-      "2026",
-      "1037484"
+      "turkey",
+      "wounding",
+      "least",
+      "reports",
+      "say"
     ]
   }
 }
