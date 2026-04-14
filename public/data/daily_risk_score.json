@@ -1,108 +1,113 @@
 {
-  "CMR": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "https://punchng.com/pope-leo-prepares-for-landmark-visit-to-cameroon-conflict-zone/",
+  "IRN": {
+    "risk_score": 6.6,
+    "count": 8,
+    "top_news": "https://www.cp24.com/news/world/2026/04/14/lebanon-and-israel-hold-first-direct-diplomatic-talks-in-decades-in-washington/",
     "event_codes": {
-      "19": 4,
+      "19": 5,
+      "16": 2,
       "17": 1
     },
     "keywords": [
-      "pope",
-      "leo",
-      "prepares",
-      "for",
-      "landmark",
-      "visit",
-      "cameroon",
-      "conflict",
-      "zone"
+      "news",
+      "world",
+      "2026",
+      "lebanon",
+      "and",
+      "israel",
+      "hold",
+      "first",
+      "direct",
+      "diplomatic",
+      "talks",
+      "decades",
+      "washington"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.longwarjournal.org/archives/2026/04/iraq-focuses-on-political-appointees-economic-challenges-amid-iran-ceasefire.php",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "archives",
+      "2026",
+      "iraq",
+      "focuses",
+      "political",
+      "appointees",
+      "economic",
+      "challenges",
+      "amid",
+      "iran",
+      "ceasefire.php"
     ]
   },
   "ISR": {
-    "risk_score": 10.05,
-    "count": 13,
-    "top_news": "https://www.pilotonline.com/2026/04/14/us-iran-war-talks/",
+    "risk_score": 18.71,
+    "count": 24,
+    "top_news": "https://www.capeandislands.org/2026-04-14/man-accused-of-shooting-palestinian-students-competent-to-stand-trial",
     "event_codes": {
-      "17": 5,
-      "18": 4,
-      "19": 4
+      "19": 10,
+      "17": 8,
+      "14": 3,
+      "16": 3
     },
     "keywords": [
       "2026",
-      "iran",
-      "war",
+      "man",
+      "accused",
+      "shooting",
+      "palestinian",
+      "students",
+      "competent",
+      "stand",
+      "trial"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://www.brentwoodlive.co.uk/news/national/26021588.historic-opportunity-lebanon-israel-hold-direct-diplomatic-talks-us/",
+    "event_codes": {
+      "19": 4,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "26021588.historic",
+      "opportunity",
+      "lebanon",
+      "israel",
+      "hold",
+      "direct",
+      "diplomatic",
       "talks"
     ]
   },
-  "NGA": {
-    "risk_score": 9.15,
-    "count": 11,
-    "top_news": "https://dailytrust.com/again-commander-soldiers-killed-in-boko-haram-ambush/",
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ibtimes.co.uk/world-war-3-fears-veterans-aged-65-could-recalled-under-new-rules-1791721",
     "event_codes": {
-      "19": 5,
-      "17": 3,
-      "18": 3
+      "19": 2
     },
     "keywords": [
-      "again",
-      "commander",
-      "soldiers",
-      "killed",
-      "boko",
-      "haram",
-      "ambush"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.middleeastmonitor.com/20260414-palestinians-confront-israeli-occupiers-attempting-to-seize-west-bank-home/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "20260414",
-      "palestinians",
-      "confront",
-      "israeli",
-      "occupiers",
-      "attempting",
-      "seize",
-      "west",
-      "bank",
-      "home"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.13newsnow.com/article/news/nation-world/a-gunman-opens-fire-at-a-high-school-in-turkey-wounding-at-least-16-reports-say/616-b4e793c3-2959-4bc8-9fc7-235bb2fc775f",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "article",
-      "news",
-      "nation",
       "world",
-      "gunman",
-      "opens",
-      "fire",
-      "high",
-      "school",
-      "turkey",
-      "wounding",
-      "least",
-      "reports",
-      "say",
-      "616",
-      "b4e793c3",
-      "2959",
-      "4bc8",
-      "9fc7",
-      "235bb2fc775f"
+      "war",
+      "fears",
+      "veterans",
+      "aged",
+      "could",
+      "recalled",
+      "under",
+      "new",
+      "rules",
+      "1791721"
     ]
   }
 }
