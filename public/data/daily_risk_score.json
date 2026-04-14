@@ -1,88 +1,145 @@
 {
-  "ETH": {
-    "risk_score": 2.8,
+  "BRA": {
+    "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://www.eppingforestguardian.co.uk/news/26020265.men-convicted-plead-guilty-violent-disorder-epping/",
+    "top_news": "https://morningstaronline.co.uk/article/former-brazilian-intelligence-chief-arrested-ice-us",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "17": 4
     },
     "keywords": [
-      "news",
-      "26020265.men",
-      "convicted",
-      "plead",
-      "guilty",
-      "violent",
-      "disorder",
-      "epping"
+      "article",
+      "former",
+      "brazilian",
+      "intelligence",
+      "chief",
+      "arrested",
+      "ice"
     ]
   },
   "IRN": {
-    "risk_score": 10.09,
-    "count": 11,
-    "top_news": "https://www.americanthinker.com/blog/2026/04/pope_leo_xiv_the_lamentably_political_pontiff.html",
+    "risk_score": 16.57,
+    "count": 24,
+    "top_news": "https://www.newstalk.com/podcasts/highlights-from-the-hard-shoulder/how-vulnerable-are-we-to-cyberattacks",
     "event_codes": {
-      "19": 5,
-      "18": 3,
+      "16": 15,
+      "19": 4,
       "17": 2,
-      "16": 1
+      "18": 2,
+      "15": 1
     },
     "keywords": [
-      "blog",
-      "2026",
-      "pope",
-      "leo",
-      "xiv",
+      "podcasts",
+      "highlights",
+      "from",
       "the",
-      "lamentably",
-      "political",
-      "pontiff.html"
+      "hard",
+      "shoulder",
+      "how",
+      "vulnerable",
+      "are",
+      "cyberattacks"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.mirror.co.uk/news/world-news/putin-allies-confess-love-donald-37013130",
+    "risk_score": 12.65,
+    "count": 16,
+    "top_news": "https://www.sbs.com.au/news/article/decades-of-silence-broken-as-lebanon-and-israel-meet-and-war-rages-on/lhegqvmyf",
     "event_codes": {
+      "16": 5,
       "17": 4,
-      "19": 1
+      "19": 4,
+      "20": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "decades",
+      "silence",
+      "broken",
+      "lebanon",
+      "and",
+      "israel",
+      "meet",
+      "and",
+      "war",
+      "rages",
+      "lhegqvmyf"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://lancasteronline.com/news/world/the-latest-trump-hints-at-new-iran-talks-as-hormuz-standoff-intensifies/article_093752f7-9342-5acd-a2f8-43c0bbf90e27.html",
+    "event_codes": {
+      "19": 7
     },
     "keywords": [
       "news",
       "world",
-      "news",
-      "putin",
-      "allies",
-      "confess",
-      "love",
-      "donald",
-      "37013130"
+      "the",
+      "latest",
+      "trump",
+      "hints",
+      "new",
+      "iran",
+      "talks",
+      "hormuz",
+      "standoff",
+      "intensifies",
+      "article",
+      "093752f7",
+      "9342",
+      "5acd",
+      "a2f8",
+      "43c0bbf90e27.html"
     ]
   },
-  "NGA": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.americanthinker.com/blog/2026/04/something_new_the_anti_trump_christians_new_reverence_for_the_islamic_faith.html",
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://lancasteronline.com/news/world/the-latest-trump-hints-at-new-iran-talks-as-hormuz-standoff-intensifies/article_093752f7-9342-5acd-a2f8-43c0bbf90e27.html",
     "event_codes": {
-      "19": 7,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "blog",
-      "2026",
-      "something",
-      "new",
+      "news",
+      "world",
       "the",
-      "anti",
+      "latest",
       "trump",
-      "christians",
+      "hints",
       "new",
-      "reverence",
-      "for",
-      "the",
-      "islamic",
-      "faith.html"
+      "iran",
+      "talks",
+      "hormuz",
+      "standoff",
+      "intensifies",
+      "article",
+      "093752f7",
+      "9342",
+      "5acd",
+      "a2f8",
+      "43c0bbf90e27.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.thetimes.com/world/asia/article/china-breaks-us-blockade-oil-hormuz-sc52tk7hr",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "asia",
+      "article",
+      "china",
+      "breaks",
+      "blockade",
+      "oil",
+      "hormuz",
+      "sc52tk7hr"
     ]
   }
 }
