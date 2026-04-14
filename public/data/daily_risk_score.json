@@ -1,145 +1,114 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://morningstaronline.co.uk/article/former-brazilian-intelligence-chief-arrested-ice-us",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "article",
-      "former",
-      "brazilian",
-      "intelligence",
-      "chief",
-      "arrested",
-      "ice"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.57,
-    "count": 24,
-    "top_news": "https://www.newstalk.com/podcasts/highlights-from-the-hard-shoulder/how-vulnerable-are-we-to-cyberattacks",
+    "risk_score": 5.3,
+    "count": 7,
+    "top_news": "https://nypost.com/2026/04/14/opinion/pope-leo-needs-to-brush-up-his-bible-and-its-lessons-on-war-and-peace/",
     "event_codes": {
-      "16": 15,
       "19": 4,
-      "17": 2,
-      "18": 2,
-      "15": 1
+      "16": 2,
+      "17": 1
     },
     "keywords": [
-      "podcasts",
-      "highlights",
-      "from",
-      "the",
-      "hard",
-      "shoulder",
-      "how",
-      "vulnerable",
-      "are",
-      "cyberattacks"
+      "2026",
+      "opinion",
+      "pope",
+      "leo",
+      "needs",
+      "brush",
+      "his",
+      "bible",
+      "and",
+      "its",
+      "lessons",
+      "war",
+      "and",
+      "peace"
     ]
   },
   "ISR": {
-    "risk_score": 12.65,
-    "count": 16,
-    "top_news": "https://www.sbs.com.au/news/article/decades-of-silence-broken-as-lebanon-and-israel-meet-and-war-rages-on/lhegqvmyf",
+    "risk_score": 8.4,
+    "count": 10,
+    "top_news": "https://www.newkerala.com/news/a/israeli-forces-attack-hezbollah-terror-infrastructure-southern-lebanon-469.htm",
     "event_codes": {
-      "16": 5,
-      "17": 4,
-      "19": 4,
-      "20": 2,
-      "14": 1
+      "19": 5,
+      "14": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "article",
-      "decades",
-      "silence",
-      "broken",
+      "israeli",
+      "forces",
+      "attack",
+      "hezbollah",
+      "terror",
+      "infrastructure",
+      "southern",
       "lebanon",
-      "and",
-      "israel",
-      "meet",
-      "and",
-      "war",
-      "rages",
-      "lhegqvmyf"
+      "469.htm"
     ]
   },
   "LBN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://lancasteronline.com/news/world/the-latest-trump-hints-at-new-iran-talks-as-hormuz-standoff-intensifies/article_093752f7-9342-5acd-a2f8-43c0bbf90e27.html",
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.newkerala.com/news/a/israeli-forces-attack-hezbollah-terror-infrastructure-southern-lebanon-469.htm",
     "event_codes": {
-      "19": 7
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
-      "world",
-      "the",
-      "latest",
-      "trump",
-      "hints",
-      "new",
-      "iran",
-      "talks",
-      "hormuz",
-      "standoff",
-      "intensifies",
-      "article",
-      "093752f7",
-      "9342",
-      "5acd",
-      "a2f8",
-      "43c0bbf90e27.html"
+      "israeli",
+      "forces",
+      "attack",
+      "hezbollah",
+      "terror",
+      "infrastructure",
+      "southern",
+      "lebanon",
+      "469.htm"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://lancasteronline.com/news/world/the-latest-trump-hints-at-new-iran-talks-as-hormuz-standoff-intensifies/article_093752f7-9342-5acd-a2f8-43c0bbf90e27.html",
+  "NGA": {
+    "risk_score": 8.9,
+    "count": 11,
+    "top_news": "https://saharareporters.com/2026/04/14/stop-injecting-religion-yorubaland-politics-coalition-warns-muric-leader-over-call",
     "event_codes": {
+      "19": 5,
+      "16": 3,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "stop",
+      "injecting",
+      "religion",
+      "yorubaland",
+      "politics",
+      "coalition",
+      "warns",
+      "muric",
+      "leader",
+      "over",
+      "call"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.aol.co.uk/articles/fbi-arrests-california-man-shot-215208245.html",
+    "event_codes": {
+      "17": 4,
       "19": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "the",
-      "latest",
-      "trump",
-      "hints",
-      "new",
-      "iran",
-      "talks",
-      "hormuz",
-      "standoff",
-      "intensifies",
-      "article",
-      "093752f7",
-      "9342",
-      "5acd",
-      "a2f8",
-      "43c0bbf90e27.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.thetimes.com/world/asia/article/china-breaks-us-blockade-oil-hormuz-sc52tk7hr",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "asia",
-      "article",
-      "china",
-      "breaks",
-      "blockade",
-      "oil",
-      "hormuz",
-      "sc52tk7hr"
+      "articles",
+      "fbi",
+      "arrests",
+      "california",
+      "man",
+      "shot",
+      "215208245.html"
     ]
   }
 }
