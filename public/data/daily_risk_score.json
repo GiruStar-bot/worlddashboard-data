@@ -1,67 +1,99 @@
 {
-  "ARG": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://progressive.org/latest/the-battle-for-argentinas-memory-mcaulay-20260413/",
+  "BRA": {
+    "risk_score": 5.0,
+    "count": 10,
+    "top_news": "https://www.lebanondemocrat.com/maconcounty/news/national/brazils-fugitive-ex-spy-chief-detained-by-us-immigration/article_3878c233-e60f-561e-8fb6-2d39be4f5ed9.html",
     "event_codes": {
-      "17": 4
+      "17": 10
     },
     "keywords": [
-      "latest",
-      "the",
-      "battle",
-      "for",
-      "argentinas",
-      "memory",
-      "mcaulay",
-      "20260413"
+      "maconcounty",
+      "news",
+      "national",
+      "brazils",
+      "fugitive",
+      "spy",
+      "chief",
+      "detained",
+      "immigration",
+      "article",
+      "3878c233",
+      "e60f",
+      "561e",
+      "8fb6",
+      "2d39be4f5ed9.html"
     ]
   },
   "IRN": {
-    "risk_score": 6.5,
-    "count": 8,
-    "top_news": "https://www.punknews.org/article/88003/trump-attacks-the-pope-uses-ai-to-depict-self-as-warrior-jesus",
+    "risk_score": 3.3,
+    "count": 6,
+    "top_news": "https://wjactv.com/news/nation-world/trump-says-iran-deal-still-possible-as-us-begins-strait-of-hormuz-blockade-negotiations-traffic",
     "event_codes": {
       "16": 5,
-      "19": 3
+      "18": 1
     },
     "keywords": [
-      "article",
-      "88003",
+      "news",
+      "nation",
+      "world",
       "trump",
-      "attacks",
-      "the",
-      "pope",
-      "uses",
-      "depict",
-      "self",
-      "warrior",
-      "jesus"
+      "says",
+      "iran",
+      "deal",
+      "still",
+      "possible",
+      "begins",
+      "strait",
+      "hormuz",
+      "blockade",
+      "negotiations",
+      "traffic"
     ]
   },
   "ISR": {
-    "risk_score": 4.3,
-    "count": 7,
-    "top_news": "https://www.thetimes.com/world/middle-east/israel-iran/article/trump-hormuz-strait-blockade-iran-war-hclw7jkbs",
+    "risk_score": 20.31,
+    "count": 26,
+    "top_news": "https://www.kelownadailycourier.ca/news/national_news/quebec/article_2e804658-c78e-5e0a-9218-e160520f3ff3.html",
     "event_codes": {
-      "17": 4,
-      "14": 2,
-      "19": 1
+      "17": 8,
+      "19": 7,
+      "16": 6,
+      "14": 5
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "iran",
+      "news",
+      "national",
+      "news",
+      "quebec",
       "article",
-      "trump",
-      "hormuz",
-      "strait",
-      "blockade",
-      "iran",
-      "war",
-      "hclw7jkbs"
+      "2e804658",
+      "c78e",
+      "5e0a",
+      "9218",
+      "e160520f3ff3.html"
+    ]
+  },
+  "TCD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.latimes.com/california/story/2026-04-13/swalwell-supporters-scramble-after-he-drops-out-of-governors-race-who-benefits",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "california",
+      "story",
+      "2026",
+      "swalwell",
+      "supporters",
+      "scramble",
+      "after",
+      "drops",
+      "out",
+      "governors",
+      "race",
+      "who",
+      "benefits"
     ]
   }
 }
