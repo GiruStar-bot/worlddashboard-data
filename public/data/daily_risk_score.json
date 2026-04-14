@@ -1,29 +1,87 @@
 {
-  "IRN": {
-    "risk_score": 12.6,
-    "count": 16,
-    "top_news": "https://www.wokv.com/news/world/lebanon-israel-hold/URWQDIWPNM5KNGKHRNXEP62SBE/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.heraldscotland.com/news/26021744.man-inflicted-permanent-disfigurement-scotlands-gang-war/",
     "event_codes": {
-      "19": 8,
-      "16": 4,
       "17": 4
     },
     "keywords": [
       "news",
-      "world",
-      "lebanon",
-      "israel",
-      "hold",
-      "urwqdiwpnm5kngkhrnxep62sbe"
+      "26021744.man",
+      "inflicted",
+      "permanent",
+      "disfigurement",
+      "scotlands",
+      "gang",
+      "war"
+    ]
+  },
+  "BRA": {
+    "risk_score": 4.5,
+    "count": 9,
+    "top_news": "https://www.foxnews.com/politics/runaway-brazilian-ex-spy-chief-convicted-coup-reportedly-detained-ice-florida-traffic-stop",
+    "event_codes": {
+      "17": 9
+    },
+    "keywords": [
+      "politics",
+      "runaway",
+      "brazilian",
+      "spy",
+      "chief",
+      "convicted",
+      "coup",
+      "reportedly",
+      "detained",
+      "ice",
+      "florida",
+      "traffic",
+      "stop"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.14,
+    "count": 17,
+    "top_news": "https://attackofthefanboy.com/politics/its-a-joke-hillary-clinton-just-dismantled-trumps-entire-iran-negotiation-strategy-in-one-sentence-about-jared-kushner-and-steve-witkoff/",
+    "event_codes": {
+      "16": 5,
+      "19": 5,
+      "17": 4,
+      "15": 2,
+      "20": 1
+    },
+    "keywords": [
+      "politics",
+      "its",
+      "joke",
+      "hillary",
+      "clinton",
+      "just",
+      "dismantled",
+      "trumps",
+      "entire",
+      "iran",
+      "negotiation",
+      "strategy",
+      "one",
+      "sentence",
+      "about",
+      "jared",
+      "kushner",
+      "and",
+      "steve",
+      "witkoff"
     ]
   },
   "ISR": {
-    "risk_score": 10.25,
-    "count": 13,
-    "top_news": "https://www.wokv.com/news/world/lebanon-israel-hold/URWQDIWPNM5KNGKHRNXEP62SBE/",
+    "risk_score": 8.83,
+    "count": 11,
+    "top_news": "https://www.wdbo.com/news/world/lebanon-israel-hold/URWQDIWPNM5KNGKHRNXEP62SBE/",
     "event_codes": {
-      "19": 7,
-      "17": 4,
+      "17": 5,
+      "19": 3,
+      "15": 1,
       "16": 1,
       "18": 1
     },
@@ -36,83 +94,80 @@
       "urwqdiwpnm5kngkhrnxep62sbe"
     ]
   },
-  "LBN": {
-    "risk_score": 8.2,
-    "count": 10,
-    "top_news": "https://www.camera.org/article/bbcs-today-program-uses-framing-to-lay-blame/",
+  "KEN": {
+    "risk_score": 8.25,
+    "count": 11,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/04/two-killed-in-mbeere-north-protests-as-residents-decry-poor-state-of-ishiara-hospital/",
     "event_codes": {
-      "19": 5,
+      "19": 4,
       "14": 3,
+      "17": 2,
       "16": 1,
       "18": 1
     },
     "keywords": [
-      "article",
-      "bbcs",
-      "today",
-      "program",
-      "uses",
-      "framing",
-      "lay",
-      "blame"
+      "news",
+      "2026",
+      "two",
+      "killed",
+      "mbeere",
+      "north",
+      "protests",
+      "residents",
+      "decry",
+      "poor",
+      "state",
+      "ishiara",
+      "hospital"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.spacewar.com/afp/260414163124.4q8x5hly.html",
+    "event_codes": {
+      "18": 1,
+      "19": 1,
+      "20": 1
+    },
+    "keywords": [
+      "afp",
+      "260414163124.4q8x5hly.html"
     ]
   },
   "NGA": {
-    "risk_score": 3.45,
-    "count": 6,
-    "top_news": "https://punchng.com/just-in-fayose-in-closed-door-meeting-with-olubadan/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thetimes.com/uk/law/article/opec-chief-london-lifestyle-oil-wnnfd57wf",
     "event_codes": {
-      "17": 5,
-      "19": 1
+      "18": 2
     },
     "keywords": [
-      "just",
-      "fayose",
-      "closed",
-      "door",
-      "meeting",
-      "with",
-      "olubadan"
+      "law",
+      "article",
+      "opec",
+      "chief",
+      "london",
+      "lifestyle",
+      "oil",
+      "wnnfd57wf"
     ]
   },
   "SOM": {
-    "risk_score": 5.11,
-    "count": 6,
-    "top_news": "https://wardheernews.com/collision-course-puntland-federal-rift-pushes-somalia-toward-dangerous-political-and-security-breakdown/",
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://dominicanrepublicpost.com/somalia-reports-hit-on-al-shabab-with-international-support/",
     "event_codes": {
-      "15": 3,
-      "19": 3
+      "19": 11
     },
     "keywords": [
-      "collision",
-      "course",
-      "puntland",
-      "federal",
-      "rift",
-      "pushes",
       "somalia",
-      "toward",
-      "dangerous",
-      "political",
-      "and",
-      "security",
-      "breakdown"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.22,
-    "count": 4,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/15/2003855627",
-    "event_codes": {
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "taiwan",
-      "archives",
-      "2026",
-      "2003855627"
+      "reports",
+      "hit",
+      "shabab",
+      "with",
+      "international",
+      "support"
     ]
   }
 }
