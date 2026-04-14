@@ -1,155 +1,108 @@
 {
-  "IRN": {
-    "risk_score": 7.4,
-    "count": 12,
-    "top_news": "https://katu.com/news/nation-world/vance-says-the-ball-is-in-the-iranian-court-as-us-military-continues-blockade-on-ports-president-donald-trump-strait-of-hormuz-oil-pakistan-pope-leo-france-macron-uk-keir-starmer-sanctions-lebanon-israel-middle-east-war",
+  "CMR": {
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://punchng.com/pope-leo-prepares-for-landmark-visit-to-cameroon-conflict-zone/",
     "event_codes": {
-      "16": 8,
-      "19": 3,
+      "19": 4,
       "17": 1
     },
     "keywords": [
-      "news",
-      "nation",
-      "world",
-      "vance",
-      "says",
-      "the",
-      "ball",
-      "the",
-      "iranian",
-      "court",
-      "military",
-      "continues",
-      "blockade",
-      "ports",
-      "president",
-      "donald",
-      "trump",
-      "strait",
-      "hormuz",
-      "oil",
-      "pakistan",
       "pope",
       "leo",
-      "france",
-      "macron",
-      "keir",
-      "starmer",
-      "sanctions",
-      "lebanon",
-      "israel",
-      "middle",
-      "east",
-      "war"
+      "prepares",
+      "for",
+      "landmark",
+      "visit",
+      "cameroon",
+      "conflict",
+      "zone"
     ]
   },
   "ISR": {
-    "risk_score": 8.3,
-    "count": 9,
-    "top_news": "https://www.jpost.com/diaspora/antisemitism/article-892968",
+    "risk_score": 10.05,
+    "count": 13,
+    "top_news": "https://www.pilotonline.com/2026/04/14/us-iran-war-talks/",
     "event_codes": {
-      "19": 7,
-      "14": 2
-    },
-    "keywords": [
-      "diaspora",
-      "antisemitism",
-      "article",
-      "892968"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.5,
-    "count": 10,
-    "top_news": "https://www.israelnationalnews.com/flashes/683219",
-    "event_codes": {
-      "19": 9,
-      "17": 1
-    },
-    "keywords": [
-      "flashes",
-      "683219"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://pmnewsnigeria.com/2026/04/14/amnesty-international-faults-nigerian-military-over-reckless-airstrikes/",
-    "event_codes": {
-      "19": 4,
-      "16": 1
+      "17": 5,
+      "18": 4,
+      "19": 4
     },
     "keywords": [
       "2026",
-      "amnesty",
-      "international",
-      "faults",
-      "nigerian",
-      "military",
-      "over",
-      "reckless",
-      "airstrikes"
+      "iran",
+      "war",
+      "talks"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.15,
+    "count": 11,
+    "top_news": "https://dailytrust.com/again-commander-soldiers-killed-in-boko-haram-ambush/",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "again",
+      "commander",
+      "soldiers",
+      "killed",
+      "boko",
+      "haram",
+      "ambush"
     ]
   },
   "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://accesswdun.com/ap_article/efforts-underway-for-second-round-of-us-iran-talks-as-us-blockade-takes-effect",
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.middleeastmonitor.com/20260414-palestinians-confront-israeli-occupiers-attempting-to-seize-west-bank-home/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "article",
-      "efforts",
-      "underway",
-      "for",
-      "second",
-      "round",
-      "iran",
-      "talks",
-      "blockade",
-      "takes",
-      "effect"
+      "20260414",
+      "palestinians",
+      "confront",
+      "israeli",
+      "occupiers",
+      "attempting",
+      "seize",
+      "west",
+      "bank",
+      "home"
     ]
   },
   "TUR": {
-    "risk_score": 13.22,
-    "count": 15,
-    "top_news": "http://www.bgnes.com/society/turkey-school-shooting-wounds-16-attacker-dead",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.13newsnow.com/article/news/nation-world/a-gunman-opens-fire-at-a-high-school-in-turkey-wounding-at-least-16-reports-say/616-b4e793c3-2959-4bc8-9fc7-235bb2fc775f",
     "event_codes": {
-      "19": 7,
-      "15": 6,
-      "18": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "society",
-      "turkey",
+      "article",
+      "news",
+      "nation",
+      "world",
+      "gunman",
+      "opens",
+      "fire",
+      "high",
       "school",
-      "shooting",
-      "wounds",
-      "attacker",
-      "dead"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.foxnews.com/politics/push-oust-trump-exposes-cracks-among-democrats-strategy-timing",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "politics",
-      "push",
-      "oust",
-      "trump",
-      "exposes",
-      "cracks",
-      "among",
-      "democrats",
-      "strategy",
-      "timing"
+      "turkey",
+      "wounding",
+      "least",
+      "reports",
+      "say",
+      "616",
+      "b4e793c3",
+      "2959",
+      "4bc8",
+      "9fc7",
+      "235bb2fc775f"
     ]
   }
 }
