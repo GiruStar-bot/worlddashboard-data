@@ -1,214 +1,69 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theguardian.com/global-development/2026/apr/15/people-displaced-50-years-ago-ava-guarani-community-itaipu-dam-paraguay-brazil-border",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "global",
-      "development",
-      "2026",
-      "apr",
-      "people",
-      "displaced",
-      "years",
-      "ago",
-      "ava",
-      "guarani",
-      "community",
-      "itaipu",
-      "dam",
-      "paraguay",
-      "brazil",
-      "border"
-    ]
-  },
-  "BRA": {
-    "risk_score": 15.95,
-    "count": 16,
-    "top_news": "https://www.theguardian.com/global-development/2026/apr/15/people-displaced-50-years-ago-ava-guarani-community-itaipu-dam-paraguay-brazil-border",
-    "event_codes": {
-      "19": 16
-    },
-    "keywords": [
-      "global",
-      "development",
-      "2026",
-      "apr",
-      "people",
-      "displaced",
-      "years",
-      "ago",
-      "ava",
-      "guarani",
-      "community",
-      "itaipu",
-      "dam",
-      "paraguay",
-      "brazil",
-      "border"
-    ]
-  },
   "IRN": {
-    "risk_score": 9.17,
-    "count": 11,
-    "top_news": "https://www.ibtimes.co.uk/chinas-nostradamus-predicts-us-will-lose-ground-invasion-this-month-ending-us-dollar-dominance-1791880",
+    "risk_score": 7.12,
+    "count": 9,
+    "top_news": "https://www.hindustantimes.com/world-news/irans-regime-has-changed-for-the-worse-101776250590863.html",
     "event_codes": {
-      "19": 6,
-      "17": 4,
-      "16": 1
-    },
-    "keywords": [
-      "chinas",
-      "nostradamus",
-      "predicts",
-      "will",
-      "lose",
-      "ground",
-      "invasion",
-      "this",
-      "month",
-      "ending",
-      "dollar",
-      "dominance",
-      "1791880"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ibtimes.co.uk/chinas-nostradamus-predicts-us-will-lose-ground-invasion-this-month-ending-us-dollar-dominance-1791880",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "chinas",
-      "nostradamus",
-      "predicts",
-      "will",
-      "lose",
-      "ground",
-      "invasion",
-      "this",
-      "month",
-      "ending",
-      "dollar",
-      "dominance",
-      "1791880"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.95,
-    "count": 12,
-    "top_news": "https://gcaptain.com/iraq-bound-tanker-sails-into-gulf-after-second-attempt-at-hormuz/",
-    "event_codes": {
-      "19": 7,
-      "17": 4,
+      "19": 3,
+      "14": 2,
+      "16": 2,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "iraq",
-      "bound",
-      "tanker",
-      "sails",
-      "into",
-      "gulf",
-      "after",
-      "second",
-      "attempt",
-      "hormuz"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.rte.ie/news/middle-east/2026/0415/1568347-lebanon-israel/",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
+      "world",
       "news",
-      "middle",
-      "east",
-      "2026",
-      "0415",
-      "1568347",
-      "lebanon",
-      "israel"
+      "irans",
+      "regime",
+      "has",
+      "changed",
+      "for",
+      "the",
+      "worse",
+      "101776250590863.html"
     ]
   },
-  "NGA": {
-    "risk_score": 4.1,
+  "ISR": {
+    "risk_score": 4.4,
     "count": 7,
-    "top_news": "https://pmnewsnigeria.com/2026/04/15/dj-tunez-hints-at-retaliation-after-clash-with-burna-boy/",
+    "top_news": "https://www.dailymail.co.uk/news/article-15735493/pro-Palestine-supporter-wrote-wanted-Islamic-State-Britain.html",
     "event_codes": {
-      "16": 3,
-      "17": 3,
+      "17": 5,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "tunez",
-      "hints",
-      "retaliation",
-      "after",
-      "clash",
-      "with",
-      "burna",
-      "boy"
+      "news",
+      "article",
+      "15735493",
+      "pro",
+      "palestine",
+      "supporter",
+      "wrote",
+      "wanted",
+      "islamic",
+      "state",
+      "britain.html"
     ]
   },
   "TUR": {
-    "risk_score": 12.67,
-    "count": 14,
-    "top_news": "https://www.dailymail.co.uk/news/article-15735437/Second-school-shooting-two-days-leaves-one-dead-six-wounded-Turkey.html",
+    "risk_score": 14.0,
+    "count": 15,
+    "top_news": "https://www.newser.com/story/387382/turkey-sees-its-2nd-school-shooting-in-2-days.html",
     "event_codes": {
-      "19": 11,
-      "17": 2,
-      "15": 1
+      "19": 13,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "article",
-      "15735437",
-      "second",
+      "story",
+      "387382",
+      "turkey",
+      "sees",
+      "its",
+      "2nd",
       "school",
       "shooting",
-      "two",
-      "days",
-      "leaves",
-      "one",
-      "dead",
-      "six",
-      "wounded",
-      "turkey.html"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.newsday.co.zw/opinion-analysis/article/200053933/how-us-military-bases-became-a-security-liability-for-gulf-states",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "opinion",
-      "analysis",
-      "article",
-      "200053933",
-      "how",
-      "military",
-      "bases",
-      "became",
-      "security",
-      "liability",
-      "for",
-      "gulf",
-      "states"
+      "days.html"
     ]
   }
 }
