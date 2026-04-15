@@ -1,140 +1,98 @@
 {
-  "ECU": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.dailystar.co.uk/news/how-ecuador-went-safe-haven-37022610",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "how",
-      "ecuador",
-      "went",
-      "safe",
-      "haven",
-      "37022610"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://www.express.co.uk/news/world/2194494/spain-asks-china-solve-iran",
-    "event_codes": {
-      "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2194494",
-      "spain",
-      "asks",
-      "china",
-      "solve",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.55,
-    "count": 11,
-    "top_news": "https://www.pilotonline.com/2026/04/15/israeli-strikes-southern-lebanon/",
-    "event_codes": {
-      "17": 5,
-      "19": 5,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "LBN": {
+  "BRA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.pilotonline.com/2026/04/15/israeli-strikes-southern-lebanon/",
+    "top_news": "https://www.mirror.co.uk/news/health/jaundice-symptoms-gilberts-syndrome-liver-37022848",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://dailytrust.com/fg-silent-as-lafarge-convicted-of-terrorism-financing-in-paris/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "silent",
-      "lafarge",
-      "convicted",
-      "terrorism",
-      "financing",
-      "paris"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newkerala.com/news/a/pakistans-self-styled-mediation-us-iran-conflict-highlights-key-inconsistencies-638.htm",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
       "news",
-      "pakistans",
-      "self",
-      "styled",
-      "mediation",
-      "iran",
-      "conflict",
-      "highlights",
-      "key",
-      "inconsistencies",
-      "638.htm"
+      "health",
+      "jaundice",
+      "symptoms",
+      "gilberts",
+      "syndrome",
+      "liver",
+      "37022848"
     ]
   },
-  "SOM": {
-    "risk_score": 5.45,
-    "count": 8,
-    "top_news": "https://allafrica.com/stories/202604150511.html",
+  "IRN": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.eveningnews24.co.uk/news/national/26022007.hopes-rise-renewed-talks-us-military-says-iran-blockade-force/",
     "event_codes": {
-      "17": 6,
-      "14": 1,
+      "16": 2,
       "19": 1
     },
     "keywords": [
-      "stories",
-      "202604150511.html"
+      "news",
+      "national",
+      "26022007.hopes",
+      "rise",
+      "renewed",
+      "talks",
+      "military",
+      "says",
+      "iran",
+      "blockade",
+      "force"
     ]
   },
-  "TUR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.thetimes.com/world/europe/article/turkey-school-shooting-p8fbjtr58",
+  "ISR": {
+    "risk_score": 6.45,
+    "count": 8,
+    "top_news": "https://themedialine.org/top-stories/litani-river-again-sits-at-the-heart-of-war-and-diplomacy/",
     "event_codes": {
-      "19": 2,
+      "19": 4,
+      "14": 3,
       "17": 1
     },
     "keywords": [
-      "world",
-      "europe",
-      "article",
-      "turkey",
+      "top",
+      "stories",
+      "litani",
+      "river",
+      "again",
+      "sits",
+      "the",
+      "heart",
+      "war",
+      "and",
+      "diplomacy"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.4,
+    "count": 9,
+    "top_news": "https://www.israelnationalnews.com/news/425545",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "425545"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.newcastleherald.com.au/story/9224562/death-toll-rises-in-turkeys-second-school-shooting/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "story",
+      "9224562",
+      "death",
+      "toll",
+      "rises",
+      "turkeys",
+      "second",
       "school",
-      "shooting",
-      "p8fbjtr58"
+      "shooting"
     ]
   }
 }
