@@ -1,106 +1,119 @@
 {
   "IRN": {
-    "risk_score": 16.86,
-    "count": 19,
-    "top_news": "https://www.al-monitor.com/originals/2026/04/uaes-deputy-pm-holds-first-call-ghalibaf-amid-push-extend-us-iran-ceasefire",
+    "risk_score": 6.2,
+    "count": 9,
+    "top_news": "https://www.ksby.com/us-news/iran-war/us-ramps-up-pressure-on-iran-with-blockade-sanctions-to-force-nuclear-deal",
     "event_codes": {
-      "19": 15,
-      "16": 2,
-      "17": 2
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "uaes",
-      "deputy",
-      "holds",
-      "first",
-      "call",
-      "ghalibaf",
-      "amid",
-      "push",
-      "extend",
-      "iran",
-      "ceasefire"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.3,
-    "count": 7,
-    "top_news": "https://mondoweiss.net/2026/04/the-israel-lobby-is-fracturing-as-young-jews-abandon-zionism/",
-    "event_codes": {
-      "19": 5,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "israel",
-      "lobby",
-      "fracturing",
-      "young",
-      "jews",
-      "abandon",
-      "zionism"
-    ]
-  },
-  "SSD": {
-    "risk_score": 8.38,
-    "count": 10,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/ambush-on-juba-bor-highway-leaves-one-dead",
-    "event_codes": {
-      "19": 5,
-      "15": 4,
-      "17": 1
+      "16": 5,
+      "19": 4
     },
     "keywords": [
       "news",
+      "iran",
+      "war",
+      "ramps",
+      "pressure",
+      "iran",
+      "with",
+      "blockade",
+      "sanctions",
+      "force",
+      "nuclear",
+      "deal"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/04/16/2003855678",
+    "event_codes": {
+      "14": 2,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "editorials",
+      "archives",
+      "2026",
+      "2003855678"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.businessdailyafrica.com/bd/corporate/companies/supreme-court-loan-battle-tests-banks-collateral-sale-powers-5424908",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "corporate",
+      "companies",
+      "supreme",
+      "court",
+      "loan",
+      "battle",
+      "tests",
+      "banks",
+      "collateral",
+      "sale",
+      "powers",
+      "5424908"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-893138",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
       "article",
-      "ambush",
-      "juba",
-      "bor",
-      "highway",
-      "leaves",
-      "one",
-      "dead"
+      "893138"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.64,
+    "count": 16,
+    "top_news": "https://promptnewsonline.com/army-buries-brigadier-others-killed-in-borno-terror-assault/",
+    "event_codes": {
+      "17": 12,
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "army",
+      "buries",
+      "brigadier",
+      "others",
+      "killed",
+      "borno",
+      "terror",
+      "assault"
     ]
   },
   "TUR": {
-    "risk_score": 5.44,
-    "count": 6,
-    "top_news": "https://metro.co.uk/2026/04/15/boy-14-kills-nine-people-turkeys-second-school-shooting-two-days-27988239/",
+    "risk_score": 27.5,
+    "count": 28,
+    "top_news": "https://erkansaka.net/2026/04/15/school-shootings-turkey-2026-incidents-patterns-analysis/",
     "event_codes": {
-      "19": 4,
-      "15": 2
+      "19": 27,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "boy",
-      "kills",
-      "nine",
-      "people",
-      "turkeys",
-      "second",
       "school",
-      "shooting",
-      "two",
-      "days",
-      "27988239"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.56,
-    "count": 5,
-    "top_news": "http://thechiefleader.com/stories/pro-life,56395",
-    "event_codes": {
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "stories",
-      "pro",
-      "life,56395"
+      "shootings",
+      "turkey",
+      "2026",
+      "incidents",
+      "patterns",
+      "analysis"
     ]
   }
 }
