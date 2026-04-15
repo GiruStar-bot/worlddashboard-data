@@ -1,107 +1,130 @@
 {
-  "IRN": {
-    "risk_score": 3.05,
-    "count": 4,
-    "top_news": "https://www.businessinsider.com/arsenal-of-drones-and-missiles-iran-used-to-attack-iraq-2026-4",
-    "event_codes": {
-      "19": 2,
-      "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "arsenal",
-      "drones",
-      "and",
-      "missiles",
-      "iran",
-      "used",
-      "attack",
-      "iraq",
-      "2026"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.1,
-    "count": 17,
-    "top_news": "https://www.rigzone.com/news/wire/israel_lebanon_negotiators_meet_in_washington-15-apr-2026-183448-article/",
-    "event_codes": {
-      "19": 12,
-      "14": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "wire",
-      "israel",
-      "lebanon",
-      "negotiators",
-      "meet",
-      "washington",
-      "apr",
-      "2026",
-      "183448",
-      "article"
-    ]
-  },
-  "LBN": {
+  "IDN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://dailyk2.com/lebanese-and-israeli-ambassadors-hold-positive-first-meeting-in-washington-amid-war/",
+    "top_news": "https://www.rnz.co.nz/news/pacific_west-papua",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "lebanese",
-      "and",
+      "news",
+      "pacific",
+      "west",
+      "papua"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.27,
+    "count": 6,
+    "top_news": "https://www.express.co.uk/news/world/2194261/trump-6000-us-troops-middle-east-iran-ceasefire",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "14": 1,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2194261",
+      "trump",
+      "6000",
+      "troops",
+      "middle",
+      "east",
+      "iran",
+      "ceasefire"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.2,
+    "count": 6,
+    "top_news": "https://www.ipsnews.net/2026/04/the-five-enablers-of-the-israeli-palestinian-conflict/",
+    "event_codes": {
+      "17": 3,
+      "14": 2,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "five",
+      "enablers",
+      "the",
       "israeli",
-      "ambassadors",
-      "hold",
-      "positive",
-      "first",
-      "meeting",
-      "washington",
-      "amid",
+      "palestinian",
+      "conflict"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.52,
+    "count": 9,
+    "top_news": "https://www.marketscreener.com/news/nigeria-orders-probe-and-defends-deadly-airstrike-in-insurgent-held-jilli-ce7e50dcda8af427",
+    "event_codes": {
+      "19": 4,
+      "16": 2,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "nigeria",
+      "orders",
+      "probe",
+      "and",
+      "defends",
+      "deadly",
+      "airstrike",
+      "insurgent",
+      "held",
+      "jilli",
+      "ce7e50dcda8af427"
+    ]
+  },
+  "SDN": {
+    "risk_score": 10.28,
+    "count": 12,
+    "top_news": "https://www.klcc.org/npr-news/2026-04-15/humiliated-broken-powerless-sudan-enters-fourth-year-of-war",
+    "event_codes": {
+      "19": 5,
+      "15": 4,
+      "14": 2,
+      "18": 1
+    },
+    "keywords": [
+      "npr",
+      "news",
+      "2026",
+      "humiliated",
+      "broken",
+      "powerless",
+      "sudan",
+      "enters",
+      "fourth",
+      "year",
       "war"
     ]
   },
-  "SSD": {
-    "risk_score": 2.1,
-    "count": 4,
-    "top_news": "https://www.eyeradio.org/jonglei-workers-call-off-planned-strike-over-salary-delays/",
+  "SYR": {
+    "risk_score": 4.62,
+    "count": 5,
+    "top_news": "https://www.dailysabah.com/politics/syrian-president-meets-ypg-leader-in-damascus-for-integration-talks/news",
     "event_codes": {
-      "14": 2,
-      "16": 2
+      "19": 4,
+      "15": 1
     },
     "keywords": [
-      "jonglei",
-      "workers",
-      "call",
-      "off",
-      "planned",
-      "strike",
-      "over",
-      "salary",
-      "delays"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://phnompenhpost.com/national/why-is-thailand-so-concerned-about-ghost-mountain-second-killing-field/",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "national",
-      "why",
-      "thailand",
-      "concerned",
-      "about",
-      "ghost",
-      "mountain",
-      "second",
-      "killing",
-      "field"
+      "politics",
+      "syrian",
+      "president",
+      "meets",
+      "ypg",
+      "leader",
+      "damascus",
+      "for",
+      "integration",
+      "talks",
+      "news"
     ]
   }
 }
