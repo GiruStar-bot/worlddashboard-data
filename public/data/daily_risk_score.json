@@ -1,47 +1,56 @@
 {
   "IRN": {
-    "risk_score": 3.6,
-    "count": 6,
-    "top_news": "https://www.skynews.com.au/world-news/global-affairs/high-seas-halt-china-hits-out-at-us-military-blockade-of-strait-of-hormuz-as-a-dangerous-and-irresponsible-move/news-story/1efe49ec1041976a4c025a93a0b6b62d?nk=69061ab62ac5bf410485b9b1c5d18b31-1776231107",
+    "risk_score": 12.9,
+    "count": 17,
+    "top_news": "https://www.khaama.com/trump-says-iran-war-very-close-to-ending-as-ceasefire-holds/",
     "event_codes": {
-      "16": 6
+      "19": 6,
+      "16": 5,
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "news",
-      "global",
-      "affairs",
-      "high",
-      "seas",
-      "halt",
-      "china",
-      "hits",
-      "out",
-      "military",
-      "blockade",
-      "strait",
-      "hormuz",
-      "dangerous",
-      "and",
-      "irresponsible",
-      "move",
-      "news",
-      "story",
-      "1efe49ec1041976a4c025a93a0b6b62d"
+      "trump",
+      "says",
+      "iran",
+      "war",
+      "very",
+      "close",
+      "ending",
+      "ceasefire",
+      "holds"
     ]
   },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://auto.economictimes.indiatimes.com/news/oil-and-lubes",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://en.gmw.cn/2026-04/15/content_38709838.htm",
     "event_codes": {
-      "19": 6
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "oil",
-      "and",
-      "lubes"
+      "2026",
+      "content",
+      "38709838.htm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://promptnewsonline.com/presidency-fires-back-at-aregbesola-labels-ex-ministers-criticism-hypocritical/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "presidency",
+      "fires",
+      "back",
+      "aregbesola",
+      "labels",
+      "ministers",
+      "criticism",
+      "hypocritical"
     ]
   }
 }
