@@ -1,130 +1,105 @@
 {
-  "IDN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.rnz.co.nz/news/pacific_west-papua",
+  "IRN": {
+    "risk_score": 11.56,
+    "count": 16,
+    "top_news": "https://www.aol.co.uk/articles/trump-launches-attack-against-pope-110402933.html",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "15": 3,
+      "17": 3,
+      "14": 2,
+      "16": 2,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "pacific",
-      "west",
-      "papua"
+      "articles",
+      "trump",
+      "launches",
+      "attack",
+      "against",
+      "pope",
+      "110402933.html"
     ]
   },
-  "IRN": {
-    "risk_score": 4.27,
-    "count": 6,
-    "top_news": "https://www.express.co.uk/news/world/2194261/trump-6000-us-troops-middle-east-iran-ceasefire",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/article-893051",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1,
-      "15": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "2194261",
-      "trump",
-      "6000",
-      "troops",
       "middle",
       "east",
-      "iran",
-      "ceasefire"
+      "article",
+      "893051"
     ]
   },
   "ISR": {
-    "risk_score": 3.2,
+    "risk_score": 5.95,
     "count": 6,
-    "top_news": "https://www.ipsnews.net/2026/04/the-five-enablers-of-the-israeli-palestinian-conflict/",
-    "event_codes": {
-      "17": 3,
-      "14": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "five",
-      "enablers",
-      "the",
-      "israeli",
-      "palestinian",
-      "conflict"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.52,
-    "count": 9,
-    "top_news": "https://www.marketscreener.com/news/nigeria-orders-probe-and-defends-deadly-airstrike-in-insurgent-held-jilli-ce7e50dcda8af427",
-    "event_codes": {
-      "19": 4,
-      "16": 2,
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "nigeria",
-      "orders",
-      "probe",
-      "and",
-      "defends",
-      "deadly",
-      "airstrike",
-      "insurgent",
-      "held",
-      "jilli",
-      "ce7e50dcda8af427"
-    ]
-  },
-  "SDN": {
-    "risk_score": 10.28,
-    "count": 12,
-    "top_news": "https://www.klcc.org/npr-news/2026-04-15/humiliated-broken-powerless-sudan-enters-fourth-year-of-war",
+    "top_news": "https://www.wfae.org/world/2026-04-15/trump-says-peace-talks-could-resume-in-days-as-u-s-military-blocks-iranian-ports",
     "event_codes": {
       "19": 5,
-      "15": 4,
-      "14": 2,
       "18": 1
     },
     "keywords": [
-      "npr",
-      "news",
+      "world",
       "2026",
-      "humiliated",
-      "broken",
-      "powerless",
-      "sudan",
-      "enters",
-      "fourth",
-      "year",
-      "war"
+      "trump",
+      "says",
+      "peace",
+      "talks",
+      "could",
+      "resume",
+      "days",
+      "military",
+      "blocks",
+      "iranian",
+      "ports"
     ]
   },
-  "SYR": {
-    "risk_score": 4.62,
-    "count": 5,
-    "top_news": "https://www.dailysabah.com/politics/syrian-president-meets-ypg-leader-in-damascus-for-integration-talks/news",
+  "LBN": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://morningstaronline.co.uk/article/lebanon-conspiracy-massacres-negotiations-and-new-order",
     "event_codes": {
-      "19": 4,
-      "15": 1
+      "16": 1,
+      "18": 1,
+      "19": 1,
+      "20": 1
     },
     "keywords": [
-      "politics",
-      "syrian",
-      "president",
-      "meets",
-      "ypg",
-      "leader",
-      "damascus",
-      "for",
-      "integration",
-      "talks",
-      "news"
+      "article",
+      "lebanon",
+      "conspiracy",
+      "massacres",
+      "negotiations",
+      "and",
+      "new",
+      "order"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thecable.ng/you-left-a-legacy-of-hardship-in-osun-onanuga-tackles-aregbesola-over-remarks-at-adc-convention/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "you",
+      "left",
+      "legacy",
+      "hardship",
+      "osun",
+      "onanuga",
+      "tackles",
+      "aregbesola",
+      "over",
+      "remarks",
+      "adc",
+      "convention"
     ]
   }
 }
