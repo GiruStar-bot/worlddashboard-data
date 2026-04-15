@@ -1,98 +1,106 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.mirror.co.uk/news/health/jaundice-symptoms-gilberts-syndrome-liver-37022848",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "health",
-      "jaundice",
-      "symptoms",
-      "gilberts",
-      "syndrome",
-      "liver",
-      "37022848"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://www.eveningnews24.co.uk/news/national/26022007.hopes-rise-renewed-talks-us-military-says-iran-blockade-force/",
+    "risk_score": 16.86,
+    "count": 19,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/uaes-deputy-pm-holds-first-call-ghalibaf-amid-push-extend-us-iran-ceasefire",
     "event_codes": {
+      "19": 15,
       "16": 2,
-      "19": 1
+      "17": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "26022007.hopes",
-      "rise",
-      "renewed",
-      "talks",
-      "military",
-      "says",
+      "originals",
+      "2026",
+      "uaes",
+      "deputy",
+      "holds",
+      "first",
+      "call",
+      "ghalibaf",
+      "amid",
+      "push",
+      "extend",
       "iran",
-      "blockade",
-      "force"
+      "ceasefire"
     ]
   },
   "ISR": {
-    "risk_score": 6.45,
-    "count": 8,
-    "top_news": "https://themedialine.org/top-stories/litani-river-again-sits-at-the-heart-of-war-and-diplomacy/",
-    "event_codes": {
-      "19": 4,
-      "14": 3,
-      "17": 1
-    },
-    "keywords": [
-      "top",
-      "stories",
-      "litani",
-      "river",
-      "again",
-      "sits",
-      "the",
-      "heart",
-      "war",
-      "and",
-      "diplomacy"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.4,
-    "count": 9,
-    "top_news": "https://www.israelnationalnews.com/news/425545",
+    "risk_score": 6.3,
+    "count": 7,
+    "top_news": "https://mondoweiss.net/2026/04/the-israel-lobby-is-fracturing-as-young-jews-abandon-zionism/",
     "event_codes": {
       "19": 5,
-      "17": 3,
+      "17": 1,
       "18": 1
     },
     "keywords": [
+      "2026",
+      "the",
+      "israel",
+      "lobby",
+      "fracturing",
+      "young",
+      "jews",
+      "abandon",
+      "zionism"
+    ]
+  },
+  "SSD": {
+    "risk_score": 8.38,
+    "count": 10,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/ambush-on-juba-bor-highway-leaves-one-dead",
+    "event_codes": {
+      "19": 5,
+      "15": 4,
+      "17": 1
+    },
+    "keywords": [
       "news",
-      "425545"
+      "article",
+      "ambush",
+      "juba",
+      "bor",
+      "highway",
+      "leaves",
+      "one",
+      "dead"
     ]
   },
   "TUR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.newcastleherald.com.au/story/9224562/death-toll-rises-in-turkeys-second-school-shooting/",
+    "risk_score": 5.44,
+    "count": 6,
+    "top_news": "https://metro.co.uk/2026/04/15/boy-14-kills-nine-people-turkeys-second-school-shooting-two-days-27988239/",
     "event_codes": {
-      "19": 4
+      "19": 4,
+      "15": 2
     },
     "keywords": [
-      "story",
-      "9224562",
-      "death",
-      "toll",
-      "rises",
+      "2026",
+      "boy",
+      "kills",
+      "nine",
+      "people",
       "turkeys",
       "second",
       "school",
-      "shooting"
+      "shooting",
+      "two",
+      "days",
+      "27988239"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.56,
+    "count": 5,
+    "top_news": "http://thechiefleader.com/stories/pro-life,56395",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "stories",
+      "pro",
+      "life,56395"
     ]
   }
 }
