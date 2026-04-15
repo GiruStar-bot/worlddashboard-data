@@ -1,56 +1,107 @@
 {
   "IRN": {
-    "risk_score": 12.9,
-    "count": 17,
-    "top_news": "https://www.khaama.com/trump-says-iran-war-very-close-to-ending-as-ceasefire-holds/",
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://www.businessinsider.com/arsenal-of-drones-and-missiles-iran-used-to-attack-iraq-2026-4",
     "event_codes": {
-      "19": 6,
-      "16": 5,
-      "17": 5,
-      "18": 1
+      "19": 2,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
-      "trump",
-      "says",
+      "arsenal",
+      "drones",
+      "and",
+      "missiles",
       "iran",
-      "war",
-      "very",
-      "close",
-      "ending",
-      "ceasefire",
-      "holds"
+      "used",
+      "attack",
+      "iraq",
+      "2026"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://en.gmw.cn/2026-04/15/content_38709838.htm",
+    "risk_score": 15.1,
+    "count": 17,
+    "top_news": "https://www.rigzone.com/news/wire/israel_lebanon_negotiators_meet_in_washington-15-apr-2026-183448-article/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 12,
+      "14": 4,
+      "17": 1
     },
     "keywords": [
+      "news",
+      "wire",
+      "israel",
+      "lebanon",
+      "negotiators",
+      "meet",
+      "washington",
+      "apr",
       "2026",
-      "content",
-      "38709838.htm"
+      "183448",
+      "article"
     ]
   },
-  "NGA": {
+  "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://promptnewsonline.com/presidency-fires-back-at-aregbesola-labels-ex-ministers-criticism-hypocritical/",
+    "top_news": "https://dailyk2.com/lebanese-and-israeli-ambassadors-hold-positive-first-meeting-in-washington-amid-war/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "presidency",
-      "fires",
-      "back",
-      "aregbesola",
-      "labels",
-      "ministers",
-      "criticism",
-      "hypocritical"
+      "lebanese",
+      "and",
+      "israeli",
+      "ambassadors",
+      "hold",
+      "positive",
+      "first",
+      "meeting",
+      "washington",
+      "amid",
+      "war"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.1,
+    "count": 4,
+    "top_news": "https://www.eyeradio.org/jonglei-workers-call-off-planned-strike-over-salary-delays/",
+    "event_codes": {
+      "14": 2,
+      "16": 2
+    },
+    "keywords": [
+      "jonglei",
+      "workers",
+      "call",
+      "off",
+      "planned",
+      "strike",
+      "over",
+      "salary",
+      "delays"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://phnompenhpost.com/national/why-is-thailand-so-concerned-about-ghost-mountain-second-killing-field/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "national",
+      "why",
+      "thailand",
+      "concerned",
+      "about",
+      "ghost",
+      "mountain",
+      "second",
+      "killing",
+      "field"
     ]
   }
 }
