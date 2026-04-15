@@ -1,69 +1,89 @@
 {
   "IRN": {
-    "risk_score": 7.52,
-    "count": 9,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2536235/iran-claims-to-bust-cia-and-mossad-linked-terror-network-arrests-dozens-in-nationwide-crackdown.html",
+    "risk_score": 15.21,
+    "count": 19,
+    "top_news": "https://www.rferl.org/a/iran-war-negotiations-pakistan-trump-ceasefire/33733113.html",
     "event_codes": {
-      "16": 4,
-      "18": 3,
-      "17": 1,
-      "19": 1
+      "16": 9,
+      "19": 6,
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "2536235",
       "iran",
-      "claims",
-      "bust",
-      "cia",
-      "and",
-      "mossad",
-      "linked",
-      "terror",
-      "network",
-      "arrests",
-      "dozens",
-      "nationwide",
-      "crackdown.html"
+      "war",
+      "negotiations",
+      "pakistan",
+      "trump",
+      "ceasefire",
+      "33733113.html"
     ]
   },
   "ISR": {
-    "risk_score": 6.7,
-    "count": 7,
-    "top_news": "https://www.cbc.ca/news/politics/anand-canadian-killed-no-sanctions-9.7165124",
-    "event_codes": {
-      "19": 4,
-      "20": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "politics",
-      "anand",
-      "canadian",
-      "killed",
-      "sanctions",
-      "9.7165124"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.8,
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.cbc.ca/news/politics/anand-canadian-killed-no-sanctions-9.7165124",
+    "top_news": "https://www.breitbart.com/middle-east/2026/04/15/report-iran-using-chinese-satellites-to-target-u-s-bases/",
     "event_codes": {
       "19": 2,
-      "16": 1
+      "17": 1
     },
     "keywords": [
-      "news",
-      "politics",
-      "anand",
-      "canadian",
+      "middle",
+      "east",
+      "2026",
+      "report",
+      "iran",
+      "using",
+      "chinese",
+      "satellites",
+      "target",
+      "bases"
+    ]
+  },
+  "SDN": {
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://www.kztv10.com/world/the-yellow-floor-room-a-glimpse-into-sudans-hidden-war-on-women",
+    "event_codes": {
+      "18": 4,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "the",
+      "yellow",
+      "floor",
+      "room",
+      "glimpse",
+      "into",
+      "sudans",
+      "hidden",
+      "war",
+      "women"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.brisbanetimes.com.au/world/europe/nine-killed-in-turkey-school-shooting-the-second-in-as-many-days-20260416-p5zo9s.html",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "europe",
+      "nine",
       "killed",
-      "sanctions",
-      "9.7165124"
+      "turkey",
+      "school",
+      "shooting",
+      "the",
+      "second",
+      "many",
+      "days",
+      "20260416",
+      "p5zo9s.html"
     ]
   }
 }
