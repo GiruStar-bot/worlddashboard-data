@@ -1,105 +1,214 @@
 {
-  "IRN": {
-    "risk_score": 11.56,
-    "count": 16,
-    "top_news": "https://www.aol.co.uk/articles/trump-launches-attack-against-pope-110402933.html",
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theguardian.com/global-development/2026/apr/15/people-displaced-50-years-ago-ava-guarani-community-itaipu-dam-paraguay-brazil-border",
     "event_codes": {
-      "19": 4,
-      "15": 3,
-      "17": 3,
-      "14": 2,
-      "16": 2,
-      "18": 2
+      "19": 3
     },
     "keywords": [
-      "articles",
-      "trump",
-      "launches",
-      "attack",
-      "against",
-      "pope",
-      "110402933.html"
+      "global",
+      "development",
+      "2026",
+      "apr",
+      "people",
+      "displaced",
+      "years",
+      "ago",
+      "ava",
+      "guarani",
+      "community",
+      "itaipu",
+      "dam",
+      "paraguay",
+      "brazil",
+      "border"
+    ]
+  },
+  "BRA": {
+    "risk_score": 15.95,
+    "count": 16,
+    "top_news": "https://www.theguardian.com/global-development/2026/apr/15/people-displaced-50-years-ago-ava-guarani-community-itaipu-dam-paraguay-brazil-border",
+    "event_codes": {
+      "19": 16
+    },
+    "keywords": [
+      "global",
+      "development",
+      "2026",
+      "apr",
+      "people",
+      "displaced",
+      "years",
+      "ago",
+      "ava",
+      "guarani",
+      "community",
+      "itaipu",
+      "dam",
+      "paraguay",
+      "brazil",
+      "border"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.17,
+    "count": 11,
+    "top_news": "https://www.ibtimes.co.uk/chinas-nostradamus-predicts-us-will-lose-ground-invasion-this-month-ending-us-dollar-dominance-1791880",
+    "event_codes": {
+      "19": 6,
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "chinas",
+      "nostradamus",
+      "predicts",
+      "will",
+      "lose",
+      "ground",
+      "invasion",
+      "this",
+      "month",
+      "ending",
+      "dollar",
+      "dominance",
+      "1791880"
     ]
   },
   "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jpost.com/middle-east/article-893051",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ibtimes.co.uk/chinas-nostradamus-predicts-us-will-lose-ground-invasion-this-month-ending-us-dollar-dominance-1791880",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "893051"
+      "chinas",
+      "nostradamus",
+      "predicts",
+      "will",
+      "lose",
+      "ground",
+      "invasion",
+      "this",
+      "month",
+      "ending",
+      "dollar",
+      "dominance",
+      "1791880"
     ]
   },
   "ISR": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.wfae.org/world/2026-04-15/trump-says-peace-talks-could-resume-in-days-as-u-s-military-blocks-iranian-ports",
+    "risk_score": 9.95,
+    "count": 12,
+    "top_news": "https://gcaptain.com/iraq-bound-tanker-sails-into-gulf-after-second-attempt-at-hormuz/",
     "event_codes": {
-      "19": 5,
+      "19": 7,
+      "17": 4,
       "18": 1
     },
     "keywords": [
-      "world",
-      "2026",
-      "trump",
-      "says",
-      "peace",
-      "talks",
-      "could",
-      "resume",
-      "days",
-      "military",
-      "blocks",
-      "iranian",
-      "ports"
+      "iraq",
+      "bound",
+      "tanker",
+      "sails",
+      "into",
+      "gulf",
+      "after",
+      "second",
+      "attempt",
+      "hormuz"
     ]
   },
   "LBN": {
-    "risk_score": 3.35,
-    "count": 4,
-    "top_news": "https://morningstaronline.co.uk/article/lebanon-conspiracy-massacres-negotiations-and-new-order",
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.rte.ie/news/middle-east/2026/0415/1568347-lebanon-israel/",
     "event_codes": {
-      "16": 1,
-      "18": 1,
-      "19": 1,
-      "20": 1
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "article",
+      "news",
+      "middle",
+      "east",
+      "2026",
+      "0415",
+      "1568347",
       "lebanon",
-      "conspiracy",
-      "massacres",
-      "negotiations",
-      "and",
-      "new",
-      "order"
+      "israel"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thecable.ng/you-left-a-legacy-of-hardship-in-osun-onanuga-tackles-aregbesola-over-remarks-at-adc-convention/",
+    "risk_score": 4.1,
+    "count": 7,
+    "top_news": "https://pmnewsnigeria.com/2026/04/15/dj-tunez-hints-at-retaliation-after-clash-with-burna-boy/",
     "event_codes": {
-      "19": 4
+      "16": 3,
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "you",
-      "left",
-      "legacy",
-      "hardship",
-      "osun",
-      "onanuga",
-      "tackles",
-      "aregbesola",
-      "over",
-      "remarks",
-      "adc",
-      "convention"
+      "2026",
+      "tunez",
+      "hints",
+      "retaliation",
+      "after",
+      "clash",
+      "with",
+      "burna",
+      "boy"
+    ]
+  },
+  "TUR": {
+    "risk_score": 12.67,
+    "count": 14,
+    "top_news": "https://www.dailymail.co.uk/news/article-15735437/Second-school-shooting-two-days-leaves-one-dead-six-wounded-Turkey.html",
+    "event_codes": {
+      "19": 11,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15735437",
+      "second",
+      "school",
+      "shooting",
+      "two",
+      "days",
+      "leaves",
+      "one",
+      "dead",
+      "six",
+      "wounded",
+      "turkey.html"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.newsday.co.zw/opinion-analysis/article/200053933/how-us-military-bases-became-a-security-liability-for-gulf-states",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "opinion",
+      "analysis",
+      "article",
+      "200053933",
+      "how",
+      "military",
+      "bases",
+      "became",
+      "security",
+      "liability",
+      "for",
+      "gulf",
+      "states"
     ]
   }
 }
