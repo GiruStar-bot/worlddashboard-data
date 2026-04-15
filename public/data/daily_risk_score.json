@@ -1,69 +1,140 @@
 {
-  "IRN": {
-    "risk_score": 7.12,
-    "count": 9,
-    "top_news": "https://www.hindustantimes.com/world-news/irans-regime-has-changed-for-the-worse-101776250590863.html",
+  "ECU": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.dailystar.co.uk/news/how-ecuador-went-safe-haven-37022610",
     "event_codes": {
-      "19": 3,
-      "14": 2,
-      "16": 2,
-      "17": 1,
-      "18": 1
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "world",
       "news",
-      "irans",
-      "regime",
-      "has",
-      "changed",
-      "for",
-      "the",
-      "worse",
-      "101776250590863.html"
+      "how",
+      "ecuador",
+      "went",
+      "safe",
+      "haven",
+      "37022610"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.express.co.uk/news/world/2194494/spain-asks-china-solve-iran",
+    "event_codes": {
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2194494",
+      "spain",
+      "asks",
+      "china",
+      "solve",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 4.4,
-    "count": 7,
-    "top_news": "https://www.dailymail.co.uk/news/article-15735493/pro-Palestine-supporter-wrote-wanted-Islamic-State-Britain.html",
+    "risk_score": 8.55,
+    "count": 11,
+    "top_news": "https://www.pilotonline.com/2026/04/15/israeli-strikes-southern-lebanon/",
     "event_codes": {
       "17": 5,
-      "18": 1,
-      "19": 1
+      "19": 5,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.pilotonline.com/2026/04/15/israeli-strikes-southern-lebanon/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://dailytrust.com/fg-silent-as-lafarge-convicted-of-terrorism-financing-in-paris/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "silent",
+      "lafarge",
+      "convicted",
+      "terrorism",
+      "financing",
+      "paris"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newkerala.com/news/a/pakistans-self-styled-mediation-us-iran-conflict-highlights-key-inconsistencies-638.htm",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "article",
-      "15735493",
-      "pro",
-      "palestine",
-      "supporter",
-      "wrote",
-      "wanted",
-      "islamic",
-      "state",
-      "britain.html"
+      "pakistans",
+      "self",
+      "styled",
+      "mediation",
+      "iran",
+      "conflict",
+      "highlights",
+      "key",
+      "inconsistencies",
+      "638.htm"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.45,
+    "count": 8,
+    "top_news": "https://allafrica.com/stories/202604150511.html",
+    "event_codes": {
+      "17": 6,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202604150511.html"
     ]
   },
   "TUR": {
-    "risk_score": 14.0,
-    "count": 15,
-    "top_news": "https://www.newser.com/story/387382/turkey-sees-its-2nd-school-shooting-in-2-days.html",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thetimes.com/world/europe/article/turkey-school-shooting-p8fbjtr58",
     "event_codes": {
-      "19": 13,
-      "17": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "story",
-      "387382",
+      "world",
+      "europe",
+      "article",
       "turkey",
-      "sees",
-      "its",
-      "2nd",
       "school",
       "shooting",
-      "days.html"
+      "p8fbjtr58"
     ]
   }
 }
