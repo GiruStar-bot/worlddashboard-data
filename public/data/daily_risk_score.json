@@ -1,141 +1,58 @@
 {
-  "BRA": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/lula-to-el-pais-trump-has-no-right-to-wake-up-and-threaten-a-country/",
+  "IRN": {
+    "risk_score": 9.17,
+    "count": 12,
+    "top_news": "https://www.miragenews.com/budget-drones-revolutionize-precision-warfare-1656802/",
     "event_codes": {
       "17": 4,
-      "20": 1
+      "19": 4,
+      "18": 2,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "lula",
-      "pais",
-      "trump",
-      "has",
-      "right",
-      "wake",
-      "and",
-      "threaten",
-      "country"
-    ]
-  },
-  "CHL": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.theguardian.com/world/2026/apr/16/pedro-pascal-pedro-piscal-actor-spirit-brand-legal-battle-chile",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "apr",
-      "pedro",
-      "pascal",
-      "pedro",
-      "piscal",
-      "actor",
-      "spirit",
-      "brand",
-      "legal",
-      "battle",
-      "chile"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.zerohedge.com/military/zelensky-goes-full-lord-war-ukraine-pitches-battle-tested-war-robots-highest-bidder",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "military",
-      "zelensky",
-      "goes",
-      "full",
-      "lord",
-      "war",
-      "ukraine",
-      "pitches",
-      "battle",
-      "tested",
-      "war",
-      "robots",
-      "highest",
-      "bidder"
+      "budget",
+      "drones",
+      "revolutionize",
+      "precision",
+      "warfare",
+      "1656802"
     ]
   },
   "ISR": {
-    "risk_score": 7.2,
-    "count": 8,
-    "top_news": "https://www.kacu.org/2026-04-16/mediators-push-to-extend-u-s-iran-ceasefire",
+    "risk_score": 4.05,
+    "count": 5,
+    "top_news": "https://oilprice.com/Geopolitics/Middle-East/Why-Iran-Is-Determined-to-Protect-Hezbollah-in-Any-Peace-Deal.html",
     "event_codes": {
-      "19": 4,
-      "16": 1,
-      "17": 1,
-      "18": 1,
-      "20": 1
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "2026",
-      "mediators",
-      "push",
-      "extend",
+      "geopolitics",
+      "middle",
+      "east",
+      "why",
       "iran",
-      "ceasefire"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.goulburnpost.com.au/story/9225577/lebanese-and-israeli-leaders-to-speak-trump-says/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "story",
-      "9225577",
-      "lebanese",
-      "and",
-      "israeli",
-      "leaders",
-      "speak",
-      "trump",
-      "says"
+      "determined",
+      "protect",
+      "hezbollah",
+      "any",
+      "peace",
+      "deal.html"
     ]
   },
   "SYR": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.jpost.com/middle-east/article-893235",
+    "risk_score": 5.6,
+    "count": 7,
+    "top_news": "https://english.news.cn/20260416/fb6cc94674e84d6a893f9a4c1e5b3105/c.html",
     "event_codes": {
-      "19": 4,
-      "15": 1
+      "19": 5,
+      "16": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "893235"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://athens-times.com/turkey-teacher-dies-shielding-students-in-kahramanmaras-school-massacre/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "turkey",
-      "teacher",
-      "dies",
-      "shielding",
-      "students",
-      "kahramanmaras",
-      "school",
-      "massacre"
+      "20260416",
+      "fb6cc94674e84d6a893f9a4c1e5b3105",
+      "c.html"
     ]
   }
 }
