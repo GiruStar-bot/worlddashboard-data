@@ -1,84 +1,119 @@
 {
   "IRN": {
-    "risk_score": 6.1,
-    "count": 8,
-    "top_news": "https://local21news.com/news/nation-world/amid-global-focus-on-iran-nato-chief-says-support-for-ukraine-must-not-falter-europe-russia-zelenskyy-russian-drone-and-missile-attacks",
+    "risk_score": 16.12,
+    "count": 21,
+    "top_news": "https://www.wntxradio.com/president-trump-says-israel-and-lebanon-have-agreed-to-a-10-day-ceasefire/",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "17": 2
+      "16": 9,
+      "19": 8,
+      "17": 2,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "nation",
-      "world",
-      "amid",
-      "global",
-      "focus",
-      "iran",
-      "nato",
-      "chief",
+      "president",
+      "trump",
       "says",
-      "support",
-      "for",
-      "ukraine",
-      "must",
-      "not",
-      "falter",
-      "europe",
-      "russia",
-      "zelenskyy",
-      "russian",
-      "drone",
+      "israel",
       "and",
-      "missile",
-      "attacks"
+      "lebanon",
+      "have",
+      "agreed",
+      "day",
+      "ceasefire"
     ]
   },
   "ISR": {
-    "risk_score": 18.8,
-    "count": 20,
-    "top_news": "https://www.jns.org/opinion/quick-name-the-middle-easts-most-successful-and-brutal-colonizers",
+    "risk_score": 24.1,
+    "count": 26,
+    "top_news": "https://www.jpost.com/israel-news/article-893326",
     "event_codes": {
-      "19": 9,
-      "18": 7,
-      "20": 3,
-      "17": 1
+      "19": 21,
+      "14": 2,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "opinion",
-      "quick",
-      "name",
-      "the",
-      "middle",
-      "easts",
-      "most",
-      "successful",
-      "and",
-      "brutal",
-      "colonizers"
+      "israel",
+      "news",
+      "article",
+      "893326"
     ]
   },
   "LBN": {
-    "risk_score": 8.0,
-    "count": 10,
-    "top_news": "https://truthout.org/articles/israel-may-be-preparing-to-permanently-reoccupy-southern-lebanon/",
+    "risk_score": 7.2,
+    "count": 9,
+    "top_news": "https://www.wntxradio.com/president-trump-says-israel-and-lebanon-have-agreed-to-a-10-day-ceasefire/",
     "event_codes": {
-      "16": 3,
-      "18": 3,
-      "19": 2,
-      "17": 1,
-      "20": 1
+      "19": 5,
+      "16": 4
     },
     "keywords": [
-      "articles",
+      "president",
+      "trump",
+      "says",
       "israel",
-      "may",
-      "preparing",
-      "permanently",
-      "reoccupy",
-      "southern",
-      "lebanon"
+      "and",
+      "lebanon",
+      "have",
+      "agreed",
+      "day",
+      "ceasefire"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.jpost.com/israel-news/article-893326",
+    "event_codes": {
+      "19": 3,
+      "14": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "893326"
+    ]
+  },
+  "SDN": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/drone-attacks-kill-at-least-44-civilians-in-darfur-and-kordofan",
+    "event_codes": {
+      "19": 9
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "drone",
+      "attacks",
+      "kill",
+      "least",
+      "civilians",
+      "darfur",
+      "and",
+      "kordofan"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.lankaweb.com/news/items/2026/04/16/menacing-echoes-of-the-regime-change-of-2015-ii/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "items",
+      "2026",
+      "menacing",
+      "echoes",
+      "the",
+      "regime",
+      "change",
+      "2015"
     ]
   }
 }
