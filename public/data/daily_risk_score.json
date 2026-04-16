@@ -1,94 +1,49 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.odt.co.nz/news/dunedin/crime/firm-man-who-fled-liquidation",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "dunedin",
-      "crime",
-      "firm",
-      "man",
-      "who",
-      "fled",
-      "liquidation"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "https://www.mediaite.com/media/news/why-are-you-fighting-with-the-pope-trump-grilled-about-his-battle-with-the-pontiff/",
-    "event_codes": {
-      "19": 7,
-      "17": 1
-    },
-    "keywords": [
-      "media",
-      "news",
-      "why",
-      "are",
-      "you",
-      "fighting",
-      "with",
-      "the",
-      "pope",
-      "trump",
-      "grilled",
-      "about",
-      "his",
-      "battle",
-      "with",
-      "the",
-      "pontiff"
-    ]
-  },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=444062",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "article.aspx"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=444062",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "article.aspx"
-    ]
-  },
-  "NGA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://medafricatimes.com/44965-nigeria-on-high-alert-over-planned-terror-attacks-on-abuja-infrastructure.html",
+    "top_news": "https://www.dailysabah.com/business/defense/us-to-reportedly-delay-some-european-weapons-deliveries-over-iran-war",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "44965",
-      "nigeria",
-      "high",
-      "alert",
+      "business",
+      "defense",
+      "reportedly",
+      "delay",
+      "some",
+      "european",
+      "weapons",
+      "deliveries",
       "over",
-      "planned",
-      "terror",
-      "attacks",
-      "abuja",
-      "infrastructure.html"
+      "iran",
+      "war"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.wknofm.org/politics-npr-news/2026-04-16/israel-agrees-to-a-ceasefire-in-its-war-with-hezbollah-but-will-keep-troops-in-lebanon",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "politics",
+      "npr",
+      "news",
+      "2026",
+      "israel",
+      "agrees",
+      "ceasefire",
+      "its",
+      "war",
+      "with",
+      "hezbollah",
+      "but",
+      "will",
+      "keep",
+      "troops",
+      "lebanon"
     ]
   }
 }
