@@ -1,49 +1,64 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/business/defense/us-to-reportedly-delay-some-european-weapons-deliveries-over-iran-war",
+  "IRN": {
+    "risk_score": 7.6,
+    "count": 8,
+    "top_news": "https://www.jewishtimes.com/opinion-imminent-or-impending-which-threat-should-we-confront/",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "business",
-      "defense",
-      "reportedly",
-      "delay",
-      "some",
-      "european",
-      "weapons",
-      "deliveries",
-      "over",
-      "iran",
-      "war"
+      "opinion",
+      "imminent",
+      "impending",
+      "which",
+      "threat",
+      "should",
+      "confront"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.44,
+    "count": 7,
+    "top_news": "https://www.artnews.com/art-news/news/kunstfonds-foundation-germany-controversy-1234781494/",
+    "event_codes": {
+      "19": 3,
+      "15": 2,
+      "18": 2
+    },
+    "keywords": [
+      "art",
+      "news",
+      "news",
+      "kunstfonds",
+      "foundation",
+      "germany",
+      "controversy",
+      "1234781494"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wknofm.org/politics-npr-news/2026-04-16/israel-agrees-to-a-ceasefire-in-its-war-with-hezbollah-but-will-keep-troops-in-lebanon",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://hotair.com/ed-morrissey/2026/04/16/breaking-trump-claims-iran-will-surrender-the-nuclear-dust-n3813975",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "20": 1
     },
     "keywords": [
-      "politics",
-      "npr",
-      "news",
+      "morrissey",
       "2026",
-      "israel",
-      "agrees",
-      "ceasefire",
-      "its",
-      "war",
-      "with",
-      "hezbollah",
-      "but",
+      "breaking",
+      "trump",
+      "claims",
+      "iran",
       "will",
-      "keep",
-      "troops",
-      "lebanon"
+      "surrender",
+      "the",
+      "nuclear",
+      "dust",
+      "n3813975"
     ]
   }
 }
