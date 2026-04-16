@@ -1,69 +1,161 @@
 {
-  "IRN": {
-    "risk_score": 5.39,
-    "count": 7,
-    "top_news": "https://www.latimes.com/world-nation/story/2026-04-16/trump-says-israel-lebanon-have-agreed-to-10-day-ceasefire",
+  "CMR": {
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://www.cameroon-concord.com/lifestyle/pope-leo-xiv-wraps-bamenda-visit-heads-to-douala-amid-crisis",
     "event_codes": {
-      "14": 3,
-      "15": 2,
-      "19": 2
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "world",
-      "nation",
-      "story",
+      "lifestyle",
+      "pope",
+      "leo",
+      "xiv",
+      "wraps",
+      "bamenda",
+      "visit",
+      "heads",
+      "douala",
+      "amid",
+      "crisis"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.89,
+    "count": 21,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/16/766997/Hezbollah-MP-says-ceasefire-in-war-with-Israel-to-begin-midnight-",
+    "event_codes": {
+      "17": 6,
+      "18": 6,
+      "19": 5,
+      "15": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "766997",
+      "hezbollah",
+      "says",
+      "ceasefire",
+      "war",
+      "with",
+      "israel",
+      "begin",
+      "midnight"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.8,
+    "count": 10,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/04/trump-says-israel-and-lebanon-to-begin-10-day-ceasefire-within-hours/",
+    "event_codes": {
+      "19": 7,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
       "2026",
       "trump",
       "says",
       "israel",
+      "and",
       "lebanon",
+      "begin",
+      "day",
+      "ceasefire",
+      "within",
+      "hours"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.rnz.co.nz/news/world/592599/trump-says-lebanon-and-israel-have-reached-10-day-ceasefire",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "592599",
+      "trump",
+      "says",
+      "lebanon",
+      "and",
+      "israel",
       "have",
-      "agreed",
+      "reached",
       "day",
       "ceasefire"
     ]
   },
-  "ISR": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/rjapcurnbe",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "article",
-      "rjapcurnbe"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "http://silverbirdtv.com/kenya-protest-dozens-injured-as-death-toll-hits-13/",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "kenya",
-      "protest",
-      "dozens",
-      "injured",
-      "death",
-      "toll",
-      "hits"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.92,
-    "count": 9,
-    "top_news": "https://www.ynetnews.com/article/rk6yk5anbe",
+  "NGA": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.thecable.ng/police-extradites-nigerian-man-to-uk-over-alleged-murder-drug-offences/",
     "event_codes": {
       "19": 6,
-      "17": 3
+      "17": 2
     },
     "keywords": [
-      "article",
-      "rk6yk5anbe"
+      "police",
+      "extradites",
+      "nigerian",
+      "man",
+      "over",
+      "alleged",
+      "murder",
+      "drug",
+      "offences"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.atlantanewsfirst.com/2026/04/16/smyrna-apartment-complex-fire-again-2-months-after-deadly-blaze/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "smyrna",
+      "apartment",
+      "complex",
+      "fire",
+      "again",
+      "months",
+      "after",
+      "deadly",
+      "blaze"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.citizen.co.za/news/south-africa/crime/hawks-arrest-wanted-benin-activist-over-illegal-attempt-to-cross-into-zimbabwe/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "south",
+      "africa",
+      "crime",
+      "hawks",
+      "arrest",
+      "wanted",
+      "benin",
+      "activist",
+      "over",
+      "illegal",
+      "attempt",
+      "cross",
+      "into",
+      "zimbabwe"
     ]
   }
 }
