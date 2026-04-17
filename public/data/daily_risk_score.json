@@ -1,66 +1,41 @@
 {
+  "CHL": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.haitian-truth.org/exclusive-interview-with-henry-t-wooster-ayibopost/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "exclusive",
+      "interview",
+      "with",
+      "henry",
+      "wooster",
+      "ayibopost"
+    ]
+  },
   "IRN": {
-    "risk_score": 7.7,
-    "count": 10,
-    "top_news": "https://www.irishstar.com/news/us-news/sean-hannity-embarrassingly-lectures-pope-37031102",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.abc.net.au/news/2026-04-18/australia-military-drone-warfare-push-ghost-bat-ghost-shark/106563072",
     "event_codes": {
-      "19": 5,
-      "14": 3,
-      "16": 2
+      "19": 3
     },
     "keywords": [
       "news",
-      "news",
-      "sean",
-      "hannity",
-      "embarrassingly",
-      "lectures",
-      "pope",
-      "37031102"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.52,
-    "count": 3,
-    "top_news": "https://www.naturalnews.com/2026-04-17-israeli-bulldozers-flatten-over-thousand-buildings-southern-lebanon.html",
-    "event_codes": {
-      "15": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
       "2026",
-      "israeli",
-      "bulldozers",
-      "flatten",
-      "over",
-      "thousand",
-      "buildings",
-      "southern",
-      "lebanon.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.32,
-    "count": 3,
-    "top_news": "https://news.antiwar.com/2026/04/17/israeli-strikes-kill-three-wounding-21-in-lebanon-despite-claims-ceasefire-holding/",
-    "event_codes": {
-      "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
-      "kill",
-      "three",
-      "wounding",
-      "lebanon",
-      "despite",
-      "claims",
-      "ceasefire",
-      "holding"
+      "australia",
+      "military",
+      "drone",
+      "warfare",
+      "push",
+      "ghost",
+      "bat",
+      "ghost",
+      "shark",
+      "106563072"
     ]
   }
 }
