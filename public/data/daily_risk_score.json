@@ -1,42 +1,117 @@
 {
   "IRN": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.bssnews.net/news/378680",
+    "risk_score": 4.95,
+    "count": 6,
+    "top_news": "https://english.news.cn/europe/20260417/b58ef6c5f118439abbf80b9b75e4b84d/c.html",
     "event_codes": {
-      "16": 1,
-      "17": 1,
-      "19": 1
+      "14": 3,
+      "19": 3
     },
     "keywords": [
-      "news",
-      "378680"
+      "europe",
+      "20260417",
+      "b58ef6c5f118439abbf80b9b75e4b84d",
+      "c.html"
     ]
   },
   "ISR": {
-    "risk_score": 7.25,
-    "count": 10,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/04/17/i-still-have-nightmares-palestinians-reflect-on-worsening-israeli-jail-ordeals-on-prisoners-day/",
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://english.news.cn/europe/20260417/b58ef6c5f118439abbf80b9b75e4b84d/c.html",
     "event_codes": {
-      "17": 5,
-      "18": 4,
-      "19": 1
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "europe",
+      "20260417",
+      "b58ef6c5f118439abbf80b9b75e4b84d",
+      "c.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://politicaldog101.com/2026/04/irantrump-evening-4-16-2026-lebanon-israel-cease-fire-another-iran-trump-cease-fire/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "irantrump",
+      "evening",
+      "2026",
+      "lebanon",
+      "israel",
+      "cease",
+      "fire",
+      "another",
+      "iran",
+      "trump",
+      "cease",
+      "fire"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202604170093.html",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "stories",
+      "202604170093.html"
+    ]
+  },
+  "PER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hometownstations.com/news/auglaize_county/two-injured-after-car-crashes-into-home-near-cridersville/article_407eeedb-4726-4423-9e05-b3334e9ef52f.html",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "mena",
-      "2026",
-      "still",
-      "have",
-      "nightmares",
-      "palestinians",
-      "reflect",
-      "worsening",
-      "israeli",
-      "jail",
-      "ordeals",
-      "prisoners",
-      "day"
+      "auglaize",
+      "county",
+      "two",
+      "injured",
+      "after",
+      "car",
+      "crashes",
+      "into",
+      "home",
+      "near",
+      "cridersville",
+      "article",
+      "407eeedb",
+      "4726",
+      "4423",
+      "9e05",
+      "b3334e9ef52f.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.worthynews.com/113732-turkey-mourns-school-shooting-victims-after-rare-attacks-leave-dead-injured",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "113732",
+      "turkey",
+      "mourns",
+      "school",
+      "shooting",
+      "victims",
+      "after",
+      "rare",
+      "attacks",
+      "leave",
+      "dead",
+      "injured"
     ]
   }
 }
