@@ -1,126 +1,66 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.beat102103.com/news/daniel-kinahan-arrested-in-the-uae-2254062",
+  "IRN": {
+    "risk_score": 7.7,
+    "count": 10,
+    "top_news": "https://www.irishstar.com/news/us-news/sean-hannity-embarrassingly-lectures-pope-37031102",
     "event_codes": {
-      "17": 4
+      "19": 5,
+      "14": 3,
+      "16": 2
     },
     "keywords": [
       "news",
-      "daniel",
-      "kinahan",
-      "arrested",
-      "the",
-      "uae",
-      "2254062"
-    ]
-  },
-  "IRN": {
-    "risk_score": 21.72,
-    "count": 22,
-    "top_news": "https://www.manilatimes.net/2026/04/18/opinion/columns/on-the-us-israel-vs-iran-war-ceasefire/2322934",
-    "event_codes": {
-      "19": 21,
-      "15": 1
-    },
-    "keywords": [
-      "2026",
-      "opinion",
-      "columns",
-      "the",
-      "israel",
-      "iran",
-      "war",
-      "ceasefire",
-      "2322934"
+      "news",
+      "sean",
+      "hannity",
+      "embarrassingly",
+      "lectures",
+      "pope",
+      "37031102"
     ]
   },
   "ISR": {
-    "risk_score": 8.02,
-    "count": 9,
-    "top_news": "http://www.bignewsnetwork.com/news/278994921/israel-lists-top-anti-semite-influencers",
-    "event_codes": {
-      "19": 5,
-      "14": 2,
-      "15": 1,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "278994921",
-      "israel",
-      "lists",
-      "top",
-      "anti",
-      "semite",
-      "influencers"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "http://www.bignewsnetwork.com/news/278994923/1st-ld-writethru-lebanese-president-announces-shift-to-negotiating-permanent-agreements-after-ceasefire-phase",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "278994923",
-      "1st",
-      "writethru",
-      "lebanese",
-      "president",
-      "announces",
-      "shift",
-      "negotiating",
-      "permanent",
-      "agreements",
-      "after",
-      "ceasefire",
-      "phase"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.57,
-    "count": 11,
-    "top_news": "https://www.nationalaccordnewspaper.com/troops-foil-illegal-bunkering-operation-arrest-14-suspects-recover-tanker-vehicles-in-lekki-free-zone/",
-    "event_codes": {
-      "19": 5,
-      "17": 4,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "troops",
-      "foil",
-      "illegal",
-      "bunkering",
-      "operation",
-      "arrest",
-      "suspects",
-      "recover",
-      "tanker",
-      "vehicles",
-      "lekki",
-      "free",
-      "zone"
-    ]
-  },
-  "SOM": {
-    "risk_score": 3.0,
+    "risk_score": 2.52,
     "count": 3,
-    "top_news": "https://cronkitenews.azpbs.org/2026/04/17/us-military-beyond-iran-readiness/",
+    "top_news": "https://www.naturalnews.com/2026-04-17-israeli-bulldozers-flatten-over-thousand-buildings-southern-lebanon.html",
     "event_codes": {
-      "19": 3
+      "15": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "military",
-      "beyond",
-      "iran",
-      "readiness"
+      "israeli",
+      "bulldozers",
+      "flatten",
+      "over",
+      "thousand",
+      "buildings",
+      "southern",
+      "lebanon.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://news.antiwar.com/2026/04/17/israeli-strikes-kill-three-wounding-21-in-lebanon-despite-claims-ceasefire-holding/",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strikes",
+      "kill",
+      "three",
+      "wounding",
+      "lebanon",
+      "despite",
+      "claims",
+      "ceasefire",
+      "holding"
     ]
   }
 }
