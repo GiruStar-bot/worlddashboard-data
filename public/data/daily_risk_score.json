@@ -1,44 +1,89 @@
 {
-  "ISR": {
-    "risk_score": 9.5,
-    "count": 12,
-    "top_news": "https://pittnews.com/article/201811/opinions/opinion-the-un-has-lost-me/",
+  "IRN": {
+    "risk_score": 8.74,
+    "count": 10,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-israel-lebanon-ceasefire-b2959525.html",
     "event_codes": {
-      "16": 8,
-      "19": 3,
-      "17": 1
+      "18": 4,
+      "16": 2,
+      "17": 2,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "article",
-      "201811",
-      "opinions",
-      "opinion",
-      "the",
-      "has",
-      "lost"
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "live",
+      "trump",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "b2959525.html"
     ]
   },
-  "ZWE": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.timeslive.co.za/news/south-africa/2026-04-17-watch-live-bellarmine-mugabe-and-co-accused-back-in-court/",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.rediff.com/news/special/us-needs-iran-back-at-the-table-fast/20260417.htm",
     "event_codes": {
-      "17": 3,
       "19": 3
     },
     "keywords": [
       "news",
-      "south",
-      "africa",
-      "2026",
-      "watch",
-      "live",
-      "bellarmine",
-      "mugabe",
-      "and",
-      "accused",
+      "special",
+      "needs",
+      "iran",
       "back",
-      "court"
+      "the",
+      "table",
+      "fast",
+      "20260417.htm"
+    ]
+  },
+  "MMR": {
+    "risk_score": 5.8,
+    "count": 9,
+    "top_news": "https://www.independent.co.uk/asia/southeast-asia/aung-san-suu-kyi-myanmar-prison-sentence-amnesty-b2959573.html",
+    "event_codes": {
+      "17": 5,
+      "14": 2,
+      "20": 2
+    },
+    "keywords": [
+      "asia",
+      "southeast",
+      "asia",
+      "aung",
+      "san",
+      "suu",
+      "kyi",
+      "myanmar",
+      "prison",
+      "sentence",
+      "amnesty",
+      "b2959573.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/students-abducted-gunmen-attack-pasenger-104644616.html",
+    "event_codes": {
+      "18": 5
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "students",
+      "abducted",
+      "gunmen",
+      "attack",
+      "pasenger",
+      "104644616.html"
     ]
   }
 }
