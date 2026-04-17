@@ -1,82 +1,136 @@
 {
-  "IRN": {
-    "risk_score": 7.22,
-    "count": 10,
-    "top_news": "https://www.geo.tv/latest/660453-pakistani-jets-escorted-iranian-delegation-back-home-amid-fears-of-israeli-attack-sources",
+  "ARE": {
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://www.mirror.co.uk/news/world-news/daniel-kinahan-arrested-dubai-gardai-37034286",
     "event_codes": {
-      "19": 4,
-      "17": 3,
-      "16": 2,
-      "15": 1
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "latest",
-      "660453",
-      "pakistani",
-      "jets",
-      "escorted",
-      "iranian",
-      "delegation",
-      "back",
-      "home",
-      "amid",
-      "fears",
-      "israeli",
-      "attack",
-      "sources"
+      "news",
+      "world",
+      "news",
+      "daniel",
+      "kinahan",
+      "arrested",
+      "dubai",
+      "gardai",
+      "37034286"
     ]
   },
-  "ISR": {
-    "risk_score": 8.55,
-    "count": 11,
-    "top_news": "https://www.spacewar.com/afp/260417142415.5okazks2.html",
+  "COL": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://thebogotapost.com/eln-planned-to-send-cocaine-to-syria-in-exchange-for-military-grade-guns/56050/",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "eln",
+      "planned",
+      "send",
+      "cocaine",
+      "syria",
+      "exchange",
+      "for",
+      "military",
+      "grade",
+      "guns",
+      "56050"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.92,
+    "count": 7,
+    "top_news": "https://english.aawsat.com/arab-world/5263599-strikes-kill-3-iranian-kurds-northern-iraq-says-opposition-group",
     "event_codes": {
       "19": 6,
-      "17": 4,
-      "14": 1
+      "17": 1
     },
     "keywords": [
-      "afp",
-      "260417142415.5okazks2.html"
+      "arab",
+      "world",
+      "5263599",
+      "strikes",
+      "kill",
+      "iranian",
+      "kurds",
+      "northern",
+      "iraq",
+      "says",
+      "opposition",
+      "group"
     ]
   },
-  "LBN": {
-    "risk_score": 5.44,
-    "count": 8,
-    "top_news": "https://www.wdsu.com/article/strait-of-hormuz-is-fully-open-trump-iran/71050616",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.aawsat.com/arab-world/5263599-strikes-kill-3-iranian-kurds-northern-iraq-says-opposition-group",
     "event_codes": {
-      "17": 4,
-      "15": 2,
       "19": 2
     },
     "keywords": [
-      "article",
-      "strait",
-      "hormuz",
-      "fully",
-      "open",
-      "trump",
-      "iran",
-      "71050616"
+      "arab",
+      "world",
+      "5263599",
+      "strikes",
+      "kill",
+      "iranian",
+      "kurds",
+      "northern",
+      "iraq",
+      "says",
+      "opposition",
+      "group"
     ]
   },
-  "NGA": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://conservativehq.com/post/has-the-pope-abandoned-christs-great-commission",
+  "ISR": {
+    "risk_score": 8.47,
+    "count": 11,
+    "top_news": "https://english.aawsat.com/arab-world/5263615-hezbollah-tallies-its-dead-israel-war-estimates-exceed-1000",
     "event_codes": {
+      "19": 5,
       "16": 3,
-      "19": 1
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "post",
-      "has",
-      "the",
-      "pope",
-      "abandoned",
-      "christs",
-      "great",
-      "commission"
+      "arab",
+      "world",
+      "5263615",
+      "hezbollah",
+      "tallies",
+      "its",
+      "dead",
+      "israel",
+      "war",
+      "estimates",
+      "exceed",
+      "1000"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.34,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/arab-world/5263615-hezbollah-tallies-its-dead-israel-war-estimates-exceed-1000",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5263615",
+      "hezbollah",
+      "tallies",
+      "its",
+      "dead",
+      "israel",
+      "war",
+      "estimates",
+      "exceed",
+      "1000"
     ]
   }
 }
