@@ -1,78 +1,56 @@
 {
-  "IRN": {
-    "risk_score": 6.72,
-    "count": 8,
-    "top_news": "https://www.theamericanconservative.com/ceasefire-day-11-strait-of-hormuz-closed-passage-subject-to-coordination-with-iran/",
-    "event_codes": {
-      "19": 5,
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
-      "ceasefire",
-      "day",
-      "strait",
-      "hormuz",
-      "closed",
-      "passage",
-      "subject",
-      "coordination",
-      "with",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.8,
-    "count": 16,
-    "top_news": "https://thefrontierpost.com/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon/",
-    "event_codes": {
-      "19": 10,
-      "17": 5,
-      "18": 1
-    },
-    "keywords": [
-      "french",
-      "soldier",
-      "killed",
-      "attack",
-      "mission",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "LBN": {
+  "CMR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://thefrontierpost.com/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon/",
+    "top_news": "https://www.pressdemocrat.com/2026/04/18/pope-says-news-outlets-misread-some-of-his-remarks-as-criticism-of-trump/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "french",
-      "soldier",
-      "killed",
-      "attack",
-      "mission",
-      "southern",
-      "lebanon"
+      "2026",
+      "pope",
+      "says",
+      "news",
+      "outlets",
+      "misread",
+      "some",
+      "his",
+      "remarks",
+      "criticism",
+      "trump"
     ]
   },
-  "PSE": {
-    "risk_score": 7.6,
-    "count": 8,
-    "top_news": "https://thefrontierpost.com/palestinian-killed-by-israeli-forces-near-hebron/",
+  "IRN": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.navaltoday.com/2026/04/18/iranian-gunboats-fire-on-indian-flagged-ships-in-strait-of-hormuz/",
     "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 2
+      "18": 2,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "palestinian",
-      "killed",
-      "israeli",
-      "forces",
-      "near",
-      "hebron"
+      "2026",
+      "iranian",
+      "gunboats",
+      "fire",
+      "indian",
+      "flagged",
+      "ships",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.azernews.az/region/257226.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "region",
+      "257226.html"
     ]
   }
 }
