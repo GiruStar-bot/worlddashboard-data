@@ -1,64 +1,67 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.benzinga.com/news/politics/26/04/51901555/anthony-scaramucci-says-he-wont-go-after-donald-trump-if-he-became-us-president-i-find-lots-of-his-actions-illegal",
+  "COL": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.marketscreener.com/news/colombia-s-petro-warns-of-latin-american-rebellion-if-us-doesn-t-rethink-policy-ce7e50d3da8cf022",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "news",
-      "politics",
-      "51901555",
-      "anthony",
-      "scaramucci",
-      "says",
-      "wont",
-      "after",
-      "donald",
-      "trump",
-      "became",
-      "president",
-      "find",
-      "lots",
-      "his",
-      "actions",
-      "illegal"
+      "colombia",
+      "petro",
+      "warns",
+      "latin",
+      "american",
+      "rebellion",
+      "doesn",
+      "rethink",
+      "policy",
+      "ce7e50d3da8cf022"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://indianexpress.com/article/world/why-irans-mosquito-fleet-remains-a-potent-threat-in-the-strait-of-hormuz-10643248/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "world",
+      "why",
+      "irans",
+      "mosquito",
+      "fleet",
+      "remains",
+      "potent",
+      "threat",
+      "the",
+      "strait",
+      "hormuz",
+      "10643248"
     ]
   },
   "ISR": {
-    "risk_score": 7.0,
-    "count": 9,
-    "top_news": "http://www.lankaenews.com/news/4986/en",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/04/18/latest-developments-in-the-middle-east-war-10",
     "event_codes": {
-      "14": 4,
-      "19": 3,
-      "17": 1,
-      "20": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "4986"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.2,
-    "count": 7,
-    "top_news": "https://www.express.co.uk/news/world/2195562/girl-raped-church-pastor-lagos",
-    "event_codes": {
-      "17": 4,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
+      "category",
       "world",
-      "2195562",
-      "girl",
-      "raped",
-      "church",
-      "pastor",
-      "lagos"
+      "2026",
+      "latest",
+      "developments",
+      "the",
+      "middle",
+      "east",
+      "war"
     ]
   }
 }
