@@ -1,91 +1,73 @@
 {
   "IRN": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.hindustantimes.com/world-news/merchant-vessels-report-gunfire-as-they-attempt-to-cross-hormuz-shipping-sources-say-101776509738695.html",
+    "risk_score": 6.3,
+    "count": 9,
+    "top_news": "https://www.trend.az/iran/4176359.html",
     "event_codes": {
-      "19": 3,
-      "16": 2
+      "16": 4,
+      "17": 3,
+      "19": 2
     },
     "keywords": [
-      "world",
-      "news",
-      "merchant",
-      "vessels",
-      "report",
-      "gunfire",
-      "they",
-      "attempt",
-      "cross",
-      "hormuz",
-      "shipping",
-      "sources",
-      "say",
-      "101776509738695.html"
+      "iran",
+      "4176359.html"
     ]
   },
   "ISR": {
-    "risk_score": 21.43,
-    "count": 24,
-    "top_news": "https://imemc.org/article/israeli-colonizers-burn-cars-agricultural-room-in-west-bank/",
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4533772/israel-lebanon-hope-new-future-without-iranian-regime/",
     "event_codes": {
-      "19": 14,
-      "15": 4,
-      "18": 4,
-      "17": 2
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "article",
-      "israeli",
-      "colonizers",
-      "burn",
-      "cars",
-      "agricultural",
-      "room",
-      "west",
-      "bank"
-    ]
-  },
-  "PSE": {
-    "risk_score": 15.97,
-    "count": 19,
-    "top_news": "https://imemc.org/article/israeli-army-kills-a-palestinian-near-hebron-2/",
-    "event_codes": {
-      "19": 10,
-      "15": 6,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "israeli",
-      "army",
-      "kills",
-      "palestinian",
-      "near",
-      "hebron"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.rfi.fr/en/podcasts/international-report/20260418-turkey-warns-it-could-be-israel-s-next-enemy-as-tensions-escalate",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "podcasts",
-      "international",
-      "report",
-      "20260418",
-      "turkey",
-      "warns",
-      "could",
+      "news",
+      "world",
+      "4533772",
       "israel",
-      "next",
-      "enemy",
-      "tensions",
-      "escalate"
+      "lebanon",
+      "hope",
+      "new",
+      "future",
+      "without",
+      "iranian",
+      "regime"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.07,
+    "count": 11,
+    "top_news": "https://english.news.cn/20260418/e8c9c266d98f41c1b23b57ac50aefbb1/c.html",
+    "event_codes": {
+      "19": 5,
+      "18": 4,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "20260418",
+      "e8c9c266d98f41c1b23b57ac50aefbb1",
+      "c.html"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/news/campaigns/state/4534016/newsom-catch-22-splintered-governor-race/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "campaigns",
+      "state",
+      "4534016",
+      "newsom",
+      "catch",
+      "splintered",
+      "governor",
+      "race"
     ]
   }
 }
