@@ -1,141 +1,117 @@
 {
-  "AGO": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://naija247news.com/pope-leo-xiv-has-addressed-a-massive-crowd-in-cameroon-using-one-of-the-biggest-stages-of-his-africa-tour-to-preach-a-message-of-justice-and-nonviolence-addressing-about-120000-faithful-in-douala/",
+  "IRN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.irishdentist.ie/michelangelo-dome-the-italian-shield-that-shoots-down-missiles-at-reduced-costs-challenging-israel-and-the-usa/17400/",
     "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
-      "pope",
-      "leo",
-      "xiv",
-      "has",
-      "addressed",
-      "massive",
-      "crowd",
-      "cameroon",
-      "using",
-      "one",
+      "michelangelo",
+      "dome",
       "the",
-      "biggest",
-      "stages",
-      "his",
-      "africa",
-      "tour",
-      "preach",
-      "message",
-      "justice",
+      "italian",
+      "shield",
+      "that",
+      "shoots",
+      "down",
+      "missiles",
+      "reduced",
+      "costs",
+      "challenging",
+      "israel",
       "and",
-      "nonviolence",
-      "addressing",
-      "about",
-      "120000",
-      "faithful",
-      "douala"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.36,
-    "count": 6,
-    "top_news": "https://naija247news.com/pope-leo-xiv-has-addressed-a-massive-crowd-in-cameroon-using-one-of-the-biggest-stages-of-his-africa-tour-to-preach-a-message-of-justice-and-nonviolence-addressing-about-120000-faithful-in-douala/",
-    "event_codes": {
-      "19": 4,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "pope",
-      "leo",
-      "xiv",
-      "has",
-      "addressed",
-      "massive",
-      "crowd",
-      "cameroon",
-      "using",
-      "one",
       "the",
-      "biggest",
-      "stages",
-      "his",
-      "africa",
-      "tour",
-      "preach",
-      "message",
-      "justice",
-      "and",
-      "nonviolence",
-      "addressing",
-      "about",
-      "120000",
-      "faithful",
-      "douala"
+      "usa",
+      "17400"
     ]
   },
   "ISR": {
-    "risk_score": 8.57,
-    "count": 9,
-    "top_news": "https://www.thehindu.com/news/international/israel-military-says-suspected-militant-killed-in-west-bank/article70878703.ece",
+    "risk_score": 13.35,
+    "count": 16,
+    "top_news": "https://www.jns.org/news/israel-news/palestinian-terrorist-who-infiltrated-judea-community-shot-dead",
     "event_codes": {
-      "19": 5,
-      "18": 3,
-      "15": 1
+      "19": 11,
+      "17": 4,
+      "16": 1
     },
     "keywords": [
       "news",
-      "international",
       "israel",
-      "military",
-      "says",
-      "suspected",
-      "militant",
-      "killed",
-      "west",
-      "bank",
-      "article70878703.ece"
+      "news",
+      "palestinian",
+      "terrorist",
+      "who",
+      "infiltrated",
+      "judea",
+      "community",
+      "shot",
+      "dead"
     ]
   },
-  "LBN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://ejpress.org/french-president-macron-accuses-hezbollah-of-killing-a-french-soldier-in-southern-lebanon/",
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.grandprix247.com/le-mans-wec/wec-imola-6-hours-anronio-giovinazzi-snatches-pole-for-ferrari-in-ultra-tight-imola-hyperpole-shootout",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "french",
-      "president",
-      "macron",
-      "accuses",
-      "hezbollah",
-      "killing",
-      "french",
-      "soldier",
-      "southern",
-      "lebanon"
+      "mans",
+      "wec",
+      "wec",
+      "imola",
+      "hours",
+      "anronio",
+      "giovinazzi",
+      "snatches",
+      "pole",
+      "for",
+      "ferrari",
+      "ultra",
+      "tight",
+      "imola",
+      "hyperpole",
+      "shootout"
     ]
   },
-  "PSE": {
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thehindu.com/news/international/israel-military-says-suspected-militant-killed-in-west-bank/article70878703.ece",
+    "top_news": "https://sana.sy/en/syria/2311247/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "international",
-      "israel",
-      "military",
-      "says",
-      "suspected",
-      "militant",
-      "killed",
-      "west",
-      "bank",
-      "article70878703.ece"
+      "syria",
+      "2311247"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.grandprix247.com/le-mans-wec/wec-imola-6-hours-anronio-giovinazzi-snatches-pole-for-ferrari-in-ultra-tight-imola-hyperpole-shootout",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "mans",
+      "wec",
+      "wec",
+      "imola",
+      "hours",
+      "anronio",
+      "giovinazzi",
+      "snatches",
+      "pole",
+      "for",
+      "ferrari",
+      "ultra",
+      "tight",
+      "imola",
+      "hyperpole",
+      "shootout"
     ]
   }
 }
