@@ -1,56 +1,86 @@
 {
-  "CMR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.pressdemocrat.com/2026/04/18/pope-says-news-outlets-misread-some-of-his-remarks-as-criticism-of-trump/",
+  "IRN": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://slguardian.org/washington-led-israel-lebanon-talks-deepen-regional-fault-lines/",
     "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "washington",
+      "led",
+      "israel",
+      "lebanon",
+      "talks",
+      "deepen",
+      "regional",
+      "fault",
+      "lines"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://slguardian.org/iran-war-fuels-shadow-terror-wave-across-europes-soft-targets/",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "fuels",
+      "shadow",
+      "terror",
+      "wave",
+      "across",
+      "europes",
+      "soft",
+      "targets"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://slguardian.org/washington-led-israel-lebanon-talks-deepen-regional-fault-lines/",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "washington",
+      "led",
+      "israel",
+      "lebanon",
+      "talks",
+      "deepen",
+      "regional",
+      "fault",
+      "lines"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.channelstv.com/2026/04/18/alaafin-of-oyo-demands-intensified-action-over-insecurity-in-south-west-kwara-kogi/",
+    "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
       "2026",
-      "pope",
-      "says",
-      "news",
-      "outlets",
-      "misread",
-      "some",
-      "his",
-      "remarks",
-      "criticism",
-      "trump"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.navaltoday.com/2026/04/18/iranian-gunboats-fire-on-indian-flagged-ships-in-strait-of-hormuz/",
-    "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "iranian",
-      "gunboats",
-      "fire",
-      "indian",
-      "flagged",
-      "ships",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.azernews.az/region/257226.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "region",
-      "257226.html"
+      "alaafin",
+      "oyo",
+      "demands",
+      "intensified",
+      "action",
+      "over",
+      "insecurity",
+      "south",
+      "west",
+      "kwara",
+      "kogi"
     ]
   }
 }
