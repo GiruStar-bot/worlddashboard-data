@@ -1,13 +1,91 @@
 {
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.el-balad.com/16916627",
+  "IRN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.hindustantimes.com/world-news/merchant-vessels-report-gunfire-as-they-attempt-to-cross-hormuz-shipping-sources-say-101776509738695.html",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "16916627"
+      "world",
+      "news",
+      "merchant",
+      "vessels",
+      "report",
+      "gunfire",
+      "they",
+      "attempt",
+      "cross",
+      "hormuz",
+      "shipping",
+      "sources",
+      "say",
+      "101776509738695.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 21.43,
+    "count": 24,
+    "top_news": "https://imemc.org/article/israeli-colonizers-burn-cars-agricultural-room-in-west-bank/",
+    "event_codes": {
+      "19": 14,
+      "15": 4,
+      "18": 4,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "colonizers",
+      "burn",
+      "cars",
+      "agricultural",
+      "room",
+      "west",
+      "bank"
+    ]
+  },
+  "PSE": {
+    "risk_score": 15.97,
+    "count": 19,
+    "top_news": "https://imemc.org/article/israeli-army-kills-a-palestinian-near-hebron-2/",
+    "event_codes": {
+      "19": 10,
+      "15": 6,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "kills",
+      "palestinian",
+      "near",
+      "hebron"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.rfi.fr/en/podcasts/international-report/20260418-turkey-warns-it-could-be-israel-s-next-enemy-as-tensions-escalate",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "podcasts",
+      "international",
+      "report",
+      "20260418",
+      "turkey",
+      "warns",
+      "could",
+      "israel",
+      "next",
+      "enemy",
+      "tensions",
+      "escalate"
     ]
   }
 }
