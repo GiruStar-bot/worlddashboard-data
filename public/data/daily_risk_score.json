@@ -1,67 +1,51 @@
 {
-  "COL": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.marketscreener.com/news/colombia-s-petro-warns-of-latin-american-rebellion-if-us-doesn-t-rethink-policy-ce7e50d3da8cf022",
+  "IRN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.rediff.com/news/report/pakistan-saudi-arabia-turkiye-egypt-meeting-in-antalya/20260418.htm",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "16": 4
     },
     "keywords": [
       "news",
-      "colombia",
-      "petro",
-      "warns",
-      "latin",
-      "american",
-      "rebellion",
-      "doesn",
-      "rethink",
-      "policy",
-      "ce7e50d3da8cf022"
+      "report",
+      "pakistan",
+      "saudi",
+      "arabia",
+      "turkiye",
+      "egypt",
+      "meeting",
+      "antalya",
+      "20260418.htm"
     ]
   },
-  "IRN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://indianexpress.com/article/world/why-irans-mosquito-fleet-remains-a-potent-threat-in-the-strait-of-hormuz-10643248/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "article",
-      "world",
-      "why",
-      "irans",
-      "mosquito",
-      "fleet",
-      "remains",
-      "potent",
-      "threat",
-      "the",
-      "strait",
-      "hormuz",
-      "10643248"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.9,
+  "LBN": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/04/18/latest-developments-in-the-middle-east-war-10",
+    "top_news": "https://english.news.cn/20260418/57d532985818407fad2df6fd2dbb8692/c.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "category",
-      "world",
-      "2026",
-      "latest",
-      "developments",
-      "the",
-      "middle",
-      "east",
-      "war"
+      "20260418",
+      "57d532985818407fad2df6fd2dbb8692",
+      "c.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://www.thecable.ng/legislating-for-progress-rethinking-representation/",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "legislating",
+      "for",
+      "progress",
+      "rethinking",
+      "representation"
     ]
   }
 }
