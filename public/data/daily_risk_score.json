@@ -1,112 +1,78 @@
 {
-  "ARE": {
-    "risk_score": 5.5,
-    "count": 7,
-    "top_news": "https://www.dailyrecord.co.uk/news/scottish-news/surveillance-daniel-kinahan-encrypted-texts-37037030",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "news",
-      "scottish",
-      "news",
-      "surveillance",
-      "daniel",
-      "kinahan",
-      "encrypted",
-      "texts",
-      "37037030"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dw.com/en/iran-war-trump-says-tehran-cannot-blackmail-us/live-76839599",
+    "risk_score": 6.72,
+    "count": 8,
+    "top_news": "https://www.theamericanconservative.com/ceasefire-day-11-strait-of-hormuz-closed-passage-subject-to-coordination-with-iran/",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "17": 2,
+      "15": 1
     },
     "keywords": [
-      "iran",
-      "war",
-      "trump",
-      "says",
-      "tehran",
-      "cannot",
-      "blackmail",
-      "live",
-      "76839599"
+      "ceasefire",
+      "day",
+      "strait",
+      "hormuz",
+      "closed",
+      "passage",
+      "subject",
+      "coordination",
+      "with",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://www.manilatimes.net/2026/04/19/world/displaced-lebanese-hesitant-to-return-home-as-lasting-truce-uncertain/2323337",
+    "risk_score": 14.8,
+    "count": 16,
+    "top_news": "https://thefrontierpost.com/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon/",
     "event_codes": {
-      "16": 3,
-      "19": 1
+      "19": 10,
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "world",
-      "displaced",
-      "lebanese",
-      "hesitant",
-      "return",
-      "home",
-      "lasting",
-      "truce",
-      "uncertain",
-      "2323337"
+      "french",
+      "soldier",
+      "killed",
+      "attack",
+      "mission",
+      "southern",
+      "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.rockymounttelegram.com/news/national/the-latest-iran-fires-on-ships-in-strait-of-hormuz-as-tehran-imposes-restrictions-again/article_cb8d761e-63ca-59e3-b293-bffc66d240f1.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thefrontierpost.com/french-soldier-killed-in-attack-on-un-mission-in-southern-lebanon/",
     "event_codes": {
-      "19": 6
+      "19": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "the",
-      "latest",
-      "iran",
-      "fires",
-      "ships",
-      "strait",
-      "hormuz",
-      "tehran",
-      "imposes",
-      "restrictions",
-      "again",
-      "article",
-      "cb8d761e",
-      "63ca",
-      "59e3",
-      "b293",
-      "bffc66d240f1.html"
+      "french",
+      "soldier",
+      "killed",
+      "attack",
+      "mission",
+      "southern",
+      "lebanon"
     ]
   },
-  "NGA": {
-    "risk_score": 3.7,
-    "count": 5,
-    "top_news": "https://www.thecable.ng/police-jamb-say-abducted-benue-travellers-not-utme-candidates/",
+  "PSE": {
+    "risk_score": 7.6,
+    "count": 8,
+    "top_news": "https://thefrontierpost.com/palestinian-killed-by-israeli-forces-near-hebron/",
     "event_codes": {
-      "18": 3,
-      "17": 2
+      "19": 4,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "police",
-      "jamb",
-      "say",
-      "abducted",
-      "benue",
-      "travellers",
-      "not",
-      "utme",
-      "candidates"
+      "palestinian",
+      "killed",
+      "israeli",
+      "forces",
+      "near",
+      "hebron"
     ]
   }
 }
