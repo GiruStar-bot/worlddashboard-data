@@ -1,58 +1,37 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://aa.com.tr/en/americas/colombian-president-claims-cia-has-concrete-information-on-plot-to-assassinate-heir-apparent/3910321",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "americas",
-      "colombian",
-      "president",
-      "claims",
-      "cia",
-      "has",
-      "concrete",
-      "information",
-      "plot",
-      "assassinate",
-      "heir",
-      "apparent",
-      "3910321"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.newkerala.com/news/a/iranian-ambassador-summoned-after-irgc-gunboats-fire-indian-310.htm",
+    "risk_score": 5.72,
+    "count": 6,
+    "top_news": "https://kashmirlife.net/tensions-escalate-in-strait-of-hormuz-as-tankers-turn-back-amid-gunfire-reports-432809/",
     "event_codes": {
-      "19": 5
+      "19": 5,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "iranian",
-      "ambassador",
-      "summoned",
-      "after",
-      "irgc",
-      "gunboats",
-      "fire",
-      "indian",
-      "310.htm"
+      "tensions",
+      "escalate",
+      "strait",
+      "hormuz",
+      "tankers",
+      "turn",
+      "back",
+      "amid",
+      "gunfire",
+      "reports",
+      "432809"
     ]
   },
-  "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.goskagit.com/news/world/macron-says-a-french-soldier-was-killed-and-3-were-wounded-in-attack-on-peacekeepers/article_1bdaa64f-6013-5395-972e-3fff7ac258f5.html",
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.wsls.com/news/world/2026/04/18/macron-says-1-french-soldier-was-killed-and-3-injured-in-attack-on-peacekeepers-in-lebanon/",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 3
     },
     "keywords": [
       "news",
       "world",
+      "2026",
       "macron",
       "says",
       "french",
@@ -60,64 +39,10 @@
       "was",
       "killed",
       "and",
-      "were",
-      "wounded",
+      "injured",
       "attack",
       "peacekeepers",
-      "article",
-      "1bdaa64f",
-      "6013",
-      "5395",
-      "972e",
-      "3fff7ac258f5.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.84,
-    "count": 11,
-    "top_news": "https://www.breakingnews.ie/world/update-1-un-peacekeeper-killed-three-wounded-in-south-lebanon-shooting-unifil-says-1888663.html",
-    "event_codes": {
-      "19": 7,
-      "15": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "update",
-      "peacekeeper",
-      "killed",
-      "three",
-      "wounded",
-      "south",
-      "lebanon",
-      "shooting",
-      "unifil",
-      "says",
-      "1888663.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://saharareporters.com/2026/04/18/nigerian-police-abia-government-asked-probe-vigilante-member-who-allegedly-killed",
-    "event_codes": {
-      "17": 5,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "nigerian",
-      "police",
-      "abia",
-      "government",
-      "asked",
-      "probe",
-      "vigilante",
-      "member",
-      "who",
-      "allegedly",
-      "killed"
+      "lebanon"
     ]
   }
 }
