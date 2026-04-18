@@ -1,18 +1,79 @@
 {
-  "LBN": {
-    "risk_score": 5.6,
-    "count": 7,
-    "top_news": "https://hyperallergic.com/tania-el-khourys-soothing-revenge-art/",
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/us-israel-iran-war-news-day-50-updates-strait-of-hormuz-blockage-peace-talk-donald-trump-us-israel-iran-middle-east-war/articleshow/130347353.cms",
     "event_codes": {
-      "14": 4,
       "19": 3
     },
     "keywords": [
-      "tania",
-      "khourys",
-      "soothing",
-      "revenge",
-      "art"
+      "news",
+      "defence",
+      "israel",
+      "iran",
+      "war",
+      "news",
+      "day",
+      "updates",
+      "strait",
+      "hormuz",
+      "blockage",
+      "peace",
+      "talk",
+      "donald",
+      "trump",
+      "israel",
+      "iran",
+      "middle",
+      "east",
+      "war",
+      "articleshow",
+      "130347353.cms"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.2,
+    "count": 17,
+    "top_news": "https://www.thejournal.ie/president-connolly-spain-sanchez-summit-7015225-Apr2026/",
+    "event_codes": {
+      "19": 9,
+      "17": 4,
+      "16": 2,
+      "20": 2
+    },
+    "keywords": [
+      "president",
+      "connolly",
+      "spain",
+      "sanchez",
+      "summit",
+      "7015225",
+      "apr2026"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.5,
+    "count": 9,
+    "top_news": "https://dailypost.ng/2026/04/18/offa-robbery-shehu-sani-cautions-gov-abdulrasaq-over-criminal-charges-against-saraki-others/",
+    "event_codes": {
+      "17": 7,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "offa",
+      "robbery",
+      "shehu",
+      "sani",
+      "cautions",
+      "gov",
+      "abdulrasaq",
+      "over",
+      "criminal",
+      "charges",
+      "against",
+      "saraki",
+      "others"
     ]
   }
 }
