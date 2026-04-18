@@ -1,36 +1,30 @@
 {
   "IRN": {
-    "risk_score": 5.72,
-    "count": 6,
-    "top_news": "https://kashmirlife.net/tensions-escalate-in-strait-of-hormuz-as-tankers-turn-back-amid-gunfire-reports-432809/",
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/radical-cleric-who-influenced-77-37028756",
     "event_codes": {
-      "19": 5,
-      "15": 1
-    },
-    "keywords": [
-      "tensions",
-      "escalate",
-      "strait",
-      "hormuz",
-      "tankers",
-      "turn",
-      "back",
-      "amid",
-      "gunfire",
-      "reports",
-      "432809"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wsls.com/news/world/2026/04/18/macron-says-1-french-soldier-was-killed-and-3-injured-in-attack-on-peacekeepers-in-lebanon/",
-    "event_codes": {
-      "19": 3
+      "19": 5
     },
     "keywords": [
       "news",
-      "world",
+      "news",
+      "radical",
+      "cleric",
+      "who",
+      "influenced",
+      "37028756"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://krmg.com/2026/04/18/macron-says-1-french-soldier-was-killed-and-3-injured-in-attack-on-peacekeepers-in-lebanon/",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
       "2026",
       "macron",
       "says",
@@ -43,6 +37,103 @@
       "attack",
       "peacekeepers",
       "lebanon"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/radical-cleric-who-influenced-77-37028756",
+    "event_codes": {
+      "19": 3,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "radical",
+      "cleric",
+      "who",
+      "influenced",
+      "37028756"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://ianslive.in/india-strongly-condemns-deadly-attack-on-french-un-peacekeepers-in-lebanon--20260418212635",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "india",
+      "strongly",
+      "condemns",
+      "deadly",
+      "attack",
+      "french",
+      "peacekeepers",
+      "lebanon",
+      "20260418212635"
+    ]
+  },
+  "MMR": {
+    "risk_score": 12.0,
+    "count": 15,
+    "top_news": "https://www.asianews.it/news-en/Myanmar:-Token-amnesty,-forgotten-prisoners-and-bombs-targeting-civilians--65271.html",
+    "event_codes": {
+      "19": 8,
+      "17": 5,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "myanmar:",
+      "token",
+      "amnesty,",
+      "forgotten",
+      "prisoners",
+      "and",
+      "bombs",
+      "targeting",
+      "civilians",
+      "65271.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 14.85,
+    "count": 16,
+    "top_news": "https://dailypost.ng/2026/04/18/bandits-abduct-kwara-monarch-in-night-raid/",
+    "event_codes": {
+      "18": 12,
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "abduct",
+      "kwara",
+      "monarch",
+      "night",
+      "raid"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/radical-cleric-who-influenced-77-37028756",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "radical",
+      "cleric",
+      "who",
+      "influenced",
+      "37028756"
     ]
   }
 }
