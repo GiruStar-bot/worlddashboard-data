@@ -1,81 +1,93 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.freepressjournal.in/world/you-gave-me-clearance-now-firing-audio-from-indian-tanker-during-hormuz-attack-surfaces",
+  "ARE": {
+    "risk_score": 5.0,
+    "count": 9,
+    "top_news": "https://www.siasat.com/us-iran-ceasefire-deadline-looms-amid-rising-tensions-3456294/",
     "event_codes": {
-      "19": 4
+      "17": 8,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "you",
-      "gave",
-      "clearance",
-      "now",
-      "firing",
-      "audio",
-      "from",
-      "indian",
-      "tanker",
-      "during",
-      "hormuz",
-      "attack",
-      "surfaces"
+      "iran",
+      "ceasefire",
+      "deadline",
+      "looms",
+      "amid",
+      "rising",
+      "tensions",
+      "3456294"
+    ]
+  },
+  "ARG": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://www.clevelandjewishnews.com/jns/milei-arrives-in-israel-amid-war-with-iran/article_c5d694c7-13ff-5135-baa5-102682a2a1cd.html",
+    "event_codes": {
+      "17": 4,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "jns",
+      "milei",
+      "arrives",
+      "israel",
+      "amid",
+      "war",
+      "with",
+      "iran",
+      "article",
+      "c5d694c7",
+      "13ff",
+      "5135",
+      "baa5",
+      "102682a2a1cd.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.siasat.com/us-iran-ceasefire-deadline-looms-amid-rising-tensions-3456294/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "iran",
+      "ceasefire",
+      "deadline",
+      "looms",
+      "amid",
+      "rising",
+      "tensions",
+      "3456294"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://dominicanrepublicpost.com/displaced-lebanese-families-return-home-despite-israeli-attacks/",
+    "risk_score": 9.55,
+    "count": 11,
+    "top_news": "https://www.clevelandjewishnews.com/jns/milei-arrives-in-israel-amid-war-with-iran/article_c5d694c7-13ff-5135-baa5-102682a2a1cd.html",
     "event_codes": {
-      "19": 2
+      "18": 6,
+      "19": 3,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "displaced",
-      "lebanese",
-      "families",
-      "return",
-      "home",
-      "despite",
-      "israeli",
-      "attacks"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://dominicanrepublicpost.com/displaced-lebanese-families-return-home-despite-israeli-attacks/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "displaced",
-      "lebanese",
-      "families",
-      "return",
-      "home",
-      "despite",
-      "israeli",
-      "attacks"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hurriyetdailynews.com/schools-across-turkiye-implement-security-measures-after-attacks-221214",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "schools",
-      "across",
-      "turkiye",
-      "implement",
-      "security",
-      "measures",
-      "after",
-      "attacks",
-      "221214"
+      "jns",
+      "milei",
+      "arrives",
+      "israel",
+      "amid",
+      "war",
+      "with",
+      "iran",
+      "article",
+      "c5d694c7",
+      "13ff",
+      "5135",
+      "baa5",
+      "102682a2a1cd.html"
     ]
   }
 }
