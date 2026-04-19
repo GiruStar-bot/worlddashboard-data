@@ -1,41 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "https://nypost.com/2026/04/19/opinion/leos-anti-war-words-letters/",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.cbsnews.com/news/mike-waltz-un-ambassador-face-the-nation-transcript-04-19-2026/",
     "event_codes": {
-      "14": 3,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "opinion",
-      "leos",
-      "anti",
-      "war",
-      "words",
-      "letters"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://laist.com/news/u-s-negotiators-prepare-for-more-peace-talks-as-trump-repeats-threats-to-iran",
-    "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
       "news",
-      "negotiators",
-      "prepare",
+      "mike",
+      "waltz",
+      "ambassador",
+      "face",
+      "the",
+      "nation",
+      "transcript",
+      "2026"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.44,
+    "count": 8,
+    "top_news": "https://www.miragenews.com/eu-criticized-for-silence-on-irans-ecosoc-1657852/",
+    "event_codes": {
+      "16": 2,
+      "17": 2,
+      "19": 2,
+      "20": 2
+    },
+    "keywords": [
+      "criticized",
       "for",
-      "more",
-      "peace",
-      "talks",
-      "trump",
-      "repeats",
-      "threats",
-      "iran"
+      "silence",
+      "irans",
+      "ecosoc",
+      "1657852"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.55,
+    "count": 9,
+    "top_news": "https://www.moneycontrol.com/world/any-moment-could-bring-new-developments-netanyahu-signals-escalation-in-iran-conflict-stance-article-13893489.html",
+    "event_codes": {
+      "19": 4,
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "any",
+      "moment",
+      "could",
+      "bring",
+      "new",
+      "developments",
+      "netanyahu",
+      "signals",
+      "escalation",
+      "iran",
+      "conflict",
+      "stance",
+      "article",
+      "13893489.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://sana.sy/en/syria/2311450/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "syria",
+      "2311450"
     ]
   }
 }
