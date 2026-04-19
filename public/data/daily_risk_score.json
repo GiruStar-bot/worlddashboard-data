@@ -1,44 +1,97 @@
 {
-  "IRN": {
-    "risk_score": 2.67,
-    "count": 3,
-    "top_news": "https://article.wn.com/view/2026/04/19/iranian_officials_apostoo_scared_apos_to_bury_assassinated_l/",
+  "AGO": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nypost.com/2026/04/18/world-news/jd-vance-grateful-to-pope-leo-for-easing-tensions-amid-messy-feud-with-trump-over-iran-war/",
     "event_codes": {
-      "15": 1,
-      "18": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "view",
       "2026",
-      "iranian",
-      "officials",
-      "apostoo",
-      "scared",
-      "apos",
-      "bury",
-      "assassinated"
+      "world",
+      "news",
+      "vance",
+      "grateful",
+      "pope",
+      "leo",
+      "for",
+      "easing",
+      "tensions",
+      "amid",
+      "messy",
+      "feud",
+      "with",
+      "trump",
+      "over",
+      "iran",
+      "war"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://nypost.com/2026/04/18/world-news/jd-vance-grateful-to-pope-leo-for-easing-tensions-amid-messy-feud-with-trump-over-iran-war/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "vance",
+      "grateful",
+      "pope",
+      "leo",
+      "for",
+      "easing",
+      "tensions",
+      "amid",
+      "messy",
+      "feud",
+      "with",
+      "trump",
+      "over",
+      "iran",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.michigandaily.com/news/administration/democratic-regent-candidates-acker-and-makled-face-serious-allegations-days-before-state-nominating-convention/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "administration",
+      "democratic",
+      "regent",
+      "candidates",
+      "acker",
+      "and",
+      "makled",
+      "face",
+      "serious",
+      "allegations",
+      "days",
+      "before",
+      "state",
+      "nominating",
+      "convention"
     ]
   },
   "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.koreatimes.co.kr/world/20260419/iran-fully-closes-strait-of-hormuz-over-us-blockade-fires-on-ships",
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.spacewar.com/afp/260419015610.6ttnyocl.html",
     "event_codes": {
-      "19": 4
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "20260419",
-      "iran",
-      "fully",
-      "closes",
-      "strait",
-      "hormuz",
-      "over",
-      "blockade",
-      "fires",
-      "ships"
+      "afp",
+      "260419015610.6ttnyocl.html"
     ]
   }
 }
