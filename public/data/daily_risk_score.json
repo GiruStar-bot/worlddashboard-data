@@ -1,80 +1,47 @@
 {
-  "ARE": {
+  "IRN": {
+    "risk_score": 4.82,
+    "count": 6,
+    "top_news": "https://www.theherald.co.za/news/world/2026-04-19-zelensky-chides-us-decision-to-renew-waiver-on-russian-oil/",
+    "event_codes": {
+      "16": 2,
+      "19": 2,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "zelensky",
+      "chides",
+      "decision",
+      "renew",
+      "waiver",
+      "russian",
+      "oil"
+    ]
+  },
+  "MMR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.cbsnews.com/news/mike-waltz-un-ambassador-face-the-nation-transcript-04-19-2026/",
+    "top_news": "https://www.kwqc.com:443/2026/04/19/officials-5-injured-including-3-university-iowa-students-shooting-ped-mall-near-university/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "mike",
-      "waltz",
-      "ambassador",
-      "face",
-      "the",
-      "nation",
-      "transcript",
-      "2026"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.44,
-    "count": 8,
-    "top_news": "https://www.miragenews.com/eu-criticized-for-silence-on-irans-ecosoc-1657852/",
-    "event_codes": {
-      "16": 2,
-      "17": 2,
-      "19": 2,
-      "20": 2
-    },
-    "keywords": [
-      "criticized",
-      "for",
-      "silence",
-      "irans",
-      "ecosoc",
-      "1657852"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.55,
-    "count": 9,
-    "top_news": "https://www.moneycontrol.com/world/any-moment-could-bring-new-developments-netanyahu-signals-escalation-in-iran-conflict-stance-article-13893489.html",
-    "event_codes": {
-      "19": 4,
-      "18": 3,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "any",
-      "moment",
-      "could",
-      "bring",
-      "new",
-      "developments",
-      "netanyahu",
-      "signals",
-      "escalation",
-      "iran",
-      "conflict",
-      "stance",
-      "article",
-      "13893489.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://sana.sy/en/syria/2311450/",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "syria",
-      "2311450"
+      "2026",
+      "officials",
+      "injured",
+      "including",
+      "university",
+      "iowa",
+      "students",
+      "shooting",
+      "ped",
+      "mall",
+      "near",
+      "university"
     ]
   }
 }
