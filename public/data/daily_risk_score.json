@@ -1,62 +1,62 @@
 {
   "IRN": {
-    "risk_score": 6.8,
-    "count": 7,
-    "top_news": "https://www.dailystar.co.uk/news/us-news/breaking-trump-says-no-more-37038599",
+    "risk_score": 6.27,
+    "count": 8,
+    "top_news": "https://www.ncregister.com/news/presidents-vs-popes-historical-look-back",
     "event_codes": {
-      "19": 5,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "news",
-      "breaking",
-      "trump",
-      "says",
-      "more",
-      "37038599"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.8,
-    "count": 15,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israel-guns-down-gazan-day-after-killing-2-unicef-contractors",
-    "event_codes": {
-      "19": 11,
-      "14": 3,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "israel",
-      "guns",
-      "down",
-      "gazan",
-      "day",
-      "after",
-      "killing",
-      "unicef",
-      "contractors"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://www.hurriyetdailynews.com/israeli-army-establishes-yellow-line-in-lebanon-221216",
-    "event_codes": {
-      "19": 3,
+      "19": 4,
+      "17": 2,
+      "14": 1,
       "15": 1
     },
     "keywords": [
-      "israeli",
-      "army",
-      "establishes",
-      "yellow",
-      "line",
-      "lebanon",
-      "221216"
+      "news",
+      "presidents",
+      "popes",
+      "historical",
+      "look",
+      "back"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/attacks-jewish-community-gathering-momentum-37038412",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "attacks",
+      "jewish",
+      "community",
+      "gathering",
+      "momentum",
+      "37038412"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://pmnewsnigeria.com/2026/04/19/ndlea-busts-cocaine-hidden-in-food-flasks-bound-for-uk-at-lagos-airport/",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "ndlea",
+      "busts",
+      "cocaine",
+      "hidden",
+      "food",
+      "flasks",
+      "bound",
+      "for",
+      "lagos",
+      "airport"
     ]
   }
 }
