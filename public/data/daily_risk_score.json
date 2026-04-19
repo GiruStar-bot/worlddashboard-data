@@ -1,55 +1,67 @@
 {
   "IRN": {
-    "risk_score": 11.22,
-    "count": 13,
-    "top_news": "https://www.dailymail.co.uk/news/article-15746881/donald-trump-iran-war-blockade-cargo-ship.html",
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.mirror.co.uk/news/world-news/iran-war-live-navy-intercepts-37039806",
     "event_codes": {
-      "17": 6,
-      "16": 4,
-      "19": 3
+      "19": 8
     },
     "keywords": [
       "news",
-      "article",
-      "15746881",
-      "donald",
-      "trump",
+      "world",
+      "news",
       "iran",
       "war",
-      "blockade",
-      "cargo",
-      "ship.html"
+      "live",
+      "navy",
+      "intercepts",
+      "37039806"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4375594",
+    "risk_score": 4.16,
+    "count": 6,
+    "top_news": "https://www.kpbs.org/news/politics/2026/04/19/u-s-seizes-iranian-cargo-ship-in-strait-of-hormuz-trump-says",
     "event_codes": {
-      "19": 2
+      "15": 2,
+      "16": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "tag",
-      "index"
+      "news",
+      "politics",
+      "2026",
+      "seizes",
+      "iranian",
+      "cargo",
+      "ship",
+      "strait",
+      "hormuz",
+      "trump",
+      "says"
     ]
   },
-  "NGA": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://www.nigerianeye.com/2026/04/revealed-how-agf-cleared-saraki-of.html",
+  "LBN": {
+    "risk_score": 3.28,
+    "count": 4,
+    "top_news": "https://athens-times.com/beirut-lebanese-pm-to-macron-amid-fears-israels-security-zone-may-become-permanent/",
     "event_codes": {
-      "17": 5,
-      "19": 3,
-      "18": 2
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "revealed",
-      "how",
-      "agf",
-      "cleared",
-      "saraki",
-      "of.html"
+      "beirut",
+      "lebanese",
+      "macron",
+      "amid",
+      "fears",
+      "israels",
+      "security",
+      "zone",
+      "may",
+      "become",
+      "permanent"
     ]
   }
 }
