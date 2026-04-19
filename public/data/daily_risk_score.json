@@ -1,18 +1,56 @@
 {
   "IRN": {
-    "risk_score": 9.58,
-    "count": 12,
-    "top_news": "https://yourdemocracy.net/drupal/node/59488",
+    "risk_score": 11.83,
+    "count": 13,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-ship-capture-says-us-operation-failed",
     "event_codes": {
+      "19": 8,
       "17": 4,
-      "19": 4,
-      "15": 2,
-      "16": 2
+      "15": 1
     },
     "keywords": [
-      "drupal",
-      "node",
-      "59488"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "iran",
+      "denies",
+      "ship",
+      "capture",
+      "says",
+      "operation",
+      "failed"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.68,
+    "count": 8,
+    "top_news": "https://www.wsws.org/en/articles/2026/04/19/gtyo-a19.html",
+    "event_codes": {
+      "17": 4,
+      "19": 4
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "gtyo",
+      "a19.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.wsws.org/en/articles/2026/04/19/gtyo-a19.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "gtyo",
+      "a19.html"
     ]
   }
 }
