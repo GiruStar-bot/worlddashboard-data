@@ -1,47 +1,106 @@
 {
   "IRN": {
-    "risk_score": 4.82,
-    "count": 6,
-    "top_news": "https://www.theherald.co.za/news/world/2026-04-19-zelensky-chides-us-decision-to-renew-waiver-on-russian-oil/",
+    "risk_score": 7.2,
+    "count": 11,
+    "top_news": "https://yalibnan.com/2026/04/19/179554/",
     "event_codes": {
-      "16": 2,
+      "16": 6,
+      "17": 2,
       "19": 2,
-      "15": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "world",
       "2026",
-      "zelensky",
-      "chides",
-      "decision",
-      "renew",
-      "waiver",
-      "russian",
-      "oil"
+      "179554"
     ]
   },
-  "MMR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.kwqc.com:443/2026/04/19/officials-5-injured-including-3-university-iowa-students-shooting-ped-mall-near-university/",
+  "ISR": {
+    "risk_score": 5.42,
+    "count": 6,
+    "top_news": "https://nypost.com/2026/04/19/world-news/hamas-terrorists-bribe-slain-colleagues-desperate-widows-young-moms-for-sex-residents/",
     "event_codes": {
-      "19": 3
+      "18": 5,
+      "15": 1
     },
     "keywords": [
       "2026",
-      "officials",
-      "injured",
-      "including",
+      "world",
+      "news",
+      "hamas",
+      "terrorists",
+      "bribe",
+      "slain",
+      "colleagues",
+      "desperate",
+      "widows",
+      "young",
+      "moms",
+      "for",
+      "sex",
+      "residents"
+    ]
+  },
+  "MMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nypost.com/2026/04/19/us-news/5-victims-confirmed-in-university-of-iowa-mass-shooting-as-cops-picture-persons-of-interest/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "victims",
+      "confirmed",
       "university",
       "iowa",
-      "students",
+      "mass",
       "shooting",
-      "ped",
-      "mall",
-      "near",
-      "university"
+      "cops",
+      "picture",
+      "persons",
+      "interest"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://thesun.ng/benue-alia-reads-riot-act-following-rescue-of-abducted-jamb-candidates/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "benue",
+      "alia",
+      "reads",
+      "riot",
+      "act",
+      "following",
+      "rescue",
+      "abducted",
+      "jamb",
+      "candidates"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.straitstimes.com/asia/east-asia/china-deploys-warship-for-combat-drills-in-western-pacific",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "east",
+      "asia",
+      "china",
+      "deploys",
+      "warship",
+      "for",
+      "combat",
+      "drills",
+      "western",
+      "pacific"
     ]
   }
 }
