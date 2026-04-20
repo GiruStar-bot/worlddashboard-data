@@ -1,80 +1,118 @@
 {
-  "IRN": {
-    "risk_score": 12.9,
-    "count": 15,
-    "top_news": "https://torontosun.com/news/world/iran-war-updates-april-20",
+  "BFA": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.miragenews.com/burkina-faso-cracks-down-on-civil-society-1658428/",
     "event_codes": {
-      "19": 10,
-      "17": 4,
-      "18": 1
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "burkina",
+      "faso",
+      "cracks",
+      "down",
+      "civil",
+      "society",
+      "1658428"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.12,
+    "count": 9,
+    "top_news": "https://www.fox4news.com/news/iran-latest-april-20",
+    "event_codes": {
+      "19": 7,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
       "news",
-      "world",
       "iran",
-      "war",
-      "updates",
+      "latest",
       "april"
     ]
   },
   "ISR": {
-    "risk_score": 12.4,
-    "count": 17,
-    "top_news": "https://www.naturalnews.com/2026-04-20-israeli-strikes-lebanon-continue-despite-ceasefire-declaration.html",
+    "risk_score": 27.55,
+    "count": 28,
+    "top_news": "https://honestreporting.com/the-rocky-israel-lebanon-relationship-what-makes-the-talks-today-historic/",
     "event_codes": {
-      "17": 8,
-      "19": 8,
-      "16": 1
+      "19": 26,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
+      "the",
+      "rocky",
+      "israel",
       "lebanon",
-      "continue",
-      "despite",
-      "ceasefire",
-      "declaration.html"
+      "relationship",
+      "what",
+      "makes",
+      "the",
+      "talks",
+      "today",
+      "historic"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://euobserver.com/212166/israel-responsible-for-deadliest-era-for-journalists-since-1992/",
+    "risk_score": 5.16,
+    "count": 6,
+    "top_news": "https://honestreporting.com/the-rocky-israel-lebanon-relationship-what-makes-the-talks-today-historic/",
     "event_codes": {
-      "19": 5
+      "15": 3,
+      "19": 3
     },
     "keywords": [
-      "212166",
+      "the",
+      "rocky",
       "israel",
-      "responsible",
-      "for",
-      "deadliest",
-      "era",
-      "for",
-      "journalists",
-      "since",
-      "1992"
+      "lebanon",
+      "relationship",
+      "what",
+      "makes",
+      "the",
+      "talks",
+      "today",
+      "historic"
     ]
   },
-  "YEM": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://euobserver.com/212166/israel-responsible-for-deadliest-era-for-journalists-since-1992/",
+  "NGA": {
+    "risk_score": 12.0,
+    "count": 17,
+    "top_news": "https://thesun.ng/kaduna-easter-day-attack-kidnappers-demand-n1-billion-ransom/",
     "event_codes": {
-      "19": 6
+      "18": 8,
+      "17": 7,
+      "14": 2
     },
     "keywords": [
-      "212166",
-      "israel",
-      "responsible",
-      "for",
-      "deadliest",
-      "era",
-      "for",
-      "journalists",
-      "since",
-      "1992"
+      "kaduna",
+      "easter",
+      "day",
+      "attack",
+      "kidnappers",
+      "demand",
+      "billion",
+      "ransom"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dailycaller.com/2026/04/20/idf-destroys-crucifix-lebanon-benjamin-netanyahu/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "idf",
+      "destroys",
+      "crucifix",
+      "lebanon",
+      "benjamin",
+      "netanyahu"
     ]
   }
 }
