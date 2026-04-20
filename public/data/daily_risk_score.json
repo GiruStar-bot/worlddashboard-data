@@ -1,91 +1,112 @@
 {
-  "COL": {
+  "BRA": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/20/drone-attack-kills-3-colombian-soldiers-as-rebel-groups-develop-new-lethal-capabilities",
+    "count": 3,
+    "top_news": "https://www.digitaljournal.com/world/gun-battle-traps-more-than-200-tourists-at-rio-viewpoint/article",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 3
     },
     "keywords": [
       "world",
-      "2026",
-      "drone",
-      "attack",
-      "kills",
+      "gun",
+      "battle",
+      "traps",
+      "more",
+      "than",
+      "200",
+      "tourists",
+      "rio",
+      "viewpoint",
+      "article"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.digitaljournal.com/business/colombian-environmental-activist-honored-amid-threats-and-exile/article",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "business",
       "colombian",
-      "soldiers",
-      "rebel",
-      "groups",
-      "develop",
-      "new",
-      "lethal",
-      "capabilities"
+      "environmental",
+      "activist",
+      "honored",
+      "amid",
+      "threats",
+      "and",
+      "exile",
+      "article"
     ]
   },
   "IRN": {
-    "risk_score": 16.81,
-    "count": 24,
-    "top_news": "https://www.thetimes.com/uk/crime/article/jewish-attacks-state-backed-groups-terrorists-9d2kkfzwv",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.indiablooms.com/world/lots-of-bombs-if-talks-fail-trumps-warning-as-iran-ceasefire-nears-end/details",
     "event_codes": {
-      "17": 10,
-      "19": 9,
-      "16": 3,
-      "14": 2
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "crime",
-      "article",
-      "jewish",
-      "attacks",
-      "state",
-      "backed",
-      "groups",
-      "terrorists",
-      "9d2kkfzwv"
+      "world",
+      "lots",
+      "bombs",
+      "talks",
+      "fail",
+      "trumps",
+      "warning",
+      "iran",
+      "ceasefire",
+      "nears",
+      "end",
+      "details"
     ]
   },
   "ISR": {
-    "risk_score": 8.64,
+    "risk_score": 9.75,
     "count": 10,
-    "top_news": "https://www.abccolumbia.com/2026/04/20/trump-offers-mixed-messages-about-path-ahead-for-us-war-against-iran/",
+    "top_news": "https://www.merimbulanewsweekly.com.au/story/9229182/hamas-clashes-with-israeli-backed-militia-in-gaza-strip/",
     "event_codes": {
-      "17": 6,
-      "16": 2,
+      "19": 7,
+      "18": 2,
+      "20": 1
+    },
+    "keywords": [
+      "story",
+      "9229182",
+      "hamas",
+      "clashes",
+      "with",
+      "israeli",
+      "backed",
+      "militia",
+      "gaza",
+      "strip"
+    ]
+  },
+  "MMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theblaze.com/news/5-wounded-including-3-students-in-shooting-near-university-of-iowa-police-release-photos-of-persons-of-interest",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "trump",
-      "offers",
-      "mixed",
-      "messages",
-      "about",
-      "path",
-      "ahead",
-      "for",
-      "war",
-      "against",
-      "iran"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.9,
-    "count": 14,
-    "top_news": "https://www.nigerianeye.com/2026/04/thugs-attack-strip-owo-lg-chairman-at.html",
-    "event_codes": {
-      "18": 6,
-      "16": 5,
-      "17": 3
-    },
-    "keywords": [
-      "2026",
-      "thugs",
-      "attack",
-      "strip",
-      "owo",
-      "chairman",
-      "at.html"
+      "news",
+      "wounded",
+      "including",
+      "students",
+      "shooting",
+      "near",
+      "university",
+      "iowa",
+      "police",
+      "release",
+      "photos",
+      "persons",
+      "interest"
     ]
   }
 }
