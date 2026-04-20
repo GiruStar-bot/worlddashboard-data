@@ -1,112 +1,77 @@
 {
-  "BRA": {
+  "IRN": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://news.antiwar.com/2026/04/20/us-boat-strike-kills-three-in-the-caribbean/",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "boat",
+      "strike",
+      "kills",
+      "three",
+      "the",
+      "caribbean"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://finance-commerce.com/2026/04/global-economy-war-geopolitical-shocks-energy-prices/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "global",
+      "economy",
+      "war",
+      "geopolitical",
+      "shocks",
+      "energy",
+      "prices"
+    ]
+  },
+  "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.digitaljournal.com/world/gun-battle-traps-more-than-200-tourists-at-rio-viewpoint/article",
+    "top_news": "https://www.aljazeera.com/news/2026/4/20/outcry-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "world",
-      "gun",
-      "battle",
-      "traps",
-      "more",
-      "than",
-      "200",
-      "tourists",
-      "rio",
-      "viewpoint",
-      "article"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.digitaljournal.com/business/colombian-environmental-activist-honored-amid-threats-and-exile/article",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "business",
-      "colombian",
-      "environmental",
-      "activist",
-      "honored",
-      "amid",
-      "threats",
-      "and",
-      "exile",
-      "article"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.indiablooms.com/world/lots-of-bombs-if-talks-fail-trumps-warning-as-iran-ceasefire-nears-end/details",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "lots",
-      "bombs",
-      "talks",
-      "fail",
-      "trumps",
-      "warning",
-      "iran",
-      "ceasefire",
-      "nears",
-      "end",
-      "details"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.75,
-    "count": 10,
-    "top_news": "https://www.merimbulanewsweekly.com.au/story/9229182/hamas-clashes-with-israeli-backed-militia-in-gaza-strip/",
-    "event_codes": {
-      "19": 7,
-      "18": 2,
-      "20": 1
-    },
-    "keywords": [
-      "story",
-      "9229182",
-      "hamas",
-      "clashes",
-      "with",
-      "israeli",
-      "backed",
-      "militia",
-      "gaza",
-      "strip"
-    ]
-  },
-  "MMR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theblaze.com/news/5-wounded-including-3-students-in-shooting-near-university-of-iowa-police-release-photos-of-persons-of-interest",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
       "news",
-      "wounded",
-      "including",
-      "students",
-      "shooting",
-      "near",
-      "university",
-      "iowa",
-      "police",
-      "release",
-      "photos",
-      "persons",
-      "interest"
+      "2026",
+      "outcry",
+      "grows",
+      "over",
+      "israeli",
+      "soldier",
+      "smashing",
+      "jesus",
+      "statue",
+      "lebanon"
+    ]
+  },
+  "SOM": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://news.antiwar.com/2026/04/20/us-boat-strike-kills-three-in-the-caribbean/",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "boat",
+      "strike",
+      "kills",
+      "three",
+      "the",
+      "caribbean"
     ]
   }
 }
