@@ -1,77 +1,152 @@
 {
-  "IRN": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://news.antiwar.com/2026/04/20/us-boat-strike-kills-three-in-the-caribbean/",
+  "CMR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.cameroon-concord.com/society/soldiers-accused-of-sexually-abusing-schoolgirls-in-northwest-cameroon",
     "event_codes": {
-      "19": 4,
-      "15": 1
+      "17": 4
+    },
+    "keywords": [
+      "society",
+      "soldiers",
+      "accused",
+      "sexually",
+      "abusing",
+      "schoolgirls",
+      "northwest",
+      "cameroon"
+    ]
+  },
+  "IRN": {
+    "risk_score": 25.9,
+    "count": 32,
+    "top_news": "https://www.algemeiner.com/2026/04/20/israel-exposes-iranian-terror-network-irgc-linked-cells-expand-attacks-europe/",
+    "event_codes": {
+      "19": 14,
+      "16": 9,
+      "18": 5,
+      "17": 4
     },
     "keywords": [
       "2026",
-      "boat",
-      "strike",
-      "kills",
-      "three",
-      "the",
-      "caribbean"
+      "israel",
+      "exposes",
+      "iranian",
+      "terror",
+      "network",
+      "irgc",
+      "linked",
+      "cells",
+      "expand",
+      "attacks",
+      "europe"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://finance-commerce.com/2026/04/global-economy-war-geopolitical-shocks-energy-prices/",
+    "risk_score": 18.79,
+    "count": 22,
+    "top_news": "https://www.algemeiner.com/2026/04/20/michigan-democrats-nominate-lawyer-who-praised-hezbollah-for-top-university-post/",
     "event_codes": {
-      "19": 5
+      "19": 15,
+      "17": 5,
+      "15": 2
     },
     "keywords": [
       "2026",
-      "global",
-      "economy",
-      "war",
-      "geopolitical",
-      "shocks",
-      "energy",
-      "prices"
+      "michigan",
+      "democrats",
+      "nominate",
+      "lawyer",
+      "who",
+      "praised",
+      "hezbollah",
+      "for",
+      "top",
+      "university",
+      "post"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/4/20/outcry-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://punchng.com/cds-orders-sustained-offensive-against-bandits-in-nwest/",
     "event_codes": {
-      "19": 3
+      "19": 2
+    },
+    "keywords": [
+      "cds",
+      "orders",
+      "sustained",
+      "offensive",
+      "against",
+      "bandits",
+      "nwest"
+    ]
+  },
+  "PER": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.cbs58.com/news/businesses-begin-claiming-refunds-for-trump-tariffs-struck-down-by-us-supreme-court",
+    "event_codes": {
+      "17": 4,
+      "19": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "outcry",
-      "grows",
-      "over",
-      "israeli",
-      "soldier",
-      "smashing",
-      "jesus",
-      "statue",
-      "lebanon"
+      "businesses",
+      "begin",
+      "claiming",
+      "refunds",
+      "for",
+      "trump",
+      "tariffs",
+      "struck",
+      "down",
+      "supreme",
+      "court"
     ]
   },
-  "SOM": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://news.antiwar.com/2026/04/20/us-boat-strike-kills-three-in-the-caribbean/",
+  "TUR": {
+    "risk_score": 3.94,
+    "count": 5,
+    "top_news": "https://www.algemeiner.com/2026/04/20/israel-exposes-iranian-terror-network-irgc-linked-cells-expand-attacks-europe/",
     "event_codes": {
-      "19": 6,
+      "15": 2,
+      "19": 2,
       "17": 1
     },
     "keywords": [
       "2026",
-      "boat",
-      "strike",
-      "kills",
-      "three",
-      "the",
-      "caribbean"
+      "israel",
+      "exposes",
+      "iranian",
+      "terror",
+      "network",
+      "irgc",
+      "linked",
+      "cells",
+      "expand",
+      "attacks",
+      "europe"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.bournemouthecho.co.uk/news/26010184.45-firefighters-tackle-thatched-roof-blaze-north-dorset/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "26010184.45",
+      "firefighters",
+      "tackle",
+      "thatched",
+      "roof",
+      "blaze",
+      "north",
+      "dorset"
     ]
   }
 }
