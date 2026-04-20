@@ -1,66 +1,67 @@
 {
-  "COL": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://colombiareports.com/colombia-discovered-plot-to-assassinate-frontrunner-in-election-race-govt/",
+    "top_news": "https://www.pakistantoday.com.pk/2026/04/20/irans-pezeshkian-criticises-non-constructive-contradictory-signals-from-washington",
     "event_codes": {
-      "18": 3
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "colombia",
-      "discovered",
-      "plot",
-      "assassinate",
-      "frontrunner",
-      "election",
-      "race",
-      "govt"
+      "2026",
+      "irans",
+      "pezeshkian",
+      "criticises",
+      "non",
+      "constructive",
+      "contradictory",
+      "signals",
+      "from",
+      "washington"
     ]
   },
-  "IRN": {
-    "risk_score": 4.15,
-    "count": 6,
-    "top_news": "https://article.wn.com/view/2026/04/20/if_iran_won_8217t_deal_trump_must_make_the_cost_of_refusal_u/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thenational.scot/news/26036983.lobbying-reform-scotland-ahead-holyrood-breakthrough/",
     "event_codes": {
-      "16": 2,
-      "17": 2,
       "19": 2
     },
     "keywords": [
-      "view",
-      "2026",
-      "iran",
-      "won",
-      "8217t",
-      "deal",
-      "trump",
-      "must",
-      "make",
-      "the",
-      "cost",
-      "refusal"
+      "news",
+      "26036983.lobbying",
+      "reform",
+      "scotland",
+      "ahead",
+      "holyrood",
+      "breakthrough"
     ]
   },
   "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.al-monitor.com/originals/2026/04/erdogan-promises-tighter-gun-controls-after-deadly-turkey-school-attacks",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.heraldpalladium.com/news/national/erdogan-vows-new-measures-after-deadly-turkey-school-shootings/article_c8548036-fa61-556c-9b9d-ab964aa06bf5.html",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "originals",
-      "2026",
+      "news",
+      "national",
       "erdogan",
-      "promises",
-      "tighter",
-      "gun",
-      "controls",
+      "vows",
+      "new",
+      "measures",
       "after",
       "deadly",
       "turkey",
       "school",
-      "attacks"
+      "shootings",
+      "article",
+      "c8548036",
+      "fa61",
+      "556c",
+      "9b9d",
+      "ab964aa06bf5.html"
     ]
   }
 }
