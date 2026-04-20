@@ -1,67 +1,94 @@
 {
   "IRN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.pakistantoday.com.pk/2026/04/20/irans-pezeshkian-criticises-non-constructive-contradictory-signals-from-washington",
+    "risk_score": 4.95,
+    "count": 6,
+    "top_news": "https://www.alternet.org/send/trump-war-2676788574/",
     "event_codes": {
+      "17": 2,
       "18": 2,
-      "19": 1
+      "19": 2
+    },
+    "keywords": [
+      "send",
+      "trump",
+      "war",
+      "2676788574"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "https://consortiumnews.com/2026/04/20/dnc-winners-ethnic-cleansing-genocide/",
+    "event_codes": {
+      "19": 4,
+      "14": 1,
+      "20": 1
     },
     "keywords": [
       "2026",
-      "irans",
-      "pezeshkian",
-      "criticises",
-      "non",
-      "constructive",
-      "contradictory",
-      "signals",
-      "from",
-      "washington"
+      "dnc",
+      "winners",
+      "ethnic",
+      "cleansing",
+      "genocide"
     ]
   },
-  "LBN": {
+  "KHM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thenational.scot/news/26036983.lobbying-reform-scotland-ahead-holyrood-breakthrough/",
+    "top_news": "https://www.odt.co.nz/opinion/letters-editor-dunedin-candidate-pharmacies-gulf-crisis",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "26036983.lobbying",
-      "reform",
-      "scotland",
-      "ahead",
-      "holyrood",
-      "breakthrough"
+      "opinion",
+      "letters",
+      "editor",
+      "dunedin",
+      "candidate",
+      "pharmacies",
+      "gulf",
+      "crisis"
     ]
   },
-  "TUR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.heraldpalladium.com/news/national/erdogan-vows-new-measures-after-deadly-turkey-school-shootings/article_c8548036-fa61-556c-9b9d-ab964aa06bf5.html",
+  "LAO": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.odt.co.nz/opinion/letters-editor-dunedin-candidate-pharmacies-gulf-crisis",
     "event_codes": {
-      "19": 4
+      "17": 3,
+      "19": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "erdogan",
-      "vows",
-      "new",
-      "measures",
-      "after",
-      "deadly",
-      "turkey",
-      "school",
-      "shootings",
-      "article",
-      "c8548036",
-      "fa61",
-      "556c",
-      "9b9d",
-      "ab964aa06bf5.html"
+      "opinion",
+      "letters",
+      "editor",
+      "dunedin",
+      "candidate",
+      "pharmacies",
+      "gulf",
+      "crisis"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.74,
+    "count": 5,
+    "top_news": "https://tribuneonlineng.com/how-to-protect-your-nigerian-business-from-2026-phishing-scams/",
+    "event_codes": {
+      "14": 2,
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "how",
+      "protect",
+      "your",
+      "nigerian",
+      "business",
+      "from",
+      "2026",
+      "phishing",
+      "scams"
     ]
   }
 }
