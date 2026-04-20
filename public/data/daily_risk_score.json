@@ -1,65 +1,114 @@
 {
-  "IRN": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.bworldonline.com/world/2026/04/20/744146/world-weighs-fate-of-mideast-ceasefire-after-us-seizes-iranian-cargo-ship/",
+  "ARG": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://ejpress.org/milei-arrives-in-israel-amid-war-with-iran/",
     "event_codes": {
-      "19": 6,
+      "17": 4,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "milei",
+      "arrives",
+      "israel",
+      "amid",
+      "war",
+      "with",
+      "iran"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.52,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/4/20/iraqs-ruling-shia-bloc-races-to-choose-pm-as-us-iran-watch",
+    "event_codes": {
+      "19": 3,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "world",
+      "news",
       "2026",
-      "744146",
-      "world",
-      "weighs",
-      "fate",
-      "mideast",
-      "ceasefire",
-      "after",
-      "seizes",
-      "iranian",
-      "cargo",
-      "ship"
+      "iraqs",
+      "ruling",
+      "shia",
+      "bloc",
+      "races",
+      "choose",
+      "iran",
+      "watch"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.9,
+    "count": 10,
+    "top_news": "https://ejpress.org/milei-arrives-in-israel-amid-war-with-iran/",
+    "event_codes": {
+      "18": 6,
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "milei",
+      "arrives",
+      "israel",
+      "amid",
+      "war",
+      "with",
+      "iran"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.the-star.co.ke/news/2026-04-20-south-c-residents-storm-lands-office-protest-inaction-over-building-collapse",
+    "event_codes": {
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "south",
+      "residents",
+      "storm",
+      "lands",
+      "office",
+      "protest",
+      "inaction",
+      "over",
+      "building",
+      "collapse"
     ]
   },
   "NGA": {
-    "risk_score": 5.5,
+    "risk_score": 6.0,
     "count": 7,
-    "top_news": "https://dailytrust.com/monarchs-abduction-police-arrest-42-illegal-miners-in-kwara/",
+    "top_news": "https://allafrica.com/stories/202604200664.html",
     "event_codes": {
       "18": 5,
-      "17": 2
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "monarchs",
-      "abduction",
-      "police",
-      "arrest",
-      "illegal",
-      "miners",
-      "kwara"
+      "stories",
+      "202604200664.html"
     ]
   },
-  "ZWE": {
-    "risk_score": 5.07,
-    "count": 6,
-    "top_news": "https://www.newsday.co.zw/opinion-analysis/article/200054186/are-we-not-tired-of-improvising-life",
+  "VEN": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/4/20/spain-venezuela-opposition",
     "event_codes": {
-      "19": 4,
-      "15": 1,
-      "17": 1
+      "18": 4
     },
     "keywords": [
-      "opinion",
-      "analysis",
-      "article",
-      "200054186",
-      "are",
-      "not",
-      "tired",
-      "improvising",
-      "life"
+      "news",
+      "2026",
+      "spain",
+      "venezuela",
+      "opposition"
     ]
   }
 }
