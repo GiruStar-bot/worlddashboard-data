@@ -1,24 +1,114 @@
 {
   "IRN": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://www.mediaite.com/politics/drudge-report-jabs-trump-with-scathing-jimmy-carter-comparison/",
+    "risk_score": 11.46,
+    "count": 16,
+    "top_news": "https://www.whro.org/2026-04-21/trump-extends-u-s-ceasefire-with-iran-at-pakistans-request",
     "event_codes": {
-      "19": 4,
-      "16": 1,
+      "16": 7,
+      "17": 4,
+      "19": 3,
+      "15": 1,
       "18": 1
     },
     "keywords": [
-      "politics",
-      "drudge",
-      "report",
-      "jabs",
+      "2026",
       "trump",
+      "extends",
+      "ceasefire",
       "with",
-      "scathing",
-      "jimmy",
-      "carter",
-      "comparison"
+      "iran",
+      "pakistans",
+      "request"
+    ]
+  },
+  "ISR": {
+    "risk_score": 35.82,
+    "count": 42,
+    "top_news": "https://theshillongtimes.com/2026/04/22/two-palestinians-killed-by-israeli-settler/",
+    "event_codes": {
+      "19": 22,
+      "17": 10,
+      "18": 9,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "two",
+      "palestinians",
+      "killed",
+      "israeli",
+      "settler"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wpbf.com/article/florida-jordan-scales-ohio-man-found-murdered-in-florida-woods/71088083",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "florida",
+      "jordan",
+      "scales",
+      "ohio",
+      "man",
+      "found",
+      "murdered",
+      "florida",
+      "woods",
+      "71088083"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.22,
+    "count": 7,
+    "top_news": "https://www.whro.org/2026-04-21/trump-extends-u-s-ceasefire-with-iran-at-pakistans-request",
+    "event_codes": {
+      "19": 5,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "extends",
+      "ceasefire",
+      "with",
+      "iran",
+      "pakistans",
+      "request"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1392300",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "details",
+      "1392300"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.cbsnews.com/news/parents-sheridan-gorman-call-for-accountability/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "parents",
+      "sheridan",
+      "gorman",
+      "call",
+      "for",
+      "accountability"
     ]
   }
 }
