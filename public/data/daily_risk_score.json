@@ -1,85 +1,57 @@
 {
+  "IRN": {
+    "risk_score": 10.3,
+    "count": 11,
+    "top_news": "https://www.scmp.com/news/china/diplomacy/article/3350870/china-and-philippines-taking-baby-steps-towards-better-relations-manilas-ambassador",
+    "event_codes": {
+      "19": 9,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "china",
+      "diplomacy",
+      "article",
+      "3350870",
+      "china",
+      "and",
+      "philippines",
+      "taking",
+      "baby",
+      "steps",
+      "towards",
+      "better",
+      "relations",
+      "manilas",
+      "ambassador"
+    ]
+  },
   "ISR": {
-    "risk_score": 6.95,
-    "count": 8,
-    "top_news": "https://www.camera.org/article/what-did-audiences-learn-from-two-bbc-trips-to-metula/",
+    "risk_score": 5.55,
+    "count": 7,
+    "top_news": "https://www.wusa9.com/article/news/crime/fairfax-county-high-school-student-sentenced-for-assaults/65-31e83d8d-57fb-4671-866d-12931bbfbb32",
     "event_codes": {
-      "19": 6,
-      "17": 2
+      "14": 3,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
       "article",
-      "what",
-      "did",
-      "audiences",
-      "learn",
-      "from",
-      "two",
-      "bbc",
-      "trips",
-      "metula"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://www.the-star.co.ke/news/2026-04-21-150-kenyan-cops-return-from-haiti",
-    "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
       "news",
-      "2026",
-      "150",
-      "kenyan",
-      "cops",
-      "return",
-      "from",
-      "haiti"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.92,
-    "count": 5,
-    "top_news": "https://www.thegazette.com/news/world/photos-show-funerals-in-lebanon-for-hezbollah-fighters-civilians-killed-before-ceasefire/article_a81d9550-a53d-5c81-bf06-2b1c20b869c5.html",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "photos",
-      "show",
-      "funerals",
-      "lebanon",
+      "crime",
+      "fairfax",
+      "county",
+      "high",
+      "school",
+      "student",
+      "sentenced",
       "for",
-      "hezbollah",
-      "fighters",
-      "civilians",
-      "killed",
-      "before",
-      "ceasefire",
-      "article",
-      "a81d9550",
-      "a53d",
-      "5c81",
-      "bf06",
-      "2b1c20b869c5.html"
-    ]
-  },
-  "NER": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://blueprint.ng/tag/abductors/",
-    "event_codes": {
-      "18": 3,
-      "14": 2
-    },
-    "keywords": [
-      "tag",
-      "abductors"
+      "assaults",
+      "31e83d8d",
+      "57fb",
+      "4671",
+      "866d",
+      "12931bbfbb32"
     ]
   }
 }
