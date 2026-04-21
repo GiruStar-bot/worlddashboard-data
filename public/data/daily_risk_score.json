@@ -1,81 +1,136 @@
 {
-  "IRN": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/features/5264802-driven-pressures-war-iran-gives-its-field-commanders-more-power-over-factions-iraq",
+  "BHR": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.gdnonline.com:443/Details/1392219",
     "event_codes": {
-      "16": 4
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "features",
-      "5264802",
-      "driven",
-      "pressures",
-      "war",
-      "iran",
-      "gives",
-      "its",
-      "field",
-      "commanders",
-      "more",
-      "power",
-      "over",
-      "factions",
-      "iraq"
+      "details",
+      "1392219"
+    ]
+  },
+  "EGY": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://collider.com/forgotten-fantasy-movies-amazing/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "forgotten",
+      "fantasy",
+      "movies",
+      "amazing"
+    ]
+  },
+  "IRN": {
+    "risk_score": 23.54,
+    "count": 24,
+    "top_news": "http://www.strategypage.com/htmw/htada/articles/2026042142420.aspx",
+    "event_codes": {
+      "19": 20,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "htmw",
+      "htada",
+      "articles",
+      "2026042142420.aspx"
     ]
   },
   "ISR": {
-    "risk_score": 8.2,
-    "count": 9,
-    "top_news": "https://www.jpost.com/israel-news/article-893713",
+    "risk_score": 34.87,
+    "count": 36,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-bury-fighters-killed-war-israel",
     "event_codes": {
-      "19": 7,
-      "16": 1,
-      "17": 1
+      "19": 26,
+      "18": 5,
+      "20": 3,
+      "17": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "article",
-      "893713"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "hezbollah",
+      "bury",
+      "fighters",
+      "killed",
+      "war",
+      "israel"
     ]
   },
   "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/arab-world/5264786-un-security-council-condemns-killing-french-peacekeeper-lebanon",
+    "risk_score": 15.19,
+    "count": 16,
+    "top_news": "https://english.news.cn/20260421/68dda28e4c9d4c209030cfc399cc317e/c.html",
     "event_codes": {
-      "19": 4
+      "19": 13,
+      "17": 3
     },
     "keywords": [
-      "arab",
-      "world",
-      "5264786",
-      "security",
-      "council",
-      "condemns",
-      "killing",
-      "french",
-      "peacekeeper",
-      "lebanon"
+      "20260421",
+      "68dda28e4c9d4c209030cfc399cc317e",
+      "c.html"
     ]
   },
   "NGA": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.maravipost.com/nigerian-ecologist-leads-fight-against-wildfires-in-africa/",
+    "risk_score": 20.25,
+    "count": 23,
+    "top_news": "https://www.channelstv.com/2026/04/21/police-launch-manhunt-as-gunmen-kill-driver-abduct-passengers-on-lagos-benin-road/",
     "event_codes": {
-      "18": 3,
-      "19": 1
+      "19": 14,
+      "17": 4,
+      "18": 4,
+      "14": 1
     },
     "keywords": [
-      "nigerian",
-      "ecologist",
-      "leads",
-      "fight",
-      "against",
-      "wildfires",
-      "africa"
+      "2026",
+      "police",
+      "launch",
+      "manhunt",
+      "gunmen",
+      "kill",
+      "driver",
+      "abduct",
+      "passengers",
+      "lagos",
+      "benin",
+      "road"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.ynetnews.com/article/b111f00nepbl",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "article",
+      "b111f00nepbl"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/explainers/history-israel-invasions-lebanon",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "explainers",
+      "history",
+      "israel",
+      "invasions",
+      "lebanon"
     ]
   }
 }
