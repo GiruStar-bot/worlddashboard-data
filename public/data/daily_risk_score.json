@@ -1,120 +1,85 @@
 {
-  "IRN": {
-    "risk_score": 7.4,
+  "ISR": {
+    "risk_score": 6.95,
     "count": 8,
-    "top_news": "https://www.themirror.com/news/world-news/oil-spills-iran-war-satellite-1800814",
+    "top_news": "https://www.camera.org/article/what-did-audiences-learn-from-two-bbc-trips-to-metula/",
     "event_codes": {
       "19": 6,
-      "17": 1,
-      "18": 1
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "what",
+      "did",
+      "audiences",
+      "learn",
+      "from",
+      "two",
+      "bbc",
+      "trips",
+      "metula"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.the-star.co.ke/news/2026-04-21-150-kenyan-cops-return-from-haiti",
+    "event_codes": {
+      "19": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "world",
-      "news",
-      "oil",
-      "spills",
-      "iran",
-      "war",
-      "satellite",
-      "1800814"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-leader-warns-war-likely-continue-beyond-ceasefire",
-    "event_codes": {
-      "14": 2,
-      "16": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "houthi",
-      "leader",
-      "warns",
-      "war",
-      "likely",
-      "continue",
-      "beyond",
-      "ceasefire"
-    ]
-  },
-  "KWT": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.themirror.com/news/world-news/oil-spills-iran-war-satellite-1800814",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "world",
-      "news",
-      "oil",
-      "spills",
-      "iran",
-      "war",
-      "satellite",
-      "1800814"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://horseedmedia.net/china-ramps-up-military-support-for-somalia/420927/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "china",
-      "ramps",
-      "military",
-      "support",
-      "for",
-      "somalia",
-      "420927"
-    ]
-  },
-  "SSD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.africanews.com/2026/04/21/south-sudan-to-hold-elections-in-december-as-fighting-rages-on/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
       "2026",
-      "south",
-      "sudan",
-      "hold",
-      "elections",
-      "december",
-      "fighting",
-      "rages"
+      "150",
+      "kenyan",
+      "cops",
+      "return",
+      "from",
+      "haiti"
     ]
   },
-  "TWN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://horseedmedia.net/china-ramps-up-military-support-for-somalia/420927/",
+  "LBN": {
+    "risk_score": 4.92,
+    "count": 5,
+    "top_news": "https://www.thegazette.com/news/world/photos-show-funerals-in-lebanon-for-hezbollah-fighters-civilians-killed-before-ceasefire/article_a81d9550-a53d-5c81-bf06-2b1c20b869c5.html",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "china",
-      "ramps",
-      "military",
-      "support",
+      "news",
+      "world",
+      "photos",
+      "show",
+      "funerals",
+      "lebanon",
       "for",
-      "somalia",
-      "420927"
+      "hezbollah",
+      "fighters",
+      "civilians",
+      "killed",
+      "before",
+      "ceasefire",
+      "article",
+      "a81d9550",
+      "a53d",
+      "5c81",
+      "bf06",
+      "2b1c20b869c5.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://blueprint.ng/tag/abductors/",
+    "event_codes": {
+      "18": 3,
+      "14": 2
+    },
+    "keywords": [
+      "tag",
+      "abductors"
     ]
   }
 }
