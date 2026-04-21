@@ -1,48 +1,110 @@
 {
   "IRN": {
-    "risk_score": 4.3,
-    "count": 6,
-    "top_news": "https://www.lbc.co.uk/article/iran-stalls-us-peace-talks-ceasefire-deadline-5HjdY4n_2/",
+    "risk_score": 11.64,
+    "count": 15,
+    "top_news": "https://www.namibian.com.na/iranian-woman-arrested-in-us-for-allegedly-trafficking-arms-to-sudan/",
     "event_codes": {
-      "16": 2,
-      "17": 2,
-      "19": 2
+      "15": 5,
+      "17": 4,
+      "19": 3,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "iran",
-      "stalls",
-      "peace",
-      "talks",
-      "ceasefire",
-      "deadline",
-      "5hjdy4n"
+      "iranian",
+      "woman",
+      "arrested",
+      "for",
+      "allegedly",
+      "trafficking",
+      "arms",
+      "sudan"
     ]
   },
   "ISR": {
-    "risk_score": 2.82,
-    "count": 4,
-    "top_news": "https://www.asianews.it/news-en/Yisca-Harani-urges-help-for-the-Maronite-villages-after-the-desecration-of-Christ-in-Debel-65279.html",
+    "risk_score": 4.84,
+    "count": 5,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-iran-ceasefire-peace-talks-strait-of-hormuz-blockade-pakistan-b2961550.html",
     "event_codes": {
-      "16": 2,
+      "19": 3,
       "17": 2
     },
     "keywords": [
       "news",
-      "yisca",
-      "harani",
-      "urges",
-      "help",
-      "for",
+      "world",
+      "middle",
+      "east",
+      "trump",
+      "iran",
+      "ceasefire",
+      "peace",
+      "talks",
+      "strait",
+      "hormuz",
+      "blockade",
+      "pakistan",
+      "b2961550.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.5,
+    "count": 9,
+    "top_news": "https://www.opinionnigeria.com/many-terrorists-three-soldiers-killed-in-fierce-kwara-clash-as-attacks-hit-plateau-benue/",
+    "event_codes": {
+      "17": 5,
+      "19": 4
+    },
+    "keywords": [
+      "many",
+      "terrorists",
+      "three",
+      "soldiers",
+      "killed",
+      "fierce",
+      "kwara",
+      "clash",
+      "attacks",
+      "hit",
+      "plateau",
+      "benue"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.scoop.co.nz/stories/HL2604/S00061/divide-and-prosper-the-evil-genius-of-the-uae.htm",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "stories",
+      "hl2604",
+      "s00061",
+      "divide",
+      "and",
+      "prosper",
       "the",
-      "maronite",
-      "villages",
-      "after",
+      "evil",
+      "genius",
       "the",
-      "desecration",
-      "christ",
-      "debel",
-      "65279.html"
+      "uae.htm"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.counterpunch.org/2026/04/21/u-s-imperialism-enters-a-new-stage/",
+    "event_codes": {
+      "19": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "imperialism",
+      "enters",
+      "new",
+      "stage"
     ]
   }
 }
