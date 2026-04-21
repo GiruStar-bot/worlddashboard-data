@@ -1,105 +1,133 @@
 {
-  "ARG": {
-    "risk_score": 3.92,
-    "count": 5,
-    "top_news": "https://www.breitbart.com/latin-america/2026/04/21/venezuela-extradites-suspect-in-hezbollah-1994-airplane-bombing-to-panama/",
+  "IRN": {
+    "risk_score": 10.75,
+    "count": 13,
+    "top_news": "https://www.hellenicshippingnews.com/strait-of-hormuz-traffic-falls-off-sharply-as-ceasefire-wobbles/",
     "event_codes": {
+      "16": 4,
+      "19": 4,
       "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "strait",
+      "hormuz",
+      "traffic",
+      "falls",
+      "off",
+      "sharply",
+      "ceasefire",
+      "wobbles"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theconversation.com/why-the-us-military-is-stuck-using-1-million-missiles-against-irans-20-000-drones-281089",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "latin",
-      "america",
-      "2026",
-      "venezuela",
-      "extradites",
-      "suspect",
-      "hezbollah",
-      "1994",
-      "airplane",
-      "bombing",
-      "panama"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.95,
-    "count": 12,
-    "top_news": "https://www.breitbart.com/latin-america/2026/04/21/venezuela-extradites-suspect-in-hezbollah-1994-airplane-bombing-to-panama/",
-    "event_codes": {
-      "17": 5,
-      "16": 3,
-      "19": 2,
-      "15": 1,
-      "20": 1
-    },
-    "keywords": [
-      "latin",
-      "america",
-      "2026",
-      "venezuela",
-      "extradites",
-      "suspect",
-      "hezbollah",
-      "1994",
-      "airplane",
-      "bombing",
-      "panama"
+      "why",
+      "the",
+      "military",
+      "stuck",
+      "using",
+      "million",
+      "missiles",
+      "against",
+      "irans",
+      "000",
+      "drones",
+      "281089"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
+    "risk_score": 20.07,
+    "count": 21,
+    "top_news": "https://www.middleeastmonitor.com/20260421-2-children-among-4-palestinians-killed-in-attacks-by-israeli-army-occupiers-in-west-bank/",
+    "event_codes": {
+      "19": 17,
+      "17": 2,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "20260421",
+      "children",
+      "among",
+      "palestinians",
+      "killed",
+      "attacks",
+      "israeli",
+      "army",
+      "occupiers",
+      "west",
+      "bank"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.9,
     "count": 4,
-    "top_news": "https://www.breitbart.com/latin-america/2026/04/21/venezuela-extradites-suspect-in-hezbollah-1994-airplane-bombing-to-panama/",
+    "top_news": "https://www.middleeastmonitor.com/20260421-israeli-army-claims-hezbollah-targeted-its-positions-in-southern-lebanon/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "latin",
-      "america",
-      "2026",
-      "venezuela",
-      "extradites",
-      "suspect",
+      "20260421",
+      "israeli",
+      "army",
+      "claims",
       "hezbollah",
-      "1994",
-      "airplane",
-      "bombing",
-      "panama"
+      "targeted",
+      "its",
+      "positions",
+      "southern",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 12.3,
-    "count": 15,
-    "top_news": "https://pmnewsnigeria.com/2026/04/21/fg-fights-back-reveals-major-military-victories-across-nigerias-troubled-regions/",
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/04/21/tib-demands-medical-attention-compensation-bauchi-police-brutalise-member-praying-cell",
     "event_codes": {
-      "19": 8,
-      "17": 5,
-      "18": 2
+      "17": 3,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "fights",
-      "back",
-      "reveals",
-      "major",
-      "military",
-      "victories",
-      "across",
-      "nigerias",
-      "troubled",
-      "regions"
+      "tib",
+      "demands",
+      "medical",
+      "attention",
+      "compensation",
+      "bauchi",
+      "police",
+      "brutalise",
+      "member",
+      "praying",
+      "cell"
     ]
   },
   "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://insurancenewsnet.com/oarticle/briefly-5",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.middleeastmonitor.com/20260421-2-children-among-4-palestinians-killed-in-attacks-by-israeli-army-occupiers-in-west-bank/",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "oarticle",
-      "briefly"
+      "20260421",
+      "children",
+      "among",
+      "palestinians",
+      "killed",
+      "attacks",
+      "israeli",
+      "army",
+      "occupiers",
+      "west",
+      "bank"
     ]
   }
 }
