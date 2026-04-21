@@ -1,67 +1,85 @@
 {
+  "IDN": {
+    "risk_score": 5.62,
+    "count": 6,
+    "top_news": "https://en.antaranews.com/news/413175/dpd-urges-government-to-draft-roadmap-to-end-papua-conflict",
+    "event_codes": {
+      "19": 3,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "413175",
+      "dpd",
+      "urges",
+      "government",
+      "draft",
+      "roadmap",
+      "end",
+      "papua",
+      "conflict"
+    ]
+  },
   "IRN": {
-    "risk_score": 4.85,
+    "risk_score": 4.15,
+    "count": 7,
+    "top_news": "http://www.jpost.com/opinion/article-893593",
+    "event_codes": {
+      "17": 5,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "893593"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.4,
+    "count": 9,
+    "top_news": "http://www.jpost.com/opinion/article-893753",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "893753"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.8,
     "count": 5,
-    "top_news": "https://twitchy.com/samj/2026/04/21/chris-murphy-now-openly-cheering-for-the-terrorist-regime-over-america-n2427332",
+    "top_news": "https://www.spacewar.com/afp/260421153527.ngidvj48.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "samj",
-      "2026",
-      "chris",
-      "murphy",
-      "now",
-      "openly",
-      "cheering",
-      "for",
-      "the",
-      "terrorist",
-      "regime",
-      "over",
-      "america",
-      "n2427332"
+      "afp",
+      "260421153527.ngidvj48.html"
     ]
   },
-  "ISR": {
-    "risk_score": 14.59,
-    "count": 15,
-    "top_news": "https://www.agri-pulse.com/articles/24540-washington-week-ahead-rollins-greer-head-to-the-hill-as-screwworm-and-iran-talks-loom",
+  "VNM": {
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://www.nhregister.com/living/article/earth-day-started-as-a-us-teach-in-56-years-22218118.php",
     "event_codes": {
-      "19": 10,
-      "17": 2,
-      "18": 2,
-      "20": 1
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "articles",
-      "24540",
-      "washington",
-      "week",
-      "ahead",
-      "rollins",
-      "greer",
-      "head",
-      "the",
-      "hill",
-      "screwworm",
-      "and",
-      "iran",
-      "talks",
-      "loom"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.3,
-    "count": 9,
-    "top_news": "https://www.el-balad.com/16919931",
-    "event_codes": {
-      "17": 6,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "16919931"
+      "living",
+      "article",
+      "earth",
+      "day",
+      "started",
+      "teach",
+      "years",
+      "22218118.php"
     ]
   }
 }
