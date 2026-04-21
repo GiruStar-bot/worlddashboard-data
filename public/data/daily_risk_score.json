@@ -1,133 +1,120 @@
 {
   "IRN": {
-    "risk_score": 10.75,
-    "count": 13,
-    "top_news": "https://www.hellenicshippingnews.com/strait-of-hormuz-traffic-falls-off-sharply-as-ceasefire-wobbles/",
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://www.themirror.com/news/world-news/oil-spills-iran-war-satellite-1800814",
     "event_codes": {
-      "16": 4,
-      "19": 4,
-      "17": 3,
-      "18": 2
+      "19": 6,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "strait",
-      "hormuz",
-      "traffic",
-      "falls",
-      "off",
-      "sharply",
-      "ceasefire",
-      "wobbles"
+      "news",
+      "world",
+      "news",
+      "oil",
+      "spills",
+      "iran",
+      "war",
+      "satellite",
+      "1800814"
     ]
   },
-  "IRQ": {
+  "ISR": {
+    "risk_score": 3.6,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-leader-warns-war-likely-continue-beyond-ceasefire",
+    "event_codes": {
+      "14": 2,
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "houthi",
+      "leader",
+      "warns",
+      "war",
+      "likely",
+      "continue",
+      "beyond",
+      "ceasefire"
+    ]
+  },
+  "KWT": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.themirror.com/news/world-news/oil-spills-iran-war-satellite-1800814",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "oil",
+      "spills",
+      "iran",
+      "war",
+      "satellite",
+      "1800814"
+    ]
+  },
+  "SOM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://theconversation.com/why-the-us-military-is-stuck-using-1-million-missiles-against-irans-20-000-drones-281089",
+    "top_news": "https://horseedmedia.net/china-ramps-up-military-support-for-somalia/420927/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "why",
-      "the",
+      "china",
+      "ramps",
       "military",
-      "stuck",
-      "using",
-      "million",
-      "missiles",
-      "against",
-      "irans",
-      "000",
-      "drones",
-      "281089"
+      "support",
+      "for",
+      "somalia",
+      "420927"
     ]
   },
-  "ISR": {
-    "risk_score": 20.07,
-    "count": 21,
-    "top_news": "https://www.middleeastmonitor.com/20260421-2-children-among-4-palestinians-killed-in-attacks-by-israeli-army-occupiers-in-west-bank/",
+  "SSD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.africanews.com/2026/04/21/south-sudan-to-hold-elections-in-december-as-fighting-rages-on/",
     "event_codes": {
-      "19": 17,
-      "17": 2,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "20260421",
-      "children",
-      "among",
-      "palestinians",
-      "killed",
-      "attacks",
-      "israeli",
-      "army",
-      "occupiers",
-      "west",
-      "bank"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.middleeastmonitor.com/20260421-israeli-army-claims-hezbollah-targeted-its-positions-in-southern-lebanon/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "20260421",
-      "israeli",
-      "army",
-      "claims",
-      "hezbollah",
-      "targeted",
-      "its",
-      "positions",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://saharareporters.com/2026/04/21/tib-demands-medical-attention-compensation-bauchi-police-brutalise-member-praying-cell",
-    "event_codes": {
-      "17": 3,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "tib",
-      "demands",
-      "medical",
-      "attention",
-      "compensation",
-      "bauchi",
-      "police",
-      "brutalise",
-      "member",
-      "praying",
-      "cell"
+      "south",
+      "sudan",
+      "hold",
+      "elections",
+      "december",
+      "fighting",
+      "rages"
     ]
   },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.middleeastmonitor.com/20260421-2-children-among-4-palestinians-killed-in-attacks-by-israeli-army-occupiers-in-west-bank/",
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://horseedmedia.net/china-ramps-up-military-support-for-somalia/420927/",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "20260421",
-      "children",
-      "among",
-      "palestinians",
-      "killed",
-      "attacks",
-      "israeli",
-      "army",
-      "occupiers",
-      "west",
-      "bank"
+      "china",
+      "ramps",
+      "military",
+      "support",
+      "for",
+      "somalia",
+      "420927"
     ]
   }
 }
