@@ -1,89 +1,137 @@
 {
   "IRN": {
-    "risk_score": 8.66,
-    "count": 9,
-    "top_news": "https://www.gatestoneinstitute.org/22461/iran-regime-change-peace",
+    "risk_score": 6.5,
+    "count": 8,
+    "top_news": "https://news.az/news/x-accused-of-targeting-iranian-anti-war-accounts",
     "event_codes": {
-      "19": 6,
-      "17": 3
+      "19": 4,
+      "14": 1,
+      "16": 1,
+      "17": 1,
+      "20": 1
     },
     "keywords": [
-      "22461",
-      "iran",
-      "regime",
-      "change",
-      "peace"
+      "news",
+      "accused",
+      "targeting",
+      "iranian",
+      "anti",
+      "war",
+      "accounts"
     ]
   },
   "ISR": {
-    "risk_score": 12.76,
-    "count": 14,
-    "top_news": "https://torontosun.com/news/world/iran-war-updates-april-21",
+    "risk_score": 35.25,
+    "count": 36,
+    "top_news": "https://www.israelnationalnews.com/news/425867",
     "event_codes": {
-      "19": 8,
-      "16": 3,
-      "15": 2,
-      "17": 1
+      "19": 30,
+      "18": 5,
+      "14": 1
     },
     "keywords": [
       "news",
-      "world",
-      "iran",
-      "war",
-      "updates",
-      "april"
+      "425867"
+    ]
+  },
+  "KEN": {
+    "risk_score": 8.7,
+    "count": 11,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/04/court-told-key-phone-evidence-in-starlet-wahu-murder-case-was-wiped/",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "court",
+      "told",
+      "key",
+      "phone",
+      "evidence",
+      "starlet",
+      "wahu",
+      "murder",
+      "case",
+      "was",
+      "wiped"
+    ]
+  },
+  "KHM": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.akp.gov.kh/post/detail/368265",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "post",
+      "detail",
+      "368265"
     ]
   },
   "LBN": {
-    "risk_score": 5.92,
+    "risk_score": 5.3,
     "count": 6,
-    "top_news": "https://www.spacewar.com/afp/260421120950.kv9dmp2a.html",
+    "top_news": "https://www.antiwar.com/blog/2026/04/21/the-idfs-attack-on-christ-reveals-a-larger-pattern/",
     "event_codes": {
-      "19": 5,
+      "18": 3,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "afp",
-      "260421120950.kv9dmp2a.html"
+      "blog",
+      "2026",
+      "the",
+      "idfs",
+      "attack",
+      "christ",
+      "reveals",
+      "larger",
+      "pattern"
     ]
   },
   "NGA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.opinionnigeria.com/2027-nigerias-politicians-and-the-dangerous-echo-of-macbeths-three-witches-by-isaac-asabor/",
+    "risk_score": 10.3,
+    "count": 15,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/873569-court-adjourns-chinese-nationals-illegal-mining-trial-for-final-arguments.html",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 8,
+      "18": 7
     },
     "keywords": [
-      "2027",
-      "nigerias",
-      "politicians",
-      "and",
-      "the",
-      "dangerous",
-      "echo",
-      "macbeths",
-      "three",
-      "witches",
-      "isaac",
-      "asabor"
+      "news",
+      "top",
+      "news",
+      "873569",
+      "court",
+      "adjourns",
+      "chinese",
+      "nationals",
+      "illegal",
+      "mining",
+      "trial",
+      "for",
+      "final",
+      "arguments.html"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-893674",
+  "TCD": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.kuzz.com/2026/04/21/yee-drops-out-of-governors-race/",
     "event_codes": {
-      "19": 2
+      "18": 3
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "893674"
+      "2026",
+      "yee",
+      "drops",
+      "out",
+      "governors",
+      "race"
     ]
   }
 }
