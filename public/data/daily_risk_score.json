@@ -1,69 +1,95 @@
 {
-  "CHL": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://nacla.org/a-political-turn-in-honduras-endangers-maya-chorti-culture/",
-    "event_codes": {
-      "17": 4,
-      "19": 1
-    },
-    "keywords": [
-      "political",
-      "turn",
-      "honduras",
-      "endangers",
-      "maya",
-      "chorti",
-      "culture"
-    ]
-  },
   "IRN": {
-    "risk_score": 10.4,
-    "count": 12,
-    "top_news": "https://www.ynetnews.com/article/bymjbvlazx",
+    "risk_score": 13.25,
+    "count": 15,
+    "top_news": "http://www.jpost.com/israel-news/article-893859",
     "event_codes": {
-      "19": 8,
-      "16": 3,
-      "17": 1
+      "19": 9,
+      "17": 2,
+      "18": 2,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
+      "israel",
+      "news",
       "article",
-      "bymjbvlazx"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.sott.net/article/505870-Iran-US-The-strategic-limbo-breakdown",
-    "event_codes": {
-      "16": 3
-    },
-    "keywords": [
-      "article",
-      "505870",
-      "iran",
-      "the",
-      "strategic",
-      "limbo",
-      "breakdown"
+      "893859"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/israel-destroying-lebanon-water-infrastructure-160051502.html",
+    "risk_score": 8.75,
+    "count": 10,
+    "top_news": "http://www.jpost.com/international/article-893860",
     "event_codes": {
-      "19": 3
+      "19": 8,
+      "17": 2
+    },
+    "keywords": [
+      "international",
+      "article",
+      "893860"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.87,
+    "count": 5,
+    "top_news": "https://www.thejournal.ie/second-french-peacekeeper-dies-after-ambush-blamed-on-hezbollah-7020635-Apr2026/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "second",
+      "french",
+      "peacekeeper",
+      "dies",
+      "after",
+      "ambush",
+      "blamed",
+      "hezbollah",
+      "7020635",
+      "apr2026"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.marketscreener.com/news/suspected-boko-haram-militants-kill-20-in-northeast-nigeria-attacks-ce7f59d8d089f520",
+    "event_codes": {
+      "19": 5
     },
     "keywords": [
       "news",
-      "articles",
-      "israel",
-      "destroying",
-      "lebanon",
-      "water",
-      "infrastructure",
-      "160051502.html"
+      "suspected",
+      "boko",
+      "haram",
+      "militants",
+      "kill",
+      "northeast",
+      "nigeria",
+      "attacks",
+      "ce7f59d8d089f520"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.7,
+    "count": 7,
+    "top_news": "https://www.dutchnews.nl/2026/04/prosecutors-want-30-years-for-syrian-man-accused-of-torture/",
+    "event_codes": {
+      "17": 4,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "prosecutors",
+      "want",
+      "years",
+      "for",
+      "syrian",
+      "man",
+      "accused",
+      "torture"
     ]
   }
 }
