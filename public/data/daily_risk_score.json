@@ -1,95 +1,86 @@
 {
-  "IRN": {
-    "risk_score": 13.25,
-    "count": 15,
-    "top_news": "http://www.jpost.com/israel-news/article-893859",
+  "COL": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/suspect-in-slaying-of-colombian-presidential-hopeful-arrested-in-argentina/",
     "event_codes": {
-      "19": 9,
       "17": 2,
-      "18": 2,
-      "14": 1,
-      "16": 1
+      "19": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "article",
-      "893859"
+      "suspect",
+      "slaying",
+      "colombian",
+      "presidential",
+      "hopeful",
+      "arrested",
+      "argentina"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.59,
+    "count": 21,
+    "top_news": "https://www.thedailybeast.com/trump-plots-revenge-on-nato-allies-who-snubbed-him-with-secret-naughty-list/",
+    "event_codes": {
+      "19": 7,
+      "17": 4,
+      "14": 3,
+      "18": 3,
+      "15": 2,
+      "16": 2
+    },
+    "keywords": [
+      "trump",
+      "plots",
+      "revenge",
+      "nato",
+      "allies",
+      "who",
+      "snubbed",
+      "him",
+      "with",
+      "secret",
+      "naughty",
+      "list"
     ]
   },
   "ISR": {
-    "risk_score": 8.75,
-    "count": 10,
-    "top_news": "http://www.jpost.com/international/article-893860",
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://dominicanrepublicpost.com/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded/",
     "event_codes": {
-      "19": 8,
-      "17": 2
+      "17": 2,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "international",
-      "article",
-      "893860"
+      "least",
+      "four",
+      "killed",
+      "israeli",
+      "strikes",
+      "lebanon",
+      "journalists",
+      "wounded"
     ]
   },
   "LBN": {
-    "risk_score": 3.87,
-    "count": 5,
-    "top_news": "https://www.thejournal.ie/second-french-peacekeeper-dies-after-ambush-blamed-on-hezbollah-7020635-Apr2026/",
+    "risk_score": 10.0,
+    "count": 11,
+    "top_news": "https://dominicanrepublicpost.com/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded/",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "19": 8,
+      "16": 3
     },
     "keywords": [
-      "second",
-      "french",
-      "peacekeeper",
-      "dies",
-      "after",
-      "ambush",
-      "blamed",
-      "hezbollah",
-      "7020635",
-      "apr2026"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.marketscreener.com/news/suspected-boko-haram-militants-kill-20-in-northeast-nigeria-attacks-ce7f59d8d089f520",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "suspected",
-      "boko",
-      "haram",
-      "militants",
-      "kill",
-      "northeast",
-      "nigeria",
-      "attacks",
-      "ce7f59d8d089f520"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.7,
-    "count": 7,
-    "top_news": "https://www.dutchnews.nl/2026/04/prosecutors-want-30-years-for-syrian-man-accused-of-torture/",
-    "event_codes": {
-      "17": 4,
-      "18": 3
-    },
-    "keywords": [
-      "2026",
-      "prosecutors",
-      "want",
-      "years",
-      "for",
-      "syrian",
-      "man",
-      "accused",
-      "torture"
+      "least",
+      "four",
+      "killed",
+      "israeli",
+      "strikes",
+      "lebanon",
+      "journalists",
+      "wounded"
     ]
   }
 }
