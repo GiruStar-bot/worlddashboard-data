@@ -1,55 +1,156 @@
 {
-  "IRN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.wyomingnewsnow.tv/news/national/trump-extends-ceasefire-says-giving-iran-time-to-negotiate/article_ae79dcf6-6c8c-5234-a3b1-1e03e76c2e8e.html",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 5,
+    "top_news": "https://www.traveldailymedia.com/singapore-airlines-sees-record-passenger-growth-in-march-2026/",
     "event_codes": {
-      "19": 2,
-      "16": 1,
-      "20": 1
+      "16": 5
+    },
+    "keywords": [
+      "singapore",
+      "airlines",
+      "sees",
+      "record",
+      "passenger",
+      "growth",
+      "march",
+      "2026"
+    ]
+  },
+  "BOL": {
+    "risk_score": 2.7,
+    "count": 5,
+    "top_news": "https://www.thetimes.com/world/europe/article/trump-bromance-lukashenko-putin-tr325cbx6",
+    "event_codes": {
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "europe",
+      "article",
+      "trump",
+      "bromance",
+      "lukashenko",
+      "putin",
+      "tr325cbx6"
+    ]
+  },
+  "IRN": {
+    "risk_score": 14.15,
+    "count": 15,
+    "top_news": "https://www.readingchronicle.co.uk/news/national/26041921.iran-fires-container-ship-strait-hormuz/",
+    "event_codes": {
+      "19": 11,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
       "news",
       "national",
-      "trump",
-      "extends",
-      "ceasefire",
-      "says",
-      "giving",
-      "iran",
-      "time",
-      "negotiate",
-      "article",
-      "ae79dcf6",
-      "6c8c",
-      "5234",
-      "a3b1",
-      "1e03e76c2e8e.html"
+      "26041921.iran",
+      "fires",
+      "container",
+      "ship",
+      "strait",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://pjmedia.com/catherinesalgado/2026/04/21/illegal-alien-gets-only-180-days-for-9-assault-and-battery-counts-n4952044",
+    "risk_score": 16.66,
+    "count": 18,
+    "top_news": "https://www.pakistantoday.com.pk/2026/04/22/hezbollah-says-it-fired-rockets-and-drones-at-northern-israel",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 14,
+      "15": 3,
+      "17": 1
     },
     "keywords": [
-      "catherinesalgado",
       "2026",
-      "illegal",
-      "alien",
-      "gets",
-      "only",
-      "180",
-      "days",
-      "for",
-      "assault",
+      "hezbollah",
+      "says",
+      "fired",
+      "rockets",
       "and",
-      "battery",
-      "counts",
-      "n4952044"
+      "drones",
+      "northern",
+      "israel"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.pakistantoday.com.pk/2026/04/22/hezbollah-says-it-fired-rockets-and-drones-at-northern-israel",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "hezbollah",
+      "says",
+      "fired",
+      "rockets",
+      "and",
+      "drones",
+      "northern",
+      "israel"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dunyanews.tv/en/World/947276-israeli-settler-gunfire-kills-two-including-teen-palestinian-authorit",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "947276",
+      "israeli",
+      "settler",
+      "gunfire",
+      "kills",
+      "two",
+      "including",
+      "teen",
+      "palestinian",
+      "authorit"
+    ]
+  },
+  "SDN": {
+    "risk_score": 13.05,
+    "count": 15,
+    "top_news": "https://wibailoutpeople.org/2026/04/21/sudan-war-continues-after-three-years/",
+    "event_codes": {
+      "19": 12,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "sudan",
+      "war",
+      "continues",
+      "after",
+      "three",
+      "years"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/22/2003856054",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "taiwan",
+      "archives",
+      "2026",
+      "2003856054"
     ]
   }
 }
