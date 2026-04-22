@@ -1,49 +1,69 @@
 {
-  "IRN": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://dominicanrepublicpost.com/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb/",
+  "CHL": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://nacla.org/a-political-turn-in-honduras-endangers-maya-chorti-culture/",
     "event_codes": {
-      "19": 4,
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "17": 4,
+      "19": 1
     },
     "keywords": [
-      "what",
-      "uranium",
-      "enrichment",
-      "and",
-      "how",
-      "quickly",
-      "could",
+      "political",
+      "turn",
+      "honduras",
+      "endangers",
+      "maya",
+      "chorti",
+      "culture"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.4,
+    "count": 12,
+    "top_news": "https://www.ynetnews.com/article/bymjbvlazx",
+    "event_codes": {
+      "19": 8,
+      "16": 3,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "bymjbvlazx"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.sott.net/article/505870-Iran-US-The-strategic-limbo-breakdown",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "article",
+      "505870",
       "iran",
-      "build",
-      "nuclear",
-      "bomb"
+      "the",
+      "strategic",
+      "limbo",
+      "breakdown"
     ]
   },
   "ISR": {
-    "risk_score": 2.64,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.dailygazette.com/lpn/ade/congress-s-to-do-list-as-it-returns-to-washington/article_939a3c19-31f0-4c4d-9c3c-bfff24ac65a5.html",
+    "top_news": "https://www.yahoo.com/news/articles/israel-destroying-lebanon-water-infrastructure-160051502.html",
     "event_codes": {
-      "17": 2,
-      "16": 1
+      "19": 3
     },
     "keywords": [
-      "lpn",
-      "ade",
-      "congress",
-      "list",
-      "returns",
-      "washington",
-      "article",
-      "939a3c19",
-      "31f0",
-      "4c4d",
-      "9c3c",
-      "bfff24ac65a5.html"
+      "news",
+      "articles",
+      "israel",
+      "destroying",
+      "lebanon",
+      "water",
+      "infrastructure",
+      "160051502.html"
     ]
   }
 }
