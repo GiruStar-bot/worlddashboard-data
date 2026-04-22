@@ -1,65 +1,126 @@
 {
   "IRN": {
-    "risk_score": 12.92,
-    "count": 14,
-    "top_news": "https://www.nbcconnecticut.com/news/national-international/live-updates-iran-war-us-israel-april-22/3728137/",
+    "risk_score": 16.55,
+    "count": 19,
+    "top_news": "https://athens-times.com/third-container-ship-attacked-in-strait-of-hormuz-greek-linked-vessel-hit-off-oman/",
     "event_codes": {
-      "19": 10,
-      "16": 2,
-      "14": 1,
-      "17": 1
+      "19": 13,
+      "16": 6
     },
     "keywords": [
-      "news",
-      "national",
-      "international",
-      "live",
-      "updates",
-      "iran",
-      "war",
-      "israel",
-      "april",
-      "3728137"
+      "third",
+      "container",
+      "ship",
+      "attacked",
+      "strait",
+      "hormuz",
+      "greek",
+      "linked",
+      "vessel",
+      "hit",
+      "off",
+      "oman"
     ]
   },
   "ISR": {
-    "risk_score": 8.94,
-    "count": 10,
-    "top_news": "https://edition.cnn.com/2026/04/22/middleeast/west-bank-settler-attack-school-intl",
+    "risk_score": 24.54,
+    "count": 27,
+    "top_news": "https://english.wafa.ps/Pages/Details/169729",
     "event_codes": {
-      "18": 3,
-      "19": 3,
+      "19": 17,
       "14": 2,
-      "17": 2
+      "15": 2,
+      "17": 2,
+      "18": 2,
+      "20": 2
     },
     "keywords": [
-      "2026",
-      "middleeast",
-      "west",
-      "bank",
-      "settler",
-      "attack",
-      "school",
-      "intl"
+      "pages",
+      "details",
+      "169729"
     ]
   },
   "PSE": {
-    "risk_score": 4.18,
-    "count": 5,
-    "top_news": "https://imemc.org/article/wednesday-dawn-invasion-violations-in-west-bank/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.africanews.com/2026/04/22/egypts-president-el-sissi-hosts-finnish-leader-stubb-for-talks-in-cairo/",
     "event_codes": {
-      "15": 2,
-      "17": 2,
-      "18": 1
+      "19": 4
     },
     "keywords": [
-      "article",
-      "wednesday",
-      "dawn",
-      "invasion",
-      "violations",
-      "west",
-      "bank"
+      "2026",
+      "egypts",
+      "president",
+      "sissi",
+      "hosts",
+      "finnish",
+      "leader",
+      "stubb",
+      "for",
+      "talks",
+      "cairo"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.97,
+    "count": 9,
+    "top_news": "https://www.africanews.com/2026/04/22/khartoum-slowly-comes-back-to-life-one-year-after-recapture-by-military/",
+    "event_codes": {
+      "19": 7,
+      "16": 2
+    },
+    "keywords": [
+      "2026",
+      "khartoum",
+      "slowly",
+      "comes",
+      "back",
+      "life",
+      "one",
+      "year",
+      "after",
+      "recapture",
+      "military"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.garoweonline.com/en/news/somalia/somalia-intelligence-raid-hits-al-shabaab-gathering-33-killed",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "somalia",
+      "somalia",
+      "intelligence",
+      "raid",
+      "hits",
+      "shabaab",
+      "gathering",
+      "killed"
+    ]
+  },
+  "URY": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.jns.org/news/antisemitism/lawmakers-from-15-latin-american-nations-unite-to-combat-antisemitism",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "antisemitism",
+      "lawmakers",
+      "from",
+      "latin",
+      "american",
+      "nations",
+      "unite",
+      "combat",
+      "antisemitism"
     ]
   }
 }
