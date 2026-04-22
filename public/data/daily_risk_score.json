@@ -1,47 +1,65 @@
 {
   "IRN": {
-    "risk_score": 8.7,
-    "count": 10,
-    "top_news": "https://www.deccanchronicle.com/west-asia/iranian-gunboat-targets-container-ship-off-oman-coast-1952022",
+    "risk_score": 12.92,
+    "count": 14,
+    "top_news": "https://www.nbcconnecticut.com/news/national-international/live-updates-iran-war-us-israel-april-22/3728137/",
     "event_codes": {
-      "19": 6,
-      "16": 4
+      "19": 10,
+      "16": 2,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "west",
-      "asia",
-      "iranian",
-      "gunboat",
-      "targets",
-      "container",
-      "ship",
-      "off",
-      "oman",
-      "coast",
-      "1952022"
+      "news",
+      "national",
+      "international",
+      "live",
+      "updates",
+      "iran",
+      "war",
+      "israel",
+      "april",
+      "3728137"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-israeli-drone-strike-lebanon-displacement-continues",
+    "risk_score": 8.94,
+    "count": 10,
+    "top_news": "https://edition.cnn.com/2026/04/22/middleeast/west-bank-settler-attack-school-intl",
     "event_codes": {
-      "19": 5
+      "18": 3,
+      "19": 3,
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "one",
-      "killed",
-      "israeli",
-      "drone",
-      "strike",
-      "lebanon",
-      "displacement",
-      "continues"
+      "2026",
+      "middleeast",
+      "west",
+      "bank",
+      "settler",
+      "attack",
+      "school",
+      "intl"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.18,
+    "count": 5,
+    "top_news": "https://imemc.org/article/wednesday-dawn-invasion-violations-in-west-bank/",
+    "event_codes": {
+      "15": 2,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "wednesday",
+      "dawn",
+      "invasion",
+      "violations",
+      "west",
+      "bank"
     ]
   }
 }
