@@ -1,90 +1,87 @@
 {
   "IRN": {
-    "risk_score": 6.7,
-    "count": 9,
-    "top_news": "https://signalscv.com/2026/04/iran-attacks-seizes-2-container-ships-after-trump-extends-ceasefire/",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/04/22/trump-claims-irans-regime-is-fractured-the-reality-is-more-complicated/",
     "event_codes": {
-      "17": 4,
-      "19": 4,
-      "16": 1
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
       "2026",
-      "iran",
-      "attacks",
-      "seizes",
-      "container",
-      "ships",
-      "after",
       "trump",
-      "extends",
-      "ceasefire"
+      "claims",
+      "irans",
+      "regime",
+      "fractured",
+      "the",
+      "reality",
+      "more",
+      "complicated"
     ]
   },
   "ISR": {
-    "risk_score": 10.05,
-    "count": 15,
-    "top_news": "https://www.theguardian.com/world/2026/apr/22/lebanon-accuses-israel-of-blocking-attempt-to-rescue-journalist-after-bomb-strike",
+    "risk_score": 23.7,
+    "count": 26,
+    "top_news": "https://english.wafa.ps/Pages/Details/169746",
     "event_codes": {
-      "17": 8,
-      "19": 5,
-      "14": 1,
-      "16": 1
+      "19": 17,
+      "18": 5,
+      "17": 4
     },
     "keywords": [
-      "world",
-      "2026",
-      "apr",
-      "lebanon",
-      "accuses",
-      "israel",
-      "blocking",
-      "attempt",
-      "rescue",
-      "journalist",
-      "after",
-      "bomb",
-      "strike"
+      "pages",
+      "details",
+      "169746"
     ]
   },
   "LBN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/israeli-airstrike-wounds-two-journalists-in-south-lebanon-employer-101776885832972.html",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/169741",
     "event_codes": {
-      "19": 4,
-      "16": 1
+      "19": 4
     },
     "keywords": [
-      "world",
-      "news",
-      "news",
-      "israeli",
-      "airstrike",
-      "wounds",
-      "two",
-      "journalists",
-      "south",
-      "lebanon",
-      "employer",
-      "101776885832972.html"
+      "pages",
+      "details",
+      "169741"
     ]
   },
-  "NGA": {
-    "risk_score": 10.4,
-    "count": 12,
-    "top_news": "https://www.nigerianeye.com/2026/04/terrorists-kill-20-in-borno-adamawa.html",
+  "PSE": {
+    "risk_score": 7.15,
+    "count": 8,
+    "top_news": "https://english.wafa.ps/Pages/Details/169745",
     "event_codes": {
-      "19": 9,
-      "17": 2,
-      "16": 1
+      "18": 3,
+      "19": 3,
+      "14": 2
     },
     "keywords": [
-      "2026",
-      "terrorists",
-      "kill",
-      "borno",
-      "adamawa.html"
+      "pages",
+      "details",
+      "169745"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://gamerant.com/nintendo-tariff-refund-lawsuit/",
+    "event_codes": {
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "nintendo",
+      "tariff",
+      "refund",
+      "lawsuit"
     ]
   }
 }
