@@ -1,126 +1,105 @@
 {
   "IRN": {
-    "risk_score": 16.55,
-    "count": 19,
-    "top_news": "https://athens-times.com/third-container-ship-attacked-in-strait-of-hormuz-greek-linked-vessel-hit-off-oman/",
+    "risk_score": 20.4,
+    "count": 26,
+    "top_news": "https://www.whec.com/ap-top-news/the-latest-uncertainty-shrouds-possible-us-iran-talks-after-trump-extends-ceasefire/",
     "event_codes": {
-      "19": 13,
-      "16": 6
+      "19": 11,
+      "17": 6,
+      "16": 5,
+      "18": 4
     },
     "keywords": [
-      "third",
-      "container",
-      "ship",
-      "attacked",
-      "strait",
-      "hormuz",
-      "greek",
-      "linked",
-      "vessel",
-      "hit",
-      "off",
-      "oman"
+      "top",
+      "news",
+      "the",
+      "latest",
+      "uncertainty",
+      "shrouds",
+      "possible",
+      "iran",
+      "talks",
+      "after",
+      "trump",
+      "extends",
+      "ceasefire"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.newsweek.com/has-the-us-become-the-bad-guy-opinion-11859874",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "has",
+      "the",
+      "become",
+      "the",
+      "bad",
+      "guy",
+      "opinion",
+      "11859874"
     ]
   },
   "ISR": {
-    "risk_score": 24.54,
-    "count": 27,
-    "top_news": "https://english.wafa.ps/Pages/Details/169729",
+    "risk_score": 31.32,
+    "count": 34,
+    "top_news": "https://www.arkansasonline.com/news/2026/apr/22/israeli-reservist-kills-2-palestinians/",
     "event_codes": {
-      "19": 17,
-      "14": 2,
-      "15": 2,
+      "19": 25,
+      "16": 3,
+      "18": 3,
       "17": 2,
-      "18": 2,
-      "20": 2
+      "15": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "169729"
+      "news",
+      "2026",
+      "apr",
+      "israeli",
+      "reservist",
+      "kills",
+      "palestinians"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.9,
+    "count": 11,
+    "top_news": "https://punchng.com/man-sentenced-to-life-imprisonment-for-raping-daughter-in-cross-river/",
+    "event_codes": {
+      "18": 6,
+      "17": 5
+    },
+    "keywords": [
+      "man",
+      "sentenced",
+      "life",
+      "imprisonment",
+      "for",
+      "raping",
+      "daughter",
+      "cross",
+      "river"
     ]
   },
   "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.africanews.com/2026/04/22/egypts-president-el-sissi-hosts-finnish-leader-stubb-for-talks-in-cairo/",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.arkansasonline.com/news/2026/apr/22/israeli-reservist-kills-2-palestinians/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "egypts",
-      "president",
-      "sissi",
-      "hosts",
-      "finnish",
-      "leader",
-      "stubb",
-      "for",
-      "talks",
-      "cairo"
-    ]
-  },
-  "SDN": {
-    "risk_score": 7.97,
-    "count": 9,
-    "top_news": "https://www.africanews.com/2026/04/22/khartoum-slowly-comes-back-to-life-one-year-after-recapture-by-military/",
-    "event_codes": {
-      "19": 7,
-      "16": 2
-    },
-    "keywords": [
-      "2026",
-      "khartoum",
-      "slowly",
-      "comes",
-      "back",
-      "life",
-      "one",
-      "year",
-      "after",
-      "recapture",
-      "military"
-    ]
-  },
-  "SOM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.garoweonline.com/en/news/somalia/somalia-intelligence-raid-hits-al-shabaab-gathering-33-killed",
-    "event_codes": {
-      "19": 4
+      "19": 8
     },
     "keywords": [
       "news",
-      "somalia",
-      "somalia",
-      "intelligence",
-      "raid",
-      "hits",
-      "shabaab",
-      "gathering",
-      "killed"
-    ]
-  },
-  "URY": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.jns.org/news/antisemitism/lawmakers-from-15-latin-american-nations-unite-to-combat-antisemitism",
-    "event_codes": {
-      "17": 3,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "antisemitism",
-      "lawmakers",
-      "from",
-      "latin",
-      "american",
-      "nations",
-      "unite",
-      "combat",
-      "antisemitism"
+      "2026",
+      "apr",
+      "israeli",
+      "reservist",
+      "kills",
+      "palestinians"
     ]
   }
 }
