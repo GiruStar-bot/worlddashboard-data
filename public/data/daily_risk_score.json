@@ -1,87 +1,195 @@
 {
-  "IRN": {
-    "risk_score": 11.6,
-    "count": 12,
-    "top_news": "https://www.smh.com.au/world/middle-east/trump-s-iran-deal-may-need-him-to-do-the-unthinkable-20260423-p5zqa1.html",
+  "BOL": {
+    "risk_score": 2.25,
+    "count": 3,
+    "top_news": "https://www.sb.by/en/state-border-committee-dead-moose-found-on-border-with-lithuania.html",
     "event_codes": {
-      "19": 8,
-      "18": 4
+      "14": 2,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "trump",
-      "iran",
-      "deal",
-      "may",
-      "need",
-      "him",
-      "the",
-      "unthinkable",
-      "20260423",
-      "p5zqa1.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://dailybruin.com/2026/04/22/ucla-student-government-accused-of-antisemitism-for-condemning-israeli-hostage-talk",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "ucla",
-      "student",
-      "government",
-      "accused",
-      "antisemitism",
-      "for",
-      "condemning",
-      "israeli",
-      "hostage",
-      "talk"
-    ]
-  },
-  "MOZ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.ewn.co.za/2026/04/23/kzn-police-confirm-death-of-suspect-linked-to-2023-murder-of-cross-border-crime-fighter",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "kzn",
-      "police",
-      "confirm",
-      "death",
-      "suspect",
-      "linked",
-      "2023",
-      "murder",
-      "cross",
+      "state",
       "border",
-      "crime",
-      "fighter"
+      "committee",
+      "dead",
+      "moose",
+      "found",
+      "border",
+      "with",
+      "lithuania.html"
     ]
   },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 7,
-    "top_news": "https://www.channelstv.com/2026/04/23/police-foil-kidnap-attempt-in-oyo/",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/04/23/kelantan-cops-bust-love-scam-syndicate-58-held",
     "event_codes": {
-      "17": 5,
       "19": 2
     },
     "keywords": [
+      "category",
+      "nation",
       "2026",
-      "police",
-      "foil",
-      "kidnap",
-      "attempt",
-      "oyo"
+      "kelantan",
+      "cops",
+      "bust",
+      "love",
+      "scam",
+      "syndicate",
+      "held"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.12,
+    "count": 9,
+    "top_news": "https://www.irishtimes.com/world/europe/2026/04/23/iran-behind-17-low-level-hybrid-warfare-attacks-in-and-europe-analysts-say/",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "europe",
+      "2026",
+      "iran",
+      "behind",
+      "low",
+      "level",
+      "hybrid",
+      "warfare",
+      "attacks",
+      "and",
+      "europe",
+      "analysts",
+      "say"
+    ]
+  },
+  "ISR": {
+    "risk_score": 31.57,
+    "count": 34,
+    "top_news": "http://www.cambodiantimes.com/news/279005946/journalists-attacked-in-lebanon-one-killed",
+    "event_codes": {
+      "18": 15,
+      "19": 15,
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "279005946",
+      "journalists",
+      "attacked",
+      "lebanon",
+      "one",
+      "killed"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.local10.com/news/2026/04/23/lebanese-journalist-amal-khalil-killed-in-israeli-strike-on-a-house-where-she-took-cover-paper-says/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "lebanese",
+      "journalist",
+      "amal",
+      "khalil",
+      "killed",
+      "israeli",
+      "strike",
+      "house",
+      "where",
+      "she",
+      "took",
+      "cover",
+      "paper",
+      "says"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://quicknews-africa.net/troops-neutralize-24-terrorists-rescue-9-victims-in-borno/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "troops",
+      "neutralize",
+      "terrorists",
+      "rescue",
+      "victims",
+      "borno"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://imemc.org/article/army-escalates-west-bank-invasions-and-abductions/",
+    "event_codes": {
+      "18": 6,
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "army",
+      "escalates",
+      "west",
+      "bank",
+      "invasions",
+      "and",
+      "abductions"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/04/23/kelantan-cops-bust-love-scam-syndicate-58-held",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "kelantan",
+      "cops",
+      "bust",
+      "love",
+      "scam",
+      "syndicate",
+      "held"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ifj.org/media-centre/news/detail/category/press-releases/article/somalia-seventy-two-press-freedom-violations-documented-in-2025",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "media",
+      "centre",
+      "news",
+      "detail",
+      "category",
+      "press",
+      "releases",
+      "article",
+      "somalia",
+      "seventy",
+      "two",
+      "press",
+      "freedom",
+      "violations",
+      "documented",
+      "2025"
     ]
   }
 }
