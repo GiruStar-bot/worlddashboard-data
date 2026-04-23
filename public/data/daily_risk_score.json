@@ -1,81 +1,130 @@
 {
   "IRN": {
-    "risk_score": 3.92,
-    "count": 5,
-    "top_news": "https://www.washingtonexaminer.com/news/world/4540749/iran-crown-prince-reza-pahlavi-attacked-red-liquid-protester-berlin/",
+    "risk_score": 8.84,
+    "count": 13,
+    "top_news": "https://www.dw.com/en/trump-says-israel-lebanon-ceasefire-extended-by-three-weeks/live-76903459",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "17": 10,
+      "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "4540749",
-      "iran",
-      "crown",
-      "prince",
-      "reza",
-      "pahlavi",
-      "attacked",
-      "red",
-      "liquid",
-      "protester",
-      "berlin"
+      "trump",
+      "says",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "extended",
+      "three",
+      "weeks",
+      "live",
+      "76903459"
     ]
   },
   "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.washingtonexaminer.com/news/world/4540749/iran-crown-prince-reza-pahlavi-attacked-red-liquid-protester-berlin/",
+    "risk_score": 22.28,
+    "count": 27,
+    "top_news": "https://www.al-monitor.com/originals/2026/04/trump-says-israel-lebanon-ceasefire-extended-three-weeks",
     "event_codes": {
-      "19": 8
+      "19": 11,
+      "17": 7,
+      "14": 4,
+      "16": 2,
+      "18": 2,
+      "20": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "trump",
+      "says",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "extended",
+      "three",
+      "weeks"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://www.nhregister.com/news/world/article/lebanon-and-israel-to-resume-rare-direct-talks-in-22221683.php",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
       "world",
-      "4540749",
-      "iran",
-      "crown",
-      "prince",
-      "reza",
-      "pahlavi",
-      "attacked",
-      "red",
-      "liquid",
-      "protester",
-      "berlin"
+      "article",
+      "lebanon",
+      "and",
+      "israel",
+      "resume",
+      "rare",
+      "direct",
+      "talks",
+      "22221683.php"
     ]
   },
-  "LBN": {
+  "PSE": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.dw.com/en/trump-says-israel-lebanon-ceasefire-extended-by-three-weeks/live-76903459",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "trump",
+      "says",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "extended",
+      "three",
+      "weeks",
+      "live",
+      "76903459"
+    ]
+  },
+  "VNM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.ynetnews.com/article/bjdpz1100abl",
+    "top_news": "https://collider.com/most-perfect-action-movie-endings-ranked/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "article",
-      "bjdpz1100abl"
+      "most",
+      "perfect",
+      "action",
+      "movie",
+      "endings",
+      "ranked"
     ]
   },
-  "NGA": {
-    "risk_score": 5.14,
-    "count": 7,
-    "top_news": "https://www.channelstv.com/2026/04/23/senate-orders-rescue-of-15-abducted-passengers-utme-candidates/",
+  "ZWE": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.the-independent.com/news/world/americas/crime/woman-vase-murder-husband-north-carolina-b2963845.html",
     "event_codes": {
-      "18": 3,
-      "15": 2,
-      "17": 2
+      "19": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "senate",
-      "orders",
-      "rescue",
-      "abducted",
-      "passengers",
-      "utme",
-      "candidates"
+      "news",
+      "world",
+      "americas",
+      "crime",
+      "woman",
+      "vase",
+      "murder",
+      "husband",
+      "north",
+      "carolina",
+      "b2963845.html"
     ]
   }
 }
