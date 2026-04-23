@@ -1,144 +1,114 @@
 {
-  "EGY": {
-    "risk_score": 4.5,
-    "count": 8,
-    "top_news": "https://www.dailymail.com/news/article-15759539/Small-boats-migrant-gang-raped-vulnerable-woman-Brighton-beach-run-murder-homeland.html",
+  "IRN": {
+    "risk_score": 12.05,
+    "count": 13,
+    "top_news": "https://www.manilatimes.net/2026/04/24/world/americas-emea/ex-shahs-son-talks-with-tehran-are-appeasement/2327030",
     "event_codes": {
-      "16": 3,
-      "17": 3,
-      "18": 2
+      "19": 10,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "americas",
+      "emea",
+      "shahs",
+      "son",
+      "talks",
+      "with",
+      "tehran",
+      "are",
+      "appeasement",
+      "2327030"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.1,
+    "count": 7,
+    "top_news": "https://www.dailymail.com/news/article-15759499/Smirking-migrant-raped-Grindr-dates-24-Hours-Police-Custody-convicted.html",
+    "event_codes": {
+      "18": 4,
+      "17": 3
     },
     "keywords": [
       "news",
       "article",
-      "15759539",
-      "small",
-      "boats",
+      "15759499",
+      "smirking",
       "migrant",
-      "gang",
       "raped",
-      "vulnerable",
-      "woman",
-      "brighton",
-      "beach",
-      "run",
-      "murder",
-      "homeland.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.75,
-    "count": 14,
-    "top_news": "https://www.ynetnews.com/article/bjucgsptze",
-    "event_codes": {
-      "17": 5,
-      "19": 5,
-      "16": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "bjucgsptze"
+      "grindr",
+      "dates",
+      "hours",
+      "police",
+      "custody",
+      "convicted.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.92,
-    "count": 5,
-    "top_news": "http://www.jpost.com/israel-news/article-894000",
+    "risk_score": 7.12,
+    "count": 9,
+    "top_news": "https://www.goskagit.com/news/world/lebanon-and-israel-to-resume-rare-direct-talks-in-washington-to-extend-israel-hezbollah-ceasefire/article_653231da-9182-5e72-bc35-11432ba7b198.html",
     "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "article",
-      "894000"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.nbcmiami.com/news/local/man-beaten-to-death-with-metal-pole-during-argument-over-12-boynton-beach-police-say/3799891/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "local",
-      "man",
-      "beaten",
-      "death",
-      "with",
-      "metal",
-      "pole",
-      "during",
-      "argument",
-      "over",
-      "boynton",
-      "beach",
-      "police",
-      "say",
-      "3799891"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.86,
-    "count": 12,
-    "top_news": "https://allafrica.com/stories/202604230560.html",
-    "event_codes": {
-      "17": 5,
+      "17": 4,
       "19": 4,
-      "18": 2,
-      "15": 1
+      "16": 1
     },
     "keywords": [
-      "stories",
-      "202604230560.html"
-    ]
-  },
-  "URY": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.jewishtimes.com/lawmakers-from-15-latin-american-nations-unite-to-combat-antisemitism/",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "lawmakers",
-      "from",
-      "latin",
-      "american",
-      "nations",
-      "unite",
-      "combat",
-      "antisemitism"
-    ]
-  },
-  "VNM": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.bicycleretailer.com/industry-news/2026/04/23/another-parent-arrested-child-endangerment-after-crash-critical-injures",
-    "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "industry",
       "news",
+      "world",
+      "lebanon",
+      "and",
+      "israel",
+      "resume",
+      "rare",
+      "direct",
+      "talks",
+      "washington",
+      "extend",
+      "israel",
+      "hezbollah",
+      "ceasefire",
+      "article",
+      "653231da",
+      "9182",
+      "5e72",
+      "bc35",
+      "11432ba7b198.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/israel-unveils-game-changing-artillery-200628100.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "israel",
+      "unveils",
+      "game",
+      "changing",
+      "artillery",
+      "200628100.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theintercept.com/2026/04/21/cia-mexico-deaths-drugs/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "another",
-      "parent",
-      "arrested",
-      "child",
-      "endangerment",
-      "after",
-      "crash",
-      "critical",
-      "injures"
+      "cia",
+      "mexico",
+      "deaths",
+      "drugs"
     ]
   }
 }
