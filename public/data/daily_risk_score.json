@@ -1,86 +1,112 @@
 {
-  "ETH": {
-    "risk_score": 15.74,
-    "count": 18,
-    "top_news": "https://africa.com/ethiopia-persecution-of-tigrayans-unrelenting/",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://buenosairesherald.com/society/another-argentine-is-arrested-in-rio-de-janeiro-for-using-a-racist-slur",
     "event_codes": {
-      "20": 7,
-      "19": 5,
-      "14": 3,
-      "15": 2,
-      "17": 1
+      "17": 4
     },
     "keywords": [
-      "ethiopia",
-      "persecution",
-      "tigrayans",
-      "unrelenting"
+      "society",
+      "another",
+      "argentine",
+      "arrested",
+      "rio",
+      "janeiro",
+      "for",
+      "using",
+      "racist",
+      "slur"
     ]
   },
   "IRN": {
-    "risk_score": 5.6,
-    "count": 7,
-    "top_news": "https://www.wbkb11.com/news/politics/national-politics/pentagon-fired-us-navy-secretary-john-phelan-source-says/article_6849db41-442c-58dd-90dd-582f3215c028.html",
+    "risk_score": 16.22,
+    "count": 20,
+    "top_news": "https://www.themarysue.com/trump-takes-credit-for-sparing-eight-iranian-women-from-execution/",
     "event_codes": {
-      "19": 4,
-      "17": 2,
-      "14": 1
+      "17": 7,
+      "19": 7,
+      "14": 3,
+      "18": 3
     },
     "keywords": [
-      "news",
-      "politics",
-      "national",
-      "politics",
-      "pentagon",
-      "fired",
-      "navy",
-      "secretary",
-      "john",
-      "phelan",
-      "source",
-      "says",
-      "article",
-      "6849db41",
-      "442c",
-      "58dd",
-      "90dd",
-      "582f3215c028.html"
+      "trump",
+      "takes",
+      "credit",
+      "for",
+      "sparing",
+      "eight",
+      "iranian",
+      "women",
+      "from",
+      "execution"
     ]
   },
   "ISR": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://www.thecrimson.com/article/2026/4/24/aei-georgia-conference/",
+    "risk_score": 7.0,
+    "count": 9,
+    "top_news": "https://english.wafa.ps/Pages/Details/169773",
     "event_codes": {
-      "14": 4,
-      "18": 2
+      "17": 4,
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "2026",
-      "aei",
-      "georgia",
-      "conference"
+      "pages",
+      "details",
+      "169773"
     ]
   },
   "LBN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/169773",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "169773"
+    ]
+  },
+  "NGA": {
+    "risk_score": 23.71,
+    "count": 27,
+    "top_news": "https://thealabamabaptist.org/31-christians-slain-in-raids-upon-multiple-villages/",
+    "event_codes": {
+      "19": 19,
+      "17": 6,
+      "15": 2
+    },
+    "keywords": [
+      "christians",
+      "slain",
+      "raids",
+      "upon",
+      "multiple",
+      "villages"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.euronews.com/2026/04/23/un-working-on-keeping-presence-in-lebanon-after-unifil-mandate-expires-in-2027",
+    "top_news": "https://news.antiwar.com/2026/04/23/trump-continues-yemen-drone-war-with-virtually-no-media-attention/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "working",
-      "keeping",
-      "presence",
-      "lebanon",
-      "after",
-      "unifil",
-      "mandate",
-      "expires",
-      "2027"
+      "trump",
+      "continues",
+      "yemen",
+      "drone",
+      "war",
+      "with",
+      "virtually",
+      "media",
+      "attention"
     ]
   }
 }
