@@ -1,79 +1,151 @@
 {
-  "ISR": {
-    "risk_score": 7.64,
-    "count": 8,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/22/lebanese-journalist-amal-khalil-killed-in-israeli-strike-on-a-house-where-she-took-cover-paper-says",
+  "IRN": {
+    "risk_score": 19.62,
+    "count": 24,
+    "top_news": "https://www.spacewar.com/afp/260422220151.j6kamxqo.html",
     "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 2
+      "19": 13,
+      "17": 8,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "2026",
-      "lebanese",
-      "journalist",
-      "amal",
-      "khalil",
-      "killed",
+      "afp",
+      "260422220151.j6kamxqo.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 26.94,
+    "count": 28,
+    "top_news": "https://island.lk/israeli-attacks-on-lebanon-kill-at-least-five-people-including-journalist/",
+    "event_codes": {
+      "19": 23,
+      "17": 2,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
       "israeli",
-      "strike",
-      "house",
-      "where",
-      "she",
-      "took",
-      "cover",
-      "paper",
-      "says"
+      "attacks",
+      "lebanon",
+      "kill",
+      "least",
+      "five",
+      "people",
+      "including",
+      "journalist"
     ]
   },
   "LBN": {
-    "risk_score": 11.87,
-    "count": 12,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/22/lebanese-journalist-amal-khalil-killed-in-israeli-strike-on-a-house-where-she-took-cover-paper-says",
+    "risk_score": 29.2,
+    "count": 30,
+    "top_news": "https://island.lk/israeli-attacks-on-lebanon-kill-at-least-five-people-including-journalist/",
     "event_codes": {
-      "19": 11,
-      "17": 1
+      "19": 29,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "2026",
-      "lebanese",
-      "journalist",
-      "amal",
-      "khalil",
-      "killed",
       "israeli",
-      "strike",
-      "house",
-      "where",
-      "she",
-      "took",
-      "cover",
-      "paper",
-      "says"
+      "attacks",
+      "lebanon",
+      "kill",
+      "least",
+      "five",
+      "people",
+      "including",
+      "journalist"
     ]
   },
   "NGA": {
-    "risk_score": 6.5,
-    "count": 10,
-    "top_news": "https://saharareporters.com/2026/04/22/security-concerns-stall-uromi-16-documentary-jungle-justice-abuja-kaduna-kano",
+    "risk_score": 6.32,
+    "count": 9,
+    "top_news": "https://www.thehindu.com/news/international/islamic-militants-kill-11-people-burn-homes-in-late-night-attack-in-nigeria/article70894736.ece",
     "event_codes": {
-      "17": 7,
-      "19": 3
+      "17": 5,
+      "19": 3,
+      "16": 1
     },
     "keywords": [
+      "news",
+      "international",
+      "islamic",
+      "militants",
+      "kill",
+      "people",
+      "burn",
+      "homes",
+      "late",
+      "night",
+      "attack",
+      "nigeria",
+      "article70894736.ece"
+    ]
+  },
+  "PER": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.omakchronicle.com/news/national/top-peru-ministers-quit-in-protest-over-stalled-us-fighter-jet-deal/article_81ec5410-b495-5f2b-aefa-73e10e39c1c0.html",
+    "event_codes": {
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "top",
+      "peru",
+      "ministers",
+      "quit",
+      "protest",
+      "over",
+      "stalled",
+      "fighter",
+      "jet",
+      "deal",
+      "article",
+      "81ec5410",
+      "b495",
+      "5f2b",
+      "aefa",
+      "73e10e39c1c0.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260422223603.zfi2s7qk.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "afp",
+      "260422223603.zfi2s7qk.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.breitbart.com/politics/2026/04/22/angel-parents-of-sheridan-gorman-this-was-a-preventable-murder-never-should-have-happened/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "politics",
       "2026",
-      "security",
-      "concerns",
-      "stall",
-      "uromi",
-      "documentary",
-      "jungle",
-      "justice",
-      "abuja",
-      "kaduna",
-      "kano"
+      "angel",
+      "parents",
+      "sheridan",
+      "gorman",
+      "this",
+      "was",
+      "preventable",
+      "murder",
+      "never",
+      "should",
+      "have",
+      "happened"
     ]
   }
 }
