@@ -1,51 +1,172 @@
 {
-  "KWT": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://aninews.in/news/world/asia/over-12-lakh-passengers-travelled-to-india-from-west-asia-amid-conflict-mea20260423170855/",
+  "IRN": {
+    "risk_score": 32.87,
+    "count": 35,
+    "top_news": "https://www.wxow.com/news/international/trump-claims-iran-s-regime-is-fractured-the-reality-is-more-complicated/article_c531185b-0190-5a7c-866f-f5e078a7615c.html",
     "event_codes": {
-      "19": 4
+      "19": 28,
+      "17": 5,
+      "18": 2
     },
     "keywords": [
       "news",
-      "world",
-      "asia",
-      "over",
-      "lakh",
-      "passengers",
-      "travelled",
-      "india",
+      "international",
+      "trump",
+      "claims",
+      "iran",
+      "regime",
+      "fractured",
+      "the",
+      "reality",
+      "more",
+      "complicated",
+      "article",
+      "c531185b",
+      "0190",
+      "5a7c",
+      "866f",
+      "f5e078a7615c.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://saharareporters.com/2026/04/23/iran-hangs-man-accused-spying-israels-mossad-links-mko-terror-group",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "hangs",
+      "man",
+      "accused",
+      "spying",
+      "israels",
+      "mossad",
+      "links",
+      "mko",
+      "terror",
+      "group"
+    ]
+  },
+  "ISR": {
+    "risk_score": 20.05,
+    "count": 22,
+    "top_news": "https://religionnews.com/2026/04/23/israeli-attacks-on-christians-and-christianity-demand-answers/",
+    "event_codes": {
+      "19": 16,
+      "17": 2,
+      "18": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "attacks",
+      "christians",
+      "and",
+      "christianity",
+      "demand",
+      "answers"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.84,
+    "count": 8,
+    "top_news": "https://www.wjr.com/2026/04/23/iran-seizes-two-cargo-ships-in-strait-of-hormuz-and-collects-first-toll-revenue-after-trump-extends-ceasefire/",
+    "event_codes": {
+      "19": 6,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "seizes",
+      "two",
+      "cargo",
+      "ships",
+      "strait",
+      "hormuz",
+      "and",
+      "collects",
+      "first",
+      "toll",
+      "revenue",
+      "after",
+      "trump",
+      "extends",
+      "ceasefire"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.55,
+    "count": 15,
+    "top_news": "https://allafrica.com/stories/202604230223.html",
+    "event_codes": {
+      "17": 8,
+      "18": 4,
+      "19": 3
+    },
+    "keywords": [
+      "stories",
+      "202604230223.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://religionnews.com/2026/04/23/israeli-attacks-on-christians-and-christianity-demand-answers/",
+    "event_codes": {
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "attacks",
+      "christians",
+      "and",
+      "christianity",
+      "demand",
+      "answers"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://phnompenhpost.com/national/interior-minister-thailand-claims-borders-open-yet-people-barred-from-crossing/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "national",
+      "interior",
+      "minister",
+      "thailand",
+      "claims",
+      "borders",
+      "open",
+      "yet",
+      "people",
+      "barred",
       "from",
-      "west",
-      "asia",
-      "amid",
-      "conflict",
-      "mea20260423170855"
+      "crossing"
     ]
   },
   "TWN": {
-    "risk_score": 3.16,
+    "risk_score": 3.2,
     "count": 4,
-    "top_news": "https://www.theepochtimes.com/china/chinese-aircraft-carrier-sails-through-taiwan-strait-as-us-philippines-start-drills-near-taiwan-6015905",
+    "top_news": "https://focustaiwan.tw:443/society/202604230021",
     "event_codes": {
-      "15": 3,
-      "19": 1
+      "18": 3,
+      "17": 1
     },
     "keywords": [
-      "china",
-      "chinese",
-      "aircraft",
-      "carrier",
-      "sails",
-      "through",
-      "taiwan",
-      "strait",
-      "philippines",
-      "start",
-      "drills",
-      "near",
-      "taiwan",
-      "6015905"
+      "society",
+      "202604230021"
     ]
   }
 }
