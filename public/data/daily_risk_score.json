@@ -1,112 +1,81 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://buenosairesherald.com/society/another-argentine-is-arrested-in-rio-de-janeiro-for-using-a-racist-slur",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "society",
-      "another",
-      "argentine",
-      "arrested",
-      "rio",
-      "janeiro",
-      "for",
-      "using",
-      "racist",
-      "slur"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.22,
-    "count": 20,
-    "top_news": "https://www.themarysue.com/trump-takes-credit-for-sparing-eight-iranian-women-from-execution/",
+    "risk_score": 3.92,
+    "count": 5,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4540749/iran-crown-prince-reza-pahlavi-attacked-red-liquid-protester-berlin/",
     "event_codes": {
-      "17": 7,
-      "19": 7,
-      "14": 3,
-      "18": 3
-    },
-    "keywords": [
-      "trump",
-      "takes",
-      "credit",
-      "for",
-      "sparing",
-      "eight",
-      "iranian",
-      "women",
-      "from",
-      "execution"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.0,
-    "count": 9,
-    "top_news": "https://english.wafa.ps/Pages/Details/169773",
-    "event_codes": {
-      "17": 4,
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "169773"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://english.wafa.ps/Pages/Details/169773",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "169773"
-    ]
-  },
-  "NGA": {
-    "risk_score": 23.71,
-    "count": 27,
-    "top_news": "https://thealabamabaptist.org/31-christians-slain-in-raids-upon-multiple-villages/",
-    "event_codes": {
-      "19": 19,
-      "17": 6,
-      "15": 2
-    },
-    "keywords": [
-      "christians",
-      "slain",
-      "raids",
-      "upon",
-      "multiple",
-      "villages"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://news.antiwar.com/2026/04/23/trump-continues-yemen-drone-war-with-virtually-no-media-attention/",
-    "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
+      "news",
+      "world",
+      "4540749",
+      "iran",
+      "crown",
+      "prince",
+      "reza",
+      "pahlavi",
+      "attacked",
+      "red",
+      "liquid",
+      "protester",
+      "berlin"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4540749/iran-crown-prince-reza-pahlavi-attacked-red-liquid-protester-berlin/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "world",
+      "4540749",
+      "iran",
+      "crown",
+      "prince",
+      "reza",
+      "pahlavi",
+      "attacked",
+      "red",
+      "liquid",
+      "protester",
+      "berlin"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/bjdpz1100abl",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "bjdpz1100abl"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.14,
+    "count": 7,
+    "top_news": "https://www.channelstv.com/2026/04/23/senate-orders-rescue-of-15-abducted-passengers-utme-candidates/",
+    "event_codes": {
+      "18": 3,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
       "2026",
-      "trump",
-      "continues",
-      "yemen",
-      "drone",
-      "war",
-      "with",
-      "virtually",
-      "media",
-      "attention"
+      "senate",
+      "orders",
+      "rescue",
+      "abducted",
+      "passengers",
+      "utme",
+      "candidates"
     ]
   }
 }
