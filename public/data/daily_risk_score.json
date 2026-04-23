@@ -1,130 +1,110 @@
 {
-  "IRN": {
-    "risk_score": 8.84,
-    "count": 13,
-    "top_news": "https://www.dw.com/en/trump-says-israel-lebanon-ceasefire-extended-by-three-weeks/live-76903459",
-    "event_codes": {
-      "17": 10,
-      "19": 3
-    },
-    "keywords": [
-      "trump",
-      "says",
-      "israel",
-      "lebanon",
-      "ceasefire",
-      "extended",
-      "three",
-      "weeks",
-      "live",
-      "76903459"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.28,
-    "count": 27,
-    "top_news": "https://www.al-monitor.com/originals/2026/04/trump-says-israel-lebanon-ceasefire-extended-three-weeks",
-    "event_codes": {
-      "19": 11,
-      "17": 7,
-      "14": 4,
-      "16": 2,
-      "18": 2,
-      "20": 1
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "trump",
-      "says",
-      "israel",
-      "lebanon",
-      "ceasefire",
-      "extended",
-      "three",
-      "weeks"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.92,
+  "EGY": {
+    "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://www.nhregister.com/news/world/article/lebanon-and-israel-to-resume-rare-direct-talks-in-22221683.php",
+    "top_news": "https://www.sacurrent.com/news/san-antonio-news/judge-orders-immediate-release-of-el-gamal-family-after-10-months-in-dilley-detention-facility/",
     "event_codes": {
-      "19": 3,
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "san",
+      "antonio",
+      "news",
+      "judge",
+      "orders",
+      "immediate",
+      "release",
+      "gamal",
+      "family",
+      "after",
+      "months",
+      "dilley",
+      "detention",
+      "facility"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.dailysignal.com/2026/04/23/iran-isnt-winning-just-surviving/",
+    "event_codes": {
+      "19": 5,
       "17": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "article",
-      "lebanon",
-      "and",
-      "israel",
-      "resume",
-      "rare",
-      "direct",
-      "talks",
-      "22221683.php"
+      "2026",
+      "iran",
+      "isnt",
+      "winning",
+      "just",
+      "surviving"
     ]
   },
-  "PSE": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.dw.com/en/trump-says-israel-lebanon-ceasefire-extended-by-three-weeks/live-76903459",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "trump",
-      "says",
-      "israel",
-      "lebanon",
-      "ceasefire",
-      "extended",
-      "three",
-      "weeks",
-      "live",
-      "76903459"
-    ]
-  },
-  "VNM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://collider.com/most-perfect-action-movie-endings-ranked/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "most",
-      "perfect",
-      "action",
-      "movie",
-      "endings",
-      "ranked"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 3.4,
+  "IRQ": {
+    "risk_score": 3.7,
     "count": 4,
-    "top_news": "https://www.the-independent.com/news/world/americas/crime/woman-vase-murder-husband-north-carolina-b2963845.html",
+    "top_news": "https://theintercept.com/2026/04/22/iran-war-military-casualties-wounded/",
     "event_codes": {
-      "19": 2,
-      "17": 1,
-      "18": 1
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "military",
+      "casualties",
+      "wounded"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.82,
+    "count": 8,
+    "top_news": "https://lancasteronline.com/news/world/trump-orders-us-military-to-shoot-and-kill-iranian-small-boats-choking-strait-of-hormuz/article_0f1157fd-595c-5e25-8836-b91ff87e5969.html",
+    "event_codes": {
+      "19": 4,
+      "16": 2,
+      "18": 2
     },
     "keywords": [
       "news",
       "world",
-      "americas",
-      "crime",
-      "woman",
-      "vase",
-      "murder",
-      "husband",
-      "north",
-      "carolina",
-      "b2963845.html"
+      "trump",
+      "orders",
+      "military",
+      "shoot",
+      "and",
+      "kill",
+      "iranian",
+      "small",
+      "boats",
+      "choking",
+      "strait",
+      "hormuz",
+      "article",
+      "0f1157fd",
+      "595c",
+      "5e25",
+      "8836",
+      "b91ff87e5969.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newser.com/story/387918/israel-lebanon-add-3-weeks-to-ceasefire.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "story",
+      "387918",
+      "israel",
+      "lebanon",
+      "add",
+      "weeks",
+      "ceasefire.html"
     ]
   }
 }
