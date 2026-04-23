@@ -1,165 +1,144 @@
 {
-  "ARE": {
-    "risk_score": 2.75,
-    "count": 3,
-    "top_news": "https://www.10news.com/news/the-streamline/the-streamline-california-gubernatorial-candidates-spar-in-fiery-debate",
+  "EGY": {
+    "risk_score": 4.5,
+    "count": 8,
+    "top_news": "https://www.dailymail.com/news/article-15759539/Small-boats-migrant-gang-raped-vulnerable-woman-Brighton-beach-run-murder-homeland.html",
     "event_codes": {
-      "18": 2,
+      "16": 3,
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15759539",
+      "small",
+      "boats",
+      "migrant",
+      "gang",
+      "raped",
+      "vulnerable",
+      "woman",
+      "brighton",
+      "beach",
+      "run",
+      "murder",
+      "homeland.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.75,
+    "count": 14,
+    "top_news": "https://www.ynetnews.com/article/bjucgsptze",
+    "event_codes": {
+      "17": 5,
+      "19": 5,
+      "16": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "bjucgsptze"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.92,
+    "count": 5,
+    "top_news": "http://www.jpost.com/israel-news/article-894000",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "894000"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.nbcmiami.com/news/local/man-beaten-to-death-with-metal-pole-during-argument-over-12-boynton-beach-police-say/3799891/",
+    "event_codes": {
+      "17": 2,
       "19": 1
     },
     "keywords": [
       "news",
-      "the",
-      "streamline",
-      "the",
-      "streamline",
-      "california",
-      "gubernatorial",
-      "candidates",
-      "spar",
-      "fiery",
-      "debate"
+      "local",
+      "man",
+      "beaten",
+      "death",
+      "with",
+      "metal",
+      "pole",
+      "during",
+      "argument",
+      "over",
+      "boynton",
+      "beach",
+      "police",
+      "say",
+      "3799891"
     ]
   },
-  "IDN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.asianews.it/news-en/North-Sumatra:-thanks-to-Sister-Natalia,-bank-returns-savings-to-defrauded-Catholics-65300.html",
+  "NGA": {
+    "risk_score": 9.86,
+    "count": 12,
+    "top_news": "https://allafrica.com/stories/202604230560.html",
     "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "news",
-      "north",
-      "sumatra:",
-      "thanks",
-      "sister",
-      "natalia,",
-      "bank",
-      "returns",
-      "savings",
-      "defrauded",
-      "catholics",
-      "65300.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://athens-times.com/trump-orders-u-s-navy-to-sink-iranian-vessels-mining-strait-of-hormuz/",
-    "event_codes": {
+      "17": 5,
       "19": 4,
-      "18": 2
+      "18": 2,
+      "15": 1
     },
     "keywords": [
-      "trump",
-      "orders",
-      "navy",
-      "sink",
-      "iranian",
-      "vessels",
-      "mining",
-      "strait",
-      "hormuz"
+      "stories",
+      "202604230560.html"
     ]
   },
-  "IRQ": {
-    "risk_score": 7.7,
-    "count": 8,
-    "top_news": "https://www.politicsweb.co.za/news/anc-foreign-policy-and-its-historical-roots",
-    "event_codes": {
-      "19": 5,
-      "18": 3
-    },
-    "keywords": [
-      "news",
-      "anc",
-      "foreign",
-      "policy",
-      "and",
-      "its",
-      "historical",
-      "roots"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.15,
-    "count": 19,
-    "top_news": "https://athens-times.com/gaza-new-israeli-airstrikes-kill-at-least-four-palestinians/",
-    "event_codes": {
-      "19": 5,
-      "14": 4,
-      "18": 4,
-      "16": 3,
-      "17": 3
-    },
-    "keywords": [
-      "gaza",
-      "new",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "least",
-      "four",
-      "palestinians"
-    ]
-  },
-  "PER": {
-    "risk_score": 2.6,
+  "URY": {
+    "risk_score": 2.5,
     "count": 4,
-    "top_news": "https://www.upi.com/Top_News/World-News/2026/04/23/latam-peru-F16purchase-controversy/7791776953435/",
+    "top_news": "https://www.jewishtimes.com/lawmakers-from-15-latin-american-nations-unite-to-combat-antisemitism/",
     "event_codes": {
-      "14": 4
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "top",
-      "news",
-      "world",
-      "news",
-      "2026",
-      "latam",
-      "peru",
-      "f16purchase",
-      "controversy",
-      "7791776953435"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.camera.org/article/bbc-news-amplifies-a-convicted-terrorists-unverified-claims/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "article",
-      "bbc",
-      "news",
-      "amplifies",
-      "convicted",
-      "terrorists",
-      "unverified",
-      "claims"
+      "lawmakers",
+      "from",
+      "latin",
+      "american",
+      "nations",
+      "unite",
+      "combat",
+      "antisemitism"
     ]
   },
   "VNM": {
-    "risk_score": 3.6,
+    "risk_score": 3.4,
     "count": 4,
-    "top_news": "https://www.studlife.com/news/2026/04/23/amanda-nguyen-an-astronaut-a-scientist-and-an-activist-speaks-at-washu",
+    "top_news": "https://www.bicycleretailer.com/industry-news/2026/04/23/another-parent-arrested-child-endangerment-after-crash-critical-injures",
     "event_codes": {
-      "18": 4
+      "18": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
+      "industry",
       "news",
       "2026",
-      "amanda",
-      "nguyen",
-      "astronaut",
-      "scientist",
-      "and",
-      "activist",
-      "speaks",
-      "washu"
+      "another",
+      "parent",
+      "arrested",
+      "child",
+      "endangerment",
+      "after",
+      "crash",
+      "critical",
+      "injures"
     ]
   }
 }
