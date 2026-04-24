@@ -1,96 +1,103 @@
 {
   "IRN": {
-    "risk_score": 6.2,
-    "count": 7,
-    "top_news": "https://www.chroniclelive.co.uk/news/uk-news/trump-threatens-uk-big-tariff-33829808",
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://www.marketscreener.com/news/zelenskiy-seeks-to-develop-security-co-operation-after-saudi-visit-ce7f59dfda89f223",
     "event_codes": {
-      "19": 5,
-      "16": 2
+      "19": 3,
+      "16": 1
     },
     "keywords": [
       "news",
-      "news",
-      "trump",
-      "threatens",
-      "big",
-      "tariff",
-      "33829808"
+      "zelenskiy",
+      "seeks",
+      "develop",
+      "security",
+      "operation",
+      "after",
+      "saudi",
+      "visit",
+      "ce7f59dfda89f223"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.wnmufm.org/2026-04-24/israel-lebanon-ceasefire-is-extended-by-3-weeks-as-tensions-rise-in-strait-of-hormuz",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "extended",
+      "weeks",
+      "tensions",
+      "rise",
+      "strait",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.republicanherald.com/2026/04/24/pakistan-us-iran-war-talks/",
+    "risk_score": 10.44,
+    "count": 11,
+    "top_news": "https://patriotpost.us/articles/127028-friday-executive-news-summary-2026-04-24",
     "event_codes": {
-      "19": 7,
-      "18": 2,
-      "17": 1
+      "19": 8,
+      "15": 2,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "pakistan",
-      "iran",
-      "war",
-      "talks"
+      "articles",
+      "127028",
+      "friday",
+      "executive",
+      "news",
+      "summary",
+      "2026"
     ]
   },
-  "LBN": {
+  "KWT": {
     "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.republicanherald.com/2026/04/24/pakistan-us-iran-war-talks/",
+    "count": 4,
+    "top_news": "https://english.aawsat.com/gulf/5266050-kuwait-announces-new-attack-launched-iraq",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "pakistan",
-      "iran",
-      "war",
-      "talks"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.longwarjournal.org/archives/2026/04/syria-thwarts-hezbollah-plot-vows-at-un-to-fight-terrorist-groups.php",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "archives",
-      "2026",
-      "syria",
-      "thwarts",
-      "hezbollah",
-      "plot",
-      "vows",
-      "fight",
-      "terrorist",
-      "groups.php"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.45,
-    "count": 6,
-    "top_news": "https://www.thailand-business-news.com/pr-news/midea-hiconics-teams-up-with-mia-group-to-bring-new-solar-tech-to-pakistan",
-    "event_codes": {
-      "17": 5,
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "news",
-      "midea",
-      "hiconics",
-      "teams",
-      "with",
-      "mia",
-      "group",
-      "bring",
+      "gulf",
+      "5266050",
+      "kuwait",
+      "announces",
       "new",
-      "solar",
-      "tech",
-      "pakistan"
+      "attack",
+      "launched",
+      "iraq"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-homes-qusra-near-nablus",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "settlers",
+      "attack",
+      "homes",
+      "qusra",
+      "near",
+      "nablus"
     ]
   }
 }
