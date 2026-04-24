@@ -1,94 +1,63 @@
 {
   "ARG": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-15762007/No-10-says-sovereignty-Falkland-Islands-rests-UK-US-threat-withdraw-backing-British-claim-islands.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/factbox-know-falkland-islands-us-132626826.html",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15762007",
-      "says",
-      "sovereignty",
-      "falkland",
-      "islands",
-      "rests",
-      "threat",
-      "withdraw",
-      "backing",
-      "british",
-      "claim",
-      "islands.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.35,
-    "count": 5,
-    "top_news": "https://www.the-star.co.ke/news/2026-04-24-middle-east-conflict-looks-increasingly-like-a-war-nobody-can-win",
-    "event_codes": {
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "middle",
-      "east",
-      "conflict",
-      "looks",
-      "increasingly",
-      "like",
-      "war",
-      "nobody",
-      "can",
-      "win"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.7,
-    "count": 5,
-    "top_news": "https://www.knau.org/npr-news/2026-04-24/israel-lebanon-ceasefire-extended-by-3-weeks-as-tensions-rise-in-strait-of-hormuz",
-    "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "npr",
       "news",
-      "2026",
-      "israel",
-      "lebanon",
-      "ceasefire",
-      "extended",
-      "weeks",
-      "tensions",
-      "rise",
-      "strait",
-      "hormuz"
+      "articles",
+      "factbox",
+      "know",
+      "falkland",
+      "islands",
+      "132626826.html"
     ]
   },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.knau.org/npr-news/2026-04-24/israel-lebanon-ceasefire-extended-by-3-weeks-as-tensions-rise-in-strait-of-hormuz",
+  "IRN": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.independent.co.uk/news/uk/politics/donald-trump-falkland-islands-uk-us-iran-b2964244.html",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "18": 1
     },
     "keywords": [
-      "npr",
       "news",
+      "politics",
+      "donald",
+      "trump",
+      "falkland",
+      "islands",
+      "iran",
+      "b2964244.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.85,
+    "count": 6,
+    "top_news": "https://www.antiwar.com/blog/2026/04/24/idf-soldiers-say-commanders-turning-blind-eye-to-lebanon-looting-on-a-crazy-scale/",
+    "event_codes": {
+      "16": 3,
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "blog",
       "2026",
-      "israel",
+      "idf",
+      "soldiers",
+      "say",
+      "commanders",
+      "turning",
+      "blind",
+      "eye",
       "lebanon",
-      "ceasefire",
-      "extended",
-      "weeks",
-      "tensions",
-      "rise",
-      "strait",
-      "hormuz"
+      "looting",
+      "crazy",
+      "scale"
     ]
   }
 }
