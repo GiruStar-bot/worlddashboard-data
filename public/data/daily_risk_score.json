@@ -1,113 +1,131 @@
 {
-  "EGY": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/us-army-major-virginia-charged-195351844.html",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ksat.com/news/local/2026/04/24/san-antonio-jury-convicts-man-who-threatened-to-murder-national-park-service-ranger/",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "army",
-      "major",
-      "virginia",
-      "charged",
-      "195351844.html"
+      "local",
+      "2026",
+      "san",
+      "antonio",
+      "jury",
+      "convicts",
+      "man",
+      "who",
+      "threatened",
+      "murder",
+      "national",
+      "park",
+      "service",
+      "ranger"
     ]
   },
   "IRN": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "https://peoplesworld.org/article/cowardice-of-qualification-when-anti-war-voices-speak-the-language-of-the-empire/",
+    "risk_score": 2.55,
+    "count": 3,
+    "top_news": "https://www.wapt.com/article/iran-wants-to-talk-us-envoy-heads-to-pakistan-for-renewed-peace-talks/71123095",
     "event_codes": {
-      "19": 5,
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "16": 2,
+      "19": 1
     },
     "keywords": [
       "article",
-      "cowardice",
-      "qualification",
-      "when",
-      "anti",
-      "war",
-      "voices",
-      "speak",
-      "the",
-      "language",
-      "the",
-      "empire"
+      "iran",
+      "wants",
+      "talk",
+      "envoy",
+      "heads",
+      "pakistan",
+      "for",
+      "renewed",
+      "peace",
+      "talks",
+      "71123095"
     ]
   },
   "ISR": {
-    "risk_score": 13.8,
-    "count": 14,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-torch-palestinian-property-near-nablus-in-west-bank/3917381",
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.goulburnpost.com.au/story/9232954/israeli-fire-kills-12-across-gaza-medics-say/",
     "event_codes": {
-      "19": 12,
-      "18": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "occupiers",
-      "torch",
-      "palestinian",
-      "property",
-      "near",
-      "nablus",
-      "west",
-      "bank",
-      "3917381"
-    ]
-  },
-  "NER": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/874464-terrorists-kill-zamfara-community-protection-agents-others.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "top",
-      "news",
-      "874464",
-      "terrorists",
-      "kill",
-      "zamfara",
-      "community",
-      "protection",
-      "agents",
-      "others.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 24.05,
-    "count": 35,
-    "top_news": "https://www.thecable.ng/falana-asks-court-to-order-release-of-dj-equipment-seized-during-lagos-anti-demolition-protest/",
-    "event_codes": {
-      "17": 25,
-      "14": 9,
+      "19": 2,
       "16": 1
     },
     "keywords": [
-      "falana",
-      "asks",
-      "court",
-      "order",
-      "release",
-      "equipment",
-      "seized",
-      "during",
-      "lagos",
-      "anti",
+      "story",
+      "9232954",
+      "israeli",
+      "fire",
+      "kills",
+      "across",
+      "gaza",
+      "medics",
+      "say"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.92,
+    "count": 4,
+    "top_news": "https://www.naturalnews.com/2026-04-24-trump-brokers-extended-israel-lebanon-ceasefire-amid-hezbollah-defiance.html",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "brokers",
+      "extended",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "amid",
+      "hezbollah",
+      "defiance.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.79,
+    "count": 5,
+    "top_news": "https://www.opinionnigeria.com/makoko-demolition-protest-court-adjourns-soweto-franks-trial-to-may-8/",
+    "event_codes": {
+      "14": 3,
+      "17": 2
+    },
+    "keywords": [
+      "makoko",
       "demolition",
-      "protest"
+      "protest",
+      "court",
+      "adjourns",
+      "soweto",
+      "franks",
+      "trial",
+      "may"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.hrw.org/news/2026/04/24/environmental-activists-detention-undermines-turkiyes-role-as-cop31-co-host",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "environmental",
+      "activists",
+      "detention",
+      "undermines",
+      "turkiyes",
+      "role",
+      "cop31",
+      "host"
     ]
   }
 }
