@@ -1,61 +1,184 @@
 {
-  "ARG": {
+  "GUY": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.cubaheadlines.com/articles/327047",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "articles",
+      "327047"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.28,
+    "count": 10,
+    "top_news": "https://fortune.com/2026/04/24/us-military-depleted-half-most-expensive-missiles-cost-of-iran-war/",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "military",
+      "depleted",
+      "half",
+      "most",
+      "expensive",
+      "missiles",
+      "cost",
+      "iran",
+      "war"
+    ]
+  },
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://latinamericanpost.com/analysis-en/argentina-shuts-the-press-and-democracy-hears-the-door-slam/",
+    "top_news": "https://www.dailymail.com/news/article-15763865/PM-legal-adviser-Lord-Hermer-reported-barristers-watchdog-witch-hunt-British-veterans.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "analysis",
-      "argentina",
-      "shuts",
-      "the",
-      "press",
-      "and",
-      "democracy",
-      "hears",
-      "the",
-      "door",
-      "slam"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://foreignpolicy.com/2026/04/24/us-pentagon-email-nato-spain-uk-falkland-islands-iran/?tpcc=recirc_trending062921",
-    "event_codes": {
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "pentagon",
-      "email",
-      "nato",
-      "spain",
-      "falkland",
-      "islands",
-      "iran"
+      "news",
+      "article",
+      "15763865",
+      "legal",
+      "adviser",
+      "lord",
+      "hermer",
+      "reported",
+      "barristers",
+      "watchdog",
+      "witch",
+      "hunt",
+      "british",
+      "veterans.html"
     ]
   },
   "ISR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://foreignpolicy.com/2026/04/24/us-pentagon-email-nato-spain-uk-falkland-islands-iran/?tpcc=recirc_trending062921",
+    "risk_score": 13.0,
+    "count": 15,
+    "top_news": "https://www.thedickinsonpress.com/news/local/the-stark-county-blotter-fish-in-a-ditch-a-woman-harassed-by-a-customer-and-a-baby-allegedly-dropped-at-a-daycare",
     "event_codes": {
-      "19": 4,
+      "19": 11,
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "local",
+      "the",
+      "stark",
+      "county",
+      "blotter",
+      "fish",
+      "ditch",
+      "woman",
+      "harassed",
+      "customer",
+      "and",
+      "baby",
+      "allegedly",
+      "dropped",
+      "daycare"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/04/25/iran-s-foreign-minister-arrives-in-pakistan-trump-expects-offer-satisfying-us-demands-2",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "iran",
+      "foreign",
+      "minister",
+      "arrives",
+      "pakistan",
+      "trump",
+      "expects",
+      "offer",
+      "satisfying",
+      "demands"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://africa.com/us-led-drill-in-libya-aims-to-counter-russia/",
+    "event_codes": {
+      "15": 4
+    },
+    "keywords": [
+      "led",
+      "drill",
+      "libya",
+      "aims",
+      "counter",
+      "russia"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://punchng.com/delta-community-where-residents-drink-human-waste-polluted-river/",
+    "event_codes": {
+      "18": 3,
+      "14": 2,
       "17": 1
     },
     "keywords": [
+      "delta",
+      "community",
+      "where",
+      "residents",
+      "drink",
+      "human",
+      "waste",
+      "polluted",
+      "river"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.warrackherald.com.au/maurice-odonohue-2026-04-25",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "maurice",
+      "odonohue",
+      "2026"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.elpais.com/international/2026-04-24/israel-has-killed-260-journalists-in-gaza-lebanon-yemen-and-iran.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "international",
       "2026",
-      "pentagon",
-      "email",
-      "nato",
-      "spain",
-      "falkland",
-      "islands",
-      "iran"
+      "israel",
+      "has",
+      "killed",
+      "260",
+      "journalists",
+      "gaza",
+      "lebanon",
+      "yemen",
+      "and",
+      "iran.html"
     ]
   }
 }
