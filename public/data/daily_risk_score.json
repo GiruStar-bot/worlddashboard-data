@@ -1,110 +1,134 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.sacurrent.com/news/san-antonio-news/judge-orders-immediate-release-of-el-gamal-family-after-10-months-in-dilley-detention-facility/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "san",
-      "antonio",
-      "news",
-      "judge",
-      "orders",
-      "immediate",
-      "release",
-      "gamal",
-      "family",
-      "after",
-      "months",
-      "dilley",
-      "detention",
-      "facility"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.dailysignal.com/2026/04/23/iran-isnt-winning-just-surviving/",
+    "risk_score": 25.42,
+    "count": 29,
+    "top_news": "https://www.aol.co.uk/articles/pete-hegseth-butted-heads-navy-231803553.html",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "19": 18,
+      "17": 7,
+      "16": 3,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "isnt",
-      "winning",
-      "just",
-      "surviving"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://theintercept.com/2026/04/22/iran-war-military-casualties-wounded/",
-    "event_codes": {
-      "18": 3,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "war",
-      "military",
-      "casualties",
-      "wounded"
+      "articles",
+      "pete",
+      "hegseth",
+      "butted",
+      "heads",
+      "navy",
+      "231803553.html"
     ]
   },
   "ISR": {
-    "risk_score": 6.82,
-    "count": 8,
-    "top_news": "https://lancasteronline.com/news/world/trump-orders-us-military-to-shoot-and-kill-iranian-small-boats-choking-strait-of-hormuz/article_0f1157fd-595c-5e25-8836-b91ff87e5969.html",
+    "risk_score": 32.39,
+    "count": 34,
+    "top_news": "https://www.nbcphiladelphia.com/news/national-international/lebanese-journalist-killed-israeli-strike/4390759/",
     "event_codes": {
-      "19": 4,
-      "16": 2,
+      "19": 28,
+      "17": 3,
+      "14": 1,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
+      "lebanese",
+      "journalist",
+      "killed",
+      "israeli",
+      "strike",
+      "4390759"
+    ]
+  },
+  "KHM": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/04/24/us-slaps-sanctions-on-cambodian-senator-over-alleged-scam-network",
+    "event_codes": {
+      "16": 5
+    },
+    "keywords": [
+      "category",
+      "highlight",
+      "2026",
+      "slaps",
+      "sanctions",
+      "cambodian",
+      "senator",
+      "over",
+      "alleged",
+      "scam",
+      "network"
+    ]
+  },
+  "LBN": {
+    "risk_score": 19.75,
+    "count": 20,
+    "top_news": "https://www.sanfordherald.com/news/national/israel-lebanon-extend-ceasefire-as-trump-hopes-for-historic-deal/article_ec2613dd-5feb-5b41-8d6e-4f3f1c0df9f3.html",
+    "event_codes": {
+      "19": 18,
       "18": 2
     },
     "keywords": [
       "news",
-      "world",
-      "trump",
-      "orders",
-      "military",
-      "shoot",
-      "and",
-      "kill",
-      "iranian",
-      "small",
-      "boats",
-      "choking",
-      "strait",
-      "hormuz",
-      "article",
-      "0f1157fd",
-      "595c",
-      "5e25",
-      "8836",
-      "b91ff87e5969.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newser.com/story/387918/israel-lebanon-add-3-weeks-to-ceasefire.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "story",
-      "387918",
+      "national",
       "israel",
       "lebanon",
-      "add",
-      "weeks",
-      "ceasefire.html"
+      "extend",
+      "ceasefire",
+      "trump",
+      "hopes",
+      "for",
+      "historic",
+      "deal",
+      "article",
+      "ec2613dd",
+      "5feb",
+      "5b41",
+      "8d6e",
+      "4f3f1c0df9f3.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.36,
+    "count": 6,
+    "top_news": "https://pmnewsnigeria.com/2026/04/23/troops-dismantle-illegal-arms-factory-in-plateau-nab-suspects/",
+    "event_codes": {
+      "15": 3,
+      "16": 3
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "dismantle",
+      "illegal",
+      "arms",
+      "factory",
+      "plateau",
+      "nab",
+      "suspects"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.maravipost.com/lungu-burial-dispute-zambia-governments-second-setback-in-south-african-court/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "lungu",
+      "burial",
+      "dispute",
+      "zambia",
+      "governments",
+      "second",
+      "setback",
+      "south",
+      "african",
+      "court"
     ]
   }
 }
