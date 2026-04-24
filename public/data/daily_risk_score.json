@@ -1,14 +1,14 @@
 {
   "ARG": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://nypost.com/2026/04/24/us-news/pentagon-email-floats-suspending-spain-from-nato-other-steps-over-iran-rift/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.geo.tv/latest/661406-pentagon-email-floats-suspending-spain-from-nato-other-steps-over-iran-rift",
     "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "news",
+      "latest",
+      "661406",
       "pentagon",
       "email",
       "floats",
@@ -23,140 +23,40 @@
       "rift"
     ]
   },
-  "CMR": {
-    "risk_score": 4.0,
+  "IRN": {
+    "risk_score": 3.8,
     "count": 4,
-    "top_news": "https://en.interfax.com.ua/news/general/1161942.html",
+    "top_news": "https://www.express.co.uk/news/politics/2197895/keir-starmer-will-desperately-hope",
     "event_codes": {
-      "19": 4
+      "18": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "general",
-      "1161942.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 7,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/870674/secret-us-plan-for-nato-leaked-spain-face-expulsion-sanctions-for-uk-over-falklands%20title=",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "870674",
-      "secret",
-      "plan",
-      "for",
-      "nato",
-      "leaked",
-      "spain",
-      "face",
-      "expulsion",
-      "sanctions",
-      "for",
-      "over",
-      "falklands%20title="
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/04/24/analysis-the-us-protected-ships-from-iran-in-the-strait-of-hormuz-in-the-80s-could-it-again",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "analysis",
-      "the",
-      "protected",
-      "ships",
-      "from",
-      "iran",
-      "the",
-      "strait",
-      "hormuz",
-      "the",
-      "80s",
-      "could",
-      "again"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/04/24/analysis-the-us-protected-ships-from-iran-in-the-strait-of-hormuz-in-the-80s-could-it-again",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "analysis",
-      "the",
-      "protected",
-      "ships",
-      "from",
-      "iran",
-      "the",
-      "strait",
-      "hormuz",
-      "the",
-      "80s",
-      "could",
-      "again"
+      "politics",
+      "2197895",
+      "keir",
+      "starmer",
+      "will",
+      "desperately",
+      "hope"
     ]
   },
   "NGA": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://quicknews-africa.net/nigeria-malaysia-deepens-cooperation-on-trade-facilitation-border-management/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "nigeria",
-      "malaysia",
-      "deepens",
-      "cooperation",
-      "trade",
-      "facilitation",
-      "border",
-      "management"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.4,
+    "risk_score": 2.3,
     "count": 3,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/870663/incredible-blunder-by-japan-wrong-move-proves-a-gift-to-iran-grave-risk-of-entanglement-in-the-red-sea",
+    "top_news": "https://www.nigerianeye.com/2026/04/what-i-told-kidnappers-on-phone-when.html",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "870663",
-      "incredible",
-      "blunder",
-      "japan",
-      "wrong",
-      "move",
-      "proves",
-      "gift",
-      "iran",
-      "grave",
-      "risk",
-      "entanglement",
-      "the",
-      "red",
-      "sea"
+      "2026",
+      "what",
+      "told",
+      "kidnappers",
+      "phone",
+      "when.html"
     ]
   }
 }
