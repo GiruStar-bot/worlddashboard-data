@@ -1,117 +1,115 @@
 {
   "IRN": {
-    "risk_score": 4.35,
-    "count": 5,
-    "top_news": "https://grenadachronicle.com/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003/",
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://english.aawsat.com/world/5266060-trump-dispatches-witkoff-and-kushner-pakistan-new-talks-iran%E2%80%99s-foreign-minister",
     "event_codes": {
-      "19": 3,
-      "14": 1,
-      "17": 1
+      "19": 7,
+      "16": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "has",
-      "three",
-      "aircraft",
-      "carriers",
-      "the",
-      "middle",
-      "east",
-      "for",
-      "first",
-      "time",
-      "since",
-      "2003"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.0,
-    "count": 14,
-    "top_news": "https://www.aol.co.uk/articles/hegseth-tells-europe-stop-talking-164235632.html",
-    "event_codes": {
-      "19": 10,
-      "17": 4
-    },
-    "keywords": [
-      "articles",
-      "hegseth",
-      "tells",
-      "europe",
-      "stop",
-      "talking",
-      "164235632.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://yalibnan.com/2026/04/24/iran-war-live-witkoff-and-kushner-to-join-talks-in-islamabad-with-irans-araqchi-us-official-says/",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "war",
-      "live",
+      "world",
+      "5266060",
+      "trump",
+      "dispatches",
       "witkoff",
       "and",
       "kushner",
-      "join",
+      "pakistan",
+      "new",
       "talks",
-      "islamabad",
-      "with",
-      "irans",
-      "araqchi",
-      "official",
-      "says"
+      "iran%e2%80%99s",
+      "foreign",
+      "minister"
     ]
   },
-  "MOZ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-local-byo-264196.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "index",
-      "news",
-      "local",
-      "byo",
-      "264196.html"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-local-byo-264194.html",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "index",
-      "news",
-      "local",
-      "byo",
-      "264194.html"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-local-byo-264196.html",
+  "ISR": {
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "https://english.aawsat.com/world/5266060-trump-dispatches-witkoff-and-kushner-pakistan-new-talks-iran%E2%80%99s-foreign-minister",
     "event_codes": {
       "19": 3,
-      "18": 2
+      "14": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "index",
+      "world",
+      "5266060",
+      "trump",
+      "dispatches",
+      "witkoff",
+      "and",
+      "kushner",
+      "pakistan",
+      "new",
+      "talks",
+      "iran%e2%80%99s",
+      "foreign",
+      "minister"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://dailypost.ng/2026/04/24/police-arrest-suspected-bandit-informants-recover-weapons-in-sokoto/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "arrest",
+      "suspected",
+      "bandit",
+      "informants",
+      "recover",
+      "weapons",
+      "sokoto"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.74,
+    "count": 10,
+    "top_news": "https://dailypost.ng/2026/04/24/police-announce-arrest-of-three-notorious-armed-robbers/",
+    "event_codes": {
+      "19": 5,
+      "17": 4,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "announce",
+      "arrest",
+      "three",
+      "notorious",
+      "armed",
+      "robbers"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://news.az/news/us-soldier-charged-over-maduro-removal-insider-bets-released-on-250-000-bond",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
       "news",
-      "local",
-      "byo",
-      "264196.html"
+      "soldier",
+      "charged",
+      "over",
+      "maduro",
+      "removal",
+      "insider",
+      "bets",
+      "released",
+      "250",
+      "000",
+      "bond"
     ]
   }
 }
