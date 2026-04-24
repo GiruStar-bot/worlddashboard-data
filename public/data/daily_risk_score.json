@@ -1,107 +1,113 @@
 {
-  "IRN": {
-    "risk_score": 9.6,
-    "count": 10,
-    "top_news": "https://www.presstv.ir/Detail/2026/04/24/767466/Mearsheimer--Trump-has-",
+  "EGY": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/us-army-major-virginia-charged-195351844.html",
     "event_codes": {
-      "19": 6,
-      "18": 3,
-      "16": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "767466",
-      "mearsheimer",
-      "trump",
-      "has"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.4,
-    "count": 21,
-    "top_news": "https://www.presstv.ir/Detail/2026/04/24/767479/Qalibaf-slams-criminal-Israeli-minister-vows-ironclad-unity-around-Leader",
-    "event_codes": {
-      "19": 13,
-      "14": 2,
-      "16": 2,
       "17": 2,
       "18": 2
     },
     "keywords": [
-      "detail",
-      "2026",
-      "767479",
-      "qalibaf",
-      "slams",
-      "criminal",
-      "israeli",
-      "minister",
-      "vows",
-      "ironclad",
-      "unity",
-      "around",
-      "leader"
+      "news",
+      "articles",
+      "army",
+      "major",
+      "virginia",
+      "charged",
+      "195351844.html"
     ]
   },
-  "LBN": {
-    "risk_score": 10.6,
-    "count": 11,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/24/wounded-lebanese-journalist-recounts-hours-of-agony-after-israeli-strike-killed-colleague",
+  "IRN": {
+    "risk_score": 7.3,
+    "count": 8,
+    "top_news": "https://peoplesworld.org/article/cowardice-of-qualification-when-anti-war-voices-speak-the-language-of-the-empire/",
     "event_codes": {
-      "19": 9,
-      "14": 1,
+      "19": 5,
+      "16": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "world",
-      "2026",
-      "wounded",
-      "lebanese",
-      "journalist",
-      "recounts",
-      "hours",
-      "agony",
-      "after",
-      "israeli",
-      "strike",
-      "killed",
-      "colleague"
+      "article",
+      "cowardice",
+      "qualification",
+      "when",
+      "anti",
+      "war",
+      "voices",
+      "speak",
+      "the",
+      "language",
+      "the",
+      "empire"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://saharareporters.com/2026/04/24/nigerian-police-arrest-two-suspects-over-killing-nysc-member-benue",
+  "ISR": {
+    "risk_score": 13.8,
+    "count": 14,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-torch-palestinian-property-near-nablus-in-west-bank/3917381",
     "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "2026",
-      "nigerian",
-      "police",
-      "arrest",
-      "two",
-      "suspects",
-      "over",
-      "killing",
-      "nysc",
-      "member",
-      "benue"
-    ]
-  },
-  "SYR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.jpost.com/middle-east/article-894086",
-    "event_codes": {
-      "19": 7
+      "19": 12,
+      "18": 2
     },
     "keywords": [
       "middle",
       "east",
-      "article",
-      "894086"
+      "israeli",
+      "occupiers",
+      "torch",
+      "palestinian",
+      "property",
+      "near",
+      "nablus",
+      "west",
+      "bank",
+      "3917381"
+    ]
+  },
+  "NER": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/874464-terrorists-kill-zamfara-community-protection-agents-others.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "874464",
+      "terrorists",
+      "kill",
+      "zamfara",
+      "community",
+      "protection",
+      "agents",
+      "others.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 24.05,
+    "count": 35,
+    "top_news": "https://www.thecable.ng/falana-asks-court-to-order-release-of-dj-equipment-seized-during-lagos-anti-demolition-protest/",
+    "event_codes": {
+      "17": 25,
+      "14": 9,
+      "16": 1
+    },
+    "keywords": [
+      "falana",
+      "asks",
+      "court",
+      "order",
+      "release",
+      "equipment",
+      "seized",
+      "during",
+      "lagos",
+      "anti",
+      "demolition",
+      "protest"
     ]
   }
 }
