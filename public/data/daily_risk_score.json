@@ -1,74 +1,107 @@
 {
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.mirror.co.uk/news/world-news/amal-khalil-journalist-israel-lebanon-37067559",
+  "IRN": {
+    "risk_score": 9.6,
+    "count": 10,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/24/767466/Mearsheimer--Trump-has-",
     "event_codes": {
-      "19": 5
+      "19": 6,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "amal",
-      "khalil",
-      "journalist",
-      "israel",
-      "lebanon",
-      "37067559"
+      "detail",
+      "2026",
+      "767466",
+      "mearsheimer",
+      "trump",
+      "has"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.4,
+    "count": 21,
+    "top_news": "https://www.presstv.ir/Detail/2026/04/24/767479/Qalibaf-slams-criminal-Israeli-minister-vows-ironclad-unity-around-Leader",
+    "event_codes": {
+      "19": 13,
+      "14": 2,
+      "16": 2,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "767479",
+      "qalibaf",
+      "slams",
+      "criminal",
+      "israeli",
+      "minister",
+      "vows",
+      "ironclad",
+      "unity",
+      "around",
+      "leader"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.mirror.co.uk/news/world-news/amal-khalil-journalist-israel-lebanon-37067559",
+    "risk_score": 10.6,
+    "count": 11,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/24/wounded-lebanese-journalist-recounts-hours-of-agony-after-israeli-strike-killed-colleague",
     "event_codes": {
-      "19": 3
+      "19": 9,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
       "world",
-      "news",
-      "amal",
-      "khalil",
-      "journalist",
-      "israel",
-      "lebanon",
-      "37067559"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.9,
-    "count": 6,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/25/2003856219",
-    "event_codes": {
-      "17": 4,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "taiwan",
-      "archives",
       "2026",
-      "2003856219"
+      "wounded",
+      "lebanese",
+      "journalist",
+      "recounts",
+      "hours",
+      "agony",
+      "after",
+      "israeli",
+      "strike",
+      "killed",
+      "colleague"
     ]
   },
-  "VEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://insightcrime.org/news/boss-in-shadows-rosalinda-gonzalez-valencias-role-in-cjng/",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/04/24/nigerian-police-arrest-two-suspects-over-killing-nysc-member-benue",
     "event_codes": {
-      "19": 3
+      "17": 4
     },
     "keywords": [
-      "news",
-      "boss",
-      "shadows",
-      "rosalinda",
-      "gonzalez",
-      "valencias",
-      "role",
-      "cjng"
+      "2026",
+      "nigerian",
+      "police",
+      "arrest",
+      "two",
+      "suspects",
+      "over",
+      "killing",
+      "nysc",
+      "member",
+      "benue"
+    ]
+  },
+  "SYR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.jpost.com/middle-east/article-894086",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "894086"
     ]
   }
 }
