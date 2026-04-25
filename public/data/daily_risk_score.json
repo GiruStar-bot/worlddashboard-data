@@ -1,36 +1,52 @@
 {
-  "IRN": {
-    "risk_score": 4.05,
-    "count": 7,
-    "top_news": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
+  "ISR": {
+    "risk_score": 11.31,
+    "count": 17,
+    "top_news": "https://nypost.com/2026/04/25/us-news/jihadist-ex-columbia-prof-on-vile-college-tour-tells-nyu-students-to-be-proud-of-hating-america/",
     "event_codes": {
+      "17": 8,
+      "14": 3,
       "16": 3,
-      "17": 2,
-      "18": 1,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "jihadist",
+      "columbia",
+      "prof",
+      "vile",
+      "college",
+      "tour",
+      "tells",
+      "nyu",
+      "students",
+      "proud",
+      "hating",
+      "america"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+    "event_codes": {
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "news",
-      "international",
-      "who",
-      "charge",
-      "iran",
+      "world",
+      "2026",
+      "apr",
+      "militants",
       "and",
-      "will",
-      "trump",
-      "get",
-      "any",
-      "call",
-      "from",
-      "tehran",
-      "talks",
-      "collapse",
-      "after",
-      "cancelled",
-      "islamabad",
-      "visit",
-      "articleshow",
-      "130522780.cms"
+      "separatists",
+      "launch",
+      "coordinated",
+      "attacks",
+      "across",
+      "mali"
     ]
   }
 }
