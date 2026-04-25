@@ -1,184 +1,81 @@
 {
-  "GUY": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.cubaheadlines.com/articles/327047",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "articles",
-      "327047"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.28,
+    "risk_score": 8.05,
     "count": 10,
-    "top_news": "https://fortune.com/2026/04/24/us-military-depleted-half-most-expensive-missiles-cost-of-iran-war/",
+    "top_news": "https://www.eurasiareview.com/25042026-iran-the-brutal-relocation-of-political-prisoners-to-ghezel-hesars-solitary-confinement-oped/",
     "event_codes": {
-      "17": 4,
-      "19": 4,
-      "15": 1,
-      "16": 1
+      "19": 5,
+      "17": 3,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "military",
-      "depleted",
-      "half",
-      "most",
-      "expensive",
-      "missiles",
-      "cost",
+      "25042026",
       "iran",
-      "war"
+      "the",
+      "brutal",
+      "relocation",
+      "political",
+      "prisoners",
+      "ghezel",
+      "hesars",
+      "solitary",
+      "confinement",
+      "oped"
     ]
   },
   "IRQ": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailymail.com/news/article-15763865/PM-legal-adviser-Lord-Hermer-reported-barristers-watchdog-witch-hunt-British-veterans.html",
+    "count": 3,
+    "top_news": "https://www.dailymail.com/columnists/article-15763549/BORIS-JOHNSON-vomit-inducing-persecution-innocent-British-troops-Hermer-join-Starmer-kicked-unpatriotic-government-islands-history.html",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
+      "columnists",
       "article",
-      "15763865",
-      "legal",
-      "adviser",
-      "lord",
-      "hermer",
-      "reported",
-      "barristers",
-      "watchdog",
-      "witch",
-      "hunt",
+      "15763549",
+      "boris",
+      "johnson",
+      "vomit",
+      "inducing",
+      "persecution",
+      "innocent",
       "british",
-      "veterans.html"
+      "troops",
+      "hermer",
+      "join",
+      "starmer",
+      "kicked",
+      "unpatriotic",
+      "government",
+      "islands",
+      "history.html"
     ]
   },
   "ISR": {
-    "risk_score": 13.0,
-    "count": 15,
-    "top_news": "https://www.thedickinsonpress.com/news/local/the-stark-county-blotter-fish-in-a-ditch-a-woman-harassed-by-a-customer-and-a-baby-allegedly-dropped-at-a-daycare",
+    "risk_score": 15.9,
+    "count": 16,
+    "top_news": "https://www.spacewar.com/afp/260424225331.qjft37t8.html",
     "event_codes": {
-      "19": 11,
-      "17": 4
+      "19": 16
     },
     "keywords": [
-      "news",
-      "local",
-      "the",
-      "stark",
-      "county",
-      "blotter",
-      "fish",
-      "ditch",
-      "woman",
-      "harassed",
-      "customer",
-      "and",
-      "baby",
-      "allegedly",
-      "dropped",
-      "daycare"
+      "afp",
+      "260424225331.qjft37t8.html"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/04/25/iran-s-foreign-minister-arrives-in-pakistan-trump-expects-offer-satisfying-us-demands-2",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.spacewar.com/afp/260424225331.qjft37t8.html",
     "event_codes": {
-      "19": 5
+      "19": 9
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "iran",
-      "foreign",
-      "minister",
-      "arrives",
-      "pakistan",
-      "trump",
-      "expects",
-      "offer",
-      "satisfying",
-      "demands"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.88,
-    "count": 4,
-    "top_news": "https://africa.com/us-led-drill-in-libya-aims-to-counter-russia/",
-    "event_codes": {
-      "15": 4
-    },
-    "keywords": [
-      "led",
-      "drill",
-      "libya",
-      "aims",
-      "counter",
-      "russia"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://punchng.com/delta-community-where-residents-drink-human-waste-polluted-river/",
-    "event_codes": {
-      "18": 3,
-      "14": 2,
-      "17": 1
-    },
-    "keywords": [
-      "delta",
-      "community",
-      "where",
-      "residents",
-      "drink",
-      "human",
-      "waste",
-      "polluted",
-      "river"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.warrackherald.com.au/maurice-odonohue-2026-04-25",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "maurice",
-      "odonohue",
-      "2026"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.elpais.com/international/2026-04-24/israel-has-killed-260-journalists-in-gaza-lebanon-yemen-and-iran.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "international",
-      "2026",
-      "israel",
-      "has",
-      "killed",
-      "260",
-      "journalists",
-      "gaza",
-      "lebanon",
-      "yemen",
-      "and",
-      "iran.html"
+      "afp",
+      "260424225331.qjft37t8.html"
     ]
   }
 }
