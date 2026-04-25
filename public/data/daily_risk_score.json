@@ -1,57 +1,95 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.hottalkradio.com/news/2026/04/26/",
+    "risk_score": 8.5,
+    "count": 11,
+    "top_news": "https://www.worthynews.com/113923-irans-exiled-crown-prince-attacked-in-berlin-after-ceasefire-criticism",
     "event_codes": {
-      "16": 3
+      "18": 5,
+      "16": 4,
+      "17": 2
+    },
+    "keywords": [
+      "113923",
+      "irans",
+      "exiled",
+      "crown",
+      "prince",
+      "attacked",
+      "berlin",
+      "after",
+      "ceasefire",
+      "criticism"
+    ]
+  },
+  "MLI": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.the-messenger.com/news/world/article_d035acbb-795a-53f0-9a34-2a6ee20b8e17.html",
+    "event_codes": {
+      "19": 6
     },
     "keywords": [
       "news",
-      "2026"
+      "world",
+      "article",
+      "d035acbb",
+      "795a",
+      "53f0",
+      "9a34",
+      "2a6ee20b8e17.html"
     ]
   },
-  "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://naharnet.com/stories/en/319787-israeli-army-says-six-hezbollah-fighters-killed-in-bint-jbeil",
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.the-messenger.com/news/world/article_d035acbb-795a-53f0-9a34-2a6ee20b8e17.html",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "stories",
-      "319787",
-      "israeli",
-      "army",
-      "says",
-      "six",
-      "hezbollah",
-      "fighters",
-      "killed",
-      "bint",
-      "jbeil"
+      "news",
+      "world",
+      "article",
+      "d035acbb",
+      "795a",
+      "53f0",
+      "9a34",
+      "2a6ee20b8e17.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://naharnet.com/stories/en/319787-israeli-army-says-six-hezbollah-fighters-killed-in-bint-jbeil",
+  "NGA": {
+    "risk_score": 7.6,
+    "count": 10,
+    "top_news": "https://saharareporters.com/2026/04/25/nnamdi-kanu-sends-message-ex-us-mayor-mike-arnold-pledges-ipob-support",
     "event_codes": {
-      "19": 2
+      "14": 4,
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "stories",
-      "319787",
-      "israeli",
-      "army",
-      "says",
-      "six",
-      "hezbollah",
-      "fighters",
-      "killed",
-      "bint",
-      "jbeil"
+      "2026",
+      "nnamdi",
+      "kanu",
+      "sends",
+      "message",
+      "mayor",
+      "mike",
+      "arnold",
+      "pledges",
+      "ipob",
+      "support"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4376423",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "tag",
+      "index"
     ]
   }
 }
