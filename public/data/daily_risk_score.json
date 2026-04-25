@@ -1,47 +1,69 @@
 {
-  "COL": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.mediaite.com/media/news/journos-hit-trump-with-23-attacks-on-freedom-of-the-press-in-blistering-whcd-letter/",
+  "IRN": {
+    "risk_score": 4.74,
+    "count": 6,
+    "top_news": "https://www.mankatofreepress.com/news/state_national_news/the-latest-trump-says-he-called-off-dispatching-envoys-to-iran-talks/article_8c458716-08dc-5583-8aa1-178470ca3881.html",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 3,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "media",
       "news",
-      "journos",
-      "hit",
-      "trump",
-      "with",
-      "attacks",
-      "freedom",
+      "state",
+      "national",
+      "news",
       "the",
-      "press",
-      "blistering",
-      "whcd",
-      "letter"
+      "latest",
+      "trump",
+      "says",
+      "called",
+      "off",
+      "dispatching",
+      "envoys",
+      "iran",
+      "talks",
+      "article",
+      "8c458716",
+      "08dc",
+      "5583",
+      "8aa1",
+      "178470ca3881.html"
     ]
   },
-  "KHM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://weeklyblitz.net/2026/04/26/us-sanctions-cambodian-power-broker-over-alleged-role-in-expanding-scam-networks/",
+  "ISR": {
+    "risk_score": 15.59,
+    "count": 18,
+    "top_news": "http://www.jpost.com/diaspora/antisemitism/article-894111",
     "event_codes": {
-      "19": 2
+      "17": 8,
+      "19": 7,
+      "20": 2,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "sanctions",
-      "cambodian",
-      "power",
-      "broker",
-      "over",
-      "alleged",
-      "role",
-      "expanding",
-      "scam",
-      "networks"
+      "diaspora",
+      "antisemitism",
+      "article",
+      "894111"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://athens-times.com/netanyahu-orders-idf-to-strike-hezbollah-with-force/",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "netanyahu",
+      "orders",
+      "idf",
+      "strike",
+      "hezbollah",
+      "with",
+      "force"
     ]
   }
 }
