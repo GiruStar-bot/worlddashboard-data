@@ -1,52 +1,57 @@
 {
-  "ISR": {
-    "risk_score": 11.31,
-    "count": 17,
-    "top_news": "https://nypost.com/2026/04/25/us-news/jihadist-ex-columbia-prof-on-vile-college-tour-tells-nyu-students-to-be-proud-of-hating-america/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.hottalkradio.com/news/2026/04/26/",
     "event_codes": {
-      "17": 8,
-      "14": 3,
-      "16": 3,
-      "19": 2,
+      "16": 3
+    },
+    "keywords": [
+      "news",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://naharnet.com/stories/en/319787-israeli-army-says-six-hezbollah-fighters-killed-in-bint-jbeil",
+    "event_codes": {
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "news",
-      "jihadist",
-      "columbia",
-      "prof",
-      "vile",
-      "college",
-      "tour",
-      "tells",
-      "nyu",
-      "students",
-      "proud",
-      "hating",
-      "america"
+      "stories",
+      "319787",
+      "israeli",
+      "army",
+      "says",
+      "six",
+      "hezbollah",
+      "fighters",
+      "killed",
+      "bint",
+      "jbeil"
     ]
   },
-  "MLI": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.theguardian.com/world/2026/apr/25/militants-and-separatists-launch-coordinated-attacks-across-mali",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://naharnet.com/stories/en/319787-israeli-army-says-six-hezbollah-fighters-killed-in-bint-jbeil",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "world",
-      "2026",
-      "apr",
-      "militants",
-      "and",
-      "separatists",
-      "launch",
-      "coordinated",
-      "attacks",
-      "across",
-      "mali"
+      "stories",
+      "319787",
+      "israeli",
+      "army",
+      "says",
+      "six",
+      "hezbollah",
+      "fighters",
+      "killed",
+      "bint",
+      "jbeil"
     ]
   }
 }
