@@ -1,32 +1,95 @@
 {
   "IRN": {
-    "risk_score": 5.6,
-    "count": 11,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/too-much-time-wasted-trump-scraps-iran-talks-in-islamabad-cites-tehrans-confused-leadership/articleshow/130518655.cms",
+    "risk_score": 6.49,
+    "count": 10,
+    "top_news": "https://aa.com.tr/en/middle-east/massive-fire-breaks-out-at-glue-factory-in-iran-s-chaharbagh/3917870",
     "event_codes": {
-      "16": 9,
+      "16": 6,
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "international",
-      "world",
-      "news",
-      "too",
-      "much",
-      "time",
-      "wasted",
-      "trump",
-      "scraps",
+      "middle",
+      "east",
+      "massive",
+      "fire",
+      "breaks",
+      "out",
+      "glue",
+      "factory",
       "iran",
-      "talks",
-      "islamabad",
-      "cites",
-      "tehrans",
-      "confused",
-      "leadership",
-      "articleshow",
-      "130518655.cms"
+      "chaharbagh",
+      "3917870"
+    ]
+  },
+  "ISR": {
+    "risk_score": 20.96,
+    "count": 29,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-forces-raid-syria-s-quneitra-countryside-set-up-temporary-checkpoints/3917951",
+    "event_codes": {
+      "17": 12,
+      "19": 8,
+      "14": 3,
+      "16": 3,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "forces",
+      "raid",
+      "syria",
+      "quneitra",
+      "countryside",
+      "set",
+      "temporary",
+      "checkpoints",
+      "3917951"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.7,
+    "count": 7,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-strikes-kill-4-in-lebanon-despite-ceasefire/3917833",
+    "event_codes": {
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "strikes",
+      "kill",
+      "lebanon",
+      "despite",
+      "ceasefire",
+      "3917833"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.37,
+    "count": 7,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-forces-raid-syria-s-quneitra-countryside-set-up-temporary-checkpoints/3917951",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "forces",
+      "raid",
+      "syria",
+      "quneitra",
+      "countryside",
+      "set",
+      "temporary",
+      "checkpoints",
+      "3917951"
     ]
   }
 }
