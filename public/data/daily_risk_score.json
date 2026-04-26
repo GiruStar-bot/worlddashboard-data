@@ -1,56 +1,177 @@
 {
-  "ISR": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/ive-returned-oldham-after-eight-33834834",
+  "IRN": {
+    "risk_score": 5.15,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/report-iran-caused-billions-damage-140029453.html",
     "event_codes": {
       "19": 4,
+      "14": 1,
       "17": 1
     },
     "keywords": [
       "news",
-      "greater",
-      "manchester",
+      "articles",
+      "report",
+      "iran",
+      "caused",
+      "billions",
+      "damage",
+      "140029453.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.92,
+    "count": 9,
+    "top_news": "https://www.jpost.com/israel-news/article-894128",
+    "event_codes": {
+      "19": 6,
+      "15": 1,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "israel",
       "news",
-      "ive",
-      "returned",
-      "oldham",
-      "after",
-      "eight",
-      "33834834"
+      "article",
+      "894128"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "http://sunatimes.com/articles/6508/BREAKING-Kenyan-Police-Arrest-Somali-Woman-Amid-Bribery-Allegations-Linked-to-TikTok-Claims",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "articles",
+      "6508",
+      "breaking",
+      "kenyan",
+      "police",
+      "arrest",
+      "somali",
+      "woman",
+      "amid",
+      "bribery",
+      "allegations",
+      "linked",
+      "tiktok",
+      "claims"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theaviationist.com/2026/04/26/report-claims-iranian-f-5-bombed-us-base/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "report",
+      "claims",
+      "iranian",
+      "bombed",
+      "base"
     ]
   },
   "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aljazeera.com/opinions/2026/4/26/israel-feared-amal-khalil-just-as-it-did-shireen-abu-akleh",
+    "top_news": "https://www.israelnationalnews.com/news/426104",
     "event_codes": {
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "opinions",
-      "2026",
-      "israel",
-      "feared",
-      "amal",
-      "khalil",
-      "just",
-      "did",
-      "shireen",
-      "abu",
-      "akleh"
+      "news",
+      "426104"
     ]
   },
   "MLI": {
-    "risk_score": 7.65,
-    "count": 8,
-    "top_news": "https://www.el-balad.com/16924833",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.algemeiner.com/2026/04/26/malis-defense-minister-reported-dead-in-major-weekend-assault/",
     "event_codes": {
-      "19": 7,
+      "19": 3,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "16924833"
+      "2026",
+      "malis",
+      "defense",
+      "minister",
+      "reported",
+      "dead",
+      "major",
+      "weekend",
+      "assault"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.99,
+    "count": 5,
+    "top_news": "https://punchng.com/lai-mohammed-blames-fake-news-for-endsars-protest-escalation/",
+    "event_codes": {
+      "15": 2,
+      "14": 1,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "lai",
+      "mohammed",
+      "blames",
+      "fake",
+      "news",
+      "for",
+      "endsars",
+      "protest",
+      "escalation"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://theaviationist.com/2026/04/26/report-claims-iranian-f-5-bombed-us-base/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "report",
+      "claims",
+      "iranian",
+      "bombed",
+      "base"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thegazette.com/news/world/syria-s-first-public-trial-of-assad-era-officials-opens-in-damascus/article_b79ab0e7-ff1e-51d4-af56-9fbb1927f974.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "syria",
+      "first",
+      "public",
+      "trial",
+      "assad",
+      "era",
+      "officials",
+      "opens",
+      "damascus",
+      "article",
+      "b79ab0e7",
+      "ff1e",
+      "51d4",
+      "af56",
+      "9fbb1927f974.html"
     ]
   }
 }
