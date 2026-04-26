@@ -1,109 +1,202 @@
 {
-  "IRN": {
-    "risk_score": 9.84,
-    "count": 15,
-    "top_news": "https://lasvegassun.com/news/2026/apr/26/trump-and-hegseth-gamble-with-american-lives-by-pu/",
+  "CHL": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://edition.cnn.com/2026/04/26/climate/chile-wildfire-new-fire-era-intl-latam",
     "event_codes": {
-      "17": 12,
-      "19": 3
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "climate",
+      "chile",
+      "wildfire",
+      "new",
+      "fire",
+      "era",
+      "intl",
+      "latam"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.42,
+    "count": 6,
+    "top_news": "https://www.the-messenger.com/news/national/article_f1eadad3-c436-5a12-844e-13dac89c337f.html",
+    "event_codes": {
+      "17": 3,
+      "19": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "apr",
-      "trump",
-      "and",
-      "hegseth",
-      "gamble",
-      "with",
-      "american",
-      "lives"
+      "national",
+      "article",
+      "f1eadad3",
+      "c436",
+      "5a12",
+      "844e",
+      "13dac89c337f.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.7,
-    "count": 9,
-    "top_news": "https://sana.sy/en/international/2312901/",
+    "risk_score": 16.19,
+    "count": 18,
+    "top_news": "https://www.clickondetroit.com/news/world/2026/04/26/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/",
     "event_codes": {
-      "19": 5,
-      "18": 4
+      "19": 12,
+      "17": 2,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "international",
-      "2312901"
+      "news",
+      "world",
+      "2026",
+      "the",
+      "latest",
+      "pakistan",
+      "says",
+      "iran",
+      "mediation",
+      "moving",
+      "ahead",
+      "after",
+      "trump",
+      "holds",
+      "back",
+      "envoys"
     ]
   },
   "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://dominicanrepublicpost.com/at-least-four-people-killed-in-israeli-attacks-in-gaza-despite-ceasefire/",
+    "top_news": "https://www.dailysabah.com/world/mid-east/4-palestinians-killed-in-latest-israeli-violations-of-gaza-cease-fire",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "least",
-      "four",
-      "people",
+      "world",
+      "mid",
+      "east",
+      "palestinians",
       "killed",
+      "latest",
       "israeli",
-      "attacks",
+      "violations",
       "gaza",
-      "despite",
-      "ceasefire"
+      "cease",
+      "fire"
     ]
   },
   "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.southcarolinapublicradio.org/news/2026-04-26/trump-doubts-shooter-motivated-by-iran-war-as-peace-talks-on-hold",
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon",
     "event_codes": {
-      "19": 6
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
       "2026",
-      "trump",
-      "doubts",
-      "shooter",
-      "motivated",
+      "what",
+      "lies",
+      "ahead",
+      "for",
+      "gaza",
+      "after",
+      "ceasefires",
       "iran",
-      "war",
-      "peace",
-      "talks",
-      "hold"
+      "and",
+      "lebanon"
     ]
   },
   "MLI": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://dominicanrepublicpost.com/malis-defence-minister-sadio-camara-killed-amid-coordinated-attacks/",
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.thehindu.com/news/international/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels/article70908588.ece",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "malis",
+      "news",
+      "international",
+      "mali",
       "defence",
       "minister",
-      "sadio",
-      "camara",
       "killed",
-      "amid",
-      "coordinated",
-      "attacks"
+      "fresh",
+      "fighting",
+      "between",
+      "army",
+      "and",
+      "rebels",
+      "article70908588.ece"
     ]
   },
-  "SYR": {
-    "risk_score": 3.7,
-    "count": 5,
-    "top_news": "https://sana.sy/en/syria/2312904/",
+  "NGA": {
+    "risk_score": 5.84,
+    "count": 6,
+    "top_news": "https://saharareporters.com/2026/04/26/families-allege-plot-police-inaction-after-two-killed-apc-ward-congress-ondo",
     "event_codes": {
-      "18": 3,
+      "19": 4,
       "17": 2
     },
     "keywords": [
+      "2026",
+      "families",
+      "allege",
+      "plot",
+      "police",
+      "inaction",
+      "after",
+      "two",
+      "killed",
+      "apc",
+      "ward",
+      "congress",
+      "ondo"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.7,
+    "count": 9,
+    "top_news": "https://dominicanrepublicpost.com/syria-puts-first-assad-era-official-on-trial-in-damascus/",
+    "event_codes": {
+      "17": 6,
+      "18": 3
+    },
+    "keywords": [
       "syria",
-      "2312904"
+      "puts",
+      "first",
+      "assad",
+      "era",
+      "official",
+      "trial",
+      "damascus"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.8,
+    "count": 7,
+    "top_news": "https://www.the-messenger.com/news/national/article_e3f91bf7-6674-5a42-8f14-66222face7b9.html",
+    "event_codes": {
+      "16": 7
+    },
+    "keywords": [
+      "news",
+      "national",
+      "article",
+      "e3f91bf7",
+      "6674",
+      "5a42",
+      "8f14",
+      "66222face7b9.html"
     ]
   }
 }
