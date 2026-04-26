@@ -1,60 +1,75 @@
 {
-  "CHL": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "https://edition.cnn.com/2026/04/26/climate/chile-wildfire-new-fire-era-intl-latam",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/20260426/db8536da04e14f6c8b0a534e7aa8e830/c.html",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "climate",
-      "chile",
-      "wildfire",
-      "new",
-      "fire",
-      "era",
-      "intl",
-      "latam"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.42,
-    "count": 6,
-    "top_news": "https://www.the-messenger.com/news/national/article_f1eadad3-c436-5a12-844e-13dac89c337f.html",
-    "event_codes": {
-      "17": 3,
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "article",
-      "f1eadad3",
-      "c436",
-      "5a12",
-      "844e",
-      "13dac89c337f.html"
+      "20260426",
+      "db8536da04e14f6c8b0a534e7aa8e830",
+      "c.html"
     ]
   },
   "ISR": {
-    "risk_score": 16.19,
-    "count": 18,
-    "top_news": "https://www.clickondetroit.com/news/world/2026/04/26/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/",
+    "risk_score": 4.22,
+    "count": 5,
+    "top_news": "https://english.news.cn/20260426/db8536da04e14f6c8b0a534e7aa8e830/c.html",
     "event_codes": {
-      "19": 12,
-      "17": 2,
-      "14": 1,
-      "15": 1,
+      "19": 2,
       "16": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
+      "20260426",
+      "db8536da04e14f6c8b0a534e7aa8e830",
+      "c.html"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://english.news.cn/20260426/acbc94481c4f4d03a6fd980e0be8c4b9/c.html",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "20260426",
+      "acbc94481c4f4d03a6fd980e0be8c4b9",
+      "c.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dailytrust.com/another-fire-destroys-over-5800-onion-bags-in-sokoto/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "another",
+      "fire",
+      "destroys",
+      "over",
+      "5800",
+      "onion",
+      "bags",
+      "sokoto"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.goskagit.com/news/ap_business/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_0e0de236-4e9e-5672-a6b5-90cca8ea0bb7.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "news",
-      "world",
-      "2026",
+      "business",
       "the",
       "latest",
       "pakistan",
@@ -67,136 +82,13 @@
       "trump",
       "holds",
       "back",
-      "envoys"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/4-palestinians-killed-in-latest-israeli-violations-of-gaza-cease-fire",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "palestinians",
-      "killed",
-      "latest",
-      "israeli",
-      "violations",
-      "gaza",
-      "cease",
-      "fire"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "what",
-      "lies",
-      "ahead",
-      "for",
-      "gaza",
-      "after",
-      "ceasefires",
-      "iran",
-      "and",
-      "lebanon"
-    ]
-  },
-  "MLI": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/international/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels/article70908588.ece",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "mali",
-      "defence",
-      "minister",
-      "killed",
-      "fresh",
-      "fighting",
-      "between",
-      "army",
-      "and",
-      "rebels",
-      "article70908588.ece"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.84,
-    "count": 6,
-    "top_news": "https://saharareporters.com/2026/04/26/families-allege-plot-police-inaction-after-two-killed-apc-ward-congress-ondo",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "families",
-      "allege",
-      "plot",
-      "police",
-      "inaction",
-      "after",
-      "two",
-      "killed",
-      "apc",
-      "ward",
-      "congress",
-      "ondo"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.7,
-    "count": 9,
-    "top_news": "https://dominicanrepublicpost.com/syria-puts-first-assad-era-official-on-trial-in-damascus/",
-    "event_codes": {
-      "17": 6,
-      "18": 3
-    },
-    "keywords": [
-      "syria",
-      "puts",
-      "first",
-      "assad",
-      "era",
-      "official",
-      "trial",
-      "damascus"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.8,
-    "count": 7,
-    "top_news": "https://www.the-messenger.com/news/national/article_e3f91bf7-6674-5a42-8f14-66222face7b9.html",
-    "event_codes": {
-      "16": 7
-    },
-    "keywords": [
-      "news",
-      "national",
+      "envoys",
       "article",
-      "e3f91bf7",
-      "6674",
-      "5a42",
-      "8f14",
-      "66222face7b9.html"
+      "0e0de236",
+      "4e9e",
+      "5672",
+      "a6b5",
+      "90cca8ea0bb7.html"
     ]
   }
 }
