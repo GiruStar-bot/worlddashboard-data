@@ -1,61 +1,94 @@
 {
   "IRN": {
-    "risk_score": 6.2,
-    "count": 8,
-    "top_news": "https://www.spacewar.com/afp/260426060550.wyj0n549.html",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://albaniandailynews.com/news/nato-says-no-provision-to-expel-members-after-report-us-could-seek-to-suspend-spain",
     "event_codes": {
-      "19": 4,
-      "16": 3,
-      "18": 1
-    },
-    "keywords": [
-      "afp",
-      "260426060550.wyj0n549.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.8,
-    "count": 10,
-    "top_news": "http://www.philippinetimes.com/news/279012087/the-eu-has-gone-mad-it-must-be-stopped-says-sergey-karaganov",
-    "event_codes": {
-      "19": 5,
-      "17": 3,
-      "14": 2
+      "19": 3
     },
     "keywords": [
       "news",
-      "279012087",
-      "the",
-      "has",
-      "gone",
-      "mad",
-      "must",
-      "stopped",
+      "nato",
       "says",
-      "sergey",
-      "karaganov"
+      "provision",
+      "expel",
+      "members",
+      "after",
+      "report",
+      "could",
+      "seek",
+      "suspend",
+      "spain"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.thehindubusinessline.com/news/world/israeli-attacks-kill-at-least-four-palestinians-in-gaza-amid-regular-ceasefire-violations/article70908110.ece",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "israeli",
+      "attacks",
+      "kill",
+      "least",
+      "four",
+      "palestinians",
+      "gaza",
+      "amid",
+      "regular",
+      "ceasefire",
+      "violations",
+      "article70908110.ece"
     ]
   },
   "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://variety.com/2026/tv/awards/ron-leshem-euphoria-no-mans-land-bad-boy-amit-cohen-1236730460/",
+    "risk_score": 6.6,
+    "count": 10,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/04/26/on-trial-for-atrocities-proceedings-against-assad-regime-officials-set-to-start-in-syria/",
     "event_codes": {
-      "19": 2
+      "17": 6,
+      "16": 2,
+      "20": 2
     },
     "keywords": [
+      "news",
+      "mena",
       "2026",
-      "awards",
-      "ron",
-      "leshem",
-      "euphoria",
-      "mans",
-      "land",
-      "bad",
-      "boy",
-      "amit",
-      "cohen",
-      "1236730460"
+      "trial",
+      "for",
+      "atrocities",
+      "proceedings",
+      "against",
+      "assad",
+      "regime",
+      "officials",
+      "set",
+      "start",
+      "syria"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://christianhistoryinstitute.org/dailystory/permalink/the-pope-plotted-to-assassinate-the-medici",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "dailystory",
+      "permalink",
+      "the",
+      "pope",
+      "plotted",
+      "assassinate",
+      "the",
+      "medici"
     ]
   }
 }
