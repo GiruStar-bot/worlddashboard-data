@@ -1,166 +1,86 @@
 {
-  "BFA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wdrb.com/news/national/islamic-militants-and-separatists-claim-sweeping-attacks-across-mali/article_172d9b59-f42e-5efd-afde-72c3b775efd0.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "national",
-      "islamic",
-      "militants",
-      "and",
-      "separatists",
-      "claim",
-      "sweeping",
-      "attacks",
-      "across",
-      "mali",
-      "article",
-      "172d9b59",
-      "f42e",
-      "5efd",
-      "afde",
-      "72c3b775efd0.html"
-    ]
-  },
-  "COL": {
-    "risk_score": 3.85,
-    "count": 4,
-    "top_news": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-april-26-2026",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "while",
-      "you",
-      "were",
-      "sleeping",
-      "stories",
-      "you",
-      "might",
-      "have",
-      "missed",
-      "april",
-      "2026"
-    ]
-  },
   "IRN": {
-    "risk_score": 17.8,
-    "count": 20,
-    "top_news": "https://www.gdnonline.com:443/Details/1392716",
+    "risk_score": 11.1,
+    "count": 14,
+    "top_news": "https://dnd.com.pk/iran-rejects-pakistan-demanded-and-us-approved-ceasefire/329385/",
     "event_codes": {
-      "19": 15,
-      "16": 5
+      "16": 5,
+      "17": 4,
+      "19": 4,
+      "15": 1
     },
     "keywords": [
-      "details",
-      "1392716"
-    ]
-  },
-  "ISR": {
-    "risk_score": 20.35,
-    "count": 24,
-    "top_news": "https://www.gdnonline.com:443/Details/1392729",
-    "event_codes": {
-      "19": 16,
-      "17": 6,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "details",
-      "1392729"
+      "iran",
+      "rejects",
+      "pakistan",
+      "demanded",
+      "and",
+      "approved",
+      "ceasefire",
+      "329385"
     ]
   },
   "LBN": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.gdnonline.com:443/Details/1392729",
-    "event_codes": {
-      "19": 7,
-      "18": 1
-    },
-    "keywords": [
-      "details",
-      "1392729"
-    ]
-  },
-  "MLI": {
-    "risk_score": 24.16,
-    "count": 26,
-    "top_news": "https://www.wdrb.com/news/national/islamic-militants-and-separatists-claim-sweeping-attacks-across-mali/article_172d9b59-f42e-5efd-afde-72c3b775efd0.html",
-    "event_codes": {
-      "19": 20,
-      "17": 6
-    },
-    "keywords": [
-      "news",
-      "national",
-      "islamic",
-      "militants",
-      "and",
-      "separatists",
-      "claim",
-      "sweeping",
-      "attacks",
-      "across",
-      "mali",
-      "article",
-      "172d9b59",
-      "f42e",
-      "5efd",
-      "afde",
-      "72c3b775efd0.html"
-    ]
-  },
-  "NER": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wdrb.com/news/national/islamic-militants-and-separatists-claim-sweeping-attacks-across-mali/article_172d9b59-f42e-5efd-afde-72c3b775efd0.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "national",
-      "islamic",
-      "militants",
-      "and",
-      "separatists",
-      "claim",
-      "sweeping",
-      "attacks",
-      "across",
-      "mali",
-      "article",
-      "172d9b59",
-      "f42e",
-      "5efd",
-      "afde",
-      "72c3b775efd0.html"
-    ]
-  },
-  "VEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.straitstimes.com/world/colombia-explosives-attack-kills-13-police-source-says",
+    "top_news": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-donald-trump-pakistan-tehran-araghchi-peace-talks-nuclear-strait-of-hormuz-ceasefire-israel-101777168309314.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "world",
-      "colombia",
-      "explosives",
-      "attack",
-      "kills",
-      "police",
-      "source",
-      "says"
+      "news",
+      "iran",
+      "war",
+      "live",
+      "updates",
+      "donald",
+      "trump",
+      "pakistan",
+      "tehran",
+      "araghchi",
+      "peace",
+      "talks",
+      "nuclear",
+      "strait",
+      "hormuz",
+      "ceasefire",
+      "israel",
+      "101777168309314.html"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yumasun.com/news/national_news/ap-news-in-brief-at-11-04-p-m-edt/article_e22fbdcd-5b00-5182-8a6f-960d847ab91e.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "news",
+      "news",
+      "brief",
+      "edt",
+      "article",
+      "e22fbdcd",
+      "5b00",
+      "5182",
+      "8a6f",
+      "960d847ab91e.html"
+    ]
+  },
+  "URY": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.cubaheadlines.com/articles/327105",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "articles",
+      "327105"
     ]
   }
 }
