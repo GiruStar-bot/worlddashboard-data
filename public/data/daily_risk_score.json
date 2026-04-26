@@ -1,42 +1,91 @@
 {
-  "IRN": {
-    "risk_score": 3.45,
-    "count": 5,
-    "top_news": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-58/article",
-    "event_codes": {
-      "14": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "article"
-    ]
-  },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://tribune.com.pk/story/2604898/new-wave-of-israeli-strikes-kill-4-palestinians-in-gaza",
+    "risk_score": 6.2,
+    "count": 8,
+    "top_news": "https://countercurrents.org/2026/04/israeli-forces-expand-so-called-yellow-line-in-gaza-occupy-now-over-53-percent-of-territory/",
     "event_codes": {
       "19": 5,
-      "17": 2
+      "16": 3
     },
     "keywords": [
-      "story",
-      "2604898",
-      "new",
-      "wave",
+      "2026",
+      "israeli",
+      "forces",
+      "expand",
+      "called",
+      "yellow",
+      "line",
+      "gaza",
+      "occupy",
+      "now",
+      "over",
+      "percent",
+      "territory"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/middle-east/southern-lebanon-witnesses-widespread-displacement-due-to-israeli-strikes-after-netanyahus-escalation-order/3918640",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "southern",
+      "lebanon",
+      "witnesses",
+      "widespread",
+      "displacement",
+      "due",
       "israeli",
       "strikes",
-      "kill",
-      "palestinians",
-      "gaza"
+      "after",
+      "netanyahus",
+      "escalation",
+      "order",
+      "3918640"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://medafricatimes.com/45124-morocco-condemns-terrorist-separatist-attacks-in-mali.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "45124",
+      "morocco",
+      "condemns",
+      "terrorist",
+      "separatist",
+      "attacks",
+      "mali.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://countercurrents.org/2026/04/israeli-forces-expand-so-called-yellow-line-in-gaza-occupy-now-over-53-percent-of-territory/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "forces",
+      "expand",
+      "called",
+      "yellow",
+      "line",
+      "gaza",
+      "occupy",
+      "now",
+      "over",
+      "percent",
+      "territory"
     ]
   }
 }
