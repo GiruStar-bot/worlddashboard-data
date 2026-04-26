@@ -1,95 +1,166 @@
 {
-  "IRN": {
-    "risk_score": 8.5,
-    "count": 11,
-    "top_news": "https://www.worthynews.com/113923-irans-exiled-crown-prince-attacked-in-berlin-after-ceasefire-criticism",
+  "BFA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.wdrb.com/news/national/islamic-militants-and-separatists-claim-sweeping-attacks-across-mali/article_172d9b59-f42e-5efd-afde-72c3b775efd0.html",
     "event_codes": {
-      "18": 5,
-      "16": 4,
-      "17": 2
-    },
-    "keywords": [
-      "113923",
-      "irans",
-      "exiled",
-      "crown",
-      "prince",
-      "attacked",
-      "berlin",
-      "after",
-      "ceasefire",
-      "criticism"
-    ]
-  },
-  "MLI": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.the-messenger.com/news/world/article_d035acbb-795a-53f0-9a34-2a6ee20b8e17.html",
-    "event_codes": {
-      "19": 6
+      "19": 3
     },
     "keywords": [
       "news",
-      "world",
+      "national",
+      "islamic",
+      "militants",
+      "and",
+      "separatists",
+      "claim",
+      "sweeping",
+      "attacks",
+      "across",
+      "mali",
       "article",
-      "d035acbb",
-      "795a",
-      "53f0",
-      "9a34",
-      "2a6ee20b8e17.html"
+      "172d9b59",
+      "f42e",
+      "5efd",
+      "afde",
+      "72c3b775efd0.html"
+    ]
+  },
+  "COL": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-april-26-2026",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "while",
+      "you",
+      "were",
+      "sleeping",
+      "stories",
+      "you",
+      "might",
+      "have",
+      "missed",
+      "april",
+      "2026"
+    ]
+  },
+  "IRN": {
+    "risk_score": 17.8,
+    "count": 20,
+    "top_news": "https://www.gdnonline.com:443/Details/1392716",
+    "event_codes": {
+      "19": 15,
+      "16": 5
+    },
+    "keywords": [
+      "details",
+      "1392716"
+    ]
+  },
+  "ISR": {
+    "risk_score": 20.35,
+    "count": 24,
+    "top_news": "https://www.gdnonline.com:443/Details/1392729",
+    "event_codes": {
+      "19": 16,
+      "17": 6,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1392729"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "https://www.gdnonline.com:443/Details/1392729",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1392729"
+    ]
+  },
+  "MLI": {
+    "risk_score": 24.16,
+    "count": 26,
+    "top_news": "https://www.wdrb.com/news/national/islamic-militants-and-separatists-claim-sweeping-attacks-across-mali/article_172d9b59-f42e-5efd-afde-72c3b775efd0.html",
+    "event_codes": {
+      "19": 20,
+      "17": 6
+    },
+    "keywords": [
+      "news",
+      "national",
+      "islamic",
+      "militants",
+      "and",
+      "separatists",
+      "claim",
+      "sweeping",
+      "attacks",
+      "across",
+      "mali",
+      "article",
+      "172d9b59",
+      "f42e",
+      "5efd",
+      "afde",
+      "72c3b775efd0.html"
     ]
   },
   "NER": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.the-messenger.com/news/world/article_d035acbb-795a-53f0-9a34-2a6ee20b8e17.html",
+    "top_news": "https://www.wdrb.com/news/national/islamic-militants-and-separatists-claim-sweeping-attacks-across-mali/article_172d9b59-f42e-5efd-afde-72c3b775efd0.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "world",
+      "national",
+      "islamic",
+      "militants",
+      "and",
+      "separatists",
+      "claim",
+      "sweeping",
+      "attacks",
+      "across",
+      "mali",
       "article",
-      "d035acbb",
-      "795a",
-      "53f0",
-      "9a34",
-      "2a6ee20b8e17.html"
+      "172d9b59",
+      "f42e",
+      "5efd",
+      "afde",
+      "72c3b775efd0.html"
     ]
   },
-  "NGA": {
-    "risk_score": 7.6,
-    "count": 10,
-    "top_news": "https://saharareporters.com/2026/04/25/nnamdi-kanu-sends-message-ex-us-mayor-mike-arnold-pledges-ipob-support",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.straitstimes.com/world/colombia-explosives-attack-kills-13-police-source-says",
     "event_codes": {
-      "14": 4,
-      "19": 4,
-      "17": 2
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "nnamdi",
-      "kanu",
-      "sends",
-      "message",
-      "mayor",
-      "mike",
-      "arnold",
-      "pledges",
-      "ipob",
-      "support"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4376423",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "tag",
-      "index"
+      "world",
+      "colombia",
+      "explosives",
+      "attack",
+      "kills",
+      "police",
+      "source",
+      "says"
     ]
   }
 }
