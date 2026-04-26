@@ -1,81 +1,136 @@
 {
-  "IRN": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/04/26/us-vs-iran-trump-cancels-witkoff-kushners-trip-to-islamabad-for-peace-talks/",
+  "COL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.khaama.com/bomb-attack-kills-14-in-southwest-colombia-ahead-of-election/",
     "event_codes": {
-      "17": 3,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
+      "bomb",
+      "attack",
+      "kills",
+      "southwest",
+      "colombia",
+      "ahead",
+      "election"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.94,
+    "count": 13,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-linked-militant-group-says-report",
+    "event_codes": {
+      "19": 7,
+      "17": 4,
+      "16": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
       "iran",
-      "trump",
-      "cancels",
-      "witkoff",
-      "kushners",
-      "trip",
-      "islamabad",
-      "for",
-      "peace",
-      "talks"
+      "executes",
+      "man",
+      "linked",
+      "militant",
+      "group",
+      "says",
+      "report"
     ]
   },
   "ISR": {
-    "risk_score": 8.85,
-    "count": 10,
-    "top_news": "https://www.journalismpakistan.com/press-freedom-review-wave-of-arrests-lawsuits-and-attacks",
+    "risk_score": 6.85,
+    "count": 8,
+    "top_news": "http://www.jpost.com/international/article-894139",
     "event_codes": {
-      "19": 8,
-      "17": 2
+      "19": 5,
+      "14": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "press",
-      "freedom",
-      "review",
-      "wave",
-      "arrests",
-      "lawsuits",
-      "and",
-      "attacks"
+      "international",
+      "article",
+      "894139"
     ]
   },
   "LBN": {
-    "risk_score": 3.85,
-    "count": 5,
-    "top_news": "https://www.journalismpakistan.com/press-freedom-review-wave-of-arrests-lawsuits-and-attacks",
+    "risk_score": 9.5,
+    "count": 10,
+    "top_news": "http://www.jpost.com/middle-east/article-894143",
     "event_codes": {
-      "18": 3,
-      "17": 2
+      "19": 9,
+      "17": 1
     },
     "keywords": [
-      "press",
-      "freedom",
-      "review",
-      "wave",
-      "arrests",
-      "lawsuits",
-      "and",
-      "attacks"
+      "middle",
+      "east",
+      "article",
+      "894143"
     ]
   },
   "MLI": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.channelstv.com/2026/04/26/fresh-fighting-erupts-in-malis-kidal-as-rebels-army-clash/",
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.wboc.com/news/international/mali-separatists-confirm-they-joined-islamic-militants-in-coordinated-attacks/article_174b253a-f552-53d4-b496-765c542dab70.html",
     "event_codes": {
-      "19": 7
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "international",
+      "mali",
+      "separatists",
+      "confirm",
+      "they",
+      "joined",
+      "islamic",
+      "militants",
+      "coordinated",
+      "attacks",
+      "article",
+      "174b253a",
+      "f552",
+      "53d4",
+      "b496",
+      "765c542dab70.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/middle-east/article-894143",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "894143"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.cnn.com/2026/04/26/americas/carvajal-pollo-maduro-venezuela-trial-latam-intl",
+    "event_codes": {
+      "17": 2,
+      "18": 2
     },
     "keywords": [
       "2026",
-      "fresh",
-      "fighting",
-      "erupts",
-      "malis",
-      "kidal",
-      "rebels",
-      "army",
-      "clash"
+      "americas",
+      "carvajal",
+      "pollo",
+      "maduro",
+      "venezuela",
+      "trial",
+      "latam",
+      "intl"
     ]
   }
 }
