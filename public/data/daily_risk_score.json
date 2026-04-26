@@ -1,43 +1,83 @@
 {
   "IRN": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.canberratimes.com.au/story/9232089/anthony-albanese-government-impact-of-key-reforms-on-australians/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.israelnationalnews.com/news/426114",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "story",
-      "9232089",
-      "anthony",
-      "albanese",
-      "government",
-      "impact",
-      "key",
-      "reforms",
-      "australians"
+      "news",
+      "426114"
     ]
   },
   "ISR": {
-    "risk_score": 4.1,
-    "count": 5,
-    "top_news": "https://www.canberratimes.com.au/story/9232089/anthony-albanese-government-impact-of-key-reforms-on-australians/",
+    "risk_score": 2.2,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260426155844.4hwshh7f.html",
     "event_codes": {
-      "14": 2,
+      "16": 4
+    },
+    "keywords": [
+      "afp",
+      "260426155844.4hwshh7f.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.25,
+    "count": 8,
+    "top_news": "https://www.israelnationalnews.com/news/426114",
+    "event_codes": {
+      "19": 6,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "426114"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.gazetaexpress.com/en/mali-dhe-burkina-faso-dergojne-avione-luftarake-ne-niger-ne-pergjigje-te-nderhyrjes-se-mundshme-ushtarake/",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "mali",
+      "dhe",
+      "burkina",
+      "faso",
+      "dergojne",
+      "avione",
+      "luftarake",
+      "niger",
+      "pergjigje",
+      "nderhyrjes",
+      "mundshme",
+      "ushtarake"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.3,
+    "count": 10,
+    "top_news": "https://blueprint.ng/2-police-officers-shot-reps-aspirant-escapes-assassination-in-anambra/",
+    "event_codes": {
+      "17": 4,
+      "18": 3,
       "19": 2,
       "16": 1
     },
     "keywords": [
-      "story",
-      "9232089",
-      "anthony",
-      "albanese",
-      "government",
-      "impact",
-      "key",
-      "reforms",
-      "australians"
+      "police",
+      "officers",
+      "shot",
+      "reps",
+      "aspirant",
+      "escapes",
+      "assassination",
+      "anambra"
     ]
   }
 }
