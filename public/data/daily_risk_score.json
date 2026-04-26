@@ -1,61 +1,43 @@
 {
-  "CAF": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/node/2636309/world",
+  "IRN": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.canberratimes.com.au/story/9232089/anthony-albanese-government-impact-of-key-reforms-on-australians/",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "node",
-      "2636309",
-      "world"
+      "story",
+      "9232089",
+      "anthony",
+      "albanese",
+      "government",
+      "impact",
+      "key",
+      "reforms",
+      "australians"
     ]
   },
   "ISR": {
-    "risk_score": 7.17,
-    "count": 8,
-    "top_news": "https://english.wafa.ps/Pages/Details/169843",
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://www.canberratimes.com.au/story/9232089/anthony-albanese-government-impact-of-key-reforms-on-australians/",
     "event_codes": {
-      "18": 3,
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "14": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "169843"
-    ]
-  },
-  "MMR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.aol.co.uk/articles/why-king-not-fazed-attack-123042745.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "articles",
-      "why",
-      "king",
-      "not",
-      "fazed",
-      "attack",
-      "123042745.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://english.wafa.ps/Pages/Details/169838",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "169838"
+      "story",
+      "9232089",
+      "anthony",
+      "albanese",
+      "government",
+      "impact",
+      "key",
+      "reforms",
+      "australians"
     ]
   }
 }
