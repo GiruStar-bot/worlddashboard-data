@@ -1,83 +1,117 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.israelnationalnews.com/news/426114",
+    "risk_score": 9.4,
+    "count": 14,
+    "top_news": "https://www.arabnews.com/node/2635406/middle-east",
     "event_codes": {
-      "19": 2
+      "16": 8,
+      "19": 6
     },
     "keywords": [
-      "news",
-      "426114"
+      "node",
+      "2635406",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260426155844.4hwshh7f.html",
+    "risk_score": 14.5,
+    "count": 15,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/lebanon-says-israel-strikes-kill-14-in-deadliest-day-since-truce-101777237385650.html",
     "event_codes": {
-      "16": 4
+      "19": 11,
+      "18": 4
     },
     "keywords": [
-      "afp",
-      "260426155844.4hwshh7f.html"
+      "world",
+      "news",
+      "news",
+      "lebanon",
+      "says",
+      "israel",
+      "strikes",
+      "kill",
+      "deadliest",
+      "day",
+      "since",
+      "truce",
+      "101777237385650.html"
     ]
   },
   "LBN": {
-    "risk_score": 7.25,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/426114",
+    "risk_score": 14.0,
+    "count": 17,
+    "top_news": "https://www.arabnews.com/node/2635409/middle-east",
     "event_codes": {
-      "19": 6,
-      "16": 2
+      "19": 11,
+      "16": 4,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "426114"
+      "node",
+      "2635409",
+      "middle",
+      "east"
     ]
   },
   "MLI": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://www.gazetaexpress.com/en/mali-dhe-burkina-faso-dergojne-avione-luftarake-ne-niger-ne-pergjigje-te-nderhyrjes-se-mundshme-ushtarake/",
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/875061-russias-africa-corps-describes-mali-attacks-as-coup-attempt-blames-west.html",
     "event_codes": {
-      "17": 4,
-      "19": 2
-    },
-    "keywords": [
-      "mali",
-      "dhe",
-      "burkina",
-      "faso",
-      "dergojne",
-      "avione",
-      "luftarake",
-      "niger",
-      "pergjigje",
-      "nderhyrjes",
-      "mundshme",
-      "ushtarake"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.3,
-    "count": 10,
-    "top_news": "https://blueprint.ng/2-police-officers-shot-reps-aspirant-escapes-assassination-in-anambra/",
-    "event_codes": {
-      "17": 4,
-      "18": 3,
       "19": 2,
       "16": 1
     },
     "keywords": [
-      "police",
-      "officers",
-      "shot",
-      "reps",
-      "aspirant",
-      "escapes",
-      "assassination",
-      "anambra"
+      "news",
+      "headlines",
+      "875061",
+      "russias",
+      "africa",
+      "corps",
+      "describes",
+      "mali",
+      "attacks",
+      "coup",
+      "attempt",
+      "blames",
+      "west.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.84,
+    "count": 3,
+    "top_news": "https://www.premiumtimesng.com/opinion/875047-instalmental-disintegration-by-wole-olaoye.html",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "875047",
+      "instalmental",
+      "disintegration",
+      "wole",
+      "olaoye.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 6.5,
+    "count": 13,
+    "top_news": "https://www.abc.net.au/news/2026-04-27/masood-zakaria-turkiye-extradition-secret-file/106473020",
+    "event_codes": {
+      "17": 13
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "masood",
+      "zakaria",
+      "turkiye",
+      "extradition",
+      "secret",
+      "file",
+      "106473020"
     ]
   }
 }
