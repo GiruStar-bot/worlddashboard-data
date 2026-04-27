@@ -1,45 +1,49 @@
 {
-  "ISR": {
-    "risk_score": 7.65,
-    "count": 9,
-    "top_news": "https://forward.com/opinion/821248/israel-murders-violence-netanyahu/",
+  "IRN": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.okaz.com.sa/politics/na/2246077",
     "event_codes": {
-      "19": 4,
+      "16": 4
+    },
+    "keywords": [
+      "politics",
+      "2246077"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2605207/israeli-strikes-hit-east-lebanon",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "story",
+      "2605207",
+      "israeli",
+      "strikes",
+      "hit",
+      "east",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.75,
+    "count": 19,
+    "top_news": "https://dailytrust.com/xenophobia-two-nigerians-killed-in-south-africa/",
+    "event_codes": {
+      "19": 16,
       "17": 2,
-      "18": 2,
       "14": 1
     },
     "keywords": [
-      "opinion",
-      "821248",
-      "israel",
-      "murders",
-      "violence",
-      "netanyahu"
-    ]
-  },
-  "MLI": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.whmi.com/news/fox/major-blow-putin-africa-russian-forces-driven-from-mali-stronghold-separatists-jihadists",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "fox",
-      "major",
-      "blow",
-      "putin",
-      "africa",
-      "russian",
-      "forces",
-      "driven",
-      "from",
-      "mali",
-      "stronghold",
-      "separatists",
-      "jihadists"
+      "xenophobia",
+      "two",
+      "nigerians",
+      "killed",
+      "south",
+      "africa"
     ]
   }
 }
