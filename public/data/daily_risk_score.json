@@ -1,53 +1,45 @@
 {
-  "IRN": {
-    "risk_score": 10.1,
-    "count": 11,
-    "top_news": "https://www.the-sun.com/news/16280576/",
+  "ISR": {
+    "risk_score": 7.65,
+    "count": 9,
+    "top_news": "https://forward.com/opinion/821248/israel-murders-violence-netanyahu/",
     "event_codes": {
-      "19": 8,
+      "19": 4,
+      "17": 2,
       "18": 2,
-      "16": 1
+      "14": 1
     },
     "keywords": [
-      "news",
-      "16280576"
+      "opinion",
+      "821248",
+      "israel",
+      "murders",
+      "violence",
+      "netanyahu"
     ]
   },
-  "ISR": {
+  "MLI": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.news.cn/europe/20260428/c5d0732ed9a14e7fb068fd79bee64e24/c.html",
+    "top_news": "https://www.whmi.com/news/fox/major-blow-putin-africa-russian-forces-driven-from-mali-stronghold-separatists-jihadists",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "europe",
-      "20260428",
-      "c5d0732ed9a14e7fb068fd79bee64e24",
-      "c.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://mynewsla.com/crime/2026/04/27/ex-chp-officer-dui-suspect-plead-not-guilty-in-freeway-deaths/",
-    "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "crime",
-      "2026",
-      "chp",
-      "officer",
-      "dui",
-      "suspect",
-      "plead",
-      "not",
-      "guilty",
-      "freeway",
-      "deaths"
+      "news",
+      "fox",
+      "major",
+      "blow",
+      "putin",
+      "africa",
+      "russian",
+      "forces",
+      "driven",
+      "from",
+      "mali",
+      "stronghold",
+      "separatists",
+      "jihadists"
     ]
   }
 }
