@@ -1,105 +1,90 @@
 {
-  "COL": {
+  "ARG": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.newsghana.com.gh/bomb-attack-on-colombia-bus-kills-20-amid-violence-surge/",
+    "top_news": "https://www.thetimes.com/travel/inspiration/andrew-wincott-i-went-on-an-archers-cruise-with-a-shipload-of-fans-nj5pjk3fb",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "bomb",
-      "attack",
-      "colombia",
-      "bus",
-      "kills",
-      "amid",
-      "violence",
-      "surge"
+      "travel",
+      "inspiration",
+      "andrew",
+      "wincott",
+      "went",
+      "archers",
+      "cruise",
+      "with",
+      "shipload",
+      "fans",
+      "nj5pjk3fb"
     ]
   },
   "IRN": {
-    "risk_score": 5.76,
-    "count": 8,
-    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_506c1f21-764d-5540-8d96-c56428f8a512.html",
+    "risk_score": 4.02,
+    "count": 6,
+    "top_news": "http://www.morningsun.net/stories/ap-news-in-brief-at-1204-am-edt,335278",
     "event_codes": {
-      "17": 3,
-      "18": 3,
+      "16": 4,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "news",
+      "brief",
+      "1204",
+      "edt,335278"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.26,
+    "count": 7,
+    "top_news": "https://pajhwok.com/2026/04/27/14-killed-37-wounded-in-israeli-strikes-in-lebanon/",
+    "event_codes": {
+      "17": 6,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "killed",
+      "wounded",
+      "israeli",
+      "strikes",
+      "lebanon"
+    ]
+  },
+  "MLI": {
+    "risk_score": 8.9,
+    "count": 9,
+    "top_news": "http://www.morningsun.net/stories/ap-news-in-brief-at-1204-am-edt,335278",
+    "event_codes": {
+      "19": 9
+    },
+    "keywords": [
+      "stories",
+      "news",
+      "brief",
+      "1204",
+      "edt,335278"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.45,
+    "count": 18,
+    "top_news": "https://dailytrust.com/3-mourners-gunned-down-in-benue/",
+    "event_codes": {
+      "17": 6,
+      "14": 5,
+      "18": 5,
       "16": 1,
       "19": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "and",
-      "world",
-      "news",
-      "the",
-      "latest",
-      "pakistan",
-      "says",
-      "iran",
-      "mediation",
-      "moving",
-      "ahead",
-      "after",
-      "trump",
-      "holds",
-      "back",
-      "envoys",
-      "article",
-      "506c1f21",
-      "764d",
-      "5540",
-      "8d96",
-      "c56428f8a512.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.5,
-    "count": 16,
-    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_506c1f21-764d-5540-8d96-c56428f8a512.html",
-    "event_codes": {
-      "19": 15,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "and",
-      "world",
-      "news",
-      "the",
-      "latest",
-      "pakistan",
-      "says",
-      "iran",
-      "mediation",
-      "moving",
-      "ahead",
-      "after",
-      "trump",
-      "holds",
-      "back",
-      "envoys",
-      "article",
-      "506c1f21",
-      "764d",
-      "5540",
-      "8d96",
-      "c56428f8a512.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/r1hxa11h611x",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "article",
-      "r1hxa11h611x"
+      "mourners",
+      "gunned",
+      "down",
+      "benue"
     ]
   }
 }
