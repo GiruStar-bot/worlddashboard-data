@@ -1,63 +1,53 @@
 {
   "IRN": {
-    "risk_score": 6.24,
-    "count": 7,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-impeachment-democrats-midterms-jeffries-b2965871.html",
+    "risk_score": 10.1,
+    "count": 11,
+    "top_news": "https://www.the-sun.com/news/16280576/",
     "event_codes": {
-      "16": 3,
-      "17": 2,
-      "19": 2
+      "19": 8,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
       "news",
-      "world",
-      "americas",
-      "politics",
-      "trump",
-      "impeachment",
-      "democrats",
-      "midterms",
-      "jeffries",
-      "b2965871.html"
+      "16280576"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/europe/20260428/c5d0732ed9a14e7fb068fd79bee64e24/c.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "europe",
+      "20260428",
+      "c5d0732ed9a14e7fb068fd79bee64e24",
+      "c.html"
     ]
   },
   "JOR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://brooklyneagle.com/383251/man-pleads-guilty-in-jam-master-jay-murder/",
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://mynewsla.com/crime/2026/04/27/ex-chp-officer-dui-suspect-plead-not-guilty-in-freeway-deaths/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "18": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "383251",
-      "man",
-      "pleads",
+      "crime",
+      "2026",
+      "chp",
+      "officer",
+      "dui",
+      "suspect",
+      "plead",
+      "not",
       "guilty",
-      "jam",
-      "master",
-      "jay",
-      "murder"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-impeachment-democrats-midterms-jeffries-b2965871.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "americas",
-      "politics",
-      "trump",
-      "impeachment",
-      "democrats",
-      "midterms",
-      "jeffries",
-      "b2965871.html"
+      "freeway",
+      "deaths"
     ]
   }
 }
