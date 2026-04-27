@@ -1,107 +1,134 @@
 {
-  "IDN": {
-    "risk_score": 3.1,
-    "count": 5,
-    "top_news": "https://en.antaranews.com/news/413776/indonesias-mpr-urges-un-to-impose-sanctions-on-israel",
+  "ISR": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://www.egyptindependent.com/israeli-strikes-in-lebanon-kill-14-people-marking-deadliest-day-since-truce/",
     "event_codes": {
       "17": 3,
-      "16": 2
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "413776",
-      "indonesias",
-      "mpr",
-      "urges",
-      "impose",
-      "sanctions",
-      "israel"
+      "israeli",
+      "strikes",
+      "lebanon",
+      "kill",
+      "people",
+      "marking",
+      "deadliest",
+      "day",
+      "since",
+      "truce"
     ]
   },
-  "IRN": {
-    "risk_score": 5.75,
-    "count": 7,
-    "top_news": "https://www.hellenicshippingnews.com/oil-exporters-scramble-for-routes-beyond-hormuz-but-there-are-no-easy-options/",
-    "event_codes": {
-      "19": 5,
-      "16": 2
-    },
-    "keywords": [
-      "oil",
-      "exporters",
-      "scramble",
-      "for",
-      "routes",
-      "beyond",
-      "hormuz",
-      "but",
-      "there",
-      "are",
-      "easy",
-      "options"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.9,
-    "count": 17,
-    "top_news": "https://www.washingtonexaminer.com/opinion/editorials/4541949/the-democratic-party-has-turned-on-israel/",
-    "event_codes": {
-      "18": 8,
-      "19": 4,
-      "16": 2,
-      "17": 2,
-      "20": 1
-    },
-    "keywords": [
-      "opinion",
-      "editorials",
-      "4541949",
-      "the",
-      "democratic",
-      "party",
-      "has",
-      "turned",
-      "israel"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://ktbb.com/post/?p=1501232",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "post"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.09,
+  "KHM": {
+    "risk_score": 2.7,
     "count": 3,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/philippines-and-us-stage-counter-landing-drills-with-allies-near-south-china-sea/articleshow/130551361.cms",
+    "top_news": "https://www.straitstimes.com/asia/se-asia/protesters-demand-cambodia-unfreeze-accounts-with-scam-linked-firm",
     "event_codes": {
-      "15": 2,
-      "14": 1
+      "17": 3
+    },
+    "keywords": [
+      "asia",
+      "asia",
+      "protesters",
+      "demand",
+      "cambodia",
+      "unfreeze",
+      "accounts",
+      "with",
+      "scam",
+      "linked",
+      "firm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.82,
+    "count": 10,
+    "top_news": "https://www.wgauradio.com/news/world/gunmen-attack/2TA65HHLWQYSVLBCFLUGCXIW7Y/",
+    "event_codes": {
+      "17": 7,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "news",
-      "international",
       "world",
+      "gunmen",
+      "attack",
+      "2ta65hhlwqysvlbcflugcxiw7y"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/4/27/chad-clashes-over-water-resources-kill-at-least-42-in-eastern-province",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
       "news",
-      "philippines",
-      "and",
-      "stage",
-      "counter",
-      "landing",
-      "drills",
-      "with",
-      "allies",
-      "near",
-      "south",
-      "china",
-      "sea",
-      "articleshow",
-      "130551361.cms"
+      "2026",
+      "chad",
+      "clashes",
+      "over",
+      "water",
+      "resources",
+      "kill",
+      "least",
+      "eastern",
+      "province"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.independent.com.mt/articles/2026-04-27/local-news/Marsalforn-stabbing-trial-enters-day-13-as-prosecution-concludes-witnesses-6736289171",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "local",
+      "news",
+      "marsalforn",
+      "stabbing",
+      "trial",
+      "enters",
+      "day",
+      "prosecution",
+      "concludes",
+      "witnesses",
+      "6736289171"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.newsday.co.zw/local-news/article/200054602/condev-faces-storm-after-listing-disputed-kingsmead-property-for-us19m",
+    "event_codes": {
+      "18": 3,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "local",
+      "news",
+      "article",
+      "200054602",
+      "condev",
+      "faces",
+      "storm",
+      "after",
+      "listing",
+      "disputed",
+      "kingsmead",
+      "property",
+      "for",
+      "us19m"
     ]
   }
 }
