@@ -1,40 +1,86 @@
 {
   "IRN": {
-    "risk_score": 3.9,
-    "count": 6,
-    "top_news": "https://www.orissapost.com/iran-fires-warning-shots-at-tanker-indian-crew-safe/",
+    "risk_score": 10.2,
+    "count": 14,
+    "top_news": "https://organiser.org/2026/04/27/350026/world/hashd-al-shaabipmf-is-an-internal-enemy-of-iraq/",
     "event_codes": {
-      "17": 4,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "iran",
-      "fires",
-      "warning",
-      "shots",
-      "tanker",
-      "indian",
-      "crew",
-      "safe"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://athens-times.com/israel-launches-airstrikes-on-hezbollah-in-lebanons-bekaa-valley/",
-    "event_codes": {
-      "19": 3,
+      "19": 6,
+      "14": 4,
+      "16": 2,
       "17": 2
     },
     "keywords": [
-      "israel",
-      "launches",
-      "airstrikes",
-      "hezbollah",
-      "lebanons",
-      "bekaa",
-      "valley"
+      "2026",
+      "350026",
+      "world",
+      "hashd",
+      "shaabipmf",
+      "internal",
+      "enemy",
+      "iraq"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.65,
+    "count": 8,
+    "top_news": "https://www.democracynow.org/2026/4/27/headlines/israeli_forces_kill_at_least_12_palestinians_in_gaza",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "headlines",
+      "israeli",
+      "forces",
+      "kill",
+      "least",
+      "palestinians",
+      "gaza"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.47,
+    "count": 3,
+    "top_news": "http://www.bignewsnetwork.com/news/279015120/malian-army-says-over-100-terrorists-killed-in-western-region",
+    "event_codes": {
+      "14": 1,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "279015120",
+      "malian",
+      "army",
+      "says",
+      "over",
+      "100",
+      "terrorists",
+      "killed",
+      "western",
+      "region"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thearabdailynews.com/2026/04/27/hearing-this-week-on-bill-to-repeal-illinois-discriminatory-bds-bill/",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "2026",
+      "hearing",
+      "this",
+      "week",
+      "bill",
+      "repeal",
+      "illinois",
+      "discriminatory",
+      "bds",
+      "bill"
     ]
   }
 }
