@@ -1,15 +1,105 @@
 {
-  "MLI": {
+  "COL": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://english.news.cn/20260427/2550e369219f4821a0b97de13de1ad57/c.html",
+    "top_news": "https://www.newsghana.com.gh/bomb-attack-on-colombia-bus-kills-20-amid-violence-surge/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "20260427",
-      "2550e369219f4821a0b97de13de1ad57",
-      "c.html"
+      "bomb",
+      "attack",
+      "colombia",
+      "bus",
+      "kills",
+      "amid",
+      "violence",
+      "surge"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.76,
+    "count": 8,
+    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_506c1f21-764d-5540-8d96-c56428f8a512.html",
+    "event_codes": {
+      "17": 3,
+      "18": 3,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "and",
+      "world",
+      "news",
+      "the",
+      "latest",
+      "pakistan",
+      "says",
+      "iran",
+      "mediation",
+      "moving",
+      "ahead",
+      "after",
+      "trump",
+      "holds",
+      "back",
+      "envoys",
+      "article",
+      "506c1f21",
+      "764d",
+      "5540",
+      "8d96",
+      "c56428f8a512.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.5,
+    "count": 16,
+    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-pakistan-says-us-iran-mediation-moving-ahead-after-trump-holds-back-envoys/article_506c1f21-764d-5540-8d96-c56428f8a512.html",
+    "event_codes": {
+      "19": 15,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "and",
+      "world",
+      "news",
+      "the",
+      "latest",
+      "pakistan",
+      "says",
+      "iran",
+      "mediation",
+      "moving",
+      "ahead",
+      "after",
+      "trump",
+      "holds",
+      "back",
+      "envoys",
+      "article",
+      "506c1f21",
+      "764d",
+      "5540",
+      "8d96",
+      "c56428f8a512.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/r1hxa11h611x",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "article",
+      "r1hxa11h611x"
     ]
   }
 }
