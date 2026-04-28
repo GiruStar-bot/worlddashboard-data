@@ -1,49 +1,165 @@
 {
-  "IRN": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.okaz.com.sa/politics/na/2246077",
-    "event_codes": {
-      "16": 4
-    },
-    "keywords": [
-      "politics",
-      "2246077"
-    ]
-  },
-  "ISR": {
+  "EGY": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://tribune.com.pk/story/2605207/israeli-strikes-hit-east-lebanon",
+    "top_news": "https://www.chipchick.com/2026/04/cleopatra-had-her-younger-sister-murdered-after-she-challenged-her-rule-and-tried-to-lead-a-rebellion-against-her",
     "event_codes": {
-      "18": 3
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "story",
-      "2605207",
-      "israeli",
-      "strikes",
-      "hit",
-      "east",
-      "lebanon"
+      "2026",
+      "cleopatra",
+      "had",
+      "her",
+      "younger",
+      "sister",
+      "murdered",
+      "after",
+      "she",
+      "challenged",
+      "her",
+      "rule",
+      "and",
+      "tried",
+      "lead",
+      "rebellion",
+      "against",
+      "her"
     ]
   },
-  "NGA": {
-    "risk_score": 17.75,
-    "count": 19,
-    "top_news": "https://dailytrust.com/xenophobia-two-nigerians-killed-in-south-africa/",
+  "IRN": {
+    "risk_score": 9.15,
+    "count": 11,
+    "top_news": "https://wrp.org.uk/features/iran-still-holds-the-cards-that-matter-trump-has-already-played-and-burned-nearly-all-of-his/",
     "event_codes": {
-      "19": 16,
-      "17": 2,
+      "19": 7,
+      "17": 3,
       "14": 1
     },
     "keywords": [
-      "xenophobia",
-      "two",
-      "nigerians",
+      "features",
+      "iran",
+      "still",
+      "holds",
+      "the",
+      "cards",
+      "that",
+      "matter",
+      "trump",
+      "has",
+      "already",
+      "played",
+      "and",
+      "burned",
+      "nearly",
+      "all",
+      "his"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.52,
+    "count": 5,
+    "top_news": "https://wrp.org.uk/features/iran-still-holds-the-cards-that-matter-trump-has-already-played-and-burned-nearly-all-of-his/",
+    "event_codes": {
+      "19": 2,
+      "15": 1,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "features",
+      "iran",
+      "still",
+      "holds",
+      "the",
+      "cards",
+      "that",
+      "matter",
+      "trump",
+      "has",
+      "already",
+      "played",
+      "and",
+      "burned",
+      "nearly",
+      "all",
+      "his"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.vindy.com/wire/?category=6&ID=393331",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wire"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/national-security/2026/04/27/mali-defense-minister-killed-during-assault-al-qaeda-linked-jihadists/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "mali",
+      "defense",
+      "minister",
       "killed",
-      "south",
-      "africa"
+      "during",
+      "assault",
+      "qaeda",
+      "linked",
+      "jihadists"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.reviewjournal.com/crime/woman-charged-in-scheme-that-stole-1-4m-from-ccsd-3793425/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "crime",
+      "woman",
+      "charged",
+      "scheme",
+      "that",
+      "stole",
+      "from",
+      "ccsd",
+      "3793425"
+    ]
+  },
+  "TCD": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.theyeshivaworld.com/news/general/2541324/water-dispute-kills-42-in-eastern-chad-as-refugee-crisis-strains-resources.html",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "general",
+      "2541324",
+      "water",
+      "dispute",
+      "kills",
+      "eastern",
+      "chad",
+      "refugee",
+      "crisis",
+      "strains",
+      "resources.html"
     ]
   }
 }
