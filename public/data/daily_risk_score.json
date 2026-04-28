@@ -1,151 +1,82 @@
 {
-  "ARE": {
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/apr/28/reaction-white-house-correspondents-dinner-shooting",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "commentisfree",
+      "2026",
+      "apr",
+      "reaction",
+      "white",
+      "house",
+      "correspondents",
+      "dinner",
+      "shooting"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.channelstv.com/2026/04/28/us-examining-latest-iranian-proposal/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "examining",
+      "latest",
+      "iranian",
+      "proposal"
+    ]
+  },
+  "LBN": {
     "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://article.wn.com/view/2026/04/28/aposeverybody_down_apos_dubai_resident_recounts_shooting_sca/",
+    "top_news": "https://www.cinaradio.com/2026/04/28/colleagues-describe-lebanese-journalist-amal-khalils-final-hours-as-israeli-bombs-rained-down/",
     "event_codes": {
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "view",
       "2026",
-      "aposeverybody",
-      "down",
-      "apos",
-      "dubai",
-      "resident",
-      "recounts",
-      "shooting",
-      "sca"
+      "colleagues",
+      "describe",
+      "lebanese",
+      "journalist",
+      "amal",
+      "khalils",
+      "final",
+      "hours",
+      "israeli",
+      "bombs",
+      "rained",
+      "down"
     ]
   },
-  "COL": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://dominicanrepublicpost.com/at-least-20-killed-in-colombia-highway-blast/",
-    "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "least",
-      "killed",
-      "colombia",
-      "highway",
-      "blast"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.09,
-    "count": 7,
-    "top_news": "https://www.thehitavada.com/Encyc/2026/4/28/awkward-pause.html",
-    "event_codes": {
-      "17": 5,
-      "14": 1,
-      "19": 1
-    },
-    "keywords": [
-      "encyc",
-      "2026",
-      "awkward",
-      "pause.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.76,
-    "count": 7,
-    "top_news": "https://www.yahoo.com/news/articles/ulm-5-activists-trial-germany-062324390.html",
-    "event_codes": {
-      "17": 7
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "ulm",
-      "activists",
-      "trial",
-      "germany",
-      "062324390.html"
-    ]
-  },
-  "MLI": {
-    "risk_score": 9.95,
-    "count": 10,
-    "top_news": "https://organiser.org/2026/04/28/350815/world/islamist-terror-group-jamaat-nusrat-al-islam-wal-muslimin-kills-mali-defence-minister-sadio-camara-in-major-attack/",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "2026",
-      "350815",
-      "world",
-      "islamist",
-      "terror",
-      "group",
-      "jamaat",
-      "nusrat",
-      "islam",
-      "wal",
-      "muslimin",
-      "kills",
-      "mali",
-      "defence",
-      "minister",
-      "sadio",
-      "camara",
-      "major",
-      "attack"
-    ]
-  },
-  "NGA": {
-    "risk_score": 37.05,
-    "count": 39,
-    "top_news": "https://www.vanguardngr.com/2026/04/50-killed-in-adamawa-benue-plateau-23-pupils-abducted-in-kogi/",
-    "event_codes": {
-      "18": 20,
-      "19": 19
-    },
-    "keywords": [
-      "2026",
-      "killed",
-      "adamawa",
-      "benue",
-      "plateau",
-      "pupils",
-      "abducted",
-      "kogi"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://insurancenewsnet.com/oarticle/washington",
-    "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "oarticle",
-      "washington"
-    ]
-  },
-  "THA": {
+  "SDN": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://avenuemail.in/salim-dola-deported-turkey-india-dawood-aide-2026/",
+    "count": 2,
+    "top_news": "https://www.newsghana.com.gh/afdb-approves-us87-million-grant-to-rebuild-sudans-food-systems/",
     "event_codes": {
-      "17": 4
+      "19": 2
     },
     "keywords": [
-      "salim",
-      "dola",
-      "deported",
-      "turkey",
-      "india",
-      "dawood",
-      "aide",
-      "2026"
+      "afdb",
+      "approves",
+      "us87",
+      "million",
+      "grant",
+      "rebuild",
+      "sudans",
+      "food",
+      "systems"
     ]
   }
 }
