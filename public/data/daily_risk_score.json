@@ -1,103 +1,92 @@
 {
   "IRN": {
-    "risk_score": 7.7,
-    "count": 8,
-    "top_news": "https://www.dailymail.com/news/article-15772829/Iranian-ambassador-summoned-Foreign-Office-unacceptable-inflammatory-comments-Mail-revealed-Tehrans-embassy-called-expats-Britain-sacrifice-themselves.html",
+    "risk_score": 9.7,
+    "count": 12,
+    "top_news": "https://www.spacewar.com/afp/260428175441.4gnyj59z.html",
     "event_codes": {
-      "19": 6,
-      "16": 1,
-      "18": 1
+      "19": 7,
+      "14": 2,
+      "16": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "15772829",
-      "iranian",
-      "ambassador",
-      "summoned",
-      "foreign",
-      "office",
-      "unacceptable",
-      "inflammatory",
-      "comments",
-      "mail",
-      "revealed",
-      "tehrans",
-      "embassy",
-      "called",
-      "expats",
-      "britain",
-      "sacrifice",
-      "themselves.html"
+      "afp",
+      "260428175441.4gnyj59z.html"
     ]
   },
   "ISR": {
-    "risk_score": 11.6,
-    "count": 13,
-    "top_news": "https://www.clevelandjewishnews.com/jta/a-suspect-is-charged-in-one-of-toronto-s-jewish-shootings-but-the-bigger-picture/article_4ceb53d5-a0fa-5ba3-84f3-f381e52dab85.html",
+    "risk_score": 13.45,
+    "count": 17,
+    "top_news": "https://www.israelnationalnews.com/news/426228",
     "event_codes": {
-      "19": 7,
-      "18": 4,
-      "17": 2
+      "19": 8,
+      "17": 6,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "jta",
-      "suspect",
-      "charged",
-      "one",
-      "toronto",
-      "jewish",
-      "shootings",
-      "but",
-      "the",
-      "bigger",
-      "picture",
+      "news",
+      "426228"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.elpasoinc.com/news/national/mali-junta-chief-makes-first-appearance-since-rebel-attacks/article_ee9333db-f988-5765-91c4-fb30aa08b676.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "national",
+      "mali",
+      "junta",
+      "chief",
+      "makes",
+      "first",
+      "appearance",
+      "since",
+      "rebel",
+      "attacks",
       "article",
-      "4ceb53d5",
-      "a0fa",
-      "5ba3",
-      "84f3",
-      "f381e52dab85.html"
+      "ee9333db",
+      "f988",
+      "5765",
+      "91c4",
+      "fb30aa08b676.html"
     ]
   },
   "NGA": {
-    "risk_score": 10.11,
+    "risk_score": 11.4,
     "count": 14,
-    "top_news": "https://punchng.com/veterinary-doctors-lament-poor-hygiene-at-nasarawa-abattoir/",
+    "top_news": "https://punchng.com/police-arrest-officer-over-delta-shooting-transfer-case-to-force-hq/",
     "event_codes": {
-      "17": 9,
-      "18": 3,
-      "14": 1,
-      "19": 1
+      "19": 9,
+      "17": 5
     },
     "keywords": [
-      "veterinary",
-      "doctors",
-      "lament",
-      "poor",
-      "hygiene",
-      "nasarawa",
-      "abattoir"
+      "police",
+      "arrest",
+      "officer",
+      "over",
+      "delta",
+      "shooting",
+      "transfer",
+      "case",
+      "force"
     ]
   },
-  "SOM": {
-    "risk_score": 4.75,
-    "count": 5,
-    "top_news": "https://www.al-monitor.com/originals/2026/04/new-pirate-group-behind-latest-somali-hijacking-officials",
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/opinion/article-894318",
     "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
-      "originals",
-      "2026",
-      "new",
-      "pirate",
-      "group",
-      "behind",
-      "latest",
-      "somali",
-      "hijacking",
-      "officials"
+      "opinion",
+      "article",
+      "894318"
     ]
   }
 }
