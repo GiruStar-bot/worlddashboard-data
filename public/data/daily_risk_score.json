@@ -1,88 +1,139 @@
 {
-  "ISR": {
-    "risk_score": 2.85,
-    "count": 5,
-    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-israeli-police-launch-nationwide-operation-against-youth-crime",
+  "IRN": {
+    "risk_score": 9.04,
+    "count": 11,
+    "top_news": "http://www.arkansasonline.com/news/2026/apr/28/iran-war-causes-thailand-to-turn-elsewhere-for-aid/",
     "event_codes": {
-      "16": 3,
-      "14": 1,
-      "19": 1
+      "17": 4,
+      "19": 4,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
       "news",
-      "israel",
-      "defense",
-      "artc",
-      "israeli",
-      "police",
-      "launch",
-      "nationwide",
-      "operation",
-      "against",
-      "youth",
-      "crime"
+      "2026",
+      "apr",
+      "iran",
+      "war",
+      "causes",
+      "thailand",
+      "turn",
+      "elsewhere",
+      "for",
+      "aid"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.straitstimes.com/asia/se-asia/ulu-tiram-attack-attackers-father-brother-jailed-30-years",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "asia",
+      "ulu",
+      "tiram",
+      "attack",
+      "attackers",
+      "father",
+      "brother",
+      "jailed",
+      "years"
     ]
   },
   "MLI": {
-    "risk_score": 6.7,
-    "count": 8,
-    "top_news": "https://economictimes.indiatimes.com/nri/latest-updates/mali-airline-suspends-flights-after-attacks-spark-security-crisis/articleshow/130577285.cms",
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.kyivpost.com/post/74927",
     "event_codes": {
-      "19": 6,
-      "16": 2
+      "19": 3
     },
     "keywords": [
-      "nri",
-      "latest",
-      "updates",
-      "mali",
-      "airline",
-      "suspends",
-      "flights",
-      "after",
-      "attacks",
-      "spark",
-      "security",
-      "crisis",
-      "articleshow",
-      "130577285.cms"
+      "post",
+      "74927"
+    ]
+  },
+  "MYS": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/asia/se-asia/ulu-tiram-attack-attackers-father-brother-jailed-30-years",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "asia",
+      "asia",
+      "ulu",
+      "tiram",
+      "attack",
+      "attackers",
+      "father",
+      "brother",
+      "jailed",
+      "years"
     ]
   },
   "NGA": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://allafrica.com/stories/202604280302.html",
+    "risk_score": 10.0,
+    "count": 13,
+    "top_news": "http://www.arkansasonline.com/news/2026/apr/28/militants-kill-at-least-29-in-northeastern-nigeria/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "16": 1,
-      "19": 1
+      "19": 7,
+      "17": 6
     },
     "keywords": [
-      "stories",
-      "202604280302.html"
+      "news",
+      "2026",
+      "apr",
+      "militants",
+      "kill",
+      "least",
+      "northeastern",
+      "nigeria"
     ]
   },
   "SYR": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/04/28/committee-to-protect-journalists-calls-for-release-of-missing-german-journalist-in-syria",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.straitstimes.com/asia/se-asia/ulu-tiram-attack-attackers-father-brother-jailed-30-years",
     "event_codes": {
-      "17": 5
+      "19": 3
     },
     "keywords": [
-      "world",
+      "asia",
+      "asia",
+      "ulu",
+      "tiram",
+      "attack",
+      "attackers",
+      "father",
+      "brother",
+      "jailed",
+      "years"
+    ]
+  },
+  "THA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.arkansasonline.com/news/2026/apr/28/iran-war-causes-thailand-to-turn-elsewhere-for-aid/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
       "2026",
-      "committee",
-      "protect",
-      "journalists",
-      "calls",
+      "apr",
+      "iran",
+      "war",
+      "causes",
+      "thailand",
+      "turn",
+      "elsewhere",
       "for",
-      "release",
-      "missing",
-      "german",
-      "journalist",
-      "syria"
+      "aid"
     ]
   }
 }
