@@ -1,82 +1,88 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.theguardian.com/commentisfree/2026/apr/28/reaction-white-house-correspondents-dinner-shooting",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "commentisfree",
-      "2026",
-      "apr",
-      "reaction",
-      "white",
-      "house",
-      "correspondents",
-      "dinner",
-      "shooting"
-    ]
-  },
   "ISR": {
-    "risk_score": 3.9,
+    "risk_score": 2.85,
     "count": 5,
-    "top_news": "https://www.channelstv.com/2026/04/28/us-examining-latest-iranian-proposal/",
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-israeli-police-launch-nationwide-operation-against-youth-crime",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
+      "16": 3,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "examining",
-      "latest",
-      "iranian",
-      "proposal"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.cinaradio.com/2026/04/28/colleagues-describe-lebanese-journalist-amal-khalils-final-hours-as-israeli-bombs-rained-down/",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "colleagues",
-      "describe",
-      "lebanese",
-      "journalist",
-      "amal",
-      "khalils",
-      "final",
-      "hours",
+      "news",
+      "israel",
+      "defense",
+      "artc",
       "israeli",
-      "bombs",
-      "rained",
-      "down"
+      "police",
+      "launch",
+      "nationwide",
+      "operation",
+      "against",
+      "youth",
+      "crime"
     ]
   },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newsghana.com.gh/afdb-approves-us87-million-grant-to-rebuild-sudans-food-systems/",
+  "MLI": {
+    "risk_score": 6.7,
+    "count": 8,
+    "top_news": "https://economictimes.indiatimes.com/nri/latest-updates/mali-airline-suspends-flights-after-attacks-spark-security-crisis/articleshow/130577285.cms",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "16": 2
     },
     "keywords": [
-      "afdb",
-      "approves",
-      "us87",
-      "million",
-      "grant",
-      "rebuild",
-      "sudans",
-      "food",
-      "systems"
+      "nri",
+      "latest",
+      "updates",
+      "mali",
+      "airline",
+      "suspends",
+      "flights",
+      "after",
+      "attacks",
+      "spark",
+      "security",
+      "crisis",
+      "articleshow",
+      "130577285.cms"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://allafrica.com/stories/202604280302.html",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202604280302.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/28/committee-to-protect-journalists-calls-for-release-of-missing-german-journalist-in-syria",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "committee",
+      "protect",
+      "journalists",
+      "calls",
+      "for",
+      "release",
+      "missing",
+      "german",
+      "journalist",
+      "syria"
     ]
   }
 }
