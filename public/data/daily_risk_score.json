@@ -1,84 +1,97 @@
 {
-  "IRN": {
-    "risk_score": 3.4,
-    "count": 5,
-    "top_news": "https://www.eurasiareview.com/29042026-its-high-time-for-baghdad-to-make-some-hard-decisions-oped/",
+  "ARE": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.irishmirror.ie/news/irish-news/crime/gerry-hutch-celebrated-arrest-daniel-37086220",
     "event_codes": {
-      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "irish",
+      "news",
+      "crime",
+      "gerry",
+      "hutch",
+      "celebrated",
+      "arrest",
+      "daniel",
+      "37086220"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/04/29/afghan-man-convicted-of-conspiracy-in-deadly-suicide-bombing-at-kabul-airport-during-us-withdrawal",
+    "event_codes": {
+      "17": 1,
       "18": 1,
       "19": 1
     },
     "keywords": [
-      "29042026",
-      "its",
-      "high",
-      "time",
-      "for",
-      "baghdad",
-      "make",
-      "some",
-      "hard",
-      "decisions",
-      "oped"
+      "world",
+      "2026",
+      "afghan",
+      "man",
+      "convicted",
+      "conspiracy",
+      "deadly",
+      "suicide",
+      "bombing",
+      "kabul",
+      "airport",
+      "during",
+      "withdrawal"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.05,
+  "IRN": {
+    "risk_score": 2.45,
     "count": 3,
-    "top_news": "https://www.eurasiareview.com/29042026-its-high-time-for-baghdad-to-make-some-hard-decisions-oped/",
+    "top_news": "https://arynews.tv/pentagons-hegseth-defends-iran-war-says-it-is-not-a-quagmire",
     "event_codes": {
-      "14": 1,
-      "16": 1,
-      "19": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "29042026",
-      "its",
-      "high",
-      "time",
-      "for",
-      "baghdad",
-      "make",
-      "some",
-      "hard",
-      "decisions",
-      "oped"
+      "pentagons",
+      "hegseth",
+      "defends",
+      "iran",
+      "war",
+      "says",
+      "not",
+      "quagmire"
     ]
   },
   "ISR": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.independent.co.uk/news/uk/crime/golders-green-stabbing-shomrim-london-b2967340.html",
+    "risk_score": 6.85,
+    "count": 8,
+    "top_news": "https://www.cornellsun.com/article/2026/04/dvr1omgpufwh",
     "event_codes": {
+      "17": 3,
       "19": 3,
-      "17": 2,
       "18": 2
     },
     "keywords": [
-      "news",
-      "crime",
-      "golders",
-      "green",
-      "stabbing",
-      "shomrim",
-      "london",
-      "b2967340.html"
+      "article",
+      "2026",
+      "dvr1omgpufwh"
     ]
   },
-  "MLI": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.eurasiareview.com/29042026-malian-insurgents-attack-with-drones/",
+  "THA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://eturbonews.com/chinese-tourists-hurt-phuket-speedboat-crash/",
     "event_codes": {
-      "19": 7
+      "19": 3
     },
     "keywords": [
-      "29042026",
-      "malian",
-      "insurgents",
-      "attack",
-      "with",
-      "drones"
+      "chinese",
+      "tourists",
+      "hurt",
+      "phuket",
+      "speedboat",
+      "crash"
     ]
   }
 }
