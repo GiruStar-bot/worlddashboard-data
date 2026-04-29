@@ -1,88 +1,133 @@
 {
-  "IRN": {
-    "risk_score": 10.02,
-    "count": 12,
-    "top_news": "https://irannewsupdate.com/news/infightings/negotiations-naval-brinkmanship-and-the-iran-regimes-deepening-internal-fractures/",
+  "IDN": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist",
     "event_codes": {
-      "18": 4,
-      "19": 4,
-      "16": 3,
-      "15": 1
+      "17": 3,
+      "18": 3
     },
     "keywords": [
       "news",
-      "infightings",
-      "negotiations",
-      "naval",
-      "brinkmanship",
-      "and",
-      "the",
-      "iran",
-      "regimes",
-      "deepening",
-      "internal",
-      "fractures"
+      "2026",
+      "indonesia",
+      "court",
+      "starts",
+      "trial",
+      "soldiers",
+      "accused",
+      "acid",
+      "attack",
+      "activist"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.1,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/israel-hezbollah-carry-mutual-attacks-100831278.html",
+    "event_codes": {
+      "16": 5,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "israel",
+      "hezbollah",
+      "carry",
+      "mutual",
+      "attacks",
+      "100831278.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/04/29/us-extends-best-wishes-to-iraqi-pm-designate-ali-al-zaidi/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "extends",
+      "best",
+      "wishes",
+      "iraqi",
+      "designate",
+      "ali",
+      "zaidi"
     ]
   },
   "ISR": {
-    "risk_score": 5.55,
-    "count": 6,
-    "top_news": "https://www.newsweek.com/dont-bet-on-qatar-standing-by-america-in-the-middle-east-opinion-11882096",
+    "risk_score": 18.77,
+    "count": 21,
+    "top_news": "https://www.israelnationalnews.com/news/426271",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "19": 13,
+      "17": 5,
+      "20": 3
     },
     "keywords": [
-      "dont",
-      "bet",
-      "qatar",
-      "standing",
-      "america",
-      "the",
-      "middle",
-      "east",
-      "opinion",
-      "11882096"
+      "news",
+      "426271"
     ]
   },
-  "NGA": {
-    "risk_score": 8.9,
-    "count": 9,
-    "top_news": "https://punchng.com/gunmen-kill-pastor-abduct-worshippers-in-ekiti-church-attack/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.heraldscotland.com/opinion/26061332.think-brexit-bad-just-imagine-carnage-indy-cause/",
     "event_codes": {
-      "19": 8,
-      "18": 1
+      "19": 1,
+      "20": 1
     },
     "keywords": [
-      "gunmen",
-      "kill",
-      "pastor",
-      "abduct",
-      "worshippers",
-      "ekiti",
-      "church",
-      "attack"
+      "opinion",
+      "26061332.think",
+      "brexit",
+      "bad",
+      "just",
+      "imagine",
+      "carnage",
+      "indy",
+      "cause"
     ]
   },
-  "QAT": {
-    "risk_score": 3.65,
-    "count": 5,
-    "top_news": "https://www.newsweek.com/dont-bet-on-qatar-standing-by-america-in-the-middle-east-opinion-11882096",
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dw.com/en/why-uaes-opec-exit-is-a-blow-to-saudi-arabia/a-76975354",
     "event_codes": {
-      "19": 3,
-      "16": 2
+      "19": 2
     },
     "keywords": [
-      "dont",
-      "bet",
-      "qatar",
-      "standing",
-      "america",
-      "the",
-      "middle",
-      "east",
-      "opinion",
-      "11882096"
+      "why",
+      "uaes",
+      "opec",
+      "exit",
+      "blow",
+      "saudi",
+      "arabia",
+      "76975354"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/tv/tv-news/towies-bobby-norris-unveils-agonising-37086019",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "towies",
+      "bobby",
+      "norris",
+      "unveils",
+      "agonising",
+      "37086019"
     ]
   }
 }
