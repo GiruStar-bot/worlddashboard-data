@@ -1,129 +1,146 @@
 {
-  "ARG": {
-    "risk_score": 2.0,
+  "COL": {
+    "risk_score": 3.5,
     "count": 4,
-    "top_news": "https://tribune.com.pk/story/2605465/love-is-blind-argentina-santiago-martinez-sentenced-to-15-years-for-attacking-ex-wife",
+    "top_news": "https://brobible.com/culture/article/indian-billionaire-heir-pablo-escobar-cocaine-hippos-resuce/",
     "event_codes": {
-      "17": 4
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "story",
-      "2605465",
-      "love",
-      "blind",
-      "argentina",
-      "santiago",
-      "martinez",
-      "sentenced",
-      "years",
-      "for",
-      "attacking",
-      "wife"
+      "culture",
+      "article",
+      "indian",
+      "billionaire",
+      "heir",
+      "pablo",
+      "escobar",
+      "cocaine",
+      "hippos",
+      "resuce"
+    ]
+  },
+  "IDN": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.greenleft.org.au/2026/1452/world/security-forces-crack-down-peaceful-rallies-west-papua",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "1452",
+      "world",
+      "security",
+      "forces",
+      "crack",
+      "down",
+      "peaceful",
+      "rallies",
+      "west",
+      "papua"
     ]
   },
   "IRN": {
-    "risk_score": 9.85,
-    "count": 10,
-    "top_news": "https://www.livinglutheran.org/theology-beliefs/a-declaration-of-war-and-peace/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.manilatimes.net/2026/04/29/regions/zambales-expedites-economic-aid-for-fishermen/2331804",
     "event_codes": {
-      "19": 8,
-      "17": 1,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "theology",
-      "beliefs",
-      "declaration",
-      "war",
-      "and",
-      "peace"
+      "2026",
+      "regions",
+      "zambales",
+      "expedites",
+      "economic",
+      "aid",
+      "for",
+      "fishermen",
+      "2331804"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.com/news/article-15769845/hung-cao-navy-secretary-scandal.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15769845",
+      "hung",
+      "cao",
+      "navy",
+      "secretary",
+      "scandal.html"
     ]
   },
   "ISR": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/04/29/uk-police-arrest-man-after-two-people-stabbed-in-jewish-area-of-london",
+    "risk_score": 10.75,
+    "count": 12,
+    "top_news": "https://athens-times.com/russia-has-not-yet-decided-on-full-staff-withdrawal-from-irans-bushehr-nuclear-plant/",
     "event_codes": {
-      "18": 3,
+      "19": 9,
       "17": 2,
-      "19": 2
+      "18": 1
     },
     "keywords": [
-      "category",
-      "world",
-      "2026",
-      "police",
-      "arrest",
-      "man",
-      "after",
-      "two",
-      "people",
-      "stabbed",
-      "jewish",
-      "area",
-      "london"
+      "russia",
+      "has",
+      "not",
+      "yet",
+      "decided",
+      "full",
+      "staff",
+      "withdrawal",
+      "from",
+      "irans",
+      "bushehr",
+      "nuclear",
+      "plant"
     ]
   },
-  "MLI": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://thesun.ng/france-urges-citizens-to-leave-mali-immediately-over-worsening-security/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "france",
-      "urges",
-      "citizens",
-      "leave",
-      "mali",
-      "immediately",
-      "over",
-      "worsening",
-      "security"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.8,
+  "PSE": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/abyei-groups-urge-un-extend-peacekeeping-mandate-amid-war-risk",
+    "top_news": "http://www.bignewsnetwork.com/news/279019379/settler-pogroms-in-palestine-are-part-of-israels-policy",
     "event_codes": {
-      "19": 4,
-      "16": 1
+      "19": 5
     },
     "keywords": [
       "news",
-      "article",
-      "abyei",
-      "groups",
-      "urge",
-      "extend",
-      "peacekeeping",
-      "mandate",
-      "amid",
-      "war",
-      "risk"
+      "279019379",
+      "settler",
+      "pogroms",
+      "palestine",
+      "are",
+      "part",
+      "israels",
+      "policy"
     ]
   },
-  "SSD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/abyei-groups-urge-un-extend-peacekeeping-mandate-amid-war-risk",
+  "ZWE": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.modernghana.com/news/1489538/anti-western-activist-kemi-seba-to-remain-in-deten.html",
     "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
       "news",
-      "article",
-      "abyei",
-      "groups",
-      "urge",
-      "extend",
-      "peacekeeping",
-      "mandate",
-      "amid",
-      "war",
-      "risk"
+      "1489538",
+      "anti",
+      "western",
+      "activist",
+      "kemi",
+      "seba",
+      "remain",
+      "deten.html"
     ]
   }
 }
