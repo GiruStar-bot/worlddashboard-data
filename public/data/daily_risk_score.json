@@ -1,66 +1,74 @@
 {
   "IRN": {
-    "risk_score": 5.0,
+    "risk_score": 4.05,
     "count": 5,
-    "top_news": "https://www.washingtonexaminer.com/policy/defense/4548172/hegseth-veteran-democrats-spar-deadly-iran-attack-kuwait/",
+    "top_news": "http://www.bignewsnetwork.com/news/279020004/iranians-pledge-allegiance-to-new-supreme-leader-at-mass-rallies",
     "event_codes": {
-      "19": 5
+      "16": 2,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "policy",
-      "defense",
-      "4548172",
-      "hegseth",
-      "veteran",
-      "democrats",
-      "spar",
-      "deadly",
-      "iran",
-      "attack",
-      "kuwait"
+      "news",
+      "279020004",
+      "iranians",
+      "pledge",
+      "allegiance",
+      "new",
+      "supreme",
+      "leader",
+      "mass",
+      "rallies"
     ]
   },
-  "ISR": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-man-arrested-in-assault-of-french-nun-in-east-jerusalem",
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.channelstv.com/2026/04/29/multiplicity-of-suits-could-keep-adc-busy-at-supreme-court-until-days-before-election-oshoma/",
     "event_codes": {
-      "18": 3,
-      "17": 1
+      "19": 6
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
-      "israeli",
-      "man",
-      "arrested",
-      "assault",
-      "french",
-      "nun",
-      "east",
-      "jerusalem"
+      "2026",
+      "multiplicity",
+      "suits",
+      "could",
+      "keep",
+      "adc",
+      "busy",
+      "supreme",
+      "court",
+      "until",
+      "days",
+      "before",
+      "election",
+      "oshoma"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.washingtonexaminer.com/policy/defense/4548172/hegseth-veteran-democrats-spar-deadly-iran-attack-kuwait/",
+  "VEN": {
+    "risk_score": 10.08,
+    "count": 11,
+    "top_news": "https://www.local10.com/news/local/2026/04/29/closing-arguments-continue-in-miami-trial-of-ex-lawmaker-accused-of-illegally-lobbying-for-venezuela/",
     "event_codes": {
-      "19": 2
+      "17": 4,
+      "19": 4,
+      "16": 3
     },
     "keywords": [
-      "policy",
-      "defense",
-      "4548172",
-      "hegseth",
-      "veteran",
-      "democrats",
-      "spar",
-      "deadly",
-      "iran",
-      "attack",
-      "kuwait"
+      "news",
+      "local",
+      "2026",
+      "closing",
+      "arguments",
+      "continue",
+      "miami",
+      "trial",
+      "lawmaker",
+      "accused",
+      "illegally",
+      "lobbying",
+      "for",
+      "venezuela"
     ]
   }
 }
