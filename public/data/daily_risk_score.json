@@ -1,38 +1,88 @@
 {
-  "ISR": {
-    "risk_score": 2.42,
-    "count": 4,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-894529",
+  "IRN": {
+    "risk_score": 10.02,
+    "count": 12,
+    "top_news": "https://irannewsupdate.com/news/infightings/negotiations-naval-brinkmanship-and-the-iran-regimes-deepening-internal-fractures/",
     "event_codes": {
-      "17": 4
+      "18": 4,
+      "19": 4,
+      "16": 3,
+      "15": 1
     },
     "keywords": [
-      "israel",
       "news",
-      "defense",
-      "news",
-      "article",
-      "894529"
+      "infightings",
+      "negotiations",
+      "naval",
+      "brinkmanship",
+      "and",
+      "the",
+      "iran",
+      "regimes",
+      "deepening",
+      "internal",
+      "fractures"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.vindy.com/news/national-news/2026/04/nation-and-world-at-a-glance-for-april-29/",
+  "ISR": {
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "https://www.newsweek.com/dont-bet-on-qatar-standing-by-america-in-the-middle-east-opinion-11882096",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "news",
-      "2026",
-      "nation",
-      "and",
-      "world",
-      "glance",
-      "for",
-      "april"
+      "dont",
+      "bet",
+      "qatar",
+      "standing",
+      "america",
+      "the",
+      "middle",
+      "east",
+      "opinion",
+      "11882096"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.9,
+    "count": 9,
+    "top_news": "https://punchng.com/gunmen-kill-pastor-abduct-worshippers-in-ekiti-church-attack/",
+    "event_codes": {
+      "19": 8,
+      "18": 1
+    },
+    "keywords": [
+      "gunmen",
+      "kill",
+      "pastor",
+      "abduct",
+      "worshippers",
+      "ekiti",
+      "church",
+      "attack"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.65,
+    "count": 5,
+    "top_news": "https://www.newsweek.com/dont-bet-on-qatar-standing-by-america-in-the-middle-east-opinion-11882096",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "dont",
+      "bet",
+      "qatar",
+      "standing",
+      "america",
+      "the",
+      "middle",
+      "east",
+      "opinion",
+      "11882096"
     ]
   }
 }
