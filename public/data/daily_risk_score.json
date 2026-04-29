@@ -1,22 +1,94 @@
 {
-  "MLI": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://slguardian.org/mali-on-the-brink-jihadist-surge-threatens-to-reshape-west-africa/",
+  "COL": {
+    "risk_score": 14.42,
+    "count": 15,
+    "top_news": "https://www.breitbart.com/national-security/2026/04/28/colombia-marxist-farc-kills-21-in-worst-terrorist-attack-in-decades/",
     "event_codes": {
-      "18": 2,
+      "19": 13,
+      "17": 2
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "colombia",
+      "marxist",
+      "farc",
+      "kills",
+      "worst",
+      "terrorist",
+      "attack",
+      "decades"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.7,
+    "count": 6,
+    "top_news": "https://www.thedailybeast.com/trumps-mad-plan-to-make-america-fear-the-world-and-worship-his-ballroom/",
+    "event_codes": {
+      "16": 3,
+      "17": 1,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "mali",
+      "trumps",
+      "mad",
+      "plan",
+      "make",
+      "america",
+      "fear",
       "the",
-      "brink",
-      "jihadist",
-      "surge",
-      "threatens",
-      "reshape",
-      "west",
-      "africa"
+      "world",
+      "and",
+      "worship",
+      "his",
+      "ballroom"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/politics/2026/04/28/jjames-talaricos-pastor-says-maga-wants-to-restore-the-confederacy-day-after-whcd-assassination-attempt/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "jjames",
+      "talaricos",
+      "pastor",
+      "says",
+      "maga",
+      "wants",
+      "restore",
+      "the",
+      "confederacy",
+      "day",
+      "after",
+      "whcd",
+      "assassination",
+      "attempt"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.wqcs.org/2026-04-28/malis-russian-backed-troops-retreat-as-militant-offensive-spreads",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "malis",
+      "russian",
+      "backed",
+      "troops",
+      "retreat",
+      "militant",
+      "offensive",
+      "spreads"
     ]
   }
 }
