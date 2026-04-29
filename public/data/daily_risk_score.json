@@ -1,133 +1,129 @@
 {
-  "IDN": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/4/29/indonesia-court-starts-trial-of-soldiers-accused-of-acid-attack-on-activist",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://tribune.com.pk/story/2605465/love-is-blind-argentina-santiago-martinez-sentenced-to-15-years-for-attacking-ex-wife",
     "event_codes": {
-      "17": 3,
-      "18": 3
+      "17": 4
     },
     "keywords": [
-      "news",
-      "2026",
-      "indonesia",
-      "court",
-      "starts",
-      "trial",
-      "soldiers",
-      "accused",
-      "acid",
-      "attack",
-      "activist"
+      "story",
+      "2605465",
+      "love",
+      "blind",
+      "argentina",
+      "santiago",
+      "martinez",
+      "sentenced",
+      "years",
+      "for",
+      "attacking",
+      "wife"
     ]
   },
   "IRN": {
-    "risk_score": 4.1,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/articles/israel-hezbollah-carry-mutual-attacks-100831278.html",
+    "risk_score": 9.85,
+    "count": 10,
+    "top_news": "https://www.livinglutheran.org/theology-beliefs/a-declaration-of-war-and-peace/",
     "event_codes": {
-      "16": 5,
-      "19": 1
+      "19": 8,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "israel",
-      "hezbollah",
-      "carry",
-      "mutual",
-      "attacks",
-      "100831278.html"
+      "theology",
+      "beliefs",
+      "declaration",
+      "war",
+      "and",
+      "peace"
     ]
   },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/04/29/us-extends-best-wishes-to-iraqi-pm-designate-ali-al-zaidi/",
+  "ISR": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/04/29/uk-police-arrest-man-after-two-people-stabbed-in-jewish-area-of-london",
     "event_codes": {
+      "18": 3,
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "mena",
+      "category",
+      "world",
       "2026",
-      "extends",
-      "best",
-      "wishes",
-      "iraqi",
-      "designate",
-      "ali",
-      "zaidi"
+      "police",
+      "arrest",
+      "man",
+      "after",
+      "two",
+      "people",
+      "stabbed",
+      "jewish",
+      "area",
+      "london"
     ]
   },
-  "ISR": {
-    "risk_score": 18.77,
-    "count": 21,
-    "top_news": "https://www.israelnationalnews.com/news/426271",
+  "MLI": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://thesun.ng/france-urges-citizens-to-leave-mali-immediately-over-worsening-security/",
     "event_codes": {
-      "19": 13,
-      "17": 5,
-      "20": 3
+      "19": 4
+    },
+    "keywords": [
+      "france",
+      "urges",
+      "citizens",
+      "leave",
+      "mali",
+      "immediately",
+      "over",
+      "worsening",
+      "security"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/abyei-groups-urge-un-extend-peacekeeping-mandate-amid-war-risk",
+    "event_codes": {
+      "19": 4,
+      "16": 1
     },
     "keywords": [
       "news",
-      "426271"
+      "article",
+      "abyei",
+      "groups",
+      "urge",
+      "extend",
+      "peacekeeping",
+      "mandate",
+      "amid",
+      "war",
+      "risk"
     ]
   },
-  "LBN": {
+  "SSD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.heraldscotland.com/opinion/26061332.think-brexit-bad-just-imagine-carnage-indy-cause/",
-    "event_codes": {
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "opinion",
-      "26061332.think",
-      "brexit",
-      "bad",
-      "just",
-      "imagine",
-      "carnage",
-      "indy",
-      "cause"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dw.com/en/why-uaes-opec-exit-is-a-blow-to-saudi-arabia/a-76975354",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "why",
-      "uaes",
-      "opec",
-      "exit",
-      "blow",
-      "saudi",
-      "arabia",
-      "76975354"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.mirror.co.uk/tv/tv-news/towies-bobby-norris-unveils-agonising-37086019",
+    "top_news": "https://www.radiotamazuj.org/en/news/article/abyei-groups-urge-un-extend-peacekeeping-mandate-amid-war-risk",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "towies",
-      "bobby",
-      "norris",
-      "unveils",
-      "agonising",
-      "37086019"
+      "article",
+      "abyei",
+      "groups",
+      "urge",
+      "extend",
+      "peacekeeping",
+      "mandate",
+      "amid",
+      "war",
+      "risk"
     ]
   }
 }
