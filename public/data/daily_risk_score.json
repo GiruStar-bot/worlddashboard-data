@@ -1,61 +1,70 @@
 {
-  "IRN": {
+  "ISR": {
+    "risk_score": 4.49,
+    "count": 5,
+    "top_news": "https://www.gloucesteradvocate.com.au/story/9236631/global-sumud-flotilla-australian-aid-vessel-intercepted-by-idf/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "story",
+      "9236631",
+      "global",
+      "sumud",
+      "flotilla",
+      "australian",
+      "aid",
+      "vessel",
+      "intercepted",
+      "idf"
+    ]
+  },
+  "NGA": {
     "risk_score": 3.4,
     "count": 5,
-    "top_news": "https://www.capitalfm.co.ke/news/2026/04/hegseth-clashes-with-lawmakers-over-iran-war-in-nearly-six-hour-long-hearing/",
+    "top_news": "https://punchng.com/us-lawmaker-faults-tinubu-over-security-aid-compliance-urges-funding-review/",
     "event_codes": {
       "17": 2,
       "19": 2,
       "16": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "hegseth",
-      "clashes",
-      "with",
-      "lawmakers",
+      "lawmaker",
+      "faults",
+      "tinubu",
       "over",
-      "iran",
-      "war",
-      "nearly",
-      "six",
-      "hour",
-      "long",
-      "hearing"
+      "security",
+      "aid",
+      "compliance",
+      "urges",
+      "funding",
+      "review"
     ]
   },
-  "KHM": {
+  "SGP": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.miragenews.com/cambodia-rejects-opposition-leaders-appeal-1664905/",
+    "count": 2,
+    "top_news": "https://www.ghanamma.com/2026/04/30/mugabes-son-given-fine-and-to-be-deported-from-south-africa-for-pointing-a-toy-gun/",
     "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "cambodia",
-      "rejects",
-      "opposition",
-      "leaders",
-      "appeal",
-      "1664905"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://thesun.ng/effurun-shooting-police-dismiss-asp-5-others/",
-    "event_codes": {
-      "16": 2,
       "19": 2
     },
     "keywords": [
-      "effurun",
-      "shooting",
-      "police",
-      "dismiss",
-      "asp",
-      "others"
+      "2026",
+      "mugabes",
+      "son",
+      "given",
+      "fine",
+      "and",
+      "deported",
+      "from",
+      "south",
+      "africa",
+      "for",
+      "pointing",
+      "toy",
+      "gun"
     ]
   }
 }
