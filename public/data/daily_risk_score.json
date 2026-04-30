@@ -1,116 +1,95 @@
 {
   "IRN": {
-    "risk_score": 5.06,
-    "count": 7,
-    "top_news": "https://www.adn.com/nation-world/2026/04/30/oil-prices-hit-4-year-high-as-trump-and-iran-remain-locked-in-high-stakes-standoff/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.rawstory.com/hegseth-2676835915/",
     "event_codes": {
-      "15": 3,
-      "19": 2,
-      "16": 1,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "nation",
-      "world",
-      "2026",
-      "oil",
-      "prices",
-      "hit",
-      "year",
-      "high",
-      "trump",
-      "and",
-      "iran",
-      "remain",
-      "locked",
-      "high",
-      "stakes",
-      "standoff"
+      "hegseth",
+      "2676835915"
     ]
   },
   "ISR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/04/30/israeli-rights-group-asks-high-court-to-order-release-of-gaza-doctors",
+    "risk_score": 7.6,
+    "count": 9,
+    "top_news": "https://www.israelnationalnews.com/news/426353",
     "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "israeli",
-      "rights",
-      "group",
-      "asks",
-      "high",
-      "court",
-      "order",
-      "release",
-      "gaza",
-      "doctors"
-    ]
-  },
-  "MLI": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/going-back-home-islamist-group-122417128.html",
-    "event_codes": {
-      "18": 1,
-      "19": 1
+      "18": 4,
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "going",
-      "back",
-      "home",
-      "islamist",
-      "group",
-      "122417128.html"
+      "426353"
     ]
   },
   "NGA": {
-    "risk_score": 3.0,
+    "risk_score": 2.15,
     "count": 4,
-    "top_news": "https://blueprint.ng/breaking-turaki-faction-loses-as-supreme-court-voids-pdp-ibadan-convention/",
+    "top_news": "https://www.premiumtimesng.com/news/headlines/876068-supreme-court-invalidates-pdps-ibadan-convention-clears-way-for-wike-backed-group.html",
     "event_codes": {
-      "17": 2,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "headlines",
+      "876068",
+      "supreme",
+      "court",
+      "invalidates",
+      "pdps",
+      "ibadan",
+      "convention",
+      "clears",
+      "way",
+      "for",
+      "wike",
+      "backed",
+      "group.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/426355",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "426355"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thebostonpilot.com/article.php?ID=202464",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "article.php"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://vermontbiz.com/news/2026/april/30/turkey-hunting-safety-tips-vtfw",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "breaking",
-      "turaki",
-      "faction",
-      "loses",
-      "supreme",
-      "court",
-      "voids",
-      "pdp",
-      "ibadan",
-      "convention"
-    ]
-  },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.gazettelive.co.uk/news/teesside-news/vince-agar-court-middlesbrough-jail-33864117",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
       "news",
-      "teesside",
-      "news",
-      "vince",
-      "agar",
-      "court",
-      "middlesbrough",
-      "jail",
-      "33864117"
+      "2026",
+      "april",
+      "turkey",
+      "hunting",
+      "safety",
+      "tips",
+      "vtfw"
     ]
   }
 }
