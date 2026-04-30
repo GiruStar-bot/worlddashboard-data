@@ -1,164 +1,125 @@
 {
-  "ETH": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.enca.com/news/jobs-locals-or-refuge-migrants",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "jobs",
-      "locals",
-      "refuge",
-      "migrants"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.hindustantimes.com/world-news/brent-crude-hits-4-year-high-crosses-120-per-barrel-whats-causing-the-surge-in-oil-prices-us-iran-war-hormuz-strait-101777542088588.html",
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "http://www.morningsun.net/stories/irans-supreme-leader-says-it-will-protect-its-nuclear-and-missile-capabilities,336932",
     "event_codes": {
-      "16": 2,
-      "19": 2
+      "16": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "news",
-      "brent",
-      "crude",
-      "hits",
-      "year",
-      "high",
-      "crosses",
-      "120",
-      "per",
-      "barrel",
-      "whats",
-      "causing",
-      "the",
-      "surge",
-      "oil",
-      "prices",
-      "iran",
-      "war",
-      "hormuz",
-      "strait",
-      "101777542088588.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ibtimes.co.uk/drone-strike-kuwait-us-soldiers-killed-1794466",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "drone",
-      "strike",
-      "kuwait",
-      "soldiers",
-      "killed",
-      "1794466"
+      "stories",
+      "irans",
+      "supreme",
+      "leader",
+      "says",
+      "will",
+      "protect",
+      "its",
+      "nuclear",
+      "and",
+      "missile",
+      "capabilities,336932"
     ]
   },
   "ISR": {
-    "risk_score": 14.2,
-    "count": 20,
-    "top_news": "https://www.ifj.org/media-centre/news/detail/category/centenary-congress-2026/article/dominique-pradalie-it-takes-a-great-deal-of-courage-and-tenacity-to-defend-press-freedom",
+    "risk_score": 24.55,
+    "count": 30,
+    "top_news": "https://tribune.com.pk/story/2605655/9-killed-13-injured-in-israeli-airstrikes-in-southern-lebanon-in-new-ceasefire-violation",
     "event_codes": {
-      "17": 10,
-      "19": 5,
+      "19": 14,
+      "17": 9,
+      "14": 3,
       "18": 3,
-      "14": 1,
       "16": 1
     },
     "keywords": [
-      "media",
-      "centre",
-      "news",
-      "detail",
-      "category",
-      "centenary",
-      "congress",
-      "2026",
-      "article",
-      "dominique",
-      "pradalie",
-      "takes",
-      "great",
-      "deal",
-      "courage",
-      "and",
-      "tenacity",
-      "defend",
-      "press",
-      "freedom"
+      "story",
+      "2605655",
+      "killed",
+      "injured",
+      "israeli",
+      "airstrikes",
+      "southern",
+      "lebanon",
+      "new",
+      "ceasefire",
+      "violation"
     ]
   },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ibtimes.co.uk/drone-strike-kuwait-us-soldiers-killed-1794466",
+  "LBN": {
+    "risk_score": 9.95,
+    "count": 10,
+    "top_news": "https://tribune.com.pk/story/2605655/9-killed-13-injured-in-israeli-airstrikes-in-southern-lebanon-in-new-ceasefire-violation",
     "event_codes": {
-      "19": 3
+      "19": 9,
+      "18": 1
     },
     "keywords": [
-      "drone",
-      "strike",
-      "kuwait",
-      "soldiers",
+      "story",
+      "2605655",
       "killed",
-      "1794466"
+      "injured",
+      "israeli",
+      "airstrikes",
+      "southern",
+      "lebanon",
+      "new",
+      "ceasefire",
+      "violation"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.theborneopost.com/2026/04/30/integrity-key-to-sarawak-tourism-sustainability-says-abdul-karim/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "integrity",
+      "key",
+      "sarawak",
+      "tourism",
+      "sustainability",
+      "says",
+      "abdul",
+      "karim"
     ]
   },
   "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://foreignpolicy.com/2026/04/30/israel-dayan-eulogy-palestine-tragedy/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "israel",
-      "dayan",
-      "eulogy",
-      "palestine",
-      "tragedy"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://athens-times.com/war-slows-saudi-arabias-economic-growth/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "war",
-      "slows",
-      "saudi",
-      "arabias",
-      "economic",
-      "growth"
-    ]
-  },
-  "THA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.howtogeek.com/new-netflix-movies-to-watch-in-may-2026/",
+    "top_news": "https://www.middleeasteye.net/news/israeli-man-assaults-nun-jerusalem",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "new",
-      "netflix",
-      "movies",
-      "watch",
-      "may",
-      "2026"
+      "news",
+      "israeli",
+      "man",
+      "assaults",
+      "nun",
+      "jerusalem"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/30/2003856527",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "taiwan",
+      "archives",
+      "2026",
+      "2003856527"
     ]
   }
 }
