@@ -1,69 +1,34 @@
 {
+  "IRN": {
+    "risk_score": 6.8,
+    "count": 12,
+    "top_news": "https://www.newsday.com/news/nation/president-donald-trump-u67933",
+    "event_codes": {
+      "17": 8,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "president",
+      "donald",
+      "trump",
+      "u67933"
+    ]
+  },
   "ISR": {
-    "risk_score": 8.55,
-    "count": 9,
-    "top_news": "https://www.siasat.com/french-nun-attacked-in-jerusalem-suspect-arrested-by-police-3462967/",
+    "risk_score": 8.0,
+    "count": 14,
+    "top_news": "https://english.wafa.ps/Pages/Details/169991",
     "event_codes": {
-      "19": 5,
-      "18": 4
+      "17": 12,
+      "19": 2
     },
     "keywords": [
-      "french",
-      "nun",
-      "attacked",
-      "jerusalem",
-      "suspect",
-      "arrested",
-      "police",
-      "3462967"
-    ]
-  },
-  "MLI": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://moderntokyotimes.com/mali-crisis-russia-seeks-to-stem-islamist-encroachment-on-bamako/",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "mali",
-      "crisis",
-      "russia",
-      "seeks",
-      "stem",
-      "islamist",
-      "encroachment",
-      "bamako"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 8,
-    "top_news": "https://punchng.com/alaafin-says-insecurity-requires-innovative-solutions/",
-    "event_codes": {
-      "17": 8
-    },
-    "keywords": [
-      "alaafin",
-      "says",
-      "insecurity",
-      "requires",
-      "innovative",
-      "solutions"
-    ]
-  },
-  "SGP": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.el-balad.com/17001072",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "17001072"
+      "pages",
+      "details",
+      "169991"
     ]
   }
 }
