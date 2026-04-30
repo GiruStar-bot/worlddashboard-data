@@ -1,125 +1,116 @@
 {
   "IRN": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "http://www.morningsun.net/stories/irans-supreme-leader-says-it-will-protect-its-nuclear-and-missile-capabilities,336932",
+    "risk_score": 5.06,
+    "count": 7,
+    "top_news": "https://www.adn.com/nation-world/2026/04/30/oil-prices-hit-4-year-high-as-trump-and-iran-remain-locked-in-high-stakes-standoff/",
     "event_codes": {
+      "15": 3,
+      "19": 2,
       "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "stories",
-      "irans",
-      "supreme",
-      "leader",
-      "says",
-      "will",
-      "protect",
-      "its",
-      "nuclear",
-      "and",
-      "missile",
-      "capabilities,336932"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.55,
-    "count": 30,
-    "top_news": "https://tribune.com.pk/story/2605655/9-killed-13-injured-in-israeli-airstrikes-in-southern-lebanon-in-new-ceasefire-violation",
-    "event_codes": {
-      "19": 14,
-      "17": 9,
-      "14": 3,
-      "18": 3,
-      "16": 1
-    },
-    "keywords": [
-      "story",
-      "2605655",
-      "killed",
-      "injured",
-      "israeli",
-      "airstrikes",
-      "southern",
-      "lebanon",
-      "new",
-      "ceasefire",
-      "violation"
-    ]
-  },
-  "LBN": {
-    "risk_score": 9.95,
-    "count": 10,
-    "top_news": "https://tribune.com.pk/story/2605655/9-killed-13-injured-in-israeli-airstrikes-in-southern-lebanon-in-new-ceasefire-violation",
-    "event_codes": {
-      "19": 9,
-      "18": 1
-    },
-    "keywords": [
-      "story",
-      "2605655",
-      "killed",
-      "injured",
-      "israeli",
-      "airstrikes",
-      "southern",
-      "lebanon",
-      "new",
-      "ceasefire",
-      "violation"
-    ]
-  },
-  "MYS": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://www.theborneopost.com/2026/04/30/integrity-key-to-sarawak-tourism-sustainability-says-abdul-karim/",
-    "event_codes": {
-      "19": 3,
       "17": 1
     },
     "keywords": [
+      "nation",
+      "world",
       "2026",
-      "integrity",
-      "key",
-      "sarawak",
-      "tourism",
-      "sustainability",
-      "says",
-      "abdul",
-      "karim"
+      "oil",
+      "prices",
+      "hit",
+      "year",
+      "high",
+      "trump",
+      "and",
+      "iran",
+      "remain",
+      "locked",
+      "high",
+      "stakes",
+      "standoff"
     ]
   },
-  "PSE": {
+  "ISR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/04/30/israeli-rights-group-asks-high-court-to-order-release-of-gaza-doctors",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "israeli",
+      "rights",
+      "group",
+      "asks",
+      "high",
+      "court",
+      "order",
+      "release",
+      "gaza",
+      "doctors"
+    ]
+  },
+  "MLI": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.middleeasteye.net/news/israeli-man-assaults-nun-jerusalem",
+    "top_news": "https://www.yahoo.com/news/articles/going-back-home-islamist-group-122417128.html",
     "event_codes": {
-      "19": 2
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "israeli",
-      "man",
-      "assaults",
-      "nun",
-      "jerusalem"
+      "articles",
+      "going",
+      "back",
+      "home",
+      "islamist",
+      "group",
+      "122417128.html"
     ]
   },
-  "TWN": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/30/2003856527",
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://blueprint.ng/breaking-turaki-faction-loses-as-supreme-court-voids-pdp-ibadan-convention/",
     "event_codes": {
-      "17": 4,
+      "17": 2,
       "19": 2
     },
     "keywords": [
+      "breaking",
+      "turaki",
+      "faction",
+      "loses",
+      "supreme",
+      "court",
+      "voids",
+      "pdp",
+      "ibadan",
+      "convention"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.gazettelive.co.uk/news/teesside-news/vince-agar-court-middlesbrough-jail-33864117",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
       "news",
-      "taiwan",
-      "archives",
-      "2026",
-      "2003856527"
+      "teesside",
+      "news",
+      "vince",
+      "agar",
+      "court",
+      "middlesbrough",
+      "jail",
+      "33864117"
     ]
   }
 }
