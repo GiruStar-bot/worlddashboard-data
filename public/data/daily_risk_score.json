@@ -1,70 +1,57 @@
 {
   "ISR": {
-    "risk_score": 4.49,
+    "risk_score": 3.5,
     "count": 5,
-    "top_news": "https://www.gloucesteradvocate.com.au/story/9236631/global-sumud-flotilla-australian-aid-vessel-intercepted-by-idf/",
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/04/30/uk-pledges-extra-25mil-for-jewish-security-after-london-stabbings",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "story",
-      "9236631",
-      "global",
-      "sumud",
-      "flotilla",
-      "australian",
-      "aid",
-      "vessel",
-      "intercepted",
-      "idf"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.4,
-    "count": 5,
-    "top_news": "https://punchng.com/us-lawmaker-faults-tinubu-over-security-aid-compliance-urges-funding-review/",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "lawmaker",
-      "faults",
-      "tinubu",
-      "over",
-      "security",
-      "aid",
-      "compliance",
-      "urges",
-      "funding",
-      "review"
-    ]
-  },
-  "SGP": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ghanamma.com/2026/04/30/mugabes-son-given-fine-and-to-be-deported-from-south-africa-for-pointing-a-toy-gun/",
-    "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
+      "category",
+      "world",
       "2026",
-      "mugabes",
-      "son",
-      "given",
-      "fine",
-      "and",
-      "deported",
-      "from",
-      "south",
-      "africa",
+      "pledges",
+      "extra",
+      "25mil",
       "for",
-      "pointing",
-      "toy",
-      "gun"
+      "jewish",
+      "security",
+      "after",
+      "london",
+      "stabbings"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.9,
+    "count": 22,
+    "top_news": "https://allafrica.com/stories/202604300102.html",
+    "event_codes": {
+      "17": 13,
+      "16": 6,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202604300102.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.45,
+    "count": 6,
+    "top_news": "https://syriauntold.com/2026/04/30/civil-society-spotlight-episode-13/",
+    "event_codes": {
+      "14": 3,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "civil",
+      "society",
+      "spotlight",
+      "episode"
     ]
   }
 }
