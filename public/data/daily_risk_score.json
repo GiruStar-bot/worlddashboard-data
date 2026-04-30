@@ -1,34 +1,135 @@
 {
   "IRN": {
-    "risk_score": 6.8,
-    "count": 12,
-    "top_news": "https://www.newsday.com/news/nation/president-donald-trump-u67933",
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/news/426365",
     "event_codes": {
-      "17": 8,
-      "16": 2,
-      "19": 2
+      "17": 4,
+      "19": 1
     },
     "keywords": [
       "news",
-      "nation",
-      "president",
-      "donald",
-      "trump",
-      "u67933"
+      "426365"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.12,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/node/2641915/middle-east",
+    "event_codes": {
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "node",
+      "2641915",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 8.0,
-    "count": 14,
-    "top_news": "https://english.wafa.ps/Pages/Details/169991",
+    "risk_score": 6.26,
+    "count": 7,
+    "top_news": "https://www.algemeiner.com/2026/04/30/perus-president-under-fire-antisemitic-remarks-blaming-jews-pushing-germany-world-war-ii/",
     "event_codes": {
-      "17": 12,
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "perus",
+      "president",
+      "under",
+      "fire",
+      "antisemitic",
+      "remarks",
+      "blaming",
+      "jews",
+      "pushing",
+      "germany",
+      "world",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.15,
+    "count": 8,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/876165-turaki-faction-speaks-on-supreme-court-judgement.html",
+    "event_codes": {
+      "19": 4,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "876165",
+      "turaki",
+      "faction",
+      "speaks",
+      "supreme",
+      "court",
+      "judgement.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2641898/middle-east",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "169991"
+      "node",
+      "2641898",
+      "middle",
+      "east"
+    ]
+  },
+  "SDN": {
+    "risk_score": 6.49,
+    "count": 7,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-injured-in-sixth-armed-attack-on-camp-in-ethiopia",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "sudanese",
+      "refugees",
+      "injured",
+      "sixth",
+      "armed",
+      "attack",
+      "camp",
+      "ethiopia"
+    ]
+  },
+  "TCD": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/sudanese-refugees-injured-in-sixth-armed-attack-on-camp-in-ethiopia",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "sudanese",
+      "refugees",
+      "injured",
+      "sixth",
+      "armed",
+      "attack",
+      "camp",
+      "ethiopia"
     ]
   }
 }
