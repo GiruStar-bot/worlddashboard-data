@@ -1,51 +1,78 @@
 {
   "IRN": {
-    "risk_score": 8.1,
-    "count": 10,
-    "top_news": "https://www.shephardmedia.com/news/air-warfare/in-convo-a-dominant-force-empowering-europes-airborne-isr-in-a-new-era/",
+    "risk_score": 3.1,
+    "count": 5,
+    "top_news": "https://nypost.com/2026/05/01/business/us-imposes-sanctions-on-three-iranian-currency-exchanges-accusing-them-of-laundering-billions/",
     "event_codes": {
-      "19": 5,
-      "14": 4,
-      "17": 1
+      "14": 2,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "air",
-      "warfare",
-      "convo",
-      "dominant",
-      "force",
-      "empowering",
-      "europes",
-      "airborne",
-      "isr",
-      "new",
-      "era"
+      "2026",
+      "business",
+      "imposes",
+      "sanctions",
+      "three",
+      "iranian",
+      "currency",
+      "exchanges",
+      "accusing",
+      "them",
+      "laundering",
+      "billions"
     ]
   },
   "ISR": {
-    "risk_score": 9.45,
-    "count": 12,
-    "top_news": "http://www.laosnews.net/news/279023988/iran-submits-new-proposal-for-us-peace-talks-via-pakistani-mediators-report",
+    "risk_score": 8.75,
+    "count": 9,
+    "top_news": "https://www.wgauradio.com/news/world/israel-strikes/TVEEENEYDYZWFD25K6OQHGUGWI/",
     "event_codes": {
-      "19": 6,
-      "14": 3,
-      "17": 3
+      "19": 7,
+      "18": 2
     },
     "keywords": [
       "news",
-      "279023988",
-      "iran",
-      "submits",
-      "new",
-      "proposal",
-      "for",
-      "peace",
-      "talks",
-      "via",
-      "pakistani",
-      "mediators",
-      "report"
+      "world",
+      "israel",
+      "strikes",
+      "tveeeneydyzwfd25k6oqhgugwi"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/articles/israel-hezbollah-exchange-fire-strikes-152321128.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "israel",
+      "hezbollah",
+      "exchange",
+      "fire",
+      "strikes",
+      "152321128.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.89,
+    "count": 8,
+    "top_news": "https://www.nigerianeye.com/2026/05/bandits-abduct-sokoto-deputy-governors.html",
+    "event_codes": {
+      "16": 4,
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "abduct",
+      "sokoto",
+      "deputy",
+      "governors.html"
     ]
   }
 }
