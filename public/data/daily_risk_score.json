@@ -1,81 +1,98 @@
 {
-  "IRN": {
-    "risk_score": 10.67,
-    "count": 14,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/01/767849/Iran-Judiciary-chief-US-cannot-impose-will-talks-after-failing-on-battlefield",
+  "EGY": {
+    "risk_score": 2.66,
+    "count": 4,
+    "top_news": "https://www.africanews.com/2026/05/01/egypt-conducts-live-fire-military-exercises-near-israeli-border/",
     "event_codes": {
-      "16": 4,
-      "19": 4,
-      "17": 3,
-      "14": 1,
-      "15": 1,
-      "18": 1
+      "15": 3,
+      "17": 1
     },
     "keywords": [
-      "detail",
       "2026",
-      "767849",
+      "egypt",
+      "conducts",
+      "live",
+      "fire",
+      "military",
+      "exercises",
+      "near",
+      "israeli",
+      "border"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.67,
+    "count": 5,
+    "top_news": "https://www.staradvertiser.com/2026/05/01/breaking-news/takeaways-from-hegseths-second-day-of-testimony-on-the-iran-war/",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "breaking",
+      "news",
+      "takeaways",
+      "from",
+      "hegseths",
+      "second",
+      "day",
+      "testimony",
+      "the",
       "iran",
-      "judiciary",
-      "chief",
-      "cannot",
-      "impose",
-      "will",
-      "talks",
-      "after",
-      "failing",
-      "battlefield"
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 23.4,
-    "count": 27,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/01/767842/Iran-slams-US-self-defense-claims-says-US-Israeli-strikes-noting-but-aggression",
+    "risk_score": 4.44,
+    "count": 7,
+    "top_news": "https://kvia.com/news/us-world/cnn-world/2026/05/01/israel-and-the-uae-find-common-cause-as-the-iran-war-cracks-old-middle-east-alliances/",
     "event_codes": {
-      "18": 15,
-      "17": 9,
-      "19": 3
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "767842",
-      "iran",
-      "slams",
-      "self",
-      "defense",
-      "claims",
-      "says",
-      "israeli",
-      "strikes",
-      "noting",
-      "but",
-      "aggression"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/01/767848/-There-s-not-much-you-can-do---Israel-confirms-Hezbollah-drone-nightmare-in-Lebanon",
-    "event_codes": {
-      "17": 2,
+      "17": 4,
+      "15": 2,
       "19": 1
     },
     "keywords": [
-      "detail",
+      "news",
+      "world",
+      "cnn",
+      "world",
       "2026",
-      "767848",
-      "there",
-      "not",
-      "much",
-      "you",
-      "can",
       "israel",
-      "confirms",
-      "hezbollah",
-      "drone",
-      "nightmare",
-      "lebanon"
+      "and",
+      "the",
+      "uae",
+      "find",
+      "common",
+      "cause",
+      "the",
+      "iran",
+      "war",
+      "cracks",
+      "old",
+      "middle",
+      "east",
+      "alliances"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.65,
+    "count": 5,
+    "top_news": "https://punchng.com/may-day-osun-factional-union-holds-rally-backs-apc/",
+    "event_codes": {
+      "17": 4,
+      "14": 1
+    },
+    "keywords": [
+      "may",
+      "day",
+      "osun",
+      "factional",
+      "union",
+      "holds",
+      "rally",
+      "backs",
+      "apc"
     ]
   }
 }
