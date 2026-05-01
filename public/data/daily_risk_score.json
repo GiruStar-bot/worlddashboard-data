@@ -1,59 +1,93 @@
 {
   "IRN": {
-    "risk_score": 9.49,
-    "count": 11,
-    "top_news": "https://www.justsecurity.org/137669/60-day-mark-iran-war-triply-illegal/",
+    "risk_score": 2.52,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/bywkqlfawx",
     "event_codes": {
-      "19": 7,
-      "17": 3,
-      "15": 1
+      "15": 1,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "137669",
-      "day",
-      "mark",
-      "iran",
-      "war",
-      "triply",
-      "illegal"
+      "article",
+      "bywkqlfawx"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wral.com/news/ap/329f6-israel-strikes-southern-lebanon-killing-4-hezbollah-drone-wounds-2-israeli-soldiers/",
+  "ISR": {
+    "risk_score": 8.45,
+    "count": 12,
+    "top_news": "https://www.thejc.com/news/world/qatar-promised-to-look-after-karim-khan-if-he-issued-netanyahu-arrest-warrant-xvosrouh",
     "event_codes": {
-      "19": 3
+      "17": 6,
+      "18": 3,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
       "news",
-      "329f6",
-      "israel",
-      "strikes",
-      "southern",
-      "lebanon",
-      "killing",
-      "hezbollah",
-      "drone",
-      "wounds",
-      "israeli",
-      "soldiers"
+      "world",
+      "qatar",
+      "promised",
+      "look",
+      "after",
+      "karim",
+      "khan",
+      "issued",
+      "netanyahu",
+      "arrest",
+      "warrant",
+      "xvosrouh"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.95,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/05/01/troops-neutralise-terrorists-secure-boko-haram-surrender-in-north-east/",
+    "event_codes": {
+      "16": 2,
+      "19": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "neutralise",
+      "terrorists",
+      "secure",
+      "boko",
+      "haram",
+      "surrender",
+      "north",
+      "east"
     ]
   },
   "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-894836",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.prokerala.com/news/articles/a1757706.html",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "israel",
       "news",
-      "defense",
-      "news",
+      "articles",
+      "a1757706.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.jpost.com/middle-east/article-894853",
+    "event_codes": {
+      "16": 5
+    },
+    "keywords": [
+      "middle",
+      "east",
       "article",
-      "894836"
+      "894853"
     ]
   }
 }
