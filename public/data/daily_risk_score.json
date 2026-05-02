@@ -1,65 +1,45 @@
 {
   "IRN": {
-    "risk_score": 6.25,
-    "count": 9,
-    "top_news": "https://www.thetimes.com/uk/crime/article/golders-green-attack-veterans-marines-hired-security-jewish-charity-fcv22bb6c",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/sjaeaaxcwl",
     "event_codes": {
-      "14": 5,
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "crime",
-      "article",
-      "golders",
-      "green",
-      "attack",
-      "veterans",
-      "marines",
-      "hired",
-      "security",
-      "jewish",
-      "charity",
-      "fcv22bb6c"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://dailypost.ng/2026/05/02/us-cautions-citizens-in-uk-after-terrorism-threat-alert/",
-    "event_codes": {
-      "14": 4,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "cautions",
-      "citizens",
-      "after",
-      "terrorism",
-      "threat",
-      "alert"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://www.washingtonexaminer.com/news/house/4552618/randy-fine-backlash-dont-want-armenians-congress/",
-    "event_codes": {
-      "17": 3,
       "19": 3
     },
     "keywords": [
+      "article",
+      "sjaeaaxcwl"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://www.yahoo.com/news/articles/uae-strengthens-security-cohesion-gulf-220605217.html",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
       "news",
-      "house",
-      "4552618",
-      "randy",
-      "fine",
-      "backlash",
-      "dont",
-      "want",
-      "armenians",
-      "congress"
+      "articles",
+      "uae",
+      "strengthens",
+      "security",
+      "cohesion",
+      "gulf",
+      "220605217.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/bku0dt7cwe",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "article",
+      "bku0dt7cwe"
     ]
   }
 }
