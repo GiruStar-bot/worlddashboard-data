@@ -1,45 +1,67 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/sjaeaaxcwl",
+    "risk_score": 9.05,
+    "count": 10,
+    "top_news": "https://www.pakistantoday.com.pk/2026/05/03/a-clear-battle-line-up",
     "event_codes": {
-      "19": 3
+      "19": 9,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "sjaeaaxcwl"
+      "2026",
+      "clear",
+      "battle",
+      "line"
     ]
   },
   "ISR": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.yahoo.com/news/articles/uae-strengthens-security-cohesion-gulf-220605217.html",
+    "risk_score": 3.74,
+    "count": 4,
+    "top_news": "https://english.news.cn/20260503/0c5d3d47b2ee434790deaef886a0ff0b/c.html",
     "event_codes": {
-      "19": 6,
-      "17": 1
+      "17": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "uae",
-      "strengthens",
-      "security",
-      "cohesion",
-      "gulf",
-      "220605217.html"
+      "20260503",
+      "0c5d3d47b2ee434790deaef886a0ff0b",
+      "c.html"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/bku0dt7cwe",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.pakistantoday.com.pk/2026/05/03/pakistan-backs-diplomacy-as-fears-of-renewed-middle-east-war-grow",
     "event_codes": {
-      "19": 5
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "bku0dt7cwe"
+      "2026",
+      "pakistan",
+      "backs",
+      "diplomacy",
+      "fears",
+      "renewed",
+      "middle",
+      "east",
+      "war",
+      "grow"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/170034",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "170034"
     ]
   }
 }
