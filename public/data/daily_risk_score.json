@@ -1,63 +1,74 @@
 {
-  "IRN": {
-    "risk_score": 9.45,
-    "count": 11,
-    "top_news": "https://tradearabia.com:443/News/462031/US-approves-$8.6bn-military-sales-to-Middle-East-allies/MISC",
+  "ISR": {
+    "risk_score": 11.6,
+    "count": 12,
+    "top_news": "https://imemc.org/article/colonizers-injure-elderly-woman-destroy-farmland-in-west-bank/",
     "event_codes": {
-      "19": 7,
-      "17": 3,
-      "14": 1
+      "19": 8,
+      "18": 4
+    },
+    "keywords": [
+      "article",
+      "colonizers",
+      "injure",
+      "elderly",
+      "woman",
+      "destroy",
+      "farmland",
+      "west",
+      "bank"
+    ]
+  },
+  "MLI": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.prokerala.com/news/articles/a1758004.html",
+    "event_codes": {
+      "19": 5
     },
     "keywords": [
       "news",
-      "462031",
-      "approves",
-      "$8.6bn",
-      "military",
-      "sales",
-      "middle",
-      "east",
-      "allies",
-      "misc"
+      "articles",
+      "a1758004.html"
     ]
   },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.independent.co.uk/news/uk/home-news/met-police-photo-phone-manning-b2969448.html",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "news",
-      "home",
-      "news",
-      "met",
-      "police",
-      "photo",
-      "phone",
-      "manning",
-      "b2969448.html"
-    ]
-  },
-  "LBN": {
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-strikes-kill-7-in-lebanon-despite-cease-fire",
+    "top_news": "https://imemc.org/article/colonizers-injure-elderly-woman-destroy-farmland-in-west-bank/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon",
-      "despite",
-      "cease",
-      "fire"
+      "article",
+      "colonizers",
+      "injure",
+      "elderly",
+      "woman",
+      "destroy",
+      "farmland",
+      "west",
+      "bank"
+    ]
+  },
+  "TCD": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.goodhousekeeping.com/entertainment/movies/a71184119/will-there-be-a-hannah-swensen-mystery-2026-hallmark/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "entertainment",
+      "movies",
+      "a71184119",
+      "will",
+      "there",
+      "hannah",
+      "swensen",
+      "mystery",
+      "2026",
+      "hallmark"
     ]
   }
 }
