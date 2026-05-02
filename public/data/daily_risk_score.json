@@ -1,80 +1,33 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.teamtalk.com/news/liverpool-transfer-news-daniel-svensson-borussia-dortmund-arsenal-battle",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "liverpool",
-      "transfer",
-      "news",
-      "daniel",
-      "svensson",
-      "borussia",
-      "dortmund",
-      "arsenal",
-      "battle"
-    ]
-  },
   "IRN": {
-    "risk_score": 12.34,
-    "count": 15,
-    "top_news": "https://www.euronews.com/2026/05/02/iran-executes-two-more-over-spying-for-israel",
+    "risk_score": 5.2,
+    "count": 6,
+    "top_news": "https://www.newsweek.com/us-ports-blockade-cost-iran-billions-ships-redirected-11906238",
     "event_codes": {
-      "18": 8,
-      "17": 7
+      "16": 3,
+      "19": 3
     },
     "keywords": [
-      "2026",
+      "ports",
+      "blockade",
+      "cost",
       "iran",
-      "executes",
-      "two",
-      "more",
-      "over",
-      "spying",
-      "for",
-      "israel"
+      "billions",
+      "ships",
+      "redirected",
+      "11906238"
     ]
   },
-  "ISR": {
-    "risk_score": 7.8,
-    "count": 10,
-    "top_news": "https://www.euronews.com/2026/05/02/iran-executes-two-more-over-spying-for-israel",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.cubaheadlines.com/articles/327841",
     "event_codes": {
-      "18": 5,
-      "17": 3,
-      "14": 2
+      "17": 4
     },
     "keywords": [
-      "2026",
-      "iran",
-      "executes",
-      "two",
-      "more",
-      "over",
-      "spying",
-      "for",
-      "israel"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.25,
-    "count": 13,
-    "top_news": "https://www.nigerianeye.com/2026/05/policemen-shoots-motorcyclist-dead-in.html",
-    "event_codes": {
-      "19": 12,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "policemen",
-      "shoots",
-      "motorcyclist",
-      "dead",
-      "in.html"
+      "articles",
+      "327841"
     ]
   }
 }
