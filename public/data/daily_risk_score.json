@@ -1,74 +1,113 @@
 {
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://punchng.com/china-rejects-us-sanctions-on-refineries-over-iran-oil-links/",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "china",
+      "rejects",
+      "sanctions",
+      "refineries",
+      "over",
+      "iran",
+      "oil",
+      "links"
+    ]
+  },
   "ISR": {
-    "risk_score": 11.6,
-    "count": 12,
-    "top_news": "https://imemc.org/article/colonizers-injure-elderly-woman-destroy-farmland-in-west-bank/",
+    "risk_score": 10.8,
+    "count": 14,
+    "top_news": "https://www.valigiablu.it/manifesto-palantir-ceo-silicon-valley-translated/",
     "event_codes": {
-      "19": 8,
-      "18": 4
+      "19": 7,
+      "17": 5,
+      "14": 2
     },
     "keywords": [
-      "article",
-      "colonizers",
-      "injure",
-      "elderly",
-      "woman",
-      "destroy",
-      "farmland",
-      "west",
-      "bank"
+      "manifesto",
+      "palantir",
+      "ceo",
+      "silicon",
+      "valley",
+      "translated"
     ]
   },
-  "MLI": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.prokerala.com/news/articles/a1758004.html",
+  "LBN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://english.aawsat.com/arab-world/5268881-israel-steps-pressure-displacement-strikes-after-aoun-rejects-netanyahu-meeting",
     "event_codes": {
-      "19": 5
+      "19": 7
     },
     "keywords": [
-      "news",
-      "articles",
-      "a1758004.html"
+      "arab",
+      "world",
+      "5268881",
+      "israel",
+      "steps",
+      "pressure",
+      "displacement",
+      "strikes",
+      "after",
+      "aoun",
+      "rejects",
+      "netanyahu",
+      "meeting"
     ]
   },
-  "PSE": {
+  "LBY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://imemc.org/article/colonizers-injure-elderly-woman-destroy-farmland-in-west-bank/",
+    "top_news": "https://english.news.cn/africa/20260502/c5c2ccc5938b44e49e9a0598710aad7e/c.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "article",
-      "colonizers",
-      "injure",
-      "elderly",
-      "woman",
-      "destroy",
-      "farmland",
-      "west",
-      "bank"
+      "africa",
+      "20260502",
+      "c5c2ccc5938b44e49e9a0598710aad7e",
+      "c.html"
     ]
   },
-  "TCD": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.goodhousekeeping.com/entertainment/movies/a71184119/will-there-be-a-hannah-swensen-mystery-2026-hallmark/",
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://punchng.com/my-supporters-dont-abuse-like-obi-atiku-camps-amaechi/",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
-      "entertainment",
-      "movies",
-      "a71184119",
-      "will",
-      "there",
-      "hannah",
-      "swensen",
-      "mystery",
-      "2026",
-      "hallmark"
+      "supporters",
+      "dont",
+      "abuse",
+      "like",
+      "obi",
+      "atiku",
+      "camps",
+      "amaechi"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5268858-oil-tanker-hijacked-yemen-diverted-towards-somalia",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5268858",
+      "oil",
+      "tanker",
+      "hijacked",
+      "yemen",
+      "diverted",
+      "towards",
+      "somalia"
     ]
   }
 }
