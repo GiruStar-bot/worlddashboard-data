@@ -1,40 +1,65 @@
 {
-  "ISR": {
-    "risk_score": 5.9,
-    "count": 7,
-    "top_news": "https://www.algemeiner.com/2026/05/02/war-likely-to-resume-after-trumps-rejection-of-latest-proposal-says-irgc-general/",
+  "IRN": {
+    "risk_score": 6.25,
+    "count": 9,
+    "top_news": "https://www.thetimes.com/uk/crime/article/golders-green-attack-veterans-marines-hired-security-jewish-charity-fcv22bb6c",
     "event_codes": {
-      "19": 4,
+      "14": 5,
       "17": 2,
-      "18": 1
+      "19": 2
+    },
+    "keywords": [
+      "crime",
+      "article",
+      "golders",
+      "green",
+      "attack",
+      "veterans",
+      "marines",
+      "hired",
+      "security",
+      "jewish",
+      "charity",
+      "fcv22bb6c"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/05/02/us-cautions-citizens-in-uk-after-terrorism-threat-alert/",
+    "event_codes": {
+      "14": 4,
+      "19": 2
     },
     "keywords": [
       "2026",
-      "war",
-      "likely",
-      "resume",
+      "cautions",
+      "citizens",
       "after",
-      "trumps",
-      "rejection",
-      "latest",
-      "proposal",
-      "says",
-      "irgc",
-      "general"
+      "terrorism",
+      "threat",
+      "alert"
     ]
   },
-  "NGA": {
-    "risk_score": 5.9,
-    "count": 7,
-    "top_news": "https://allafrica.com/stories/202605010175.html",
+  "TUR": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://www.washingtonexaminer.com/news/house/4552618/randy-fine-backlash-dont-want-armenians-congress/",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "17": 1
+      "17": 3,
+      "19": 3
     },
     "keywords": [
-      "stories",
-      "202605010175.html"
+      "news",
+      "house",
+      "4552618",
+      "randy",
+      "fine",
+      "backlash",
+      "dont",
+      "want",
+      "armenians",
+      "congress"
     ]
   }
 }
