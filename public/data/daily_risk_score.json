@@ -1,21 +1,131 @@
 {
   "IRN": {
-    "risk_score": 5.85,
-    "count": 8,
-    "top_news": "https://eaworldview.com/2026/05/us-israel-war-iran-calls-trump-bluff/",
+    "risk_score": 9.4,
+    "count": 15,
+    "top_news": "https://www.bssnews.net/international/383381",
     "event_codes": {
-      "19": 4,
+      "17": 7,
+      "18": 4,
+      "16": 3,
+      "19": 1
+    },
+    "keywords": [
+      "international",
+      "383381"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.4,
+    "count": 8,
+    "top_news": "https://themedialine.org/top-stories/world-press-freedom-day-tests-whether-the-public-still-has-a-right-to-know/",
+    "event_codes": {
+      "17": 5,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "top",
+      "stories",
+      "world",
+      "press",
+      "freedom",
+      "day",
+      "tests",
+      "whether",
+      "the",
+      "public",
+      "still",
+      "has",
+      "right",
+      "know"
+    ]
+  },
+  "KHM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://eturbonews.com/tourism-to-thailand-and-cambodia-on-the-verge-of-a-new-war/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "tourism",
+      "thailand",
+      "and",
+      "cambodia",
+      "the",
+      "verge",
+      "new",
+      "war"
+    ]
+  },
+  "SYR": {
+    "risk_score": 13.5,
+    "count": 15,
+    "top_news": "https://www.bssnews.net/international/383381",
+    "event_codes": {
+      "19": 10,
       "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "international",
+      "383381"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://eturbonews.com/tourism-to-thailand-and-cambodia-on-the-verge-of-a-new-war/",
+    "event_codes": {
+      "19": 3,
       "16": 1
     },
     "keywords": [
+      "tourism",
+      "thailand",
+      "and",
+      "cambodia",
+      "the",
+      "verge",
+      "new",
+      "war"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.6,
+    "count": 6,
+    "top_news": "https://www.arkansasonline.com/news/2026/may/02/2-prominent-activists-on-aid-flotilla-detained/",
+    "event_codes": {
+      "17": 4,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
       "2026",
-      "israel",
-      "war",
-      "iran",
-      "calls",
-      "trump",
-      "bluff"
+      "may",
+      "prominent",
+      "activists",
+      "aid",
+      "flotilla",
+      "detained"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.arkansasonline.com/news/2026/may/02/ex-congressman-convicted-in-lobbying-case/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "may",
+      "congressman",
+      "convicted",
+      "lobbying",
+      "case"
     ]
   }
 }
