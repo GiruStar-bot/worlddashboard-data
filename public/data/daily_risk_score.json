@@ -1,66 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 13.7,
-    "count": 16,
-    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260501-presstv08.htm",
+  "ARE": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.thehindubusinessline.com/economy/logistics/india-linked-lpg-tanker-crosses-strait-of-hormuz-amid-countrys-deepening-fuel-crisis/article70932795.ece",
     "event_codes": {
-      "19": 7,
-      "16": 5,
-      "17": 2,
-      "18": 2
+      "19": 3
     },
     "keywords": [
-      "wmd",
-      "library",
-      "news",
-      "iran",
-      "2026",
-      "iran",
-      "260501",
-      "presstv08.htm"
+      "economy",
+      "logistics",
+      "india",
+      "linked",
+      "lpg",
+      "tanker",
+      "crosses",
+      "strait",
+      "hormuz",
+      "amid",
+      "countrys",
+      "deepening",
+      "fuel",
+      "crisis",
+      "article70932795.ece"
     ]
   },
   "ISR": {
-    "risk_score": 15.96,
-    "count": 19,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260501-unbrief01.htm",
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://en.tempo.co/read/2101536/iran-proposes-new-framework-for-strait-of-hormuz",
     "event_codes": {
-      "19": 9,
-      "17": 8,
-      "16": 1,
-      "18": 1
+      "17": 4,
+      "19": 1
     },
     "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260501",
-      "unbrief01.htm"
+      "read",
+      "2101536",
+      "iran",
+      "proposes",
+      "new",
+      "framework",
+      "for",
+      "strait",
+      "hormuz"
     ]
   },
-  "JOR": {
-    "risk_score": 2.22,
+  "MOZ": {
+    "risk_score": 2.76,
     "count": 3,
-    "top_news": "https://www.sott.net/article/506059-Iran-damaged-16-US-military-sites-using-advanced-Chinese-satellite-report-shows",
+    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=69300",
     "event_codes": {
-      "14": 2,
-      "17": 1
+      "17": 3
     },
     "keywords": [
-      "article",
-      "506059",
-      "iran",
-      "damaged",
-      "military",
-      "sites",
-      "using",
-      "advanced",
-      "chinese",
-      "satellite",
-      "report",
-      "shows"
+      "news",
+      "headlines",
+      "index.cfm"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5268895-rsf-drone-strike-kills-five-sudan-capital",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5268895",
+      "rsf",
+      "drone",
+      "strike",
+      "kills",
+      "five",
+      "sudan",
+      "capital"
     ]
   }
 }
