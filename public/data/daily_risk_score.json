@@ -1,33 +1,40 @@
 {
-  "IRN": {
-    "risk_score": 5.2,
-    "count": 6,
-    "top_news": "https://www.newsweek.com/us-ports-blockade-cost-iran-billions-ships-redirected-11906238",
+  "ISR": {
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "https://www.algemeiner.com/2026/05/02/war-likely-to-resume-after-trumps-rejection-of-latest-proposal-says-irgc-general/",
     "event_codes": {
-      "16": 3,
-      "19": 3
+      "19": 4,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "ports",
-      "blockade",
-      "cost",
-      "iran",
-      "billions",
-      "ships",
-      "redirected",
-      "11906238"
+      "2026",
+      "war",
+      "likely",
+      "resume",
+      "after",
+      "trumps",
+      "rejection",
+      "latest",
+      "proposal",
+      "says",
+      "irgc",
+      "general"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.cubaheadlines.com/articles/327841",
+  "NGA": {
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "https://allafrica.com/stories/202605010175.html",
     "event_codes": {
-      "17": 4
+      "19": 4,
+      "16": 2,
+      "17": 1
     },
     "keywords": [
-      "articles",
-      "327841"
+      "stories",
+      "202605010175.html"
     ]
   }
 }
