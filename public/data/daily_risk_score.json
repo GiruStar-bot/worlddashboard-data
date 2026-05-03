@@ -1,46 +1,84 @@
 {
   "IRN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.moneycontrol.com/world/uk-military-reports-bulk-carrier-attack-near-strait-of-hormuz-ukmto-issues-alert-article-13906661.html",
+    "risk_score": 10.39,
+    "count": 11,
+    "top_news": "https://www.islamicinvitationturkey.com/iran-condemns-assassination-of-syrian-cleric-in-damascus/",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "19": 7,
+      "17": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "military",
-      "reports",
-      "bulk",
-      "carrier",
-      "attack",
-      "near",
-      "strait",
-      "hormuz",
-      "ukmto",
-      "issues",
-      "alert",
-      "article",
-      "13906661.html"
+      "iran",
+      "condemns",
+      "assassination",
+      "syrian",
+      "cleric",
+      "damascus"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://ianslive.in/israel-to-procure-new-squadrons-of-f-35-and-f15ia-defence-ministry--20260503182818",
+    "risk_score": 7.64,
+    "count": 9,
+    "top_news": "https://www.independentsentinel.com/a-brief-course-why-iran-must-have-a-nuclear-war/",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "15": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "israel",
-      "procure",
+      "brief",
+      "course",
+      "why",
+      "iran",
+      "must",
+      "have",
+      "nuclear",
+      "war"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://tribune.com.pk/story/2606170/new-israeli-attacks-kill-at-least-7-in-southern-lebanon",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "2606170",
       "new",
-      "squadrons",
-      "and",
-      "f15ia",
-      "defence",
-      "ministry",
-      "20260503182818"
+      "israeli",
+      "attacks",
+      "kill",
+      "least",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.45,
+    "count": 5,
+    "top_news": "https://punchng.com/reps-probe-4-6bn-health-grants-demand-oversight-of-hiv-malaria-funds/",
+    "event_codes": {
+      "14": 3,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "reps",
+      "probe",
+      "6bn",
+      "health",
+      "grants",
+      "demand",
+      "oversight",
+      "hiv",
+      "malaria",
+      "funds"
     ]
   }
 }
