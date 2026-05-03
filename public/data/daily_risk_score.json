@@ -1,63 +1,108 @@
 {
-  "BRA": {
-    "risk_score": 8.6,
-    "count": 10,
-    "top_news": "https://www.yahoo.com/news/articles/two-gaza-flotilla-activists-abducted-140003380.html",
+  "IRN": {
+    "risk_score": 8.75,
+    "count": 9,
+    "top_news": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
     "event_codes": {
-      "18": 9,
-      "17": 1
+      "19": 7,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "two",
-      "gaza",
-      "flotilla",
-      "activists",
-      "abducted",
-      "140003380.html"
+      "world",
+      "2026",
+      "may",
+      "canada",
+      "first",
+      "non",
+      "european",
+      "nation",
+      "epc",
+      "summit",
+      "mark",
+      "carney",
+      "allies",
+      "trump"
     ]
   },
-  "ISR": {
-    "risk_score": 10.6,
-    "count": 13,
-    "top_news": "https://www.ummid.com/news/2026/5/3/remembering-262-palestinian-journalists-israel-has-killed-since-oct-2023.html",
+  "IRQ": {
+    "risk_score": 2.05,
+    "count": 3,
+    "top_news": "https://organiser.org/2026/05/03/351430/world/popular-mobilization-forces-pmf-of-iraq-who-favours-tehran-an-obstacle-to-west-asia-strategy-of-the-us/",
     "event_codes": {
-      "18": 9,
-      "17": 3,
+      "14": 1,
+      "16": 1,
       "19": 1
     },
     "keywords": [
-      "news",
       "2026",
-      "remembering",
-      "262",
-      "palestinian",
-      "journalists",
-      "israel",
-      "has",
-      "killed",
-      "since",
-      "oct",
-      "2023.html"
+      "351430",
+      "world",
+      "popular",
+      "mobilization",
+      "forces",
+      "pmf",
+      "iraq",
+      "who",
+      "favours",
+      "tehran",
+      "obstacle",
+      "west",
+      "asia",
+      "strategy",
+      "the"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.15,
+    "count": 21,
+    "top_news": "https://www.arabnews.com/node/2642182/middle-east",
+    "event_codes": {
+      "19": 11,
+      "17": 7,
+      "18": 3
+    },
+    "keywords": [
+      "node",
+      "2642182",
+      "middle",
+      "east"
     ]
   },
   "NGA": {
-    "risk_score": 7.2,
-    "count": 10,
-    "top_news": "https://theeagleonline.com.ng/naf-airstrikes-hit-terrorists-destroy-hideout-in-katsina/",
+    "risk_score": 9.42,
+    "count": 12,
+    "top_news": "https://saharareporters.com/2026/05/03/nigerias-ndlea-seizes-over-140000-tramadol-pills-nearly-1-ton-cannabis-nationwide",
     "event_codes": {
       "17": 6,
-      "19": 4
+      "19": 6
     },
     "keywords": [
-      "naf",
-      "airstrikes",
-      "hit",
-      "terrorists",
-      "destroy",
-      "hideout",
-      "katsina"
+      "2026",
+      "nigerias",
+      "ndlea",
+      "seizes",
+      "over",
+      "140000",
+      "tramadol",
+      "pills",
+      "nearly",
+      "ton",
+      "cannabis",
+      "nationwide"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2642182/middle-east",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2642182",
+      "middle",
+      "east"
     ]
   }
 }
