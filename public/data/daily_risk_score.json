@@ -1,124 +1,63 @@
 {
   "BRA": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.islamicinvitationturkey.com/testimonies-reveal-allegations-of-torture-against-gaza-aid-flotilla-activists-in-israeli-custody-following-detainment-in-international-waters/",
+    "risk_score": 8.6,
+    "count": 10,
+    "top_news": "https://www.yahoo.com/news/articles/two-gaza-flotilla-activists-abducted-140003380.html",
     "event_codes": {
-      "17": 3,
-      "18": 3
+      "18": 9,
+      "17": 1
     },
     "keywords": [
-      "testimonies",
-      "reveal",
-      "allegations",
-      "torture",
-      "against",
+      "news",
+      "articles",
+      "two",
       "gaza",
-      "aid",
       "flotilla",
       "activists",
-      "israeli",
-      "custody",
-      "following",
-      "detainment",
-      "international",
-      "waters"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.85,
-    "count": 6,
-    "top_news": "https://www.islamicinvitationturkey.com/irgc-challenges-trump-with-stark-choice-impossible-war-or-unfavorable-deal-with-iran/",
-    "event_codes": {
-      "14": 3,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "irgc",
-      "challenges",
-      "trump",
-      "with",
-      "stark",
-      "choice",
-      "impossible",
-      "war",
-      "unfavorable",
-      "deal",
-      "with",
-      "iran"
+      "abducted",
+      "140003380.html"
     ]
   },
   "ISR": {
-    "risk_score": 10.15,
-    "count": 14,
-    "top_news": "https://www.islamicinvitationturkey.com/report-reveals-surge-in-organized-zionist-settler-attacks-on-christians/",
+    "risk_score": 10.6,
+    "count": 13,
+    "top_news": "https://www.ummid.com/news/2026/5/3/remembering-262-palestinian-journalists-israel-has-killed-since-oct-2023.html",
     "event_codes": {
-      "17": 6,
-      "18": 5,
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "report",
-      "reveals",
-      "surge",
-      "organized",
-      "zionist",
-      "settler",
-      "attacks",
-      "christians"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.15,
-    "count": 8,
-    "top_news": "https://diplomat.so/articles/1259/Nigeria-Summons-SA-Acting-Envoy-Over-Xenophobia",
-    "event_codes": {
-      "18": 4,
-      "14": 1,
-      "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "articles",
-      "1259",
-      "nigeria",
-      "summons",
-      "acting",
-      "envoy",
-      "over",
-      "xenophobia"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.0,
-    "count": 7,
-    "top_news": "https://www.dailymail.com/news/article-15779385/The-gilded-lives-cartel-wives-resist-flaunting-riches-wags-paid-ultimate-price-standing-narco-lovers.html",
-    "event_codes": {
-      "17": 6,
+      "18": 9,
+      "17": 3,
       "19": 1
     },
     "keywords": [
       "news",
-      "article",
-      "15779385",
-      "the",
-      "gilded",
-      "lives",
-      "cartel",
-      "wives",
-      "resist",
-      "flaunting",
-      "riches",
-      "wags",
-      "paid",
-      "ultimate",
-      "price",
-      "standing",
-      "narco",
-      "lovers.html"
+      "2026",
+      "remembering",
+      "262",
+      "palestinian",
+      "journalists",
+      "israel",
+      "has",
+      "killed",
+      "since",
+      "oct",
+      "2023.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.2,
+    "count": 10,
+    "top_news": "https://theeagleonline.com.ng/naf-airstrikes-hit-terrorists-destroy-hideout-in-katsina/",
+    "event_codes": {
+      "17": 6,
+      "19": 4
+    },
+    "keywords": [
+      "naf",
+      "airstrikes",
+      "hit",
+      "terrorists",
+      "destroy",
+      "hideout",
+      "katsina"
     ]
   }
 }
