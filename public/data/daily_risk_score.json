@@ -1,31 +1,55 @@
 {
   "IRN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.sfexaminer.com/trump-tells-congress-why-he-doesnt-need-its-authorization-for-the-iran-war/article_f9aee187-0715-58cc-9a18-a965589666bd.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2642165/middle-east",
     "event_codes": {
-      "16": 2,
       "19": 2
     },
     "keywords": [
-      "trump",
-      "tells",
-      "congress",
-      "why",
-      "doesnt",
-      "need",
-      "its",
-      "authorization",
-      "for",
-      "the",
-      "iran",
-      "war",
-      "article",
-      "f9aee187",
-      "0715",
-      "58cc",
-      "9a18",
-      "a965589666bd.html"
+      "node",
+      "2642165",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.singletonargus.com.au/story/9238362/israel-approves-plan-to-buy-f-35-f-15ia-fighter-jets/",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "story",
+      "9238362",
+      "israel",
+      "approves",
+      "plan",
+      "buy",
+      "15ia",
+      "fighter",
+      "jets"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.singletonargus.com.au/story/9238362/israel-approves-plan-to-buy-f-35-f-15ia-fighter-jets/",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "story",
+      "9238362",
+      "israel",
+      "approves",
+      "plan",
+      "buy",
+      "15ia",
+      "fighter",
+      "jets"
     ]
   }
 }
