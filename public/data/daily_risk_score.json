@@ -1,69 +1,119 @@
 {
-  "IRN": {
-    "risk_score": 9.99,
-    "count": 11,
-    "top_news": "https://www.eurasiareview.com/04052026-uae-intercepts-missiles-fired-from-iran-as-emergency-warnings-issued/",
+  "ARE": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/05/uae-slams-dangerous-escalation-after-fresh-attacks-blamed-iran",
     "event_codes": {
-      "19": 7,
-      "17": 3,
-      "14": 1
-    },
-    "keywords": [
-      "04052026",
-      "uae",
-      "intercepts",
-      "missiles",
-      "fired",
-      "from",
-      "iran",
-      "emergency",
-      "warnings",
-      "issued"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "http://theitem.com/stories/uae-says-iran-has-resumed-attacks-as-the-us-moves-to-reopen-the-strait-of-hormuz,442547",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "stories",
+      "originals",
+      "2026",
       "uae",
-      "says",
-      "iran",
-      "has",
-      "resumed",
+      "slams",
+      "dangerous",
+      "escalation",
+      "after",
+      "fresh",
       "attacks",
-      "the",
-      "moves",
-      "reopen",
-      "the",
-      "strait",
-      "hormuz,442547"
+      "blamed",
+      "iran"
     ]
   },
-  "NGA": {
-    "risk_score": 7.25,
-    "count": 11,
-    "top_news": "https://thesun.ng/police-arrest-13-suspects-in-rivers-over-harassment-phone-theft/",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/sudanese-military-downs-drone-launched-192318126.html",
     "event_codes": {
-      "17": 6,
-      "18": 4,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "police",
-      "arrest",
-      "suspects",
-      "rivers",
-      "over",
-      "harassment",
-      "phone",
-      "theft"
+      "news",
+      "articles",
+      "sudanese",
+      "military",
+      "downs",
+      "drone",
+      "launched",
+      "192318126.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.35,
+    "count": 14,
+    "top_news": "https://www.hindustantimes.com/world-news/trump-says-us-shot-down-7-iranian-boats-urges-south-korea-to-join-project-freedom-101777918189922.html",
+    "event_codes": {
+      "19": 9,
+      "16": 2,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "trump",
+      "says",
+      "shot",
+      "down",
+      "iranian",
+      "boats",
+      "urges",
+      "south",
+      "korea",
+      "join",
+      "project",
+      "freedom",
+      "101777918189922.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.93,
+    "count": 10,
+    "top_news": "https://pjmedia.com/rabbi-michael-barclay/2026/05/04/rabbi-michael-barclays-iran-war-updates-for-may-3-and-may-4-n4952479",
+    "event_codes": {
+      "15": 4,
+      "16": 2,
+      "17": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "rabbi",
+      "michael",
+      "barclay",
+      "2026",
+      "rabbi",
+      "michael",
+      "barclays",
+      "iran",
+      "war",
+      "updates",
+      "for",
+      "may",
+      "and",
+      "may",
+      "n4952479"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.85,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/sudanese-military-downs-drone-launched-192318126.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "sudanese",
+      "military",
+      "downs",
+      "drone",
+      "launched",
+      "192318126.html"
     ]
   }
 }
