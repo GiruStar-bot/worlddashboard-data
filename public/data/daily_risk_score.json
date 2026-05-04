@@ -1,54 +1,87 @@
 {
   "IRN": {
-    "risk_score": 10.35,
-    "count": 11,
-    "top_news": "https://www.albawaba.com/node/footage-allegedly-captures-irans-missile-1626751",
+    "risk_score": 6.09,
+    "count": 7,
+    "top_news": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-66/article",
     "event_codes": {
-      "19": 10,
-      "17": 1
+      "19": 4,
+      "15": 2,
+      "14": 1
     },
     "keywords": [
-      "node",
-      "footage",
-      "allegedly",
-      "captures",
-      "irans",
-      "missile",
-      "1626751"
+      "world",
+      "war",
+      "the",
+      "middle",
+      "east",
+      "latest",
+      "developments",
+      "article"
     ]
   },
   "ISR": {
-    "risk_score": 13.05,
-    "count": 14,
-    "top_news": "https://aa.com.tr/en/us-israel-iran-war/iran-confirms-it-is-reviewing-us-proposal-to-end-war/3926325",
+    "risk_score": 7.94,
+    "count": 9,
+    "top_news": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war",
     "event_codes": {
-      "19": 8,
-      "18": 5,
-      "17": 1
+      "19": 5,
+      "15": 2,
+      "17": 1,
+      "20": 1
     },
     "keywords": [
-      "israel",
-      "iran",
-      "war",
-      "iran",
-      "confirms",
-      "reviewing",
-      "proposal",
-      "end",
-      "war",
-      "3926325"
+      "opinions",
+      "2026",
+      "winning",
+      "peace",
+      "lebanon",
+      "harder",
+      "than",
+      "winning",
+      "war"
     ]
   },
   "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://sana.sy/en/international/2314403/",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war",
     "event_codes": {
-      "19": 4
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "international",
-      "2314403"
+      "opinions",
+      "2026",
+      "winning",
+      "peace",
+      "lebanon",
+      "harder",
+      "than",
+      "winning",
+      "war"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/isis-syria-iraq-jack-letts-john-letts-b2959401.html",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "isis",
+      "syria",
+      "iraq",
+      "jack",
+      "letts",
+      "john",
+      "letts",
+      "b2959401.html"
     ]
   }
 }
