@@ -1,87 +1,96 @@
 {
-  "IRN": {
-    "risk_score": 6.09,
-    "count": 7,
-    "top_news": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-66/article",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://pmnewsnigeria.com/2026/05/04/iran-warns-it-may-attack-us-forces-in-strait-of-hormuz/",
     "event_codes": {
-      "19": 4,
-      "15": 2,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "world",
-      "war",
-      "the",
-      "middle",
-      "east",
-      "latest",
-      "developments",
-      "article"
+      "2026",
+      "iran",
+      "warns",
+      "may",
+      "attack",
+      "forces",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.2,
+    "count": 9,
+    "top_news": "https://english.news.cn/20260504/9b6a86053bb94251998f8c12acdbbaf7/c.html",
+    "event_codes": {
+      "16": 5,
+      "19": 4
+    },
+    "keywords": [
+      "20260504",
+      "9b6a86053bb94251998f8c12acdbbaf7",
+      "c.html"
     ]
   },
   "ISR": {
-    "risk_score": 7.94,
-    "count": 9,
-    "top_news": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war",
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/articles/sharon-sharabi-brother-ex-hostage-150728485.html",
     "event_codes": {
-      "19": 5,
-      "15": 2,
+      "14": 2,
       "17": 1,
-      "20": 1
-    },
-    "keywords": [
-      "opinions",
-      "2026",
-      "winning",
-      "peace",
-      "lebanon",
-      "harder",
-      "than",
-      "winning",
-      "war"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/opinions/2026/5/4/winning-peace-in-lebanon-is-harder-than-winning-war",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "opinions",
-      "2026",
-      "winning",
-      "peace",
-      "lebanon",
-      "harder",
-      "than",
-      "winning",
-      "war"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/isis-syria-iraq-jack-letts-john-letts-b2959401.html",
-    "event_codes": {
-      "18": 1,
       "19": 1
     },
     "keywords": [
       "news",
-      "world",
+      "articles",
+      "sharon",
+      "sharabi",
+      "brother",
+      "hostage",
+      "150728485.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/middle-east/17-killed-in-israeli-attacks-in-lebanon-in-last-24-hours-death-toll-nears-2-700/3926710",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "middle",
       "east",
-      "isis",
-      "syria",
-      "iraq",
-      "jack",
-      "letts",
-      "john",
-      "letts",
-      "b2959401.html"
+      "killed",
+      "israeli",
+      "attacks",
+      "lebanon",
+      "last",
+      "hours",
+      "death",
+      "toll",
+      "nears",
+      "700",
+      "3926710"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.05,
+    "count": 15,
+    "top_news": "https://dailypost.ng/2026/05/04/police-denies-shooting-protesting-students-in-calabar/",
+    "event_codes": {
+      "14": 7,
+      "19": 6,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "denies",
+      "shooting",
+      "protesting",
+      "students",
+      "calabar"
     ]
   }
 }
