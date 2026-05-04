@@ -1,119 +1,131 @@
 {
   "ARE": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/05/uae-slams-dangerous-escalation-after-fresh-attacks-blamed-iran",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/middle-east/uae-three-indians-injured-in-attacks-in-fujairah-indian-embassy-in-touch-with-local-authorities20260505012928/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 4
     },
     "keywords": [
-      "originals",
-      "2026",
+      "news",
+      "world",
+      "middle",
+      "east",
       "uae",
-      "slams",
-      "dangerous",
-      "escalation",
-      "after",
-      "fresh",
+      "three",
+      "indians",
+      "injured",
       "attacks",
-      "blamed",
-      "iran"
+      "fujairah",
+      "indian",
+      "embassy",
+      "touch",
+      "with",
+      "local",
+      "authorities20260505012928"
     ]
   },
-  "EGY": {
+  "COL": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://morningstaronline.co.uk/article/colombias-petro-says-cauca-bombers-supplied-ecuador",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "colombias",
+      "petro",
+      "says",
+      "cauca",
+      "bombers",
+      "supplied",
+      "ecuador"
+    ]
+  },
+  "ECU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/articles/sudanese-military-downs-drone-launched-192318126.html",
+    "top_news": "https://morningstaronline.co.uk/article/colombias-petro-says-cauca-bombers-supplied-ecuador",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "sudanese",
-      "military",
-      "downs",
-      "drone",
-      "launched",
-      "192318126.html"
+      "article",
+      "colombias",
+      "petro",
+      "says",
+      "cauca",
+      "bombers",
+      "supplied",
+      "ecuador"
     ]
   },
   "IRN": {
-    "risk_score": 12.35,
-    "count": 14,
-    "top_news": "https://www.hindustantimes.com/world-news/trump-says-us-shot-down-7-iranian-boats-urges-south-korea-to-join-project-freedom-101777918189922.html",
+    "risk_score": 14.47,
+    "count": 16,
+    "top_news": "https://www.canberratimes.com.au/story/9238714/crispin-hull-anthony-albanese-should-decline-donald-trump-iran-request/",
     "event_codes": {
-      "19": 9,
-      "16": 2,
-      "17": 2,
+      "19": 11,
+      "14": 2,
+      "15": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "world",
-      "news",
+      "story",
+      "9238714",
+      "crispin",
+      "hull",
+      "anthony",
+      "albanese",
+      "should",
+      "decline",
+      "donald",
       "trump",
-      "says",
-      "shot",
-      "down",
-      "iranian",
-      "boats",
-      "urges",
-      "south",
-      "korea",
-      "join",
-      "project",
-      "freedom",
-      "101777918189922.html"
+      "iran",
+      "request"
     ]
   },
   "ISR": {
-    "risk_score": 6.93,
-    "count": 10,
-    "top_news": "https://pjmedia.com/rabbi-michael-barclay/2026/05/04/rabbi-michael-barclays-iran-war-updates-for-may-3-and-may-4-n4952479",
+    "risk_score": 12.3,
+    "count": 14,
+    "top_news": "https://news.antiwar.com/2026/05/04/israeli-forces-kill-three-palestinians-in-gaza-as-relentless-attacks-continue/",
     "event_codes": {
-      "15": 4,
-      "16": 2,
-      "17": 2,
-      "14": 1,
-      "19": 1
+      "19": 10,
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "rabbi",
-      "michael",
-      "barclay",
       "2026",
-      "rabbi",
-      "michael",
-      "barclays",
-      "iran",
-      "war",
-      "updates",
-      "for",
-      "may",
-      "and",
-      "may",
-      "n4952479"
+      "israeli",
+      "forces",
+      "kill",
+      "three",
+      "palestinians",
+      "gaza",
+      "relentless",
+      "attacks",
+      "continue"
     ]
   },
-  "SDN": {
-    "risk_score": 2.85,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/articles/sudanese-military-downs-drone-launched-192318126.html",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://morningstaronline.co.uk/article/colombias-petro-says-cauca-bombers-supplied-ecuador",
     "event_codes": {
-      "19": 2,
-      "16": 1,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "sudanese",
-      "military",
-      "downs",
-      "drone",
-      "launched",
-      "192318126.html"
+      "article",
+      "colombias",
+      "petro",
+      "says",
+      "cauca",
+      "bombers",
+      "supplied",
+      "ecuador"
     ]
   }
 }
