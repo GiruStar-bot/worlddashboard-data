@@ -1,61 +1,95 @@
 {
-  "IRN": {
-    "risk_score": 4.92,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-three-men-accused-collaborating-israeli-mossad",
+  "EGY": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.stimson.org/2026/israel-cannot-achieve-normalization-with-lebanon-by-bombing-it/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 4
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "iran",
-      "executes",
-      "three",
-      "men",
-      "accused",
-      "collaborating",
-      "israeli",
-      "mossad"
+      "2026",
+      "israel",
+      "cannot",
+      "achieve",
+      "normalization",
+      "with",
+      "lebanon",
+      "bombing"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.stimson.org/2026/fit-for-purpose-assessing-american-alliances/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "fit",
+      "for",
+      "purpose",
+      "assessing",
+      "american",
+      "alliances"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.gazetteandherald.co.uk/news/26071736.shindig-festival-issues-statement-headliner-row/",
+    "risk_score": 13.8,
+    "count": 16,
+    "top_news": "https://www.stimson.org/2026/israel-cannot-achieve-normalization-with-lebanon-by-bombing-it/",
     "event_codes": {
-      "17": 6
+      "19": 9,
+      "17": 4,
+      "20": 2,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "26071736.shindig",
-      "festival",
-      "issues",
-      "statement",
-      "headliner",
-      "row"
+      "2026",
+      "israel",
+      "cannot",
+      "achieve",
+      "normalization",
+      "with",
+      "lebanon",
+      "bombing"
     ]
   },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.aol.co.uk/articles/security-justice-syria-faces-post-043015599.html",
+  "LBN": {
+    "risk_score": 3.81,
+    "count": 5,
+    "top_news": "https://www.stimson.org/2026/israel-cannot-achieve-normalization-with-lebanon-by-bombing-it/",
     "event_codes": {
-      "17": 2,
-      "20": 2
+      "15": 3,
+      "14": 1,
+      "20": 1
     },
     "keywords": [
-      "articles",
-      "security",
-      "justice",
-      "syria",
-      "faces",
-      "post",
-      "043015599.html"
+      "2026",
+      "israel",
+      "cannot",
+      "achieve",
+      "normalization",
+      "with",
+      "lebanon",
+      "bombing"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.36,
+    "count": 6,
+    "top_news": "https://www.stimson.org/2026/zhao-hai-what-would-china-do/",
+    "event_codes": {
+      "15": 3,
+      "16": 3
+    },
+    "keywords": [
+      "2026",
+      "zhao",
+      "hai",
+      "what",
+      "would",
+      "china"
     ]
   }
 }
