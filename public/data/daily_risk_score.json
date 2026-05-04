@@ -1,79 +1,98 @@
 {
   "IRN": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "http://www.vietnamtribune.com/news/279028492/vessel-attacked-by-multiple-small-boats-near-iran-in-strait-of-hormuz-ukmto",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://investinglive.com:443/commodities/weekend-bulk-carrier-attacked-by-small-craft-off-irans-sirik-coast-crew-safe-20260503/",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "19": 7
     },
     "keywords": [
-      "news",
-      "279028492",
-      "vessel",
+      "commodities",
+      "weekend",
+      "bulk",
+      "carrier",
       "attacked",
-      "multiple",
       "small",
-      "boats",
-      "near",
-      "iran",
-      "strait",
-      "hormuz",
-      "ukmto"
+      "craft",
+      "off",
+      "irans",
+      "sirik",
+      "coast",
+      "crew",
+      "safe",
+      "20260503"
     ]
   },
   "ISR": {
+    "risk_score": 7.5,
+    "count": 11,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/03/767997/Iran-armed-forces-will-be-final-victors-in-ongoing-unequal-battle-IRGC-spokesman",
+    "event_codes": {
+      "17": 7,
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "767997",
+      "iran",
+      "armed",
+      "forces",
+      "will",
+      "final",
+      "victors",
+      "ongoing",
+      "unequal",
+      "battle",
+      "irgc",
+      "spokesman"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.26,
+    "count": 11,
+    "top_news": "https://thenationonlineng.net/gunmen-kill-businessman-hours-before-childs-dedication-in-edo/",
+    "event_codes": {
+      "17": 6,
+      "19": 5
+    },
+    "keywords": [
+      "gunmen",
+      "kill",
+      "businessman",
+      "hours",
+      "before",
+      "childs",
+      "dedication",
+      "edo"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.vietnamtribune.com/news/279028492/vessel-attacked-by-multiple-small-boats-near-iran-in-strait-of-hormuz-ukmto",
+    "top_news": "https://www.santafenewmexican.com/ap/international/israeli-raid-in-the-west-bank-leaves-1-palestinian-dead-and-4-wounded/article_b8c667f1-56cf-50bd-9132-c0370f2ef530.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "279028492",
-      "vessel",
-      "attacked",
-      "multiple",
-      "small",
-      "boats",
-      "near",
-      "iran",
-      "strait",
-      "hormuz",
-      "ukmto"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=445105",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "article.aspx"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.7,
-    "count": 11,
-    "top_news": "https://theeagleonline.com.ng/gov-abdulrasaq-a-2027-misadventure-by-taiwo-adisa/",
-    "event_codes": {
-      "17": 5,
-      "16": 3,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "gov",
-      "abdulrasaq",
-      "2027",
-      "misadventure",
-      "taiwo",
-      "adisa"
+      "international",
+      "israeli",
+      "raid",
+      "the",
+      "west",
+      "bank",
+      "leaves",
+      "palestinian",
+      "dead",
+      "and",
+      "wounded",
+      "article",
+      "b8c667f1",
+      "56cf",
+      "50bd",
+      "9132",
+      "c0370f2ef530.html"
     ]
   }
 }
