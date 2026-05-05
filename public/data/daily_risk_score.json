@@ -1,158 +1,128 @@
 {
   "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.koreatimes.co.kr/world/20260506/trump-says-s-korean-operated-ship-shot-at-by-iran-after-deciding-to-go-it-alone",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://morningstaronline.co.uk/article/us-claims-ceasefire-not-over-tensions-strait-hormuz-escalate",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "20260506",
-      "trump",
-      "says",
-      "korean",
-      "operated",
-      "ship",
-      "shot",
-      "iran",
+      "article",
+      "claims",
+      "ceasefire",
+      "not",
+      "over",
+      "tensions",
+      "strait",
+      "hormuz",
+      "escalate"
+    ]
+  },
+  "ARG": {
+    "risk_score": 4.1,
+    "count": 6,
+    "top_news": "https://www.westword.com/news/after-rideshare-safety-bill-veto-colorado-governor-changes-40881761/",
+    "event_codes": {
+      "18": 3,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
       "after",
-      "deciding",
-      "alone"
+      "rideshare",
+      "safety",
+      "bill",
+      "veto",
+      "colorado",
+      "governor",
+      "changes",
+      "40881761"
     ]
   },
   "IRN": {
-    "risk_score": 7.72,
-    "count": 8,
-    "top_news": "https://www.koreatimes.co.kr/world/20260506/trump-says-iran-should-wave-the-white-flag-of-surrender",
+    "risk_score": 10.24,
+    "count": 11,
+    "top_news": "https://morningstaronline.co.uk/article/us-claims-ceasefire-not-over-tensions-strait-hormuz-escalate",
     "event_codes": {
-      "19": 7,
-      "15": 1
+      "19": 8,
+      "15": 2,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "20260506",
-      "trump",
-      "says",
-      "iran",
-      "should",
-      "wave",
-      "the",
-      "white",
-      "flag",
-      "surrender"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeastmonitor.com/20260505-us-offers-10m-reward-for-information-on-leader-of-iran-aligned-militia-group/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "20260505",
-      "offers",
-      "10m",
-      "reward",
-      "for",
-      "information",
-      "leader",
-      "iran",
-      "aligned",
-      "militia",
-      "group"
+      "article",
+      "claims",
+      "ceasefire",
+      "not",
+      "over",
+      "tensions",
+      "strait",
+      "hormuz",
+      "escalate"
     ]
   },
   "ISR": {
-    "risk_score": 19.75,
-    "count": 22,
-    "top_news": "https://www.arabnews.com/node/2642460/middle-east",
+    "risk_score": 25.56,
+    "count": 28,
+    "top_news": "https://morningstaronline.co.uk/article/us-claims-ceasefire-not-over-tensions-strait-hormuz-escalate",
     "event_codes": {
-      "19": 13,
-      "15": 5,
-      "18": 2,
-      "16": 1,
-      "20": 1
+      "19": 14,
+      "18": 9,
+      "15": 3,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "node",
-      "2642460",
-      "middle",
-      "east"
+      "article",
+      "claims",
+      "ceasefire",
+      "not",
+      "over",
+      "tensions",
+      "strait",
+      "hormuz",
+      "escalate"
     ]
   },
   "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.arabnews.com/node/2642460/middle-east",
+    "top_news": "https://morningstaronline.co.uk/article/us-claims-ceasefire-not-over-tensions-strait-hormuz-escalate",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "node",
-      "2642460",
-      "middle",
-      "east"
+      "article",
+      "claims",
+      "ceasefire",
+      "not",
+      "over",
+      "tensions",
+      "strait",
+      "hormuz",
+      "escalate"
     ]
   },
-  "NGA": {
-    "risk_score": 6.85,
-    "count": 10,
-    "top_news": "https://www.thecable.ng/lets-hit-back-oshiomhole-calls-for-action-against-south-african-businesses-over-xenophobic-attacks/",
+  "PSE": {
+    "risk_score": 3.82,
+    "count": 4,
+    "top_news": "https://morningstaronline.co.uk/article/israeli-general-issues-rare-warning-against-settler-violence",
     "event_codes": {
-      "17": 5,
       "19": 2,
-      "14": 1,
-      "16": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "lets",
-      "hit",
-      "back",
-      "oshiomhole",
-      "calls",
-      "for",
-      "action",
+      "article",
+      "israeli",
+      "general",
+      "issues",
+      "rare",
+      "warning",
       "against",
-      "south",
-      "african",
-      "businesses",
-      "over",
-      "xenophobic",
-      "attacks"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://www.edmontonexaminer.com:443/news/crime/court-overturns-80k-human-rights-tribunal-ruling-that-edmonton-police-discriminated-against-black-men-who-reported-crime",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "crime",
-      "court",
-      "overturns",
-      "80k",
-      "human",
-      "rights",
-      "tribunal",
-      "ruling",
-      "that",
-      "edmonton",
-      "police",
-      "discriminated",
-      "against",
-      "black",
-      "men",
-      "who",
-      "reported",
-      "crime"
+      "settler",
+      "violence"
     ]
   }
 }
