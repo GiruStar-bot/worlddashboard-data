@@ -1,57 +1,85 @@
 {
-  "IRN": {
-    "risk_score": 11.72,
-    "count": 12,
-    "top_news": "https://www.aei.org/articles/applying-us-air-warfare-theory-and-doctrine-to-evaluate-the-campaign-against-iran-part-ii-iranian-missile-forces/",
+  "ARE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.newkerala.com/news/a/iran-us-conflict-brink-reigniting-as-washington-project-stranded-637.htm",
     "event_codes": {
-      "19": 9,
-      "18": 2,
-      "17": 1
+      "19": 5
     },
     "keywords": [
-      "articles",
-      "applying",
-      "air",
-      "warfare",
-      "theory",
-      "and",
-      "doctrine",
-      "evaluate",
-      "the",
-      "campaign",
-      "against",
+      "news",
       "iran",
-      "part",
-      "iranian",
-      "missile",
-      "forces"
+      "conflict",
+      "brink",
+      "reigniting",
+      "washington",
+      "project",
+      "stranded",
+      "637.htm"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.39,
+    "count": 11,
+    "top_news": "https://www.newkerala.com/news/a/iran-us-conflict-brink-reigniting-as-washington-project-stranded-637.htm",
+    "event_codes": {
+      "19": 8,
+      "15": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "conflict",
+      "brink",
+      "reigniting",
+      "washington",
+      "project",
+      "stranded",
+      "637.htm"
     ]
   },
   "ISR": {
-    "risk_score": 4.87,
-    "count": 5,
-    "top_news": "https://www.aei.org/articles/applying-us-air-warfare-theory-and-doctrine-to-evaluate-the-campaign-against-iran-part-ii-iranian-missile-forces/",
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://aero-news.net:443/index.cfm?do=main.textpost&id=D2891EB8-91EC-47F5-9674-488BC490514E",
     "event_codes": {
-      "19": 4,
+      "19": 5,
       "17": 1
     },
     "keywords": [
-      "articles",
-      "applying",
-      "air",
-      "warfare",
-      "theory",
-      "and",
-      "doctrine",
-      "evaluate",
-      "the",
-      "campaign",
-      "against",
-      "iran",
-      "part",
-      "iranian",
-      "missile",
-      "forces"
+      "index.cfm"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202605050017.html",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "202605050017.html"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.ewn.co.za/2026/05/05/da-pours-cold-water-on-ramaphosas-unofficial-visit-to-zimbabwe",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "pours",
+      "cold",
+      "water",
+      "ramaphosas",
+      "unofficial",
+      "visit",
+      "zimbabwe"
     ]
   }
 }
