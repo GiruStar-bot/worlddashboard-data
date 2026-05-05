@@ -1,230 +1,193 @@
 {
-  "IRN": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://www.kcbd.com/2026/05/05/tuesday-morning-top-stories-police-identify-two-men-killed-north-lubbock-shooting/",
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://townhall.com/tipsheet/dmitri-bolt/2026/05/05/iran-launches-another-strike-against-the-united-arab-emirates-n2675573",
     "event_codes": {
-      "19": 9,
-      "16": 2,
-      "14": 1,
-      "18": 1
+      "19": 4
+    },
+    "keywords": [
+      "tipsheet",
+      "dmitri",
+      "bolt",
+      "2026",
+      "iran",
+      "launches",
+      "another",
+      "strike",
+      "against",
+      "the",
+      "united",
+      "arab",
+      "emirates",
+      "n2675573"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.16,
+    "count": 16,
+    "top_news": "https://www.pakistantoday.com.pk/2026/05/05/uae-says-air-defences-actively-engaging-missiles-drones-coming-from-iran",
+    "event_codes": {
+      "17": 5,
+      "16": 4,
+      "19": 4,
+      "18": 3
     },
     "keywords": [
       "2026",
-      "tuesday",
-      "morning",
-      "top",
-      "stories",
-      "police",
-      "identify",
-      "two",
-      "men",
-      "killed",
-      "north",
-      "lubbock",
-      "shooting"
+      "uae",
+      "says",
+      "air",
+      "defences",
+      "actively",
+      "engaging",
+      "missiles",
+      "drones",
+      "coming",
+      "from",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 29.0,
-    "count": 32,
-    "top_news": "http://www.jpost.com/israel-news/article-895204",
+    "risk_score": 14.42,
+    "count": 19,
+    "top_news": "https://aa.com.tr/en/middle-east/palestinian-christians-live-in-fear-amid-escalating-israeli-assaults-in-occupied-east-jerusalem/3927876",
     "event_codes": {
-      "19": 24,
-      "17": 5,
-      "18": 2,
-      "14": 1
+      "17": 7,
+      "18": 5,
+      "19": 5,
+      "16": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "article",
-      "895204"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://igad.int/call-for-applications-regional-training-of-trainers-for-gender-champions-on-gender-sensitive-digital-trade-using-gals-methodology/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "call",
-      "for",
-      "applications",
-      "regional",
-      "training",
-      "trainers",
-      "for",
-      "gender",
-      "champions",
-      "gender",
-      "sensitive",
-      "digital",
-      "trade",
-      "using",
-      "gals",
-      "methodology"
+      "middle",
+      "east",
+      "palestinian",
+      "christians",
+      "live",
+      "fear",
+      "amid",
+      "escalating",
+      "israeli",
+      "assaults",
+      "occupied",
+      "east",
+      "jerusalem",
+      "3927876"
     ]
   },
   "LBN": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/05/05/lebanese-army-enters-beirut-suburbs-to-arrest-gunmen-who-fired-at-hezbollah-funeral/",
-    "event_codes": {
-      "19": 8,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "lebanese",
-      "army",
-      "enters",
-      "beirut",
-      "suburbs",
-      "arrest",
-      "gunmen",
-      "who",
-      "fired",
-      "hezbollah",
-      "funeral"
-    ]
-  },
-  "NER": {
-    "risk_score": 6.84,
-    "count": 7,
-    "top_news": "https://dailypost.ng/2026/05/05/communal-clash-in-niger-one-dead-houses-burnt-in-munya-lga-police/",
-    "event_codes": {
-      "19": 5,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "communal",
-      "clash",
-      "niger",
-      "one",
-      "dead",
-      "houses",
-      "burnt",
-      "munya",
-      "lga",
-      "police"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailymaverick.co.za/article/2026-05-05-journacide-how-most-of-the-world-looks-away-while-reporters-are-hunted-down/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "journacide",
-      "how",
-      "most",
-      "the",
-      "world",
-      "looks",
-      "away",
-      "while",
-      "reporters",
-      "are",
-      "hunted",
-      "down"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "https://www.wsls.com/news/world/2026/05/05/the-latest-hegseth-and-caine-say-ceasefire-between-the-us-and-iran-is-not-over/",
-    "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "the",
-      "latest",
-      "hegseth",
-      "and",
-      "caine",
-      "say",
-      "ceasefire",
-      "between",
-      "the",
-      "and",
-      "iran",
-      "not",
-      "over"
-    ]
-  },
-  "SOM": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "http://www.jpost.com/middle-east/article-895208",
+    "top_news": "https://aa.com.tr/en/middle-east/un-says-southern-lebanon-sees-highest-exchanges-of-fire-since-ceasefire/3928096",
     "event_codes": {
       "19": 4
     },
     "keywords": [
       "middle",
       "east",
-      "article",
-      "895208"
+      "says",
+      "southern",
+      "lebanon",
+      "sees",
+      "highest",
+      "exchanges",
+      "fire",
+      "since",
+      "ceasefire",
+      "3928096"
     ]
   },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dailymaverick.co.za/article/2026-05-05-journacide-how-most-of-the-world-looks-away-while-reporters-are-hunted-down/",
+  "MLI": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/whats-happening-in-mali-one-week-after-attack-by-armed-groups-all-we-know/",
     "event_codes": {
-      "19": 3
+      "18": 6,
+      "19": 1
     },
     "keywords": [
-      "article",
-      "2026",
-      "journacide",
-      "how",
-      "most",
-      "the",
-      "world",
-      "looks",
-      "away",
-      "while",
-      "reporters",
-      "are",
-      "hunted",
-      "down"
+      "whats",
+      "happening",
+      "mali",
+      "one",
+      "week",
+      "after",
+      "attack",
+      "armed",
+      "groups",
+      "all",
+      "know"
     ]
   },
-  "TUR": {
-    "risk_score": 6.65,
-    "count": 10,
-    "top_news": "https://eturbonews.com/turkeys-war-against-free-press-no-longer-hidden-attack/",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/africa/boko-haram-terrorists-kill-23-soldiers-injure-26-more-in-attack-on-chadian-military-post/3928098",
     "event_codes": {
-      "17": 6,
-      "19": 3,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "turkeys",
-      "war",
-      "against",
-      "free",
-      "press",
-      "longer",
-      "hidden",
-      "attack"
+      "africa",
+      "boko",
+      "haram",
+      "terrorists",
+      "kill",
+      "soldiers",
+      "injure",
+      "more",
+      "attack",
+      "chadian",
+      "military",
+      "post",
+      "3928098"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.dailymail.com/news/article-15792159/Asylum-seeker-shot-dead-hotel-stabbings-wanted-leave-UK.html",
+    "event_codes": {
+      "14": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15792159",
+      "asylum",
+      "seeker",
+      "shot",
+      "dead",
+      "hotel",
+      "stabbings",
+      "wanted",
+      "leave",
+      "uk.html"
+    ]
+  },
+  "TCD": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://aa.com.tr/en/africa/boko-haram-terrorists-kill-23-soldiers-injure-26-more-in-attack-on-chadian-military-post/3928098",
+    "event_codes": {
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "africa",
+      "boko",
+      "haram",
+      "terrorists",
+      "kill",
+      "soldiers",
+      "injure",
+      "more",
+      "attack",
+      "chadian",
+      "military",
+      "post",
+      "3928098"
     ]
   }
 }
