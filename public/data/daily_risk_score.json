@@ -1,70 +1,126 @@
 {
-  "ARE": {
-    "risk_score": 2.95,
+  "BHR": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.asianews.it/news-en/Hunan:-Fireworks-factory-explosion-leaves-21-dead-and-over-60-injured-65371.html",
+    "top_news": "https://www.arabnews.com/node/2642428/middle-east",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "hunan:",
-      "fireworks",
-      "factory",
-      "explosion",
-      "leaves",
-      "dead",
-      "and",
-      "over",
-      "injured",
-      "65371.html"
+      "node",
+      "2642428",
+      "middle",
+      "east"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.el-balad.com/17004440",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "17004440"
-    ]
-  },
-  "PER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.riotimesonline.com/peru-runoff-fujimori-sanchez-onpe-f16-may-2026/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "peru",
-      "runoff",
-      "fujimori",
-      "sanchez",
-      "onpe",
-      "f16",
-      "may",
-      "2026"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 5.02,
     "count": 6,
-    "top_news": "https://www.birminghammail.co.uk/black-country/west-midlands-couple-detained-turkey-33888707",
+    "top_news": "https://www.arabnews.com/node/2642428/middle-east",
     "event_codes": {
-      "17": 6
+      "19": 3,
+      "15": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "black",
-      "country",
-      "west",
-      "midlands",
-      "couple",
-      "detained",
-      "turkey",
-      "33888707"
+      "node",
+      "2642428",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.8,
+    "count": 12,
+    "top_news": "https://www.lbc.co.uk/article/palestine-action-activists-criminal-damage-5HjdYhy_2/",
+    "event_codes": {
+      "17": 5,
+      "19": 5,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "palestine",
+      "action",
+      "activists",
+      "criminal",
+      "damage",
+      "5hjdyhy"
+    ]
+  },
+  "MLI": {
+    "risk_score": 10.4,
+    "count": 11,
+    "top_news": "https://theconversation.com/mali-attacks-tuareg-grievances-hold-the-key-to-peace-281832",
+    "event_codes": {
+      "18": 6,
+      "19": 5
+    },
+    "keywords": [
+      "mali",
+      "attacks",
+      "tuareg",
+      "grievances",
+      "hold",
+      "the",
+      "key",
+      "peace",
+      "281832"
+    ]
+  },
+  "NGA": {
+    "risk_score": 18.5,
+    "count": 22,
+    "top_news": "https://www.nigerianeye.com/2026/05/soludo-appoints-mother-of-slain-fish.html",
+    "event_codes": {
+      "18": 10,
+      "19": 7,
+      "17": 5
+    },
+    "keywords": [
+      "2026",
+      "soludo",
+      "appoints",
+      "mother",
+      "slain",
+      "fish.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2642428/middle-east",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2642428",
+      "middle",
+      "east"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wiltsglosstandard.co.uk/news/national/26079356.asylum-seeker-shot-dead-stabbings-not-happy-wanted-leave-uk/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "26079356.asylum",
+      "seeker",
+      "shot",
+      "dead",
+      "stabbings",
+      "not",
+      "happy",
+      "wanted",
+      "leave"
     ]
   }
 }
