@@ -1,126 +1,181 @@
 {
-  "COD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theguardian.com/global-development/2026/may/06/lucie-kamusekera-artist-tapestry-goma-congo-drc-war-history",
+  "ARE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260505-rferl08.htm",
     "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "global",
-      "development",
+      "wmd",
+      "library",
+      "news",
+      "iran",
       "2026",
-      "may",
-      "lucie",
-      "kamusekera",
-      "artist",
-      "tapestry",
-      "goma",
-      "congo",
-      "drc",
-      "war",
-      "history"
+      "iran",
+      "260505",
+      "rferl08.htm"
     ]
   },
-  "IRN": {
-    "risk_score": 3.92,
-    "count": 7,
-    "top_news": "https://www.rte.ie/news/ukraine/2026/0506/1571895-ukraine-russia/",
+  "COL": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260505-sputnik02.htm",
     "event_codes": {
-      "16": 4,
-      "17": 2,
-      "15": 1
+      "19": 4
     },
     "keywords": [
+      "wmd",
+      "library",
       "news",
       "ukraine",
       "2026",
-      "0506",
-      "1571895",
       "ukraine",
-      "russia"
+      "260505",
+      "sputnik02.htm"
     ]
   },
-  "ISR": {
-    "risk_score": 6.57,
-    "count": 7,
-    "top_news": "https://english.wafa.ps/Pages/Details/170187",
+  "ETH": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202605060014.html",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 2
+      "19": 3
     },
     "keywords": [
-      "pages",
-      "details",
-      "170187"
+      "stories",
+      "202605060014.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-says-strikes-targeted-hezbollah-sites-across-southern-lebanon",
+  "IRN": {
+    "risk_score": 14.92,
+    "count": 15,
+    "top_news": "https://irannewsupdate.com/news/infightings/childhood-weaponized-how-the-iran-regime-turns-children-into-instruments-of-war/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israel",
-      "says",
-      "strikes",
-      "targeted",
-      "hezbollah",
-      "sites",
-      "across",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "MLI": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/news/tuareg-separatists-and-al-qaeda-linked-fighters-combine-cause-havoc-mali",
-    "event_codes": {
-      "19": 5,
+      "19": 14,
       "17": 1
     },
     "keywords": [
       "news",
-      "tuareg",
-      "separatists",
-      "and",
-      "qaeda",
-      "linked",
-      "fighters",
-      "combine",
-      "cause",
-      "havoc",
-      "mali"
+      "infightings",
+      "childhood",
+      "weaponized",
+      "how",
+      "the",
+      "iran",
+      "regime",
+      "turns",
+      "children",
+      "into",
+      "instruments",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.8,
+    "count": 19,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260505-unnews01.htm",
+    "event_codes": {
+      "19": 11,
+      "17": 6,
+      "18": 2
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260505",
+      "unnews01.htm"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260505-presstv01.htm",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260505",
+      "presstv01.htm"
+    ]
+  },
+  "MLI": {
+    "risk_score": 6.3,
+    "count": 7,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260505-ohchr01.htm",
+    "event_codes": {
+      "18": 7
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260505",
+      "ohchr01.htm"
     ]
   },
   "NGA": {
-    "risk_score": 3.34,
-    "count": 4,
-    "top_news": "https://blueprint.ng/icpc-triumphs-as-supreme-court-affirms-conviction-in-%E2%82%A668m-union-fraud-case/",
+    "risk_score": 13.44,
+    "count": 14,
+    "top_news": "https://thechronicle.com.gh/oshiomhole-tells-govt-to-retaliate-against-south-african-companies-in-nigeria/",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "17": 7,
+      "19": 7
     },
     "keywords": [
-      "icpc",
-      "triumphs",
-      "supreme",
-      "court",
-      "affirms",
-      "conviction",
-      "%e2%82%a668m",
-      "union",
-      "fraud",
-      "case"
+      "oshiomhole",
+      "tells",
+      "govt",
+      "retaliate",
+      "against",
+      "south",
+      "african",
+      "companies",
+      "nigeria"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.jpost.com/middle-east/article-895282",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "895282"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nujournal.com/news/local-news/2026/05/06/beyond-the-call-of-duty/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "local",
+      "news",
+      "2026",
+      "beyond",
+      "the",
+      "call",
+      "duty"
     ]
   }
 }
