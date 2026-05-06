@@ -1,132 +1,116 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.radiotimes.com/tv/drama/death-valley-season-2-release-date-confirmed-newsupdate/",
+  "BRA": {
+    "risk_score": 6.65,
+    "count": 9,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/06/768164/israeli-court-rejects-appeal-detained-gaza-aid-flotilla-activists",
     "event_codes": {
-      "19": 3
+      "18": 5,
+      "17": 3,
+      "14": 1
     },
     "keywords": [
-      "drama",
-      "death",
-      "valley",
-      "season",
-      "release",
-      "date",
-      "confirmed",
-      "newsupdate"
+      "detail",
+      "2026",
+      "768164",
+      "israeli",
+      "court",
+      "rejects",
+      "appeal",
+      "detained",
+      "gaza",
+      "aid",
+      "flotilla",
+      "activists"
+    ]
+  },
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.brisbanetimes.com.au/culture/tv-and-radio/it-was-a-book-written-in-anger-now-a-tv-series-has-captured-its-rage-and-heart-20260505-p5zttb.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "culture",
+      "and",
+      "radio",
+      "was",
+      "book",
+      "written",
+      "anger",
+      "now",
+      "series",
+      "has",
+      "captured",
+      "its",
+      "rage",
+      "and",
+      "heart",
+      "20260505",
+      "p5zttb.html"
     ]
   },
   "IRN": {
-    "risk_score": 13.72,
-    "count": 19,
-    "top_news": "https://www.yahoo.com/news/articles/iranian-official-warns-us-uae-232854791.html",
-    "event_codes": {
-      "19": 8,
-      "16": 5,
-      "17": 5,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "iranian",
-      "official",
-      "warns",
-      "uae",
-      "232854791.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.7,
-    "count": 21,
-    "top_news": "https://english.wafa.ps/Pages/Details/170202",
-    "event_codes": {
-      "19": 14,
-      "17": 5,
-      "18": 2
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "170202"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.2,
-    "count": 5,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-895380",
-    "event_codes": {
-      "18": 2,
-      "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "895380"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.9,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://theeagleonline.com.ng/a-review-of-black-esther-tales-of-iya-olobi-by-festus-adedayo/",
+    "top_news": "https://www.spacewar.com/afp/260506195918.1d2n2pf9.html",
     "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "review",
-      "black",
-      "esther",
-      "tales",
-      "iya",
-      "olobi",
-      "festus",
-      "adedayo"
-    ]
-  },
-  "SOM": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.standardmedia.co.ke/africa/article/2001547207/somali-pirates-abandon-hijacked-uae-dhow-mothership",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "africa",
-      "article",
-      "2001547207",
-      "somali",
-      "pirates",
-      "abandon",
-      "hijacked",
-      "uae",
-      "dhow",
-      "mothership"
-    ]
-  },
-  "SSD": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/civilian-killed-in-ambush-on-juba-yambio-highway",
-    "event_codes": {
-      "18": 3,
       "19": 3
     },
     "keywords": [
+      "afp",
+      "260506195918.1d2n2pf9.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.35,
+    "count": 17,
+    "top_news": "https://www.marketscreener.com/news/us-doj-says-ucla-s-medical-school-favors-black-hispanic-applicants-in-admission-ce7f58d2dc80fe2d",
+    "event_codes": {
+      "19": 8,
+      "17": 5,
+      "14": 3,
+      "18": 1
+    },
+    "keywords": [
       "news",
-      "article",
-      "civilian",
-      "killed",
-      "ambush",
-      "juba",
-      "yambio",
-      "highway"
+      "doj",
+      "says",
+      "ucla",
+      "medical",
+      "school",
+      "favors",
+      "black",
+      "hispanic",
+      "applicants",
+      "admission",
+      "ce7f58d2dc80fe2d"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.6,
+    "count": 5,
+    "top_news": "https://dailynexus.com/2026-05-06/denim-day-advocates-for-sexual-assault-awarness-education-based-upon-international-movement/",
+    "event_codes": {
+      "16": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "denim",
+      "day",
+      "advocates",
+      "for",
+      "sexual",
+      "assault",
+      "awarness",
+      "education",
+      "based",
+      "upon",
+      "international",
+      "movement"
     ]
   }
 }
