@@ -1,37 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 5.32,
-    "count": 6,
-    "top_news": "https://www.foxnews.com/politics/left-wing-extremists-cartels-move-crosshairs-trump-terror-shift-beyond-isis",
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.radiotimes.com/tv/drama/death-valley-season-2-release-date-confirmed-newsupdate/",
     "event_codes": {
-      "19": 3,
-      "16": 2,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "politics",
-      "left",
-      "wing",
-      "extremists",
-      "cartels",
-      "move",
-      "crosshairs",
-      "trump",
-      "terror",
-      "shift",
-      "beyond",
-      "isis"
+      "drama",
+      "death",
+      "valley",
+      "season",
+      "release",
+      "date",
+      "confirmed",
+      "newsupdate"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.72,
+    "count": 19,
+    "top_news": "https://www.yahoo.com/news/articles/iranian-official-warns-us-uae-232854791.html",
+    "event_codes": {
+      "19": 8,
+      "16": 5,
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "iranian",
+      "official",
+      "warns",
+      "uae",
+      "232854791.html"
     ]
   },
   "ISR": {
-    "risk_score": 6.97,
-    "count": 8,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-895369",
+    "risk_score": 18.7,
+    "count": 21,
+    "top_news": "https://english.wafa.ps/Pages/Details/170202",
     "event_codes": {
-      "19": 5,
-      "14": 1,
+      "19": 14,
+      "17": 5,
+      "18": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "170202"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-895380",
+    "event_codes": {
+      "18": 2,
       "16": 1,
-      "17": 1
+      "17": 1,
+      "19": 1
     },
     "keywords": [
       "israel",
@@ -39,7 +68,65 @@
       "defense",
       "news",
       "article",
-      "895369"
+      "895380"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://theeagleonline.com.ng/a-review-of-black-esther-tales-of-iya-olobi-by-festus-adedayo/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "review",
+      "black",
+      "esther",
+      "tales",
+      "iya",
+      "olobi",
+      "festus",
+      "adedayo"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.standardmedia.co.ke/africa/article/2001547207/somali-pirates-abandon-hijacked-uae-dhow-mothership",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "africa",
+      "article",
+      "2001547207",
+      "somali",
+      "pirates",
+      "abandon",
+      "hijacked",
+      "uae",
+      "dhow",
+      "mothership"
+    ]
+  },
+  "SSD": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/civilian-killed-in-ambush-on-juba-yambio-highway",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "article",
+      "civilian",
+      "killed",
+      "ambush",
+      "juba",
+      "yambio",
+      "highway"
     ]
   }
 }
