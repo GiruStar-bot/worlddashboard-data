@@ -1,121 +1,203 @@
 {
   "ARE": {
-    "risk_score": 2.62,
+    "risk_score": 3.8,
     "count": 4,
-    "top_news": "https://www.i24news.tv/en/news/international/americas/artc-trump-pauses-us-op-to-guide-ships-through-hormuz-says-great-progress-made-with-iran",
+    "top_news": "https://www.middleeasteye.net/news/satellite-imagery-suggests-far-more-us-middle-east-sites-hit-iran-reported",
     "event_codes": {
-      "15": 1,
-      "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "americas",
-      "artc",
-      "trump",
-      "pauses",
-      "guide",
-      "ships",
-      "through",
-      "hormuz",
-      "says",
-      "great",
-      "progress",
-      "made",
-      "with",
-      "iran"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.42,
-    "count": 10,
-    "top_news": "https://www.middleeasteye.net/news/trump-pauses-project-freedom-amid-potential-deal-iran",
-    "event_codes": {
-      "16": 4,
-      "19": 4,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "trump",
-      "pauses",
-      "project",
-      "freedom",
-      "amid",
-      "potential",
-      "deal",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.67,
-    "count": 16,
-    "top_news": "https://www.jns.org/wire/jerusalem-college-of-technology/jct-president-avi-domb-reflects-on-leading-amid-institutional-and-national-challenges",
-    "event_codes": {
-      "19": 8,
-      "14": 3,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "wire",
-      "jerusalem",
-      "college",
-      "technology",
-      "jct",
-      "president",
-      "avi",
-      "domb",
-      "reflects",
-      "leading",
-      "amid",
-      "institutional",
-      "and",
-      "national",
-      "challenges"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://londonlovesbusiness.com/taiwan-turns-to-ukraines-war-experience-as-china-threat-intensifies/",
-    "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "taiwan",
-      "turns",
-      "ukraines",
-      "war",
-      "experience",
-      "china",
-      "threat",
-      "intensifies"
+      "news",
+      "satellite",
+      "imagery",
+      "suggests",
+      "far",
+      "more",
+      "middle",
+      "east",
+      "sites",
+      "hit",
+      "iran",
+      "reported"
     ]
   },
-  "VNM": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.navaltoday.com/2026/05/06/worlds-largest-aircraft-carrier-hosts-high-level-visit-in-mediterranean-photos/",
+  "BFA": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist",
     "event_codes": {
+      "18": 2,
       "19": 2,
       "17": 1
     },
     "keywords": [
+      "news",
       "2026",
-      "worlds",
-      "largest",
-      "aircraft",
-      "carrier",
-      "hosts",
+      "burkina",
+      "faso",
+      "authorities",
+      "accused",
+      "secretly",
+      "detaining",
+      "prominent",
+      "journalist"
+    ]
+  },
+  "CHL": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://metro.co.uk/2026/05/06/spains-caribbean-a-unique-region-15-flights-world-class-beaches-28245374/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "spains",
+      "caribbean",
+      "unique",
+      "region",
+      "flights",
+      "world",
+      "class",
+      "beaches",
+      "28245374"
+    ]
+  },
+  "IRN": {
+    "risk_score": 35.55,
+    "count": 39,
+    "top_news": "https://komonews.com/news/local/washington-state-high-gas-prices-hit-new-state-record-oil-supply-taxes-fuel-iran-war-strait-of-hormuz-budget-travel-diesel-unleaded-regular-car-truck-suv-driving-trips-canceled",
+    "event_codes": {
+      "19": 28,
+      "18": 6,
+      "16": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "local",
+      "washington",
+      "state",
       "high",
-      "level",
-      "visit",
-      "mediterranean",
-      "photos"
+      "gas",
+      "prices",
+      "hit",
+      "new",
+      "state",
+      "record",
+      "oil",
+      "supply",
+      "taxes",
+      "fuel",
+      "iran",
+      "war",
+      "strait",
+      "hormuz",
+      "budget",
+      "travel",
+      "diesel",
+      "unleaded",
+      "regular",
+      "car",
+      "truck",
+      "suv",
+      "driving",
+      "trips",
+      "canceled"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.jpost.com/international/article-895326",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "international",
+      "article",
+      "895326"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.99,
+    "count": 23,
+    "top_news": "https://www.ruthfullyyours.com/2026/05/06/israels-war-might-be-back-on-the-clock-measuring-the-lifespan-of-the-regime-just-keeps-ticking-writes-amit-segal-jack-guez-afp-via-getty-images-as-iran-targets-the-uae/",
+    "event_codes": {
+      "17": 9,
+      "19": 9,
+      "18": 3,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "israels",
+      "war",
+      "might",
+      "back",
+      "the",
+      "clock",
+      "measuring",
+      "the",
+      "lifespan",
+      "the",
+      "regime",
+      "just",
+      "keeps",
+      "ticking",
+      "writes",
+      "amit",
+      "segal",
+      "jack",
+      "guez",
+      "afp",
+      "via",
+      "getty",
+      "images",
+      "iran",
+      "targets",
+      "the",
+      "uae"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.8,
+    "count": 9,
+    "top_news": "https://dailypost.ng/2026/05/06/ndlea-uncovers-drug-caves-underground-tunnels-in-kano/",
+    "event_codes": {
+      "17": 6,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "ndlea",
+      "uncovers",
+      "drug",
+      "caves",
+      "underground",
+      "tunnels",
+      "kano"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/news/2026-05-06-kindiki-well-ensure-lasting-security-in-kitui",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "kindiki",
+      "well",
+      "ensure",
+      "lasting",
+      "security",
+      "kitui"
     ]
   }
 }
