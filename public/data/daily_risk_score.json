@@ -1,58 +1,48 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
+  "ARG": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1394013",
+    "top_news": "https://abcnews.com/Health/hantavirus-amid-suspected-cluster-aboard-cruise-ship/story?id=132741560",
     "event_codes": {
-      "16": 3
+      "19": 3
     },
     "keywords": [
-      "details",
-      "1394013"
+      "health",
+      "hantavirus",
+      "amid",
+      "suspected",
+      "cluster",
+      "aboard",
+      "cruise",
+      "ship",
+      "story"
     ]
   },
   "IRN": {
-    "risk_score": 9.95,
-    "count": 10,
-    "top_news": "https://www.independentsentinel.com/us-hits-iranian-oil-tanker-iran-claims-they-hit-3-us-destroyers-of-the-pirate-military/",
+    "risk_score": 22.8,
+    "count": 24,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-says-air-defences-down-drones-military-reports-strikes",
     "event_codes": {
-      "19": 10
+      "19": 21,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "hits",
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
       "iranian",
-      "oil",
-      "tanker",
-      "iran",
-      "claims",
-      "they",
-      "hit",
-      "destroyers",
-      "the",
-      "pirate",
-      "military"
-    ]
-  },
-  "MLI": {
-    "risk_score": 9.0,
-    "count": 12,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/05/07/deadly-double-attack-hits-2-central-mali-villages-as-violence-spreads",
-    "event_codes": {
-      "17": 6,
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "deadly",
-      "double",
-      "attack",
-      "hits",
-      "central",
-      "mali",
-      "villages",
-      "violence",
-      "spreads"
+      "media",
+      "says",
+      "air",
+      "defences",
+      "down",
+      "drones",
+      "military",
+      "reports",
+      "strikes"
     ]
   }
 }
