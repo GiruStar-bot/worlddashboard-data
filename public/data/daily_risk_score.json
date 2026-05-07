@@ -1,45 +1,58 @@
 {
-  "IRN": {
-    "risk_score": 5.77,
-    "count": 6,
-    "top_news": "http://www.iraqsun.com/news/279035898/iranian-president-says-he-recently-met-supreme-leader",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.gdnonline.com:443/Details/1394013",
     "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
+      "16": 3
     },
     "keywords": [
-      "news",
-      "279035898",
-      "iranian",
-      "president",
-      "says",
-      "recently",
-      "met",
-      "supreme",
-      "leader"
+      "details",
+      "1394013"
     ]
   },
-  "KEN": {
-    "risk_score": 12.1,
-    "count": 15,
-    "top_news": "https://eturbonews.com/east-african-states-mark-ten-years-terrorist-attack-high-alert/",
+  "IRN": {
+    "risk_score": 9.95,
+    "count": 10,
+    "top_news": "https://www.independentsentinel.com/us-hits-iranian-oil-tanker-iran-claims-they-hit-3-us-destroyers-of-the-pirate-military/",
     "event_codes": {
-      "19": 7,
-      "15": 5,
-      "17": 3
+      "19": 10
     },
     "keywords": [
-      "east",
-      "african",
-      "states",
-      "mark",
-      "ten",
-      "years",
-      "terrorist",
+      "hits",
+      "iranian",
+      "oil",
+      "tanker",
+      "iran",
+      "claims",
+      "they",
+      "hit",
+      "destroyers",
+      "the",
+      "pirate",
+      "military"
+    ]
+  },
+  "MLI": {
+    "risk_score": 9.0,
+    "count": 12,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/05/07/deadly-double-attack-hits-2-central-mali-villages-as-violence-spreads",
+    "event_codes": {
+      "17": 6,
+      "19": 6
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "deadly",
+      "double",
       "attack",
-      "high",
-      "alert"
+      "hits",
+      "central",
+      "mali",
+      "villages",
+      "violence",
+      "spreads"
     ]
   }
 }
