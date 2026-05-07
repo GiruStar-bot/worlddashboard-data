@@ -1,74 +1,94 @@
 {
-  "COD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.moneycontrol.com/world/fake-rumors-real-killings-inside-congo-s-deadly-health-misinformation-crisis-article-13912205.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "fake",
-      "rumors",
-      "real",
-      "killings",
-      "inside",
-      "congo",
-      "deadly",
-      "health",
-      "misinformation",
-      "crisis",
-      "article",
-      "13912205.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 6.65,
-    "count": 8,
-    "top_news": "https://www.perthnow.com.au/news/conflict/us-and-iran-explore-short-term-deal-to-end-fighting-c-22252204",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.zerohedge.com/geopolitical/iranian-president-says-iran-willing-prove-peaceful-nature-nuclear-program",
     "event_codes": {
-      "19": 4,
-      "14": 1,
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "conflict",
-      "and",
+      "geopolitical",
+      "iranian",
+      "president",
+      "says",
       "iran",
-      "explore",
-      "short",
-      "term",
-      "deal",
-      "end",
-      "fighting",
-      "22252204"
+      "willing",
+      "prove",
+      "peaceful",
+      "nature",
+      "nuclear",
+      "program"
     ]
   },
   "ISR": {
-    "risk_score": 14.85,
-    "count": 17,
-    "top_news": "https://www.perthnow.com.au/news/conflict/us-and-iran-explore-short-term-deal-to-end-fighting-c-22252204",
+    "risk_score": 19.5,
+    "count": 22,
+    "top_news": "https://dailythepatriot.com/iranian-presidents-first-meeting-with-supreme-leader-mojtaba-khamenei/",
     "event_codes": {
-      "19": 11,
+      "19": 10,
+      "18": 8,
       "17": 3,
-      "18": 2,
-      "16": 1
+      "14": 1
+    },
+    "keywords": [
+      "iranian",
+      "presidents",
+      "first",
+      "meeting",
+      "with",
+      "supreme",
+      "leader",
+      "mojtaba",
+      "khamenei"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.9,
+    "count": 6,
+    "top_news": "https://www.ynetnews.com/article/hyqchm9abl",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "hyqchm9abl"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thehindu.com/news/national/maharashtra/nida-khan-key-accused-in-nashik-tcs-case-arrested-in-maharashtra/article70952638.ece",
+    "event_codes": {
+      "17": 4
     },
     "keywords": [
       "news",
-      "conflict",
-      "and",
-      "iran",
-      "explore",
-      "short",
-      "term",
-      "deal",
-      "end",
-      "fighting",
-      "22252204"
+      "national",
+      "maharashtra",
+      "nida",
+      "khan",
+      "key",
+      "accused",
+      "nashik",
+      "tcs",
+      "case",
+      "arrested",
+      "maharashtra",
+      "article70952638.ece"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/h14yyv90wx",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "h14yyv90wx"
     ]
   }
 }
