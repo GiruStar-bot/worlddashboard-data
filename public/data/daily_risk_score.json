@@ -1,104 +1,42 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.rte.ie/news/business/2026/0507/1572108-emirates-group-annual-profits-up-3-despite-mideast-war/",
+  "ISR": {
+    "risk_score": 17.67,
+    "count": 22,
+    "top_news": "https://www.rte.ie/news/middle-east/2026/0507/1572147-lebanon-israel/",
     "event_codes": {
-      "19": 6
+      "17": 8,
+      "19": 8,
+      "18": 4,
+      "16": 2
     },
     "keywords": [
       "news",
-      "business",
+      "middle",
+      "east",
       "2026",
       "0507",
-      "1572108",
-      "emirates",
-      "group",
-      "annual",
-      "profits",
-      "despite",
-      "mideast",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 19.05,
-    "count": 27,
-    "top_news": "https://www.thenational.scot/news/26085599.israeli-air-strikes-lebanon-kill-least-13-people/",
-    "event_codes": {
-      "17": 13,
-      "19": 7,
-      "18": 4,
-      "14": 3
-    },
-    "keywords": [
-      "news",
-      "26085599.israeli",
-      "air",
-      "strikes",
+      "1572147",
       "lebanon",
-      "kill",
-      "least",
-      "people"
+      "israel"
     ]
   },
-  "LAO": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/articles/dhs-blasts-minnesota-board-unanimously-203218047.html",
+  "NGA": {
+    "risk_score": 7.42,
+    "count": 10,
+    "top_news": "https://blueprint.ng/gunmen-abduct-6-nasarawa-state-university-students/",
     "event_codes": {
-      "17": 3,
-      "18": 3
+      "18": 6,
+      "16": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "dhs",
-      "blasts",
-      "minnesota",
-      "board",
-      "unanimously",
-      "203218047.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.clevelandjewishnews.com/jns/hezbollah-fires-rocket-barrage-at-idf-soldiers/article_ece10ef5-7270-5dd3-9ece-d30c099fcd38.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "jns",
-      "hezbollah",
-      "fires",
-      "rocket",
-      "barrage",
-      "idf",
-      "soldiers",
-      "article",
-      "ece10ef5",
-      "7270",
-      "5dd3",
-      "9ece",
-      "d30c099fcd38.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.journalismpakistan.com/vietnam-faces-renewed-scrutiny-over-jailed-reporter",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "vietnam",
-      "faces",
-      "renewed",
-      "scrutiny",
-      "over",
-      "jailed",
-      "reporter"
+      "gunmen",
+      "abduct",
+      "nasarawa",
+      "state",
+      "university",
+      "students"
     ]
   }
 }
