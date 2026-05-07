@@ -1,48 +1,87 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://abcnews.com/Health/hantavirus-amid-suspected-cluster-aboard-cruise-ship/story?id=132741560",
+  "IDN": {
+    "risk_score": 6.7,
+    "count": 7,
+    "top_news": "https://www.greenleft.org.au/2026/1453/world/security-forces-attack-west-papuan-students-carrying-morning-star-flag-graduation",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "health",
-      "hantavirus",
-      "amid",
-      "suspected",
-      "cluster",
-      "aboard",
-      "cruise",
-      "ship",
-      "story"
+      "2026",
+      "1453",
+      "world",
+      "security",
+      "forces",
+      "attack",
+      "west",
+      "papuan",
+      "students",
+      "carrying",
+      "morning",
+      "star",
+      "flag",
+      "graduation"
     ]
   },
   "IRN": {
-    "risk_score": 22.8,
-    "count": 24,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-says-air-defences-down-drones-military-reports-strikes",
+    "risk_score": 24.4,
+    "count": 25,
+    "top_news": "https://www.aljazeera.com/news/2026/5/7/explosions-heard-in-iran-as-state-media-reports-clashes-with-us-navy",
     "event_codes": {
-      "19": 21,
-      "17": 2,
-      "18": 1
+      "19": 25
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "iranian",
+      "news",
+      "2026",
+      "explosions",
+      "heard",
+      "iran",
+      "state",
       "media",
-      "says",
-      "air",
-      "defences",
-      "down",
-      "drones",
-      "military",
       "reports",
-      "strikes"
+      "clashes",
+      "with",
+      "navy"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.99,
+    "count": 11,
+    "top_news": "https://www.mercurynews.com/2026/05/07/stanford-gaza-protest-rosen-prosecution/",
+    "event_codes": {
+      "18": 5,
+      "19": 3,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "stanford",
+      "gaza",
+      "protest",
+      "rosen",
+      "prosecution"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.7,
+    "count": 8,
+    "top_news": "https://punchng.com/manhunt-begins-as-gunmen-abduct-six-nasarawa-varsity-students/",
+    "event_codes": {
+      "18": 7,
+      "16": 1
+    },
+    "keywords": [
+      "manhunt",
+      "begins",
+      "gunmen",
+      "abduct",
+      "six",
+      "nasarawa",
+      "varsity",
+      "students"
     ]
   }
 }
