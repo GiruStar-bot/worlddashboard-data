@@ -1,30 +1,76 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/us-iran-war-washington-fires-on-iranian-oil-tanker-as-trump-pressures-tehran-for-deal-to-end-war/articleshow/130876435.cms",
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://politicaldog101.com/2026/05/irantrumpconflict-warevening-5-6-2026-stalemate-continues/",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "defence",
-      "iran",
-      "war",
-      "washington",
-      "fires",
-      "iranian",
-      "oil",
-      "tanker",
-      "trump",
-      "pressures",
-      "tehran",
-      "for",
-      "deal",
-      "end",
-      "war",
-      "articleshow",
-      "130876435.cms"
+      "2026",
+      "irantrumpconflict",
+      "warevening",
+      "2026",
+      "stalemate",
+      "continues"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.6,
+    "count": 8,
+    "top_news": "https://www.theage.com.au/culture/books/pushing-back-against-silence-a-queer-palestinian-christian-bares-all-in-his-memoir-20260401-p5zkmr.html",
+    "event_codes": {
+      "17": 3,
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "culture",
+      "books",
+      "pushing",
+      "back",
+      "against",
+      "silence",
+      "queer",
+      "palestinian",
+      "christian",
+      "bares",
+      "all",
+      "his",
+      "memoir",
+      "20260401",
+      "p5zkmr.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://thesun.ng/kogi-govt-secures-release-of-abducted-orphanage-victims/",
+    "event_codes": {
+      "18": 5,
+      "17": 1
+    },
+    "keywords": [
+      "kogi",
+      "govt",
+      "secures",
+      "release",
+      "abducted",
+      "orphanage",
+      "victims"
+    ]
+  },
+  "SDN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202605070007.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "stories",
+      "202605070007.html"
     ]
   }
 }
