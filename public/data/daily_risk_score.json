@@ -1,122 +1,36 @@
 {
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.seattletimes.com/nation-world/islamic-state-affiliated-group-attacks-congo-villages-and-kills-at-least-40-local-group-says/",
+  "ARE": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://londonlovesbusiness.com/dubai-comes-under-attack-again-as-iran-fires-missiles/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "nation",
-      "world",
-      "islamic",
-      "state",
-      "affiliated",
-      "group",
-      "attacks",
-      "congo",
-      "villages",
-      "and",
-      "kills",
-      "least",
-      "local",
-      "group",
-      "says"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.6,
-    "count": 10,
-    "top_news": "https://www.wcax.com/2026/05/08/uae-reports-drone-missile-attack-after-us-says-it-traded-fire-with-iran/",
-    "event_codes": {
-      "19": 7,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "uae",
-      "reports",
-      "drone",
-      "missile",
-      "attack",
-      "after",
-      "says",
-      "traded",
-      "fire",
-      "with",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.67,
-    "count": 6,
-    "top_news": "https://www.naharnet.com/stories/en/320035-israeli-strikes-kill-5-in-south-lebanon-including-women-paramedic",
-    "event_codes": {
-      "19": 3,
-      "18": 2,
+      "19": 6,
       "17": 1
     },
     "keywords": [
-      "stories",
-      "320035",
-      "israeli",
-      "strikes",
-      "kill",
-      "south",
-      "lebanon",
-      "including",
-      "women",
-      "paramedic"
+      "dubai",
+      "comes",
+      "under",
+      "attack",
+      "again",
+      "iran",
+      "fires",
+      "missiles"
     ]
   },
-  "LBN": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.bostonherald.com/2026/05/08/israeli-airstrikes-kill-5-southern-lebanon/",
+  "IRN": {
+    "risk_score": 10.6,
+    "count": 12,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4378307",
     "event_codes": {
-      "19": 5
+      "19": 7,
+      "18": 3,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "MMR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.irishexaminer.com/world/arid-41841636.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "arid",
-      "41841636.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/05/08/dadiyata-killed-in-my-presence-mattawales-ex-ssa-musa-kamarawa-alleges/",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "dadiyata",
-      "killed",
-      "presence",
-      "mattawales",
-      "ssa",
-      "musa",
-      "kamarawa",
-      "alleges"
+      "tag",
+      "index"
     ]
   }
 }
