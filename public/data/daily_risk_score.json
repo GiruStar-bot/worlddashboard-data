@@ -1,81 +1,110 @@
 {
-  "ARE": {
+  "IDN": {
     "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.edenmagnet.com.au/story/9242089/trump-insists-truce-still-holds-after-us-iran-flare-up/",
+    "count": 6,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/05/08/indonesia-detains-over-200-foreigners-over-trading-scam",
     "event_codes": {
-      "19": 3
+      "17": 6
     },
     "keywords": [
-      "story",
-      "9242089",
-      "trump",
-      "insists",
-      "truce",
-      "still",
-      "holds",
-      "after",
-      "iran",
-      "flare"
+      "category",
+      "world",
+      "2026",
+      "indonesia",
+      "detains",
+      "over",
+      "200",
+      "foreigners",
+      "over",
+      "trading",
+      "scam"
     ]
   },
   "IRN": {
-    "risk_score": 8.9,
-    "count": 9,
-    "top_news": "https://www.bicom.org.uk/podcasts/episode-299-palestinian-politics-in-search-for-new-leadership/",
+    "risk_score": 13.45,
+    "count": 14,
+    "top_news": "https://www.hawaiitribune-herald.com/2026/05/08/nation-world-news/truce-faces-test-as-us-and-iran-exchange-strikes/",
     "event_codes": {
-      "19": 9
+      "19": 12,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "podcasts",
-      "episode",
-      "299",
-      "palestinian",
-      "politics",
-      "search",
-      "for",
-      "new",
-      "leadership"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.middleeastmonitor.com/20260508-hamas-urges-us-to-stop-israeli-attacks-on-gaza-following-deadly-strikes/",
-    "event_codes": {
-      "19": 9
-    },
-    "keywords": [
-      "20260508",
-      "hamas",
-      "urges",
-      "stop",
-      "israeli",
-      "attacks",
-      "gaza",
-      "following",
-      "deadly",
+      "2026",
+      "nation",
+      "world",
+      "news",
+      "truce",
+      "faces",
+      "test",
+      "and",
+      "iran",
+      "exchange",
       "strikes"
     ]
   },
-  "SDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.middleeastmonitor.com/20260508-rsf-commander-affirms-readiness-to-fight-sudanese-army-for-decades/",
+  "ISR": {
+    "risk_score": 6.5,
+    "count": 8,
+    "top_news": "https://www.gatestoneinstitute.org/22512/europe-global-alliance-dispossession",
     "event_codes": {
-      "19": 4
+      "19": 5,
+      "17": 3
     },
     "keywords": [
-      "20260508",
-      "rsf",
-      "commander",
-      "affirms",
-      "readiness",
-      "fight",
-      "sudanese",
-      "army",
-      "for",
-      "decades"
+      "22512",
+      "europe",
+      "global",
+      "alliance",
+      "dispossession"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.indiablooms.com/world/idf-launches-probe-after-soldier-seen-mocking-virgin-marys-statue-in-lebanon-by-placing-a-cigarette-in-mouth/details",
+    "event_codes": {
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "world",
+      "idf",
+      "launches",
+      "probe",
+      "after",
+      "soldier",
+      "seen",
+      "mocking",
+      "virgin",
+      "marys",
+      "statue",
+      "lebanon",
+      "placing",
+      "cigarette",
+      "mouth",
+      "details"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-drug-boat-strike-death-toll-b2972376.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "americas",
+      "politics",
+      "trump",
+      "drug",
+      "boat",
+      "strike",
+      "death",
+      "toll",
+      "b2972376.html"
     ]
   }
 }
