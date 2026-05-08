@@ -1,71 +1,82 @@
 {
+  "ETH": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.spacewar.com/afp/260508021031.yszcn8ra.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "afp",
+      "260508021031.yszcn8ra.html"
+    ]
+  },
   "IRN": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://www.eurasiareview.com/08052026-centcom-u-s-warships-protected-from-iranian-attacks-while-transiting-strait-of-hormuz/",
+    "risk_score": 4.84,
+    "count": 5,
+    "top_news": "https://thefrontierpost.com/us-military-strikes-sites-in-iran-as-countries-exchange-fire/",
     "event_codes": {
-      "19": 6,
-      "17": 1,
-      "18": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "08052026",
-      "centcom",
-      "warships",
-      "protected",
-      "from",
-      "iranian",
-      "attacks",
-      "while",
-      "transiting",
-      "strait",
-      "hormuz"
+      "military",
+      "strikes",
+      "sites",
+      "iran",
+      "countries",
+      "exchange",
+      "fire"
     ]
   },
-  "NGA": {
-    "risk_score": 10.7,
-    "count": 13,
-    "top_news": "https://punchng.com/borno-attack-claims-two-soldiers-zamfara-ied-blast-kills-six/",
+  "IRQ": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260507163757.wtoryerm.html",
     "event_codes": {
-      "19": 9,
-      "16": 3,
-      "17": 1
+      "16": 4
     },
     "keywords": [
-      "borno",
-      "attack",
-      "claims",
-      "two",
-      "soldiers",
-      "zamfara",
-      "ied",
-      "blast",
-      "kills",
-      "six"
+      "afp",
+      "260507163757.wtoryerm.html"
     ]
   },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.messenger-inquirer.com/news/local/faithful-come-together-for-day-of-prayer/article_7abc71aa-31a5-5de6-8be8-0ca68a65f8dd.html",
+  "ISR": {
+    "risk_score": 8.65,
+    "count": 10,
+    "top_news": "https://www.spacewar.com/afp/260507150619.ci28wx3s.html",
     "event_codes": {
-      "19": 2
+      "19": 7,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "local",
-      "faithful",
-      "come",
-      "together",
-      "for",
-      "day",
-      "prayer",
-      "article",
-      "7abc71aa",
-      "31a5",
-      "5de6",
-      "8be8",
-      "0ca68a65f8dd.html"
+      "afp",
+      "260507150619.ci28wx3s.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260507153450.s9r00xf9.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "afp",
+      "260507153450.s9r00xf9.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.spacewar.com/afp/260508021031.yszcn8ra.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "afp",
+      "260508021031.yszcn8ra.html"
     ]
   }
 }
