@@ -1,46 +1,90 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bozemandailychronicle.com/ap_news/four-people-convicted-of-conspiracy-in-us-trial-tied-to-2021-assassination-of-haitis-president/article_869a2753-ce73-5360-86c1-5714537f28fd.html",
+  "IRN": {
+    "risk_score": 13.6,
+    "count": 15,
+    "top_news": "https://jweekly.com/2026/05/08/monitored-phone-calls-and-fear-of-arrest-what-life-looks-like-for-irans-jews-now/",
     "event_codes": {
+      "19": 11,
+      "14": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "monitored",
+      "phone",
+      "calls",
+      "and",
+      "fear",
+      "arrest",
+      "what",
+      "life",
+      "looks",
+      "like",
+      "for",
+      "irans",
+      "jews",
+      "now"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.25,
+    "count": 6,
+    "top_news": "https://www.liverpoolecho.co.uk/news/uk-world-news/foreign-office-updates-turkey-travel-33915671",
+    "event_codes": {
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "foreign",
+      "office",
+      "updates",
+      "turkey",
+      "travel",
+      "33915671"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://punchng.com/how-pregnant-kidnap-victim-gave-birth-in-bandits-camp-cleric/",
+    "event_codes": {
+      "18": 3,
+      "14": 2
+    },
+    "keywords": [
+      "how",
+      "pregnant",
+      "kidnap",
+      "victim",
+      "gave",
+      "birth",
+      "bandits",
+      "camp",
+      "cleric"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.liverpoolecho.co.uk/news/uk-world-news/foreign-office-updates-turkey-travel-33915671",
+    "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "four",
-      "people",
-      "convicted",
-      "conspiracy",
-      "trial",
-      "tied",
-      "2021",
-      "assassination",
-      "haitis",
-      "president",
-      "article",
-      "869a2753",
-      "ce73",
-      "5360",
-      "86c1",
-      "5714537f28fd.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.44,
-    "count": 5,
-    "top_news": "https://punchng.com/police-rescue-five-kidnap-victims-in-sokoto/",
-    "event_codes": {
-      "19": 3,
-      "15": 2
-    },
-    "keywords": [
-      "police",
-      "rescue",
-      "five",
-      "kidnap",
-      "victims",
-      "sokoto"
+      "world",
+      "news",
+      "foreign",
+      "office",
+      "updates",
+      "turkey",
+      "travel",
+      "33915671"
     ]
   }
 }
