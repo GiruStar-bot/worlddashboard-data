@@ -1,104 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 6.85,
-    "count": 7,
-    "top_news": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-9.7192853",
+  "COL": {
+    "risk_score": 8.7,
+    "count": 10,
+    "top_news": "https://www.spokesman.com/stories/2026/may/08/federal-jury-convicts-four-south-florida-men-in-as/",
     "event_codes": {
-      "19": 7
+      "19": 5,
+      "18": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "israel",
+      "stories",
+      "2026",
+      "may",
+      "federal",
+      "jury",
+      "convicts",
+      "four",
       "south",
-      "lebanon",
-      "hezbollah",
-      "9.7192853"
+      "florida",
+      "men"
     ]
   },
-  "ISR": {
-    "risk_score": 19.0,
-    "count": 20,
-    "top_news": "https://www.zerohedge.com/geopolitical/cia-leak-iran-can-survive-blockade-another-3-4-months-maybe-longer",
+  "IRN": {
+    "risk_score": 8.94,
+    "count": 10,
+    "top_news": "https://finance.yahoo.com/sectors/energy/articles/us-expects-iranian-response-friday-194728324.html",
     "event_codes": {
-      "19": 14,
-      "16": 4,
-      "18": 2
-    },
-    "keywords": [
-      "geopolitical",
-      "cia",
-      "leak",
-      "iran",
-      "can",
-      "survive",
-      "blockade",
-      "another",
-      "months",
-      "maybe",
-      "longer"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://morningstaronline.co.uk/article/uae-shoots-down-iranian-missiles-us-and-iran-exchange-fire-strait-hormuz",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "article",
-      "uae",
-      "shoots",
-      "down",
-      "iranian",
-      "missiles",
-      "and",
-      "iran",
-      "exchange",
-      "fire",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "MMR": {
-    "risk_score": 6.45,
-    "count": 12,
-    "top_news": "https://timesofindia.indiatimes.com/city/guwahati/assam-rifles-steps-up-patrol-in-kamjong-district/articleshow/130965599.cms",
-    "event_codes": {
-      "17": 11,
-      "19": 1
-    },
-    "keywords": [
-      "city",
-      "guwahati",
-      "assam",
-      "rifles",
-      "steps",
-      "patrol",
-      "kamjong",
-      "district",
-      "articleshow",
-      "130965599.cms"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://pmnewsnigeria.com/2026/05/08/editorial-xenophobia-in-south-africa-must-concern-africa/",
-    "event_codes": {
-      "14": 4,
+      "19": 7,
+      "15": 2,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "editorial",
-      "xenophobia",
-      "south",
-      "africa",
-      "must",
-      "concern",
-      "africa"
+      "sectors",
+      "energy",
+      "articles",
+      "expects",
+      "iranian",
+      "response",
+      "friday",
+      "194728324.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.el-balad.com/17006342",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "17006342"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.reviewjournal.com/crime/courts/man-accused-of-22-slaying-of-metro-officer-pleads-guilty-but-mentally-ill-3821526/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "crime",
+      "courts",
+      "man",
+      "accused",
+      "slaying",
+      "metro",
+      "officer",
+      "pleads",
+      "guilty",
+      "but",
+      "mentally",
+      "ill",
+      "3821526"
     ]
   }
 }
