@@ -1,41 +1,61 @@
 {
-  "IRN": {
+  "IRQ": {
     "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-0",
+    "top_news": "https://www.maravipost.com/us-iran-exchange-fire-in-strait-of-hormuz-ceasefire-hangs-in-balance/",
     "event_codes": {
       "19": 2,
       "16": 1
     },
     "keywords": [
-      "originals",
-      "2026",
-      "fire",
       "iran",
-      "tankers",
-      "sparks",
-      "reprisals",
-      "deal",
+      "exchange",
+      "fire",
+      "strait",
+      "hormuz",
+      "ceasefire",
       "hangs",
       "balance"
     ]
   },
   "ISR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.yahoo.com/news/articles/israeli-attack-kills-son-hamas-082227306.html",
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://www.naharnet.com:443/stories/en/320046-israeli-army-issues-evacuation-warning-for-nine-south-lebanon-villages",
     "event_codes": {
-      "19": 7
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
+      "stories",
+      "320046",
       "israeli",
-      "attack",
-      "kills",
-      "son",
-      "hamas",
-      "082227306.html"
+      "army",
+      "issues",
+      "evacuation",
+      "warning",
+      "for",
+      "nine",
+      "south",
+      "lebanon",
+      "villages"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.grandforksherald.com/america-250-50-years-ago-today-may-9-1976",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "america",
+      "250",
+      "years",
+      "ago",
+      "today",
+      "may",
+      "1976"
     ]
   }
 }
