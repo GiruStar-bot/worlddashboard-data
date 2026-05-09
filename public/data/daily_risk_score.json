@@ -1,91 +1,86 @@
 {
-  "CMR": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.newkerala.com/news/a/chad-declares-state-emergency-lake-province-after-deadly-916.htm",
+    "top_news": "https://dailypost.ng/2026/05/09/four-men-convicted-in-us-over-haiti-president-moises-killing/",
     "event_codes": {
       "19": 2
-    },
-    "keywords": [
-      "news",
-      "chad",
-      "declares",
-      "state",
-      "emergency",
-      "lake",
-      "province",
-      "after",
-      "deadly",
-      "916.htm"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.51,
-    "count": 3,
-    "top_news": "https://www.lewrockwell.com/2026/05/no_author/the-gulf-separating-the-us-and-iran-is-too-wide-to-bridge/",
-    "event_codes": {
-      "19": 2,
-      "16": 1
     },
     "keywords": [
       "2026",
-      "author",
-      "the",
-      "gulf",
-      "separating",
-      "the",
-      "and",
-      "iran",
-      "too",
-      "wide",
-      "bridge"
+      "four",
+      "men",
+      "convicted",
+      "over",
+      "haiti",
+      "president",
+      "moises",
+      "killing"
     ]
   },
-  "MMR": {
+  "ISR": {
+    "risk_score": 5.16,
+    "count": 6,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/israel-urges-immediate-evacuation-of-nine-southern-lebanon-villages-amid-escalating-tensions-with-hezbollah/articleshow/130972773.cms",
+    "event_codes": {
+      "15": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "international",
+      "world",
+      "news",
+      "israel",
+      "urges",
+      "immediate",
+      "evacuation",
+      "nine",
+      "southern",
+      "lebanon",
+      "villages",
+      "amid",
+      "escalating",
+      "tensions",
+      "with",
+      "hezbollah",
+      "articleshow",
+      "130972773.cms"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 7.0,
+    "count": 9,
+    "top_news": "https://www.sowetan.co.za/news/2026-05-09-mozambican-gets-life-sentence-for-murder-of-free-state-police-officer/",
+    "event_codes": {
+      "19": 5,
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mozambican",
+      "gets",
+      "life",
+      "sentence",
+      "for",
+      "murder",
+      "free",
+      "state",
+      "police",
+      "officer"
+    ]
+  },
+  "ZWE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/india/cross-border-militant-attack-rocks-manipur-border-villages-congress-questions-security-response/articleshow/130971470.cms",
+    "top_news": "https://muse.jhu.edu/book/147431",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "india",
-      "cross",
-      "border",
-      "militant",
-      "attack",
-      "rocks",
-      "manipur",
-      "border",
-      "villages",
-      "congress",
-      "questions",
-      "security",
-      "response",
-      "articleshow",
-      "130971470.cms"
-    ]
-  },
-  "TCD": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.newkerala.com/news/a/chad-declares-state-emergency-lake-province-after-deadly-916.htm",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "chad",
-      "declares",
-      "state",
-      "emergency",
-      "lake",
-      "province",
-      "after",
-      "deadly",
-      "916.htm"
+      "book",
+      "147431"
     ]
   }
 }
