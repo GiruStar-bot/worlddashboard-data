@@ -1,61 +1,75 @@
 {
-  "IRQ": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.maravipost.com/us-iran-exchange-fire-in-strait-of-hormuz-ceasefire-hangs-in-balance/",
+  "IRN": {
+    "risk_score": 4.45,
+    "count": 6,
+    "top_news": "https://www.moonofalabama.org/2026/05/war-on-iran-trump-discards-project-freedom-another-oil-market-peace-scam-loss-in-trust-of-u-s-protection.html/comment-page-4",
     "event_codes": {
+      "14": 3,
       "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "iran",
-      "exchange",
-      "fire",
-      "strait",
-      "hormuz",
-      "ceasefire",
-      "hangs",
-      "balance"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.35,
-    "count": 4,
-    "top_news": "https://www.naharnet.com:443/stories/en/320046-israeli-army-issues-evacuation-warning-for-nine-south-lebanon-villages",
-    "event_codes": {
-      "19": 3,
       "17": 1
     },
     "keywords": [
-      "stories",
-      "320046",
-      "israeli",
-      "army",
-      "issues",
-      "evacuation",
-      "warning",
-      "for",
-      "nine",
-      "south",
-      "lebanon",
-      "villages"
+      "2026",
+      "war",
+      "iran",
+      "trump",
+      "discards",
+      "project",
+      "freedom",
+      "another",
+      "oil",
+      "market",
+      "peace",
+      "scam",
+      "loss",
+      "trust",
+      "protection.html",
+      "comment",
+      "page"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
+  "ISR": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.grandforksherald.com/america-250-50-years-ago-today-may-9-1976",
+    "top_news": "https://radiofreesyria.com/damascus-beirut-talks-held-ahead-of-washington-meeting-amid-ongoing-israeli-strikes/",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "america",
-      "250",
-      "years",
-      "ago",
-      "today",
-      "may",
-      "1976"
+      "damascus",
+      "beirut",
+      "talks",
+      "held",
+      "ahead",
+      "washington",
+      "meeting",
+      "amid",
+      "ongoing",
+      "israeli",
+      "strikes"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://radiofreesyria.com/damascus-beirut-talks-held-ahead-of-washington-meeting-amid-ongoing-israeli-strikes/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "damascus",
+      "beirut",
+      "talks",
+      "held",
+      "ahead",
+      "washington",
+      "meeting",
+      "amid",
+      "ongoing",
+      "israeli",
+      "strikes"
     ]
   }
 }
