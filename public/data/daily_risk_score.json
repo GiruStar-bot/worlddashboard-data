@@ -1,86 +1,79 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://dailypost.ng/2026/05/09/four-men-convicted-in-us-over-haiti-president-moises-killing/",
+  "IRN": {
+    "risk_score": 8.95,
+    "count": 10,
+    "top_news": "https://jordantimes.com/news/region/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "18": 2,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "four",
-      "men",
-      "convicted",
-      "over",
-      "haiti",
-      "president",
-      "moises",
-      "killing"
+      "news",
+      "region",
+      "fire",
+      "iran",
+      "tankers",
+      "sparks",
+      "reprisals",
+      "deal",
+      "hangs",
+      "balance"
     ]
   },
   "ISR": {
-    "risk_score": 5.16,
-    "count": 6,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/israel-urges-immediate-evacuation-of-nine-southern-lebanon-villages-amid-escalating-tensions-with-hezbollah/articleshow/130972773.cms",
+    "risk_score": 3.84,
+    "count": 5,
+    "top_news": "https://slguardian.org/carlson-turns-on-trump-over-war-israel-and-power-struggles/",
     "event_codes": {
-      "15": 3,
-      "19": 3
+      "17": 2,
+      "14": 1,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "international",
-      "world",
-      "news",
+      "carlson",
+      "turns",
+      "trump",
+      "over",
+      "war",
       "israel",
-      "urges",
-      "immediate",
-      "evacuation",
-      "nine",
-      "southern",
-      "lebanon",
-      "villages",
-      "amid",
-      "escalating",
-      "tensions",
-      "with",
-      "hezbollah",
-      "articleshow",
-      "130972773.cms"
+      "and",
+      "power",
+      "struggles"
     ]
   },
-  "MOZ": {
-    "risk_score": 7.0,
-    "count": 9,
-    "top_news": "https://www.sowetan.co.za/news/2026-05-09-mozambican-gets-life-sentence-for-murder-of-free-state-police-officer/",
-    "event_codes": {
-      "19": 5,
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "mozambican",
-      "gets",
-      "life",
-      "sentence",
-      "for",
-      "murder",
-      "free",
-      "state",
-      "police",
-      "officer"
-    ]
-  },
-  "ZWE": {
+  "KHM": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://muse.jhu.edu/book/147431",
+    "count": 3,
+    "top_news": "https://phnompenhpost.com/national/trafficked-thais-rescued-100-chinese-detained-in-poipet-raids/",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "book",
-      "147431"
+      "national",
+      "trafficked",
+      "thais",
+      "rescued",
+      "100",
+      "chinese",
+      "detained",
+      "poipet",
+      "raids"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.9,
+    "count": 9,
+    "top_news": "https://www.universityworldnews.com/post.php?story=20260509082740315",
+    "event_codes": {
+      "18": 6,
+      "17": 3
+    },
+    "keywords": [
+      "post.php"
     ]
   }
 }
