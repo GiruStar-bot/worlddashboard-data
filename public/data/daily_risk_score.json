@@ -1,78 +1,85 @@
 {
   "IRN": {
-    "risk_score": 23.05,
-    "count": 26,
-    "top_news": "https://www.mykxlg.com/news/national/the-latest-trump-says-a-3-day-russia-ukraine-ceasefire-may-be-beginning-of-the/article_89451059-d670-53ff-8a06-a69ddd4a4b5e.html",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "http://www.clevelandstar.com/news/279039031/after-us-iran-exchange-fire-uae-reports-drone-missile-attack",
     "event_codes": {
-      "19": 21,
-      "16": 5
+      "19": 3,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
       "news",
-      "national",
-      "the",
-      "latest",
-      "trump",
-      "says",
-      "day",
-      "russia",
-      "ukraine",
-      "ceasefire",
-      "may",
-      "beginning",
-      "the",
-      "article",
-      "89451059",
-      "d670",
-      "53ff",
-      "8a06",
-      "a69ddd4a4b5e.html"
+      "279039031",
+      "after",
+      "iran",
+      "exchange",
+      "fire",
+      "uae",
+      "reports",
+      "drone",
+      "missile",
+      "attack"
     ]
   },
   "ISR": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://www.nbcnews.com/world/lebanon/israeli-airstrikes-kill-5-southern-lebanon-hezbollah-rockets-hit-open-rcna344301",
+    "risk_score": 6.15,
+    "count": 8,
+    "top_news": "http://www.clevelandstar.com/news/279039031/after-us-iran-exchange-fire-uae-reports-drone-missile-attack",
     "event_codes": {
-      "19": 10,
-      "18": 1
+      "14": 3,
+      "18": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "lebanon",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "southern",
-      "lebanon",
-      "hezbollah",
-      "rockets",
-      "hit",
-      "open",
-      "rcna344301"
+      "news",
+      "279039031",
+      "after",
+      "iran",
+      "exchange",
+      "fire",
+      "uae",
+      "reports",
+      "drone",
+      "missile",
+      "attack"
     ]
   },
-  "LBN": {
-    "risk_score": 7.9,
-    "count": 8,
-    "top_news": "https://www.nbcnews.com/world/lebanon/israeli-airstrikes-kill-5-southern-lebanon-hezbollah-rockets-hit-open-rcna344301",
+  "MLI": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.surinametimes.com/artikel/dozens-killed-in-jihadist-attacks-on-villages-in-central-mali",
     "event_codes": {
-      "19": 7,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "world",
-      "lebanon",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "southern",
-      "lebanon",
-      "hezbollah",
-      "rockets",
-      "hit",
-      "open",
-      "rcna344301"
+      "artikel",
+      "dozens",
+      "killed",
+      "jihadist",
+      "attacks",
+      "villages",
+      "central",
+      "mali"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thesun.ng/tinubu-delivering-transformative-projects-in-north-renewed-hope-ambassadors/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "tinubu",
+      "delivering",
+      "transformative",
+      "projects",
+      "north",
+      "renewed",
+      "hope",
+      "ambassadors"
     ]
   }
 }
