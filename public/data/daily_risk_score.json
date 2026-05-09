@@ -1,85 +1,91 @@
 {
-  "IRN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "http://www.clevelandstar.com/news/279039031/after-us-iran-exchange-fire-uae-reports-drone-missile-attack",
+  "CMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newkerala.com/news/a/chad-declares-state-emergency-lake-province-after-deadly-916.htm",
     "event_codes": {
-      "19": 3,
-      "14": 1,
-      "16": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "279039031",
+      "chad",
+      "declares",
+      "state",
+      "emergency",
+      "lake",
+      "province",
       "after",
-      "iran",
-      "exchange",
-      "fire",
-      "uae",
-      "reports",
-      "drone",
-      "missile",
-      "attack"
+      "deadly",
+      "916.htm"
     ]
   },
-  "ISR": {
-    "risk_score": 6.15,
-    "count": 8,
-    "top_news": "http://www.clevelandstar.com/news/279039031/after-us-iran-exchange-fire-uae-reports-drone-missile-attack",
+  "IRN": {
+    "risk_score": 2.51,
+    "count": 3,
+    "top_news": "https://www.lewrockwell.com/2026/05/no_author/the-gulf-separating-the-us-and-iran-is-too-wide-to-bridge/",
     "event_codes": {
-      "14": 3,
-      "18": 2,
       "19": 2,
       "16": 1
     },
     "keywords": [
-      "news",
-      "279039031",
-      "after",
+      "2026",
+      "author",
+      "the",
+      "gulf",
+      "separating",
+      "the",
+      "and",
       "iran",
-      "exchange",
-      "fire",
-      "uae",
-      "reports",
-      "drone",
-      "missile",
-      "attack"
+      "too",
+      "wide",
+      "bridge"
     ]
   },
-  "MLI": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.surinametimes.com/artikel/dozens-killed-in-jihadist-attacks-on-villages-in-central-mali",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "artikel",
-      "dozens",
-      "killed",
-      "jihadist",
-      "attacks",
-      "villages",
-      "central",
-      "mali"
-    ]
-  },
-  "NGA": {
+  "MMR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://thesun.ng/tinubu-delivering-transformative-projects-in-north-renewed-hope-ambassadors/",
+    "top_news": "https://economictimes.indiatimes.com/news/india/cross-border-militant-attack-rocks-manipur-border-villages-congress-questions-security-response/articleshow/130971470.cms",
     "event_codes": {
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "tinubu",
-      "delivering",
-      "transformative",
-      "projects",
-      "north",
-      "renewed",
-      "hope",
-      "ambassadors"
+      "news",
+      "india",
+      "cross",
+      "border",
+      "militant",
+      "attack",
+      "rocks",
+      "manipur",
+      "border",
+      "villages",
+      "congress",
+      "questions",
+      "security",
+      "response",
+      "articleshow",
+      "130971470.cms"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.newkerala.com/news/a/chad-declares-state-emergency-lake-province-after-deadly-916.htm",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "chad",
+      "declares",
+      "state",
+      "emergency",
+      "lake",
+      "province",
+      "after",
+      "deadly",
+      "916.htm"
     ]
   }
 }
