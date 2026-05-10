@@ -1,74 +1,100 @@
 {
   "IRN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.ibtimes.com/us-awaits-truce-response-iran-tests-peace-drone-strikes-3802603",
+    "risk_score": 9.0,
+    "count": 10,
+    "top_news": "https://themedialine.org/mideast-daily-news/mothers-day-march-in-karachi-puts-womens-roles-in-the-spotlight/",
     "event_codes": {
-      "19": 2,
+      "18": 5,
+      "19": 4,
       "16": 1
     },
     "keywords": [
-      "awaits",
-      "truce",
-      "response",
-      "iran",
-      "tests",
-      "peace",
-      "drone",
-      "strikes",
-      "3802603"
+      "mideast",
+      "daily",
+      "news",
+      "mothers",
+      "day",
+      "march",
+      "karachi",
+      "puts",
+      "womens",
+      "roles",
+      "the",
+      "spotlight"
     ]
   },
-  "JOR": {
-    "risk_score": 2.6,
-    "count": 4,
-    "top_news": "https://eturbonews.com/jordan-holds-largest-pro-democracy-rally/",
+  "ISR": {
+    "risk_score": 4.25,
+    "count": 6,
+    "top_news": "https://english.news.cn/20260510/0553617133f34140a708d4e686a842a4/c.html",
     "event_codes": {
-      "14": 4
+      "19": 3,
+      "16": 2,
+      "17": 1
     },
     "keywords": [
-      "jordan",
-      "holds",
-      "largest",
-      "pro",
-      "democracy",
-      "rally"
+      "20260510",
+      "0553617133f34140a708d4e686a842a4",
+      "c.html"
     ]
   },
-  "KWT": {
+  "NGA": {
+    "risk_score": 13.5,
+    "count": 14,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/878445-truck-driver-arrested-after-crash-kills-pedestrian-motorcyclist-in-lagos.html",
+    "event_codes": {
+      "19": 9,
+      "18": 5
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "878445",
+      "truck",
+      "driver",
+      "arrested",
+      "after",
+      "crash",
+      "kills",
+      "pedestrian",
+      "motorcyclist",
+      "lagos.html"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.ibtimes.com/us-awaits-truce-response-iran-tests-peace-drone-strikes-3802603",
+    "top_news": "https://tribune.com.pk/story/2607321/israeli-strikes-in-gaza-kill-three-medics-say-testing-fragile-ceasefire",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "awaits",
-      "truce",
-      "response",
-      "iran",
-      "tests",
-      "peace",
-      "drone",
+      "story",
+      "2607321",
+      "israeli",
       "strikes",
-      "3802603"
+      "gaza",
+      "kill",
+      "three",
+      "medics",
+      "say",
+      "testing",
+      "fragile",
+      "ceasefire"
     ]
   },
-  "NGA": {
-    "risk_score": 7.7,
-    "count": 9,
-    "top_news": "https://www.nigerianeye.com/2026/05/civilians-reportedly-killed-in-fresh.html",
+  "SAU": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.alternet.org/democrats-anti-semitism/",
     "event_codes": {
-      "19": 6,
-      "16": 2,
-      "18": 1
+      "16": 3
     },
     "keywords": [
-      "2026",
-      "civilians",
-      "reportedly",
-      "killed",
-      "fresh.html"
+      "democrats",
+      "anti",
+      "semitism"
     ]
   }
 }
