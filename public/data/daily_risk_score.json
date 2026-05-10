@@ -1,21 +1,99 @@
 {
   "IRN": {
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "https://morningstaronline.co.uk/article/ending-lebanon-war-key-peace-says-iran",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "ending",
+      "lebanon",
+      "war",
+      "key",
+      "peace",
+      "says",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.55,
+    "count": 8,
+    "top_news": "https://morningstaronline.co.uk/article/ending-lebanon-war-key-peace-says-iran",
+    "event_codes": {
+      "17": 4,
+      "18": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "ending",
+      "lebanon",
+      "war",
+      "key",
+      "peace",
+      "says",
+      "iran"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.thetablet.co.uk/news/bishop-deplores-intimidation-and-violence-in-west-bank-as-christian-village-threatened/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "bishop",
+      "deplores",
+      "intimidation",
+      "and",
+      "violence",
+      "west",
+      "bank",
+      "christian",
+      "village",
+      "threatened"
+    ]
+  },
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://jordantimes.com/news/region/iran-responds-to-us-peace-proposal-as-drones-hit-gulf",
+    "top_news": "https://morningstaronline.co.uk/article/ending-lebanon-war-key-peace-says-iran",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "region",
-      "iran",
-      "responds",
+      "article",
+      "ending",
+      "lebanon",
+      "war",
+      "key",
       "peace",
-      "proposal",
-      "drones",
-      "hit",
-      "gulf"
+      "says",
+      "iran"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://morningstaronline.co.uk/article/us-could-redeploy-troops-poland-germany-says-trump",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
+      "article",
+      "could",
+      "redeploy",
+      "troops",
+      "poland",
+      "germany",
+      "says",
+      "trump"
     ]
   }
 }
