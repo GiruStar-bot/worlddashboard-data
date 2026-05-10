@@ -1,65 +1,83 @@
 {
   "IRN": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://www.nhregister.com/news/world/article/british-military-says-ship-caught-fire-after-22251422.php",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/11/trump-calls-iran-s-response-to-us-peace-proposal-unacceptable-2",
     "event_codes": {
-      "19": 6,
-      "16": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "article",
-      "british",
-      "military",
-      "says",
-      "ship",
-      "caught",
-      "fire",
-      "after",
-      "22251422.php"
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "trump",
+      "calls",
+      "iran",
+      "response",
+      "peace",
+      "proposal",
+      "unacceptable"
     ]
   },
   "ISR": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.wiltsglosstandard.co.uk/news/national/26093843.starmer-promise-strength-fairness-battles-stay-no-10/",
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.hellenicshippingnews.com/how-the-u-s-military-and-maersk-got-a-ship-to-pass-through-the-strait-of-hormuz/",
     "event_codes": {
-      "16": 2,
-      "19": 2
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "how",
+      "the",
+      "military",
+      "and",
+      "maersk",
+      "got",
+      "ship",
+      "pass",
+      "through",
+      "the",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.modernghana.com/news/1492019/dozens-of-nigerian-fishermen-feared-dead-after.html",
+    "event_codes": {
+      "19": 6
     },
     "keywords": [
       "news",
-      "national",
-      "26093843.starmer",
-      "promise",
-      "strength",
-      "fairness",
-      "battles",
-      "stay"
+      "1492019",
+      "dozens",
+      "nigerian",
+      "fishermen",
+      "feared",
+      "dead",
+      "after.html"
     ]
   },
-  "LBN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://theindianawaaz.com/iran-submits-formal-response-to-latest-us-proposal-aimed-at-ending-west-asia-conflict/",
+  "TCD": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.modernghana.com/news/1492019/dozens-of-nigerian-fishermen-feared-dead-after.html",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "iran",
-      "submits",
-      "formal",
-      "response",
-      "latest",
-      "proposal",
-      "aimed",
-      "ending",
-      "west",
-      "asia",
-      "conflict"
+      "news",
+      "1492019",
+      "dozens",
+      "nigerian",
+      "fishermen",
+      "feared",
+      "dead",
+      "after.html"
     ]
   }
 }
