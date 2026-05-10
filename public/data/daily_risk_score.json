@@ -1,22 +1,81 @@
 {
-  "LBN": {
+  "CAF": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.al-monitor.com/originals/2026/05/irans-guards-threaten-us-sites-trump-waits-tehran-response",
+    "top_news": "https://www.thehindu.com/news/morning-digest-may-10-2026/article70961348.ece",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "originals",
+      "news",
+      "morning",
+      "digest",
+      "may",
       "2026",
-      "irans",
-      "guards",
-      "threaten",
-      "sites",
-      "trump",
-      "waits",
-      "tehran",
-      "response"
+      "article70961348.ece"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-reports-attacks-israeli-troops-across-southern-lebanon",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "hezbollah",
+      "reports",
+      "attacks",
+      "israeli",
+      "troops",
+      "across",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-reports-attacks-israeli-troops-across-southern-lebanon",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "hezbollah",
+      "reports",
+      "attacks",
+      "israeli",
+      "troops",
+      "across",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.1,
+    "count": 6,
+    "top_news": "https://punchng.com/urgent-measures-needed-against-hantavirus/",
+    "event_codes": {
+      "18": 4,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "urgent",
+      "measures",
+      "needed",
+      "against",
+      "hantavirus"
     ]
   }
 }
