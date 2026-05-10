@@ -1,23 +1,202 @@
 {
-  "IRN": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://tribune.com.pk/story/2607301/irgc-warns-us-of-retaliation-over-further-attacks-on-iranian-vessels",
+  "BHR": {
+    "risk_score": 9.6,
+    "count": 10,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260509-presstv02.htm",
     "event_codes": {
-      "19": 4,
+      "19": 6,
+      "18": 4
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260509",
+      "presstv02.htm"
+    ]
+  },
+  "IDN": {
+    "risk_score": 4.0,
+    "count": 8,
+    "top_news": "https://www.arkansasonline.com/news/2026/may/10/in-the-news/",
+    "event_codes": {
+      "17": 8
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "may",
+      "the",
+      "news"
+    ]
+  },
+  "IRN": {
+    "risk_score": 28.46,
+    "count": 31,
+    "top_news": "https://www.newsx.com/world/your-hands-are-stained-with-the-blood-of-iran-takes-a-dig-at-karoline-leavitt-on-second-childs-birth-remind-her-of-minab-tragedy-killing-168-children-216549/",
+    "event_codes": {
+      "19": 17,
+      "14": 4,
+      "17": 4,
+      "18": 4,
+      "16": 2
+    },
+    "keywords": [
+      "world",
+      "your",
+      "hands",
+      "are",
+      "stained",
+      "with",
+      "the",
+      "blood",
+      "iran",
+      "takes",
+      "dig",
+      "karoline",
+      "leavitt",
+      "second",
+      "childs",
+      "birth",
+      "remind",
+      "her",
+      "minab",
+      "tragedy",
+      "killing",
+      "168",
+      "children",
+      "216549"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.0,
+    "count": 26,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260509-presstv06.htm",
+    "event_codes": {
+      "19": 16,
+      "18": 6,
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260509",
+      "presstv06.htm"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.standardmedia.co.ke/western/article/2001547462/family-conducts-mock-burial-for-kenyan-killed-fighting-for-russia",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "western",
+      "article",
+      "2001547462",
+      "family",
+      "conducts",
+      "mock",
+      "burial",
+      "for",
+      "kenyan",
+      "killed",
+      "fighting",
+      "for",
+      "russia"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260509-presstv02.htm",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260509",
+      "presstv02.htm"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260509-presstv01.htm",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260509",
+      "presstv01.htm"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.55,
+    "count": 3,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/10/thai-cambodian-cooperation-locates-missing-man-after-15-days",
+    "event_codes": {
+      "19": 2,
       "14": 1
     },
     "keywords": [
-      "story",
-      "2607301",
-      "irgc",
-      "warns",
-      "retaliation",
-      "over",
-      "further",
-      "attacks",
-      "iranian",
-      "vessels"
+      "aseanplus",
+      "aseanplus",
+      "news",
+      "2026",
+      "thai",
+      "cambodian",
+      "cooperation",
+      "locates",
+      "missing",
+      "man",
+      "after",
+      "days"
+    ]
+  },
+  "VNM": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://news.tuoitre.vn/police-indict-4-suspects-for-large-scale-instant-coffee-counterfeiting-in-vietnams-hung-yen-103260510170624897.htm",
+    "event_codes": {
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "police",
+      "indict",
+      "suspects",
+      "for",
+      "large",
+      "scale",
+      "instant",
+      "coffee",
+      "counterfeiting",
+      "vietnams",
+      "hung",
+      "yen",
+      "103260510170624897.htm"
     ]
   }
 }
