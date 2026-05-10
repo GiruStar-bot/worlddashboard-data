@@ -1,81 +1,46 @@
 {
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thehindu.com/news/morning-digest-may-10-2026/article70961348.ece",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "morning",
-      "digest",
-      "may",
-      "2026",
-      "article70961348.ece"
-    ]
-  },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-reports-attacks-israeli-troops-across-southern-lebanon",
+    "risk_score": 11.64,
+    "count": 14,
+    "top_news": "https://imemc.org/article/colonizers-injure-two-women-expand-attacks-across-west-bank/",
     "event_codes": {
-      "19": 4
+      "18": 5,
+      "17": 4,
+      "19": 4,
+      "15": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "hezbollah",
-      "reports",
+      "article",
+      "colonizers",
+      "injure",
+      "two",
+      "women",
+      "expand",
       "attacks",
-      "israeli",
-      "troops",
       "across",
-      "southern",
-      "lebanon"
+      "west",
+      "bank"
     ]
   },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-reports-attacks-israeli-troops-across-southern-lebanon",
+  "PSE": {
+    "risk_score": 9.4,
+    "count": 10,
+    "top_news": "https://imemc.org/article/colonizers-injure-two-women-expand-attacks-across-west-bank/",
     "event_codes": {
-      "19": 4
+      "18": 5,
+      "19": 5
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "hezbollah",
-      "reports",
+      "article",
+      "colonizers",
+      "injure",
+      "two",
+      "women",
+      "expand",
       "attacks",
-      "israeli",
-      "troops",
       "across",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.1,
-    "count": 6,
-    "top_news": "https://punchng.com/urgent-measures-needed-against-hantavirus/",
-    "event_codes": {
-      "18": 4,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "urgent",
-      "measures",
-      "needed",
-      "against",
-      "hantavirus"
+      "west",
+      "bank"
     ]
   }
 }
