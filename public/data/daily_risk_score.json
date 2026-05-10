@@ -1,46 +1,50 @@
 {
-  "ISR": {
-    "risk_score": 11.64,
-    "count": 14,
-    "top_news": "https://imemc.org/article/colonizers-injure-two-women-expand-attacks-across-west-bank/",
+  "IRN": {
+    "risk_score": 6.85,
+    "count": 8,
+    "top_news": "https://www.newsx.com/world/british-military-monitoring-ship-catches-fire-after-being-hit-by-unknown-projectile-near-qatar-coast-216434/",
     "event_codes": {
-      "18": 5,
-      "17": 4,
-      "19": 4,
+      "19": 5,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "british",
+      "military",
+      "monitoring",
+      "ship",
+      "catches",
+      "fire",
+      "after",
+      "being",
+      "hit",
+      "unknown",
+      "projectile",
+      "near",
+      "qatar",
+      "coast",
+      "216434"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.37,
+    "count": 8,
+    "top_news": "https://punchng.com/naf-graduates-new-intelligence-officers-to-strengthen-security-operations/",
+    "event_codes": {
+      "17": 6,
+      "14": 1,
       "15": 1
     },
     "keywords": [
-      "article",
-      "colonizers",
-      "injure",
-      "two",
-      "women",
-      "expand",
-      "attacks",
-      "across",
-      "west",
-      "bank"
-    ]
-  },
-  "PSE": {
-    "risk_score": 9.4,
-    "count": 10,
-    "top_news": "https://imemc.org/article/colonizers-injure-two-women-expand-attacks-across-west-bank/",
-    "event_codes": {
-      "18": 5,
-      "19": 5
-    },
-    "keywords": [
-      "article",
-      "colonizers",
-      "injure",
-      "two",
-      "women",
-      "expand",
-      "attacks",
-      "across",
-      "west",
-      "bank"
+      "naf",
+      "graduates",
+      "new",
+      "intelligence",
+      "officers",
+      "strengthen",
+      "security",
+      "operations"
     ]
   }
 }
