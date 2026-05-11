@@ -1,71 +1,75 @@
 {
   "IRN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.ibtimes.co.in/iran-cannot-have-nuclear-weapon-us-president-donald-trump-says-iran-ceasefire-life-support-901967",
+    "risk_score": 6.07,
+    "count": 7,
+    "top_news": "http://www.pakistantelegraph.com/news/279044994/iran-fm-spokesperson-baghaei-says-us-left-negotiating-table-destroyed-it-twice-in-9-months-urges-focus-on-hormuz-and-ending-regional-conflict",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "18": 2,
+      "19": 2,
+      "14": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
+      "news",
+      "279044994",
       "iran",
-      "cannot",
-      "have",
-      "nuclear",
-      "weapon",
-      "president",
-      "donald",
-      "trump",
+      "spokesperson",
+      "baghaei",
       "says",
+      "left",
+      "negotiating",
+      "table",
+      "destroyed",
+      "twice",
+      "months",
+      "urges",
+      "focus",
+      "hormuz",
+      "and",
+      "ending",
+      "regional",
+      "conflict"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.95,
+    "count": 7,
+    "top_news": "https://www.seattletimes.com/nation-world/abraham-foxman-warrior-against-antisemitism-dies-at-86/",
+    "event_codes": {
+      "14": 3,
+      "16": 3,
+      "19": 1
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "abraham",
+      "foxman",
+      "warrior",
+      "against",
+      "antisemitism",
+      "dies"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.oann.com/newsroom/trump-declares-iran-ceasefire-on-life-support-after-rejecting-counterproposal/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "newsroom",
+      "trump",
+      "declares",
       "iran",
       "ceasefire",
       "life",
       "support",
-      "901967"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.22,
-    "count": 4,
-    "top_news": "https://www.naturalnews.com/2026-05-11-secret-israeli-base-hidden-in-iraqi-desert-exposes-covert-war-against-iran.html",
-    "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "secret",
-      "israeli",
-      "base",
-      "hidden",
-      "iraqi",
-      "desert",
-      "exposes",
-      "covert",
-      "war",
-      "against",
-      "iran.html"
-    ]
-  },
-  "SSD": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://ntv.co.ug/news/truck-drivers-protest-halts-busia-malaba-border-trade",
-    "event_codes": {
-      "14": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "truck",
-      "drivers",
-      "protest",
-      "halts",
-      "busia",
-      "malaba",
-      "border",
-      "trade"
+      "after",
+      "rejecting",
+      "counterproposal"
     ]
   }
 }
