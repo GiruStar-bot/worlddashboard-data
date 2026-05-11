@@ -1,83 +1,102 @@
 {
   "IRN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/11/trump-calls-iran-s-response-to-us-peace-proposal-unacceptable-2",
+    "risk_score": 12.7,
+    "count": 16,
+    "top_news": "https://www.koreatimes.co.kr/world/20260511/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 9,
+      "17": 4,
+      "16": 2,
+      "18": 1
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "trump",
-      "calls",
+      "world",
+      "20260511",
       "iran",
-      "response",
-      "peace",
+      "responds",
+      "ceasefire",
       "proposal",
+      "but",
+      "trump",
+      "rejects",
       "unacceptable"
     ]
   },
   "ISR": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.hellenicshippingnews.com/how-the-u-s-military-and-maersk-got-a-ship-to-pass-through-the-strait-of-hormuz/",
+    "risk_score": 13.95,
+    "count": 16,
+    "top_news": "http://www.arabherald.com/news/279042488/trump-vows-to-get-irans-enriched-uranium",
     "event_codes": {
-      "18": 4,
-      "19": 1
+      "19": 8,
+      "14": 5,
+      "18": 3
     },
     "keywords": [
-      "how",
-      "the",
-      "military",
-      "and",
-      "maersk",
-      "got",
-      "ship",
-      "pass",
-      "through",
-      "the",
-      "strait",
-      "hormuz"
+      "news",
+      "279042488",
+      "trump",
+      "vows",
+      "get",
+      "irans",
+      "enriched",
+      "uranium"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.irishmirror.ie/news/irish-news/crime/retail-firm-co-owned-sex-37137208",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "irish",
+      "news",
+      "crime",
+      "retail",
+      "firm",
+      "owned",
+      "sex",
+      "37137208"
     ]
   },
   "NGA": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.modernghana.com/news/1492019/dozens-of-nigerian-fishermen-feared-dead-after.html",
+    "risk_score": 18.84,
+    "count": 25,
+    "top_news": "https://www.thetablet.co.uk/news/sma-priest-celebrates-first-mass-in-north-nigerian-village-in-seven-years/",
     "event_codes": {
-      "19": 6
+      "17": 10,
+      "19": 7,
+      "18": 6,
+      "15": 2
     },
     "keywords": [
       "news",
-      "1492019",
-      "dozens",
+      "sma",
+      "priest",
+      "celebrates",
+      "first",
+      "mass",
+      "north",
       "nigerian",
-      "fishermen",
-      "feared",
-      "dead",
-      "after.html"
+      "village",
+      "seven",
+      "years"
     ]
   },
-  "TCD": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.modernghana.com/news/1492019/dozens-of-nigerian-fishermen-feared-dead-after.html",
+  "QAT": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.fox6now.com/news/iran-latest-may-10",
     "event_codes": {
-      "19": 5
+      "18": 4
     },
     "keywords": [
       "news",
-      "1492019",
-      "dozens",
-      "nigerian",
-      "fishermen",
-      "feared",
-      "dead",
-      "after.html"
+      "iran",
+      "latest",
+      "may"
     ]
   }
 }
