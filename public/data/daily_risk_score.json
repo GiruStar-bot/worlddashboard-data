@@ -1,140 +1,75 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/node/2643135/middle-east",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "node",
-      "2643135",
-      "middle",
-      "east"
-    ]
-  },
-  "ARG": {
-    "risk_score": 2.25,
-    "count": 3,
-    "top_news": "https://www.dw.com/en/nazi-looted-artwork-surfaces-with-dutch-collaborators-heirs/a-77115569",
-    "event_codes": {
-      "14": 3
-    },
-    "keywords": [
-      "nazi",
-      "looted",
-      "artwork",
-      "surfaces",
-      "with",
-      "dutch",
-      "collaborators",
-      "heirs",
-      "77115569"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://english.news.cn/20260511/392f765ec35f4410a860bbfdc8b03eb3/c.html",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "20260511",
-      "392f765ec35f4410a860bbfdc8b03eb3",
-      "c.html"
-    ]
-  },
   "IRN": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-man-executed-for-allegedly-sharing-information-with-mossad-and-the-cia",
+    "count": 3,
+    "top_news": "https://victorygirlsblog.com/netanyahu-on-60-minutes-why-the-war-is-not-over-yet/",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 2,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "middle",
-      "east",
-      "iran",
-      "eastern",
-      "states",
-      "artc",
-      "man",
-      "executed",
-      "for",
-      "allegedly",
-      "sharing",
-      "information",
-      "with",
-      "mossad",
-      "and",
+      "netanyahu",
+      "minutes",
+      "why",
       "the",
-      "cia"
+      "war",
+      "not",
+      "over",
+      "yet"
     ]
   },
   "ISR": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://www.i24news.tv/en/news/israel/artc-woman-killed-four-injured-in-ramla-shooting-suspect-arrested",
+    "risk_score": 28.05,
+    "count": 32,
+    "top_news": "https://imemc.org/article/israeli-border-police-kills-a-palestinian-in-qalandia/",
     "event_codes": {
-      "19": 6,
-      "17": 1,
-      "18": 1
+      "19": 11,
+      "17": 6,
+      "18": 6,
+      "16": 4,
+      "14": 2,
+      "20": 2,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "artc",
-      "woman",
-      "killed",
-      "four",
-      "injured",
-      "ramla",
-      "shooting",
-      "suspect",
-      "arrested"
+      "article",
+      "israeli",
+      "border",
+      "police",
+      "kills",
+      "palestinian",
+      "qalandia"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/sjctle11fg",
+    "event_codes": {
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "sjctle11fg"
     ]
   },
   "NGA": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://quicknews-africa.net/troops-kill-terrorist-recover-arms-in-kogi-forest-ambush/",
+    "risk_score": 17.42,
+    "count": 31,
+    "top_news": "https://thesun.ng/edo-govt-condemns-murder-of-uniben-student/",
     "event_codes": {
-      "18": 5,
-      "19": 1
+      "17": 27,
+      "14": 2,
+      "19": 2
     },
     "keywords": [
-      "troops",
-      "kill",
-      "terrorist",
-      "recover",
-      "arms",
-      "kogi",
-      "forest",
-      "ambush"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://article.wn.com/view/2026/05/11/Turkish_Airlines_plane_with_278_passengers_on_board_catches_/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "view",
-      "2026",
-      "turkish",
-      "airlines",
-      "plane",
-      "with",
-      "278",
-      "passengers",
-      "board",
-      "catches"
+      "edo",
+      "govt",
+      "condemns",
+      "murder",
+      "uniben",
+      "student"
     ]
   }
 }
