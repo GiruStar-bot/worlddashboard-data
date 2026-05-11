@@ -1,46 +1,115 @@
 {
-  "IRN": {
+  "IDN": {
     "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://organiser.org/2026/05/11/352814/world/china-admits-support-to-pakistan-during-indias-anti-terror-op-sindoor-indirectly-validating-battlefield-losses/",
+    "count": 6,
+    "top_news": "http://www.tennesseedaily.com/news/279040900/online-gambling-raid-busted-in-jakarta-300-foreigners-arrested",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "352814",
-      "world",
-      "china",
-      "admits",
-      "support",
-      "pakistan",
-      "during",
-      "indias",
-      "anti",
-      "terror",
-      "sindoor",
-      "indirectly",
-      "validating",
-      "battlefield",
-      "losses"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.arabherald.com/news/279042762/netanyahu-claims-israel-doesnt-want-us-cash",
-    "event_codes": {
-      "19": 2
+      "17": 6
     },
     "keywords": [
       "news",
-      "279042762",
-      "netanyahu",
-      "claims",
-      "israel",
-      "doesnt",
-      "want",
-      "cash"
+      "279040900",
+      "online",
+      "gambling",
+      "raid",
+      "busted",
+      "jakarta",
+      "300",
+      "foreigners",
+      "arrested"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-895755",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "895755"
+    ]
+  },
+  "KEN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.kenyan-post.com/2026/05/mike-sonko-puts-smile-on-baby-talisha.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "mike",
+      "sonko",
+      "puts",
+      "smile",
+      "baby",
+      "talisha.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.jpost.com/middle-east/article-895749",
+    "event_codes": {
+      "17": 5,
+      "16": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "895749"
+    ]
+  },
+  "NER": {
+    "risk_score": 6.85,
+    "count": 7,
+    "top_news": "https://blueprint.ng/military-probe-alleged-klling-of-civilians-in-niger-state-reveal-how-airstrikes-eliminated-many-terrorists/",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "military",
+      "probe",
+      "alleged",
+      "klling",
+      "civilians",
+      "niger",
+      "state",
+      "reveal",
+      "how",
+      "airstrikes",
+      "eliminated",
+      "many",
+      "terrorists"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.8,
+    "count": 14,
+    "top_news": "https://dailytrust.com/breaking-fubara-walks-out-of-apc-screening-shuns-journalists/",
+    "event_codes": {
+      "19": 10,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "breaking",
+      "fubara",
+      "walks",
+      "out",
+      "apc",
+      "screening",
+      "shuns",
+      "journalists"
     ]
   }
 }
