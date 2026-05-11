@@ -1,76 +1,90 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/sao-paulo-nightlife-guide-for-monday-may-11-2026/",
+  "IRN": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran",
     "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "sao",
-      "paulo",
-      "nightlife",
-      "guide",
-      "for",
-      "monday",
-      "may",
-      "2026"
-    ]
-  },
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.surinametimes.com/artikel/militia-kill-at-least-69-in-dr-congo",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "artikel",
-      "militia",
-      "kill",
-      "least",
-      "congo"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.02,
-    "count": 5,
-    "top_news": "http://www.bignewsnetwork.com/news/279044817/7-killed-7-injured-in-israeli-strikes-on-s-lebanon",
-    "event_codes": {
-      "16": 2,
-      "17": 2,
-      "19": 1
+      "14": 2,
+      "16": 1
     },
     "keywords": [
       "news",
-      "279044817",
-      "killed",
-      "injured",
-      "israeli",
-      "strikes",
-      "lebanon"
+      "2026",
+      "sanctions",
+      "network",
+      "accused",
+      "planning",
+      "attacks",
+      "for",
+      "iran"
     ]
   },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 8,
-    "top_news": "https://dailypost.ng/2026/05/11/channel-your-energy-to-welfarism-of-youths-nyc-tells-arewa-youth-assembly/",
+  "ISR": {
+    "risk_score": 24.55,
+    "count": 28,
+    "top_news": "https://www.nhpr.org/2026-05-11/trial-delayed-man-accused-shooting-palestinian-college-students-burlington",
     "event_codes": {
-      "17": 7,
-      "19": 1
+      "19": 19,
+      "17": 5,
+      "18": 2,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "channel",
-      "your",
-      "energy",
-      "welfarism",
-      "youths",
-      "nyc",
-      "tells",
-      "arewa",
-      "youth",
-      "assembly"
+      "trial",
+      "delayed",
+      "man",
+      "accused",
+      "shooting",
+      "palestinian",
+      "college",
+      "students",
+      "burlington"
+    ]
+  },
+  "NGA": {
+    "risk_score": 14.0,
+    "count": 17,
+    "top_news": "https://thefrontierpost.com/military-strikes-gang-massacres-in-nigeria-kill-around-100-civilians/",
+    "event_codes": {
+      "19": 9,
+      "17": 6,
+      "20": 2
+    },
+    "keywords": [
+      "military",
+      "strikes",
+      "gang",
+      "massacres",
+      "nigeria",
+      "kill",
+      "around",
+      "100",
+      "civilians"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.newsday.co.zw/opinion-analysis/article/200055240/chegutu-mine-tragedies-seven-dead-once-charged",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "analysis",
+      "article",
+      "200055240",
+      "chegutu",
+      "mine",
+      "tragedies",
+      "seven",
+      "dead",
+      "once",
+      "charged"
     ]
   }
 }
