@@ -1,115 +1,140 @@
 {
-  "IDN": {
+  "ARE": {
     "risk_score": 3.0,
-    "count": 6,
-    "top_news": "http://www.tennesseedaily.com/news/279040900/online-gambling-raid-busted-in-jakarta-300-foreigners-arrested",
+    "count": 3,
+    "top_news": "https://www.arabnews.com/node/2643135/middle-east",
     "event_codes": {
-      "17": 6
+      "19": 3
     },
     "keywords": [
-      "news",
-      "279040900",
-      "online",
-      "gambling",
-      "raid",
-      "busted",
-      "jakarta",
-      "300",
-      "foreigners",
-      "arrested"
+      "node",
+      "2643135",
+      "middle",
+      "east"
     ]
   },
-  "IRN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-895755",
+  "ARG": {
+    "risk_score": 2.25,
+    "count": 3,
+    "top_news": "https://www.dw.com/en/nazi-looted-artwork-surfaces-with-dutch-collaborators-heirs/a-77115569",
     "event_codes": {
-      "17": 3,
+      "14": 3
+    },
+    "keywords": [
+      "nazi",
+      "looted",
+      "artwork",
+      "surfaces",
+      "with",
+      "dutch",
+      "collaborators",
+      "heirs",
+      "77115569"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://english.news.cn/20260511/392f765ec35f4410a860bbfdc8b03eb3/c.html",
+    "event_codes": {
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "895755"
+      "20260511",
+      "392f765ec35f4410a860bbfdc8b03eb3",
+      "c.html"
     ]
   },
-  "KEN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.kenyan-post.com/2026/05/mike-sonko-puts-smile-on-baby-talisha.html",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-man-executed-for-allegedly-sharing-information-with-mossad-and-the-cia",
     "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "2026",
-      "mike",
-      "sonko",
-      "puts",
-      "smile",
-      "baby",
-      "talisha.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.jpost.com/middle-east/article-895749",
-    "event_codes": {
-      "17": 5,
-      "16": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "895749"
-    ]
-  },
-  "NER": {
-    "risk_score": 6.85,
-    "count": 7,
-    "top_news": "https://blueprint.ng/military-probe-alleged-klling-of-civilians-in-niger-state-reveal-how-airstrikes-eliminated-many-terrorists/",
-    "event_codes": {
-      "19": 6,
-      "18": 1
-    },
-    "keywords": [
-      "military",
-      "probe",
-      "alleged",
-      "klling",
-      "civilians",
-      "niger",
-      "state",
-      "reveal",
-      "how",
-      "airstrikes",
-      "eliminated",
-      "many",
-      "terrorists"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.8,
-    "count": 14,
-    "top_news": "https://dailytrust.com/breaking-fubara-walks-out-of-apc-screening-shuns-journalists/",
-    "event_codes": {
-      "19": 10,
       "17": 2,
       "18": 2
     },
     "keywords": [
-      "breaking",
-      "fubara",
-      "walks",
-      "out",
-      "apc",
-      "screening",
-      "shuns",
-      "journalists"
+      "news",
+      "middle",
+      "east",
+      "iran",
+      "eastern",
+      "states",
+      "artc",
+      "man",
+      "executed",
+      "for",
+      "allegedly",
+      "sharing",
+      "information",
+      "with",
+      "mossad",
+      "and",
+      "the",
+      "cia"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://www.i24news.tv/en/news/israel/artc-woman-killed-four-injured-in-ramla-shooting-suspect-arrested",
+    "event_codes": {
+      "19": 6,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "artc",
+      "woman",
+      "killed",
+      "four",
+      "injured",
+      "ramla",
+      "shooting",
+      "suspect",
+      "arrested"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://quicknews-africa.net/troops-kill-terrorist-recover-arms-in-kogi-forest-ambush/",
+    "event_codes": {
+      "18": 5,
+      "19": 1
+    },
+    "keywords": [
+      "troops",
+      "kill",
+      "terrorist",
+      "recover",
+      "arms",
+      "kogi",
+      "forest",
+      "ambush"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://article.wn.com/view/2026/05/11/Turkish_Airlines_plane_with_278_passengers_on_board_catches_/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "view",
+      "2026",
+      "turkish",
+      "airlines",
+      "plane",
+      "with",
+      "278",
+      "passengers",
+      "board",
+      "catches"
     ]
   }
 }
