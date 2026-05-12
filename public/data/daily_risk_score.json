@@ -1,86 +1,129 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/mediator-pakistan-allowed-iran-park-185806864.html",
+  "ARG": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.riotimesonline.com/pemex-supplier-crisis-deepens-as-jailed-admiral-writes-again/",
     "event_codes": {
-      "19": 3
+      "17": 5
     },
     "keywords": [
+      "pemex",
+      "supplier",
+      "crisis",
+      "deepens",
+      "jailed",
+      "admiral",
+      "writes",
+      "again"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.94,
+    "count": 7,
+    "top_news": "https://www.jpost.com/israel-news/article-895916",
+    "event_codes": {
+      "19": 4,
+      "15": 2,
+      "17": 1
+    },
+    "keywords": [
+      "israel",
       "news",
-      "articles",
-      "mediator",
-      "pakistan",
-      "allowed",
-      "iran",
-      "park",
-      "185806864.html"
+      "article",
+      "895916"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats",
+    "risk_score": 39.89,
+    "count": 46,
+    "top_news": "https://www.jns.org/news/israel-news/terrorist-who-killed-idf-staff-sgt-amit-ben-yigal-convicted-in-military-court",
     "event_codes": {
-      "19": 4
+      "19": 26,
+      "17": 12,
+      "14": 4,
+      "16": 2,
+      "18": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "israeli",
-      "military",
-      "kills",
-      "six",
-      "lebanon",
-      "issues",
-      "more",
-      "displacement",
-      "threats"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/5/12/israeli-military-kills-six-in-lebanon-issues-more-displacement-threats",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
+      "israel",
       "news",
-      "2026",
-      "israeli",
+      "terrorist",
+      "who",
+      "killed",
+      "idf",
+      "staff",
+      "sgt",
+      "amit",
+      "ben",
+      "yigal",
+      "convicted",
       "military",
-      "kills",
-      "six",
-      "lebanon",
-      "issues",
-      "more",
-      "displacement",
-      "threats"
+      "court"
     ]
   },
-  "VNM": {
-    "risk_score": 2.52,
-    "count": 3,
-    "top_news": "https://news.tuoitre.vn/nearly-600kg-of-fake-coffee-powder-seized-in-family-run-coffee-production-ring-in-vietnam-103260512114513807.htm",
+  "KHM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.capitalgazette.com/2026/05/12/today-in-history-may-12-tens-of-thousands-die-in-sichuan-earthquake/",
     "event_codes": {
-      "17": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "nearly",
-      "600kg",
-      "fake",
-      "coffee",
-      "powder",
-      "seized",
-      "family",
-      "run",
-      "coffee",
-      "production",
-      "ring",
-      "vietnam",
-      "103260512114513807.htm"
+      "2026",
+      "today",
+      "history",
+      "may",
+      "tens",
+      "thousands",
+      "die",
+      "sichuan",
+      "earthquake"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.01,
+    "count": 10,
+    "top_news": "https://patriotpost.us/opinion/127516-silence-in-the-face-of-slaughter-the-crisis-in-northern-nigeria-2026-05-12",
+    "event_codes": {
+      "19": 5,
+      "15": 3,
+      "17": 2
+    },
+    "keywords": [
+      "opinion",
+      "127516",
+      "silence",
+      "the",
+      "face",
+      "slaughter",
+      "the",
+      "crisis",
+      "northern",
+      "nigeria",
+      "2026"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://countercurrents.org/2026/05/families-in-southern-syria-demand-truth-on-dozens-of-missing-sons-kidnapped-by-israel/",
+    "event_codes": {
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "families",
+      "southern",
+      "syria",
+      "demand",
+      "truth",
+      "dozens",
+      "missing",
+      "sons",
+      "kidnapped",
+      "israel"
     ]
   }
 }
