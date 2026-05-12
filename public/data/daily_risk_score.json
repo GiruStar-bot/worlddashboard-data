@@ -1,57 +1,68 @@
 {
-  "IRN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.dailykos.com/stories/2026/5/12/800037820/media/freedom-of-the-press-not-in-trumps-america/",
+  "ISR": {
+    "risk_score": 5.6,
+    "count": 7,
+    "top_news": "https://www.npr.org/2026/05/12/g-s1-121631/israel-military-ultra-orthodox-netanyahu-coalition",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "14": 2,
+      "16": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "stories",
       "2026",
-      "800037820",
-      "media",
-      "freedom",
-      "the",
-      "press",
-      "not",
-      "trumps",
-      "america"
+      "121631",
+      "israel",
+      "military",
+      "ultra",
+      "orthodox",
+      "netanyahu",
+      "coalition"
     ]
   },
-  "KWT": {
+  "KHM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.news.cn/20260513/0e224aaf40bc4a81a7ec0481d76abbb4/c.html",
+    "top_news": "https://foreignpolicy.com/2026/05/12/trump-xi-iran-asia-indo-pacific/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "20260513",
-      "0e224aaf40bc4a81a7ec0481d76abbb4",
-      "c.html"
+      "2026",
+      "trump",
+      "iran",
+      "asia",
+      "indo",
+      "pacific"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.the-star.co.ke/news/world/2026-05-12-lebanon-says-two-paramedics-among-10-killed-in-israeli-strikes",
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/news/international/i/article70970085.ece",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
       "news",
-      "world",
+      "international",
+      "article70970085.ece"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://foreignpolicy.com/2026/05/12/trump-xi-iran-asia-indo-pacific/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
       "2026",
-      "lebanon",
-      "says",
-      "two",
-      "paramedics",
-      "among",
-      "killed",
-      "israeli",
-      "strikes"
+      "trump",
+      "iran",
+      "asia",
+      "indo",
+      "pacific"
     ]
   }
 }
