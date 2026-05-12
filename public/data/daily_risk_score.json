@@ -1,58 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 2.5,
+  "COD": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://news.az/news/pakistan-says-islamabad-likely-venue-for-future-us-iran-talks",
+    "top_news": "http://www.china.org.cn/2026-05/12/content_118488932.shtml",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "pakistan",
-      "says",
-      "islamabad",
-      "likely",
-      "venue",
-      "for",
-      "future",
-      "iran",
-      "talks"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.eastidahonews.com/2026/05/man-accused-of-firing-13-rounds-at-officers-claimed-he-shot-neighbor-court-records-say/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 3
     },
     "keywords": [
       "2026",
-      "man",
-      "accused",
-      "firing",
-      "rounds",
-      "officers",
-      "claimed",
-      "shot",
-      "neighbor",
-      "court",
-      "records",
-      "say"
+      "content",
+      "118488932.shtml"
     ]
   },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.koreaherald.com/article/10735890",
+  "IRN": {
+    "risk_score": 3.92,
+    "count": 5,
+    "top_news": "https://www.thisdaylive.com/2026/05/12/trump-iran-ceasefire-on-life-support-peace-document-piece-of-garbage/",
     "event_codes": {
-      "19": 2
+      "16": 3,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "article",
-      "10735890"
+      "2026",
+      "trump",
+      "iran",
+      "ceasefire",
+      "life",
+      "support",
+      "peace",
+      "document",
+      "piece",
+      "garbage"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.14,
+    "count": 9,
+    "top_news": "https://www.thisdaylive.com/2026/05/12/jury-enters-final-stage-as-judge-sets-directions-in-diezani-alison-maduekes-trial/",
+    "event_codes": {
+      "14": 3,
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "jury",
+      "enters",
+      "final",
+      "stage",
+      "judge",
+      "sets",
+      "directions",
+      "diezani",
+      "alison",
+      "maduekes",
+      "trial"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://dunyanews.tv/en/World/951032-eu-agrees-longstalled-sanctions-on-israeli-settlers",
+    "event_codes": {
+      "16": 3,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "951032",
+      "agrees",
+      "longstalled",
+      "sanctions",
+      "israeli",
+      "settlers"
     ]
   }
 }
