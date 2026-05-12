@@ -1,79 +1,121 @@
 {
-  "COD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.china.org.cn/2026-05/12/content_118488932.shtml",
+  "IRN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/12/768468/UAE-attacks-Iran-United-States-Israel",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "16": 1
     },
     "keywords": [
+      "detail",
       "2026",
-      "content",
-      "118488932.shtml"
+      "768468",
+      "uae",
+      "attacks",
+      "iran",
+      "united",
+      "states",
+      "israel"
     ]
   },
-  "IRN": {
-    "risk_score": 3.92,
-    "count": 5,
-    "top_news": "https://www.thisdaylive.com/2026/05/12/trump-iran-ceasefire-on-life-support-peace-document-piece-of-garbage/",
+  "ISR": {
+    "risk_score": 2.7,
+    "count": 4,
+    "top_news": "https://www.houstonpublicmedia.org/npr/2026/05/12/g-s1-121581/eu-diplomats-agree-to-sanction-hamas-leaders-and-israeli-settlers/",
     "event_codes": {
-      "16": 3,
-      "17": 1,
+      "16": 2,
+      "18": 1,
       "19": 1
     },
     "keywords": [
+      "npr",
       "2026",
-      "trump",
+      "121581",
+      "diplomats",
+      "agree",
+      "sanction",
+      "hamas",
+      "leaders",
+      "and",
+      "israeli",
+      "settlers"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/12/768468/UAE-attacks-Iran-United-States-Israel",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "768468",
+      "uae",
+      "attacks",
       "iran",
-      "ceasefire",
-      "life",
-      "support",
-      "peace",
-      "document",
-      "piece",
-      "garbage"
+      "united",
+      "states",
+      "israel"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.9,
+    "count": 6,
+    "top_news": "https://www.the-star.co.ke/news/world/2026-05-12-brother-in-kenya-for-bbc-charity-worker-inquest",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "brother",
+      "kenya",
+      "for",
+      "bbc",
+      "charity",
+      "worker",
+      "inquest"
     ]
   },
   "NGA": {
-    "risk_score": 7.14,
-    "count": 9,
-    "top_news": "https://www.thisdaylive.com/2026/05/12/jury-enters-final-stage-as-judge-sets-directions-in-diezani-alison-maduekes-trial/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://thenationonlineng.net/fg-donates-foodstuff-to-victims-of-attacks-in-plateau/",
     "event_codes": {
-      "14": 3,
-      "17": 3,
-      "19": 3
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "jury",
-      "enters",
-      "final",
-      "stage",
-      "judge",
-      "sets",
-      "directions",
-      "diezani",
-      "alison",
-      "maduekes",
-      "trial"
+      "donates",
+      "foodstuff",
+      "victims",
+      "attacks",
+      "plateau"
     ]
   },
-  "PSE": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://dunyanews.tv/en/World/951032-eu-agrees-longstalled-sanctions-on-israeli-settlers",
+  "TWN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://thelinkpaper.ca/ahead-of-trumps-beijing-visit-a-look-at-ties-between-us-china-and-taiwan/",
     "event_codes": {
-      "16": 3,
-      "18": 1
+      "19": 5
     },
     "keywords": [
-      "world",
-      "951032",
-      "agrees",
-      "longstalled",
-      "sanctions",
-      "israeli",
-      "settlers"
+      "ahead",
+      "trumps",
+      "beijing",
+      "visit",
+      "look",
+      "ties",
+      "between",
+      "china",
+      "and",
+      "taiwan"
     ]
   }
 }
