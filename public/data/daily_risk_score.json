@@ -1,50 +1,135 @@
 {
   "IRN": {
-    "risk_score": 6.3,
-    "count": 7,
-    "top_news": "https://twitchy.com/grateful-calvin/2026/05/13/break-out-the-bs-detector-chris-murphy-claims-iran-is-two-to-three-times-more-powerful-today-n2428144",
+    "risk_score": 12.0,
+    "count": 13,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768576/Israel-Netanyahu-visit-UAE-war-Iran",
     "event_codes": {
-      "19": 5,
-      "16": 1,
-      "17": 1
+      "19": 10,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "grateful",
-      "calvin",
+      "detail",
       "2026",
-      "break",
-      "out",
-      "the",
-      "detector",
-      "chris",
-      "murphy",
-      "claims",
-      "iran",
-      "two",
-      "three",
-      "times",
-      "more",
-      "powerful",
-      "today",
-      "n2428144"
+      "768576",
+      "israel",
+      "netanyahu",
+      "visit",
+      "uae",
+      "war",
+      "iran"
     ]
   },
-  "TUR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://fieldandstream.com/stories/hunting/turkey-hunting/world-record-turkeys",
+  "ISR": {
+    "risk_score": 10.8,
+    "count": 11,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/874975/us-lost-39-aircraft-and-170-drones-in-war-with-iran-as-stealth-f-35a-myth-collapses-in-bombshell-revelation",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "19": 7,
+      "18": 4
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "874975",
+      "lost",
+      "aircraft",
+      "and",
+      "170",
+      "drones",
+      "war",
+      "with",
+      "iran",
+      "stealth",
+      "35a",
+      "myth",
+      "collapses",
+      "bombshell",
+      "revelation"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768567/Iran-Araghchi-Kuwait-nationals-detention-condemnation",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "768567",
+      "iran",
+      "araghchi",
+      "kuwait",
+      "nationals",
+      "detention",
+      "condemnation"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768576/Israel-Netanyahu-visit-UAE-war-Iran",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "768576",
+      "israel",
+      "netanyahu",
+      "visit",
+      "uae",
+      "war",
+      "iran"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.sitkasentinel.com/stories/two-weeks-of-clashes-in-a-southern-sudan-region-kill-dozens-a-local-medical-group-says,140990",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "stories",
-      "hunting",
-      "turkey",
-      "hunting",
-      "world",
-      "record",
-      "turkeys"
+      "two",
+      "weeks",
+      "clashes",
+      "southern",
+      "sudan",
+      "region",
+      "kill",
+      "dozens",
+      "local",
+      "medical",
+      "group",
+      "says,140990"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768569/Yemen-warns-continued-war-on-Iran-will-burn-region-world",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "768569",
+      "yemen",
+      "warns",
+      "continued",
+      "war",
+      "iran",
+      "will",
+      "burn",
+      "region",
+      "world"
     ]
   }
 }
