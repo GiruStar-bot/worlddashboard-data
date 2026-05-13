@@ -1,83 +1,75 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://thefederalist.com/2026/05/13/the-iran-war-is-piling-up-a-list-of-surprises/",
+  "IRN": {
+    "risk_score": 5.94,
+    "count": 7,
+    "top_news": "http://www.sanantoniopost.com/news/279048351/iran-names-internet-chief-as-shutdown-reaches-75-days",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "15": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "the",
+      "news",
+      "279048351",
       "iran",
-      "war",
-      "piling",
-      "list",
-      "surprises"
+      "names",
+      "internet",
+      "chief",
+      "shutdown",
+      "reaches",
+      "days"
     ]
   },
   "ISR": {
-    "risk_score": 22.12,
-    "count": 24,
-    "top_news": "https://sana.sy/en/international/2316532/",
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2548713/mossad-shin-bet-chiefs-secretly-visited-the-uae-during-war-with-iran.html",
     "event_codes": {
-      "19": 18,
-      "16": 3,
-      "17": 2,
-      "15": 1
+      "17": 3,
+      "14": 2,
+      "19": 1
     },
     "keywords": [
-      "international",
-      "2316532"
+      "news",
+      "israel",
+      "news",
+      "2548713",
+      "mossad",
+      "shin",
+      "bet",
+      "chiefs",
+      "secretly",
+      "visited",
+      "the",
+      "uae",
+      "during",
+      "war",
+      "with",
+      "iran.html"
     ]
   },
   "NGA": {
-    "risk_score": 7.9,
-    "count": 13,
-    "top_news": "https://thesun.ng/dhq-denies-civilian-deaths-in-zamfara-airstrike/",
+    "risk_score": 22.7,
+    "count": 30,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/879187-how-military-air-strike-killed-bandits-residents-in-zamfara-sources.html",
     "event_codes": {
-      "17": 10,
-      "19": 3
+      "17": 14,
+      "19": 13,
+      "18": 3
     },
     "keywords": [
-      "dhq",
-      "denies",
-      "civilian",
-      "deaths",
+      "news",
+      "headlines",
+      "879187",
+      "how",
+      "military",
+      "air",
+      "strike",
+      "killed",
+      "bandits",
+      "residents",
       "zamfara",
-      "airstrike"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://hungarytoday.hu/eu-announces-sanctions-against-israeli-settlers-after-hungarian-veto-is-gone/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "announces",
-      "sanctions",
-      "against",
-      "israeli",
-      "settlers",
-      "after",
-      "hungarian",
-      "veto",
-      "gone"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.12,
-    "count": 6,
-    "top_news": "https://sana.sy/en/syria/2316483/",
-    "event_codes": {
-      "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "syria",
-      "2316483"
+      "sources.html"
     ]
   }
 }
