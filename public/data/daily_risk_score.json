@@ -1,106 +1,83 @@
 {
-  "CAF": {
-    "risk_score": 2.87,
-    "count": 3,
-    "top_news": "https://www.christiantoday.com/news/christians-among-main-victims-of-islamist-violence-in-eastern-drc",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thefederalist.com/2026/05/13/the-iran-war-is-piling-up-a-list-of-surprises/",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "christians",
-      "among",
-      "main",
-      "victims",
-      "islamist",
-      "violence",
-      "eastern",
-      "drc"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-mossad-chief-barnea-visited-uae-at-least-twice-during-war-with-iran-for-security-coordination-report",
-    "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "defense",
-      "artc",
-      "mossad",
-      "chief",
-      "barnea",
-      "visited",
-      "uae",
-      "least",
-      "twice",
-      "during",
-      "war",
-      "with",
-      "iran",
-      "for",
-      "security",
-      "coordination",
-      "report"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://thecitizen.com/2026/05/13/senoia-to-mark-americas-250th-anniversary-with-memorial-day-remembrance-ceremony/",
-    "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
       "2026",
-      "senoia",
-      "mark",
-      "americas",
-      "250th",
-      "anniversary",
-      "with",
-      "memorial",
-      "day",
-      "remembrance",
-      "ceremony"
+      "the",
+      "iran",
+      "war",
+      "piling",
+      "list",
+      "surprises"
     ]
   },
   "ISR": {
-    "risk_score": 8.0,
-    "count": 9,
-    "top_news": "https://ejewishphilanthropy.com/on-israels-eighth-front-rabbis-should-be-on-the-front-line/",
+    "risk_score": 22.12,
+    "count": 24,
+    "top_news": "https://sana.sy/en/international/2316532/",
     "event_codes": {
-      "19": 7,
-      "17": 2
+      "19": 18,
+      "16": 3,
+      "17": 2,
+      "15": 1
     },
     "keywords": [
-      "israels",
-      "eighth",
-      "front",
-      "rabbis",
-      "should",
-      "the",
-      "front",
-      "line"
+      "international",
+      "2316532"
     ]
   },
   "NGA": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://allafrica.com/stories/202605130114.html",
+    "risk_score": 7.9,
+    "count": 13,
+    "top_news": "https://thesun.ng/dhq-denies-civilian-deaths-in-zamfara-airstrike/",
     "event_codes": {
-      "19": 8,
-      "17": 1,
-      "18": 1
+      "17": 10,
+      "19": 3
     },
     "keywords": [
-      "stories",
-      "202605130114.html"
+      "dhq",
+      "denies",
+      "civilian",
+      "deaths",
+      "zamfara",
+      "airstrike"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://hungarytoday.hu/eu-announces-sanctions-against-israeli-settlers-after-hungarian-veto-is-gone/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "announces",
+      "sanctions",
+      "against",
+      "israeli",
+      "settlers",
+      "after",
+      "hungarian",
+      "veto",
+      "gone"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.12,
+    "count": 6,
+    "top_news": "https://sana.sy/en/syria/2316483/",
+    "event_codes": {
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "syria",
+      "2316483"
     ]
   }
 }
