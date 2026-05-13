@@ -1,68 +1,106 @@
 {
-  "IRN": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.dailypress.net/opinion/editorial/2026/05/iran-thinks-trump-is-bluffing-can-outlast-him/",
+  "CAF": {
+    "risk_score": 2.87,
+    "count": 3,
+    "top_news": "https://www.christiantoday.com/news/christians-among-main-victims-of-islamist-violence-in-eastern-drc",
     "event_codes": {
-      "19": 3,
-      "16": 1,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "opinion",
-      "editorial",
-      "2026",
+      "news",
+      "christians",
+      "among",
+      "main",
+      "victims",
+      "islamist",
+      "violence",
+      "eastern",
+      "drc"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-mossad-chief-barnea-visited-uae-at-least-twice-during-war-with-iran-for-security-coordination-report",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "defense",
+      "artc",
+      "mossad",
+      "chief",
+      "barnea",
+      "visited",
+      "uae",
+      "least",
+      "twice",
+      "during",
+      "war",
+      "with",
       "iran",
-      "thinks",
-      "trump",
-      "bluffing",
-      "can",
-      "outlast",
-      "him"
+      "for",
+      "security",
+      "coordination",
+      "report"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://thecitizen.com/2026/05/13/senoia-to-mark-americas-250th-anniversary-with-memorial-day-remembrance-ceremony/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "senoia",
+      "mark",
+      "americas",
+      "250th",
+      "anniversary",
+      "with",
+      "memorial",
+      "day",
+      "remembrance",
+      "ceremony"
     ]
   },
   "ISR": {
-    "risk_score": 7.05,
-    "count": 8,
-    "top_news": "https://www.lewrockwell.com/2026/05/no_author/israel-accuses-the-new-york-times-of-antisemitic-journalism/",
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://ejewishphilanthropy.com/on-israels-eighth-front-rabbis-should-be-on-the-front-line/",
     "event_codes": {
-      "18": 5,
-      "16": 2,
-      "19": 1
+      "19": 7,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "author",
-      "israel",
-      "accuses",
+      "israels",
+      "eighth",
+      "front",
+      "rabbis",
+      "should",
       "the",
-      "new",
-      "york",
-      "times",
-      "antisemitic",
-      "journalism"
+      "front",
+      "line"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thecable.ng/how-saudi-arabia-uae-secretly-attacked-iran-during-gulf-war-despite-denials/",
+  "NGA": {
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://allafrica.com/stories/202605130114.html",
     "event_codes": {
-      "19": 2
+      "19": 8,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "how",
-      "saudi",
-      "arabia",
-      "uae",
-      "secretly",
-      "attacked",
-      "iran",
-      "during",
-      "gulf",
-      "war",
-      "despite",
-      "denials"
+      "stories",
+      "202605130114.html"
     ]
   }
 }
