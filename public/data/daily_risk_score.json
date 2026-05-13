@@ -1,57 +1,68 @@
 {
   "IRN": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.thenationalnews.com/news/us/2026/05/12/trump-pakistan-mediation-iran-graham/",
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.dailypress.net/opinion/editorial/2026/05/iran-thinks-trump-is-bluffing-can-outlast-him/",
     "event_codes": {
-      "16": 2,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "trump",
-      "pakistan",
-      "mediation",
-      "iran",
-      "graham"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.yasstribune.com.au/story/9245916/herzog-protesters-in-limbo-due-to-unconstitutional-laws/",
-    "event_codes": {
-      "19": 2,
+      "19": 3,
       "16": 1,
       "17": 1
     },
     "keywords": [
-      "story",
-      "9245916",
-      "herzog",
-      "protesters",
-      "limbo",
-      "due",
-      "unconstitutional",
-      "laws"
+      "opinion",
+      "editorial",
+      "2026",
+      "iran",
+      "thinks",
+      "trump",
+      "bluffing",
+      "can",
+      "outlast",
+      "him"
     ]
   },
-  "SYR": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/Two%20paramedics%20and%20soldier%20among%2015%20killed%20in%20Israeli%20strikes%20in%20Lebanon",
+  "ISR": {
+    "risk_score": 7.05,
+    "count": 8,
+    "top_news": "https://www.lewrockwell.com/2026/05/no_author/israel-accuses-the-new-york-times-of-antisemitic-journalism/",
     "event_codes": {
-      "17": 5,
+      "18": 5,
+      "16": 2,
       "19": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "two%20paramedics%20and%20soldier%20among%2015%20killed%20in%20israeli%20strikes%20in%20lebanon"
+      "2026",
+      "author",
+      "israel",
+      "accuses",
+      "the",
+      "new",
+      "york",
+      "times",
+      "antisemitic",
+      "journalism"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thecable.ng/how-saudi-arabia-uae-secretly-attacked-iran-during-gulf-war-despite-denials/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "how",
+      "saudi",
+      "arabia",
+      "uae",
+      "secretly",
+      "attacked",
+      "iran",
+      "during",
+      "gulf",
+      "war",
+      "despite",
+      "denials"
     ]
   }
 }
