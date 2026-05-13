@@ -1,75 +1,162 @@
 {
-  "IRN": {
-    "risk_score": 5.94,
-    "count": 7,
-    "top_news": "http://www.sanantoniopost.com/news/279048351/iran-names-internet-chief-as-shutdown-reaches-75-days",
+  "BHR": {
+    "risk_score": 5.8,
+    "count": 8,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768564/Bahraini-protesters-Manama-crackdown-campaign-sympathizing-with-Iran",
     "event_codes": {
-      "19": 4,
-      "15": 2,
-      "17": 1
+      "17": 6,
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "768564",
+      "bahraini",
+      "protesters",
+      "manama",
+      "crackdown",
+      "campaign",
+      "sympathizing",
+      "with",
+      "iran"
+    ]
+  },
+  "CHL": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://news.webindia123.com/news/Articles/Business/20260513/4449838.html",
+    "event_codes": {
+      "16": 4
     },
     "keywords": [
       "news",
-      "279048351",
-      "iran",
-      "names",
-      "internet",
+      "articles",
+      "business",
+      "20260513",
+      "4449838.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768553/Mossad-chief-made-secret-UAE-visits-to-coordinate-attacks-on-Iran--Report",
+    "event_codes": {
+      "18": 3,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "768553",
+      "mossad",
       "chief",
-      "shutdown",
-      "reaches",
-      "days"
+      "made",
+      "secret",
+      "uae",
+      "visits",
+      "coordinate",
+      "attacks",
+      "iran",
+      "report"
     ]
   },
   "ISR": {
-    "risk_score": 3.8,
-    "count": 6,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2548713/mossad-shin-bet-chiefs-secretly-visited-the-uae-during-war-with-iran.html",
+    "risk_score": 9.35,
+    "count": 12,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768561/Israel-concedes-Hezbollah-s-drones-are-outmaneuvering-its-military-",
     "event_codes": {
+      "14": 3,
       "17": 3,
-      "14": 2,
-      "19": 1
+      "16": 2,
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "news",
+      "detail",
+      "2026",
+      "768561",
       "israel",
-      "news",
-      "2548713",
-      "mossad",
-      "shin",
-      "bet",
-      "chiefs",
-      "secretly",
-      "visited",
-      "the",
-      "uae",
-      "during",
-      "war",
-      "with",
-      "iran.html"
+      "concedes",
+      "hezbollah",
+      "drones",
+      "are",
+      "outmaneuvering",
+      "its",
+      "military"
+    ]
+  },
+  "KHM": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://phnompenhpost.com/national/thai-troops-open-fire-on-cambodian-civilians-after-countless-attempts-to-provoke-clash/",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "national",
+      "thai",
+      "troops",
+      "open",
+      "fire",
+      "cambodian",
+      "civilians",
+      "after",
+      "countless",
+      "attempts",
+      "provoke",
+      "clash"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/article-896086",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "896086"
     ]
   },
   "NGA": {
-    "risk_score": 22.7,
-    "count": 30,
-    "top_news": "https://www.premiumtimesng.com/news/headlines/879187-how-military-air-strike-killed-bandits-residents-in-zamfara-sources.html",
+    "risk_score": 3.92,
+    "count": 7,
+    "top_news": "https://dailypost.ng/2026/05/13/lasema-nnpcl-begin-probe-into-lagos-gas-pipeline-fire/",
     "event_codes": {
-      "17": 14,
-      "19": 13,
-      "18": 3
+      "17": 7
     },
     "keywords": [
+      "2026",
+      "lasema",
+      "nnpcl",
+      "begin",
+      "probe",
+      "into",
+      "lagos",
+      "gas",
+      "pipeline",
+      "fire"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-896093",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
       "news",
-      "headlines",
-      "879187",
-      "how",
-      "military",
-      "air",
-      "strike",
-      "killed",
-      "bandits",
-      "residents",
-      "zamfara",
-      "sources.html"
+      "article",
+      "896093"
     ]
   }
 }
