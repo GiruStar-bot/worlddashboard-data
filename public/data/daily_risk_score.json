@@ -1,135 +1,58 @@
 {
-  "IRN": {
-    "risk_score": 12.0,
-    "count": 13,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768576/Israel-Netanyahu-visit-UAE-war-Iran",
-    "event_codes": {
-      "19": 10,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "768576",
-      "israel",
-      "netanyahu",
-      "visit",
-      "uae",
-      "war",
-      "iran"
-    ]
-  },
   "ISR": {
-    "risk_score": 10.8,
-    "count": 11,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/874975/us-lost-39-aircraft-and-170-drones-in-war-with-iran-as-stealth-f-35a-myth-collapses-in-bombshell-revelation",
+    "risk_score": 4.25,
+    "count": 5,
+    "top_news": "https://aa.com.tr/en/middle-east/yemen-s-houthis-warn-renewed-war-on-iran-would-hit-everyone-/3936746",
     "event_codes": {
-      "19": 7,
-      "18": 4
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "874975",
-      "lost",
-      "aircraft",
-      "and",
-      "170",
-      "drones",
-      "war",
-      "with",
-      "iran",
-      "stealth",
-      "35a",
-      "myth",
-      "collapses",
-      "bombshell",
-      "revelation"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768567/Iran-Araghchi-Kuwait-nationals-detention-condemnation",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "768567",
-      "iran",
-      "araghchi",
-      "kuwait",
-      "nationals",
-      "detention",
-      "condemnation"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768576/Israel-Netanyahu-visit-UAE-war-Iran",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "768576",
-      "israel",
-      "netanyahu",
-      "visit",
-      "uae",
-      "war",
-      "iran"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.sitkasentinel.com/stories/two-weeks-of-clashes-in-a-southern-sudan-region-kill-dozens-a-local-medical-group-says,140990",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "stories",
-      "two",
-      "weeks",
-      "clashes",
-      "southern",
-      "sudan",
-      "region",
-      "kill",
-      "dozens",
-      "local",
-      "medical",
-      "group",
-      "says,140990"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/13/768569/Yemen-warns-continued-war-on-Iran-will-burn-region-world",
-    "event_codes": {
-      "18": 1,
+      "18": 3,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "768569",
+      "middle",
+      "east",
       "yemen",
-      "warns",
-      "continued",
+      "houthis",
+      "warn",
+      "renewed",
       "war",
       "iran",
-      "will",
-      "burn",
-      "region",
-      "world"
+      "would",
+      "hit",
+      "everyone",
+      "3936746"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bbc.com/news/articles/c9d3g6deljyo",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "c9d3g6deljyo"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://finance.yahoo.com/sectors/energy/articles/trump-ceasefire-warning-sends-oil-160100130.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "sectors",
+      "energy",
+      "articles",
+      "trump",
+      "ceasefire",
+      "warning",
+      "sends",
+      "oil",
+      "160100130.html"
     ]
   }
 }
