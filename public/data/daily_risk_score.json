@@ -1,55 +1,58 @@
 {
   "IRN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/flashes/685519",
+    "risk_score": 3.6,
+    "count": 5,
+    "top_news": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2827350-iran-s-kharg-island-loads-1st-tanker-in-a-week",
     "event_codes": {
-      "17": 3,
+      "17": 2,
+      "14": 1,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "flashes",
-      "685519"
+      "news",
+      "and",
+      "insights",
+      "latest",
+      "market",
+      "news",
+      "2827350",
+      "iran",
+      "kharg",
+      "island",
+      "loads",
+      "1st",
+      "tanker",
+      "week"
     ]
   },
   "ISR": {
-    "risk_score": 4.35,
-    "count": 6,
-    "top_news": "https://www.hollywoodreporter.com/business/business-news/israel-lawsuit-new-york-times-op-ed-1236595987/",
+    "risk_score": 13.97,
+    "count": 15,
+    "top_news": "https://www.gdnonline.com:443/Details/1394784",
     "event_codes": {
-      "18": 3,
-      "17": 2,
-      "14": 1
+      "19": 9,
+      "16": 3,
+      "14": 1,
+      "17": 1,
+      "20": 1
     },
     "keywords": [
-      "business",
-      "business",
-      "news",
-      "israel",
-      "lawsuit",
-      "new",
-      "york",
-      "times",
-      "1236595987"
+      "details",
+      "1394784"
     ]
   },
-  "TWN": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://eturbonews.com/china-and-taiwan-discuss-tourism-food-safety-issues/",
+  "LBN": {
+    "risk_score": 5.34,
+    "count": 6,
+    "top_news": "https://www.gdnonline.com:443/Details/1394784",
     "event_codes": {
-      "14": 2,
-      "17": 2
+      "17": 3,
+      "19": 3
     },
     "keywords": [
-      "china",
-      "and",
-      "taiwan",
-      "discuss",
-      "tourism",
-      "food",
-      "safety",
-      "issues"
+      "details",
+      "1394784"
     ]
   }
 }
