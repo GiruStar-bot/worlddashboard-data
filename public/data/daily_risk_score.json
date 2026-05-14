@@ -1,54 +1,124 @@
 {
-  "ISR": {
-    "risk_score": 11.7,
-    "count": 14,
-    "top_news": "https://www.theamericanconservative.com/the-american-passionate-attachment-to-israel/",
+  "IRN": {
+    "risk_score": 6.52,
+    "count": 8,
+    "top_news": "https://www.channelnewsasia.com/world/lebanon-israel-new-talks-us-ceasefire-nears-end-6121166",
     "event_codes": {
-      "16": 4,
       "19": 4,
       "17": 2,
-      "18": 2,
-      "20": 2
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "the",
-      "american",
-      "passionate",
-      "attachment",
-      "israel"
+      "world",
+      "lebanon",
+      "israel",
+      "new",
+      "talks",
+      "ceasefire",
+      "nears",
+      "end",
+      "6121166"
     ]
   },
-  "KEN": {
-    "risk_score": 2.5,
+  "IRQ": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://allafrica.com/stories/202605140090.html",
+    "top_news": "https://www.middleeastmonitor.com/20260514-why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi/",
     "event_codes": {
-      "19": 2,
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "20260514",
+      "why",
+      "trump",
+      "decided",
+      "back",
+      "iraqs",
+      "prime",
+      "minister",
+      "designate",
+      "ali",
+      "zaidi"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.85,
+    "count": 11,
+    "top_news": "https://www.arabnews.com/node/2643542/middle-east",
+    "event_codes": {
+      "18": 4,
+      "19": 4,
+      "16": 2,
       "17": 1
     },
     "keywords": [
-      "stories",
-      "202605140090.html"
+      "node",
+      "2643542",
+      "middle",
+      "east"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.channelnewsasia.com/world/lebanon-israel-new-talks-us-ceasefire-nears-end-6121166",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "lebanon",
+      "israel",
+      "new",
+      "talks",
+      "ceasefire",
+      "nears",
+      "end",
+      "6121166"
+    ]
+  },
+  "LBY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5273061-100-days-after-his-assassination-public-pressure-mounts-reveal-killers-saif-al",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5273061",
+      "100",
+      "days",
+      "after",
+      "his",
+      "assassination",
+      "public",
+      "pressure",
+      "mounts",
+      "reveal",
+      "killers",
+      "saif"
     ]
   },
   "NGA": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://quicknews-africa.net/police-foundation-unveil-laboratory-to-combat-gender-violence-in-rivers/",
+    "count": 6,
+    "top_news": "https://punchng.com/nigerian-professor-jailed-70-months-in-us-for-1-4m-fraud/",
     "event_codes": {
-      "19": 2,
-      "14": 1,
-      "16": 1
+      "17": 6
     },
     "keywords": [
-      "police",
-      "foundation",
-      "unveil",
-      "laboratory",
-      "combat",
-      "gender",
-      "violence",
-      "rivers"
+      "nigerian",
+      "professor",
+      "jailed",
+      "months",
+      "for",
+      "fraud"
     ]
   }
 }
