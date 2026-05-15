@@ -1,69 +1,67 @@
 {
-  "ISR": {
-    "risk_score": 14.05,
-    "count": 15,
-    "top_news": "https://www.kalw.org/show/your-call/2026-05-15/amid-ceasefire-israel-intensifies-attacks-across-lebanon-and-gaza",
+  "IRN": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.dailymail.com/media/article-15821141/saturday-night-live-snl-colin-jost-pete-hegseth-pulp-fiction-speech.html",
     "event_codes": {
-      "19": 10,
-      "18": 4,
+      "19": 6,
       "17": 1
     },
     "keywords": [
-      "show",
-      "your",
-      "call",
-      "2026",
-      "amid",
-      "ceasefire",
-      "israel",
-      "intensifies",
-      "attacks",
-      "across",
-      "lebanon",
-      "and",
-      "gaza"
+      "media",
+      "article",
+      "15821141",
+      "saturday",
+      "night",
+      "live",
+      "snl",
+      "colin",
+      "jost",
+      "pete",
+      "hegseth",
+      "pulp",
+      "fiction",
+      "speech.html"
     ]
   },
-  "PSE": {
-    "risk_score": 3.76,
-    "count": 4,
-    "top_news": "http://dailyexpress.com.my/news/281164/subjected-to-sexual-violence-beatings-dragging-handcuffing-blindfolding-flotilla-activists-allege-severe-abuse/",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "281164",
-      "subjected",
-      "sexual",
-      "violence",
-      "beatings",
-      "dragging",
-      "handcuffing",
-      "blindfolding",
-      "flotilla",
-      "activists",
-      "allege",
-      "severe",
-      "abuse"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.0,
+  "ISR": {
+    "risk_score": 7.85,
     "count": 8,
-    "top_news": "https://www.yahoo.com/news/articles/turkish-opposition-politician-jailed-46-182337081.html",
+    "top_news": "https://carnegieendowment.org/middle-east/diwan/2026/05/a-geographic-and-social-reconfiguration-in-lebanon",
     "event_codes": {
-      "17": 8
+      "19": 7,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "turkish",
-      "opposition",
-      "politician",
-      "jailed",
-      "182337081.html"
+      "middle",
+      "east",
+      "diwan",
+      "2026",
+      "geographic",
+      "and",
+      "social",
+      "reconfiguration",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israel",
+      "lebanon",
+      "agree",
+      "extend",
+      "truce",
+      "says",
+      "live",
+      "77167235"
     ]
   }
 }
