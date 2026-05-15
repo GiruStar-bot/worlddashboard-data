@@ -1,67 +1,91 @@
 {
-  "IRN": {
-    "risk_score": 6.4,
+  "IRQ": {
+    "risk_score": 5.65,
     "count": 7,
-    "top_news": "https://www.dailymail.com/media/article-15821141/saturday-night-live-snl-colin-jost-pete-hegseth-pulp-fiction-speech.html",
+    "top_news": "https://www.unionleader.com/news/politics/state/1st-cd-dems-agree-on-much-during-manchester-forum/article_931978ec-027b-45ff-8d46-6d2edb257af1.html",
     "event_codes": {
-      "19": 6,
-      "17": 1
+      "19": 4,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "media",
+      "news",
+      "politics",
+      "state",
+      "1st",
+      "dems",
+      "agree",
+      "much",
+      "during",
+      "manchester",
+      "forum",
       "article",
-      "15821141",
-      "saturday",
-      "night",
-      "live",
-      "snl",
-      "colin",
-      "jost",
-      "pete",
-      "hegseth",
-      "pulp",
-      "fiction",
-      "speech.html"
+      "931978ec",
+      "027b",
+      "45ff",
+      "8d46",
+      "6d2edb257af1.html"
     ]
   },
   "ISR": {
-    "risk_score": 7.85,
-    "count": 8,
-    "top_news": "https://carnegieendowment.org/middle-east/diwan/2026/05/a-geographic-and-social-reconfiguration-in-lebanon",
+    "risk_score": 7.4,
+    "count": 10,
+    "top_news": "https://www.unionleader.com/news/politics/state/1st-cd-dems-agree-on-much-during-manchester-forum/article_931978ec-027b-45ff-8d46-6d2edb257af1.html",
     "event_codes": {
-      "19": 7,
+      "17": 3,
+      "14": 2,
+      "18": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "state",
+      "1st",
+      "dems",
+      "agree",
+      "much",
+      "during",
+      "manchester",
+      "forum",
+      "article",
+      "931978ec",
+      "027b",
+      "45ff",
+      "8d46",
+      "6d2edb257af1.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2643733/middle-east",
+    "event_codes": {
+      "19": 2,
+      "16": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
+      "node",
+      "2643733",
       "middle",
-      "east",
-      "diwan",
-      "2026",
-      "geographic",
-      "and",
-      "social",
-      "reconfiguration",
-      "lebanon"
+      "east"
     ]
   },
-  "LBN": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235",
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2643735/middle-east",
     "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
+      "node",
+      "2643735",
       "middle",
-      "east",
-      "israel",
-      "lebanon",
-      "agree",
-      "extend",
-      "truce",
-      "says",
-      "live",
-      "77167235"
+      "east"
     ]
   }
 }
