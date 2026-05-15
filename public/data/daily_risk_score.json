@@ -1,49 +1,88 @@
 {
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cbsnews.com/news/ebola-congo-dozens-dead-hundreds-more-possible-cases/",
+  "COD": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4379326",
     "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "tag",
+      "index"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-xi-china-ships-strait-war-powers-vote.html",
+    "event_codes": {
+      "19": 6,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "trump",
+      "china",
+      "ships",
+      "strait",
+      "war",
+      "powers",
+      "vote.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.24,
+    "count": 8,
+    "top_news": "https://www.nakedcapitalism.com/2026/05/links-5-15-2026.html",
+    "event_codes": {
+      "18": 3,
+      "17": 2,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "links",
+      "2026.html"
+    ]
+  },
+  "KHM": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://english.news.cn/asiapacific/20260515/4fc9bf81b45d4067bd2812c79fc5df57/c.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "asiapacific",
+      "20260515",
+      "4fc9bf81b45d4067bd2812c79fc5df57",
+      "c.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.42,
+    "count": 4,
+    "top_news": "https://www.theborneopost.com/2026/05/15/23-charged-in-kuching-over-alleged-geng-24-hung-hung-organised-crime-links/",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "ebola",
-      "congo",
-      "dozens",
-      "dead",
-      "hundreds",
-      "more",
-      "possible",
-      "cases"
-    ]
-  },
-  "MMR": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.moneycontrol.com/city/fresh-conflict-in-manipur-how-a-drunken-brawl-in-ukhrul-lit-new-fire-between-naga-and-kuki-article-13920356.html",
-    "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "city",
-      "fresh",
-      "conflict",
-      "manipur",
-      "how",
-      "drunken",
-      "brawl",
-      "ukhrul",
-      "lit",
-      "new",
-      "fire",
-      "between",
-      "naga",
-      "and",
-      "kuki",
-      "article",
-      "13920356.html"
+      "2026",
+      "charged",
+      "kuching",
+      "over",
+      "alleged",
+      "geng",
+      "hung",
+      "hung",
+      "organised",
+      "crime",
+      "links"
     ]
   }
 }
