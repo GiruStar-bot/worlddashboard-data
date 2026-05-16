@@ -1,48 +1,89 @@
 {
-  "ISR": {
-    "risk_score": 7.0,
-    "count": 10,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/there-little-which-jewish-about-israel-haim-bresheeth-antisemitism-and",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/05/16/world-news/pentagon-making-plans-for-more-punishing-strikes-in-iran/",
     "event_codes": {
-      "17": 5,
-      "14": 2,
-      "19": 2,
-      "20": 1
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "there",
-      "little",
-      "which",
-      "jewish",
-      "about",
-      "israel",
-      "haim",
-      "bresheeth",
-      "antisemitism",
-      "and"
-    ]
-  },
-  "NGA": {
-    "risk_score": 13.6,
-    "count": 17,
-    "top_news": "https://www.nigerianeye.com/2026/05/chaos-at-apc-primaries-violent-clashes.html",
-    "event_codes": {
-      "19": 8,
-      "15": 5,
-      "17": 4
+      "19": 3
     },
     "keywords": [
       "2026",
-      "chaos",
-      "apc",
-      "primaries",
-      "violent",
-      "clashes.html"
+      "world",
+      "news",
+      "pentagon",
+      "making",
+      "plans",
+      "for",
+      "more",
+      "punishing",
+      "strikes",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.2,
+    "count": 12,
+    "top_news": "http://www.bignewsnetwork.com/news/279055507/israeli-military-says-strikes-100-hezbollah-targets-across-s-lebanon",
+    "event_codes": {
+      "19": 8,
+      "14": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "279055507",
+      "israeli",
+      "military",
+      "says",
+      "strikes",
+      "100",
+      "hezbollah",
+      "targets",
+      "across",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "http://www.bignewsnetwork.com/news/279055507/israeli-military-says-strikes-100-hezbollah-targets-across-s-lebanon",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "279055507",
+      "israeli",
+      "military",
+      "says",
+      "strikes",
+      "100",
+      "hezbollah",
+      "targets",
+      "across",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 18.4,
+    "count": 20,
+    "top_news": "https://www.thecable.ng/police-17-officers-killed-in-terrorist-attack-on-yobe-military-base/",
+    "event_codes": {
+      "19": 13,
+      "15": 3,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "police",
+      "officers",
+      "killed",
+      "terrorist",
+      "attack",
+      "yobe",
+      "military",
+      "base"
     ]
   }
 }
