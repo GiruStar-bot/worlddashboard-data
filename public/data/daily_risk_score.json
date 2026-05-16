@@ -1,81 +1,64 @@
 {
+  "IRN": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.bankingnews.gr/energeia/articles/875545/inevitability-of-an-energy-shock-trump-will-lift-sanctions-on-chinese-firms-to-avoid-a-price-spike-the-deal-with-xi",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "energeia",
+      "articles",
+      "875545",
+      "inevitability",
+      "energy",
+      "shock",
+      "trump",
+      "will",
+      "lift",
+      "sanctions",
+      "chinese",
+      "firms",
+      "avoid",
+      "price",
+      "spike",
+      "the",
+      "deal",
+      "with"
+    ]
+  },
   "ISR": {
-    "risk_score": 11.15,
-    "count": 14,
-    "top_news": "https://www.jwire.com.au/israel-kills-top-hamas-military-commander-in-gaza-city-strike/",
-    "event_codes": {
-      "19": 4,
-      "14": 3,
-      "17": 3,
-      "18": 3,
-      "20": 1
-    },
-    "keywords": [
-      "israel",
-      "kills",
-      "top",
-      "hamas",
-      "military",
-      "commander",
-      "gaza",
-      "city",
-      "strike"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "http://www.bignewsnetwork.com/news/279055266/trump-claims-top-isis-commander-killed",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "279055266",
-      "trump",
-      "claims",
-      "top",
-      "isis",
-      "commander",
-      "killed"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.0,
+    "risk_score": 3.3,
     "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/279055266/trump-claims-top-isis-commander-killed",
+    "top_news": "https://www.ynetnews.com/article/ryqpr2r1mx",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "279055266",
-      "trump",
-      "claims",
-      "top",
-      "isis",
-      "commander",
-      "killed"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://eturbonews.com/guests-are-winners-gm-and-chef-battle-it-out-centara-ras-fushi-r/",
-    "event_codes": {
+      "14": 2,
       "19": 2
     },
     "keywords": [
-      "guests",
-      "are",
-      "winners",
-      "and",
-      "chef",
-      "battle",
-      "out",
-      "centara",
-      "ras",
-      "fushi"
+      "article",
+      "ryqpr2r1mx"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.62,
+    "count": 7,
+    "top_news": "https://www.khaama.com/armed-men-kidnap-dozens-of-schoolchildren-in-nigerias-borno-state-attack/",
+    "event_codes": {
+      "17": 3,
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "armed",
+      "men",
+      "kidnap",
+      "dozens",
+      "schoolchildren",
+      "nigerias",
+      "borno",
+      "state",
+      "attack"
     ]
   }
 }
