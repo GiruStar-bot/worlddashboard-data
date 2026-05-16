@@ -1,138 +1,142 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.newstribune.com/news/2026/may/16/coast-guard-seizes-8000-pounds-of-cocaine/",
+  "IDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://en.tempo.co/read/2103869/prabowo-cites-collusion-between-authorities-and-capitalists-in-the-marsinah-case",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "2026",
-      "may",
-      "coast",
-      "guard",
-      "seizes",
-      "8000",
-      "pounds",
-      "cocaine"
+      "read",
+      "2103869",
+      "prabowo",
+      "cites",
+      "collusion",
+      "between",
+      "authorities",
+      "and",
+      "capitalists",
+      "the",
+      "marsinah",
+      "case"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://en.tempo.co/read/2103859/fact-check-are-downpours-in-iran-tied-to-damaged-us-radar-systems",
+    "event_codes": {
+      "19": 5,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "read",
+      "2103859",
+      "fact",
+      "check",
+      "are",
+      "downpours",
+      "iran",
+      "tied",
+      "damaged",
+      "radar",
+      "systems"
     ]
   },
   "ISR": {
-    "risk_score": 17.31,
-    "count": 20,
-    "top_news": "https://www.middleeasteye.net/news/there-little-which-jewish-about-israel-haim-bresheeth-antisemitism-and-gaza",
+    "risk_score": 25.78,
+    "count": 32,
+    "top_news": "https://en.tempo.co/read/2103875/israeli-occupiers-burn-mosque-and-vandalize-palestinian-homes-in-west-bank",
     "event_codes": {
-      "17": 7,
-      "19": 6,
-      "18": 4,
-      "20": 2,
-      "16": 1
+      "19": 13,
+      "17": 12,
+      "18": 5,
+      "15": 2
     },
     "keywords": [
-      "news",
-      "there",
-      "little",
-      "which",
-      "jewish",
-      "about",
-      "israel",
-      "haim",
-      "bresheeth",
-      "antisemitism",
+      "read",
+      "2103875",
+      "israeli",
+      "occupiers",
+      "burn",
+      "mosque",
       "and",
-      "gaza"
+      "vandalize",
+      "palestinian",
+      "homes",
+      "west",
+      "bank"
     ]
   },
-  "LBY": {
+  "MLI": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.standardmedia.co.ke/africa/article/2001547973/trump-nigeria-claim-killing-of-senior-is-leader",
+    "top_news": "https://www.africa-newsroom.com/press/mali-group-for-the-support-of-islam-and-muslims-gsim-must-observe-international-humanitarian-law-and-ensure-safety-of-civilians-as-bamako-is-under-siege",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "africa",
-      "article",
-      "2001547973",
-      "trump",
-      "nigeria",
-      "claim",
-      "killing",
-      "senior",
-      "leader"
+      "press",
+      "mali",
+      "group",
+      "for",
+      "the",
+      "support",
+      "islam",
+      "and",
+      "muslims",
+      "gsim",
+      "must",
+      "observe",
+      "international",
+      "humanitarian",
+      "law",
+      "and",
+      "ensure",
+      "safety",
+      "civilians",
+      "bamako",
+      "under",
+      "siege"
     ]
   },
   "NGA": {
-    "risk_score": 17.0,
-    "count": 17,
-    "top_news": "https://english.aawsat.com/world/5273740-nigeria-confirms-killing-senior-isis-leader-joint-us-operation",
+    "risk_score": 12.44,
+    "count": 16,
+    "top_news": "https://www.prokerala.com/news/articles/a1763634.html",
     "event_codes": {
-      "19": 17
+      "19": 8,
+      "17": 6,
+      "15": 2
     },
     "keywords": [
-      "world",
-      "5273740",
-      "nigeria",
-      "confirms",
-      "killing",
-      "senior",
-      "isis",
-      "leader",
-      "joint",
-      "operation"
+      "news",
+      "articles",
+      "a1763634.html"
     ]
   },
   "PSE": {
-    "risk_score": 3.77,
-    "count": 4,
-    "top_news": "https://www.africanews.com/2026/05/16/new-land-based-humanitarian-aid-convoy-sets-off-from-libya-for-gaza-strip/",
+    "risk_score": 4.9,
+    "count": 6,
+    "top_news": "https://en.tempo.co/read/2103875/israeli-occupiers-burn-mosque-and-vandalize-palestinian-homes-in-west-bank",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "new",
-      "land",
-      "based",
-      "humanitarian",
-      "aid",
-      "convoy",
-      "sets",
-      "off",
-      "from",
-      "libya",
-      "for",
-      "gaza",
-      "strip"
-    ]
-  },
-  "SOM": {
-    "risk_score": 8.85,
-    "count": 10,
-    "top_news": "https://wardheernews.com/from-protest-to-liberation-how-digital-platforms-transformed-the-ssc-community-struggle-for-self-determination/",
-    "event_codes": {
-      "19": 8,
-      "14": 1,
-      "17": 1
-    },
-    "keywords": [
-      "from",
-      "protest",
-      "liberation",
-      "how",
-      "digital",
-      "platforms",
-      "transformed",
-      "the",
-      "ssc",
-      "community",
-      "struggle",
-      "for",
-      "self",
-      "determination"
+      "read",
+      "2103875",
+      "israeli",
+      "occupiers",
+      "burn",
+      "mosque",
+      "and",
+      "vandalize",
+      "palestinian",
+      "homes",
+      "west",
+      "bank"
     ]
   }
 }
