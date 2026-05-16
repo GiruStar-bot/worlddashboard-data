@@ -1,54 +1,74 @@
 {
-  "ISR": {
-    "risk_score": 11.8,
-    "count": 15,
-    "top_news": "https://www.nzherald.co.nz/world/israel-kills-hamas-military-chief-who-planned-october-7/BA3HBP3PQZDK7HJXJ6DSKT5OFQ/",
+  "IRN": {
+    "risk_score": 7.8,
+    "count": 9,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/massive-d-c-demonstration-declares-mullahs-face-terminal-impasse-as-resistance-units-surge-inside-iran/",
     "event_codes": {
-      "18": 5,
-      "17": 4,
       "19": 4,
-      "14": 2
+      "14": 2,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "israel",
-      "kills",
-      "hamas",
-      "military",
-      "chief",
-      "who",
-      "planned",
-      "october",
-      "ba3hbp3pqzdk7hjxj6dskt5ofq"
+      "news",
+      "iran",
+      "resistance",
+      "massive",
+      "demonstration",
+      "declares",
+      "mullahs",
+      "face",
+      "terminal",
+      "impasse",
+      "resistance",
+      "units",
+      "surge",
+      "inside",
+      "iran"
     ]
   },
-  "LBN": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://sana.sy/en/international/2317215/",
+    "top_news": "https://www.the-independent.com/news/world/americas/crime/iraqi-man-smiles-nyc-synagogue-attack-plot-b2977986.html",
     "event_codes": {
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "international",
-      "2317215"
+      "news",
+      "world",
+      "americas",
+      "crime",
+      "iraqi",
+      "man",
+      "smiles",
+      "nyc",
+      "synagogue",
+      "attack",
+      "plot",
+      "b2977986.html"
     ]
   },
-  "NGA": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://www.informationng.com/2026/05/isaac-fayose-loses-wife.html",
+  "ISR": {
+    "risk_score": 9.55,
+    "count": 11,
+    "top_news": "https://www.odt.co.nz/news/world/head-hamas-military-wing-killed-israeli-strike",
     "event_codes": {
-      "19": 5,
-      "17": 1,
-      "18": 1
+      "19": 6,
+      "14": 2,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "isaac",
-      "fayose",
-      "loses",
-      "wife.html"
+      "news",
+      "world",
+      "head",
+      "hamas",
+      "military",
+      "wing",
+      "killed",
+      "israeli",
+      "strike"
     ]
   }
 }
