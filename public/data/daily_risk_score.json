@@ -1,135 +1,138 @@
 {
-  "BRA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/latin-america-defense-monitor-may-215-2026/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "latin",
-      "america",
-      "defense",
-      "monitor",
-      "may",
-      "215",
-      "2026"
-    ]
-  },
-  "CHL": {
+  "COL": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.riotimesonline.com/latin-america-defense-monitor-may-215-2026/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "latin",
-      "america",
-      "defense",
-      "monitor",
-      "may",
-      "215",
-      "2026"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.okaz.com.sa/variety/na/2248891",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "variety",
-      "2248891"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.greenleft.org.au/2026/1453/world/israel-intensifies-genocide-gaza-steps-violence-west-bank",
-    "event_codes": {
-      "19": 2,
-      "20": 2
-    },
-    "keywords": [
-      "2026",
-      "1453",
-      "world",
-      "israel",
-      "intensifies",
-      "genocide",
-      "gaza",
-      "steps",
-      "violence",
-      "west",
-      "bank"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.greenleft.org.au/2026/1453/world/israel-intensifies-genocide-gaza-steps-violence-west-bank",
+    "top_news": "https://www.newstribune.com/news/2026/may/16/coast-guard-seizes-8000-pounds-of-cocaine/",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "1453",
-      "world",
-      "israel",
-      "intensifies",
-      "genocide",
-      "gaza",
-      "steps",
-      "violence",
-      "west",
-      "bank"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.riotimesonline.com/brazils-mbrf-closes-saudi-pif-deal-targets-2027-riyadh-ipo/",
-    "event_codes": {
-      "18": 1,
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "brazils",
-      "mbrf",
-      "closes",
-      "saudi",
-      "pif",
-      "deal",
-      "targets",
-      "2027",
-      "riyadh",
-      "ipo"
+      "news",
+      "2026",
+      "may",
+      "coast",
+      "guard",
+      "seizes",
+      "8000",
+      "pounds",
+      "cocaine"
     ]
   },
-  "SGP": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.straitstimes.com/asia/se-asia/malaysian-delivery-riders-among-35-arrested-for-alleged-loan-sharking-activities-in-singapore",
+  "ISR": {
+    "risk_score": 17.31,
+    "count": 20,
+    "top_news": "https://www.middleeasteye.net/news/there-little-which-jewish-about-israel-haim-bresheeth-antisemitism-and-gaza",
     "event_codes": {
-      "17": 6
+      "17": 7,
+      "19": 6,
+      "18": 4,
+      "20": 2,
+      "16": 1
     },
     "keywords": [
-      "asia",
-      "asia",
-      "malaysian",
-      "delivery",
-      "riders",
-      "among",
-      "arrested",
+      "news",
+      "there",
+      "little",
+      "which",
+      "jewish",
+      "about",
+      "israel",
+      "haim",
+      "bresheeth",
+      "antisemitism",
+      "and",
+      "gaza"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.standardmedia.co.ke/africa/article/2001547973/trump-nigeria-claim-killing-of-senior-is-leader",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "africa",
+      "article",
+      "2001547973",
+      "trump",
+      "nigeria",
+      "claim",
+      "killing",
+      "senior",
+      "leader"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.0,
+    "count": 17,
+    "top_news": "https://english.aawsat.com/world/5273740-nigeria-confirms-killing-senior-isis-leader-joint-us-operation",
+    "event_codes": {
+      "19": 17
+    },
+    "keywords": [
+      "world",
+      "5273740",
+      "nigeria",
+      "confirms",
+      "killing",
+      "senior",
+      "isis",
+      "leader",
+      "joint",
+      "operation"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.77,
+    "count": 4,
+    "top_news": "https://www.africanews.com/2026/05/16/new-land-based-humanitarian-aid-convoy-sets-off-from-libya-for-gaza-strip/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "new",
+      "land",
+      "based",
+      "humanitarian",
+      "aid",
+      "convoy",
+      "sets",
+      "off",
+      "from",
+      "libya",
       "for",
-      "alleged",
-      "loan",
-      "sharking",
-      "activities",
-      "singapore"
+      "gaza",
+      "strip"
+    ]
+  },
+  "SOM": {
+    "risk_score": 8.85,
+    "count": 10,
+    "top_news": "https://wardheernews.com/from-protest-to-liberation-how-digital-platforms-transformed-the-ssc-community-struggle-for-self-determination/",
+    "event_codes": {
+      "19": 8,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "from",
+      "protest",
+      "liberation",
+      "how",
+      "digital",
+      "platforms",
+      "transformed",
+      "the",
+      "ssc",
+      "community",
+      "struggle",
+      "for",
+      "self",
+      "determination"
     ]
   }
 }
