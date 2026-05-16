@@ -1,62 +1,135 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.chennaionline.com/news/israel-and-lebanon-extend-ceasefire-for-45-days/",
+  "BRA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.riotimesonline.com/latin-america-defense-monitor-may-215-2026/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 5
     },
     "keywords": [
-      "news",
-      "israel",
-      "and",
-      "lebanon",
-      "extend",
-      "ceasefire",
-      "for",
-      "days"
+      "latin",
+      "america",
+      "defense",
+      "monitor",
+      "may",
+      "215",
+      "2026"
+    ]
+  },
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.riotimesonline.com/latin-america-defense-monitor-may-215-2026/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "latin",
+      "america",
+      "defense",
+      "monitor",
+      "may",
+      "215",
+      "2026"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.okaz.com.sa/variety/na/2248891",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "variety",
+      "2248891"
     ]
   },
   "ISR": {
-    "risk_score": 8.9,
-    "count": 10,
-    "top_news": "https://www.chennaionline.com/news/israel-and-lebanon-extend-ceasefire-for-45-days/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.greenleft.org.au/2026/1453/world/israel-intensifies-genocide-gaza-steps-violence-west-bank",
     "event_codes": {
-      "18": 6,
-      "19": 3,
-      "17": 1
+      "19": 2,
+      "20": 2
     },
     "keywords": [
-      "news",
+      "2026",
+      "1453",
+      "world",
       "israel",
-      "and",
-      "lebanon",
-      "extend",
-      "ceasefire",
-      "for",
-      "days"
+      "intensifies",
+      "genocide",
+      "gaza",
+      "steps",
+      "violence",
+      "west",
+      "bank"
     ]
   },
-  "NGA": {
-    "risk_score": 7.45,
-    "count": 10,
-    "top_news": "https://theeagleonline.com.ng/oyo-nut-mourns-slain-teacher-flaks-abduction-of-pupils-principal/",
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.greenleft.org.au/2026/1453/world/israel-intensifies-genocide-gaza-steps-violence-west-bank",
     "event_codes": {
-      "19": 5,
-      "16": 4,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "oyo",
-      "nut",
-      "mourns",
-      "slain",
-      "teacher",
-      "flaks",
-      "abduction",
-      "pupils",
-      "principal"
+      "2026",
+      "1453",
+      "world",
+      "israel",
+      "intensifies",
+      "genocide",
+      "gaza",
+      "steps",
+      "violence",
+      "west",
+      "bank"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.riotimesonline.com/brazils-mbrf-closes-saudi-pif-deal-targets-2027-riyadh-ipo/",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "brazils",
+      "mbrf",
+      "closes",
+      "saudi",
+      "pif",
+      "deal",
+      "targets",
+      "2027",
+      "riyadh",
+      "ipo"
+    ]
+  },
+  "SGP": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.straitstimes.com/asia/se-asia/malaysian-delivery-riders-among-35-arrested-for-alleged-loan-sharking-activities-in-singapore",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "asia",
+      "asia",
+      "malaysian",
+      "delivery",
+      "riders",
+      "among",
+      "arrested",
+      "for",
+      "alleged",
+      "loan",
+      "sharking",
+      "activities",
+      "singapore"
     ]
   }
 }
