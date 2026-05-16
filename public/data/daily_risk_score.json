@@ -1,73 +1,55 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://el-observador.com/2026/05/15/latinos-in-california-are-mad-at-trump-their-votes-for-democrats-gerrymandering-show-it/",
+    "risk_score": 2.72,
+    "count": 4,
+    "top_news": "https://www.el-balad.com/17010123",
     "event_codes": {
-      "19": 5
+      "17": 2,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "latinos",
-      "california",
-      "are",
-      "mad",
-      "trump",
-      "their",
-      "votes",
-      "for",
-      "democrats",
-      "gerrymandering",
-      "show"
+      "17010123"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.livemint.com/news/us-news/who-is-mohammad-baqer-saad-dawood-al-saadi-kata-ib-hizballah-commander-arrested-by-us-over-terror-plot-charges-11778879162038.html",
+  "ISR": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.ibtimes.co.uk/trump-us-chip-manufacturing-taiwan-china-tensions-1797122",
     "event_codes": {
-      "19": 2,
+      "19": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "trump",
+      "chip",
+      "manufacturing",
+      "taiwan",
+      "china",
+      "tensions",
+      "1797122"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/05/16/student-charged-with-murder-over-fatal-crash",
+    "event_codes": {
+      "19": 3,
       "17": 1
     },
     "keywords": [
       "news",
-      "news",
-      "who",
-      "mohammad",
-      "baqer",
-      "saad",
-      "dawood",
-      "saadi",
-      "kata",
-      "hizballah",
-      "commander",
-      "arrested",
-      "over",
-      "terror",
-      "plot",
-      "charges",
-      "11778879162038.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.95,
-    "count": 5,
-    "top_news": "https://www.longwarjournal.org/archives/2026/05/hamas-commander-izz-al-din-al-haddad-targeted-in-israeli-airstrike.php",
-    "event_codes": {
-      "14": 3,
-      "19": 2
-    },
-    "keywords": [
-      "archives",
+      "nation",
       "2026",
-      "hamas",
-      "commander",
-      "izz",
-      "din",
-      "haddad",
-      "targeted",
-      "israeli",
-      "airstrike.php"
+      "student",
+      "charged",
+      "with",
+      "murder",
+      "over",
+      "fatal",
+      "crash"
     ]
   }
 }
