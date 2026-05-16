@@ -1,79 +1,81 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.jpost.com/diaspora/antisemitism/article-896364",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "diaspora",
-      "antisemitism",
-      "article",
-      "896364"
-    ]
-  },
   "ISR": {
-    "risk_score": 19.46,
-    "count": 24,
-    "top_news": "https://www.jpost.com/diaspora/antisemitism/article-896364",
+    "risk_score": 11.15,
+    "count": 14,
+    "top_news": "https://www.jwire.com.au/israel-kills-top-hamas-military-commander-in-gaza-city-strike/",
     "event_codes": {
-      "19": 12,
-      "17": 7,
-      "15": 2,
-      "16": 2,
-      "18": 1
+      "19": 4,
+      "14": 3,
+      "17": 3,
+      "18": 3,
+      "20": 1
     },
     "keywords": [
-      "diaspora",
-      "antisemitism",
-      "article",
-      "896364"
+      "israel",
+      "kills",
+      "top",
+      "hamas",
+      "military",
+      "commander",
+      "gaza",
+      "city",
+      "strike"
     ]
   },
-  "PSE": {
-    "risk_score": 11.4,
-    "count": 12,
-    "top_news": "https://www.news4jax.com/news/world/2026/05/16/israel-says-it-killed-the-leader-of-hamas-military-wing-one-of-the-architects-of-oct-7-attacks/",
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "http://www.bignewsnetwork.com/news/279055266/trump-claims-top-isis-commander-killed",
     "event_codes": {
-      "19": 10,
-      "17": 1,
-      "18": 1
+      "19": 6
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "israel",
-      "says",
-      "killed",
-      "the",
-      "leader",
-      "hamas",
-      "military",
-      "wing",
-      "one",
-      "the",
-      "architects",
-      "oct",
-      "attacks"
+      "279055266",
+      "trump",
+      "claims",
+      "top",
+      "isis",
+      "commander",
+      "killed"
     ]
   },
-  "SAU": {
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/279055266/trump-claims-top-isis-commander-killed",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "279055266",
+      "trump",
+      "claims",
+      "top",
+      "isis",
+      "commander",
+      "killed"
+    ]
+  },
+  "THA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://boxingnewsonline.net/news/chisora-new-fury-vs-joshua-ko-prediction/",
+    "top_news": "https://eturbonews.com/guests-are-winners-gm-and-chef-battle-it-out-centara-ras-fushi-r/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "chisora",
-      "new",
-      "fury",
-      "joshua",
-      "prediction"
+      "guests",
+      "are",
+      "winners",
+      "and",
+      "chef",
+      "battle",
+      "out",
+      "centara",
+      "ras",
+      "fushi"
     ]
   }
 }
