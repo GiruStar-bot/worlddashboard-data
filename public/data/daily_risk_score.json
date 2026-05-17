@@ -1,80 +1,44 @@
 {
-  "IRN": {
-    "risk_score": 12.25,
-    "count": 15,
-    "top_news": "http://www.rockymounttelegram.com/news/world/drone-strike-sparks-fire-at-uae-nuclear-power-plant-in-latest-blow-to-iran-ceasefire/article_b4d3b7b3-cd8d-53a0-b9ea-d878047ca676.html",
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "http://www.jpost.com/consumerism/article-896255",
     "event_codes": {
-      "16": 5,
-      "19": 5,
+      "17": 4
+    },
+    "keywords": [
+      "consumerism",
+      "article",
+      "896255"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/880356-boko-haram-convict-kabiru-sokoto-appeals-2013-life-sentence-for-catholic-church-bombing-near-abuja.html",
+    "event_codes": {
       "17": 2,
-      "18": 2,
-      "14": 1
+      "19": 1
     },
     "keywords": [
       "news",
-      "world",
-      "drone",
-      "strike",
-      "sparks",
-      "fire",
-      "uae",
-      "nuclear",
-      "power",
-      "plant",
-      "latest",
-      "blow",
-      "iran",
-      "ceasefire",
-      "article",
-      "b4d3b7b3",
-      "cd8d",
-      "53a0",
-      "b9ea",
-      "d878047ca676.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 7,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/17/israeli-strikes-kill-four-people-in-gaza-medics-say-2",
-    "event_codes": {
-      "17": 4,
-      "19": 3
-    },
-    "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "israeli",
-      "strikes",
-      "kill",
-      "four",
-      "people",
-      "gaza",
-      "medics",
-      "say"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/politics/erdogan-chairs-cabinet-meeting-for-terror-free-turkiye-economy/news",
-    "event_codes": {
-      "16": 3
-    },
-    "keywords": [
-      "politics",
-      "erdogan",
-      "chairs",
-      "cabinet",
-      "meeting",
+      "headlines",
+      "880356",
+      "boko",
+      "haram",
+      "convict",
+      "kabiru",
+      "sokoto",
+      "appeals",
+      "2013",
+      "life",
+      "sentence",
       "for",
-      "terror",
-      "free",
-      "turkiye",
-      "economy",
-      "news"
+      "catholic",
+      "church",
+      "bombing",
+      "near",
+      "abuja.html"
     ]
   }
 }
