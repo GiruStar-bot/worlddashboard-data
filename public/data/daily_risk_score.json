@@ -1,23 +1,100 @@
 {
-  "ISR": {
-    "risk_score": 6.44,
-    "count": 8,
-    "top_news": "https://www.golocalprov.com/news/5-big-news-stories-overnight-sunday-may-17-2026",
+  "IRN": {
+    "risk_score": 7.92,
+    "count": 9,
+    "top_news": "https://ktbb.com/post/?p=1507346",
     "event_codes": {
-      "19": 3,
-      "14": 2,
-      "15": 2,
-      "16": 1
+      "19": 6,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "post"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.8,
+    "count": 24,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-israel-operated-two-secret-military-outposts-in-the-iraqi-desert-during-the-iran-wars-report",
+    "event_codes": {
+      "17": 15,
+      "18": 5,
+      "19": 4
     },
     "keywords": [
       "news",
-      "big",
+      "israel",
+      "defense",
+      "artc",
+      "israel",
+      "operated",
+      "two",
+      "secret",
+      "military",
+      "outposts",
+      "the",
+      "iraqi",
+      "desert",
+      "during",
+      "the",
+      "iran",
+      "wars",
+      "report"
+    ]
+  },
+  "NGA": {
+    "risk_score": 15.85,
+    "count": 18,
+    "top_news": "https://kathmandupost.com/world/2026/05/17/islamist-attack-on-nigerian-military-school-kills-17-police-trainees",
+    "event_codes": {
+      "19": 10,
+      "14": 3,
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "islamist",
+      "attack",
+      "nigerian",
+      "military",
+      "school",
+      "kills",
+      "police",
+      "trainees"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/170534",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "170534"
+    ]
+  },
+  "THA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.rte.ie/news/ireland/2026/0517/1573809-thailand-crash-ireland/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
       "news",
-      "stories",
-      "overnight",
-      "sunday",
-      "may",
-      "2026"
+      "ireland",
+      "2026",
+      "0517",
+      "1573809",
+      "thailand",
+      "crash",
+      "ireland"
     ]
   }
 }
