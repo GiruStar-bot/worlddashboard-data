@@ -1,45 +1,81 @@
 {
   "IRN": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://udaipurkiran.com/fire-breaks-out-at-uae-nuclear-plant-after-drone-attack/",
+    "risk_score": 7.92,
+    "count": 8,
+    "top_news": "https://www.ynetnews.com/article/hyp3y00pygg",
     "event_codes": {
-      "19": 5,
-      "16": 1
+      "19": 7,
+      "17": 1
     },
     "keywords": [
-      "fire",
-      "breaks",
-      "out",
-      "uae",
-      "nuclear",
-      "plant",
-      "after",
-      "drone",
-      "attack"
+      "article",
+      "hyp3y00pygg"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/279057462/gcc-secretary-general-condemns-in-strongest-terms-targeting-of-barakah-nuclear-power-plant",
+  "ISR": {
+    "risk_score": 14.3,
+    "count": 15,
+    "top_news": "https://news.antiwar.com/2026/05/17/israeli-troops-advance-into-southwest-syria-to-investigate-shepherds/",
     "event_codes": {
+      "19": 12,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "troops",
+      "advance",
+      "into",
+      "southwest",
+      "syria",
+      "investigate",
+      "shepherds"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://www.wmtw.com/article/maine-man-charged-after-wrong-way-driver-crashes-into-new-hampshire-state-police-cruiser/71329278",
+    "event_codes": {
+      "18": 4,
       "19": 2
     },
     "keywords": [
-      "news",
-      "279057462",
-      "gcc",
-      "secretary",
-      "general",
-      "condemns",
-      "strongest",
-      "terms",
-      "targeting",
-      "barakah",
-      "nuclear",
-      "power",
-      "plant"
+      "article",
+      "maine",
+      "man",
+      "charged",
+      "after",
+      "wrong",
+      "way",
+      "driver",
+      "crashes",
+      "into",
+      "new",
+      "hampshire",
+      "state",
+      "police",
+      "cruiser",
+      "71329278"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.1,
+    "count": 9,
+    "top_news": "https://punchng.com/abducted-students-will-be-rescued-oyo-deputy-gov-assures-communities/",
+    "event_codes": {
+      "18": 9
+    },
+    "keywords": [
+      "abducted",
+      "students",
+      "will",
+      "rescued",
+      "oyo",
+      "deputy",
+      "gov",
+      "assures",
+      "communities"
     ]
   }
 }
