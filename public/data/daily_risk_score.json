@@ -1,162 +1,80 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://newsroompanama.com/2026/05/17/a-sign-of-the-times-more-than-1100-auditors-and-observers-will-monitor-the-presidential-elections-in-colombia/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "sign",
-      "the",
-      "times",
-      "more",
-      "than",
-      "1100",
-      "auditors",
-      "and",
-      "observers",
-      "will",
-      "monitor",
-      "the",
-      "presidential",
-      "elections",
-      "colombia"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.04,
-    "count": 9,
-    "top_news": "https://dominicanrepublicpost.com/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant/",
+    "risk_score": 12.25,
+    "count": 15,
+    "top_news": "http://www.rockymounttelegram.com/news/world/drone-strike-sparks-fire-at-uae-nuclear-power-plant-in-latest-blow-to-iran-ceasefire/article_b4d3b7b3-cd8d-53a0-b9ea-d878047ca676.html",
     "event_codes": {
+      "16": 5,
       "19": 5,
-      "15": 1,
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "17": 2,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
+      "news",
+      "world",
       "drone",
       "strike",
       "sparks",
       "fire",
-      "uaes",
-      "barakah",
-      "nuclear",
-      "power",
-      "plant"
-    ]
-  },
-  "ISR": {
-    "risk_score": 31.4,
-    "count": 35,
-    "top_news": "https://metro.co.uk/2026/05/17/drone-strike-targeting-uaes-nuclear-power-plant-sparks-fire-28407585/",
-    "event_codes": {
-      "19": 24,
-      "17": 4,
-      "18": 4,
-      "14": 3
-    },
-    "keywords": [
-      "2026",
-      "drone",
-      "strike",
-      "targeting",
-      "uaes",
+      "uae",
       "nuclear",
       "power",
       "plant",
-      "sparks",
-      "fire",
-      "28407585"
+      "latest",
+      "blow",
+      "iran",
+      "ceasefire",
+      "article",
+      "b4d3b7b3",
+      "cd8d",
+      "53a0",
+      "b9ea",
+      "d878047ca676.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://sana.sy/en/international/2317355/",
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/17/israeli-strikes-kill-four-people-in-gaza-medics-say-2",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "17": 4,
+      "19": 3
     },
     "keywords": [
-      "international",
-      "2317355"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.9,
-    "count": 8,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/880330-protesters-block-kano-katsina-highway-over-bandit-attacks-killings.html",
-    "event_codes": {
-      "19": 5,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "top",
-      "news",
-      "880330",
-      "protesters",
-      "block",
-      "kano",
-      "katsina",
-      "highway",
-      "over",
-      "bandit",
-      "attacks",
-      "killings.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.thenational.scot/news/26114046.thousands-march-vienna-israels-eurovision-participation/",
-    "event_codes": {
-      "17": 1,
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "26114046.thousands",
-      "march",
-      "vienna",
-      "israels",
-      "eurovision",
-      "participation"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260516-presstv01.htm",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "wmd",
-      "library",
-      "news",
-      "syria",
+      "ultime",
+      "notizie",
+      "reuters",
       "2026",
-      "syria",
-      "260516",
-      "presstv01.htm"
+      "israeli",
+      "strikes",
+      "kill",
+      "four",
+      "people",
+      "gaza",
+      "medics",
+      "say"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.cubaheadlines.com/articles/329504",
+  "TUR": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.dailysabah.com/politics/erdogan-chairs-cabinet-meeting-for-terror-free-turkiye-economy/news",
     "event_codes": {
-      "17": 4
+      "16": 3
     },
     "keywords": [
-      "articles",
-      "329504"
+      "politics",
+      "erdogan",
+      "chairs",
+      "cabinet",
+      "meeting",
+      "for",
+      "terror",
+      "free",
+      "turkiye",
+      "economy",
+      "news"
     ]
   }
 }
