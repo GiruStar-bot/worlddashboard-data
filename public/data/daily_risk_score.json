@@ -1,161 +1,46 @@
 {
-  "IRN": {
-    "risk_score": 4.2,
-    "count": 5,
-    "top_news": "https://www.straitstimes.com/world/united-states/trump-warns-wont-be-anything-left-of-iran-unless-it-agrees-to-deal",
-    "event_codes": {
-      "19": 3,
-      "16": 2
-    },
-    "keywords": [
-      "world",
-      "united",
-      "states",
-      "trump",
-      "warns",
-      "wont",
-      "anything",
-      "left",
-      "iran",
-      "unless",
-      "agrees",
-      "deal"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2550183/terrorizing-jews-worldwide-federal-charges-suggest-iran-may-be-behind-toronto-shul-shootings.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "2550183",
-      "terrorizing",
-      "jews",
-      "worldwide",
-      "federal",
-      "charges",
-      "suggest",
-      "iran",
-      "may",
-      "behind",
-      "toronto",
-      "shul",
-      "shootings.html"
-    ]
-  },
   "ISR": {
-    "risk_score": 6.54,
-    "count": 7,
-    "top_news": "https://humanevents.com/2026/05/17/we-will-continue-to-kill-islamic-state-tells-followers-to-use-bondi-beach-massacre-as-instruction-manual-for-honor-of-islam",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://wrp.org.uk/features/today-we-say-enough-we-will-return-all-of-palestine-will-be-free/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 2,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "2026",
+      "features",
+      "today",
+      "say",
+      "enough",
       "will",
-      "continue",
-      "kill",
-      "islamic",
-      "state",
-      "tells",
-      "followers",
-      "use",
-      "bondi",
-      "beach",
-      "massacre",
-      "instruction",
-      "manual",
-      "for",
-      "honor",
-      "islam"
+      "return",
+      "all",
+      "palestine",
+      "will",
+      "free"
     ]
   },
-  "NER": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.express.co.uk/news/world/2206582/at-least-60-dead-attack",
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.scmp.com/news/world/middle-east/article/3353908/lebanon-says-israeli-strikes-kill-7-hezbollah-condemns-talks",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
       "news",
       "world",
-      "2206582",
-      "least",
-      "dead",
-      "attack"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.3,
-    "count": 11,
-    "top_news": "https://www.theyeshivaworld.com/news/general/2550195/u-s-and-nigerian-special-forces-kill-isis-global-second-in-command-in-strike-on-terror-compound.html",
-    "event_codes": {
-      "19": 6,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "general",
-      "2550195",
-      "and",
-      "nigerian",
-      "special",
-      "forces",
+      "middle",
+      "east",
+      "article",
+      "3353908",
+      "lebanon",
+      "says",
+      "israeli",
+      "strikes",
       "kill",
-      "isis",
-      "global",
-      "second",
-      "command",
-      "strike",
-      "terror",
-      "compound.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.tribuneindia.com/news/comment/india-uae-navigate-shifting-sands/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "comment",
-      "india",
-      "uae",
-      "navigate",
-      "shifting",
-      "sands"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/venezuela-deports-maduros-top-financier-alex-saab-to-the-us/",
-    "event_codes": {
-      "17": 2,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "venezuela",
-      "deports",
-      "maduros",
-      "top",
-      "financier",
-      "alex",
-      "saab",
-      "the"
+      "hezbollah",
+      "condemns",
+      "talks"
     ]
   }
 }
