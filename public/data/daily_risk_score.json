@@ -1,87 +1,161 @@
 {
   "IRN": {
-    "risk_score": 5.72,
-    "count": 6,
-    "top_news": "https://www.digitaljournal.com/world/trump-issues-dire-warning-to-iran-to-accept-peace-deal/article",
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/world/united-states/trump-warns-wont-be-anything-left-of-iran-unless-it-agrees-to-deal",
     "event_codes": {
-      "19": 5,
-      "15": 1
+      "19": 3,
+      "16": 2
     },
     "keywords": [
       "world",
+      "united",
+      "states",
       "trump",
-      "issues",
-      "dire",
-      "warning",
+      "warns",
+      "wont",
+      "anything",
+      "left",
       "iran",
-      "accept",
-      "peace",
-      "deal",
-      "article"
+      "unless",
+      "agrees",
+      "deal"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2550183/terrorizing-jews-worldwide-federal-charges-suggest-iran-may-be-behind-toronto-shul-shootings.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "2550183",
+      "terrorizing",
+      "jews",
+      "worldwide",
+      "federal",
+      "charges",
+      "suggest",
+      "iran",
+      "may",
+      "behind",
+      "toronto",
+      "shul",
+      "shootings.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.45,
-    "count": 12,
-    "top_news": "https://www.newsweek.com/pete-hegseth-thomas-massie-ed-gallreinand-hatch-act-violation-11961018",
+    "risk_score": 6.54,
+    "count": 7,
+    "top_news": "https://humanevents.com/2026/05/17/we-will-continue-to-kill-islamic-state-tells-followers-to-use-bondi-beach-massacre-as-instruction-manual-for-honor-of-islam",
     "event_codes": {
-      "17": 4,
-      "19": 3,
-      "16": 2,
-      "20": 2,
-      "14": 1
+      "17": 2,
+      "18": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "pete",
-      "hegseth",
-      "thomas",
-      "massie",
-      "gallreinand",
-      "hatch",
-      "act",
-      "violation",
-      "11961018"
+      "2026",
+      "will",
+      "continue",
+      "kill",
+      "islamic",
+      "state",
+      "tells",
+      "followers",
+      "use",
+      "bondi",
+      "beach",
+      "massacre",
+      "instruction",
+      "manual",
+      "for",
+      "honor",
+      "islam"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.express.co.uk/news/world/2206582/at-least-60-dead-attack",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2206582",
+      "least",
+      "dead",
+      "attack"
     ]
   },
   "NGA": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://www.columbian.com/news/2026/may/17/trump-u-s-and-nigerian-forces-kill-isis-leader/",
+    "risk_score": 9.3,
+    "count": 11,
+    "top_news": "https://www.theyeshivaworld.com/news/general/2550195/u-s-and-nigerian-special-forces-kill-isis-global-second-in-command-in-strike-on-terror-compound.html",
     "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
+      "19": 6,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "may",
-      "trump",
+      "general",
+      "2550195",
       "and",
       "nigerian",
+      "special",
       "forces",
       "kill",
       "isis",
-      "leader"
+      "global",
+      "second",
+      "command",
+      "strike",
+      "terror",
+      "compound.html"
     ]
   },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.irishmirror.ie/news/irish-news/young-irishman-girlfriend-killed-thailand-37169168",
+  "SAU": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.tribuneindia.com/news/comment/india-uae-navigate-shifting-sands/",
     "event_codes": {
-      "19": 2
+      "19": 6
     },
     "keywords": [
       "news",
-      "irish",
-      "news",
-      "young",
-      "irishman",
-      "girlfriend",
-      "killed",
-      "thailand",
-      "37169168"
+      "comment",
+      "india",
+      "uae",
+      "navigate",
+      "shifting",
+      "sands"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.6,
+    "count": 5,
+    "top_news": "https://www.riotimesonline.com/venezuela-deports-maduros-top-financier-alex-saab-to-the-us/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "venezuela",
+      "deports",
+      "maduros",
+      "top",
+      "financier",
+      "alex",
+      "saab",
+      "the"
     ]
   }
 }
