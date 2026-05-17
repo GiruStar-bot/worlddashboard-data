@@ -1,44 +1,88 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://athens-times.com/trump-posts-ominous-calm-before-the-storm-message-amid-iran-tensions/",
+    "risk_score": 12.65,
+    "count": 13,
+    "top_news": "https://naharnet.com/stories/en/320185-us-says-iran-backed-militia-commander-planned-jewish-site-attacks",
     "event_codes": {
-      "19": 2
+      "19": 12,
+      "14": 1
     },
     "keywords": [
-      "trump",
-      "posts",
-      "ominous",
-      "calm",
-      "before",
-      "the",
-      "storm",
-      "message",
-      "amid",
+      "stories",
+      "320185",
+      "says",
       "iran",
-      "tensions"
+      "backed",
+      "militia",
+      "commander",
+      "planned",
+      "jewish",
+      "site",
+      "attacks"
     ]
   },
-  "VEN": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://athens-times.com/trump-posts-ominous-calm-before-the-storm-message-amid-iran-tensions/",
+    "top_news": "https://naharnet.com/stories/en/320185-us-says-iran-backed-militia-commander-planned-jewish-site-attacks",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "trump",
-      "posts",
-      "ominous",
-      "calm",
-      "before",
-      "the",
-      "storm",
-      "message",
-      "amid",
+      "stories",
+      "320185",
+      "says",
       "iran",
-      "tensions"
+      "backed",
+      "militia",
+      "commander",
+      "planned",
+      "jewish",
+      "site",
+      "attacks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://naharnet.com/stories/en/320185-us-says-iran-backed-militia-commander-planned-jewish-site-attacks",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "stories",
+      "320185",
+      "says",
+      "iran",
+      "backed",
+      "militia",
+      "commander",
+      "planned",
+      "jewish",
+      "site",
+      "attacks"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://dailytrust.com/kogi-lawmakers-win-return-tickets-but-losers-allege-irregularities/",
+    "event_codes": {
+      "18": 3,
+      "19": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "kogi",
+      "lawmakers",
+      "win",
+      "return",
+      "tickets",
+      "but",
+      "losers",
+      "allege",
+      "irregularities"
     ]
   }
 }
