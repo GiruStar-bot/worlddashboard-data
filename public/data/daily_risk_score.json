@@ -1,36 +1,117 @@
 {
-  "IRN": {
-    "risk_score": 2.05,
-    "count": 3,
-    "top_news": "https://www.khaama.com/iran-says-6500-arrested-on-espionage-charges-during-war/",
+  "ARE": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.10news.com/news/the-streamline/the-streamline-larry-millete-murder-trial-begins-with-opening-statements",
     "event_codes": {
-      "17": 2,
-      "14": 1
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "iran",
-      "says",
-      "6500",
-      "arrested",
-      "espionage",
-      "charges",
-      "during",
-      "war"
+      "news",
+      "the",
+      "streamline",
+      "the",
+      "streamline",
+      "larry",
+      "millete",
+      "murder",
+      "trial",
+      "begins",
+      "with",
+      "opening",
+      "statements"
     ]
   },
-  "ISR": {
-    "risk_score": 13.06,
-    "count": 15,
-    "top_news": "https://english.wafa.ps/Pages/Details/170587",
+  "IRN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.10news.com/news/the-streamline/the-streamline-larry-millete-murder-trial-begins-with-opening-statements",
     "event_codes": {
-      "19": 7,
-      "17": 6,
-      "18": 2
+      "17": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "170587"
+      "news",
+      "the",
+      "streamline",
+      "the",
+      "streamline",
+      "larry",
+      "millete",
+      "murder",
+      "trial",
+      "begins",
+      "with",
+      "opening",
+      "statements"
+    ]
+  },
+  "NER": {
+    "risk_score": 4.44,
+    "count": 5,
+    "top_news": "https://www.channelnewsasia.com/world/nigeria-us-carry-out-new-strikes-islamic-state-in-nigeria-6126981",
+    "event_codes": {
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "world",
+      "nigeria",
+      "carry",
+      "out",
+      "new",
+      "strikes",
+      "islamic",
+      "state",
+      "nigeria",
+      "6126981"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.channelnewsasia.com/world/nigeria-us-carry-out-new-strikes-islamic-state-in-nigeria-6126981",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "world",
+      "nigeria",
+      "carry",
+      "out",
+      "new",
+      "strikes",
+      "islamic",
+      "state",
+      "nigeria",
+      "6126981"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.45,
+    "count": 6,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/05/18/houthi-controlled-court-in-yemen-sentences-19-to-death-for-aiding-saudi-led-coalition",
+    "event_codes": {
+      "17": 3,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "houthi",
+      "controlled",
+      "court",
+      "yemen",
+      "sentences",
+      "death",
+      "for",
+      "aiding",
+      "saudi",
+      "led",
+      "coalition"
     ]
   }
 }
