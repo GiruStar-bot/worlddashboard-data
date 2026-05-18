@@ -1,42 +1,51 @@
 {
-  "ISR": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://eturbonews.com/pope-francis-peace-pilgrimage-bethlehem-center-religion-and-tour/",
+  "IRN": {
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "http://www.enterstageright.com/archive/articles/0526/iranians.html",
     "event_codes": {
-      "16": 3
+      "19": 4,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "pope",
-      "francis",
-      "peace",
-      "pilgrimage",
-      "bethlehem",
-      "center",
-      "religion",
-      "and",
-      "tour"
+      "archive",
+      "articles",
+      "0526",
+      "iranians.html"
     ]
   },
   "NGA": {
-    "risk_score": 12.25,
-    "count": 17,
-    "top_news": "https://punchng.com/ndlea-uncovers-military-grade-ammunition-concealed-inside-garri-in-kaduna/",
+    "risk_score": 6.9,
+    "count": 8,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/880397-editorial-stopping-rampant-police-killings.html",
     "event_codes": {
-      "17": 6,
-      "19": 6,
-      "14": 5
+      "19": 5,
+      "17": 3
     },
     "keywords": [
-      "ndlea",
-      "uncovers",
-      "military",
-      "grade",
-      "ammunition",
-      "concealed",
-      "inside",
-      "garri",
-      "kaduna"
+      "news",
+      "headlines",
+      "880397",
+      "editorial",
+      "stopping",
+      "rampant",
+      "police",
+      "killings.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.enterstageright.com/archive/articles/0526/iranians.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "archive",
+      "articles",
+      "0526",
+      "iranians.html"
     ]
   }
 }
