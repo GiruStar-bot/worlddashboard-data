@@ -1,51 +1,36 @@
 {
   "IRN": {
-    "risk_score": 5.55,
-    "count": 6,
-    "top_news": "http://www.enterstageright.com/archive/articles/0526/iranians.html",
+    "risk_score": 2.05,
+    "count": 3,
+    "top_news": "https://www.khaama.com/iran-says-6500-arrested-on-espionage-charges-during-war/",
     "event_codes": {
-      "19": 4,
-      "14": 1,
-      "18": 1
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "archive",
-      "articles",
-      "0526",
-      "iranians.html"
+      "iran",
+      "says",
+      "6500",
+      "arrested",
+      "espionage",
+      "charges",
+      "during",
+      "war"
     ]
   },
-  "NGA": {
-    "risk_score": 6.9,
-    "count": 8,
-    "top_news": "https://www.premiumtimesng.com/news/headlines/880397-editorial-stopping-rampant-police-killings.html",
+  "ISR": {
+    "risk_score": 13.06,
+    "count": 15,
+    "top_news": "https://english.wafa.ps/Pages/Details/170587",
     "event_codes": {
-      "19": 5,
-      "17": 3
+      "19": 7,
+      "17": 6,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "headlines",
-      "880397",
-      "editorial",
-      "stopping",
-      "rampant",
-      "police",
-      "killings.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.enterstageright.com/archive/articles/0526/iranians.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "archive",
-      "articles",
-      "0526",
-      "iranians.html"
+      "pages",
+      "details",
+      "170587"
     ]
   }
 }
