@@ -1,62 +1,36 @@
 {
   "ISR": {
-    "risk_score": 8.75,
-    "count": 10,
-    "top_news": "https://www.islamicinvitationturkey.com/hezbollah-drones-reportedly-halt-80-of-israeli-offensive-operations-in-southern-lebanon/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/sj1ejmckgg",
     "event_codes": {
-      "19": 7,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "hezbollah",
-      "drones",
-      "reportedly",
-      "halt",
-      "israeli",
-      "offensive",
-      "operations",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://news.antiwar.com/2026/05/19/israeli-strikes-on-southern-lebanon-kill-six-wound-at-least-three/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon",
-      "kill",
-      "six",
-      "wound",
-      "least",
-      "three"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.5,
-    "count": 8,
-    "top_news": "https://punchng.com/nigeria-us-kill-175-isis-terrorists-in-joint-airstrikes-dhq/",
-    "event_codes": {
-      "17": 5,
       "19": 3
     },
     "keywords": [
-      "nigeria",
-      "kill",
-      "175",
-      "isis",
-      "terrorists",
-      "joint",
-      "airstrikes",
-      "dhq"
+      "article",
+      "sj1ejmckgg"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/05/19/son-gang-member-arrested-for-alleged-kidnap-of-wealthy-father-npf/",
+    "event_codes": {
+      "17": 4,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "son",
+      "gang",
+      "member",
+      "arrested",
+      "for",
+      "alleged",
+      "kidnap",
+      "wealthy",
+      "father",
+      "npf"
     ]
   }
 }
