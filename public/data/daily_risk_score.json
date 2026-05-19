@@ -1,63 +1,96 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.nbcnews.com/world/lebanon/lebanon-death-toll-reaches-3000-fighting-israel-hezbollah-rcna345780",
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.siasat.com/report-reveals-horrors-of-us-missile-strike-on-school-in-irans-minab-3473464/",
     "event_codes": {
+      "14": 3,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "report",
+      "reveals",
+      "horrors",
+      "missile",
+      "strike",
+      "school",
+      "irans",
+      "minab",
+      "3473464"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/427289",
+    "event_codes": {
+      "16": 2,
       "18": 1,
       "19": 1
     },
     "keywords": [
-      "world",
-      "lebanon",
-      "lebanon",
-      "death",
-      "toll",
-      "reaches",
-      "3000",
-      "fighting",
-      "israel",
-      "hezbollah",
-      "rcna345780"
+      "news",
+      "427289"
     ]
   },
-  "ISR": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "https://www.dailymail.com/news/article-15829293/guess-buffalos-nickname-President.html",
+  "MYS": {
+    "risk_score": 4.5,
+    "count": 9,
+    "top_news": "http://dailyexpress.com.my/news/281754/man-fined-for-damaging-ex-wife-s-vacuum-cleaner/",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "17": 9
     },
     "keywords": [
       "news",
-      "article",
-      "15829293",
-      "guess",
-      "buffalos",
-      "nickname",
-      "president.html"
+      "281754",
+      "man",
+      "fined",
+      "for",
+      "damaging",
+      "wife",
+      "vacuum",
+      "cleaner"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.nbcnews.com/world/lebanon/lebanon-death-toll-reaches-3000-fighting-israel-hezbollah-rcna345780",
+  "NGA": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://thesun.ng/nigerian-newspapers-major-stories-on-tuesday/",
     "event_codes": {
-      "19": 3
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "lebanon",
-      "lebanon",
-      "death",
-      "toll",
-      "reaches",
-      "3000",
-      "fighting",
-      "israel",
-      "hezbollah",
-      "rcna345780"
+      "nigerian",
+      "newspapers",
+      "major",
+      "stories",
+      "tuesday"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.irishtimes.com/culture/film/2026/05/19/tarik-saleh-a-country-with-a-lot-of-power-and-money-wanted-me-to-do-a-propaganda-series/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "culture",
+      "film",
+      "2026",
+      "tarik",
+      "saleh",
+      "country",
+      "with",
+      "lot",
+      "power",
+      "and",
+      "money",
+      "wanted",
+      "propaganda",
+      "series"
     ]
   }
 }
