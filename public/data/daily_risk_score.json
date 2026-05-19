@@ -1,28 +1,63 @@
 {
-  "NGA": {
-    "risk_score": 11.27,
-    "count": 12,
-    "top_news": "https://www.armytimes.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nbcnews.com/world/lebanon/lebanon-death-toll-reaches-3000-fighting-israel-hezbollah-rcna345780",
     "event_codes": {
-      "19": 9,
-      "14": 1,
-      "15": 1,
-      "18": 1
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "lebanon",
+      "lebanon",
+      "death",
+      "toll",
+      "reaches",
+      "3000",
+      "fighting",
+      "israel",
+      "hezbollah",
+      "rcna345780"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.65,
+    "count": 6,
+    "top_news": "https://www.dailymail.com/news/article-15829293/guess-buffalos-nickname-President.html",
+    "event_codes": {
+      "19": 5,
+      "14": 1
     },
     "keywords": [
       "news",
-      "pentagon",
-      "congress",
-      "2026",
-      "isis",
-      "leader",
-      "killed",
-      "africa",
-      "commander",
-      "raises",
-      "force",
-      "reduction",
-      "concerns"
+      "article",
+      "15829293",
+      "guess",
+      "buffalos",
+      "nickname",
+      "president.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.nbcnews.com/world/lebanon/lebanon-death-toll-reaches-3000-fighting-israel-hezbollah-rcna345780",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "lebanon",
+      "lebanon",
+      "death",
+      "toll",
+      "reaches",
+      "3000",
+      "fighting",
+      "israel",
+      "hezbollah",
+      "rcna345780"
     ]
   }
 }
