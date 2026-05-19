@@ -1,36 +1,62 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/sj1ejmckgg",
+  "IRN": {
+    "risk_score": 8.72,
+    "count": 11,
+    "top_news": "https://www.koaa.com/news/local-news/vice-president-jd-vance-announced-as-air-force-academy-graduation-speaker",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "18": 3,
+      "16": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "article",
-      "sj1ejmckgg"
+      "news",
+      "local",
+      "news",
+      "vice",
+      "president",
+      "vance",
+      "announced",
+      "air",
+      "force",
+      "academy",
+      "graduation",
+      "speaker"
     ]
   },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 6,
-    "top_news": "https://dailypost.ng/2026/05/19/son-gang-member-arrested-for-alleged-kidnap-of-wealthy-father-npf/",
+  "ISR": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.cubaheadlines.com/articles/329724",
     "event_codes": {
-      "17": 4,
+      "19": 3,
+      "17": 2,
       "18": 2
     },
     "keywords": [
-      "2026",
-      "son",
-      "gang",
-      "member",
-      "arrested",
-      "for",
-      "alleged",
-      "kidnap",
-      "wealthy",
-      "father",
-      "npf"
+      "articles",
+      "329724"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.5,
+    "count": 10,
+    "top_news": "https://www.nationalaccordnewspaper.com/zulum-visits-uba-chibok-communities-vows-rescue-of-abducted-schoolchildren/",
+    "event_codes": {
+      "18": 8,
+      "14": 2
+    },
+    "keywords": [
+      "zulum",
+      "visits",
+      "uba",
+      "chibok",
+      "communities",
+      "vows",
+      "rescue",
+      "abducted",
+      "schoolchildren"
     ]
   }
 }
