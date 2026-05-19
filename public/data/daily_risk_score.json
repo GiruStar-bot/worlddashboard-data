@@ -1,71 +1,116 @@
 {
   "IRN": {
-    "risk_score": 4.04,
-    "count": 5,
-    "top_news": "https://news.az/news/tehran-police-arrest-two-alleged-infiltrators-posing-as-journalists",
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://athens-times.com/iran-threatens-u-s-we-will-open-new-fronts-if-attacked-explosions-reported-on-kish-island/",
     "event_codes": {
-      "15": 2,
-      "17": 2,
-      "16": 1
+      "19": 5,
+      "16": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "tehran",
-      "police",
-      "arrest",
-      "two",
-      "alleged",
-      "infiltrators",
-      "posing",
-      "journalists"
+      "iran",
+      "threatens",
+      "will",
+      "open",
+      "new",
+      "fronts",
+      "attacked",
+      "explosions",
+      "reported",
+      "kish",
+      "island"
     ]
   },
   "ISR": {
-    "risk_score": 6.25,
-    "count": 10,
-    "top_news": "https://english.wafa.ps/Pages/Details/170624",
+    "risk_score": 8.55,
+    "count": 12,
+    "top_news": "https://kashmirlife.net/will-trump-and-tehran-push-the-strait-of-hormuz-toward-conflict-436830/",
     "event_codes": {
       "17": 5,
-      "19": 3,
-      "16": 2
+      "18": 4,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "170624"
+      "will",
+      "trump",
+      "and",
+      "tehran",
+      "push",
+      "the",
+      "strait",
+      "hormuz",
+      "toward",
+      "conflict",
+      "436830"
     ]
   },
   "NGA": {
-    "risk_score": 6.3,
-    "count": 11,
-    "top_news": "https://quicknews-africa.net/oyo-abductions-unacceptable-south-west-must-act-now-accord/",
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/880940-judge-rules-on-sss-lawyers-complaint-of-el-rufai-familys-alleged-inciteful-conduct.html",
     "event_codes": {
-      "17": 9,
-      "18": 2
+      "17": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "oyo",
-      "abductions",
-      "unacceptable",
-      "south",
-      "west",
-      "must",
-      "act",
-      "now",
-      "accord"
+      "news",
+      "top",
+      "news",
+      "880940",
+      "judge",
+      "rules",
+      "sss",
+      "lawyers",
+      "complaint",
+      "rufai",
+      "familys",
+      "alleged",
+      "inciteful",
+      "conduct.html"
     ]
   },
-  "PSE": {
+  "SDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.moneycontrol.com/world/sudan-civil-war-28-killed-in-drone-attack-on-ghubaysh-market-article-13924137.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "sudan",
+      "civil",
+      "war",
+      "killed",
+      "drone",
+      "attack",
+      "ghubaysh",
+      "market",
+      "article",
+      "13924137.html"
+    ]
+  },
+  "TUR": {
     "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://english.wafa.ps/Pages/Details/170624",
+    "top_news": "https://athens-times.com/turkey-suspect-in-mersin-mass-shooting-found-dead-after-manhunt/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "pages",
-      "details",
-      "170624"
+      "turkey",
+      "suspect",
+      "mersin",
+      "mass",
+      "shooting",
+      "found",
+      "dead",
+      "after",
+      "manhunt"
     ]
   }
 }
