@@ -1,96 +1,71 @@
 {
   "IRN": {
-    "risk_score": 3.4,
+    "risk_score": 4.04,
     "count": 5,
-    "top_news": "https://www.siasat.com/report-reveals-horrors-of-us-missile-strike-on-school-in-irans-minab-3473464/",
+    "top_news": "https://news.az/news/tehran-police-arrest-two-alleged-infiltrators-posing-as-journalists",
     "event_codes": {
-      "14": 3,
-      "17": 1,
-      "19": 1
+      "15": 2,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "report",
-      "reveals",
-      "horrors",
-      "missile",
-      "strike",
-      "school",
-      "irans",
-      "minab",
-      "3473464"
+      "news",
+      "tehran",
+      "police",
+      "arrest",
+      "two",
+      "alleged",
+      "infiltrators",
+      "posing",
+      "journalists"
     ]
   },
   "ISR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/427289",
+    "risk_score": 6.25,
+    "count": 10,
+    "top_news": "https://english.wafa.ps/Pages/Details/170624",
     "event_codes": {
-      "16": 2,
-      "18": 1,
-      "19": 1
+      "17": 5,
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "427289"
-    ]
-  },
-  "MYS": {
-    "risk_score": 4.5,
-    "count": 9,
-    "top_news": "http://dailyexpress.com.my/news/281754/man-fined-for-damaging-ex-wife-s-vacuum-cleaner/",
-    "event_codes": {
-      "17": 9
-    },
-    "keywords": [
-      "news",
-      "281754",
-      "man",
-      "fined",
-      "for",
-      "damaging",
-      "wife",
-      "vacuum",
-      "cleaner"
+      "pages",
+      "details",
+      "170624"
     ]
   },
   "NGA": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://thesun.ng/nigerian-newspapers-major-stories-on-tuesday/",
+    "risk_score": 6.3,
+    "count": 11,
+    "top_news": "https://quicknews-africa.net/oyo-abductions-unacceptable-south-west-must-act-now-accord/",
     "event_codes": {
-      "17": 3,
-      "18": 1
+      "17": 9,
+      "18": 2
     },
     "keywords": [
-      "nigerian",
-      "newspapers",
-      "major",
-      "stories",
-      "tuesday"
+      "oyo",
+      "abductions",
+      "unacceptable",
+      "south",
+      "west",
+      "must",
+      "act",
+      "now",
+      "accord"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.irishtimes.com/culture/film/2026/05/19/tarik-saleh-a-country-with-a-lot-of-power-and-money-wanted-me-to-do-a-propaganda-series/",
+  "PSE": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://english.wafa.ps/Pages/Details/170624",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "culture",
-      "film",
-      "2026",
-      "tarik",
-      "saleh",
-      "country",
-      "with",
-      "lot",
-      "power",
-      "and",
-      "money",
-      "wanted",
-      "propaganda",
-      "series"
+      "pages",
+      "details",
+      "170624"
     ]
   }
 }
