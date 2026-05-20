@@ -1,85 +1,53 @@
 {
-  "EGY": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://foreignpolicy.com/2026/05/20/egypt-military-aid-congress/",
+  "COL": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://tol.org/client/article/colombians-caught-in-russias-war-on-ukraine.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 3,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "egypt",
-      "military",
-      "aid",
-      "congress"
+      "client",
+      "article",
+      "colombians",
+      "caught",
+      "russias",
+      "war",
+      "ukraine.html"
     ]
   },
   "IRN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/05/20/how-a-secret-us-plan-to-install-ahmadinejad-as-irans-leader-quickly-fell-apart/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thenational.scot/politics/26126111.plan-fed-donald-trump-pro-israel-lobby-catastrophe/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "how",
-      "secret",
-      "plan",
-      "install",
-      "ahmadinejad",
-      "irans",
-      "leader",
-      "quickly",
-      "fell",
-      "apart"
+      "politics",
+      "26126111.plan",
+      "fed",
+      "donald",
+      "trump",
+      "pro",
+      "israel",
+      "lobby",
+      "catastrophe"
     ]
   },
   "ISR": {
-    "risk_score": 12.6,
-    "count": 15,
-    "top_news": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage",
+    "risk_score": 4.6,
+    "count": 7,
+    "top_news": "https://www.israelnationalnews.com/news/427396",
     "event_codes": {
-      "19": 7,
-      "16": 4,
+      "16": 3,
       "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "features",
-      "2026",
-      "the",
-      "battle",
-      "perception",
-      "from",
-      "israels",
-      "fauda",
-      "hezbollahs",
-      "fpv",
-      "footage"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://havanatimes.org/news/international-news-briefs-for-wednesday-may-20-2026/",
-    "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
       "news",
-      "international",
-      "news",
-      "briefs",
-      "for",
-      "wednesday",
-      "may",
-      "2026"
+      "427396"
     ]
   }
 }
