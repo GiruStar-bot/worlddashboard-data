@@ -1,75 +1,110 @@
 {
-  "IRN": {
+  "EGY": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/gulf/5275177-un-security-council-condemns-attack-uae-nuclear-plant",
+    "count": 4,
+    "top_news": "https://www.egyptindependent.com/egyptian-police-arrests-tiktok-influencer-over-indecent-suggestive-content/",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
-      "gulf",
-      "5275177",
-      "security",
-      "council",
-      "condemns",
-      "attack",
-      "uae",
-      "nuclear",
-      "plant"
+      "egyptian",
+      "police",
+      "arrests",
+      "tiktok",
+      "influencer",
+      "over",
+      "indecent",
+      "suggestive",
+      "content"
     ]
   },
-  "ISR": {
-    "risk_score": 3.45,
-    "count": 5,
-    "top_news": "https://english.aawsat.com/arab-world/5275171-blank-ballots-impede-vote-new-hamas-leader",
+  "IRN": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.herald-dispatch.com/opinion/jill-ebstein-the-half-truths-we-tell-ourselves/article_fae28eb5-890b-4775-9fcf-8376934250b6.html",
     "event_codes": {
-      "14": 3,
+      "16": 3,
+      "19": 2,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5275171",
-      "blank",
-      "ballots",
-      "impede",
-      "vote",
-      "new",
-      "hamas",
-      "leader"
+      "opinion",
+      "jill",
+      "ebstein",
+      "the",
+      "half",
+      "truths",
+      "tell",
+      "ourselves",
+      "article",
+      "fae28eb5",
+      "890b",
+      "4775",
+      "9fcf",
+      "8376934250b6.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.8,
+    "count": 12,
+    "top_news": "https://www.timesofearth.com/2026/05/20/israeli-strikes-on-southern-lebanon-kill-19-including-children-and-women/",
+    "event_codes": {
+      "17": 8,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon",
+      "kill",
+      "including",
+      "children",
+      "and",
+      "women"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.timesofearth.com/2026/05/20/israeli-strikes-on-southern-lebanon-kill-19-including-children-and-women/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon",
+      "kill",
+      "including",
+      "children",
+      "and",
+      "women"
     ]
   },
   "NGA": {
-    "risk_score": 2.8,
+    "risk_score": 2.3,
     "count": 3,
-    "top_news": "https://blueprint.ng/review-nigeria-security-architecture-pfn-tells-fg/",
+    "top_news": "https://dailytrust.com/fubara-battles-wikes-men-for-apc-governorship-ticket/",
     "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "review",
-      "nigeria",
-      "security",
-      "architecture",
-      "pfn",
-      "tells"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-264883.html",
-    "event_codes": {
-      "17": 4,
+      "16": 1,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "index",
-      "news",
-      "national",
-      "byo",
-      "264883.html"
+      "fubara",
+      "battles",
+      "wikes",
+      "men",
+      "for",
+      "apc",
+      "governorship",
+      "ticket"
     ]
   }
 }
