@@ -1,48 +1,102 @@
 {
   "IRN": {
-    "risk_score": 6.4,
-    "count": 10,
-    "top_news": "https://www.nrc.nl/nieuws/2026/05/20/oil-prices-could-soon-rise-convulsively-a4927910",
+    "risk_score": 6.28,
+    "count": 7,
+    "top_news": "https://nbc24.com/news/nation-world/primaries-show-trump-gop-kingmaker-but-his-support-may-be-two-edged-sword-in-midterms",
     "event_codes": {
-      "14": 8,
-      "16": 1,
-      "17": 1
+      "19": 5,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "nieuws",
-      "2026",
-      "oil",
-      "prices",
-      "could",
-      "soon",
-      "rise",
-      "convulsively",
-      "a4927910"
+      "news",
+      "nation",
+      "world",
+      "primaries",
+      "show",
+      "trump",
+      "gop",
+      "kingmaker",
+      "but",
+      "his",
+      "support",
+      "may",
+      "two",
+      "edged",
+      "sword",
+      "midterms"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.algemeiner.com/2026/05/20/tucker-carlson-israeli-tv-us-israel-not-democracies-israel-most-violent-country-world/",
+    "risk_score": 15.42,
+    "count": 22,
+    "top_news": "https://www.wmuk.org/npr-news/2026-05-20/the-u-s-threatens-to-revoke-the-palestinian-u-n-ambassadors-visa",
     "event_codes": {
-      "16": 2,
-      "17": 1,
-      "18": 1,
-      "19": 1
+      "16": 9,
+      "17": 4,
+      "18": 4,
+      "19": 3,
+      "14": 2
     },
     "keywords": [
+      "npr",
+      "news",
       "2026",
-      "tucker",
-      "carlson",
-      "israeli",
-      "israel",
-      "not",
-      "democracies",
-      "israel",
-      "most",
-      "violent",
-      "country",
-      "world"
+      "the",
+      "threatens",
+      "revoke",
+      "the",
+      "palestinian",
+      "ambassadors",
+      "visa"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.newsx.com/world/former-cuban-president-raul-castro-charged-with-murder-in-us-linked-to-deadly-aircraft-attack-222784/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "former",
+      "cuban",
+      "president",
+      "raul",
+      "castro",
+      "charged",
+      "with",
+      "murder",
+      "linked",
+      "deadly",
+      "aircraft",
+      "attack",
+      "222784"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://6abc.com/post/drexel-university-honors-edison-64-killed-vietnam-war-ahead-memorial-day/19139242/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "post",
+      "drexel",
+      "university",
+      "honors",
+      "edison",
+      "killed",
+      "vietnam",
+      "war",
+      "ahead",
+      "memorial",
+      "day",
+      "19139242"
     ]
   }
 }
