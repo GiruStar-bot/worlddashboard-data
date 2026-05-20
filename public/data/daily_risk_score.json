@@ -1,53 +1,95 @@
 {
-  "COL": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://tol.org/client/article/colombians-caught-in-russias-war-on-ukraine.html",
-    "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
-      "client",
-      "article",
-      "colombians",
-      "caught",
-      "russias",
-      "war",
-      "ukraine.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenational.scot/politics/26126111.plan-fed-donald-trump-pro-israel-lobby-catastrophe/",
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.opednews.com/populum/page.php?f=Human-Rights-for-Enemies-O-Amnesty-International_Democracy-Now_Execution_Human-Rights-260520-8.html",
     "event_codes": {
-      "19": 2
+      "19": 11,
+      "18": 1
     },
     "keywords": [
-      "politics",
-      "26126111.plan",
-      "fed",
-      "donald",
-      "trump",
-      "pro",
-      "israel",
-      "lobby",
-      "catastrophe"
+      "populum",
+      "page.php"
     ]
   },
   "ISR": {
-    "risk_score": 4.6,
-    "count": 7,
-    "top_news": "https://www.israelnationalnews.com/news/427396",
+    "risk_score": 9.82,
+    "count": 11,
+    "top_news": "https://nypost.com/2026/05/20/opinion/massie-changed-his-voters-didnt-mosque-attacks-hidden-lesson-and-other-commentary/",
     "event_codes": {
-      "16": 3,
+      "18": 5,
+      "16": 2,
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "427396"
+      "2026",
+      "opinion",
+      "massie",
+      "changed",
+      "his",
+      "voters",
+      "didnt",
+      "mosque",
+      "attacks",
+      "hidden",
+      "lesson",
+      "and",
+      "other",
+      "commentary"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://foreignpolicy.com/2026/05/20/mali-rebels-kidal-fla-jnim-sahel-violence/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "mali",
+      "rebels",
+      "kidal",
+      "fla",
+      "jnim",
+      "sahel",
+      "violence"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.0,
+    "count": 12,
+    "top_news": "https://foreignpolicy.com/2026/05/20/mali-rebels-kidal-fla-jnim-sahel-violence/",
+    "event_codes": {
+      "18": 10,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "mali",
+      "rebels",
+      "kidal",
+      "fla",
+      "jnim",
+      "sahel",
+      "violence"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2644374/middle-east",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "node",
+      "2644374",
+      "middle",
+      "east"
     ]
   }
 }
