@@ -1,61 +1,106 @@
 {
   "IRN": {
-    "risk_score": 5.79,
-    "count": 8,
-    "top_news": "https://www.albawaba.com/news/iran-restarts-drone-production-during-1628289",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4380286",
     "event_codes": {
-      "17": 6,
-      "19": 2
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "iran",
-      "restarts",
-      "drone",
-      "production",
-      "during",
-      "1628289"
+      "tag",
+      "index"
     ]
   },
   "ISR": {
-    "risk_score": 6.37,
-    "count": 11,
-    "top_news": "https://www.newkerala.com/news/a/justice-will-served-white-house-declares-americas-enemies-930.htm",
+    "risk_score": 9.74,
+    "count": 13,
+    "top_news": "https://www.wusa9.com/article/news/crime/capital-jewish-museum-shooting-killed-israeli-embassy-employees-anniversary-one-year/65-6af0e9df-0295-4668-8d28-4550d9aca446",
     "event_codes": {
-      "17": 10,
+      "17": 7,
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "article",
+      "news",
+      "crime",
+      "capital",
+      "jewish",
+      "museum",
+      "shooting",
+      "killed",
+      "israeli",
+      "embassy",
+      "employees",
+      "anniversary",
+      "one",
+      "year",
+      "6af0e9df",
+      "0295",
+      "4668",
+      "8d28",
+      "4550d9aca446"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.05,
+    "count": 3,
+    "top_news": "https://www.the-star.co.ke/news/2026-05-21-ingotse-boys-closed-after-violent-night-rampage",
+    "event_codes": {
+      "14": 1,
+      "16": 1,
       "19": 1
     },
     "keywords": [
       "news",
-      "justice",
-      "will",
-      "served",
-      "white",
-      "house",
-      "declares",
-      "americas",
-      "enemies",
-      "930.htm"
+      "2026",
+      "ingotse",
+      "boys",
+      "closed",
+      "after",
+      "violent",
+      "night",
+      "rampage"
     ]
   },
   "NGA": {
-    "risk_score": 4.3,
-    "count": 8,
-    "top_news": "https://theeagleonline.com.ng/hisbah-nabs-nine-in-kebbi-raid-detains-23-foreign-nationals/",
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.freepressjournal.in/mumbai/navi-mumbai-crime-branch-arrests-3-nigerian-nationals-seizes-cocaine-worth-126-crore-in-vashis-juhugaon-raid",
     "event_codes": {
-      "17": 5,
-      "16": 2,
-      "19": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "hisbah",
-      "nabs",
-      "nine",
-      "kebbi",
-      "raid",
-      "detains",
-      "foreign",
-      "nationals"
+      "mumbai",
+      "navi",
+      "mumbai",
+      "crime",
+      "branch",
+      "arrests",
+      "nigerian",
+      "nationals",
+      "seizes",
+      "cocaine",
+      "worth",
+      "126",
+      "crore",
+      "vashis",
+      "juhugaon",
+      "raid"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sana.sy/en/syria/2318331/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "syria",
+      "2318331"
     ]
   }
 }
