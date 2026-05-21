@@ -1,36 +1,169 @@
 {
-  "ISR": {
-    "risk_score": 13.88,
-    "count": 17,
-    "top_news": "https://english.news.cn/20260521/faf4fbe96fbf40d2b89541c42db53d6e/c.html",
+  "IRN": {
+    "risk_score": 3.1,
+    "count": 4,
+    "top_news": "https://www.miamitimesonline.com/business/trump-discloses-thousands-of-stock-trades-some-in-companies-directly-influenced-by-his-policies/article_6b251cad-3f33-4553-862f-7b8f521eceac.html",
     "event_codes": {
-      "19": 8,
-      "16": 3,
-      "17": 3,
-      "18": 3
+      "18": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "20260521",
-      "faf4fbe96fbf40d2b89541c42db53d6e",
-      "c.html"
+      "business",
+      "trump",
+      "discloses",
+      "thousands",
+      "stock",
+      "trades",
+      "some",
+      "companies",
+      "directly",
+      "influenced",
+      "his",
+      "policies",
+      "article",
+      "6b251cad",
+      "3f33",
+      "4553",
+      "862f",
+      "7b8f521eceac.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.aina.org/news/20260521121751.htm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "20260521121751.htm"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.16,
+    "count": 22,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-shavuot-the-idf-remains-on-maximum-alert-on-all-fronts",
+    "event_codes": {
+      "17": 13,
+      "15": 5,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "defense",
+      "artc",
+      "shavuot",
+      "the",
+      "idf",
+      "remains",
+      "maximum",
+      "alert",
+      "all",
+      "fronts"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-shavuot-the-idf-remains-on-maximum-alert-on-all-fronts",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "defense",
+      "artc",
+      "shavuot",
+      "the",
+      "idf",
+      "remains",
+      "maximum",
+      "alert",
+      "all",
+      "fronts"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
+    "risk_score": 2.42,
     "count": 4,
-    "top_news": "https://dailypost.ng/2026/05/21/troops-storm-illegal-mining-site-in-abuja-arrest-10/",
+    "top_news": "https://punchng.com/police-nab-two-members-of-10-man-robbery-gang-in-edo/",
     "event_codes": {
       "17": 4
     },
     "keywords": [
-      "2026",
-      "troops",
-      "storm",
-      "illegal",
-      "mining",
-      "site",
-      "abuja",
-      "arrest"
+      "police",
+      "nab",
+      "two",
+      "members",
+      "man",
+      "robbery",
+      "gang",
+      "edo"
+    ]
+  },
+  "PSE": {
+    "risk_score": 26.56,
+    "count": 37,
+    "top_news": "https://imemc.org/article/israeli-forces-intensify-west-bank-invasions-thursday/",
+    "event_codes": {
+      "17": 29,
+      "18": 5,
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "forces",
+      "intensify",
+      "west",
+      "bank",
+      "invasions",
+      "thursday"
+    ]
+  },
+  "SOM": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.thenation.com/article/world/trump-somalia-donald-trump/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "article",
+      "world",
+      "trump",
+      "somalia",
+      "donald",
+      "trump"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.washingtonexaminer.com/news/justice/4577970/first-ice-officer-charged-for-assault-in-minneapolis-turns-himself-in-to-police/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "justice",
+      "4577970",
+      "first",
+      "ice",
+      "officer",
+      "charged",
+      "for",
+      "assault",
+      "minneapolis",
+      "turns",
+      "himself",
+      "police"
     ]
   }
 }
