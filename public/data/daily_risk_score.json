@@ -1,74 +1,112 @@
 {
   "IRN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-republican-primary-2028-rand-paul-b2981502.html",
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://calgarysun.com/news/bouvry-export-fort-macleod-plant-closed-horse-slaughter-canada",
     "event_codes": {
-      "19": 8
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "americas",
-      "politics",
-      "trump",
-      "republican",
-      "primary",
-      "2028",
-      "rand",
-      "paul",
-      "b2981502.html"
+      "bouvry",
+      "export",
+      "fort",
+      "macleod",
+      "plant",
+      "closed",
+      "horse",
+      "slaughter",
+      "canada"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://news.antiwar.com/2026/05/21/report-iran-reconstituting-its-military-much-faster-than-the-us-expected/",
+    "risk_score": 11.65,
+    "count": 13,
+    "top_news": "https://consortiumnews.com/2026/05/21/the-forgotten-story-of-palestinian-christians/",
     "event_codes": {
-      "19": 3
+      "18": 4,
+      "19": 4,
+      "20": 3,
+      "17": 2
     },
     "keywords": [
       "2026",
-      "report",
-      "iran",
-      "reconstituting",
-      "its",
-      "military",
-      "much",
-      "faster",
-      "than",
       "the",
-      "expected"
+      "forgotten",
+      "story",
+      "palestinian",
+      "christians"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://www.unionleader.com/news/courts/former-manchester-resident-who-allegedly-shot-at-border-patrol-agent-pleads-not-guilty/article_9e969d4c-8622-460e-a67d-2421b346df7a.html",
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-launches-new-drone-attacks-israeli-forces-south-lebanon",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "hezbollah",
+      "launches",
+      "new",
+      "drone",
+      "attacks",
+      "israeli",
+      "forces",
+      "south",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.75,
+    "count": 10,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/881731-ekiti-poll-apc-pdp-adc-10-others-sign-peace-accord.html",
+    "event_codes": {
+      "17": 6,
+      "18": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "courts",
-      "former",
-      "manchester",
-      "resident",
-      "who",
-      "allegedly",
-      "shot",
-      "border",
-      "patrol",
-      "agent",
-      "pleads",
-      "not",
-      "guilty",
-      "article",
-      "9e969d4c",
-      "8622",
-      "460e",
-      "a67d",
-      "2421b346df7a.html"
+      "top",
+      "news",
+      "881731",
+      "ekiti",
+      "poll",
+      "apc",
+      "pdp",
+      "adc",
+      "others",
+      "sign",
+      "peace",
+      "accord.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/world/europe/mastermind-of-greeces-november-17-terrorist-group-released-from-jail",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "world",
+      "europe",
+      "mastermind",
+      "greeces",
+      "november",
+      "terrorist",
+      "group",
+      "released",
+      "from",
+      "jail"
     ]
   }
 }
