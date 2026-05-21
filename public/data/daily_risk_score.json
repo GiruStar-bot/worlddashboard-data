@@ -1,37 +1,74 @@
 {
-  "MMR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bnionline.net/en/news/gunfire-resumes-near-rakhine-state-capital-sittwe",
+  "IRN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-republican-primary-2028-rand-paul-b2981502.html",
     "event_codes": {
-      "19": 2
+      "19": 8
     },
     "keywords": [
       "news",
-      "gunfire",
-      "resumes",
-      "near",
-      "rakhine",
-      "state",
-      "capital",
-      "sittwe"
+      "world",
+      "americas",
+      "politics",
+      "trump",
+      "republican",
+      "primary",
+      "2028",
+      "rand",
+      "paul",
+      "b2981502.html"
     ]
   },
-  "NGA": {
-    "risk_score": 4.84,
-    "count": 7,
-    "top_news": "https://www.nigerianeye.com/2026/05/buhari-tinubu-govt-enabled-fulani.html",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://news.antiwar.com/2026/05/21/report-iran-reconstituting-its-military-much-faster-than-the-us-expected/",
     "event_codes": {
-      "17": 6,
-      "19": 1
+      "19": 3
     },
     "keywords": [
       "2026",
-      "buhari",
-      "tinubu",
-      "govt",
-      "enabled",
-      "fulani.html"
+      "report",
+      "iran",
+      "reconstituting",
+      "its",
+      "military",
+      "much",
+      "faster",
+      "than",
+      "the",
+      "expected"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.unionleader.com/news/courts/former-manchester-resident-who-allegedly-shot-at-border-patrol-agent-pleads-not-guilty/article_9e969d4c-8622-460e-a67d-2421b346df7a.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "courts",
+      "former",
+      "manchester",
+      "resident",
+      "who",
+      "allegedly",
+      "shot",
+      "border",
+      "patrol",
+      "agent",
+      "pleads",
+      "not",
+      "guilty",
+      "article",
+      "9e969d4c",
+      "8622",
+      "460e",
+      "a67d",
+      "2421b346df7a.html"
     ]
   }
 }
