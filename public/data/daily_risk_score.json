@@ -1,116 +1,136 @@
 {
-  "BOL": {
-    "risk_score": 2.88,
-    "count": 4,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/876821/us-pentagon-report-leaves-kyiv-in-shock-your-deep-war-has-failed-to-paralyze-russia-s-military-machine",
-    "event_codes": {
-      "15": 4
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "876821",
-      "pentagon",
-      "report",
-      "leaves",
-      "kyiv",
-      "shock",
-      "your",
-      "deep",
-      "war",
-      "has",
-      "failed",
-      "paralyze",
-      "russia",
-      "military",
-      "machine"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.65,
-    "count": 5,
-    "top_news": "https://www.thejakartapost.com/business/2026/05/22/meta-began-laying-off-roughly-8000-employees.html",
-    "event_codes": {
-      "17": 4,
-      "14": 1
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "meta",
-      "began",
-      "laying",
-      "off",
-      "roughly",
-      "8000",
-      "employees.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.al-monitor.com/originals/2026/05/middle-east-war-casts-shadow-over-million-strong-hajj-pilgrimage",
+    "risk_score": 7.9,
+    "count": 10,
+    "top_news": "https://english.aawsat.com/opinion/5276106-worlds-outer-appearance-and-inner-reality-eyes-irans-leaders",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "middle",
-      "east",
-      "war",
-      "casts",
-      "shadow",
-      "over",
-      "million",
-      "strong",
-      "hajj",
-      "pilgrimage"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "https://www.theglobeandmail.com/politics/article-canada-israel-relations-worst-ambassador-iddo-moed/",
-    "event_codes": {
-      "19": 6,
-      "16": 1,
+      "19": 5,
+      "17": 4,
       "18": 1
     },
     "keywords": [
-      "politics",
-      "article",
-      "canada",
-      "israel",
-      "relations",
-      "worst",
-      "ambassador",
-      "iddo",
-      "moed"
+      "opinion",
+      "5276106",
+      "worlds",
+      "outer",
+      "appearance",
+      "and",
+      "inner",
+      "reality",
+      "eyes",
+      "irans",
+      "leaders"
     ]
   },
-  "THA": {
-    "risk_score": 4.85,
+  "ISR": {
+    "risk_score": 4.55,
     "count": 5,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/22/thai-army-says-cambodian-shots-near-surin-violated-ceasefire-understanding",
+    "top_news": "https://edition.cnn.com/2026/05/21/us/anniversary-washington-museum-attack-survivors-scli-intl",
+    "event_codes": {
+      "19": 3,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "anniversary",
+      "washington",
+      "museum",
+      "attack",
+      "survivors",
+      "scli",
+      "intl"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.christianitytoday.com/2026/05/sudan-war-leaves-churches-in-ruins/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "2026",
+      "sudan",
+      "war",
+      "leaves",
+      "churches",
+      "ruins"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.garoweonline.com/en/news/somalia/somalia-clashes-erupt-outside-baidoa-between-federal-troops-and-forces-loyal-to-ousted-southwest-leader",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "aseanplus",
-      "aseanplus",
       "news",
+      "somalia",
+      "somalia",
+      "clashes",
+      "erupt",
+      "outside",
+      "baidoa",
+      "between",
+      "federal",
+      "troops",
+      "and",
+      "forces",
+      "loyal",
+      "ousted",
+      "southwest",
+      "leader"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.24,
+    "count": 4,
+    "top_news": "https://www.clickondetroit.com/news/politics/2026/05/22/the-latest-trump-heads-to-a-competitive-new-york-district-as-voters-sour-on-the-economy/",
+    "event_codes": {
+      "15": 2,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "politics",
       "2026",
-      "thai",
-      "army",
-      "says",
-      "cambodian",
-      "shots",
-      "near",
-      "surin",
-      "violated",
-      "ceasefire",
-      "understanding"
+      "the",
+      "latest",
+      "trump",
+      "heads",
+      "competitive",
+      "new",
+      "york",
+      "district",
+      "voters",
+      "sour",
+      "the",
+      "economy"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 5.5,
+    "count": 7,
+    "top_news": "https://www.newsday.co.zw/local-news/article/200055849/petrol-attack-over-us1-change-lands-mazowe-in-jail",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "local",
+      "news",
+      "article",
+      "200055849",
+      "petrol",
+      "attack",
+      "over",
+      "us1",
+      "change",
+      "lands",
+      "mazowe",
+      "jail"
     ]
   }
 }
