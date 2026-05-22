@@ -1,97 +1,66 @@
 {
-  "BRA": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/05/22/estranged-husband-convicted-of-murder-for-hire-in-killing-of-new-york-city-art-dealer-in-brazil",
+  "ISR": {
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://uscatholic.org/articles/202605/what-were-reading-this-month-may-2026/",
     "event_codes": {
-      "17": 6,
-      "19": 3
+      "19": 7,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
+      "articles",
+      "202605",
+      "what",
+      "were",
+      "reading",
+      "this",
+      "month",
+      "may",
+      "2026"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4580114/israel-national-arrest-cyprus-airport-human-embryos-mexico/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "4580114",
+      "israel",
+      "national",
+      "arrest",
+      "cyprus",
+      "airport",
+      "human",
+      "embryos",
+      "mexico"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.65,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/news/world/2026-05-22-tulsi-gabbard-to-resign-as-us-director-of-national-intelligence",
+    "event_codes": {
+      "17": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
       "world",
       "2026",
-      "estranged",
-      "husband",
-      "convicted",
-      "murder",
-      "for",
-      "hire",
-      "killing",
-      "new",
-      "york",
-      "city",
-      "art",
-      "dealer",
-      "brazil"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.thehindu.com/news/international/pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war/article71012397.ece",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "international",
-      "pakistan",
-      "military",
-      "chief",
-      "asim",
-      "munir",
-      "arrives",
-      "tehran",
-      "push",
-      "end",
-      "iran",
-      "war",
-      "article71012397.ece"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.9,
-    "count": 12,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-897024",
-    "event_codes": {
-      "17": 5,
-      "19": 3,
-      "16": 2,
-      "18": 2
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "crime",
-      "israel",
-      "article",
-      "897024"
-    ]
-  },
-  "VNM": {
-    "risk_score": 4.44,
-    "count": 5,
-    "top_news": "https://www.taosnews.com/news/local-news/memorial-day-across-the-enchanted-circle/article_6bb761d6-adc0-5da8-ba44-c147034ebb6b.html",
-    "event_codes": {
-      "19": 3,
-      "15": 2
-    },
-    "keywords": [
-      "news",
-      "local",
-      "news",
-      "memorial",
-      "day",
-      "across",
-      "the",
-      "enchanted",
-      "circle",
-      "article",
-      "6bb761d6",
-      "adc0",
-      "5da8",
-      "ba44",
-      "c147034ebb6b.html"
+      "tulsi",
+      "gabbard",
+      "resign",
+      "director",
+      "national",
+      "intelligence"
     ]
   }
 }
