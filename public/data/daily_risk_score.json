@@ -1,46 +1,97 @@
 {
-  "IRN": {
-    "risk_score": 4.82,
-    "count": 6,
-    "top_news": "https://artvoice.com/2026/05/22/naval-fleet-is-getting-lasers-and-heres-what-it-will-look-like/",
+  "BRA": {
+    "risk_score": 6.0,
+    "count": 9,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/05/22/estranged-husband-convicted-of-murder-for-hire-in-killing-of-new-york-city-art-dealer-in-brazil",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "16": 1
+      "17": 6,
+      "19": 3
     },
     "keywords": [
+      "world",
       "2026",
-      "naval",
-      "fleet",
-      "getting",
-      "lasers",
-      "and",
-      "heres",
-      "what",
-      "will",
-      "look",
-      "like"
+      "estranged",
+      "husband",
+      "convicted",
+      "murder",
+      "for",
+      "hire",
+      "killing",
+      "new",
+      "york",
+      "city",
+      "art",
+      "dealer",
+      "brazil"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/news/international/pakistan-military-chief-asim-munir-arrives-in-tehran-in-push-to-end-iran-war/article71012397.ece",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "international",
+      "pakistan",
+      "military",
+      "chief",
+      "asim",
+      "munir",
+      "arrives",
+      "tehran",
+      "push",
+      "end",
+      "iran",
+      "war",
+      "article71012397.ece"
     ]
   },
   "ISR": {
-    "risk_score": 9.1,
-    "count": 10,
-    "top_news": "https://news.antiwar.com/2026/05/22/israeli-strikes-on-southern-lebanon-kill-10-including-six-paramedics/",
+    "risk_score": 8.9,
+    "count": 12,
+    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-897024",
     "event_codes": {
-      "19": 5,
-      "18": 4,
-      "17": 1
+      "17": 5,
+      "19": 3,
+      "16": 2,
+      "18": 2
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon",
-      "kill",
-      "including",
-      "six",
-      "paramedics"
+      "israel",
+      "news",
+      "crime",
+      "israel",
+      "article",
+      "897024"
+    ]
+  },
+  "VNM": {
+    "risk_score": 4.44,
+    "count": 5,
+    "top_news": "https://www.taosnews.com/news/local-news/memorial-day-across-the-enchanted-circle/article_6bb761d6-adc0-5da8-ba44-c147034ebb6b.html",
+    "event_codes": {
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "local",
+      "news",
+      "memorial",
+      "day",
+      "across",
+      "the",
+      "enchanted",
+      "circle",
+      "article",
+      "6bb761d6",
+      "adc0",
+      "5da8",
+      "ba44",
+      "c147034ebb6b.html"
     ]
   }
 }
