@@ -1,104 +1,116 @@
 {
-  "ISR": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.naharnet.com/stories/en/320282-israeli-strike-damages-hospital-in-south-lebanon",
+  "BOL": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/876821/us-pentagon-report-leaves-kyiv-in-shock-your-deep-war-has-failed-to-paralyze-russia-s-military-machine",
     "event_codes": {
-      "19": 4,
+      "15": 4
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "876821",
+      "pentagon",
+      "report",
+      "leaves",
+      "kyiv",
+      "shock",
+      "your",
+      "deep",
+      "war",
+      "has",
+      "failed",
+      "paralyze",
+      "russia",
+      "military",
+      "machine"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.65,
+    "count": 5,
+    "top_news": "https://www.thejakartapost.com/business/2026/05/22/meta-began-laying-off-roughly-8000-employees.html",
+    "event_codes": {
+      "17": 4,
+      "14": 1
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "meta",
+      "began",
+      "laying",
+      "off",
+      "roughly",
+      "8000",
+      "employees.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/05/middle-east-war-casts-shadow-over-million-strong-hajj-pilgrimage",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "middle",
+      "east",
+      "war",
+      "casts",
+      "shadow",
+      "over",
+      "million",
+      "strong",
+      "hajj",
+      "pilgrimage"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.5,
+    "count": 8,
+    "top_news": "https://www.theglobeandmail.com/politics/article-canada-israel-relations-worst-ambassador-iddo-moed/",
+    "event_codes": {
+      "19": 6,
+      "16": 1,
       "18": 1
     },
     "keywords": [
-      "stories",
-      "320282",
-      "israeli",
-      "strike",
-      "damages",
-      "hospital",
-      "south",
-      "lebanon"
+      "politics",
+      "article",
+      "canada",
+      "israel",
+      "relations",
+      "worst",
+      "ambassador",
+      "iddo",
+      "moed"
     ]
   },
-  "LBN": {
-    "risk_score": 6.6,
-    "count": 8,
-    "top_news": "https://www.naharnet.com/stories/en/320272-hezbollah-says-lebanese-left-with-no-choice-but-to-resist-occupation",
+  "THA": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/22/thai-army-says-cambodian-shots-near-surin-violated-ceasefire-understanding",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "17": 2
+      "19": 5
     },
     "keywords": [
-      "stories",
-      "320272",
-      "hezbollah",
-      "says",
-      "lebanese",
-      "left",
-      "with",
-      "choice",
-      "but",
-      "resist",
-      "occupation"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.5,
-    "count": 11,
-    "top_news": "https://punchng.com/morning-recap-dhq-says-dislodged-jas-terrorists-responsible-for-oyo-kidnap-tinubu-appoints-new-jamb-registrar-other-top-stories/",
-    "event_codes": {
-      "18": 5,
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "morning",
-      "recap",
-      "dhq",
-      "says",
-      "dislodged",
-      "jas",
-      "terrorists",
-      "responsible",
-      "for",
-      "oyo",
-      "kidnap",
-      "tinubu",
-      "appoints",
-      "new",
-      "jamb",
-      "registrar",
-      "other",
-      "top",
-      "stories"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hometownstation.com/santa-clarita-news/scv-emergency/santa-clarita-fire/fire-breaks-out-along-santa-clara-river-near-valencia-boulevard-595190",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "santa",
-      "clarita",
+      "aseanplus",
+      "aseanplus",
       "news",
-      "scv",
-      "emergency",
-      "santa",
-      "clarita",
-      "fire",
-      "fire",
-      "breaks",
-      "out",
-      "along",
-      "santa",
-      "clara",
-      "river",
+      "2026",
+      "thai",
+      "army",
+      "says",
+      "cambodian",
+      "shots",
       "near",
-      "valencia",
-      "boulevard",
-      "595190"
+      "surin",
+      "violated",
+      "ceasefire",
+      "understanding"
     ]
   }
 }
