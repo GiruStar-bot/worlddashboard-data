@@ -1,37 +1,104 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thehindubusinessline.com/news/world/progress-in-iran-talks-undercut-over-uranium-hormuz-tolls/article71009063.ece",
+  "ISR": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.naharnet.com/stories/en/320282-israeli-strike-damages-hospital-in-south-lebanon",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "progress",
-      "iran",
-      "talks",
-      "undercut",
-      "over",
-      "uranium",
-      "hormuz",
-      "tolls",
-      "article71009063.ece"
+      "stories",
+      "320282",
+      "israeli",
+      "strike",
+      "damages",
+      "hospital",
+      "south",
+      "lebanon"
     ]
   },
-  "ISR": {
+  "LBN": {
+    "risk_score": 6.6,
+    "count": 8,
+    "top_news": "https://www.naharnet.com/stories/en/320272-hezbollah-says-lebanese-left-with-no-choice-but-to-resist-occupation",
+    "event_codes": {
+      "19": 4,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "stories",
+      "320272",
+      "hezbollah",
+      "says",
+      "lebanese",
+      "left",
+      "with",
+      "choice",
+      "but",
+      "resist",
+      "occupation"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.5,
+    "count": 11,
+    "top_news": "https://punchng.com/morning-recap-dhq-says-dislodged-jas-terrorists-responsible-for-oyo-kidnap-tinubu-appoints-new-jamb-registrar-other-top-stories/",
+    "event_codes": {
+      "18": 5,
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "morning",
+      "recap",
+      "dhq",
+      "says",
+      "dislodged",
+      "jas",
+      "terrorists",
+      "responsible",
+      "for",
+      "oyo",
+      "kidnap",
+      "tinubu",
+      "appoints",
+      "new",
+      "jamb",
+      "registrar",
+      "other",
+      "top",
+      "stories"
+    ]
+  },
+  "VEN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://spectator.org/the-media-war-on-israel/",
+    "top_news": "https://www.hometownstation.com/santa-clarita-news/scv-emergency/santa-clarita-fire/fire-breaks-out-along-santa-clara-river-near-valencia-boulevard-595190",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "the",
-      "media",
-      "war",
-      "israel"
+      "santa",
+      "clarita",
+      "news",
+      "scv",
+      "emergency",
+      "santa",
+      "clarita",
+      "fire",
+      "fire",
+      "breaks",
+      "out",
+      "along",
+      "santa",
+      "clara",
+      "river",
+      "near",
+      "valencia",
+      "boulevard",
+      "595190"
     ]
   }
 }
