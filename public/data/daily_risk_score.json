@@ -1,85 +1,146 @@
 {
-  "ISR": {
-    "risk_score": 8.25,
-    "count": 10,
-    "top_news": "https://sana.sy/en/syria/2318630/",
+  "IRN": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://investinglive.com:443/news/wsj-critical-stage-in-iran-negotiations-mediators-rush-to-prevent-military-action-20260522/",
     "event_codes": {
-      "19": 5,
-      "17": 3,
-      "18": 2
+      "14": 4,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "syria",
-      "2318630"
+      "news",
+      "wsj",
+      "critical",
+      "stage",
+      "iran",
+      "negotiations",
+      "mediators",
+      "rush",
+      "prevent",
+      "military",
+      "action",
+      "20260522"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.navytimes.com/veterans/2026/05/22/veteran-who-lost-both-of-his-legs-in-combat-reenlists-in-the-marine-corps/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "veterans",
+      "2026",
+      "veteran",
+      "who",
+      "lost",
+      "both",
+      "his",
+      "legs",
+      "combat",
+      "reenlists",
+      "the",
+      "marine",
+      "corps"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.2,
+    "count": 9,
+    "top_news": "https://www.whyisrael.org/jns-org/tree-of-life-officer-daniel-mead-given-hometown-hero-award/",
+    "event_codes": {
+      "19": 5,
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "jns",
+      "org",
+      "tree",
+      "life",
+      "officer",
+      "daniel",
+      "mead",
+      "given",
+      "hometown",
+      "hero",
+      "award"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.greenpeace.org/international/story/83698/south-lebanon-ecocide-environmental-destruction/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "international",
+      "story",
+      "83698",
+      "south",
+      "lebanon",
+      "ecocide",
+      "environmental",
+      "destruction"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://blueprint.ng/ndom-csos-nhrc-mourn-deceased-nigerians-demand-end-to-killings/",
+    "risk_score": 10.0,
+    "count": 13,
+    "top_news": "https://www.opinionnigeria.com/while-headlines-celebrate-successful-strikes-ordinary-citizens-still-endure-insecurity-daily-nigerians-question-the-impact-of-u-s-nigeria-military-collaboration-by-daniel-nduka-okonkwo/",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 7,
+      "17": 6
     },
     "keywords": [
-      "ndom",
-      "csos",
-      "nhrc",
-      "mourn",
-      "deceased",
+      "while",
+      "headlines",
+      "celebrate",
+      "successful",
+      "strikes",
+      "ordinary",
+      "citizens",
+      "still",
+      "endure",
+      "insecurity",
+      "daily",
       "nigerians",
-      "demand",
-      "end",
-      "killings"
+      "question",
+      "the",
+      "impact",
+      "nigeria",
+      "military",
+      "collaboration",
+      "daniel",
+      "nduka",
+      "okonkwo"
     ]
   },
   "SYR": {
-    "risk_score": 3.0,
+    "risk_score": 2.16,
     "count": 3,
-    "top_news": "https://www.manilatimes.net/2026/05/22/news/world/a-grieving-father-buries-his-6-year-old-after-a-land-mine-kills-3-children-in-syrias-idlib/2350258",
+    "top_news": "https://www.defensenews.com/global/europe/2026/05/22/libya-and-syria-join-turkeys-flagship-military-exercise-in-historic-firsts/",
     "event_codes": {
-      "19": 3
+      "15": 3
     },
     "keywords": [
+      "global",
+      "europe",
       "2026",
-      "news",
-      "world",
-      "grieving",
-      "father",
-      "buries",
-      "his",
-      "year",
-      "old",
-      "after",
-      "land",
-      "mine",
-      "kills",
-      "children",
-      "syrias",
-      "idlib",
-      "2350258"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.5,
-    "count": 8,
-    "top_news": "https://www.al-monitor.com/originals/2026/05/factbox-turkey-court-ruling-adds-crackdown-main-opposition-chp",
-    "event_codes": {
-      "17": 7,
-      "16": 1
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "factbox",
-      "turkey",
-      "court",
-      "ruling",
-      "adds",
-      "crackdown",
-      "main",
-      "opposition",
-      "chp"
+      "libya",
+      "and",
+      "syria",
+      "join",
+      "turkeys",
+      "flagship",
+      "military",
+      "exercise",
+      "historic",
+      "firsts"
     ]
   }
 }
