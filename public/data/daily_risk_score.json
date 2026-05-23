@@ -1,70 +1,132 @@
 {
+  "IRN": {
+    "risk_score": 7.4,
+    "count": 9,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-897046",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "897046"
+    ]
+  },
   "ISR": {
+    "risk_score": 2.6,
+    "count": 3,
+    "top_news": "https://foxwilmington.com/military-families-demand-doj-distribute-nearly-800m-from-french-cement-company-found-guilty-of-bribing-isis/",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "military",
+      "families",
+      "demand",
+      "doj",
+      "distribute",
+      "nearly",
+      "800m",
+      "from",
+      "french",
+      "cement",
+      "company",
+      "found",
+      "guilty",
+      "bribing",
+      "isis"
+    ]
+  },
+  "JOR": {
+    "risk_score": 5.15,
+    "count": 7,
+    "top_news": "https://www.nwemail.co.uk/news/26133978.three-dock-tensions-rose-outside-cumbrian-pub/",
+    "event_codes": {
+      "17": 3,
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "26133978.three",
+      "dock",
+      "tensions",
+      "rose",
+      "outside",
+      "cumbrian",
+      "pub"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://en.apa.az/asia/israel-defense-forces-says-hezbollah-weapons-production-site-targeted-in-lebanon-strikes-508203",
+    "top_news": "https://www.arkansasonline.com/news/2026/may/23/israeli-strikes-kill-ten-in-lebanon-despite/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "asia",
-      "israel",
-      "defense",
-      "forces",
-      "says",
-      "hezbollah",
-      "weapons",
-      "production",
-      "site",
-      "targeted",
-      "lebanon",
+      "news",
+      "2026",
+      "may",
+      "israeli",
       "strikes",
-      "508203"
+      "kill",
+      "ten",
+      "lebanon",
+      "despite"
     ]
   },
   "NGA": {
-    "risk_score": 19.06,
-    "count": 22,
-    "top_news": "https://saharareporters.com/2026/05/23/chief-imam-demands-death-penalty-kidnappers-oyo-schoolchildren-teachers-says-no-amnesty",
+    "risk_score": 18.7,
+    "count": 24,
+    "top_news": "https://www.thecable.ng/the-decisive-strike-what-al-minukis-fall-means-for-nigeria/",
     "event_codes": {
-      "19": 10,
-      "18": 6,
-      "15": 3,
-      "17": 3
+      "17": 9,
+      "18": 8,
+      "19": 7
     },
     "keywords": [
-      "2026",
-      "chief",
-      "imam",
-      "demands",
-      "death",
-      "penalty",
-      "kidnappers",
-      "oyo",
-      "schoolchildren",
-      "teachers",
-      "says",
-      "amnesty"
+      "the",
+      "decisive",
+      "strike",
+      "what",
+      "minukis",
+      "fall",
+      "means",
+      "for",
+      "nigeria"
     ]
   },
   "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.apa.az/asia/national-intelligence-organization-conducts-operation-against-isis-in-syria-508195",
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.okaz.com.sa/politics/na/2249898",
     "event_codes": {
-      "19": 2
+      "17": 5
     },
     "keywords": [
-      "asia",
-      "national",
-      "intelligence",
-      "organization",
-      "conducts",
-      "operation",
-      "against",
-      "isis",
-      "syria",
-      "508195"
+      "politics",
+      "2249898"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.okaz.com.sa/politics/na/2249888",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "politics",
+      "2249888"
     ]
   }
 }
