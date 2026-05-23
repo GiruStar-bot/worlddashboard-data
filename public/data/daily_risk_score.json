@@ -1,65 +1,70 @@
 {
-  "COL": {
-    "risk_score": 3.25,
-    "count": 5,
-    "top_news": "https://countercurrents.org/2026/05/israel-and-latin-american-christian-zionists-seek-to-promote-isaac-accords/",
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.apa.az/asia/israel-defense-forces-says-hezbollah-weapons-production-site-targeted-in-lebanon-strikes-508203",
     "event_codes": {
-      "14": 5
+      "19": 2
     },
     "keywords": [
-      "2026",
+      "asia",
       "israel",
-      "and",
-      "latin",
-      "american",
-      "christian",
-      "zionists",
-      "seek",
-      "promote",
-      "isaac",
-      "accords"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.84,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/05/23/man-nabbed-after-failed-snatch-theft-attempt-in-hospital-parking-lot",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "man",
-      "nabbed",
-      "after",
-      "failed",
-      "snatch",
-      "theft",
-      "attempt",
-      "hospital",
-      "parking",
-      "lot"
+      "defense",
+      "forces",
+      "says",
+      "hezbollah",
+      "weapons",
+      "production",
+      "site",
+      "targeted",
+      "lebanon",
+      "strikes",
+      "508203"
     ]
   },
   "NGA": {
-    "risk_score": 39.65,
-    "count": 44,
-    "top_news": "https://dailytrust.com/how-thugs-killed-7-persons-in-one-week-in-kano/",
+    "risk_score": 19.06,
+    "count": 22,
+    "top_news": "https://saharareporters.com/2026/05/23/chief-imam-demands-death-penalty-kidnappers-oyo-schoolchildren-teachers-says-no-amnesty",
     "event_codes": {
-      "18": 19,
-      "19": 18,
-      "14": 7
+      "19": 10,
+      "18": 6,
+      "15": 3,
+      "17": 3
     },
     "keywords": [
-      "how",
-      "thugs",
-      "killed",
-      "persons",
-      "one",
-      "week",
-      "kano"
+      "2026",
+      "chief",
+      "imam",
+      "demands",
+      "death",
+      "penalty",
+      "kidnappers",
+      "oyo",
+      "schoolchildren",
+      "teachers",
+      "says",
+      "amnesty"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.apa.az/asia/national-intelligence-organization-conducts-operation-against-isis-in-syria-508195",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "national",
+      "intelligence",
+      "organization",
+      "conducts",
+      "operation",
+      "against",
+      "isis",
+      "syria",
+      "508195"
     ]
   }
 }
