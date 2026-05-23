@@ -1,46 +1,65 @@
 {
-  "EGY": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.theargus.co.uk/news/26119488.may-month-cockchafer-says-sussex-wildlife-trust/",
+  "COL": {
+    "risk_score": 3.25,
+    "count": 5,
+    "top_news": "https://countercurrents.org/2026/05/israel-and-latin-american-christian-zionists-seek-to-promote-isaac-accords/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "14": 5
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "and",
+      "latin",
+      "american",
+      "christian",
+      "zionists",
+      "seek",
+      "promote",
+      "isaac",
+      "accords"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.84,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/05/23/man-nabbed-after-failed-snatch-theft-attempt-in-hospital-parking-lot",
+    "event_codes": {
+      "17": 4
     },
     "keywords": [
       "news",
-      "26119488.may",
-      "month",
-      "cockchafer",
-      "says",
-      "sussex",
-      "wildlife",
-      "trust"
+      "nation",
+      "2026",
+      "man",
+      "nabbed",
+      "after",
+      "failed",
+      "snatch",
+      "theft",
+      "attempt",
+      "hospital",
+      "parking",
+      "lot"
     ]
   },
-  "KWT": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.thevermilion.com/leonardo-signs-a-320-million-deal-to-arm-kuwaits-new-missile-ships-in-the-gulf/article_18206/",
+  "NGA": {
+    "risk_score": 39.65,
+    "count": 44,
+    "top_news": "https://dailytrust.com/how-thugs-killed-7-persons-in-one-week-in-kano/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "18": 19,
+      "19": 18,
+      "14": 7
     },
     "keywords": [
-      "leonardo",
-      "signs",
-      "320",
-      "million",
-      "deal",
-      "arm",
-      "kuwaits",
-      "new",
-      "missile",
-      "ships",
-      "the",
-      "gulf",
-      "article",
-      "18206"
+      "how",
+      "thugs",
+      "killed",
+      "persons",
+      "one",
+      "week",
+      "kano"
     ]
   }
 }
