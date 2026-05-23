@@ -1,94 +1,78 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://article.wn.com/view/2026/05/23/Three_months_in_is_Trump_losing_the_Iran_war_5/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dw.com/en/who-will-win-as-new-alliances-emerge-in-middle-east/a-77246663",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "view",
+      "who",
+      "will",
+      "win",
+      "new",
+      "alliances",
+      "emerge",
+      "middle",
+      "east",
+      "77246663"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/23/769145/Iran-Pakistan-Qalibaf-Munir",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "detail",
       "2026",
-      "three",
-      "months",
-      "trump",
-      "losing",
-      "the",
+      "769145",
       "iran",
-      "war"
+      "pakistan",
+      "qalibaf",
+      "munir"
     ]
   },
   "ISR": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.clickorlando.com/news/world/2026/05/23/france-bans-israeli-minister-itamar-ben-gvir-after-unspeakable-flotilla-detainee-taunts/",
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/23/769145/Iran-Pakistan-Qalibaf-Munir",
     "event_codes": {
-      "17": 5
+      "19": 3,
+      "17": 2,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "769145",
+      "iran",
+      "pakistan",
+      "qalibaf",
+      "munir"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.3,
+    "count": 10,
+    "top_news": "https://www.rte.ie/news/world/2026/0523/1574900-iran-lebanon/",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
       "news",
       "world",
       "2026",
-      "france",
-      "bans",
-      "israeli",
-      "minister",
-      "itamar",
-      "ben",
-      "gvir",
-      "after",
-      "unspeakable",
-      "flotilla",
-      "detainee",
-      "taunts"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.6,
-    "count": 3,
-    "top_news": "https://www.naharnet.com/stories/en/320286-israeli-strikes-on-deir-qanoun-and-hanaway-kill-10-including-child-and-6-rescuers",
-    "event_codes": {
-      "16": 2,
-      "19": 1
-    },
-    "keywords": [
-      "stories",
-      "320286",
-      "israeli",
-      "strikes",
-      "deir",
-      "qanoun",
-      "and",
-      "hanaway",
-      "kill",
-      "including",
-      "child",
-      "and",
-      "rescuers"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ibtimes.co.uk/israeli-man-arrested-cyprus-airport-four-human-embryos-cryogenic-container-labelled-life-parcel-1798483",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israeli",
-      "man",
-      "arrested",
-      "cyprus",
-      "airport",
-      "four",
-      "human",
-      "embryos",
-      "cryogenic",
-      "container",
-      "labelled",
-      "life",
-      "parcel",
-      "1798483"
+      "0523",
+      "1574900",
+      "iran",
+      "lebanon"
     ]
   }
 }
