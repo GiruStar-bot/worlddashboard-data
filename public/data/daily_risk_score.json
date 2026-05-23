@@ -1,1 +1,98 @@
-{}
+{
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thehindu.com/news/international/raul-castro-the-old-man-and-the-siege/article71015484.ece",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "raul",
+      "castro",
+      "the",
+      "old",
+      "man",
+      "and",
+      "the",
+      "siege",
+      "article71015484.ece"
+    ]
+  },
+  "CMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/882201-12-terrorists-killed-in-foiled-attack-on-borno-military-base-army.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "882201",
+      "terrorists",
+      "killed",
+      "foiled",
+      "attack",
+      "borno",
+      "military",
+      "base",
+      "army.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 48.6,
+    "count": 53,
+    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-21-april-2026-2/",
+    "event_codes": {
+      "19": 31,
+      "17": 11,
+      "18": 11
+    },
+    "keywords": [
+      "occupied",
+      "palestine",
+      "april",
+      "2026"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.arabtimesonline.com/news/kuwait-reaffirms-commitment-to-protecting-civilians-under-international-humanitarian-law/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "kuwait",
+      "reaffirms",
+      "commitment",
+      "protecting",
+      "civilians",
+      "under",
+      "international",
+      "humanitarian",
+      "law"
+    ]
+  },
+  "PSE": {
+    "risk_score": 44.61,
+    "count": 47,
+    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-21-april-2026-2/",
+    "event_codes": {
+      "19": 30,
+      "18": 12,
+      "17": 5
+    },
+    "keywords": [
+      "occupied",
+      "palestine",
+      "april",
+      "2026"
+    ]
+  }
+}
