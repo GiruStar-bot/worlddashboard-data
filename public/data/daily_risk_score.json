@@ -1,42 +1,38 @@
 {
-  "IRN": {
-    "risk_score": 3.5,
+  "ISR": {
+    "risk_score": 3.85,
     "count": 5,
-    "top_news": "https://www.heraldscotland.com/news/26134338.truth-trauma-one-scotlands-leading-psychiatrists/",
+    "top_news": "https://slguardian.org/from-fringe-to-cabinet-power-itamar-ben-gvir-and-israels-hard-right-revolution/",
     "event_codes": {
-      "16": 4,
-      "18": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "26134338.truth",
-      "trauma",
-      "one",
-      "scotlands",
-      "leading",
-      "psychiatrists"
+      "from",
+      "fringe",
+      "cabinet",
+      "power",
+      "itamar",
+      "ben",
+      "gvir",
+      "and",
+      "israels",
+      "hard",
+      "right",
+      "revolution"
     ]
   },
-  "ISR": {
-    "risk_score": 5.8,
-    "count": 8,
-    "top_news": "https://english.aawsat.com/features/5276608-report-netanyahu-relegated-partner-passenger-trumps-war-iran",
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nhgazette.com/2026/05/24/sun-may-24-2/",
     "event_codes": {
-      "17": 4,
-      "19": 3,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "features",
-      "5276608",
-      "report",
-      "netanyahu",
-      "relegated",
-      "partner",
-      "passenger",
-      "trumps",
-      "war",
-      "iran"
+      "2026",
+      "sun",
+      "may"
     ]
   }
 }
