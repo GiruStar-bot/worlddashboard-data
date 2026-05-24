@@ -1,20 +1,61 @@
 {
-  "NGA": {
-    "risk_score": 7.2,
-    "count": 12,
-    "top_news": "https://promptnewsonline.com/police-rescue-abducted-lagos-bound-passengers-in-edo/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2644782/middle-east",
     "event_codes": {
-      "17": 9,
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2644782",
+      "middle",
+      "east"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.2,
+    "count": 13,
+    "top_news": "https://www.channelstv.com/2026/05/24/ndlea-arrests-63-year-old-chinese-woman-over-31kg-cannabis-smuggling-attempt/",
+    "event_codes": {
+      "17": 7,
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "ndlea",
+      "arrests",
+      "year",
+      "old",
+      "chinese",
+      "woman",
+      "over",
+      "31kg",
+      "cannabis",
+      "smuggling",
+      "attempt"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears",
+    "event_codes": {
       "18": 3
     },
     "keywords": [
-      "police",
-      "rescue",
-      "abducted",
-      "lagos",
-      "bound",
-      "passengers",
-      "edo"
+      "news",
+      "2026",
+      "attacks",
+      "ebola",
+      "centres",
+      "intensify",
+      "eastern",
+      "drc",
+      "amid",
+      "outbreak",
+      "fears"
     ]
   }
 }
