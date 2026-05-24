@@ -1,64 +1,123 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://finance.yahoo.com/sectors/energy/articles/gavin-newsoms-office-urges-drivers-141500426.html",
+    "risk_score": 8.1,
+    "count": 9,
+    "top_news": "https://www.yahoo.com/news/world/articles/three-months-classes-held-online-150705402.html",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "sectors",
-      "energy",
-      "articles",
-      "gavin",
-      "newsoms",
-      "office",
-      "urges",
-      "drivers",
-      "141500426.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.6,
-    "count": 27,
-    "top_news": "http://www.econotimes.com/Israeli-Airstrike-in-Gaza-Refugee-Camp-Kills-Infant-and-Parents-Amid-Fragile-Ceasefire-1742498",
-    "event_codes": {
-      "17": 14,
-      "16": 7,
-      "19": 6
-    },
-    "keywords": [
-      "israeli",
-      "airstrike",
-      "gaza",
-      "refugee",
-      "camp",
-      "kills",
-      "infant",
-      "and",
-      "parents",
-      "amid",
-      "fragile",
-      "ceasefire",
-      "1742498"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newsday.com/news/nation/iran-us-war-ceasefire-negotiations-hormuz-j63968",
-    "event_codes": {
-      "19": 2
+      "19": 6,
+      "16": 3
     },
     "keywords": [
       "news",
-      "nation",
+      "world",
+      "articles",
+      "three",
+      "months",
+      "classes",
+      "held",
+      "online",
+      "150705402.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.1,
+    "count": 19,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260523-presstv07.htm",
+    "event_codes": {
+      "19": 14,
+      "18": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
       "iran",
-      "war",
-      "ceasefire",
-      "negotiations",
-      "hormuz",
-      "j63968"
+      "2026",
+      "iran",
+      "260523",
+      "presstv07.htm"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.breakingnews.ie/world/details-emerge-of-potential-iran-deal-as-us-claims-progress-1904419.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "world",
+      "details",
+      "emerge",
+      "potential",
+      "iran",
+      "deal",
+      "claims",
+      "progress",
+      "1904419.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://saharareporters.com/2026/05/24/nurses-group-condemns-killing-imo-student-nurse-brutally-raped-and-murdered-her-room",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "nurses",
+      "group",
+      "condemns",
+      "killing",
+      "imo",
+      "student",
+      "nurse",
+      "brutally",
+      "raped",
+      "and",
+      "murdered",
+      "her",
+      "room"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://english.ahram.org.eg/News/569175.aspx",
+    "event_codes": {
+      "17": 4,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "569175.aspx"
+    ]
+  },
+  "TUR": {
+    "risk_score": 8.1,
+    "count": 9,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/05/24/turkish-police-force-opposition-leader-out-of-headquarters-in-chaotic-scenes/",
+    "event_codes": {
+      "19": 6,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "turkish",
+      "police",
+      "force",
+      "opposition",
+      "leader",
+      "out",
+      "headquarters",
+      "chaotic",
+      "scenes"
     ]
   }
 }
