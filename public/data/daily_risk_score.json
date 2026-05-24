@@ -1,27 +1,82 @@
 {
   "IRN": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://economictimes.indiatimes.com/news/newsblogs/india-news-live-updates-may-24-white-house-attack-trump-iran-delhi-mumbai-bengaluru-weather-pm-modi/liveblog/131287742.cms",
+    "event_codes": {
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "newsblogs",
+      "india",
+      "news",
+      "live",
+      "updates",
+      "may",
+      "white",
+      "house",
+      "attack",
+      "trump",
+      "iran",
+      "delhi",
+      "mumbai",
+      "bengaluru",
+      "weather",
+      "modi",
+      "liveblog",
+      "131287742.cms"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.1,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/node/2644732",
+    "event_codes": {
+      "16": 7,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "node",
+      "2644732"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.houstonpublicmedia.org/npr/2026/05/23/g-s1-124145/trump-says-a-deal-with-iran-and-opening-of-strait-of-hormuz-are-largely-negotiated/",
+    "top_news": "https://www.arabnews.com/node/2644732",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "npr",
-      "2026",
-      "124145",
+      "node",
+      "2644732"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nationalenquirer.com/ivanka-trump-was-the-target-of-an-assassination-plot-by-terrorist-who-had-blueprint-of-her-florida-home/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "ivanka",
       "trump",
-      "says",
-      "deal",
-      "with",
-      "iran",
-      "and",
-      "opening",
-      "strait",
-      "hormuz",
-      "are",
-      "largely",
-      "negotiated"
+      "was",
+      "the",
+      "target",
+      "assassination",
+      "plot",
+      "terrorist",
+      "who",
+      "had",
+      "blueprint",
+      "her",
+      "florida",
+      "home"
     ]
   }
 }
