@@ -1,123 +1,74 @@
 {
   "IRN": {
-    "risk_score": 8.1,
-    "count": 9,
-    "top_news": "https://www.yahoo.com/news/world/articles/three-months-classes-held-online-150705402.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ktre.com/2026/05/24/details-potential-us-iran-deal-begin-emerge-after-trump-announces-progress/",
     "event_codes": {
-      "19": 6,
-      "16": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "three",
-      "months",
-      "classes",
-      "held",
-      "online",
-      "150705402.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.1,
-    "count": 19,
-    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260523-presstv07.htm",
-    "event_codes": {
-      "19": 14,
-      "18": 3,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "wmd",
-      "library",
-      "news",
-      "iran",
-      "2026",
-      "iran",
-      "260523",
-      "presstv07.htm"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.breakingnews.ie/world/details-emerge-of-potential-iran-deal-as-us-claims-progress-1904419.html",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "details",
-      "emerge",
-      "potential",
-      "iran",
-      "deal",
-      "claims",
-      "progress",
-      "1904419.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://saharareporters.com/2026/05/24/nurses-group-condemns-killing-imo-student-nurse-brutally-raped-and-murdered-her-room",
-    "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
       "2026",
-      "nurses",
-      "group",
-      "condemns",
-      "killing",
-      "imo",
-      "student",
-      "nurse",
-      "brutally",
-      "raped",
-      "and",
-      "murdered",
-      "her",
-      "room"
+      "details",
+      "potential",
+      "iran",
+      "deal",
+      "begin",
+      "emerge",
+      "after",
+      "trump",
+      "announces",
+      "progress"
     ]
   },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://english.ahram.org.eg/News/569175.aspx",
+  "NGA": {
+    "risk_score": 5.1,
+    "count": 7,
+    "top_news": "https://dailytrust.com/police-rescue-kidnapped-toddler-recover-ransom-in-delta/",
     "event_codes": {
-      "17": 4,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "569175.aspx"
-    ]
-  },
-  "TUR": {
-    "risk_score": 8.1,
-    "count": 9,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/05/24/turkish-police-force-opposition-leader-out-of-headquarters-in-chaotic-scenes/",
-    "event_codes": {
-      "19": 6,
+      "18": 4,
       "17": 3
     },
     "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "turkish",
       "police",
-      "force",
-      "opposition",
-      "leader",
-      "out",
-      "headquarters",
-      "chaotic",
-      "scenes"
+      "rescue",
+      "kidnapped",
+      "toddler",
+      "recover",
+      "ransom",
+      "delta"
+    ]
+  },
+  "TLS": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.philstar.com/opinion/2026/05/25/2530245/lesser-evil",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "opinion",
+      "2026",
+      "2530245",
+      "lesser",
+      "evil"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.44,
+    "count": 5,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/25/2003857925",
+    "event_codes": {
+      "15": 2,
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "taiwan",
+      "archives",
+      "2026",
+      "2003857925"
     ]
   }
 }
