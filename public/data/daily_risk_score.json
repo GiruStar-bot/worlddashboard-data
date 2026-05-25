@@ -1,112 +1,121 @@
 {
   "IRN": {
+    "risk_score": 7.92,
+    "count": 9,
+    "top_news": "https://www.algemeiner.com/2026/05/25/australian-police-did-no-threat-assessment-before-bondi-attack-inquiry-hears/",
+    "event_codes": {
+      "19": 6,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "australian",
+      "police",
+      "did",
+      "threat",
+      "assessment",
+      "before",
+      "bondi",
+      "attack",
+      "inquiry",
+      "hears"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://flaglerlive.com/mamoria-2026/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "mamoria",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.9,
+    "count": 17,
+    "top_news": "https://www.bbc.co.uk/news/articles/cewppdk1187o",
+    "event_codes": {
+      "19": 11,
+      "17": 5,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cewppdk1187o"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.5,
+    "count": 10,
+    "top_news": "https://www.bbc.co.uk/news/articles/cewppdk1187o",
+    "event_codes": {
+      "19": 7,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cewppdk1187o"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.yahoo.com/news/world/articles/more-1-5m-foreign-pilgrims-201204165.html",
+    "top_news": "https://www.bbc.co.uk/news/articles/cwy22jx03ryo",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "world",
       "articles",
-      "more",
-      "foreign",
-      "pilgrims",
-      "201204165.html"
+      "cwy22jx03ryo"
     ]
   },
-  "ISR": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://www.yahoo.com/news/world/articles/more-1-5m-foreign-pilgrims-201204165.html",
+  "SYR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://radiofreesyria.com/may-25-2012-the-hula-massacre-in-syria/",
     "event_codes": {
-      "19": 6,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "more",
-      "foreign",
-      "pilgrims",
-      "201204165.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.cbc.ca/news/canada/newfoundland-labrador/tony-humby-sexual-abuse-trial-delayed-again-dean-penney-9.7210988",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "canada",
-      "newfoundland",
-      "labrador",
-      "tony",
-      "humby",
-      "sexual",
-      "abuse",
-      "trial",
-      "delayed",
-      "again",
-      "dean",
-      "penney",
-      "9.7210988"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.25,
-    "count": 4,
-    "top_news": "https://www.standardmedia.co.ke/opinion/article/2001548711/fuel-strike-may-have-been-settled-but-seeds-of-budget-protest-germinating",
-    "event_codes": {
-      "16": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "2001548711",
-      "fuel",
-      "strike",
-      "may",
-      "have",
-      "been",
-      "settled",
-      "but",
-      "seeds",
-      "budget",
-      "protest",
-      "germinating"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.pressdemocrat.com/2026/05/25/israels-military-says-its-striking-hezbollah-sites-as-netanyahu-vows-to-increase-the-blows/",
-    "event_codes": {
-      "19": 3,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "2026",
-      "israels",
-      "military",
-      "says",
-      "its",
-      "striking",
-      "hezbollah",
-      "sites",
-      "netanyahu",
-      "vows",
-      "increase",
+      "may",
+      "2012",
       "the",
-      "blows"
+      "hula",
+      "massacre",
+      "syria"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.algemeiner.com/2026/05/25/israel-accuses-erdogan-crushing-turkish-democracy-police-storm-ousted-opposition-out-headquarters/",
+    "event_codes": {
+      "17": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "accuses",
+      "erdogan",
+      "crushing",
+      "turkish",
+      "democracy",
+      "police",
+      "storm",
+      "ousted",
+      "opposition",
+      "out",
+      "headquarters"
     ]
   }
 }
