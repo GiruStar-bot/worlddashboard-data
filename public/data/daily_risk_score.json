@@ -1,76 +1,42 @@
 {
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.spacewar.com/afp/260525110334.1fqrqmf6.html",
+  "IRN": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://cyprus-mail.com/2026/05/25/iran-envoys-relay-potential-peace-deal-with-qatari-pm",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "16": 4,
+      "17": 1
     },
     "keywords": [
-      "afp",
-      "260525110334.1fqrqmf6.html"
-    ]
-  },
-  "NER": {
-    "risk_score": 11.2,
-    "count": 17,
-    "top_news": "https://www.thenewhumanitarian.org/investigations/2026/05/25/unending-saga-sudanese-refugees-trapped-niger-agadez",
-    "event_codes": {
-      "17": 7,
-      "14": 6,
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "investigations",
       "2026",
-      "unending",
-      "saga",
-      "sudanese",
-      "refugees",
-      "trapped",
-      "niger",
-      "agadez"
+      "iran",
+      "envoys",
+      "relay",
+      "potential",
+      "peace",
+      "deal",
+      "with",
+      "qatari"
     ]
   },
-  "NGA": {
-    "risk_score": 12.25,
-    "count": 13,
-    "top_news": "https://punchng.com/amnesty-international-demands-rescue-of-abducted-kwara-residents/",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.juneesoutherncross.com.au/story/9253561/israeli-strike-kills-girl-woman-in-gaza-strip-medics/",
     "event_codes": {
-      "19": 8,
-      "18": 4,
-      "14": 1
+      "19": 3
     },
     "keywords": [
-      "amnesty",
-      "international",
-      "demands",
-      "rescue",
-      "abducted",
-      "kwara",
-      "residents"
-    ]
-  },
-  "SSD": {
-    "risk_score": 7.2,
-    "count": 8,
-    "top_news": "https://www.eyeradio.org/search-continues-for-two-children-abducted-along-lirya-road-officials/",
-    "event_codes": {
-      "18": 8
-    },
-    "keywords": [
-      "search",
-      "continues",
-      "for",
-      "two",
-      "children",
-      "abducted",
-      "along",
-      "lirya",
-      "road",
-      "officials"
+      "story",
+      "9253561",
+      "israeli",
+      "strike",
+      "kills",
+      "girl",
+      "woman",
+      "gaza",
+      "strip",
+      "medics"
     ]
   }
 }
