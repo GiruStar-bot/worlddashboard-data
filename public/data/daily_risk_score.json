@@ -1,74 +1,112 @@
 {
-  "ISR": {
-    "risk_score": 6.9,
-    "count": 9,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/25/israel-will-escalate-strikes-against-hezbollah-in-lebanon-netanyahu-says",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/world/articles/more-1-5m-foreign-pilgrims-201204165.html",
     "event_codes": {
-      "14": 4,
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "israel",
-      "will",
-      "escalate",
-      "strikes",
-      "against",
-      "hezbollah",
-      "lebanon",
-      "netanyahu",
-      "says"
+      "news",
+      "world",
+      "articles",
+      "more",
+      "foreign",
+      "pilgrims",
+      "201204165.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/25/israel-will-escalate-strikes-against-hezbollah-in-lebanon-netanyahu-says",
+  "ISR": {
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://www.yahoo.com/news/world/articles/more-1-5m-foreign-pilgrims-201204165.html",
     "event_codes": {
+      "19": 6,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "more",
+      "foreign",
+      "pilgrims",
+      "201204165.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.cbc.ca/news/canada/newfoundland-labrador/tony-humby-sexual-abuse-trial-delayed-again-dean-penney-9.7210988",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "israel",
-      "will",
-      "escalate",
-      "strikes",
-      "against",
-      "hezbollah",
-      "lebanon",
-      "netanyahu",
-      "says"
+      "news",
+      "canada",
+      "newfoundland",
+      "labrador",
+      "tony",
+      "humby",
+      "sexual",
+      "abuse",
+      "trial",
+      "delayed",
+      "again",
+      "dean",
+      "penney",
+      "9.7210988"
     ]
   },
-  "NGA": {
-    "risk_score": 6.75,
-    "count": 10,
-    "top_news": "https://www.thecable.ng/smear-campaign-media-office-alleges-plot-to-portray-obi-as-enemy-of-north/",
+  "KEN": {
+    "risk_score": 2.25,
+    "count": 4,
+    "top_news": "https://www.standardmedia.co.ke/opinion/article/2001548711/fuel-strike-may-have-been-settled-but-seeds-of-budget-protest-germinating",
     "event_codes": {
-      "14": 5,
-      "17": 3,
-      "19": 1,
-      "20": 1
+      "16": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "smear",
-      "campaign",
-      "media",
-      "office",
-      "alleges",
-      "plot",
-      "portray",
-      "obi",
-      "enemy",
-      "north"
+      "opinion",
+      "article",
+      "2001548711",
+      "fuel",
+      "strike",
+      "may",
+      "have",
+      "been",
+      "settled",
+      "but",
+      "seeds",
+      "budget",
+      "protest",
+      "germinating"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.pressdemocrat.com/2026/05/25/israels-military-says-its-striking-hezbollah-sites-as-netanyahu-vows-to-increase-the-blows/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "israels",
+      "military",
+      "says",
+      "its",
+      "striking",
+      "hezbollah",
+      "sites",
+      "netanyahu",
+      "vows",
+      "increase",
+      "the",
+      "blows"
     ]
   }
 }
