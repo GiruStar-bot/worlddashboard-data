@@ -1,42 +1,74 @@
 {
-  "IRN": {
-    "risk_score": 3.3,
-    "count": 5,
-    "top_news": "https://cyprus-mail.com/2026/05/25/iran-envoys-relay-potential-peace-deal-with-qatari-pm",
+  "ISR": {
+    "risk_score": 6.9,
+    "count": 9,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/25/israel-will-escalate-strikes-against-hezbollah-in-lebanon-netanyahu-says",
     "event_codes": {
-      "16": 4,
+      "14": 4,
+      "19": 3,
+      "16": 1,
       "17": 1
     },
     "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
       "2026",
-      "iran",
-      "envoys",
-      "relay",
-      "potential",
-      "peace",
-      "deal",
-      "with",
-      "qatari"
+      "israel",
+      "will",
+      "escalate",
+      "strikes",
+      "against",
+      "hezbollah",
+      "lebanon",
+      "netanyahu",
+      "says"
     ]
   },
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.juneesoutherncross.com.au/story/9253561/israeli-strike-kills-girl-woman-in-gaza-strip-medics/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/25/israel-will-escalate-strikes-against-hezbollah-in-lebanon-netanyahu-says",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "story",
-      "9253561",
-      "israeli",
-      "strike",
-      "kills",
-      "girl",
-      "woman",
-      "gaza",
-      "strip",
-      "medics"
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "israel",
+      "will",
+      "escalate",
+      "strikes",
+      "against",
+      "hezbollah",
+      "lebanon",
+      "netanyahu",
+      "says"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.75,
+    "count": 10,
+    "top_news": "https://www.thecable.ng/smear-campaign-media-office-alleges-plot-to-portray-obi-as-enemy-of-north/",
+    "event_codes": {
+      "14": 5,
+      "17": 3,
+      "19": 1,
+      "20": 1
+    },
+    "keywords": [
+      "smear",
+      "campaign",
+      "media",
+      "office",
+      "alleges",
+      "plot",
+      "portray",
+      "obi",
+      "enemy",
+      "north"
     ]
   }
 }
