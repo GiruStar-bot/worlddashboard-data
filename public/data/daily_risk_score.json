@@ -1,22 +1,104 @@
 {
-  "IRN": {
-    "risk_score": 3.56,
-    "count": 4,
-    "top_news": "https://www.dailystar.co.uk/news/world-news/irans-network-missile-caves-mighty-37182042",
+  "IDN": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://en.republika.co.id/berita/tfl6fb415/palestinian-ambassador-welcomes-return-of-volunteers-at-airport-theyve-breathed-gaza-air",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "18": 3
     },
     "keywords": [
-      "news",
+      "berita",
+      "tfl6fb415",
+      "palestinian",
+      "ambassador",
+      "welcomes",
+      "return",
+      "volunteers",
+      "airport",
+      "theyve",
+      "breathed",
+      "gaza",
+      "air"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.95,
+    "count": 6,
+    "top_news": "https://www.newsx.com/world/where-is-mojtaba-khamenei-how-irans-supreme-leaders-secretive-system-is-slowing-peace-negotiations-with-us-225290/",
+    "event_codes": {
+      "17": 4,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
       "world",
-      "news",
+      "where",
+      "mojtaba",
+      "khamenei",
+      "how",
       "irans",
-      "network",
-      "missile",
-      "caves",
-      "mighty",
-      "37182042"
+      "supreme",
+      "leaders",
+      "secretive",
+      "system",
+      "slowing",
+      "peace",
+      "negotiations",
+      "with",
+      "225290"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dominicanrepublicpost.com/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "day",
+      "trump",
+      "says",
+      "not",
+      "rush",
+      "sign",
+      "deal",
+      "dashing",
+      "optimism"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.1,
+    "count": 12,
+    "top_news": "https://allafrica.com/stories/202605250232.html",
+    "event_codes": {
+      "18": 9,
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202605250232.html"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.icj.org/chad-10-years-on-habre-conviction-inspires-global-justice/",
+    "event_codes": {
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "chad",
+      "years",
+      "habre",
+      "conviction",
+      "inspires",
+      "global",
+      "justice"
     ]
   }
 }
