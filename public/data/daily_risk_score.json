@@ -1,91 +1,88 @@
 {
   "IRN": {
-    "risk_score": 3.85,
-    "count": 5,
-    "top_news": "https://www.presstv.ir/Detail/2026/05/26/769312/Iran-targeted-210-enemy-aircraft-US-Israel-40-days-war",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.theblaze.com/news/us-executes-self-defense-strikes-against-iran-amid-peace-talks",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
+      "19": 8,
+      "18": 2
     },
     "keywords": [
-      "detail",
-      "2026",
-      "769312",
+      "news",
+      "executes",
+      "self",
+      "defense",
+      "strikes",
+      "against",
       "iran",
-      "targeted",
-      "210",
-      "enemy",
-      "aircraft",
-      "israel",
-      "days",
-      "war"
+      "amid",
+      "peace",
+      "talks"
     ]
   },
   "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-jenin-during-raid",
+    "risk_score": 13.36,
+    "count": 15,
+    "top_news": "https://www.israelnationalnews.com/news/427645",
     "event_codes": {
-      "18": 2,
-      "19": 2
+      "19": 8,
+      "17": 4,
+      "15": 1,
+      "16": 1,
+      "20": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "forces",
-      "kill",
-      "palestinian",
-      "man",
-      "jenin",
-      "during",
-      "raid"
+      "news",
+      "427645"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-targets-ambulance-team-attack-area-near-lebanons-largest-dam",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://ucsdguardian.org/2026/05/26/making-sense-of-islamophobia/",
     "event_codes": {
-      "19": 3
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israel",
-      "targets",
-      "ambulance",
-      "team",
-      "attack",
-      "area",
-      "near",
-      "lebanons",
-      "largest",
-      "dam"
+      "2026",
+      "making",
+      "sense",
+      "islamophobia"
     ]
   },
-  "NGA": {
-    "risk_score": 5.2,
-    "count": 8,
-    "top_news": "https://quicknews-africa.net/man-28-remanded-for-alleged-drug-peddling/",
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.constructionnews.co.uk/peoplemoves/bam-appoints-new-london-director-26-05-2026/",
     "event_codes": {
-      "17": 5,
-      "18": 3
+      "18": 2
     },
     "keywords": [
-      "man",
-      "remanded",
-      "for",
-      "alleged",
-      "drug",
-      "peddling"
+      "peoplemoves",
+      "bam",
+      "appoints",
+      "new",
+      "london",
+      "director",
+      "2026"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.washingtoninstitute.org/policy-analysis/turkeys-limited-role-iran-war",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "policy",
+      "analysis",
+      "turkeys",
+      "limited",
+      "role",
+      "iran",
+      "war"
     ]
   }
 }
