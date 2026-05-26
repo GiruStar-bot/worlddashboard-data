@@ -1,71 +1,91 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.skynews.com.au/australia-news/politics/a-real-spit-in-the-face-iranian-human-rights-advocate-tina-kordrostami-condemns-abc-over-disgraceful-news-report/news-story/6521166a70599164f0ab7bca10f0e8db?nk=a27d85ddb6ce95f8d2d0c00ba9a75a1d-1779785216",
+    "risk_score": 3.85,
+    "count": 5,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/26/769312/Iran-targeted-210-enemy-aircraft-US-Israel-40-days-war",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "australia",
-      "news",
-      "politics",
-      "real",
-      "spit",
-      "the",
-      "face",
-      "iranian",
-      "human",
-      "rights",
-      "advocate",
-      "tina",
-      "kordrostami",
-      "condemns",
-      "abc",
-      "over",
-      "disgraceful",
-      "news",
-      "report",
-      "news",
-      "story",
-      "6521166a70599164f0ab7bca10f0e8db"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://ghettoradio.co.ke/24-livestock-stolen-in-ntangilia-recovered/",
-    "event_codes": {
+      "17": 2,
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "livestock",
-      "stolen",
-      "ntangilia",
-      "recovered"
+      "detail",
+      "2026",
+      "769312",
+      "iran",
+      "targeted",
+      "210",
+      "enemy",
+      "aircraft",
+      "israel",
+      "days",
+      "war"
     ]
   },
-  "QAT": {
-    "risk_score": 2.85,
+  "ISR": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-jenin-during-raid",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "forces",
+      "kill",
+      "palestinian",
+      "man",
+      "jenin",
+      "during",
+      "raid"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://thepeninsulaqatar.com/article/26/05/2026/hec-paris-doha-graduates-reflect-on-leadership-growth-and-qatars-future",
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-targets-ambulance-team-attack-area-near-lebanons-largest-dam",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "article",
-      "2026",
-      "hec",
-      "paris",
-      "doha",
-      "graduates",
-      "reflect",
-      "leadership",
-      "growth",
-      "and",
-      "qatars",
-      "future"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israel",
+      "targets",
+      "ambulance",
+      "team",
+      "attack",
+      "area",
+      "near",
+      "lebanons",
+      "largest",
+      "dam"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.2,
+    "count": 8,
+    "top_news": "https://quicknews-africa.net/man-28-remanded-for-alleged-drug-peddling/",
+    "event_codes": {
+      "17": 5,
+      "18": 3
+    },
+    "keywords": [
+      "man",
+      "remanded",
+      "for",
+      "alleged",
+      "drug",
+      "peddling"
     ]
   }
 }
