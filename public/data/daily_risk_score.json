@@ -1,69 +1,67 @@
 {
-  "IRN": {
-    "risk_score": 6.8,
-    "count": 7,
-    "top_news": "https://www.dailymail.com/news/article-15849257/donald-trump-jr-bettina-anderson-bahamas-security.html",
-    "event_codes": {
-      "19": 5,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15849257",
-      "donald",
-      "trump",
-      "bettina",
-      "anderson",
-      "bahamas",
-      "security.html"
-    ]
-  },
   "ISR": {
-    "risk_score": 4.45,
-    "count": 7,
-    "top_news": "https://www.theamericanconservative.com/ceasefire-day-49-negotiations-continue-after-u-s-iran-exchange-strikes/",
+    "risk_score": 3.72,
+    "count": 5,
+    "top_news": "https://news.antiwar.com/2026/05/26/lebanon-ground-war-expands-north-of-litani-river-as-israel-pushes-beyond-yellow-line/",
     "event_codes": {
-      "17": 5,
-      "19": 2
+      "17": 2,
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "ceasefire",
-      "day",
-      "negotiations",
-      "continue",
-      "after",
-      "iran",
-      "exchange",
-      "strikes"
+      "2026",
+      "lebanon",
+      "ground",
+      "war",
+      "expands",
+      "north",
+      "litani",
+      "river",
+      "israel",
+      "pushes",
+      "beyond",
+      "yellow",
+      "line"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://thenewamerican.com/world-news/middle-east/iran-threatens-retaliation-for-u-s-attack-after-trump-said-peace-was-at-hand-israel-hits-lebanon/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://yalibnan.com/2026/05/27/live-updates-israel-deploys-significant-ground-forces-to-expand-operations-in-southern-lebanon/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "world",
-      "news",
-      "middle",
-      "east",
-      "iran",
-      "threatens",
-      "retaliation",
-      "for",
-      "attack",
-      "after",
-      "trump",
-      "said",
-      "peace",
-      "was",
-      "hand",
+      "2026",
+      "live",
+      "updates",
       "israel",
-      "hits",
+      "deploys",
+      "significant",
+      "ground",
+      "forces",
+      "expand",
+      "operations",
+      "southern",
       "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://thenationonlineng.net/sdp-leadership-visits-makinde-over-oriire-abduction/",
+    "event_codes": {
+      "18": 4,
+      "16": 2
+    },
+    "keywords": [
+      "sdp",
+      "leadership",
+      "visits",
+      "makinde",
+      "over",
+      "oriire",
+      "abduction"
     ]
   }
 }
