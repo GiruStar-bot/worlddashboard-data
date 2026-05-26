@@ -1,88 +1,102 @@
 {
-  "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.theblaze.com/news/us-executes-self-defense-strikes-against-iran-amid-peace-talks",
+  "COL": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://latinamericanpost.com/americas/politics/colombias-debate-free-election-turns-silence-into-a-democratic-stress-test/",
     "event_codes": {
-      "19": 8,
-      "18": 2
+      "18": 2,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "executes",
-      "self",
-      "defense",
-      "strikes",
-      "against",
+      "americas",
+      "politics",
+      "colombias",
+      "debate",
+      "free",
+      "election",
+      "turns",
+      "silence",
+      "into",
+      "democratic",
+      "stress",
+      "test"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.7,
+    "count": 14,
+    "top_news": "https://www.ncr-iran.org/en/ncri-statements/statement-human-rights/iran-criminal-sentence-of-37-years-and-6-months-in-prison-for-political-prisoner-bijan-kazemi/",
+    "event_codes": {
+      "18": 13,
+      "17": 1
+    },
+    "keywords": [
+      "ncri",
+      "statements",
+      "statement",
+      "human",
+      "rights",
       "iran",
-      "amid",
-      "peace",
-      "talks"
+      "criminal",
+      "sentence",
+      "years",
+      "and",
+      "months",
+      "prison",
+      "for",
+      "political",
+      "prisoner",
+      "bijan",
+      "kazemi"
     ]
   },
   "ISR": {
-    "risk_score": 13.36,
-    "count": 15,
-    "top_news": "https://www.israelnationalnews.com/news/427645",
+    "risk_score": 5.15,
+    "count": 6,
+    "top_news": "https://www.israelnationalnews.com/flashes/686290",
     "event_codes": {
-      "19": 8,
-      "17": 4,
-      "15": 1,
-      "16": 1,
-      "20": 1
+      "18": 3,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "427645"
+      "flashes",
+      "686290"
     ]
   },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://ucsdguardian.org/2026/05/26/making-sense-of-islamophobia/",
+  "SYR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "http://www.jpost.com/international/article-897380",
     "event_codes": {
-      "18": 4,
-      "19": 1
+      "19": 3,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "international",
+      "article",
+      "897380"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "2026",
-      "making",
-      "sense",
-      "islamophobia"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.constructionnews.co.uk/peoplemoves/bam-appoints-new-london-director-26-05-2026/",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "peoplemoves",
-      "bam",
-      "appoints",
-      "new",
-      "london",
-      "director",
-      "2026"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.washingtoninstitute.org/policy-analysis/turkeys-limited-role-iran-war",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "policy",
-      "analysis",
-      "turkeys",
-      "limited",
-      "role",
-      "iran",
-      "war"
+      "taiwan",
+      "scrambles",
+      "fighter",
+      "jets",
+      "china",
+      "encroaches",
+      "with",
+      "combat",
+      "patrols"
     ]
   }
 }
