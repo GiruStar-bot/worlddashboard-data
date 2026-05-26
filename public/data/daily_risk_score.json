@@ -1,101 +1,82 @@
 {
-  "IRN": {
-    "risk_score": 3.1,
-    "count": 5,
-    "top_news": "http://www.austinglobe.com/news/279075507/us-jets-attack-iranian-naval-vessels",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://americanpress.com/2026/05/25/us-military-says-it-conducted-strikes-against-targets-in-iran/",
     "event_codes": {
-      "14": 2,
-      "16": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "279075507",
-      "jets",
-      "attack",
-      "iranian",
-      "naval",
-      "vessels"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "https://www.whsv.com/2026/05/25/family-remembers-valley-raised-army-officer-odu-rotc-professor-lt-col-brandon-shah/",
-    "event_codes": {
-      "14": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "family",
-      "remembers",
-      "valley",
-      "raised",
-      "army",
-      "officer",
-      "odu",
-      "rotc",
-      "professor",
-      "col",
-      "brandon",
-      "shah"
+      "military",
+      "says",
+      "conducted",
+      "strikes",
+      "against",
+      "targets",
+      "iran"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.6,
+    "count": 3,
+    "top_news": "https://en.tempo.co/read/2105302/indonesia-and-7-countries-condemn-actions-of-itamar-ben-gvir",
+    "event_codes": {
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "read",
+      "2105302",
+      "indonesia",
+      "and",
+      "countries",
+      "condemn",
+      "actions",
+      "itamar",
+      "ben",
+      "gvir"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.deccanchronicle.com/west-asia/us-conducts-self-defence-strikes-on-iranian-boats-missile-sites-1959173",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "west",
+      "asia",
+      "conducts",
+      "self",
+      "defence",
+      "strikes",
+      "iranian",
+      "boats",
+      "missile",
+      "sites",
+      "1959173"
     ]
   },
   "ISR": {
-    "risk_score": 8.55,
-    "count": 10,
-    "top_news": "https://www.naharnet.com:443/stories/en/320335-israeli-escalation-in-lebanon-latest-developments",
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://americanpress.com/2026/05/25/us-military-says-it-conducted-strikes-against-targets-in-iran/",
     "event_codes": {
-      "18": 4,
-      "19": 4,
-      "16": 2
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "stories",
-      "320335",
-      "israeli",
-      "escalation",
-      "lebanon",
-      "latest",
-      "developments"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.6,
-    "count": 8,
-    "top_news": "https://punchng.com/rid-the-police-of-criminals/",
-    "event_codes": {
-      "19": 4,
-      "16": 2,
-      "18": 2
-    },
-    "keywords": [
-      "rid",
-      "the",
-      "police",
-      "criminals"
-    ]
-  },
-  "VNM": {
-    "risk_score": 5.2,
-    "count": 8,
-    "top_news": "https://chicago.suntimes.com/news/2026/05/25/dozens-march-in-anti-war-protest-on-memorial-day-in-the-loop",
-    "event_codes": {
-      "14": 8
-    },
-    "keywords": [
-      "news",
       "2026",
-      "dozens",
-      "march",
-      "anti",
-      "war",
-      "protest",
-      "memorial",
-      "day",
-      "the",
-      "loop"
+      "military",
+      "says",
+      "conducted",
+      "strikes",
+      "against",
+      "targets",
+      "iran"
     ]
   }
 }
