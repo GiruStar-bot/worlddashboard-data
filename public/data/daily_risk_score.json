@@ -1,49 +1,54 @@
 {
   "ISR": {
-    "risk_score": 5.44,
-    "count": 6,
-    "top_news": "https://www.manilatimes.net/2026/05/27/world/americas-emea/israel-hits-hezbollah-sites-as-netanyahu-vows-more-attacks/2352180",
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "http://www.jpost.com/middle-east/article-897420",
     "event_codes": {
-      "19": 4,
-      "15": 2
+      "17": 2,
+      "18": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "world",
-      "americas",
-      "emea",
-      "israel",
-      "hits",
-      "hezbollah",
-      "sites",
-      "netanyahu",
-      "vows",
-      "more",
-      "attacks",
-      "2352180"
+      "middle",
+      "east",
+      "article",
+      "897420"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.manilatimes.net/2026/05/27/world/americas-emea/israel-hits-hezbollah-sites-as-netanyahu-vows-more-attacks/2352180",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/middle-east/article-897420",
     "event_codes": {
-      "19": 3
+      "18": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "897420"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.66,
+    "count": 4,
+    "top_news": "https://dailypost.ng/2026/05/27/insecurity-abia-nscdc-promises-to-protect-unity-schools-students-staff/",
+    "event_codes": {
+      "15": 3,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "world",
-      "americas",
-      "emea",
-      "israel",
-      "hits",
-      "hezbollah",
-      "sites",
-      "netanyahu",
-      "vows",
-      "more",
-      "attacks",
-      "2352180"
+      "insecurity",
+      "abia",
+      "nscdc",
+      "promises",
+      "protect",
+      "unity",
+      "schools",
+      "students",
+      "staff"
     ]
   }
 }
