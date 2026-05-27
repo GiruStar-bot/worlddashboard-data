@@ -1,64 +1,69 @@
 {
-  "COL": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.curacaochronicle.com/post/unknown/dutch-national-shot-dead-in-rural-area-near-valledupar-colombia",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "post",
-      "unknown",
-      "dutch",
-      "national",
-      "shot",
-      "dead",
-      "rural",
-      "area",
-      "near",
-      "valledupar",
-      "colombia"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.nzherald.co.nz/world/iran-says-low-possibility-of-return-to-war-with-us-as-peace-talks-advance/Z3LOTESQ75FDBAXHCYQWCNWDYY/",
+    "risk_score": 6.65,
+    "count": 7,
+    "top_news": "https://www.greanvillepost.com/2026/05/27/laith-marouf-no-one-saw-this-coming-hezbollah-smashes-idf-frontline/",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "14": 1
     },
     "keywords": [
-      "world",
-      "iran",
-      "says",
-      "low",
-      "possibility",
-      "return",
-      "war",
-      "with",
-      "peace",
-      "talks",
-      "advance",
-      "z3lotesq75fdbaxhcyqwcnwdyy"
+      "2026",
+      "laith",
+      "marouf",
+      "one",
+      "saw",
+      "this",
+      "coming",
+      "hezbollah",
+      "smashes",
+      "idf",
+      "frontline"
     ]
   },
   "ISR": {
-    "risk_score": 5.97,
+    "risk_score": 11.0,
     "count": 11,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-897556",
+    "top_news": "https://www.greanvillepost.com/2026/05/27/laith-marouf-no-one-saw-this-coming-hezbollah-smashes-idf-frontline/",
     "event_codes": {
-      "17": 9,
-      "14": 1,
-      "16": 1
+      "19": 10,
+      "20": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "897556"
+      "2026",
+      "laith",
+      "marouf",
+      "one",
+      "saw",
+      "this",
+      "coming",
+      "hezbollah",
+      "smashes",
+      "idf",
+      "frontline"
+    ]
+  },
+  "NGA": {
+    "risk_score": 14.3,
+    "count": 20,
+    "top_news": "https://www.thecable.ng/you-are-not-abandoned-tinubu-consoles-parents-of-abducted-ogbomoso-borno-schoolchildren/",
+    "event_codes": {
+      "17": 10,
+      "18": 7,
+      "19": 3
+    },
+    "keywords": [
+      "you",
+      "are",
+      "not",
+      "abandoned",
+      "tinubu",
+      "consoles",
+      "parents",
+      "abducted",
+      "ogbomoso",
+      "borno",
+      "schoolchildren"
     ]
   }
 }
