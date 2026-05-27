@@ -1,54 +1,77 @@
 {
-  "ISR": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "http://www.jpost.com/middle-east/article-897420",
+  "IRN": {
+    "risk_score": 10.3,
+    "count": 13,
+    "top_news": "https://www.koreaherald.com/article/10757365",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 2,
+      "19": 8,
+      "17": 4,
       "16": 1
     },
     "keywords": [
-      "middle",
-      "east",
       "article",
-      "897420"
+      "10757365"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/middle-east/article-897420",
+  "ISR": {
+    "risk_score": 6.65,
+    "count": 8,
+    "top_news": "https://www.manilatimes.net/2026/05/27/world/israel-kills-chief-of-hamas-armed-wing-in-gaza-strike/2352402",
     "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "897420"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.66,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/05/27/insecurity-abia-nscdc-promises-to-protect-unity-schools-students-staff/",
-    "event_codes": {
-      "15": 3,
-      "17": 1
+      "18": 3,
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "2026",
+      "world",
+      "israel",
+      "kills",
+      "chief",
+      "hamas",
+      "armed",
+      "wing",
+      "gaza",
+      "strike",
+      "2352402"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.55,
+    "count": 14,
+    "top_news": "https://www.channelstv.com/2026/05/27/30000-militants-fuelling-insecurity-in-nigeria-us-report/",
+    "event_codes": {
+      "19": 8,
+      "18": 4,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "30000",
+      "militants",
+      "fuelling",
       "insecurity",
-      "abia",
-      "nscdc",
-      "promises",
-      "protect",
-      "unity",
-      "schools",
-      "students",
-      "staff"
+      "nigeria",
+      "report"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/05/iran-says-low-possibility-return-war-us",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "iran",
+      "says",
+      "low",
+      "possibility",
+      "return",
+      "war"
     ]
   }
 }
