@@ -1,77 +1,141 @@
 {
   "IRN": {
-    "risk_score": 10.3,
-    "count": 13,
-    "top_news": "https://www.koreaherald.com/article/10757365",
+    "risk_score": 10.6,
+    "count": 12,
+    "top_news": "https://www.justsecurity.org/139982/early-edition-may-27-2026/",
     "event_codes": {
-      "19": 8,
-      "17": 4,
-      "16": 1
-    },
-    "keywords": [
-      "article",
-      "10757365"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.65,
-    "count": 8,
-    "top_news": "https://www.manilatimes.net/2026/05/27/world/israel-kills-chief-of-hamas-armed-wing-in-gaza-strike/2352402",
-    "event_codes": {
-      "18": 3,
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "israel",
-      "kills",
-      "chief",
-      "hamas",
-      "armed",
-      "wing",
-      "gaza",
-      "strike",
-      "2352402"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.55,
-    "count": 14,
-    "top_news": "https://www.channelstv.com/2026/05/27/30000-militants-fuelling-insecurity-in-nigeria-us-report/",
-    "event_codes": {
-      "19": 8,
-      "18": 4,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "30000",
-      "militants",
-      "fuelling",
-      "insecurity",
-      "nigeria",
-      "report"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/05/iran-says-low-possibility-return-war-us",
-    "event_codes": {
-      "19": 2,
+      "19": 6,
+      "16": 3,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "originals",
+      "139982",
+      "early",
+      "edition",
+      "may",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.6,
+    "count": 17,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-presstv07.htm",
+    "event_codes": {
+      "19": 10,
+      "16": 4,
+      "18": 3
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iran",
       "2026",
       "iran",
-      "says",
-      "low",
-      "possibility",
-      "return",
-      "war"
+      "260526",
+      "presstv07.htm"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260526-rferl09.htm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260526",
+      "rferl09.htm"
+    ]
+  },
+  "SGP": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://timesofindia.indiatimes.com/world/us/thrice-rebuffed-for-us-visa-sanjay-mehrotra-joins-satya-nadella-and-sundar-pichai-in-the-trillion-dollar-club/articleshow/131351972.cms",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "thrice",
+      "rebuffed",
+      "for",
+      "visa",
+      "sanjay",
+      "mehrotra",
+      "joins",
+      "satya",
+      "nadella",
+      "and",
+      "sundar",
+      "pichai",
+      "the",
+      "trillion",
+      "dollar",
+      "club",
+      "articleshow",
+      "131351972.cms"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://timesofindia.indiatimes.com/world/us/thrice-rebuffed-for-us-visa-sanjay-mehrotra-joins-satya-nadella-and-sundar-pichai-in-the-trillion-dollar-club/articleshow/131351972.cms",
+    "event_codes": {
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "world",
+      "thrice",
+      "rebuffed",
+      "for",
+      "visa",
+      "sanjay",
+      "mehrotra",
+      "joins",
+      "satya",
+      "nadella",
+      "and",
+      "sundar",
+      "pichai",
+      "the",
+      "trillion",
+      "dollar",
+      "club",
+      "articleshow",
+      "131351972.cms"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://krcrtv.com/news/local/gridley-biggs-residents-honor-fallen-service-members-at-annual-memorial-day-ceremony",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "local",
+      "gridley",
+      "biggs",
+      "residents",
+      "honor",
+      "fallen",
+      "service",
+      "members",
+      "annual",
+      "memorial",
+      "day",
+      "ceremony"
     ]
   }
 }
