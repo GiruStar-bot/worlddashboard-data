@@ -1,49 +1,64 @@
 {
-  "ISR": {
-    "risk_score": 3.5,
+  "COL": {
+    "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://jweekly.com/2026/05/27/trump-administration-again-sues-ucla-over-antisemitism-alleging-hostile-educational-environment/",
+    "top_news": "https://www.curacaochronicle.com/post/unknown/dutch-national-shot-dead-in-rural-area-near-valledupar-colombia",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "trump",
-      "administration",
-      "again",
-      "sues",
-      "ucla",
-      "over",
-      "antisemitism",
-      "alleging",
-      "hostile",
-      "educational",
-      "environment"
+      "post",
+      "unknown",
+      "dutch",
+      "national",
+      "shot",
+      "dead",
+      "rural",
+      "area",
+      "near",
+      "valledupar",
+      "colombia"
     ]
   },
-  "KHM": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/05/27/cambodia-sentences-6-chinese-nationals-to-life-in-prison-over-scam-linked-killing-of-korean-student",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nzherald.co.nz/world/iran-says-low-possibility-of-return-to-war-with-us-as-peace-talks-advance/Z3LOTESQ75FDBAXHCYQWCNWDYY/",
     "event_codes": {
-      "17": 6
+      "19": 2
     },
     "keywords": [
       "world",
-      "2026",
-      "cambodia",
-      "sentences",
-      "chinese",
-      "nationals",
-      "life",
-      "prison",
-      "over",
-      "scam",
-      "linked",
-      "killing",
-      "korean",
-      "student"
+      "iran",
+      "says",
+      "low",
+      "possibility",
+      "return",
+      "war",
+      "with",
+      "peace",
+      "talks",
+      "advance",
+      "z3lotesq75fdbaxhcyqwcnwdyy"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.97,
+    "count": 11,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-897556",
+    "event_codes": {
+      "17": 9,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "897556"
     ]
   }
 }
