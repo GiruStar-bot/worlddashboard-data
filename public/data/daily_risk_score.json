@@ -1,175 +1,78 @@
 {
   "IRN": {
-    "risk_score": 7.65,
-    "count": 8,
-    "top_news": "https://www.sanfordherald.com/news/national/u-s-iran-may-be-on-the-cusp-of-tentative-ceasefire-extension/article_ecda840b-2ccc-5314-83fd-8735f51fe610.html",
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://investinglive.com:443/commodities/iran-state-tv-says-they-destroyed-a-us-aircraft-no-us-comment-at-this-stage-20260528/",
     "event_codes": {
-      "19": 4,
-      "18": 3,
+      "19": 2,
       "16": 1
     },
     "keywords": [
-      "news",
-      "national",
+      "commodities",
       "iran",
-      "may",
-      "the",
-      "cusp",
-      "tentative",
-      "ceasefire",
-      "extension",
-      "article",
-      "ecda840b",
-      "2ccc",
-      "5314",
-      "83fd",
-      "8735f51fe610.html"
+      "state",
+      "says",
+      "they",
+      "destroyed",
+      "aircraft",
+      "comment",
+      "this",
+      "stage",
+      "20260528"
     ]
   },
   "ISR": {
-    "risk_score": 5.95,
+    "risk_score": 7.4,
     "count": 8,
-    "top_news": "https://www.news4jax.com/news/world/2026/05/28/gaza-mourns-10-killed-in-eid-strikes-as-netanyahu-vows-wider-control-of-the-strip/",
+    "top_news": "https://antonyloewenstein.com/israeli-asks-the-world-to-understand-his-pain-and-trauma/",
     "event_codes": {
-      "19": 4,
-      "17": 2,
-      "14": 1,
+      "19": 7,
       "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "gaza",
-      "mourns",
-      "killed",
-      "eid",
-      "strikes",
-      "netanyahu",
-      "vows",
-      "wider",
-      "control",
+      "israeli",
+      "asks",
       "the",
-      "strip"
+      "world",
+      "understand",
+      "his",
+      "pain",
+      "and",
+      "trauma"
     ]
   },
-  "MLI": {
-    "risk_score": 2.85,
+  "LBN": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.news4jax.com/pets/2026/05/28/this-was-a-team-effort-iowa-veteran-credits-jacksonville-community-with-helping-find-service-dog-lost-for-5-days/",
+    "top_news": "https://www.arabnews.com/node/2645262/middle-east",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "pets",
-      "2026",
-      "this",
-      "was",
-      "team",
-      "effort",
-      "iowa",
-      "veteran",
-      "credits",
-      "jacksonville",
-      "community",
-      "with",
-      "helping",
-      "find",
-      "service",
-      "dog",
-      "lost",
-      "for",
-      "days"
+      "node",
+      "2645262",
+      "middle",
+      "east"
     ]
   },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.news4jax.com/news/world/2026/05/28/gaza-mourns-10-killed-in-eid-strikes-as-netanyahu-vows-wider-control-of-the-strip/",
+  "NGA": {
+    "risk_score": 17.9,
+    "count": 21,
+    "top_news": "https://saharareporters.com/2026/05/28/nigerias-shameful-cycle-school-kidnappings-ejuchegahi-angwaomaodoko",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "gaza",
-      "mourns",
-      "killed",
-      "eid",
-      "strikes",
-      "netanyahu",
-      "vows",
-      "wider",
-      "control",
-      "the",
-      "strip"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://foreignpolicy.com/2026/05/28/sudan-iran-war-gulf-proxy-ripple-effects-peace-talks-quad/",
-    "event_codes": {
-      "18": 3
+      "18": 11,
+      "19": 6,
+      "17": 4
     },
     "keywords": [
       "2026",
-      "sudan",
-      "iran",
-      "war",
-      "gulf",
-      "proxy",
-      "ripple",
-      "effects",
-      "peace",
-      "talks",
-      "quad"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://foreignpolicy.com/2026/05/28/sudan-iran-war-gulf-proxy-ripple-effects-peace-talks-quad/",
-    "event_codes": {
-      "16": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "sudan",
-      "iran",
-      "war",
-      "gulf",
-      "proxy",
-      "ripple",
-      "effects",
-      "peace",
-      "talks",
-      "quad"
-    ]
-  },
-  "VEN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.nbcnews.com/business/media/cbs-news-bari-weiss-hire-nick-bilton-60-minutes-rcna347352",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "business",
-      "media",
-      "cbs",
-      "news",
-      "bari",
-      "weiss",
-      "hire",
-      "nick",
-      "bilton",
-      "minutes",
-      "rcna347352"
+      "nigerias",
+      "shameful",
+      "cycle",
+      "school",
+      "kidnappings",
+      "ejuchegahi",
+      "angwaomaodoko"
     ]
   }
 }
