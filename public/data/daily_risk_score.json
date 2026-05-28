@@ -1,141 +1,162 @@
 {
-  "IRN": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://www.tribuneindia.com/liveblog/usa-news/iran-israel-war-live-updates-us-military-launches-another-strike-on-iran-targeting-military-facility-and-drones/",
+  "IDN": {
+    "risk_score": 6.72,
+    "count": 8,
+    "top_news": "https://en.antaranews.com/news/417121/defense-minister-tni-deputy-chief-mark-eid-al-adha-in-west-papua",
     "event_codes": {
-      "19": 4,
-      "16": 2
+      "19": 5,
+      "17": 2,
+      "15": 1
     },
     "keywords": [
-      "liveblog",
-      "usa",
       "news",
-      "iran",
-      "israel",
-      "war",
-      "live",
-      "updates",
-      "military",
-      "launches",
-      "another",
-      "strike",
-      "iran",
-      "targeting",
-      "military",
-      "facility",
-      "and",
-      "drones"
+      "417121",
+      "defense",
+      "minister",
+      "tni",
+      "deputy",
+      "chief",
+      "mark",
+      "eid",
+      "adha",
+      "west",
+      "papua"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.ynetnews.com/article/skd5pdhgfl",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "article",
+      "skd5pdhgfl"
     ]
   },
   "ISR": {
-    "risk_score": 6.8,
-    "count": 7,
-    "top_news": "https://www.newkerala.com/news/a/israel-issues-evacuation-order-residents-lebanons-city-tyre-788.htm",
+    "risk_score": 28.0,
+    "count": 35,
+    "top_news": "https://www.ynetnews.com/article/skd5pdhgfl",
     "event_codes": {
-      "19": 6,
-      "16": 1
+      "19": 19,
+      "17": 11,
+      "16": 2,
+      "20": 2,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "issues",
-      "evacuation",
-      "order",
-      "residents",
-      "lebanons",
-      "city",
-      "tyre",
-      "788.htm"
+      "article",
+      "skd5pdhgfl"
     ]
   },
   "KEN": {
-    "risk_score": 4.05,
-    "count": 5,
-    "top_news": "https://www.the-star.co.ke/news/2026-05-28-10-feared-dead-in-utumishi-girls-dorm-fire",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://timesofindia.indiatimes.com/world/rest-of-world/17-students-dead-and-over-70-injured-after-fire-razes-dormitory-at-kenyan-girls-school/articleshow/131363376.cms",
     "event_codes": {
-      "14": 3,
       "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "feared",
+      "world",
+      "rest",
+      "world",
+      "students",
       "dead",
-      "utumishi",
+      "and",
+      "over",
+      "injured",
+      "after",
+      "fire",
+      "razes",
+      "dormitory",
+      "kenyan",
       "girls",
-      "dorm",
-      "fire"
+      "school",
+      "articleshow",
+      "131363376.cms"
     ]
   },
-  "KHM": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://www.asiaone.com:443/asia/cambodia-sentences-6-murder-south-korean-student-linked-scam-centre",
+  "LAO": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/05/27/laos-detains-foreign-hostel-staff-over-backpacker-methanol-poisonings-as-families-and-travelers-demand-answers-2/",
     "event_codes": {
       "17": 2,
-      "18": 1,
       "19": 1
     },
     "keywords": [
-      "asia",
-      "cambodia",
-      "sentences",
-      "murder",
-      "south",
-      "korean",
-      "student",
-      "linked",
-      "scam",
-      "centre"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.tribuneindia.com/liveblog/usa-news/iran-israel-war-live-updates-us-military-launches-another-strike-on-iran-targeting-military-facility-and-drones/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "liveblog",
-      "usa",
       "news",
-      "iran",
-      "israel",
-      "war",
-      "live",
-      "updates",
-      "military",
-      "launches",
-      "another",
-      "strike",
-      "iran",
-      "targeting",
-      "military",
-      "facility",
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "laos",
+      "detains",
+      "foreign",
+      "hostel",
+      "staff",
+      "over",
+      "backpacker",
+      "methanol",
+      "poisonings",
+      "families",
       "and",
-      "drones"
+      "travelers",
+      "demand",
+      "answers"
     ]
   },
-  "ZWE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newzimbabwe.com/10-killed-in-bus-and-haulage-truck-collision-along-gokwe-kwekwe-road/",
+  "LBN": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.novinite.com/articles/238696/Strait+of+Hormuz+Crisis+Deepens:+US+Bombs+Iran,+Kuwait+Under+Attack,+Israel+Escalates+War+in+Lebanon",
     "event_codes": {
-      "19": 3
+      "19": 12
     },
     "keywords": [
-      "killed",
-      "bus",
-      "and",
-      "haulage",
-      "truck",
-      "collision",
-      "along",
-      "gokwe",
-      "kwekwe",
-      "road"
+      "articles",
+      "238696",
+      "strait+of+hormuz+crisis+deepens:+us+bombs+iran,+kuwait+under+attack,+israel+escalates+war+in+lebanon"
+    ]
+  },
+  "MMR": {
+    "risk_score": 6.67,
+    "count": 7,
+    "top_news": "https://www.bnionline.net/en/news/intensified-attacks-kachin-state-rare-earth-sites-amid-juntas-100-day-military-initiative",
+    "event_codes": {
+      "19": 6,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "intensified",
+      "attacks",
+      "kachin",
+      "state",
+      "rare",
+      "earth",
+      "sites",
+      "amid",
+      "juntas",
+      "100",
+      "day",
+      "military",
+      "initiative"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/r1kurubxme",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "r1kurubxme"
     ]
   }
 }
