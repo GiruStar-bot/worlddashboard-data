@@ -1,115 +1,175 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bakersfield.com/ap/national/ap-news-summary-at-11-57-a-m-edt/article_531c90fd-3aba-5e5b-93fb-064b6804cc17.html",
+    "risk_score": 7.65,
+    "count": 8,
+    "top_news": "https://www.sanfordherald.com/news/national/u-s-iran-may-be-on-the-cusp-of-tentative-ceasefire-extension/article_ecda840b-2ccc-5314-83fd-8735f51fe610.html",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "national",
       "news",
-      "summary",
-      "edt",
+      "national",
+      "iran",
+      "may",
+      "the",
+      "cusp",
+      "tentative",
+      "ceasefire",
+      "extension",
       "article",
-      "531c90fd",
-      "3aba",
-      "5e5b",
-      "93fb",
-      "064b6804cc17.html"
+      "ecda840b",
+      "2ccc",
+      "5314",
+      "83fd",
+      "8735f51fe610.html"
     ]
   },
   "ISR": {
-    "risk_score": 5.94,
-    "count": 7,
-    "top_news": "https://www.israelnationalnews.com/news/427765",
+    "risk_score": 5.95,
+    "count": 8,
+    "top_news": "https://www.news4jax.com/news/world/2026/05/28/gaza-mourns-10-killed-in-eid-strikes-as-netanyahu-vows-wider-control-of-the-strip/",
     "event_codes": {
-      "19": 3,
-      "15": 2,
-      "16": 2
+      "19": 4,
+      "17": 2,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
       "news",
-      "427765"
-    ]
-  },
-  "KHM": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.manilatimes.net/2026/05/29/world/asia-oceania/cambodia-jails-6-chinese-for-south-koreans-murder/2353833",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
       "world",
-      "asia",
-      "oceania",
-      "cambodia",
-      "jails",
-      "chinese",
-      "for",
-      "south",
-      "koreans",
-      "murder",
-      "2353833"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/world/5278161-report-says-iran-and-us-reach-outline-ceasefire-deal-after-latest-attacks",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "5278161",
-      "report",
-      "says",
-      "iran",
-      "and",
-      "reach",
-      "outline",
-      "ceasefire",
-      "deal",
-      "after",
-      "latest",
-      "attacks"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=299618",
-    "event_codes": {
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://nehandaradio.com/2026/05/28/from-makwerekwere-to-operation-dudula-the-violent-roots-of-xenophobia-in-south-africa/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
       "2026",
-      "from",
-      "makwerekwere",
-      "operation",
-      "dudula",
+      "gaza",
+      "mourns",
+      "killed",
+      "eid",
+      "strikes",
+      "netanyahu",
+      "vows",
+      "wider",
+      "control",
       "the",
-      "violent",
-      "roots",
-      "xenophobia",
-      "south",
-      "africa"
+      "strip"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.news4jax.com/pets/2026/05/28/this-was-a-team-effort-iowa-veteran-credits-jacksonville-community-with-helping-find-service-dog-lost-for-5-days/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "pets",
+      "2026",
+      "this",
+      "was",
+      "team",
+      "effort",
+      "iowa",
+      "veteran",
+      "credits",
+      "jacksonville",
+      "community",
+      "with",
+      "helping",
+      "find",
+      "service",
+      "dog",
+      "lost",
+      "for",
+      "days"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.news4jax.com/news/world/2026/05/28/gaza-mourns-10-killed-in-eid-strikes-as-netanyahu-vows-wider-control-of-the-strip/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "gaza",
+      "mourns",
+      "killed",
+      "eid",
+      "strikes",
+      "netanyahu",
+      "vows",
+      "wider",
+      "control",
+      "the",
+      "strip"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://foreignpolicy.com/2026/05/28/sudan-iran-war-gulf-proxy-ripple-effects-peace-talks-quad/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "sudan",
+      "iran",
+      "war",
+      "gulf",
+      "proxy",
+      "ripple",
+      "effects",
+      "peace",
+      "talks",
+      "quad"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://foreignpolicy.com/2026/05/28/sudan-iran-war-gulf-proxy-ripple-effects-peace-talks-quad/",
+    "event_codes": {
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "sudan",
+      "iran",
+      "war",
+      "gulf",
+      "proxy",
+      "ripple",
+      "effects",
+      "peace",
+      "talks",
+      "quad"
+    ]
+  },
+  "VEN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.nbcnews.com/business/media/cbs-news-bari-weiss-hire-nick-bilton-60-minutes-rcna347352",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "business",
+      "media",
+      "cbs",
+      "news",
+      "bari",
+      "weiss",
+      "hire",
+      "nick",
+      "bilton",
+      "minutes",
+      "rcna347352"
     ]
   }
 }
