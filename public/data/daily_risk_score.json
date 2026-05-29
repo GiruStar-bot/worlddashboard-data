@@ -1,34 +1,115 @@
 {
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "http://dailyexpress.com.my/news/282311/man-denies-outraging-woman-s-modesty/",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://religionnews.com/2026/05/26/what-we-know-and-dont-know-about-the-emerging-deal-to-end-the-iran-war/",
     "event_codes": {
-      "17": 4
+      "19": 3
     },
     "keywords": [
-      "news",
-      "282311",
-      "man",
-      "denies",
-      "outraging",
-      "woman",
-      "modesty"
+      "2026",
+      "what",
+      "know",
+      "and",
+      "dont",
+      "know",
+      "about",
+      "the",
+      "emerging",
+      "deal",
+      "end",
+      "the",
+      "iran",
+      "war"
     ]
   },
-  "TWN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/29/2003858196",
+  "IRN": {
+    "risk_score": 7.5,
+    "count": 8,
+    "top_news": "https://dunyanews.tv/en/World/954176-us-military-denies-claim-us-aircraft-downed-near-irans-bushehr",
     "event_codes": {
-      "17": 4
+      "19": 7,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "taiwan",
-      "archives",
+      "world",
+      "954176",
+      "military",
+      "denies",
+      "claim",
+      "aircraft",
+      "downed",
+      "near",
+      "irans",
+      "bushehr"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://religionnews.com/2026/05/26/what-we-know-and-dont-know-about-the-emerging-deal-to-end-the-iran-war/",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
       "2026",
-      "2003858196"
+      "what",
+      "know",
+      "and",
+      "dont",
+      "know",
+      "about",
+      "the",
+      "emerging",
+      "deal",
+      "end",
+      "the",
+      "iran",
+      "war"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://rollingstoneindia.com/man-accused-of-plotting-taylor-swift-concert-attack-apologizes-ahead-of-trial-verdict/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "man",
+      "accused",
+      "plotting",
+      "taylor",
+      "swift",
+      "concert",
+      "attack",
+      "apologizes",
+      "ahead",
+      "trial",
+      "verdict"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://rollingstoneindia.com/man-accused-of-plotting-taylor-swift-concert-attack-apologizes-ahead-of-trial-verdict/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "man",
+      "accused",
+      "plotting",
+      "taylor",
+      "swift",
+      "concert",
+      "attack",
+      "apologizes",
+      "ahead",
+      "trial",
+      "verdict"
     ]
   }
 }
