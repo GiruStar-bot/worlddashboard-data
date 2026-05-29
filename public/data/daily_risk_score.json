@@ -1,74 +1,34 @@
 {
-  "IRN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/29/iran-us-reach-deal-to-extend-ceasefire-pending-trump-s-approval-2",
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "http://dailyexpress.com.my/news/282311/man-denies-outraging-woman-s-modesty/",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "17": 4
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "iran",
-      "reach",
-      "deal",
-      "extend",
-      "ceasefire",
-      "pending",
-      "trump",
-      "approval"
+      "news",
+      "282311",
+      "man",
+      "denies",
+      "outraging",
+      "woman",
+      "modesty"
     ]
   },
-  "ISR": {
-    "risk_score": 15.57,
-    "count": 21,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/05/28/israeli-and-russian-forces-added-to-un-blacklist-for-sexual-violence-in-conflict-zones",
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/29/2003858196",
     "event_codes": {
-      "16": 7,
-      "18": 6,
-      "19": 6,
-      "14": 1,
-      "15": 1
+      "17": 4
     },
     "keywords": [
-      "world",
+      "news",
+      "taiwan",
+      "archives",
       "2026",
-      "israeli",
-      "and",
-      "russian",
-      "forces",
-      "added",
-      "blacklist",
-      "for",
-      "sexual",
-      "violence",
-      "conflict",
-      "zones"
-    ]
-  },
-  "URY": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.usmagazine.com/celebrity-news/news/keanu-reeves-seeks-mercy-for-director-convicted-of-stealing-millions/",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "celebrity",
-      "news",
-      "news",
-      "keanu",
-      "reeves",
-      "seeks",
-      "mercy",
-      "for",
-      "director",
-      "convicted",
-      "stealing",
-      "millions"
+      "2003858196"
     ]
   }
 }
