@@ -1,101 +1,95 @@
 {
-  "IRQ": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://boingboing.net/2026/05/29/an-iraqi-journalist-threw-his-shoes-at-george-w-bush-kicking-off-a-copycat-era.html",
-    "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "iraqi",
-      "journalist",
-      "threw",
-      "his",
-      "shoes",
-      "george",
-      "bush",
-      "kicking",
-      "off",
-      "copycat",
-      "era.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.84,
-    "count": 11,
-    "top_news": "https://www.rediff.com/news/report/will-pakistan-rethink-its-israel-policy-after-rubio-talks/20260529.htm",
-    "event_codes": {
-      "19": 6,
-      "17": 4,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "report",
-      "will",
-      "pakistan",
-      "rethink",
-      "its",
-      "israel",
-      "policy",
-      "after",
-      "rubio",
-      "talks",
-      "20260529.htm"
-    ]
-  },
-  "LBN": {
+  "COL": {
     "risk_score": 3.5,
     "count": 5,
-    "top_news": "https://www.nvdaily.com/associated_press_national/the-latest-trump-met-with-aides-for-a-final-determination-on-iran-deal/article_e8dd1706-823e-5abb-af23-d5ccc1b1907a.html",
+    "top_news": "https://www.spacewar.com/afp/260529181037.ttcztk06.html",
     "event_codes": {
       "17": 3,
       "19": 2
     },
     "keywords": [
-      "associated",
-      "press",
-      "national",
-      "the",
-      "latest",
-      "trump",
-      "met",
-      "with",
-      "aides",
-      "for",
-      "final",
-      "determination",
-      "iran",
-      "deal",
-      "article",
-      "e8dd1706",
-      "823e",
-      "5abb",
-      "af23",
-      "d5ccc1b1907a.html"
+      "afp",
+      "260529181037.ttcztk06.html"
     ]
   },
-  "PSE": {
-    "risk_score": 3.64,
-    "count": 4,
-    "top_news": "https://www.rnz.co.nz/news/world/596787/un-places-israel-and-russia-on-sexual-violence-blacklist",
+  "IRN": {
+    "risk_score": 5.65,
+    "count": 8,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/29/769491/Lebanon-Israel-US-Beirut-",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "16": 4,
+      "19": 3,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "596787",
-      "places",
+      "detail",
+      "2026",
+      "769491",
+      "lebanon",
       "israel",
-      "and",
-      "russia",
-      "sexual",
-      "violence",
-      "blacklist"
+      "beirut"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.2,
+    "count": 19,
+    "top_news": "https://www.spacewar.com/afp/260529211639.wa5glkxi.html",
+    "event_codes": {
+      "17": 9,
+      "19": 5,
+      "18": 4,
+      "20": 1
+    },
+    "keywords": [
+      "afp",
+      "260529211639.wa5glkxi.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://english.news.cn/20260530/6b83454ecf5542c498c855eb7a31cf9c/c.html",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "20260530",
+      "6b83454ecf5542c498c855eb7a31cf9c",
+      "c.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.4,
+    "count": 9,
+    "top_news": "https://dailypost.ng/2026/05/29/army-rescues-31-abductees-neutralises-five-terrorists-in-north-west/",
+    "event_codes": {
+      "18": 6,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "army",
+      "rescues",
+      "abductees",
+      "neutralises",
+      "five",
+      "terrorists",
+      "north",
+      "west"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.news.cn/20260530/cc0b2edd1b444346953661e92e4b854b/c.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "20260530",
+      "cc0b2edd1b444346953661e92e4b854b",
+      "c.html"
     ]
   }
 }
