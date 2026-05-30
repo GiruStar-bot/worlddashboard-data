@@ -1,96 +1,43 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.oann.com/newsroom/report-americans-injured-in-iranian-attack-in-kuwait/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "newsroom",
-      "report",
-      "americans",
-      "injured",
-      "iranian",
-      "attack",
-      "kuwait"
-    ]
-  },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "http://www.bgnes.com/conflicts/the-lebanese-prime-minister-accused-israel-of-pursuing-a-scorched-earth-policy-following-new-strikes-in-the-southern-part-of-the-country",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://imemc.org/article/nablus-israeli-settlers-injure-7-palestinians-in-madama/",
     "event_codes": {
       "17": 2,
-      "19": 2
+      "19": 1
     },
     "keywords": [
-      "conflicts",
-      "the",
-      "lebanese",
-      "prime",
-      "minister",
-      "accused",
-      "israel",
-      "pursuing",
-      "scorched",
-      "earth",
-      "policy",
-      "following",
-      "new",
-      "strikes",
-      "the",
-      "southern",
-      "part",
-      "the",
-      "country"
+      "article",
+      "nablus",
+      "israeli",
+      "settlers",
+      "injure",
+      "palestinians",
+      "madama"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.oann.com/newsroom/report-americans-injured-in-iranian-attack-in-kuwait/",
+  "NGA": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://saharareporters.com/2026/05/30/suspected-terrorists-kidnap-police-inspector-duty-imo-family-laments-commands-silence",
     "event_codes": {
-      "19": 2
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "newsroom",
-      "report",
-      "americans",
-      "injured",
-      "iranian",
-      "attack",
-      "kuwait"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "http://www.bgnes.com/conflicts/the-lebanese-prime-minister-accused-israel-of-pursuing-a-scorched-earth-policy-following-new-strikes-in-the-southern-part-of-the-country",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "conflicts",
-      "the",
-      "lebanese",
-      "prime",
-      "minister",
-      "accused",
-      "israel",
-      "pursuing",
-      "scorched",
-      "earth",
-      "policy",
-      "following",
-      "new",
-      "strikes",
-      "the",
-      "southern",
-      "part",
-      "the",
-      "country"
+      "2026",
+      "suspected",
+      "terrorists",
+      "kidnap",
+      "police",
+      "inspector",
+      "duty",
+      "imo",
+      "family",
+      "laments",
+      "commands",
+      "silence"
     ]
   }
 }
