@@ -1,34 +1,82 @@
 {
-  "ISR": {
-    "risk_score": 12.4,
-    "count": 14,
-    "top_news": "https://www.ktvu.com/news/oakland-flea-market-killing-father-son-charged",
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/politics/articles/us-warns-capable-resuming-war-052127601.html",
     "event_codes": {
-      "19": 10,
-      "14": 3,
-      "17": 1
+      "16": 4,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "oakland",
-      "flea",
-      "market",
-      "killing",
-      "father",
-      "son",
-      "charged"
+      "politics",
+      "articles",
+      "warns",
+      "capable",
+      "resuming",
+      "war",
+      "052127601.html"
     ]
   },
-  "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.spacewar.com/afp/260529222519.cmlwurzn.html",
+  "ISR": {
+    "risk_score": 6.6,
+    "count": 10,
+    "top_news": "https://www.aol.co.uk/news/music-platforms-stream-pro-hamas-053500302.html",
     "event_codes": {
-      "19": 6
+      "16": 5,
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "afp",
-      "260529222519.cmlwurzn.html"
+      "news",
+      "music",
+      "platforms",
+      "stream",
+      "pro",
+      "hamas",
+      "053500302.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/news/music-platforms-stream-pro-hamas-053500302.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "music",
+      "platforms",
+      "stream",
+      "pro",
+      "hamas",
+      "053500302.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/trump-administration-targets-vietnams-ip-enforcement-in-new-trade-investigation/articleshow/131404241.cms",
+    "event_codes": {
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "international",
+      "world",
+      "news",
+      "trump",
+      "administration",
+      "targets",
+      "vietnams",
+      "enforcement",
+      "new",
+      "trade",
+      "investigation",
+      "articleshow",
+      "131404241.cms"
     ]
   }
 }
