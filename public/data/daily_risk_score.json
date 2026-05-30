@@ -1,43 +1,143 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://imemc.org/article/nablus-israeli-settlers-injure-7-palestinians-in-madama/",
+  "COL": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.joxfm.com/2026/05/30/eric-cole-fires-63-holds-one-shot-lead-at-charles-schwab-challenge/",
     "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "article",
-      "nablus",
-      "israeli",
-      "settlers",
-      "injure",
-      "palestinians",
-      "madama"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://saharareporters.com/2026/05/30/suspected-terrorists-kidnap-police-inspector-duty-imo-family-laments-commands-silence",
-    "event_codes": {
-      "18": 4,
-      "19": 1
+      "19": 4
     },
     "keywords": [
       "2026",
-      "suspected",
-      "terrorists",
-      "kidnap",
-      "police",
-      "inspector",
-      "duty",
-      "imo",
-      "family",
-      "laments",
-      "commands",
-      "silence"
+      "eric",
+      "cole",
+      "fires",
+      "holds",
+      "one",
+      "shot",
+      "lead",
+      "charles",
+      "schwab",
+      "challenge"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.8,
+    "count": 15,
+    "top_news": "http://www.greekherald.com/news/279092065/qatar-opposes-permanent-hormuz-shipping-tolls-but-says-temporary-fees-are-negotiable",
+    "event_codes": {
+      "19": 10,
+      "16": 5
+    },
+    "keywords": [
+      "news",
+      "279092065",
+      "qatar",
+      "opposes",
+      "permanent",
+      "hormuz",
+      "shipping",
+      "tolls",
+      "but",
+      "says",
+      "temporary",
+      "fees",
+      "are",
+      "negotiable"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.44,
+    "count": 28,
+    "top_news": "https://www.pakistantoday.com.pk/2026/05/31/iran-says-deal-with-us-not-final-yet-as-tensions-rise-over-hormuz-control-and-maritime-strike",
+    "event_codes": {
+      "19": 18,
+      "17": 5,
+      "18": 4,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "says",
+      "deal",
+      "with",
+      "not",
+      "final",
+      "yet",
+      "tensions",
+      "rise",
+      "over",
+      "hormuz",
+      "control",
+      "and",
+      "maritime",
+      "strike"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.37,
+    "count": 6,
+    "top_news": "http://www.myanmarnews.net/news/279092099/us-more-than-capable-of-restarting-war-with-iran-warns-pete-hegseth",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "279092099",
+      "more",
+      "than",
+      "capable",
+      "restarting",
+      "war",
+      "with",
+      "iran",
+      "warns",
+      "pete",
+      "hegseth"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://aa.com.tr/en/middle-east/amjad-youssef-involved-in-killing-dr-al-abbasis-6-children-syria/3952061",
+    "event_codes": {
+      "19": 3,
+      "20": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "amjad",
+      "youssef",
+      "involved",
+      "killing",
+      "abbasis",
+      "children",
+      "syria",
+      "3952061"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "http://www.sitkasentinel.com/stories/former-premier-of-turks-and-caicos-islands-is-sentenced-to-4-years-in-landmark-corruption-case,145269",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "stories",
+      "former",
+      "premier",
+      "turks",
+      "and",
+      "caicos",
+      "islands",
+      "sentenced",
+      "years",
+      "landmark",
+      "corruption",
+      "case,145269"
     ]
   }
 }
