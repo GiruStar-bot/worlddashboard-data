@@ -1,122 +1,96 @@
 {
-  "COL": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "opposite",
-      "visions",
-      "what",
-      "know",
-      "about",
-      "colombias",
-      "presidential",
-      "election"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.pauldavisoncrime.com/search?updated-max=2026-05-27T03:13:00-04:00&max-results=7",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.oann.com/newsroom/report-americans-injured-in-iranian-attack-in-kuwait/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "search"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailygazette.com/hv360/horse_racing/angels-among-us-horse-documentary/article_87103d25-fa22-4515-86f3-2bb6b25bc165.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "hv360",
-      "horse",
-      "racing",
-      "angels",
-      "among",
-      "horse",
-      "documentary",
-      "article",
-      "87103d25",
-      "fa22",
-      "4515",
-      "86f3",
-      "2bb6b25bc165.html"
+      "newsroom",
+      "report",
+      "americans",
+      "injured",
+      "iranian",
+      "attack",
+      "kuwait"
     ]
   },
   "ISR": {
-    "risk_score": 19.57,
-    "count": 20,
-    "top_news": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza",
-    "event_codes": {
-      "19": 18,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "palestinian",
-      "doctor",
-      "killed",
-      "three",
-      "people",
-      "injured",
-      "israeli",
-      "attack",
-      "gaza"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://leadership.ng/untold-story-of-how-late-alexx-ekubo-began-his-nollywood-career/",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "untold",
-      "story",
-      "how",
-      "late",
-      "alexx",
-      "ekubo",
-      "began",
-      "his",
-      "nollywood",
-      "career"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.95,
+    "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/5/30/palestinian-doctor-killed-three-people-injured-in-israeli-attack-on-gaza",
+    "top_news": "http://www.bgnes.com/conflicts/the-lebanese-prime-minister-accused-israel-of-pursuing-a-scorched-earth-policy-following-new-strikes-in-the-southern-part-of-the-country",
     "event_codes": {
-      "19": 4
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "palestinian",
-      "doctor",
-      "killed",
-      "three",
-      "people",
+      "conflicts",
+      "the",
+      "lebanese",
+      "prime",
+      "minister",
+      "accused",
+      "israel",
+      "pursuing",
+      "scorched",
+      "earth",
+      "policy",
+      "following",
+      "new",
+      "strikes",
+      "the",
+      "southern",
+      "part",
+      "the",
+      "country"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.oann.com/newsroom/report-americans-injured-in-iranian-attack-in-kuwait/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "newsroom",
+      "report",
+      "americans",
       "injured",
-      "israeli",
+      "iranian",
       "attack",
-      "gaza"
+      "kuwait"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "http://www.bgnes.com/conflicts/the-lebanese-prime-minister-accused-israel-of-pursuing-a-scorched-earth-policy-following-new-strikes-in-the-southern-part-of-the-country",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "conflicts",
+      "the",
+      "lebanese",
+      "prime",
+      "minister",
+      "accused",
+      "israel",
+      "pursuing",
+      "scorched",
+      "earth",
+      "policy",
+      "following",
+      "new",
+      "strikes",
+      "the",
+      "southern",
+      "part",
+      "the",
+      "country"
     ]
   }
 }
