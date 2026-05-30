@@ -1,102 +1,76 @@
 {
   "IRN": {
-    "risk_score": 5.5,
-    "count": 7,
-    "top_news": "https://www.pakistantoday.com.pk/2026/05/30/trump-holds-firm-on-conditions-as-iran-deal-remains-unresolved",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "2026",
-      "trump",
-      "holds",
-      "firm",
-      "conditions",
-      "iran",
-      "deal",
-      "remains",
-      "unresolved"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.65,
-    "count": 10,
-    "top_news": "https://www.pakistantoday.com.pk/2026/05/30/trump-holds-firm-on-conditions-as-iran-deal-remains-unresolved",
-    "event_codes": {
-      "18": 5,
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "trump",
-      "holds",
-      "firm",
-      "conditions",
-      "iran",
-      "deal",
-      "remains",
-      "unresolved"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://blueprint.ng/tag/nigerias-flamingos-2/",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "tag",
-      "nigerias",
-      "flamingos"
-    ]
-  },
-  "SGP": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.zerohedge.com/markets/intercepted-iranian-missile-damages-us-reaper-drones-injures-five-kuwaiti-air-base",
+    "top_news": "https://www.dailymail.com/news/article-15860791/americans-injured-ballistic-missile-strike-kuwait.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "markets",
-      "intercepted",
-      "iranian",
+      "news",
+      "article",
+      "15860791",
+      "americans",
+      "injured",
+      "ballistic",
       "missile",
-      "damages",
-      "reaper",
-      "drones",
-      "injures",
-      "five",
-      "kuwaiti",
-      "air",
-      "base"
+      "strike",
+      "kuwait.html"
     ]
   },
-  "TUR": {
+  "KEN": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1396116",
+    "event_codes": {
+      "19": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1396116"
+    ]
+  },
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.rfi.fr/en/podcasts/international-report/20260530-turkey-enters-political-unknown-after-police-raid-opposition-party-headquarters",
+    "top_news": "https://www.dailymail.com/news/article-15860791/americans-injured-ballistic-missile-strike-kuwait.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "podcasts",
-      "international",
-      "report",
-      "20260530",
-      "turkey",
-      "enters",
-      "political",
-      "unknown",
-      "after",
-      "police",
-      "raid",
-      "opposition",
-      "party",
-      "headquarters"
+      "news",
+      "article",
+      "15860791",
+      "americans",
+      "injured",
+      "ballistic",
+      "missile",
+      "strike",
+      "kuwait.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.8,
+    "count": 20,
+    "top_news": "https://www.informationng.com/2026/05/2027-election-gov-makinde-emerges-consensus-apm-presidential-candidate.html",
+    "event_codes": {
+      "17": 14,
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "2027",
+      "election",
+      "gov",
+      "makinde",
+      "emerges",
+      "consensus",
+      "apm",
+      "presidential",
+      "candidate.html"
     ]
   }
 }
