@@ -1,138 +1,98 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/878586/new-front-of-hell-a-us-strike-is-coming-to-brazil-lula-s-brave-stance-against-trump-you-are-not-an-emperor",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "878586",
-      "new",
-      "front",
-      "hell",
-      "strike",
-      "coming",
-      "brazil",
-      "lula",
-      "brave",
-      "stance",
-      "against",
-      "trump",
-      "you",
-      "are",
-      "not",
-      "emperor"
-    ]
-  },
-  "COL": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://aa.com.tr/en/americas/polarization-divided-right-pave-way-in-colombian-presidential-elections/3951696",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "americas",
-      "polarization",
-      "divided",
-      "right",
-      "pave",
-      "way",
-      "colombian",
-      "presidential",
-      "elections",
-      "3951696"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.25,
-    "count": 6,
-    "top_news": "https://www.newsweek.com/why-iran-isnt-backing-down-on-lebanon-12005095",
+    "risk_score": 10.99,
+    "count": 12,
+    "top_news": "https://www.presstv.ir/Detail/2026/05/30/769523/Iran-border-guards-kill-terrorists-clashes-northwestern-border-region-Chaldoran",
     "event_codes": {
-      "19": 5,
+      "19": 7,
+      "17": 2,
+      "18": 2,
       "16": 1
     },
     "keywords": [
-      "why",
+      "detail",
+      "2026",
+      "769523",
       "iran",
-      "isnt",
-      "backing",
-      "down",
-      "lebanon",
-      "12005095"
+      "border",
+      "guards",
+      "kill",
+      "terrorists",
+      "clashes",
+      "northwestern",
+      "border",
+      "region",
+      "chaldoran"
     ]
   },
   "ISR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://aa.com.tr/en/us-israel-iran-war/us-blockade-of-iranian-ports-still-in-place-despite-trumps-announcement-report/3951710",
+    "risk_score": 11.85,
+    "count": 13,
+    "top_news": "https://nypost.com/2026/05/30/us-news/muslim-interfaith-activist-marching-in-sundays-israel-parade/",
     "event_codes": {
-      "19": 7
+      "19": 8,
+      "18": 3,
+      "17": 2
     },
     "keywords": [
+      "2026",
+      "news",
+      "muslim",
+      "interfaith",
+      "activist",
+      "marching",
+      "sundays",
       "israel",
-      "iran",
-      "war",
-      "blockade",
-      "iranian",
-      "ports",
-      "still",
-      "place",
-      "despite",
-      "trumps",
-      "announcement",
-      "report",
-      "3951710"
+      "parade"
     ]
   },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://aa.com.tr/en/middle-east/hezbollah-says-it-hit-6-israeli-tanks-amid-drone-missile-attacks-in-southern-lebanon/3951600",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "hezbollah",
-      "says",
-      "hit",
-      "israeli",
-      "tanks",
-      "amid",
-      "drone",
-      "missile",
-      "attacks",
-      "southern",
-      "lebanon",
-      "3951600"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.0,
+  "NGA": {
+    "risk_score": 4.6,
     "count": 5,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-attack-palestinian-homes-lands-across-occupied-west-bank/3951704",
+    "top_news": "https://leadership.ng/police-seal-off-abuja-venue-for-jonathans-ratification-as-pdp-presidential-candidate/",
     "event_codes": {
-      "19": 5
+      "18": 3,
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "occupiers",
-      "attack",
-      "palestinian",
-      "homes",
-      "lands",
-      "across",
-      "occupied",
-      "west",
-      "bank",
-      "3951704"
+      "police",
+      "seal",
+      "off",
+      "abuja",
+      "venue",
+      "for",
+      "jonathans",
+      "ratification",
+      "pdp",
+      "presidential",
+      "candidate"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/05/30/world-news/ex-dicator-raul-castros-six-fingered-jet-setting-grandson-emerges-from-shadows-in-us-cuba-talks/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "dicator",
+      "raul",
+      "castros",
+      "six",
+      "fingered",
+      "jet",
+      "setting",
+      "grandson",
+      "emerges",
+      "from",
+      "shadows",
+      "cuba",
+      "talks"
     ]
   }
 }
