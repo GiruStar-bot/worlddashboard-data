@@ -1,60 +1,159 @@
 {
-  "IRN": {
-    "risk_score": 5.21,
-    "count": 6,
-    "top_news": "https://www.abc.net.au/news/2026-06-01/australia-perfect-target-for-islamist-terror-network/106694730",
+  "ETH": {
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed",
     "event_codes": {
-      "17": 4,
-      "19": 2
+      "19": 6,
+      "17": 3
+    },
+    "keywords": [
+      "opinions",
+      "2026",
+      "ethiopia",
+      "votes",
+      "its",
+      "deepening",
+      "human",
+      "rights",
+      "crisis",
+      "must",
+      "addressed"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.75,
+    "count": 5,
+    "top_news": "https://www.zerohedge.com/military/did-iran-get-its-hands-us-stealth-missile-jassm-er-wreckage-sparks-reverse-engineering",
+    "event_codes": {
+      "16": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "military",
+      "did",
+      "iran",
+      "get",
+      "its",
+      "hands",
+      "stealth",
+      "missile",
+      "jassm",
+      "wreckage",
+      "sparks",
+      "reverse",
+      "engineering"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.77,
+    "count": 6,
+    "top_news": "https://english.ahram.org.eg/News/569897.aspx",
+    "event_codes": {
+      "19": 5,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "australia",
-      "perfect",
-      "target",
-      "for",
-      "islamist",
-      "terror",
-      "network",
-      "106694730"
+      "569897.aspx"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theamericanconservative.com/ceasefire-day-54-trump-says-agreement-is-close/",
+  "NGA": {
+    "risk_score": 7.42,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/business/business-news/884222-dangote-retains-africas-most-admired-brand-title-for-eighth-year.html",
     "event_codes": {
-      "19": 3
+      "18": 4,
+      "17": 2,
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "ceasefire",
-      "day",
-      "trump",
-      "says",
-      "agreement",
-      "close"
+      "business",
+      "business",
+      "news",
+      "884222",
+      "dangote",
+      "retains",
+      "africas",
+      "most",
+      "admired",
+      "brand",
+      "title",
+      "for",
+      "eighth",
+      "year.html"
     ]
   },
-  "SDN": {
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://blueprint.ng/how-i-returned-from-the-gate-of-the-other-world-parts-1-2-3-4-readers-comments/",
+    "top_news": "https://www.canberratimes.com.au/story/9256483/commonwealth-sues-3m-for-2-billion-over-pfas-contamination/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "how",
-      "returned",
-      "from",
+      "story",
+      "9256483",
+      "commonwealth",
+      "sues",
+      "for",
+      "billion",
+      "over",
+      "pfas",
+      "contamination"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2645589/middle-east",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "node",
+      "2645589",
+      "middle",
+      "east"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.6,
+    "count": 5,
+    "top_news": "https://theconversation.com/emerging-houthi-al-shabaab-co-operation-and-the-growing-threat-to-red-sea-shipping-283563",
+    "event_codes": {
+      "15": 5
+    },
+    "keywords": [
+      "emerging",
+      "houthi",
+      "shabaab",
+      "operation",
+      "and",
       "the",
-      "gate",
-      "the",
-      "other",
-      "world",
-      "parts",
-      "readers",
-      "comments"
+      "growing",
+      "threat",
+      "red",
+      "sea",
+      "shipping",
+      "283563"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2645586/world",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "node",
+      "2645586",
+      "world"
     ]
   }
 }
