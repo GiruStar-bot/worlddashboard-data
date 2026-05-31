@@ -1,65 +1,115 @@
 {
-  "IRN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.pakistantoday.com.pk/2026/05/31/trump-claims-iran-agreed-to-no-nuclear-weapons-amid-reports-of-tougher-terms-sent-to-tehran",
+  "COD": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.prokerala.com/news/articles/a1769726.html",
     "event_codes": {
-      "19": 4
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
+      "news",
+      "articles",
+      "a1769726.html"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://truthout.org/articles/colombias-presidential-election-could-reshape-relations-with-trump-administration/",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "articles",
+      "colombias",
+      "presidential",
+      "election",
+      "could",
+      "reshape",
+      "relations",
+      "with",
       "trump",
-      "claims",
-      "iran",
-      "agreed",
-      "nuclear",
-      "weapons",
-      "amid",
-      "reports",
-      "tougher",
-      "terms",
-      "sent",
-      "tehran"
+      "administration"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/suspected-mastermind-wave-antisemitic-attacks-37229067",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "news",
+      "suspected",
+      "mastermind",
+      "wave",
+      "antisemitic",
+      "attacks",
+      "37229067"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/suspected-mastermind-wave-antisemitic-attacks-37229067",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "news",
+      "suspected",
+      "mastermind",
+      "wave",
+      "antisemitic",
+      "attacks",
+      "37229067"
     ]
   },
   "ISR": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://ktar.com/world-news/israel-move-into-lebanon-us-ceasefire/5875436/",
+    "risk_score": 17.99,
+    "count": 23,
+    "top_news": "https://www.baltimoresun.com/2026/05/31/palestinian-man-is-shot-and-killed-at-a-west-bank-barrier-near-jerusalem/",
     "event_codes": {
-      "14": 1,
-      "17": 1,
-      "19": 1
+      "19": 11,
+      "17": 8,
+      "16": 3,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "news",
-      "israel",
-      "move",
-      "into",
-      "lebanon",
-      "ceasefire",
-      "5875436"
+      "2026",
+      "palestinian",
+      "man",
+      "shot",
+      "and",
+      "killed",
+      "west",
+      "bank",
+      "barrier",
+      "near",
+      "jerusalem"
     ]
   },
   "LBN": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/politics/articles/iran-calls-actions-not-words-143225712.html",
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.lbc.co.uk/article/israel-seizes-crusades-fortress-lebanon-5HjdZwf_2/",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "iran",
-      "calls",
-      "actions",
-      "not",
-      "words",
-      "143225712.html"
+      "article",
+      "israel",
+      "seizes",
+      "crusades",
+      "fortress",
+      "lebanon",
+      "5hjdzwf"
     ]
   }
 }
