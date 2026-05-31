@@ -1,159 +1,46 @@
 {
-  "ETH": {
-    "risk_score": 7.5,
-    "count": 9,
-    "top_news": "https://www.aljazeera.com/opinions/2026/5/31/as-ethiopia-votes-its-deepening-human-rights-crisis-must-be-addressed",
-    "event_codes": {
-      "19": 6,
-      "17": 3
-    },
-    "keywords": [
-      "opinions",
-      "2026",
-      "ethiopia",
-      "votes",
-      "its",
-      "deepening",
-      "human",
-      "rights",
-      "crisis",
-      "must",
-      "addressed"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.75,
-    "count": 5,
-    "top_news": "https://www.zerohedge.com/military/did-iran-get-its-hands-us-stealth-missile-jassm-er-wreckage-sparks-reverse-engineering",
+  "ISR": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://www.al-monitor.com/originals/2026/05/israeli-strike-kills-least-two-gaza-seaport-cafe-medics-say",
     "event_codes": {
       "16": 2,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "military",
-      "did",
-      "iran",
-      "get",
-      "its",
-      "hands",
-      "stealth",
-      "missile",
-      "jassm",
-      "wreckage",
-      "sparks",
-      "reverse",
-      "engineering"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.77,
-    "count": 6,
-    "top_news": "https://english.ahram.org.eg/News/569897.aspx",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "569897.aspx"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.42,
-    "count": 9,
-    "top_news": "https://www.premiumtimesng.com/business/business-news/884222-dangote-retains-africas-most-admired-brand-title-for-eighth-year.html",
-    "event_codes": {
-      "18": 4,
       "17": 2,
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "business",
-      "business",
-      "news",
-      "884222",
-      "dangote",
-      "retains",
-      "africas",
-      "most",
-      "admired",
-      "brand",
-      "title",
-      "for",
-      "eighth",
-      "year.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.canberratimes.com.au/story/9256483/commonwealth-sues-3m-for-2-billion-over-pfas-contamination/",
-    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "story",
-      "9256483",
-      "commonwealth",
-      "sues",
-      "for",
-      "billion",
-      "over",
-      "pfas",
-      "contamination"
+      "originals",
+      "2026",
+      "israeli",
+      "strike",
+      "kills",
+      "least",
+      "two",
+      "gaza",
+      "seaport",
+      "cafe",
+      "medics",
+      "say"
     ]
   },
-  "SDN": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2645589/middle-east",
+  "THA": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.chiangraitimes.com/news/chiang-rai/chiang-rai-police-bust-smuggler/",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "14": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "node",
-      "2645589",
-      "middle",
-      "east"
-    ]
-  },
-  "SOM": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://theconversation.com/emerging-houthi-al-shabaab-co-operation-and-the-growing-threat-to-red-sea-shipping-283563",
-    "event_codes": {
-      "15": 5
-    },
-    "keywords": [
-      "emerging",
-      "houthi",
-      "shabaab",
-      "operation",
-      "and",
-      "the",
-      "growing",
-      "threat",
-      "red",
-      "sea",
-      "shipping",
-      "283563"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2645586/world",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "node",
-      "2645586",
-      "world"
+      "news",
+      "chiang",
+      "rai",
+      "chiang",
+      "rai",
+      "police",
+      "bust",
+      "smuggler"
     ]
   }
 }
