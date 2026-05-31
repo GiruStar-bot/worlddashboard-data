@@ -1,34 +1,84 @@
 {
-  "ISR": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "https://www.el-balad.com/17016157",
+  "IRN": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/05/31/israeli-army-captures-strategic-beaufort-castle-as-troops-push-deeper-into-lebanon/",
     "event_codes": {
-      "19": 7,
-      "17": 1
+      "17": 4,
+      "19": 2
     },
     "keywords": [
-      "17016157"
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "israeli",
+      "army",
+      "captures",
+      "strategic",
+      "beaufort",
+      "castle",
+      "troops",
+      "push",
+      "deeper",
+      "into",
+      "lebanon"
     ]
   },
-  "LBN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.nwaonline.com/news/2026/may/31/israeli-strikes-target-castle-site-in-lebanon/",
+  "ISR": {
+    "risk_score": 8.2,
+    "count": 9,
+    "top_news": "https://www.thejc.com/news/uk/terror-mastermind-linked-to-golders-green-attacks-met-khamenei-days-before-war-pkgnjyv8",
     "event_codes": {
-      "19": 4,
+      "19": 6,
+      "18": 2,
       "17": 1
     },
     "keywords": [
       "news",
+      "terror",
+      "mastermind",
+      "linked",
+      "golders",
+      "green",
+      "attacks",
+      "met",
+      "khamenei",
+      "days",
+      "before",
+      "war",
+      "pkgnjyv8"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.55,
+    "count": 8,
+    "top_news": "https://www.bbc.co.uk/news/articles/cdep04kzz5wo",
+    "event_codes": {
+      "17": 7,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cdep04kzz5wo"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ukiahdailyjournal.com/2026/05/29/us-commander-cuban-military-guantanamo-trump-pressure/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "may",
-      "israeli",
-      "strikes",
-      "target",
-      "castle",
-      "site",
-      "lebanon"
+      "commander",
+      "cuban",
+      "military",
+      "guantanamo",
+      "trump",
+      "pressure"
     ]
   }
 }
