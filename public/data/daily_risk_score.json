@@ -1,65 +1,156 @@
 {
   "IRN": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://gulfnews.com/world/mena/kuwait-air-defences-engage-missile-and-drone-attacks-as-us-responds-to-iranian-aggressions-1.500559103",
+    "risk_score": 11.42,
+    "count": 13,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-dumocrats-iran-deal-truth-social-b2986944.html",
     "event_codes": {
-      "19": 2,
-      "16": 1,
-      "17": 1
+      "19": 7,
+      "18": 3,
+      "16": 2,
+      "14": 1
     },
     "keywords": [
+      "news",
       "world",
-      "mena",
-      "kuwait",
-      "air",
-      "defences",
-      "engage",
-      "missile",
-      "and",
-      "drone",
-      "attacks",
-      "responds",
-      "iranian",
-      "aggressions",
-      "1.500559103"
+      "middle",
+      "east",
+      "trump",
+      "dumocrats",
+      "iran",
+      "deal",
+      "truth",
+      "social",
+      "b2986944.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "http://www.econotimes.com/US-Pushes-Israel-Lebanon-De-Escalation-Plan-as-Hezbollah-Tensions-Escalate-in-Southern-Lebanon-1743124",
+    "risk_score": 19.79,
+    "count": 22,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/01/769640/Israel-orders-attacks-Lebanon-Beirut-Dahiyeh",
     "event_codes": {
+      "19": 14,
+      "17": 4,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "769640",
+      "israel",
+      "orders",
+      "attacks",
+      "lebanon",
+      "beirut",
+      "dahiyeh"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/beaufort-castle-history-lebanon-idf-b2986912.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "beaufort",
+      "castle",
+      "history",
+      "lebanon",
+      "idf",
+      "b2986912.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.55,
+    "count": 12,
+    "top_news": "https://punchng.com/nigeria-not-100-ready-for-possible-ebola-emergency-says-ncdc/",
+    "event_codes": {
+      "14": 7,
+      "16": 2,
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "pushes",
-      "israel",
-      "lebanon",
-      "escalation",
-      "plan",
-      "hezbollah",
-      "tensions",
-      "escalate",
-      "southern",
-      "lebanon",
-      "1743124"
+      "nigeria",
+      "not",
+      "100",
+      "ready",
+      "for",
+      "possible",
+      "ebola",
+      "emergency",
+      "says",
+      "ncdc"
     ]
   },
-  "NGA": {
-    "risk_score": 11.75,
-    "count": 14,
-    "top_news": "https://allafrica.com/stories/202606010067.html",
+  "PSE": {
+    "risk_score": 14.08,
+    "count": 16,
+    "top_news": "https://imemc.org/article/israeli-invasions-abductions-and-demolitions-in-west-bank/",
     "event_codes": {
-      "19": 9,
-      "16": 3,
-      "14": 1,
-      "18": 1
+      "18": 9,
+      "17": 7
     },
     "keywords": [
-      "stories",
-      "202606010067.html"
+      "article",
+      "israeli",
+      "invasions",
+      "abductions",
+      "and",
+      "demolitions",
+      "west",
+      "bank"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "https://www.digitalspy.com/soaps/coronation-street/a71457898/coronation-street-spoilers-lisa-rules-out-theo-suspect/",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "soaps",
+      "coronation",
+      "street",
+      "a71457898",
+      "coronation",
+      "street",
+      "spoilers",
+      "lisa",
+      "rules",
+      "out",
+      "theo",
+      "suspect"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.zimeye.net/2026/05/31/wicknell-chivayo-flaunts-wealth-500k-and-2-range-rovers-at-sisters-lavish-wedding/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "wicknell",
+      "chivayo",
+      "flaunts",
+      "wealth",
+      "500k",
+      "and",
+      "range",
+      "rovers",
+      "sisters",
+      "lavish",
+      "wedding"
     ]
   }
 }
