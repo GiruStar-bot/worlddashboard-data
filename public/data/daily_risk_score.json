@@ -1,105 +1,167 @@
 {
-  "IRN": {
-    "risk_score": 6.7,
-    "count": 7,
-    "top_news": "https://www.cbsnews.com/live-updates/iran-war-us-trump-netanyahu-israel-lebanon-hezbollah/",
+  "BRA": {
+    "risk_score": 3.1,
+    "count": 5,
+    "top_news": "https://www.nakedcapitalism.com/2026/06/the-trump-administrations-electoral-engineering-reaches-new-heights-in-colombia.html",
     "event_codes": {
-      "19": 5,
-      "16": 1,
-      "18": 1
+      "17": 3,
+      "16": 2
     },
     "keywords": [
-      "live",
-      "updates",
-      "iran",
-      "war",
+      "2026",
+      "the",
+      "trump",
+      "administrations",
+      "electoral",
+      "engineering",
+      "reaches",
+      "new",
+      "heights",
+      "colombia.html"
+    ]
+  },
+  "COL": {
+    "risk_score": 4.0,
+    "count": 8,
+    "top_news": "https://www.nakedcapitalism.com/2026/06/the-trump-administrations-electoral-engineering-reaches-new-heights-in-colombia.html",
+    "event_codes": {
+      "17": 8
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "trump",
+      "administrations",
+      "electoral",
+      "engineering",
+      "reaches",
+      "new",
+      "heights",
+      "colombia.html"
+    ]
+  },
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://hungarytoday.hu/authorities-seize-record-cocaine-haul-hidden-among-bananas/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "authorities",
+      "seize",
+      "record",
+      "cocaine",
+      "haul",
+      "hidden",
+      "among",
+      "bananas"
+    ]
+  },
+  "IDN": {
+    "risk_score": 8.1,
+    "count": 13,
+    "top_news": "https://en.antaranews.com/news/417665/police-arrest-two-suspects-in-murder-of-south-korean-in-bekasi",
+    "event_codes": {
+      "17": 9,
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "417665",
+      "police",
+      "arrest",
+      "two",
+      "suspects",
+      "murder",
+      "south",
+      "korean",
+      "bekasi"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.11,
+    "count": 7,
+    "top_news": "https://www.mirror.co.uk/news/us-news/trump-netanyahu-phone-call-crazy-37237500",
+    "event_codes": {
+      "19": 5,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "news",
       "trump",
       "netanyahu",
-      "israel",
-      "lebanon",
-      "hezbollah"
+      "phone",
+      "call",
+      "crazy",
+      "37237500"
     ]
   },
   "ISR": {
-    "risk_score": 18.77,
-    "count": 21,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-898095",
+    "risk_score": 12.42,
+    "count": 14,
+    "top_news": "https://www.americanthinker.com/blog/2026/06/the_dirtiest_words_in_foreign_policy_speech.html",
     "event_codes": {
-      "19": 11,
-      "18": 5,
-      "16": 3,
+      "19": 10,
+      "16": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "blog",
+      "2026",
+      "the",
+      "dirtiest",
+      "words",
+      "foreign",
+      "policy",
+      "speech.html"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 3.74,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/world/articles/south-africa-police-investigate-killing-140924808.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "south",
+      "africa",
+      "police",
+      "investigate",
+      "killing",
+      "140924808.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.85,
+    "count": 5,
+    "top_news": "https://www.manilatimes.net/2026/06/02/tmt-newswire/globenewswire/singapore-based-kin-group-to-expand-footprint-in-kuala-lumpur/2357113",
+    "event_codes": {
+      "19": 3,
       "17": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "898095"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.55,
-    "count": 6,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-898095",
-    "event_codes": {
-      "18": 4,
-      "19": 2
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "898095"
-    ]
-  },
-  "MMR": {
-    "risk_score": 8.9,
-    "count": 9,
-    "top_news": "https://www.sentinelassam.com/more-news/international/deadly-blast-in-myanmar-village-leaves-55-dead-over-100-homes-damaged",
-    "event_codes": {
-      "19": 7,
-      "18": 2
-    },
-    "keywords": [
-      "more",
-      "news",
-      "international",
-      "deadly",
-      "blast",
-      "myanmar",
-      "village",
-      "leaves",
-      "dead",
-      "over",
-      "100",
-      "homes",
-      "damaged"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.2,
-    "count": 10,
-    "top_news": "https://leadership.ng/police-arrest-suspects-over-false-bandit-attack-alarm-in-oyo/",
-    "event_codes": {
-      "16": 3,
-      "18": 3,
-      "14": 2,
-      "19": 2
-    },
-    "keywords": [
-      "police",
-      "arrest",
-      "suspects",
-      "over",
-      "false",
-      "bandit",
-      "attack",
-      "alarm",
-      "oyo"
+      "2026",
+      "tmt",
+      "newswire",
+      "globenewswire",
+      "singapore",
+      "based",
+      "kin",
+      "group",
+      "expand",
+      "footprint",
+      "kuala",
+      "lumpur",
+      "2357113"
     ]
   }
 }
