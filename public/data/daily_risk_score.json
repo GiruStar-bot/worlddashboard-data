@@ -1,69 +1,90 @@
 {
-  "IRN": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.kold.com/2026/06/01/us-bombs-iranian-radar-drone-sites-after-american-military-drone-shot-down/",
+  "ISR": {
+    "risk_score": 5.4,
+    "count": 8,
+    "top_news": "https://timesofindia.indiatimes.com/world/us/trump-netanyahu-split-conflicting-accounts-of-israels-lebanon-operation-emerge-after-heated-phone-call/articleshow/131454800.cms",
     "event_codes": {
-      "19": 5
+      "17": 4,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "netanyahu",
+      "split",
+      "conflicting",
+      "accounts",
+      "israels",
+      "lebanon",
+      "operation",
+      "emerge",
+      "after",
+      "heated",
+      "phone",
+      "call",
+      "articleshow",
+      "131454800.cms"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.christiannewswire.com/presidential-message-on-global-coptic-day/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "presidential",
+      "message",
+      "global",
+      "coptic",
+      "day"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.65,
+    "count": 11,
+    "top_news": "https://www.thisdaylive.com/2026/06/02/babachir-adc-presidential-primary-disgraceful/",
+    "event_codes": {
+      "19": 4,
+      "14": 3,
+      "16": 3,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "bombs",
-      "iranian",
-      "radar",
-      "drone",
-      "sites",
+      "babachir",
+      "adc",
+      "presidential",
+      "primary",
+      "disgraceful"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.chiangraitimes.com/hot-news/crime/police-launch-manhunt-after-7-year-old-found-raped-and-killed-in-khachaturian/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "hot",
+      "news",
+      "crime",
+      "police",
+      "launch",
+      "manhunt",
       "after",
-      "american",
-      "military",
-      "drone",
-      "shot",
-      "down"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.5,
-    "count": 10,
-    "top_news": "http://harrisondaily.com/stories/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel,383460",
-    "event_codes": {
-      "19": 7,
-      "16": 3
-    },
-    "keywords": [
-      "stories",
-      "israel",
-      "orders",
-      "strikes",
-      "beiruts",
-      "southern",
-      "suburbs",
-      "hezbollah",
-      "rockets",
-      "hit",
-      "northern",
-      "israel,383460"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://harrisondaily.com/stories/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel,383460",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "stories",
-      "israel",
-      "orders",
-      "strikes",
-      "beiruts",
-      "southern",
-      "suburbs",
-      "hezbollah",
-      "rockets",
-      "hit",
-      "northern",
-      "israel,383460"
+      "year",
+      "old",
+      "found",
+      "raped",
+      "and",
+      "killed",
+      "khachaturian"
     ]
   }
 }
