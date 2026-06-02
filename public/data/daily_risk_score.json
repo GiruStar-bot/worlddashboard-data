@@ -1,90 +1,105 @@
 {
-  "ISR": {
-    "risk_score": 5.4,
-    "count": 8,
-    "top_news": "https://timesofindia.indiatimes.com/world/us/trump-netanyahu-split-conflicting-accounts-of-israels-lebanon-operation-emerge-after-heated-phone-call/articleshow/131454800.cms",
+  "IRN": {
+    "risk_score": 6.7,
+    "count": 7,
+    "top_news": "https://www.cbsnews.com/live-updates/iran-war-us-trump-netanyahu-israel-lebanon-hezbollah/",
     "event_codes": {
-      "17": 4,
-      "16": 2,
+      "19": 5,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "live",
+      "updates",
+      "iran",
+      "war",
+      "trump",
+      "netanyahu",
+      "israel",
+      "lebanon",
+      "hezbollah"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.77,
+    "count": 21,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-898095",
+    "event_codes": {
+      "19": 11,
+      "18": 5,
+      "16": 3,
+      "17": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "898095"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-898095",
+    "event_codes": {
+      "18": 4,
       "19": 2
     },
     "keywords": [
-      "world",
-      "trump",
-      "netanyahu",
-      "split",
-      "conflicting",
-      "accounts",
-      "israels",
-      "lebanon",
-      "operation",
-      "emerge",
-      "after",
-      "heated",
-      "phone",
-      "call",
-      "articleshow",
-      "131454800.cms"
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "898095"
     ]
   },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.christiannewswire.com/presidential-message-on-global-coptic-day/",
+  "MMR": {
+    "risk_score": 8.9,
+    "count": 9,
+    "top_news": "https://www.sentinelassam.com/more-news/international/deadly-blast-in-myanmar-village-leaves-55-dead-over-100-homes-damaged",
     "event_codes": {
+      "19": 7,
       "18": 2
     },
     "keywords": [
-      "presidential",
-      "message",
-      "global",
-      "coptic",
-      "day"
+      "more",
+      "news",
+      "international",
+      "deadly",
+      "blast",
+      "myanmar",
+      "village",
+      "leaves",
+      "dead",
+      "over",
+      "100",
+      "homes",
+      "damaged"
     ]
   },
   "NGA": {
-    "risk_score": 7.65,
-    "count": 11,
-    "top_news": "https://www.thisdaylive.com/2026/06/02/babachir-adc-presidential-primary-disgraceful/",
+    "risk_score": 7.2,
+    "count": 10,
+    "top_news": "https://leadership.ng/police-arrest-suspects-over-false-bandit-attack-alarm-in-oyo/",
     "event_codes": {
-      "19": 4,
-      "14": 3,
       "16": 3,
-      "17": 1
+      "18": 3,
+      "14": 2,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "babachir",
-      "adc",
-      "presidential",
-      "primary",
-      "disgraceful"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.4,
-    "count": 5,
-    "top_news": "https://www.chiangraitimes.com/hot-news/crime/police-launch-manhunt-after-7-year-old-found-raped-and-killed-in-khachaturian/",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "hot",
-      "news",
-      "crime",
       "police",
-      "launch",
-      "manhunt",
-      "after",
-      "year",
-      "old",
-      "found",
-      "raped",
-      "and",
-      "killed",
-      "khachaturian"
+      "arrest",
+      "suspects",
+      "over",
+      "false",
+      "bandit",
+      "attack",
+      "alarm",
+      "oyo"
     ]
   }
 }
