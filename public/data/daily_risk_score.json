@@ -1,26 +1,69 @@
 {
+  "IRN": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.kold.com/2026/06/01/us-bombs-iranian-radar-drone-sites-after-american-military-drone-shot-down/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "bombs",
+      "iranian",
+      "radar",
+      "drone",
+      "sites",
+      "after",
+      "american",
+      "military",
+      "drone",
+      "shot",
+      "down"
+    ]
+  },
   "ISR": {
+    "risk_score": 8.5,
+    "count": 10,
+    "top_news": "http://harrisondaily.com/stories/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel,383460",
+    "event_codes": {
+      "19": 7,
+      "16": 3
+    },
+    "keywords": [
+      "stories",
+      "israel",
+      "orders",
+      "strikes",
+      "beiruts",
+      "southern",
+      "suburbs",
+      "hezbollah",
+      "rockets",
+      "hit",
+      "northern",
+      "israel,383460"
+    ]
+  },
+  "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://aninews.in/news/world/us/trump-says-deal-with-iran-on-truce-hormuz-expected-over-the-next-week20260602042737/",
+    "top_news": "http://harrisondaily.com/stories/israel-orders-strikes-on-beiruts-southern-suburbs-as-hezbollah-rockets-hit-northern-israel,383460",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "trump",
-      "says",
-      "deal",
-      "with",
-      "iran",
-      "truce",
-      "hormuz",
-      "expected",
-      "over",
-      "the",
-      "next",
-      "week20260602042737"
+      "stories",
+      "israel",
+      "orders",
+      "strikes",
+      "beiruts",
+      "southern",
+      "suburbs",
+      "hezbollah",
+      "rockets",
+      "hit",
+      "northern",
+      "israel,383460"
     ]
   }
 }
