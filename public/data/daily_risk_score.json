@@ -1,90 +1,133 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wsws.org/en/articles/2026/06/02/bqcq-j02.html",
-    "event_codes": {
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "articles",
-      "2026",
-      "bqcq",
-      "j02.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.4,
-    "count": 7,
-    "top_news": "https://www.express.co.uk/news/world/2212698/kuwait-missiles-iran-middle-east",
+    "risk_score": 7.7,
+    "count": 8,
+    "top_news": "https://www.breitbart.com/middle-east/2026/06/02/drone-and-missile-attacks-target-cargo-ships-near-iraq/",
     "event_codes": {
-      "19": 4,
-      "17": 2,
+      "19": 7,
       "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "2212698",
-      "kuwait",
-      "missiles",
-      "iran",
       "middle",
-      "east"
+      "east",
+      "2026",
+      "drone",
+      "and",
+      "missile",
+      "attacks",
+      "target",
+      "cargo",
+      "ships",
+      "near",
+      "iraq"
     ]
   },
   "ISR": {
-    "risk_score": 15.79,
-    "count": 20,
-    "top_news": "https://www.wsws.org/en/articles/2026/06/02/vlpx-j02.html",
+    "risk_score": 13.85,
+    "count": 14,
+    "top_news": "https://www.dailymail.com/news/article-15869215/US-launches-attack-island-Strait-Hormuz-Trump-tries-forge-peace-deal-Iran.html",
     "event_codes": {
-      "19": 9,
-      "17": 5,
-      "14": 3,
-      "16": 2,
-      "18": 1
+      "19": 14
     },
     "keywords": [
-      "articles",
-      "2026",
-      "vlpx",
-      "j02.html"
+      "news",
+      "article",
+      "15869215",
+      "launches",
+      "attack",
+      "island",
+      "strait",
+      "hormuz",
+      "trump",
+      "tries",
+      "forge",
+      "peace",
+      "deal",
+      "iran.html"
     ]
   },
-  "NGA": {
-    "risk_score": 6.1,
-    "count": 7,
-    "top_news": "https://www.nationalaccordnewspaper.com/reps-urge-fg-security-agencies-to-rescue-kidnapped-pupils-teachers-alive/",
+  "LBN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.dailymail.com/news/article-15869215/US-launches-attack-island-Strait-Hormuz-Trump-tries-forge-peace-deal-Iran.html",
     "event_codes": {
-      "18": 4,
-      "19": 2,
+      "19": 4,
       "17": 1
     },
     "keywords": [
-      "reps",
-      "urge",
-      "security",
-      "agencies",
-      "rescue",
-      "kidnapped",
-      "pupils",
-      "teachers",
-      "alive"
+      "news",
+      "article",
+      "15869215",
+      "launches",
+      "attack",
+      "island",
+      "strait",
+      "hormuz",
+      "trump",
+      "tries",
+      "forge",
+      "peace",
+      "deal",
+      "iran.html"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wsws.org/en/articles/2026/06/02/qtsw-j02.html",
+  "NGA": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://www.libertymagazine.org/article/targeted-faith-inside-nigerias-bloody-conflict",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "18": 2
     },
     "keywords": [
-      "articles",
+      "article",
+      "targeted",
+      "faith",
+      "inside",
+      "nigerias",
+      "bloody",
+      "conflict"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.chiangraitimes.com/news/police-arrest-suspect-who-murdered-a-chiang-mai-woman/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "police",
+      "arrest",
+      "suspect",
+      "who",
+      "murdered",
+      "chiang",
+      "mai",
+      "woman"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.2,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/6/3/zimbabwes-e-tricycle-crackdown-puts-rural-womens-livelihoods-at-risk",
+    "event_codes": {
+      "17": 5,
+      "14": 2
+    },
+    "keywords": [
+      "news",
       "2026",
-      "qtsw",
-      "j02.html"
+      "zimbabwes",
+      "tricycle",
+      "crackdown",
+      "puts",
+      "rural",
+      "womens",
+      "livelihoods",
+      "risk"
     ]
   }
 }
