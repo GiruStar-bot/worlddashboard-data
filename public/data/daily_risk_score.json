@@ -1,172 +1,139 @@
 {
-  "IRN": {
-    "risk_score": 8.4,
-    "count": 12,
-    "top_news": "https://www.yahoo.com/news/articles/hostilities-flare-iran-war-oil-064924494.html",
+  "BHR": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.naharnet.com/stories/en/320466-aoun-condemns-iranian-attacks-on-kuwait-bahrain",
     "event_codes": {
-      "16": 6,
-      "19": 6
+      "19": 9
     },
     "keywords": [
-      "news",
-      "articles",
-      "hostilities",
-      "flare",
-      "iran",
-      "war",
-      "oil",
-      "064924494.html"
+      "stories",
+      "320466",
+      "aoun",
+      "condemns",
+      "iranian",
+      "attacks",
+      "kuwait",
+      "bahrain"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/hostilities-flare-iran-war-oil-064924494.html",
+  "IRN": {
+    "risk_score": 7.05,
+    "count": 8,
+    "top_news": "https://www.caledonianrecord.com/news/national/kuwait-says-iranian-attack-targeting-its-international-airport-killed-at-least-one-person-and-wounded/article_e44bab56-cb6f-50af-9bf6-4da950423f9e.html",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 5,
+      "16": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "hostilities",
-      "flare",
-      "iran",
-      "war",
-      "oil",
-      "064924494.html"
+      "national",
+      "kuwait",
+      "says",
+      "iranian",
+      "attack",
+      "targeting",
+      "its",
+      "international",
+      "airport",
+      "killed",
+      "least",
+      "one",
+      "person",
+      "and",
+      "wounded",
+      "article",
+      "e44bab56",
+      "cb6f",
+      "50af",
+      "9bf6",
+      "4da950423f9e.html"
     ]
   },
   "ISR": {
-    "risk_score": 20.0,
-    "count": 22,
-    "top_news": "https://www.jns.org/news/israel-news/hamas-terrorist-who-kidnapped-four-on-oct-7-eliminated-in-gaza-strike",
+    "risk_score": 11.25,
+    "count": 13,
+    "top_news": "https://www.dailymaverick.co.za/article/2026-06-03-sa-accused-of-unlawful-r279m-arms-exports-to-the-us-despite-international-law-violations/",
     "event_codes": {
-      "19": 16,
-      "17": 3,
-      "14": 1,
-      "18": 1,
-      "20": 1
+      "19": 6,
+      "18": 4,
+      "17": 3
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "hamas",
-      "terrorist",
-      "who",
-      "kidnapped",
-      "four",
-      "oct",
-      "eliminated",
-      "gaza",
-      "strike"
-    ]
-  },
-  "KWT": {
-    "risk_score": 6.6,
-    "count": 9,
-    "top_news": "https://whbl.com/2026/06/03/iran-drone-and-missile-attack-hits-kuwait-airport-state-news-agency-says/",
-    "event_codes": {
-      "19": 5,
-      "16": 4
-    },
-    "keywords": [
+      "article",
       "2026",
-      "iran",
-      "drone",
-      "and",
-      "missile",
-      "attack",
-      "hits",
-      "kuwait",
-      "airport",
-      "state",
-      "news",
-      "agency",
-      "says"
+      "accused",
+      "unlawful",
+      "r279m",
+      "arms",
+      "exports",
+      "the",
+      "despite",
+      "international",
+      "law",
+      "violations"
     ]
   },
   "LBN": {
-    "risk_score": 5.85,
-    "count": 8,
-    "top_news": "https://www.jns.org/news/israel-news/hamas-terrorist-who-kidnapped-four-on-oct-7-eliminated-in-gaza-strike",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://sana.sy/en/international/2320995/",
     "event_codes": {
-      "16": 5,
       "19": 3
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "hamas",
-      "terrorist",
-      "who",
-      "kidnapped",
-      "four",
-      "oct",
-      "eliminated",
-      "gaza",
-      "strike"
+      "international",
+      "2320995"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 6.4,
+    "count": 8,
+    "top_news": "https://ghanaiantimes.com.gh/vessel-struck-in-iraq-port-in-unprovoked-attack/",
+    "event_codes": {
+      "17": 3,
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "vessel",
+      "struck",
+      "iraq",
+      "port",
+      "unprovoked",
+      "attack"
     ]
   },
   "NGA": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://promptnewsonline.com/victims-bodies-recovered-despite-n11m-ransom-payment/",
+    "event_codes": {
+      "18": 6,
+      "19": 2
+    },
+    "keywords": [
+      "victims",
+      "bodies",
+      "recovered",
+      "despite",
+      "n11m",
+      "ransom",
+      "payment"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://thesun.ng/insecurity-nans-southwest-berates-sowore-over-attempted-hijack-of-solidarity-walk/",
+    "top_news": "https://sana.sy/en/syria/2321029/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "insecurity",
-      "nans",
-      "southwest",
-      "berates",
-      "sowore",
-      "over",
-      "attempted",
-      "hijack",
-      "solidarity",
-      "walk"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/opinion/netanyahu-wont-stop-until-all-arab-political-parties-are-gone",
-    "event_codes": {
-      "20": 3
-    },
-    "keywords": [
-      "opinion",
-      "netanyahu",
-      "wont",
-      "stop",
-      "until",
-      "all",
-      "arab",
-      "political",
-      "parties",
-      "are",
-      "gone"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dw.com/en/democracy-in-africa-coups-crises-and-foregone-conclusions/a-77328510",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "democracy",
-      "africa",
-      "coups",
-      "crises",
-      "and",
-      "foregone",
-      "conclusions",
-      "77328510"
+      "syria",
+      "2321029"
     ]
   }
 }
