@@ -1,133 +1,172 @@
 {
   "IRN": {
-    "risk_score": 7.7,
-    "count": 8,
-    "top_news": "https://www.breitbart.com/middle-east/2026/06/02/drone-and-missile-attacks-target-cargo-ships-near-iraq/",
+    "risk_score": 8.4,
+    "count": 12,
+    "top_news": "https://www.yahoo.com/news/articles/hostilities-flare-iran-war-oil-064924494.html",
     "event_codes": {
-      "19": 7,
+      "16": 6,
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "hostilities",
+      "flare",
+      "iran",
+      "war",
+      "oil",
+      "064924494.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/hostilities-flare-iran-war-oil-064924494.html",
+    "event_codes": {
+      "19": 2,
       "16": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "2026",
-      "drone",
-      "and",
-      "missile",
-      "attacks",
-      "target",
-      "cargo",
-      "ships",
-      "near",
-      "iraq"
+      "news",
+      "articles",
+      "hostilities",
+      "flare",
+      "iran",
+      "war",
+      "oil",
+      "064924494.html"
     ]
   },
   "ISR": {
-    "risk_score": 13.85,
-    "count": 14,
-    "top_news": "https://www.dailymail.com/news/article-15869215/US-launches-attack-island-Strait-Hormuz-Trump-tries-forge-peace-deal-Iran.html",
+    "risk_score": 20.0,
+    "count": 22,
+    "top_news": "https://www.jns.org/news/israel-news/hamas-terrorist-who-kidnapped-four-on-oct-7-eliminated-in-gaza-strike",
     "event_codes": {
-      "19": 14
+      "19": 16,
+      "17": 3,
+      "14": 1,
+      "18": 1,
+      "20": 1
     },
     "keywords": [
       "news",
-      "article",
-      "15869215",
-      "launches",
+      "israel",
+      "news",
+      "hamas",
+      "terrorist",
+      "who",
+      "kidnapped",
+      "four",
+      "oct",
+      "eliminated",
+      "gaza",
+      "strike"
+    ]
+  },
+  "KWT": {
+    "risk_score": 6.6,
+    "count": 9,
+    "top_news": "https://whbl.com/2026/06/03/iran-drone-and-missile-attack-hits-kuwait-airport-state-news-agency-says/",
+    "event_codes": {
+      "19": 5,
+      "16": 4
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "drone",
+      "and",
+      "missile",
       "attack",
-      "island",
-      "strait",
-      "hormuz",
-      "trump",
-      "tries",
-      "forge",
-      "peace",
-      "deal",
-      "iran.html"
+      "hits",
+      "kuwait",
+      "airport",
+      "state",
+      "news",
+      "agency",
+      "says"
     ]
   },
   "LBN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.dailymail.com/news/article-15869215/US-launches-attack-island-Strait-Hormuz-Trump-tries-forge-peace-deal-Iran.html",
+    "risk_score": 5.85,
+    "count": 8,
+    "top_news": "https://www.jns.org/news/israel-news/hamas-terrorist-who-kidnapped-four-on-oct-7-eliminated-in-gaza-strike",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "16": 5,
+      "19": 3
     },
     "keywords": [
       "news",
-      "article",
-      "15869215",
-      "launches",
-      "attack",
-      "island",
-      "strait",
-      "hormuz",
-      "trump",
-      "tries",
-      "forge",
-      "peace",
-      "deal",
-      "iran.html"
+      "israel",
+      "news",
+      "hamas",
+      "terrorist",
+      "who",
+      "kidnapped",
+      "four",
+      "oct",
+      "eliminated",
+      "gaza",
+      "strike"
     ]
   },
   "NGA": {
-    "risk_score": 6.8,
-    "count": 7,
-    "top_news": "https://www.libertymagazine.org/article/targeted-faith-inside-nigerias-bloody-conflict",
-    "event_codes": {
-      "19": 5,
-      "18": 2
-    },
-    "keywords": [
-      "article",
-      "targeted",
-      "faith",
-      "inside",
-      "nigerias",
-      "bloody",
-      "conflict"
-    ]
-  },
-  "THA": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.chiangraitimes.com/news/police-arrest-suspect-who-murdered-a-chiang-mai-woman/",
+    "count": 2,
+    "top_news": "https://thesun.ng/insecurity-nans-southwest-berates-sowore-over-attempted-hijack-of-solidarity-walk/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "police",
-      "arrest",
-      "suspect",
-      "who",
-      "murdered",
-      "chiang",
-      "mai",
-      "woman"
+      "insecurity",
+      "nans",
+      "southwest",
+      "berates",
+      "sowore",
+      "over",
+      "attempted",
+      "hijack",
+      "solidarity",
+      "walk"
     ]
   },
-  "ZWE": {
-    "risk_score": 4.2,
-    "count": 7,
-    "top_news": "https://www.aljazeera.com/news/2026/6/3/zimbabwes-e-tricycle-crackdown-puts-rural-womens-livelihoods-at-risk",
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/opinion/netanyahu-wont-stop-until-all-arab-political-parties-are-gone",
     "event_codes": {
-      "17": 5,
-      "14": 2
+      "20": 3
     },
     "keywords": [
-      "news",
-      "2026",
-      "zimbabwes",
-      "tricycle",
-      "crackdown",
-      "puts",
-      "rural",
-      "womens",
-      "livelihoods",
-      "risk"
+      "opinion",
+      "netanyahu",
+      "wont",
+      "stop",
+      "until",
+      "all",
+      "arab",
+      "political",
+      "parties",
+      "are",
+      "gone"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dw.com/en/democracy-in-africa-coups-crises-and-foregone-conclusions/a-77328510",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "democracy",
+      "africa",
+      "coups",
+      "crises",
+      "and",
+      "foregone",
+      "conclusions",
+      "77328510"
     ]
   }
 }
