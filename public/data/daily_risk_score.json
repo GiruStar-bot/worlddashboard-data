@@ -1,122 +1,69 @@
 {
-  "CAF": {
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/06/03/isis-linked-gunmen-kill-16-in-area-hit-by-ebola/",
+    "top_news": "https://www.spacewar.com/afp/260603212422.338b7z4t.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "isis",
-      "linked",
-      "gunmen",
-      "kill",
-      "area",
-      "hit",
-      "ebola"
-    ]
-  },
-  "EGY": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://timesenterprise.com/2026/06/03/manhunt-underway-for-grady-county-shooting-suspect/",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "manhunt",
-      "underway",
-      "for",
-      "grady",
-      "county",
-      "shooting",
-      "suspect"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.12,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/flashes/686927",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "flashes",
-      "686927"
+      "afp",
+      "260603212422.338b7z4t.html"
     ]
   },
   "ISR": {
-    "risk_score": 11.05,
-    "count": 12,
-    "top_news": "https://www.naharnet.com/stories/en/320476-israeli-report-claims-that-israel-may-attack-beirut-in-coming-days",
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.clactonandfrintongazette.co.uk/news/national/26164500.jenrick-defends-reform-uks-response-henry-nowak-murder-case/",
     "event_codes": {
-      "19": 7,
-      "14": 2,
-      "18": 2,
-      "20": 1
-    },
-    "keywords": [
-      "stories",
-      "320476",
-      "israeli",
-      "report",
-      "claims",
-      "that",
-      "israel",
-      "may",
-      "attack",
-      "beirut",
-      "coming",
-      "days"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts",
-    "event_codes": {
-      "19": 3
+      "19": 3,
+      "16": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "israeli",
-      "attacks",
-      "kill",
-      "nine",
-      "lebanon",
-      "reach",
-      "beirut",
-      "outskirts"
+      "national",
+      "26164500.jenrick",
+      "defends",
+      "reform",
+      "uks",
+      "response",
+      "henry",
+      "nowak",
+      "murder",
+      "case"
     ]
   },
-  "SOM": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/6/3/heavy-gunfire-erupts-in-mogadishu-amid-protests-against-presidents-rule",
+  "NGA": {
+    "risk_score": 11.65,
+    "count": 14,
+    "top_news": "https://dailytrust.com/many-killed-in-fresh-attacks-on-taraba-communities/",
     "event_codes": {
-      "14": 4,
+      "19": 6,
+      "18": 4,
+      "17": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "many",
+      "killed",
+      "fresh",
+      "attacks",
+      "taraba",
+      "communities"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.spacewar.com/afp/260603222151.4rzvnjvv.html",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "heavy",
-      "gunfire",
-      "erupts",
-      "mogadishu",
-      "amid",
-      "protests",
-      "against",
-      "presidents",
-      "rule"
+      "afp",
+      "260603222151.4rzvnjvv.html"
     ]
   }
 }
