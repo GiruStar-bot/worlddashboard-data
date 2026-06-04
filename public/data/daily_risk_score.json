@@ -1,148 +1,69 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.freepressjournal.in/world/kuwait-airport-drone-strike-cctv-captures-exact-moment-of-deadly-attack-indian-national-killed-over-60-injured-as-gulf-tensions-escalate",
+  "IDN": {
+    "risk_score": 3.9,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/indonesia-arrests-officials-in-crackdown-on-corruption/",
     "event_codes": {
-      "19": 2
+      "17": 7
     },
     "keywords": [
-      "world",
-      "kuwait",
-      "airport",
-      "drone",
-      "strike",
-      "cctv",
-      "captures",
-      "exact",
-      "moment",
-      "deadly",
-      "attack",
-      "indian",
-      "national",
-      "killed",
-      "over",
-      "injured",
-      "gulf",
-      "tensions",
-      "escalate"
+      "indonesia",
+      "arrests",
+      "officials",
+      "crackdown",
+      "corruption"
     ]
   },
-  "BRA": {
-    "risk_score": 4.7,
-    "count": 6,
-    "top_news": "https://www.nbcwashington.com/news/local/northern-virginia/the-au-pair-affair-banfield-will-try-to-get-verdict-voided-ahead-of-sentencing/4112203/",
+  "IRN": {
+    "risk_score": 12.25,
+    "count": 15,
+    "top_news": "https://www.novinite.com/articles/238861/Trump+Faces+Congressional+Rebuke+as+House+Votes+to+Curb+Iran+War+Powers+Amid+Stalled+Talks",
     "event_codes": {
+      "19": 8,
+      "16": 3,
       "18": 2,
-      "19": 2,
-      "16": 1,
+      "14": 1,
       "17": 1
     },
     "keywords": [
-      "news",
-      "local",
-      "northern",
-      "virginia",
-      "the",
-      "pair",
-      "affair",
-      "banfield",
-      "will",
-      "try",
-      "get",
-      "verdict",
-      "voided",
-      "ahead",
-      "sentencing",
-      "4112203"
+      "articles",
+      "238861",
+      "trump+faces+congressional+rebuke+as+house+votes+to+curb+iran+war+powers+amid+stalled+talks"
     ]
   },
   "ISR": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.bssnews.net/international/392329",
+    "risk_score": 13.75,
+    "count": 19,
+    "top_news": "https://www.juancole.com/2026/06/constitutional-passes-powers.html",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 2
+      "17": 9,
+      "19": 8,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "constitutional",
+      "passes",
+      "powers.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://en.philenews.com/international/israel-will-not-withdraw-lebanon-ceasefire-katz/",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "international",
-      "392329"
-    ]
-  },
-  "KWT": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://www.freepressjournal.in/world/kuwait-airport-drone-strike-cctv-captures-exact-moment-of-deadly-attack-indian-national-killed-over-60-injured-as-gulf-tensions-escalate",
-    "event_codes": {
-      "19": 5,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "kuwait",
-      "airport",
-      "drone",
-      "strike",
-      "cctv",
-      "captures",
-      "exact",
-      "moment",
-      "deadly",
-      "attack",
-      "indian",
-      "national",
-      "killed",
-      "over",
-      "injured",
-      "gulf",
-      "tensions",
-      "escalate"
-    ]
-  },
-  "SGP": {
-    "risk_score": 4.46,
-    "count": 6,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/04/singapore-man-charged-after-he-allegedly-assaulted-male-stranger-wearing-cap-with-israeli-emblem",
-    "event_codes": {
-      "15": 3,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
-      "2026",
-      "singapore",
-      "man",
-      "charged",
-      "after",
-      "allegedly",
-      "assaulted",
-      "male",
-      "stranger",
-      "wearing",
-      "cap",
-      "with",
-      "israeli",
-      "emblem"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.76,
-    "count": 5,
-    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/04/2003858526",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "news",
-      "taiwan",
-      "archives",
-      "2026",
-      "2003858526"
+      "israel",
+      "will",
+      "not",
+      "withdraw",
+      "lebanon",
+      "ceasefire",
+      "katz"
     ]
   }
 }
