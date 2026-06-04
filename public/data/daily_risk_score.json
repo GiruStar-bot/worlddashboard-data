@@ -1,120 +1,127 @@
 {
-  "COL": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://en.mercopress.com/2026/06/04/petro-drops-constituent-assembly-bid-17-days-before-colombia-s-presidential-runoff",
+  "CMR": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/06/04/nigerian-troops-rescue-woman-child-abducted-terrorists-borno-neutralise-insurgent",
     "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "2026",
-      "petro",
-      "drops",
-      "constituent",
-      "assembly",
-      "bid",
-      "days",
-      "before",
-      "colombia",
-      "presidential",
-      "runoff"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.39,
-    "count": 3,
-    "top_news": "https://www.eveningnews24.co.uk/news/26166728.soldier-killed-iraq-east-anglian-regiment/",
-    "event_codes": {
-      "15": 2,
+      "18": 3,
       "19": 1
     },
     "keywords": [
-      "news",
-      "26166728.soldier",
-      "killed",
-      "iraq",
-      "east",
-      "anglian",
-      "regiment"
+      "2026",
+      "nigerian",
+      "troops",
+      "rescue",
+      "woman",
+      "child",
+      "abducted",
+      "terrorists",
+      "borno",
+      "neutralise",
+      "insurgent"
     ]
   },
-  "MLI": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/mali-bans-use-of-motorcycles-outside-major-cities-222896",
+  "IRN": {
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.yahoo.com/news/us/articles/dad-jailed-neo-nazi-teenager-170620731.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 6,
+      "18": 2
     },
     "keywords": [
-      "mali",
-      "bans",
-      "use",
-      "motorcycles",
-      "outside",
-      "major",
-      "cities",
-      "222896"
+      "news",
+      "articles",
+      "dad",
+      "jailed",
+      "neo",
+      "nazi",
+      "teenager",
+      "170620731.html"
     ]
   },
-  "NGA": {
-    "risk_score": 6.34,
-    "count": 8,
-    "top_news": "https://whbl.com/2026/06/04/gunmen-abduct-seven-students-in-northwest-nigeria-police-say/",
+  "ISR": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.pilotonline.com/2026/06/04/us-iran-war-hezbollah-ceasefire/",
     "event_codes": {
-      "19": 3,
-      "15": 2,
-      "17": 2,
+      "19": 4,
       "18": 1
     },
     "keywords": [
       "2026",
-      "gunmen",
-      "abduct",
-      "seven",
-      "students",
-      "northwest",
-      "nigeria",
-      "police",
-      "say"
+      "iran",
+      "war",
+      "hezbollah",
+      "ceasefire"
     ]
   },
-  "SOM": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://dominicanrepublicpost.com/fighting-in-somalias-capital-as-anger-over-election-delay-erupts/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.aawsat.com/arab-world/5280551-why-lebanon-israel-chose-beaufort-castle-pilot-zone",
     "event_codes": {
-      "19": 3,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "fighting",
-      "somalias",
-      "capital",
-      "anger",
-      "over",
-      "election",
-      "delay",
-      "erupts"
+      "arab",
+      "world",
+      "5280551",
+      "why",
+      "lebanon",
+      "israel",
+      "chose",
+      "beaufort",
+      "castle",
+      "pilot",
+      "zone"
     ]
   },
-  "YEM": {
-    "risk_score": 2.5,
+  "NGA": {
+    "risk_score": 32.72,
+    "count": 37,
+    "top_news": "https://punchng.com/police-arrest-three-over-rivers-drivers-murder/",
+    "event_codes": {
+      "18": 17,
+      "19": 13,
+      "14": 4,
+      "17": 2,
+      "15": 1
+    },
+    "keywords": [
+      "police",
+      "arrest",
+      "three",
+      "over",
+      "rivers",
+      "drivers",
+      "murder"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.85,
     "count": 3,
-    "top_news": "https://www.mirror.co.uk/news/uk-news/zulkernain-ahmed-murder-sentence-audi-37245670",
+    "top_news": "https://www.wusa9.com/article/news/crime/dc-mom-murder-charge-toddler-dehydration-malnourishment-neglect/65-66f52257-07f3-4e26-8516-3d9c9e403e1c",
     "event_codes": {
       "19": 2,
-      "17": 1
+      "18": 1
     },
     "keywords": [
+      "article",
       "news",
-      "news",
-      "zulkernain",
-      "ahmed",
+      "crime",
+      "mom",
       "murder",
-      "sentence",
-      "audi",
-      "37245670"
+      "charge",
+      "toddler",
+      "dehydration",
+      "malnourishment",
+      "neglect",
+      "66f52257",
+      "07f3",
+      "4e26",
+      "8516",
+      "3d9c9e403e1c"
     ]
   }
 }
