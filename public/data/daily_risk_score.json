@@ -1,69 +1,113 @@
 {
+  "BRA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.wlrn.org/government-politics/2026-06-03/trump-picks-daniel-perez-us-ambassador-role-brazil-what-next",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "government",
+      "politics",
+      "2026",
+      "trump",
+      "picks",
+      "daniel",
+      "perez",
+      "ambassador",
+      "role",
+      "brazil",
+      "what",
+      "next"
+    ]
+  },
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.spacewar.com/afp/260603212422.338b7z4t.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "afp",
-      "260603212422.338b7z4t.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.clactonandfrintongazette.co.uk/news/national/26164500.jenrick-defends-reform-uks-response-henry-nowak-murder-case/",
-    "event_codes": {
-      "19": 3,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "26164500.jenrick",
-      "defends",
-      "reform",
-      "uks",
-      "response",
-      "henry",
-      "nowak",
-      "murder",
-      "case"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.65,
-    "count": 14,
-    "top_news": "https://dailytrust.com/many-killed-in-fresh-attacks-on-taraba-communities/",
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.thejournal.ie/trump-netanyahu-crazy-call-israel-iran-lebanon-7059959-Jun2026/",
     "event_codes": {
       "19": 6,
-      "18": 4,
-      "17": 2,
-      "14": 1,
       "16": 1
     },
     "keywords": [
-      "many",
-      "killed",
-      "fresh",
-      "attacks",
-      "taraba",
-      "communities"
+      "trump",
+      "netanyahu",
+      "crazy",
+      "call",
+      "israel",
+      "iran",
+      "lebanon",
+      "7059959",
+      "jun2026"
     ]
   },
-  "VEN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.spacewar.com/afp/260603222151.4rzvnjvv.html",
+  "ISR": {
+    "risk_score": 8.97,
+    "count": 11,
+    "top_news": "http://harrisondaily.com/stories/trump-confirms-he-called-netanyahu-crazy-as-he-says-israel-is-complicating-peace-talks-with-iran,383909",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 7,
+      "16": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "afp",
-      "260603222151.4rzvnjvv.html"
+      "stories",
+      "trump",
+      "confirms",
+      "called",
+      "netanyahu",
+      "crazy",
+      "says",
+      "israel",
+      "complicating",
+      "peace",
+      "talks",
+      "with",
+      "iran,383909"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.cp24.com/news/world/2026/06/03/israel-lebanon-agree-to-renew-fragile-ceasefire-and-create-lebanese-security-zones/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "israel",
+      "lebanon",
+      "agree",
+      "renew",
+      "fragile",
+      "ceasefire",
+      "and",
+      "create",
+      "lebanese",
+      "security",
+      "zones"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://sunatimes.com/articles/6571/Somalia-Slips-Back-Into-Clan-Based-Conflict",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "6571",
+      "somalia",
+      "slips",
+      "back",
+      "into",
+      "clan",
+      "based",
+      "conflict"
     ]
   }
 }
