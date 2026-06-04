@@ -1,107 +1,58 @@
 {
-  "CMR": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://saharareporters.com/2026/06/04/nigerian-troops-rescue-woman-child-abducted-terrorists-borno-neutralise-insurgent",
-    "event_codes": {
-      "18": 3,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "nigerian",
-      "troops",
-      "rescue",
-      "woman",
-      "child",
-      "abducted",
-      "terrorists",
-      "borno",
-      "neutralise",
-      "insurgent"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "https://www.yahoo.com/news/us/articles/dad-jailed-neo-nazi-teenager-170620731.html",
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/politics/articles/former-trump-adviser-john-bolton-163700551.html",
     "event_codes": {
-      "19": 6,
-      "18": 2
+      "19": 3,
+      "16": 2
     },
     "keywords": [
       "news",
+      "politics",
       "articles",
-      "dad",
-      "jailed",
-      "neo",
-      "nazi",
-      "teenager",
-      "170620731.html"
+      "former",
+      "trump",
+      "adviser",
+      "john",
+      "bolton",
+      "163700551.html"
     ]
   },
   "ISR": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.pilotonline.com/2026/06/04/us-iran-war-hezbollah-ceasefire/",
+    "risk_score": 9.15,
+    "count": 11,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-idf-announces-the-death-of-captain-eitan-shmuel-lemberg-killed-in-southern-lebanon-combat",
     "event_codes": {
-      "19": 4,
+      "19": 5,
+      "16": 2,
+      "17": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "war",
-      "hezbollah",
-      "ceasefire"
+      "news",
+      "israel",
+      "defense",
+      "artc",
+      "idf",
+      "announces",
+      "the",
+      "death",
+      "captain",
+      "eitan",
+      "shmuel",
+      "lemberg",
+      "killed",
+      "southern",
+      "lebanon",
+      "combat"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/arab-world/5280551-why-lebanon-israel-chose-beaufort-castle-pilot-zone",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5280551",
-      "why",
-      "lebanon",
-      "israel",
-      "chose",
-      "beaufort",
-      "castle",
-      "pilot",
-      "zone"
-    ]
-  },
-  "NGA": {
-    "risk_score": 32.72,
-    "count": 37,
-    "top_news": "https://punchng.com/police-arrest-three-over-rivers-drivers-murder/",
-    "event_codes": {
-      "18": 17,
-      "19": 13,
-      "14": 4,
-      "17": 2,
-      "15": 1
-    },
-    "keywords": [
-      "police",
-      "arrest",
-      "three",
-      "over",
-      "rivers",
-      "drivers",
-      "murder"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.85,
+    "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://www.wusa9.com/article/news/crime/dc-mom-murder-charge-toddler-dehydration-malnourishment-neglect/65-66f52257-07f3-4e26-8516-3d9c9e403e1c",
+    "top_news": "https://www.fox43.com/article/news/local/lebanon-county/juvenile-injured-stabbing-behind-lebanon-high-school/521-4ce01f5a-efc4-4522-8bf1-29234dae735d",
     "event_codes": {
       "19": 2,
       "18": 1
@@ -109,19 +60,22 @@
     "keywords": [
       "article",
       "news",
-      "crime",
-      "mom",
-      "murder",
-      "charge",
-      "toddler",
-      "dehydration",
-      "malnourishment",
-      "neglect",
-      "66f52257",
-      "07f3",
-      "4e26",
-      "8516",
-      "3d9c9e403e1c"
+      "local",
+      "lebanon",
+      "county",
+      "juvenile",
+      "injured",
+      "stabbing",
+      "behind",
+      "lebanon",
+      "high",
+      "school",
+      "521",
+      "4ce01f5a",
+      "efc4",
+      "4522",
+      "8bf1",
+      "29234dae735d"
     ]
   }
 }
