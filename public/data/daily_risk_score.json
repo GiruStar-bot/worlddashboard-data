@@ -1,85 +1,46 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailyfreeman.com/2026/06/04/a-huge-deal-ryan-riley-vote-to-end-iran-war/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "huge",
-      "deal",
-      "ryan",
-      "riley",
-      "vote",
-      "end",
-      "iran",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.52,
-    "count": 10,
-    "top_news": "https://www.wptf.com/2026/06/04/hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon/",
+  "BOL": {
+    "risk_score": 7.44,
+    "count": 8,
+    "top_news": "http://jamestown.org/russia-and-belarus-preparing-for-escalation-with-ukraine-and-nato/",
     "event_codes": {
       "19": 6,
-      "18": 3,
-      "17": 1
+      "15": 2
     },
     "keywords": [
-      "2026",
-      "hezbollah",
-      "rejects",
-      "latest",
-      "ceasefire",
-      "agreement",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://punchng.com/accord-party-condemns-shooting-of-osun-chairman-demands-probe/",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "accord",
-      "party",
-      "condemns",
-      "shooting",
-      "osun",
-      "chairman",
-      "demands",
-      "probe"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.75,
-    "count": 4,
-    "top_news": "https://www.asianews.it/news-en/Taybeh-pastor:-With-settler-raids-now-everywhere,-the-future-is-at-risk-65580.html",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "taybeh",
-      "pastor:",
+      "russia",
+      "and",
+      "belarus",
+      "preparing",
+      "for",
+      "escalation",
       "with",
-      "settler",
-      "raids",
-      "now",
-      "everywhere,",
-      "the",
-      "future",
-      "risk",
-      "65580.html"
+      "ukraine",
+      "and",
+      "nato"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.4,
+    "count": 5,
+    "top_news": "https://www.theepochtimes.com/china/taiwanese-liver-transplant-surgeon-convicted-for-brokering-organ-transplants-in-china-6043351",
+    "event_codes": {
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "china",
+      "taiwanese",
+      "liver",
+      "transplant",
+      "surgeon",
+      "convicted",
+      "for",
+      "brokering",
+      "organ",
+      "transplants",
+      "china",
+      "6043351"
     ]
   }
 }
