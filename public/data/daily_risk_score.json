@@ -1,81 +1,85 @@
 {
   "IRN": {
-    "risk_score": 4.2,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/politics/articles/former-trump-adviser-john-bolton-163700551.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailyfreeman.com/2026/06/04/a-huge-deal-ryan-riley-vote-to-end-iran-war/",
     "event_codes": {
-      "19": 3,
-      "16": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "former",
-      "trump",
-      "adviser",
-      "john",
-      "bolton",
-      "163700551.html"
+      "2026",
+      "huge",
+      "deal",
+      "ryan",
+      "riley",
+      "vote",
+      "end",
+      "iran",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 9.15,
-    "count": 11,
-    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-idf-announces-the-death-of-captain-eitan-shmuel-lemberg-killed-in-southern-lebanon-combat",
+    "risk_score": 9.52,
+    "count": 10,
+    "top_news": "https://www.wptf.com/2026/06/04/hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon/",
     "event_codes": {
-      "19": 5,
-      "16": 2,
-      "17": 2,
-      "14": 1,
-      "18": 1
+      "19": 6,
+      "18": 3,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "defense",
-      "artc",
-      "idf",
-      "announces",
-      "the",
-      "death",
-      "captain",
-      "eitan",
-      "shmuel",
-      "lemberg",
-      "killed",
-      "southern",
-      "lebanon",
-      "combat"
+      "2026",
+      "hezbollah",
+      "rejects",
+      "latest",
+      "ceasefire",
+      "agreement",
+      "israeli",
+      "strikes",
+      "kill",
+      "lebanon"
     ]
   },
-  "LBN": {
-    "risk_score": 2.9,
+  "NGA": {
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://www.fox43.com/article/news/local/lebanon-county/juvenile-injured-stabbing-behind-lebanon-high-school/521-4ce01f5a-efc4-4522-8bf1-29234dae735d",
+    "top_news": "https://punchng.com/accord-party-condemns-shooting-of-osun-chairman-demands-probe/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "article",
+      "accord",
+      "party",
+      "condemns",
+      "shooting",
+      "osun",
+      "chairman",
+      "demands",
+      "probe"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.75,
+    "count": 4,
+    "top_news": "https://www.asianews.it/news-en/Taybeh-pastor:-With-settler-raids-now-everywhere,-the-future-is-at-risk-65580.html",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
       "news",
-      "local",
-      "lebanon",
-      "county",
-      "juvenile",
-      "injured",
-      "stabbing",
-      "behind",
-      "lebanon",
-      "high",
-      "school",
-      "521",
-      "4ce01f5a",
-      "efc4",
-      "4522",
-      "8bf1",
-      "29234dae735d"
+      "taybeh",
+      "pastor:",
+      "with",
+      "settler",
+      "raids",
+      "now",
+      "everywhere,",
+      "the",
+      "future",
+      "risk",
+      "65580.html"
     ]
   }
 }
