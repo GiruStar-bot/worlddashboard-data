@@ -1,107 +1,120 @@
 {
-  "IRN": {
-    "risk_score": 6.36,
-    "count": 8,
-    "top_news": "https://www.latimes.com/opinion/story/2026-06-04/wars-displacing-animals",
+  "COL": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://en.mercopress.com/2026/06/04/petro-drops-constituent-assembly-bid-17-days-before-colombia-s-presidential-runoff",
     "event_codes": {
-      "15": 3,
-      "14": 2,
-      "19": 2,
-      "18": 1
+      "19": 6
     },
     "keywords": [
-      "opinion",
-      "story",
       "2026",
-      "wars",
-      "displacing",
-      "animals"
+      "petro",
+      "drops",
+      "constituent",
+      "assembly",
+      "bid",
+      "days",
+      "before",
+      "colombia",
+      "presidential",
+      "runoff"
     ]
   },
-  "ISR": {
-    "risk_score": 21.38,
-    "count": 24,
-    "top_news": "https://www.news4jax.com/news/world/2026/06/04/9-killed-in-strikes-in-gaza-overnight-hospital-says/",
+  "IRQ": {
+    "risk_score": 2.39,
+    "count": 3,
+    "top_news": "https://www.eveningnews24.co.uk/news/26166728.soldier-killed-iraq-east-anglian-regiment/",
     "event_codes": {
-      "19": 16,
-      "16": 3,
-      "18": 3,
-      "17": 2
+      "15": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
+      "26166728.soldier",
       "killed",
-      "strikes",
-      "gaza",
-      "overnight",
-      "hospital",
-      "says"
+      "iraq",
+      "east",
+      "anglian",
+      "regiment"
     ]
   },
-  "KWT": {
-    "risk_score": 2.95,
+  "MLI": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://sana.sy/en/international/2321226/",
+    "top_news": "https://www.hurriyetdailynews.com/mali-bans-use-of-motorcycles-outside-major-cities-222896",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "international",
-      "2321226"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.19,
-    "count": 6,
-    "top_news": "https://www.ynetnews.com/article/rjqmaj0gge",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "article",
-      "rjqmaj0gge"
+      "mali",
+      "bans",
+      "use",
+      "motorcycles",
+      "outside",
+      "major",
+      "cities",
+      "222896"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://allafrica.com/stories/202606040285.html",
+    "risk_score": 6.34,
+    "count": 8,
+    "top_news": "https://whbl.com/2026/06/04/gunmen-abduct-seven-students-in-northwest-nigeria-police-say/",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "15": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "stories",
-      "202606040285.html"
+      "2026",
+      "gunmen",
+      "abduct",
+      "seven",
+      "students",
+      "northwest",
+      "nigeria",
+      "police",
+      "say"
     ]
   },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://sana.sy/en/international/2321237/",
+  "SOM": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://dominicanrepublicpost.com/fighting-in-somalias-capital-as-anger-over-election-delay-erupts/",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "18": 2
     },
     "keywords": [
-      "international",
-      "2321237"
+      "fighting",
+      "somalias",
+      "capital",
+      "anger",
+      "over",
+      "election",
+      "delay",
+      "erupts"
     ]
   },
-  "SYR": {
-    "risk_score": 2.3,
+  "YEM": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.ynetnews.com/article/ry3ddpaemg",
+    "top_news": "https://www.mirror.co.uk/news/uk-news/zulkernain-ahmed-murder-sentence-audi-37245670",
     "event_codes": {
-      "16": 1,
-      "17": 1,
-      "20": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "article",
-      "ry3ddpaemg"
+      "news",
+      "news",
+      "zulkernain",
+      "ahmed",
+      "murder",
+      "sentence",
+      "audi",
+      "37245670"
     ]
   }
 }
