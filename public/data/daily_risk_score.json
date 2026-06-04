@@ -1,113 +1,148 @@
 {
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freepressjournal.in/world/kuwait-airport-drone-strike-cctv-captures-exact-moment-of-deadly-attack-indian-national-killed-over-60-injured-as-gulf-tensions-escalate",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "kuwait",
+      "airport",
+      "drone",
+      "strike",
+      "cctv",
+      "captures",
+      "exact",
+      "moment",
+      "deadly",
+      "attack",
+      "indian",
+      "national",
+      "killed",
+      "over",
+      "injured",
+      "gulf",
+      "tensions",
+      "escalate"
+    ]
+  },
   "BRA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.wlrn.org/government-politics/2026-06-03/trump-picks-daniel-perez-us-ambassador-role-brazil-what-next",
+    "risk_score": 4.7,
+    "count": 6,
+    "top_news": "https://www.nbcwashington.com/news/local/northern-virginia/the-au-pair-affair-banfield-will-try-to-get-verdict-voided-ahead-of-sentencing/4112203/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "government",
-      "politics",
-      "2026",
-      "trump",
-      "picks",
-      "daniel",
-      "perez",
-      "ambassador",
-      "role",
-      "brazil",
-      "what",
-      "next"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://www.thejournal.ie/trump-netanyahu-crazy-call-israel-iran-lebanon-7059959-Jun2026/",
-    "event_codes": {
-      "19": 6,
-      "16": 1
-    },
-    "keywords": [
-      "trump",
-      "netanyahu",
-      "crazy",
-      "call",
-      "israel",
-      "iran",
-      "lebanon",
-      "7059959",
-      "jun2026"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.97,
-    "count": 11,
-    "top_news": "http://harrisondaily.com/stories/trump-confirms-he-called-netanyahu-crazy-as-he-says-israel-is-complicating-peace-talks-with-iran,383909",
-    "event_codes": {
-      "19": 7,
-      "16": 2,
-      "15": 1,
+      "18": 2,
+      "19": 2,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "stories",
-      "trump",
-      "confirms",
-      "called",
-      "netanyahu",
-      "crazy",
-      "says",
-      "israel",
-      "complicating",
-      "peace",
-      "talks",
-      "with",
-      "iran,383909"
+      "news",
+      "local",
+      "northern",
+      "virginia",
+      "the",
+      "pair",
+      "affair",
+      "banfield",
+      "will",
+      "try",
+      "get",
+      "verdict",
+      "voided",
+      "ahead",
+      "sentencing",
+      "4112203"
     ]
   },
-  "LBN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.cp24.com/news/world/2026/06/03/israel-lebanon-agree-to-renew-fragile-ceasefire-and-create-lebanese-security-zones/",
+  "ISR": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.bssnews.net/international/392329",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "international",
+      "392329"
+    ]
+  },
+  "KWT": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.freepressjournal.in/world/kuwait-airport-drone-strike-cctv-captures-exact-moment-of-deadly-attack-indian-national-killed-over-60-injured-as-gulf-tensions-escalate",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "kuwait",
+      "airport",
+      "drone",
+      "strike",
+      "cctv",
+      "captures",
+      "exact",
+      "moment",
+      "deadly",
+      "attack",
+      "indian",
+      "national",
+      "killed",
+      "over",
+      "injured",
+      "gulf",
+      "tensions",
+      "escalate"
+    ]
+  },
+  "SGP": {
+    "risk_score": 4.46,
+    "count": 6,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/04/singapore-man-charged-after-he-allegedly-assaulted-male-stranger-wearing-cap-with-israeli-emblem",
+    "event_codes": {
+      "15": 3,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "aseanplus",
+      "aseanplus",
+      "news",
+      "2026",
+      "singapore",
+      "man",
+      "charged",
+      "after",
+      "allegedly",
+      "assaulted",
+      "male",
+      "stranger",
+      "wearing",
+      "cap",
+      "with",
+      "israeli",
+      "emblem"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.76,
+    "count": 5,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/06/04/2003858526",
+    "event_codes": {
+      "17": 5
     },
     "keywords": [
       "news",
-      "world",
+      "taiwan",
+      "archives",
       "2026",
-      "israel",
-      "lebanon",
-      "agree",
-      "renew",
-      "fragile",
-      "ceasefire",
-      "and",
-      "create",
-      "lebanese",
-      "security",
-      "zones"
-    ]
-  },
-  "SOM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://sunatimes.com/articles/6571/Somalia-Slips-Back-Into-Clan-Based-Conflict",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "articles",
-      "6571",
-      "somalia",
-      "slips",
-      "back",
-      "into",
-      "clan",
-      "based",
-      "conflict"
+      "2003858526"
     ]
   }
 }
