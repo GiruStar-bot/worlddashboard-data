@@ -1,123 +1,68 @@
 {
-  "IRN": {
-    "risk_score": 8.82,
-    "count": 13,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/06/05/trumps-back-and-forth-on-troops-in-europe-potentially-cost-millions-us-officials-say",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yankton.net/news/national_ap/article_b63384f0-2457-576a-a016-c9e8af05d1aa.html",
     "event_codes": {
-      "17": 8,
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "trumps",
-      "back",
-      "and",
-      "forth",
-      "troops",
-      "europe",
-      "potentially",
-      "cost",
-      "millions",
-      "officials",
-      "say"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.25,
-    "count": 9,
-    "top_news": "https://english.aawsat.com/arab-world/5280761-lebanese-leaders-rebuke-iran-israel-hezbollah-trade-attacks",
-    "event_codes": {
-      "17": 4,
-      "19": 3,
-      "14": 2
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5280761",
-      "lebanese",
-      "leaders",
-      "rebuke",
-      "iran",
-      "israel",
-      "hezbollah",
-      "trade",
-      "attacks"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.the-star.co.ke/news/2026-06-05-dci-we-arrested-erick-omondi",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "dci",
-      "arrested",
-      "erick",
-      "omondi"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://english.aawsat.com/arab-world/5280761-lebanese-leaders-rebuke-iran-israel-hezbollah-trade-attacks",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5280761",
-      "lebanese",
-      "leaders",
-      "rebuke",
-      "iran",
-      "israel",
-      "hezbollah",
-      "trade",
-      "attacks"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://theeagleonline.com.ng/ai-driven-fake-news-threatens-nigerias-security-group/",
-    "event_codes": {
-      "18": 4,
       "19": 2
     },
     "keywords": [
-      "driven",
-      "fake",
       "news",
-      "threatens",
-      "nigerias",
-      "security",
-      "group"
+      "national",
+      "article",
+      "b63384f0",
+      "2457",
+      "576a",
+      "a016",
+      "c9e8af05d1aa.html"
     ]
   },
-  "TCD": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.tmz.com/2026/06/05/chad-ollinger-fighting-murder-case/",
+  "ISR": {
+    "risk_score": 5.95,
+    "count": 8,
+    "top_news": "http://thedialog.org/international-news/corpus-christi-procession-in-jerusalem-emphasizes-real-presence-of-christ-life-has-a-deeper-source-god-himself/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 3,
+      "17": 2,
+      "14": 1,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "chad",
-      "ollinger",
-      "fighting",
-      "murder",
-      "case"
+      "international",
+      "news",
+      "corpus",
+      "christi",
+      "procession",
+      "jerusalem",
+      "emphasizes",
+      "real",
+      "presence",
+      "christ",
+      "life",
+      "has",
+      "deeper",
+      "source",
+      "god",
+      "himself"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newkerala.com/news/a/we-hope-quick-recovery-un-peacekeepers-injured-lebanon-147.htm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "hope",
+      "quick",
+      "recovery",
+      "peacekeepers",
+      "injured",
+      "lebanon",
+      "147.htm"
     ]
   }
 }
