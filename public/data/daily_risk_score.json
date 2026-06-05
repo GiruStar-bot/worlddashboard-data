@@ -1,46 +1,101 @@
 {
-  "BOL": {
-    "risk_score": 7.44,
-    "count": 8,
-    "top_news": "http://jamestown.org/russia-and-belarus-preparing-for-escalation-with-ukraine-and-nato/",
+  "COD": {
+    "risk_score": 3.75,
+    "count": 4,
+    "top_news": "https://www.yasstribune.com.au/story/9286396/ebola-cases-hit-389-in-dr-congo-including-63-deaths/",
     "event_codes": {
-      "19": 6,
-      "15": 2
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "russia",
-      "and",
-      "belarus",
-      "preparing",
-      "for",
-      "escalation",
-      "with",
-      "ukraine",
-      "and",
-      "nato"
+      "story",
+      "9286396",
+      "ebola",
+      "cases",
+      "hit",
+      "389",
+      "congo",
+      "including",
+      "deaths"
     ]
   },
-  "TWN": {
-    "risk_score": 2.4,
-    "count": 5,
-    "top_news": "https://www.theepochtimes.com/china/taiwanese-liver-transplant-surgeon-convicted-for-brokering-organ-transplants-in-china-6043351",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.thejakartapost.com/indonesia/2026/06/05/deputy-immigration-minister-suspected-of-extorting-foreigners-over-stay-permit",
     "event_codes": {
-      "17": 4,
-      "16": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "china",
-      "taiwanese",
-      "liver",
-      "transplant",
-      "surgeon",
-      "convicted",
+      "indonesia",
+      "2026",
+      "deputy",
+      "immigration",
+      "minister",
+      "suspected",
+      "extorting",
+      "foreigners",
+      "over",
+      "stay",
+      "permit"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.novinite.com/view_news.php?id=238861",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "view",
+      "news.php"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://lancasteronline.com/news/world/at-least-10-people-killed-in-strikes-on-gaza-hospitals-say/article_020b0512-4e66-5dac-bc9c-624b9da3d4bf.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "least",
+      "people",
+      "killed",
+      "strikes",
+      "gaza",
+      "hospitals",
+      "say",
+      "article",
+      "020b0512",
+      "4e66",
+      "5dac",
+      "bc9c",
+      "624b9da3d4bf.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/06/05/child-restraint-seats-crucial-for-safety",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "2026",
+      "child",
+      "restraint",
+      "seats",
+      "crucial",
       "for",
-      "brokering",
-      "organ",
-      "transplants",
-      "china",
-      "6043351"
+      "safety"
     ]
   }
 }
