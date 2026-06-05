@@ -1,69 +1,123 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://cbn.com/news/israel/hezbollah-rejects-ceasefire-proposal-trump-holds-peace-talk-narrative",
+  "IRN": {
+    "risk_score": 8.82,
+    "count": 13,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/06/05/trumps-back-and-forth-on-troops-in-europe-potentially-cost-millions-us-officials-say",
     "event_codes": {
-      "19": 3
+      "17": 8,
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "trumps",
+      "back",
+      "and",
+      "forth",
+      "troops",
+      "europe",
+      "potentially",
+      "cost",
+      "millions",
+      "officials",
+      "say"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.25,
+    "count": 9,
+    "top_news": "https://english.aawsat.com/arab-world/5280761-lebanese-leaders-rebuke-iran-israel-hezbollah-trade-attacks",
+    "event_codes": {
+      "17": 4,
+      "19": 3,
+      "14": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5280761",
+      "lebanese",
+      "leaders",
+      "rebuke",
+      "iran",
+      "israel",
+      "hezbollah",
+      "trade",
+      "attacks"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.the-star.co.ke/news/2026-06-05-dci-we-arrested-erick-omondi",
+    "event_codes": {
+      "17": 6
     },
     "keywords": [
       "news",
+      "2026",
+      "dci",
+      "arrested",
+      "erick",
+      "omondi"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://english.aawsat.com/arab-world/5280761-lebanese-leaders-rebuke-iran-israel-hezbollah-trade-attacks",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5280761",
+      "lebanese",
+      "leaders",
+      "rebuke",
+      "iran",
       "israel",
       "hezbollah",
-      "rejects",
-      "ceasefire",
-      "proposal",
-      "trump",
-      "holds",
-      "peace",
-      "talk",
-      "narrative"
+      "trade",
+      "attacks"
     ]
   },
   "NGA": {
-    "risk_score": 6.5,
-    "count": 9,
-    "top_news": "https://www.premiumtimesng.com/health/health-news/885246-nard-condemns-assault-arrest-of-doctor-after-patient-dies-at-ogun-hospital.html",
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://theeagleonline.com.ng/ai-driven-fake-news-threatens-nigerias-security-group/",
     "event_codes": {
-      "17": 3,
-      "18": 3,
-      "14": 2,
-      "19": 1
+      "18": 4,
+      "19": 2
     },
     "keywords": [
-      "health",
-      "health",
+      "driven",
+      "fake",
       "news",
-      "885246",
-      "nard",
-      "condemns",
-      "assault",
-      "arrest",
-      "doctor",
-      "after",
-      "patient",
-      "dies",
-      "ogun",
-      "hospital.html"
+      "threatens",
+      "nigerias",
+      "security",
+      "group"
     ]
   },
-  "TUR": {
-    "risk_score": 2.85,
-    "count": 4,
-    "top_news": "https://bianet.org/haber/hornet-denies-reports-of-investigation-against-it-in-turkey-320241",
+  "TCD": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.tmz.com/2026/06/05/chad-ollinger-fighting-murder-case/",
     "event_codes": {
-      "14": 3,
-      "18": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "haber",
-      "hornet",
-      "denies",
-      "reports",
-      "investigation",
-      "against",
-      "turkey",
-      "320241"
+      "2026",
+      "chad",
+      "ollinger",
+      "fighting",
+      "murder",
+      "case"
     ]
   }
 }
