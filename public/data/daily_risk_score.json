@@ -1,183 +1,75 @@
 {
-  "ARE": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.pakistantoday.com.pk/2026/06/05/ex-wife-of-dubai-rulers-nephew-detained-in-child-custody-case",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "2026",
-      "wife",
-      "dubai",
-      "rulers",
-      "nephew",
-      "detained",
-      "child",
-      "custody",
-      "case"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.9,
-    "count": 9,
-    "top_news": "https://gcaptain.com/mercuria-lawyers-say-government-deals-got-oil-through-hormuz/",
-    "event_codes": {
-      "16": 5,
-      "14": 3,
-      "19": 1
-    },
-    "keywords": [
-      "mercuria",
-      "lawyers",
-      "say",
-      "government",
-      "deals",
-      "got",
-      "oil",
-      "through",
-      "hormuz"
-    ]
-  },
   "ISR": {
-    "risk_score": 19.15,
-    "count": 20,
-    "top_news": "https://aa.com.tr/en/middle-east/infant-among-3-family-members-injured-by-israeli-fire-in-west-bank/3958045",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://forward.com/news/829838/iran-outsourcing-terror-plots-antisemitism-hezbollah/",
     "event_codes": {
-      "19": 14,
-      "18": 5,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "infant",
-      "among",
-      "family",
-      "members",
-      "injured",
-      "israeli",
-      "fire",
-      "west",
-      "bank",
-      "3958045"
+      "news",
+      "829838",
+      "iran",
+      "outsourcing",
+      "terror",
+      "plots",
+      "antisemitism",
+      "hezbollah"
     ]
   },
-  "KWT": {
+  "NGA": {
+    "risk_score": 3.62,
+    "count": 5,
+    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/885344-commercial-driver-murdered-after-being-lured-to-fake-wedding-police.html",
+    "event_codes": {
+      "17": 2,
+      "15": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "regional",
+      "south",
+      "south",
+      "regional",
+      "885344",
+      "commercial",
+      "driver",
+      "murdered",
+      "after",
+      "being",
+      "lured",
+      "fake",
+      "wedding",
+      "police.html"
+    ]
+  },
+  "SDN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.pakistantoday.com.pk/2026/06/05/trump-brokered-middle-east-ceasefires-fail-to-end-violence-in-gaza-lebanon-and-beyond",
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/nine-killed-in-fresh-drone-strike-on-south-darfur-sniper-deployment-amid-rising-intertribal-kassala-tensions",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "trump",
-      "brokered",
-      "middle",
-      "east",
-      "ceasefires",
-      "fail",
-      "end",
-      "violence",
-      "gaza",
-      "lebanon",
-      "and",
-      "beyond"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-says-3-officers-including-givati-brigade-commander-wounded-in-lebanon/3958039",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "army",
-      "says",
-      "officers",
-      "including",
-      "givati",
-      "brigade",
-      "commander",
-      "wounded",
-      "lebanon",
-      "3958039"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.7,
-    "count": 11,
-    "top_news": "https://www.opinionnigeria.com/insecurity-for-how-long-will-nigerians-lament-by-adesina-julius-o/",
-    "event_codes": {
-      "17": 4,
-      "19": 4,
-      "18": 3
-    },
-    "keywords": [
-      "insecurity",
-      "for",
-      "how",
-      "long",
-      "will",
-      "nigerians",
-      "lament",
-      "adesina",
-      "julius"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://medafricatimes.com/45732-heavy-gunfire-rocks-mogadishu-as-somalias-election-dispute-deepens-political-crisis.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "45732",
-      "heavy",
-      "gunfire",
-      "rocks",
-      "mogadishu",
-      "somalias",
-      "election",
-      "dispute",
-      "deepens",
-      "political",
-      "crisis.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.mdjonline.com/news/police_fire/sheriff-s-office-first-degree-murder-fugitive-caught-in-cobb/article_eaab516d-676b-4ccf-9604-079a8377acc0.html",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
+      "all",
       "news",
-      "police",
-      "fire",
-      "sheriff",
-      "office",
-      "first",
-      "degree",
-      "murder",
-      "fugitive",
-      "caught",
-      "cobb",
       "article",
-      "eaab516d",
-      "676b",
-      "4ccf",
-      "9604",
-      "079a8377acc0.html"
+      "nine",
+      "killed",
+      "fresh",
+      "drone",
+      "strike",
+      "south",
+      "darfur",
+      "sniper",
+      "deployment",
+      "amid",
+      "rising",
+      "intertribal",
+      "kassala",
+      "tensions"
     ]
   }
 }
