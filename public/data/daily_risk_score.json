@@ -1,39 +1,69 @@
 {
   "ISR": {
-    "risk_score": 2.6,
-    "count": 4,
-    "top_news": "https://ejewishphilanthropy.com/american-jewish-leaders-speak-your-minds-now-please/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://cbn.com/news/israel/hezbollah-rejects-ceasefire-proposal-trump-holds-peace-talk-narrative",
     "event_codes": {
-      "16": 2,
-      "18": 2
+      "19": 3
     },
     "keywords": [
-      "american",
-      "jewish",
-      "leaders",
-      "speak",
-      "your",
-      "minds",
-      "now",
-      "please"
+      "news",
+      "israel",
+      "hezbollah",
+      "rejects",
+      "ceasefire",
+      "proposal",
+      "trump",
+      "holds",
+      "peace",
+      "talk",
+      "narrative"
     ]
   },
   "NGA": {
-    "risk_score": 10.95,
-    "count": 12,
-    "top_news": "https://dailytrust.com/communities-deserted-as-bandits-kill-many-in-sokoto/",
+    "risk_score": 6.5,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/health/health-news/885246-nard-condemns-assault-arrest-of-doctor-after-patient-dies-at-ogun-hospital.html",
     "event_codes": {
-      "18": 6,
-      "19": 5,
-      "17": 1
+      "17": 3,
+      "18": 3,
+      "14": 2,
+      "19": 1
     },
     "keywords": [
-      "communities",
-      "deserted",
-      "bandits",
-      "kill",
-      "many",
-      "sokoto"
+      "health",
+      "health",
+      "news",
+      "885246",
+      "nard",
+      "condemns",
+      "assault",
+      "arrest",
+      "doctor",
+      "after",
+      "patient",
+      "dies",
+      "ogun",
+      "hospital.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.85,
+    "count": 4,
+    "top_news": "https://bianet.org/haber/hornet-denies-reports-of-investigation-against-it-in-turkey-320241",
+    "event_codes": {
+      "14": 3,
+      "18": 1
+    },
+    "keywords": [
+      "haber",
+      "hornet",
+      "denies",
+      "reports",
+      "investigation",
+      "against",
+      "turkey",
+      "320241"
     ]
   }
 }
