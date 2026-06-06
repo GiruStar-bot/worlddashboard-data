@@ -1,90 +1,86 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-irans-brazen-assault",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "kuwait",
-      "condemns",
-      "irans",
-      "brazen",
-      "assault"
-    ]
-  },
   "ISR": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.cp24.com/news/world/2026/06/06/israeli-airstrikes-kill-9-including-lebanese-army-officers-after-ceasefire-deal/",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5281033-araghchi-urges-lebanon-president-save-country-real-foe",
     "event_codes": {
-      "19": 6,
-      "17": 1
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
+      "arab",
       "world",
-      "2026",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "including",
-      "lebanese",
-      "army",
-      "officers",
-      "after",
-      "ceasefire",
-      "deal"
+      "5281033",
+      "araghchi",
+      "urges",
+      "lebanon",
+      "president",
+      "save",
+      "country",
+      "real",
+      "foe"
     ]
   },
   "KWT": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-condemns-irans-brazen-assault",
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "http://thepeninsulaqatar.com/article/06/06/2026/kuwait-authorities-arrest-suspect-accused-of-armed-robbery-in-exchange-house",
     "event_codes": {
-      "19": 6,
-      "18": 1
+      "17": 5
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
+      "article",
+      "2026",
       "kuwait",
-      "condemns",
-      "irans",
-      "brazen",
-      "assault"
+      "authorities",
+      "arrest",
+      "suspect",
+      "accused",
+      "armed",
+      "robbery",
+      "exchange",
+      "house"
     ]
   },
-  "LBN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.cp24.com/news/world/2026/06/06/israeli-airstrikes-kill-9-including-lebanese-army-officers-after-ceasefire-deal/",
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.i24news.tv/en/news/middle-east/palestinian-territories/artc-israeli-settlers-clash-with-palestinians-in-huwara",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
+      "middle",
+      "east",
+      "palestinian",
+      "territories",
+      "artc",
       "israeli",
-      "airstrikes",
-      "kill",
-      "including",
+      "settlers",
+      "clash",
+      "with",
+      "palestinians",
+      "huwara"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://thepeninsulaqatar.com/article/06/06/2026/qatar-condemns-israeli-strike-on-lebanese-army-patrol",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "qatar",
+      "condemns",
+      "israeli",
+      "strike",
       "lebanese",
       "army",
-      "officers",
-      "after",
-      "ceasefire",
-      "deal"
+      "patrol"
     ]
   }
 }
