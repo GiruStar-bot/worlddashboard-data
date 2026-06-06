@@ -1,86 +1,87 @@
 {
-  "ISR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://english.aawsat.com/arab-world/5281033-araghchi-urges-lebanon-president-save-country-real-foe",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.upi.com/Top_News/US/2026/06/06/iran-bahrain-kuwait-attacks/2471780761631/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "arab",
+      "top",
+      "news",
+      "2026",
+      "iran",
+      "bahrain",
+      "kuwait",
+      "attacks",
+      "2471780761631"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.express.co.uk/news/world/2213782/Former-Hamas-hostage-Eliya-Cohen-and-fianc-e-Ziv-Abud",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
       "world",
-      "5281033",
-      "araghchi",
-      "urges",
-      "lebanon",
-      "president",
-      "save",
-      "country",
-      "real",
-      "foe"
+      "2213782",
+      "former",
+      "hamas",
+      "hostage",
+      "eliya",
+      "cohen",
+      "and",
+      "fianc",
+      "ziv",
+      "abud"
     ]
   },
   "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sana.sy/en/international/2321667/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "international",
+      "2321667"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://yalibnan.com/2026/06/06/lebanon-inaugurates-rene-mouawad-airport-as-its-second-international-airport/",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "lebanon",
+      "inaugurates",
+      "rene",
+      "mouawad",
+      "airport",
+      "its",
+      "second",
+      "international",
+      "airport"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.5,
     "count": 5,
-    "top_news": "http://thepeninsulaqatar.com/article/06/06/2026/kuwait-authorities-arrest-suspect-accused-of-armed-robbery-in-exchange-house",
+    "top_news": "https://sana.sy/en/syria/2321670/",
     "event_codes": {
       "17": 5
     },
     "keywords": [
-      "article",
-      "2026",
-      "kuwait",
-      "authorities",
-      "arrest",
-      "suspect",
-      "accused",
-      "armed",
-      "robbery",
-      "exchange",
-      "house"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.i24news.tv/en/news/middle-east/palestinian-territories/artc-israeli-settlers-clash-with-palestinians-in-huwara",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "middle",
-      "east",
-      "palestinian",
-      "territories",
-      "artc",
-      "israeli",
-      "settlers",
-      "clash",
-      "with",
-      "palestinians",
-      "huwara"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://thepeninsulaqatar.com/article/06/06/2026/qatar-condemns-israeli-strike-on-lebanese-army-patrol",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "qatar",
-      "condemns",
-      "israeli",
-      "strike",
-      "lebanese",
-      "army",
-      "patrol"
+      "syria",
+      "2321670"
     ]
   }
 }
