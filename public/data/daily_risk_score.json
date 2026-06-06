@@ -1,42 +1,117 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.airandspaceforces.com/us-air-operations-center-qatar-severely-damaged-iran/",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.santafenewmexican.com/ap/washington/trump-s-troop-reversals-in-europe-could-cost-millions-and-have-left-soldiers-in-limbo/article_3cfad9a4-c2ec-55ce-8a0d-b9491ff34ed1.html",
     "event_codes": {
-      "18": 1,
-      "19": 1
+      "19": 10
     },
     "keywords": [
-      "air",
-      "operations",
-      "center",
-      "qatar",
-      "severely",
-      "damaged",
-      "iran"
+      "washington",
+      "trump",
+      "troop",
+      "reversals",
+      "europe",
+      "could",
+      "cost",
+      "millions",
+      "and",
+      "have",
+      "left",
+      "soldiers",
+      "limbo",
+      "article",
+      "3cfad9a4",
+      "c2ec",
+      "55ce",
+      "8a0d",
+      "b9491ff34ed1.html"
     ]
   },
-  "KHM": {
+  "ISR": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.camdencourier.com.au/story/9287157/difficult-question-still-facing-anti-semitism-inquiry/",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "story",
+      "9287157",
+      "difficult",
+      "question",
+      "still",
+      "facing",
+      "anti",
+      "semitism",
+      "inquiry"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/428201",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "428201"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.premiumtimesng.com/regional/ssouth-west/885416-gunmen-attack-ondo-community-abduct-pastors-9-year-old-son.html",
+    "event_codes": {
+      "18": 6
+    },
+    "keywords": [
+      "regional",
+      "ssouth",
+      "west",
+      "885416",
+      "gunmen",
+      "attack",
+      "ondo",
+      "community",
+      "abduct",
+      "pastors",
+      "year",
+      "old",
+      "son.html"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://wwd.com/sourcing-journal/sustainability/on-the-line-bangladesh-ituc-cambodia-accident-rei-union-1238997956/",
+    "top_news": "https://www.camdencourier.com.au/story/9287157/difficult-question-still-facing-anti-semitism-inquiry/",
     "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "story",
+      "9287157",
+      "difficult",
+      "question",
+      "still",
+      "facing",
+      "anti",
+      "semitism",
+      "inquiry"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.novinite.com/view_news.php?id=238882",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "sourcing",
-      "journal",
-      "sustainability",
-      "the",
-      "line",
-      "bangladesh",
-      "ituc",
-      "cambodia",
-      "accident",
-      "rei",
-      "union",
-      "1238997956"
+      "view",
+      "news.php"
     ]
   }
 }
