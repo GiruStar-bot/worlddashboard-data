@@ -1,55 +1,111 @@
 {
-  "ISR": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.pakistantoday.com.pk/2026/06/06/trump-says-us-making-great-success-with-iran",
     "event_codes": {
-      "19": 3,
-      "14": 1,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "5848668",
-      "israel",
-      "lebanon",
-      "white",
-      "phosphorus"
+      "trump",
+      "says",
+      "making",
+      "great",
+      "success",
+      "with",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.ynetnews.com/article/bybjzezbge",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "article",
+      "bybjzezbge"
     ]
   },
   "LBN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.pressdemocrat.com/2026/06/06/visual-evidence-israel-white-phosphorus-in-lebanon/",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.ynetnews.com/article/b1ah9lzbze",
     "event_codes": {
-      "16": 2,
-      "19": 1
+      "19": 8,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "b1ah9lzbze"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.thisdaylive.com/2026/06/06/police-dismiss-alleged-kidnapping-at-phase-1-primary-school-gbagalape/",
+    "event_codes": {
+      "18": 4,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "visual",
-      "evidence",
-      "israel",
-      "white",
-      "phosphorus",
-      "lebanon"
+      "police",
+      "dismiss",
+      "alleged",
+      "kidnapping",
+      "phase",
+      "primary",
+      "school",
+      "gbagalape"
     ]
   },
-  "ZWE": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://bulawayo24.com/index-id-news-sc-local-byo-265315.html",
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://tribune.com.pk/story/2611780/israeli-attacks-kill-palestinian-baby-and-seven-others-in-gaza-and-west-bank",
     "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "index",
-      "news",
-      "local",
-      "byo",
-      "265315.html"
+      "story",
+      "2611780",
+      "israeli",
+      "attacks",
+      "kill",
+      "palestinian",
+      "baby",
+      "and",
+      "seven",
+      "others",
+      "gaza",
+      "and",
+      "west",
+      "bank"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/opinion/op-ed/making-of-dracula-war-of-vlad-the-impaler-and-mehmed-the-conqueror",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "making",
+      "dracula",
+      "war",
+      "vlad",
+      "the",
+      "impaler",
+      "and",
+      "mehmed",
+      "the",
+      "conqueror"
     ]
   }
 }
