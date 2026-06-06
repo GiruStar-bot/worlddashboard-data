@@ -1,51 +1,55 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://wtop.com/world/2026/06/air-raid-sirens-in-bahrain-as-iranian-missiles-and-drones-head-for-gulf-neighbors/",
+  "ISR": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "world",
       "2026",
-      "air",
-      "raid",
-      "sirens",
-      "bahrain",
-      "iranian",
-      "missiles",
-      "and",
-      "drones",
-      "head",
-      "for",
-      "gulf",
-      "neighbors"
+      "5848668",
+      "israel",
+      "lebanon",
+      "white",
+      "phosphorus"
     ]
   },
-  "ISR": {
-    "risk_score": 2.8,
+  "LBN": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://organiser.org/2026/06/06/356880/world/decoding-hezbollah-how-the-terror-group-built-a-massive-arsenal-against-israel/",
+    "top_news": "https://www.pressdemocrat.com/2026/06/06/visual-evidence-israel-white-phosphorus-in-lebanon/",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "16": 2,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "356880",
-      "world",
-      "decoding",
-      "hezbollah",
-      "how",
-      "the",
-      "terror",
-      "group",
-      "built",
-      "massive",
-      "arsenal",
-      "against",
-      "israel"
+      "visual",
+      "evidence",
+      "israel",
+      "white",
+      "phosphorus",
+      "lebanon"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-local-byo-265315.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "index",
+      "news",
+      "local",
+      "byo",
+      "265315.html"
     ]
   }
 }
