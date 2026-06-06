@@ -1,16 +1,107 @@
 {
-  "ISR": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://www.bbc.co.uk/news/articles/cy828e64vp8o",
+  "CMR": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://blueprint.ng/fct-police-nab-cameroonian-for-accomplices-murder-attempted-cover-up/",
     "event_codes": {
-      "19": 7,
-      "18": 2
+      "18": 3,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "cy828e64vp8o"
+      "fct",
+      "police",
+      "nab",
+      "cameroonian",
+      "for",
+      "accomplices",
+      "murder",
+      "attempted",
+      "cover"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.stripes.com/theaters/middle_east/2026-06-06/us-intercepts-iranian-missile-drone-attacks-21886375.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "theaters",
+      "middle",
+      "east",
+      "2026",
+      "intercepts",
+      "iranian",
+      "missile",
+      "drone",
+      "attacks",
+      "21886375.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.9,
+    "count": 17,
+    "top_news": "https://tribune.com.pk/story/2611664/snub-to-israel-apologists-at-the-un",
+    "event_codes": {
+      "19": 10,
+      "18": 3,
+      "14": 2,
+      "20": 2
+    },
+    "keywords": [
+      "story",
+      "2611664",
+      "snub",
+      "israel",
+      "apologists",
+      "the"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2611728/iran-strikes-us-bases-in-kuwait-bahrain-after-drone-attacks-on-iranian-territory-report",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "2611728",
+      "iran",
+      "strikes",
+      "bases",
+      "kuwait",
+      "bahrain",
+      "after",
+      "drone",
+      "attacks",
+      "iranian",
+      "territory",
+      "report"
+    ]
+  },
+  "NGA": {
+    "risk_score": 26.42,
+    "count": 30,
+    "top_news": "https://blueprint.ng/fct-police-nab-cameroonian-for-accomplices-murder-attempted-cover-up/",
+    "event_codes": {
+      "19": 15,
+      "17": 7,
+      "18": 5,
+      "15": 3
+    },
+    "keywords": [
+      "fct",
+      "police",
+      "nab",
+      "cameroonian",
+      "for",
+      "accomplices",
+      "murder",
+      "attempted",
+      "cover"
     ]
   }
 }
