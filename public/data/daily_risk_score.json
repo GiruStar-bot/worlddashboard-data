@@ -1,111 +1,82 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.pakistantoday.com.pk/2026/06/06/trump-says-us-making-great-success-with-iran",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/06/769947/marjane-satrapi-ignoble-legacy-caricaturing-iran-serving-zionism-western-imperialism",
     "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
+      "detail",
       "2026",
-      "trump",
-      "says",
-      "making",
-      "great",
-      "success",
-      "with",
-      "iran"
+      "769947",
+      "marjane",
+      "satrapi",
+      "ignoble",
+      "legacy",
+      "caricaturing",
+      "iran",
+      "serving",
+      "zionism",
+      "western",
+      "imperialism"
     ]
   },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.ynetnews.com/article/bybjzezbge",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/06/769966/Yemen-warning-Lebanon-Israeli-attacks-Abu-Ras",
     "event_codes": {
-      "19": 6
+      "19": 2
     },
     "keywords": [
-      "article",
-      "bybjzezbge"
+      "detail",
+      "2026",
+      "769966",
+      "yemen",
+      "warning",
+      "lebanon",
+      "israeli",
+      "attacks",
+      "abu",
+      "ras"
     ]
   },
   "LBN": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.ynetnews.com/article/b1ah9lzbze",
-    "event_codes": {
-      "19": 8,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "b1ah9lzbze"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://www.thisdaylive.com/2026/06/06/police-dismiss-alleged-kidnapping-at-phase-1-primary-school-gbagalape/",
-    "event_codes": {
-      "18": 4,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "dismiss",
-      "alleged",
-      "kidnapping",
-      "phase",
-      "primary",
-      "school",
-      "gbagalape"
-    ]
-  },
-  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://tribune.com.pk/story/2611780/israeli-attacks-kill-palestinian-baby-and-seven-others-in-gaza-and-west-bank",
+    "top_news": "https://theindianawaaz.com/u-s-strikes-iranian-radar-near-strait-of-hormuz/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "story",
-      "2611780",
+      "strikes",
+      "iranian",
+      "radar",
+      "near",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/06/769966/Yemen-warning-Lebanon-Israeli-attacks-Abu-Ras",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "769966",
+      "yemen",
+      "warning",
+      "lebanon",
       "israeli",
       "attacks",
-      "kill",
-      "palestinian",
-      "baby",
-      "and",
-      "seven",
-      "others",
-      "gaza",
-      "and",
-      "west",
-      "bank"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/opinion/op-ed/making-of-dracula-war-of-vlad-the-impaler-and-mehmed-the-conqueror",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "opinion",
-      "making",
-      "dracula",
-      "war",
-      "vlad",
-      "the",
-      "impaler",
-      "and",
-      "mehmed",
-      "the",
-      "conqueror"
+      "abu",
+      "ras"
     ]
   }
 }
