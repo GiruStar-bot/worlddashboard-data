@@ -1,142 +1,92 @@
 {
-  "BRA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ibtimes.com/virginia-man-sentenced-life-double-murder-plot-involving-brazilian-au-pair-3803793",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "virginia",
-      "man",
-      "sentenced",
-      "life",
-      "double",
-      "murder",
-      "plot",
-      "involving",
-      "brazilian",
-      "pair",
-      "3803793"
-    ]
-  },
   "IRN": {
-    "risk_score": 4.35,
-    "count": 6,
-    "top_news": "https://www.yumasun.com/news/national_news/ap-news-summary-at-6-34-a-m-edt/article_9bf1ad24-8885-5402-aefc-fdc5df270e00.html",
-    "event_codes": {
-      "14": 3,
-      "16": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "news",
-      "news",
-      "summary",
-      "edt",
-      "article",
-      "9bf1ad24",
-      "8885",
-      "5402",
-      "aefc",
-      "fdc5df270e00.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 17.95,
-    "count": 18,
-    "top_news": "https://tribune.com.pk/story/2611734/pentagon-raises-israel-spy-threat-to-highest-level-nbc-report",
-    "event_codes": {
-      "19": 18
-    },
-    "keywords": [
-      "story",
-      "2611734",
-      "pentagon",
-      "raises",
-      "israel",
-      "spy",
-      "threat",
-      "highest",
-      "level",
-      "nbc",
-      "report"
-    ]
-  },
-  "LBN": {
-    "risk_score": 11.62,
-    "count": 12,
-    "top_news": "https://www.ualrpublicradio.org/npr-news/2026-06-06/israeli-airstrikes-kill-9-including-lebanese-army-officers-after-ceasefire-deal",
-    "event_codes": {
-      "19": 10,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "npr",
-      "news",
-      "2026",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "including",
-      "lebanese",
-      "army",
-      "officers",
-      "after",
-      "ceasefire",
-      "deal"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://promptnewsonline.com/the-500m-boast-that-no-one-questioned-by-anthony-ubani/",
-    "event_codes": {
-      "19": 5,
-      "16": 1,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "the",
-      "500m",
-      "boast",
-      "that",
-      "one",
-      "questioned",
-      "anthony",
-      "ubani"
-    ]
-  },
-  "PSE": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.ynetnews.com/article/rylhppwzze",
+    "top_news": "https://www.newsweek.com/trump-said-us-intelligence-beat-iranthe-record-backs-him-opinion-12031369",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "article",
-      "rylhppwzze"
+      "trump",
+      "said",
+      "intelligence",
+      "beat",
+      "iranthe",
+      "record",
+      "backs",
+      "him",
+      "opinion",
+      "12031369"
     ]
   },
-  "TWN": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.aei.org/articles/china-taiwan-update-june-5-2026/",
+  "ISR": {
+    "risk_score": 8.85,
+    "count": 9,
+    "top_news": "https://sana.sy/en/international/2321657/",
     "event_codes": {
-      "19": 3
+      "19": 7,
+      "18": 2
+    },
+    "keywords": [
+      "international",
+      "2321657"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.durangoherald.com/articles/an-israeli-airstrike-on-southern-lebanon-kills-lebanese-troops-days-after-ceasefire/",
+    "event_codes": {
+      "19": 3,
+      "18": 1
     },
     "keywords": [
       "articles",
-      "china",
-      "taiwan",
-      "update",
-      "june",
-      "2026"
+      "israeli",
+      "airstrike",
+      "southern",
+      "lebanon",
+      "kills",
+      "lebanese",
+      "troops",
+      "days",
+      "after",
+      "ceasefire"
+    ]
+  },
+  "PER": {
+    "risk_score": 5.82,
+    "count": 9,
+    "top_news": "https://www.newsweek.com/trump-is-remaking-latin-america-in-his-image-peru-and-colombia-may-be-next-12038839",
+    "event_codes": {
+      "15": 6,
+      "17": 3
+    },
+    "keywords": [
+      "trump",
+      "remaking",
+      "latin",
+      "america",
+      "his",
+      "image",
+      "peru",
+      "and",
+      "colombia",
+      "may",
+      "next",
+      "12038839"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://sana.sy/en/syria/2321612/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "syria",
+      "2321612"
     ]
   }
 }
