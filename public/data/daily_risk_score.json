@@ -1,107 +1,126 @@
 {
-  "CMR": {
-    "risk_score": 4.2,
-    "count": 5,
-    "top_news": "https://blueprint.ng/fct-police-nab-cameroonian-for-accomplices-murder-attempted-cover-up/",
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.newkerala.com/news/a/iran-says-targeted-us-bases-kuwait-bahrain-875.htm",
     "event_codes": {
-      "18": 3,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "fct",
-      "police",
-      "nab",
-      "cameroonian",
-      "for",
-      "accomplices",
-      "murder",
-      "attempted",
-      "cover"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.stripes.com/theaters/middle_east/2026-06-06/us-intercepts-iranian-missile-drone-attacks-21886375.html",
-    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "theaters",
-      "middle",
-      "east",
-      "2026",
-      "intercepts",
-      "iranian",
-      "missile",
-      "drone",
-      "attacks",
-      "21886375.html"
+      "news",
+      "iran",
+      "says",
+      "targeted",
+      "bases",
+      "kuwait",
+      "bahrain",
+      "875.htm"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.9,
+    "count": 14,
+    "top_news": "https://www.prokerala.com/news/articles/a1772103.html",
+    "event_codes": {
+      "19": 11,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1772103.html"
     ]
   },
   "ISR": {
-    "risk_score": 15.9,
-    "count": 17,
-    "top_news": "https://tribune.com.pk/story/2611664/snub-to-israel-apologists-at-the-un",
-    "event_codes": {
-      "19": 10,
-      "18": 3,
-      "14": 2,
-      "20": 2
-    },
-    "keywords": [
-      "story",
-      "2611664",
-      "snub",
-      "israel",
-      "apologists",
-      "the"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.9,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://tribune.com.pk/story/2611728/iran-strikes-us-bases-in-kuwait-bahrain-after-drone-attacks-on-iranian-territory-report",
+    "top_news": "https://www.naroomanewsonline.com.au/story/9287281/israeli-forces-shoot-dead-palestinian-baby-in-west-bank/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "story",
-      "2611728",
+      "9287281",
+      "israeli",
+      "forces",
+      "shoot",
+      "dead",
+      "palestinian",
+      "baby",
+      "west",
+      "bank"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newkerala.com/news/a/iran-says-targeted-us-bases-kuwait-bahrain-875.htm",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
       "iran",
-      "strikes",
+      "says",
+      "targeted",
       "bases",
       "kuwait",
       "bahrain",
-      "after",
-      "drone",
-      "attacks",
+      "875.htm"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "intercepts",
       "iranian",
-      "territory",
-      "report"
+      "attacks",
+      "israel",
+      "continues",
+      "bomb",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 26.42,
-    "count": 30,
-    "top_news": "https://blueprint.ng/fct-police-nab-cameroonian-for-accomplices-murder-attempted-cover-up/",
+    "risk_score": 9.15,
+    "count": 12,
+    "top_news": "https://www.nigerianeye.com/2026/06/boko-haram-overruns-borno-military-base.html",
     "event_codes": {
-      "19": 15,
-      "17": 7,
-      "18": 5,
-      "15": 3
+      "17": 5,
+      "19": 4,
+      "18": 3
     },
     "keywords": [
-      "fct",
-      "police",
-      "nab",
-      "cameroonian",
-      "for",
-      "accomplices",
-      "murder",
-      "attempted",
-      "cover"
+      "2026",
+      "boko",
+      "haram",
+      "overruns",
+      "borno",
+      "military",
+      "base.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.prokerala.com/news/articles/a1772116.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1772116.html"
     ]
   }
 }
