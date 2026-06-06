@@ -1,87 +1,51 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.upi.com/Top_News/US/2026/06/06/iran-bahrain-kuwait-attacks/2471780761631/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "top",
-      "news",
-      "2026",
-      "iran",
-      "bahrain",
-      "kuwait",
-      "attacks",
-      "2471780761631"
-    ]
-  },
-  "ISR": {
+  "IRN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.express.co.uk/news/world/2213782/Former-Hamas-hostage-Eliya-Cohen-and-fianc-e-Ziv-Abud",
+    "top_news": "https://wtop.com/world/2026/06/air-raid-sirens-in-bahrain-as-iranian-missiles-and-drones-head-for-gulf-neighbors/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
       "world",
-      "2213782",
-      "former",
-      "hamas",
-      "hostage",
-      "eliya",
-      "cohen",
+      "2026",
+      "air",
+      "raid",
+      "sirens",
+      "bahrain",
+      "iranian",
+      "missiles",
       "and",
-      "fianc",
-      "ziv",
-      "abud"
+      "drones",
+      "head",
+      "for",
+      "gulf",
+      "neighbors"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://sana.sy/en/international/2321667/",
+  "ISR": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://organiser.org/2026/06/06/356880/world/decoding-hezbollah-how-the-terror-group-built-a-massive-arsenal-against-israel/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "international",
-      "2321667"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://yalibnan.com/2026/06/06/lebanon-inaugurates-rene-mouawad-airport-as-its-second-international-airport/",
-    "event_codes": {
-      "17": 3,
-      "18": 2
+      "19": 2,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "lebanon",
-      "inaugurates",
-      "rene",
-      "mouawad",
-      "airport",
-      "its",
-      "second",
-      "international",
-      "airport"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://sana.sy/en/syria/2321670/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "syria",
-      "2321670"
+      "356880",
+      "world",
+      "decoding",
+      "hezbollah",
+      "how",
+      "the",
+      "terror",
+      "group",
+      "built",
+      "massive",
+      "arsenal",
+      "against",
+      "israel"
     ]
   }
 }
