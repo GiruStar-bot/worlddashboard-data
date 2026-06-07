@@ -1,57 +1,131 @@
 {
   "IRN": {
-    "risk_score": 6.6,
-    "count": 8,
-    "top_news": "https://www.theage.com.au/world/middle-east/israel-says-iran-launched-missiles-at-it-in-first-such-attack-since-april-ceasefire-20260608-p604og.html",
+    "risk_score": 14.95,
+    "count": 16,
+    "top_news": "https://forward.com/fast-forward/830051/trump-iran-missile-israel-peace/",
     "event_codes": {
-      "19": 4,
-      "16": 2,
+      "19": 14,
       "17": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "says",
+      "fast",
+      "forward",
+      "830051",
+      "trump",
       "iran",
-      "launched",
-      "missiles",
-      "first",
-      "such",
-      "attack",
-      "since",
-      "april",
-      "ceasefire",
-      "20260608",
-      "p604og.html"
+      "missile",
+      "israel",
+      "peace"
     ]
   },
   "ISR": {
-    "risk_score": 18.86,
-    "count": 21,
-    "top_news": "https://www.arabnews.com/node/2646310",
+    "risk_score": 14.96,
+    "count": 17,
+    "top_news": "https://www.clevelandjewishnews.com/jns/iran-fires-missile-barrages-at-israel/article_a3906573-bd01-53e5-9e78-3d43ff190faf.html",
     "event_codes": {
-      "19": 16,
-      "15": 3,
-      "16": 2
+      "19": 10,
+      "14": 4,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "node",
-      "2646310"
+      "jns",
+      "iran",
+      "fires",
+      "missile",
+      "barrages",
+      "israel",
+      "article",
+      "a3906573",
+      "bd01",
+      "53e5",
+      "9e78",
+      "3d43ff190faf.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.clevelandjewishnews.com/jns/iran-fires-missile-barrages-at-israel/article_a3906573-bd01-53e5-9e78-3d43ff190faf.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "jns",
+      "iran",
+      "fires",
+      "missile",
+      "barrages",
+      "israel",
+      "article",
+      "a3906573",
+      "bd01",
+      "53e5",
+      "9e78",
+      "3d43ff190faf.html"
     ]
   },
   "LBN": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2646310",
+    "risk_score": 5.45,
+    "count": 6,
+    "top_news": "https://article.wn.com/view/2026/06/07/Iran_launches_ballistic_missile_attack_on_Israel_after_Beiru/",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 5,
+      "17": 1
     },
     "keywords": [
-      "node",
-      "2646310"
+      "view",
+      "2026",
+      "iran",
+      "launches",
+      "ballistic",
+      "missile",
+      "attack",
+      "israel",
+      "after",
+      "beiru"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://pmnewsnigeria.com/2026/06/07/two-killed-one-injured-as-bandits-ambush-youths-in-niger-forest/",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "two",
+      "killed",
+      "one",
+      "injured",
+      "bandits",
+      "ambush",
+      "youths",
+      "niger",
+      "forest"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.3,
+    "count": 11,
+    "top_news": "https://punchng.com/soldiers-nab-three-suspected-arms-dealers-recover-weapons-in-abia/",
+    "event_codes": {
+      "17": 7,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "soldiers",
+      "nab",
+      "three",
+      "suspected",
+      "arms",
+      "dealers",
+      "recover",
+      "weapons",
+      "abia"
     ]
   }
 }
