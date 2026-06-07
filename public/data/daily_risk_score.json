@@ -1,20 +1,47 @@
 {
-  "ISR": {
-    "risk_score": 12.95,
-    "count": 13,
-    "top_news": "https://dailypioneer.com/news/israeli-strikes-kill-lebanese-officers-after-ceasefire",
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.newsweek.com/100-days-of-the-iran-war-in-numbers-12033272",
     "event_codes": {
-      "19": 13
+      "19": 5
+    },
+    "keywords": [
+      "100",
+      "days",
+      "the",
+      "iran",
+      "war",
+      "numbers",
+      "12033272"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.77,
+    "count": 21,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/israel-kills-five-in-gaza-as-egypt-hosts-new-ceasefire-talks/articleshow/131566515.cms",
+    "event_codes": {
+      "19": 15,
+      "17": 4,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
       "news",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanese",
-      "officers",
-      "after",
-      "ceasefire"
+      "international",
+      "world",
+      "news",
+      "israel",
+      "kills",
+      "five",
+      "gaza",
+      "egypt",
+      "hosts",
+      "new",
+      "ceasefire",
+      "talks",
+      "articleshow",
+      "131566515.cms"
     ]
   }
 }
