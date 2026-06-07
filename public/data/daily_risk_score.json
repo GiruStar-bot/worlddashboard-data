@@ -1,47 +1,85 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.newsweek.com/100-days-of-the-iran-war-in-numbers-12033272",
+    "risk_score": 5.57,
+    "count": 8,
+    "top_news": "https://nationnews.com/2026/06/07/lammy-says-he-told-jd-vance-his-nowak-comments-were-wrong/",
     "event_codes": {
-      "19": 5
+      "17": 4,
+      "19": 2,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
-      "100",
-      "days",
-      "the",
-      "iran",
-      "war",
-      "numbers",
-      "12033272"
+      "2026",
+      "lammy",
+      "says",
+      "told",
+      "vance",
+      "his",
+      "nowak",
+      "comments",
+      "were",
+      "wrong"
     ]
   },
   "ISR": {
-    "risk_score": 18.77,
-    "count": 21,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/israel-kills-five-in-gaza-as-egypt-hosts-new-ceasefire-talks/articleshow/131566515.cms",
+    "risk_score": 13.17,
+    "count": 15,
+    "top_news": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565",
     "event_codes": {
-      "19": 15,
-      "17": 4,
+      "19": 11,
+      "17": 2,
       "14": 1,
-      "16": 1
+      "15": 1
     },
     "keywords": [
       "news",
-      "international",
       "world",
-      "news",
+      "gunman",
+      "attack",
       "israel",
-      "kills",
-      "five",
-      "gaza",
-      "egypt",
-      "hosts",
-      "new",
-      "ceasefire",
-      "talks",
-      "articleshow",
-      "131566515.cms"
+      "9.7226565"
+    ]
+  },
+  "KWT": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.forbes.com/sites/pauliddon/2026/06/07/kuwait-reinforcing-air-defense-with-cost-effective-counter-drone-systems/",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "sites",
+      "pauliddon",
+      "2026",
+      "kuwait",
+      "reinforcing",
+      "air",
+      "defense",
+      "with",
+      "cost",
+      "effective",
+      "counter",
+      "drone",
+      "systems"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "gunman",
+      "attack",
+      "israel",
+      "9.7226565"
     ]
   }
 }
