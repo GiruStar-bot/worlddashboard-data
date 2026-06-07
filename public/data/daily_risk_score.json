@@ -1,85 +1,116 @@
 {
-  "IRN": {
-    "risk_score": 5.57,
-    "count": 8,
-    "top_news": "https://nationnews.com/2026/06/07/lammy-says-he-told-jd-vance-his-nowak-comments-were-wrong/",
-    "event_codes": {
-      "17": 4,
-      "19": 2,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "2026",
-      "lammy",
-      "says",
-      "told",
-      "vance",
-      "his",
-      "nowak",
-      "comments",
-      "were",
-      "wrong"
-    ]
-  },
   "ISR": {
-    "risk_score": 13.17,
+    "risk_score": 13.94,
     "count": 15,
-    "top_news": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565",
+    "top_news": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo",
     "event_codes": {
-      "19": 11,
-      "17": 2,
+      "19": 10,
+      "17": 3,
       "14": 1,
-      "15": 1
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "gunman",
-      "attack",
-      "israel",
-      "9.7226565"
+      "2026",
+      "israeli",
+      "army",
+      "kills",
+      "nine",
+      "gaza",
+      "mediators",
+      "renew",
+      "diplomacy",
+      "cairo"
     ]
   },
-  "KWT": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.forbes.com/sites/pauliddon/2026/06/07/kuwait-reinforcing-air-defense-with-cost-effective-counter-drone-systems/",
+  "LBN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.ijpr.org/npr-news/2026-06-07/israel-has-reportedly-used-white-phosphorus-near-lebanese-cities-and-towns-what-is-it",
     "event_codes": {
-      "19": 4,
-      "15": 1
+      "16": 4
     },
     "keywords": [
-      "sites",
-      "pauliddon",
+      "npr",
+      "news",
       "2026",
-      "kuwait",
-      "reinforcing",
-      "air",
-      "defense",
+      "israel",
+      "has",
+      "reportedly",
+      "used",
+      "white",
+      "phosphorus",
+      "near",
+      "lebanese",
+      "cities",
+      "and",
+      "towns",
+      "what"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "army",
+      "frees",
+      "360",
+      "abductees",
+      "after",
+      "clashes",
       "with",
-      "cost",
-      "effective",
-      "counter",
-      "drone",
-      "systems"
+      "boko",
+      "haram",
+      "nigerias",
+      "borno"
     ]
   },
   "PSE": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.cbc.ca/news/world/gunman-attack-israel-9.7226565",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "19": 3
     },
     "keywords": [
       "news",
-      "world",
-      "gunman",
-      "attack",
-      "israel",
-      "9.7226565"
+      "2026",
+      "israeli",
+      "army",
+      "kills",
+      "nine",
+      "gaza",
+      "mediators",
+      "renew",
+      "diplomacy",
+      "cairo"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/15-civilians-killed-in-north-kordofan-drone-attacks",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "civilians",
+      "killed",
+      "north",
+      "kordofan",
+      "drone",
+      "attacks"
     ]
   }
 }
