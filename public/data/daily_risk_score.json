@@ -1,116 +1,161 @@
 {
-  "ISR": {
-    "risk_score": 13.94,
-    "count": 15,
-    "top_news": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://mondoweiss.net/2026/06/weekly-briefing-israel-is-pushing-palestinian-hospitals-in-gaza-and-the-west-bank-toward-collapse/",
     "event_codes": {
-      "19": 10,
-      "17": 3,
-      "14": 1,
-      "18": 1
+      "17": 4
+    },
+    "keywords": [
+      "2026",
+      "weekly",
+      "briefing",
+      "israel",
+      "pushing",
+      "palestinian",
+      "hospitals",
+      "gaza",
+      "and",
+      "the",
+      "west",
+      "bank",
+      "toward",
+      "collapse"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2558835/%F0%9F%9A%A8-iran-threatens-direct-strike-on-israel-after-idf-hits-hezbollah-in-beirut-suburbs.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
+      "israel",
+      "news",
+      "2558835",
+      "%f0%9f%9a%a8",
+      "iran",
+      "threatens",
+      "direct",
+      "strike",
+      "israel",
+      "after",
+      "idf",
+      "hits",
+      "hezbollah",
+      "beirut",
+      "suburbs.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.5,
+    "count": 15,
+    "top_news": "https://mondoweiss.net/2026/06/weekly-briefing-israel-is-pushing-palestinian-hospitals-in-gaza-and-the-west-bank-toward-collapse/",
+    "event_codes": {
+      "17": 8,
+      "19": 5,
+      "14": 2
+    },
+    "keywords": [
       "2026",
-      "israeli",
-      "army",
-      "kills",
-      "nine",
+      "weekly",
+      "briefing",
+      "israel",
+      "pushing",
+      "palestinian",
+      "hospitals",
       "gaza",
-      "mediators",
-      "renew",
-      "diplomacy",
-      "cairo"
+      "and",
+      "the",
+      "west",
+      "bank",
+      "toward",
+      "collapse"
     ]
   },
   "LBN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.ijpr.org/npr-news/2026-06-07/israel-has-reportedly-used-white-phosphorus-near-lebanese-cities-and-towns-what-is-it",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.rawstory.com/trump-iran-2677008936/",
     "event_codes": {
-      "16": 4
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "npr",
-      "news",
-      "2026",
-      "israel",
-      "has",
-      "reportedly",
-      "used",
-      "white",
-      "phosphorus",
-      "near",
-      "lebanese",
-      "cities",
-      "and",
-      "towns",
-      "what"
+      "trump",
+      "iran",
+      "2677008936"
     ]
   },
   "NGA": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno",
+    "risk_score": 14.93,
+    "count": 18,
+    "top_news": "https://dailytrust.com/benue-teenager-recounts-escape-from-mali-sex-trafficker/",
     "event_codes": {
-      "18": 3,
-      "19": 3
+      "17": 5,
+      "18": 5,
+      "19": 5,
+      "15": 2,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "army",
-      "frees",
-      "360",
-      "abductees",
-      "after",
-      "clashes",
-      "with",
-      "boko",
-      "haram",
-      "nigerias",
-      "borno"
+      "benue",
+      "teenager",
+      "recounts",
+      "escape",
+      "from",
+      "mali",
+      "sex",
+      "trafficker"
     ]
   },
   "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo",
+    "top_news": "https://www.mcall.com/2026/06/07/shots-fired-at-kayakers-lehigh-river-northampton-county-dl-trail/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
       "2026",
-      "israeli",
-      "army",
-      "kills",
-      "nine",
-      "gaza",
-      "mediators",
-      "renew",
-      "diplomacy",
-      "cairo"
+      "shots",
+      "fired",
+      "kayakers",
+      "lehigh",
+      "river",
+      "northampton",
+      "county",
+      "trail"
     ]
   },
-  "SDN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/15-civilians-killed-in-north-kordofan-drone-attacks",
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.fairobserver.com/world-news/us-news/the-global-war-on-terrors-journey-home-the-collective-trauma-of-americas-21st-century-wars/",
     "event_codes": {
-      "18": 2,
-      "19": 2
+      "17": 4,
+      "19": 1
     },
     "keywords": [
-      "all",
+      "world",
       "news",
-      "article",
-      "civilians",
-      "killed",
-      "north",
-      "kordofan",
-      "drone",
-      "attacks"
+      "news",
+      "the",
+      "global",
+      "war",
+      "terrors",
+      "journey",
+      "home",
+      "the",
+      "collective",
+      "trauma",
+      "americas",
+      "21st",
+      "century",
+      "wars"
     ]
   }
 }
