@@ -1,96 +1,57 @@
 {
   "IRN": {
-    "risk_score": 7.7,
-    "count": 9,
-    "top_news": "https://www.livemint.com/news/world/iran-threatens-response-after-israeli-airstrike-on-hezbollah-stronghold-in-beiruts-dahieh-11780852126677.html",
-    "event_codes": {
-      "19": 7,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "iran",
-      "threatens",
-      "response",
-      "after",
-      "israeli",
-      "airstrike",
-      "hezbollah",
-      "stronghold",
-      "beiruts",
-      "dahieh",
-      "11780852126677.html"
-    ]
-  },
-  "KHM": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://phnompenhpost.com/national/manet-government-hun-sen-not-behind-killing-of-lim-kimya/",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "national",
-      "manet",
-      "government",
-      "hun",
-      "sen",
-      "not",
-      "behind",
-      "killing",
-      "lim",
-      "kimya"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.0,
+    "risk_score": 6.6,
     "count": 8,
-    "top_news": "https://saharareporters.com/2026/06/07/two-security-operatives-beaten-coma-houses-set-ablaze-youths-clash-joint-task-force",
+    "top_news": "https://www.theage.com.au/world/middle-east/israel-says-iran-launched-missiles-at-it-in-first-such-attack-since-april-ceasefire-20260608-p604og.html",
     "event_codes": {
-      "19": 6,
+      "19": 4,
+      "16": 2,
       "17": 2
     },
     "keywords": [
-      "2026",
-      "two",
-      "security",
-      "operatives",
-      "beaten",
-      "coma",
-      "houses",
-      "set",
-      "ablaze",
-      "youths",
-      "clash",
-      "joint",
-      "task",
-      "force"
+      "world",
+      "middle",
+      "east",
+      "israel",
+      "says",
+      "iran",
+      "launched",
+      "missiles",
+      "first",
+      "such",
+      "attack",
+      "since",
+      "april",
+      "ceasefire",
+      "20260608",
+      "p604og.html"
     ]
   },
-  "THA": {
-    "risk_score": 4.9,
-    "count": 6,
-    "top_news": "https://phnompenhpost.com/national/manet-government-hun-sen-not-behind-killing-of-lim-kimya/",
+  "ISR": {
+    "risk_score": 18.86,
+    "count": 21,
+    "top_news": "https://www.arabnews.com/node/2646310",
     "event_codes": {
-      "19": 3,
-      "17": 2,
+      "19": 16,
+      "15": 3,
+      "16": 2
+    },
+    "keywords": [
+      "node",
+      "2646310"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2646310",
+    "event_codes": {
+      "19": 4,
       "18": 1
     },
     "keywords": [
-      "national",
-      "manet",
-      "government",
-      "hun",
-      "sen",
-      "not",
-      "behind",
-      "killing",
-      "lim",
-      "kimya"
+      "node",
+      "2646310"
     ]
   }
 }
