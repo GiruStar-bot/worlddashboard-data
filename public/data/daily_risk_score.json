@@ -1,84 +1,78 @@
 {
-  "EGY": {
-    "risk_score": 3.72,
+  "ARE": {
+    "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://www.egyptindependent.com/egypt-strongly-condemns-israels-attack-on-lebanese-army/",
+    "top_news": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26174898.kinahan-lieutenant-sean-mcgovern-sentenced-24-years-prison/",
     "event_codes": {
-      "19": 3,
-      "15": 1
+      "17": 4
     },
     "keywords": [
-      "egypt",
-      "strongly",
-      "condemns",
-      "israels",
-      "attack",
-      "lebanese",
-      "army"
+      "news",
+      "national",
+      "26174898.kinahan",
+      "lieutenant",
+      "sean",
+      "mcgovern",
+      "sentenced",
+      "years",
+      "prison"
     ]
   },
   "IRN": {
-    "risk_score": 11.35,
-    "count": 12,
-    "top_news": "https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks",
+    "risk_score": 14.7,
+    "count": 16,
+    "top_news": "https://www.aspenpublicradio.org/2026-06-07/israel-and-iran-exchange-missile-fire-threatening-middle-east-truce",
     "event_codes": {
-      "19": 11,
+      "19": 14,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "and",
+      "iran",
+      "exchange",
+      "missile",
+      "fire",
+      "threatening",
+      "middle",
+      "east",
+      "truce"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.4,
+    "count": 11,
+    "top_news": "https://www.dailystar.co.uk/tv/gb-news-halted-sirens-blare-37263402",
+    "event_codes": {
+      "19": 10,
       "17": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "iran",
-      "war",
-      "day",
-      "101",
-      "tensions",
-      "escalate",
-      "iran",
-      "and",
-      "israel",
-      "trade",
-      "air",
-      "attacks"
+      "halted",
+      "sirens",
+      "blare",
+      "37263402"
     ]
   },
-  "ISR": {
-    "risk_score": 29.2,
-    "count": 32,
-    "top_news": "https://www.jns.org/news/israel-news/idf-reservist-died-in-terrorist-shooting",
+  "SAU": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.dailystar.co.uk/news/us-news/breaking-donald-trump-warns-israel-37262983",
     "event_codes": {
-      "19": 23,
-      "16": 4,
-      "17": 4,
-      "18": 1
+      "19": 4
     },
     "keywords": [
       "news",
-      "israel",
       "news",
-      "idf",
-      "reservist",
-      "died",
-      "terrorist",
-      "shooting"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.62,
-    "count": 5,
-    "top_news": "https://www.egyptindependent.com/egypt-strongly-condemns-israels-attack-on-lebanese-army/",
-    "event_codes": {
-      "19": 4,
-      "15": 1
-    },
-    "keywords": [
-      "egypt",
-      "strongly",
-      "condemns",
-      "israels",
-      "attack",
-      "lebanese",
-      "army"
+      "breaking",
+      "donald",
+      "trump",
+      "warns",
+      "israel",
+      "37262983"
     ]
   }
 }
