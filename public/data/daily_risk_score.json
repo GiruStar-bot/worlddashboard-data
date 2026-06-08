@@ -1,78 +1,171 @@
 {
   "ARE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26174898.kinahan-lieutenant-sean-mcgovern-sentenced-24-years-prison/",
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://themedialine.org/news/opinion/between-reality-and-narrative-how-the-uae-defied-predictions-of-decline/",
     "event_codes": {
-      "17": 4
+      "19": 2,
+      "16": 1
     },
     "keywords": [
       "news",
-      "national",
-      "26174898.kinahan",
-      "lieutenant",
-      "sean",
-      "mcgovern",
-      "sentenced",
+      "opinion",
+      "between",
+      "reality",
+      "and",
+      "narrative",
+      "how",
+      "the",
+      "uae",
+      "defied",
+      "predictions",
+      "decline"
+    ]
+  },
+  "CHL": {
+    "risk_score": 6.09,
+    "count": 7,
+    "top_news": "https://themedialine.org/top-stories/chile-moves-to-repair-israel-ties-after-boric-years-naming-gabriel-zaliasnik-ambassador/",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "top",
+      "stories",
+      "chile",
+      "moves",
+      "repair",
+      "israel",
+      "ties",
+      "after",
+      "boric",
       "years",
-      "prison"
+      "naming",
+      "gabriel",
+      "zaliasnik",
+      "ambassador"
     ]
   },
   "IRN": {
-    "risk_score": 14.7,
-    "count": 16,
-    "top_news": "https://www.aspenpublicradio.org/2026-06-07/israel-and-iran-exchange-missile-fire-threatening-middle-east-truce",
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.manilatimes.net/2026/06/09/world/americas-emea/pope-to-address-spanish-parliament-meet-abuse-victims/2360652",
     "event_codes": {
-      "19": 14,
-      "16": 1,
+      "19": 5,
       "17": 1
     },
     "keywords": [
       "2026",
-      "israel",
-      "and",
-      "iran",
-      "exchange",
-      "missile",
-      "fire",
-      "threatening",
-      "middle",
-      "east",
-      "truce"
+      "world",
+      "americas",
+      "emea",
+      "pope",
+      "address",
+      "spanish",
+      "parliament",
+      "meet",
+      "abuse",
+      "victims",
+      "2360652"
     ]
   },
   "ISR": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.dailystar.co.uk/tv/gb-news-halted-sirens-blare-37263402",
+    "risk_score": 13.92,
+    "count": 16,
+    "top_news": "https://themedialine.org/mideast-daily-news/new-iran-strikes-put-us-diplomacy-netanyahu-strategy-on-collision-course/",
     "event_codes": {
-      "19": 10,
+      "19": 11,
+      "14": 2,
+      "16": 2,
       "17": 1
     },
     "keywords": [
+      "mideast",
+      "daily",
       "news",
-      "halted",
-      "sirens",
-      "blare",
-      "37263402"
+      "new",
+      "iran",
+      "strikes",
+      "put",
+      "diplomacy",
+      "netanyahu",
+      "strategy",
+      "collision",
+      "course"
     ]
   },
   "SAU": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.dailystar.co.uk/news/us-news/breaking-donald-trump-warns-israel-37262983",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2612072/why-the-houthis-are-threatening-red-sea-shipping-and-what-it-means-for-oil-markets",
     "event_codes": {
-      "19": 4
+      "19": 2,
+      "17": 1
     },
     "keywords": [
+      "story",
+      "2612072",
+      "why",
+      "the",
+      "houthis",
+      "are",
+      "threatening",
+      "red",
+      "sea",
+      "shipping",
+      "and",
+      "what",
+      "means",
+      "for",
+      "oil",
+      "markets"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://tribune.com.pk/story/2612073/govt-actively-working-to-secure-release-of-pakistani-sailors-in-somali-pirate-captivity",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "story",
+      "2612073",
+      "govt",
+      "actively",
+      "working",
+      "secure",
+      "release",
+      "pakistani",
+      "sailors",
+      "somali",
+      "pirate",
+      "captivity"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://themedialine.org/mideast-daily-news/new-iran-strikes-put-us-diplomacy-netanyahu-strategy-on-collision-course/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "mideast",
+      "daily",
       "news",
-      "news",
-      "breaking",
-      "donald",
-      "trump",
-      "warns",
-      "israel",
-      "37262983"
+      "new",
+      "iran",
+      "strikes",
+      "put",
+      "diplomacy",
+      "netanyahu",
+      "strategy",
+      "collision",
+      "course"
     ]
   }
 }
