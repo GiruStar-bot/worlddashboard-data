@@ -1,131 +1,84 @@
 {
-  "ARE": {
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.siasat.com/defying-trump-israel-strikes-iran-to-demand-role-in-peace-talks-3485713/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "defying",
+      "trump",
+      "israel",
+      "strikes",
+      "iran",
+      "demand",
+      "role",
+      "peace",
+      "talks",
+      "3485713"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.45,
+    "count": 15,
+    "top_news": "https://www.wcbe.org/2026-06-09/israel-and-iran-tentatively-suspend-attacks-against-each-other",
+    "event_codes": {
+      "19": 9,
+      "18": 6
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "and",
+      "iran",
+      "tentatively",
+      "suspend",
+      "attacks",
+      "against",
+      "each",
+      "other"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.64,
+    "count": 7,
+    "top_news": "http://www.zimbabwestar.com/news/279111588/ex-kenyan-chief-justice-arrested-at-protest",
+    "event_codes": {
+      "17": 3,
+      "14": 2,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "279111588",
+      "kenyan",
+      "chief",
+      "justice",
+      "arrested",
+      "protest"
+    ]
+  },
+  "SOM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://panow.com/2026/06/08/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz/",
+    "top_news": "https://sluggerotoole.com/2026/06/09/somali-man-arrested-over-attempted-murder-of-man-in-north-belfast-last-night/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "trump",
-      "says",
-      "pilots",
-      "are",
-      "fine",
-      "after",
-      "helicopter",
-      "crashes",
-      "near",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://grenadachronicle.com/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "iran",
-      "war",
-      "day",
-      "102",
-      "trump",
-      "warns",
-      "israel",
-      "against",
-      "new",
-      "strikes",
-      "ceasefire",
-      "holds"
-    ]
-  },
-  "ISR": {
-    "risk_score": 19.0,
-    "count": 24,
-    "top_news": "https://grenadachronicle.com/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin/",
-    "event_codes": {
-      "19": 14,
-      "17": 10
-    },
-    "keywords": [
-      "palestine",
-      "weekly",
-      "wrap",
-      "israel",
-      "presses",
-      "deeper",
-      "into",
-      "gaza",
-      "cairo",
-      "talks",
-      "begin"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://grenadachronicle.com/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "iran",
-      "war",
-      "day",
-      "102",
-      "trump",
-      "warns",
-      "israel",
-      "against",
-      "new",
-      "strikes",
-      "ceasefire",
-      "holds"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.6,
-    "count": 14,
-    "top_news": "https://blueprint.ng/3-suspects-arrested-over-murder-of-driver-stolen-bus-in-rivers/",
-    "event_codes": {
-      "17": 8,
-      "14": 4,
-      "19": 2
-    },
-    "keywords": [
-      "suspects",
+      "somali",
+      "man",
       "arrested",
       "over",
+      "attempted",
       "murder",
-      "driver",
-      "stolen",
-      "bus",
-      "rivers"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://grenadachronicle.com/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "palestine",
-      "weekly",
-      "wrap",
-      "israel",
-      "presses",
-      "deeper",
-      "into",
-      "gaza",
-      "cairo",
-      "talks",
-      "begin"
+      "man",
+      "north",
+      "belfast",
+      "last",
+      "night"
     ]
   }
 }
