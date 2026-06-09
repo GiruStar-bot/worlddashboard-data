@@ -1,104 +1,110 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theguardian.com/world/2026/jun/09/israeli-attack-tyre-lebanon-evacuation-ordered-historic-christian-quarter",
+    "risk_score": 10.7,
+    "count": 11,
+    "top_news": "https://www.jpost.com/israel-news/article-898897",
     "event_codes": {
-      "19": 2
+      "19": 10,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "2026",
-      "jun",
-      "israeli",
-      "attack",
-      "tyre",
-      "lebanon",
-      "evacuation",
-      "ordered",
-      "historic",
-      "christian",
-      "quarter"
+      "israel",
+      "news",
+      "article",
+      "898897"
     ]
   },
   "ISR": {
-    "risk_score": 9.8,
-    "count": 11,
-    "top_news": "https://www.manilatimes.net/2026/06/10/world/americas-emea/netanyahu-gambles-close-trump-ties-with-iran-strikes/2362043",
+    "risk_score": 12.3,
+    "count": 13,
+    "top_news": "https://pjmedia.com/catherinesalgado/2026/06/09/irans-regime-shoots-down-us-helicopter-trump-says-he-will-strike-back-n4953771",
     "event_codes": {
-      "19": 7,
-      "17": 2,
+      "19": 10,
+      "16": 3
+    },
+    "keywords": [
+      "catherinesalgado",
+      "2026",
+      "irans",
+      "regime",
+      "shoots",
+      "down",
+      "helicopter",
+      "trump",
+      "says",
+      "will",
+      "strike",
+      "back",
+      "n4953771"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://naija247news.com/sectors/healthcare-pharmaceuticals/news/one-killed-as-protests-over-us-backed-ebola-quarantine-centre-turn-deadly-in-kenya/",
+    "event_codes": {
+      "14": 2,
       "18": 2
     },
     "keywords": [
-      "2026",
-      "world",
-      "americas",
-      "emea",
-      "netanyahu",
-      "gambles",
-      "close",
-      "trump",
-      "ties",
-      "with",
-      "iran",
-      "strikes",
-      "2362043"
+      "sectors",
+      "healthcare",
+      "pharmaceuticals",
+      "news",
+      "one",
+      "killed",
+      "protests",
+      "over",
+      "backed",
+      "ebola",
+      "quarantine",
+      "centre",
+      "turn",
+      "deadly",
+      "kenya"
     ]
   },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.spacewar.com/afp/260609131442.pwcz9c0u.html",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "afp",
-      "260609131442.pwcz9c0u.html"
-    ]
-  },
-  "SDN": {
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://humanevents.com/2026/06/09/breaking-belfast-hero-who-stopped-beheading-attempt-by-sudanese-man-identified-as-maitiu-mag-tighearnan",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "breaking",
-      "belfast",
-      "hero",
-      "who",
-      "stopped",
-      "beheading",
-      "attempt",
-      "sudanese",
-      "man",
-      "identified",
-      "maitiu",
-      "mag",
-      "tighearnan"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://internationalviewpoint.org/Anatomy-of-a-feminist-debate-the-ambivalences-of-the-notion-of-femicide",
+    "top_news": "https://www.naharnet.com:443/stories/en/320595-trump-says-us-must-respond-after-iran-downs-apache-helicopter",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "anatomy",
-      "feminist",
-      "debate",
-      "the",
-      "ambivalences",
-      "the",
-      "notion",
-      "femicide"
+      "stories",
+      "320595",
+      "trump",
+      "says",
+      "must",
+      "respond",
+      "after",
+      "iran",
+      "downs",
+      "apache",
+      "helicopter"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://pjmedia.com/catherinesalgado/2026/06/09/sudanese-beheading-suspect-in-belfast-was-on-a-5-year-visa-mp-says-n4953757",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "catherinesalgado",
+      "2026",
+      "sudanese",
+      "beheading",
+      "suspect",
+      "belfast",
+      "was",
+      "year",
+      "visa",
+      "says",
+      "n4953757"
     ]
   }
 }
