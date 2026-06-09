@@ -1,27 +1,131 @@
 {
-  "IRN": {
-    "risk_score": 5.85,
-    "count": 6,
-    "top_news": "https://www.israelnationalnews.com/news/428345",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://panow.com/2026/06/08/trump-says-pilots-are-fine-after-us-helicopter-crashes-near-strait-of-hormuz/",
     "event_codes": {
-      "19": 6
+      "19": 2
     },
     "keywords": [
-      "news",
-      "428345"
+      "2026",
+      "trump",
+      "says",
+      "pilots",
+      "are",
+      "fine",
+      "after",
+      "helicopter",
+      "crashes",
+      "near",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://grenadachronicle.com/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "day",
+      "102",
+      "trump",
+      "warns",
+      "israel",
+      "against",
+      "new",
+      "strikes",
+      "ceasefire",
+      "holds"
     ]
   },
   "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/428344",
+    "risk_score": 19.0,
+    "count": 24,
+    "top_news": "https://grenadachronicle.com/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin/",
     "event_codes": {
-      "19": 7,
-      "20": 1
+      "19": 14,
+      "17": 10
     },
     "keywords": [
-      "news",
-      "428344"
+      "palestine",
+      "weekly",
+      "wrap",
+      "israel",
+      "presses",
+      "deeper",
+      "into",
+      "gaza",
+      "cairo",
+      "talks",
+      "begin"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://grenadachronicle.com/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "iran",
+      "war",
+      "day",
+      "102",
+      "trump",
+      "warns",
+      "israel",
+      "against",
+      "new",
+      "strikes",
+      "ceasefire",
+      "holds"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.6,
+    "count": 14,
+    "top_news": "https://blueprint.ng/3-suspects-arrested-over-murder-of-driver-stolen-bus-in-rivers/",
+    "event_codes": {
+      "17": 8,
+      "14": 4,
+      "19": 2
+    },
+    "keywords": [
+      "suspects",
+      "arrested",
+      "over",
+      "murder",
+      "driver",
+      "stolen",
+      "bus",
+      "rivers"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://grenadachronicle.com/palestine-weekly-wrap-israel-presses-deeper-into-gaza-as-cairo-talks-begin/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "palestine",
+      "weekly",
+      "wrap",
+      "israel",
+      "presses",
+      "deeper",
+      "into",
+      "gaza",
+      "cairo",
+      "talks",
+      "begin"
     ]
   }
 }
