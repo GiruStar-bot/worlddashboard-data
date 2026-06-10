@@ -1,91 +1,132 @@
 {
   "IRN": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.insurancejournal.com/news/international/2026/06/10/873153.htm",
+    "risk_score": 27.45,
+    "count": 28,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260610-presstv02.htm",
     "event_codes": {
-      "19": 9
-    },
-    "keywords": [
-      "news",
-      "international",
-      "2026",
-      "873153.htm"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://www.rigzone.com/news/wire/iran_us_trade_strikes_after_american_helicopter_downed-10-jun-2026-183890-article/",
-    "event_codes": {
-      "19": 8,
+      "19": 24,
+      "18": 3,
       "16": 1
     },
     "keywords": [
+      "wmd",
+      "library",
       "news",
-      "wire",
       "iran",
-      "trade",
-      "strikes",
-      "after",
-      "american",
-      "helicopter",
-      "downed",
-      "jun",
       "2026",
-      "183890",
-      "article"
+      "iran",
+      "260610",
+      "presstv02.htm"
     ]
   },
-  "NGA": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.thisdaylive.com/2026/06/10/military-spending-a-defining-test-for-the-nassembly/",
+  "ISR": {
+    "risk_score": 32.49,
+    "count": 36,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260609-unbrief01.htm",
     "event_codes": {
-      "19": 4
+      "19": 21,
+      "18": 6,
+      "16": 3,
+      "14": 2,
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "2026",
       "military",
-      "spending",
-      "defining",
-      "test",
-      "for",
-      "the",
-      "nassembly"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.insurancejournal.com/news/international/2026/06/10/873153.htm",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
+      "library",
       "news",
-      "international",
       "2026",
-      "873153.htm"
+      "mil",
+      "260609",
+      "unbrief01.htm"
     ]
   },
-  "YEM": {
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.yahoo.com/news/world/articles/fire-exchanged-between-small-boat-081044125.html",
+    "top_news": "https://www.spacewar.com/afp/260610082128.1kgnxk5b.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "afp",
+      "260610082128.1kgnxk5b.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.67,
+    "count": 11,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260609-unbrief01.htm",
+    "event_codes": {
+      "19": 10,
+      "15": 1
+    },
+    "keywords": [
+      "military",
+      "library",
       "news",
+      "2026",
+      "mil",
+      "260609",
+      "unbrief01.htm"
+    ]
+  },
+  "MLI": {
+    "risk_score": 6.0,
+    "count": 12,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/06/10/malian-authorities-arrest-2-prominent-journalists-in-latest-crackdown-on-freedom-of-expression",
+    "event_codes": {
+      "17": 12
+    },
+    "keywords": [
       "world",
+      "2026",
+      "malian",
+      "authorities",
+      "arrest",
+      "prominent",
+      "journalists",
+      "latest",
+      "crackdown",
+      "freedom",
+      "expression"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.25,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260609-ukfcdo02.htm",
+    "event_codes": {
+      "16": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260609",
+      "ukfcdo02.htm"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://patriotpost.us/articles/128226-in-memoriam-the-loss-of-flight-739-2026-06-10",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
       "articles",
-      "fire",
-      "exchanged",
-      "between",
-      "small",
-      "boat",
-      "081044125.html"
+      "128226",
+      "memoriam",
+      "the",
+      "loss",
+      "flight",
+      "739",
+      "2026"
     ]
   }
 }
