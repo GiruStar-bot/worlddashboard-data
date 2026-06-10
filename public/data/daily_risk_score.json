@@ -1,81 +1,93 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.butlereagle.com/20260610/as-u-s-and-iran-trade-strikes-trump-says-tehran-will-pay-the-price-for-stalled-talks/",
+    "risk_score": 11.35,
+    "count": 17,
+    "top_news": "https://thenewamerican.com/world-news/middle-east/u-s-strikes-iranian-military-facilities-after-drone-takes-down-apache-helicopter/",
     "event_codes": {
-      "19": 2
+      "17": 10,
+      "19": 4,
+      "14": 1,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "20260610",
-      "and",
-      "iran",
-      "trade",
-      "strikes",
-      "trump",
-      "says",
-      "tehran",
-      "will",
-      "pay",
-      "the",
-      "price",
-      "for",
-      "stalled",
-      "talks"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/279114383/french-soldier-killed-in-accidental-shooting-in-lebanon",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
+      "world",
       "news",
-      "279114383",
-      "french",
-      "soldier",
-      "killed",
-      "accidental",
-      "shooting",
-      "lebanon"
+      "middle",
+      "east",
+      "strikes",
+      "iranian",
+      "military",
+      "facilities",
+      "after",
+      "drone",
+      "takes",
+      "down",
+      "apache",
+      "helicopter"
     ]
   },
-  "NGA": {
-    "risk_score": 12.4,
-    "count": 13,
-    "top_news": "https://www.channelstv.com/2026/06/10/senate-committee-to-probe-killing-of-benue-health-worker-insecurity-in-benue-south/",
+  "ISR": {
+    "risk_score": 8.31,
+    "count": 10,
+    "top_news": "https://thenewamerican.com/us/politics/foreign-policy/report-82nd-airborne-secretly-deployed-to-israel-possibly-to-seize-kharg-island/",
     "event_codes": {
-      "18": 10,
-      "19": 3
+      "19": 3,
+      "15": 2,
+      "17": 2,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "senate",
-      "committee",
-      "probe",
-      "killing",
-      "benue",
-      "health",
-      "worker",
-      "insecurity",
-      "benue",
-      "south"
+      "politics",
+      "foreign",
+      "policy",
+      "report",
+      "82nd",
+      "airborne",
+      "secretly",
+      "deployed",
+      "israel",
+      "possibly",
+      "seize",
+      "kharg",
+      "island"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-899014",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "899014"
     ]
   },
   "SDN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://freerepublic.com/focus/f-news/4383166/posts",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.newser.com/story/390789/after-belfast-burns-musk-accused-of-fueling-tensions.html",
     "event_codes": {
-      "19": 4
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "focus",
-      "news",
-      "4383166",
-      "posts"
+      "story",
+      "390789",
+      "after",
+      "belfast",
+      "burns",
+      "musk",
+      "accused",
+      "fueling",
+      "tensions.html"
     ]
   }
 }
