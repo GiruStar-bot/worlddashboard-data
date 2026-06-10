@@ -1,77 +1,91 @@
 {
   "IRN": {
-    "risk_score": 19.5,
-    "count": 20,
-    "top_news": "https://www.singletonargus.com.au/story/9289283/iran-fires-missiles-at-base-hosting-us-forces-in-jordan/",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.insurancejournal.com/news/international/2026/06/10/873153.htm",
     "event_codes": {
-      "19": 19,
-      "17": 1
+      "19": 9
     },
     "keywords": [
-      "story",
-      "9289283",
-      "iran",
-      "fires",
-      "missiles",
-      "base",
-      "hosting",
-      "forces",
-      "jordan"
+      "news",
+      "international",
+      "2026",
+      "873153.htm"
     ]
   },
   "ISR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://original.antiwar.com/trita-parsi/2026/06/09/did-iran-establish-a-new-equation-in-the-middle-east-through-its-attacks-on-israel/",
+    "risk_score": 8.8,
+    "count": 9,
+    "top_news": "https://www.rigzone.com/news/wire/iran_us_trade_strikes_after_american_helicopter_downed-10-jun-2026-183890-article/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 8,
+      "16": 1
     },
     "keywords": [
-      "trita",
-      "parsi",
-      "2026",
-      "did",
+      "news",
+      "wire",
       "iran",
-      "establish",
-      "new",
-      "equation",
-      "the",
-      "middle",
-      "east",
-      "through",
-      "its",
-      "attacks",
-      "israel"
+      "trade",
+      "strikes",
+      "after",
+      "american",
+      "helicopter",
+      "downed",
+      "jun",
+      "2026",
+      "183890",
+      "article"
     ]
   },
-  "JOR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.koreaherald.com/article/10768335",
+  "NGA": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.thisdaylive.com/2026/06/10/military-spending-a-defining-test-for-the-nassembly/",
     "event_codes": {
-      "19": 6
+      "19": 4
     },
     "keywords": [
-      "article",
-      "10768335"
+      "2026",
+      "military",
+      "spending",
+      "defining",
+      "test",
+      "for",
+      "the",
+      "nassembly"
     ]
   },
-  "KWT": {
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/trump-blames-iran-downing-army-175106000.html",
+    "top_news": "https://www.insurancejournal.com/news/international/2026/06/10/873153.htm",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "news",
+      "international",
+      "2026",
+      "873153.htm"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/world/articles/fire-exchanged-between-small-boat-081044125.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
       "articles",
-      "trump",
-      "blames",
-      "iran",
-      "downing",
-      "army",
-      "175106000.html"
+      "fire",
+      "exchanged",
+      "between",
+      "small",
+      "boat",
+      "081044125.html"
     ]
   }
 }
