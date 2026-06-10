@@ -1,93 +1,153 @@
 {
-  "IRN": {
-    "risk_score": 11.35,
-    "count": 17,
-    "top_news": "https://thenewamerican.com/world-news/middle-east/u-s-strikes-iranian-military-facilities-after-drone-takes-down-apache-helicopter/",
-    "event_codes": {
-      "17": 10,
-      "19": 4,
-      "14": 1,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "middle",
-      "east",
-      "strikes",
-      "iranian",
-      "military",
-      "facilities",
-      "after",
-      "drone",
-      "takes",
-      "down",
-      "apache",
-      "helicopter"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.31,
-    "count": 10,
-    "top_news": "https://thenewamerican.com/us/politics/foreign-policy/report-82nd-airborne-secretly-deployed-to-israel-possibly-to-seize-kharg-island/",
-    "event_codes": {
-      "19": 3,
-      "15": 2,
-      "17": 2,
-      "18": 2,
-      "14": 1
-    },
-    "keywords": [
-      "politics",
-      "foreign",
-      "policy",
-      "report",
-      "82nd",
-      "airborne",
-      "secretly",
-      "deployed",
-      "israel",
-      "possibly",
-      "seize",
-      "kharg",
-      "island"
-    ]
-  },
-  "QAT": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-899014",
+    "top_news": "https://www.spokesman.com/stories/2026/jun/09/trump-threatens-to-attack-iran-very-hard-following/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "899014"
+      "stories",
+      "2026",
+      "jun",
+      "trump",
+      "threatens",
+      "attack",
+      "iran",
+      "very",
+      "hard",
+      "following"
     ]
   },
-  "SDN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.newser.com/story/390789/after-belfast-burns-musk-accused-of-fueling-tensions.html",
+  "COL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.israelnationalnews.com/news/428443",
     "event_codes": {
-      "19": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "428443"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.6,
+    "count": 8,
+    "top_news": "https://www.wjr.com/2026/06/10/trump-vows-more-strikes-on-iran-following-tuesdays-attack/",
+    "event_codes": {
+      "19": 5,
+      "16": 2,
       "17": 1
     },
     "keywords": [
-      "story",
-      "390789",
-      "after",
-      "belfast",
-      "burns",
-      "musk",
-      "accused",
-      "fueling",
-      "tensions.html"
+      "2026",
+      "trump",
+      "vows",
+      "more",
+      "strikes",
+      "iran",
+      "following",
+      "tuesdays",
+      "attack"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.7,
+    "count": 15,
+    "top_news": "https://www.israelnationalnews.com/news/428443",
+    "event_codes": {
+      "19": 12,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "428443"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.standardmedia.co.ke/crime-and-justice/article/2001550027/families-of-mmu-students-shot-by-police-seek-for-justice",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "crime",
+      "and",
+      "justice",
+      "article",
+      "2001550027",
+      "families",
+      "mmu",
+      "students",
+      "shot",
+      "police",
+      "seek",
+      "for",
+      "justice"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "israel",
+      "kills",
+      "lebanon",
+      "probe",
+      "international",
+      "law",
+      "violations"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymaverick.co.za/article/2026-06-10-nigeria-threatens-retaliation-against-sa-for-attacks-on-its-citizens/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "nigeria",
+      "threatens",
+      "retaliation",
+      "against",
+      "for",
+      "attacks",
+      "its",
+      "citizens"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.dailymaverick.co.za/article/2026-06-10-nigeria-threatens-retaliation-against-sa-for-attacks-on-its-citizens/",
+    "event_codes": {
+      "19": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "nigeria",
+      "threatens",
+      "retaliation",
+      "against",
+      "for",
+      "attacks",
+      "its",
+      "citizens"
     ]
   }
 }
