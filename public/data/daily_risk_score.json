@@ -1,63 +1,212 @@
 {
-  "BOL": {
-    "risk_score": 2.88,
-    "count": 4,
-    "top_news": "https://www.theglobeandmail.com/world/article-ukraine-chornobyl-belarus-border-russia-war/",
+  "BHR": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/news/us-attack-kills-three-indian-sailors-gulf-oman",
     "event_codes": {
-      "15": 4
-    },
-    "keywords": [
-      "world",
-      "article",
-      "ukraine",
-      "chornobyl",
-      "belarus",
-      "border",
-      "russia",
-      "war"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jwire.com.au/is-donald-trump-still-the-tough-minded-leader-he-claims-to-be/",
-    "event_codes": {
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "donald",
-      "trump",
-      "still",
-      "the",
-      "tough",
-      "minded",
-      "leader",
-      "claims"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.thehindu.com/news/international/bangkok-shrine-bombing-case-thailand-sentences-chinese-uyghurs-to-death/article71088073.ece",
-    "event_codes": {
-      "19": 2,
-      "14": 1,
+      "19": 5,
       "18": 1
     },
     "keywords": [
       "news",
-      "international",
-      "bangkok",
-      "shrine",
-      "bombing",
-      "case",
-      "thailand",
-      "sentences",
-      "chinese",
-      "uyghurs",
-      "death",
-      "article71088073.ece"
+      "attack",
+      "kills",
+      "three",
+      "indian",
+      "sailors",
+      "gulf",
+      "oman"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://theconversation.com/trumps-narco-terrorism-war-in-latin-america-evokes-reagan-then-as-now-its-more-about-fighting-leftists-than-drug-runners-284287",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "trumps",
+      "narco",
+      "terrorism",
+      "war",
+      "latin",
+      "america",
+      "evokes",
+      "reagan",
+      "then",
+      "now",
+      "its",
+      "more",
+      "about",
+      "fighting",
+      "leftists",
+      "than",
+      "drug",
+      "runners",
+      "284287"
+    ]
+  },
+  "IRN": {
+    "risk_score": 19.09,
+    "count": 20,
+    "top_news": "https://metro.co.uk/2026/06/11/donald-trump-warns-us-will-hit-iran-very-hard-tonight-28737051/",
+    "event_codes": {
+      "19": 13,
+      "18": 5,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "donald",
+      "trump",
+      "warns",
+      "will",
+      "hit",
+      "iran",
+      "very",
+      "hard",
+      "tonight",
+      "28737051"
+    ]
+  },
+  "ISR": {
+    "risk_score": 20.3,
+    "count": 25,
+    "top_news": "https://www.middleeasteye.net/news/gaza-child-survived-israeli-raid-left-babies-decomposing-now-she-awaits-treatment",
+    "event_codes": {
+      "19": 10,
+      "17": 8,
+      "18": 3,
+      "20": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "gaza",
+      "child",
+      "survived",
+      "israeli",
+      "raid",
+      "left",
+      "babies",
+      "decomposing",
+      "now",
+      "she",
+      "awaits",
+      "treatment"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.shtfplan.com/war/trump-may-keep-going-with-strikes-as-iran-took-too-long-to-negotiate-deal-must-pay-the-price",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "war",
+      "trump",
+      "may",
+      "keep",
+      "going",
+      "with",
+      "strikes",
+      "iran",
+      "took",
+      "too",
+      "long",
+      "negotiate",
+      "deal",
+      "must",
+      "pay",
+      "the",
+      "price"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.5,
+    "count": 12,
+    "top_news": "https://thechronicle.com.gh/senate-committee-to-probe-killing-of-benue-health-worker-insecurity-in-benue-south/",
+    "event_codes": {
+      "18": 9,
+      "19": 3
+    },
+    "keywords": [
+      "senate",
+      "committee",
+      "probe",
+      "killing",
+      "benue",
+      "health",
+      "worker",
+      "insecurity",
+      "benue",
+      "south"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.islamicinvitationturkey.com/zionist-military-member-wounded-in-west-bank-explosion/",
+    "event_codes": {
+      "18": 3,
+      "20": 2,
+      "19": 1
+    },
+    "keywords": [
+      "zionist",
+      "military",
+      "member",
+      "wounded",
+      "west",
+      "bank",
+      "explosion"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-raids-syrian-villages-western-deraa",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "military",
+      "raids",
+      "syrian",
+      "villages",
+      "western",
+      "deraa"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/news/hit-list-migrant-homes-circulated-ahead-second-night-riots-belfast",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "hit",
+      "list",
+      "migrant",
+      "homes",
+      "circulated",
+      "ahead",
+      "second",
+      "night",
+      "riots",
+      "belfast"
     ]
   }
 }
