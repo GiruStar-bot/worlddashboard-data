@@ -1,212 +1,146 @@
 {
-  "BHR": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/news/us-attack-kills-three-indian-sailors-gulf-oman",
+  "IRN": {
+    "risk_score": 23.04,
+    "count": 26,
+    "top_news": "https://www.dailystar.co.uk/news/world-news/trump-threatens-strike-iran-very-37282300",
     "event_codes": {
-      "19": 5,
-      "18": 1
+      "19": 19,
+      "14": 2,
+      "15": 2,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
       "news",
-      "attack",
-      "kills",
-      "three",
-      "indian",
-      "sailors",
-      "gulf",
-      "oman"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://theconversation.com/trumps-narco-terrorism-war-in-latin-america-evokes-reagan-then-as-now-its-more-about-fighting-leftists-than-drug-runners-284287",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "trumps",
-      "narco",
-      "terrorism",
-      "war",
-      "latin",
-      "america",
-      "evokes",
-      "reagan",
-      "then",
-      "now",
-      "its",
-      "more",
-      "about",
-      "fighting",
-      "leftists",
-      "than",
-      "drug",
-      "runners",
-      "284287"
-    ]
-  },
-  "IRN": {
-    "risk_score": 19.09,
-    "count": 20,
-    "top_news": "https://metro.co.uk/2026/06/11/donald-trump-warns-us-will-hit-iran-very-hard-tonight-28737051/",
-    "event_codes": {
-      "19": 13,
-      "18": 5,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "donald",
+      "world",
+      "news",
       "trump",
-      "warns",
-      "will",
-      "hit",
+      "threatens",
+      "strike",
       "iran",
       "very",
-      "hard",
-      "tonight",
-      "28737051"
+      "37282300"
     ]
   },
   "ISR": {
-    "risk_score": 20.3,
-    "count": 25,
-    "top_news": "https://www.middleeasteye.net/news/gaza-child-survived-israeli-raid-left-babies-decomposing-now-she-awaits-treatment",
+    "risk_score": 14.85,
+    "count": 19,
+    "top_news": "http://www.jpost.com/opinion/article-898970",
     "event_codes": {
-      "19": 10,
-      "17": 8,
+      "14": 8,
+      "19": 6,
+      "17": 3,
+      "16": 2
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "898970"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.capitalfm.co.ke/news/2026/06/police-in-juja-launch-manhunt-for-criminal-who-attacked-motorcycle-financing-firm-staff/",
+    "event_codes": {
       "18": 3,
-      "20": 3,
-      "14": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "gaza",
-      "child",
-      "survived",
-      "israeli",
-      "raid",
-      "left",
-      "babies",
-      "decomposing",
-      "now",
-      "she",
-      "awaits",
-      "treatment"
+      "2026",
+      "police",
+      "juja",
+      "launch",
+      "manhunt",
+      "for",
+      "criminal",
+      "who",
+      "attacked",
+      "motorcycle",
+      "financing",
+      "firm",
+      "staff"
     ]
   },
   "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.shtfplan.com/war/trump-may-keep-going-with-strikes-as-iran-took-too-long-to-negotiate-deal-must-pay-the-price",
+    "risk_score": 6.85,
+    "count": 7,
+    "top_news": "https://aa.com.tr/en/middle-east/11-killed-in-israeli-airstrikes-on-eastern-southern-lebanon/3964411",
     "event_codes": {
-      "19": 6
+      "19": 4,
+      "18": 3
     },
     "keywords": [
-      "war",
-      "trump",
-      "may",
-      "keep",
-      "going",
-      "with",
-      "strikes",
-      "iran",
-      "took",
-      "too",
-      "long",
-      "negotiate",
-      "deal",
-      "must",
-      "pay",
-      "the",
-      "price"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.5,
-    "count": 12,
-    "top_news": "https://thechronicle.com.gh/senate-committee-to-probe-killing-of-benue-health-worker-insecurity-in-benue-south/",
-    "event_codes": {
-      "18": 9,
-      "19": 3
-    },
-    "keywords": [
-      "senate",
-      "committee",
-      "probe",
-      "killing",
-      "benue",
-      "health",
-      "worker",
-      "insecurity",
-      "benue",
-      "south"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.islamicinvitationturkey.com/zionist-military-member-wounded-in-west-bank-explosion/",
-    "event_codes": {
-      "18": 3,
-      "20": 2,
-      "19": 1
-    },
-    "keywords": [
-      "zionist",
-      "military",
-      "member",
-      "wounded",
-      "west",
-      "bank",
-      "explosion"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-raids-syrian-villages-western-deraa",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
+      "middle",
+      "east",
+      "killed",
       "israeli",
-      "military",
-      "raids",
-      "syrian",
-      "villages",
-      "western",
-      "deraa"
+      "airstrikes",
+      "eastern",
+      "southern",
+      "lebanon",
+      "3964411"
     ]
   },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/news/hit-list-migrant-homes-circulated-ahead-second-night-riots-belfast",
+  "SDN": {
+    "risk_score": 7.5,
+    "count": 8,
+    "top_news": "https://aa.com.tr/en/africa/rights-group-accuses-rsf-of-killing-23-civilians-in-drone-attacks-in-sudan/3964392",
     "event_codes": {
-      "19": 5
+      "19": 7,
+      "17": 1
+    },
+    "keywords": [
+      "africa",
+      "rights",
+      "group",
+      "accuses",
+      "rsf",
+      "killing",
+      "civilians",
+      "drone",
+      "attacks",
+      "sudan",
+      "3964392"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.16,
+    "count": 5,
+    "top_news": "https://www.taipeitimes.com/News/biz/archives/2026/06/12/2003858935",
+    "event_codes": {
+      "15": 3,
+      "18": 2
     },
     "keywords": [
       "news",
-      "hit",
-      "list",
-      "migrant",
-      "homes",
-      "circulated",
-      "ahead",
-      "second",
-      "night",
-      "riots",
-      "belfast"
+      "biz",
+      "archives",
+      "2026",
+      "2003858935"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.upi.com/Top_News/US/2026/06/11/trump-threatens-iran-kharg-island-oil-gas-infrastructure/1321781189806/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "top",
+      "news",
+      "2026",
+      "trump",
+      "threatens",
+      "iran",
+      "kharg",
+      "island",
+      "oil",
+      "gas",
+      "infrastructure",
+      "1321781189806"
     ]
   }
 }
