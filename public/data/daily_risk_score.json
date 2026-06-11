@@ -1,69 +1,63 @@
 {
-  "IRN": {
-    "risk_score": 8.2,
-    "count": 9,
-    "top_news": "https://www.odt.co.nz/news/world/us-iran-exchange-attacks-trump-threatens-further-escalation",
+  "BOL": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.theglobeandmail.com/world/article-ukraine-chornobyl-belarus-border-russia-war/",
     "event_codes": {
-      "19": 7,
-      "16": 1,
-      "17": 1
+      "15": 4
+    },
+    "keywords": [
+      "world",
+      "article",
+      "ukraine",
+      "chornobyl",
+      "belarus",
+      "border",
+      "russia",
+      "war"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jwire.com.au/is-donald-trump-still-the-tough-minded-leader-he-claims-to-be/",
+    "event_codes": {
+      "19": 1,
+      "20": 1
+    },
+    "keywords": [
+      "donald",
+      "trump",
+      "still",
+      "the",
+      "tough",
+      "minded",
+      "leader",
+      "claims"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.thehindu.com/news/international/bangkok-shrine-bombing-case-thailand-sentences-chinese-uyghurs-to-death/article71088073.ece",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "iran",
-      "exchange",
-      "attacks",
-      "trump",
-      "threatens",
-      "further",
-      "escalation"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.koreatimes.co.kr/world/20260611/us-launches-new-strikes-on-iran-which-fires-back-at-gulf-states-and-jordan",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "20260611",
-      "launches",
-      "new",
-      "strikes",
-      "iran",
-      "which",
-      "fires",
-      "back",
-      "gulf",
-      "states",
-      "and",
-      "jordan"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.koreatimes.co.kr/world/20260611/us-launches-new-strikes-on-iran-which-fires-back-at-gulf-states-and-jordan",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "20260611",
-      "launches",
-      "new",
-      "strikes",
-      "iran",
-      "which",
-      "fires",
-      "back",
-      "gulf",
-      "states",
-      "and",
-      "jordan"
+      "international",
+      "bangkok",
+      "shrine",
+      "bombing",
+      "case",
+      "thailand",
+      "sentences",
+      "chinese",
+      "uyghurs",
+      "death",
+      "article71088073.ece"
     ]
   }
 }
