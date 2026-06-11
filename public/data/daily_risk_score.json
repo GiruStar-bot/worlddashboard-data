@@ -1,24 +1,89 @@
 {
-  "IRN": {
-    "risk_score": 3.65,
+  "CAF": {
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "http://www.middleeaststar.com/news/279117435/trump-says-he-canceled-strikes-on-iran-hours-after-making-threat",
+    "top_news": "https://www.eurasiareview.com/11062026-dr-congo-engage-communities-in-ebola-response-hrw-says/",
     "event_codes": {
       "19": 3,
-      "14": 1
+      "18": 1
     },
     "keywords": [
-      "news",
-      "279117435",
-      "trump",
-      "says",
-      "canceled",
-      "strikes",
-      "iran",
-      "hours",
-      "after",
-      "making",
+      "11062026",
+      "congo",
+      "engage",
+      "communities",
+      "ebola",
+      "response",
+      "hrw",
+      "says"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thepeterboroughexaminer.com/politics/political-opinion/lost-in-the-mideasts-conflicts-is-the-creeping-conquest-of-the-west-bank/article_13bd35ef-74c7-5a37-9a04-7544b68f80b3.html",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "politics",
+      "political",
+      "opinion",
+      "lost",
+      "the",
+      "mideasts",
+      "conflicts",
+      "the",
+      "creeping",
+      "conquest",
+      "the",
+      "west",
+      "bank",
+      "article",
+      "13bd35ef",
+      "74c7",
+      "5a37",
+      "9a04",
+      "7544b68f80b3.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.eurasiareview.com/12062026-mnjtf-must-evolve-to-contain-terror-threat/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "12062026",
+      "mnjtf",
+      "must",
+      "evolve",
+      "contain",
+      "terror",
       "threat"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/06/11/us-news/fire-breaks-out-under-six-flags-magic-mountain-roller-coaster/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "fire",
+      "breaks",
+      "out",
+      "under",
+      "six",
+      "flags",
+      "magic",
+      "mountain",
+      "roller",
+      "coaster"
     ]
   }
 }
