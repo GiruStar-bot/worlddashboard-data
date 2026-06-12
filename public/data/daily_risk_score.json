@@ -1,62 +1,145 @@
 {
-  "IRN": {
-    "risk_score": 10.8,
-    "count": 12,
-    "top_news": "https://www.whyisrael.org/news/deal-or-no-deal-2/",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mediaite.com/media/podcasts/oh-dear-god-jon-stewart-horrified-by-eerie-elon-musk-theory/",
     "event_codes": {
-      "19": 10,
-      "16": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "deal",
-      "deal"
+      "media",
+      "podcasts",
+      "dear",
+      "god",
+      "jon",
+      "stewart",
+      "horrified",
+      "eerie",
+      "elon",
+      "musk",
+      "theory"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://thealabamabaptist.org/extremists-residents-stop-church-service-in-indonesia/",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "extremists",
+      "residents",
+      "stop",
+      "church",
+      "service",
+      "indonesia"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.65,
+    "count": 8,
+    "top_news": "https://www.mercurynews.com/2026/06/12/liccardo-why-china-is-winning-the-war-america-started-in-iran/",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "liccardo",
+      "why",
+      "china",
+      "winning",
+      "the",
+      "war",
+      "america",
+      "started",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 6.18,
-    "count": 9,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/12/four-uk-pro-palestinian-activists-jailed-over-raid-at-israeli-firm-elbit",
+    "risk_score": 4.64,
+    "count": 7,
+    "top_news": "https://www.mercurynews.com/2026/06/12/liccardo-why-china-is-winning-the-war-america-started-in-iran/",
     "event_codes": {
-      "17": 9
+      "17": 5,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
       "2026",
-      "four",
-      "pro",
-      "palestinian",
-      "activists",
-      "jailed",
-      "over",
-      "raid",
-      "israeli",
-      "firm",
-      "elbit"
+      "liccardo",
+      "why",
+      "china",
+      "winning",
+      "the",
+      "war",
+      "america",
+      "started",
+      "iran"
     ]
   },
-  "LBN": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://weeklyblitz.net/2026/06/13/lebanon-frees-captagon-king-hassan-daqqou-after-seven-year-prison-term/",
+  "LAO": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mercurynews.com/2026/06/12/suspect-extradited-from-southeast-asia-in-alleged-2016-hit-job-that-killed-wrong-man-in-san-jose/",
     "event_codes": {
-      "17": 5
+      "19": 2
     },
     "keywords": [
       "2026",
-      "lebanon",
-      "frees",
-      "captagon",
-      "king",
-      "hassan",
-      "daqqou",
-      "after",
-      "seven",
-      "year",
-      "prison",
-      "term"
+      "suspect",
+      "extradited",
+      "from",
+      "southeast",
+      "asia",
+      "alleged",
+      "2016",
+      "hit",
+      "job",
+      "that",
+      "killed",
+      "wrong",
+      "man",
+      "san",
+      "jose"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.75,
+    "count": 11,
+    "top_news": "https://dailytrust.com/kogi-varsity-student-gunned-down-on-campus/",
+    "event_codes": {
+      "19": 6,
+      "14": 3,
+      "18": 2
+    },
+    "keywords": [
+      "kogi",
+      "varsity",
+      "student",
+      "gunned",
+      "down",
+      "campus"
+    ]
+  },
+  "PER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.kolotv.com/2026/06/12/worker-killed-usa-parkway-construction-accident/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "worker",
+      "killed",
+      "usa",
+      "parkway",
+      "construction",
+      "accident"
     ]
   }
 }
