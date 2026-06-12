@@ -1,24 +1,96 @@
 {
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/two-un-peacekeepers-wounded-attack-convoy-southern-lebanon",
+  "IRN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.zawya.com/en/world/middle-east/iran-says-no-final-decision-made-on-deal-that-trump-hopes-could-be-signed-soon-ykdcajd1",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "two",
-      "peacekeepers",
-      "wounded",
-      "attack",
-      "convoy",
-      "southern",
-      "lebanon"
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "says",
+      "final",
+      "decision",
+      "made",
+      "deal",
+      "that",
+      "trump",
+      "hopes",
+      "could",
+      "signed",
+      "soon",
+      "ykdcajd1"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "http://cisanewsafrica.com/2026/06/mozambique-three-suspects-arrested-in-bishop-osorio-afonso-assassination-as-church-prepares-for-burial-in-nampula-on-june-13/",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "mozambique",
+      "three",
+      "suspects",
+      "arrested",
+      "bishop",
+      "osorio",
+      "afonso",
+      "assassination",
+      "church",
+      "prepares",
+      "for",
+      "burial",
+      "nampula",
+      "june"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.9,
+    "count": 15,
+    "top_news": "https://dailypost.ng/2026/06/12/falana-falz-others-join-endbadgovernance-protests-in-lagos-photos/",
+    "event_codes": {
+      "17": 9,
+      "14": 4,
+      "16": 2
+    },
+    "keywords": [
+      "2026",
+      "falana",
+      "falz",
+      "others",
+      "join",
+      "endbadgovernance",
+      "protests",
+      "lagos",
+      "photos"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.zlhr.org.zw/high-court-ends-students-month-long-detention-over-freedom-chant/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "high",
+      "court",
+      "ends",
+      "students",
+      "month",
+      "long",
+      "detention",
+      "over",
+      "freedom",
+      "chant"
     ]
   }
 }
