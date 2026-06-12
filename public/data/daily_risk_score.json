@@ -1,91 +1,63 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.tribuneindia.com/news/india/iran-criticises-us-attacks-on-vessels-with-indian-crew/",
+  "CAF": {
+    "risk_score": 5.95,
+    "count": 7,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/06/12/clashes-erupt-in-congos-capital-as-opposition-rejects-changes-to-presidential-term-limits",
     "event_codes": {
+      "14": 3,
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "india",
-      "iran",
-      "criticises",
-      "attacks",
-      "vessels",
-      "with",
-      "indian",
-      "crew"
+      "world",
+      "2026",
+      "clashes",
+      "erupt",
+      "congos",
+      "capital",
+      "opposition",
+      "rejects",
+      "changes",
+      "presidential",
+      "term",
+      "limits"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.voltairenet.org/article224692.html",
+    "event_codes": {
+      "14": 2,
+      "19": 2
+    },
+    "keywords": [
+      "article224692.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://saharareporters.com/2026/06/12/trump-and-i-fully-agree-iran-will-never-have-nuclear-weapons-pm-netanyahu",
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.voltairenet.org/article224692.html",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 6,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "trump",
-      "and",
-      "fully",
-      "agree",
-      "iran",
-      "will",
-      "never",
-      "have",
-      "nuclear",
-      "weapons",
-      "netanyahu"
+      "article224692.html"
     ]
   },
-  "NGA": {
-    "risk_score": 24.82,
-    "count": 33,
-    "top_news": "https://www.nationalaccordnewspaper.com/local-investment-protection-customs-battles-vegetable-oil-smuggling/",
+  "YEM": {
+    "risk_score": 4.15,
+    "count": 5,
+    "top_news": "https://www.khabaragency.net/news248359.html",
     "event_codes": {
-      "15": 21,
-      "18": 6,
-      "14": 2,
-      "17": 2,
-      "19": 2
+      "19": 3,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "local",
-      "investment",
-      "protection",
-      "customs",
-      "battles",
-      "vegetable",
-      "oil",
-      "smuggling"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://defenceweb.co.za/sea/sea-sea/somali-piracy-is-back-fuelled-by-political-turmoil-aid-cuts-and-the-iran-war/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "sea",
-      "sea",
-      "sea",
-      "somali",
-      "piracy",
-      "back",
-      "fuelled",
-      "political",
-      "turmoil",
-      "aid",
-      "cuts",
-      "and",
-      "the",
-      "iran",
-      "war"
+      "news248359.html"
     ]
   }
 }
