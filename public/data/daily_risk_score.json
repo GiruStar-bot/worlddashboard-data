@@ -1,81 +1,90 @@
 {
   "IRN": {
-    "risk_score": 9.76,
-    "count": 10,
-    "top_news": "http://www.parisguardian.com/news/279120773/pakistani-prime-minister-says-peace-deal-expected-within-24-hours",
+    "risk_score": 10.55,
+    "count": 12,
+    "top_news": "https://timesofindia.indiatimes.com/world/us/all-vessels-should-comply-with-orders-from-us-forces-in-hormuz-rubio-tells-jaishankar/articleshow/131706534.cms",
     "event_codes": {
-      "19": 7,
-      "17": 3
+      "19": 8,
+      "17": 3,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "279120773",
-      "pakistani",
-      "prime",
-      "minister",
-      "says",
-      "peace",
-      "deal",
-      "expected",
-      "within",
-      "hours"
+      "world",
+      "all",
+      "vessels",
+      "should",
+      "comply",
+      "with",
+      "orders",
+      "from",
+      "forces",
+      "hormuz",
+      "rubio",
+      "tells",
+      "jaishankar",
+      "articleshow",
+      "131706534.cms"
     ]
   },
   "ISR": {
-    "risk_score": 15.92,
-    "count": 16,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/06/13/israel-settlers-west-bank/",
-    "event_codes": {
-      "19": 15,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "israel",
-      "settlers",
-      "west",
-      "bank"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.35,
-    "count": 5,
-    "top_news": "http://www.parisguardian.com/news/279120773/pakistani-prime-minister-says-peace-deal-expected-within-24-hours",
+    "risk_score": 5.65,
+    "count": 7,
+    "top_news": "http://www.bignewsnetwork.com/news/279120896/deal-or-no-deal-nervous-wait-continues-amid-fragile-cease-fire",
     "event_codes": {
       "19": 4,
-      "16": 1
+      "17": 2,
+      "14": 1
     },
     "keywords": [
       "news",
-      "279120773",
-      "pakistani",
-      "prime",
-      "minister",
-      "says",
-      "peace",
+      "279120896",
       "deal",
-      "expected",
-      "within",
-      "hours"
+      "deal",
+      "nervous",
+      "wait",
+      "continues",
+      "amid",
+      "fragile",
+      "cease",
+      "fire"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/06/13/israel-settlers-west-bank/",
+  "KEN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.the-star.co.ke/news/2026-06-13-utumishi-founder-why-i-named-dormitory-after-my-daughter",
     "event_codes": {
-      "19": 2
+      "18": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "mena",
       "2026",
-      "israel",
-      "settlers",
-      "west",
-      "bank"
+      "utumishi",
+      "founder",
+      "why",
+      "named",
+      "dormitory",
+      "after",
+      "daughter"
+    ]
+  },
+  "LAO": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.macombdaily.com/2026/06/13/chai-vang-dies-wisconsin-murders-hunters/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "chai",
+      "vang",
+      "dies",
+      "wisconsin",
+      "murders",
+      "hunters"
     ]
   }
 }
