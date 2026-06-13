@@ -1,81 +1,65 @@
 {
+  "GUY": {
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://kaieteurnewsonline.com/2026/06/13/unlimited-benefits-for-former-presidents-third-go/",
+    "event_codes": {
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "unlimited",
+      "benefits",
+      "for",
+      "former",
+      "presidents",
+      "third"
+    ]
+  },
   "IRN": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://www.straitstimes.com/world/middle-east/us-and-iran-signal-a-peace-deal-is-close",
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.khaama.com/uae-agreed-to-release-10-billion-to-iran-in-exchange-for-halt-to-attacks-reports-say/",
     "event_codes": {
       "19": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "uae",
+      "agreed",
+      "release",
+      "billion",
+      "iran",
+      "exchange",
+      "for",
+      "halt",
+      "attacks",
+      "reports",
+      "say"
+    ]
+  },
+  "VEN": {
+    "risk_score": 6.3,
+    "count": 7,
+    "top_news": "https://www.straitstimes.com/world/trump-says-us-military-carried-out-a-strike-on-leader-of-tren-de-aragua",
+    "event_codes": {
+      "19": 4,
+      "18": 2,
       "17": 1
     },
     "keywords": [
       "world",
-      "middle",
-      "east",
-      "and",
-      "iran",
-      "signal",
-      "peace",
-      "deal",
-      "close"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.8,
-    "count": 17,
-    "top_news": "https://www.straitstimes.com/world/middle-east/us-and-iran-signal-a-peace-deal-is-close",
-    "event_codes": {
-      "19": 13,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "and",
-      "iran",
-      "signal",
-      "peace",
-      "deal",
-      "close"
-    ]
-  },
-  "LAO": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.redlandsdailyfacts.com/2026/06/12/international-fugitive-accused-of-oc-killing-and-botched-murder-for-hire-in-san-jose-brought-back-to-u-s/",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "international",
-      "fugitive",
-      "accused",
-      "killing",
-      "and",
-      "botched",
-      "murder",
-      "for",
-      "hire",
-      "san",
-      "jose",
-      "brought",
-      "back"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.68,
-    "count": 8,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=447806&fm=psp,tst",
-    "event_codes": {
-      "17": 4,
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "article.aspx"
+      "trump",
+      "says",
+      "military",
+      "carried",
+      "out",
+      "strike",
+      "leader",
+      "tren",
+      "aragua"
     ]
   }
 }
