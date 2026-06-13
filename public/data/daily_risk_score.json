@@ -1,110 +1,78 @@
 {
-  "EGY": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.aawsat.com/opinion/5283533-illusion-israel-rules-america",
+    "top_news": "https://www.jpost.com/middle-east/article-899092",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "5283533",
-      "illusion",
-      "israel",
-      "rules",
-      "america"
+      "middle",
+      "east",
+      "article",
+      "899092"
     ]
   },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "story",
-      "2612946",
-      "iran",
-      "peace",
-      "deal",
-      "looms",
-      "while",
-      "new",
-      "military",
-      "action",
-      "flares",
-      "near",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "ISR": {
-    "risk_score": 25.18,
-    "count": 33,
-    "top_news": "https://imemc.org/article/friday-israeli-colonizers-injure-four-one-seriously-near-ramallah/",
-    "event_codes": {
-      "17": 16,
-      "19": 8,
-      "18": 5,
-      "14": 4
-    },
-    "keywords": [
-      "article",
-      "friday",
-      "israeli",
-      "colonizers",
-      "injure",
-      "four",
-      "one",
-      "seriously",
-      "near",
-      "ramallah"
-    ]
-  },
-  "LBN": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
+    "top_news": "https://www.jpost.com/middle-east/article-899092",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "story",
-      "2612946",
-      "iran",
-      "peace",
-      "deal",
-      "looms",
-      "while",
-      "new",
-      "military",
-      "action",
-      "flares",
-      "near",
-      "strait",
-      "hormuz"
+      "middle",
+      "east",
+      "article",
+      "899092"
     ]
   },
-  "PSE": {
-    "risk_score": 21.14,
-    "count": 23,
-    "top_news": "https://imemc.org/article/israeli-invasions-and-abductions-in-the-west-bank/",
+  "ISR": {
+    "risk_score": 7.7,
+    "count": 8,
+    "top_news": "https://www.yahoo.com/news/politics/articles/rainbow-ties-charlie-kirk-sb1-100350279.html",
     "event_codes": {
-      "18": 11,
-      "19": 8,
-      "14": 2,
-      "17": 2
+      "19": 6,
+      "18": 2
     },
     "keywords": [
+      "news",
+      "politics",
+      "articles",
+      "rainbow",
+      "ties",
+      "charlie",
+      "kirk",
+      "sb1",
+      "100350279.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.5,
+    "count": 6,
+    "top_news": "https://www.jpost.com/middle-east/article-899092",
+    "event_codes": {
+      "17": 5,
+      "19": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
       "article",
-      "israeli",
-      "invasions",
-      "and",
-      "abductions",
-      "the",
-      "west",
-      "bank"
+      "899092"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/history/article-899058",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "history",
+      "article",
+      "899058"
     ]
   }
 }
