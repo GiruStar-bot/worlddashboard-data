@@ -1,78 +1,81 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.algemeiner.com/2026/06/12/ontario-court-orders-iran-pay-over-560-million-canadian-torture-survivor-landmark-judgment/",
+  "IRN": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.straitstimes.com/world/middle-east/us-and-iran-signal-a-peace-deal-is-close",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "ontario",
-      "court",
-      "orders",
-      "iran",
-      "pay",
-      "over",
-      "560",
-      "million",
-      "canadian",
-      "torture",
-      "survivor",
-      "landmark",
-      "judgment"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/flashes/687643",
-    "event_codes": {
-      "19": 3,
-      "16": 1,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "flashes",
-      "687643"
+      "world",
+      "middle",
+      "east",
+      "and",
+      "iran",
+      "signal",
+      "peace",
+      "deal",
+      "close"
     ]
   },
-  "NGA": {
-    "risk_score": 2.85,
-    "count": 4,
-    "top_news": "https://blueprint.ng/falana-falz-lead-protest-on-2026-democracy-day/",
+  "ISR": {
+    "risk_score": 15.8,
+    "count": 17,
+    "top_news": "https://www.straitstimes.com/world/middle-east/us-and-iran-signal-a-peace-deal-is-close",
     "event_codes": {
-      "14": 3,
-      "18": 1
+      "19": 13,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "falana",
-      "falz",
-      "lead",
-      "protest",
-      "2026",
-      "democracy",
-      "day"
+      "world",
+      "middle",
+      "east",
+      "and",
+      "iran",
+      "signal",
+      "peace",
+      "deal",
+      "close"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.algemeiner.com/2026/06/12/trump-called-erdogan-my-friend-turkeys-behavior-anything-but-friendly/",
+  "LAO": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.redlandsdailyfacts.com/2026/06/12/international-fugitive-accused-of-oc-killing-and-botched-murder-for-hire-in-san-jose-brought-back-to-u-s/",
     "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
       "2026",
-      "trump",
-      "called",
-      "erdogan",
-      "friend",
-      "turkeys",
-      "behavior",
-      "anything",
-      "but",
-      "friendly"
+      "international",
+      "fugitive",
+      "accused",
+      "killing",
+      "and",
+      "botched",
+      "murder",
+      "for",
+      "hire",
+      "san",
+      "jose",
+      "brought",
+      "back"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.68,
+    "count": 8,
+    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=447806&fm=psp,tst",
+    "event_codes": {
+      "17": 4,
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "article.aspx"
     ]
   }
 }
