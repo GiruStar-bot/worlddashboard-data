@@ -1,65 +1,110 @@
 {
-  "GUY": {
-    "risk_score": 3.4,
-    "count": 6,
-    "top_news": "https://kaieteurnewsonline.com/2026/06/13/unlimited-benefits-for-former-presidents-third-go/",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.aawsat.com/opinion/5283533-illusion-israel-rules-america",
     "event_codes": {
-      "17": 5,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "unlimited",
-      "benefits",
-      "for",
-      "former",
-      "presidents",
-      "third"
+      "opinion",
+      "5283533",
+      "illusion",
+      "israel",
+      "rules",
+      "america"
     ]
   },
   "IRN": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://www.khaama.com/uae-agreed-to-release-10-billion-to-iran-in-exchange-for-halt-to-attacks-reports-say/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
     "event_codes": {
-      "19": 2,
-      "14": 1,
-      "16": 1
+      "19": 3
     },
     "keywords": [
-      "uae",
-      "agreed",
-      "release",
-      "billion",
+      "story",
+      "2612946",
       "iran",
-      "exchange",
-      "for",
-      "halt",
-      "attacks",
-      "reports",
-      "say"
+      "peace",
+      "deal",
+      "looms",
+      "while",
+      "new",
+      "military",
+      "action",
+      "flares",
+      "near",
+      "strait",
+      "hormuz"
     ]
   },
-  "VEN": {
-    "risk_score": 6.3,
-    "count": 7,
-    "top_news": "https://www.straitstimes.com/world/trump-says-us-military-carried-out-a-strike-on-leader-of-tren-de-aragua",
+  "ISR": {
+    "risk_score": 25.18,
+    "count": 33,
+    "top_news": "https://imemc.org/article/friday-israeli-colonizers-injure-four-one-seriously-near-ramallah/",
     "event_codes": {
-      "19": 4,
-      "18": 2,
-      "17": 1
+      "17": 16,
+      "19": 8,
+      "18": 5,
+      "14": 4
     },
     "keywords": [
-      "world",
-      "trump",
-      "says",
+      "article",
+      "friday",
+      "israeli",
+      "colonizers",
+      "injure",
+      "four",
+      "one",
+      "seriously",
+      "near",
+      "ramallah"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://tribune.com.pk/story/2612946/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "story",
+      "2612946",
+      "iran",
+      "peace",
+      "deal",
+      "looms",
+      "while",
+      "new",
       "military",
-      "carried",
-      "out",
-      "strike",
-      "leader",
-      "tren",
-      "aragua"
+      "action",
+      "flares",
+      "near",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "PSE": {
+    "risk_score": 21.14,
+    "count": 23,
+    "top_news": "https://imemc.org/article/israeli-invasions-and-abductions-in-the-west-bank/",
+    "event_codes": {
+      "18": 11,
+      "19": 8,
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "invasions",
+      "and",
+      "abductions",
+      "the",
+      "west",
+      "bank"
     ]
   }
 }
