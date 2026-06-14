@@ -1,82 +1,100 @@
 {
   "IRN": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-899369",
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl02.htm",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "19": 4,
+      "18": 2
     },
     "keywords": [
-      "israel",
+      "military",
+      "library",
       "news",
-      "defense",
-      "news",
-      "article",
-      "899369"
+      "2026",
+      "mil",
+      "260613",
+      "rferl02.htm"
     ]
   },
   "ISR": {
-    "risk_score": 10.35,
-    "count": 11,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-899369",
+    "risk_score": 22.09,
+    "count": 23,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-presstv02.htm",
     "event_codes": {
-      "19": 8,
-      "18": 2,
-      "17": 1
+      "19": 17,
+      "16": 2,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "israel",
+      "military",
+      "library",
       "news",
-      "defense",
-      "news",
-      "article",
-      "899369"
+      "2026",
+      "mil",
+      "260613",
+      "presstv02.htm"
     ]
   },
-  "PSE": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-kills-6-palestinians-including-child-in-attacks-across-gaza/3966709",
+  "LBN": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://athens-times.com/middle-east-israeli-strikes-in-beirut-threaten-to-derail-us-iran-deal/",
     "event_codes": {
-      "19": 8
+      "18": 4,
+      "19": 1
     },
     "keywords": [
       "middle",
       "east",
       "israeli",
-      "army",
-      "kills",
-      "palestinians",
-      "including",
-      "child",
-      "attacks",
-      "across",
-      "gaza",
-      "3966709"
+      "strikes",
+      "beirut",
+      "threaten",
+      "derail",
+      "iran",
+      "deal"
     ]
   },
-  "TUR": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-kills-6-palestinians-including-child-in-attacks-across-gaza/3966709",
+  "NGA": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.thehindu.com/news/international/militants-kill-20-in-northwest-nigeria-near-niger-border-report/article71101988.ece",
     "event_codes": {
-      "18": 3
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "army",
-      "kills",
-      "palestinians",
-      "including",
-      "child",
-      "attacks",
-      "across",
-      "gaza",
-      "3966709"
+      "news",
+      "international",
+      "militants",
+      "kill",
+      "northwest",
+      "nigeria",
+      "near",
+      "niger",
+      "border",
+      "report",
+      "article71101988.ece"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.belfastlive.co.uk/news/disorder-stain-northern-irelands-reputation-34119288",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "disorder",
+      "stain",
+      "northern",
+      "irelands",
+      "reputation",
+      "34119288"
     ]
   }
 }
