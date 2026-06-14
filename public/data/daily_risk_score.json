@@ -1,100 +1,69 @@
 {
   "IRN": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl02.htm",
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-899373",
     "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260613",
-      "rferl02.htm"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.09,
-    "count": 23,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-presstv02.htm",
-    "event_codes": {
-      "19": 17,
-      "16": 2,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260613",
-      "presstv02.htm"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://athens-times.com/middle-east-israeli-strikes-in-beirut-threaten-to-derail-us-iran-deal/",
-    "event_codes": {
-      "18": 4,
-      "19": 1
+      "17": 3
     },
     "keywords": [
       "middle",
       "east",
+      "iran",
+      "news",
+      "article",
+      "899373"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://www.clevelandjewishnews.com/jns/amid-anti-israel-activism-in-us-educational-institutions-150-plus-christian-students-tour-jewish-state/article_52c5b55a-b438-5a3e-9e36-3ee35977f298.html",
+    "event_codes": {
+      "19": 6,
+      "17": 4
+    },
+    "keywords": [
+      "jns",
+      "amid",
+      "anti",
+      "israel",
+      "activism",
+      "educational",
+      "institutions",
+      "150",
+      "plus",
+      "christian",
+      "students",
+      "tour",
+      "jewish",
+      "state",
+      "article",
+      "52c5b55a",
+      "b438",
+      "5a3e",
+      "9e36",
+      "3ee35977f298.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://thefrontierpost.com/israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "israeli",
+      "military",
       "strikes",
       "beirut",
-      "threaten",
-      "derail",
+      "suburbs",
+      "the",
+      "lead",
+      "anticipated",
       "iran",
       "deal"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/international/militants-kill-20-in-northwest-nigeria-near-niger-border-report/article71101988.ece",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "militants",
-      "kill",
-      "northwest",
-      "nigeria",
-      "near",
-      "niger",
-      "border",
-      "report",
-      "article71101988.ece"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.belfastlive.co.uk/news/disorder-stain-northern-irelands-reputation-34119288",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "disorder",
-      "stain",
-      "northern",
-      "irelands",
-      "reputation",
-      "34119288"
     ]
   }
 }
