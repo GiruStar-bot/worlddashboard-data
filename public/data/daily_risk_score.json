@@ -1,92 +1,137 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://dailypioneer.com/news/india-flays-lethal-action-on-mariners",
+  "COL": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.sheknows.com/entertainment/slideshow/1234917222/controversial-celebrity-engagement-rings/",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "india",
-      "flays",
-      "lethal",
-      "action",
-      "mariners"
+      "entertainment",
+      "slideshow",
+      "1234917222",
+      "controversial",
+      "celebrity",
+      "engagement",
+      "rings"
     ]
   },
-  "IRQ": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 2.84,
     "count": 3,
-    "top_news": "https://newsbusters.org/blogs/nb/tim-graham/2008/05/31/spiked-pelosi-says-iranians-not-troops-make-surge-success",
+    "top_news": "https://www.cjme.com/2026/06/13/trump-and-pakistan-say-iran-deal-could-be-signed-sunday/",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "blogs",
-      "tim",
-      "graham",
-      "2008",
-      "spiked",
-      "pelosi",
-      "says",
-      "iranians",
-      "not",
-      "troops",
-      "make",
-      "surge",
-      "success"
+      "2026",
+      "trump",
+      "and",
+      "pakistan",
+      "say",
+      "iran",
+      "deal",
+      "could",
+      "signed",
+      "sunday"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://dailypioneer.com/news/india-flays-lethal-action-on-mariners",
+    "risk_score": 11.06,
+    "count": 13,
+    "top_news": "https://www.newsx.com/world/israeli-airstrike-in-gazas-khan-younis-kills-two-several-injured-including-child-234010/",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "17": 4,
+      "16": 2,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "india",
-      "flays",
-      "lethal",
-      "action",
-      "mariners"
+      "world",
+      "israeli",
+      "airstrike",
+      "gazas",
+      "khan",
+      "younis",
+      "kills",
+      "two",
+      "several",
+      "injured",
+      "including",
+      "child",
+      "234010"
     ]
   },
-  "ZWE": {
-    "risk_score": 5.45,
-    "count": 7,
-    "top_news": "https://thezimbabwemail.com/news/zimbabwe/politics/decoding-and-explaining-the-co-existence-between-nelson-chamisa-and-zanu-pf-in-the-zimbabwean-authoritarian-context-a-case-of-captured-popular-opposition-leadership/",
+  "NGA": {
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://www.opinionnigeria.com/boko-haram-iswap-militants-burn-schools-during-attack-on-chibok-community/",
     "event_codes": {
-      "17": 2,
       "18": 2,
       "19": 2,
       "14": 1
     },
     "keywords": [
-      "news",
-      "zimbabwe",
-      "politics",
-      "decoding",
-      "and",
-      "explaining",
-      "the",
-      "existence",
-      "between",
-      "nelson",
-      "chamisa",
-      "and",
-      "zanu",
-      "the",
-      "zimbabwean",
-      "authoritarian",
-      "context",
-      "case",
-      "captured",
-      "popular",
-      "opposition",
-      "leadership"
+      "boko",
+      "haram",
+      "iswap",
+      "militants",
+      "burn",
+      "schools",
+      "during",
+      "attack",
+      "chibok",
+      "community"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newsx.com/world/israeli-airstrike-in-gazas-khan-younis-kills-two-several-injured-including-child-234010/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "israeli",
+      "airstrike",
+      "gazas",
+      "khan",
+      "younis",
+      "kills",
+      "two",
+      "several",
+      "injured",
+      "including",
+      "child",
+      "234010"
+    ]
+  },
+  "VEN": {
+    "risk_score": 8.9,
+    "count": 11,
+    "top_news": "https://www.adn.com/nation-world/2026/06/13/us-strike-against-tren-de-aragua-leader-in-venezuela-exemplifies-trumps-approach-to-war-on-drugs/",
+    "event_codes": {
+      "19": 7,
+      "17": 4
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "2026",
+      "strike",
+      "against",
+      "tren",
+      "aragua",
+      "leader",
+      "venezuela",
+      "exemplifies",
+      "trumps",
+      "approach",
+      "war",
+      "drugs"
     ]
   }
 }
