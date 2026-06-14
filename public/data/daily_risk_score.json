@@ -1,69 +1,86 @@
 {
+  "IRN": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.abc.net.au/news/2026-06-15/pakistan-say-peace-deal-between-us-iran-reached/106735740",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "pakistan",
+      "say",
+      "peace",
+      "deal",
+      "between",
+      "iran",
+      "reached",
+      "106735740"
+    ]
+  },
   "ISR": {
-    "risk_score": 3.0,
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://redstate.com/wardclark/2026/06/14/major-blow-to-hezbollah-idf-eliminates-top-commander-n2203341",
+    "top_news": "https://www.dailymail.com/news/article-15899569/Trump-peace-deal-Iran-open-Strait-Hormuz-oil.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15899569",
+      "trump",
+      "peace",
+      "deal",
+      "iran",
+      "open",
+      "strait",
+      "hormuz",
+      "oil.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/world/articles/iran-proved-close-strait-hormuz-180456521.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "wardclark",
-      "2026",
-      "major",
-      "blow",
-      "hezbollah",
-      "idf",
-      "eliminates",
-      "top",
-      "commander",
-      "n2203341"
+      "news",
+      "world",
+      "articles",
+      "iran",
+      "proved",
+      "close",
+      "strait",
+      "hormuz",
+      "180456521.html"
     ]
   },
   "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://yalibnan.com/2026/06/14/trump-warned-israel-and-hezbollah-not-to-blow-the-peace-deal-with-iran-and-to-stop-fighting-in-lebanon/",
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-15899569/Trump-peace-deal-Iran-open-Strait-Hormuz-oil.html",
     "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "2026",
+      "news",
+      "article",
+      "15899569",
       "trump",
-      "warned",
-      "israel",
-      "and",
-      "hezbollah",
-      "not",
-      "blow",
-      "the",
       "peace",
       "deal",
-      "with",
       "iran",
-      "and",
-      "stop",
-      "fighting",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.2,
-    "count": 12,
-    "top_news": "https://pmnewsnigeria.com/2026/06/14/21-year-old-nabbed-over-employers-abduction-death/",
-    "event_codes": {
-      "18": 8,
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "year",
-      "old",
-      "nabbed",
-      "over",
-      "employers",
-      "abduction",
-      "death"
+      "open",
+      "strait",
+      "hormuz",
+      "oil.html"
     ]
   }
 }
