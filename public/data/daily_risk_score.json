@@ -1,69 +1,73 @@
 {
   "IRN": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-899373",
+    "risk_score": 4.12,
+    "count": 5,
+    "top_news": "https://www.hindustantimes.com/world-news/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beirut-s-outskirts-101781465484430.html",
     "event_codes": {
-      "17": 3
+      "19": 3,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
+      "world",
       "news",
-      "article",
-      "899373"
+      "iran",
+      "threatens",
+      "pull",
+      "out",
+      "talks",
+      "after",
+      "israel",
+      "strikes",
+      "beirut",
+      "outskirts",
+      "101781465484430.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.8,
-    "count": 10,
-    "top_news": "https://www.clevelandjewishnews.com/jns/amid-anti-israel-activism-in-us-educational-institutions-150-plus-christian-students-tour-jewish-state/article_52c5b55a-b438-5a3e-9e36-3ee35977f298.html",
+    "risk_score": 6.6,
+    "count": 11,
+    "top_news": "https://www.hindustantimes.com/world-news/iran-threatens-to-pull-out-of-talks-after-israel-strikes-beirut-s-outskirts-101781465484430.html",
     "event_codes": {
-      "19": 6,
-      "17": 4
-    },
-    "keywords": [
-      "jns",
-      "amid",
-      "anti",
-      "israel",
-      "activism",
-      "educational",
-      "institutions",
-      "150",
-      "plus",
-      "christian",
-      "students",
-      "tour",
-      "jewish",
-      "state",
-      "article",
-      "52c5b55a",
-      "b438",
-      "5a3e",
-      "9e36",
-      "3ee35977f298.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://thefrontierpost.com/israeli-military-strikes-beirut-suburbs-in-the-lead-up-to-anticipated-us-iran-deal/",
-    "event_codes": {
+      "16": 4,
+      "17": 4,
       "19": 3
     },
     "keywords": [
-      "israeli",
-      "military",
+      "world",
+      "news",
+      "iran",
+      "threatens",
+      "pull",
+      "out",
+      "talks",
+      "after",
+      "israel",
       "strikes",
       "beirut",
-      "suburbs",
-      "the",
-      "lead",
-      "anticipated",
-      "iran",
-      "deal"
+      "outskirts",
+      "101781465484430.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.3,
+    "count": 14,
+    "top_news": "https://theeagleonline.com.ng/2027-polls-wike-led-pdp-faction-inaugurates-new-exco-in-sokoto/",
+    "event_codes": {
+      "18": 10,
+      "17": 4
+    },
+    "keywords": [
+      "2027",
+      "polls",
+      "wike",
+      "led",
+      "pdp",
+      "faction",
+      "inaugurates",
+      "new",
+      "exco",
+      "sokoto"
     ]
   }
 }
