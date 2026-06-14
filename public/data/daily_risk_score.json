@@ -1,44 +1,82 @@
 {
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.bignewsnetwork.com/news/279122464/1st-ld-writethru-at-least-1-killed-in-israeli-strike-targeting-hezbollah-hq-in-beirut-southern-suburbs",
+  "IRN": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-899369",
     "event_codes": {
-      "19": 3
+      "18": 2,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
+      "israel",
       "news",
-      "279122464",
-      "1st",
-      "writethru",
-      "least",
-      "killed",
-      "israeli",
-      "strike",
-      "targeting",
-      "hezbollah",
-      "beirut",
-      "southern",
-      "suburbs"
+      "defense",
+      "news",
+      "article",
+      "899369"
     ]
   },
-  "NGA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://dailypost.ng/2026/06/14/world-must-not-forget-christian-genocide-in-nigeria-us-congressman/",
+  "ISR": {
+    "risk_score": 10.35,
+    "count": 11,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-899369",
     "event_codes": {
-      "19": 5
+      "19": 8,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "world",
-      "must",
-      "not",
-      "forget",
-      "christian",
-      "genocide",
-      "nigeria",
-      "congressman"
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "899369"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-kills-6-palestinians-including-child-in-attacks-across-gaza/3966709",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "kills",
+      "palestinians",
+      "including",
+      "child",
+      "attacks",
+      "across",
+      "gaza",
+      "3966709"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-kills-6-palestinians-including-child-in-attacks-across-gaza/3966709",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "kills",
+      "palestinians",
+      "including",
+      "child",
+      "attacks",
+      "across",
+      "gaza",
+      "3966709"
     ]
   }
 }
