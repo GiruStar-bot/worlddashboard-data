@@ -1,64 +1,75 @@
 {
-  "ISR": {
-    "risk_score": 8.32,
-    "count": 11,
-    "top_news": "https://nypost.com/2026/06/15/world-news/14-arrested-as-anti-israel-protesters-picket-synagogue-in-london/",
+  "BOL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.kyivpost.com/post/78240",
     "event_codes": {
-      "17": 6,
-      "14": 2,
-      "16": 1,
-      "18": 1,
+      "19": 2
+    },
+    "keywords": [
+      "post",
+      "78240"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/us/articles/watchdog-says-too-few-us-192218425.html",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "watchdog",
+      "says",
+      "too",
+      "few",
+      "192218425.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.55,
+    "count": 3,
+    "top_news": "https://www.dailysabah.com/world/mid-east/netanyahu-vows-to-stay-in-lebanon-syria-gaza-after-us-iran-deal",
+    "event_codes": {
+      "14": 1,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "2026",
       "world",
-      "news",
-      "arrested",
-      "anti",
-      "israel",
-      "protesters",
-      "picket",
-      "synagogue",
-      "london"
-    ]
-  },
-  "NER": {
-    "risk_score": 4.5,
-    "count": 9,
-    "top_news": "https://www.lgbtqnation.com/2026/06/military-junta-in-niger-bans-homosexuality-with-5-to-10-years-in/",
-    "event_codes": {
-      "17": 9
-    },
-    "keywords": [
-      "2026",
-      "military",
-      "junta",
-      "niger",
-      "bans",
-      "homosexuality",
-      "with",
-      "years"
+      "mid",
+      "east",
+      "netanyahu",
+      "vows",
+      "stay",
+      "lebanon",
+      "syria",
+      "gaza",
+      "after",
+      "iran",
+      "deal"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://thesun.ng/fg-resumes-mass-terrorism-trials-with-over-600-suspects-arraigned-in-abuja/",
+    "risk_score": 6.42,
+    "count": 9,
+    "top_news": "https://pmnewsnigeria.com/2026/06/15/insecurity-nigerians-need-action-not-more-condolences/",
     "event_codes": {
-      "17": 4
+      "17": 6,
+      "19": 3
     },
     "keywords": [
-      "resumes",
-      "mass",
-      "terrorism",
-      "trials",
-      "with",
-      "over",
-      "600",
-      "suspects",
-      "arraigned",
-      "abuja"
+      "2026",
+      "insecurity",
+      "nigerians",
+      "need",
+      "action",
+      "not",
+      "more",
+      "condolences"
     ]
   }
 }
