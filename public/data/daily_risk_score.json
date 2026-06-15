@@ -1,50 +1,64 @@
 {
   "ISR": {
-    "risk_score": 8.8,
-    "count": 14,
-    "top_news": "https://www.middleeasteye.net/news/pressure-mounts-suspend-israeli-medical-association-global-body",
+    "risk_score": 8.32,
+    "count": 11,
+    "top_news": "https://nypost.com/2026/06/15/world-news/14-arrested-as-anti-israel-protesters-picket-synagogue-in-london/",
     "event_codes": {
-      "17": 8,
-      "19": 4,
-      "16": 2
+      "17": 6,
+      "14": 2,
+      "16": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
+      "2026",
+      "world",
       "news",
-      "pressure",
-      "mounts",
-      "suspend",
-      "israeli",
-      "medical",
-      "association",
-      "global",
-      "body"
+      "arrested",
+      "anti",
+      "israel",
+      "protesters",
+      "picket",
+      "synagogue",
+      "london"
     ]
   },
-  "SDN": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://www.castanetkamloops.net/news/World/619728/Drone-strikes-killed-over-1-000-civilians-in-Sudan-in-5-months-UN-rights-chief-says",
+  "NER": {
+    "risk_score": 4.5,
+    "count": 9,
+    "top_news": "https://www.lgbtqnation.com/2026/06/military-junta-in-niger-bans-homosexuality-with-5-to-10-years-in/",
     "event_codes": {
-      "16": 3,
-      "19": 2,
-      "17": 1,
-      "20": 1
+      "17": 9
     },
     "keywords": [
-      "news",
-      "world",
-      "619728",
-      "drone",
-      "strikes",
-      "killed",
+      "2026",
+      "military",
+      "junta",
+      "niger",
+      "bans",
+      "homosexuality",
+      "with",
+      "years"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://thesun.ng/fg-resumes-mass-terrorism-trials-with-over-600-suspects-arraigned-in-abuja/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "resumes",
+      "mass",
+      "terrorism",
+      "trials",
+      "with",
       "over",
-      "000",
-      "civilians",
-      "sudan",
-      "months",
-      "rights",
-      "chief",
-      "says"
+      "600",
+      "suspects",
+      "arraigned",
+      "abuja"
     ]
   }
 }
