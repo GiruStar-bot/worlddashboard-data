@@ -1,75 +1,61 @@
 {
-  "BOL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.kyivpost.com/post/78240",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "post",
-      "78240"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/us/articles/watchdog-says-too-few-us-192218425.html",
+    "risk_score": 3.72,
+    "count": 5,
+    "top_news": "https://www.alternet.org/one-of/",
     "event_codes": {
+      "16": 2,
       "19": 2,
-      "14": 1
+      "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "watchdog",
-      "says",
-      "too",
-      "few",
-      "192218425.html"
+      "one"
     ]
   },
   "ISR": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/world/mid-east/netanyahu-vows-to-stay-in-lebanon-syria-gaza-after-us-iran-deal",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.latimes.com/politics/story/2026-06-15/vague-iran-deal-leaves-more-questions-than-answers",
     "event_codes": {
-      "14": 1,
+      "19": 3,
       "17": 1,
-      "19": 1
+      "18": 1
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
-      "netanyahu",
-      "vows",
-      "stay",
-      "lebanon",
-      "syria",
-      "gaza",
-      "after",
+      "politics",
+      "story",
+      "2026",
+      "vague",
       "iran",
-      "deal"
+      "deal",
+      "leaves",
+      "more",
+      "questions",
+      "than",
+      "answers"
     ]
   },
-  "NGA": {
-    "risk_score": 6.42,
-    "count": 9,
-    "top_news": "https://pmnewsnigeria.com/2026/06/15/insecurity-nigerians-need-action-not-more-condolences/",
+  "SYR": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://nypost.com/2026/06/15/world-news/syria-lebanon-fed-up-with-hezbollah-more-favorable-to-israel-polls/",
     "event_codes": {
-      "17": 6,
-      "19": 3
+      "17": 4,
+      "18": 2
     },
     "keywords": [
       "2026",
-      "insecurity",
-      "nigerians",
-      "need",
-      "action",
-      "not",
+      "world",
+      "news",
+      "syria",
+      "lebanon",
+      "fed",
+      "with",
+      "hezbollah",
       "more",
-      "condolences"
+      "favorable",
+      "israel",
+      "polls"
     ]
   }
 }
