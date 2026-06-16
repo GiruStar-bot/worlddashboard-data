@@ -1,61 +1,77 @@
 {
-  "IRN": {
-    "risk_score": 3.72,
-    "count": 5,
-    "top_news": "https://www.alternet.org/one-of/",
+  "BRA": {
+    "risk_score": 5.0,
+    "count": 10,
+    "top_news": "https://nypost.com/2026/06/15/world-news/english-teen-gives-hilarious-live-tv-response-to-uks-new-social-media-ban/",
     "event_codes": {
-      "16": 2,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "one"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.latimes.com/politics/story/2026-06-15/vague-iran-deal-leaves-more-questions-than-answers",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "politics",
-      "story",
-      "2026",
-      "vague",
-      "iran",
-      "deal",
-      "leaves",
-      "more",
-      "questions",
-      "than",
-      "answers"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.9,
-    "count": 6,
-    "top_news": "https://nypost.com/2026/06/15/world-news/syria-lebanon-fed-up-with-hezbollah-more-favorable-to-israel-polls/",
-    "event_codes": {
-      "17": 4,
-      "18": 2
+      "17": 10
     },
     "keywords": [
       "2026",
       "world",
       "news",
-      "syria",
-      "lebanon",
-      "fed",
-      "with",
-      "hezbollah",
-      "more",
-      "favorable",
-      "israel",
-      "polls"
+      "english",
+      "teen",
+      "gives",
+      "hilarious",
+      "live",
+      "response",
+      "uks",
+      "new",
+      "social",
+      "media",
+      "ban"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://nypost.com/2026/06/15/world-news/english-teen-gives-hilarious-live-tv-response-to-uks-new-social-media-ban/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "english",
+      "teen",
+      "gives",
+      "hilarious",
+      "live",
+      "response",
+      "uks",
+      "new",
+      "social",
+      "media",
+      "ban"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.maravipost.com/hra-chairman-saad-kassis-mohamed-calls-on-southafrica-to-prosecute-vigilante-groups-responsible-for-xenophobic-attacks-targeting-african-foreignnationals/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "hra",
+      "chairman",
+      "saad",
+      "kassis",
+      "mohamed",
+      "calls",
+      "southafrica",
+      "prosecute",
+      "vigilante",
+      "groups",
+      "responsible",
+      "for",
+      "xenophobic",
+      "attacks",
+      "targeting",
+      "african",
+      "foreignnationals"
     ]
   }
 }
