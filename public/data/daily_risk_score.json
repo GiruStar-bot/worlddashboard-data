@@ -1,64 +1,94 @@
 {
-  "BOL": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://www.lbc.co.uk/article/russia-warship-english-channel-british-yacht-statement-5HjdbgB_2/",
+  "BRA": {
+    "risk_score": 2.8,
+    "count": 5,
+    "top_news": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "17": 4,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "russia",
-      "warship",
-      "english",
-      "channel",
-      "british",
-      "yacht",
-      "statement",
-      "5hjdbgb"
-    ]
-  },
-  "IDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.terradaily.com/afp/260616154052.n43n6bo8.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "afp",
-      "260616154052.n43n6bo8.html"
+      "world",
+      "2026",
+      "jun",
+      "brazilian",
+      "court",
+      "convicts",
+      "eduardo",
+      "bolsonaro",
+      "help",
+      "father",
+      "jair"
     ]
   },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theblaze.com/shows/the-glenn-beck-program/glenn-beck-presses-jd-vance-on-iran-deal-no-support-for-proxies-end-of-the-missile-program-and-no-nukes",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://balochwarna.com/2026/06/iran-executes-six-baloch-prisoners-in-three-days/",
     "event_codes": {
-      "18": 3
+      "18": 2
     },
     "keywords": [
-      "shows",
-      "the",
-      "glenn",
-      "beck",
-      "program",
-      "glenn",
-      "beck",
-      "presses",
-      "vance",
+      "2026",
       "iran",
-      "deal",
-      "support",
-      "for",
-      "proxies",
-      "end",
-      "the",
-      "missile",
-      "program",
-      "and",
-      "nukes"
+      "executes",
+      "six",
+      "baloch",
+      "prisoners",
+      "three",
+      "days"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.96,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/171772",
+    "event_codes": {
+      "15": 3,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "171772"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.75,
+    "count": 9,
+    "top_news": "https://saharareporters.com/2026/06/16/makinde-confirms-death-army-lieutenant-oyo-rescue-operation-says-if-people-have-be",
+    "event_codes": {
+      "19": 4,
+      "14": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "makinde",
+      "confirms",
+      "death",
+      "army",
+      "lieutenant",
+      "oyo",
+      "rescue",
+      "operation",
+      "says",
+      "people",
+      "have"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.wafa.ps/Pages/Details/171772",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "171772"
     ]
   }
 }
