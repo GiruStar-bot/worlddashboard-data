@@ -1,82 +1,81 @@
 {
-  "BOL": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://english.pravda.ru/news/world/167060-lukashenko-putin-kyiv-withdrawal/",
-    "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "167060",
-      "lukashenko",
-      "putin",
-      "kyiv",
-      "withdrawal"
-    ]
-  },
-  "IRN": {
-    "risk_score": 19.67,
-    "count": 26,
-    "top_news": "https://news.az/news/multiple-executions-and-arrests-reported-across-iran-amid-ongoing-judicial-cases",
-    "event_codes": {
-      "17": 12,
-      "19": 11,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "multiple",
-      "executions",
-      "and",
-      "arrests",
-      "reported",
-      "across",
-      "iran",
-      "amid",
-      "ongoing",
-      "judicial",
-      "cases"
-    ]
-  },
   "ISR": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.lbc.co.uk/article/us-iran-deal-israel-5Hjdbdp_2/",
+    "risk_score": 7.76,
+    "count": 8,
+    "top_news": "https://www.arabnews.com/node/2647442/middle-east",
     "event_codes": {
+      "19": 4,
       "17": 3,
-      "19": 3
-    },
-    "keywords": [
-      "article",
-      "iran",
-      "deal",
-      "israel",
-      "5hjdbdp"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.4,
-    "count": 17,
-    "top_news": "https://punchng.com/police-confirm-three-security-operatives-killed-in-nipss-gunmen-attack/",
-    "event_codes": {
-      "17": 9,
-      "19": 7,
       "18": 1
     },
     "keywords": [
-      "police",
-      "confirm",
-      "three",
-      "security",
-      "operatives",
-      "killed",
-      "nipss",
-      "gunmen",
-      "attack"
+      "node",
+      "2647442",
+      "middle",
+      "east"
+    ]
+  },
+  "LBN": {
+    "risk_score": 9.16,
+    "count": 11,
+    "top_news": "https://www.arabnews.com/node/2647442/middle-east",
+    "event_codes": {
+      "18": 4,
+      "17": 3,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2647442",
+      "middle",
+      "east"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.rollingstone.com/tv-movies/tv-movie-news/sean-penn-bradley-cooper-jan-6-cop-biopic-1235578583/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "movies",
+      "movie",
+      "news",
+      "sean",
+      "penn",
+      "bradley",
+      "cooper",
+      "jan",
+      "cop",
+      "biopic",
+      "1235578583"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://www.eurasiareview.com/16062026-redirecting-crypto-exchanges-to-fight-rather-than-facilitate-crypto-scams-in-southeast-asia-analysis/",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "16062026",
+      "redirecting",
+      "crypto",
+      "exchanges",
+      "fight",
+      "rather",
+      "than",
+      "facilitate",
+      "crypto",
+      "scams",
+      "southeast",
+      "asia",
+      "analysis"
     ]
   }
 }
