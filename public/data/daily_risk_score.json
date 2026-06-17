@@ -1,48 +1,41 @@
 {
-  "BRA": {
-    "risk_score": 5.0,
-    "count": 8,
-    "top_news": "https://www.bbc.co.uk/news/articles/cgl3x0pey9lo",
+  "MOZ": {
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202606170014.html",
     "event_codes": {
-      "17": 6,
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "stories",
+      "202606170014.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://dailypost.ng/2026/06/17/nigerian-army-rescues-four-kidnap-victims-in-operation-targeting-notorious-bandit-leader-kachalla-muhammadu-fulani/",
+    "event_codes": {
+      "17": 5,
       "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "cgl3x0pey9lo"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.israelnationalnews.com/news/428750",
-    "event_codes": {
-      "20": 2
-    },
-    "keywords": [
-      "news",
-      "428750"
-    ]
-  },
-  "MMR": {
-    "risk_score": 4.92,
-    "count": 5,
-    "top_news": "https://www.bnionline.net/en/news/civilians-killed-under-military-juntas-100-day-plan",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "civilians",
-      "killed",
-      "under",
-      "military",
-      "juntas",
-      "100",
-      "day",
-      "plan"
+      "2026",
+      "nigerian",
+      "army",
+      "rescues",
+      "four",
+      "kidnap",
+      "victims",
+      "operation",
+      "targeting",
+      "notorious",
+      "bandit",
+      "leader",
+      "kachalla",
+      "muhammadu",
+      "fulani"
     ]
   }
 }
