@@ -1,102 +1,48 @@
 {
   "BRA": {
-    "risk_score": 8.6,
-    "count": 16,
-    "top_news": "https://www.northerndailyleader.com.au/story/9293658/brazilian-court-convicts-son-of-ex-president-bolsonaro/",
-    "event_codes": {
-      "17": 14,
-      "16": 2
-    },
-    "keywords": [
-      "story",
-      "9293658",
-      "brazilian",
-      "court",
-      "convicts",
-      "son",
-      "president",
-      "bolsonaro"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.22,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/b1fagejgme",
-    "event_codes": {
-      "19": 3,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "article",
-      "b1fagejgme"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.2,
-    "count": 11,
-    "top_news": "https://www.ynetnews.com/article/b1fagejgme",
-    "event_codes": {
-      "19": 8,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "article",
-      "b1fagejgme"
-    ]
-  },
-  "LBN": {
     "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/hk33bxjfgx",
+    "count": 8,
+    "top_news": "https://www.bbc.co.uk/news/articles/cgl3x0pey9lo",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "article",
-      "hk33bxjfgx"
-    ]
-  },
-  "PER": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.hometownstations.com/news/allen_county/allen-county-grand-jury-indicts-lima-man-in-2022-homicide-case/article_2df5db10-224c-4fc2-86eb-2392929748da.html",
-    "event_codes": {
-      "17": 4
+      "17": 6,
+      "19": 2
     },
     "keywords": [
       "news",
-      "allen",
-      "county",
-      "allen",
-      "county",
-      "grand",
-      "jury",
-      "indicts",
-      "lima",
-      "man",
-      "2022",
-      "homicide",
-      "case",
-      "article",
-      "2df5db10",
-      "224c",
-      "4fc2",
-      "86eb",
-      "2392929748da.html"
+      "articles",
+      "cgl3x0pey9lo"
     ]
   },
-  "SYR": {
-    "risk_score": 3.85,
-    "count": 4,
-    "top_news": "https://www.ynetnews.com/article/hk33bxjfgx",
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.israelnationalnews.com/news/428750",
     "event_codes": {
-      "19": 4
+      "20": 2
     },
     "keywords": [
-      "article",
-      "hk33bxjfgx"
+      "news",
+      "428750"
+    ]
+  },
+  "MMR": {
+    "risk_score": 4.92,
+    "count": 5,
+    "top_news": "https://www.bnionline.net/en/news/civilians-killed-under-military-juntas-100-day-plan",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "civilians",
+      "killed",
+      "under",
+      "military",
+      "juntas",
+      "100",
+      "day",
+      "plan"
     ]
   }
 }
