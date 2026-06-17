@@ -1,45 +1,56 @@
 {
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://localnews8.com/news/national-world/cnn-national/2026/06/17/does-trumps-understanding-with-iran-count-as-a-deal/",
+  "ISR": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.universityworldnews.com/post.php?story=20260617185507827",
     "event_codes": {
-      "19": 5
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "national",
-      "2026",
-      "does",
-      "trumps",
-      "understanding",
-      "with",
-      "iran",
-      "count",
-      "deal"
+      "post.php"
     ]
   },
-  "NGA": {
-    "risk_score": 22.7,
-    "count": 24,
-    "top_news": "https://www.christiandaily.com/news/herdsmen-kill-four-christians-in-plateau-state-nigeria",
+  "PER": {
+    "risk_score": 4.42,
+    "count": 5,
+    "top_news": "https://www.atlanticcouncil.org/dispatches/a-razor-thin-victory-a-divided-nation-what-awaits-perus-next-president/",
     "event_codes": {
-      "19": 16,
-      "18": 7,
-      "16": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "herdsmen",
-      "kill",
-      "four",
-      "christians",
-      "plateau",
-      "state",
-      "nigeria"
+      "dispatches",
+      "razor",
+      "thin",
+      "victory",
+      "divided",
+      "nation",
+      "what",
+      "awaits",
+      "perus",
+      "next",
+      "president"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.mcall.com/2026/06/17/bethlehem-township-man-sentenced-to-life-for-murdering-wife/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "bethlehem",
+      "township",
+      "man",
+      "sentenced",
+      "life",
+      "for",
+      "murdering",
+      "wife"
     ]
   }
 }
