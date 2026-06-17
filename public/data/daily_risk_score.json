@@ -1,114 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 23.19,
-    "count": 27,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260616-presstv05.htm",
+  "BRA": {
+    "risk_score": 3.3,
+    "count": 6,
+    "top_news": "https://latinamericanpost.com/analysis-en/brazils-bolsonaro-family-learns-washington-is-no-supreme-escape-hatch/",
     "event_codes": {
-      "19": 17,
-      "17": 6,
-      "15": 2,
-      "18": 2
+      "17": 5,
+      "16": 1
     },
     "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260616",
-      "presstv05.htm"
+      "analysis",
+      "brazils",
+      "bolsonaro",
+      "family",
+      "learns",
+      "washington",
+      "supreme",
+      "escape",
+      "hatch"
     ]
   },
-  "ISR": {
-    "risk_score": 16.91,
-    "count": 20,
-    "top_news": "https://www.arabnews.com/node/2647584/middle-east",
-    "event_codes": {
-      "19": 11,
-      "14": 3,
-      "15": 3,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "node",
-      "2647584",
-      "middle",
-      "east"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.eastbaytimes.com/2026/06/17/caregiver-arrested-in-marina-for-alleged-murder-of-87-year-old-patient/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "caregiver",
-      "arrested",
-      "marina",
-      "for",
-      "alleged",
-      "murder",
-      "year",
-      "old",
-      "patient"
-    ]
-  },
-  "LBN": {
-    "risk_score": 8.62,
-    "count": 10,
-    "top_news": "https://coastaldigest.com/will-drop-bombs-on-their-head-if-i-dont-like-agreement-trump-on-iran/",
-    "event_codes": {
-      "19": 7,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "will",
-      "drop",
-      "bombs",
-      "their",
-      "head",
-      "dont",
-      "like",
-      "agreement",
-      "trump",
-      "iran"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.87,
+  "EGY": {
+    "risk_score": 3.5,
     "count": 5,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260616-oic01.htm",
+    "top_news": "https://www.ynetnews.com/article/hylfzeemzx",
     "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260616",
-      "oic01.htm"
-    ]
-  },
-  "SDN": {
-    "risk_score": 5.8,
-    "count": 8,
-    "top_news": "https://www.arabnews.com/node/2647555",
-    "event_codes": {
-      "17": 4,
-      "18": 2,
+      "17": 3,
       "19": 2
     },
     "keywords": [
-      "node",
-      "2647555"
+      "article",
+      "hylfzeemzx"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.3,
+    "count": 8,
+    "top_news": "https://www.harrowtimes.co.uk/news/national/26204870.trump-launches-fresh-broadside-uk-refusing-drawn-iran-war/",
+    "event_codes": {
+      "19": 5,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "26204870.trump",
+      "launches",
+      "fresh",
+      "broadside",
+      "refusing",
+      "drawn",
+      "iran",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.8,
+    "count": 23,
+    "top_news": "https://www.harrowtimes.co.uk/news/national/26204870.trump-launches-fresh-broadside-uk-refusing-drawn-iran-war/",
+    "event_codes": {
+      "14": 9,
+      "17": 7,
+      "19": 5,
+      "20": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "26204870.trump",
+      "launches",
+      "fresh",
+      "broadside",
+      "refusing",
+      "drawn",
+      "iran",
+      "war"
     ]
   }
 }
