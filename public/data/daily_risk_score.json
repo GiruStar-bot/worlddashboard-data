@@ -1,94 +1,102 @@
 {
   "BRA": {
-    "risk_score": 2.8,
-    "count": 5,
-    "top_news": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
+    "risk_score": 8.6,
+    "count": 16,
+    "top_news": "https://www.northerndailyleader.com.au/story/9293658/brazilian-court-convicts-son-of-ex-president-bolsonaro/",
     "event_codes": {
-      "17": 4,
-      "16": 1
+      "17": 14,
+      "16": 2
     },
     "keywords": [
-      "world",
-      "2026",
-      "jun",
+      "story",
+      "9293658",
       "brazilian",
       "court",
       "convicts",
-      "eduardo",
-      "bolsonaro",
-      "help",
-      "father",
-      "jair"
+      "son",
+      "president",
+      "bolsonaro"
     ]
   },
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://balochwarna.com/2026/06/iran-executes-six-baloch-prisoners-in-three-days/",
+    "risk_score": 4.22,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/b1fagejgme",
     "event_codes": {
-      "18": 2
+      "19": 3,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "executes",
-      "six",
-      "baloch",
-      "prisoners",
-      "three",
-      "days"
+      "article",
+      "b1fagejgme"
     ]
   },
   "ISR": {
-    "risk_score": 5.96,
-    "count": 7,
-    "top_news": "https://english.wafa.ps/Pages/Details/171772",
+    "risk_score": 10.2,
+    "count": 11,
+    "top_news": "https://www.ynetnews.com/article/b1fagejgme",
     "event_codes": {
-      "15": 3,
+      "19": 8,
       "18": 2,
-      "19": 2
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "171772"
+      "article",
+      "b1fagejgme"
     ]
   },
-  "NGA": {
-    "risk_score": 7.75,
-    "count": 9,
-    "top_news": "https://saharareporters.com/2026/06/16/makinde-confirms-death-army-lieutenant-oyo-rescue-operation-says-if-people-have-be",
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/hk33bxjfgx",
     "event_codes": {
-      "19": 4,
-      "14": 3,
-      "18": 2
+      "19": 5
     },
     "keywords": [
-      "2026",
-      "makinde",
-      "confirms",
-      "death",
-      "army",
-      "lieutenant",
-      "oyo",
-      "rescue",
-      "operation",
-      "says",
-      "people",
-      "have"
+      "article",
+      "hk33bxjfgx"
     ]
   },
-  "PSE": {
+  "PER": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.wafa.ps/Pages/Details/171772",
+    "count": 4,
+    "top_news": "https://www.hometownstations.com/news/allen_county/allen-county-grand-jury-indicts-lima-man-in-2022-homicide-case/article_2df5db10-224c-4fc2-86eb-2392929748da.html",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
-      "pages",
-      "details",
-      "171772"
+      "news",
+      "allen",
+      "county",
+      "allen",
+      "county",
+      "grand",
+      "jury",
+      "indicts",
+      "lima",
+      "man",
+      "2022",
+      "homicide",
+      "case",
+      "article",
+      "2df5db10",
+      "224c",
+      "4fc2",
+      "86eb",
+      "2392929748da.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/hk33bxjfgx",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "hk33bxjfgx"
     ]
   }
 }
