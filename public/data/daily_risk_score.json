@@ -1,80 +1,45 @@
 {
-  "BRA": {
-    "risk_score": 3.3,
-    "count": 6,
-    "top_news": "https://latinamericanpost.com/analysis-en/brazils-bolsonaro-family-learns-washington-is-no-supreme-escape-hatch/",
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://localnews8.com/news/national-world/cnn-national/2026/06/17/does-trumps-understanding-with-iran-count-as-a-deal/",
     "event_codes": {
-      "17": 5,
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "national",
+      "2026",
+      "does",
+      "trumps",
+      "understanding",
+      "with",
+      "iran",
+      "count",
+      "deal"
+    ]
+  },
+  "NGA": {
+    "risk_score": 22.7,
+    "count": 24,
+    "top_news": "https://www.christiandaily.com/news/herdsmen-kill-four-christians-in-plateau-state-nigeria",
+    "event_codes": {
+      "19": 16,
+      "18": 7,
       "16": 1
     },
     "keywords": [
-      "analysis",
-      "brazils",
-      "bolsonaro",
-      "family",
-      "learns",
-      "washington",
-      "supreme",
-      "escape",
-      "hatch"
-    ]
-  },
-  "EGY": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/hylfzeemzx",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "hylfzeemzx"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "https://www.harrowtimes.co.uk/news/national/26204870.trump-launches-fresh-broadside-uk-refusing-drawn-iran-war/",
-    "event_codes": {
-      "19": 5,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
       "news",
-      "national",
-      "26204870.trump",
-      "launches",
-      "fresh",
-      "broadside",
-      "refusing",
-      "drawn",
-      "iran",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.8,
-    "count": 23,
-    "top_news": "https://www.harrowtimes.co.uk/news/national/26204870.trump-launches-fresh-broadside-uk-refusing-drawn-iran-war/",
-    "event_codes": {
-      "14": 9,
-      "17": 7,
-      "19": 5,
-      "20": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "26204870.trump",
-      "launches",
-      "fresh",
-      "broadside",
-      "refusing",
-      "drawn",
-      "iran",
-      "war"
+      "herdsmen",
+      "kill",
+      "four",
+      "christians",
+      "plateau",
+      "state",
+      "nigeria"
     ]
   }
 }
