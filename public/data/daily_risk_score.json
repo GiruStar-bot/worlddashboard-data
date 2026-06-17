@@ -1,41 +1,89 @@
 {
-  "MOZ": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://allafrica.com/stories/202606170014.html",
+  "IRN": {
+    "risk_score": 10.05,
+    "count": 13,
+    "top_news": "https://www.al-monitor.com/originals/2026/06/trump-says-deal-not-final-warns-iran-behave-or-face-renewed-strikes",
     "event_codes": {
-      "14": 2,
-      "17": 2
+      "19": 7,
+      "17": 4,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
-      "stories",
-      "202606170014.html"
+      "originals",
+      "2026",
+      "trump",
+      "says",
+      "deal",
+      "not",
+      "final",
+      "warns",
+      "iran",
+      "behave",
+      "face",
+      "renewed",
+      "strikes"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.7,
+    "count": 7,
+    "top_news": "https://www.al-monitor.com/originals/2026/06/south-lebanon-village-mourns-dead-new-war-israel",
+    "event_codes": {
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "south",
+      "lebanon",
+      "village",
+      "mourns",
+      "dead",
+      "new",
+      "war",
+      "israel"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://www.gatestoneinstitute.org/22594/iran-proxies-burning-down-middle-east",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "22594",
+      "iran",
+      "proxies",
+      "burning",
+      "down",
+      "middle",
+      "east"
     ]
   },
   "NGA": {
-    "risk_score": 4.5,
-    "count": 7,
-    "top_news": "https://dailypost.ng/2026/06/17/nigerian-army-rescues-four-kidnap-victims-in-operation-targeting-notorious-bandit-leader-kachalla-muhammadu-fulani/",
+    "risk_score": 7.47,
+    "count": 9,
+    "top_news": "https://leadership.ng/troops-rescue-7-kidnapped-farmers-recover-motorcycles-from-bandits-in-sokoto/",
     "event_codes": {
-      "17": 5,
-      "19": 2
+      "18": 3,
+      "19": 3,
+      "17": 2,
+      "15": 1
     },
     "keywords": [
-      "2026",
-      "nigerian",
-      "army",
-      "rescues",
-      "four",
-      "kidnap",
-      "victims",
-      "operation",
-      "targeting",
-      "notorious",
-      "bandit",
-      "leader",
-      "kachalla",
-      "muhammadu",
-      "fulani"
+      "troops",
+      "rescue",
+      "kidnapped",
+      "farmers",
+      "recover",
+      "motorcycles",
+      "from",
+      "bandits",
+      "sokoto"
     ]
   }
 }
