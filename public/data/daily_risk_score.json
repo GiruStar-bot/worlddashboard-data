@@ -1,119 +1,103 @@
 {
-  "BOL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.politico.eu/article/poland-detains-suspect-russia-vladimir-putin-critic-murder-case/",
+  "IRN": {
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/jun/18/donald-trump-ceasefire-deal-victory-iran-sanctions-tehran-us",
     "event_codes": {
-      "19": 2
+      "18": 4,
+      "19": 4,
+      "16": 2
     },
     "keywords": [
-      "article",
-      "poland",
-      "detains",
-      "suspect",
-      "russia",
-      "vladimir",
-      "putin",
-      "critic",
-      "murder",
-      "case"
-    ]
-  },
-  "COL": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.straitstimes.com/world/philosopher-senator-exile-social-reformer-cepeda-seeks-colombias-presidency",
-    "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "philosopher",
-      "senator",
-      "exile",
-      "social",
-      "reformer",
-      "cepeda",
-      "seeks",
-      "colombias",
-      "presidency"
+      "commentisfree",
+      "2026",
+      "jun",
+      "donald",
+      "trump",
+      "ceasefire",
+      "deal",
+      "victory",
+      "iran",
+      "sanctions",
+      "tehran"
     ]
   },
   "ISR": {
-    "risk_score": 7.8,
-    "count": 10,
-    "top_news": "https://www.communitypress.ca:443/opinion/johnston-israel-accused-of-ethnic-cleansing",
+    "risk_score": 19.4,
+    "count": 23,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/06/18/a-city-of-ghosts-grief-and-defiance-in-lebanons-shattered-south/",
     "event_codes": {
-      "19": 5,
+      "19": 12,
+      "16": 5,
       "17": 3,
-      "16": 1,
-      "20": 1
+      "18": 3
     },
     "keywords": [
-      "opinion",
-      "johnston",
-      "israel",
-      "accused",
-      "ethnic",
-      "cleansing"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://defenceweb.co.za/author-alias/guyo-chepe-turi/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "author",
-      "alias",
-      "guyo",
-      "chepe",
-      "turi"
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "city",
+      "ghosts",
+      "grief",
+      "and",
+      "defiance",
+      "lebanons",
+      "shattered",
+      "south"
     ]
   },
   "LBN": {
-    "risk_score": 8.95,
-    "count": 9,
-    "top_news": "https://www.naharnet.com/stories/en/320755-israeli-strike-targets-car-in-kfartebnit-killing-two",
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/06/18/a-city-of-ghosts-grief-and-defiance-in-lebanons-shattered-south/",
     "event_codes": {
-      "19": 9
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "stories",
-      "320755",
-      "israeli",
-      "strike",
-      "targets",
-      "car",
-      "kfartebnit",
-      "killing",
-      "two"
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "city",
+      "ghosts",
+      "grief",
+      "and",
+      "defiance",
+      "lebanons",
+      "shattered",
+      "south"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://defenceweb.co.za/land/land-land/malis-security-crisis-holds-warnings-for-nigeria-heres-why/",
+    "risk_score": 8.3,
+    "count": 11,
+    "top_news": "https://allafrica.com/stories/202606180414.html",
     "event_codes": {
-      "19": 4
+      "17": 5,
+      "19": 4,
+      "18": 2
     },
     "keywords": [
-      "land",
-      "land",
-      "land",
-      "malis",
-      "security",
-      "crisis",
-      "holds",
-      "warnings",
-      "for",
-      "nigeria",
-      "heres",
-      "why"
+      "stories",
+      "202606180414.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2647720/saudi-arabia",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "node",
+      "2647720",
+      "saudi",
+      "arabia"
     ]
   }
 }
