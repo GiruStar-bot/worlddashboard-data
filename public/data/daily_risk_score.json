@@ -1,173 +1,119 @@
 {
-  "BFA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://thesun.ng/niger-gunfire-reported-near-airport-months-after-jihadist-attack/",
+  "BOL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.politico.eu/article/poland-detains-suspect-russia-vladimir-putin-critic-murder-case/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "niger",
-      "gunfire",
-      "reported",
-      "near",
-      "airport",
-      "months",
-      "after",
-      "jihadist",
-      "attack"
+      "article",
+      "poland",
+      "detains",
+      "suspect",
+      "russia",
+      "vladimir",
+      "putin",
+      "critic",
+      "murder",
+      "case"
+    ]
+  },
+  "COL": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/world/philosopher-senator-exile-social-reformer-cepeda-seeks-colombias-presidency",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "philosopher",
+      "senator",
+      "exile",
+      "social",
+      "reformer",
+      "cepeda",
+      "seeks",
+      "colombias",
+      "presidency"
     ]
   },
   "ISR": {
-    "risk_score": 13.29,
-    "count": 15,
-    "top_news": "https://www.israelnationalnews.com/news/428819",
+    "risk_score": 7.8,
+    "count": 10,
+    "top_news": "https://www.communitypress.ca:443/opinion/johnston-israel-accused-of-ethnic-cleansing",
     "event_codes": {
-      "19": 8,
-      "14": 3,
-      "15": 2,
-      "18": 2
+      "19": 5,
+      "17": 3,
+      "16": 1,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "428819"
+      "opinion",
+      "johnston",
+      "israel",
+      "accused",
+      "ethnic",
+      "cleansing"
     ]
   },
-  "JOR": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.israelnationalnews.com/news/428819",
+  "KEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://defenceweb.co.za/author-alias/guyo-chepe-turi/",
     "event_codes": {
-      "19": 4,
-      "16": 2
+      "19": 3
     },
     "keywords": [
-      "news",
-      "428819"
+      "author",
+      "alias",
+      "guyo",
+      "chepe",
+      "turi"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ifj.org/media-centre/news/detail/category/middle-east-arab-world/article/suisse-ifj-raises-alarm-over-the-killing-of-palestinian-and-lebanese-journalists-by-israel",
+    "risk_score": 8.95,
+    "count": 9,
+    "top_news": "https://www.naharnet.com/stories/en/320755-israeli-strike-targets-car-in-kfartebnit-killing-two",
     "event_codes": {
-      "19": 3
+      "19": 9
     },
     "keywords": [
-      "media",
-      "centre",
-      "news",
-      "detail",
-      "category",
-      "middle",
-      "east",
-      "arab",
-      "world",
-      "article",
-      "suisse",
-      "ifj",
-      "raises",
-      "alarm",
-      "over",
-      "the",
+      "stories",
+      "320755",
+      "israeli",
+      "strike",
+      "targets",
+      "car",
+      "kfartebnit",
       "killing",
-      "palestinian",
-      "and",
-      "lebanese",
-      "journalists",
-      "israel"
-    ]
-  },
-  "MLI": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://thesun.ng/niger-gunfire-reported-near-airport-months-after-jihadist-attack/",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "niger",
-      "gunfire",
-      "reported",
-      "near",
-      "airport",
-      "months",
-      "after",
-      "jihadist",
-      "attack"
-    ]
-  },
-  "NER": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://thesun.ng/niger-gunfire-reported-near-airport-months-after-jihadist-attack/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "niger",
-      "gunfire",
-      "reported",
-      "near",
-      "airport",
-      "months",
-      "after",
-      "jihadist",
-      "attack"
+      "two"
     ]
   },
   "NGA": {
-    "risk_score": 17.7,
-    "count": 23,
-    "top_news": "https://dailytrust.com/general-rabes-death-and-the-limits-of-military-spin/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://defenceweb.co.za/land/land-land/malis-security-crisis-holds-warnings-for-nigeria-heres-why/",
     "event_codes": {
-      "17": 9,
-      "18": 8,
-      "19": 6
+      "19": 4
     },
     "keywords": [
-      "general",
-      "rabes",
-      "death",
-      "and",
-      "the",
-      "limits",
-      "military",
-      "spin"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ifj.org/media-centre/news/detail/category/middle-east-arab-world/article/suisse-ifj-raises-alarm-over-the-killing-of-palestinian-and-lebanese-journalists-by-israel",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "media",
-      "centre",
-      "news",
-      "detail",
-      "category",
-      "middle",
-      "east",
-      "arab",
-      "world",
-      "article",
-      "suisse",
-      "ifj",
-      "raises",
-      "alarm",
-      "over",
-      "the",
-      "killing",
-      "palestinian",
-      "and",
-      "lebanese",
-      "journalists",
-      "israel"
+      "land",
+      "land",
+      "land",
+      "malis",
+      "security",
+      "crisis",
+      "holds",
+      "warnings",
+      "for",
+      "nigeria",
+      "heres",
+      "why"
     ]
   }
 }
