@@ -1,39 +1,173 @@
 {
-  "IRN": {
-    "risk_score": 5.06,
-    "count": 6,
-    "top_news": "https://www.moonofalabama.org/2026/06/war-on-iran-trump-under-fire-for-not-yet-published-mou.html/comment-page-2",
+  "BFA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://thesun.ng/niger-gunfire-reported-near-airport-months-after-jihadist-attack/",
     "event_codes": {
-      "15": 3,
       "19": 2,
-      "18": 1
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "war",
-      "iran",
-      "trump",
-      "under",
-      "fire",
-      "for",
-      "not",
-      "yet",
-      "published",
-      "mou.html",
-      "comment",
-      "page"
+      "niger",
+      "gunfire",
+      "reported",
+      "near",
+      "airport",
+      "months",
+      "after",
+      "jihadist",
+      "attack"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.29,
+    "count": 15,
+    "top_news": "https://www.israelnationalnews.com/news/428819",
+    "event_codes": {
+      "19": 8,
+      "14": 3,
+      "15": 2,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "428819"
+    ]
+  },
+  "JOR": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.israelnationalnews.com/news/428819",
+    "event_codes": {
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "428819"
     ]
   },
   "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.ynetnews.com/article/bjoldflzmx",
+    "top_news": "https://www.ifj.org/media-centre/news/detail/category/middle-east-arab-world/article/suisse-ifj-raises-alarm-over-the-killing-of-palestinian-and-lebanese-journalists-by-israel",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "media",
+      "centre",
+      "news",
+      "detail",
+      "category",
+      "middle",
+      "east",
+      "arab",
+      "world",
       "article",
-      "bjoldflzmx"
+      "suisse",
+      "ifj",
+      "raises",
+      "alarm",
+      "over",
+      "the",
+      "killing",
+      "palestinian",
+      "and",
+      "lebanese",
+      "journalists",
+      "israel"
+    ]
+  },
+  "MLI": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://thesun.ng/niger-gunfire-reported-near-airport-months-after-jihadist-attack/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "niger",
+      "gunfire",
+      "reported",
+      "near",
+      "airport",
+      "months",
+      "after",
+      "jihadist",
+      "attack"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://thesun.ng/niger-gunfire-reported-near-airport-months-after-jihadist-attack/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "niger",
+      "gunfire",
+      "reported",
+      "near",
+      "airport",
+      "months",
+      "after",
+      "jihadist",
+      "attack"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.7,
+    "count": 23,
+    "top_news": "https://dailytrust.com/general-rabes-death-and-the-limits-of-military-spin/",
+    "event_codes": {
+      "17": 9,
+      "18": 8,
+      "19": 6
+    },
+    "keywords": [
+      "general",
+      "rabes",
+      "death",
+      "and",
+      "the",
+      "limits",
+      "military",
+      "spin"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ifj.org/media-centre/news/detail/category/middle-east-arab-world/article/suisse-ifj-raises-alarm-over-the-killing-of-palestinian-and-lebanese-journalists-by-israel",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "media",
+      "centre",
+      "news",
+      "detail",
+      "category",
+      "middle",
+      "east",
+      "arab",
+      "world",
+      "article",
+      "suisse",
+      "ifj",
+      "raises",
+      "alarm",
+      "over",
+      "the",
+      "killing",
+      "palestinian",
+      "and",
+      "lebanese",
+      "journalists",
+      "israel"
     ]
   }
 }
