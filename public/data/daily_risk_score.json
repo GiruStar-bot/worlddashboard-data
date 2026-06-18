@@ -1,103 +1,128 @@
 {
   "IRN": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.theguardian.com/commentisfree/2026/jun/18/donald-trump-ceasefire-deal-victory-iran-sanctions-tehran-us",
+    "risk_score": 7.84,
+    "count": 8,
+    "top_news": "https://www.albawaba.com/news/iran-and-kuwait-hold-first-ministerial-1630636",
     "event_codes": {
-      "18": 4,
-      "19": 4,
-      "16": 2
+      "19": 6,
+      "17": 2
     },
     "keywords": [
-      "commentisfree",
-      "2026",
-      "jun",
-      "donald",
-      "trump",
-      "ceasefire",
-      "deal",
-      "victory",
+      "news",
       "iran",
-      "sanctions",
-      "tehran"
+      "and",
+      "kuwait",
+      "hold",
+      "first",
+      "ministerial",
+      "1630636"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://metro.co.uk/2026/06/18/liberal-democrat-mp-suspended-party-police-probe-28834173/",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
+      "2026",
+      "liberal",
+      "democrat",
+      "suspended",
+      "party",
+      "police",
+      "probe",
+      "28834173"
     ]
   },
   "ISR": {
-    "risk_score": 19.4,
-    "count": 23,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/06/18/a-city-of-ghosts-grief-and-defiance-in-lebanons-shattered-south/",
+    "risk_score": 14.4,
+    "count": 19,
+    "top_news": "https://grenadachronicle.com/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike/",
     "event_codes": {
-      "19": 12,
-      "16": 5,
-      "17": 3,
-      "18": 3
+      "19": 9,
+      "16": 4,
+      "17": 4,
+      "18": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
+      "israel",
+      "kills",
+      "least",
+      "three",
+      "palestinians",
+      "gaza",
       "city",
-      "ghosts",
-      "grief",
-      "and",
-      "defiance",
-      "lebanons",
-      "shattered",
-      "south"
+      "drone",
+      "strike"
     ]
   },
-  "LBN": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/06/18/a-city-of-ghosts-grief-and-defiance-in-lebanons-shattered-south/",
+  "NER": {
+    "risk_score": 8.52,
+    "count": 10,
+    "top_news": "https://www.premiumtimesng.com/regional/nwest/888749-11-soldiers-22-terrorists-killed-in-deadly-airport-attack.html",
     "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
+      "19": 5,
+      "17": 2,
+      "18": 2,
+      "15": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "city",
-      "ghosts",
-      "grief",
-      "and",
-      "defiance",
-      "lebanons",
-      "shattered",
-      "south"
+      "regional",
+      "nwest",
+      "888749",
+      "soldiers",
+      "terrorists",
+      "killed",
+      "deadly",
+      "airport",
+      "attack.html"
     ]
   },
   "NGA": {
-    "risk_score": 8.3,
-    "count": 11,
-    "top_news": "https://allafrica.com/stories/202606180414.html",
+    "risk_score": 27.35,
+    "count": 35,
+    "top_news": "https://saharareporters.com/2026/06/18/exclusive-how-police-use-ipob-narrative-bury-unsolved-killings-cover-wrongful-arrests",
     "event_codes": {
-      "17": 5,
-      "19": 4,
-      "18": 2
+      "19": 12,
+      "18": 10,
+      "17": 9,
+      "16": 4
     },
     "keywords": [
-      "stories",
-      "202606180414.html"
+      "2026",
+      "exclusive",
+      "how",
+      "police",
+      "use",
+      "ipob",
+      "narrative",
+      "bury",
+      "unsolved",
+      "killings",
+      "cover",
+      "wrongful",
+      "arrests"
     ]
   },
   "PSE": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2647720/saudi-arabia",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://grenadachronicle.com/israel-kills-at-least-three-palestinians-in-gaza-city-drone-strike/",
     "event_codes": {
-      "19": 3,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "node",
-      "2647720",
-      "saudi",
-      "arabia"
+      "israel",
+      "kills",
+      "least",
+      "three",
+      "palestinians",
+      "gaza",
+      "city",
+      "drone",
+      "strike"
     ]
   }
 }
