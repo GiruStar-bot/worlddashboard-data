@@ -1,56 +1,83 @@
 {
-  "ISR": {
-    "risk_score": 2.9,
+  "ECU": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.universityworldnews.com/post.php?story=20260617185507827",
+    "top_news": "https://www.mirror.co.uk/news/world-news/guayaquil-airport-ecuador-shooting-attack-37312251",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 4
     },
     "keywords": [
-      "post.php"
+      "news",
+      "world",
+      "news",
+      "guayaquil",
+      "airport",
+      "ecuador",
+      "shooting",
+      "attack",
+      "37312251"
     ]
   },
-  "PER": {
-    "risk_score": 4.42,
-    "count": 5,
-    "top_news": "https://www.atlanticcouncil.org/dispatches/a-razor-thin-victory-a-divided-nation-what-awaits-perus-next-president/",
+  "IRN": {
+    "risk_score": 9.2,
+    "count": 10,
+    "top_news": "https://www.foxnews.com/politics/trump-renege-iran-deal-faces-backlash-conservative-allies",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 8,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "dispatches",
-      "razor",
-      "thin",
-      "victory",
-      "divided",
-      "nation",
-      "what",
-      "awaits",
-      "perus",
-      "next",
-      "president"
+      "politics",
+      "trump",
+      "renege",
+      "iran",
+      "deal",
+      "faces",
+      "backlash",
+      "conservative",
+      "allies"
     ]
   },
-  "PSE": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.mcall.com/2026/06/17/bethlehem-township-man-sentenced-to-life-for-murdering-wife/",
+  "ISR": {
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "http://www.heraldglobe.com/news/279130073/iran-official-agency-releases-full-text-of-us-iran-mou",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 7,
+      "20": 1
     },
     "keywords": [
-      "2026",
-      "bethlehem",
-      "township",
-      "man",
-      "sentenced",
-      "life",
-      "for",
-      "murdering",
-      "wife"
+      "news",
+      "279130073",
+      "iran",
+      "official",
+      "agency",
+      "releases",
+      "full",
+      "text",
+      "iran",
+      "mou"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.45,
+    "count": 6,
+    "top_news": "http://www.nigeriasun.com/news/279129817/gunmen-kill-9-injure-11-in-north-nigeria-attack",
+    "event_codes": {
+      "19": 4,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "279129817",
+      "gunmen",
+      "kill",
+      "injure",
+      "north",
+      "nigeria",
+      "attack"
     ]
   }
 }
