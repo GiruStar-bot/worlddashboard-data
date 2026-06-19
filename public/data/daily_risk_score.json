@@ -1,48 +1,78 @@
 {
   "IRN": {
-    "risk_score": 4.65,
-    "count": 6,
-    "top_news": "https://athens-times.com/oman-bipartisan-or-neutral-how-the-switzerland-of-the-middle-east-provoked-trumps-wrath-and-escaped-irans-shadow/",
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "http://www.middleeaststar.com/news/279132396/iran-supreme-leader-says-granted-permission-for-mou-with-us-despite-having-different-view",
     "event_codes": {
-      "19": 3,
-      "14": 2,
+      "19": 6,
       "16": 1
     },
     "keywords": [
-      "oman",
-      "bipartisan",
-      "neutral",
-      "how",
-      "the",
-      "switzerland",
-      "the",
-      "middle",
-      "east",
-      "provoked",
-      "trumps",
-      "wrath",
-      "and",
-      "escaped",
-      "irans",
-      "shadow"
+      "news",
+      "279132396",
+      "iran",
+      "supreme",
+      "leader",
+      "says",
+      "granted",
+      "permission",
+      "for",
+      "mou",
+      "with",
+      "despite",
+      "having",
+      "different",
+      "view"
     ]
   },
-  "VNM": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/us/articles/seattle-mayor-announces-crackdown-crime-160218017.html",
+  "ISR": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.abc.net.au/news/2026-06-19/jd-vance-on-israel-iran-deal-lebanon-strikes-and-donald-trump/106816852",
     "event_codes": {
-      "17": 4
+      "19": 5,
+      "16": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "seattle",
-      "mayor",
-      "announces",
-      "crackdown",
-      "crime",
-      "160218017.html"
+      "2026",
+      "vance",
+      "israel",
+      "iran",
+      "deal",
+      "lebanon",
+      "strikes",
+      "and",
+      "donald",
+      "trump",
+      "106816852"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/high-wire-diplomacy-delivered-us-iran-deal-but-hardest-stage-lies-ahead-sources-say/articleshow/131844430.cms",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "defence",
+      "high",
+      "wire",
+      "diplomacy",
+      "delivered",
+      "iran",
+      "deal",
+      "but",
+      "hardest",
+      "stage",
+      "lies",
+      "ahead",
+      "sources",
+      "say",
+      "articleshow",
+      "131844430.cms"
     ]
   }
 }
