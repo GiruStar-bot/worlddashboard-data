@@ -1,61 +1,101 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.salon.com/2026/06/19/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
+    "risk_score": 11.35,
+    "count": 12,
+    "top_news": "https://www.voltairenet.org/article224729.html",
     "event_codes": {
-      "19": 5
+      "19": 6,
+      "18": 5,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "before",
-      "spacex",
-      "ipo",
-      "investors",
-      "china",
-      "secretly",
-      "acquired",
-      "stakes"
+      "article224729.html"
     ]
   },
   "ISR": {
-    "risk_score": 15.4,
-    "count": 18,
-    "top_news": "https://www.yahoo.com/news/articles/israel-steps-lebanon-attacks-strikes-061014270.html",
+    "risk_score": 24.51,
+    "count": 28,
+    "top_news": "https://www.cbsnews.com/news/iran-war-trump-netanyahu-us-israel-united-then-divided/",
     "event_codes": {
-      "16": 9,
-      "19": 7,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "israel",
-      "steps",
-      "lebanon",
-      "attacks",
-      "strikes",
-      "061014270.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 11.5,
-    "count": 13,
-    "top_news": "https://www.yahoo.com/news/articles/israel-steps-lebanon-attacks-strikes-061014270.html",
-    "event_codes": {
-      "19": 7,
-      "18": 4,
+      "19": 20,
+      "17": 4,
+      "14": 2,
       "16": 2
     },
     "keywords": [
       "news",
-      "articles",
+      "iran",
+      "war",
+      "trump",
+      "netanyahu",
       "israel",
-      "steps",
-      "lebanon",
-      "attacks",
-      "strikes",
-      "061014270.html"
+      "united",
+      "then",
+      "divided"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://aninews.in/news/world/middle-east/fragile-truce-holds-as-israel-hezbollah-agree-to-ceasefire-in-lebanon20260619214134/",
+    "event_codes": {
+      "19": 3,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "fragile",
+      "truce",
+      "holds",
+      "israel",
+      "hezbollah",
+      "agree",
+      "ceasefire",
+      "lebanon20260619214134"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.nationalaccordnewspaper.com/troops-deliver-another-decisive-blow-to-iswap-terrorists-in-biu/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "troops",
+      "deliver",
+      "another",
+      "decisive",
+      "blow",
+      "iswap",
+      "terrorists",
+      "biu"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.eyeradio.org/detained-youth-leader-who-criticized-splm-oyee-campaign-materials-released/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "detained",
+      "youth",
+      "leader",
+      "who",
+      "criticized",
+      "splm",
+      "oyee",
+      "campaign",
+      "materials",
+      "released"
     ]
   }
 }
