@@ -1,70 +1,100 @@
 {
   "IRN": {
-    "risk_score": 7.7,
-    "count": 9,
-    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-deal-ceasefire-b2999541.html",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/883159/with-chilling-warning-iran-sets-up-defense-umbrella-over-lebanon-and-cautions-us-israel-will-pay-with-pain-and-money",
     "event_codes": {
-      "19": 7,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "live",
-      "trump",
-      "strait",
-      "hormuz",
-      "deal",
-      "ceasefire",
-      "b2999541.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.lbc.co.uk/article/israel-lebanon-ceasefire-trump-5HjdbrG_2/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "article",
-      "israel",
-      "lebanon",
-      "ceasefire",
-      "trump",
-      "5hjdbrg"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/883148/bloodbath-in-lebanon-as-israel-shatters-ceasefire-triggering-lethal-ambush-and-fierce-political-ultimatum-from-hezbollah",
-    "event_codes": {
-      "19": 6,
-      "18": 2
+      "19": 3
     },
     "keywords": [
       "diethni",
       "articles",
-      "883148",
-      "bloodbath",
+      "883159",
+      "with",
+      "chilling",
+      "warning",
+      "iran",
+      "sets",
+      "defense",
+      "umbrella",
+      "over",
       "lebanon",
-      "israel",
-      "shatters",
-      "ceasefire",
-      "triggering",
-      "lethal",
-      "ambush",
       "and",
-      "fierce",
-      "political",
-      "ultimatum",
-      "from",
-      "hezbollah"
+      "cautions",
+      "israel",
+      "will",
+      "pay",
+      "with",
+      "pain",
+      "and",
+      "money"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/883165/israel-finishes-off-kallas-as-explosive-catalyst-triggers-severe-clash-with-von-der-leyen-over-european-diplomacy",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "883165",
+      "israel",
+      "finishes",
+      "off",
+      "kallas",
+      "explosive",
+      "catalyst",
+      "triggers",
+      "severe",
+      "clash",
+      "with",
+      "von",
+      "der",
+      "leyen",
+      "over",
+      "european",
+      "diplomacy"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.siasat.com/israeli-strikes-kill-seven-in-lebanon-despite-ceasefire-push-3492989/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "israeli",
+      "strikes",
+      "kill",
+      "seven",
+      "lebanon",
+      "despite",
+      "ceasefire",
+      "push",
+      "3492989"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.0,
+    "count": 11,
+    "top_news": "https://www.nigerianeye.com/2026/06/bandits-not-alone-getting-support-from.html",
+    "event_codes": {
+      "18": 5,
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "not",
+      "alone",
+      "getting",
+      "support",
+      "from.html"
     ]
   }
 }
