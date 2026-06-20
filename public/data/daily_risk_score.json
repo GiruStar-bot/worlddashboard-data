@@ -1,42 +1,51 @@
 {
-  "ISR": {
-    "risk_score": 2.9,
+  "IRN": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://tribuneonlineng.com/al-jazeera-cameraman-killed-in-israeli-attack-in-gaza/",
+    "top_news": "https://www.gdnonline.com:443/Details/1398273",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "jazeera",
-      "cameraman",
-      "killed",
-      "israeli",
-      "attack",
-      "gaza"
+      "details",
+      "1398273"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.3,
+    "count": 9,
+    "top_news": "https://www.straitstimes.com/world/middle-east/iran-negotiators-head-for-switzerland-as-trump-threatens-us-tolls-on-strait-of-hormuz",
+    "event_codes": {
+      "19": 8,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "negotiators",
+      "head",
+      "for",
+      "switzerland",
+      "trump",
+      "threatens",
+      "tolls",
+      "strait",
+      "hormuz"
     ]
   },
   "LBN": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "http://www.bignewsnetwork.com/news/279136474/feature-fleeing-war-again-syrian-refugees-in-lebanon-embark-on-journey-home",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.gdnonline.com:443/Details/1398273",
     "event_codes": {
-      "19": 2,
+      "19": 6,
       "18": 1
     },
     "keywords": [
-      "news",
-      "279136474",
-      "feature",
-      "fleeing",
-      "war",
-      "again",
-      "syrian",
-      "refugees",
-      "lebanon",
-      "embark",
-      "journey",
-      "home"
+      "details",
+      "1398273"
     ]
   }
 }
