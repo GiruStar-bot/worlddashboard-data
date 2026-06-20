@@ -1,20 +1,94 @@
 {
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailykos.com/stories/2026/6/20/800056838/community/russian-stuff-blowing-up-saturday/",
+  "IRN": {
+    "risk_score": 5.3,
+    "count": 7,
+    "top_news": "http://www.jpost.com/international/article-899972",
     "event_codes": {
-      "19": 2
+      "14": 2,
+      "17": 2,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "stories",
-      "2026",
-      "800056838",
-      "community",
-      "russian",
-      "stuff",
-      "blowing",
-      "saturday"
+      "international",
+      "article",
+      "899972"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.35,
+    "count": 17,
+    "top_news": "https://dominicanrepublicpost.com/al-jazeera-cameraman-ahmed-wishah-killed-in-israeli-attack-in-gaza/",
+    "event_codes": {
+      "19": 13,
+      "18": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "jazeera",
+      "cameraman",
+      "ahmed",
+      "wishah",
+      "killed",
+      "israeli",
+      "attack",
+      "gaza"
+    ]
+  },
+  "LBN": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.nzherald.co.nz/world/iran-closes-strait-of-hormuz-again-over-ceasefire-violations-in-lebanon/W6WY5LSP7NFF3OSUXDTCSAMDNQ/",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "world",
+      "iran",
+      "closes",
+      "strait",
+      "hormuz",
+      "again",
+      "over",
+      "ceasefire",
+      "violations",
+      "lebanon",
+      "w6wy5lsp7nff3osuxdtcsamdnq"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://promptnewsonline.com/ikechukwu-to-rabe-abubakars-friends-associates-you-failed-when-he-needed-you/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "ikechukwu",
+      "rabe",
+      "abubakars",
+      "friends",
+      "associates",
+      "you",
+      "failed",
+      "when",
+      "needed",
+      "you"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.jpost.com/middle-east/article-899977",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "899977"
     ]
   }
 }
