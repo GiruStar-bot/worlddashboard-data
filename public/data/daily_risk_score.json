@@ -1,58 +1,70 @@
 {
   "IRN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://city.udn.com/2976/7246211?raid=7296503",
+    "risk_score": 7.7,
+    "count": 9,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strait-of-hormuz-deal-ceasefire-b2999541.html",
     "event_codes": {
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "2976",
-      "7246211"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.siasat.com/be-quiet-or-get-out-israeli-envoy-clashes-with-un-official-3492850/",
-    "event_codes": {
-      "19": 4,
+      "19": 7,
       "16": 2
     },
     "keywords": [
-      "quiet",
-      "get",
-      "out",
-      "israeli",
-      "envoy",
-      "clashes",
-      "with",
-      "official",
-      "3492850"
+      "news",
+      "world",
+      "middle",
+      "east",
+      "iran",
+      "war",
+      "live",
+      "trump",
+      "strait",
+      "hormuz",
+      "deal",
+      "ceasefire",
+      "b2999541.html"
     ]
   },
-  "SYR": {
-    "risk_score": 3.92,
-    "count": 5,
-    "top_news": "https://english.aawsat.com/arab-world/5286343-syria%E2%80%99s-grand-mufti-warns-against-acts-could-fuel-strife",
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.lbc.co.uk/article/israel-lebanon-ceasefire-trump-5HjdbrG_2/",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "arab",
-      "world",
-      "5286343",
-      "syria%e2%80%99s",
-      "grand",
-      "mufti",
-      "warns",
-      "against",
-      "acts",
-      "could",
-      "fuel",
-      "strife"
+      "article",
+      "israel",
+      "lebanon",
+      "ceasefire",
+      "trump",
+      "5hjdbrg"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/883148/bloodbath-in-lebanon-as-israel-shatters-ceasefire-triggering-lethal-ambush-and-fierce-political-ultimatum-from-hezbollah",
+    "event_codes": {
+      "19": 6,
+      "18": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "883148",
+      "bloodbath",
+      "lebanon",
+      "israel",
+      "shatters",
+      "ceasefire",
+      "triggering",
+      "lethal",
+      "ambush",
+      "and",
+      "fierce",
+      "political",
+      "ultimatum",
+      "from",
+      "hezbollah"
     ]
   }
 }
