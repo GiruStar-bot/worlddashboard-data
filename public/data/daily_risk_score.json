@@ -1,66 +1,136 @@
 {
-  "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
+  "COL": {
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://edition.cnn.com/2026/06/21/americas/colombia-trump-abelardo-de-la-espriella-intl-latam",
     "event_codes": {
-      "19": 6
+      "14": 4
     },
     "keywords": [
       "2026",
-      "leaves",
-      "lebanon",
-      "spoiler.html"
+      "americas",
+      "colombia",
+      "trump",
+      "abelardo",
+      "espriella",
+      "intl",
+      "latam"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.15,
+    "count": 3,
+    "top_news": "https://edition.cnn.com/2026/06/21/politics/democratic-primary-election-new-york-mamdani-platner-analysis",
+    "event_codes": {
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "politics",
+      "democratic",
+      "primary",
+      "election",
+      "new",
+      "york",
+      "mamdani",
+      "platner",
+      "analysis"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://santamariatimes.com/ap/national/the-latest-vance-and-iranian-negotiators-are-in-switzerland-to-work-on-details-of-deal/article_c79f3b43-6a48-5765-9fd8-864f3d18fac6.html",
+    "event_codes": {
+      "18": 4,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "national",
+      "the",
+      "latest",
+      "vance",
+      "and",
+      "iranian",
+      "negotiators",
+      "are",
+      "switzerland",
+      "work",
+      "details",
+      "deal",
+      "article",
+      "c79f3b43",
+      "6a48",
+      "5765",
+      "9fd8",
+      "864f3d18fac6.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.45,
+    "count": 13,
+    "top_news": "https://www.aljazeera.com/news/2026/6/21/kind-principled-palestinian-journalists-remember-slain-gaza-journalist",
+    "event_codes": {
+      "19": 8,
+      "17": 2,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "kind",
+      "principled",
+      "palestinian",
+      "journalists",
+      "remember",
+      "slain",
+      "gaza",
+      "journalist"
     ]
   },
   "LBN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "leaves",
-      "lebanon",
-      "spoiler.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://www.dw.com/en/sudan-war-el-obeid-rsf-attack-atrocities-un-security-council/a-77642972",
-    "event_codes": {
-      "19": 6,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "sudan",
-      "war",
-      "obeid",
-      "rsf",
-      "attack",
-      "atrocities",
-      "security",
-      "council",
-      "77642972"
-    ]
-  },
-  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
+    "top_news": "https://www.arkansasonline.com/news/2026/jun/21/iran-says-us-in-breach-eyes-close-for-strait/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "news",
       "2026",
-      "leaves",
-      "lebanon",
-      "spoiler.html"
+      "jun",
+      "iran",
+      "says",
+      "breach",
+      "eyes",
+      "close",
+      "for",
+      "strait"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://dailypost.ng/2026/06/21/bandits-abduct-resident-burn-nscdc-post-house-in-kebbi-community/",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "abduct",
+      "resident",
+      "burn",
+      "nscdc",
+      "post",
+      "house",
+      "kebbi",
+      "community"
     ]
   }
 }
