@@ -1,67 +1,68 @@
 {
-  "IRN": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-15917515/US-Iran-Switzerland-negotiations-JD-Vance-wife-renewed-conflict-Hezbollah.html",
+  "ISR": {
+    "risk_score": 5.55,
+    "count": 7,
+    "top_news": "https://nationnews.com/2026/06/21/us-and-iran-begin-talks-on-initial-peace-deal-in-switzerland/",
     "event_codes": {
-      "14": 2,
+      "19": 3,
+      "16": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "and",
+      "iran",
+      "begin",
+      "talks",
+      "initial",
+      "peace",
+      "deal",
+      "switzerland"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://pmnewsnigeria.com/2026/06/21/ndlea-nabs-two-grandfathers-selling-illicit-drugs-to-students/",
+    "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
-      "news",
-      "article",
-      "15917515",
-      "iran",
-      "switzerland",
-      "negotiations",
-      "vance",
-      "wife",
-      "renewed",
-      "conflict",
-      "hezbollah.html"
+      "2026",
+      "ndlea",
+      "nabs",
+      "two",
+      "grandfathers",
+      "selling",
+      "illicit",
+      "drugs",
+      "students"
     ]
   },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.dailymail.com/news/article-15917515/US-Iran-Switzerland-negotiations-JD-Vance-wife-renewed-conflict-Hezbollah.html",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15917515",
-      "iran",
-      "switzerland",
-      "negotiations",
-      "vance",
-      "wife",
-      "renewed",
-      "conflict",
-      "hezbollah.html"
-    ]
-  },
-  "LBN": {
+  "TUR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailymail.com/news/article-15917515/US-Iran-Switzerland-negotiations-JD-Vance-wife-renewed-conflict-Hezbollah.html",
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-won-t-withdraw-from-occupied-territory-in-southern-lebanon-defense-minister-says/3973767",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "article",
-      "15917515",
-      "iran",
-      "switzerland",
-      "negotiations",
-      "vance",
-      "wife",
-      "renewed",
-      "conflict",
-      "hezbollah.html"
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "won",
+      "withdraw",
+      "from",
+      "occupied",
+      "territory",
+      "southern",
+      "lebanon",
+      "defense",
+      "minister",
+      "says",
+      "3973767"
     ]
   }
 }
