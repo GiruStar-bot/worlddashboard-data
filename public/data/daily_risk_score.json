@@ -1,49 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://www.ynetnews.com/article/bjcgr5nffg",
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "leaves",
+      "lebanon",
+      "spoiler.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
     "event_codes": {
       "19": 3,
-      "14": 2,
-      "17": 2
+      "16": 1
     },
     "keywords": [
-      "article",
-      "bjcgr5nffg"
+      "2026",
+      "leaves",
+      "lebanon",
+      "spoiler.html"
     ]
   },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/hyxdwivzge",
+  "SDN": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://www.dw.com/en/sudan-war-el-obeid-rsf-attack-atrocities-un-security-council/a-77642972",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 6,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "hyxdwivzge"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.29,
-    "count": 12,
-    "top_news": "https://punchng.com/just-in-terrorists-attack-kebbi-community-abduct-villager/",
-    "event_codes": {
-      "19": 5,
-      "18": 3,
-      "14": 2,
-      "15": 2
-    },
-    "keywords": [
-      "just",
-      "terrorists",
+      "sudan",
+      "war",
+      "obeid",
+      "rsf",
       "attack",
-      "kebbi",
-      "community",
-      "abduct",
-      "villager"
+      "atrocities",
+      "security",
+      "council",
+      "77642972"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.juancole.com/2026/06/leaves-lebanon-spoiler.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "leaves",
+      "lebanon",
+      "spoiler.html"
     ]
   }
 }
