@@ -1,17 +1,45 @@
 {
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://news.antiwar.com/2026/06/21/us-announces-a-series-of-airstrikes-in-somalia/",
+  "IRN": {
+    "risk_score": 4.9,
+    "count": 7,
+    "top_news": "https://www.northcountrypublicradio.org/news/npr/g-s1-129222/trump-threatens-to-hit-iran-very-hard-again-while-vance-is-in-switzerland-for-talks",
     "event_codes": {
-      "19": 2
+      "16": 4,
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "announces",
-      "series",
-      "airstrikes",
-      "somalia"
+      "news",
+      "npr",
+      "129222",
+      "trump",
+      "threatens",
+      "hit",
+      "iran",
+      "very",
+      "hard",
+      "again",
+      "while",
+      "vance",
+      "switzerland",
+      "for",
+      "talks"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "http://en.ce.cn/main/latest/202606/t20260622_3043339.shtml",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "main",
+      "latest",
+      "202606",
+      "t20260622",
+      "3043339.shtml"
     ]
   }
 }
