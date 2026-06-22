@@ -1,43 +1,60 @@
 {
-  "CHL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://aleteia.org/2026/06/22/barcelona-marks-50-years-of-democracy-with-helicopter-full-of-poems/",
+  "ISR": {
+    "risk_score": 29.15,
+    "count": 32,
+    "top_news": "https://countercurrents.org/2026/06/israeli-forces-kill-two-palestinian-teens-in-occupied-west-bank/",
     "event_codes": {
-      "19": 2
+      "19": 13,
+      "16": 8,
+      "17": 6,
+      "20": 3,
+      "18": 2
     },
     "keywords": [
       "2026",
-      "barcelona",
-      "marks",
-      "years",
-      "democracy",
-      "with",
-      "helicopter",
-      "full",
-      "poems"
+      "israeli",
+      "forces",
+      "kill",
+      "two",
+      "palestinian",
+      "teens",
+      "occupied",
+      "west",
+      "bank"
     ]
   },
-  "IRN": {
-    "risk_score": 6.75,
-    "count": 8,
-    "top_news": "https://www.hindustantimes.com/world-news/as-war-with-u-s-eases-iran-steps-up-hangings-of-dissidents-101782123304830.html",
+  "LBN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.bssnews.net/international/398642",
     "event_codes": {
-      "16": 4,
       "19": 3,
-      "18": 1
+      "16": 1
     },
     "keywords": [
-      "world",
-      "news",
-      "war",
-      "with",
-      "eases",
-      "iran",
-      "steps",
-      "hangings",
-      "dissidents",
-      "101782123304830.html"
+      "international",
+      "398642"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.84,
+    "count": 7,
+    "top_news": "https://countercurrents.org/2026/06/israeli-forces-kill-two-palestinian-teens-in-occupied-west-bank/",
+    "event_codes": {
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "forces",
+      "kill",
+      "two",
+      "palestinian",
+      "teens",
+      "occupied",
+      "west",
+      "bank"
     ]
   }
 }
