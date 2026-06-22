@@ -1,45 +1,42 @@
 {
-  "IRN": {
-    "risk_score": 4.9,
+  "ISR": {
+    "risk_score": 7.0,
     "count": 7,
-    "top_news": "https://www.northcountrypublicradio.org/news/npr/g-s1-129222/trump-threatens-to-hit-iran-very-hard-again-while-vance-is-in-switzerland-for-talks",
+    "top_news": "https://www.thenationalnews.com/news/us/2026/06/21/lindsey-graham-iran-saudi-arabia/",
     "event_codes": {
-      "16": 4,
-      "17": 2,
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "lindsey",
+      "graham",
+      "iran",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.sbs.com.au/news/podcast-episode/uncertainty-over-strait-after-first-us-iran-talks-wrap/y87f87xyf",
+    "event_codes": {
+      "18": 2,
       "19": 1
     },
     "keywords": [
       "news",
-      "npr",
-      "129222",
-      "trump",
-      "threatens",
-      "hit",
+      "podcast",
+      "episode",
+      "uncertainty",
+      "over",
+      "strait",
+      "after",
+      "first",
       "iran",
-      "very",
-      "hard",
-      "again",
-      "while",
-      "vance",
-      "switzerland",
-      "for",
-      "talks"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "http://en.ce.cn/main/latest/202606/t20260622_3043339.shtml",
-    "event_codes": {
-      "19": 3,
-      "16": 2
-    },
-    "keywords": [
-      "main",
-      "latest",
-      "202606",
-      "t20260622",
-      "3043339.shtml"
+      "talks",
+      "wrap",
+      "y87f87xyf"
     ]
   }
 }
