@@ -1,44 +1,94 @@
 {
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://thedailyblog.co.nz/child-deaths-in-conflict-surge-by-a-third-amid-rise-of-tech-driven-warfare-save-the-children/",
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newsbusters.org/blogs/nb/cal-thomas/2012/01/11/threat",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
-      "child",
-      "deaths",
-      "conflict",
-      "surge",
-      "third",
-      "amid",
-      "rise",
-      "tech",
-      "driven",
-      "warfare",
-      "save",
-      "the",
-      "children"
+      "blogs",
+      "cal",
+      "thomas",
+      "2012",
+      "threat"
     ]
   },
-  "NGA": {
-    "risk_score": 11.0,
+  "ISR": {
+    "risk_score": 11.3,
     "count": 12,
-    "top_news": "http://www.nigeriasun.com/news/279140055/suspected-militants-kill-11-farmers-in-northeastern-nigeria",
+    "top_news": "https://www.graphic.com.gh/news/general-news/operating-licence-for-kantanka-private-security-services-suspended-after-adwoa-safo-shooting-incident.html",
     "event_codes": {
-      "19": 10,
-      "17": 2
+      "19": 9,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
       "news",
-      "279140055",
-      "suspected",
-      "militants",
-      "kill",
-      "farmers",
-      "northeastern",
-      "nigeria"
+      "general",
+      "news",
+      "operating",
+      "licence",
+      "for",
+      "kantanka",
+      "private",
+      "security",
+      "services",
+      "suspended",
+      "after",
+      "adwoa",
+      "safo",
+      "shooting",
+      "incident.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.5,
+    "count": 11,
+    "top_news": "https://www.arabtimesonline.com/news/gang-jailed-10-yrs-fined-kd199-mln-in-cash-fraud/",
+    "event_codes": {
+      "17": 11
+    },
+    "keywords": [
+      "news",
+      "gang",
+      "jailed",
+      "yrs",
+      "fined",
+      "kd199",
+      "mln",
+      "cash",
+      "fraud"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://freebeacon.com/israel/hamas-sniper-who-worked-for-al-jazeera-dies-in-israeli-airstrike-joins-long-list-of-terrorists-disguised-as-journalists-aj-praises-kind-principled-worker/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "hamas",
+      "sniper",
+      "who",
+      "worked",
+      "for",
+      "jazeera",
+      "dies",
+      "israeli",
+      "airstrike",
+      "joins",
+      "long",
+      "list",
+      "terrorists",
+      "disguised",
+      "journalists",
+      "praises",
+      "kind",
+      "principled",
+      "worker"
     ]
   }
 }
