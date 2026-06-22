@@ -1,94 +1,95 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newsbusters.org/blogs/nb/cal-thomas/2012/01/11/threat",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "blogs",
-      "cal",
-      "thomas",
-      "2012",
-      "threat"
-    ]
-  },
   "ISR": {
-    "risk_score": 11.3,
-    "count": 12,
-    "top_news": "https://www.graphic.com.gh/news/general-news/operating-licence-for-kantanka-private-security-services-suspended-after-adwoa-safo-shooting-incident.html",
+    "risk_score": 6.35,
+    "count": 7,
+    "top_news": "http://www.jpost.com/opinion/article-900191",
     "event_codes": {
-      "19": 9,
+      "19": 4,
       "18": 2,
-      "14": 1
+      "16": 1
     },
     "keywords": [
-      "news",
-      "general",
-      "news",
-      "operating",
-      "licence",
-      "for",
-      "kantanka",
-      "private",
-      "security",
-      "services",
-      "suspended",
-      "after",
-      "adwoa",
-      "safo",
-      "shooting",
-      "incident.html"
+      "opinion",
+      "article",
+      "900191"
     ]
   },
-  "KWT": {
-    "risk_score": 5.5,
-    "count": 11,
-    "top_news": "https://www.arabtimesonline.com/news/gang-jailed-10-yrs-fined-kd199-mln-in-cash-fraud/",
+  "LBN": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://humanevents.com/2026/06/22/idf-to-stay-in-lebanon-as-long-as-necessary-to-stop-hezbollah-terrorists",
     "event_codes": {
-      "17": 11
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "gang",
-      "jailed",
-      "yrs",
-      "fined",
-      "kd199",
-      "mln",
-      "cash",
-      "fraud"
+      "2026",
+      "idf",
+      "stay",
+      "lebanon",
+      "long",
+      "necessary",
+      "stop",
+      "hezbollah",
+      "terrorists"
     ]
   },
-  "PSE": {
+  "NGA": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://naija247news.com/nigerias-%E2%82%A672-billion-diesel-habit-forces-telecoms-to-go-solar/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "nigerias",
+      "%e2%82%a672",
+      "billion",
+      "diesel",
+      "habit",
+      "forces",
+      "telecoms",
+      "solar"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.44,
+    "count": 5,
+    "top_news": "https://aa.com.tr/en/americas/us-warns-rapid-support-forces-may-be-planning-mass-killings-in-sudans-north-kordofan/3975012",
+    "event_codes": {
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "americas",
+      "warns",
+      "rapid",
+      "support",
+      "forces",
+      "may",
+      "planning",
+      "mass",
+      "killings",
+      "sudans",
+      "north",
+      "kordofan",
+      "3975012"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://freebeacon.com/israel/hamas-sniper-who-worked-for-al-jazeera-dies-in-israeli-airstrike-joins-long-list-of-terrorists-disguised-as-journalists-aj-praises-kind-principled-worker/",
+    "top_news": "https://www.arabnews.com/node/2648185/middle-east",
     "event_codes": {
-      "19": 2
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "israel",
-      "hamas",
-      "sniper",
-      "who",
-      "worked",
-      "for",
-      "jazeera",
-      "dies",
-      "israeli",
-      "airstrike",
-      "joins",
-      "long",
-      "list",
-      "terrorists",
-      "disguised",
-      "journalists",
-      "praises",
-      "kind",
-      "principled",
-      "worker"
+      "node",
+      "2648185",
+      "middle",
+      "east"
     ]
   }
 }
