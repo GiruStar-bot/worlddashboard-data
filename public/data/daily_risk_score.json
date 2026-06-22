@@ -1,42 +1,43 @@
 {
-  "ISR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.thenationalnews.com/news/us/2026/06/21/lindsey-graham-iran-saudi-arabia/",
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aleteia.org/2026/06/22/barcelona-marks-50-years-of-democracy-with-helicopter-full-of-poems/",
     "event_codes": {
-      "19": 7
+      "19": 2
     },
     "keywords": [
-      "news",
       "2026",
-      "lindsey",
-      "graham",
-      "iran",
-      "saudi",
-      "arabia"
+      "barcelona",
+      "marks",
+      "years",
+      "democracy",
+      "with",
+      "helicopter",
+      "full",
+      "poems"
     ]
   },
-  "LBN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.sbs.com.au/news/podcast-episode/uncertainty-over-strait-after-first-us-iran-talks-wrap/y87f87xyf",
+  "IRN": {
+    "risk_score": 6.75,
+    "count": 8,
+    "top_news": "https://www.hindustantimes.com/world-news/as-war-with-u-s-eases-iran-steps-up-hangings-of-dissidents-101782123304830.html",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "16": 4,
+      "19": 3,
+      "18": 1
     },
     "keywords": [
+      "world",
       "news",
-      "podcast",
-      "episode",
-      "uncertainty",
-      "over",
-      "strait",
-      "after",
-      "first",
+      "war",
+      "with",
+      "eases",
       "iran",
-      "talks",
-      "wrap",
-      "y87f87xyf"
+      "steps",
+      "hangings",
+      "dissidents",
+      "101782123304830.html"
     ]
   }
 }
