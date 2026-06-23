@@ -1,95 +1,45 @@
 {
-  "ISR": {
-    "risk_score": 6.35,
-    "count": 7,
-    "top_news": "http://www.jpost.com/opinion/article-900191",
+  "COL": {
+    "risk_score": 20.8,
+    "count": 24,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/06/23/defeated-colombian-leftist-calls-for-calm-after-post-vote-violence",
     "event_codes": {
-      "19": 4,
-      "18": 2,
-      "16": 1
+      "19": 9,
+      "17": 8,
+      "14": 6,
+      "18": 1
     },
     "keywords": [
-      "opinion",
-      "article",
-      "900191"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://humanevents.com/2026/06/22/idf-to-stay-in-lebanon-as-long-as-necessary-to-stop-hezbollah-terrorists",
-    "event_codes": {
-      "18": 4,
-      "19": 1
-    },
-    "keywords": [
+      "category",
+      "world",
       "2026",
-      "idf",
-      "stay",
-      "lebanon",
-      "long",
-      "necessary",
-      "stop",
-      "hezbollah",
-      "terrorists"
+      "defeated",
+      "colombian",
+      "leftist",
+      "calls",
+      "for",
+      "calm",
+      "after",
+      "post",
+      "vote",
+      "violence"
     ]
   },
   "NGA": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://naija247news.com/nigerias-%E2%82%A672-billion-diesel-habit-forces-telecoms-to-go-solar/",
+    "risk_score": 5.5,
+    "count": 7,
+    "top_news": "https://punchng.com/state-police-governors-demand-greater-powers/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 4,
+      "17": 3
     },
     "keywords": [
-      "nigerias",
-      "%e2%82%a672",
-      "billion",
-      "diesel",
-      "habit",
-      "forces",
-      "telecoms",
-      "solar"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.44,
-    "count": 5,
-    "top_news": "https://aa.com.tr/en/americas/us-warns-rapid-support-forces-may-be-planning-mass-killings-in-sudans-north-kordofan/3975012",
-    "event_codes": {
-      "19": 3,
-      "15": 2
-    },
-    "keywords": [
-      "americas",
-      "warns",
-      "rapid",
-      "support",
-      "forces",
-      "may",
-      "planning",
-      "mass",
-      "killings",
-      "sudans",
-      "north",
-      "kordofan",
-      "3975012"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/node/2648185/middle-east",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "node",
-      "2648185",
-      "middle",
-      "east"
+      "state",
+      "police",
+      "governors",
+      "demand",
+      "greater",
+      "powers"
     ]
   }
 }
