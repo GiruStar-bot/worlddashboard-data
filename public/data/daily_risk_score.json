@@ -1,120 +1,71 @@
 {
   "IRN": {
-    "risk_score": 4.0,
+    "risk_score": 3.7,
     "count": 4,
-    "top_news": "https://www.fark.com/comments/14108522/Iran-is-now-apparently-learning-battle-tactics-from-1980s-Japanese-anime-F-15-pilot-down-in-Iran-describes-seeing-drones-around-him-link-together-in-a-jellyfish-formationAnd-fly-as-one",
+    "top_news": "https://www.nationalmemo.com/china-spacex",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "comments",
-      "14108522",
-      "iran",
-      "now",
-      "apparently",
-      "learning",
-      "battle",
-      "tactics",
-      "from",
-      "1980s",
-      "japanese",
-      "anime",
-      "pilot",
-      "down",
-      "iran",
-      "describes",
-      "seeing",
-      "drones",
-      "around",
-      "him",
-      "link",
-      "together",
-      "jellyfish",
-      "formationand",
-      "fly",
-      "one"
+      "china",
+      "spacex"
     ]
   },
   "ISR": {
-    "risk_score": 3.55,
-    "count": 4,
-    "top_news": "https://legalinsurrection.com/2026/06/nyc-cafe-faces-scrutiny-after-refunding-rep-goldman-over-pro-israel-views/",
-    "event_codes": {
-      "19": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "nyc",
-      "cafe",
-      "faces",
-      "scrutiny",
-      "after",
-      "refunding",
-      "rep",
-      "goldman",
-      "over",
-      "pro",
-      "israel",
-      "views"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/06/police-dismiss-claim-abducted-oyo-pupils-teachers-transferred-to-kaduna/",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "2026",
-      "police",
-      "dismiss",
-      "claim",
-      "abducted",
-      "oyo",
-      "pupils",
-      "teachers",
-      "transferred",
-      "kaduna"
-    ]
-  },
-  "TUR": {
-    "risk_score": 6.05,
-    "count": 11,
-    "top_news": "https://athens-times.com/turkey-over-200-arrested-in-ankara-ahead-of-nato-summit/",
-    "event_codes": {
-      "17": 10,
-      "14": 1
-    },
-    "keywords": [
-      "turkey",
-      "over",
-      "200",
-      "arrested",
-      "ankara",
-      "ahead",
-      "nato",
-      "summit"
-    ]
-  },
-  "TWN": {
-    "risk_score": 6.2,
+    "risk_score": 9.55,
     "count": 10,
-    "top_news": "https://www.taipeitimes.com/News/front/archives/2026/06/24/2003859627",
+    "top_news": "https://www.washingtonexaminer.com/news/world/4621055/iranian-leaders-new-confidence-international-travel/",
     "event_codes": {
-      "16": 3,
-      "17": 3,
-      "14": 2,
-      "19": 2
+      "19": 6,
+      "18": 2,
+      "20": 2
     },
     "keywords": [
       "news",
-      "front",
-      "archives",
+      "world",
+      "4621055",
+      "iranian",
+      "leaders",
+      "new",
+      "confidence",
+      "international",
+      "travel"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://www.vanguardngr.com/2026/06/accord-party-demands-redeployment-of-osun-cp-over-alleged-political-violence/",
+    "event_codes": {
+      "18": 4,
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "2003859627"
+      "accord",
+      "party",
+      "demands",
+      "redeployment",
+      "osun",
+      "over",
+      "alleged",
+      "political",
+      "violence"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2648303/middle-east",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "node",
+      "2648303",
+      "middle",
+      "east"
     ]
   }
 }
