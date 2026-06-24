@@ -1,19 +1,57 @@
 {
   "CMR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.miragenews.com/cameroon-falls-short-on-gender-violence-1698138/",
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://www.hrw.org/report/2026/06/24/i-live-in-constant-peril/discrimination-lack-of-economic-autonomy-and-violence",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "14": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "cameroon",
-      "falls",
-      "short",
-      "gender",
-      "violence",
-      "1698138"
+      "report",
+      "2026",
+      "live",
+      "constant",
+      "peril",
+      "discrimination",
+      "lack",
+      "economic",
+      "autonomy",
+      "and",
+      "violence"
+    ]
+  },
+  "ISR": {
+    "risk_score": 34.01,
+    "count": 38,
+    "top_news": "https://english.wafa.ps/Pages/Details/171962",
+    "event_codes": {
+      "19": 15,
+      "17": 11,
+      "18": 7,
+      "16": 2,
+      "20": 2,
+      "14": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "171962"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.85,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/171962",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "171962"
     ]
   }
 }
