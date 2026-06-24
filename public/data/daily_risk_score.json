@@ -1,40 +1,111 @@
 {
-  "ISR": {
-    "risk_score": 6.95,
-    "count": 7,
-    "top_news": "https://www.siasat.com/un-says-israel-killed-over-20000-palestinian-children-since-2023-3495375/",
+  "EGY": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/23/italian-prosecutors-demand-long-jail-terms-for-egyptians-over-murder-of-italian-student",
     "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "says",
-      "israel",
-      "killed",
-      "over",
-      "20000",
-      "palestinian",
-      "children",
-      "since",
-      "2023",
-      "3495375"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "http://www.kenyastar.com/news/279144745/armed-attack-leaves-20-dead-in-nigeria",
-    "event_codes": {
+      "17": 2,
       "18": 2,
       "19": 2
     },
     "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "italian",
+      "prosecutors",
+      "demand",
+      "long",
+      "jail",
+      "terms",
+      "for",
+      "egyptians",
+      "over",
+      "murder",
+      "italian",
+      "student"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.75,
+    "count": 4,
+    "top_news": "https://www.newsday.com/opinion/editorials/north-hempstead-mailers-c5mnoa71",
+    "event_codes": {
+      "17": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "editorials",
+      "north",
+      "hempstead",
+      "mailers",
+      "c5mnoa71"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://www.prnewswire.com/news-releases/adama-announces-launch-of-novali-a-high-load-liquid-pyroxasulfone-herbicide-for-row-crops-302809368.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
       "news",
-      "279144745",
-      "armed",
-      "attack",
-      "leaves",
-      "dead",
-      "nigeria"
+      "releases",
+      "adama",
+      "announces",
+      "launch",
+      "novali",
+      "high",
+      "load",
+      "liquid",
+      "pyroxasulfone",
+      "herbicide",
+      "for",
+      "row",
+      "crops",
+      "302809368.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.4,
+    "count": 7,
+    "top_news": "https://theeagleonline.com.ng/ndlea-uncovers-another-industrial-scale-clandestine-meth-laboratory/",
+    "event_codes": {
+      "16": 6,
+      "19": 1
+    },
+    "keywords": [
+      "ndlea",
+      "uncovers",
+      "another",
+      "industrial",
+      "scale",
+      "clandestine",
+      "meth",
+      "laboratory"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.politico.eu/article/qatari-royal-snaps-up-berlusconis-notorious-villa/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "article",
+      "qatari",
+      "royal",
+      "snaps",
+      "berlusconis",
+      "notorious",
+      "villa"
     ]
   }
 }
