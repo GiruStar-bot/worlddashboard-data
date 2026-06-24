@@ -1,50 +1,143 @@
 {
-  "KEN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://religionnews.com/2026/06/23/growing-goon-violence-against-churches-in-kenya-worries-clergy/",
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.skynews.com.au/world-news/global-affairs/us-fighter-pilot-shot-down-by-iran-describes-alarming-jellyfish-drones-before-crash/news-story/3a824af40dd07e3841e07f4f54eb19db?nk=53c40321e6a2a414bf2ffd92b903dd28-1782263812",
     "event_codes": {
-      "19": 4,
-      "14": 2
+      "19": 5,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "growing",
-      "goon",
-      "violence",
-      "against",
-      "churches",
-      "kenya",
-      "worries",
-      "clergy"
+      "world",
+      "news",
+      "global",
+      "affairs",
+      "fighter",
+      "pilot",
+      "shot",
+      "down",
+      "iran",
+      "describes",
+      "alarming",
+      "jellyfish",
+      "drones",
+      "before",
+      "crash",
+      "news",
+      "story",
+      "3a824af40dd07e3841e07f4f54eb19db"
     ]
   },
-  "THA": {
+  "IRQ": {
+    "risk_score": 9.06,
+    "count": 10,
+    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/06/23/operation-iraqi-freedom-and-operation-new-dawn-fast-facts-4/",
+    "event_codes": {
+      "19": 7,
+      "15": 3
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "operation",
+      "iraqi",
+      "freedom",
+      "and",
+      "operation",
+      "new",
+      "dawn",
+      "fast",
+      "facts"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.eurasiareview.com/24062026-loyalty-without-leverage-indias-pro-us-tilt-delivers-limited-returns-analysis/",
+    "event_codes": {
+      "19": 2,
+      "20": 1
+    },
+    "keywords": [
+      "24062026",
+      "loyalty",
+      "without",
+      "leverage",
+      "indias",
+      "pro",
+      "tilt",
+      "delivers",
+      "limited",
+      "returns",
+      "analysis"
+    ]
+  },
+  "NER": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailymail.com/news/article-15919285/Notorious-Liverpool-gangster-killed-Holland-nine-years-committing-double-murder-shot-dead-trying-collect-debt.html",
+    "top_news": "https://www.timesfreepress.com/news/2026/jun/23/niger-becomes-the-third-country-to-leave-the-international-criminal-court-tfp/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "article",
-      "15919285",
-      "notorious",
-      "liverpool",
-      "gangster",
-      "killed",
-      "holland",
-      "nine",
-      "years",
-      "committing",
-      "double",
-      "murder",
-      "shot",
-      "dead",
-      "trying",
-      "collect",
-      "debt.html"
+      "2026",
+      "jun",
+      "niger",
+      "becomes",
+      "the",
+      "third",
+      "country",
+      "leave",
+      "the",
+      "international",
+      "criminal",
+      "court",
+      "tfp"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://thesun.ng/nab-3-recover-truck-laden-with-camouflage-drugs-in-lagos/",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "nab",
+      "recover",
+      "truck",
+      "laden",
+      "with",
+      "camouflage",
+      "drugs",
+      "lagos"
+    ]
+  },
+  "SOM": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://www.eurasiareview.com/24062026-somalias-constitutional-crisis-a-major-threat-to-the-horn-of-africa-analysis/",
+    "event_codes": {
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "24062026",
+      "somalias",
+      "constitutional",
+      "crisis",
+      "major",
+      "threat",
+      "the",
+      "horn",
+      "africa",
+      "analysis"
     ]
   }
 }
