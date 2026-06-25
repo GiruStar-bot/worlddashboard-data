@@ -1,67 +1,88 @@
 {
   "IRN": {
     "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.kxxv.com/us-news/iran-war/us-draws-line-against-iran-backed-tolls-in-strait-of-hormuz",
+    "count": 4,
+    "top_news": "https://nypost.com/2026/06/25/world-news/nato-boss-mark-rutte-backs-trumps-iran-operation-after-european-leaders-balked/",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "nato",
+      "boss",
+      "mark",
+      "rutte",
+      "backs",
+      "trumps",
+      "iran",
+      "operation",
+      "after",
+      "european",
+      "leaders",
+      "balked"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.dailysabah.com/world/mid-east/israel-sets-no-timeline-for-lebanon-gaza-syria-troop-withdrawal",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "israel",
+      "sets",
+      "timeline",
+      "for",
+      "lebanon",
+      "gaza",
+      "syria",
+      "troop",
+      "withdrawal"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://lasvegassun.com/news/2026/jun/25/un-agency-pauses-evacuation-of-ships-through-the-s/",
+    "event_codes": {
+      "19": 8
     },
     "keywords": [
       "news",
-      "iran",
-      "war",
-      "draws",
-      "line",
-      "against",
-      "iran",
-      "backed",
-      "tolls",
-      "strait",
-      "hormuz"
+      "2026",
+      "jun",
+      "agency",
+      "pauses",
+      "evacuation",
+      "ships",
+      "through",
+      "the"
     ]
   },
-  "KEN": {
-    "risk_score": 11.04,
-    "count": 16,
-    "top_news": "https://www.standardmedia.co.ke/national/article/2001551303/355-people-arrested-as-murkomen-hails-peaceful-anniversary-protests",
+  "VEN": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://grenadachronicle.com/concrete-breaking-off-walls-survivors-describe-venezuelas-earthquakes/",
     "event_codes": {
-      "17": 10,
-      "14": 6
+      "16": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "national",
-      "article",
-      "2001551303",
-      "355",
-      "people",
-      "arrested",
-      "murkomen",
-      "hails",
-      "peaceful",
-      "anniversary",
-      "protests"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.siasat.com/mortal-remains-of-four-indians-killed-in-qatar-blast-repatriated-3496451/",
-    "event_codes": {
-      "16": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "mortal",
-      "remains",
-      "four",
-      "indians",
-      "killed",
-      "qatar",
-      "blast",
-      "repatriated",
-      "3496451"
+      "concrete",
+      "breaking",
+      "off",
+      "walls",
+      "survivors",
+      "describe",
+      "venezuelas",
+      "earthquakes"
     ]
   }
 }
