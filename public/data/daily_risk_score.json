@@ -1,62 +1,134 @@
 {
-  "ARE": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.dailymail.com/news/article-15928505/British-influencer-23-charged-murdering-fellow-Brit-Dubai-according-human-rights-group.html",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15928505",
-      "british",
-      "influencer",
-      "charged",
-      "murdering",
-      "fellow",
-      "brit",
-      "dubai",
-      "according",
-      "human",
-      "rights",
-      "group.html"
-    ]
-  },
   "IRN": {
     "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-june-25-2026/",
+    "top_news": "https://www.ivpressonline.com/opinion/one-cyrs-view-iran-war-and-ceasefire-in-context/article_8a35806d-aec0-443c-a05a-31a0bf65e7b5.html",
     "event_codes": {
-      "17": 2,
+      "16": 2,
       "18": 1
     },
     "keywords": [
-      "news",
+      "opinion",
+      "one",
+      "cyrs",
+      "view",
       "iran",
-      "news",
-      "brief",
-      "news",
-      "iran",
-      "news",
-      "brief",
-      "june",
-      "2026"
+      "war",
+      "and",
+      "ceasefire",
+      "context",
+      "article",
+      "8a35806d",
+      "aec0",
+      "443c",
+      "a05a",
+      "31a0bf65e7b5.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://english.wafa.ps/Pages/Details/172018",
+    "risk_score": 5.35,
+    "count": 7,
+    "top_news": "https://www.ivpressonline.com/opinion/one-cyrs-view-iran-war-and-ceasefire-in-context/article_8a35806d-aec0-443c-a05a-31a0bf65e7b5.html",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "17": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "172018"
+      "opinion",
+      "one",
+      "cyrs",
+      "view",
+      "iran",
+      "war",
+      "and",
+      "ceasefire",
+      "context",
+      "article",
+      "8a35806d",
+      "aec0",
+      "443c",
+      "a05a",
+      "31a0bf65e7b5.html"
+    ]
+  },
+  "KHM": {
+    "risk_score": 4.45,
+    "count": 5,
+    "top_news": "https://phnompenhpost.com/national/kr-attack-three-villages/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "national",
+      "attack",
+      "three",
+      "villages"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2567207/idf-reservist-killed-in-operational-accident-in-southern-lebanon.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "2567207",
+      "idf",
+      "reservist",
+      "killed",
+      "operational",
+      "accident",
+      "southern",
+      "lebanon.html"
+    ]
+  },
+  "PER": {
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://www.greenleft.org.au/2026/1456/world/peru-razor-thin-margin-separates-presidential-candidates-run-election",
+    "event_codes": {
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "1456",
+      "world",
+      "peru",
+      "razor",
+      "thin",
+      "margin",
+      "separates",
+      "presidential",
+      "candidates",
+      "run",
+      "election"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.mercurynews.com/2026/06/25/opinion-us-military-leaders-are-enabling-trumps-lawlessness/",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "opinion",
+      "military",
+      "leaders",
+      "are",
+      "enabling",
+      "trumps",
+      "lawlessness"
     ]
   }
 }
