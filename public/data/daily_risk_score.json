@@ -1,69 +1,54 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailystar.co.uk/news/latest-news/druggie-tenants-turn-dad-78-37344532",
+  "COD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://observer.ug/news/red-cross-condemns-killing-of-two-volunteers-in-drc/",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
       "news",
-      "latest",
-      "news",
-      "druggie",
-      "tenants",
-      "turn",
-      "dad",
-      "37344532"
+      "red",
+      "cross",
+      "condemns",
+      "killing",
+      "two",
+      "volunteers",
+      "drc"
     ]
   },
-  "ISR": {
-    "risk_score": 9.6,
-    "count": 11,
-    "top_news": "https://www.ynetnews.com/article/bjmth3fffg",
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://news.webindia123.com/news/Articles/World/20260625/4466975.html",
     "event_codes": {
-      "19": 7,
-      "14": 4
+      "19": 4
     },
     "keywords": [
-      "article",
-      "bjmth3fffg"
+      "news",
+      "articles",
+      "world",
+      "20260625",
+      "4466975.html"
     ]
   },
   "NGA": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://thesun.ng/ex-apc-chairman-dies-in-bandits-captivity-in-kebbi/",
+    "risk_score": 2.8,
+    "count": 5,
+    "top_news": "https://thesun.ng/protest-rocks-plateau-apc-72-hours-to-publication-of-candidates-names/",
     "event_codes": {
-      "18": 4
+      "17": 3,
+      "14": 2
     },
     "keywords": [
+      "protest",
+      "rocks",
+      "plateau",
       "apc",
-      "chairman",
-      "dies",
-      "bandits",
-      "captivity",
-      "kebbi"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.chiangraitimes.com/news/police-deploy-more-than-500-officers-in-massive-nominee-crackdown/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "police",
-      "deploy",
-      "more",
-      "than",
-      "500",
-      "officers",
-      "massive",
-      "nominee",
-      "crackdown"
+      "hours",
+      "publication",
+      "candidates",
+      "names"
     ]
   }
 }
