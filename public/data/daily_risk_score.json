@@ -1,104 +1,62 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.clickondetroit.com/news/world/2026/06/25/shiite-muslims-mark-holy-day-of-ashoura-after-months-of-war-in-iran-and-lebanon/",
+  "ARE": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-15928505/British-influencer-23-charged-murdering-fellow-Brit-Dubai-according-human-rights-group.html",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "shiite",
-      "muslims",
-      "mark",
-      "holy",
-      "day",
-      "ashoura",
-      "after",
-      "months",
-      "war",
-      "iran",
-      "and",
-      "lebanon"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://dunyanews.tv/en/World/959113-us-promises-to-protect-gulf-states-interests-in-iran-talks",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "959113",
-      "promises",
-      "protect",
-      "gulf",
-      "states",
-      "interests",
-      "iran",
-      "talks"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://nairobiwire.com/2026/06/utumishi-girls-fire-case-murder-charges-suspects.html",
-    "event_codes": {
-      "17": 3,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "utumishi",
-      "girls",
-      "fire",
-      "case",
-      "murder",
-      "charges",
-      "suspects.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 25.77,
-    "count": 32,
-    "top_news": "https://dailytrust.com/plateau-attack-how-gunmen-killed-my-pregnant-sister-inside-labour-room/",
-    "event_codes": {
-      "19": 15,
-      "17": 11,
-      "18": 5,
-      "15": 1
-    },
-    "keywords": [
-      "plateau",
-      "attack",
-      "how",
-      "gunmen",
-      "killed",
-      "pregnant",
-      "sister",
-      "inside",
-      "labour",
-      "room"
-    ]
-  },
-  "SOM": {
-    "risk_score": 5.96,
-    "count": 8,
-    "top_news": "https://allafrica.com/stories/202606250004.html",
-    "event_codes": {
-      "15": 3,
-      "17": 2,
-      "18": 2,
+      "17": 1,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "stories",
-      "202606250004.html"
+      "news",
+      "article",
+      "15928505",
+      "british",
+      "influencer",
+      "charged",
+      "murdering",
+      "fellow",
+      "brit",
+      "dubai",
+      "according",
+      "human",
+      "rights",
+      "group.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-news-in-brief-news/iran-news-in-brief-june-25-2026/",
+    "event_codes": {
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "news",
+      "brief",
+      "news",
+      "iran",
+      "news",
+      "brief",
+      "june",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://english.wafa.ps/Pages/Details/172018",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172018"
     ]
   }
 }
