@@ -1,54 +1,104 @@
 {
-  "COD": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://observer.ug/news/red-cross-condemns-killing-of-two-volunteers-in-drc/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.clickondetroit.com/news/world/2026/06/25/shiite-muslims-mark-holy-day-of-ashoura-after-months-of-war-in-iran-and-lebanon/",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
       "news",
-      "red",
-      "cross",
-      "condemns",
-      "killing",
-      "two",
-      "volunteers",
-      "drc"
+      "world",
+      "2026",
+      "shiite",
+      "muslims",
+      "mark",
+      "holy",
+      "day",
+      "ashoura",
+      "after",
+      "months",
+      "war",
+      "iran",
+      "and",
+      "lebanon"
     ]
   },
-  "IRN": {
+  "ISR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20260625/4466975.html",
+    "top_news": "https://dunyanews.tv/en/World/959113-us-promises-to-protect-gulf-states-interests-in-iran-talks",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "news",
-      "articles",
       "world",
-      "20260625",
-      "4466975.html"
+      "959113",
+      "promises",
+      "protect",
+      "gulf",
+      "states",
+      "interests",
+      "iran",
+      "talks"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://nairobiwire.com/2026/06/utumishi-girls-fire-case-murder-charges-suspects.html",
+    "event_codes": {
+      "17": 3,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "utumishi",
+      "girls",
+      "fire",
+      "case",
+      "murder",
+      "charges",
+      "suspects.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.8,
-    "count": 5,
-    "top_news": "https://thesun.ng/protest-rocks-plateau-apc-72-hours-to-publication-of-candidates-names/",
+    "risk_score": 25.77,
+    "count": 32,
+    "top_news": "https://dailytrust.com/plateau-attack-how-gunmen-killed-my-pregnant-sister-inside-labour-room/",
     "event_codes": {
-      "17": 3,
-      "14": 2
+      "19": 15,
+      "17": 11,
+      "18": 5,
+      "15": 1
     },
     "keywords": [
-      "protest",
-      "rocks",
       "plateau",
-      "apc",
-      "hours",
-      "publication",
-      "candidates",
-      "names"
+      "attack",
+      "how",
+      "gunmen",
+      "killed",
+      "pregnant",
+      "sister",
+      "inside",
+      "labour",
+      "room"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.96,
+    "count": 8,
+    "top_news": "https://allafrica.com/stories/202606250004.html",
+    "event_codes": {
+      "15": 3,
+      "17": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202606250004.html"
     ]
   }
 }
