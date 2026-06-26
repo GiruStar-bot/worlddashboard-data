@@ -1,80 +1,147 @@
 {
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.az/news/uae-stresses-hormuz-security-in-rare-call-with-iran-after-war-tensions",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "uae",
+      "stresses",
+      "hormuz",
+      "security",
+      "rare",
+      "call",
+      "with",
+      "iran",
+      "after",
+      "war",
+      "tensions"
+    ]
+  },
   "IRN": {
+    "risk_score": 5.82,
+    "count": 8,
+    "top_news": "https://news.az/news/uae-stresses-hormuz-security-in-rare-call-with-iran-after-war-tensions",
+    "event_codes": {
+      "17": 5,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "uae",
+      "stresses",
+      "hormuz",
+      "security",
+      "rare",
+      "call",
+      "with",
+      "iran",
+      "after",
+      "war",
+      "tensions"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.32,
+    "count": 17,
+    "top_news": "https://www.kacu.org/2026-06-26/palestinians-grieve-for-a-father-to-be-shot-by-israeli-troops-the-day-his-son-was-born",
+    "event_codes": {
+      "19": 11,
+      "17": 6
+    },
+    "keywords": [
+      "2026",
+      "palestinians",
+      "grieve",
+      "for",
+      "father",
+      "shot",
+      "israeli",
+      "troops",
+      "the",
+      "day",
+      "his",
+      "son",
+      "was",
+      "born"
+    ]
+  },
+  "NGA": {
+    "risk_score": 25.45,
+    "count": 31,
+    "top_news": "https://dailytrust.com/police-gun-down-3-suspected-bandits-rescue-8-kidnap-victims-in-benue/",
+    "event_codes": {
+      "19": 13,
+      "17": 9,
+      "18": 8,
+      "14": 1
+    },
+    "keywords": [
+      "police",
+      "gun",
+      "down",
+      "suspected",
+      "bandits",
+      "rescue",
+      "kidnap",
+      "victims",
+      "benue"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://www.hindustantimes.com/india-news/lost-one-and-only-hope-family-of-indian-sailor-killed-in-us-strike-seeks-justice-101782465088436.html",
+    "top_news": "https://www.kacu.org/2026-06-26/palestinians-grieve-for-a-father-to-be-shot-by-israeli-troops-the-day-his-son-was-born",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "india",
-      "news",
-      "lost",
-      "one",
+      "2026",
+      "palestinians",
+      "grieve",
+      "for",
+      "father",
+      "shot",
+      "israeli",
+      "troops",
+      "the",
+      "day",
+      "his",
+      "son",
+      "was",
+      "born"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://nehandaradio.com/2026/06/26/cab3-and-the-myth-of-electoral-peace-why-zimbabwes-next-parliamentary-election-could-be-its-most-violent/",
+    "event_codes": {
+      "14": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "cab3",
       "and",
-      "only",
-      "hope",
-      "family",
-      "indian",
-      "sailor",
-      "killed",
-      "strike",
-      "seeks",
-      "justice",
-      "101782465088436.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.35,
-    "count": 12,
-    "top_news": "https://www.ynetnews.com/magazine/article/sjzfgnszme",
-    "event_codes": {
-      "17": 5,
-      "14": 3,
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "magazine",
-      "article",
-      "sjzfgnszme"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.4,
-    "count": 6,
-    "top_news": "https://www.ynetnews.com/magazine/article/sjzfgnszme",
-    "event_codes": {
-      "17": 5,
-      "18": 1
-    },
-    "keywords": [
-      "magazine",
-      "article",
-      "sjzfgnszme"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.38,
-    "count": 13,
-    "top_news": "https://naija247news.com/wike-escalates-political-rhetoric-says-tinubus-road-record-outshines-david-mark-era/",
-    "event_codes": {
-      "17": 9,
-      "15": 4
-    },
-    "keywords": [
-      "wike",
-      "escalates",
-      "political",
-      "rhetoric",
-      "says",
-      "tinubus",
-      "road",
-      "record",
-      "outshines",
-      "david",
-      "mark",
-      "era"
+      "the",
+      "myth",
+      "electoral",
+      "peace",
+      "why",
+      "zimbabwes",
+      "next",
+      "parliamentary",
+      "election",
+      "could",
+      "its",
+      "most",
+      "violent"
     ]
   }
 }
