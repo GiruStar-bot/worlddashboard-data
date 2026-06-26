@@ -1,26 +1,40 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.ncr-iran.org/en/news/terrorism-a-fundamentalism/the-price-of-appeasement-how-the-west-built-irans-impunity/",
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/news/429257",
     "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
+      "19": 5
     },
     "keywords": [
       "news",
-      "terrorism",
-      "fundamentalism",
-      "the",
-      "price",
-      "appeasement",
-      "how",
-      "the",
-      "west",
-      "built",
-      "irans",
-      "impunity"
+      "429257"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://www.dailymail.com/tvshowbiz/article-15933501/gwyneth-paltrow-new-career-embattled-actress-fury-israeli-ad-goop-job-cuts.html",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "tvshowbiz",
+      "article",
+      "15933501",
+      "gwyneth",
+      "paltrow",
+      "new",
+      "career",
+      "embattled",
+      "actress",
+      "fury",
+      "israeli",
+      "goop",
+      "job",
+      "cuts.html"
     ]
   }
 }
