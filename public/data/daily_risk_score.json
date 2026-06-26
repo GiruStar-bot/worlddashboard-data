@@ -1,42 +1,123 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.gazettextra.com/opinion/letters/your-views-strassburg/article_3e32356d-e598-4b9a-b728-aef9c57fcc68.html",
+  "BOL": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/6/26/russia-reports-downing-660-ukrainian-drones-denies-seeking-belarus-war-aid",
     "event_codes": {
-      "19": 2
+      "15": 3
     },
     "keywords": [
-      "opinion",
-      "letters",
-      "your",
-      "views",
-      "strassburg",
-      "article",
-      "3e32356d",
-      "e598",
-      "4b9a",
-      "b728",
-      "aef9c57fcc68.html"
+      "news",
+      "2026",
+      "russia",
+      "reports",
+      "downing",
+      "660",
+      "ukrainian",
+      "drones",
+      "denies",
+      "seeking",
+      "belarus",
+      "war",
+      "aid"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://capitalfm.africa/un-pauses-strait-of-hormuz-evacuation-plan-after-cargo-ship-attacked/",
+    "risk_score": 4.87,
+    "count": 7,
+    "top_news": "https://ejpress.org/diaspora-affairs-minister-calls-for-armed-guards-to-protect-jews-abroad/",
     "event_codes": {
-      "19": 3
+      "17": 4,
+      "14": 1,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "pauses",
-      "strait",
-      "hormuz",
-      "evacuation",
-      "plan",
-      "after",
-      "cargo",
-      "ship",
-      "attacked"
+      "diaspora",
+      "affairs",
+      "minister",
+      "calls",
+      "for",
+      "armed",
+      "guards",
+      "protect",
+      "jews",
+      "abroad"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://socialistworker.co.uk/news/british-state-let-us-soldier-get-away-with-sexual-abuse/",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "british",
+      "state",
+      "let",
+      "soldier",
+      "get",
+      "away",
+      "with",
+      "sexual",
+      "abuse"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.nakedcapitalism.com/2026/06/iran-war-ships-still-transit-oman-channel-despite-persian-gulf-authority-opposition-suspected-iranian-attacks-iran-yet-to-act-as-israel-bombs-southern-lebanon.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "ships",
+      "still",
+      "transit",
+      "oman",
+      "channel",
+      "despite",
+      "persian",
+      "gulf",
+      "authority",
+      "opposition",
+      "suspected",
+      "iranian",
+      "attacks",
+      "iran",
+      "yet",
+      "act",
+      "israel",
+      "bombs",
+      "southern",
+      "lebanon.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.lbc.co.uk/article/saudi-doctor-magdeburg-christmas-market-attack-jailed-life-5HjdcBr_2/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "saudi",
+      "doctor",
+      "magdeburg",
+      "christmas",
+      "market",
+      "attack",
+      "jailed",
+      "life",
+      "5hjdcbr"
     ]
   }
 }
