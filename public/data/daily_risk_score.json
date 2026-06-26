@@ -1,113 +1,109 @@
 {
-  "IRQ": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1398766/Iraq-%E2%80%98could-leave-Opec%E2%80%99-if-output-limit-is-not-raised",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.wfsu.org/npr-news/2026-06-26/un-agency-pauses-evacuation-of-ships-through-the-strait-of-hormuz-after-attack-on-vessel",
     "event_codes": {
-      "14": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "details",
-      "1398766",
-      "iraq",
-      "%e2%80%98could",
-      "leave",
-      "opec%e2%80%99",
-      "output",
-      "limit",
-      "not",
-      "raised"
+      "npr",
+      "news",
+      "2026",
+      "agency",
+      "pauses",
+      "evacuation",
+      "ships",
+      "through",
+      "the",
+      "strait",
+      "hormuz",
+      "after",
+      "attack",
+      "vessel"
     ]
   },
   "ISR": {
-    "risk_score": 8.4,
-    "count": 9,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/hezbollah-says-israeli-strike-killed-two-civilians-southern-lebanon",
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://www.torahmusings.com/2026/06/a-broken-reed-vs-netzach-yisrael/",
     "event_codes": {
-      "19": 6,
-      "20": 2,
-      "17": 1
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "hezbollah",
-      "says",
-      "israeli",
-      "strike",
-      "killed",
-      "two",
-      "civilians",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "KEN": {
-    "risk_score": 6.55,
-    "count": 10,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/06/26/massive-police-deployment-blocks-kenya-protest-anniversary",
-    "event_codes": {
-      "17": 5,
-      "19": 3,
+      "16": 2,
       "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "category",
-      "world",
-      "2026",
-      "massive",
-      "police",
-      "deployment",
-      "blocks",
-      "kenya",
-      "protest",
-      "anniversary"
-    ]
-  },
-  "MYS": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.freemalaysiatoday.com/category/opinion/2026/06/26/pas-at-crossroads-of-power-and-decline",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "category",
-      "opinion",
-      "2026",
-      "pas",
-      "crossroads",
-      "power",
-      "and",
-      "decline"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://thenationonlineng.net/sotayo-hosts-fans-at-four-day-private-watch-party-for-osun-dagbonu/",
-    "event_codes": {
-      "17": 2,
-      "18": 2,
       "19": 1
     },
     "keywords": [
-      "sotayo",
-      "hosts",
-      "fans",
-      "four",
-      "day",
-      "private",
-      "watch",
-      "party",
+      "2026",
+      "broken",
+      "reed",
+      "netzach",
+      "yisrael"
+    ]
+  },
+  "KHM": {
+    "risk_score": 4.0,
+    "count": 8,
+    "top_news": "https://www.straitstimes.com/singapore/courts-crime/jail-for-man-fired-from-cambodian-scam-syndicate-that-targeted-sporeans-after-3-days-on-the-job",
+    "event_codes": {
+      "17": 8
+    },
+    "keywords": [
+      "singapore",
+      "courts",
+      "crime",
+      "jail",
       "for",
-      "osun",
-      "dagbonu"
+      "man",
+      "fired",
+      "from",
+      "cambodian",
+      "scam",
+      "syndicate",
+      "that",
+      "targeted",
+      "sporeans",
+      "after",
+      "days",
+      "the",
+      "job"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.1,
+    "count": 8,
+    "top_news": "https://leadership.ng/still-on-kidnapping/",
+    "event_codes": {
+      "19": 4,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "still",
+      "kidnapping"
+    ]
+  },
+  "SGP": {
+    "risk_score": 6.4,
+    "count": 9,
+    "top_news": "https://www.straitstimes.com/singapore/floating-fish-farms-near-pulau-ubin-catch-fire-after-suspected-lightning-strike",
+    "event_codes": {
+      "17": 5,
+      "19": 4
+    },
+    "keywords": [
+      "singapore",
+      "floating",
+      "fish",
+      "farms",
+      "near",
+      "pulau",
+      "ubin",
+      "catch",
+      "fire",
+      "after",
+      "suspected",
+      "lightning",
+      "strike"
     ]
   }
 }
