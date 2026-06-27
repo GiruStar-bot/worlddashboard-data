@@ -1,96 +1,66 @@
 {
-  "ARE": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.mirror.co.uk/news/world-news/brooke-george-dubai-gofundme-treeby-37355780",
+  "ISR": {
+    "risk_score": 2.84,
+    "count": 3,
+    "top_news": "https://aliran.com/web-specials/ceasefire-but-not-a-grand-bargain-between-the-us-and-iran",
     "event_codes": {
-      "17": 5
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "brooke",
-      "george",
-      "dubai",
-      "gofundme",
-      "treeby",
-      "37355780"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://tribuneonlineng.com/iran-accuses-us-of-violating-peace-deal-after-fresh-strikes/",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "iran",
-      "accuses",
-      "violating",
-      "peace",
-      "deal",
-      "after",
-      "fresh",
-      "strikes"
+      "web",
+      "specials",
+      "ceasefire",
+      "but",
+      "not",
+      "grand",
+      "bargain",
+      "between",
+      "the",
+      "and",
+      "iran"
     ]
   },
   "NGA": {
-    "risk_score": 9.26,
-    "count": 12,
-    "top_news": "https://thesun.ng/operation-kosaye-lagos-ogun-joint-police-operation-neutralizes-four-kidnappers-rescues-four-victims/",
+    "risk_score": 18.0,
+    "count": 19,
+    "top_news": "https://www.christiantoday.com/news/fulani-terrorists-kill-28-christians-in-central-nigeria",
     "event_codes": {
-      "17": 6,
-      "18": 3,
-      "19": 2,
-      "15": 1
+      "19": 17,
+      "17": 2
     },
     "keywords": [
-      "operation",
-      "kosaye",
-      "lagos",
-      "ogun",
-      "joint",
-      "police",
-      "operation",
-      "neutralizes",
-      "four",
-      "kidnappers",
-      "rescues",
-      "four",
-      "victims"
+      "news",
+      "fulani",
+      "terrorists",
+      "kill",
+      "christians",
+      "central",
+      "nigeria"
     ]
   },
-  "VEN": {
-    "risk_score": 4.0,
+  "SDN": {
+    "risk_score": 2.8,
     "count": 4,
-    "top_news": "https://www.blessyouboys.com/detroit-tigers-prospects-amp-minor-leagues/93483/detroit-tigers-prospects-eduardo-valencia-paul-wilson-jace-jung-ryan-hall-peyton-graham",
+    "top_news": "https://indianexpress.com/article/world/us-sanctions-raipur-ceo-alok-choudhari-sbl-energy-explosives-sudan-war-10759692/",
     "event_codes": {
-      "19": 4
+      "16": 2,
+      "19": 2
     },
     "keywords": [
-      "detroit",
-      "tigers",
-      "prospects",
-      "amp",
-      "minor",
-      "leagues",
-      "93483",
-      "detroit",
-      "tigers",
-      "prospects",
-      "eduardo",
-      "valencia",
-      "paul",
-      "wilson",
-      "jace",
-      "jung",
-      "ryan",
-      "hall",
-      "peyton",
-      "graham"
+      "article",
+      "world",
+      "sanctions",
+      "raipur",
+      "ceo",
+      "alok",
+      "choudhari",
+      "sbl",
+      "energy",
+      "explosives",
+      "sudan",
+      "war",
+      "10759692"
     ]
   }
 }
