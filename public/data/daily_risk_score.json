@@ -1,39 +1,74 @@
 {
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.npr.org/transcripts/nx-s1-5828767",
+  "ARE": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.freepressjournal.in/viral/who-is-brooke-george-tiktok-influencer-to-face-death-penalty-for-allegedly-murdering-boyfriend-in-dubai-claims-self-defense",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "transcripts",
-      "5828767"
+      "viral",
+      "who",
+      "brooke",
+      "george",
+      "tiktok",
+      "influencer",
+      "face",
+      "death",
+      "penalty",
+      "for",
+      "allegedly",
+      "murdering",
+      "boyfriend",
+      "dubai",
+      "claims",
+      "self",
+      "defense"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.5,
+    "count": 7,
+    "top_news": "https://www.orissapost.com/sonia-slams-modi-govts-stony-silence-on-gaza-genocide/",
+    "event_codes": {
+      "17": 3,
+      "19": 3,
+      "20": 1
+    },
+    "keywords": [
+      "sonia",
+      "slams",
+      "modi",
+      "govts",
+      "stony",
+      "silence",
+      "gaza",
+      "genocide"
     ]
   },
   "PSE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.npr.org/transcripts/nx-s1-5828767",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "transcripts",
-      "5828767"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
+    "risk_score": 2.3,
     "count": 3,
-    "top_news": "https://www.npr.org/transcripts/nx-s1-5828767",
+    "top_news": "https://www.irishtimes.com/opinion/2026/06/27/opinion-two-elections-are-shaping-war-and-peace-in-the-middle-east/",
     "event_codes": {
-      "19": 3
+      "14": 2,
+      "20": 1
     },
     "keywords": [
-      "transcripts",
-      "5828767"
+      "opinion",
+      "2026",
+      "opinion",
+      "two",
+      "elections",
+      "are",
+      "shaping",
+      "war",
+      "and",
+      "peace",
+      "the",
+      "middle",
+      "east"
     ]
   }
 }
