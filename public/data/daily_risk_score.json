@@ -1,81 +1,59 @@
 {
-  "IRN": {
+  "LBN": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://voiceofvienna.org/rubio-unveils-israel-lebanon-framework-calls-it-first-step-to-peace/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "rubio",
+      "unveils",
+      "israel",
+      "lebanon",
+      "framework",
+      "calls",
+      "first",
+      "step",
+      "peace"
+    ]
+  },
+  "TCD": {
     "risk_score": 2.3,
     "count": 3,
-    "top_news": "https://www.worthynews.com/115429-us-strikes-iranian-targets-after-shipping-attack-raises-ceasefire-fears",
+    "top_news": "https://www.kltv.com/2026/06/27/tyler-man-charged-after-sexually-assaulting-co-worker/",
     "event_codes": {
-      "14": 2,
-      "19": 1
-    },
-    "keywords": [
-      "115429",
-      "strikes",
-      "iranian",
-      "targets",
-      "after",
-      "shipping",
-      "attack",
-      "raises",
-      "ceasefire",
-      "fears"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.3,
-    "count": 9,
-    "top_news": "https://www.prokerala.com/news/articles/a1780937.html",
-    "event_codes": {
-      "17": 4,
-      "19": 3,
-      "14": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1780937.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.15,
-    "count": 5,
-    "top_news": "https://www.jns.org/news/israel-news/hezbollah-chief-says-israeli-lebanese-framework-is-null-and-void",
-    "event_codes": {
-      "19": 3,
-      "14": 2
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "hezbollah",
-      "chief",
-      "says",
-      "israeli",
-      "lebanese",
-      "framework",
-      "null",
-      "and",
-      "void"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.76,
-    "count": 3,
-    "top_news": "https://dailypost.ng/2026/06/27/environmental-group-demands-independent-probe-into-abia-pipeline-explosion/",
-    "event_codes": {
-      "17": 3
+      "18": 2,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "environmental",
-      "group",
-      "demands",
-      "independent",
-      "probe",
-      "into",
-      "abia",
-      "pipeline",
-      "explosion"
+      "tyler",
+      "man",
+      "charged",
+      "after",
+      "sexually",
+      "assaulting",
+      "worker"
+    ]
+  },
+  "VEN": {
+    "risk_score": 7.2,
+    "count": 8,
+    "top_news": "https://www.wisn.com/article/rescuing-survivors-venezuela-third-day-deadly-earthquakes/71751929",
+    "event_codes": {
+      "18": 8
+    },
+    "keywords": [
+      "article",
+      "rescuing",
+      "survivors",
+      "venezuela",
+      "third",
+      "day",
+      "deadly",
+      "earthquakes",
+      "71751929"
     ]
   }
 }
