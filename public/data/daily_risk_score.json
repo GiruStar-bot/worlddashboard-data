@@ -1,63 +1,76 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://themedialine.org/headlines/iran-launches-reported-strikes-on-us-military-targets-after-hormuz-clash/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "headlines",
-      "iran",
-      "launches",
-      "reported",
-      "strikes",
-      "military",
-      "targets",
-      "after",
-      "hormuz",
-      "clash"
-    ]
-  },
-  "LBN": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://themedialine.org/headlines/iran-launches-reported-strikes-on-us-military-targets-after-hormuz-clash/",
+    "top_news": "https://www.theepochtimes.com/world/us-forces-launch-new-strikes-on-iran-6054327",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "headlines",
-      "iran",
-      "launches",
-      "reported",
+      "world",
+      "forces",
+      "launch",
+      "new",
       "strikes",
-      "military",
-      "targets",
-      "after",
-      "hormuz",
-      "clash"
+      "iran",
+      "6054327"
     ]
   },
-  "SOM": {
-    "risk_score": 6.85,
-    "count": 8,
-    "top_news": "https://www.dailymail.com/news/article-15934641/minnesota-fraud-somalia-mastermind-arrested-feeding-future.html",
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.theepochtimes.com/world/us-forces-launch-new-strikes-on-iran-6054327",
     "event_codes": {
-      "19": 6,
-      "17": 2
+      "19": 6
     },
     "keywords": [
-      "news",
+      "world",
+      "forces",
+      "launch",
+      "new",
+      "strikes",
+      "iran",
+      "6054327"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.95,
+    "count": 13,
+    "top_news": "https://www.jpost.com/opinion/article-900404",
+    "event_codes": {
+      "19": 6,
+      "16": 3,
+      "17": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "opinion",
       "article",
-      "15934641",
-      "minnesota",
-      "fraud",
-      "somalia",
-      "mastermind",
-      "arrested",
-      "feeding",
-      "future.html"
+      "900404"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.newzimbabwe.com/nurses-demand-urgent-action-at-ngomahuru-psychiatric-hospital-after-patient-dies-following-escape/",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "nurses",
+      "demand",
+      "urgent",
+      "action",
+      "ngomahuru",
+      "psychiatric",
+      "hospital",
+      "after",
+      "patient",
+      "dies",
+      "following",
+      "escape"
     ]
   }
 }
