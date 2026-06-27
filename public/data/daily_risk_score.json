@@ -1,40 +1,89 @@
 {
   "IRN": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/news/429257",
+    "risk_score": 24.0,
+    "count": 25,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/26/771152/United-States-CENTCOM-attacks-targets-Iran",
     "event_codes": {
-      "19": 5
+      "19": 23,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "429257"
+      "detail",
+      "2026",
+      "771152",
+      "united",
+      "states",
+      "centcom",
+      "attacks",
+      "targets",
+      "iran"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theepochtimes.com/bright/one-man-metes-out-old-style-justice-in-the-fourth-option-6052765",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "bright",
+      "one",
+      "man",
+      "metes",
+      "out",
+      "old",
+      "style",
+      "justice",
+      "the",
+      "fourth",
+      "option",
+      "6052765"
     ]
   },
   "ISR": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://www.dailymail.com/tvshowbiz/article-15933501/gwyneth-paltrow-new-career-embattled-actress-fury-israeli-ad-goop-job-cuts.html",
+    "risk_score": 8.65,
+    "count": 14,
+    "top_news": "https://balticbusinessnews.com/airlines-cancel-hundreds-of-flights-after-u-s-israeli-attacks-on-iran/",
     "event_codes": {
-      "19": 3,
+      "16": 7,
+      "19": 4,
       "17": 2,
-      "14": 1
+      "18": 1
     },
     "keywords": [
-      "tvshowbiz",
-      "article",
-      "15933501",
-      "gwyneth",
-      "paltrow",
-      "new",
-      "career",
-      "embattled",
-      "actress",
-      "fury",
+      "airlines",
+      "cancel",
+      "hundreds",
+      "flights",
+      "after",
       "israeli",
-      "goop",
-      "job",
-      "cuts.html"
+      "attacks",
+      "iran"
+    ]
+  },
+  "SOM": {
+    "risk_score": 7.0,
+    "count": 13,
+    "top_news": "https://www.wdef.com/suspect-in-minnesota-fraud-case-arrested-in-somalia-after-4-years-on-the-run-officials-say/",
+    "event_codes": {
+      "17": 12,
+      "19": 1
+    },
+    "keywords": [
+      "suspect",
+      "minnesota",
+      "fraud",
+      "case",
+      "arrested",
+      "somalia",
+      "after",
+      "years",
+      "the",
+      "run",
+      "officials",
+      "say"
     ]
   }
 }
