@@ -1,69 +1,87 @@
 {
   "ISR": {
-    "risk_score": 9.9,
-    "count": 12,
-    "top_news": "https://www.middleeastmonitor.com/20260627-hundreds-rally-in-stockholm-against-israeli-strikes-on-gaza/",
+    "risk_score": 10.19,
+    "count": 11,
+    "top_news": "https://english.aawsat.com/arab-world/5289291-hezbollah-chief-rejects-us-lebanon-israel-deal",
     "event_codes": {
+      "17": 4,
       "18": 4,
-      "19": 4,
-      "14": 2,
-      "17": 2
+      "19": 3
     },
     "keywords": [
-      "20260627",
-      "hundreds",
-      "rally",
-      "stockholm",
-      "against",
-      "israeli",
-      "strikes",
-      "gaza"
+      "arab",
+      "world",
+      "5289291",
+      "hezbollah",
+      "chief",
+      "rejects",
+      "lebanon",
+      "israel",
+      "deal"
     ]
   },
-  "KEN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.modernghana.com/news/1505995/six-kenyan-protesters-found-dumped-tortured-after.html",
+  "LBN": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://english.aawsat.com/arab-world/5289291-hezbollah-chief-rejects-us-lebanon-israel-deal",
     "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "1505995",
-      "six",
-      "kenyan",
-      "protesters",
-      "found",
-      "dumped",
-      "tortured",
-      "after.html"
+      "arab",
+      "world",
+      "5289291",
+      "hezbollah",
+      "chief",
+      "rejects",
+      "lebanon",
+      "israel",
+      "deal"
     ]
   },
   "NGA": {
-    "risk_score": 7.9,
-    "count": 10,
-    "top_news": "https://saharareporters.com/2026/06/27/trump-claims-us-has-curbed-mass-killings-christians-nigeria-hit-terrorists-hard-killed",
+    "risk_score": 7.72,
+    "count": 8,
+    "top_news": "https://thesun.ng/state-police-onyewuchi-sani-bello-abaribe-others-provide-answers-on-govs-powers-funding-federal-oversight-others/",
     "event_codes": {
-      "19": 5,
-      "17": 4,
-      "18": 1
+      "19": 7,
+      "15": 1
     },
     "keywords": [
-      "2026",
-      "trump",
-      "claims",
-      "has",
-      "curbed",
-      "mass",
-      "killings",
-      "christians",
-      "nigeria",
-      "hit",
-      "terrorists",
-      "hard",
-      "killed"
+      "state",
+      "police",
+      "onyewuchi",
+      "sani",
+      "bello",
+      "abaribe",
+      "others",
+      "provide",
+      "answers",
+      "govs",
+      "powers",
+      "funding",
+      "federal",
+      "oversight",
+      "others"
+    ]
+  },
+  "PSE": {
+    "risk_score": 11.7,
+    "count": 13,
+    "top_news": "https://imemc.org/article/widespread-israeli-military-invasions-abductions-in-west-bank/",
+    "event_codes": {
+      "18": 9,
+      "17": 4
+    },
+    "keywords": [
+      "article",
+      "widespread",
+      "israeli",
+      "military",
+      "invasions",
+      "abductions",
+      "west",
+      "bank"
     ]
   }
 }
