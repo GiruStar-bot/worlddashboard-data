@@ -1,87 +1,81 @@
 {
-  "ISR": {
-    "risk_score": 10.19,
-    "count": 11,
-    "top_news": "https://english.aawsat.com/arab-world/5289291-hezbollah-chief-rejects-us-lebanon-israel-deal",
+  "IRN": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.worthynews.com/115429-us-strikes-iranian-targets-after-shipping-attack-raises-ceasefire-fears",
     "event_codes": {
-      "17": 4,
-      "18": 4,
-      "19": 3
+      "14": 2,
+      "19": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5289291",
-      "hezbollah",
-      "chief",
-      "rejects",
-      "lebanon",
-      "israel",
-      "deal"
+      "115429",
+      "strikes",
+      "iranian",
+      "targets",
+      "after",
+      "shipping",
+      "attack",
+      "raises",
+      "ceasefire",
+      "fears"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.3,
+    "count": 9,
+    "top_news": "https://www.prokerala.com/news/articles/a1780937.html",
+    "event_codes": {
+      "17": 4,
+      "19": 3,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1780937.html"
     ]
   },
   "LBN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/arab-world/5289291-hezbollah-chief-rejects-us-lebanon-israel-deal",
+    "risk_score": 4.15,
+    "count": 5,
+    "top_news": "https://www.jns.org/news/israel-news/hezbollah-chief-says-israeli-lebanese-framework-is-null-and-void",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "14": 2
     },
     "keywords": [
-      "arab",
-      "world",
-      "5289291",
+      "news",
+      "israel",
+      "news",
       "hezbollah",
       "chief",
-      "rejects",
-      "lebanon",
-      "israel",
-      "deal"
+      "says",
+      "israeli",
+      "lebanese",
+      "framework",
+      "null",
+      "and",
+      "void"
     ]
   },
   "NGA": {
-    "risk_score": 7.72,
-    "count": 8,
-    "top_news": "https://thesun.ng/state-police-onyewuchi-sani-bello-abaribe-others-provide-answers-on-govs-powers-funding-federal-oversight-others/",
+    "risk_score": 2.76,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/06/27/environmental-group-demands-independent-probe-into-abia-pipeline-explosion/",
     "event_codes": {
-      "19": 7,
-      "15": 1
+      "17": 3
     },
     "keywords": [
-      "state",
-      "police",
-      "onyewuchi",
-      "sani",
-      "bello",
-      "abaribe",
-      "others",
-      "provide",
-      "answers",
-      "govs",
-      "powers",
-      "funding",
-      "federal",
-      "oversight",
-      "others"
-    ]
-  },
-  "PSE": {
-    "risk_score": 11.7,
-    "count": 13,
-    "top_news": "https://imemc.org/article/widespread-israeli-military-invasions-abductions-in-west-bank/",
-    "event_codes": {
-      "18": 9,
-      "17": 4
-    },
-    "keywords": [
-      "article",
-      "widespread",
-      "israeli",
-      "military",
-      "invasions",
-      "abductions",
-      "west",
-      "bank"
+      "2026",
+      "environmental",
+      "group",
+      "demands",
+      "independent",
+      "probe",
+      "into",
+      "abia",
+      "pipeline",
+      "explosion"
     ]
   }
 }
