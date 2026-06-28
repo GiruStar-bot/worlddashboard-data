@@ -1,44 +1,51 @@
 {
-  "IRN": {
-    "risk_score": 14.0,
-    "count": 14,
-    "top_news": "https://politicaldog101.com/2026/06/irantrumpconflictevening-june-27-2026-the-fight-for-control-of-the-strait-of-hormuz-and-hezbollah/",
+  "IDN": {
+    "risk_score": 3.85,
+    "count": 6,
+    "top_news": "http://dailyexpress.com.my/news/283823/dozens-protesters-held-in-second-largest-city/",
     "event_codes": {
-      "19": 14
+      "14": 3,
+      "17": 3
     },
     "keywords": [
-      "2026",
-      "irantrumpconflictevening",
-      "june",
-      "2026",
-      "the",
-      "fight",
-      "for",
-      "control",
-      "the",
-      "strait",
-      "hormuz",
-      "and",
-      "hezbollah"
+      "news",
+      "283823",
+      "dozens",
+      "protesters",
+      "held",
+      "second",
+      "largest",
+      "city"
     ]
   },
-  "THA": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.dailymail.com/news/article-15935415/Australian-Simon-Carman-charged-murder.html",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dawn.com/news/2011280",
     "event_codes": {
-      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "2011280"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "http://dailyexpress.com.my/news/283838/man-fined-for-having-bakakuk-/",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "article",
-      "15935415",
-      "australian",
-      "simon",
-      "carman",
-      "charged",
-      "murder.html"
+      "283838",
+      "man",
+      "fined",
+      "for",
+      "having",
+      "bakakuk"
     ]
   }
 }
