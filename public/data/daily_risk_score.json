@@ -1,113 +1,48 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
+  "ISR": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://euobserver.com/224502/catholic-cardinal-risks-israels-wrath-in-moral-appeal-for-eu-sanctions/",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "224502",
+      "catholic",
+      "cardinal",
+      "risks",
+      "israels",
+      "wrath",
+      "moral",
+      "appeal",
+      "for",
+      "sanctions"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.85,
     "count": 3,
-    "top_news": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
+    "top_news": "https://www.sott.net/article/507133-Hezbollah-supporters-block-roads-encircle-government-buildings-in-Beirut-over-Israel-deal-They-sold-us-out",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "world",
-      "shipping",
-      "giant",
-      "warns",
-      "strait",
-      "hormuz",
-      "chaos",
-      "new",
-      "normal",
-      "tehran",
-      "shifts",
-      "barrels"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.04,
-    "count": 9,
-    "top_news": "https://news.antiwar.com/2026/06/28/israeli-attacks-in-gaza-kill-nine-palestinians-in-48-hours/",
-    "event_codes": {
-      "19": 4,
-      "14": 2,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "attacks",
-      "gaza",
-      "kill",
-      "nine",
-      "palestinians",
-      "hours"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://themedialine.org/headlines/iranian-strikes-on-kuwait-and-bahrain-push-fragile-us-iran-ceasefire-into-crisis/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "headlines",
-      "iranian",
-      "strikes",
-      "kuwait",
-      "and",
-      "bahrain",
-      "push",
-      "fragile",
-      "iran",
-      "ceasefire",
-      "into",
-      "crisis"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.62,
-    "count": 3,
-    "top_news": "https://themedialine.org/top-stories/recognizing-israel-is-a-big-step-but-its-normal-lebanese-politician-tells-tml/",
-    "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "top",
-      "stories",
-      "recognizing",
+      "article",
+      "507133",
+      "hezbollah",
+      "supporters",
+      "block",
+      "roads",
+      "encircle",
+      "government",
+      "buildings",
+      "beirut",
+      "over",
       "israel",
-      "big",
-      "step",
-      "but",
-      "its",
-      "normal",
-      "lebanese",
-      "politician",
-      "tells",
-      "tml"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://themedialine.org/headlines/iranian-strikes-on-kuwait-and-bahrain-push-fragile-us-iran-ceasefire-into-crisis/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "headlines",
-      "iranian",
-      "strikes",
-      "kuwait",
-      "and",
-      "bahrain",
-      "push",
-      "fragile",
-      "iran",
-      "ceasefire",
-      "into",
-      "crisis"
+      "deal",
+      "they",
+      "sold",
+      "out"
     ]
   }
 }
