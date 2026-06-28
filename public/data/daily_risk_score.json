@@ -1,76 +1,44 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theepochtimes.com/world/us-forces-launch-new-strikes-on-iran-6054327",
+  "IRN": {
+    "risk_score": 14.0,
+    "count": 14,
+    "top_news": "https://politicaldog101.com/2026/06/irantrumpconflictevening-june-27-2026-the-fight-for-control-of-the-strait-of-hormuz-and-hezbollah/",
     "event_codes": {
+      "19": 14
+    },
+    "keywords": [
+      "2026",
+      "irantrumpconflictevening",
+      "june",
+      "2026",
+      "the",
+      "fight",
+      "for",
+      "control",
+      "the",
+      "strait",
+      "hormuz",
+      "and",
+      "hezbollah"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.dailymail.com/news/article-15935415/Australian-Simon-Carman-charged-murder.html",
+    "event_codes": {
+      "17": 3,
       "19": 2
     },
     "keywords": [
-      "world",
-      "forces",
-      "launch",
-      "new",
-      "strikes",
-      "iran",
-      "6054327"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.theepochtimes.com/world/us-forces-launch-new-strikes-on-iran-6054327",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "forces",
-      "launch",
-      "new",
-      "strikes",
-      "iran",
-      "6054327"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.95,
-    "count": 13,
-    "top_news": "https://www.jpost.com/opinion/article-900404",
-    "event_codes": {
-      "19": 6,
-      "16": 3,
-      "17": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "opinion",
+      "news",
       "article",
-      "900404"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://www.newzimbabwe.com/nurses-demand-urgent-action-at-ngomahuru-psychiatric-hospital-after-patient-dies-following-escape/",
-    "event_codes": {
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "nurses",
-      "demand",
-      "urgent",
-      "action",
-      "ngomahuru",
-      "psychiatric",
-      "hospital",
-      "after",
-      "patient",
-      "dies",
-      "following",
-      "escape"
+      "15935415",
+      "australian",
+      "simon",
+      "carman",
+      "charged",
+      "murder.html"
     ]
   }
 }
