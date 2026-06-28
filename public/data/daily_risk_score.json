@@ -2,44 +2,112 @@
   "IRN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.wbkb11.com/news/politics/national-politics/u-s-conducts-further-strikes-on-iran/article_b941e06b-8bd5-57fa-ac19-49db3c85fb08.html",
+    "top_news": "https://www.foxnews.com/world/shipping-giant-warns-strait-hormuz-chaos-new-normal-tehran-shifts-4m-barrels",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "politics",
-      "national",
-      "politics",
-      "conducts",
-      "further",
-      "strikes",
-      "iran",
-      "article",
-      "b941e06b",
-      "8bd5",
-      "57fa",
-      "ac19",
-      "49db3c85fb08.html"
+      "world",
+      "shipping",
+      "giant",
+      "warns",
+      "strait",
+      "hormuz",
+      "chaos",
+      "new",
+      "normal",
+      "tehran",
+      "shifts",
+      "barrels"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/politics/articles/trump-again-threatens-iran-warning-132130369.html",
+    "risk_score": 8.04,
+    "count": 9,
+    "top_news": "https://news.antiwar.com/2026/06/28/israeli-attacks-in-gaza-kill-nine-palestinians-in-48-hours/",
     "event_codes": {
-      "19": 5
+      "19": 4,
+      "14": 2,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "trump",
-      "again",
-      "threatens",
+      "2026",
+      "israeli",
+      "attacks",
+      "gaza",
+      "kill",
+      "nine",
+      "palestinians",
+      "hours"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://themedialine.org/headlines/iranian-strikes-on-kuwait-and-bahrain-push-fragile-us-iran-ceasefire-into-crisis/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "headlines",
+      "iranian",
+      "strikes",
+      "kuwait",
+      "and",
+      "bahrain",
+      "push",
+      "fragile",
       "iran",
-      "warning",
-      "132130369.html"
+      "ceasefire",
+      "into",
+      "crisis"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://themedialine.org/top-stories/recognizing-israel-is-a-big-step-but-its-normal-lebanese-politician-tells-tml/",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "top",
+      "stories",
+      "recognizing",
+      "israel",
+      "big",
+      "step",
+      "but",
+      "its",
+      "normal",
+      "lebanese",
+      "politician",
+      "tells",
+      "tml"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://themedialine.org/headlines/iranian-strikes-on-kuwait-and-bahrain-push-fragile-us-iran-ceasefire-into-crisis/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "headlines",
+      "iranian",
+      "strikes",
+      "kuwait",
+      "and",
+      "bahrain",
+      "push",
+      "fragile",
+      "iran",
+      "ceasefire",
+      "into",
+      "crisis"
     ]
   }
 }
