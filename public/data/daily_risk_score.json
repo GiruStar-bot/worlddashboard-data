@@ -1,76 +1,129 @@
 {
-  "BHR": {
+  "COL": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailyrecord.co.uk/news/scottish-news/scottish-man-found-dead-multiple-37358591",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "scottish",
+      "news",
+      "scottish",
+      "man",
+      "found",
+      "dead",
+      "multiple",
+      "37358591"
+    ]
+  },
+  "EGY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+    "top_news": "https://www.dailyrecord.co.uk/news/scottish-news/scottish-man-found-dead-multiple-37358591",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "2026",
-      "jun",
-      "escalating",
-      "iran",
-      "strikes",
-      "threaten",
-      "interim",
-      "peace",
-      "agreement"
+      "news",
+      "scottish",
+      "news",
+      "scottish",
+      "man",
+      "found",
+      "dead",
+      "multiple",
+      "37358591"
     ]
   },
   "IRN": {
-    "risk_score": 7.6,
-    "count": 8,
-    "top_news": "http://www.jpost.com/middle-east/article-900673",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.siasat.com/iranian-supreme-leader-calls-for-us-israel-war-crimes-probe-3498055/",
     "event_codes": {
-      "19": 7,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "900673"
+      "iranian",
+      "supreme",
+      "leader",
+      "calls",
+      "for",
+      "israel",
+      "war",
+      "crimes",
+      "probe",
+      "3498055"
     ]
   },
   "ISR": {
-    "risk_score": 7.56,
-    "count": 9,
-    "top_news": "http://www.jpost.com/middle-east/article-900673",
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.moneycontrol.com/world/israel-renews-lebanon-strikes-days-after-peace-deal-as-hezbollah-warns-of-internal-conflict-article-13960584.html",
     "event_codes": {
-      "19": 4,
-      "15": 3,
-      "16": 2
+      "19": 6,
+      "17": 2
     },
     "keywords": [
-      "middle",
-      "east",
+      "world",
+      "israel",
+      "renews",
+      "lebanon",
+      "strikes",
+      "days",
+      "after",
+      "peace",
+      "deal",
+      "hezbollah",
+      "warns",
+      "internal",
+      "conflict",
       "article",
-      "900673"
+      "13960584.html"
     ]
   },
-  "SAU": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.thestar.com.my/news/world/2026/06/28/saudi-aramco-helicopter-crash-kills-14-state-new-agency-says",
+  "NGA": {
+    "risk_score": 7.9,
+    "count": 15,
+    "top_news": "https://dailypost.ng/2026/06/28/how-i-got-back-my-lexus-suv-after-kidnappers-collected-it-as-ransom-victim/",
     "event_codes": {
-      "14": 2,
-      "19": 1
+      "17": 14,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "got",
+      "back",
+      "lexus",
+      "suv",
+      "after",
+      "kidnappers",
+      "collected",
+      "ransom",
+      "victim"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/6/28/digging-with-a-needle-generals-stall-peace-as-sudans-el-obeid-burns",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "news",
-      "world",
       "2026",
-      "saudi",
-      "aramco",
-      "helicopter",
-      "crash",
-      "kills",
-      "state",
-      "new",
-      "agency",
-      "says"
+      "digging",
+      "with",
+      "needle",
+      "generals",
+      "stall",
+      "peace",
+      "sudans",
+      "obeid",
+      "burns"
     ]
   }
 }
