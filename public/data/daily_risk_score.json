@@ -1,67 +1,111 @@
 {
-  "IRN": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.ideastream.org/2026-06-28/u-s-and-iran-exchange-strikes-underscoring-the-fragility-of-the-ceasefire",
+  "IDN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/sci-tech/technology/the-us-lags-other-countries-in-social-media-restrictions-for-kids-but-a-reform-push-is-growing/article71159940.ece",
     "event_codes": {
-      "19": 8
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
+      "sci",
+      "tech",
+      "technology",
+      "the",
+      "lags",
+      "other",
+      "countries",
+      "social",
+      "media",
+      "restrictions",
+      "for",
+      "kids",
+      "but",
+      "reform",
+      "push",
+      "growing",
+      "article71159940.ece"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.surinametimes.com/artikel/kuwait-says-engaging-hostile-missile-and-drone-attacks",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "artikel",
+      "kuwait",
+      "says",
+      "engaging",
+      "hostile",
+      "missile",
       "and",
-      "iran",
-      "exchange",
-      "strikes",
-      "underscoring",
-      "the",
-      "fragility",
-      "the",
-      "ceasefire"
+      "drone",
+      "attacks"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
+    "risk_score": 3.5,
     "count": 5,
-    "top_news": "https://jp.ibtimes.com/gaza-war-humanitarian-fallout-wounds-historic-alliance-experts-warn-israel-united-states-102019",
+    "top_news": "https://www.juancole.com/2026/06/netanyahus-ethnically-palestinian.html",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "gaza",
-      "war",
-      "humanitarian",
-      "fallout",
-      "wounds",
-      "historic",
-      "alliance",
-      "experts",
-      "warn",
-      "israel",
-      "united",
-      "states",
-      "102019"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.thisdaylive.com/2026/06/29/tinubu-sanwo-olu-george-hail-herbert-macaulays-legacy-at-his-80th-memorial/",
-    "event_codes": {
-      "17": 4
+      "17": 3,
+      "19": 2
     },
     "keywords": [
       "2026",
-      "tinubu",
-      "sanwo",
-      "olu",
-      "george",
-      "hail",
-      "herbert",
-      "macaulays",
-      "legacy",
-      "his",
-      "80th",
-      "memorial"
+      "netanyahus",
+      "ethnically",
+      "palestinian.html"
+    ]
+  },
+  "MLI": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202606290081.html",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "202606290081.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.5,
+    "count": 9,
+    "top_news": "https://leadership.ng/nuhu-ribadu-and-the-patient-work-of-national-security/",
+    "event_codes": {
+      "17": 7,
+      "19": 2
+    },
+    "keywords": [
+      "nuhu",
+      "ribadu",
+      "and",
+      "the",
+      "patient",
+      "work",
+      "national",
+      "security"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.juancole.com/2026/06/netanyahus-ethnically-palestinian.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "netanyahus",
+      "ethnically",
+      "palestinian.html"
     ]
   }
 }
