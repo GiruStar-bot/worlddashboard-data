@@ -1,190 +1,124 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://spacewar.com/us-imposes-sanctions-on-iran-space-program-999/",
+  "BHR": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.middleeastmonitor.com/20260629-americas-gulf-bases-are-turning-allies-into-targets/",
     "event_codes": {
-      "16": 4,
-      "17": 3,
-      "14": 2
+      "19": 10
     },
     "keywords": [
-      "imposes",
-      "sanctions",
+      "20260629",
+      "americas",
+      "gulf",
+      "bases",
+      "are",
+      "turning",
+      "allies",
+      "into",
+      "targets"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.oann.com/commentary/what-the-iran-mou-says-matters/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "commentary",
+      "what",
+      "the",
       "iran",
-      "space",
-      "program",
-      "999"
+      "mou",
+      "says",
+      "matters"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.15,
+    "count": 4,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/29/771313/Baghdad-sets-late-September-deadline-for-resistance-groups-to-hand-in-weapons",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "771313",
+      "baghdad",
+      "sets",
+      "late",
+      "september",
+      "deadline",
+      "for",
+      "resistance",
+      "groups",
+      "hand",
+      "weapons"
     ]
   },
   "ISR": {
-    "risk_score": 19.2,
-    "count": 21,
-    "top_news": "https://spacewar.com/yemen-drone-attack-wounds-22-in-israeli-resort-town-army-rescuers-999/",
+    "risk_score": 5.85,
+    "count": 6,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/29/771319/Palestine-Gaza-Deir-al-Balah-Israel-",
     "event_codes": {
-      "19": 15,
-      "16": 3,
-      "18": 3
+      "19": 4,
+      "18": 2
     },
     "keywords": [
-      "yemen",
-      "drone",
-      "attack",
-      "wounds",
-      "israeli",
-      "resort",
-      "town",
-      "army",
-      "rescuers",
-      "999"
+      "detail",
+      "2026",
+      "771319",
+      "palestine",
+      "gaza",
+      "deir",
+      "balah",
+      "israel"
     ]
   },
-  "KEN": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://kenya-today.com/from-a-ksh23-billion-loss-to-a-banking-giant-how-gideon-muriuki-rebuilt-co-operative-bank-and-quietly-became-one-of-kenyas-biggest-banking-investors/",
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20260629-americas-gulf-bases-are-turning-allies-into-targets/",
     "event_codes": {
-      "16": 3,
       "19": 2
     },
     "keywords": [
-      "from",
-      "ksh23",
-      "billion",
-      "loss",
-      "banking",
-      "giant",
-      "how",
-      "gideon",
-      "muriuki",
-      "rebuilt",
-      "operative",
-      "bank",
-      "and",
-      "quietly",
-      "became",
-      "one",
-      "kenyas",
-      "biggest",
-      "banking",
-      "investors"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.12,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/flashes/688726",
-    "event_codes": {
-      "15": 1,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "flashes",
-      "688726"
+      "20260629",
+      "americas",
+      "gulf",
+      "bases",
+      "are",
+      "turning",
+      "allies",
+      "into",
+      "targets"
     ]
   },
   "NGA": {
-    "risk_score": 12.32,
-    "count": 18,
-    "top_news": "https://blueprint.ng/troops-rescue-10-abducted-neco-candidates-teachers-in-borno/",
-    "event_codes": {
-      "17": 7,
-      "15": 6,
-      "18": 5
-    },
-    "keywords": [
-      "troops",
-      "rescue",
-      "abducted",
-      "neco",
-      "candidates",
-      "teachers",
-      "borno"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/06/29/violence-reignites-in-southern-syria-after-israeli-forces-kill-two/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "violence",
-      "reignites",
-      "southern",
-      "syria",
-      "after",
-      "israeli",
-      "forces",
-      "kill",
-      "two"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/06/29/violence-reignites-in-southern-syria-after-israeli-forces-kill-two/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "violence",
-      "reignites",
-      "southern",
-      "syria",
-      "after",
-      "israeli",
-      "forces",
-      "kill",
-      "two"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.4,
+    "risk_score": 4.45,
     "count": 5,
-    "top_news": "https://www.sott.net/article/507150-Fidans-talks-in-Russia-confirm-Turkish-tactics-of-manoeuvring",
+    "top_news": "http://silverbirdtv.com/tragedy-in-borno-as-bandits-kill-teacher-abduct-multiple-schoolchildren-in-fresh-school-raid/",
     "event_codes": {
-      "16": 3,
-      "17": 2
+      "18": 2,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "article",
-      "507150",
-      "fidans",
-      "talks",
-      "russia",
-      "confirm",
-      "turkish",
-      "tactics",
-      "manoeuvring"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://spacewar.com/yemen-drone-attack-wounds-22-in-israeli-resort-town-army-rescuers-999/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "yemen",
-      "drone",
-      "attack",
-      "wounds",
-      "israeli",
-      "resort",
-      "town",
-      "army",
-      "rescuers",
-      "999"
+      "tragedy",
+      "borno",
+      "bandits",
+      "kill",
+      "teacher",
+      "abduct",
+      "multiple",
+      "schoolchildren",
+      "fresh",
+      "school",
+      "raid"
     ]
   }
 }
