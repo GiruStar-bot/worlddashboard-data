@@ -1,124 +1,108 @@
 {
-  "BHR": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.middleeastmonitor.com/20260629-americas-gulf-bases-are-turning-allies-into-targets/",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "20260629",
-      "americas",
-      "gulf",
-      "bases",
-      "are",
-      "turning",
-      "allies",
-      "into",
-      "targets"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.oann.com/commentary/what-the-iran-mou-says-matters/",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "commentary",
-      "what",
-      "the",
-      "iran",
-      "mou",
-      "says",
-      "matters"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.15,
+    "risk_score": 3.16,
     "count": 4,
-    "top_news": "https://www.presstv.ir/Detail/2026/06/29/771313/Baghdad-sets-late-September-deadline-for-resistance-groups-to-hand-in-weapons",
+    "top_news": "https://www.rttnews.com/story.aspx?Id=3663378",
     "event_codes": {
-      "19": 2,
-      "14": 1,
-      "16": 1
+      "15": 3,
+      "19": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "771313",
-      "baghdad",
-      "sets",
-      "late",
-      "september",
-      "deadline",
-      "for",
-      "resistance",
-      "groups",
-      "hand",
-      "weapons"
+      "story.aspx"
     ]
   },
   "ISR": {
-    "risk_score": 5.85,
-    "count": 6,
-    "top_news": "https://www.presstv.ir/Detail/2026/06/29/771319/Palestine-Gaza-Deir-al-Balah-Israel-",
+    "risk_score": 54.67,
+    "count": 57,
+    "top_news": "https://thedailyblog.co.nz/in-occupied-palestine-27-june-2026/",
     "event_codes": {
-      "19": 4,
-      "18": 2
+      "19": 38,
+      "18": 14,
+      "17": 5
     },
     "keywords": [
-      "detail",
-      "2026",
-      "771319",
+      "occupied",
       "palestine",
-      "gaza",
-      "deir",
-      "balah",
-      "israel"
+      "june",
+      "2026"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeastmonitor.com/20260629-americas-gulf-bases-are-turning-allies-into-targets/",
+  "LBN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "http://www.bignewsnetwork.com/news/279156158/israel-continues-attacks-on-s-lebanon-despite-framework-agreement",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "20260629",
-      "americas",
-      "gulf",
-      "bases",
-      "are",
-      "turning",
-      "allies",
-      "into",
-      "targets"
+      "news",
+      "279156158",
+      "israel",
+      "continues",
+      "attacks",
+      "lebanon",
+      "despite",
+      "framework",
+      "agreement"
     ]
   },
   "NGA": {
-    "risk_score": 4.45,
-    "count": 5,
-    "top_news": "http://silverbirdtv.com/tragedy-in-borno-as-bandits-kill-teacher-abduct-multiple-schoolchildren-in-fresh-school-raid/",
+    "risk_score": 15.35,
+    "count": 21,
+    "top_news": "https://tribuneonlineng.com/delta-boyfriend-stabs-uniport-final-year-law-student-to-death/",
     "event_codes": {
-      "18": 2,
+      "17": 11,
+      "18": 6,
+      "19": 4
+    },
+    "keywords": [
+      "delta",
+      "boyfriend",
+      "stabs",
+      "uniport",
+      "final",
+      "year",
+      "law",
+      "student",
+      "death"
+    ]
+  },
+  "PSE": {
+    "risk_score": 40.61,
+    "count": 43,
+    "top_news": "https://english.wafa.ps/Pages/Details/172166",
+    "event_codes": {
+      "19": 24,
+      "18": 14,
+      "17": 5
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172166"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://news.antiwar.com/2026/06/29/israeli-forces-pound-southwest-syria-claim-to-have-killed-armed-men/",
+    "event_codes": {
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "tragedy",
-      "borno",
-      "bandits",
-      "kill",
-      "teacher",
-      "abduct",
-      "multiple",
-      "schoolchildren",
-      "fresh",
-      "school",
-      "raid"
+      "2026",
+      "israeli",
+      "forces",
+      "pound",
+      "southwest",
+      "syria",
+      "claim",
+      "have",
+      "killed",
+      "armed",
+      "men"
     ]
   }
 }
