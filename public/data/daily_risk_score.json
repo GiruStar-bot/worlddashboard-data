@@ -1,79 +1,90 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.abc.net.au/listen/programs/pm/reports-us-iran-pause-attacks-ahead-of-qatar-meeting/106858172",
+    "risk_score": 6.7,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes",
     "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "listen",
-      "programs",
-      "reports",
-      "iran",
-      "pause",
-      "attacks",
-      "ahead",
-      "qatar",
-      "meeting",
-      "106858172"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.72,
-    "count": 19,
-    "top_news": "https://cimsec.org/asymmetric-alliance-strategy-an-israeli-maritime-perspective-on-the-iran-war/",
-    "event_codes": {
-      "19": 18,
-      "15": 1
-    },
-    "keywords": [
-      "asymmetric",
-      "alliance",
-      "strategy",
-      "israeli",
-      "maritime",
-      "perspective",
-      "the",
-      "iran",
-      "war"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.85,
-    "count": 12,
-    "top_news": "https://leadership.ng/attack-on-aa-presidential-candidate-an-assault-on-democracy-zamfara-chairman/",
-    "event_codes": {
-      "19": 6,
-      "16": 5,
+      "19": 5,
+      "16": 1,
       "18": 1
     },
     "keywords": [
-      "attack",
-      "presidential",
-      "candidate",
-      "assault",
-      "democracy",
-      "zamfara",
-      "chairman"
+      "news",
+      "2026",
+      "trump",
+      "announces",
+      "meeting",
+      "with",
+      "iran",
+      "qatar",
+      "despite",
+      "military",
+      "skirmishes"
     ]
   },
-  "PER": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.mirror.co.uk/news/nottingham-university-graduate-found-dead-37361218",
+  "ISR": {
+    "risk_score": 14.5,
+    "count": 16,
+    "top_news": "https://www.aljazeera.com/news/2026/6/29/trump-announces-meeting-with-iran-in-qatar-despite-military-skirmishes",
     "event_codes": {
-      "18": 3
+      "19": 10,
+      "18": 4,
+      "16": 2
     },
     "keywords": [
       "news",
-      "nottingham",
-      "university",
-      "graduate",
-      "found",
-      "dead",
-      "37361218"
+      "2026",
+      "trump",
+      "announces",
+      "meeting",
+      "with",
+      "iran",
+      "qatar",
+      "despite",
+      "military",
+      "skirmishes"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.wyff4.com/article/dog-attack-child-dies-sc/71756670",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "dog",
+      "attack",
+      "child",
+      "dies",
+      "71756670"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.middleeastmonitor.com/20260629-press-freedom-group-changes-definition-of-journalist-as-israel-sets-record-for-reporters-killed/",
+    "event_codes": {
+      "17": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "20260629",
+      "press",
+      "freedom",
+      "group",
+      "changes",
+      "definition",
+      "journalist",
+      "israel",
+      "sets",
+      "record",
+      "for",
+      "reporters",
+      "killed"
     ]
   }
 }
