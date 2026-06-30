@@ -1,19 +1,75 @@
 {
-  "NGA": {
-    "risk_score": 6.52,
-    "count": 7,
-    "top_news": "https://punchng.com/obi-wrong-on-negotiation-with-terrorists/",
+  "IRN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-30-1986-argentina-are-champions-10763523/",
     "event_codes": {
-      "19": 4,
-      "18": 2,
-      "15": 1
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "obi",
-      "wrong",
-      "negotiation",
-      "with",
-      "terrorists"
+      "article",
+      "opinion",
+      "years",
+      "ago",
+      "years",
+      "ago",
+      "june",
+      "1986",
+      "argentina",
+      "are",
+      "champions",
+      "10763523"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.5,
+    "count": 13,
+    "top_news": "https://www.presstv.ir/Detail/2026/06/30/771328/Hamas--World-silence-over-murdered-Palestinian-children-in-Gaza-is-complicity-in-Israeli-genocide",
+    "event_codes": {
+      "19": 12,
+      "17": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "771328",
+      "hamas",
+      "world",
+      "silence",
+      "over",
+      "murdered",
+      "palestinian",
+      "children",
+      "gaza",
+      "complicity",
+      "israeli",
+      "genocide"
+    ]
+  },
+  "THA": {
+    "risk_score": 8.37,
+    "count": 13,
+    "top_news": "https://www.chiangraitimes.com/news/chiang-rai/highway-chase-leads-to-seizure-of-3-million-meth-pills-in-chiang-rai/",
+    "event_codes": {
+      "17": 9,
+      "19": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "chiang",
+      "rai",
+      "highway",
+      "chase",
+      "leads",
+      "seizure",
+      "million",
+      "meth",
+      "pills",
+      "chiang",
+      "rai"
     ]
   }
 }
