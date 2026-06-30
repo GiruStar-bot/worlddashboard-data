@@ -1,75 +1,101 @@
 {
-  "IRN": {
+  "CAF": {
     "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-june-30-1986-argentina-are-champions-10763523/",
+    "top_news": "https://www.juancole.com/2026/06/regime-change-present.html",
     "event_codes": {
-      "19": 2,
+      "18": 2,
       "16": 1
     },
     "keywords": [
-      "article",
-      "opinion",
-      "years",
-      "ago",
-      "years",
-      "ago",
-      "june",
-      "1986",
-      "argentina",
-      "are",
-      "champions",
-      "10763523"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.5,
-    "count": 13,
-    "top_news": "https://www.presstv.ir/Detail/2026/06/30/771328/Hamas--World-silence-over-murdered-Palestinian-children-in-Gaza-is-complicity-in-Israeli-genocide",
-    "event_codes": {
-      "19": 12,
-      "17": 1
-    },
-    "keywords": [
-      "detail",
       "2026",
-      "771328",
-      "hamas",
-      "world",
-      "silence",
-      "over",
-      "murdered",
-      "palestinian",
-      "children",
-      "gaza",
-      "complicity",
-      "israeli",
-      "genocide"
+      "regime",
+      "change",
+      "present.html"
     ]
   },
-  "THA": {
-    "risk_score": 8.37,
-    "count": 13,
-    "top_news": "https://www.chiangraitimes.com/news/chiang-rai/highway-chase-leads-to-seizure-of-3-million-meth-pills-in-chiang-rai/",
+  "EGY": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.glasgowtimes.co.uk/news/26228118.clydebank-church-hit-twice-wilful-fireraising-attacks/",
     "event_codes": {
-      "17": 9,
       "19": 2,
-      "14": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "chiang",
-      "rai",
-      "highway",
-      "chase",
-      "leads",
-      "seizure",
-      "million",
-      "meth",
-      "pills",
-      "chiang",
-      "rai"
+      "26228118.clydebank",
+      "church",
+      "hit",
+      "twice",
+      "wilful",
+      "fireraising",
+      "attacks"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.4,
+    "count": 17,
+    "top_news": "https://www.abc.net.au/news/2026-06-30/trumps-different-approaches-to-middle-east-israel-lebanon-iran/106854906",
+    "event_codes": {
+      "17": 8,
+      "19": 7,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "trumps",
+      "different",
+      "approaches",
+      "middle",
+      "east",
+      "israel",
+      "lebanon",
+      "iran",
+      "106854906"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.42,
+    "count": 9,
+    "top_news": "https://thesun.ng/how-military-troops-saved-us-after-borno-school-attack-rescued-teacher/",
+    "event_codes": {
+      "19": 5,
+      "18": 3,
+      "15": 1
+    },
+    "keywords": [
+      "how",
+      "military",
+      "troops",
+      "saved",
+      "after",
+      "borno",
+      "school",
+      "attack",
+      "rescued",
+      "teacher"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://kaieteurnewsonline.com/2026/06/30/oil-rig-explosion-in-venezuela-leaves-at-least-17-workers-injured/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "2026",
+      "oil",
+      "rig",
+      "explosion",
+      "venezuela",
+      "leaves",
+      "least",
+      "workers",
+      "injured"
     ]
   }
 }
