@@ -1,79 +1,69 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 2.5,
     "count": 4,
-    "top_news": "https://www.news4jax.com/news/world/2026/06/30/this-grieving-father-and-ex-general-could-test-the-grip-of-israels-longest-serving-prime-minister/",
+    "top_news": "https://www.tcj.com/reviews/i-wont-pretend-these-missiles-are-stars-life-in-iran-during-the-12-day-war/",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "this",
-      "grieving",
-      "father",
-      "and",
-      "general",
-      "could",
-      "test",
+      "reviews",
+      "wont",
+      "pretend",
+      "these",
+      "missiles",
+      "are",
+      "stars",
+      "life",
+      "iran",
+      "during",
       "the",
-      "grip",
-      "israels",
-      "longest",
-      "serving",
-      "prime",
-      "minister"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.news4jax.com/news/world/2026/06/30/this-grieving-father-and-ex-general-could-test-the-grip-of-israels-longest-serving-prime-minister/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "this",
-      "grieving",
-      "father",
-      "and",
-      "general",
-      "could",
-      "test",
-      "the",
-      "grip",
-      "israels",
-      "longest",
-      "serving",
-      "prime",
-      "minister"
+      "day",
+      "war"
     ]
   },
   "NGA": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://dailypost.ng/2026/06/30/police-raid-hideout-of-kidnapping-syndicate-in-fct-nasarawa-recover-arms-livestock/",
+    "risk_score": 2.55,
+    "count": 3,
+    "top_news": "https://www.africanews.com/2026/06/30/thousands-march-to-demand-illegal-migrants-leave-south-africa/",
     "event_codes": {
-      "17": 6,
-      "19": 3
+      "14": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "police",
-      "raid",
-      "hideout",
-      "kidnapping",
-      "syndicate",
-      "fct",
-      "nasarawa",
-      "recover",
-      "arms",
-      "livestock"
+      "thousands",
+      "march",
+      "demand",
+      "illegal",
+      "migrants",
+      "leave",
+      "south",
+      "africa"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://humanevents.com/2026/06/30/man-with-turkish-roots-arrested-for-killing-6-in-german-youth-facility-shooting",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "man",
+      "with",
+      "turkish",
+      "roots",
+      "arrested",
+      "for",
+      "killing",
+      "german",
+      "youth",
+      "facility",
+      "shooting"
     ]
   }
 }
