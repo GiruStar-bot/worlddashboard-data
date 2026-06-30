@@ -1,49 +1,127 @@
 {
-  "THA": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://www.theguardian.com/world/2026/jun/30/thai-teen-girl-murder-australian-man-charged-police-investigate-other-unsolved-cases-ntwnfb",
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.dealstreetasia.com/stories/nadiem-makarim-chromebook-graft-case-487316",
     "event_codes": {
-      "19": 5,
-      "17": 2,
-      "18": 1
+      "17": 6
     },
     "keywords": [
-      "world",
+      "stories",
+      "nadiem",
+      "makarim",
+      "chromebook",
+      "graft",
+      "case",
+      "487316"
+    ]
+  },
+  "ISR": {
+    "risk_score": 31.02,
+    "count": 35,
+    "top_news": "https://countercurrents.org/2026/06/israeli-forces-killed-54-palestinian-children-in-2025-in-west-bank-highest-rate-since-1967/",
+    "event_codes": {
+      "19": 15,
+      "16": 7,
+      "17": 5,
+      "18": 5,
+      "20": 3
+    },
+    "keywords": [
       "2026",
-      "jun",
-      "thai",
-      "teen",
-      "girl",
-      "murder",
-      "australian",
-      "man",
-      "charged",
-      "police",
-      "investigate",
-      "other",
-      "unsolved",
-      "cases",
-      "ntwnfb"
+      "israeli",
+      "forces",
+      "killed",
+      "palestinian",
+      "children",
+      "2025",
+      "west",
+      "bank",
+      "highest",
+      "rate",
+      "since",
+      "1967"
+    ]
+  },
+  "LAO": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.akp.gov.kh/post/detail/374470",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "post",
+      "detail",
+      "374470"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.8,
+    "count": 9,
+    "top_news": "https://saharareporters.com/2026/06/30/protesters-storm-abuja-federal-high-court-demand-sowores-release-defy-dss-crackdown",
+    "event_codes": {
+      "17": 7,
+      "14": 2
+    },
+    "keywords": [
+      "2026",
+      "protesters",
+      "storm",
+      "abuja",
+      "federal",
+      "high",
+      "court",
+      "demand",
+      "sowores",
+      "release",
+      "defy",
+      "dss",
+      "crackdown"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.92,
+    "count": 7,
+    "top_news": "https://countercurrents.org/2026/06/271-days-of-gaza-ceasefire-israel-kills-8-palestinians-3465-violations/",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "271",
+      "days",
+      "gaza",
+      "ceasefire",
+      "israel",
+      "kills",
+      "palestinians",
+      "3465",
+      "violations"
     ]
   },
   "VEN": {
-    "risk_score": 3.45,
+    "risk_score": 2.5,
     "count": 4,
-    "top_news": "https://dominicanrepublicpost.com/in-pictures-venezuela-earthquakes-death-toll-surpasses-1700/",
+    "top_news": "https://saharareporters.com/2026/06/30/over-100-venezuelans-deported-us-hours-earthquakes-are-missing-after-hotel-collapsed",
     "event_codes": {
-      "19": 2,
-      "17": 1,
-      "18": 1
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "pictures",
-      "venezuela",
+      "2026",
+      "over",
+      "100",
+      "venezuelans",
+      "deported",
+      "hours",
       "earthquakes",
-      "death",
-      "toll",
-      "surpasses",
-      "1700"
+      "are",
+      "missing",
+      "after",
+      "hotel",
+      "collapsed"
     ]
   }
 }
