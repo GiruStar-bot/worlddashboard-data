@@ -1,173 +1,142 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.click2houston.com/news/world/2026/06/30/there-are-many-questions-about-the-iran-deal-here-are-some-answers/",
+    "risk_score": 11.45,
+    "count": 14,
+    "top_news": "https://www.dailymail.com/news/article-15942055/Iranian-clerics-call-assassination-Trump-hell.html",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 5,
+      "17": 4,
+      "18": 4,
+      "14": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "there",
-      "are",
-      "many",
-      "questions",
-      "about",
-      "the",
-      "iran",
-      "deal",
-      "here",
-      "are",
-      "some",
-      "answers"
+      "article",
+      "15942055",
+      "iranian",
+      "clerics",
+      "call",
+      "assassination",
+      "trump",
+      "hell.html"
     ]
   },
-  "IRQ": {
+  "ISR": {
+    "risk_score": 14.6,
+    "count": 16,
+    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-900943",
+    "event_codes": {
+      "19": 10,
+      "18": 4,
+      "17": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "crime",
+      "israel",
+      "article",
+      "900943"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.75,
+    "count": 15,
+    "top_news": "https://pmnewsnigeria.com/2026/06/30/uniosun-demands-answers-after-soldiers-allegedly-assault-students/",
+    "event_codes": {
+      "18": 8,
+      "14": 3,
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "uniosun",
+      "demands",
+      "answers",
+      "after",
+      "soldiers",
+      "allegedly",
+      "assault",
+      "students"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.click2houston.com/news/world/2026/06/30/there-are-many-questions-about-the-iran-deal-here-are-some-answers/",
+    "top_news": "https://globalnews.ca/news/11944422/carney-saudi-arabia-crown-prince-mohammed-bin-salman/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "there",
-      "are",
-      "many",
-      "questions",
-      "about",
-      "the",
-      "iran",
-      "deal",
-      "here",
-      "are",
-      "some",
-      "answers"
+      "11944422",
+      "carney",
+      "saudi",
+      "arabia",
+      "crown",
+      "prince",
+      "mohammed",
+      "bin",
+      "salman"
     ]
   },
-  "ISR": {
-    "risk_score": 10.3,
-    "count": 11,
-    "top_news": "https://www.hurriyetdailynews.com/israeli-troops-face-resistance-from-residents-in-syrian-town-223853",
-    "event_codes": {
-      "19": 8,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "israeli",
-      "troops",
-      "face",
-      "resistance",
-      "from",
-      "residents",
-      "syrian",
-      "town",
-      "223853"
-    ]
-  },
-  "KEN": {
-    "risk_score": 18.8,
-    "count": 25,
-    "top_news": "https://www.the-star.co.ke/news/2026-06-30-one-shot-dead-two-injured-in-huruma-protests",
-    "event_codes": {
-      "14": 13,
-      "17": 6,
-      "18": 5,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "one",
-      "shot",
-      "dead",
-      "two",
-      "injured",
-      "huruma",
-      "protests"
-    ]
-  },
-  "LBN": {
+  "SDN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.click2houston.com/news/world/2026/06/30/there-are-many-questions-about-the-iran-deal-here-are-some-answers/",
+    "top_news": "https://english.aawsat.com/arab-world/5290442-sudan-army-says-retakes-key-town-near-chad",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
+      "arab",
       "world",
-      "2026",
-      "there",
-      "are",
-      "many",
-      "questions",
-      "about",
-      "the",
-      "iran",
-      "deal",
-      "here",
-      "are",
-      "some",
-      "answers"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://www.bostonglobe.com/2026/06/30/metro/cape-ann-priest-nigeria-return/",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "metro",
-      "cape",
-      "ann",
-      "priest",
-      "nigeria",
-      "return"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/israeli-troops-face-resistance-from-residents-in-syrian-town-223853",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "israeli",
-      "troops",
-      "face",
-      "resistance",
-      "from",
-      "residents",
-      "syrian",
+      "5290442",
+      "sudan",
+      "army",
+      "says",
+      "retakes",
+      "key",
       "town",
-      "223853"
+      "near",
+      "chad"
     ]
   },
-  "TWN": {
+  "TCD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://freerepublic.com/focus/f-bloggers/4386064/posts",
+    "top_news": "https://english.aawsat.com/arab-world/5290442-sudan-army-says-retakes-key-town-near-chad",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "focus",
-      "bloggers",
-      "4386064",
-      "posts"
+      "arab",
+      "world",
+      "5290442",
+      "sudan",
+      "army",
+      "says",
+      "retakes",
+      "key",
+      "town",
+      "near",
+      "chad"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.22,
+    "count": 4,
+    "top_news": "http://www.jpost.com/middle-east/article-900970",
+    "event_codes": {
+      "19": 2,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "900970"
     ]
   }
 }
