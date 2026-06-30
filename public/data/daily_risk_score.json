@@ -1,69 +1,69 @@
 {
-  "IRN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.tcj.com/reviews/i-wont-pretend-these-missiles-are-stars-life-in-iran-during-the-12-day-war/",
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/6/30/more-than-30-students-remain-missing-after-nigeria-school-attack",
     "event_codes": {
       "17": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "reviews",
-      "wont",
-      "pretend",
-      "these",
-      "missiles",
-      "are",
-      "stars",
-      "life",
-      "iran",
-      "during",
-      "the",
-      "day",
-      "war"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://www.africanews.com/2026/06/30/thousands-march-to-demand-illegal-migrants-leave-south-africa/",
-    "event_codes": {
-      "14": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
+      "news",
       "2026",
-      "thousands",
-      "march",
-      "demand",
-      "illegal",
-      "migrants",
-      "leave",
-      "south",
-      "africa"
+      "more",
+      "than",
+      "students",
+      "remain",
+      "missing",
+      "after",
+      "nigeria",
+      "school",
+      "attack"
     ]
   },
-  "TUR": {
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/node/2649184/world",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "node",
+      "2649184",
+      "world"
+    ]
+  },
+  "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://humanevents.com/2026/06/30/man-with-turkish-roots-arrested-for-killing-6-in-german-youth-facility-shooting",
+    "top_news": "https://www.arabnews.com/node/2649192/world",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "man",
-      "with",
-      "turkish",
-      "roots",
-      "arrested",
-      "for",
-      "killing",
-      "german",
-      "youth",
-      "facility",
-      "shooting"
+      "node",
+      "2649192",
+      "world"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://www.dailymail.com/news/article-15942875/Tunchanok-Donhomla-alleged-murder-Thailand.html",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15942875",
+      "tunchanok",
+      "donhomla",
+      "alleged",
+      "murder",
+      "thailand.html"
     ]
   }
 }
