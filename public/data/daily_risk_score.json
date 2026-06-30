@@ -1,142 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 11.45,
-    "count": 14,
-    "top_news": "https://www.dailymail.com/news/article-15942055/Iranian-clerics-call-assassination-Trump-hell.html",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.news4jax.com/news/world/2026/06/30/this-grieving-father-and-ex-general-could-test-the-grip-of-israels-longest-serving-prime-minister/",
     "event_codes": {
-      "19": 5,
-      "17": 4,
-      "18": 4,
-      "14": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "article",
-      "15942055",
-      "iranian",
-      "clerics",
-      "call",
-      "assassination",
-      "trump",
-      "hell.html"
+      "world",
+      "2026",
+      "this",
+      "grieving",
+      "father",
+      "and",
+      "general",
+      "could",
+      "test",
+      "the",
+      "grip",
+      "israels",
+      "longest",
+      "serving",
+      "prime",
+      "minister"
     ]
   },
-  "ISR": {
-    "risk_score": 14.6,
-    "count": 16,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-900943",
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.news4jax.com/news/world/2026/06/30/this-grieving-father-and-ex-general-could-test-the-grip-of-israels-longest-serving-prime-minister/",
     "event_codes": {
-      "19": 10,
-      "18": 4,
-      "17": 2
+      "19": 4
     },
     "keywords": [
-      "israel",
       "news",
-      "crime",
-      "israel",
-      "article",
-      "900943"
+      "world",
+      "2026",
+      "this",
+      "grieving",
+      "father",
+      "and",
+      "general",
+      "could",
+      "test",
+      "the",
+      "grip",
+      "israels",
+      "longest",
+      "serving",
+      "prime",
+      "minister"
     ]
   },
   "NGA": {
-    "risk_score": 12.75,
-    "count": 15,
-    "top_news": "https://pmnewsnigeria.com/2026/06/30/uniosun-demands-answers-after-soldiers-allegedly-assault-students/",
+    "risk_score": 6.0,
+    "count": 9,
+    "top_news": "https://dailypost.ng/2026/06/30/police-raid-hideout-of-kidnapping-syndicate-in-fct-nasarawa-recover-arms-livestock/",
     "event_codes": {
-      "18": 8,
-      "14": 3,
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "uniosun",
-      "demands",
-      "answers",
-      "after",
-      "soldiers",
-      "allegedly",
-      "assault",
-      "students"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://globalnews.ca/news/11944422/carney-saudi-arabia-crown-prince-mohammed-bin-salman/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "11944422",
-      "carney",
-      "saudi",
-      "arabia",
-      "crown",
-      "prince",
-      "mohammed",
-      "bin",
-      "salman"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://english.aawsat.com/arab-world/5290442-sudan-army-says-retakes-key-town-near-chad",
-    "event_codes": {
+      "17": 6,
       "19": 3
     },
     "keywords": [
-      "arab",
-      "world",
-      "5290442",
-      "sudan",
-      "army",
-      "says",
-      "retakes",
-      "key",
-      "town",
-      "near",
-      "chad"
-    ]
-  },
-  "TCD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/arab-world/5290442-sudan-army-says-retakes-key-town-near-chad",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5290442",
-      "sudan",
-      "army",
-      "says",
-      "retakes",
-      "key",
-      "town",
-      "near",
-      "chad"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.22,
-    "count": 4,
-    "top_news": "http://www.jpost.com/middle-east/article-900970",
-    "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "900970"
+      "2026",
+      "police",
+      "raid",
+      "hideout",
+      "kidnapping",
+      "syndicate",
+      "fct",
+      "nasarawa",
+      "recover",
+      "arms",
+      "livestock"
     ]
   }
 }
