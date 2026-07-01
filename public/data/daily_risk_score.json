@@ -1,21 +1,37 @@
 {
-  "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://english.ahram.org.eg/Category/2/8/World/Israeli-police-kill-six-Palestinian-man-.aspx",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.aina.org/news/20260701103659.htm",
     "event_codes": {
-      "19": 6
+      "19": 2
     },
     "keywords": [
-      "category",
-      "world",
-      "israeli",
-      "police",
-      "kill",
-      "six",
-      "palestinian",
-      "man",
-      ".aspx"
+      "news",
+      "20260701103659.htm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://thesun.ng/aondoakaa-condemns-terror-attacks-in-benue-demands-decisive-action-to-end-killing-fields/",
+    "event_codes": {
+      "19": 3,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "aondoakaa",
+      "condemns",
+      "terror",
+      "attacks",
+      "benue",
+      "demands",
+      "decisive",
+      "action",
+      "end",
+      "killing",
+      "fields"
     ]
   }
 }
