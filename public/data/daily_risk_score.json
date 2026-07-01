@@ -1,33 +1,93 @@
 {
-  "LBN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://nationalpost.com/news/world/israel-middle-east/lebanon-israel-peace-hezbollah",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/uk-cops-urged-probe-tiktok-37370304",
     "event_codes": {
-      "19": 3
+      "17": 4
     },
     "keywords": [
       "news",
-      "world",
-      "israel",
+      "latest",
+      "news",
+      "cops",
+      "urged",
+      "probe",
+      "tiktok",
+      "37370304"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.winnipegfreepress.com/business/2026/07/01/a-ship-ran-aground-in-strait-of-hormuz-iranian-state-tv-reports",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "ship",
+      "ran",
+      "aground",
+      "strait",
+      "hormuz",
+      "iranian",
+      "state",
+      "reports"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "https://www.arabnews.com/node/2649231/middle-east",
+    "event_codes": {
+      "19": 2,
+      "20": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "node",
+      "2649231",
       "middle",
-      "east",
-      "lebanon",
-      "israel",
-      "peace",
-      "hezbollah"
+      "east"
+    ]
+  },
+  "SDN": {
+    "risk_score": 15.64,
+    "count": 17,
+    "top_news": "https://www.arabnews.com/node/2649231/middle-east",
+    "event_codes": {
+      "18": 8,
+      "19": 4,
+      "20": 2,
+      "14": 1,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "node",
+      "2649231",
+      "middle",
+      "east"
     ]
   },
   "VEN": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://www.cubaheadlines.com/articles/333818",
+    "risk_score": 2.0,
+    "count": 5,
+    "top_news": "https://www.khaama.com/u-s-deploys-hundreds-of-troops-to-support-venezuela-earthquake-response/",
     "event_codes": {
-      "17": 3
+      "16": 5
     },
     "keywords": [
-      "articles",
-      "333818"
+      "deploys",
+      "hundreds",
+      "troops",
+      "support",
+      "venezuela",
+      "earthquake",
+      "response"
     ]
   }
 }
