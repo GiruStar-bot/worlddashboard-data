@@ -1,40 +1,57 @@
 {
-  "ISR": {
-    "risk_score": 6.95,
-    "count": 7,
-    "top_news": "https://www.washingtonexaminer.com/news/campaigns/4632997/mamdani-kamala-harris-phone-call-2028-bid/",
+  "CHL": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://wjla.com/news/local/ice-arrests-accused-ms-13-associate-in-virginia-who-was-convicted-of-murder",
     "event_codes": {
-      "19": 7
+      "17": 3,
+      "19": 1
     },
     "keywords": [
       "news",
-      "campaigns",
-      "4632997",
-      "mamdani",
-      "kamala",
-      "harris",
-      "phone",
-      "call",
-      "2028",
-      "bid"
+      "local",
+      "ice",
+      "arrests",
+      "accused",
+      "associate",
+      "virginia",
+      "who",
+      "was",
+      "convicted",
+      "murder"
     ]
   },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.gdnonline.com:443/Details/1399401/Drugs-carrier-pardoned-for-helping-investigation",
+  "ISR": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://punchng.com/crude-slips-below-72-petrol-stays-above-n1000/",
     "event_codes": {
-      "17": 4
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "details",
-      "1399401",
-      "drugs",
-      "carrier",
-      "pardoned",
-      "for",
-      "helping",
-      "investigation"
+      "crude",
+      "slips",
+      "below",
+      "petrol",
+      "stays",
+      "above",
+      "n1000"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.25,
+    "count": 9,
+    "top_news": "https://allafrica.com/stories/202607010505.html",
+    "event_codes": {
+      "19": 4,
+      "14": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "202607010505.html"
     ]
   }
 }
