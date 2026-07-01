@@ -1,32 +1,40 @@
 {
-  "IRN": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://www.irishtimes.com/crime-law/courts/2026/07/01/self-described-anti-islam-activist-did-not-care-if-children-died-in-dublin-mosque-attack-court-hears/",
+  "ISR": {
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://www.washingtonexaminer.com/news/campaigns/4632997/mamdani-kamala-harris-phone-call-2028-bid/",
     "event_codes": {
-      "15": 2,
-      "18": 1
+      "19": 7
     },
     "keywords": [
-      "crime",
-      "law",
-      "courts",
-      "2026",
-      "self",
-      "described",
-      "anti",
-      "islam",
-      "activist",
-      "did",
-      "not",
-      "care",
-      "children",
-      "died",
-      "dublin",
-      "mosque",
-      "attack",
-      "court",
-      "hears"
+      "news",
+      "campaigns",
+      "4632997",
+      "mamdani",
+      "kamala",
+      "harris",
+      "phone",
+      "call",
+      "2028",
+      "bid"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1399401/Drugs-carrier-pardoned-for-helping-investigation",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "details",
+      "1399401",
+      "drugs",
+      "carrier",
+      "pardoned",
+      "for",
+      "helping",
+      "investigation"
     ]
   }
 }
