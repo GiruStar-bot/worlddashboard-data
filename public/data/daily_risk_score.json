@@ -1,37 +1,44 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.aina.org/news/20260701103659.htm",
+  "ISR": {
+    "risk_score": 6.55,
+    "count": 7,
+    "top_news": "http://thechiefleader.com/stories/workers-unite-but-look-before-you-leap,56963",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "workers",
+      "unite",
+      "but",
+      "look",
+      "before",
+      "you",
+      "leap,56963"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.75,
+    "count": 5,
+    "top_news": "https://www.christiandaily.com/news/sudanese-christian-convert-assaulted-inside-south-sudan-refugee-camp-church",
+    "event_codes": {
+      "19": 3,
+      "18": 2
     },
     "keywords": [
       "news",
-      "20260701103659.htm"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.3,
-    "count": 6,
-    "top_news": "https://thesun.ng/aondoakaa-condemns-terror-attacks-in-benue-demands-decisive-action-to-end-killing-fields/",
-    "event_codes": {
-      "19": 3,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "aondoakaa",
-      "condemns",
-      "terror",
-      "attacks",
-      "benue",
-      "demands",
-      "decisive",
-      "action",
-      "end",
-      "killing",
-      "fields"
+      "sudanese",
+      "christian",
+      "convert",
+      "assaulted",
+      "inside",
+      "south",
+      "sudan",
+      "refugee",
+      "camp",
+      "church"
     ]
   }
 }
