@@ -1,51 +1,57 @@
 {
-  "ISR": {
-    "risk_score": 25.5,
-    "count": 30,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-protestors-hold-rally-tel-aviv-mark-1000-days-october-7-attack",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://reason.com/2026/07/02/j-d-vance-hates-milton-friedman/",
     "event_codes": {
-      "19": 17,
-      "17": 7,
-      "18": 4,
-      "14": 2
+      "19": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "protestors",
-      "hold",
-      "rally",
-      "tel",
-      "aviv",
-      "mark",
-      "1000",
-      "days",
-      "october",
-      "attack"
+      "2026",
+      "vance",
+      "hates",
+      "milton",
+      "friedman"
     ]
   },
-  "LAO": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "http://www.austinglobe.com/news/279163090/minnesota-governor-pardons-migrant-child-sex-offender",
+  "NGA": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.opinionnigeria.com/before-the-next-lynching-by-ike-willie-nwobu/",
     "event_codes": {
-      "17": 3,
-      "18": 3
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "279163090",
-      "minnesota",
-      "governor",
-      "pardons",
-      "migrant",
-      "child",
-      "sex",
-      "offender"
+      "before",
+      "the",
+      "next",
+      "lynching",
+      "ike",
+      "willie",
+      "nwobu"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.algemeiner.com/2026/07/02/unrwa-teachers-still-making-students-in-image-of-terror-new-report-says/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "unrwa",
+      "teachers",
+      "still",
+      "making",
+      "students",
+      "image",
+      "terror",
+      "new",
+      "report",
+      "says"
     ]
   }
 }
