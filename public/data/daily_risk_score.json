@@ -1,68 +1,110 @@
 {
-  "NGA": {
-    "risk_score": 5.75,
-    "count": 9,
-    "top_news": "https://saharareporters.com/2026/07/01/dss-arraigns-five-nigerians-allegedly-hiding-fugitive-ex-governor-timipre-sylvas",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/news/world-news/brooke-george-dubai-unanswered-questions-37374132",
     "event_codes": {
-      "17": 6,
-      "19": 2,
-      "14": 1
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "news",
+      "brooke",
+      "george",
+      "dubai",
+      "unanswered",
+      "questions",
+      "37374132"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.rferl.org/a/iran-marc-j-sievers-gulf/33794603.html",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "iran",
+      "marc",
+      "sievers",
+      "gulf",
+      "33794603.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://newstodaynet.com/2026/07/02/ship-runs-aground-in-strait-of-hormuz-iranian-state-tv-reports/",
+    "event_codes": {
+      "19": 6
     },
     "keywords": [
       "2026",
-      "dss",
-      "arraigns",
-      "five",
-      "nigerians",
-      "allegedly",
-      "hiding",
-      "fugitive",
-      "governor",
-      "timipre",
-      "sylvas"
+      "ship",
+      "runs",
+      "aground",
+      "strait",
+      "hormuz",
+      "iranian",
+      "state",
+      "reports"
     ]
   },
-  "SDN": {
-    "risk_score": 4.9,
+  "ISR": {
+    "risk_score": 4.95,
+    "count": 6,
+    "top_news": "https://english.pnn.ps/news/48192",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "48192"
+    ]
+  },
+  "KEN": {
+    "risk_score": 8.95,
+    "count": 9,
+    "top_news": "https://www.gdnonline.com:443/Details/1399460/Kenyan-court-charges-eight-schoolgirls-with-their-fellow-students-murder",
+    "event_codes": {
+      "19": 8,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1399460",
+      "kenyan",
+      "court",
+      "charges",
+      "eight",
+      "schoolgirls",
+      "with",
+      "their",
+      "fellow",
+      "students",
+      "murder"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
     "count": 5,
-    "top_news": "https://english.aawsat.com/arab-world/5291135-sudanese-army-shifts-battle-back-darfur",
+    "top_news": "https://www.gdnonline.com:443/Details/1399468/Saudi-arrests-130-suspects-in-anti-corruption-crackdown",
     "event_codes": {
-      "19": 3,
-      "18": 1,
-      "20": 1
+      "17": 5
     },
     "keywords": [
-      "arab",
-      "world",
-      "5291135",
-      "sudanese",
-      "army",
-      "shifts",
-      "battle",
-      "back",
-      "darfur"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 3.3,
-    "count": 7,
-    "top_news": "https://www.newzimbabwe.com/mukuru-cashier-jailed-nine-years-after-diverting-us15000-to-fund-gokwe-business/",
-    "event_codes": {
-      "17": 5,
-      "16": 2
-    },
-    "keywords": [
-      "mukuru",
-      "cashier",
-      "jailed",
-      "nine",
-      "years",
-      "after",
-      "diverting",
-      "us15000",
-      "fund",
-      "gokwe",
-      "business"
+      "details",
+      "1399468",
+      "saudi",
+      "arrests",
+      "130",
+      "suspects",
+      "anti",
+      "corruption",
+      "crackdown"
     ]
   }
 }
