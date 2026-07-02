@@ -1,60 +1,94 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.abccolumbia.com/2026/07/02/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-forceful-response/",
+  "IDN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.newser.com/story/392149/separatists-say-they-killed-an-american-pilot.html",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "warns",
-      "oil",
-      "tankers",
-      "use",
-      "approved",
-      "routes",
-      "strait",
-      "hormuz",
-      "face",
-      "forceful",
-      "response"
+      "story",
+      "392149",
+      "separatists",
+      "say",
+      "they",
+      "killed",
+      "american",
+      "pilot.html"
     ]
   },
   "ISR": {
-    "risk_score": 9.7,
-    "count": 11,
-    "top_news": "https://english.wafa.ps/Pages/Details/172298",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "http://www.thejewishstar.com/stories/former-idfer-promotes-israels-information-war,26570",
     "event_codes": {
-      "19": 8,
       "17": 2,
-      "16": 1
+      "19": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "172298"
+      "stories",
+      "former",
+      "idfer",
+      "promotes",
+      "israels",
+      "information",
+      "war,26570"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.africanews.com/2026/07/02/un-says-hunger-in-conflict-hit-northern-nigeria-is-reaching-crisis-levels/",
+  "NER": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://dailypost.ng/2026/07/02/many-feared-dead-as-terrorists-bandits-clash-in-niger/",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "says",
-      "hunger",
-      "conflict",
-      "hit",
-      "northern",
-      "nigeria",
-      "reaching",
-      "crisis",
-      "levels"
+      "many",
+      "feared",
+      "dead",
+      "terrorists",
+      "bandits",
+      "clash",
+      "niger"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.siasat.com/six-killed-22-injured-in-bomb-blast-at-cafe-in-central-damascus-3500311/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "six",
+      "killed",
+      "injured",
+      "bomb",
+      "blast",
+      "cafe",
+      "central",
+      "damascus",
+      "3500311"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/03/2003860162",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "news",
+      "taiwan",
+      "archives",
+      "2026",
+      "2003860162"
     ]
   }
 }
