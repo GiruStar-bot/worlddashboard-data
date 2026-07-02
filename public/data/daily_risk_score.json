@@ -1,110 +1,122 @@
 {
-  "ARE": {
+  "IDN": {
+    "risk_score": 3.5,
+    "count": 6,
+    "top_news": "https://en.antaranews.com/news/421227/bnpb-intensifies-water-bombing-to-contain-tangerang-landfill-fire",
+    "event_codes": {
+      "17": 5,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "421227",
+      "bnpb",
+      "intensifies",
+      "water",
+      "bombing",
+      "contain",
+      "tangerang",
+      "landfill",
+      "fire"
+    ]
+  },
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.mirror.co.uk/news/world-news/brooke-george-dubai-unanswered-questions-37374132",
+    "top_news": "https://www.moneycontrol.com/world/strait-of-hormuz-nuclear-deal-ceasefire-what-was-agreed-in-the-latest-us-iran-talks-in-doha-and-what-comes-next-explained-article-13964632.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
       "world",
-      "news",
-      "brooke",
-      "george",
-      "dubai",
-      "unanswered",
-      "questions",
-      "37374132"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.rferl.org/a/iran-marc-j-sievers-gulf/33794603.html",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "iran",
-      "marc",
-      "sievers",
-      "gulf",
-      "33794603.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://newstodaynet.com/2026/07/02/ship-runs-aground-in-strait-of-hormuz-iranian-state-tv-reports/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "2026",
-      "ship",
-      "runs",
-      "aground",
       "strait",
       "hormuz",
-      "iranian",
-      "state",
-      "reports"
+      "nuclear",
+      "deal",
+      "ceasefire",
+      "what",
+      "was",
+      "agreed",
+      "the",
+      "latest",
+      "iran",
+      "talks",
+      "doha",
+      "and",
+      "what",
+      "comes",
+      "next",
+      "explained",
+      "article",
+      "13964632.html"
     ]
   },
-  "ISR": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://english.pnn.ps/news/48192",
+  "NGA": {
+    "risk_score": 2.72,
+    "count": 5,
+    "top_news": "https://tribuneonlineng.com/oloyede-unveils-n8bn-retirement-savings-for-jamb-staff-other-welfare-packages/",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "17": 4,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "48192"
+      "oloyede",
+      "unveils",
+      "n8bn",
+      "retirement",
+      "savings",
+      "for",
+      "jamb",
+      "staff",
+      "other",
+      "welfare",
+      "packages"
     ]
   },
-  "KEN": {
-    "risk_score": 8.95,
-    "count": 9,
-    "top_news": "https://www.gdnonline.com:443/Details/1399460/Kenyan-court-charges-eight-schoolgirls-with-their-fellow-students-murder",
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/07/02/syrias-foreign-minister-meets-hezbollah-ally-in-beirut",
     "event_codes": {
-      "19": 8,
+      "17": 2,
       "18": 1
     },
     "keywords": [
-      "details",
-      "1399460",
-      "kenyan",
-      "court",
-      "charges",
-      "eight",
-      "schoolgirls",
-      "with",
-      "their",
-      "fellow",
-      "students",
-      "murder"
+      "category",
+      "world",
+      "2026",
+      "syrias",
+      "foreign",
+      "minister",
+      "meets",
+      "hezbollah",
+      "ally",
+      "beirut"
     ]
   },
-  "SAU": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.gdnonline.com:443/Details/1399468/Saudi-arrests-130-suspects-in-anti-corruption-crackdown",
+  "THA": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.clickondetroit.com/news/world/2026/07/02/11-year-old-boy-driving-pickup-truck-crashes-into-group-of-thai-monks-killing-8/",
     "event_codes": {
-      "17": 5
+      "19": 7
     },
     "keywords": [
-      "details",
-      "1399468",
-      "saudi",
-      "arrests",
-      "130",
-      "suspects",
-      "anti",
-      "corruption",
-      "crackdown"
+      "news",
+      "world",
+      "2026",
+      "year",
+      "old",
+      "boy",
+      "driving",
+      "pickup",
+      "truck",
+      "crashes",
+      "into",
+      "group",
+      "thai",
+      "monks",
+      "killing"
     ]
   }
 }
