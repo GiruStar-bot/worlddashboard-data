@@ -1,82 +1,45 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.jns.org/news/world/waltz-warns-un-that-trumps-patience-with-iran-not-unlimited-amid-strait-of-hormuz-closure-regional-attacks",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "waltz",
-      "warns",
-      "that",
-      "trumps",
-      "patience",
-      "with",
-      "iran",
-      "not",
-      "unlimited",
-      "amid",
-      "strait",
-      "hormuz",
-      "closure",
-      "regional",
-      "attacks"
-    ]
-  },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://democracyjournal.org/magazine/81/terrorism-101/",
+    "risk_score": 4.05,
+    "count": 5,
+    "top_news": "https://dailycaller.com/2026/07/02/israel-reportedly-attempted-shoot-down-iran-negotiators/",
     "event_codes": {
-      "19": 3
+      "18": 2,
+      "14": 1,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "magazine",
-      "terrorism",
-      "101"
+      "2026",
+      "israel",
+      "reportedly",
+      "attempted",
+      "shoot",
+      "down",
+      "iran",
+      "negotiators"
     ]
   },
-  "PER": {
-    "risk_score": 3.0,
+  "QAT": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://maritime-executive.com/article/court-gives-peru-oversight-of-chinese-built-port-in-geopolitical-battle",
+    "top_news": "https://www.qatar-tribune.com/article/242512/latest-news/qatar-participates-in-united-nations-counter-terrorism-week",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
       "article",
-      "court",
-      "gives",
-      "peru",
-      "oversight",
-      "chinese",
-      "built",
-      "port",
-      "geopolitical",
-      "battle"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://radiofreesyria.com/deadly-bombing-strikes-lawyers-cafe-near-damascus-justice-palace/",
-    "event_codes": {
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "deadly",
-      "bombing",
-      "strikes",
-      "lawyers",
-      "cafe",
-      "near",
-      "damascus",
-      "justice",
-      "palace"
+      "242512",
+      "latest",
+      "news",
+      "qatar",
+      "participates",
+      "united",
+      "nations",
+      "counter",
+      "terrorism",
+      "week"
     ]
   }
 }
