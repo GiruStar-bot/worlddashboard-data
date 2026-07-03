@@ -1,39 +1,68 @@
 {
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://ynaija.com/day-50-kidnapped-oyo-children-still-waiting-to-be-rescued/",
+  "ISR": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://en.apa.az/america/new-york-times-us-dissuaded-israel-from-plot-to-assassinate-iranian-negotiating-delegation-514353",
     "event_codes": {
-      "19": 2
+      "18": 3
     },
     "keywords": [
-      "day",
-      "kidnapped",
-      "oyo",
-      "children",
-      "still",
-      "waiting",
-      "rescued"
+      "america",
+      "new",
+      "york",
+      "times",
+      "dissuaded",
+      "israel",
+      "from",
+      "plot",
+      "assassinate",
+      "iranian",
+      "negotiating",
+      "delegation",
+      "514353"
     ]
   },
-  "SAU": {
-    "risk_score": 5.9,
-    "count": 9,
-    "top_news": "https://www.justiceinfo.net/en/161224-guantanamos-legal-black-hole-remains-us-headache.html",
+  "NGA": {
+    "risk_score": 13.1,
+    "count": 15,
+    "top_news": "https://pmnewsnigeria.com/2026/07/03/firefighters-battle-explosion-at-lagos-fuel-terminal/",
     "event_codes": {
-      "16": 3,
-      "18": 3,
-      "17": 2,
-      "19": 1
+      "18": 8,
+      "19": 5,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "161224",
-      "guantanamos",
-      "legal",
-      "black",
-      "hole",
-      "remains",
-      "headache.html"
+      "2026",
+      "firefighters",
+      "battle",
+      "explosion",
+      "lagos",
+      "fuel",
+      "terminal"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 8,
+    "top_news": "https://aa.com.tr/en/world/ankara-tightens-security-air-traffic-measures-ahead-of-nato-summit/3985610",
+    "event_codes": {
+      "15": 5,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "ankara",
+      "tightens",
+      "security",
+      "air",
+      "traffic",
+      "measures",
+      "ahead",
+      "nato",
+      "summit",
+      "3985610"
     ]
   }
 }
