@@ -1,78 +1,118 @@
 {
   "IRN": {
-    "risk_score": 9.05,
-    "count": 12,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-901327",
+    "risk_score": 10.5,
+    "count": 11,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260702-rferl04.htm",
     "event_codes": {
-      "14": 5,
-      "20": 3,
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "901327"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://indianexpress.com/article/explained/explained-global/us-iran-talks-strait-of-hormuz-mou-explained-10769698/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "explained",
-      "explained",
-      "global",
-      "iran",
-      "talks",
-      "strait",
-      "hormuz",
-      "mou",
-      "explained",
-      "10769698"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h1k0071s7zg",
-    "event_codes": {
-      "18": 3,
-      "14": 2,
-      "19": 1
-    },
-    "keywords": [
-      "opinions",
-      "analysis",
-      "article",
-      "h1k0071s7zg"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "https://tribuneonlineng.com/benue-ex-ssg-dies-after-gunshot-injuries-from-bandits/",
-    "event_codes": {
-      "19": 6,
-      "16": 1,
+      "19": 9,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "benue",
-      "ssg",
-      "dies",
-      "after",
-      "gunshot",
-      "injuries",
-      "from",
-      "bandits"
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260702",
+      "rferl04.htm"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.az/news/key-iranian-general-makes-first-public-appearance-since-outbreak-of-war",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "key",
+      "iranian",
+      "general",
+      "makes",
+      "first",
+      "public",
+      "appearance",
+      "since",
+      "outbreak",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260702-govno01.htm",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260702",
+      "govno01.htm"
+    ]
+  },
+  "LAO": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.hinews.cn/page?n=2834136&m=1&s=1044",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "page"
+    ]
+  },
+  "MOZ": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202607030239.html",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "stories",
+      "202607030239.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260702-rferl04.htm",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260702",
+      "rferl04.htm"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://english.news.cn/20260703/3dec198750b7412fb242d1e7c1c94164/c.html",
+    "event_codes": {
+      "17": 5,
+      "19": 2
+    },
+    "keywords": [
+      "20260703",
+      "3dec198750b7412fb242d1e7c1c94164",
+      "c.html"
     ]
   }
 }
