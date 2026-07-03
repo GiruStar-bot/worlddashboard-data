@@ -1,68 +1,100 @@
 {
-  "ISR": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://en.apa.az/america/new-york-times-us-dissuaded-israel-from-plot-to-assassinate-iranian-negotiating-delegation-514353",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.breitbart.com/middle-east/2026/07/03/iran-schedules-ayatollahs-funeral-fourth-july-weekend/",
     "event_codes": {
-      "18": 3
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "america",
-      "new",
-      "york",
-      "times",
-      "dissuaded",
-      "israel",
-      "from",
-      "plot",
-      "assassinate",
-      "iranian",
-      "negotiating",
-      "delegation",
-      "514353"
+      "middle",
+      "east",
+      "2026",
+      "iran",
+      "schedules",
+      "ayatollahs",
+      "funeral",
+      "fourth",
+      "july",
+      "weekend"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.washingtonexaminer.com/news/4632997/mamdani-kamala-harris-phone-call-2028-bid/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "4632997",
+      "mamdani",
+      "kamala",
+      "harris",
+      "phone",
+      "call",
+      "2028",
+      "bid"
     ]
   },
   "NGA": {
-    "risk_score": 13.1,
-    "count": 15,
-    "top_news": "https://pmnewsnigeria.com/2026/07/03/firefighters-battle-explosion-at-lagos-fuel-terminal/",
+    "risk_score": 5.14,
+    "count": 7,
+    "top_news": "https://punchng.com/apm-gov-candidate-donates-n2-5m-to-oyo-fire-victims/",
     "event_codes": {
-      "18": 8,
-      "19": 5,
-      "16": 1,
-      "17": 1
+      "14": 2,
+      "15": 2,
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "apm",
+      "gov",
+      "candidate",
+      "donates",
+      "oyo",
+      "fire",
+      "victims"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.com/articles/wwii-pilot-missing-secret-spy-202446000.html",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "articles",
+      "wwii",
+      "pilot",
+      "missing",
+      "secret",
+      "spy",
+      "202446000.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://cyprus-mail.com/2026/07/03/yemens-houthis-threaten-saudi-targets-over-iran-flight-to-sanaa",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "2026",
-      "firefighters",
-      "battle",
-      "explosion",
-      "lagos",
-      "fuel",
-      "terminal"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 8,
-    "top_news": "https://aa.com.tr/en/world/ankara-tightens-security-air-traffic-measures-ahead-of-nato-summit/3985610",
-    "event_codes": {
-      "15": 5,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "ankara",
-      "tightens",
-      "security",
-      "air",
-      "traffic",
-      "measures",
-      "ahead",
-      "nato",
-      "summit",
-      "3985610"
+      "yemens",
+      "houthis",
+      "threaten",
+      "saudi",
+      "targets",
+      "over",
+      "iran",
+      "flight",
+      "sanaa"
     ]
   }
 }
