@@ -1,45 +1,89 @@
 {
-  "ISR": {
-    "risk_score": 4.05,
-    "count": 5,
-    "top_news": "https://dailycaller.com/2026/07/02/israel-reportedly-attempted-shoot-down-iran-negotiators/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.breitbart.com/middle-east/2026/07/02/indirect-qatar-talks-with-iran-conclude-quietly-with-no-breakthrough-on-strait-of-hormuz/",
     "event_codes": {
-      "18": 2,
-      "14": 1,
-      "16": 1,
-      "19": 1
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "indirect",
+      "qatar",
+      "talks",
+      "with",
+      "iran",
+      "conclude",
+      "quietly",
+      "with",
+      "breakthrough",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "JOR": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://barbadostoday.bb/2026/07/02/bank-hall-man-convicted-of-murder-and-firearms-offences/",
+    "event_codes": {
+      "19": 5,
+      "17": 2
     },
     "keywords": [
       "2026",
-      "israel",
-      "reportedly",
-      "attempted",
-      "shoot",
-      "down",
-      "iran",
-      "negotiators"
+      "bank",
+      "hall",
+      "man",
+      "convicted",
+      "murder",
+      "and",
+      "firearms",
+      "offences"
     ]
   },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.qatar-tribune.com/article/242512/latest-news/qatar-participates-in-united-nations-counter-terrorism-week",
+  "TWN": {
+    "risk_score": 6.38,
+    "count": 9,
+    "top_news": "https://www.aei.org/articles/china-taiwan-update-july-2-2026/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "15": 4,
+      "17": 3,
+      "19": 2
     },
     "keywords": [
-      "article",
-      "242512",
-      "latest",
-      "news",
-      "qatar",
-      "participates",
-      "united",
-      "nations",
-      "counter",
-      "terrorism",
-      "week"
+      "articles",
+      "china",
+      "taiwan",
+      "update",
+      "july",
+      "2026"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.breitbart.com/latin-america/2026/07/02/nicolas-maduro-sued-in-the-u-s-for-leading-police-unit-tied-to-extrajudicial-killings/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "latin",
+      "america",
+      "2026",
+      "nicolas",
+      "maduro",
+      "sued",
+      "the",
+      "for",
+      "leading",
+      "police",
+      "unit",
+      "tied",
+      "extrajudicial",
+      "killings"
     ]
   }
 }
