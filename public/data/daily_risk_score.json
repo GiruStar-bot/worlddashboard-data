@@ -1,100 +1,70 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
+  "ISR": {
+    "risk_score": 2.87,
     "count": 4,
-    "top_news": "https://www.breitbart.com/middle-east/2026/07/03/iran-schedules-ayatollahs-funeral-fourth-july-weekend/",
+    "top_news": "https://redstate.com/streiff/2026/07/03/the-rogue-usaf-majors-speech-garners-progressive-praise-but-i-dont-think-theyve-thought-this-through-n2203972",
+    "event_codes": {
+      "14": 3,
+      "17": 1
+    },
+    "keywords": [
+      "streiff",
+      "2026",
+      "the",
+      "rogue",
+      "usaf",
+      "majors",
+      "speech",
+      "garners",
+      "progressive",
+      "praise",
+      "but",
+      "dont",
+      "think",
+      "theyve",
+      "thought",
+      "this",
+      "through",
+      "n2203972"
+    ]
+  },
+  "LBY": {
+    "risk_score": 3.45,
+    "count": 5,
+    "top_news": "https://weeklyblitz.net/2026/07/04/libyas-anti-migrant-crackdown-deepens-as-rights-groups-condemn-mass-expulsions-and-abuse/",
     "event_codes": {
       "17": 2,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "libyas",
+      "anti",
+      "migrant",
+      "crackdown",
+      "deepens",
+      "rights",
+      "groups",
+      "condemn",
+      "mass",
+      "expulsions",
+      "and",
+      "abuse"
+    ]
+  },
+  "VEN": {
+    "risk_score": 6.24,
+    "count": 7,
+    "top_news": "https://www.cubaheadlines.com/articles/334068",
+    "event_codes": {
+      "18": 3,
+      "15": 2,
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "2026",
-      "iran",
-      "schedules",
-      "ayatollahs",
-      "funeral",
-      "fourth",
-      "july",
-      "weekend"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.washingtonexaminer.com/news/4632997/mamdani-kamala-harris-phone-call-2028-bid/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "4632997",
-      "mamdani",
-      "kamala",
-      "harris",
-      "phone",
-      "call",
-      "2028",
-      "bid"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.14,
-    "count": 7,
-    "top_news": "https://punchng.com/apm-gov-candidate-donates-n2-5m-to-oyo-fire-victims/",
-    "event_codes": {
-      "14": 2,
-      "15": 2,
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "apm",
-      "gov",
-      "candidate",
-      "donates",
-      "oyo",
-      "fire",
-      "victims"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.com/articles/wwii-pilot-missing-secret-spy-202446000.html",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
       "articles",
-      "wwii",
-      "pilot",
-      "missing",
-      "secret",
-      "spy",
-      "202446000.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://cyprus-mail.com/2026/07/03/yemens-houthis-threaten-saudi-targets-over-iran-flight-to-sanaa",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "yemens",
-      "houthis",
-      "threaten",
-      "saudi",
-      "targets",
-      "over",
-      "iran",
-      "flight",
-      "sanaa"
+      "334068"
     ]
   }
 }
