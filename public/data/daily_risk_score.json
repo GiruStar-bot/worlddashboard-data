@@ -1,83 +1,53 @@
 {
   "IRN": {
-    "risk_score": 3.0,
+    "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://www.sott.net/article/507236-South-Lebanon-A-landscape-of-loss-resistance-and-persistence",
+    "top_news": "http://www.vietnamtribune.com/news/279165630/iran-bids-farewell-to-late-supreme-leader",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "507236",
-      "south",
-      "lebanon",
-      "landscape",
-      "loss",
-      "resistance",
-      "and",
-      "persistence"
+      "news",
+      "279165630",
+      "iran",
+      "bids",
+      "farewell",
+      "late",
+      "supreme",
+      "leader"
     ]
   },
-  "ISR": {
-    "risk_score": 10.96,
-    "count": 12,
-    "top_news": "https://www.sott.net/article/507235-Bibi-mulls-the-idea-of-breaking-away-from-Washington-apparently",
+  "SYR": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/flashes/689022",
     "event_codes": {
-      "19": 6,
-      "16": 2,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "article",
-      "507235",
-      "bibi",
-      "mulls",
-      "the",
-      "idea",
-      "breaking",
-      "away",
-      "from",
-      "washington",
-      "apparently"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.72,
-    "count": 8,
-    "top_news": "https://www.sott.net/article/507236-South-Lebanon-A-landscape-of-loss-resistance-and-persistence",
-    "event_codes": {
-      "19": 4,
       "18": 2,
-      "17": 1,
-      "20": 1
+      "19": 1
     },
     "keywords": [
-      "article",
-      "507236",
-      "south",
-      "lebanon",
-      "landscape",
-      "loss",
-      "resistance",
-      "and",
-      "persistence"
+      "flashes",
+      "689022"
     ]
   },
-  "SDN": {
+  "TCD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.vanityfair.com/story/sudan-civil-war-el-obeid-un-amnesty",
+    "top_news": "https://www.washingtonexaminer.com/politics/4635870/newsom-ballot-seizures-felony-july-fourth-speech/",
     "event_codes": {
-      "20": 2
+      "19": 2
     },
     "keywords": [
-      "story",
-      "sudan",
-      "civil",
-      "war",
-      "obeid",
-      "amnesty"
+      "politics",
+      "4635870",
+      "newsom",
+      "ballot",
+      "seizures",
+      "felony",
+      "july",
+      "fourth",
+      "speech"
     ]
   }
 }
