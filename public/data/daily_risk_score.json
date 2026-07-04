@@ -1,70 +1,68 @@
 {
-  "MLI": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.chinatechnews.com/2026/07/04/124894-insurgents-stage-attacks-across-mali-army-says-situation-under-control",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.oann.com/newsroom/thousands-gather-for-iranian-ayatollahs-funeral-vowing-to-avenge-his-blood/",
     "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "newsroom",
+      "thousands",
+      "gather",
+      "for",
+      "iranian",
+      "ayatollahs",
+      "funeral",
+      "vowing",
+      "avenge",
+      "his",
+      "blood"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.85,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/node/2649689/middle-east",
+    "event_codes": {
+      "19": 7,
+      "18": 2
+    },
+    "keywords": [
+      "node",
+      "2649689",
+      "middle",
+      "east"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.6,
+    "count": 7,
+    "top_news": "https://www.arabnews.com/node/2649689/middle-east",
+    "event_codes": {
+      "18": 4,
       "19": 3
     },
     "keywords": [
-      "2026",
-      "124894",
-      "insurgents",
-      "stage",
-      "attacks",
-      "across",
-      "mali",
-      "army",
-      "says",
-      "situation",
-      "under",
-      "control"
+      "node",
+      "2649689",
+      "middle",
+      "east"
     ]
   },
-  "NGA": {
-    "risk_score": 3.9,
-    "count": 5,
-    "top_news": "https://www.opinionnigeria.com/the-price-of-afrophobia-why-south-africa-risks-trading-prosperity-for-prejudice-by-isaac-asabor/",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "the",
-      "price",
-      "afrophobia",
-      "why",
-      "south",
-      "africa",
-      "risks",
-      "trading",
-      "prosperity",
-      "for",
-      "prejudice",
-      "isaac",
-      "asabor"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 4.0,
+  "PSE": {
+    "risk_score": 3.8,
     "count": 4,
-    "top_news": "https://www.sundaytimes.lk/260705/news/sl-air-force-in-daring-casualty-evacuation-mission-in-central-africa-648302.html",
+    "top_news": "https://www.arabnews.com/node/2649681/middle-east",
     "event_codes": {
-      "19": 4
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "260705",
-      "news",
-      "air",
-      "force",
-      "daring",
-      "casualty",
-      "evacuation",
-      "mission",
-      "central",
-      "africa",
-      "648302.html"
+      "node",
+      "2649681",
+      "middle",
+      "east"
     ]
   }
 }
