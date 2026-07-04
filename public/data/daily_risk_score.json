@@ -1,26 +1,114 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.businesstoday.in/world/us/story/ayatollah-ali-khamenei-funeral-trump-says-us-gave-iran-a-week-off-540982-2026-07-04",
+    "risk_score": 9.84,
+    "count": 11,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/04/mourners-gather-in-tehran-on-second-day-of-funeral-ceremonies-for-ali-khamenei/",
     "event_codes": {
-      "19": 3
+      "19": 8,
+      "15": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "mourners",
+      "gather",
+      "tehran",
+      "second",
+      "day",
+      "funeral",
+      "ceremonies",
+      "for",
+      "ali",
+      "khamenei"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.straitstimes.com/world/middle-east/revenge-revenge-iran-mourners-gather-for-khameneis-funeral",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "world",
-      "story",
-      "ayatollah",
-      "ali",
-      "khamenei",
-      "funeral",
-      "trump",
-      "says",
-      "gave",
+      "middle",
+      "east",
+      "revenge",
+      "revenge",
       "iran",
-      "week",
-      "off",
-      "540982",
-      "2026"
+      "mourners",
+      "gather",
+      "for",
+      "khameneis",
+      "funeral"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/04/serbian-unifil-peacekeeper-killed-in-mortar-attack-on-base-in-southern-lebanon/",
+    "event_codes": {
+      "19": 6,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "serbian",
+      "unifil",
+      "peacekeeper",
+      "killed",
+      "mortar",
+      "attack",
+      "base",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://thehardtackle.com/transfer-news/2026/07/04/aston-villa-everton-fulham-newcastle-united-vying-for-el-bilal-toure/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "transfer",
+      "news",
+      "2026",
+      "aston",
+      "villa",
+      "everton",
+      "fulham",
+      "newcastle",
+      "united",
+      "vying",
+      "for",
+      "bilal",
+      "toure"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.42,
+    "count": 4,
+    "top_news": "https://theeagleonline.com.ng/fubara-hails-army-over-fight-against-oil-bunkering-pipeline-vandalism/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "fubara",
+      "hails",
+      "army",
+      "over",
+      "fight",
+      "against",
+      "oil",
+      "bunkering",
+      "pipeline",
+      "vandalism"
     ]
   }
 }
