@@ -1,20 +1,64 @@
 {
-  "SDN": {
-    "risk_score": 5.55,
-    "count": 7,
-    "top_news": "https://www.aol.co.uk/articles/situation-terrible-aid-workers-life-112818000.html",
+  "IRN": {
+    "risk_score": 3.65,
+    "count": 5,
+    "top_news": "https://www.rte.ie/news/middle-east/2026/0704/1581758-khamenei-funeral/",
     "event_codes": {
-      "14": 4,
-      "19": 3
+      "17": 2,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "articles",
-      "situation",
-      "terrible",
-      "aid",
-      "workers",
-      "life",
-      "112818000.html"
+      "news",
+      "middle",
+      "east",
+      "2026",
+      "0704",
+      "1581758",
+      "khamenei",
+      "funeral"
+    ]
+  },
+  "ISR": {
+    "risk_score": 20.2,
+    "count": 24,
+    "top_news": "https://countercurrents.org/2026/07/why-gaza-is-the-worlds-most-dangerous-place-for-children/",
+    "event_codes": {
+      "18": 9,
+      "19": 9,
+      "17": 6
+    },
+    "keywords": [
+      "2026",
+      "why",
+      "gaza",
+      "the",
+      "worlds",
+      "most",
+      "dangerous",
+      "place",
+      "for",
+      "children"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://countercurrents.org/2026/07/why-gaza-is-the-worlds-most-dangerous-place-for-children/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "why",
+      "gaza",
+      "the",
+      "worlds",
+      "most",
+      "dangerous",
+      "place",
+      "for",
+      "children"
     ]
   }
 }
