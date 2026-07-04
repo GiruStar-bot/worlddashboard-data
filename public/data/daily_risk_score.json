@@ -1,64 +1,126 @@
 {
   "IRN": {
-    "risk_score": 3.65,
-    "count": 5,
-    "top_news": "https://www.rte.ie/news/middle-east/2026/0704/1581758-khamenei-funeral/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-report-mojtaba-khamenei-wants-to-attend-father-s-burial-but-iran-fears-israel-could-target-him-there",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1
+      "19": 4
     },
     "keywords": [
       "news",
       "middle",
       "east",
-      "2026",
-      "0704",
-      "1581758",
+      "iran",
+      "eastern",
+      "states",
+      "artc",
+      "report",
+      "mojtaba",
       "khamenei",
-      "funeral"
+      "wants",
+      "attend",
+      "father",
+      "burial",
+      "but",
+      "iran",
+      "fears",
+      "israel",
+      "could",
+      "target",
+      "him",
+      "there"
     ]
   },
   "ISR": {
-    "risk_score": 20.2,
-    "count": 24,
-    "top_news": "https://countercurrents.org/2026/07/why-gaza-is-the-worlds-most-dangerous-place-for-children/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-report-mojtaba-khamenei-wants-to-attend-father-s-burial-but-iran-fears-israel-could-target-him-there",
     "event_codes": {
-      "18": 9,
-      "19": 9,
-      "17": 6
+      "19": 3
     },
     "keywords": [
-      "2026",
-      "why",
-      "gaza",
-      "the",
-      "worlds",
-      "most",
-      "dangerous",
-      "place",
-      "for",
-      "children"
+      "news",
+      "middle",
+      "east",
+      "iran",
+      "eastern",
+      "states",
+      "artc",
+      "report",
+      "mojtaba",
+      "khamenei",
+      "wants",
+      "attend",
+      "father",
+      "burial",
+      "but",
+      "iran",
+      "fears",
+      "israel",
+      "could",
+      "target",
+      "him",
+      "there"
     ]
   },
-  "PSE": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://countercurrents.org/2026/07/why-gaza-is-the-worlds-most-dangerous-place-for-children/",
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5292029-lebanese-president-urges-us-keep-standing-country",
     "event_codes": {
-      "19": 6
+      "19": 3
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5292029",
+      "lebanese",
+      "president",
+      "urges",
+      "keep",
+      "standing",
+      "country"
+    ]
+  },
+  "MLI": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://pmnewsnigeria.com/2026/07/04/what-the-sahels-security-crisis-means-for-nigeria/",
+    "event_codes": {
+      "19": 5
     },
     "keywords": [
       "2026",
-      "why",
-      "gaza",
+      "what",
       "the",
-      "worlds",
-      "most",
-      "dangerous",
-      "place",
+      "sahels",
+      "security",
+      "crisis",
+      "means",
       "for",
-      "children"
+      "nigeria"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.85,
+    "count": 14,
+    "top_news": "https://dailytrust.com/sokoto-slain-village-head-son-others-buried-amid-tears/",
+    "event_codes": {
+      "19": 6,
+      "18": 5,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "sokoto",
+      "slain",
+      "village",
+      "head",
+      "son",
+      "others",
+      "buried",
+      "amid",
+      "tears"
     ]
   }
 }
