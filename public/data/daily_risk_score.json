@@ -1,68 +1,88 @@
 {
-  "IRN": {
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.oann.com/newsroom/thousands-gather-for-iranian-ayatollahs-funeral-vowing-to-avenge-his-blood/",
+    "top_news": "https://radiofreesyria.com/erdogan-condemns-israeli-attacks-on-syria-and-lebanon-warns-against-wider-regional-war/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "newsroom",
-      "thousands",
-      "gather",
-      "for",
-      "iranian",
-      "ayatollahs",
-      "funeral",
-      "vowing",
-      "avenge",
-      "his",
-      "blood"
+      "erdogan",
+      "condemns",
+      "israeli",
+      "attacks",
+      "syria",
+      "and",
+      "lebanon",
+      "warns",
+      "against",
+      "wider",
+      "regional",
+      "war"
     ]
   },
-  "ISR": {
-    "risk_score": 8.85,
-    "count": 9,
-    "top_news": "https://www.arabnews.com/node/2649689/middle-east",
+  "NGA": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://punchng.com/adelekes-campaign-council-demands-suspects-arrest-in-failed-apc-dg-assassination/",
     "event_codes": {
-      "19": 7,
-      "18": 2
+      "18": 3
     },
     "keywords": [
-      "node",
-      "2649689",
-      "middle",
-      "east"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.6,
-    "count": 7,
-    "top_news": "https://www.arabnews.com/node/2649689/middle-east",
-    "event_codes": {
-      "18": 4,
-      "19": 3
-    },
-    "keywords": [
-      "node",
-      "2649689",
-      "middle",
-      "east"
+      "adelekes",
+      "campaign",
+      "council",
+      "demands",
+      "suspects",
+      "arrest",
+      "failed",
+      "apc",
+      "assassination"
     ]
   },
   "PSE": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://www.arabnews.com/node/2649681/middle-east",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.fox8live.com/2026/07/03/restaurant-cook-says-hes-stunned-co-worker-shot-him-following-argument/",
     "event_codes": {
-      "18": 2,
       "19": 2
     },
     "keywords": [
-      "node",
-      "2649681",
-      "middle",
-      "east"
+      "2026",
+      "restaurant",
+      "cook",
+      "says",
+      "hes",
+      "stunned",
+      "worker",
+      "shot",
+      "him",
+      "following",
+      "argument"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.pakistantoday.com.pk/2026/07/05/two-hearts-one-soul-pakistan-turkiye-vow-to-elevate-strategic-partnership-boost-trade-to-dollar5bn",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "two",
+      "hearts",
+      "one",
+      "soul",
+      "pakistan",
+      "turkiye",
+      "vow",
+      "elevate",
+      "strategic",
+      "partnership",
+      "boost",
+      "trade",
+      "dollar5bn"
     ]
   }
 }
