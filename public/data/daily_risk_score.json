@@ -1,27 +1,77 @@
 {
-  "IRN": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://www.sott.net/article/507253-US-believed-Israel-tried-to-assassinate-Irans-top-negotiators-as-Ghalibafs-plane-made-emergency-landing",
+  "BFA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/international/article-901399",
     "event_codes": {
-      "18": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
+      "international",
       "article",
-      "507253",
-      "believed",
+      "901399"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.05,
+    "count": 8,
+    "top_news": "http://www.jpost.com/israel-news/defense-news/article-901398",
+    "event_codes": {
+      "19": 5,
+      "14": 3
+    },
+    "keywords": [
       "israel",
-      "tried",
-      "assassinate",
-      "irans",
-      "top",
-      "negotiators",
-      "ghalibafs",
-      "plane",
-      "made",
-      "emergency",
-      "landing"
+      "news",
+      "defense",
+      "news",
+      "article",
+      "901398"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://tribuneonlineng.com/nepc-targets-stronger-export-base-for-cashew-soya-sesame-bean-among-kwara-stakeholders/",
+    "event_codes": {
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "nepc",
+      "targets",
+      "stronger",
+      "export",
+      "base",
+      "for",
+      "cashew",
+      "soya",
+      "sesame",
+      "bean",
+      "among",
+      "kwara",
+      "stakeholders"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 8,
+    "top_news": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
+    "event_codes": {
+      "17": 6,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "international",
+      "aung",
+      "san",
+      "suu",
+      "kyi",
+      "symbol",
+      "resistance",
+      "article71183720.ece"
     ]
   }
 }
