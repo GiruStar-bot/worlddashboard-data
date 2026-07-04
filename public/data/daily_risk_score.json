@@ -1,15 +1,70 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jpost.com/judaism/article-901121",
+  "MLI": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.chinatechnews.com/2026/07/04/124894-insurgents-stage-attacks-across-mali-army-says-situation-under-control",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "judaism",
-      "article",
-      "901121"
+      "2026",
+      "124894",
+      "insurgents",
+      "stage",
+      "attacks",
+      "across",
+      "mali",
+      "army",
+      "says",
+      "situation",
+      "under",
+      "control"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://www.opinionnigeria.com/the-price-of-afrophobia-why-south-africa-risks-trading-prosperity-for-prejudice-by-isaac-asabor/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "the",
+      "price",
+      "afrophobia",
+      "why",
+      "south",
+      "africa",
+      "risks",
+      "trading",
+      "prosperity",
+      "for",
+      "prejudice",
+      "isaac",
+      "asabor"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.sundaytimes.lk/260705/news/sl-air-force-in-daring-casualty-evacuation-mission-in-central-africa-648302.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "260705",
+      "news",
+      "air",
+      "force",
+      "daring",
+      "casualty",
+      "evacuation",
+      "mission",
+      "central",
+      "africa",
+      "648302.html"
     ]
   }
 }
