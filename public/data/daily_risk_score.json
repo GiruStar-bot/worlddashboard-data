@@ -1,81 +1,93 @@
 {
   "IRN": {
-    "risk_score": 2.65,
-    "count": 4,
-    "top_news": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-sends-warning-ai-023300996.html",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.koreatimes.co.kr/world/20260705/trump-hails-us-blasts-communists-in-250th-anniversary-speech",
     "event_codes": {
-      "16": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "technology",
-      "articles",
-      "meta",
-      "ceo",
-      "sends",
-      "warning",
-      "023300996.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 25.8,
-    "count": 27,
-    "top_news": "https://english.wafa.ps/Pages/Details/172346",
-    "event_codes": {
-      "19": 17,
-      "18": 9,
-      "17": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "172346"
-    ]
-  },
-  "NGA": {
-    "risk_score": 17.26,
-    "count": 22,
-    "top_news": "https://tribuneonlineng.com/how-we-paid-n25-5m-gave-bags-of-rice-150-litres-of-fuel-drinks-others-to-secure-release-of-our-people-ekiti-community-leader/",
-    "event_codes": {
-      "18": 9,
-      "17": 7,
-      "16": 3,
       "19": 3
     },
     "keywords": [
-      "how",
-      "paid",
-      "n25",
-      "gave",
-      "bags",
-      "rice",
-      "150",
-      "litres",
-      "fuel",
-      "drinks",
-      "others",
-      "secure",
-      "release",
-      "our",
-      "people",
-      "ekiti",
-      "community",
-      "leader"
+      "world",
+      "20260705",
+      "trump",
+      "hails",
+      "blasts",
+      "communists",
+      "250th",
+      "anniversary",
+      "speech"
     ]
   },
-  "PSE": {
-    "risk_score": 7.9,
-    "count": 8,
-    "top_news": "https://english.wafa.ps/Pages/Details/172334",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.sentinelassam.com/more-news/international/irans-media-says-former-supreme-leaders-funeral-marks-onset-of-great-khamenei-era",
     "event_codes": {
-      "19": 7,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "172334"
+      "more",
+      "news",
+      "international",
+      "irans",
+      "media",
+      "says",
+      "former",
+      "supreme",
+      "leaders",
+      "funeral",
+      "marks",
+      "onset",
+      "great",
+      "khamenei",
+      "era"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.2,
+    "count": 13,
+    "top_news": "https://www.clevelandjewishnews.com/jns/idf-gaza-airstrikes-kill-two-hamas-commanders/article_2ad7e975-ac9b-50d8-b4dd-d2690a44a133.html",
+    "event_codes": {
+      "18": 8,
+      "19": 5
+    },
+    "keywords": [
+      "jns",
+      "idf",
+      "gaza",
+      "airstrikes",
+      "kill",
+      "two",
+      "hamas",
+      "commanders",
+      "article",
+      "2ad7e975",
+      "ac9b",
+      "50d8",
+      "b4dd",
+      "d2690a44a133.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 19.65,
+    "count": 28,
+    "top_news": "https://thesun.ng/army-confident-of-rescuing-abducted-oyo-schoolchildren-teachers-shaibu/",
+    "event_codes": {
+      "17": 14,
+      "18": 7,
+      "19": 4,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "army",
+      "confident",
+      "rescuing",
+      "abducted",
+      "oyo",
+      "schoolchildren",
+      "teachers",
+      "shaibu"
     ]
   }
 }
