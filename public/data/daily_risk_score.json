@@ -1,77 +1,35 @@
 {
-  "BFA": {
+  "IDN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.eldoradonews.com/news/2026/jul/04/the-us-lags-other-countries-in-social-media/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "jul",
+      "the",
+      "lags",
+      "other",
+      "countries",
+      "social",
+      "media"
+    ]
+  },
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.jpost.com/international/article-901399",
+    "top_news": "https://www.ynetnews.com/magazine/article/rkjma11vmml",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "international",
+      "magazine",
       "article",
-      "901399"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.05,
-    "count": 8,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-901398",
-    "event_codes": {
-      "19": 5,
-      "14": 3
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "901398"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://tribuneonlineng.com/nepc-targets-stronger-export-base-for-cashew-soya-sesame-bean-among-kwara-stakeholders/",
-    "event_codes": {
-      "18": 3,
-      "19": 1
-    },
-    "keywords": [
-      "nepc",
-      "targets",
-      "stronger",
-      "export",
-      "base",
-      "for",
-      "cashew",
-      "soya",
-      "sesame",
-      "bean",
-      "among",
-      "kwara",
-      "stakeholders"
-    ]
-  },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 8,
-    "top_news": "https://www.thehindu.com/news/international/aung-san-suu-kyi-a-symbol-of-resistance/article71183720.ece",
-    "event_codes": {
-      "17": 6,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "international",
-      "aung",
-      "san",
-      "suu",
-      "kyi",
-      "symbol",
-      "resistance",
-      "article71183720.ece"
+      "rkjma11vmml"
     ]
   }
 }
