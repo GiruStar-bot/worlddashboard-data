@@ -1,108 +1,61 @@
 {
-  "IRN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.ancient-origins.net/history-famous-people/alexander-great-0013658",
+  "CMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.teamtalk.com/news/arsenal-transfer-news-christian-kofane-newcastle-leverkusen",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "history",
-      "famous",
-      "people",
-      "alexander",
-      "great",
-      "0013658"
+      "news",
+      "arsenal",
+      "transfer",
+      "news",
+      "christian",
+      "kofane",
+      "newcastle",
+      "leverkusen"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.haaretz.com/israel-news/2026-07-05/ty-article/.premium/after-1-000-days-of-war-israels-north-is-running-out-of-resilience/0000019f-3106-d9e7-afdf-3d27bab20000",
+    "risk_score": 8.5,
+    "count": 10,
+    "top_news": "https://www.jns.org/news/israel-news/idf-gaza-airstrikes-kill-two-hamas-commanders",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "19": 5,
+      "17": 3,
+      "20": 2
     },
     "keywords": [
+      "news",
       "israel",
       "news",
-      "2026",
-      "article",
-      ".premium",
-      "after",
-      "000",
-      "days",
-      "war",
-      "israels",
-      "north",
-      "running",
-      "out",
-      "resilience",
-      "0000019f",
-      "3106",
-      "d9e7",
-      "afdf",
-      "3d27bab20000"
+      "idf",
+      "gaza",
+      "airstrikes",
+      "kill",
+      "two",
+      "hamas",
+      "commanders"
     ]
   },
-  "MLI": {
-    "risk_score": 3.55,
-    "count": 4,
-    "top_news": "https://dominicanrepublicpost.com/what-to-know-about-the-renewed-coordinated-attacks-across-mali/",
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/politics/turkiye-remembers-victims-of-1993-massacre-by-pkk/news",
     "event_codes": {
-      "19": 3,
-      "14": 1
+      "19": 1,
+      "20": 1
     },
     "keywords": [
-      "what",
-      "know",
-      "about",
-      "the",
-      "renewed",
-      "coordinated",
-      "attacks",
-      "across",
-      "mali"
-    ]
-  },
-  "NGA": {
-    "risk_score": 13.69,
-    "count": 17,
-    "top_news": "https://dailytrust.com/six-killed-as-bandits-sack-over-30-villages-in-sokoto/",
-    "event_codes": {
-      "19": 9,
-      "17": 5,
-      "15": 2,
-      "14": 1
-    },
-    "keywords": [
-      "six",
-      "killed",
-      "bandits",
-      "sack",
-      "over",
-      "villages",
-      "sokoto"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "cargo",
-      "vessel",
-      "red",
-      "sea",
-      "reports",
-      "attack",
-      "maritime",
-      "body",
-      "says.html"
+      "politics",
+      "turkiye",
+      "remembers",
+      "victims",
+      "1993",
+      "massacre",
+      "pkk",
+      "news"
     ]
   }
 }
