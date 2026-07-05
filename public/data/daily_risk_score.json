@@ -1,100 +1,117 @@
 {
-  "BHR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.arabnews.com/node/2649763/middle-east",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "node",
-      "2649763",
-      "middle",
-      "east"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.35,
-    "count": 7,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/ncri-supporters-launch-coordinated-global-protests-against-executions-and-tehrans-diplomatic-outposts/",
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/news/world/4636547/iran-ayatollah-funeral-trump-assassination/",
     "event_codes": {
-      "14": 3,
-      "17": 2,
-      "18": 2
+      "15": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
+      "world",
+      "4636547",
       "iran",
-      "resistance",
-      "ncri",
-      "supporters",
-      "launch",
-      "coordinated",
-      "global",
-      "protests",
-      "against",
-      "executions",
-      "and",
-      "tehrans",
-      "diplomatic",
-      "outposts"
+      "ayatollah",
+      "funeral",
+      "trump",
+      "assassination"
     ]
   },
   "ISR": {
-    "risk_score": 19.0,
-    "count": 23,
-    "top_news": "https://www.straitstimes.com/world/middle-east/israeli-strike-kills-two-people-in-gaza-medics-say",
+    "risk_score": 15.37,
+    "count": 16,
+    "top_news": "https://english.aawsat.com/arab-world/5292451-south-lebanon-israel-army-chief-vows-act-%E2%80%98decisively%E2%80%99-against-hezbollah",
     "event_codes": {
-      "19": 9,
-      "17": 7,
-      "18": 4,
-      "20": 3
+      "19": 14,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
+      "arab",
       "world",
-      "middle",
-      "east",
-      "israeli",
-      "strike",
-      "kills",
-      "two",
-      "people",
-      "gaza",
-      "medics",
-      "say"
+      "5292451",
+      "south",
+      "lebanon",
+      "israel",
+      "army",
+      "chief",
+      "vows",
+      "act",
+      "%e2%80%98decisively%e2%80%99",
+      "against",
+      "hezbollah"
     ]
   },
-  "SYR": {
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/07/anti-terror-war-army-trains-14000-new-soldiers/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "anti",
+      "terror",
+      "war",
+      "army",
+      "trains",
+      "14000",
+      "new",
+      "soldiers"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://redpepper.co.ug/somalia-mission-updf-commander-issues-tough-orders-as-washington-moves-to-cut-lifeline-for-au-mission/149387/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "somalia",
+      "mission",
+      "updf",
+      "commander",
+      "issues",
+      "tough",
+      "orders",
+      "washington",
+      "moves",
+      "cut",
+      "lifeline",
+      "for",
+      "mission",
+      "149387"
+    ]
+  },
+  "THA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://sana.sy/en/syria/2327495/",
+    "top_news": "https://www.wxow.com/news/national/downed-by-lightning-eight-decades-ago-a-us-airman-is-finally-coming-home/article_c990c2d3-c944-56a1-8d7f-da1aa070250c.html",
     "event_codes": {
-      "20": 2
+      "19": 2
     },
     "keywords": [
-      "syria",
-      "2327495"
-    ]
-  },
-  "TUR": {
-    "risk_score": 7.4,
-    "count": 13,
-    "top_news": "https://www.dw.com/en/turkey-arrests-critics-opposition-leaders-ahead-of-nato-summit/a-77839766",
-    "event_codes": {
-      "17": 12,
-      "19": 1
-    },
-    "keywords": [
-      "turkey",
-      "arrests",
-      "critics",
-      "opposition",
-      "leaders",
-      "ahead",
-      "nato",
-      "summit",
-      "77839766"
+      "news",
+      "national",
+      "downed",
+      "lightning",
+      "eight",
+      "decades",
+      "ago",
+      "airman",
+      "finally",
+      "coming",
+      "home",
+      "article",
+      "c990c2d3",
+      "c944",
+      "56a1",
+      "8d7f",
+      "da1aa070250c.html"
     ]
   }
 }
