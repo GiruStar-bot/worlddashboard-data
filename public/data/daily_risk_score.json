@@ -1,19 +1,81 @@
 {
-  "ISR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://townhall.com/columnists/alanjosephbauer/2026/07/05/dont-shop-at-vons-n2678802",
+  "IRN": {
+    "risk_score": 2.65,
+    "count": 4,
+    "top_news": "https://finance.yahoo.com/technology/ai/articles/meta-ceo-sends-warning-ai-023300996.html",
     "event_codes": {
+      "16": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "technology",
+      "articles",
+      "meta",
+      "ceo",
+      "sends",
+      "warning",
+      "023300996.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 25.8,
+    "count": 27,
+    "top_news": "https://english.wafa.ps/Pages/Details/172346",
+    "event_codes": {
+      "19": 17,
+      "18": 9,
+      "17": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172346"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.26,
+    "count": 22,
+    "top_news": "https://tribuneonlineng.com/how-we-paid-n25-5m-gave-bags-of-rice-150-litres-of-fuel-drinks-others-to-secure-release-of-our-people-ekiti-community-leader/",
+    "event_codes": {
+      "18": 9,
+      "17": 7,
+      "16": 3,
       "19": 3
     },
     "keywords": [
-      "columnists",
-      "alanjosephbauer",
-      "2026",
-      "dont",
-      "shop",
-      "vons",
-      "n2678802"
+      "how",
+      "paid",
+      "n25",
+      "gave",
+      "bags",
+      "rice",
+      "150",
+      "litres",
+      "fuel",
+      "drinks",
+      "others",
+      "secure",
+      "release",
+      "our",
+      "people",
+      "ekiti",
+      "community",
+      "leader"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://english.wafa.ps/Pages/Details/172334",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172334"
     ]
   }
 }
