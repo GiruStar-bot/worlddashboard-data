@@ -1,25 +1,62 @@
 {
   "ISR": {
-    "risk_score": 7.56,
-    "count": 8,
-    "top_news": "https://www.abc.net.au/news/2026-07-06/idf-controls-more-gaza-territory-as-israel-yellow-line-moves/106836640",
+    "risk_score": 7.95,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/node/2649814/middle-east",
     "event_codes": {
-      "19": 5,
-      "17": 3
+      "19": 6,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "2026",
-      "idf",
-      "controls",
-      "more",
-      "gaza",
-      "territory",
-      "israel",
-      "yellow",
-      "line",
-      "moves",
-      "106836640"
+      "node",
+      "2649814",
+      "middle",
+      "east"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "http://www.bgnes.com/conflicts/russia-strikes-kyiv-region-with-ballistic-missiles-eight-injured",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "conflicts",
+      "russia",
+      "strikes",
+      "kyiv",
+      "region",
+      "with",
+      "ballistic",
+      "missiles",
+      "eight",
+      "injured"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://www.newzimbabwe.com/zimbabwean-migrant-allegedly-killed-in-south-africas-mpumalanga-amid-continuing-xenophobic-attacks/",
+    "event_codes": {
+      "14": 1,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "zimbabwean",
+      "migrant",
+      "allegedly",
+      "killed",
+      "south",
+      "africas",
+      "mpumalanga",
+      "amid",
+      "continuing",
+      "xenophobic",
+      "attacks"
     ]
   }
 }

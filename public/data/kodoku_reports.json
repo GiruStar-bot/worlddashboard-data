@@ -12,8 +12,8 @@
     },
     "suez": {
       "name": "Suez Canal",
-      "disruption_risk": 21.1,
-      "crisis_score_raw": 6.3307
+      "disruption_risk": 25.2,
+      "crisis_score_raw": 7.547
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
@@ -32,8 +32,8 @@
     },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 4.6,
-      "crisis_score_raw": 1.3929
+      "disruption_risk": 10.0,
+      "crisis_score_raw": 3.0094
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
@@ -84,13 +84,13 @@
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 21.1
+          "disruption_risk": 25.2
         }
       ],
-      "survival_rate": 78.9,
+      "survival_rate": 74.8,
       "critical_node": "Suez Canal",
-      "max_disruption_risk": 21.1,
-      "insight": "エネルギー航路 (中東 - 欧州)に軽微なリスク圧力が観測されている。Suez Canal（封鎖リスク21.1%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
+      "max_disruption_risk": 25.2,
+      "insight": "エネルギー航路 (中東 - 欧州)に軽微なリスク圧力が観測されている。Suez Canal（封鎖リスク25.2%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
     },
     {
       "id": "asia_to_europe_suez",
@@ -109,13 +109,13 @@
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 21.1
+          "disruption_risk": 25.2
         }
       ],
-      "survival_rate": 78.9,
+      "survival_rate": 74.8,
       "critical_node": "Suez Canal",
-      "max_disruption_risk": 21.1,
-      "insight": "主要貿易航路 (アジア - 欧州 / スエズ経由)に軽微なリスク圧力が観測されている。Suez Canal（封鎖リスク21.1%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
+      "max_disruption_risk": 25.2,
+      "insight": "主要貿易航路 (アジア - 欧州 / スエズ経由)に軽微なリスク圧力が観測されている。Suez Canal（封鎖リスク25.2%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
     },
     {
       "id": "asia_to_europe_cape",
@@ -164,18 +164,18 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 4.6
+          "disruption_risk": 10.0
         },
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 21.1
+          "disruption_risk": 25.2
         }
       ],
-      "survival_rate": 78.9,
+      "survival_rate": 74.8,
       "critical_node": "Suez Canal",
-      "max_disruption_risk": 21.1,
-      "insight": "黒海・地中海航路に軽微なリスク圧力が観測されている。Suez Canal（封鎖リスク21.1%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
+      "max_disruption_risk": 25.2,
+      "insight": "黒海・地中海航路に軽微なリスク圧力が観測されている。Suez Canal（封鎖リスク25.2%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
     }
   ]
 }
