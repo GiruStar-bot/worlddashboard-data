@@ -1,42 +1,63 @@
 {
-  "IRN": {
-    "risk_score": 4.9,
+  "JOR": {
+    "risk_score": 4.5,
     "count": 5,
-    "top_news": "https://www.islamicinvitationturkey.com/irans-military-strength-attributed-to-martyr-leader-legacy-to-persist-commander/",
+    "top_news": "https://www.wyff4.com/article/man-found-dead-in-road-3-arrested-murder-simpsonville/71842285",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "irans",
-      "military",
-      "strength",
-      "attributed",
-      "martyr",
-      "leader",
-      "legacy",
-      "persist",
-      "commander"
+      "article",
+      "man",
+      "found",
+      "dead",
+      "road",
+      "arrested",
+      "murder",
+      "simpsonville",
+      "71842285"
     ]
   },
   "NGA": {
-    "risk_score": 5.32,
-    "count": 6,
-    "top_news": "https://www.christiandaily.com/news/christian-campus-group-leaders-in-nigeria-remain-missing",
+    "risk_score": 7.47,
+    "count": 9,
+    "top_news": "https://leadership.ng/nans-gives-south-african-businesses-4-day-ultimatum-to-exit-nigeria/",
     "event_codes": {
-      "19": 3,
-      "17": 2,
+      "19": 4,
+      "17": 3,
+      "14": 1,
       "18": 1
     },
     "keywords": [
+      "nans",
+      "gives",
+      "south",
+      "african",
+      "businesses",
+      "day",
+      "ultimatum",
+      "exit",
+      "nigeria"
+    ]
+  },
+  "SSD": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/splm-mourns-slain-akobo-county-commissioner",
+    "event_codes": {
+      "19": 8,
+      "17": 2
+    },
+    "keywords": [
       "news",
-      "christian",
-      "campus",
-      "group",
-      "leaders",
-      "nigeria",
-      "remain",
-      "missing"
+      "article",
+      "splm",
+      "mourns",
+      "slain",
+      "akobo",
+      "county",
+      "commissioner"
     ]
   }
 }
