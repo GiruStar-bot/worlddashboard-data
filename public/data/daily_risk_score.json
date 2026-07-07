@@ -1,89 +1,86 @@
 {
   "IRN": {
-    "risk_score": 7.05,
-    "count": 8,
-    "top_news": "https://pakobserver.net/iran-accused-of-missile-attack-on-commercial-vessels-in-strait-of-hormuz/",
+    "risk_score": 6.72,
+    "count": 7,
+    "top_news": "https://www.jpost.com/israel-news/article-901731",
     "event_codes": {
-      "18": 3,
-      "19": 3,
-      "14": 1,
+      "19": 5,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "iran",
-      "accused",
-      "missile",
-      "attack",
-      "commercial",
-      "vessels",
-      "strait",
-      "hormuz"
+      "israel",
+      "news",
+      "article",
+      "901731"
     ]
   },
   "ISR": {
-    "risk_score": 7.35,
-    "count": 9,
-    "top_news": "https://www.yahoo.com/news/us/articles/suspects-attack-border-police-kalandiya-074111207.html",
+    "risk_score": 6.5,
+    "count": 8,
+    "top_news": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government",
     "event_codes": {
-      "18": 5,
-      "16": 2,
-      "19": 2
+      "14": 4,
+      "19": 4
     },
     "keywords": [
       "news",
-      "articles",
-      "suspects",
-      "attack",
-      "border",
-      "police",
-      "kalandiya",
-      "074111207.html"
+      "2026",
+      "what",
+      "the",
+      "new",
+      "gaza",
+      "administration",
+      "hamas",
+      "dissolves",
+      "government"
     ]
   },
-  "NGA": {
-    "risk_score": 9.8,
-    "count": 18,
-    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/893511-police-arrest-woman-filmed-assaulting-12-year-old-with-knife.html",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/israel-news/article-901731",
     "event_codes": {
-      "17": 16,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "regional",
-      "south",
-      "south",
-      "regional",
-      "893511",
-      "police",
-      "arrest",
-      "woman",
-      "filmed",
-      "assaulting",
-      "year",
-      "old",
-      "with",
-      "knife.html"
+      "israel",
+      "news",
+      "article",
+      "901731"
     ]
   },
   "SYR": {
-    "risk_score": 3.65,
-    "count": 6,
-    "top_news": "https://pakobserver.net/french-president-macron-safe-after-explosions-near-hotel-in-damascus/",
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://sana.sy/en/politics/2327887/",
     "event_codes": {
-      "16": 4,
-      "17": 1,
-      "19": 1
+      "18": 4
     },
     "keywords": [
-      "french",
-      "president",
-      "macron",
-      "safe",
-      "after",
-      "explosions",
-      "near",
-      "hotel",
-      "damascus"
+      "politics",
+      "2327887"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thegardenisland.com/2026/07/06/hawaii-news/hawaii-veterans-reflect-on-their-service-as-america-marks-a-milestone/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "hawaii",
+      "news",
+      "hawaii",
+      "veterans",
+      "reflect",
+      "their",
+      "service",
+      "america",
+      "marks",
+      "milestone"
     ]
   }
 }
