@@ -1,85 +1,125 @@
 {
+  "IRN": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.wpbf.com/article/us-new-strikes-iran-oman-hormuz/71858092",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "article",
+      "new",
+      "strikes",
+      "iran",
+      "oman",
+      "hormuz",
+      "71858092"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.wpbf.com/article/us-new-strikes-iran-oman-hormuz/71858092",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "new",
+      "strikes",
+      "iran",
+      "oman",
+      "hormuz",
+      "71858092"
+    ]
+  },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.elciudadano.com/en/ceasefire-illusion-israel-continues-strikes-as-lebanon-reports-4319-deaths/07/07/",
+    "risk_score": 3.42,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/429812",
     "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "ceasefire",
-      "illusion",
-      "israel",
-      "continues",
-      "strikes",
-      "lebanon",
-      "reports",
-      "4319",
-      "deaths"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.76,
-    "count": 5,
-    "top_news": "https://www.elciudadano.com/en/ceasefire-illusion-israel-continues-strikes-as-lebanon-reports-4319-deaths/07/07/",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "ceasefire",
-      "illusion",
-      "israel",
-      "continues",
-      "strikes",
-      "lebanon",
-      "reports",
-      "4319",
-      "deaths"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.the-star.co.ke/news/2026-07-07-singoei-raises-safety-concerns-for-kenyans-in-south-sudan",
-    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "singoei",
-      "raises",
-      "safety",
-      "concerns",
-      "for",
-      "kenyans",
-      "south",
-      "sudan"
+      "429812"
+    ]
+  },
+  "LBY": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.express.co.uk/news/world/2226549/warning-uk-holidaymakers-fanged-toxic-fish",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2226549",
+      "warning",
+      "holidaymakers",
+      "fanged",
+      "toxic",
+      "fish"
     ]
   },
   "SYR": {
-    "risk_score": 3.96,
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://spacewar.com/zero-evidence-syria-rebels-will-use-chemical-weapons-mattis-999/",
+    "top_news": "https://www.express.co.uk/news/world/2226549/warning-uk-holidaymakers-fanged-toxic-fish",
     "event_codes": {
-      "14": 2,
-      "16": 1,
-      "18": 1,
-      "19": 1
+      "19": 5
     },
     "keywords": [
-      "zero",
-      "evidence",
-      "syria",
-      "rebels",
-      "will",
-      "use",
-      "chemical",
-      "weapons",
-      "mattis",
-      "999"
+      "news",
+      "world",
+      "2226549",
+      "warning",
+      "holidaymakers",
+      "fanged",
+      "toxic",
+      "fish"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://athens-times.com/why-trump-cant-sell-f-35s-to-turkey-reactions-and-obstacles-to-lifting-sanctions/",
+    "event_codes": {
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "why",
+      "trump",
+      "cant",
+      "sell",
+      "35s",
+      "turkey",
+      "reactions",
+      "and",
+      "obstacles",
+      "lifting",
+      "sanctions"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.76,
+    "count": 3,
+    "top_news": "https://www.surinametimes.com/artikel/race-to-recover-bodies-ahead-of-venezuela-quake-cleanup",
+    "event_codes": {
+      "17": 3
+    },
+    "keywords": [
+      "artikel",
+      "race",
+      "recover",
+      "bodies",
+      "ahead",
+      "venezuela",
+      "quake",
+      "cleanup"
     ]
   }
 }
