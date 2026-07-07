@@ -1,70 +1,89 @@
 {
-  "MMR": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://asianews.network/myanmar-condominium-complex-owner-sentenced-to-five-years-imprisonment-after-over-200-people-died-in-2025-earthquake/",
+  "IRN": {
+    "risk_score": 7.05,
+    "count": 8,
+    "top_news": "https://pakobserver.net/iran-accused-of-missile-attack-on-commercial-vessels-in-strait-of-hormuz/",
     "event_codes": {
-      "17": 6
+      "18": 3,
+      "19": 3,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "myanmar",
-      "condominium",
-      "complex",
-      "owner",
-      "sentenced",
-      "five",
-      "years",
-      "imprisonment",
-      "after",
-      "over",
-      "200",
-      "people",
-      "died",
-      "2025",
-      "earthquake"
+      "iran",
+      "accused",
+      "missile",
+      "attack",
+      "commercial",
+      "vessels",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.35,
+    "count": 9,
+    "top_news": "https://www.yahoo.com/news/us/articles/suspects-attack-border-police-kalandiya-074111207.html",
+    "event_codes": {
+      "18": 5,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "suspects",
+      "attack",
+      "border",
+      "police",
+      "kalandiya",
+      "074111207.html"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/07/07/nigerian-newspapers-10-things-you-need-to-know-tuesday-morning-135/",
+    "risk_score": 9.8,
+    "count": 18,
+    "top_news": "https://www.premiumtimesng.com/regional/south-south-regional/893511-police-arrest-woman-filmed-assaulting-12-year-old-with-knife.html",
     "event_codes": {
-      "19": 4
+      "17": 16,
+      "18": 2
     },
     "keywords": [
-      "2026",
-      "nigerian",
-      "newspapers",
-      "things",
-      "you",
-      "need",
-      "know",
-      "tuesday",
-      "morning",
-      "135"
+      "regional",
+      "south",
+      "south",
+      "regional",
+      "893511",
+      "police",
+      "arrest",
+      "woman",
+      "filmed",
+      "assaulting",
+      "year",
+      "old",
+      "with",
+      "knife.html"
     ]
   },
-  "TUR": {
-    "risk_score": 4.0,
-    "count": 7,
-    "top_news": "https://www.travelextra.ie/take-five-how-easyjet-fell-into-the-hands-of-peter-bellew-mark-breen/",
+  "SYR": {
+    "risk_score": 3.65,
+    "count": 6,
+    "top_news": "https://pakobserver.net/french-president-macron-safe-after-explosions-near-hotel-in-damascus/",
     "event_codes": {
-      "17": 6,
+      "16": 4,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "take",
-      "five",
-      "how",
-      "easyjet",
-      "fell",
-      "into",
-      "the",
-      "hands",
-      "peter",
-      "bellew",
-      "mark",
-      "breen"
+      "french",
+      "president",
+      "macron",
+      "safe",
+      "after",
+      "explosions",
+      "near",
+      "hotel",
+      "damascus"
     ]
   }
 }
