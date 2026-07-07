@@ -1,63 +1,59 @@
 {
-  "JOR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.wyff4.com/article/man-found-dead-in-road-3-arrested-murder-simpsonville/71842285",
+  "IDN": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "http://www.thejakartapost.com/indonesia/2026/07/07/probe-launched-as-more-papuans-killed-in-intan-jaya",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "17": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "article",
-      "man",
-      "found",
-      "dead",
-      "road",
-      "arrested",
-      "murder",
-      "simpsonville",
-      "71842285"
+      "indonesia",
+      "2026",
+      "probe",
+      "launched",
+      "more",
+      "papuans",
+      "killed",
+      "intan",
+      "jaya"
     ]
   },
-  "NGA": {
-    "risk_score": 7.47,
-    "count": 9,
-    "top_news": "https://leadership.ng/nans-gives-south-african-businesses-4-day-ultimatum-to-exit-nigeria/",
+  "ISR": {
+    "risk_score": 9.95,
+    "count": 11,
+    "top_news": "https://www.globalissues.org/news/2026/07/06/43502",
     "event_codes": {
-      "19": 4,
-      "17": 3,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "nans",
-      "gives",
-      "south",
-      "african",
-      "businesses",
-      "day",
-      "ultimatum",
-      "exit",
-      "nigeria"
-    ]
-  },
-  "SSD": {
-    "risk_score": 8.8,
-    "count": 10,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/splm-mourns-slain-akobo-county-commissioner",
-    "event_codes": {
-      "19": 8,
+      "19": 9,
       "17": 2
     },
     "keywords": [
       "news",
-      "article",
-      "splm",
-      "mourns",
-      "slain",
-      "akobo",
-      "county",
-      "commissioner"
+      "2026",
+      "43502"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.09,
+    "count": 4,
+    "top_news": "https://www.eurasiareview.com/07072026-the-nato-ankara-summit-another-make-or-break-moment-analysis/",
+    "event_codes": {
+      "15": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "07072026",
+      "the",
+      "nato",
+      "ankara",
+      "summit",
+      "another",
+      "make",
+      "break",
+      "moment",
+      "analysis"
     ]
   }
 }
