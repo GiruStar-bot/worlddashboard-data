@@ -1,86 +1,81 @@
 {
-  "IRN": {
-    "risk_score": 6.72,
-    "count": 7,
-    "top_news": "https://www.jpost.com/israel-news/article-901731",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://pragativadi.com/pm-modi-hails-biju-patnaik-in-indonesia-says-his-1947-mission-brought-india-and-indonesia-closer/",
     "event_codes": {
-      "19": 5,
-      "16": 1,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "israel",
+      "modi",
+      "hails",
+      "biju",
+      "patnaik",
+      "indonesia",
+      "says",
+      "his",
+      "1947",
+      "mission",
+      "brought",
+      "india",
+      "and",
+      "indonesia",
+      "closer"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.insurancejournal.com/news/international/2026/07/07/876415.htm",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
       "news",
-      "article",
-      "901731"
+      "international",
+      "2026",
+      "876415.htm"
     ]
   },
   "ISR": {
-    "risk_score": 6.5,
-    "count": 8,
-    "top_news": "https://www.aljazeera.com/news/2026/7/7/what-is-the-new-gaza-administration-as-hamas-dissolves-government",
-    "event_codes": {
-      "14": 4,
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "what",
-      "the",
-      "new",
-      "gaza",
-      "administration",
-      "hamas",
-      "dissolves",
-      "government"
-    ]
-  },
-  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.jpost.com/israel-news/article-901731",
+    "top_news": "https://news.az/news/fresh-israeli-attacks-kill-two-palestinians-in-gaza",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "israel",
+      "news",
+      "fresh",
+      "israeli",
+      "attacks",
+      "kill",
+      "two",
+      "palestinians",
+      "gaza"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/court-sets-july-17-for-ruling-in-police-officer-assault-case",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
       "news",
       "article",
-      "901731"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://sana.sy/en/politics/2327887/",
-    "event_codes": {
-      "18": 4
-    },
-    "keywords": [
-      "politics",
-      "2327887"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thegardenisland.com/2026/07/06/hawaii-news/hawaii-veterans-reflect-on-their-service-as-america-marks-a-milestone/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "hawaii",
-      "news",
-      "hawaii",
-      "veterans",
-      "reflect",
-      "their",
-      "service",
-      "america",
-      "marks",
-      "milestone"
+      "court",
+      "sets",
+      "july",
+      "for",
+      "ruling",
+      "police",
+      "officer",
+      "assault",
+      "case"
     ]
   }
 }
