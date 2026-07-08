@@ -1,76 +1,107 @@
 {
-  "IRN": {
+  "AGO": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://navhindtimes.in/worldnews/trump-renews-threat-to-hit-iran-signals-end-to-truce/",
+    "top_news": "https://www.cnbcafrica.com/media/6154318815001/-angola-plans-to-strengthen-lock-down-restrictions-as-covid-19-cases-rise-",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "worldnews",
+      "media",
+      "6154318815001",
+      "angola",
+      "plans",
+      "strengthen",
+      "lock",
+      "down",
+      "restrictions",
+      "covid",
+      "cases",
+      "rise"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.newsweek.com/marjorie-taylor-greene-compares-trump-family-corruption-to-hunter-biden-12172568",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "marjorie",
+      "taylor",
+      "greene",
+      "compares",
       "trump",
-      "renews",
-      "threat",
-      "hit",
+      "family",
+      "corruption",
+      "hunter",
+      "biden",
+      "12172568"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.82,
+    "count": 14,
+    "top_news": "https://www.channelnewsasia.com/world/us-strike-iran-trump-ceasefire-over-6242221",
+    "event_codes": {
+      "19": 11,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "strike",
       "iran",
-      "signals",
-      "end",
-      "truce"
+      "trump",
+      "ceasefire",
+      "over",
+      "6242221"
     ]
   },
   "ISR": {
-    "risk_score": 7.6,
-    "count": 9,
-    "top_news": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.foxnews.com/politics/potential-2028-dem-contender-unloads-netanyahu-admits-us-israel-ties-crossroads",
     "event_codes": {
-      "19": 6,
-      "17": 2,
-      "16": 1
+      "19": 4
+    },
+    "keywords": [
+      "politics",
+      "potential",
+      "2028",
+      "dem",
+      "contender",
+      "unloads",
+      "netanyahu",
+      "admits",
+      "israel",
+      "ties",
+      "crossroads"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/893873-police-arrest-135-suspected-cultists-recover-26-firearms-in-lagos-raids.html",
+    "event_codes": {
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "israeli",
-      "air",
-      "strikes",
-      "gaza",
-      "kill",
-      "eight",
-      "including",
-      "two",
-      "children"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/skprme2mgl",
-    "event_codes": {
-      "16": 5
-    },
-    "keywords": [
-      "article",
-      "skprme2mgl"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.csmonitor.com/USA/Military/2026/0708/nato-europe-trump-iran-ceasefire",
-    "event_codes": {
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "usa",
-      "military",
-      "2026",
-      "0708",
-      "nato",
-      "europe",
-      "trump",
-      "iran",
-      "ceasefire"
+      "top",
+      "news",
+      "893873",
+      "police",
+      "arrest",
+      "135",
+      "suspected",
+      "cultists",
+      "recover",
+      "firearms",
+      "lagos",
+      "raids.html"
     ]
   }
 }
