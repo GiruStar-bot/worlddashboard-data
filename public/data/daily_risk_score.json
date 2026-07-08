@@ -1,91 +1,76 @@
 {
-  "CHL": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.elciudadano.com/en/memory-prevails-former-dina-agents-convicted-for-kidnapping-a-photographer-and-a-professor-last-seen-at-villa-grimaldi/07/08/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "memory",
-      "prevails",
-      "former",
-      "dina",
-      "agents",
-      "convicted",
-      "for",
-      "kidnapping",
-      "photographer",
-      "and",
-      "professor",
-      "last",
-      "seen",
-      "villa",
-      "grimaldi"
-    ]
-  },
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.heraldgoa.in/globe-nation/trump-threatens-fresh-strikes-on-iran-ceasefire-over/481163/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://navhindtimes.in/worldnews/trump-renews-threat-to-hit-iran-signals-end-to-truce/",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "globe",
-      "nation",
+      "worldnews",
       "trump",
-      "threatens",
-      "fresh",
-      "strikes",
+      "renews",
+      "threat",
+      "hit",
       "iran",
-      "ceasefire",
-      "over",
-      "481163"
+      "signals",
+      "end",
+      "truce"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theage.com.au/national/nsw/the-labor-mp-at-loggerheads-with-the-minns-government-again-20260708-p60dmj.html",
+    "risk_score": 7.6,
+    "count": 9,
+    "top_news": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children",
     "event_codes": {
-      "19": 3
+      "19": 6,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "national",
-      "nsw",
-      "the",
-      "labor",
-      "loggerheads",
-      "with",
-      "the",
-      "minns",
-      "government",
-      "again",
-      "20260708",
-      "p60dmj.html"
+      "news",
+      "2026",
+      "israeli",
+      "air",
+      "strikes",
+      "gaza",
+      "kill",
+      "eight",
+      "including",
+      "two",
+      "children"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://blueprint.ng/lagos-police-smash-cult-initiation-arrest-135-suspects-recover-arms-charms/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/skprme2mgl",
     "event_codes": {
-      "19": 3
+      "16": 5
     },
     "keywords": [
-      "lagos",
-      "police",
-      "smash",
-      "cult",
-      "initiation",
-      "arrest",
-      "135",
-      "suspects",
-      "recover",
-      "arms",
-      "charms"
+      "article",
+      "skprme2mgl"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.csmonitor.com/USA/Military/2026/0708/nato-europe-trump-iran-ceasefire",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "usa",
+      "military",
+      "2026",
+      "0708",
+      "nato",
+      "europe",
+      "trump",
+      "iran",
+      "ceasefire"
     ]
   }
 }
