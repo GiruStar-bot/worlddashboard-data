@@ -1,107 +1,63 @@
 {
-  "AGO": {
+  "IRN": {
+    "risk_score": 12.9,
+    "count": 13,
+    "top_news": "https://www.newsweek.com/how-donald-trump-approval-rating-changed-iran-ceasefire-12173837",
+    "event_codes": {
+      "19": 12,
+      "18": 1
+    },
+    "keywords": [
+      "how",
+      "donald",
+      "trump",
+      "approval",
+      "rating",
+      "changed",
+      "iran",
+      "ceasefire",
+      "12173837"
+    ]
+  },
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.cnbcafrica.com/media/6154318815001/-angola-plans-to-strengthen-lock-down-restrictions-as-covid-19-cases-rise-",
+    "top_news": "https://www.qatar-tribune.com/article/243436/latest-news/qatar-condemns-attacks-on-police-and-army-personnel-in-pakistan",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "media",
-      "6154318815001",
-      "angola",
-      "plans",
-      "strengthen",
-      "lock",
-      "down",
-      "restrictions",
-      "covid",
-      "cases",
-      "rise"
+      "article",
+      "243436",
+      "latest",
+      "news",
+      "qatar",
+      "condemns",
+      "attacks",
+      "police",
+      "and",
+      "army",
+      "personnel",
+      "pakistan"
     ]
   },
-  "EGY": {
-    "risk_score": 2.5,
+  "TUR": {
+    "risk_score": 3.45,
     "count": 5,
-    "top_news": "https://www.newsweek.com/marjorie-taylor-greene-compares-trump-family-corruption-to-hunter-biden-12172568",
+    "top_news": "https://www.theepochtimes.com/world/6-takeaways-from-the-nato-summit-6059152",
     "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "marjorie",
-      "taylor",
-      "greene",
-      "compares",
-      "trump",
-      "family",
-      "corruption",
-      "hunter",
-      "biden",
-      "12172568"
-    ]
-  },
-  "IRN": {
-    "risk_score": 13.82,
-    "count": 14,
-    "top_news": "https://www.channelnewsasia.com/world/us-strike-iran-trump-ceasefire-over-6242221",
-    "event_codes": {
-      "19": 11,
-      "18": 2,
-      "17": 1
+      "17": 3,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "world",
-      "strike",
-      "iran",
-      "trump",
-      "ceasefire",
-      "over",
-      "6242221"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.foxnews.com/politics/potential-2028-dem-contender-unloads-netanyahu-admits-us-israel-ties-crossroads",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "politics",
-      "potential",
-      "2028",
-      "dem",
-      "contender",
-      "unloads",
-      "netanyahu",
-      "admits",
-      "israel",
-      "ties",
-      "crossroads"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/893873-police-arrest-135-suspected-cultists-recover-26-firearms-in-lagos-raids.html",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "top",
-      "news",
-      "893873",
-      "police",
-      "arrest",
-      "135",
-      "suspected",
-      "cultists",
-      "recover",
-      "firearms",
-      "lagos",
-      "raids.html"
+      "takeaways",
+      "from",
+      "the",
+      "nato",
+      "summit",
+      "6059152"
     ]
   }
 }
