@@ -1,84 +1,70 @@
 {
   "IRN": {
-    "risk_score": 5.4,
-    "count": 7,
-    "top_news": "https://wcbm.com/national-headline/big-attack-against-iran-possible-on-wednesday-night/",
+    "risk_score": 7.75,
+    "count": 9,
+    "top_news": "https://www.dailykos.com/stories/2026/7/8/800066848/news/trump-iran-war-ceasefire-japan/",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "14": 1
+      "19": 5,
+      "17": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "national",
-      "headline",
-      "big",
-      "attack",
-      "against",
+      "stories",
+      "2026",
+      "800066848",
+      "news",
+      "trump",
       "iran",
-      "possible",
-      "wednesday",
-      "night"
+      "war",
+      "ceasefire",
+      "japan"
     ]
   },
   "ISR": {
-    "risk_score": 3.7,
-    "count": 6,
-    "top_news": "http://www.sanantoniopost.com/news/279174883/trump-says-us-might-take-kharg-island",
+    "risk_score": 17.75,
+    "count": 20,
+    "top_news": "https://www.arabnews.com/node/2650147/middle-east",
     "event_codes": {
-      "16": 3,
+      "19": 11,
+      "18": 6,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "node",
+      "2650147",
+      "middle",
+      "east"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.moneycontrol.com/world/i-m-iran-s-number-one-target-trump-says-tehran-wants-him-dead-but-doesn-t-expect-war-to-restart-article-13969338.html",
+    "event_codes": {
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "279174883",
+      "world",
+      "iran",
+      "number",
+      "one",
+      "target",
       "trump",
       "says",
-      "might",
-      "take",
-      "kharg",
-      "island"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.fool.com/investing/2026/07/08/why-super-micro-computer-fell-over-36-in-june/?source=iedfolrf0000001",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "investing",
-      "2026",
-      "why",
-      "super",
-      "micro",
-      "computer",
-      "fell",
-      "over",
-      "june"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://amandala.com.bz/news/us-backed-right-wing-leaders-toppling-left-wing-latin-american-governments/",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "news",
-      "backed",
-      "right",
-      "wing",
-      "leaders",
-      "toppling",
-      "left",
-      "wing",
-      "latin",
-      "american",
-      "governments"
+      "tehran",
+      "wants",
+      "him",
+      "dead",
+      "but",
+      "doesn",
+      "expect",
+      "war",
+      "restart",
+      "article",
+      "13969338.html"
     ]
   }
 }
