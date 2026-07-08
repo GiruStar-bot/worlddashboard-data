@@ -1,70 +1,91 @@
 {
-  "IRN": {
-    "risk_score": 7.75,
-    "count": 9,
-    "top_news": "https://www.dailykos.com/stories/2026/7/8/800066848/news/trump-iran-war-ceasefire-japan/",
+  "CHL": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.elciudadano.com/en/memory-prevails-former-dina-agents-convicted-for-kidnapping-a-photographer-and-a-professor-last-seen-at-villa-grimaldi/07/08/",
     "event_codes": {
-      "19": 5,
-      "17": 2,
-      "16": 1,
+      "17": 5
+    },
+    "keywords": [
+      "memory",
+      "prevails",
+      "former",
+      "dina",
+      "agents",
+      "convicted",
+      "for",
+      "kidnapping",
+      "photographer",
+      "and",
+      "professor",
+      "last",
+      "seen",
+      "villa",
+      "grimaldi"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.heraldgoa.in/globe-nation/trump-threatens-fresh-strikes-on-iran-ceasefire-over/481163/",
+    "event_codes": {
+      "19": 4,
       "18": 1
     },
     "keywords": [
-      "stories",
-      "2026",
-      "800066848",
-      "news",
+      "globe",
+      "nation",
       "trump",
+      "threatens",
+      "fresh",
+      "strikes",
       "iran",
-      "war",
       "ceasefire",
-      "japan"
+      "over",
+      "481163"
     ]
   },
   "ISR": {
-    "risk_score": 17.75,
-    "count": 20,
-    "top_news": "https://www.arabnews.com/node/2650147/middle-east",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theage.com.au/national/nsw/the-labor-mp-at-loggerheads-with-the-minns-government-again-20260708-p60dmj.html",
     "event_codes": {
-      "19": 11,
-      "18": 6,
-      "17": 2,
-      "14": 1
+      "19": 3
     },
     "keywords": [
-      "node",
-      "2650147",
-      "middle",
-      "east"
+      "national",
+      "nsw",
+      "the",
+      "labor",
+      "loggerheads",
+      "with",
+      "the",
+      "minns",
+      "government",
+      "again",
+      "20260708",
+      "p60dmj.html"
     ]
   },
-  "TUR": {
-    "risk_score": 2.92,
+  "NGA": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.moneycontrol.com/world/i-m-iran-s-number-one-target-trump-says-tehran-wants-him-dead-but-doesn-t-expect-war-to-restart-article-13969338.html",
+    "top_news": "https://blueprint.ng/lagos-police-smash-cult-initiation-arrest-135-suspects-recover-arms-charms/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "world",
-      "iran",
-      "number",
-      "one",
-      "target",
-      "trump",
-      "says",
-      "tehran",
-      "wants",
-      "him",
-      "dead",
-      "but",
-      "doesn",
-      "expect",
-      "war",
-      "restart",
-      "article",
-      "13969338.html"
+      "lagos",
+      "police",
+      "smash",
+      "cult",
+      "initiation",
+      "arrest",
+      "135",
+      "suspects",
+      "recover",
+      "arms",
+      "charms"
     ]
   }
 }
