@@ -1,63 +1,52 @@
 {
   "IRN": {
-    "risk_score": 12.9,
-    "count": 13,
-    "top_news": "https://www.newsweek.com/how-donald-trump-approval-rating-changed-iran-ceasefire-12173837",
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.azfamily.com/2026/07/08/after-launching-strikes-iran-trump-says-ceasefire-is-over-negotiations-can-continue/",
     "event_codes": {
-      "19": 12,
-      "18": 1
+      "19": 11
     },
     "keywords": [
-      "how",
-      "donald",
-      "trump",
-      "approval",
-      "rating",
-      "changed",
+      "2026",
+      "after",
+      "launching",
+      "strikes",
       "iran",
+      "trump",
+      "says",
       "ceasefire",
-      "12173837"
+      "over",
+      "negotiations",
+      "can",
+      "continue"
     ]
   },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.qatar-tribune.com/article/243436/latest-news/qatar-condemns-attacks-on-police-and-army-personnel-in-pakistan",
+  "ISR": {
+    "risk_score": 9.42,
+    "count": 10,
+    "top_news": "https://livenews.co.nz/2026/07/09/save-the-children-airstrike-on-gaza-tent-marks-fourth-palestinian-child-killed-in-six-days-by-israeli-forces/",
     "event_codes": {
-      "19": 2
+      "19": 7,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "article",
-      "243436",
-      "latest",
-      "news",
-      "qatar",
-      "condemns",
-      "attacks",
-      "police",
-      "and",
-      "army",
-      "personnel",
-      "pakistan"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.45,
-    "count": 5,
-    "top_news": "https://www.theepochtimes.com/world/6-takeaways-from-the-nato-summit-6059152",
-    "event_codes": {
-      "17": 3,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "takeaways",
-      "from",
+      "2026",
+      "save",
       "the",
-      "nato",
-      "summit",
-      "6059152"
+      "children",
+      "airstrike",
+      "gaza",
+      "tent",
+      "marks",
+      "fourth",
+      "palestinian",
+      "child",
+      "killed",
+      "six",
+      "days",
+      "israeli",
+      "forces"
     ]
   }
 }
