@@ -1,144 +1,61 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/887078/the-us-hit-150-targets-in-iran-irgc-4-american-bases-turned-to-dust-in-kuwait-bahrain-and-azraq-in-jordan",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "887078",
-      "the",
-      "hit",
-      "150",
-      "targets",
-      "iran",
-      "irgc",
-      "american",
-      "bases",
-      "turned",
-      "dust",
-      "kuwait",
-      "bahrain",
-      "and",
-      "azraq",
-      "jordan"
-    ]
-  },
-  "IRN": {
-    "risk_score": 14.75,
-    "count": 15,
-    "top_news": "https://athens-times.com/trumps-post-features-photo-from-2025-strike-not-recent-iran-attack/",
-    "event_codes": {
-      "19": 14,
-      "18": 1
-    },
-    "keywords": [
-      "trumps",
-      "post",
-      "features",
-      "photo",
-      "from",
-      "2025",
-      "strike",
-      "not",
-      "recent",
-      "iran",
-      "attack"
-    ]
-  },
   "ISR": {
-    "risk_score": 7.91,
-    "count": 10,
-    "top_news": "https://athens-times.com/trumps-post-features-photo-from-2025-strike-not-recent-iran-attack/",
+    "risk_score": 4.83,
+    "count": 6,
+    "top_news": "https://nuclear-news.net/2026/07/09/1-b1-as-in-gaza-the-israel-lebanon-peace-agreement-is-designed-to-fail/",
     "event_codes": {
-      "19": 5,
-      "16": 2,
+      "17": 3,
       "14": 1,
-      "17": 1,
+      "16": 1,
       "18": 1
-    },
-    "keywords": [
-      "trumps",
-      "post",
-      "features",
-      "photo",
-      "from",
-      "2025",
-      "strike",
-      "not",
-      "recent",
-      "iran",
-      "attack"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://dailypost.ng/2026/07/09/27-arrested-as-niger-police-raid-criminal-hideouts-nab-suspected-illegal-miners/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
     },
     "keywords": [
       "2026",
-      "arrested",
-      "niger",
-      "police",
-      "raid",
-      "criminal",
-      "hideouts",
-      "nab",
-      "suspected",
-      "illegal",
-      "miners"
+      "gaza",
+      "the",
+      "israel",
+      "lebanon",
+      "peace",
+      "agreement",
+      "designed",
+      "fail"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.samaa.tv/2087353275-iran-says-us-strikes-leave-14-dead-78-wounded-in-two-days",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2087353275",
+      "iran",
+      "says",
+      "strikes",
+      "leave",
+      "dead",
+      "wounded",
+      "two",
+      "days"
     ]
   },
   "NGA": {
-    "risk_score": 31.32,
-    "count": 40,
-    "top_news": "https://dailytrust.com/7-killed-3-students-others-abducted-in-sokoto-bauchi-nasarawa/",
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://hallmarknews.com/court-voids-arcons-n60bn-penalty-against-facebook-nigeria/",
     "event_codes": {
-      "17": 15,
-      "18": 12,
-      "19": 9,
-      "14": 4
+      "16": 4
     },
     "keywords": [
-      "killed",
-      "students",
-      "others",
-      "abducted",
-      "sokoto",
-      "bauchi",
-      "nasarawa"
-    ]
-  },
-  "VEN": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.mediaite.com/politics/trump/trump-claims-he-ended-war-in-which-15-million-people-had-their-heads-chopped-off/",
-    "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "politics",
-      "trump",
-      "trump",
-      "claims",
-      "ended",
-      "war",
-      "which",
-      "million",
-      "people",
-      "had",
-      "their",
-      "heads",
-      "chopped",
-      "off"
+      "court",
+      "voids",
+      "arcons",
+      "n60bn",
+      "penalty",
+      "against",
+      "facebook",
+      "nigeria"
     ]
   }
 }
