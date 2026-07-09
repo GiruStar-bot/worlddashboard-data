@@ -1,50 +1,144 @@
 {
-  "IRN": {
-    "risk_score": 14.8,
-    "count": 15,
-    "top_news": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-july-9-check-latest-rates-in-delhi-mumbai-gurugram-other-cities-541865-2026-07-09",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/887078/the-us-hit-150-targets-in-iran-irgc-4-american-bases-turned-to-dust-in-kuwait-bahrain-and-azraq-in-jordan",
     "event_codes": {
-      "19": 13,
+      "19": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "887078",
+      "the",
+      "hit",
+      "150",
+      "targets",
+      "iran",
+      "irgc",
+      "american",
+      "bases",
+      "turned",
+      "dust",
+      "kuwait",
+      "bahrain",
+      "and",
+      "azraq",
+      "jordan"
+    ]
+  },
+  "IRN": {
+    "risk_score": 14.75,
+    "count": 15,
+    "top_news": "https://athens-times.com/trumps-post-features-photo-from-2025-strike-not-recent-iran-attack/",
+    "event_codes": {
+      "19": 14,
+      "18": 1
+    },
+    "keywords": [
+      "trumps",
+      "post",
+      "features",
+      "photo",
+      "from",
+      "2025",
+      "strike",
+      "not",
+      "recent",
+      "iran",
+      "attack"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.91,
+    "count": 10,
+    "top_news": "https://athens-times.com/trumps-post-features-photo-from-2025-strike-not-recent-iran-attack/",
+    "event_codes": {
+      "19": 5,
+      "16": 2,
+      "14": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "trumps",
+      "post",
+      "features",
+      "photo",
+      "from",
+      "2025",
+      "strike",
+      "not",
+      "recent",
+      "iran",
+      "attack"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/07/09/27-arrested-as-niger-police-raid-criminal-hideouts-nab-suspected-illegal-miners/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "arrested",
+      "niger",
+      "police",
+      "raid",
+      "criminal",
+      "hideouts",
+      "nab",
+      "suspected",
+      "illegal",
+      "miners"
+    ]
+  },
+  "NGA": {
+    "risk_score": 31.32,
+    "count": 40,
+    "top_news": "https://dailytrust.com/7-killed-3-students-others-abducted-in-sokoto-bauchi-nasarawa/",
+    "event_codes": {
+      "17": 15,
+      "18": 12,
+      "19": 9,
+      "14": 4
+    },
+    "keywords": [
+      "killed",
+      "students",
+      "others",
+      "abducted",
+      "sokoto",
+      "bauchi",
+      "nasarawa"
+    ]
+  },
+  "VEN": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.mediaite.com/politics/trump/trump-claims-he-ended-war-in-which-15-million-people-had-their-heads-chopped-off/",
+    "event_codes": {
+      "19": 4,
       "18": 2
     },
     "keywords": [
-      "india",
-      "story",
-      "lpg",
-      "cng",
-      "png",
-      "prices",
-      "today",
-      "july",
-      "check",
-      "latest",
-      "rates",
-      "delhi",
-      "mumbai",
-      "gurugram",
-      "other",
-      "cities",
-      "541865",
-      "2026"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://wspd.iheart.com/content/2026-07-09-iran-strikes-us-bases-in-kuwait-and-bahrain/",
-    "event_codes": {
-      "17": 4,
-      "19": 1
-    },
-    "keywords": [
-      "content",
-      "2026",
-      "iran",
-      "strikes",
-      "bases",
-      "kuwait",
-      "and",
-      "bahrain"
+      "politics",
+      "trump",
+      "trump",
+      "claims",
+      "ended",
+      "war",
+      "which",
+      "million",
+      "people",
+      "had",
+      "their",
+      "heads",
+      "chopped",
+      "off"
     ]
   }
 }
