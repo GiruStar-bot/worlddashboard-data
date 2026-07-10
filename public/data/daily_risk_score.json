@@ -1,99 +1,90 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.clermontsun.com/2026/07/08/oh-give-me-a-home",
+  "IRN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://dailycaller.com/2026/07/10/report-trump-plan-assassination-iran-war-bombing/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "give",
-      "home"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.85,
-    "count": 14,
-    "top_news": "https://www.al-monitor.com/originals/2026/07/israel-warns-us-new-iran-plot-assassinate-trump-what-know",
-    "event_codes": {
-      "17": 4,
       "19": 4,
-      "14": 3,
-      "18": 3
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "originals",
       "2026",
-      "israel",
-      "warns",
-      "new",
-      "iran",
-      "plot",
-      "assassinate",
+      "report",
       "trump",
-      "what",
-      "know"
+      "plan",
+      "assassination",
+      "iran",
+      "war",
+      "bombing"
     ]
   },
-  "JOR": {
-    "risk_score": 3.0,
+  "MLI": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/07/10/malis-military-says-its-broken-a-rebel-blockade-around-a-strategic-northern-base",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "malis",
+      "military",
+      "says",
+      "its",
+      "broken",
+      "rebel",
+      "blockade",
+      "around",
+      "strategic",
+      "northern",
+      "base"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.9,
     "count": 4,
-    "top_news": "https://www.thecarillon.com/local/2026/07/10/1946-2026-watching-steinbach-grow-meeting-by-accident-for-nearly-90-years",
+    "top_news": "https://www.winnipegfreepress.com/world/2026/07/10/malis-military-says-its-broken-a-rebel-blockade-around-a-strategic-northern-base",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "local",
+      "world",
       "2026",
-      "1946",
-      "2026",
-      "watching",
-      "steinbach",
-      "grow",
-      "meeting",
-      "accident",
-      "for",
-      "nearly",
-      "years"
+      "malis",
+      "military",
+      "says",
+      "its",
+      "broken",
+      "rebel",
+      "blockade",
+      "around",
+      "strategic",
+      "northern",
+      "base"
     ]
   },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.al-monitor.com/originals/2026/07/israel-warns-us-new-iran-plot-assassinate-trump-what-know",
+  "NGA": {
+    "risk_score": 4.7,
+    "count": 7,
+    "top_news": "https://www.nationalaccordnewspaper.com/presidency-announces-rescue-of-all-kidnapped-oyo-schoolchildren-teachers/",
     "event_codes": {
-      "19": 2
+      "17": 3,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "originals",
-      "2026",
-      "israel",
-      "warns",
-      "new",
-      "iran",
-      "plot",
-      "assassinate",
-      "trump",
-      "what",
-      "know"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.news.gov.hk/eng/2026/07/20260708/20260708_162102_473.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "eng",
-      "2026",
-      "20260708",
-      "20260708",
-      "162102",
-      "473.html"
+      "presidency",
+      "announces",
+      "rescue",
+      "all",
+      "kidnapped",
+      "oyo",
+      "schoolchildren",
+      "teachers"
     ]
   }
 }
