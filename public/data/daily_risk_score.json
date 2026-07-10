@@ -1,86 +1,50 @@
 {
   "IRN": {
-    "risk_score": 13.0,
-    "count": 13,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/lego-trump-funeral-iranians-target-us-president-at-khameneis-burial/articleshow/132309267.cms",
+    "risk_score": 9.4,
+    "count": 10,
+    "top_news": "https://www.foxnews.com/politics/trump-irans-number-one-target-renewed-conflict-revives-assassination-concerns",
     "event_codes": {
-      "19": 12,
-      "18": 1
+      "19": 5,
+      "18": 4,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "lego",
+      "politics",
       "trump",
-      "funeral",
-      "iranians",
+      "irans",
+      "number",
+      "one",
       "target",
-      "president",
-      "khameneis",
-      "burial",
-      "articleshow",
-      "132309267.cms"
+      "renewed",
+      "conflict",
+      "revives",
+      "assassination",
+      "concerns"
     ]
   },
   "ISR": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://yalibnan.com/2026/07/10/iran-had-specific-plan-to-kill-trump-in-turkey/",
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2573252/shock-poll-nearly-30-of-u-s-jewish-adults-report-antisemitic-assault-or-harassment.html",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 2,
+      "17": 1,
+      "20": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "had",
-      "specific",
-      "plan",
-      "kill",
-      "trump",
-      "turkey"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.65,
-    "count": 15,
-    "top_news": "https://hallmarknews.com/exxonmobils-1bn-deepwater-investment-signals-renewed-confidence-in-nigeria-says-nuprc/",
-    "event_codes": {
-      "17": 9,
-      "14": 3,
-      "16": 3
-    },
-    "keywords": [
-      "exxonmobils",
-      "1bn",
-      "deepwater",
-      "investment",
-      "signals",
-      "renewed",
-      "confidence",
-      "nigeria",
-      "says",
-      "nuprc"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://yalibnan.com/2026/07/10/iran-had-specific-plan-to-kill-trump-in-turkey/",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "iran",
-      "had",
-      "specific",
-      "plan",
-      "kill",
-      "trump",
-      "turkey"
+      "news",
+      "israel",
+      "news",
+      "2573252",
+      "shock",
+      "poll",
+      "nearly",
+      "jewish",
+      "adults",
+      "report",
+      "antisemitic",
+      "assault",
+      "harassment.html"
     ]
   }
 }
