@@ -1,50 +1,76 @@
 {
   "IRN": {
-    "risk_score": 9.4,
+    "risk_score": 10.0,
     "count": 10,
-    "top_news": "https://www.foxnews.com/politics/trump-irans-number-one-target-renewed-conflict-revives-assassination-concerns",
+    "top_news": "https://timesofindia.indiatimes.com/world/us/iran-wants-talks-but-ceasefire-over-says-trump-as-tehran-begins-restoring-nuclear-plant-operations/articleshow/132315258.cms",
     "event_codes": {
-      "19": 5,
-      "18": 4,
-      "16": 1
+      "19": 10
     },
     "keywords": [
-      "politics",
+      "world",
+      "iran",
+      "wants",
+      "talks",
+      "but",
+      "ceasefire",
+      "over",
+      "says",
       "trump",
-      "irans",
-      "number",
-      "one",
-      "target",
-      "renewed",
-      "conflict",
-      "revives",
-      "assassination",
-      "concerns"
+      "tehran",
+      "begins",
+      "restoring",
+      "nuclear",
+      "plant",
+      "operations",
+      "articleshow",
+      "132315258.cms"
     ]
   },
-  "ISR": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2573252/shock-poll-nearly-30-of-u-s-jewish-adults-report-antisemitic-assault-or-harassment.html",
+  "NGA": {
+    "risk_score": 5.15,
+    "count": 7,
+    "top_news": "https://www.opinionnigeria.com/kill-them-they-deserve-to-be-killed-by-abdulkadir-salaudeen/",
     "event_codes": {
+      "17": 3,
       "19": 2,
-      "17": 1,
-      "20": 1
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "2573252",
-      "shock",
-      "poll",
-      "nearly",
-      "jewish",
-      "adults",
-      "report",
-      "antisemitic",
-      "assault",
-      "harassment.html"
+      "kill",
+      "them",
+      "they",
+      "deserve",
+      "killed",
+      "abdulkadir",
+      "salaudeen"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://timesofindia.indiatimes.com/world/us/iran-wants-talks-but-ceasefire-over-says-trump-as-tehran-begins-restoring-nuclear-plant-operations/articleshow/132315258.cms",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "iran",
+      "wants",
+      "talks",
+      "but",
+      "ceasefire",
+      "over",
+      "says",
+      "trump",
+      "tehran",
+      "begins",
+      "restoring",
+      "nuclear",
+      "plant",
+      "operations",
+      "articleshow",
+      "132315258.cms"
     ]
   }
 }
