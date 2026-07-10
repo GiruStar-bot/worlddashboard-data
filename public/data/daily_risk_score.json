@@ -1,90 +1,90 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
+  "ISR": {
+    "risk_score": 3.5,
     "count": 6,
-    "top_news": "https://dailycaller.com/2026/07/10/report-trump-plan-assassination-iran-war-bombing/",
+    "top_news": "https://www.middleeasteye.net/news/we-just-disappeared-palestine-action-defendant-recalls-horrifying-arrest",
     "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
+      "17": 5,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "report",
-      "trump",
-      "plan",
-      "assassination",
-      "iran",
-      "war",
-      "bombing"
+      "news",
+      "just",
+      "disappeared",
+      "palestine",
+      "action",
+      "defendant",
+      "recalls",
+      "horrifying",
+      "arrest"
     ]
   },
   "MLI": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/07/10/malis-military-says-its-broken-a-rebel-blockade-around-a-strategic-northern-base",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/10/771986/Malian-authorities-accuse-Ukraine-of-training-and-arming-Al-Qaeda-linked-militants-in-the-Sahel",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 9
     },
     "keywords": [
-      "world",
+      "detail",
       "2026",
-      "malis",
-      "military",
-      "says",
-      "its",
-      "broken",
-      "rebel",
-      "blockade",
-      "around",
-      "strategic",
-      "northern",
-      "base"
-    ]
-  },
-  "NER": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/07/10/malis-military-says-its-broken-a-rebel-blockade-around-a-strategic-northern-base",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "malis",
-      "military",
-      "says",
-      "its",
-      "broken",
-      "rebel",
-      "blockade",
-      "around",
-      "strategic",
-      "northern",
-      "base"
+      "771986",
+      "malian",
+      "authorities",
+      "accuse",
+      "ukraine",
+      "training",
+      "and",
+      "arming",
+      "qaeda",
+      "linked",
+      "militants",
+      "the",
+      "sahel"
     ]
   },
   "NGA": {
-    "risk_score": 4.7,
-    "count": 7,
-    "top_news": "https://www.nationalaccordnewspaper.com/presidency-announces-rescue-of-all-kidnapped-oyo-schoolchildren-teachers/",
+    "risk_score": 4.5,
+    "count": 8,
+    "top_news": "http://www.bignewsnetwork.com/news/279179949/dozens-of-abducted-pupils-teachers-rescued-in-southwest-nigeria",
     "event_codes": {
+      "16": 3,
       "17": 3,
-      "18": 3,
-      "16": 1
+      "18": 2
     },
     "keywords": [
-      "presidency",
-      "announces",
-      "rescue",
-      "all",
-      "kidnapped",
-      "oyo",
-      "schoolchildren",
-      "teachers"
+      "news",
+      "279179949",
+      "dozens",
+      "abducted",
+      "pupils",
+      "teachers",
+      "rescued",
+      "southwest",
+      "nigeria"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.09,
+    "count": 3,
+    "top_news": "https://maritime-executive.com/article/uss-abraham-lincoln-sets-record-of-over-210-consecutive-days-at-sea",
+    "event_codes": {
+      "15": 2,
+      "14": 1
+    },
+    "keywords": [
+      "article",
+      "uss",
+      "abraham",
+      "lincoln",
+      "sets",
+      "record",
+      "over",
+      "210",
+      "consecutive",
+      "days",
+      "sea"
     ]
   }
 }
