@@ -1,31 +1,21 @@
 {
-  "IRN": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.alternet.org/trump-iran-2677203783/",
+  "ISR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.kmbc.com/article/report-assassination-plot-plane-swap-trump/71899719",
     "event_codes": {
-      "19": 8,
-      "16": 2,
-      "18": 1
+      "18": 2,
+      "17": 1
     },
     "keywords": [
+      "article",
+      "report",
+      "assassination",
+      "plot",
+      "plane",
+      "swap",
       "trump",
-      "iran",
-      "2677203783"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.alternet.org/trump-iran-2677203597/",
-    "event_codes": {
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "trump",
-      "iran",
-      "2677203597"
+      "71899719"
     ]
   }
 }
