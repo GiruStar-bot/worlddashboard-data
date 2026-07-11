@@ -1,28 +1,75 @@
 {
   "IRN": {
-    "risk_score": 9.14,
-    "count": 10,
-    "top_news": "https://www.newsx.com/world/what-instructions-donald-trump-has-left-for-us-administration-if-iran-kills-him-247121/",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.thedailybeast.com/donald-trump-lays-out-his-own-assassination-revenge-fantasy/",
     "event_codes": {
-      "19": 5,
-      "15": 2,
-      "18": 2,
-      "16": 1
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "what",
-      "instructions",
       "donald",
       "trump",
-      "has",
-      "left",
-      "for",
-      "administration",
-      "iran",
-      "kills",
-      "him",
-      "247121"
+      "lays",
+      "out",
+      "his",
+      "own",
+      "assassination",
+      "revenge",
+      "fantasy"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://europe.chinadaily.com.cn/a/202607/11/WS6a519505a310986e2b464b81.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "202607",
+      "ws6a519505a310986e2b464b81.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/07/insecurity-501-european-lawmakers-tell-fg-to-stop-impunity-in-middle-belt/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "insecurity",
+      "501",
+      "european",
+      "lawmakers",
+      "tell",
+      "stop",
+      "impunity",
+      "middle",
+      "belt"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.nwaonline.com/news/2026/jul/11/english-court-to-rule-on-trinidads-gay-sex/",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "jul",
+      "english",
+      "court",
+      "rule",
+      "trinidads",
+      "gay",
+      "sex"
     ]
   }
 }
