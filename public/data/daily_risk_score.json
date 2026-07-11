@@ -1,99 +1,54 @@
 {
-  "IRN": {
-    "risk_score": 7.5,
-    "count": 9,
-    "top_news": "https://indianexpress.com/article/world/us-iran-war-trump-missile-threat-mojtaba-khamenei-strait-of-hormuz-oman-talks-10782271/",
-    "event_codes": {
-      "16": 5,
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "world",
-      "iran",
-      "war",
-      "trump",
-      "missile",
-      "threat",
-      "mojtaba",
-      "khamenei",
-      "strait",
-      "hormuz",
-      "oman",
-      "talks",
-      "10782271"
-    ]
-  },
   "ISR": {
-    "risk_score": 11.65,
-    "count": 12,
-    "top_news": "https://english.wafa.ps/Pages/Details/172550",
-    "event_codes": {
-      "18": 6,
-      "19": 6
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "172550"
-    ]
-  },
-  "NER": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://punchng.com/adc-urges-fg-to-rescue-borno-kwara-kidnap-victims-after-oyo-operation/",
-    "event_codes": {
-      "18": 4
-    },
-    "keywords": [
-      "adc",
-      "urges",
-      "rescue",
-      "borno",
-      "kwara",
-      "kidnap",
-      "victims",
-      "after",
-      "oyo",
-      "operation"
-    ]
-  },
-  "NGA": {
-    "risk_score": 16.1,
-    "count": 21,
-    "top_news": "https://dailypost.ng/2026/07/11/501-european-lawmakers-warn-nigerian-govt-over-attacks-on-christians/",
+    "risk_score": 8.8,
+    "count": 11,
+    "top_news": "https://www.theguardian.com/world/2026/jul/11/ro-khanna-congressman-detained-israel-settlers-west-bank",
     "event_codes": {
       "19": 7,
-      "18": 6,
-      "17": 5,
-      "16": 3
+      "16": 2,
+      "17": 2
     },
     "keywords": [
+      "world",
       "2026",
-      "501",
-      "european",
-      "lawmakers",
-      "warn",
-      "nigerian",
-      "govt",
-      "over",
-      "attacks",
-      "christians"
+      "jul",
+      "khanna",
+      "congressman",
+      "detained",
+      "israel",
+      "settlers",
+      "west",
+      "bank"
     ]
   },
   "PSE": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://english.wafa.ps/Pages/Details/172550",
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/world-news/sheetal-wrzesien-indian-origin-former-google-employee-shot-dead-by-husband-in-georgia-son-injured-survives-cobb-county-101783787736034.html",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "172550"
+      "world",
+      "news",
+      "sheetal",
+      "wrzesien",
+      "indian",
+      "origin",
+      "former",
+      "google",
+      "employee",
+      "shot",
+      "dead",
+      "husband",
+      "georgia",
+      "son",
+      "injured",
+      "survives",
+      "cobb",
+      "county",
+      "101783787736034.html"
     ]
   }
 }
