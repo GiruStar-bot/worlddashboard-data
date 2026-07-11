@@ -1,43 +1,99 @@
 {
   "IRN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://augustafreepress.com/news/trump-knows-hes-in-irans-crosshairs-he-fad-and-now-hes-about-to-fo/",
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://indianexpress.com/article/world/us-iran-war-trump-missile-threat-mojtaba-khamenei-strait-of-hormuz-oman-talks-10782271/",
     "event_codes": {
-      "18": 6,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "trump",
-      "knows",
-      "hes",
-      "irans",
-      "crosshairs",
-      "fad",
-      "and",
-      "now",
-      "hes",
-      "about"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.samaa.tv/2087353386-us-seeks-iranian-pledge-to-free-up-strait-of-hormuz",
-    "event_codes": {
-      "19": 4,
-      "17": 1,
+      "16": 5,
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "2087353386",
-      "seeks",
-      "iranian",
-      "pledge",
-      "free",
+      "article",
+      "world",
+      "iran",
+      "war",
+      "trump",
+      "missile",
+      "threat",
+      "mojtaba",
+      "khamenei",
       "strait",
-      "hormuz"
+      "hormuz",
+      "oman",
+      "talks",
+      "10782271"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.65,
+    "count": 12,
+    "top_news": "https://english.wafa.ps/Pages/Details/172550",
+    "event_codes": {
+      "18": 6,
+      "19": 6
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172550"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://punchng.com/adc-urges-fg-to-rescue-borno-kwara-kidnap-victims-after-oyo-operation/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "adc",
+      "urges",
+      "rescue",
+      "borno",
+      "kwara",
+      "kidnap",
+      "victims",
+      "after",
+      "oyo",
+      "operation"
+    ]
+  },
+  "NGA": {
+    "risk_score": 16.1,
+    "count": 21,
+    "top_news": "https://dailypost.ng/2026/07/11/501-european-lawmakers-warn-nigerian-govt-over-attacks-on-christians/",
+    "event_codes": {
+      "19": 7,
+      "18": 6,
+      "17": 5,
+      "16": 3
+    },
+    "keywords": [
+      "2026",
+      "501",
+      "european",
+      "lawmakers",
+      "warn",
+      "nigerian",
+      "govt",
+      "over",
+      "attacks",
+      "christians"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/172550",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172550"
     ]
   }
 }
