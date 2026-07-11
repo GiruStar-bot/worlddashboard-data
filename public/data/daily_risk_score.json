@@ -1,155 +1,31 @@
 {
   "IRN": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-902142",
-    "event_codes": {
-      "19": 5,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "902142"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.36,
-    "count": 12,
-    "top_news": "https://www.hellomagazine.com/us/912278/donald-trump-reveals-death-plans-amid-assassination-fears/",
-    "event_codes": {
-      "19": 5,
-      "17": 4,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "912278",
-      "donald",
-      "trump",
-      "reveals",
-      "death",
-      "plans",
-      "amid",
-      "assassination",
-      "fears"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://thesun.ng/axis-of-evil-notorious-kaduna-area-where-mob-violence-claims-three-lives-in-two-weeks/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "axis",
-      "evil",
-      "notorious",
-      "kaduna",
-      "area",
-      "where",
-      "mob",
-      "violence",
-      "claims",
-      "three",
-      "lives",
-      "two",
-      "weeks"
-    ]
-  },
-  "PSE": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "http://thepeninsulaqatar.com/article/10/07/2026/several-injured-in-israeli-strikes-and-gunfire-across-gaza-palestinian-officials-say",
+    "top_news": "https://www.aol.co.uk/articles/europe-considering-proposals-allow-navigational-040039000.html",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "articles",
+      "europe",
+      "considering",
+      "proposals",
+      "allow",
+      "navigational",
+      "040039000.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.khabaragency.net/news249782.html",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "article",
-      "2026",
-      "several",
-      "injured",
-      "israeli",
-      "strikes",
-      "and",
-      "gunfire",
-      "across",
-      "gaza",
-      "palestinian",
-      "officials",
-      "say"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-902142",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "902142"
-    ]
-  },
-  "SYR": {
-    "risk_score": 10.32,
-    "count": 14,
-    "top_news": "https://www.breitbart.com/middle-east/2026/07/10/syria-arrests-isis-linked-suspects-in-damascus-bombings/",
-    "event_codes": {
-      "17": 8,
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "2026",
-      "syria",
-      "arrests",
-      "isis",
-      "linked",
-      "suspects",
-      "damascus",
-      "bombings"
-    ]
-  },
-  "VEN": {
-    "risk_score": 11.2,
-    "count": 14,
-    "top_news": "https://www.breitbart.com/immigration/2026/07/10/ice-asks-sanctuary-illinois-not-to-release-illegal-migrant-charged-with-raping-child/",
-    "event_codes": {
-      "19": 7,
-      "17": 4,
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "immigration",
-      "2026",
-      "ice",
-      "asks",
-      "sanctuary",
-      "illinois",
-      "not",
-      "release",
-      "illegal",
-      "migrant",
-      "charged",
-      "with",
-      "raping",
-      "child"
+      "news249782.html"
     ]
   }
 }
