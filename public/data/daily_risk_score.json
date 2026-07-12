@@ -1,38 +1,145 @@
 {
-  "IRN": {
-    "risk_score": 16.14,
-    "count": 17,
-    "top_news": "https://yourdemocracy.net/drupal/node/60424",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2650628/middle-east",
     "event_codes": {
-      "19": 8,
-      "18": 6,
-      "17": 3
+      "19": 2
     },
     "keywords": [
-      "drupal",
       "node",
-      "60424"
+      "2650628",
+      "middle",
+      "east"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2650626/middle-east",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "node",
+      "2650626",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 6.6,
-    "count": 8,
-    "top_news": "https://www.presstv.ir/Detail/2026/07/12/772089/Leader-hold-memorial-martyred-Ayatollah-Khamenei-",
+    "risk_score": 16.72,
+    "count": 22,
+    "top_news": "https://www.yahoo.com/news/world/articles/maya-vishniaks-killer-sentenced-25-132541586.html",
     "event_codes": {
-      "18": 5,
-      "16": 2,
+      "17": 10,
+      "18": 6,
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "maya",
+      "vishniaks",
+      "killer",
+      "sentenced",
+      "132541586.html"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.kenyan-post.com/2026/07/goons-sent-to-attack-orengo-and-sifuna.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "goons",
+      "sent",
+      "attack",
+      "orengo",
+      "and",
+      "sifuna.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/world/mid-east/israeli-settlers-detain-us-rep-ro-khanna-during-west-bank-trip",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "israeli",
+      "settlers",
+      "detain",
+      "rep",
+      "khanna",
+      "during",
+      "west",
+      "bank",
+      "trip"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://www.arabnews.com/node/2650639/middle-east",
+    "event_codes": {
+      "17": 3,
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "772089",
-      "leader",
-      "hold",
-      "memorial",
-      "martyred",
-      "ayatollah",
-      "khamenei"
+      "node",
+      "2650639",
+      "middle",
+      "east"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2650631/middle-east",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "node",
+      "2650631",
+      "middle",
+      "east"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.32,
+    "count": 7,
+    "top_news": "https://news.tuoitre.vn/vietnam-airport-operator-proposes-underground-link-between-tan-son-nhats-t1-and-t3-terminals-10326071217330113.htm",
+    "event_codes": {
+      "16": 6,
+      "17": 1
+    },
+    "keywords": [
+      "vietnam",
+      "airport",
+      "operator",
+      "proposes",
+      "underground",
+      "link",
+      "between",
+      "tan",
+      "son",
+      "nhats",
+      "and",
+      "terminals",
+      "10326071217330113.htm"
     ]
   }
 }
