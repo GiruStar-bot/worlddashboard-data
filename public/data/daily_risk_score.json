@@ -1,77 +1,66 @@
 {
-  "ARE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.bozemandailychronicle.com/ap_news/international/iranian-state-media-report-new-attacks-on-military-targets-on-irans-qeshm-island-near-the/article_3b92ecf3-9bd2-5853-bde1-46c81bc1387e.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "international",
-      "iranian",
-      "state",
-      "media",
-      "report",
-      "new",
-      "attacks",
-      "military",
-      "targets",
-      "irans",
-      "qeshm",
-      "island",
-      "near",
-      "the",
-      "article",
-      "3b92ecf3",
-      "9bd2",
-      "5853",
-      "bde1",
-      "46c81bc1387e.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 21.7,
-    "count": 23,
-    "top_news": "https://www.i24news.tv/en/news/israel-election-s-2026/artc-us-strikes-in-iran-after-irgc-attacks-ship-in-hormuz-and-declares-strait-closed-until-further-notice",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.ynetnews.com/article/bkm2xs11vml",
     "event_codes": {
-      "19": 20,
-      "16": 2,
+      "19": 6,
       "18": 1
+    },
+    "keywords": [
+      "article",
+      "bkm2xs11vml"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.5,
+    "count": 21,
+    "top_news": "https://antonyloewenstein.com/old-media-still-battles-with-new-media/",
+    "event_codes": {
+      "19": 16,
+      "17": 5
+    },
+    "keywords": [
+      "old",
+      "media",
+      "still",
+      "battles",
+      "with",
+      "new",
+      "media"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/bkm2xs11vml",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "bkm2xs11vml"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://www.modernghana.com/news/1510035/two-nigerians-arrested-over-alleged-murder-of-comp.html",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "israel",
-      "election",
-      "2026",
-      "artc",
-      "strikes",
-      "iran",
-      "after",
-      "irgc",
-      "attacks",
-      "ship",
-      "hormuz",
-      "and",
-      "declares",
-      "strait",
-      "closed",
-      "until",
-      "further",
-      "notice"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.azernews.az/region/260984.html",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "region",
-      "260984.html"
+      "1510035",
+      "two",
+      "nigerians",
+      "arrested",
+      "over",
+      "alleged",
+      "murder",
+      "comp.html"
     ]
   }
 }
