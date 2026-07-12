@@ -1,62 +1,106 @@
 {
   "IRN": {
-    "risk_score": 29.72,
-    "count": 33,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/irans-underground-resistance-escalates-nationwide-campaigns-amid-succession-crisis/",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.jns.org/news/israel-news/idf-declassifies-first-operational-order-of-second-lebanon-war",
     "event_codes": {
-      "18": 13,
-      "19": 11,
-      "17": 6,
-      "16": 3
+      "19": 3,
+      "18": 1
     },
     "keywords": [
       "news",
-      "iran",
-      "resistance",
-      "irans",
-      "underground",
-      "resistance",
-      "escalates",
-      "nationwide",
-      "campaigns",
-      "amid",
-      "succession",
-      "crisis"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://www.fox32chicago.com/news/us-sen-lindsey-graham-dies-71",
-    "event_codes": {
-      "15": 3
-    },
-    "keywords": [
+      "israel",
       "news",
-      "sen",
-      "lindsey",
-      "graham",
-      "dies"
+      "idf",
+      "declassifies",
+      "first",
+      "operational",
+      "order",
+      "second",
+      "lebanon",
+      "war"
     ]
   },
-  "QAT": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.perthnow.com.au/news/australian-embassy-in-qatar-closed-as-doha-security-situation-escalates-c-22567165",
+    "top_news": "https://www.jns.org/news/israel-news/idf-declassifies-first-operational-order-of-second-lebanon-war",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "australian",
-      "embassy",
+      "israel",
+      "news",
+      "idf",
+      "declassifies",
+      "first",
+      "operational",
+      "order",
+      "second",
+      "lebanon",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 8,
+    "top_news": "https://thesun.ng/woman-uses-3-year-old-son-as-cover-to-smuggle-heroin-into-abuja-ndlea/",
+    "event_codes": {
+      "17": 8
+    },
+    "keywords": [
+      "woman",
+      "uses",
+      "year",
+      "old",
+      "son",
+      "cover",
+      "smuggle",
+      "heroin",
+      "into",
+      "abuja",
+      "ndlea"
+    ]
+  },
+  "QAT": {
+    "risk_score": 7.26,
+    "count": 8,
+    "top_news": "https://www.theborneopost.com/2026/07/12/malaysians-in-qatar-told-to-follow-security-instructions-after-fresh-us-iran-attacks/",
+    "event_codes": {
+      "17": 4,
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "malaysians",
       "qatar",
-      "closed",
-      "doha",
+      "told",
+      "follow",
       "security",
-      "situation",
-      "escalates",
-      "22567165"
+      "instructions",
+      "after",
+      "fresh",
+      "iran",
+      "attacks"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thehindu.com/news/top-news-of-the-day-on-july-12-2026/article71213862.ece",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "the",
+      "day",
+      "july",
+      "2026",
+      "article71213862.ece"
     ]
   }
 }
