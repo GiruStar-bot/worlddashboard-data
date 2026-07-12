@@ -1,54 +1,134 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.hottalkradio.com/news/2026/07/12/",
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.journalgazette.net/news/world/trump-and-irans-supreme-leader-trade-threats-as-mediators-try-to-save-their-crumbling-deal/article_817255a6-ff91-5324-a7be-f8ad2d725b1a.html",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 12,
+      "18": 1
     },
     "keywords": [
       "news",
-      "2026"
+      "world",
+      "trump",
+      "and",
+      "irans",
+      "supreme",
+      "leader",
+      "trade",
+      "threats",
+      "mediators",
+      "try",
+      "save",
+      "their",
+      "crumbling",
+      "deal",
+      "article",
+      "817255a6",
+      "ff91",
+      "5324",
+      "a7be",
+      "f8ad2d725b1a.html"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.jpost.com/middle-east/iran-news/article-902178",
+    "risk_score": 11.55,
+    "count": 15,
+    "top_news": "https://www.news8000.com/news/national-world/israeli-settlers-attack-journalists-including-cnn-on-the-anniversary-of-deadly-west-bank-beating/article_99750db1-8c1c-5578-b16f-513391838b03.html",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 2
+      "17": 6,
+      "19": 4,
+      "20": 4,
+      "14": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
       "news",
+      "national",
+      "world",
+      "israeli",
+      "settlers",
+      "attack",
+      "journalists",
+      "including",
+      "cnn",
+      "the",
+      "anniversary",
+      "deadly",
+      "west",
+      "bank",
+      "beating",
       "article",
-      "902178"
+      "99750db1",
+      "8c1c",
+      "5578",
+      "b16f",
+      "513391838b03.html"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.upi.com/Top_News/World-News/2026/07/11/latam-venezuela-earthquake-death-toll/4361783800004/",
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://pidgin.informationng.com/?p=35381",
     "event_codes": {
-      "19": 2
+      "19": 3
+    },
+    "keywords": []
+  },
+  "NGA": {
+    "risk_score": 20.64,
+    "count": 24,
+    "top_news": "https://pmnewsnigeria.com/2026/07/11/rccg-celebrates-release-of-kidnapped-pupils-says-god-fulfilled-his-promise/",
+    "event_codes": {
+      "18": 16,
+      "17": 4,
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "top",
-      "news",
-      "world",
-      "news",
       "2026",
-      "latam",
-      "venezuela",
-      "earthquake",
-      "death",
-      "toll",
-      "4361783800004"
+      "rccg",
+      "celebrates",
+      "release",
+      "kidnapped",
+      "pupils",
+      "says",
+      "god",
+      "fulfilled",
+      "his",
+      "promise"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.55,
+    "count": 11,
+    "top_news": "https://www.news8000.com/news/national-world/israeli-settlers-attack-journalists-including-cnn-on-the-anniversary-of-deadly-west-bank-beating/article_99750db1-8c1c-5578-b16f-513391838b03.html",
+    "event_codes": {
+      "17": 6,
+      "19": 4,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "israeli",
+      "settlers",
+      "attack",
+      "journalists",
+      "including",
+      "cnn",
+      "the",
+      "anniversary",
+      "deadly",
+      "west",
+      "bank",
+      "beating",
+      "article",
+      "99750db1",
+      "8c1c",
+      "5578",
+      "b16f",
+      "513391838b03.html"
     ]
   }
 }
