@@ -1,47 +1,62 @@
 {
-  "ISR": {
-    "risk_score": 7.7,
-    "count": 10,
-    "top_news": "https://www.the-star.co.ke/news/world/2026-07-12-us-fires-fresh-strikes-as-iran-closes-the-strait",
+  "IRN": {
+    "risk_score": 29.72,
+    "count": 33,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/irans-underground-resistance-escalates-nationwide-campaigns-amid-succession-crisis/",
     "event_codes": {
-      "14": 6,
-      "19": 3,
-      "16": 1
+      "18": 13,
+      "19": 11,
+      "17": 6,
+      "16": 3
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "fires",
-      "fresh",
-      "strikes",
       "iran",
-      "closes",
-      "the",
-      "strait"
+      "resistance",
+      "irans",
+      "underground",
+      "resistance",
+      "escalates",
+      "nationwide",
+      "campaigns",
+      "amid",
+      "succession",
+      "crisis"
     ]
   },
-  "VNM": {
-    "risk_score": 4.95,
-    "count": 6,
-    "top_news": "https://news.tuoitre.vn/pepsico-executive-reaffirms-long-term-commitment-to-vietnam-with-new-investment-103260712141929797.htm",
+  "IRQ": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.fox32chicago.com/news/us-sen-lindsey-graham-dies-71",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 1
+      "15": 3
     },
     "keywords": [
-      "pepsico",
-      "executive",
-      "reaffirms",
-      "long",
-      "term",
-      "commitment",
-      "vietnam",
-      "with",
-      "new",
-      "investment",
-      "103260712141929797.htm"
+      "news",
+      "sen",
+      "lindsey",
+      "graham",
+      "dies"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.perthnow.com.au/news/australian-embassy-in-qatar-closed-as-doha-security-situation-escalates-c-22567165",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "australian",
+      "embassy",
+      "qatar",
+      "closed",
+      "doha",
+      "security",
+      "situation",
+      "escalates",
+      "22567165"
     ]
   }
 }
