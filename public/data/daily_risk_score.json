@@ -1,79 +1,102 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/lindsey-graham-last-appearance-trump-talk-shows-b3013426.html",
+  "BHR": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://theindianawaaz.com/us-says-strait-of-hormuz-open-to-all-vessels/",
     "event_codes": {
-      "19": 7
+      "19": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "americas",
-      "politics",
-      "lindsey",
-      "graham",
-      "last",
-      "appearance",
-      "trump",
-      "talk",
-      "shows",
-      "b3013426.html"
+      "says",
+      "strait",
+      "hormuz",
+      "open",
+      "all",
+      "vessels"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.55,
+    "count": 12,
+    "top_news": "https://gcaptain.com/hormuz-route-open-despite-iran-declaration-maritime-group-says/",
+    "event_codes": {
+      "19": 10,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "hormuz",
+      "route",
+      "open",
+      "despite",
+      "iran",
+      "declaration",
+      "maritime",
+      "group",
+      "says"
     ]
   },
   "ISR": {
-    "risk_score": 4.15,
-    "count": 6,
-    "top_news": "https://www.israelnationalnews.com/news/430036",
+    "risk_score": 13.95,
+    "count": 16,
+    "top_news": "https://dominicanrepublicpost.com/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza/",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1,
-      "16": 1
+      "19": 8,
+      "18": 5,
+      "17": 3
     },
     "keywords": [
-      "news",
-      "430036"
+      "israeli",
+      "forces",
+      "kill",
+      "five",
+      "palestinians",
+      "latest",
+      "attacks",
+      "gaza"
     ]
   },
   "JOR": {
-    "risk_score": 14.95,
-    "count": 15,
-    "top_news": "https://www.zerohedge.com/geopolitical/tehran-declares-hormuz-closed-ships-are-still-transiting",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://themedialine.org/top-stories/jordan-and-bahrain-drawn-deeper-into-irans-regional-storm/",
     "event_codes": {
-      "19": 15
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "geopolitical",
-      "tehran",
-      "declares",
-      "hormuz",
-      "closed",
-      "ships",
-      "are",
-      "still",
-      "transiting"
+      "top",
+      "stories",
+      "jordan",
+      "and",
+      "bahrain",
+      "drawn",
+      "deeper",
+      "into",
+      "irans",
+      "regional",
+      "storm"
     ]
   },
-  "VNM": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.newkerala.com/news/a/bodies-keralam-couple-killed-vietnam-boat-tragedy-arrive-798.htm",
+  "NGA": {
+    "risk_score": 9.0,
+    "count": 13,
+    "top_news": "https://theeagleonline.com.ng/operation-kosaye-police-arrest-43-suspects-in-ogun-raid/",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "17": 6,
+      "14": 4,
+      "19": 3
     },
     "keywords": [
-      "news",
-      "bodies",
-      "keralam",
-      "couple",
-      "killed",
-      "vietnam",
-      "boat",
-      "tragedy",
-      "arrive",
-      "798.htm"
+      "operation",
+      "kosaye",
+      "police",
+      "arrest",
+      "suspects",
+      "ogun",
+      "raid"
     ]
   }
 }
