@@ -1,171 +1,77 @@
 {
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://legalinsurrection.com/2026/07/u-s-retaliates-as-iran-attacks-ships-claims-control-of-hormuz-with-power/",
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.bozemandailychronicle.com/ap_news/international/iranian-state-media-report-new-attacks-on-military-targets-on-irans-qeshm-island-near-the/article_3b92ecf3-9bd2-5853-bde1-46c81bc1387e.html",
     "event_codes": {
-      "19": 5
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "retaliates",
-      "iran",
+      "news",
+      "international",
+      "iranian",
+      "state",
+      "media",
+      "report",
+      "new",
       "attacks",
-      "ships",
-      "claims",
-      "control",
-      "hormuz",
-      "with",
-      "power"
-    ]
-  },
-  "COL": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://outsidethebeltway.com/if-front-of-our-noses-anti-democratic-actions-by-rubio/",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "front",
-      "our",
-      "noses",
-      "anti",
-      "democratic",
-      "actions",
-      "rubio"
+      "military",
+      "targets",
+      "irans",
+      "qeshm",
+      "island",
+      "near",
+      "the",
+      "article",
+      "3b92ecf3",
+      "9bd2",
+      "5853",
+      "bde1",
+      "46c81bc1387e.html"
     ]
   },
   "IRN": {
-    "risk_score": 3.25,
-    "count": 4,
-    "top_news": "https://legalinsurrection.com/2026/07/u-s-retaliates-as-iran-attacks-ships-claims-control-of-hormuz-with-power/",
+    "risk_score": 21.7,
+    "count": 23,
+    "top_news": "https://www.i24news.tv/en/news/israel-election-s-2026/artc-us-strikes-in-iran-after-irgc-attacks-ship-in-hormuz-and-declares-strait-closed-until-further-notice",
     "event_codes": {
-      "14": 2,
-      "19": 2
+      "19": 20,
+      "16": 2,
+      "18": 1
     },
     "keywords": [
+      "news",
+      "israel",
+      "election",
       "2026",
-      "retaliates",
+      "artc",
+      "strikes",
       "iran",
+      "after",
+      "irgc",
       "attacks",
-      "ships",
-      "claims",
-      "control",
+      "ship",
       "hormuz",
-      "with",
-      "power"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.6,
-    "count": 6,
-    "top_news": "https://attackofthefanboy.com/politics/rep-ro-khanna-was-detained-by-armed-israeli-settlers-in-the-west-bank-then-said-hes-now-more-resolved-to-run-for-president/",
-    "event_codes": {
-      "16": 3,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "politics",
-      "rep",
-      "khanna",
-      "was",
-      "detained",
-      "armed",
-      "israeli",
-      "settlers",
-      "the",
-      "west",
-      "bank",
-      "then",
-      "said",
-      "hes",
-      "now",
-      "more",
-      "resolved",
-      "run",
-      "for",
-      "president"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://legalinsurrection.com/2026/07/u-s-retaliates-as-iran-attacks-ships-claims-control-of-hormuz-with-power/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "retaliates",
-      "iran",
-      "attacks",
-      "ships",
-      "claims",
-      "control",
-      "hormuz",
-      "with",
-      "power"
+      "and",
+      "declares",
+      "strait",
+      "closed",
+      "until",
+      "further",
+      "notice"
     ]
   },
   "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://legalinsurrection.com/2026/07/u-s-retaliates-as-iran-attacks-ships-claims-control-of-hormuz-with-power/",
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.azernews.az/region/260984.html",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "retaliates",
-      "iran",
-      "attacks",
-      "ships",
-      "claims",
-      "control",
-      "hormuz",
-      "with",
-      "power"
-    ]
-  },
-  "QAT": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://legalinsurrection.com/2026/07/u-s-retaliates-as-iran-attacks-ships-claims-control-of-hormuz-with-power/",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "retaliates",
-      "iran",
-      "attacks",
-      "ships",
-      "claims",
-      "control",
-      "hormuz",
-      "with",
-      "power"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/opinion/et-editorial/perpetuating-an-infantile-culture/articleshow/132350852.cms",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "opinion",
-      "editorial",
-      "perpetuating",
-      "infantile",
-      "culture",
-      "articleshow",
-      "132350852.cms"
+      "region",
+      "260984.html"
     ]
   }
 }
