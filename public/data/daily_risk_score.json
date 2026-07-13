@@ -1,28 +1,58 @@
 {
   "IRN": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://investinglive.com:443/news/weeknd-icymi-iran-closes-strait-of-hormuz-expands-gulf-strikes-after-us-hits-iranian-targets",
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://gazette.com/2026/07/12/u-s-launches-fresh-strikes-after-iran-attacks-ship/",
     "event_codes": {
-      "19": 3,
-      "15": 1,
+      "19": 6,
       "18": 1
     },
     "keywords": [
-      "news",
-      "weeknd",
-      "icymi",
-      "iran",
-      "closes",
-      "strait",
-      "hormuz",
-      "expands",
-      "gulf",
+      "2026",
+      "launches",
+      "fresh",
       "strikes",
       "after",
-      "hits",
-      "iranian",
-      "targets"
+      "iran",
+      "attacks",
+      "ship"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://gazette.com/2026/07/12/u-s-launches-fresh-strikes-after-iran-attacks-ship/",
+    "event_codes": {
+      "18": 3,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "launches",
+      "fresh",
+      "strikes",
+      "after",
+      "iran",
+      "attacks",
+      "ship"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.35,
+    "count": 11,
+    "top_news": "https://thesun.ng/nsa-and-rescue-of-ekiti-church-abductees/",
+    "event_codes": {
+      "19": 6,
+      "18": 5
+    },
+    "keywords": [
+      "nsa",
+      "and",
+      "rescue",
+      "ekiti",
+      "church",
+      "abductees"
     ]
   }
 }
