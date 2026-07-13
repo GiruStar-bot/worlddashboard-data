@@ -1,70 +1,107 @@
 {
   "IRN": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "http://www.idahopress.com/ap_news/us/the-latest-trump-says-us-will-blockade-iran-in-strait-of-hormuz-and-charge-ships/article_07b34a4d-2dbb-57cb-b476-5d8afec89cb1.html",
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.baltimoresun.com/2026/07/13/strait-of-hormuz-control-fact-check/",
     "event_codes": {
-      "19": 4,
-      "14": 3,
+      "19": 5,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "the",
-      "latest",
-      "trump",
-      "says",
-      "will",
-      "blockade",
-      "iran",
+      "2026",
       "strait",
       "hormuz",
-      "and",
-      "charge",
-      "ships",
-      "article",
-      "07b34a4d",
-      "2dbb",
-      "57cb",
-      "b476",
-      "5d8afec89cb1.html"
+      "control",
+      "fact",
+      "check"
     ]
   },
-  "ISR": {
-    "risk_score": 7.02,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/430106",
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://localnews8.com/news/2026/07/13/it-was-very-preventable-boise-greenbelt-murder-suspect-was-acquitted-of-separate-knife-assault-just-months-prior/",
     "event_codes": {
-      "19": 5,
-      "14": 2,
-      "15": 1
+      "19": 3
     },
     "keywords": [
       "news",
-      "430106"
+      "2026",
+      "was",
+      "very",
+      "preventable",
+      "boise",
+      "greenbelt",
+      "murder",
+      "suspect",
+      "was",
+      "acquitted",
+      "separate",
+      "knife",
+      "assault",
+      "just",
+      "months",
+      "prior"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailyliberal.com.au/story/9310021/trump-warns-us-forces-will-hit-iran-again-very-hard/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "9310021",
+      "trump",
+      "warns",
+      "forces",
+      "will",
+      "hit",
+      "iran",
+      "again",
+      "very",
+      "hard"
     ]
   },
   "NGA": {
-    "risk_score": 5.3,
-    "count": 8,
-    "top_news": "https://www.modernghana.com/news/1510367/iswaps-failed-borno-raid-and-the-camera-that-talk.html",
+    "risk_score": 6.2,
+    "count": 7,
+    "top_news": "https://www.vanguardngr.com/2026/07/makinde-calls-on-un-to-probe-oyo-schoolchildren-abduction/",
     "event_codes": {
-      "17": 5,
-      "18": 2,
-      "19": 1
+      "18": 3,
+      "19": 3,
+      "17": 1
     },
     "keywords": [
+      "2026",
+      "makinde",
+      "calls",
+      "probe",
+      "oyo",
+      "schoolchildren",
+      "abduction"
+    ]
+  },
+  "TWN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.samoanews.com/local-news/governor-makes-statement-regarding-recent-regional-security-developments",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "local",
       "news",
-      "1510367",
-      "iswaps",
-      "failed",
-      "borno",
-      "raid",
-      "and",
-      "the",
-      "camera",
-      "that",
-      "talk.html"
+      "governor",
+      "makes",
+      "statement",
+      "regarding",
+      "recent",
+      "regional",
+      "security",
+      "developments"
     ]
   }
 }
