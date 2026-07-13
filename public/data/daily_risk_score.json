@@ -1,64 +1,183 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://www.aol.co.uk/articles/france-germany-uk-condemn-iran-154744000.html",
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.theepochtimes.com/world/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-post-6060869",
     "event_codes": {
-      "19": 5,
-      "17": 2
+      "17": 6
     },
     "keywords": [
-      "articles",
-      "france",
-      "germany",
-      "condemn",
-      "iran",
-      "154744000.html"
+      "world",
+      "qatars",
+      "former",
+      "ruler",
+      "sheikh",
+      "hamad",
+      "bin",
+      "khalifa",
+      "thani",
+      "dies",
+      "post",
+      "6060869"
     ]
   },
-  "JOR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://fox23maine.com/news/local/maine-leaders-react-to-apparent-deadly-ice-involved-shooting-in-biddeford",
+  "IRN": {
+    "risk_score": 11.96,
+    "count": 16,
+    "top_news": "https://www.thenationalnews.com/news/us/2026/07/13/trump-hormuz-iran/",
     "event_codes": {
-      "19": 4
+      "19": 6,
+      "17": 5,
+      "15": 3,
+      "14": 2
     },
     "keywords": [
       "news",
-      "local",
-      "maine",
-      "leaders",
-      "react",
-      "apparent",
-      "deadly",
-      "ice",
-      "involved",
-      "shooting",
-      "biddeford"
+      "2026",
+      "trump",
+      "hormuz",
+      "iran"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.96,
+    "count": 8,
+    "top_news": "http://www.bignewsnetwork.com/news/279185228/heres-where-americas-next-strike-on-iran-will-come-from",
+    "event_codes": {
+      "15": 3,
+      "17": 3,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "279185228",
+      "heres",
+      "where",
+      "americas",
+      "next",
+      "strike",
+      "iran",
+      "will",
+      "come",
+      "from"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.75,
+    "count": 22,
+    "top_news": "https://www.perthnow.com.au/news/anti-semitism-a-complex-issue-on-university-campuses-c-22573016",
+    "event_codes": {
+      "19": 13,
+      "18": 4,
+      "16": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "anti",
+      "semitism",
+      "complex",
+      "issue",
+      "university",
+      "campuses",
+      "22573016"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.tnledger.com/editorial/Article.aspx?id=205432",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "editorial",
+      "article.aspx"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.al-monitor.com/originals/2026/07/explainer-why-has-iran-us-ceasefire-memorandum-frayed",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "explainer",
+      "why",
+      "has",
+      "iran",
+      "ceasefire",
+      "memorandum",
+      "frayed"
     ]
   },
   "NGA": {
-    "risk_score": 2.95,
-    "count": 6,
-    "top_news": "https://dailypost.ng/2026/07/13/appeal-court-upholds-order-stopping-inec-from-recognising-adc-state-congresses/",
+    "risk_score": 6.9,
+    "count": 11,
+    "top_news": "https://www.vanguardngr.com/2026/07/they-killed-our-colleagues-to-pressure-govt-left-us-with-scars-rescued-oyo-principal/",
     "event_codes": {
-      "17": 3,
-      "16": 2,
-      "14": 1
+      "17": 8,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "appeal",
-      "court",
-      "upholds",
-      "order",
-      "stopping",
-      "inec",
-      "from",
-      "recognising",
-      "adc",
-      "state",
-      "congresses"
+      "they",
+      "killed",
+      "our",
+      "colleagues",
+      "pressure",
+      "govt",
+      "left",
+      "with",
+      "scars",
+      "rescued",
+      "oyo",
+      "principal"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.theepochtimes.com/world/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-at-74-post-6060869",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "world",
+      "qatars",
+      "former",
+      "ruler",
+      "sheikh",
+      "hamad",
+      "bin",
+      "khalifa",
+      "thani",
+      "dies",
+      "post",
+      "6060869"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://dissentmagazine.org/article/operation-metro-surge-ice-minnesota-somali-community/",
+    "event_codes": {
+      "18": 4,
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "operation",
+      "metro",
+      "surge",
+      "ice",
+      "minnesota",
+      "somali",
+      "community"
     ]
   }
 }
