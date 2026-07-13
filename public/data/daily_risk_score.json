@@ -1,58 +1,186 @@
 {
-  "IRN": {
-    "risk_score": 6.95,
-    "count": 7,
-    "top_news": "https://gazette.com/2026/07/12/u-s-launches-fresh-strikes-after-iran-attacks-ship/",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.israelnationalnews.com/flashes/689583",
     "event_codes": {
-      "19": 6,
+      "19": 2
+    },
+    "keywords": [
+      "flashes",
+      "689583"
+    ]
+  },
+  "ETH": {
+    "risk_score": 5.3,
+    "count": 7,
+    "top_news": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "africa",
+      "ethiopian",
+      "migrants",
+      "saudi",
+      "arabia",
+      "death",
+      "row",
+      "intl"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.3,
+    "count": 14,
+    "top_news": "https://www.arabnews.com/node/2650687/middle-east",
+    "event_codes": {
+      "19": 12,
+      "16": 1,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "launches",
-      "fresh",
-      "strikes",
-      "after",
-      "iran",
-      "attacks",
-      "ship"
+      "node",
+      "2650687",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://gazette.com/2026/07/12/u-s-launches-fresh-strikes-after-iran-attacks-ship/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.moonofalabama.org/2026/07/how-israel-could-push-the-u-s-into-further-bombing-iran.html/comment-page-5",
     "event_codes": {
-      "18": 3,
-      "17": 1,
-      "19": 1
+      "18": 4
     },
     "keywords": [
       "2026",
-      "launches",
-      "fresh",
-      "strikes",
-      "after",
-      "iran",
-      "attacks",
-      "ship"
+      "how",
+      "israel",
+      "could",
+      "push",
+      "the",
+      "into",
+      "further",
+      "bombing",
+      "iran.html",
+      "comment",
+      "page"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/node/2650687/middle-east",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "node",
+      "2650687",
+      "middle",
+      "east"
     ]
   },
   "NGA": {
-    "risk_score": 10.35,
-    "count": 11,
-    "top_news": "https://thesun.ng/nsa-and-rescue-of-ekiti-church-abductees/",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://thesun.ng/oriire-schoolchildren-how-intelligence-arrest-of-family-members-of-abductors-facilitated-rescue/",
     "event_codes": {
-      "19": 6,
-      "18": 5
+      "17": 4
     },
     "keywords": [
-      "nsa",
-      "and",
-      "rescue",
-      "ekiti",
-      "church",
-      "abductees"
+      "oriire",
+      "schoolchildren",
+      "how",
+      "intelligence",
+      "arrest",
+      "family",
+      "members",
+      "abductors",
+      "facilitated",
+      "rescue"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "2026",
+      "africa",
+      "ethiopian",
+      "migrants",
+      "saudi",
+      "arabia",
+      "death",
+      "row",
+      "intl"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thailand-business-news.com/pr-news/uem-edgenta-cements-role-in-delivering-pan-borneo-highway-sarawak",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "uem",
+      "edgenta",
+      "cements",
+      "role",
+      "delivering",
+      "pan",
+      "borneo",
+      "highway",
+      "sarawak"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://aninews.in/news/world/asia/vietnam-boat-accident-mortal-remains-of-15-indian-nationals-to-be-repatriated-to-india20260713085704/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "asia",
+      "vietnam",
+      "boat",
+      "accident",
+      "mortal",
+      "remains",
+      "indian",
+      "nationals",
+      "repatriated",
+      "india20260713085704"
+    ]
+  },
+  "YEM": {
+    "risk_score": 6.65,
+    "count": 7,
+    "top_news": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "2026",
+      "africa",
+      "ethiopian",
+      "migrants",
+      "saudi",
+      "arabia",
+      "death",
+      "row",
+      "intl"
     ]
   }
 }
