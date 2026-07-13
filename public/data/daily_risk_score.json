@@ -1,186 +1,81 @@
 {
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.israelnationalnews.com/flashes/689583",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "flashes",
-      "689583"
-    ]
-  },
-  "ETH": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "2026",
-      "africa",
-      "ethiopian",
-      "migrants",
-      "saudi",
-      "arabia",
-      "death",
-      "row",
-      "intl"
-    ]
-  },
   "IRN": {
-    "risk_score": 13.3,
-    "count": 14,
-    "top_news": "https://www.arabnews.com/node/2650687/middle-east",
+    "risk_score": 7.72,
+    "count": 8,
+    "top_news": "https://aninews.in/news/world/middle-east/irans-army-claims-it-shot-down-us-drone-over-southern-city-of-bandar-abbas20260713120708/",
     "event_codes": {
-      "19": 12,
-      "16": 1,
-      "18": 1
+      "19": 7,
+      "15": 1
     },
     "keywords": [
-      "node",
-      "2650687",
+      "news",
+      "world",
       "middle",
-      "east"
+      "east",
+      "irans",
+      "army",
+      "claims",
+      "shot",
+      "down",
+      "drone",
+      "over",
+      "southern",
+      "city",
+      "bandar",
+      "abbas20260713120708"
     ]
   },
   "ISR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.moonofalabama.org/2026/07/how-israel-could-push-the-u-s-into-further-bombing-iran.html/comment-page-5",
+    "top_news": "https://yourdemocracy.net/drupal/node/60438",
     "event_codes": {
-      "18": 4
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "how",
-      "israel",
-      "could",
-      "push",
-      "the",
-      "into",
-      "further",
-      "bombing",
-      "iran.html",
-      "comment",
-      "page"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/node/2650687/middle-east",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
+      "drupal",
       "node",
-      "2650687",
-      "middle",
-      "east"
+      "60438"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://thesun.ng/oriire-schoolchildren-how-intelligence-arrest-of-family-members-of-abductors-facilitated-rescue/",
+  "TUR": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.newsweek.com/partner-of-us-woman-murdered-in-ireland-flew-to-turkey-after-leaving-house-12184905",
     "event_codes": {
-      "17": 4
+      "18": 4,
+      "17": 1
     },
     "keywords": [
-      "oriire",
-      "schoolchildren",
-      "how",
-      "intelligence",
-      "arrest",
-      "family",
-      "members",
-      "abductors",
-      "facilitated",
-      "rescue"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "2026",
-      "africa",
-      "ethiopian",
-      "migrants",
-      "saudi",
-      "arabia",
-      "death",
-      "row",
-      "intl"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thailand-business-news.com/pr-news/uem-edgenta-cements-role-in-delivering-pan-borneo-highway-sarawak",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "uem",
-      "edgenta",
-      "cements",
-      "role",
-      "delivering",
-      "pan",
-      "borneo",
-      "highway",
-      "sarawak"
+      "partner",
+      "woman",
+      "murdered",
+      "ireland",
+      "flew",
+      "turkey",
+      "after",
+      "leaving",
+      "house",
+      "12184905"
     ]
   },
   "VNM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://aninews.in/news/world/asia/vietnam-boat-accident-mortal-remains-of-15-indian-nationals-to-be-repatriated-to-india20260713085704/",
+    "top_news": "https://newstodaynet.com/2026/07/13/tn-special-officer-in-vietnam-to-oversee-repatriation-after-boat-tragedy/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "asia",
-      "vietnam",
-      "boat",
-      "accident",
-      "mortal",
-      "remains",
-      "indian",
-      "nationals",
-      "repatriated",
-      "india20260713085704"
-    ]
-  },
-  "YEM": {
-    "risk_score": 6.65,
-    "count": 7,
-    "top_news": "https://us.cnn.com/2026/07/13/africa/ethiopian-migrants-saudi-arabia-death-row-intl",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
       "2026",
-      "africa",
-      "ethiopian",
-      "migrants",
-      "saudi",
-      "arabia",
-      "death",
-      "row",
-      "intl"
+      "special",
+      "officer",
+      "vietnam",
+      "oversee",
+      "repatriation",
+      "after",
+      "boat",
+      "tragedy"
     ]
   }
 }
