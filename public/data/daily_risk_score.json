@@ -1,104 +1,95 @@
 {
   "ARE": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.nwemail.co.uk/news/national/26277192.us-launches-strikes-iran-bahrain-jordan-uae-targeted-response/",
+    "count": 3,
+    "top_news": "https://www.theepochtimes.com/world/oil-prices-jump-to-4-week-high-as-us-iran-hostilities-intensify-6061408",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "26277192.us",
-      "launches",
-      "strikes",
-      "iran",
-      "bahrain",
-      "jordan",
-      "uae",
-      "targeted",
-      "response"
-    ]
-  },
-  "IRN": {
-    "risk_score": 17.95,
-    "count": 21,
-    "top_news": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
-    "event_codes": {
-      "19": 14,
-      "17": 3,
-      "16": 2,
-      "14": 1,
-      "18": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
       "world",
-      "2026",
-      "jul",
-      "strikes",
+      "oil",
+      "prices",
+      "jump",
+      "week",
+      "high",
       "iran",
-      "bahrain",
-      "jordan",
-      "uae",
-      "tankers"
+      "hostilities",
+      "intensify",
+      "6061408"
+    ]
+  },
+  "BFA": {
+    "risk_score": 4.05,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202607140546.html",
+    "event_codes": {
+      "18": 2,
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202607140546.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.92,
+    "count": 8,
+    "top_news": "https://www.insurancejournal.com/news/international/2026/07/14/877473.htm",
+    "event_codes": {
+      "19": 7,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "international",
+      "2026",
+      "877473.htm"
     ]
   },
   "ISR": {
-    "risk_score": 9.88,
-    "count": 13,
-    "top_news": "https://dominicanrepublicpost.com/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal/",
-    "event_codes": {
-      "17": 6,
-      "19": 4,
-      "15": 2,
-      "14": 1
-    },
-    "keywords": [
-      "lebanon",
-      "israel",
-      "hold",
-      "talks",
-      "rome",
-      "implementing",
-      "framework",
-      "deal"
-    ]
-  },
-  "JOR": {
-    "risk_score": 6.0,
+    "risk_score": 8.1,
     "count": 9,
-    "top_news": "https://www.irishcentral.com/news/jamey-suspect-legal-battles",
+    "top_news": "https://www.middleeastmonitor.com/20260714-israeli-prison-guard-shoots-palestinian-leader-marwan-barghouti-in-the-leg-family-says-prison-service-denies-incident/",
     "event_codes": {
-      "17": 6,
-      "19": 3
+      "19": 7,
+      "14": 2
     },
     "keywords": [
-      "news",
-      "jamey",
-      "suspect",
-      "legal",
-      "battles"
+      "20260714",
+      "israeli",
+      "prison",
+      "guard",
+      "shoots",
+      "palestinian",
+      "leader",
+      "marwan",
+      "barghouti",
+      "the",
+      "leg",
+      "family",
+      "says",
+      "prison",
+      "service",
+      "denies",
+      "incident"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.nwemail.co.uk/news/national/26277192.us-launches-strikes-iran-bahrain-jordan-uae-targeted-response/",
+  "NGA": {
+    "risk_score": 13.4,
+    "count": 15,
+    "top_news": "https://allafrica.com/stories/202607140439.html",
     "event_codes": {
-      "19": 3
+      "19": 7,
+      "18": 6,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "26277192.us",
-      "launches",
-      "strikes",
-      "iran",
-      "bahrain",
-      "jordan",
-      "uae",
-      "targeted",
-      "response"
+      "stories",
+      "202607140439.html"
     ]
   }
 }
