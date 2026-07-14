@@ -1,95 +1,142 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.theepochtimes.com/world/oil-prices-jump-to-4-week-high-as-us-iran-hostilities-intensify-6061408",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "oil",
-      "prices",
-      "jump",
-      "week",
-      "high",
-      "iran",
-      "hostilities",
-      "intensify",
-      "6061408"
-    ]
-  },
-  "BFA": {
-    "risk_score": 4.05,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202607140546.html",
-    "event_codes": {
-      "18": 2,
-      "14": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "stories",
-      "202607140546.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.92,
-    "count": 8,
-    "top_news": "https://www.insurancejournal.com/news/international/2026/07/14/877473.htm",
+    "risk_score": 23.37,
+    "count": 24,
+    "top_news": "https://www.ncr-iran.org/en/news/human-rights/stop-executions-in-iran/iranian-regimes-execution-machine-resumes-after-parading-and-burial-of-ali-khameneis-corpse/",
     "event_codes": {
-      "19": 7,
-      "17": 1
+      "19": 14,
+      "18": 8,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
       "news",
-      "international",
-      "2026",
-      "877473.htm"
+      "human",
+      "rights",
+      "stop",
+      "executions",
+      "iran",
+      "iranian",
+      "regimes",
+      "execution",
+      "machine",
+      "resumes",
+      "after",
+      "parading",
+      "and",
+      "burial",
+      "ali",
+      "khameneis",
+      "corpse"
     ]
   },
-  "ISR": {
-    "risk_score": 8.1,
-    "count": 9,
-    "top_news": "https://www.middleeastmonitor.com/20260714-israeli-prison-guard-shoots-palestinian-leader-marwan-barghouti-in-the-leg-family-says-prison-service-denies-incident/",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ncr-iran.org/en/news/human-rights/stop-executions-in-iran/iranian-regimes-execution-machine-resumes-after-parading-and-burial-of-ali-khameneis-corpse/",
     "event_codes": {
-      "19": 7,
-      "14": 2
+      "19": 2
     },
     "keywords": [
-      "20260714",
-      "israeli",
-      "prison",
-      "guard",
-      "shoots",
-      "palestinian",
-      "leader",
-      "marwan",
-      "barghouti",
-      "the",
-      "leg",
-      "family",
-      "says",
-      "prison",
-      "service",
-      "denies",
-      "incident"
+      "news",
+      "human",
+      "rights",
+      "stop",
+      "executions",
+      "iran",
+      "iranian",
+      "regimes",
+      "execution",
+      "machine",
+      "resumes",
+      "after",
+      "parading",
+      "and",
+      "burial",
+      "ali",
+      "khameneis",
+      "corpse"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.kenyan-post.com/2026/07/senior-kdf-officer-who-murdered-wife.html",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "senior",
+      "kdf",
+      "officer",
+      "who",
+      "murdered",
+      "wife.html"
     ]
   },
   "NGA": {
-    "risk_score": 13.4,
-    "count": 15,
-    "top_news": "https://allafrica.com/stories/202607140439.html",
+    "risk_score": 2.05,
+    "count": 3,
+    "top_news": "https://dailytrust.com/1-killed-in-another-attack-on-benue-community/",
     "event_codes": {
-      "19": 7,
-      "18": 6,
+      "14": 1,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "killed",
+      "another",
+      "attack",
+      "benue",
+      "community"
+    ]
+  },
+  "SAU": {
+    "risk_score": 11.0,
+    "count": 12,
+    "top_news": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack",
+    "event_codes": {
+      "18": 5,
+      "19": 5,
       "17": 2
     },
     "keywords": [
-      "stories",
-      "202607140439.html"
+      "news",
+      "2026",
+      "leading",
+      "houthi",
+      "threatens",
+      "siege",
+      "saudi",
+      "arabia",
+      "after",
+      "yemen",
+      "airport",
+      "attack"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "leading",
+      "houthi",
+      "threatens",
+      "siege",
+      "saudi",
+      "arabia",
+      "after",
+      "yemen",
+      "airport",
+      "attack"
     ]
   }
 }
