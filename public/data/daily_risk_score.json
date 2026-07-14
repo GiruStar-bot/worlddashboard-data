@@ -1,204 +1,104 @@
 {
-  "BRA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.desiblitz.com/content/barrister-used-contacts-to-help-gangster-in-revenge-attack",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nwemail.co.uk/news/national/26277192.us-launches-strikes-iran-bahrain-jordan-uae-targeted-response/",
     "event_codes": {
-      "17": 5
+      "19": 2
     },
     "keywords": [
-      "content",
-      "barrister",
-      "used",
-      "contacts",
-      "help",
-      "gangster",
-      "revenge",
-      "attack"
+      "news",
+      "national",
+      "26277192.us",
+      "launches",
+      "strikes",
+      "iran",
+      "bahrain",
+      "jordan",
+      "uae",
+      "targeted",
+      "response"
     ]
   },
   "IRN": {
-    "risk_score": 15.2,
-    "count": 19,
-    "top_news": "https://www.miningjournal.net/news/front-page-news/2026/07/trump-says-us-will-blockade-iran-in-the-strait-of-hormuz-and-will-charge-ships-for-safe-passage/",
+    "risk_score": 17.95,
+    "count": 21,
+    "top_news": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
     "event_codes": {
-      "14": 8,
-      "19": 8,
-      "17": 2,
+      "19": 14,
+      "17": 3,
+      "16": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "front",
-      "page",
-      "news",
+      "world",
       "2026",
-      "trump",
-      "says",
-      "will",
-      "blockade",
+      "jul",
+      "strikes",
       "iran",
-      "the",
-      "strait",
-      "hormuz",
-      "and",
-      "will",
-      "charge",
-      "ships",
-      "for",
-      "safe",
-      "passage"
+      "bahrain",
+      "jordan",
+      "uae",
+      "tankers"
     ]
   },
   "ISR": {
-    "risk_score": 3.35,
-    "count": 4,
-    "top_news": "https://www.express.co.uk/news/politics/2228927/andy-burnhams-already-course-steer",
+    "risk_score": 9.88,
+    "count": 13,
+    "top_news": "https://dominicanrepublicpost.com/lebanon-israel-hold-talks-in-rome-on-implementing-framework-deal/",
     "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
+      "17": 6,
+      "19": 4,
+      "15": 2,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "politics",
-      "2228927",
-      "andy",
-      "burnhams",
-      "already",
-      "course",
-      "steer"
+      "lebanon",
+      "israel",
+      "hold",
+      "talks",
+      "rome",
+      "implementing",
+      "framework",
+      "deal"
     ]
   },
   "JOR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/hk4fldxnfx",
+    "risk_score": 6.0,
+    "count": 9,
+    "top_news": "https://www.irishcentral.com/news/jamey-suspect-legal-battles",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "17": 6,
+      "19": 3
     },
     "keywords": [
-      "article",
-      "hk4fldxnfx"
+      "news",
+      "jamey",
+      "suspect",
+      "legal",
+      "battles"
     ]
   },
   "LBN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.newsday.com/news/nation/iran-us-hormuz-strait-war-july-14-2026-p04503",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "iran",
-      "hormuz",
-      "strait",
-      "war",
-      "july",
-      "2026",
-      "p04503"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://quicknews-africa.net/police-arrest-man-over-alleged-murder-of-lover-in-rivers/",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "police",
-      "arrest",
-      "man",
-      "over",
-      "alleged",
-      "murder",
-      "lover",
-      "rivers"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://pakobserver.net/qatar-extradites-pakistani-origin-suspect-to-us-in-100m-stolen-mobile-electronics-smuggling-case/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "qatar",
-      "extradites",
-      "pakistani",
-      "origin",
-      "suspect",
-      "100m",
-      "stolen",
-      "mobile",
-      "electronics",
-      "smuggling",
-      "case"
-    ]
-  },
-  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.zawya.com/en/capital-markets/equities/mideast-stocks-most-gulf-markets-fall-on-us-iran-hostilities-qduysk8s",
+    "top_news": "https://www.nwemail.co.uk/news/national/26277192.us-launches-strikes-iran-bahrain-jordan-uae-targeted-response/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "capital",
-      "markets",
-      "equities",
-      "mideast",
-      "stocks",
-      "most",
-      "gulf",
-      "markets",
-      "fall",
-      "iran",
-      "hostilities",
-      "qduysk8s"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.gdnonline.com:443/Details/1400602",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "details",
-      "1400602"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.95,
-    "count": 5,
-    "top_news": "https://www.dawn.com/news/2000716/at-least-eight-dead-25-injured-in-train-collision-that-sparks-bus-fire-in-thailand",
-    "event_codes": {
-      "17": 4,
-      "19": 1
-    },
-    "keywords": [
       "news",
-      "2000716",
-      "least",
-      "eight",
-      "dead",
-      "injured",
-      "train",
-      "collision",
-      "that",
-      "sparks",
-      "bus",
-      "fire",
-      "thailand"
+      "national",
+      "26277192.us",
+      "launches",
+      "strikes",
+      "iran",
+      "bahrain",
+      "jordan",
+      "uae",
+      "targeted",
+      "response"
     ]
   }
 }
