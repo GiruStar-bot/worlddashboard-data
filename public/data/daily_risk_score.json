@@ -1,66 +1,75 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
+  "COL": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/10-year-old-palestinian-boy-shot-israeli-gunfire-rafah-three-others",
+    "top_news": "https://www.wmtw.com/article/ice-agents-ordered-to-stop-vehicle-stops-after-killing-in-maine/71932447",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "year",
-      "old",
-      "palestinian",
-      "boy",
-      "shot",
-      "israeli",
-      "gunfire",
-      "rafah",
-      "three",
-      "others"
+      "article",
+      "ice",
+      "agents",
+      "ordered",
+      "stop",
+      "vehicle",
+      "stops",
+      "after",
+      "killing",
+      "maine",
+      "71932447"
     ]
   },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/895299-gunmen-kill-lagos-nurtw-organising-secretary.html",
+  "IRN": {
+    "risk_score": 8.7,
+    "count": 10,
+    "top_news": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 6,
+      "18": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
       "news",
-      "top",
-      "news",
-      "895299",
-      "gunmen",
-      "kill",
-      "lagos",
-      "nurtw",
-      "organising",
-      "secretary.html"
+      "2026",
+      "trump",
+      "pivots",
+      "from",
+      "percent",
+      "strait",
+      "hormuz",
+      "fee",
+      "amid",
+      "iran",
+      "war",
+      "escalation"
     ]
   },
-  "THA": {
+  "JOR": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.mirror.co.uk/news/uk-news/ann-widdecombe-murder-police-suspect-37431035",
+    "count": 3,
+    "top_news": "https://www.irishtimes.com/crime-law/2026/07/14/gardai-consider-visiting-jordan-to-interview-person-of-interest-in-jamey-carney-murder-case/",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "news",
-      "ann",
-      "widdecombe",
+      "crime",
+      "law",
+      "2026",
+      "gardai",
+      "consider",
+      "visiting",
+      "jordan",
+      "interview",
+      "person",
+      "interest",
+      "jamey",
+      "carney",
       "murder",
-      "police",
-      "suspect",
-      "37431035"
+      "case"
     ]
   }
 }
