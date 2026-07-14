@@ -1,116 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 16.47,
-    "count": 17,
-    "top_news": "https://www.washingtonexaminer.com/news/washington-secrets/4646478/mitch-mcconnell-lindsey-graham-stuck-just-asking-questions-vortex/",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/10-year-old-palestinian-boy-shot-israeli-gunfire-rafah-three-others",
     "event_codes": {
-      "19": 12,
-      "18": 3,
-      "15": 1,
-      "16": 1
+      "19": 3
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "year",
+      "old",
+      "palestinian",
+      "boy",
+      "shot",
+      "israeli",
+      "gunfire",
+      "rafah",
+      "three",
+      "others"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/895299-gunmen-kill-lagos-nurtw-organising-secretary.html",
+    "event_codes": {
+      "19": 3,
+      "17": 2
     },
     "keywords": [
       "news",
-      "washington",
-      "secrets",
-      "4646478",
-      "mitch",
-      "mcconnell",
-      "lindsey",
-      "graham",
-      "stuck",
-      "just",
-      "asking",
-      "questions",
-      "vortex"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.4,
-    "count": 12,
-    "top_news": "https://www.arabnews.com/node/2650877/middle-east",
-    "event_codes": {
-      "19": 8,
-      "17": 3,
-      "18": 1
-    },
-    "keywords": [
-      "node",
-      "2650877",
-      "middle",
-      "east"
-    ]
-  },
-  "MMR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenews.com.pk/latest/1409119-king-charles-in-good-spirits-as-he-briefly-leaves-uk-for-official-visit-after-harrys-departure",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "latest",
-      "1409119",
-      "king",
-      "charles",
-      "good",
-      "spirits",
-      "briefly",
-      "leaves",
-      "for",
-      "official",
-      "visit",
-      "after",
-      "harrys",
-      "departure"
+      "top",
+      "news",
+      "895299",
+      "gunmen",
+      "kill",
+      "lagos",
+      "nurtw",
+      "organising",
+      "secretary.html"
     ]
   },
   "THA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.chiangraitimes.com/news/thailand-news/thailands-great-civil-service-purge-5000-officials-to-lose-jobs-over-massive-exam-scandal/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mirror.co.uk/news/uk-news/ann-widdecombe-murder-police-suspect-37431035",
     "event_codes": {
-      "17": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "thailand",
       "news",
-      "thailands",
-      "great",
-      "civil",
-      "service",
-      "purge",
-      "5000",
-      "officials",
-      "lose",
-      "jobs",
-      "over",
-      "massive",
-      "exam",
-      "scandal"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "http://www.bgnes.com/politics/erdogan-defends-mass-arrests-ahead-of-nato-summit-we-left-nothing-to-chance",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "politics",
-      "erdogan",
-      "defends",
-      "mass",
-      "arrests",
-      "ahead",
-      "nato",
-      "summit",
-      "left",
-      "nothing",
-      "chance"
+      "ann",
+      "widdecombe",
+      "murder",
+      "police",
+      "suspect",
+      "37431035"
     ]
   }
 }
