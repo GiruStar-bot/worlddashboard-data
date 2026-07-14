@@ -1,88 +1,197 @@
 {
-  "IDN": {
-    "risk_score": 3.0,
+  "ARE": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://closerweekly.com/how-general-hospital-fans-welcomed-back-steve-burton-and-jason-morgan/",
+    "top_news": "https://www.fox21online.com/news/us-world/uae-defense-ministry-says-iran-attacks-2-tankers-in-strait-near-omans-coast-killing-1/article_ac6823c5-4e40-50ac-bf49-ffac89ceaa51.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "how",
-      "general",
-      "hospital",
-      "fans",
-      "welcomed",
-      "back",
-      "steve",
-      "burton",
-      "and",
-      "jason",
-      "morgan"
+      "news",
+      "world",
+      "uae",
+      "defense",
+      "ministry",
+      "says",
+      "iran",
+      "attacks",
+      "tankers",
+      "strait",
+      "near",
+      "omans",
+      "coast",
+      "killing",
+      "article",
+      "ac6823c5",
+      "4e40",
+      "50ac",
+      "bf49",
+      "ffac89ceaa51.html"
+    ]
+  },
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.koreaherald.com/article/10808029",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "10808029"
+    ]
+  },
+  "CMR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://medafricatimes.com/46219-nigerian-airstrike-kills-dozens-of-boko-haram-fighters-in-borno.html",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "46219",
+      "nigerian",
+      "airstrike",
+      "kills",
+      "dozens",
+      "boko",
+      "haram",
+      "fighters",
+      "borno.html"
     ]
   },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.mendocinobeacon.com/2026/07/13/strait-of-hormuz-control-fact-check/",
+    "risk_score": 16.9,
+    "count": 17,
+    "top_news": "https://www.jns.org/news/u-s-news/were-going-to-take-out-pickaxe-mountain-trump-says-of-iranian-nuclear-site",
     "event_codes": {
-      "19": 3
+      "19": 16,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "strait",
-      "hormuz",
-      "control",
-      "fact",
-      "check"
+      "news",
+      "news",
+      "were",
+      "going",
+      "take",
+      "out",
+      "pickaxe",
+      "mountain",
+      "trump",
+      "says",
+      "iranian",
+      "nuclear",
+      "site"
     ]
   },
   "ISR": {
-    "risk_score": 5.6,
-    "count": 7,
-    "top_news": "https://attackofthefanboy.com/politics/ro-khanna-clashes-with-fox-news-host-over-key-details-of-his-west-bank-detainment-the-ambassador-is-lying/",
+    "risk_score": 7.61,
+    "count": 10,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2574269/two-israelis-cross-into-syria-remain-near-khader-for-hours.html",
     "event_codes": {
-      "17": 4,
-      "19": 3
+      "17": 7,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "politics",
-      "khanna",
-      "clashes",
-      "with",
-      "fox",
       "news",
-      "host",
-      "over",
-      "key",
-      "details",
-      "his",
-      "west",
-      "bank",
-      "detainment",
-      "the",
-      "ambassador",
-      "lying"
+      "israel",
+      "news",
+      "2574269",
+      "two",
+      "israelis",
+      "cross",
+      "into",
+      "syria",
+      "remain",
+      "near",
+      "khader",
+      "for",
+      "hours.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://medafricatimes.com/46219-nigerian-airstrike-kills-dozens-of-boko-haram-fighters-in-borno.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "46219",
+      "nigerian",
+      "airstrike",
+      "kills",
+      "dozens",
+      "boko",
+      "haram",
+      "fighters",
+      "borno.html"
     ]
   },
   "NGA": {
-    "risk_score": 14.82,
-    "count": 17,
-    "top_news": "https://punchng.com/oriire-when-political-characters-trample-long-awaited-relief/",
+    "risk_score": 6.34,
+    "count": 7,
+    "top_news": "https://thesun.ng/makinde-seeks-un-probe-of-oriire-school-abduction-tightens-security-around-old-oyo-national-park/",
     "event_codes": {
-      "18": 7,
-      "19": 7,
-      "16": 2,
-      "15": 1
+      "19": 4,
+      "17": 3
     },
     "keywords": [
+      "makinde",
+      "seeks",
+      "probe",
       "oriire",
-      "when",
-      "political",
-      "characters",
-      "trample",
-      "long",
-      "awaited",
-      "relief"
+      "school",
+      "abduction",
+      "tightens",
+      "security",
+      "around",
+      "old",
+      "oyo",
+      "national",
+      "park"
+    ]
+  },
+  "SDN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://aa.com.tr/en/africa/sudan-s-army-says-it-downed-another-fh-95-drone-amid-clashes-with-rsf/3997092",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "africa",
+      "sudan",
+      "army",
+      "says",
+      "downed",
+      "another",
+      "drone",
+      "amid",
+      "clashes",
+      "with",
+      "rsf",
+      "3997092"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://medafricatimes.com/46219-nigerian-airstrike-kills-dozens-of-boko-haram-fighters-in-borno.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "46219",
+      "nigerian",
+      "airstrike",
+      "kills",
+      "dozens",
+      "boko",
+      "haram",
+      "fighters",
+      "borno.html"
     ]
   }
 }
