@@ -1,127 +1,102 @@
 {
-  "BRA": {
+  "IRN": {
+    "risk_score": 13.0,
+    "count": 15,
+    "top_news": "https://www.ariananews.af/trump-says-us-attacking-iran-capabilities-related-to-strait-of-hormuz/",
+    "event_codes": {
+      "19": 11,
+      "17": 4
+    },
+    "keywords": [
+      "trump",
+      "says",
+      "attacking",
+      "iran",
+      "capabilities",
+      "related",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.6,
+    "count": 10,
+    "top_news": "https://www.al-monitor.com/originals/2026/07/iran-says-it-struck-us-air-base-jordan-us-military-ends-five-hours-attacks",
+    "event_codes": {
+      "19": 8,
+      "16": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "iran",
+      "says",
+      "struck",
+      "air",
+      "base",
+      "jordan",
+      "military",
+      "ends",
+      "five",
+      "hours",
+      "attacks"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/07/iran-says-it-struck-us-air-base-jordan-us-military-ends-five-hours-attacks",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "iran",
+      "says",
+      "struck",
+      "air",
+      "base",
+      "jordan",
+      "military",
+      "ends",
+      "five",
+      "hours",
+      "attacks"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.breitbart.com/latin-america/2026/07/13/brazil-leftists-try-imprision-jair-bolsonaro-again-over-handwritten-letter/",
+    "top_news": "https://cyprus-mail.com/2026/07/14/iran-targets-us-base-in-jordan-with-ballistic-missiles",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "latin",
-      "america",
       "2026",
-      "brazil",
-      "leftists",
-      "try",
-      "imprision",
-      "jair",
-      "bolsonaro",
-      "again",
-      "over",
-      "handwritten",
-      "letter"
-    ]
-  },
-  "COD": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.breitbart.com/africa/2026/07/13/american-citizen-tests-positive-for-ebola-in-dr-congo/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "africa",
-      "2026",
-      "american",
-      "citizen",
-      "tests",
-      "positive",
-      "for",
-      "ebola",
-      "congo"
-    ]
-  },
-  "EGY": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://abcnews.com/US/deputy-us-marshal-shot-killed-serving-arrest-warrant/story?id=134733967",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "deputy",
-      "marshal",
-      "shot",
-      "killed",
-      "serving",
-      "arrest",
-      "warrant",
-      "story"
-    ]
-  },
-  "IRN": {
-    "risk_score": 22.45,
-    "count": 23,
-    "top_news": "https://lancasteronline.com/news/world/us-attacks-iran-and-tehran-retaliates-across-the-middle-east-as-both-vie-for-control/article_a9d25650-c2b5-5b3d-acfe-c0004ccead61.html",
-    "event_codes": {
-      "19": 22,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "attacks",
       "iran",
-      "and",
-      "tehran",
-      "retaliates",
-      "across",
-      "the",
-      "middle",
-      "east",
-      "both",
-      "vie",
-      "for",
-      "control",
-      "article",
-      "a9d25650",
-      "c2b5",
-      "5b3d",
-      "acfe",
-      "c0004ccead61.html"
+      "targets",
+      "base",
+      "jordan",
+      "with",
+      "ballistic",
+      "missiles"
     ]
   },
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.radioseoul1650.com/archives/147055",
+  "NGA": {
+    "risk_score": 19.88,
+    "count": 25,
+    "top_news": "https://allafrica.com/stories/202607140083.html",
     "event_codes": {
+      "18": 12,
+      "16": 6,
+      "17": 4,
       "19": 3
     },
     "keywords": [
-      "archives",
-      "147055"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://capitalfm.africa/police-gun-down-suspect-linked-to-viral-spring-valley-restaurant-robbery/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "police",
-      "gun",
-      "down",
-      "suspect",
-      "linked",
-      "viral",
-      "spring",
-      "valley",
-      "restaurant",
-      "robbery"
+      "stories",
+      "202607140083.html"
     ]
   }
 }
