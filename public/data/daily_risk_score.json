@@ -1,65 +1,85 @@
 {
   "IRN": {
-    "risk_score": 5.15,
-    "count": 6,
-    "top_news": "http://www.jpost.com/middle-east/article-902639",
+    "risk_score": 7.16,
+    "count": 9,
+    "top_news": "http://www.iraqsun.com/news/279189905/us-military-strikes-iran-bound-tanker",
     "event_codes": {
       "19": 4,
-      "14": 1,
+      "14": 2,
+      "16": 2,
       "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "902639"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.jpost.com/middle-east/article-902639",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "902639"
+      "news",
+      "279189905",
+      "military",
+      "strikes",
+      "iran",
+      "bound",
+      "tanker"
     ]
   },
   "ISR": {
-    "risk_score": 6.2,
-    "count": 8,
-    "top_news": "http://www.jpost.com/opinion/article-902586",
+    "risk_score": 4.37,
+    "count": 6,
+    "top_news": "https://www.algemeiner.com/2026/07/15/iran-linked-networks-emerged-as-terror-threat-across-europe-amid-rising-regional-tensions-europol-report-finds/",
     "event_codes": {
-      "16": 6,
-      "18": 1,
-      "19": 1
+      "16": 3,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "opinion",
-      "article",
-      "902586"
+      "2026",
+      "iran",
+      "linked",
+      "networks",
+      "emerged",
+      "terror",
+      "threat",
+      "across",
+      "europe",
+      "amid",
+      "rising",
+      "regional",
+      "tensions",
+      "europol",
+      "report",
+      "finds"
     ]
   },
-  "LBN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://dominicanrepublicpost.com/lebanon-and-israel-end-sixth-round-of-us-brokered-talks/",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://pmnewsnigeria.com/2026/07/15/asaba-airport-drama-ncaa-bans-american-pilot/",
     "event_codes": {
-      "16": 5
+      "17": 4
     },
     "keywords": [
-      "lebanon",
-      "and",
-      "israel",
-      "end",
-      "sixth",
-      "round",
-      "brokered",
-      "talks"
+      "2026",
+      "asaba",
+      "airport",
+      "drama",
+      "ncaa",
+      "bans",
+      "american",
+      "pilot"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/us/articles/picture-violence-30-women-killed-165403241.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "picture",
+      "violence",
+      "women",
+      "killed",
+      "165403241.html"
     ]
   }
 }
