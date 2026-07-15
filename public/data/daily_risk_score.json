@@ -1,56 +1,136 @@
 {
-  "IRN": {
-    "risk_score": 3.8,
+  "ARE": {
+    "risk_score": 2.5,
     "count": 4,
-    "top_news": "http://www.idahopress.com/news/world/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/article_e70bf132-bf01-5b4c-897b-77184a0289e4.html",
+    "top_news": "https://www.yoursourceone.com/news/national_news/more-than-30-people-killed-in-u-s-airstrikes-targeting-iran-in-recent-days-iranian/article_9ab2f4a5-04eb-54a0-be04-8cd1916938fe.html",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "17": 3,
+      "19": 1
     },
     "keywords": [
       "news",
-      "world",
-      "tehran",
-      "threatens",
-      "halt",
-      "all",
-      "mideast",
-      "energy",
-      "exports",
-      "after",
-      "reimposes",
-      "its",
-      "blockade",
+      "national",
+      "news",
+      "more",
+      "than",
+      "people",
+      "killed",
+      "airstrikes",
+      "targeting",
       "iran",
+      "recent",
+      "days",
+      "iranian",
       "article",
-      "e70bf132",
-      "bf01",
-      "5b4c",
-      "897b",
-      "77184a0289e4.html"
+      "9ab2f4a5",
+      "04eb",
+      "54a0",
+      "be04",
+      "8cd1916938fe.html"
     ]
   },
-  "NGA": {
-    "risk_score": 20.45,
-    "count": 34,
-    "top_news": "https://tribuneonlineng.com/tinubus-government-is-popular-for-wrong-reasons-ex-kwara-dep-speaker/",
+  "IRN": {
+    "risk_score": 11.2,
+    "count": 12,
+    "top_news": "https://en.philenews.com/international/indian-seafarer-dead-gfs-galaxy-attack-oman/",
     "event_codes": {
-      "17": 23,
-      "15": 5,
-      "18": 3,
-      "19": 2,
-      "14": 1
+      "19": 9,
+      "14": 3
     },
     "keywords": [
-      "tinubus",
-      "government",
-      "popular",
+      "international",
+      "indian",
+      "seafarer",
+      "dead",
+      "gfs",
+      "galaxy",
+      "attack",
+      "oman"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "http://www.australianherald.com/news/279186170/australians-brace-for-higher-fuel-prices-as-us-iran-conflict-resumes-again",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "279186170",
+      "australians",
+      "brace",
       "for",
-      "wrong",
-      "reasons",
-      "kwara",
-      "dep",
-      "speaker"
+      "higher",
+      "fuel",
+      "prices",
+      "iran",
+      "conflict",
+      "resumes",
+      "again"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://indianexpress.com/article/world/iran-missile-drone-attacks-us-bases-jordan-bahrain-qatar-strait-of-hormuz-blockade-10787442/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "world",
+      "iran",
+      "missile",
+      "drone",
+      "attacks",
+      "bases",
+      "jordan",
+      "bahrain",
+      "qatar",
+      "strait",
+      "hormuz",
+      "blockade",
+      "10787442"
+    ]
+  },
+  "MLI": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.irishtimes.com/world/2026/07/15/why-are-the-us-russia-and-african-union-beating-a-path-to-malis-door/",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "why",
+      "are",
+      "the",
+      "russia",
+      "and",
+      "african",
+      "union",
+      "beating",
+      "path",
+      "malis",
+      "door"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://allafrica.com/stories/202607150031.html",
+    "event_codes": {
+      "19": 6,
+      "17": 2
+    },
+    "keywords": [
+      "stories",
+      "202607150031.html"
     ]
   }
 }
