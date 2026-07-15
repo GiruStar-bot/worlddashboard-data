@@ -2,8 +2,8 @@
   "chokepoints": {
     "hormuz": {
       "name": "Strait of Hormuz",
-      "disruption_risk": 12.3,
-      "crisis_score_raw": 3.6776
+      "disruption_risk": 30.1,
+      "crisis_score_raw": 9.0415
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -49,7 +49,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 12.3
+          "disruption_risk": 30.1
         },
         {
           "id": "malacca",
@@ -62,10 +62,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 87.7,
+      "survival_rate": 69.9,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 12.3,
-      "insight": "エネルギー航路 (中東 - 日本)に軽微なリスク圧力が観測されている。Strait of Hormuz（封鎖リスク12.3%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
+      "max_disruption_risk": 30.1,
+      "insight": "警告: エネルギー航路 (中東 - 日本)の生存確率が69.9%まで低下。半径1500km圏内の紛争激化により、Strait of Hormuzが深刻なボトルネックとなっている（封鎖リスク30.1%）。速やかな代替ルートへの切り替えを推奨。"
     },
     {
       "id": "middle_east_to_europe",
@@ -74,7 +74,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 12.3
+          "disruption_risk": 30.1
         },
         {
           "id": "bab_el_mandeb",
@@ -87,10 +87,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 87.7,
+      "survival_rate": 69.9,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 12.3,
-      "insight": "エネルギー航路 (中東 - 欧州)に軽微なリスク圧力が観測されている。Strait of Hormuz（封鎖リスク12.3%）周辺での武力衝突を注視し、代替ルートの事前検討を推奨する。"
+      "max_disruption_risk": 30.1,
+      "insight": "警告: エネルギー航路 (中東 - 欧州)の生存確率が69.9%まで低下。半径1500km圏内の紛争激化により、Strait of Hormuzが深刻なボトルネックとなっている（封鎖リスク30.1%）。速やかな代替ルートへの切り替えを推奨。"
     },
     {
       "id": "asia_to_europe_suez",
