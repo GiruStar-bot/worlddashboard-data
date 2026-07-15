@@ -1,147 +1,234 @@
 {
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.livemint.com/news/us-news/trump-considers-wider-iran-strike-plans-in-situation-room-meeting-to-pressure-tehran-on-nuclear-deal-report-11784121397304.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "news",
+      "trump",
+      "considers",
+      "wider",
+      "iran",
+      "strike",
+      "plans",
+      "situation",
+      "room",
+      "meeting",
+      "pressure",
+      "tehran",
+      "nuclear",
+      "deal",
+      "report",
+      "11784121397304.html"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/279189205/trump-says-ice-should-continue-traffic-stops-contradicting-new-ban",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "279189205",
+      "trump",
+      "says",
+      "ice",
+      "should",
+      "continue",
+      "traffic",
+      "stops",
+      "contradicting",
+      "new",
+      "ban"
+    ]
+  },
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-15979363/Australian-Bali-death-Cameron-Hughes.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15979363",
+      "australian",
+      "bali",
+      "death",
+      "cameron",
+      "hughes.html"
+    ]
+  },
   "IRN": {
+    "risk_score": 18.75,
+    "count": 22,
+    "top_news": "https://tribuneonlineng.com/trump-threatens-to-bomb-irans-bridges-power-plants/",
+    "event_codes": {
+      "19": 12,
+      "14": 5,
+      "16": 2,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "trump",
+      "threatens",
+      "bomb",
+      "irans",
+      "bridges",
+      "power",
+      "plants"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.17,
+    "count": 20,
+    "top_news": "https://www.middleeastmonitor.com/20260715-israeli-strike-kills-couple-and-their-daughter-in-central-gaza/",
+    "event_codes": {
+      "17": 10,
+      "19": 8,
+      "16": 2
+    },
+    "keywords": [
+      "20260715",
+      "israeli",
+      "strike",
+      "kills",
+      "couple",
+      "and",
+      "their",
+      "daughter",
+      "central",
+      "gaza"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.livemint.com/news/us-news/trump-considers-wider-iran-strike-plans-in-situation-room-meeting-to-pressure-tehran-on-nuclear-deal-report-11784121397304.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "news",
+      "trump",
+      "considers",
+      "wider",
+      "iran",
+      "strike",
+      "plans",
+      "situation",
+      "room",
+      "meeting",
+      "pressure",
+      "tehran",
+      "nuclear",
+      "deal",
+      "report",
+      "11784121397304.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 28.05,
+    "count": 39,
+    "top_news": "https://punchng.com/nlc-rejects-life-pension-bill-for-plateau-lawmakers-threatens-assembly-shutdown/",
+    "event_codes": {
+      "17": 17,
+      "18": 10,
+      "19": 7,
+      "14": 3,
+      "16": 2
+    },
+    "keywords": [
+      "nlc",
+      "rejects",
+      "life",
+      "pension",
+      "bill",
+      "for",
+      "plateau",
+      "lawmakers",
+      "threatens",
+      "assembly",
+      "shutdown"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://www.justiceinfo.net/en/161857-syria-says-arrested-assad-era-officer-specialising-in-chemical-weapons.html",
+    "event_codes": {
+      "17": 5,
+      "19": 2
+    },
+    "keywords": [
+      "161857",
+      "syria",
+      "says",
+      "arrested",
+      "assad",
+      "era",
+      "officer",
+      "specialising",
+      "chemical",
+      "weapons.html"
+    ]
+  },
+  "TUR": {
     "risk_score": 2.95,
     "count": 4,
-    "top_news": "https://jcpost.com/posts/2c50bf5d-2592-4690-ba68-53f9e26d0039",
+    "top_news": "https://www.dailymail.com/news/article-15979935/Police-shoot-gunman-screamed-Allahu-Akbar-opened-fire-outside-supermarket-Germany.html",
     "event_codes": {
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "posts",
-      "2c50bf5d",
-      "2592",
-      "4690",
-      "ba68",
-      "53f9e26d0039"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.2,
-    "count": 11,
-    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-idf-kills-hamas-terrorist-involved-in-abduction-of-three-soldiers-during-october-7th",
-    "event_codes": {
-      "19": 5,
-      "17": 3,
-      "18": 3
-    },
-    "keywords": [
       "news",
-      "israel",
-      "defense",
-      "artc",
-      "idf",
-      "kills",
-      "hamas",
-      "terrorist",
-      "involved",
-      "abduction",
-      "three",
-      "soldiers",
-      "during",
-      "october",
-      "7th"
+      "article",
+      "15979935",
+      "police",
+      "shoot",
+      "gunman",
+      "screamed",
+      "allahu",
+      "akbar",
+      "opened",
+      "fire",
+      "outside",
+      "supermarket",
+      "germany.html"
     ]
   },
-  "NGA": {
-    "risk_score": 10.3,
-    "count": 17,
-    "top_news": "https://www.informationng.com/2026/07/gunmen-murder-lagos-nurtw-organising-secretary-toba-ajiboye-ijaya.html",
-    "event_codes": {
-      "16": 6,
-      "17": 6,
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "gunmen",
-      "murder",
-      "lagos",
-      "nurtw",
-      "organising",
-      "secretary",
-      "toba",
-      "ajiboye",
-      "ijaya.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-idf-kills-hamas-terrorist-involved-in-abduction-of-three-soldiers-during-october-7th",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "defense",
-      "artc",
-      "idf",
-      "kills",
-      "hamas",
-      "terrorist",
-      "involved",
-      "abduction",
-      "three",
-      "soldiers",
-      "during",
-      "october",
-      "7th"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.0,
+  "VEN": {
+    "risk_score": 2.3,
     "count": 3,
-    "top_news": "https://www.mediamatters.org/nick-fuentes/right-wing-and-right-leaning-online-show-hosts-including-nick-fuentes-are-getting",
+    "top_news": "https://www.latintimes.com/federal-judge-awards-314-million-three-americans-allegedly-tortured-venezuela-maduro-regime-598228",
     "event_codes": {
-      "19": 2,
-      "20": 1
-    },
-    "keywords": [
-      "nick",
-      "fuentes",
-      "right",
-      "wing",
-      "and",
-      "right",
-      "leaning",
-      "online",
-      "show",
-      "hosts",
-      "including",
-      "nick",
-      "fuentes",
-      "are",
-      "getting"
-    ]
-  },
-  "TWN": {
-    "risk_score": 5.2,
-    "count": 6,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/888338/you-are-playing-a-hopeless-war-game-china-crushes-taiwan-s-ambitions-reunification-is-inevitable",
-    "event_codes": {
-      "18": 3,
-      "19": 2,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "888338",
-      "you",
-      "are",
-      "playing",
-      "hopeless",
-      "war",
-      "game",
-      "china",
-      "crushes",
-      "taiwan",
-      "ambitions",
-      "reunification",
-      "inevitable"
+      "federal",
+      "judge",
+      "awards",
+      "314",
+      "million",
+      "three",
+      "americans",
+      "allegedly",
+      "tortured",
+      "venezuela",
+      "maduro",
+      "regime",
+      "598228"
     ]
   }
 }
