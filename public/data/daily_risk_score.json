@@ -1,91 +1,113 @@
 {
   "IRN": {
-    "risk_score": 10.22,
-    "count": 12,
-    "top_news": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://lasvegassun.com/news/2026/jul/14/us-reimposes-blockade-and-steps-up-strikes-as-iran/",
     "event_codes": {
-      "19": 8,
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "opinions",
-      "2026",
-      "iraqs",
-      "prime",
-      "minister",
-      "carries",
-      "the",
-      "title",
-      "but",
-      "not",
-      "the",
-      "power"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "opinions",
-      "2026",
-      "iraqs",
-      "prime",
-      "minister",
-      "carries",
-      "the",
-      "title",
-      "but",
-      "not",
-      "the",
-      "power"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.forbes.com/sites/saradorn/2026/07/15/hegseth-announces-testosterone-deficiency-screening-for-soldiers-30-and-over/",
-    "event_codes": {
-      "14": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "sites",
-      "saradorn",
-      "2026",
-      "hegseth",
-      "announces",
-      "testosterone",
-      "deficiency",
-      "screening",
-      "for",
-      "soldiers",
-      "and",
-      "over"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran",
-    "event_codes": {
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "news",
       "2026",
-      "mapping",
-      "the",
-      "latest",
+      "jul",
+      "reimposes",
+      "blockade",
+      "and",
+      "steps",
       "strikes",
-      "across",
       "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.6,
+    "count": 3,
+    "top_news": "https://www.thejc.com/news/world/whoevers-king-of-this-castle-can-decide-the-future-of-israel-and-lebanon-jyr4o6s3",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "whoevers",
+      "king",
+      "this",
+      "castle",
+      "can",
+      "decide",
+      "the",
+      "future",
+      "israel",
+      "and",
+      "lebanon",
+      "jyr4o6s3"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.52,
+    "count": 18,
+    "top_news": "https://www.vanguardngr.com/2026/07/senate-urges-security-chiefs-to-deploy-troops-to-benue-communities-after-fresh-attacks/",
+    "event_codes": {
+      "17": 9,
+      "18": 7,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "senate",
+      "urges",
+      "security",
+      "chiefs",
+      "deploy",
+      "troops",
+      "benue",
+      "communities",
+      "after",
+      "fresh",
+      "attacks"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://lamag.com/news-and-politics/ca-rep-slams-former-white-house-counsel-kathryn-ruemmler-in-epstein-probe/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "and",
+      "politics",
+      "rep",
+      "slams",
+      "former",
+      "white",
+      "house",
+      "counsel",
+      "kathryn",
+      "ruemmler",
+      "epstein",
+      "probe"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.25,
+    "count": 3,
+    "top_news": "https://www.washingtonblade.com/2026/07/15/advocacy-groups-join-venezuela-earthquake-relief-efforts/",
+    "event_codes": {
+      "14": 3
+    },
+    "keywords": [
+      "2026",
+      "advocacy",
+      "groups",
+      "join",
+      "venezuela",
+      "earthquake",
+      "relief",
+      "efforts"
     ]
   }
 }
