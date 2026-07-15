@@ -1,53 +1,124 @@
 {
-  "IRN": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/15/us-hits-missile-launch-sites-on-iranian-occupied-greater-tunb-island/",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://600kcol.iheart.com/content/2026-07-15-us-launches-second-wave-of-strikes-on-iran-resumes-naval-blockade/",
     "event_codes": {
-      "19": 10,
+      "19": 2
+    },
+    "keywords": [
+      "content",
+      "2026",
+      "launches",
+      "second",
+      "wave",
+      "strikes",
+      "iran",
+      "resumes",
+      "naval",
+      "blockade"
+    ]
+  },
+  "IRN": {
+    "risk_score": 29.8,
+    "count": 30,
+    "top_news": "https://www.maitlandmercury.com.au/story/9311609/us-launches-strikes-as-iran-warns-of-existential-war/",
+    "event_codes": {
+      "19": 29,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "9311609",
+      "launches",
+      "strikes",
+      "iran",
+      "warns",
+      "existential",
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.24,
+    "count": 16,
+    "top_news": "https://vtdigger.org/2026/07/15/judge-rejects-bid-for-new-lawyer-by-burlington-man-accused-of-shooting-three-palestinian-students/",
+    "event_codes": {
+      "19": 7,
+      "16": 4,
+      "17": 4,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "judge",
+      "rejects",
+      "bid",
+      "for",
+      "new",
+      "lawyer",
+      "burlington",
+      "man",
+      "accused",
+      "shooting",
+      "three",
+      "palestinian",
+      "students"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.56,
+    "count": 4,
+    "top_news": "https://norfolkdailynews.com/news/national/news_national/us-reimposes-blockade-steps-up-strikes-as-iran-threatens-to-halt-energy-exports/article_757549f0-1a5b-4054-8e3d-2f27ccd26a5d.html",
+    "event_codes": {
+      "19": 3,
       "16": 1
     },
     "keywords": [
       "news",
-      "mena",
-      "2026",
-      "hits",
-      "missile",
-      "launch",
-      "sites",
-      "iranian",
-      "occupied",
-      "greater",
-      "tunb",
-      "island"
+      "national",
+      "news",
+      "national",
+      "reimposes",
+      "blockade",
+      "steps",
+      "strikes",
+      "iran",
+      "threatens",
+      "halt",
+      "energy",
+      "exports",
+      "article",
+      "757549f0",
+      "1a5b",
+      "4054",
+      "8e3d",
+      "2f27ccd26a5d.html"
     ]
   },
-  "ISR": {
-    "risk_score": 7.5,
-    "count": 10,
-    "top_news": "https://attackofthefanboy.com/politics/new-allegations-from-a-gaza-flotilla-activist-are-putting-israeli-detention-practices-under-fresh-scrutiny/",
+  "THA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "http://www.japanherald.com/news/279189666/human-rights-watch-urges-thailand-to-stand-against-chinese-pressure-to-deport-dissidents-despite-refugee-status",
     "event_codes": {
-      "17": 4,
-      "18": 3,
-      "19": 2,
-      "16": 1
+      "17": 6
     },
     "keywords": [
-      "politics",
-      "new",
-      "allegations",
-      "from",
-      "gaza",
-      "flotilla",
-      "activist",
-      "are",
-      "putting",
-      "israeli",
-      "detention",
-      "practices",
-      "under",
-      "fresh",
-      "scrutiny"
+      "news",
+      "279189666",
+      "human",
+      "rights",
+      "watch",
+      "urges",
+      "thailand",
+      "stand",
+      "against",
+      "chinese",
+      "pressure",
+      "deport",
+      "dissidents",
+      "despite",
+      "refugee",
+      "status"
     ]
   }
 }
