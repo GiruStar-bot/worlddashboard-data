@@ -1,136 +1,201 @@
 {
   "ARE": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.yoursourceone.com/news/national_news/more-than-30-people-killed-in-u-s-airstrikes-targeting-iran-in-recent-days-iranian/article_9ab2f4a5-04eb-54a0-be04-8cd1916938fe.html",
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.samaa.tv/2087353578-trump-reimposes-iran-blockade-threatens-strikes-on-power-plants",
     "event_codes": {
-      "17": 3,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2087353578",
+      "trump",
+      "reimposes",
+      "iran",
+      "blockade",
+      "threatens",
+      "strikes",
+      "power",
+      "plants"
+    ]
+  },
+  "BRA": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "http://www.thegazette.com/news/world/united-by-grief-mothers-in-brazil-demand-reparations-after-police-killed-their-sons/article_cfc33eb1-c7b7-58ad-9cfa-dcd4454d5051.html",
+    "event_codes": {
+      "17": 4,
       "19": 1
     },
     "keywords": [
       "news",
-      "national",
-      "news",
-      "more",
-      "than",
-      "people",
+      "world",
+      "united",
+      "grief",
+      "mothers",
+      "brazil",
+      "demand",
+      "reparations",
+      "after",
+      "police",
       "killed",
-      "airstrikes",
-      "targeting",
-      "iran",
-      "recent",
-      "days",
-      "iranian",
+      "their",
+      "sons",
       "article",
-      "9ab2f4a5",
-      "04eb",
-      "54a0",
-      "be04",
-      "8cd1916938fe.html"
+      "cfc33eb1",
+      "c7b7",
+      "58ad",
+      "9cfa",
+      "dcd4454d5051.html"
     ]
   },
-  "IRN": {
-    "risk_score": 11.2,
-    "count": 12,
-    "top_news": "https://en.philenews.com/international/indian-seafarer-dead-gfs-galaxy-attack-oman/",
+  "EGY": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-15978531/Vulnerable-woman-gang-raped-trio-small-boat-migrants-Brighton-beach-describes-unbearable-impact-life.html",
     "event_codes": {
-      "19": 9,
-      "14": 3
-    },
-    "keywords": [
-      "international",
-      "indian",
-      "seafarer",
-      "dead",
-      "gfs",
-      "galaxy",
-      "attack",
-      "oman"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "http://www.australianherald.com/news/279186170/australians-brace-for-higher-fuel-prices-as-us-iran-conflict-resumes-again",
-    "event_codes": {
-      "17": 1,
+      "17": 2,
       "18": 1,
       "19": 1
     },
     "keywords": [
       "news",
-      "279186170",
-      "australians",
-      "brace",
-      "for",
-      "higher",
-      "fuel",
-      "prices",
+      "article",
+      "15978531",
+      "vulnerable",
+      "woman",
+      "gang",
+      "raped",
+      "trio",
+      "small",
+      "boat",
+      "migrants",
+      "brighton",
+      "beach",
+      "describes",
+      "unbearable",
+      "impact",
+      "life.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 31.65,
+    "count": 35,
+    "top_news": "https://www.rnz.co.nz/news/world/723638/iran-threatens-to-block-more-vital-seaways-as-trump-orders-renewed-iran-blockade",
+    "event_codes": {
+      "19": 24,
+      "17": 5,
+      "18": 4,
+      "14": 1,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "723638",
       "iran",
-      "conflict",
-      "resumes",
-      "again"
+      "threatens",
+      "block",
+      "more",
+      "vital",
+      "seaways",
+      "trump",
+      "orders",
+      "renewed",
+      "iran",
+      "blockade"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.9,
+    "count": 14,
+    "top_news": "https://www.jpost.com/middle-east/article-902569",
+    "event_codes": {
+      "19": 5,
+      "16": 4,
+      "17": 2,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "902569"
     ]
   },
   "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://indianexpress.com/article/world/iran-missile-drone-attacks-us-bases-jordan-bahrain-qatar-strait-of-hormuz-blockade-10787442/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.samaa.tv/2087353586-tehran-hits-us-bases-across-gulf-as-us-kills-iran-soldiers-civilians",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "world",
-      "iran",
-      "missile",
-      "drone",
-      "attacks",
-      "bases",
-      "jordan",
-      "bahrain",
-      "qatar",
-      "strait",
-      "hormuz",
-      "blockade",
-      "10787442"
-    ]
-  },
-  "MLI": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.irishtimes.com/world/2026/07/15/why-are-the-us-russia-and-african-union-beating-a-path-to-malis-door/",
-    "event_codes": {
-      "17": 3,
       "19": 3
     },
     "keywords": [
-      "world",
-      "2026",
-      "why",
-      "are",
-      "the",
-      "russia",
-      "and",
-      "african",
-      "union",
-      "beating",
-      "path",
-      "malis",
-      "door"
+      "2087353586",
+      "tehran",
+      "hits",
+      "bases",
+      "across",
+      "gulf",
+      "kills",
+      "iran",
+      "soldiers",
+      "civilians"
     ]
   },
-  "SDN": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://allafrica.com/stories/202607150031.html",
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.jpost.com/middle-east/article-902569",
     "event_codes": {
-      "19": 6,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "902569"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.1,
+    "count": 11,
+    "top_news": "https://punchng.com/why-oyo-kidnap-rescue-tactics-cant-always-work-in-north-ex-dss-adg/",
+    "event_codes": {
+      "18": 9,
       "17": 2
     },
     "keywords": [
-      "stories",
-      "202607150031.html"
+      "why",
+      "oyo",
+      "kidnap",
+      "rescue",
+      "tactics",
+      "cant",
+      "always",
+      "work",
+      "north",
+      "dss",
+      "adg"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.mirror.co.uk/news/us-news/british-man-shot-dead-us-37432654",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "news",
+      "british",
+      "man",
+      "shot",
+      "dead",
+      "37432654"
     ]
   }
 }
