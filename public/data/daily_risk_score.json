@@ -1,53 +1,56 @@
 {
   "IRN": {
-    "risk_score": 3.75,
-    "count": 5,
-    "top_news": "https://www.ealingtimes.co.uk/news/national/26280819.us-restores-blockade-strait-hormuz-iran-attacks-gulf-nations/",
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "http://www.idahopress.com/news/world/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/article_e70bf132-bf01-5b4c-897b-77184a0289e4.html",
     "event_codes": {
       "19": 3,
-      "16": 2
+      "16": 1
     },
     "keywords": [
       "news",
-      "national",
-      "26280819.us",
-      "restores",
+      "world",
+      "tehran",
+      "threatens",
+      "halt",
+      "all",
+      "mideast",
+      "energy",
+      "exports",
+      "after",
+      "reimposes",
+      "its",
       "blockade",
-      "strait",
-      "hormuz",
       "iran",
-      "attacks",
-      "gulf",
-      "nations"
+      "article",
+      "e70bf132",
+      "bf01",
+      "5b4c",
+      "897b",
+      "77184a0289e4.html"
     ]
   },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.nhgazette.com/2026/07/15/wed-july-15-2/",
+  "NGA": {
+    "risk_score": 20.45,
+    "count": 34,
+    "top_news": "https://tribuneonlineng.com/tinubus-government-is-popular-for-wrong-reasons-ex-kwara-dep-speaker/",
     "event_codes": {
-      "19": 3,
-      "20": 2
+      "17": 23,
+      "15": 5,
+      "18": 3,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "wed",
-      "july"
-    ]
-  },
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://en.ce.cn/main/latest/202607/t20260715_3088210.shtml",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "main",
-      "latest",
-      "202607",
-      "t20260715",
-      "3088210.shtml"
+      "tinubus",
+      "government",
+      "popular",
+      "for",
+      "wrong",
+      "reasons",
+      "kwara",
+      "dep",
+      "speaker"
     ]
   }
 }
