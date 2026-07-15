@@ -1,88 +1,91 @@
 {
   "IRN": {
-    "risk_score": 25.8,
-    "count": 27,
-    "top_news": "https://www.helsinkitimes.fi/world-int/29053-us-restores-iran-blockade-after-truce-collapses.html",
+    "risk_score": 10.22,
+    "count": 12,
+    "top_news": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power",
     "event_codes": {
-      "19": 23,
-      "17": 2,
-      "18": 2
+      "19": 8,
+      "17": 3,
+      "15": 1
     },
     "keywords": [
-      "world",
-      "int",
-      "29053",
-      "restores",
-      "iran",
-      "blockade",
-      "after",
-      "truce",
-      "collapses.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 7,
-    "top_news": "https://dailypost.ng/2026/07/15/kogi-school-abduction-bandits-have-taken-over-nigerian-schools-atiku/",
-    "event_codes": {
-      "17": 5,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
+      "opinions",
       "2026",
-      "kogi",
-      "school",
-      "abduction",
-      "bandits",
-      "have",
-      "taken",
-      "over",
-      "nigerian",
-      "schools",
-      "atiku"
+      "iraqs",
+      "prime",
+      "minister",
+      "carries",
+      "the",
+      "title",
+      "but",
+      "not",
+      "the",
+      "power"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.albawaba.com/news/35-killed-over-300-injured-us-strikes-1633067",
+  "IRQ": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power",
     "event_codes": {
-      "17": 2,
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "news",
-      "killed",
-      "over",
-      "300",
-      "injured",
-      "strikes",
-      "1633067"
+      "opinions",
+      "2026",
+      "iraqs",
+      "prime",
+      "minister",
+      "carries",
+      "the",
+      "title",
+      "but",
+      "not",
+      "the",
+      "power"
     ]
   },
-  "ZWE": {
-    "risk_score": 3.04,
+  "TUR": {
+    "risk_score": 3.2,
     "count": 4,
-    "top_news": "https://nehandaradio.com/2026/07/15/madhuku-says-police-deployed-50-officers-to-block-nca-meeting-over-cab3-campaign/",
+    "top_news": "https://www.forbes.com/sites/saradorn/2026/07/15/hegseth-announces-testosterone-deficiency-screening-for-soldiers-30-and-over/",
     "event_codes": {
-      "15": 2,
-      "16": 1,
-      "18": 1
+      "14": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
+      "sites",
+      "saradorn",
       "2026",
-      "madhuku",
-      "says",
-      "police",
-      "deployed",
-      "officers",
-      "block",
-      "nca",
-      "meeting",
-      "over",
-      "cab3",
-      "campaign"
+      "hegseth",
+      "announces",
+      "testosterone",
+      "deficiency",
+      "screening",
+      "for",
+      "soldiers",
+      "and",
+      "over"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "mapping",
+      "the",
+      "latest",
+      "strikes",
+      "across",
+      "iran"
     ]
   }
 }
