@@ -1,41 +1,135 @@
 {
   "IRN": {
-    "risk_score": 10.4,
-    "count": 13,
-    "top_news": "https://metro.co.uk/2026/07/16/trump-tells-iran-behave-launching-new-strikes-29150048/",
+    "risk_score": 7.0,
+    "count": 9,
+    "top_news": "https://cbn.com/news/israel/trump-says-iran-defeat-coming-soon-vance-appears-nix-large-us-ground-operation",
     "event_codes": {
-      "19": 7,
       "17": 4,
-      "14": 1,
-      "16": 1
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "2026",
+      "news",
+      "israel",
       "trump",
-      "tells",
+      "says",
       "iran",
-      "behave",
-      "launching",
-      "new",
-      "strikes",
-      "29150048"
+      "defeat",
+      "coming",
+      "soon",
+      "vance",
+      "appears",
+      "nix",
+      "large",
+      "ground",
+      "operation"
     ]
   },
   "ISR": {
-    "risk_score": 6.96,
-    "count": 8,
-    "top_news": "https://www.wsws.org/en/articles/2026/07/16/ecyu-j16.html",
+    "risk_score": 8.04,
+    "count": 10,
+    "top_news": "https://cbn.com/news/israel/trump-says-iran-defeat-coming-soon-vance-appears-nix-large-us-ground-operation",
     "event_codes": {
-      "19": 4,
-      "18": 2,
-      "16": 1,
-      "17": 1
+      "19": 5,
+      "16": 3,
+      "17": 2
     },
     "keywords": [
-      "articles",
+      "news",
+      "israel",
+      "trump",
+      "says",
+      "iran",
+      "defeat",
+      "coming",
+      "soon",
+      "vance",
+      "appears",
+      "nix",
+      "large",
+      "ground",
+      "operation"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.44,
+    "count": 4,
+    "top_news": "https://www.dw.com/en/iran-threatens-regional-strikes-as-us-intensifies-attacks/live-77976690",
+    "event_codes": {
+      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "iran",
+      "threatens",
+      "regional",
+      "strikes",
+      "intensifies",
+      "attacks",
+      "live",
+      "77976690"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2651120/middle-east",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "node",
+      "2651120",
+      "middle",
+      "east"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/07/16/angler-who-fell-into-sea-near-penang-bridge-found-dead",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "nation",
       "2026",
-      "ecyu",
-      "j16.html"
+      "angler",
+      "who",
+      "fell",
+      "into",
+      "sea",
+      "near",
+      "penang",
+      "bridge",
+      "found",
+      "dead"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://radiofreesyria.com/everyone-who-had-a-hand-in-this-must-be-held-accountable-syrias-victims-seek-more-than-compensation/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "everyone",
+      "who",
+      "had",
+      "hand",
+      "this",
+      "must",
+      "held",
+      "accountable",
+      "syrias",
+      "victims",
+      "seek",
+      "more",
+      "than",
+      "compensation"
     ]
   }
 }
