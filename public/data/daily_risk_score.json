@@ -1,151 +1,137 @@
 {
-  "BRA": {
+  "IRN": {
+    "risk_score": 4.22,
+    "count": 5,
+    "top_news": "http://www.cecildaily.com/ap/nation/what-remains-of-the-iran-deal-as-fighting-rages/article_5577bbd3-6f0d-5a94-8dde-0e3731cacfac.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "nation",
+      "what",
+      "remains",
+      "the",
+      "iran",
+      "deal",
+      "fighting",
+      "rages",
+      "article",
+      "5577bbd3",
+      "6f0d",
+      "5a94",
+      "8dde",
+      "0e3731cacfac.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.15,
+    "count": 19,
+    "top_news": "https://www.middleeastmonitor.com/20260716-west-bank-israeli-settler-hits-palestinian-child-with-car-while-playing-in-hebron/",
+    "event_codes": {
+      "19": 7,
+      "17": 6,
+      "18": 6
+    },
+    "keywords": [
+      "20260716",
+      "west",
+      "bank",
+      "israeli",
+      "settler",
+      "hits",
+      "palestinian",
+      "child",
+      "with",
+      "car",
+      "while",
+      "playing",
+      "hebron"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.77,
+    "count": 4,
+    "top_news": "https://www.rte.ie/news/crime/2026/0716/1583712-jamey-carney-murder-investigation/",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "crime",
+      "2026",
+      "0716",
+      "1583712",
+      "jamey",
+      "carney",
+      "murder",
+      "investigation"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.55,
+    "count": 14,
+    "top_news": "https://hallmarknews.com/appeal-court-restores-inecs-2027-election-guidelines-overturns-federal-high-court-ruling/",
+    "event_codes": {
+      "16": 6,
+      "19": 4,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "appeal",
+      "court",
+      "restores",
+      "inecs",
+      "2027",
+      "election",
+      "guidelines",
+      "overturns",
+      "federal",
+      "high",
+      "court",
+      "ruling"
+    ]
+  },
+  "PSE": {
+    "risk_score": 11.11,
+    "count": 13,
+    "top_news": "https://imemc.org/article/west-bank-invasions-leave-child-injured-dozens-abducted/",
+    "event_codes": {
+      "17": 5,
+      "18": 5,
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "west",
+      "bank",
+      "invasions",
+      "leave",
+      "child",
+      "injured",
+      "dozens",
+      "abducted"
+    ]
+  },
+  "SOM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.standardmedia.co.ke/business/article/2001552980/us-unveils-new-25-per-cent-tariff-on-certain-imports-from-brazil",
+    "top_news": "https://indiacurrents.com/measles-makes-a-comeback-in-the-us-amid-falling-vaccination-rates/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "business",
-      "article",
-      "2001552980",
-      "unveils",
-      "new",
-      "per",
-      "cent",
-      "tariff",
-      "certain",
-      "imports",
-      "from",
-      "brazil"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.hindustantimes.com/world-news/as-conflict-with-us-war-escalates-iran-ropes-in-houthis-to-block-red-sea-gateway-bab-al-mandab-hormuz-strait-trump-101784211306892.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "world",
-      "news",
-      "conflict",
-      "with",
-      "war",
-      "escalates",
-      "iran",
-      "ropes",
-      "houthis",
-      "block",
-      "red",
-      "sea",
-      "gateway",
-      "bab",
-      "mandab",
-      "hormuz",
-      "strait",
-      "trump",
-      "101784211306892.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.5,
-    "count": 13,
-    "top_news": "https://afr.net/podcasts/jenna-ellis-in-the-morning/2026/july/lt-gov-micah-beckwith-on-christianity-and-government/",
-    "event_codes": {
-      "19": 12,
-      "17": 1
-    },
-    "keywords": [
-      "podcasts",
-      "jenna",
-      "ellis",
+      "measles",
+      "makes",
+      "comeback",
       "the",
-      "morning",
-      "2026",
-      "july",
-      "gov",
-      "micah",
-      "beckwith",
-      "christianity",
-      "and",
-      "government"
-    ]
-  },
-  "MMR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://tradearabia.com:443/News/465247/Strong-Middle-East-presence-at-global-fire-safety-summit",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "465247",
-      "strong",
-      "middle",
-      "east",
-      "presence",
-      "global",
-      "fire",
-      "safety",
-      "summit"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/icc-deputy-prosecutor-investigations-into-el-geneina-and-el-fasher-in-darfur-have-made-progress",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "all",
-      "news",
-      "article",
-      "icc",
-      "deputy",
-      "prosecutor",
-      "investigations",
-      "into",
-      "geneina",
-      "and",
-      "fasher",
-      "darfur",
-      "have",
-      "made",
-      "progress"
-    ]
-  },
-  "VNM": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.dailymail.com/news/article-15982073/Family-British-illegal-immigrant-shot-dead-US-70-000-construction-scam-brand-Vietnam-veteran-killer-scum.html",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "15982073",
-      "family",
-      "british",
-      "illegal",
-      "immigrant",
-      "shot",
-      "dead",
-      "000",
-      "construction",
-      "scam",
-      "brand",
-      "vietnam",
-      "veteran",
-      "killer",
-      "scum.html"
+      "amid",
+      "falling",
+      "vaccination",
+      "rates"
     ]
   }
 }
