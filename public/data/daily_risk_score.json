@@ -1,135 +1,186 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 9,
-    "top_news": "https://cbn.com/news/israel/trump-says-iran-defeat-coming-soon-vance-appears-nix-large-us-ground-operation",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.haaretz.com/middle-east-news/iran/2026-07-16/ty-article/.premium/trump-promised-to-open-hormuz-but-its-iran-thats-still-calling-the-shots/0000019f-6514-d80f-a59f-e557fd480000",
     "event_codes": {
-      "17": 4,
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "trump",
-      "says",
-      "iran",
-      "defeat",
-      "coming",
-      "soon",
-      "vance",
-      "appears",
-      "nix",
-      "large",
-      "ground",
-      "operation"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.04,
-    "count": 10,
-    "top_news": "https://cbn.com/news/israel/trump-says-iran-defeat-coming-soon-vance-appears-nix-large-us-ground-operation",
-    "event_codes": {
-      "19": 5,
-      "16": 3,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "trump",
-      "says",
-      "iran",
-      "defeat",
-      "coming",
-      "soon",
-      "vance",
-      "appears",
-      "nix",
-      "large",
-      "ground",
-      "operation"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.44,
-    "count": 4,
-    "top_news": "https://www.dw.com/en/iran-threatens-regional-strikes-as-us-intensifies-attacks/live-77976690",
-    "event_codes": {
-      "15": 2,
       "19": 2
     },
     "keywords": [
+      "middle",
+      "east",
+      "news",
       "iran",
-      "threatens",
-      "regional",
-      "strikes",
-      "intensifies",
-      "attacks",
-      "live",
-      "77976690"
+      "2026",
+      "article",
+      ".premium",
+      "trump",
+      "promised",
+      "open",
+      "hormuz",
+      "but",
+      "its",
+      "iran",
+      "thats",
+      "still",
+      "calling",
+      "the",
+      "shots",
+      "0000019f",
+      "6514",
+      "d80f",
+      "a59f",
+      "e557fd480000"
     ]
   },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2651120/middle-east",
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theepochtimes.com/world/trump-says-he-may-eliminate-irans-irgc-like-he-did-isis-6062599",
     "event_codes": {
-      "19": 5
+      "19": 3
     },
     "keywords": [
-      "node",
-      "2651120",
-      "middle",
-      "east"
+      "world",
+      "trump",
+      "says",
+      "may",
+      "eliminate",
+      "irans",
+      "irgc",
+      "like",
+      "did",
+      "isis",
+      "6062599"
     ]
   },
-  "MYS": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/07/16/angler-who-fell-into-sea-near-penang-bridge-found-dead",
+  "IRN": {
+    "risk_score": 6.8,
+    "count": 9,
+    "top_news": "https://www.qatar-tribune.com/article/244623/latest-news/india-tells-shipowners-not-to-deploy-indian-seafarers-on-hormuz-routes",
     "event_codes": {
-      "17": 3,
+      "19": 5,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "244623",
+      "latest",
+      "news",
+      "india",
+      "tells",
+      "shipowners",
+      "not",
+      "deploy",
+      "indian",
+      "seafarers",
+      "hormuz",
+      "routes"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.26,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/172676",
+    "event_codes": {
+      "18": 4,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172676"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theepochtimes.com/world/trump-says-he-may-eliminate-irans-irgc-like-he-did-isis-6062599",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "says",
+      "may",
+      "eliminate",
+      "irans",
+      "irgc",
+      "like",
+      "did",
+      "isis",
+      "6062599"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.6,
+    "count": 6,
+    "top_news": "https://english.wafa.ps/Pages/Details/172676",
+    "event_codes": {
+      "18": 4,
+      "19": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172676"
+    ]
+  },
+  "SGP": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.channelnewsasia.com/singapore/singaporean-arrested-bali-woman-found-dead-strangle-relationship-6258301",
+    "event_codes": {
+      "17": 4,
       "19": 1
     },
     "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "angler",
-      "who",
-      "fell",
-      "into",
-      "sea",
-      "near",
-      "penang",
-      "bridge",
+      "singapore",
+      "singaporean",
+      "arrested",
+      "bali",
+      "woman",
       "found",
-      "dead"
+      "dead",
+      "strangle",
+      "relationship",
+      "6258301"
     ]
   },
-  "SYR": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://radiofreesyria.com/everyone-who-had-a-hand-in-this-must-be-held-accountable-syrias-victims-seek-more-than-compensation/",
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://eng.chinamil.com.cn/2025xb/O_251451/16474057.html",
     "event_codes": {
-      "18": 3
+      "19": 2
     },
     "keywords": [
-      "everyone",
-      "who",
-      "had",
-      "hand",
-      "this",
-      "must",
-      "held",
-      "accountable",
-      "syrias",
-      "victims",
-      "seek",
-      "more",
-      "than",
-      "compensation"
+      "2025xb",
+      "251451",
+      "16474057.html"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://thezimbabwemail.com/news/world-world-3/zambias-former-vice-president-guy-scott-dies-at-82/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "world",
+      "zambias",
+      "former",
+      "vice",
+      "president",
+      "guy",
+      "scott",
+      "dies"
     ]
   }
 }
