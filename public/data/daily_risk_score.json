@@ -1,44 +1,98 @@
 {
-  "IRN": {
-    "risk_score": 20.2,
-    "count": 28,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/us-strikes-iran-again-as-tehran-warns-of-existential-war-with-america/articleshow/132427415.cms",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bakersfield.com/ap/national/ap-news-summary-at-11-53-p-m-edt/article_7dded0c0-bcf4-5ae2-ac2b-dcaac090acaf.html",
     "event_codes": {
-      "17": 13,
-      "19": 13,
-      "16": 2
+      "19": 2
+    },
+    "keywords": [
+      "national",
+      "news",
+      "summary",
+      "edt",
+      "article",
+      "7dded0c0",
+      "bcf4",
+      "5ae2",
+      "ac2b",
+      "dcaac090acaf.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.5,
+    "count": 19,
+    "top_news": "https://www.businesstimes.com.sg/international/global/us-launches-multiple-strikes-iran-teheran-targets-us-military-sites-gulf",
+    "event_codes": {
+      "17": 11,
+      "19": 8
+    },
+    "keywords": [
+      "international",
+      "global",
+      "launches",
+      "multiple",
+      "strikes",
+      "iran",
+      "teheran",
+      "targets",
+      "military",
+      "sites",
+      "gulf"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/byas11ibvzx",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "byas11ibvzx"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.1,
+    "count": 4,
+    "top_news": "https://economictimes.indiatimes.com/news/international/business/iran-overplaying-its-hand-on-hormuz-a-new-game-has-just-begun-in-west-asia-oil-scene/articleshow/132429266.cms",
+    "event_codes": {
+      "16": 3,
+      "19": 1
     },
     "keywords": [
       "news",
       "international",
-      "world",
-      "news",
-      "strikes",
+      "business",
       "iran",
-      "again",
-      "tehran",
-      "warns",
-      "existential",
-      "war",
-      "with",
-      "america",
+      "overplaying",
+      "its",
+      "hand",
+      "hormuz",
+      "new",
+      "game",
+      "has",
+      "just",
+      "begun",
+      "west",
+      "asia",
+      "oil",
+      "scene",
       "articleshow",
-      "132427415.cms"
+      "132429266.cms"
     ]
   },
-  "IRQ": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.rawstory.com/trump-left-terrorism/",
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/byas11ibvzx",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 2
+      "19": 4
     },
     "keywords": [
-      "trump",
-      "left",
-      "terrorism"
+      "article",
+      "byas11ibvzx"
     ]
   }
 }
