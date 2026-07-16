@@ -1,132 +1,114 @@
 {
-  "BHR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.heritagefl.com/story/2026/07/17/news/us-negotiations-with-iran-will-continue-trump-says/23663.html",
+  "COL": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.bangordailynews.com/2026/07/16/york/york-police-courts/biddeford-maine-ice-shooting-david-brouillette/",
     "event_codes": {
-      "19": 4
+      "19": 5
     },
     "keywords": [
-      "story",
       "2026",
-      "news",
-      "negotiations",
-      "with",
-      "iran",
-      "will",
-      "continue",
-      "trump",
-      "says",
-      "23663.html"
+      "york",
+      "york",
+      "police",
+      "courts",
+      "biddeford",
+      "maine",
+      "ice",
+      "shooting",
+      "david",
+      "brouillette"
     ]
   },
   "IRN": {
-    "risk_score": 14.85,
-    "count": 15,
-    "top_news": "https://www.stcatharinesstandard.ca/news/world/middle-east/jordan-says-it-shot-down-iranian-missiles/article_bf93ff33-4b61-5e75-bd33-33739892080f.html",
+    "risk_score": 4.35,
+    "count": 5,
+    "top_news": "https://nypost.com/2026/07/16/world-news/iran-hanging-more-and-more-political-prisoners-human-rights-group-warns/",
     "event_codes": {
-      "19": 15
+      "19": 2,
+      "14": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "iran",
+      "hanging",
+      "more",
+      "and",
+      "more",
+      "political",
+      "prisoners",
+      "human",
+      "rights",
+      "group",
+      "warns"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.02,
+    "count": 11,
+    "top_news": "https://aninews.in/news/world/middle-east/knesset-approves-largest-reform-of-israels-wounded-veterans-system-in-decades20260716235008/",
+    "event_codes": {
+      "18": 3,
+      "19": 3,
+      "14": 2,
+      "15": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
       "news",
       "world",
       "middle",
       "east",
-      "jordan",
-      "says",
-      "shot",
-      "down",
-      "iranian",
-      "missiles",
-      "article",
-      "bf93ff33",
-      "4b61",
-      "5e75",
-      "bd33",
-      "33739892080f.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 17.44,
-    "count": 19,
-    "top_news": "https://english.aawsat.com/arab-world/5296855-lebanese-army-steps-security-south-ahead-technical-talks-israel",
-    "event_codes": {
-      "19": 8,
-      "18": 6,
-      "14": 3,
-      "17": 2
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5296855",
-      "lebanese",
-      "army",
-      "steps",
-      "security",
-      "south",
-      "ahead",
-      "technical",
-      "talks",
-      "israel"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.heritagefl.com/story/2026/07/17/news/us-negotiations-with-iran-will-continue-trump-says/23663.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "story",
-      "2026",
-      "news",
-      "negotiations",
-      "with",
-      "iran",
-      "will",
-      "continue",
-      "trump",
-      "says",
-      "23663.html"
-    ]
-  },
-  "KEN": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.the-star.co.ke/news/2026-07-16-mck-condemns-assault-on-journalists-in-ol-kalou",
-    "event_codes": {
-      "18": 3,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "mck",
-      "condemns",
-      "assault",
-      "journalists",
-      "kalou"
+      "knesset",
+      "approves",
+      "largest",
+      "reform",
+      "israels",
+      "wounded",
+      "veterans",
+      "system",
+      "decades20260716235008"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.worthynews.com/116017-eu-parliament-condemns-persecution-of-christians-in-pakistan-nigeria-sudan",
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.interviewmagazine.com/film/misan-harriman-javier-bardem-shoot-the-people-andy-mundy-castle-photography-palestine",
     "event_codes": {
-      "19": 1,
-      "20": 1
+      "14": 2,
+      "19": 1
     },
     "keywords": [
-      "116017",
-      "parliament",
-      "condemns",
-      "persecution",
-      "christians",
-      "pakistan",
-      "nigeria",
-      "sudan"
+      "film",
+      "misan",
+      "harriman",
+      "javier",
+      "bardem",
+      "shoot",
+      "the",
+      "people",
+      "andy",
+      "mundy",
+      "castle",
+      "photography",
+      "palestine"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.npr.org/transcripts/nx-s1-5893438",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "transcripts",
+      "5893438"
     ]
   }
 }
