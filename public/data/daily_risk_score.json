@@ -1,57 +1,79 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://jewishpress.com/mamdani-commissioner-flouts-chain-of-command/",
+    "risk_score": 6.22,
+    "count": 9,
+    "top_news": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
     "event_codes": {
-      "19": 4
+      "17": 4,
+      "16": 3,
+      "19": 2
     },
     "keywords": [
-      "mamdani",
-      "commissioner",
-      "flouts",
-      "chain",
-      "command"
+      "2026",
+      "iran",
+      "war",
+      "oil",
+      "tanker",
+      "strait",
+      "hormuz",
+      "traffic",
+      "attacks",
+      "trump.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.19,
-    "count": 9,
-    "top_news": "https://jewishpress.com/the-new-synagogue-in-kissufim-with-the-old-torah-ark-from-gush-katif/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.antiwar.com/2026/07/17/us-strikes-civilian-infrastructure-in-iran/",
     "event_codes": {
-      "19": 5,
-      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "strikes",
+      "civilian",
+      "infrastructure",
+      "iran"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://townhall.com/tipsheet/dmitri-bolt/2026/07/17/the-us-military-is-striking-the-irgcs-supply-chain-n2679642",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "tipsheet",
+      "dmitri",
+      "bolt",
+      "2026",
+      "the",
+      "military",
+      "striking",
+      "the",
+      "irgcs",
+      "supply",
+      "chain",
+      "n2679642"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.1,
+    "count": 13,
+    "top_news": "https://www.nigerianeye.com/2026/07/terrorists-threatened-to-kill-me-church.html",
+    "event_codes": {
+      "17": 6,
+      "16": 3,
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "the",
-      "new",
-      "synagogue",
-      "kissufim",
-      "with",
-      "the",
-      "old",
-      "torah",
-      "ark",
-      "from",
-      "gush",
-      "katif"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.04,
-    "count": 4,
-    "top_news": "https://www.arabnews.com/node/2651313/middle-east",
-    "event_codes": {
-      "16": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "node",
-      "2651313",
-      "middle",
-      "east"
+      "2026",
+      "terrorists",
+      "threatened",
+      "kill",
+      "church.html"
     ]
   }
 }
