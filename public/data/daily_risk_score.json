@@ -1,74 +1,88 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://fox11online.com/news/nation-world/us-launches-sixth-straight-night-of-iran-tehran-strikes-targets-bridges-and-infrastructure-central-command-strait-of-hormuz-control-gulf-of-oman-tower-collapse-retaliation-qatar-kuwait-bahrain",
+  "ARE": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.qatar-tribune.com/article/244774/latest-news/bahrain-uae-condemn-renewed-iranian-attacks-on-countries-in-the-region",
     "event_codes": {
-      "19": 7
+      "19": 11
     },
     "keywords": [
+      "article",
+      "244774",
+      "latest",
       "news",
-      "nation",
-      "world",
-      "launches",
-      "sixth",
-      "straight",
-      "night",
-      "iran",
-      "tehran",
-      "strikes",
-      "targets",
-      "bridges",
-      "and",
-      "infrastructure",
-      "central",
-      "command",
-      "strait",
-      "hormuz",
-      "control",
-      "gulf",
-      "oman",
-      "tower",
-      "collapse",
-      "retaliation",
-      "qatar",
-      "kuwait",
-      "bahrain"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://globemagazine.com/there-were-3-major-airplane-crashes-on-this-day-in-history-revisiting-the-july-17-tragedies/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "there",
-      "were",
-      "major",
-      "airplane",
-      "crashes",
-      "this",
-      "day",
-      "history",
-      "revisiting",
+      "bahrain",
+      "uae",
+      "condemn",
+      "renewed",
+      "iranian",
+      "attacks",
+      "countries",
       "the",
-      "july",
-      "tragedies"
+      "region"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260717/ad17965e1fbc4b6bba3c971f046e897d/c.html",
+  "IRN": {
+    "risk_score": 7.5,
+    "count": 8,
+    "top_news": "https://pakobserver.net/iran-claims-us-f-35-f-16-jets-destroyed-in-strikes-on-jordans-salti-air-base/",
     "event_codes": {
-      "19": 2
+      "19": 7,
+      "17": 1
     },
     "keywords": [
-      "20260717",
-      "ad17965e1fbc4b6bba3c971f046e897d",
-      "c.html"
+      "iran",
+      "claims",
+      "jets",
+      "destroyed",
+      "strikes",
+      "jordans",
+      "salti",
+      "air",
+      "base"
+    ]
+  },
+  "ISR": {
+    "risk_score": 35.3,
+    "count": 38,
+    "top_news": "https://imemc.org/article/israeli-army-colonizers-escalate-attacks-across-west-bank/",
+    "event_codes": {
+      "19": 19,
+      "18": 11,
+      "17": 6,
+      "16": 2
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "colonizers",
+      "escalate",
+      "attacks",
+      "across",
+      "west",
+      "bank"
+    ]
+  },
+  "PSE": {
+    "risk_score": 14.27,
+    "count": 15,
+    "top_news": "https://imemc.org/article/israeli-army-colonizers-escalate-attacks-across-west-bank/",
+    "event_codes": {
+      "18": 7,
+      "19": 7,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "colonizers",
+      "escalate",
+      "attacks",
+      "across",
+      "west",
+      "bank"
     ]
   }
 }
