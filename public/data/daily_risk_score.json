@@ -1,290 +1,74 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.dailymail.com/news/article-15984989/kart-racer-accused-stabbing-Airbnb-host-death-denies-murder.html",
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://fox11online.com/news/nation-world/us-launches-sixth-straight-night-of-iran-tehran-strikes-targets-bridges-and-infrastructure-central-command-strait-of-hormuz-control-gulf-of-oman-tower-collapse-retaliation-qatar-kuwait-bahrain",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 7
     },
     "keywords": [
       "news",
-      "article",
-      "15984989",
-      "kart",
-      "racer",
-      "accused",
-      "stabbing",
-      "airbnb",
-      "host",
-      "death",
-      "denies",
-      "murder.html"
+      "nation",
+      "world",
+      "launches",
+      "sixth",
+      "straight",
+      "night",
+      "iran",
+      "tehran",
+      "strikes",
+      "targets",
+      "bridges",
+      "and",
+      "infrastructure",
+      "central",
+      "command",
+      "strait",
+      "hormuz",
+      "control",
+      "gulf",
+      "oman",
+      "tower",
+      "collapse",
+      "retaliation",
+      "qatar",
+      "kuwait",
+      "bahrain"
     ]
   },
-  "BHR": {
+  "MYS": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/279193857/1st-ld-writethru-iran-irgc-claims-surprise-attack-on-us-base-in-qatar-jordan-bahrain-say-intercepted-iranian-aerial-attacks",
+    "top_news": "https://globemagazine.com/there-were-3-major-airplane-crashes-on-this-day-in-history-revisiting-the-july-17-tragedies/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "279193857",
-      "1st",
-      "writethru",
-      "iran",
-      "irgc",
-      "claims",
-      "surprise",
-      "attack",
-      "base",
-      "qatar",
-      "jordan",
-      "bahrain",
-      "say",
-      "intercepted",
-      "iranian",
-      "aerial",
-      "attacks"
-    ]
-  },
-  "COL": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newsweek.com/man-killed-florida-ice-encounter-named-12199894",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "man",
-      "killed",
-      "florida",
-      "ice",
-      "encounter",
-      "named",
-      "12199894"
-    ]
-  },
-  "IDN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://en.antaranews.com/news/423085/police-raids-north-jakarta-home-based-drug-factory-singaporean-nabbed",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "423085",
-      "police",
-      "raids",
-      "north",
-      "jakarta",
-      "home",
-      "based",
-      "drug",
-      "factory",
-      "singaporean",
-      "nabbed"
-    ]
-  },
-  "IRN": {
-    "risk_score": 28.25,
-    "count": 29,
-    "top_news": "https://www.newsweek.com/us-strikes-hit-bridges-near-hormuz-as-iran-responds-with-new-attacks-12208714",
-    "event_codes": {
-      "19": 24,
-      "18": 4,
-      "14": 1
-    },
-    "keywords": [
-      "strikes",
-      "hit",
-      "bridges",
-      "near",
-      "hormuz",
-      "iran",
-      "responds",
-      "with",
-      "new",
-      "attacks",
-      "12208714"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newsweek.com/us-strikes-hit-bridges-near-hormuz-as-iran-responds-with-new-attacks-12208714",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "strikes",
-      "hit",
-      "bridges",
-      "near",
-      "hormuz",
-      "iran",
-      "responds",
-      "with",
-      "new",
-      "attacks",
-      "12208714"
-    ]
-  },
-  "ISR": {
-    "risk_score": 35.9,
-    "count": 37,
-    "top_news": "https://countercurrents.org/2026/07/1108-killed-under-a-ceasefire-israel-makes-daily-killing-gazas-new-status-quo/",
-    "event_codes": {
-      "19": 29,
-      "18": 7,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "1108",
-      "killed",
-      "under",
-      "ceasefire",
-      "israel",
-      "makes",
-      "daily",
-      "killing",
-      "gazas",
-      "new",
-      "status",
-      "quo"
-    ]
-  },
-  "JOR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://aa.com.tr/en/us-israel-iran-war/jordan-rejects-iranian-attacks-denies-hosting-us-military-bases/4001280",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "israel",
-      "iran",
-      "war",
-      "jordan",
-      "rejects",
-      "iranian",
-      "attacks",
-      "denies",
-      "hosting",
-      "military",
-      "bases",
-      "4001280"
-    ]
-  },
-  "MLI": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "http://www.bignewsnetwork.com/news/279193880/kiev-using-africa-as-second-front-against-russia-deputy-fm",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "279193880",
-      "kiev",
-      "using",
-      "africa",
-      "second",
-      "front",
-      "against",
-      "russia",
-      "deputy"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-strikes-kill-3-palestinians-in-gaza-despite-ceasefire/4001148",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "strikes",
-      "kill",
-      "palestinians",
-      "gaza",
-      "despite",
-      "ceasefire",
-      "4001148"
-    ]
-  },
-  "SDN": {
-    "risk_score": 6.34,
-    "count": 7,
-    "top_news": "http://www.bignewsnetwork.com/news/279193880/kiev-using-africa-as-second-front-against-russia-deputy-fm",
-    "event_codes": {
-      "19": 4,
-      "15": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "279193880",
-      "kiev",
-      "using",
-      "africa",
-      "second",
-      "front",
-      "against",
-      "russia",
-      "deputy"
-    ]
-  },
-  "SGP": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://en.antaranews.com/news/423085/police-raids-north-jakarta-home-based-drug-factory-singaporean-nabbed",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "423085",
-      "police",
-      "raids",
-      "north",
-      "jakarta",
-      "home",
-      "based",
-      "drug",
-      "factory",
-      "singaporean",
-      "nabbed"
+      "there",
+      "were",
+      "major",
+      "airplane",
+      "crashes",
+      "this",
+      "day",
+      "history",
+      "revisiting",
+      "the",
+      "july",
+      "tragedies"
     ]
   },
   "SYR": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.newsweek.com/us-strikes-hit-bridges-near-hormuz-as-iran-responds-with-new-attacks-12208714",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/20260717/ad17965e1fbc4b6bba3c971f046e897d/c.html",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 2
     },
     "keywords": [
-      "strikes",
-      "hit",
-      "bridges",
-      "near",
-      "hormuz",
-      "iran",
-      "responds",
-      "with",
-      "new",
-      "attacks",
-      "12208714"
+      "20260717",
+      "ad17965e1fbc4b6bba3c971f046e897d",
+      "c.html"
     ]
   }
 }
