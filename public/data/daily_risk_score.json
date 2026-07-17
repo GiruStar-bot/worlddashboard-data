@@ -1,64 +1,102 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.columbian.com/news/2026/jul/17/u-s-strikes-bridges-in-iran-which-targets-a-water-desalination-plant-in-kuwait/",
+  "IRN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://kashmirreader.com/2026/07/18/us-strikes-iran-for-sixth-straight-night-as-tehran-retaliates-against-us-allies/",
     "event_codes": {
-      "19": 3
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "strikes",
+      "iran",
+      "for",
+      "sixth",
+      "straight",
+      "night",
+      "tehran",
+      "retaliates",
+      "against",
+      "allies"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.25,
+    "count": 6,
+    "top_news": "https://www.israelnationalnews.com/news/430345",
+    "event_codes": {
+      "19": 5,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "jul",
-      "strikes",
-      "bridges",
-      "iran",
-      "which",
-      "targets",
-      "water",
-      "desalination",
-      "plant",
-      "kuwait"
+      "430345"
     ]
   },
-  "IRN": {
-    "risk_score": 21.31,
-    "count": 25,
-    "top_news": "https://www.yahoo.com/news/world/articles/escalation-fears-mount-as-us-hits-bridges-and-iran-strikes-desalination-plant-150747882.html",
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://collider.com/netflix-crime-thriller-the-bombing-of-pan-am-103-true-story/",
     "event_codes": {
-      "19": 16,
-      "16": 6,
-      "17": 2,
-      "20": 1
+      "19": 2
+    },
+    "keywords": [
+      "netflix",
+      "crime",
+      "thriller",
+      "the",
+      "bombing",
+      "pan",
+      "103",
+      "true",
+      "story"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.modernghana.com/news/1511593/nigerian-court-dismisses-suit-challenging-shells.html",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "news",
+      "1511593",
+      "nigerian",
+      "court",
+      "dismisses",
+      "suit",
+      "challenging",
+      "shells.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.thegazette.com/news/world/us-and-iran-escalate-strikes-across-mideast-bridges-and-a-water-plant-hit/article_80548e14-5a44-55cd-9d17-66e8db166f3a.html",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
       "world",
-      "articles",
-      "escalation",
-      "fears",
-      "mount",
-      "hits",
-      "bridges",
       "and",
       "iran",
+      "escalate",
       "strikes",
-      "desalination",
+      "across",
+      "mideast",
+      "bridges",
+      "and",
+      "water",
       "plant",
-      "150747882.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/bjtwocd4mx",
-    "event_codes": {
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
+      "hit",
       "article",
-      "bjtwocd4mx"
+      "80548e14",
+      "5a44",
+      "55cd",
+      "9d17",
+      "66e8db166f3a.html"
     ]
   }
 }
