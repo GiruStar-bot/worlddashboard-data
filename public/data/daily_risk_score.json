@@ -1,48 +1,43 @@
 {
   "IRN": {
-    "risk_score": 32.7,
-    "count": 34,
-    "top_news": "https://www.breitbart.com/middle-east/2026/07/17/report-u-s-airstrikes-expand-bridges-railroads-airports-southern-iran/",
+    "risk_score": 8.47,
+    "count": 9,
+    "top_news": "http://www.bignewsnetwork.com/news/279194746/drones-target-us-consulate-ammo-depot-in-iraq-kurdistan-region",
     "event_codes": {
-      "19": 29,
+      "19": 5,
       "18": 3,
-      "17": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "2026",
-      "report",
-      "airstrikes",
-      "expand",
-      "bridges",
-      "railroads",
-      "airports",
-      "southern",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.61,
-    "count": 8,
-    "top_news": "https://www.middleeasteye.net/news/trumps-board-peace-abandons-gaza-recovery-plan-report",
-    "event_codes": {
-      "17": 4,
-      "14": 1,
-      "16": 1,
-      "19": 1,
-      "20": 1
+      "15": 1
     },
     "keywords": [
       "news",
-      "trumps",
-      "board",
-      "peace",
-      "abandons",
-      "gaza",
-      "recovery",
-      "plan",
-      "report"
+      "279194746",
+      "drones",
+      "target",
+      "consulate",
+      "ammo",
+      "depot",
+      "iraq",
+      "kurdistan",
+      "region"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/279194741/suspected-al-qaida-attack-kills-5-yemeni-soldiers",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "279194741",
+      "suspected",
+      "qaida",
+      "attack",
+      "kills",
+      "yemeni",
+      "soldiers"
     ]
   }
 }
