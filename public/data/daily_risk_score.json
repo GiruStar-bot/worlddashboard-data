@@ -1,21 +1,164 @@
 {
   "IRN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.khaama.com/telegraph-says-houthis-preparing-to-block-bab-al-mandab-strait/",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.hindustantimes.com/world-news/iraq-resistance-group-offers-10-million-reward-to-assassinate-trump-qasem-soleimani-press-tv-iran-war-101784269403314.html",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 6,
+      "18": 3
     },
     "keywords": [
-      "telegraph",
-      "says",
+      "world",
+      "news",
+      "iraq",
+      "resistance",
+      "group",
+      "offers",
+      "million",
+      "reward",
+      "assassinate",
+      "trump",
+      "qasem",
+      "soleimani",
+      "press",
+      "iran",
+      "war",
+      "101784269403314.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hindustantimes.com/world-news/iraq-resistance-group-offers-10-million-reward-to-assassinate-trump-qasem-soleimani-press-tv-iran-war-101784269403314.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "iraq",
+      "resistance",
+      "group",
+      "offers",
+      "million",
+      "reward",
+      "assassinate",
+      "trump",
+      "qasem",
+      "soleimani",
+      "press",
+      "iran",
+      "war",
+      "101784269403314.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://www.afr.com/politics/federal/an-israeli-and-a-palestinian-choose-to-be-pro-solution-20260715-p60feb",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "politics",
+      "federal",
+      "israeli",
+      "and",
+      "palestinian",
+      "choose",
+      "pro",
+      "solution",
+      "20260715",
+      "p60feb"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.standardmedia.co.ke/politics/article/2001553051/gachagua-claims-68-women-raped-by-police-in-ol-kalou-chaos",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "politics",
+      "article",
+      "2001553051",
+      "gachagua",
+      "claims",
+      "women",
+      "raped",
+      "police",
+      "kalou",
+      "chaos"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 8,
+    "top_news": "https://www.vanguardngr.com/2026/07/police-rescue-eight-kidnap-victims-arrest-seven-suspects-in-nationwide-operations/",
+    "event_codes": {
+      "17": 6,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "rescue",
+      "eight",
+      "kidnap",
+      "victims",
+      "arrest",
+      "seven",
+      "suspects",
+      "nationwide",
+      "operations"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/world/articles/qatar-air-defence-intercepts-fresh-080827853.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "qatar",
+      "air",
+      "defence",
+      "intercepts",
+      "fresh",
+      "080827853.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.hindustantimes.com/world-news/after-strait-of-hormuz-houthis-could-shut-bab-al-mandab-amid-us-iran-war-why-it-matters-101784279333614.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "news",
+      "after",
+      "strait",
+      "hormuz",
       "houthis",
-      "preparing",
-      "block",
+      "could",
+      "shut",
       "bab",
       "mandab",
-      "strait"
+      "amid",
+      "iran",
+      "war",
+      "why",
+      "matters",
+      "101784279333614.html"
     ]
   }
 }
