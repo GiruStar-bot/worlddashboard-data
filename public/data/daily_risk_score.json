@@ -1,88 +1,57 @@
 {
-  "ARE": {
-    "risk_score": 11.0,
-    "count": 11,
-    "top_news": "https://www.qatar-tribune.com/article/244774/latest-news/bahrain-uae-condemn-renewed-iranian-attacks-on-countries-in-the-region",
-    "event_codes": {
-      "19": 11
-    },
-    "keywords": [
-      "article",
-      "244774",
-      "latest",
-      "news",
-      "bahrain",
-      "uae",
-      "condemn",
-      "renewed",
-      "iranian",
-      "attacks",
-      "countries",
-      "the",
-      "region"
-    ]
-  },
   "IRN": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "https://pakobserver.net/iran-claims-us-f-35-f-16-jets-destroyed-in-strikes-on-jordans-salti-air-base/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://jewishpress.com/mamdani-commissioner-flouts-chain-of-command/",
     "event_codes": {
-      "19": 7,
-      "17": 1
+      "19": 4
     },
     "keywords": [
-      "iran",
-      "claims",
-      "jets",
-      "destroyed",
-      "strikes",
-      "jordans",
-      "salti",
-      "air",
-      "base"
+      "mamdani",
+      "commissioner",
+      "flouts",
+      "chain",
+      "command"
     ]
   },
   "ISR": {
-    "risk_score": 35.3,
-    "count": 38,
-    "top_news": "https://imemc.org/article/israeli-army-colonizers-escalate-attacks-across-west-bank/",
+    "risk_score": 8.19,
+    "count": 9,
+    "top_news": "https://jewishpress.com/the-new-synagogue-in-kissufim-with-the-old-torah-ark-from-gush-katif/",
     "event_codes": {
-      "19": 19,
-      "18": 11,
-      "17": 6,
-      "16": 2
+      "19": 5,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "israeli",
-      "army",
-      "colonizers",
-      "escalate",
-      "attacks",
-      "across",
-      "west",
-      "bank"
+      "the",
+      "new",
+      "synagogue",
+      "kissufim",
+      "with",
+      "the",
+      "old",
+      "torah",
+      "ark",
+      "from",
+      "gush",
+      "katif"
     ]
   },
-  "PSE": {
-    "risk_score": 14.27,
-    "count": 15,
-    "top_news": "https://imemc.org/article/israeli-army-colonizers-escalate-attacks-across-west-bank/",
+  "LBN": {
+    "risk_score": 3.04,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/node/2651313/middle-east",
     "event_codes": {
-      "18": 7,
-      "19": 7,
+      "16": 2,
+      "15": 1,
       "17": 1
     },
     "keywords": [
-      "article",
-      "israeli",
-      "army",
-      "colonizers",
-      "escalate",
-      "attacks",
-      "across",
-      "west",
-      "bank"
+      "node",
+      "2651313",
+      "middle",
+      "east"
     ]
   }
 }
