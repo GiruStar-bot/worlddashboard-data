@@ -1,79 +1,64 @@
 {
-  "IRN": {
-    "risk_score": 6.22,
-    "count": 9,
-    "top_news": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.columbian.com/news/2026/jul/17/u-s-strikes-bridges-in-iran-which-targets-a-water-desalination-plant-in-kuwait/",
     "event_codes": {
-      "17": 4,
-      "16": 3,
-      "19": 2
+      "19": 3
     },
     "keywords": [
+      "news",
       "2026",
+      "jul",
+      "strikes",
+      "bridges",
       "iran",
-      "war",
-      "oil",
-      "tanker",
-      "strait",
-      "hormuz",
-      "traffic",
-      "attacks",
-      "trump.html"
+      "which",
+      "targets",
+      "water",
+      "desalination",
+      "plant",
+      "kuwait"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.31,
+    "count": 25,
+    "top_news": "https://www.yahoo.com/news/world/articles/escalation-fears-mount-as-us-hits-bridges-and-iran-strikes-desalination-plant-150747882.html",
+    "event_codes": {
+      "19": 16,
+      "16": 6,
+      "17": 2,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "escalation",
+      "fears",
+      "mount",
+      "hits",
+      "bridges",
+      "and",
+      "iran",
+      "strikes",
+      "desalination",
+      "plant",
+      "150747882.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://news.antiwar.com/2026/07/17/us-strikes-civilian-infrastructure-in-iran/",
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/bjtwocd4mx",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "strikes",
-      "civilian",
-      "infrastructure",
-      "iran"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://townhall.com/tipsheet/dmitri-bolt/2026/07/17/the-us-military-is-striking-the-irgcs-supply-chain-n2679642",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "tipsheet",
-      "dmitri",
-      "bolt",
-      "2026",
-      "the",
-      "military",
-      "striking",
-      "the",
-      "irgcs",
-      "supply",
-      "chain",
-      "n2679642"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.1,
-    "count": 13,
-    "top_news": "https://www.nigerianeye.com/2026/07/terrorists-threatened-to-kill-me-church.html",
-    "event_codes": {
-      "17": 6,
-      "16": 3,
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "terrorists",
-      "threatened",
-      "kill",
-      "church.html"
+      "article",
+      "bjtwocd4mx"
     ]
   }
 }
