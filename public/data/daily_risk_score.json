@@ -1,31 +1,72 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "http://www.bozemandailychronicle.com/ap_news/international/irans-supreme-leader-mojtaba-khamenei-in-a-new-statement-warns-of-unforgettable-lessons-if-us/article_58284efd-7eeb-537d-aeb7-98ba44e728fb.html",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://kashmirreader.com/2026/07/19/trump-weighs-wider-iran-offensive-as-us-plans-to-deploy-more-military-refuelling-aircraft-to-israel/",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "weighs",
+      "wider",
+      "iran",
+      "offensive",
+      "plans",
+      "deploy",
+      "more",
+      "military",
+      "refuelling",
+      "aircraft",
+      "israel"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.47,
+    "count": 4,
+    "top_news": "https://www.jns.org/news/israel-news/us-sends-dozens-of-refueling-aircraft-to-israel-as-attacks-across-mideast-intensify",
+    "event_codes": {
+      "19": 2,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "international",
-      "irans",
-      "supreme",
-      "leader",
-      "mojtaba",
-      "khamenei",
-      "new",
-      "statement",
-      "warns",
-      "unforgettable",
-      "lessons",
-      "article",
-      "58284efd",
-      "7eeb",
-      "537d",
-      "aeb7",
-      "98ba44e728fb.html"
+      "israel",
+      "news",
+      "sends",
+      "dozens",
+      "refueling",
+      "aircraft",
+      "israel",
+      "attacks",
+      "across",
+      "mideast",
+      "intensify"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://kashmirreader.com/2026/07/19/trump-weighs-wider-iran-offensive-as-us-plans-to-deploy-more-military-refuelling-aircraft-to-israel/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "weighs",
+      "wider",
+      "iran",
+      "offensive",
+      "plans",
+      "deploy",
+      "more",
+      "military",
+      "refuelling",
+      "aircraft",
+      "israel"
     ]
   }
 }
