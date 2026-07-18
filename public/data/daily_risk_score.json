@@ -1,81 +1,89 @@
 {
-  "BRA": {
+  "ISR": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-saturday-july-18-2026/",
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-killed-one-gaza",
     "event_codes": {
-      "17": 4
+      "19": 2
     },
     "keywords": [
-      "rio",
-      "janeiro",
-      "nightlife",
-      "saturday",
-      "july",
-      "2026"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "military",
+      "killed",
+      "one",
+      "gaza"
     ]
   },
-  "IRN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.ocregister.com/2026/07/18/us-says-two-service-members-killed-by-iran-strikes-in-jordan/",
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://themedialine.org/headlines/iran-instructs-hezbollah-to-prepare-for-expanded-war-idf-targets-terror-cell-in-lebanon/",
     "event_codes": {
-      "19": 3,
+      "19": 3
+    },
+    "keywords": [
+      "headlines",
+      "iran",
+      "instructs",
+      "hezbollah",
+      "prepare",
+      "for",
+      "expanded",
+      "war",
+      "idf",
+      "targets",
+      "terror",
+      "cell",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.18,
+    "count": 4,
+    "top_news": "https://www.thisdaylive.com/2026/07/18/paul-university-suspends-anglican-priest-over-alleged-sex-scandal/",
+    "event_codes": {
+      "16": 3,
       "17": 1
     },
     "keywords": [
       "2026",
-      "says",
-      "two",
-      "service",
-      "members",
-      "killed",
-      "iran",
-      "strikes",
-      "jordan"
+      "paul",
+      "university",
+      "suspends",
+      "anglican",
+      "priest",
+      "over",
+      "alleged",
+      "sex",
+      "scandal"
     ]
   },
-  "JOR": {
-    "risk_score": 5.7,
-    "count": 7,
-    "top_news": "https://www.ocregister.com/2026/07/18/us-says-two-service-members-killed-by-iran-strikes-in-jordan/",
+  "URY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.krgv.com/news/ice-is-everywhere-in-houston-fear-and-grief-permeate-latino-neighborhoods-after-fatal-shooting",
     "event_codes": {
-      "18": 3,
-      "17": 2,
       "19": 2
     },
     "keywords": [
-      "2026",
-      "says",
-      "two",
-      "service",
-      "members",
-      "killed",
-      "iran",
-      "strikes",
-      "jordan"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.44,
-    "count": 4,
-    "top_news": "https://dailypost.ng/2026/07/18/oyo-police-arrest-suspected-armed-robber-following-attack-on-okada-rider/",
-    "event_codes": {
-      "15": 2,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "oyo",
-      "police",
-      "arrest",
-      "suspected",
-      "armed",
-      "robber",
-      "following",
-      "attack",
-      "okada",
-      "rider"
+      "news",
+      "ice",
+      "everywhere",
+      "houston",
+      "fear",
+      "and",
+      "grief",
+      "permeate",
+      "latino",
+      "neighborhoods",
+      "after",
+      "fatal",
+      "shooting"
     ]
   }
 }
