@@ -1,72 +1,81 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://kashmirreader.com/2026/07/19/trump-weighs-wider-iran-offensive-as-us-plans-to-deploy-more-military-refuelling-aircraft-to-israel/",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/rio-de-janeiro-nightlife-saturday-july-18-2026/",
     "event_codes": {
-      "19": 6
+      "17": 4
+    },
+    "keywords": [
+      "rio",
+      "janeiro",
+      "nightlife",
+      "saturday",
+      "july",
+      "2026"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.ocregister.com/2026/07/18/us-says-two-service-members-killed-by-iran-strikes-in-jordan/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "trump",
-      "weighs",
-      "wider",
+      "says",
+      "two",
+      "service",
+      "members",
+      "killed",
       "iran",
-      "offensive",
-      "plans",
-      "deploy",
-      "more",
-      "military",
-      "refuelling",
-      "aircraft",
-      "israel"
+      "strikes",
+      "jordan"
     ]
   },
-  "ISR": {
-    "risk_score": 3.47,
-    "count": 4,
-    "top_news": "https://www.jns.org/news/israel-news/us-sends-dozens-of-refueling-aircraft-to-israel-as-attacks-across-mideast-intensify",
+  "JOR": {
+    "risk_score": 5.7,
+    "count": 7,
+    "top_news": "https://www.ocregister.com/2026/07/18/us-says-two-service-members-killed-by-iran-strikes-in-jordan/",
     "event_codes": {
-      "19": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "sends",
-      "dozens",
-      "refueling",
-      "aircraft",
-      "israel",
-      "attacks",
-      "across",
-      "mideast",
-      "intensify"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://kashmirreader.com/2026/07/19/trump-weighs-wider-iran-offensive-as-us-plans-to-deploy-more-military-refuelling-aircraft-to-israel/",
-    "event_codes": {
+      "18": 3,
+      "17": 2,
       "19": 2
     },
     "keywords": [
       "2026",
-      "trump",
-      "weighs",
-      "wider",
+      "says",
+      "two",
+      "service",
+      "members",
+      "killed",
       "iran",
-      "offensive",
-      "plans",
-      "deploy",
-      "more",
-      "military",
-      "refuelling",
-      "aircraft",
-      "israel"
+      "strikes",
+      "jordan"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.44,
+    "count": 4,
+    "top_news": "https://dailypost.ng/2026/07/18/oyo-police-arrest-suspected-armed-robber-following-attack-on-okada-rider/",
+    "event_codes": {
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "oyo",
+      "police",
+      "arrest",
+      "suspected",
+      "armed",
+      "robber",
+      "following",
+      "attack",
+      "okada",
+      "rider"
     ]
   }
 }
