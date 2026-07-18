@@ -1,29 +1,82 @@
 {
-  "THA": {
-    "risk_score": 4.8,
-    "count": 8,
-    "top_news": "https://www.dailymail.com/news/article-15987003/Paedophile-scoutmaster-spent-decades-run-fleeing-Thailand-gets-nine-years-taken-jail-sentence.html",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/07/18/brazils-top-court-denies-request-for-argentinas-milei-to-visit-bolsonaro-under-house-arrest",
     "event_codes": {
-      "17": 6,
-      "18": 2
+      "17": 4
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "brazils",
+      "top",
+      "court",
+      "denies",
+      "request",
+      "for",
+      "argentinas",
+      "milei",
+      "visit",
+      "bolsonaro",
+      "under",
+      "house",
+      "arrest"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://moderntokyotimes.com/america-targets-the-infrastructure-of-iran-kuwait-and-others-attacked/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "america",
+      "targets",
+      "the",
+      "infrastructure",
+      "iran",
+      "kuwait",
+      "and",
+      "others",
+      "attacked"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=70102",
+    "event_codes": {
+      "18": 1,
+      "19": 1,
+      "20": 1
     },
     "keywords": [
       "news",
-      "article",
-      "15987003",
-      "paedophile",
-      "scoutmaster",
-      "spent",
-      "decades",
-      "run",
-      "fleeing",
-      "thailand",
-      "gets",
-      "nine",
-      "years",
-      "taken",
-      "jail",
-      "sentence.html"
+      "headlines",
+      "index.cfm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.24,
+    "count": 12,
+    "top_news": "https://dailytrust.com/bayelsa-ministry-staff-arrested-over-alleged-theft-of-equipment-worth-n500m/",
+    "event_codes": {
+      "17": 11,
+      "18": 1
+    },
+    "keywords": [
+      "bayelsa",
+      "ministry",
+      "staff",
+      "arrested",
+      "over",
+      "alleged",
+      "theft",
+      "equipment",
+      "worth",
+      "n500m"
     ]
   }
 }
