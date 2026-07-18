@@ -1,44 +1,37 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://aa.com.tr/en/us-israel-iran-war/blasts-rock-southern-iran-as-us-launches-new-wave-of-attacks/4001837",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailyexcelsior.com/no-damage-to-terminal-in-us-attacks-on-chabahar-port-india/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "israel",
-      "iran",
-      "war",
-      "blasts",
-      "rock",
-      "southern",
-      "iran",
-      "launches",
-      "new",
-      "wave",
+      "damage",
+      "terminal",
       "attacks",
-      "4001837"
+      "chabahar",
+      "port",
+      "india"
     ]
   },
-  "ISR": {
-    "risk_score": 3.75,
-    "count": 5,
-    "top_news": "https://www.timesfreepress.com/news/2026/jul/17/times-opinion-marco-rubios-political-detainments/",
+  "NGA": {
+    "risk_score": 15.0,
+    "count": 21,
+    "top_news": "https://punchng.com/family-demands-justice-for-slain-anambra-woman/",
     "event_codes": {
-      "14": 3,
-      "17": 2
+      "17": 11,
+      "18": 5,
+      "19": 5
     },
     "keywords": [
-      "news",
-      "2026",
-      "jul",
-      "times",
-      "opinion",
-      "marco",
-      "rubios",
-      "political",
-      "detainments"
+      "family",
+      "demands",
+      "justice",
+      "for",
+      "slain",
+      "anambra",
+      "woman"
     ]
   }
 }
