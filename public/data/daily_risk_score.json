@@ -1,89 +1,114 @@
 {
-  "ISR": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-killed-one-gaza",
+    "top_news": "https://www.rferl.org/a/centcom-soldiers-killed-jordan-iran-missile-attack/33806519.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "military",
+      "centcom",
+      "soldiers",
       "killed",
-      "one",
-      "gaza"
+      "jordan",
+      "iran",
+      "missile",
+      "attack",
+      "33806519.html"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://themedialine.org/headlines/iran-instructs-hezbollah-to-prepare-for-expanded-war-idf-targets-terror-cell-in-lebanon/",
+  "IRN": {
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.rferl.org/a/centcom-soldiers-killed-jordan-iran-missile-attack/33806519.html",
     "event_codes": {
-      "19": 3
+      "19": 7,
+      "16": 1
     },
     "keywords": [
-      "headlines",
+      "centcom",
+      "soldiers",
+      "killed",
+      "jordan",
       "iran",
-      "instructs",
-      "hezbollah",
-      "prepare",
-      "for",
-      "expanded",
-      "war",
-      "idf",
-      "targets",
-      "terror",
-      "cell",
-      "lebanon"
+      "missile",
+      "attack",
+      "33806519.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.rferl.org/a/centcom-soldiers-killed-jordan-iran-missile-attack/33806519.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "centcom",
+      "soldiers",
+      "killed",
+      "jordan",
+      "iran",
+      "missile",
+      "attack",
+      "33806519.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.18,
-    "count": 4,
-    "top_news": "https://www.thisdaylive.com/2026/07/18/paul-university-suspends-anglican-priest-over-alleged-sex-scandal/",
+    "risk_score": 11.8,
+    "count": 14,
+    "top_news": "https://www.nigerianeye.com/2026/07/troops-repel-iswap-attack-on-borno.html",
     "event_codes": {
-      "16": 3,
-      "17": 1
+      "19": 8,
+      "17": 4,
+      "18": 2
     },
     "keywords": [
       "2026",
-      "paul",
-      "university",
-      "suspends",
-      "anglican",
-      "priest",
-      "over",
-      "alleged",
-      "sex",
-      "scandal"
+      "troops",
+      "repel",
+      "iswap",
+      "attack",
+      "borno.html"
     ]
   },
-  "URY": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.krgv.com/news/ice-is-everywhere-in-houston-fear-and-grief-permeate-latino-neighborhoods-after-fatal-shooting",
+    "top_news": "https://www.rferl.org/a/centcom-soldiers-killed-jordan-iran-missile-attack/33806519.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "ice",
-      "everywhere",
-      "houston",
-      "fear",
-      "and",
-      "grief",
-      "permeate",
-      "latino",
-      "neighborhoods",
-      "after",
-      "fatal",
-      "shooting"
+      "centcom",
+      "soldiers",
+      "killed",
+      "jordan",
+      "iran",
+      "missile",
+      "attack",
+      "33806519.html"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.monitor.co.me/new-highways-lead-mountain-countries-to-the-global-economy-we-are-all-closer/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "new",
+      "highways",
+      "lead",
+      "mountain",
+      "countries",
+      "the",
+      "global",
+      "economy",
+      "are",
+      "all",
+      "closer"
     ]
   }
 }
