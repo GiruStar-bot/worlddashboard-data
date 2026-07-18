@@ -1,181 +1,111 @@
 {
-  "ARG": {
+  "BRA": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://en.ammonnews.net/article/93422",
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/moraes-bars-visits-bolsonaro-30-days-2026/",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
-      "article",
-      "93422"
-    ]
-  },
-  "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ynetnews.com/article/s1gpj5d4mg",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "s1gpj5d4mg"
+      "moraes",
+      "bars",
+      "visits",
+      "bolsonaro",
+      "days",
+      "2026"
     ]
   },
   "IRN": {
-    "risk_score": 34.79,
-    "count": 35,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260717-rferl03.htm",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/khomeinis-ceasefire-38-years-ago-the-key-to-stopping-irans-conflict-today/",
     "event_codes": {
-      "19": 32,
-      "17": 2,
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "military",
-      "library",
       "news",
-      "2026",
-      "mil",
-      "260717",
-      "rferl03.htm"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.38,
-    "count": 19,
-    "top_news": "https://nuclear-news.net/2026/07/18/walt-zlotow-all-hail-marco-rubio-potentate-of-venezuela/",
-    "event_codes": {
-      "14": 7,
-      "19": 7,
-      "15": 3,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "walt",
-      "zlotow",
-      "all",
-      "hail",
-      "marco",
-      "rubio",
-      "potentate",
-      "venezuela"
-    ]
-  },
-  "QAT": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/888948/united-states-strikes-tunnels-and-bridges-in-iran-as-revolutionary-guard-confirms-tanker-mine-explosions-and-devastating-hits-on-bahrain-base",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "888948",
-      "united",
-      "states",
-      "strikes",
-      "tunnels",
-      "and",
-      "bridges",
       "iran",
-      "revolutionary",
-      "guard",
-      "confirms",
-      "tanker",
-      "mine",
-      "explosions",
-      "and",
-      "devastating",
-      "hits",
-      "bahrain",
-      "base"
+      "resistance",
+      "khomeinis",
+      "ceasefire",
+      "years",
+      "ago",
+      "the",
+      "key",
+      "stopping",
+      "irans",
+      "conflict",
+      "today"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/888948/united-states-strikes-tunnels-and-bridges-in-iran-as-revolutionary-guard-confirms-tanker-mine-explosions-and-devastating-hits-on-bahrain-base",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "888948",
-      "united",
-      "states",
-      "strikes",
-      "tunnels",
-      "and",
-      "bridges",
-      "iran",
-      "revolutionary",
-      "guard",
-      "confirms",
-      "tanker",
-      "mine",
-      "explosions",
-      "and",
-      "devastating",
-      "hits",
-      "bahrain",
-      "base"
-    ]
-  },
-  "SYR": {
-    "risk_score": 6.6,
-    "count": 9,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/888948/united-states-strikes-tunnels-and-bridges-in-iran-as-revolutionary-guard-confirms-tanker-mine-explosions-and-devastating-hits-on-bahrain-base",
-    "event_codes": {
-      "19": 5,
-      "16": 4
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "888948",
-      "united",
-      "states",
-      "strikes",
-      "tunnels",
-      "and",
-      "bridges",
-      "iran",
-      "revolutionary",
-      "guard",
-      "confirms",
-      "tanker",
-      "mine",
-      "explosions",
-      "and",
-      "devastating",
-      "hits",
-      "bahrain",
-      "base"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.0,
+  "IRQ": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://nuclear-news.net/2026/07/18/walt-zlotow-all-hail-marco-rubio-potentate-of-venezuela/",
+    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/khomeinis-ceasefire-38-years-ago-the-key-to-stopping-irans-conflict-today/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "walt",
-      "zlotow",
-      "all",
-      "hail",
-      "marco",
-      "rubio",
-      "potentate",
-      "venezuela"
+      "news",
+      "iran",
+      "resistance",
+      "khomeinis",
+      "ceasefire",
+      "years",
+      "ago",
+      "the",
+      "key",
+      "stopping",
+      "irans",
+      "conflict",
+      "today"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.qatar-tribune.com/article/244783/latest-news/fire-erupts-at-kuwaiti-power-and-water-desalination-plant-following-iranian-attack",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "244783",
+      "latest",
+      "news",
+      "fire",
+      "erupts",
+      "kuwaiti",
+      "power",
+      "and",
+      "water",
+      "desalination",
+      "plant",
+      "following",
+      "iranian",
+      "attack"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.12,
+    "count": 5,
+    "top_news": "https://www.nationalaccordnewspaper.com/protecting-benue-people-safeguarding-lands-to-feed-nigerians-my-priority-says-alia/",
+    "event_codes": {
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "protecting",
+      "benue",
+      "people",
+      "safeguarding",
+      "lands",
+      "feed",
+      "nigerians",
+      "priority",
+      "says",
+      "alia"
     ]
   }
 }
