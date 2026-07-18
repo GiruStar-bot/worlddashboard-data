@@ -1,32 +1,145 @@
 {
-  "IRN": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/international/west-asia-war-us-strikes-iran-tehran-hits-usa-military-sites-in-kuwait-jordan-live-updates-july-18-2026/article71236973.ece",
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://gulfnews.com/world/mena/us-iran-war-what-uae-residents-need-to-know-today-july-18-1.500611920",
     "event_codes": {
-      "16": 3,
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "mena",
+      "iran",
+      "war",
+      "what",
+      "uae",
+      "residents",
+      "need",
+      "know",
+      "today",
+      "july",
+      "1.500611920"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.2,
+    "count": 25,
+    "top_news": "https://gulfnews.com/world/mena/us-iran-war-what-uae-residents-need-to-know-today-july-18-1.500611920",
+    "event_codes": {
+      "19": 16,
+      "16": 5,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "mena",
+      "iran",
+      "war",
+      "what",
+      "uae",
+      "residents",
+      "need",
+      "know",
+      "today",
+      "july",
+      "1.500611920"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://yalibnan.com/2026/07/18/iran-war-updates-u-s-concludes-7th-straight-night-of-strikes-as-traffic-freezes-up-in-strait-of-hormuz/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "international",
-      "west",
-      "asia",
-      "war",
-      "strikes",
-      "iran",
-      "tehran",
-      "hits",
-      "usa",
-      "military",
-      "sites",
-      "kuwait",
-      "jordan",
-      "live",
-      "updates",
-      "july",
       "2026",
-      "article71236973.ece"
+      "iran",
+      "war",
+      "updates",
+      "concludes",
+      "7th",
+      "straight",
+      "night",
+      "strikes",
+      "traffic",
+      "freezes",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.wsws.org/en/articles/2026/07/18/mgts-j18.html",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "mgts",
+      "j18.html"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thehitavada.com/Encyc/2026/7/18/us-strikes-bridges-port-tower-iran-attacks-m-e-with-missiles.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "encyc",
+      "2026",
+      "strikes",
+      "bridges",
+      "port",
+      "tower",
+      "iran",
+      "attacks",
+      "with",
+      "missiles.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.chiangraitimes.com/hot-news/crime/shocking-murder-in-udon-thani/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "hot",
+      "news",
+      "crime",
+      "shocking",
+      "murder",
+      "udon",
+      "thani"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://wiky.com/2026/07/18/flash-flood-kills-4-leaves-4-others-missing-in-vietnam/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "flash",
+      "flood",
+      "kills",
+      "leaves",
+      "others",
+      "missing",
+      "vietnam"
     ]
   }
 }
