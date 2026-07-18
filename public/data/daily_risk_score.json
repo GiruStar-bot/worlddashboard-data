@@ -1,124 +1,181 @@
 {
-  "BHR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.timesofearth.com/2026/07/18/us-and-iran-target-infrastructure-as-strait-shipping-comes-under-further-attack/",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://en.ammonnews.net/article/93422",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "and",
-      "iran",
-      "target",
-      "infrastructure",
-      "strait",
-      "shipping",
-      "comes",
-      "under",
-      "further",
-      "attack"
+      "article",
+      "93422"
     ]
   },
-  "ETH": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://www.thereporterethiopia.com/51911/",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/s1gpj5d4mg",
     "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "51911"
+      "article",
+      "s1gpj5d4mg"
     ]
   },
   "IRN": {
-    "risk_score": 15.72,
-    "count": 16,
-    "top_news": "https://www.timesofearth.com/2026/07/18/us-and-iran-target-infrastructure-as-strait-shipping-comes-under-further-attack/",
+    "risk_score": 34.79,
+    "count": 35,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260717-rferl03.htm",
     "event_codes": {
-      "19": 15,
-      "15": 1
+      "19": 32,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
+      "military",
+      "library",
+      "news",
       "2026",
-      "and",
-      "iran",
-      "target",
-      "infrastructure",
-      "strait",
-      "shipping",
-      "comes",
-      "under",
-      "further",
-      "attack"
+      "mil",
+      "260717",
+      "rferl03.htm"
     ]
   },
   "ISR": {
-    "risk_score": 11.8,
-    "count": 13,
-    "top_news": "https://countercurrents.org/2026/07/in-the-west-bank-religious-zionists-are-realizing-long-held-vision/",
+    "risk_score": 15.38,
+    "count": 19,
+    "top_news": "https://nuclear-news.net/2026/07/18/walt-zlotow-all-hail-marco-rubio-potentate-of-venezuela/",
     "event_codes": {
-      "19": 8,
-      "14": 2,
-      "20": 2,
+      "14": 7,
+      "19": 7,
+      "15": 3,
+      "16": 1,
       "17": 1
     },
     "keywords": [
       "2026",
-      "the",
-      "west",
-      "bank",
-      "religious",
-      "zionists",
-      "are",
-      "realizing",
-      "long",
-      "held",
-      "vision"
+      "walt",
+      "zlotow",
+      "all",
+      "hail",
+      "marco",
+      "rubio",
+      "potentate",
+      "venezuela"
     ]
   },
-  "JOR": {
+  "QAT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/888948/united-states-strikes-tunnels-and-bridges-in-iran-as-revolutionary-guard-confirms-tanker-mine-explosions-and-devastating-hits-on-bahrain-base",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "888948",
+      "united",
+      "states",
+      "strikes",
+      "tunnels",
+      "and",
+      "bridges",
+      "iran",
+      "revolutionary",
+      "guard",
+      "confirms",
+      "tanker",
+      "mine",
+      "explosions",
+      "and",
+      "devastating",
+      "hits",
+      "bahrain",
+      "base"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/888948/united-states-strikes-tunnels-and-bridges-in-iran-as-revolutionary-guard-confirms-tanker-mine-explosions-and-devastating-hits-on-bahrain-base",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "888948",
+      "united",
+      "states",
+      "strikes",
+      "tunnels",
+      "and",
+      "bridges",
+      "iran",
+      "revolutionary",
+      "guard",
+      "confirms",
+      "tanker",
+      "mine",
+      "explosions",
+      "and",
+      "devastating",
+      "hits",
+      "bahrain",
+      "base"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.6,
+    "count": 9,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/888948/united-states-strikes-tunnels-and-bridges-in-iran-as-revolutionary-guard-confirms-tanker-mine-explosions-and-devastating-hits-on-bahrain-base",
+    "event_codes": {
+      "19": 5,
+      "16": 4
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "888948",
+      "united",
+      "states",
+      "strikes",
+      "tunnels",
+      "and",
+      "bridges",
+      "iran",
+      "revolutionary",
+      "guard",
+      "confirms",
+      "tanker",
+      "mine",
+      "explosions",
+      "and",
+      "devastating",
+      "hits",
+      "bahrain",
+      "base"
+    ]
+  },
+  "VEN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.timesofearth.com/2026/07/18/us-and-iran-target-infrastructure-as-strait-shipping-comes-under-further-attack/",
+    "top_news": "https://nuclear-news.net/2026/07/18/walt-zlotow-all-hail-marco-rubio-potentate-of-venezuela/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "2026",
-      "and",
-      "iran",
-      "target",
-      "infrastructure",
-      "strait",
-      "shipping",
-      "comes",
-      "under",
-      "further",
-      "attack"
-    ]
-  },
-  "KWT": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.omanobserver.om/article/1193018/world/region/kuwait-bahrain-and-qatar-report-attacks",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "article",
-      "1193018",
-      "world",
-      "region",
-      "kuwait",
-      "bahrain",
-      "and",
-      "qatar",
-      "report",
-      "attacks"
+      "walt",
+      "zlotow",
+      "all",
+      "hail",
+      "marco",
+      "rubio",
+      "potentate",
+      "venezuela"
     ]
   }
 }
