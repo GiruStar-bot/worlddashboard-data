@@ -1,38 +1,78 @@
 {
-  "CHL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.philstar.com/nation/2026/07/19/2543056/5-wounded-maguindanao-grenade-attack",
+  "IRN": {
+    "risk_score": 18.85,
+    "count": 21,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/18/772504/irgc-al-tanf-strike-destroys-us-assets-sends-resounding-message-us-regional-allies",
     "event_codes": {
-      "19": 2
+      "19": 12,
+      "18": 4,
+      "16": 2,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "nation",
+      "detail",
       "2026",
-      "2543056",
-      "wounded",
-      "maguindanao",
-      "grenade",
-      "attack"
+      "772504",
+      "irgc",
+      "tanf",
+      "strike",
+      "destroys",
+      "assets",
+      "sends",
+      "resounding",
+      "message",
+      "regional",
+      "allies"
     ]
   },
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.upi.com/Top_News/US/2026/07/18/iran-heavy-fire-israel-lebanon/6531784389575/",
+  "ISR": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/18/772522/Belgium-bans-imports-of-products-from-Israeli-settlements-in-occupied-West-Bank",
     "event_codes": {
-      "19": 3
+      "16": 4,
+      "17": 3
     },
     "keywords": [
-      "top",
-      "news",
+      "detail",
       "2026",
-      "iran",
-      "heavy",
-      "fire",
-      "israel",
-      "lebanon",
-      "6531784389575"
+      "772522",
+      "belgium",
+      "bans",
+      "imports",
+      "products",
+      "from",
+      "israeli",
+      "settlements",
+      "occupied",
+      "west",
+      "bank"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.55,
+    "count": 7,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/18/772504/irgc-al-tanf-strike-destroys-us-assets-sends-resounding-message-us-regional-allies",
+    "event_codes": {
+      "19": 5,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "772504",
+      "irgc",
+      "tanf",
+      "strike",
+      "destroys",
+      "assets",
+      "sends",
+      "resounding",
+      "message",
+      "regional",
+      "allies"
     ]
   }
 }
