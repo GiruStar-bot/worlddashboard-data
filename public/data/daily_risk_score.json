@@ -1,92 +1,99 @@
 {
-  "BHR": {
+  "ARE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.winnipegfreepress.com/business/2026/07/18/us-strikes-irans-revolutionary-guard-over-attack-that-killed-troops-in-jordan",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "strikes",
+      "irans",
+      "revolutionary",
+      "guard",
+      "over",
+      "attack",
+      "that",
+      "killed",
+      "troops",
+      "jordan"
+    ]
+  },
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://indianexpress.com/article/world/us-iran-war-live-updates-troops-killed-jordan-gulf-strikes-10793063/",
+    "top_news": "http://www.bozemandailychronicle.com/ap_news/business/us-strikes-irans-revolutionary-guard-over-attack-that-killed-troops-in-jordan/article_088d4d4c-4eb8-50c1-893f-b641d5a9deb9.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "article",
-      "world",
-      "iran",
-      "war",
-      "live",
-      "updates",
-      "troops",
-      "killed",
-      "jordan",
-      "gulf",
+      "news",
+      "business",
       "strikes",
-      "10793063"
-    ]
-  },
-  "IRN": {
-    "risk_score": 36.55,
-    "count": 39,
-    "top_news": "https://www.manilatimes.net/2026/07/19/world/us-launches-new-airstrikes-to-punish-iran-after-two-troops-killed/2387046",
-    "event_codes": {
-      "19": 34,
-      "14": 2,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "launches",
-      "new",
-      "airstrikes",
-      "punish",
-      "iran",
-      "after",
-      "two",
-      "troops",
+      "irans",
+      "revolutionary",
+      "guard",
+      "over",
+      "attack",
+      "that",
       "killed",
-      "2387046"
+      "troops",
+      "jordan",
+      "article",
+      "088d4d4c",
+      "4eb8",
+      "50c1",
+      "893f",
+      "b641d5a9deb9.html"
     ]
   },
   "JOR": {
-    "risk_score": 4.0,
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "https://www.manilatimes.net/2026/07/19/world/us-launches-new-airstrikes-to-punish-iran-after-two-troops-killed/2387046",
+    "top_news": "http://www.bozemandailychronicle.com/ap_news/business/us-strikes-irans-revolutionary-guard-over-attack-that-killed-troops-in-jordan/article_088d4d4c-4eb8-50c1-893f-b641d5a9deb9.html",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "world",
-      "launches",
-      "new",
-      "airstrikes",
-      "punish",
-      "iran",
-      "after",
-      "two",
-      "troops",
+      "news",
+      "business",
+      "strikes",
+      "irans",
+      "revolutionary",
+      "guard",
+      "over",
+      "attack",
+      "that",
       "killed",
-      "2387046"
+      "troops",
+      "jordan",
+      "article",
+      "088d4d4c",
+      "4eb8",
+      "50c1",
+      "893f",
+      "b641d5a9deb9.html"
     ]
   },
-  "NGA": {
-    "risk_score": 7.3,
-    "count": 13,
-    "top_news": "https://www.vanguardngr.com/2026/07/nigerias-democracy-without-legislators-and-judiciary-by-dele-sobowale/",
+  "MYS": {
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/news/education/2026/07/19/balancing-tech-with-basics",
     "event_codes": {
-      "17": 6,
-      "16": 4,
-      "18": 3
+      "14": 2,
+      "17": 2
     },
     "keywords": [
+      "news",
+      "education",
       "2026",
-      "nigerias",
-      "democracy",
-      "without",
-      "legislators",
-      "and",
-      "judiciary",
-      "dele",
-      "sobowale"
+      "balancing",
+      "tech",
+      "with",
+      "basics"
     ]
   }
 }
