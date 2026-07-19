@@ -1,50 +1,96 @@
 {
   "IRN": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.moneycontrol.com/world/israel-warns-of-full-force-response-to-any-fresh-iran-missile-attack-article-13977854.html",
+    "risk_score": 23.12,
+    "count": 24,
+    "top_news": "https://theindianawaaz.com/kuwait-says-its-under-iranian-missile-and-drone-attack/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 20,
+      "17": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "israel",
-      "warns",
-      "full",
-      "force",
-      "response",
-      "any",
-      "fresh",
-      "iran",
+      "kuwait",
+      "says",
+      "its",
+      "under",
+      "iranian",
       "missile",
-      "attack",
-      "article",
-      "13977854.html"
+      "and",
+      "drone",
+      "attack"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/19/772596/General-Qa",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "772596",
+      "general"
     ]
   },
   "ISR": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "https://www.moneycontrol.com/world/israel-warns-of-full-force-response-to-any-fresh-iran-missile-attack-article-13977854.html",
+    "risk_score": 22.8,
+    "count": 24,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/19/772587/Palestine-Gaza-Israel-US-",
     "event_codes": {
-      "19": 7,
-      "17": 1
+      "19": 13,
+      "18": 8,
+      "17": 3
     },
     "keywords": [
-      "world",
-      "israel",
-      "warns",
-      "full",
-      "force",
-      "response",
-      "any",
-      "fresh",
-      "iran",
+      "detail",
+      "2026",
+      "772587",
+      "palestine",
+      "gaza",
+      "israel"
+    ]
+  },
+  "KWT": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://theindianawaaz.com/kuwait-says-its-under-iranian-missile-and-drone-attack/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "kuwait",
+      "says",
+      "its",
+      "under",
+      "iranian",
       "missile",
-      "attack",
-      "article",
-      "13977854.html"
+      "and",
+      "drone",
+      "attack"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.5,
+    "count": 8,
+    "top_news": "https://www.presstv.ir/Detail/2026/07/19/772594/Israeli-settlers-torch-mosque-village-West-Bank",
+    "event_codes": {
+      "18": 5,
+      "19": 3
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "772594",
+      "israeli",
+      "settlers",
+      "torch",
+      "mosque",
+      "village",
+      "west",
+      "bank"
     ]
   }
 }
