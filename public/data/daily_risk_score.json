@@ -1,48 +1,91 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "http://www.thegazette.com/news/world/us-service-member-killed-saturday-in-iraq-during-controlled-detonation-of-iranian-drone/article_8e9203c5-efa3-56d6-87d9-2903fa2689a8.html",
+    "risk_score": 14.8,
+    "count": 15,
+    "top_news": "https://www.lbc.co.uk/article/us-soldier-remains-found-iran-strike-jordan-5HjddpF_2/",
     "event_codes": {
-      "19": 5
+      "19": 14,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "service",
-      "member",
-      "killed",
-      "saturday",
-      "iraq",
-      "during",
-      "controlled",
-      "detonation",
-      "iranian",
-      "drone",
       "article",
-      "8e9203c5",
-      "efa3",
-      "56d6",
-      "87d9",
-      "2903fa2689a8.html"
+      "soldier",
+      "remains",
+      "found",
+      "iran",
+      "strike",
+      "jordan",
+      "5hjddpf"
     ]
   },
-  "SOM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://wardheernews.com/government-forces-local-militias-ambush-al-shabaab-fighters-in-hiiraan/",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://indianexpress.com/article/world/us-iran-war-mq9-reaper-drones-downed-military-bases-damaged-jordan-bahrain-qatar-10794154/",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "government",
-      "forces",
-      "local",
-      "militias",
-      "ambush",
-      "shabaab",
-      "fighters",
-      "hiiraan"
+      "article",
+      "world",
+      "iran",
+      "war",
+      "mq9",
+      "reaper",
+      "drones",
+      "downed",
+      "military",
+      "bases",
+      "damaged",
+      "jordan",
+      "bahrain",
+      "qatar",
+      "10794154"
+    ]
+  },
+  "ISR": {
+    "risk_score": 37.02,
+    "count": 40,
+    "top_news": "https://imemc.org/article/israeli-army-intensifies-gaza-attacks-continues-ceasefire-violations/",
+    "event_codes": {
+      "19": 20,
+      "18": 9,
+      "17": 7,
+      "16": 3,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "intensifies",
+      "gaza",
+      "attacks",
+      "continues",
+      "ceasefire",
+      "violations"
+    ]
+  },
+  "PSE": {
+    "risk_score": 17.1,
+    "count": 19,
+    "top_news": "https://imemc.org/article/israeli-army-intensifies-gaza-attacks-continues-ceasefire-violations/",
+    "event_codes": {
+      "18": 11,
+      "17": 3,
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "intensifies",
+      "gaza",
+      "attacks",
+      "continues",
+      "ceasefire",
+      "violations"
     ]
   }
 }
