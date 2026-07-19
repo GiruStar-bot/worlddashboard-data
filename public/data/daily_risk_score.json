@@ -1,68 +1,48 @@
 {
   "IRN": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "https://legalinsurrection.com/2026/07/u-s-retaliates-against-irans-islamic-guards-after-jordan-strike-kills-two-soldiers/",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "http://www.thegazette.com/news/world/us-service-member-killed-saturday-in-iraq-during-controlled-detonation-of-iranian-drone/article_8e9203c5-efa3-56d6-87d9-2903fa2689a8.html",
     "event_codes": {
-      "19": 7,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "2026",
-      "retaliates",
-      "against",
-      "irans",
-      "islamic",
-      "guards",
-      "after",
-      "jordan",
-      "strike",
-      "kills",
-      "two",
-      "soldiers"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://radaronline.com/p/marjorie-taylor-greene-pete-hegseth-tweet-two-service-members-killed-iran/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "marjorie",
-      "taylor",
-      "greene",
-      "pete",
-      "hegseth",
-      "tweet",
-      "two",
-      "service",
-      "members",
-      "killed",
-      "iran"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.omanobserver.om/article/1193129/world/region/israeli-settlers-torch-mosque-factory-in-west-bank",
-    "event_codes": {
-      "18": 5,
-      "19": 1
-    },
-    "keywords": [
-      "article",
-      "1193129",
+      "news",
       "world",
-      "region",
-      "israeli",
-      "settlers",
-      "torch",
-      "mosque",
-      "factory",
-      "west",
-      "bank"
+      "service",
+      "member",
+      "killed",
+      "saturday",
+      "iraq",
+      "during",
+      "controlled",
+      "detonation",
+      "iranian",
+      "drone",
+      "article",
+      "8e9203c5",
+      "efa3",
+      "56d6",
+      "87d9",
+      "2903fa2689a8.html"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://wardheernews.com/government-forces-local-militias-ambush-al-shabaab-fighters-in-hiiraan/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "government",
+      "forces",
+      "local",
+      "militias",
+      "ambush",
+      "shabaab",
+      "fighters",
+      "hiiraan"
     ]
   }
 }
