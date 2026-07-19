@@ -1,122 +1,96 @@
 {
-  "BHR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iran-adapts-missile-arsenal-to-penetrate-us-defences/",
+  "EGY": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.egyptindependent.com/egypt-turkey-wrap-up-joint-golden-eagle-military-exercise/",
     "event_codes": {
-      "19": 5
+      "15": 4
     },
     "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "adapts",
-      "missile",
-      "arsenal",
-      "penetrate",
-      "defences"
+      "egypt",
+      "turkey",
+      "wrap",
+      "joint",
+      "golden",
+      "eagle",
+      "military",
+      "exercise"
     ]
   },
   "IRN": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iraqs-al-zaidi-charms-trump-during-visit-but-real-gains-remain-questionable-experts-say/",
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/iran-hits-us-allies-as-israel-warns-missiles-headed-for-jordan-could-land-on-its-territory/articleshow/132494836.cms",
     "event_codes": {
-      "19": 3,
-      "18": 2,
-      "17": 1
+      "16": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "mena",
-      "2026",
-      "iraqs",
-      "zaidi",
-      "charms",
-      "trump",
-      "during",
-      "visit",
-      "but",
-      "real",
-      "gains",
-      "remain",
-      "questionable",
-      "experts",
-      "say"
+      "defence",
+      "iran",
+      "hits",
+      "allies",
+      "israel",
+      "warns",
+      "missiles",
+      "headed",
+      "for",
+      "jordan",
+      "could",
+      "land",
+      "its",
+      "territory",
+      "articleshow",
+      "132494836.cms"
     ]
   },
   "ISR": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://www.jpost.com/israel-news/article-902927",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/news/defence/iran-hits-us-allies-as-israel-warns-missiles-headed-for-jordan-could-land-on-its-territory/articleshow/132494836.cms",
     "event_codes": {
-      "17": 3,
-      "18": 2,
-      "19": 2
+      "19": 3
     },
     "keywords": [
+      "news",
+      "defence",
+      "iran",
+      "hits",
+      "allies",
       "israel",
-      "news",
-      "article",
-      "902927"
+      "warns",
+      "missiles",
+      "headed",
+      "for",
+      "jordan",
+      "could",
+      "land",
+      "its",
+      "territory",
+      "articleshow",
+      "132494836.cms"
     ]
   },
-  "JOR": {
-    "risk_score": 8.8,
-    "count": 10,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iran-adapts-missile-arsenal-to-penetrate-us-defences/",
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.africanews.com/2026/07/19/car-pm-warns-armed-groups-after-attack-on-town-near-sudan-border/",
     "event_codes": {
-      "19": 6,
-      "16": 4
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "adapts",
-      "missile",
-      "arsenal",
-      "penetrate",
-      "defences"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iran-adapts-missile-arsenal-to-penetrate-us-defences/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "iran",
-      "adapts",
-      "missile",
-      "arsenal",
-      "penetrate",
-      "defences"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://www.nigerianeye.com/2026/07/soldiers-policemen-foil-iswap-attack-on.html",
-    "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 3
     },
     "keywords": [
       "2026",
-      "soldiers",
-      "policemen",
-      "foil",
-      "iswap",
+      "car",
+      "warns",
+      "armed",
+      "groups",
+      "after",
       "attack",
-      "on.html"
+      "town",
+      "near",
+      "sudan",
+      "border"
     ]
   }
 }
