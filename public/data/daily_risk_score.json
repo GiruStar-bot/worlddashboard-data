@@ -1,64 +1,122 @@
 {
-  "COD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theoaklandpress.com/2026/07/19/reported-homicides-mid-year-2026-in-oakland-county-up-or-down-from-last-year/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "reported",
-      "homicides",
-      "mid",
-      "year",
-      "2026",
-      "oakland",
-      "county",
-      "down",
-      "from",
-      "last",
-      "year"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
+  "BHR": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.irishmirror.ie/news/irish-news/politics/defence-minister-travel-lebanon-over-37445793",
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iran-adapts-missile-arsenal-to-penetrate-us-defences/",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "19": 5
     },
     "keywords": [
       "news",
-      "irish",
-      "news",
-      "politics",
-      "defence",
-      "minister",
-      "travel",
-      "lebanon",
-      "over",
-      "37445793"
+      "mena",
+      "2026",
+      "iran",
+      "adapts",
+      "missile",
+      "arsenal",
+      "penetrate",
+      "defences"
     ]
   },
-  "NGA": {
-    "risk_score": 4.8,
+  "IRN": {
+    "risk_score": 5.3,
     "count": 6,
-    "top_news": "https://www.nationalaccordnewspaper.com/troops-bust-illegal-bunkering-site-in-lagos-arrest-6/",
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iraqs-al-zaidi-charms-trump-during-visit-but-real-gains-remain-questionable-experts-say/",
     "event_codes": {
-      "17": 2,
+      "19": 3,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "iraqs",
+      "zaidi",
+      "charms",
+      "trump",
+      "during",
+      "visit",
+      "but",
+      "real",
+      "gains",
+      "remain",
+      "questionable",
+      "experts",
+      "say"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.3,
+    "count": 7,
+    "top_news": "https://www.jpost.com/israel-news/article-902927",
+    "event_codes": {
+      "17": 3,
       "18": 2,
       "19": 2
     },
     "keywords": [
-      "troops",
-      "bust",
-      "illegal",
-      "bunkering",
-      "site",
-      "lagos",
-      "arrest"
+      "israel",
+      "news",
+      "article",
+      "902927"
+    ]
+  },
+  "JOR": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iran-adapts-missile-arsenal-to-penetrate-us-defences/",
+    "event_codes": {
+      "19": 6,
+      "16": 4
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "iran",
+      "adapts",
+      "missile",
+      "arsenal",
+      "penetrate",
+      "defences"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/19/iran-adapts-missile-arsenal-to-penetrate-us-defences/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "iran",
+      "adapts",
+      "missile",
+      "arsenal",
+      "penetrate",
+      "defences"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.7,
+    "count": 4,
+    "top_news": "https://www.nigerianeye.com/2026/07/soldiers-policemen-foil-iswap-attack-on.html",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "soldiers",
+      "policemen",
+      "foil",
+      "iswap",
+      "attack",
+      "on.html"
     ]
   }
 }
