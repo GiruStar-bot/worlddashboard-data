@@ -1,40 +1,43 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-15989097/centcom-service-member-killed-iran-drone.html",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.scmp.com/news/world/middle-east/article/3361130/us-military-reports-another-soldier-killed-northern-iraq",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
       "news",
+      "world",
+      "middle",
+      "east",
       "article",
-      "15989097",
-      "centcom",
-      "service",
-      "member",
+      "3361130",
+      "military",
+      "reports",
+      "another",
+      "soldier",
       "killed",
-      "iran",
-      "drone.html"
+      "northern",
+      "iraq"
     ]
   },
-  "NGA": {
-    "risk_score": 6.65,
-    "count": 9,
-    "top_news": "https://www.nigerianeye.com/2026/07/iswap-commander-foreign-fighter-killed.html",
+  "PER": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.noozhawk.com/carol-lee-ashamalla-of-santa-barbara-1938-2026/",
     "event_codes": {
-      "19": 4,
-      "16": 3,
-      "17": 1,
-      "18": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "iswap",
-      "commander",
-      "foreign",
-      "fighter",
-      "killed.html"
+      "carol",
+      "lee",
+      "ashamalla",
+      "santa",
+      "barbara",
+      "1938",
+      "2026"
     ]
   }
 }
