@@ -1,117 +1,64 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/889054/us-and-israel-plan-shock-strike-as-situation-deteriorates-hell-breaks-loose-at-american-bases-in-jordan-with-5-dead-and-16-wounded",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "889054",
-      "and",
-      "israel",
-      "plan",
-      "shock",
-      "strike",
-      "situation",
-      "deteriorates",
-      "hell",
-      "breaks",
-      "loose",
-      "american",
-      "bases",
-      "jordan",
-      "with",
-      "dead",
-      "and",
-      "wounded"
-    ]
-  },
-  "IDN": {
-    "risk_score": 6.9,
-    "count": 10,
-    "top_news": "https://en.tempo.co/read/2114393/fact-check-did-an-indonesian-mother-kill-her-lgbt-son",
-    "event_codes": {
-      "17": 6,
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "read",
-      "2114393",
-      "fact",
-      "check",
-      "did",
-      "indonesian",
-      "mother",
-      "kill",
-      "her",
-      "lgbt",
-      "son"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.72,
-    "count": 7,
-    "top_news": "https://en.tempo.co/read/2114388/us-backs-iraq-syria-oil-pipeline-restoration-project",
-    "event_codes": {
-      "19": 6,
-      "15": 1
-    },
-    "keywords": [
-      "read",
-      "2114388",
-      "backs",
-      "iraq",
-      "syria",
-      "oil",
-      "pipeline",
-      "restoration",
-      "project"
-    ]
-  },
-  "JOR": {
+  "COD": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/889054/us-and-israel-plan-shock-strike-as-situation-deteriorates-hell-breaks-loose-at-american-bases-in-jordan-with-5-dead-and-16-wounded",
+    "top_news": "https://www.theoaklandpress.com/2026/07/19/reported-homicides-mid-year-2026-in-oakland-county-up-or-down-from-last-year/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "889054",
-      "and",
-      "israel",
-      "plan",
-      "shock",
-      "strike",
-      "situation",
-      "deteriorates",
-      "hell",
-      "breaks",
-      "loose",
-      "american",
-      "bases",
-      "jordan",
-      "with",
-      "dead",
-      "and",
-      "wounded"
+      "2026",
+      "reported",
+      "homicides",
+      "mid",
+      "year",
+      "2026",
+      "oakland",
+      "county",
+      "down",
+      "from",
+      "last",
+      "year"
     ]
   },
-  "TWN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://focustaiwan.tw/politics/202607190004",
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.irishmirror.ie/news/irish-news/politics/defence-minister-travel-lebanon-over-37445793",
     "event_codes": {
-      "19": 4
+      "17": 4,
+      "19": 1
     },
     "keywords": [
+      "news",
+      "irish",
+      "news",
       "politics",
-      "202607190004"
+      "defence",
+      "minister",
+      "travel",
+      "lebanon",
+      "over",
+      "37445793"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.nationalaccordnewspaper.com/troops-bust-illegal-bunkering-site-in-lagos-arrest-6/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "troops",
+      "bust",
+      "illegal",
+      "bunkering",
+      "site",
+      "lagos",
+      "arrest"
     ]
   }
 }
