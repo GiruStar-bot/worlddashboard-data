@@ -1,43 +1,43 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.scmp.com/news/world/middle-east/article/3361130/us-military-reports-another-soldier-killed-northern-iraq",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-surprise-attack-command-centre-syria",
     "event_codes": {
-      "19": 3
+      "19": 10
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "irgc",
+      "claims",
+      "surprise",
+      "attack",
+      "command",
+      "centre",
+      "syria"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.pakistantelegraph.com/news/279188361/us-launches-new-iran-strikes-reimposes-naval-blockade",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "middle",
-      "east",
-      "article",
-      "3361130",
-      "military",
-      "reports",
-      "another",
-      "soldier",
-      "killed",
-      "northern",
-      "iraq"
-    ]
-  },
-  "PER": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.noozhawk.com/carol-lee-ashamalla-of-santa-barbara-1938-2026/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "carol",
-      "lee",
-      "ashamalla",
-      "santa",
-      "barbara",
-      "1938",
-      "2026"
+      "279188361",
+      "launches",
+      "new",
+      "iran",
+      "strikes",
+      "reimposes",
+      "naval",
+      "blockade"
     ]
   }
 }
