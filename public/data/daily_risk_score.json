@@ -1,99 +1,144 @@
 {
-  "ARE": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/07/18/us-strikes-irans-revolutionary-guard-over-attack-that-killed-troops-in-jordan",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "strikes",
-      "irans",
-      "revolutionary",
-      "guard",
-      "over",
-      "attack",
-      "that",
-      "killed",
-      "troops",
-      "jordan"
-    ]
-  },
-  "IRN": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.bozemandailychronicle.com/ap_news/business/us-strikes-irans-revolutionary-guard-over-attack-that-killed-troops-in-jordan/article_088d4d4c-4eb8-50c1-893f-b641d5a9deb9.html",
+    "top_news": "https://www.theweek.in/news/middle-east/2026/07/19/two-us-troops-killed-in-jordan-as-iranian-drone-attack-shatters-ceasefire.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "business",
-      "strikes",
-      "irans",
-      "revolutionary",
-      "guard",
-      "over",
-      "attack",
-      "that",
-      "killed",
+      "middle",
+      "east",
+      "2026",
+      "two",
       "troops",
+      "killed",
       "jordan",
-      "article",
-      "088d4d4c",
-      "4eb8",
-      "50c1",
-      "893f",
-      "b641d5a9deb9.html"
+      "iranian",
+      "drone",
+      "attack",
+      "shatters",
+      "ceasefire.html"
+    ]
+  },
+  "BRA": {
+    "risk_score": 2.84,
+    "count": 4,
+    "top_news": "https://english.elpais.com/international/2026-07-19/the-meteoriticists-a-trio-of-women-scientists-hunting-fallen-celestial-bodies-in-brazil.html",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "international",
+      "2026",
+      "the",
+      "meteoriticists",
+      "trio",
+      "women",
+      "scientists",
+      "hunting",
+      "fallen",
+      "celestial",
+      "bodies",
+      "brazil.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 10.8,
+    "count": 11,
+    "top_news": "https://www.arabnews.com/node/2651471/middle-east",
+    "event_codes": {
+      "19": 9,
+      "18": 2
+    },
+    "keywords": [
+      "node",
+      "2651471",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2651471/middle-east",
+    "event_codes": {
+      "19": 4,
+      "20": 1
+    },
+    "keywords": [
+      "node",
+      "2651471",
+      "middle",
+      "east"
     ]
   },
   "JOR": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "http://www.bozemandailychronicle.com/ap_news/business/us-strikes-irans-revolutionary-guard-over-attack-that-killed-troops-in-jordan/article_088d4d4c-4eb8-50c1-893f-b641d5a9deb9.html",
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://en.dailypakistan.com.pk/19-Jul-2026/us-batters-iran-for-8th-straight-night-tehran-hits-back-at-kuwaits-ali-al-salem-air-base",
     "event_codes": {
-      "19": 3,
+      "19": 5,
       "18": 1
     },
     "keywords": [
-      "news",
-      "business",
-      "strikes",
-      "irans",
-      "revolutionary",
-      "guard",
-      "over",
-      "attack",
-      "that",
-      "killed",
-      "troops",
-      "jordan",
-      "article",
-      "088d4d4c",
-      "4eb8",
-      "50c1",
-      "893f",
-      "b641d5a9deb9.html"
+      "jul",
+      "2026",
+      "batters",
+      "iran",
+      "for",
+      "8th",
+      "straight",
+      "night",
+      "tehran",
+      "hits",
+      "back",
+      "kuwaits",
+      "ali",
+      "salem",
+      "air",
+      "base"
     ]
   },
-  "MYS": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/news/education/2026/07/19/balancing-tech-with-basics",
+  "NGA": {
+    "risk_score": 25.17,
+    "count": 32,
+    "top_news": "https://www.thisdaylive.com/2026/07/19/whos-afraid-of-un-probe-of-oriire-abduction/",
     "event_codes": {
-      "14": 2,
-      "17": 2
+      "18": 12,
+      "17": 10,
+      "19": 8,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
-      "news",
-      "education",
       "2026",
-      "balancing",
-      "tech",
-      "with",
-      "basics"
+      "whos",
+      "afraid",
+      "probe",
+      "oriire",
+      "abduction"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "http://thepeninsulaqatar.com/opinion/19/07/2026/10th-year-of-the-15-july-victory-of-t%C3%BCrkiyes-resilience",
+    "event_codes": {
+      "14": 2,
+      "18": 2
+    },
+    "keywords": [
+      "opinion",
+      "2026",
+      "10th",
+      "year",
+      "the",
+      "july",
+      "victory",
+      "t%c3%bcrkiyes",
+      "resilience"
     ]
   }
 }
