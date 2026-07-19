@@ -1,48 +1,92 @@
 {
-  "IRN": {
-    "risk_score": 13.04,
-    "count": 14,
-    "top_news": "https://en.apa.az/america/hegseth-says-deaths-of-two-american-soldiers-will-strengthen-us-resolve-516793",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://indianexpress.com/article/world/us-iran-war-live-updates-troops-killed-jordan-gulf-strikes-10793063/",
     "event_codes": {
-      "17": 12,
       "19": 2
     },
     "keywords": [
-      "america",
-      "hegseth",
-      "says",
-      "deaths",
+      "article",
+      "world",
+      "iran",
+      "war",
+      "live",
+      "updates",
+      "troops",
+      "killed",
+      "jordan",
+      "gulf",
+      "strikes",
+      "10793063"
+    ]
+  },
+  "IRN": {
+    "risk_score": 36.55,
+    "count": 39,
+    "top_news": "https://www.manilatimes.net/2026/07/19/world/us-launches-new-airstrikes-to-punish-iran-after-two-troops-killed/2387046",
+    "event_codes": {
+      "19": 34,
+      "14": 2,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "launches",
+      "new",
+      "airstrikes",
+      "punish",
+      "iran",
+      "after",
       "two",
-      "american",
-      "soldiers",
-      "will",
-      "strengthen",
-      "resolve",
-      "516793"
+      "troops",
+      "killed",
+      "2387046"
     ]
   },
   "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-fresh-airstrikes-on-iran-after-attack-on-american-troops-in-jordan/articleshow/132488646.cms",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.manilatimes.net/2026/07/19/world/us-launches-new-airstrikes-to-punish-iran-after-two-troops-killed/2387046",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
+      "2026",
       "world",
-      "middle",
-      "east",
       "launches",
-      "fresh",
+      "new",
       "airstrikes",
+      "punish",
       "iran",
       "after",
-      "attack",
-      "american",
+      "two",
       "troops",
-      "jordan",
-      "articleshow",
-      "132488646.cms"
+      "killed",
+      "2387046"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.3,
+    "count": 13,
+    "top_news": "https://www.vanguardngr.com/2026/07/nigerias-democracy-without-legislators-and-judiciary-by-dele-sobowale/",
+    "event_codes": {
+      "17": 6,
+      "16": 4,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "nigerias",
+      "democracy",
+      "without",
+      "legislators",
+      "and",
+      "judiciary",
+      "dele",
+      "sobowale"
     ]
   }
 }
