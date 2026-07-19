@@ -1,91 +1,40 @@
 {
   "IRN": {
-    "risk_score": 14.8,
-    "count": 15,
-    "top_news": "https://www.lbc.co.uk/article/us-soldier-remains-found-iran-strike-jordan-5HjddpF_2/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-15989097/centcom-service-member-killed-iran-drone.html",
     "event_codes": {
-      "19": 14,
-      "16": 1
+      "19": 4
     },
     "keywords": [
+      "news",
       "article",
-      "soldier",
-      "remains",
-      "found",
+      "15989097",
+      "centcom",
+      "service",
+      "member",
+      "killed",
       "iran",
-      "strike",
-      "jordan",
-      "5hjddpf"
+      "drone.html"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://indianexpress.com/article/world/us-iran-war-mq9-reaper-drones-downed-military-bases-damaged-jordan-bahrain-qatar-10794154/",
+  "NGA": {
+    "risk_score": 6.65,
+    "count": 9,
+    "top_news": "https://www.nigerianeye.com/2026/07/iswap-commander-foreign-fighter-killed.html",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "world",
-      "iran",
-      "war",
-      "mq9",
-      "reaper",
-      "drones",
-      "downed",
-      "military",
-      "bases",
-      "damaged",
-      "jordan",
-      "bahrain",
-      "qatar",
-      "10794154"
-    ]
-  },
-  "ISR": {
-    "risk_score": 37.02,
-    "count": 40,
-    "top_news": "https://imemc.org/article/israeli-army-intensifies-gaza-attacks-continues-ceasefire-violations/",
-    "event_codes": {
-      "19": 20,
-      "18": 9,
-      "17": 7,
+      "19": 4,
       "16": 3,
-      "15": 1
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "article",
-      "israeli",
-      "army",
-      "intensifies",
-      "gaza",
-      "attacks",
-      "continues",
-      "ceasefire",
-      "violations"
-    ]
-  },
-  "PSE": {
-    "risk_score": 17.1,
-    "count": 19,
-    "top_news": "https://imemc.org/article/israeli-army-intensifies-gaza-attacks-continues-ceasefire-violations/",
-    "event_codes": {
-      "18": 11,
-      "17": 3,
-      "19": 3,
-      "15": 2
-    },
-    "keywords": [
-      "article",
-      "israeli",
-      "army",
-      "intensifies",
-      "gaza",
-      "attacks",
-      "continues",
-      "ceasefire",
-      "violations"
+      "2026",
+      "iswap",
+      "commander",
+      "foreign",
+      "fighter",
+      "killed.html"
     ]
   }
 }
