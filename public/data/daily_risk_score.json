@@ -1,76 +1,133 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-bahrains-manama",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "blasts",
-      "heard",
-      "bahrains",
-      "manama"
-    ]
-  },
   "IRN": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-intercepting-attacks-iran",
+    "risk_score": 14.32,
+    "count": 16,
+    "top_news": "https://www.latimes.com/world-nation/story/2026-07-20/trump-long-critic-of-forever-wars-may-be-stumbling-into-one-with-iran",
     "event_codes": {
-      "19": 9
+      "19": 10,
+      "17": 3,
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "bahrain",
-      "intercepting",
-      "attacks",
+      "world",
+      "nation",
+      "story",
+      "2026",
+      "trump",
+      "long",
+      "critic",
+      "forever",
+      "wars",
+      "may",
+      "stumbling",
+      "into",
+      "one",
+      "with",
       "iran"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-585",
+    "risk_score": 15.28,
+    "count": 18,
+    "top_news": "https://www.capitalgazette.com/2026/07/20/today-in-history-july-20-neil-armstrong-and-edwin-aldrin-walk-on-the-moon/",
     "event_codes": {
-      "19": 2
+      "19": 9,
+      "17": 5,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "morning",
-      "update",
-      "585"
+      "2026",
+      "today",
+      "history",
+      "july",
+      "neil",
+      "armstrong",
+      "and",
+      "edwin",
+      "aldrin",
+      "walk",
+      "the",
+      "moon"
     ]
   },
-  "TUR": {
-    "risk_score": 2.52,
-    "count": 3,
-    "top_news": "https://en.philenews.com/local/cyprus-52-years-turkish-invasion-anniversary/",
+  "JOR": {
+    "risk_score": 5.65,
+    "count": 6,
+    "top_news": "https://www.capitalgazette.com/2026/07/20/today-in-history-july-20-neil-armstrong-and-edwin-aldrin-walk-on-the-moon/",
     "event_codes": {
-      "16": 1,
-      "17": 1,
-      "18": 1
+      "18": 3,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "local",
-      "cyprus",
-      "years",
-      "turkish",
-      "invasion",
-      "anniversary"
+      "2026",
+      "today",
+      "history",
+      "july",
+      "neil",
+      "armstrong",
+      "and",
+      "edwin",
+      "aldrin",
+      "walk",
+      "the",
+      "moon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.5,
+    "count": 19,
+    "top_news": "https://pmnewsnigeria.com/2026/07/20/violence-threatens-osun-governorship-election/",
+    "event_codes": {
+      "17": 15,
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "violence",
+      "threatens",
+      "osun",
+      "governorship",
+      "election"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.ynetnews.com/article/rj00rkujnfg",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "rj00rkujnfg"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/889222/xi-jinping-orders-chinese-capture-of-taiwan-by-2027-the-most-dangerous-summer",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "889222",
+      "jinping",
+      "orders",
+      "chinese",
+      "capture",
+      "taiwan",
+      "2027",
+      "the",
+      "most",
+      "dangerous",
+      "summer"
     ]
   }
 }
