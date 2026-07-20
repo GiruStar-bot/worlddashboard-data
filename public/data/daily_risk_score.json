@@ -1,98 +1,76 @@
 {
   "BHR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.bhpioneer.com/national_news/us-bombing-of-iran-expands-as-american-troops-killed-and-tehran-retaliates-against-the-gulf/article_51358747-ec5f-594f-9523-5eeaf1976114.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "national",
-      "news",
-      "bombing",
-      "iran",
-      "expands",
-      "american",
-      "troops",
-      "killed",
-      "and",
-      "tehran",
-      "retaliates",
-      "against",
-      "the",
-      "gulf",
-      "article",
-      "51358747",
-      "ec5f",
-      "594f",
-      "9523",
-      "5eeaf1976114.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.vindy.com/news/national-news/2026/07/three-more-americans-killed-in-war/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "national",
-      "news",
-      "2026",
-      "three",
-      "more",
-      "americans",
-      "killed",
-      "war"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://thesun.ng/league-of-civil-society-condemns-kano-govts-allocation-of-1540-plots-n100m-to-apc-grassroots-leaders/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "league",
-      "civil",
-      "society",
-      "condemns",
-      "kano",
-      "govts",
-      "allocation",
-      "1540",
-      "plots",
-      "n100m",
-      "apc",
-      "grassroots",
-      "leaders"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.85,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.clickorlando.com/business/2026/07/20/the-palestinian-economy-is-struggling-in-the-west-bank-the-problem-is-too-much-cash/",
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/blasts-heard-bahrains-manama",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "business",
-      "2026",
-      "the",
-      "palestinian",
-      "economy",
-      "struggling",
-      "the",
-      "west",
-      "bank",
-      "the",
-      "problem",
-      "too",
-      "much",
-      "cash"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "blasts",
+      "heard",
+      "bahrains",
+      "manama"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-intercepting-attacks-iran",
+    "event_codes": {
+      "19": 9
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "bahrain",
+      "intercepting",
+      "attacks",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-585",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "morning",
+      "update",
+      "585"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.52,
+    "count": 3,
+    "top_news": "https://en.philenews.com/local/cyprus-52-years-turkish-invasion-anniversary/",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "local",
+      "cyprus",
+      "years",
+      "turkish",
+      "invasion",
+      "anniversary"
     ]
   }
 }
