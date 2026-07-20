@@ -1,71 +1,161 @@
 {
-  "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-903063",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.batonrougepost.com/news/279199167/xinhua-headlines-where-are-renewed-us-iran-tensions-headed",
     "event_codes": {
-      "19": 10
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
       "news",
+      "279199167",
+      "xinhua",
+      "headlines",
+      "where",
+      "are",
+      "renewed",
+      "iran",
+      "tensions",
+      "headed"
+    ]
+  },
+  "BRA": {
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/xp-vision-one-brazil-eye-care-network-private-equity-2026/",
+    "event_codes": {
+      "16": 3,
+      "19": 1
+    },
+    "keywords": [
+      "vision",
+      "one",
+      "brazil",
+      "eye",
+      "care",
+      "network",
+      "private",
+      "equity",
+      "2026"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.42,
+    "count": 12,
+    "top_news": "https://www.moneycontrol.com/world/iran-s-missile-attacks-have-changed-gulf-s-security-calculations-could-india-be-the-biggest-beneficiary-article-13978816.html",
+    "event_codes": {
+      "19": 8,
+      "18": 2,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "iran",
+      "missile",
+      "attacks",
+      "have",
+      "changed",
+      "gulf",
+      "security",
+      "calculations",
+      "could",
+      "india",
+      "the",
+      "biggest",
+      "beneficiary",
       "article",
-      "903063"
+      "13978816.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.batonrougepost.com/news/279199167/xinhua-headlines-where-are-renewed-us-iran-tensions-headed",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "279199167",
+      "xinhua",
+      "headlines",
+      "where",
+      "are",
+      "renewed",
+      "iran",
+      "tensions",
+      "headed"
     ]
   },
   "ISR": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.middleeastmonitor.com/20260720-israeli-prosecution-seeks-up-to-50-month-prison-sentence-for-sheikh-kamal-khatib/",
+    "risk_score": 5.52,
+    "count": 8,
+    "top_news": "https://www.ynetnews.com/article/bji04kjvzx",
     "event_codes": {
-      "17": 4
+      "17": 4,
+      "19": 2,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "20260720",
-      "israeli",
-      "prosecution",
-      "seeks",
-      "month",
-      "prison",
-      "sentence",
-      "for",
-      "sheikh",
-      "kamal",
-      "khatib"
+      "article",
+      "bji04kjvzx"
     ]
   },
-  "KEN": {
-    "risk_score": 2.4,
+  "JOR": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://allafrica.com/stories/202607200474.html",
+    "top_news": "https://freerepublic.com/tag/*/index?more=4388634",
     "event_codes": {
-      "16": 3
+      "19": 3
     },
     "keywords": [
-      "stories",
-      "202607200474.html"
+      "tag",
+      "index"
     ]
   },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://horseedmedia.net/puntland-authorities-face-scrutiny-over-record-number-of-journalist-arrests/423923/",
+  "NGA": {
+    "risk_score": 4.15,
+    "count": 8,
+    "top_news": "https://www.vanguardngr.com/2026/07/iru-ekun-security-network-enrolment-surpasses-80000-igboho/",
     "event_codes": {
-      "17": 4
+      "17": 7,
+      "14": 1
     },
     "keywords": [
-      "puntland",
-      "authorities",
-      "face",
-      "scrutiny",
-      "over",
-      "record",
-      "number",
-      "journalist",
-      "arrests",
-      "423923"
+      "2026",
+      "iru",
+      "ekun",
+      "security",
+      "network",
+      "enrolment",
+      "surpasses",
+      "80000",
+      "igboho"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ibtimes.com/us-planning-escalate-war-against-iran-officials-reportedly-warn-army-not-fully-ready-3805495",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "planning",
+      "escalate",
+      "war",
+      "against",
+      "iran",
+      "officials",
+      "reportedly",
+      "warn",
+      "army",
+      "not",
+      "fully",
+      "ready",
+      "3805495"
     ]
   }
 }
