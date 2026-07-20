@@ -1,62 +1,43 @@
 {
   "IRN": {
-    "risk_score": 6.0,
-    "count": 7,
-    "top_news": "https://bigislandnow.com/2026/07/20/flags-lowered-in-honor-of-fallen-hawaii-soldier-killed-in-iran-war/",
-    "event_codes": {
-      "19": 5,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "flags",
-      "lowered",
-      "honor",
-      "fallen",
-      "hawaii",
-      "soldier",
-      "killed",
-      "iran",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.85,
-    "count": 6,
-    "top_news": "https://antonyloewenstein.com/jewish-community-divided-over-israelihamas-conflict/",
-    "event_codes": {
-      "14": 3,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "jewish",
-      "community",
-      "divided",
-      "over",
-      "israelihamas",
-      "conflict"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
+    "risk_score": 2.15,
     "count": 3,
-    "top_news": "https://www.zerohedge.com/geopolitical/iranian-strikes-us-bases-jordan-aided-accurate-intel-locals-irgc-says",
+    "top_news": "https://www.dailymail.com/news/article-15991973/Trump-payback-American-soldiers-killed-Iran.html",
     "event_codes": {
-      "19": 3
+      "14": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "geopolitical",
-      "iranian",
-      "strikes",
-      "bases",
-      "jordan",
-      "aided",
-      "accurate",
-      "intel",
-      "locals",
-      "irgc",
-      "says"
+      "news",
+      "article",
+      "15991973",
+      "trump",
+      "payback",
+      "american",
+      "soldiers",
+      "killed",
+      "iran.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-15991973/Trump-payback-American-soldiers-killed-Iran.html",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "15991973",
+      "trump",
+      "payback",
+      "american",
+      "soldiers",
+      "killed",
+      "iran.html"
     ]
   }
 }
