@@ -1,43 +1,59 @@
 {
   "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-surprise-attack-command-centre-syria",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.dailymail.com/news/article-15989479/US-airstrikes-Iran-death-soldier.html",
     "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "irgc",
-      "claims",
-      "surprise",
-      "attack",
-      "command",
-      "centre",
-      "syria"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.pakistantelegraph.com/news/279188361/us-launches-new-iran-strikes-reimposes-naval-blockade",
-    "event_codes": {
-      "19": 2
+      "19": 6,
+      "18": 1
     },
     "keywords": [
       "news",
-      "279188361",
-      "launches",
-      "new",
+      "article",
+      "15989479",
+      "airstrikes",
       "iran",
-      "strikes",
-      "reimposes",
-      "naval",
-      "blockade"
+      "death",
+      "soldier.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://legitgov.org/u-s-reveals-third-service-member-killed-in-middle-east-by-iranian-drone/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "reveals",
+      "third",
+      "service",
+      "member",
+      "killed",
+      "middle",
+      "east",
+      "iranian",
+      "drone"
+    ]
+  },
+  "THA": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.chiangraitimes.com/news/chiang-mai/fierce-border-clash-in-chiang-mai/",
+    "event_codes": {
+      "19": 5,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "chiang",
+      "mai",
+      "fierce",
+      "border",
+      "clash",
+      "chiang",
+      "mai"
     ]
   }
 }
