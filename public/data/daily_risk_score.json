@@ -1,59 +1,98 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.dailymail.com/news/article-15989479/US-airstrikes-Iran-death-soldier.html",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bhpioneer.com/national_news/us-bombing-of-iran-expands-as-american-troops-killed-and-tehran-retaliates-against-the-gulf/article_51358747-ec5f-594f-9523-5eeaf1976114.html",
     "event_codes": {
-      "19": 6,
-      "18": 1
+      "19": 2
     },
     "keywords": [
+      "national",
       "news",
-      "article",
-      "15989479",
-      "airstrikes",
+      "bombing",
       "iran",
-      "death",
-      "soldier.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://legitgov.org/u-s-reveals-third-service-member-killed-in-middle-east-by-iranian-drone/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "reveals",
-      "third",
-      "service",
-      "member",
+      "expands",
+      "american",
+      "troops",
       "killed",
-      "middle",
-      "east",
-      "iranian",
-      "drone"
+      "and",
+      "tehran",
+      "retaliates",
+      "against",
+      "the",
+      "gulf",
+      "article",
+      "51358747",
+      "ec5f",
+      "594f",
+      "9523",
+      "5eeaf1976114.html"
     ]
   },
-  "THA": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://www.chiangraitimes.com/news/chiang-mai/fierce-border-clash-in-chiang-mai/",
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.vindy.com/news/national-news/2026/07/three-more-americans-killed-in-war/",
     "event_codes": {
-      "19": 5,
-      "17": 1,
-      "18": 1
+      "19": 4
     },
     "keywords": [
       "news",
-      "chiang",
-      "mai",
-      "fierce",
-      "border",
-      "clash",
-      "chiang",
-      "mai"
+      "national",
+      "news",
+      "2026",
+      "three",
+      "more",
+      "americans",
+      "killed",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://thesun.ng/league-of-civil-society-condemns-kano-govts-allocation-of-1540-plots-n100m-to-apc-grassroots-leaders/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "league",
+      "civil",
+      "society",
+      "condemns",
+      "kano",
+      "govts",
+      "allocation",
+      "1540",
+      "plots",
+      "n100m",
+      "apc",
+      "grassroots",
+      "leaders"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.clickorlando.com/business/2026/07/20/the-palestinian-economy-is-struggling-in-the-west-bank-the-problem-is-too-much-cash/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "the",
+      "palestinian",
+      "economy",
+      "struggling",
+      "the",
+      "west",
+      "bank",
+      "the",
+      "problem",
+      "too",
+      "much",
+      "cash"
     ]
   }
 }
