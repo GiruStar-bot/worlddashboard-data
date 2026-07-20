@@ -1,153 +1,116 @@
 {
-  "BHR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://tradearabia.com:443/News/465375/Bahrain-says-Iranian-drone-attack-targeted-civil-aviation-infrastructure/MISC",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "465375",
-      "bahrain",
-      "says",
-      "iranian",
-      "drone",
-      "attack",
-      "targeted",
-      "civil",
-      "aviation",
-      "infrastructure",
-      "misc"
-    ]
-  },
-  "IRN": {
-    "risk_score": 8.12,
-    "count": 9,
-    "top_news": "https://oswegocountytoday.com/opinion/letters-to-the-editor/us-war-crimes-in-iran/",
-    "event_codes": {
-      "19": 7,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "opinion",
-      "letters",
-      "the",
-      "editor",
-      "war",
-      "crimes",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.55,
-    "count": 10,
-    "top_news": "https://www.newsweek.com/iran-houthi-allies-blocked-bab-el-mandeb-oil-route-12217992",
-    "event_codes": {
-      "19": 6,
-      "17": 2,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "iran",
-      "houthi",
-      "allies",
-      "blocked",
-      "bab",
-      "mandeb",
-      "oil",
-      "route",
-      "12217992"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://time.com/article/2026/07/20/iran-war-us-service-members-killed-trump-democrat-lawmakers-response/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "iran",
-      "war",
-      "service",
-      "members",
-      "killed",
-      "trump",
-      "democrat",
-      "lawmakers",
-      "response"
-    ]
-  },
-  "KWT": {
-    "risk_score": 5.0,
+  "COL": {
+    "risk_score": 4.5,
     "count": 5,
-    "top_news": "https://aa.com.tr/en/middle-east/syria-kuwait-agree-to-establish-joint-coordination-committee/4003958",
+    "top_news": "https://kyma.com/decision-politics/national-politics/2026/07/20/white-house-border-czar-on-shootings-in-texas-and-maine-ice-body-cams-and-alleged-election-fraud/",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "syria",
-      "kuwait",
-      "agree",
-      "establish",
-      "joint",
-      "coordination",
-      "committee",
-      "4003958"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.8,
-    "count": 5,
-    "top_news": "https://thenationonlineng.net/ekiti-2026-oluyede-submits-memorandum-to-tinubu-backs-2027-re-election/",
-    "event_codes": {
-      "17": 3,
-      "14": 2
-    },
-    "keywords": [
-      "ekiti",
-      "2026",
-      "oluyede",
-      "submits",
-      "memorandum",
-      "tinubu",
-      "backs",
-      "2027",
-      "election"
-    ]
-  },
-  "SSD": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.eyeradio.org/one-year-after-juba-checkpoint-shooting-15-year-old-police-officer-sent-to-juvenile-reformatory-for-murder/",
-    "event_codes": {
-      "19": 5,
+      "19": 4,
       "17": 1
     },
     "keywords": [
-      "one",
-      "year",
-      "after",
-      "juba",
-      "checkpoint",
-      "shooting",
-      "year",
-      "old",
-      "police",
-      "officer",
-      "sent",
-      "juvenile",
-      "reformatory",
+      "decision",
+      "politics",
+      "national",
+      "politics",
+      "2026",
+      "white",
+      "house",
+      "border",
+      "czar",
+      "shootings",
+      "texas",
+      "and",
+      "maine",
+      "ice",
+      "body",
+      "cams",
+      "and",
+      "alleged",
+      "election",
+      "fraud"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.arabnews.com/node/2651630/middle-east",
+    "event_codes": {
+      "19": 13
+    },
+    "keywords": [
+      "node",
+      "2651630",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.3,
+    "count": 11,
+    "top_news": "https://wcbm.com/national-headline/netanyahu-wont-face-arrest-in-america-despite-mamdani-push-trump-says/",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 2,
+      "20": 1
+    },
+    "keywords": [
+      "national",
+      "headline",
+      "netanyahu",
+      "wont",
+      "face",
+      "arrest",
+      "america",
+      "despite",
+      "mamdani",
+      "push",
+      "trump",
+      "says"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.8,
+    "count": 13,
+    "top_news": "https://www.channelstv.com/2026/07/20/court-jails-two-ansaru-commanders-for-life-over-terrorism/",
+    "event_codes": {
+      "17": 8,
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "court",
+      "jails",
+      "two",
+      "ansaru",
+      "commanders",
       "for",
-      "murder"
+      "life",
+      "over",
+      "terrorism"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.democracynow.org/2026/7/20/headlines/dozens_of_israeli_settlers_storm_palestinian_village_in_occupied_west_bank",
+    "event_codes": {
+      "19": 2,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "headlines",
+      "dozens",
+      "israeli",
+      "settlers",
+      "storm",
+      "palestinian",
+      "village",
+      "occupied",
+      "west",
+      "bank"
     ]
   }
 }
