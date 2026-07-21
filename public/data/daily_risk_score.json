@@ -1,67 +1,74 @@
 {
-  "IRN": {
-    "risk_score": 3.35,
+  "IDN": {
+    "risk_score": 2.8,
     "count": 4,
-    "top_news": "https://aa.com.tr/en/us-israel-iran-war/iran-says-missile-and-drone-strikes-targeted-us-military-facilities-in-kuwait-bahrain/4004198",
+    "top_news": "http://www.thejakartapost.com/indonesia/2026/07/21/court-sentences-leader-of-baby-trafficking-ring-to-7-years-jail",
     "event_codes": {
-      "19": 3,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "indonesia",
+      "2026",
+      "court",
+      "sentences",
+      "leader",
+      "baby",
+      "trafficking",
+      "ring",
+      "years",
+      "jail"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "hormuz",
+      "tankers",
+      "fire",
+      "iran",
+      "continue",
+      "attacks",
+      "whats",
+      "the",
+      "latest"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.45,
+    "count": 13,
+    "top_news": "http://www.jpost.com/israel-news/article-903171",
+    "event_codes": {
+      "14": 8,
+      "19": 4,
       "16": 1
     },
     "keywords": [
       "israel",
-      "iran",
-      "war",
-      "iran",
-      "says",
-      "missile",
-      "and",
-      "drone",
-      "strikes",
-      "targeted",
-      "military",
-      "facilities",
-      "kuwait",
-      "bahrain",
-      "4004198"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.04,
-    "count": 18,
-    "top_news": "https://www.theguardian.com/australia-news/2026/jul/21/holocaust-survivors-australia-exclusion-nazi-germany-ntwnfb",
-    "event_codes": {
-      "18": 7,
-      "19": 5,
-      "14": 3,
-      "15": 2,
-      "17": 1
-    },
-    "keywords": [
-      "australia",
       "news",
-      "2026",
-      "jul",
-      "holocaust",
-      "survivors",
-      "australia",
-      "exclusion",
-      "nazi",
-      "germany",
-      "ntwnfb"
+      "article",
+      "903171"
     ]
   },
-  "NGA": {
-    "risk_score": 6.8,
-    "count": 11,
-    "top_news": "https://thenationonlineng.net/dilemma-of-a-nation/",
+  "SDN": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "http://www.jpost.com/international/article-903141",
     "event_codes": {
-      "17": 8,
-      "18": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "dilemma",
-      "nation"
+      "international",
+      "article",
+      "903141"
     ]
   }
 }
