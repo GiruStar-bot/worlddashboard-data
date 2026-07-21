@@ -1,81 +1,61 @@
 {
-  "IRN": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://www.rediff.com/news/report/you-ever-think-it-might-be-your-last-call-to-family-iranian-fm-asked-us-envoy/20260721.htm",
+  "ETH": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/news/america-killed-my-son-ethiopians-bombed-us-yemen",
     "event_codes": {
-      "19": 8,
-      "16": 3,
-      "18": 2
+      "19": 4,
+      "18": 1
     },
     "keywords": [
       "news",
-      "report",
-      "you",
-      "ever",
-      "think",
-      "might",
-      "your",
-      "last",
-      "call",
-      "family",
-      "iranian",
-      "asked",
-      "envoy",
-      "20260721.htm"
+      "america",
+      "killed",
+      "son",
+      "ethiopians",
+      "bombed",
+      "yemen"
     ]
   },
-  "ISR": {
-    "risk_score": 16.06,
-    "count": 18,
-    "top_news": "https://www.azernews.az/region/261336.html",
-    "event_codes": {
-      "19": 11,
-      "17": 7
-    },
-    "keywords": [
-      "region",
-      "261336.html"
-    ]
-  },
-  "SSD": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "https://www.eyeradio.org/juba-court-postpones-verdict-in-may-viral-police-assault-case/",
-    "event_codes": {
-      "18": 2,
-      "16": 1
-    },
-    "keywords": [
-      "juba",
-      "court",
-      "postpones",
-      "verdict",
-      "may",
-      "viral",
-      "police",
-      "assault",
-      "case"
-    ]
-  },
-  "YEM": {
+  "IRN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://english.aawsat.com/gulf/5298443-arab-islamic-condemnation-houthi-accusations-against-saudi-arabia",
+    "top_news": "https://www.thedailybeast.com/cnn-host-humiliates-trump-with-damning-montage/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "gulf",
-      "5298443",
-      "arab",
-      "islamic",
-      "condemnation",
-      "houthi",
-      "accusations",
-      "against",
-      "saudi",
-      "arabia"
+      "cnn",
+      "host",
+      "humiliates",
+      "trump",
+      "with",
+      "damning",
+      "montage"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-2-on-fresh-attacks-by-us-and-iran/articleshow/132536262.cms",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "markets",
+      "commodities",
+      "news",
+      "crude",
+      "oil",
+      "prices",
+      "rise",
+      "fresh",
+      "attacks",
+      "and",
+      "iran",
+      "articleshow",
+      "132536262.cms"
     ]
   }
 }
