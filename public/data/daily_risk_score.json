@@ -1,74 +1,81 @@
 {
-  "IDN": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "http://www.thejakartapost.com/indonesia/2026/07/21/court-sentences-leader-of-baby-trafficking-ring-to-7-years-jail",
+  "IRN": {
+    "risk_score": 11.4,
+    "count": 13,
+    "top_news": "https://www.rediff.com/news/report/you-ever-think-it-might-be-your-last-call-to-family-iranian-fm-asked-us-envoy/20260721.htm",
     "event_codes": {
-      "17": 2,
+      "19": 8,
+      "16": 3,
       "18": 2
     },
     "keywords": [
-      "indonesia",
-      "2026",
-      "court",
-      "sentences",
-      "leader",
-      "baby",
-      "trafficking",
-      "ring",
-      "years",
-      "jail"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
       "news",
-      "2026",
-      "hormuz",
-      "tankers",
-      "fire",
-      "iran",
-      "continue",
-      "attacks",
-      "whats",
-      "the",
-      "latest"
+      "report",
+      "you",
+      "ever",
+      "think",
+      "might",
+      "your",
+      "last",
+      "call",
+      "family",
+      "iranian",
+      "asked",
+      "envoy",
+      "20260721.htm"
     ]
   },
   "ISR": {
-    "risk_score": 9.45,
-    "count": 13,
-    "top_news": "http://www.jpost.com/israel-news/article-903171",
+    "risk_score": 16.06,
+    "count": 18,
+    "top_news": "https://www.azernews.az/region/261336.html",
     "event_codes": {
-      "14": 8,
-      "19": 4,
+      "19": 11,
+      "17": 7
+    },
+    "keywords": [
+      "region",
+      "261336.html"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "https://www.eyeradio.org/juba-court-postpones-verdict-in-may-viral-police-assault-case/",
+    "event_codes": {
+      "18": 2,
       "16": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "article",
-      "903171"
+      "juba",
+      "court",
+      "postpones",
+      "verdict",
+      "may",
+      "viral",
+      "police",
+      "assault",
+      "case"
     ]
   },
-  "SDN": {
-    "risk_score": 2.85,
+  "YEM": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.jpost.com/international/article-903141",
+    "top_news": "https://english.aawsat.com/gulf/5298443-arab-islamic-condemnation-houthi-accusations-against-saudi-arabia",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "international",
-      "article",
-      "903141"
+      "gulf",
+      "5298443",
+      "arab",
+      "islamic",
+      "condemnation",
+      "houthi",
+      "accusations",
+      "against",
+      "saudi",
+      "arabia"
     ]
   }
 }
