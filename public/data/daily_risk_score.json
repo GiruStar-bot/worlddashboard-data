@@ -1,67 +1,69 @@
 {
-  "ISR": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://legalinsurrection.com/2026/07/israel-eliminates-hamas-islamic-jihad-terrorists-who-committed-atrocities-on-october-7/",
+  "IRN": {
+    "risk_score": 9.34,
+    "count": 11,
+    "top_news": "https://www.yahoo.com/news/politics/articles/a-red-sea-blockade-threatens-a-new-front-in-us-iran-war-151629477.html",
     "event_codes": {
-      "18": 6,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "israel",
-      "eliminates",
-      "hamas",
-      "islamic",
-      "jihad",
-      "terrorists",
-      "who",
-      "committed",
-      "atrocities",
-      "october"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.premiumtimesng.com/regional/ssouth-east/897132-breaking-gunmen-invade-anambra-community-kill-four-raze-houses.html",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "regional",
-      "ssouth",
-      "east",
-      "897132",
-      "breaking",
-      "gunmen",
-      "invade",
-      "anambra",
-      "community",
-      "kill",
-      "four",
-      "raze",
-      "houses.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/7/21/deposed-turkish-opposition-leader-plans-new-party",
-    "event_codes": {
-      "16": 4,
-      "17": 2
+      "19": 6,
+      "17": 5
     },
     "keywords": [
       "news",
-      "2026",
-      "deposed",
-      "turkish",
-      "opposition",
-      "leader",
-      "plans",
+      "politics",
+      "articles",
+      "red",
+      "sea",
+      "blockade",
+      "threatens",
       "new",
-      "party"
+      "front",
+      "iran",
+      "war",
+      "151629477.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theepochtimes.com/world/trump-says-us-will-take-care-of-business-if-houthis-impose-blockade-6065160",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "says",
+      "will",
+      "take",
+      "care",
+      "business",
+      "houthis",
+      "impose",
+      "blockade",
+      "6065160"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/politics/articles/a-red-sea-blockade-threatens-a-new-front-in-us-iran-war-151629477.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "articles",
+      "red",
+      "sea",
+      "blockade",
+      "threatens",
+      "new",
+      "front",
+      "iran",
+      "war",
+      "151629477.html"
     ]
   }
 }
