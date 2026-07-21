@@ -1,69 +1,80 @@
 {
   "IRN": {
-    "risk_score": 9.34,
-    "count": 11,
-    "top_news": "https://www.yahoo.com/news/politics/articles/a-red-sea-blockade-threatens-a-new-front-in-us-iran-war-151629477.html",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.businesstimes.com.sg/international/us-war-iran-has-cost-us37-5-billion-so-far-pentagon-says",
     "event_codes": {
-      "19": 6,
-      "17": 5
+      "19": 7
     },
     "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "red",
-      "sea",
-      "blockade",
-      "threatens",
-      "new",
-      "front",
-      "iran",
+      "international",
       "war",
-      "151629477.html"
+      "iran",
+      "has",
+      "cost",
+      "us37",
+      "billion",
+      "far",
+      "pentagon",
+      "says"
     ]
   },
-  "IRQ": {
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://politicalwire.com/2026/07/21/israel-sits-out-new-round-of-u-s-strikes/",
+    "event_codes": {
+      "16": 5,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "israel",
+      "sits",
+      "out",
+      "new",
+      "round",
+      "strikes"
+    ]
+  },
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theepochtimes.com/world/trump-says-us-will-take-care-of-business-if-houthis-impose-blockade-6065160",
+    "top_news": "https://www.businesstimes.com.sg/international/us-war-iran-has-cost-us37-5-billion-so-far-pentagon-says",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "trump",
-      "says",
-      "will",
-      "take",
-      "care",
-      "business",
-      "houthis",
-      "impose",
-      "blockade",
-      "6065160"
+      "international",
+      "war",
+      "iran",
+      "has",
+      "cost",
+      "us37",
+      "billion",
+      "far",
+      "pentagon",
+      "says"
     ]
   },
-  "ISR": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/politics/articles/a-red-sea-blockade-threatens-a-new-front-in-us-iran-war-151629477.html",
+  "NGA": {
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://blueprint.ng/police-rescue-11-kidnap-victims-in-gummi-sokoto-highway-bandits-ambush/",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "18": 7,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "red",
-      "sea",
-      "blockade",
-      "threatens",
-      "new",
-      "front",
-      "iran",
-      "war",
-      "151629477.html"
+      "police",
+      "rescue",
+      "kidnap",
+      "victims",
+      "gummi",
+      "sokoto",
+      "highway",
+      "bandits",
+      "ambush"
     ]
   }
 }
