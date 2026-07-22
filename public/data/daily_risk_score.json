@@ -1,64 +1,68 @@
 {
-  "ISR": {
-    "risk_score": 6.45,
-    "count": 9,
-    "top_news": "https://freebeacon.com/media/embarrassment-as-second-major-journalism-group-secretly-removes-terrorist-names-from-list-of-slain-journalists-in-gaza-groups-woes-mirror-those-of-cpj/",
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.hindustantimes.com/world-news/us-iran-war-news-us-hits-bushehr-tabriz-trump-says-strikes-not-finished-brent-crude-at-a-high-10-updates-101784689152551.html",
     "event_codes": {
-      "14": 3,
-      "17": 3,
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "media",
-      "embarrassment",
-      "second",
-      "major",
-      "journalism",
-      "group",
-      "secretly",
-      "removes",
-      "terrorist",
-      "names",
-      "from",
-      "list",
-      "slain",
-      "journalists",
-      "gaza",
-      "groups",
-      "woes",
-      "mirror",
-      "those",
-      "cpj"
+      "world",
+      "news",
+      "iran",
+      "war",
+      "news",
+      "hits",
+      "bushehr",
+      "tabriz",
+      "trump",
+      "says",
+      "strikes",
+      "not",
+      "finished",
+      "brent",
+      "crude",
+      "high",
+      "updates",
+      "101784689152551.html"
     ]
   },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://freebeacon.com/media/embarrassment-as-second-major-journalism-group-secretly-removes-terrorist-names-from-list-of-slain-journalists-in-gaza-groups-woes-mirror-those-of-cpj/",
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 13,
+    "top_news": "https://www.ibtimes.com.au/trump-netanyahu-icc-dispute-1872738",
     "event_codes": {
-      "19": 2
+      "17": 7,
+      "18": 5,
+      "19": 1
     },
     "keywords": [
-      "media",
-      "embarrassment",
-      "second",
-      "major",
-      "journalism",
-      "group",
-      "secretly",
-      "removes",
-      "terrorist",
-      "names",
-      "from",
-      "list",
-      "slain",
-      "journalists",
-      "gaza",
-      "groups",
-      "woes",
-      "mirror",
-      "those",
-      "cpj"
+      "trump",
+      "netanyahu",
+      "icc",
+      "dispute",
+      "1872738"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.85,
+    "count": 6,
+    "top_news": "https://dailytrust.com/months-to-election-opposition-parties-still-battling-crises-in-katsina/",
+    "event_codes": {
+      "16": 3,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "months",
+      "election",
+      "opposition",
+      "parties",
+      "still",
+      "battling",
+      "crises",
+      "katsina"
     ]
   }
 }
