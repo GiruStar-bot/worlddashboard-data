@@ -1,113 +1,118 @@
 {
   "IRN": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://www.zerohedge.com/geopolitical/iran-blasts-us-fabricated-pretext-hit-pickaxe-mountain-launches-more-attacks-bahrain",
+    "risk_score": 14.5,
+    "count": 15,
+    "top_news": "https://www.aol.co.uk/articles/donald-trump-threatens-blow-bridge-163701000.html",
     "event_codes": {
-      "19": 12
+      "19": 10,
+      "18": 5
     },
     "keywords": [
-      "geopolitical",
-      "iran",
-      "blasts",
-      "fabricated",
-      "pretext",
-      "hit",
-      "pickaxe",
-      "mountain",
-      "launches",
-      "more",
-      "attacks",
-      "bahrain"
+      "articles",
+      "donald",
+      "trump",
+      "threatens",
+      "blow",
+      "bridge",
+      "163701000.html"
     ]
   },
   "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://nypost.com/2026/07/22/us-news/trump-attends-dignified-transfer-of-4-us-troops-killed-in-iran-war-one-of-the-hardest-things-to-do/",
+    "top_news": "https://www.yahoo.com/news/us/articles/pentagon-names-fourth-us-troop-235109125.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
       "news",
-      "trump",
-      "attends",
-      "dignified",
-      "transfer",
-      "troops",
-      "killed",
-      "iran",
-      "war",
-      "one",
-      "the",
-      "hardest",
-      "things"
+      "articles",
+      "pentagon",
+      "names",
+      "fourth",
+      "troop",
+      "235109125.html"
     ]
   },
   "ISR": {
-    "risk_score": 11.3,
-    "count": 13,
-    "top_news": "https://radioislam.org.za/a/khalil-al-hayya-elected-hamas-political-bureau-chairman/",
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.fox4news.com/news/plano-police-officers-shoot-burglary-suspects-carrollton-gas-station",
     "event_codes": {
-      "19": 10,
-      "17": 3
+      "19": 4,
+      "18": 2
     },
     "keywords": [
-      "khalil",
-      "hayya",
-      "elected",
-      "hamas",
-      "political",
-      "bureau",
-      "chairman"
+      "news",
+      "plano",
+      "police",
+      "officers",
+      "shoot",
+      "burglary",
+      "suspects",
+      "carrollton",
+      "gas",
+      "station"
     ]
   },
   "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://nypost.com/2026/07/22/us-news/trump-attends-dignified-transfer-of-4-us-troops-killed-in-iran-war-one-of-the-hardest-things-to-do/",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.cbsnews.com/news/trump-dignified-transfer-service-members-killed-in-middle-east-strikes/",
     "event_codes": {
-      "19": 3
+      "19": 5
     },
     "keywords": [
-      "2026",
       "news",
       "trump",
-      "attends",
       "dignified",
       "transfer",
-      "troops",
+      "service",
+      "members",
       "killed",
-      "iran",
-      "war",
-      "one",
-      "the",
-      "hardest",
-      "things"
+      "middle",
+      "east",
+      "strikes"
     ]
   },
-  "KEN": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://capitalfm.africa/narok-court-jails-70-year-old-man-for-life-over-incest-with-granddaughter/",
+  "KWT": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/donald-trump-threatens-blow-bridge-163701000.html",
     "event_codes": {
-      "17": 3,
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "narok",
-      "court",
-      "jails",
-      "year",
-      "old",
-      "man",
-      "for",
-      "life",
-      "over",
-      "incest",
-      "with",
-      "granddaughter"
+      "articles",
+      "donald",
+      "trump",
+      "threatens",
+      "blow",
+      "bridge",
+      "163701000.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://naija247news.com/u-s-urges-nigeria-to-protect-christians-after-pastor-says-nine-relatives-were-killed/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "urges",
+      "nigeria",
+      "protect",
+      "christians",
+      "after",
+      "pastor",
+      "says",
+      "nine",
+      "relatives",
+      "were",
+      "killed"
     ]
   }
 }
