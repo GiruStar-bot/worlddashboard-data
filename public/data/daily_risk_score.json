@@ -1,47 +1,170 @@
 {
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.christiantoday.com/news/church-elder-and-worship-leader-among-dead-in-fresh-wave-of-attacks-in-eastern-drc",
+  "CMR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.channelstv.com/2026/07/22/military-neutralises-iswap-chief-photographer-others-in-north-east-operation/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "news",
-      "church",
-      "elder",
-      "and",
-      "worship",
-      "leader",
-      "among",
-      "dead",
-      "fresh",
-      "wave",
-      "attacks",
-      "eastern",
-      "drc"
+      "2026",
+      "military",
+      "neutralises",
+      "iswap",
+      "chief",
+      "photographer",
+      "others",
+      "north",
+      "east",
+      "operation"
     ]
   },
   "IRN": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-hormuz-oil-prices-red-sea-houthis/",
+    "risk_score": 17.5,
+    "count": 19,
+    "top_news": "http://www.idahopress.com/news/world/iran-strikes-jordanian-city-near-israel-as-us-carries-out-another-wave-of-strikes/article_54fb2b9d-d55c-5878-b257-4810791e67f5.html",
     "event_codes": {
-      "19": 9
+      "19": 16,
+      "17": 3
     },
     "keywords": [
-      "live",
-      "updates",
+      "news",
+      "world",
       "iran",
-      "war",
-      "trump",
-      "strait",
-      "hormuz",
-      "oil",
-      "prices",
-      "red",
+      "strikes",
+      "jordanian",
+      "city",
+      "near",
+      "israel",
+      "carries",
+      "out",
+      "another",
+      "wave",
+      "strikes",
+      "article",
+      "54fb2b9d",
+      "d55c",
+      "5878",
+      "b257",
+      "4810791e67f5.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.1,
+    "count": 9,
+    "top_news": "https://www.perthnow.com.au/news/business/labor-to-expand-paid-prac-for-frontline-health-workers-c-22615093",
+    "event_codes": {
+      "14": 2,
+      "16": 2,
+      "17": 2,
+      "19": 2,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "business",
+      "labor",
+      "expand",
+      "paid",
+      "prac",
+      "for",
+      "frontline",
+      "health",
+      "workers",
+      "22615093"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "http://www.idahopress.com/news/world/iran-strikes-jordanian-city-near-israel-as-us-carries-out-another-wave-of-strikes/article_54fb2b9d-d55c-5878-b257-4810791e67f5.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "iran",
+      "strikes",
+      "jordanian",
+      "city",
+      "near",
+      "israel",
+      "carries",
+      "out",
+      "another",
+      "wave",
+      "strikes",
+      "article",
+      "54fb2b9d",
+      "d55c",
+      "5878",
+      "b257",
+      "4810791e67f5.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.56,
+    "count": 14,
+    "top_news": "https://dailytrust.com/villagers-flee-as-teenager-killed-cattle-rustled-in-fresh-benue-attack/",
+    "event_codes": {
+      "19": 7,
+      "15": 3,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "villagers",
+      "flee",
+      "teenager",
+      "killed",
+      "cattle",
+      "rustled",
+      "fresh",
+      "benue",
+      "attack"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/politics/1-killed-in-drone-attack-on-turkish-ship-as-black-sea-security-wanes/news",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "politics",
+      "killed",
+      "drone",
+      "attack",
+      "turkish",
+      "ship",
+      "black",
       "sea",
-      "houthis"
+      "security",
+      "wanes",
+      "news"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://news.tuoitre.vn/2-vietnamese-charged-in-171000-durian-chemical-smuggling-case-103260722162420468.htm",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "vietnamese",
+      "charged",
+      "171000",
+      "durian",
+      "chemical",
+      "smuggling",
+      "case",
+      "103260722162420468.htm"
     ]
   }
 }
