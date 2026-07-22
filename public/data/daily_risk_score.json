@@ -1,125 +1,145 @@
 {
   "ETH": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.ibtimes.co.uk/elon-musk-criticises-media-st-paul-triple-homicide-1810123",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-15996547/Minnesota-immigrant-executed-three-workers-parking-spot-dispute-Tsegaab-Binessu.html",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "elon",
-      "musk",
-      "criticises",
-      "media",
-      "paul",
-      "triple",
-      "homicide",
-      "1810123"
+      "news",
+      "article",
+      "15996547",
+      "minnesota",
+      "immigrant",
+      "executed",
+      "three",
+      "workers",
+      "parking",
+      "spot",
+      "dispute",
+      "tsegaab",
+      "binessu.html"
     ]
   },
   "IRN": {
+    "risk_score": 10.8,
+    "count": 11,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/07/10/772000/Iran-files-complaint-with-global-rail-body-over-US-strikes-on-railway-infrastructure",
+    "event_codes": {
+      "19": 10,
+      "16": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "772000",
+      "iran",
+      "files",
+      "complaint",
+      "with",
+      "global",
+      "rail",
+      "body",
+      "over",
+      "strikes",
+      "railway",
+      "infrastructure"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.79,
+    "count": 9,
+    "top_news": "https://www.jpost.com/diaspora/antisemitism/article-903374",
+    "event_codes": {
+      "17": 6,
+      "14": 3
+    },
+    "keywords": [
+      "diaspora",
+      "antisemitism",
+      "article",
+      "903374"
+    ]
+  },
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://laist.com/news/us-iranian-attacks-continue-tensions-mount-red-sea",
+    "top_news": "https://www.wbap.com/2026/07/22/carrollton-honors-pvt-isabella-gonzales-fallen-u-s-soldier-in-middle-east-attack/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "iranian",
-      "attacks",
-      "continue",
-      "tensions",
-      "mount",
-      "red",
-      "sea"
+      "2026",
+      "carrollton",
+      "honors",
+      "pvt",
+      "isabella",
+      "gonzales",
+      "fallen",
+      "soldier",
+      "middle",
+      "east",
+      "attack"
     ]
   },
-  "ISR": {
-    "risk_score": 13.59,
-    "count": 16,
-    "top_news": "http://www.bignewsnetwork.com/news/279203959/increasing-israeli-attacks-leave-gazans-in-dire-living-conditions-un",
+  "KEN": {
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://www.standardmedia.co.ke/national/article/2001553504/charles-owino-states-new-spokesperson-faces-an-uphill-credibility-test",
     "event_codes": {
       "19": 7,
-      "17": 5,
-      "14": 2,
-      "20": 2
+      "17": 2
     },
     "keywords": [
-      "news",
-      "279203959",
-      "increasing",
-      "israeli",
-      "attacks",
-      "leave",
-      "gazans",
-      "dire",
-      "living",
-      "conditions"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.02,
-    "count": 3,
-    "top_news": "https://laist.com/news/us-iranian-attacks-continue-tensions-mount-red-sea",
-    "event_codes": {
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "iranian",
-      "attacks",
-      "continue",
-      "tensions",
-      "mount",
-      "red",
-      "sea"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.22,
-    "count": 4,
-    "top_news": "https://www.standardmedia.co.ke/world/article/2001553527/lebanon-pm-says-beirut-working-for-complete-israeli-withdrawal",
-    "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "world",
+      "national",
       "article",
-      "2001553527",
-      "lebanon",
-      "says",
-      "beirut",
-      "working",
-      "for",
-      "complete",
-      "israeli",
-      "withdrawal"
+      "2001553504",
+      "charles",
+      "owino",
+      "states",
+      "new",
+      "spokesperson",
+      "faces",
+      "uphill",
+      "credibility",
+      "test"
     ]
   },
-  "VEN": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.standardmedia.co.ke/world/article/2001553528/us-trial-of-venezuelas-maduro-set-for-june-2027",
+  "NGA": {
+    "risk_score": 4.05,
+    "count": 6,
+    "top_news": "https://www.nigerianeye.com/2026/07/ophk-drone-strike-neutralises-over-20.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 3,
+      "14": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "article",
-      "2001553528",
-      "trial",
-      "venezuelas",
-      "maduro",
-      "set",
-      "for",
-      "june",
-      "2027"
+      "2026",
+      "ophk",
+      "drone",
+      "strike",
+      "neutralises",
+      "over",
+      "20.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/07/22/772797/Press-TV-s-news-headlines-",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "772797",
+      "press",
+      "news",
+      "headlines"
     ]
   }
 }
