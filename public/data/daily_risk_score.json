@@ -1,170 +1,113 @@
 {
-  "CMR": {
+  "IRN": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.zerohedge.com/geopolitical/iran-blasts-us-fabricated-pretext-hit-pickaxe-mountain-launches-more-attacks-bahrain",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "geopolitical",
+      "iran",
+      "blasts",
+      "fabricated",
+      "pretext",
+      "hit",
+      "pickaxe",
+      "mountain",
+      "launches",
+      "more",
+      "attacks",
+      "bahrain"
+    ]
+  },
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.channelstv.com/2026/07/22/military-neutralises-iswap-chief-photographer-others-in-north-east-operation/",
+    "top_news": "https://nypost.com/2026/07/22/us-news/trump-attends-dignified-transfer-of-4-us-troops-killed-in-iran-war-one-of-the-hardest-things-to-do/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "2026",
-      "military",
-      "neutralises",
-      "iswap",
-      "chief",
-      "photographer",
-      "others",
-      "north",
-      "east",
-      "operation"
-    ]
-  },
-  "IRN": {
-    "risk_score": 17.5,
-    "count": 19,
-    "top_news": "http://www.idahopress.com/news/world/iran-strikes-jordanian-city-near-israel-as-us-carries-out-another-wave-of-strikes/article_54fb2b9d-d55c-5878-b257-4810791e67f5.html",
-    "event_codes": {
-      "19": 16,
-      "17": 3
-    },
-    "keywords": [
       "news",
-      "world",
+      "trump",
+      "attends",
+      "dignified",
+      "transfer",
+      "troops",
+      "killed",
       "iran",
-      "strikes",
-      "jordanian",
-      "city",
-      "near",
-      "israel",
-      "carries",
-      "out",
-      "another",
-      "wave",
-      "strikes",
-      "article",
-      "54fb2b9d",
-      "d55c",
-      "5878",
-      "b257",
-      "4810791e67f5.html"
+      "war",
+      "one",
+      "the",
+      "hardest",
+      "things"
     ]
   },
   "ISR": {
-    "risk_score": 6.1,
-    "count": 9,
-    "top_news": "https://www.perthnow.com.au/news/business/labor-to-expand-paid-prac-for-frontline-health-workers-c-22615093",
+    "risk_score": 11.3,
+    "count": 13,
+    "top_news": "https://radioislam.org.za/a/khalil-al-hayya-elected-hamas-political-bureau-chairman/",
     "event_codes": {
-      "14": 2,
-      "16": 2,
-      "17": 2,
-      "19": 2,
-      "20": 1
+      "19": 10,
+      "17": 3
     },
     "keywords": [
-      "news",
-      "business",
-      "labor",
-      "expand",
-      "paid",
-      "prac",
-      "for",
-      "frontline",
-      "health",
-      "workers",
-      "22615093"
+      "khalil",
+      "hayya",
+      "elected",
+      "hamas",
+      "political",
+      "bureau",
+      "chairman"
     ]
   },
-  "LBN": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "http://www.idahopress.com/news/world/iran-strikes-jordanian-city-near-israel-as-us-carries-out-another-wave-of-strikes/article_54fb2b9d-d55c-5878-b257-4810791e67f5.html",
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/07/22/us-news/trump-attends-dignified-transfer-of-4-us-troops-killed-in-iran-war-one-of-the-hardest-things-to-do/",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 3
     },
     "keywords": [
+      "2026",
       "news",
-      "world",
+      "trump",
+      "attends",
+      "dignified",
+      "transfer",
+      "troops",
+      "killed",
       "iran",
-      "strikes",
-      "jordanian",
-      "city",
-      "near",
-      "israel",
-      "carries",
-      "out",
-      "another",
-      "wave",
-      "strikes",
-      "article",
-      "54fb2b9d",
-      "d55c",
-      "5878",
-      "b257",
-      "4810791e67f5.html"
+      "war",
+      "one",
+      "the",
+      "hardest",
+      "things"
     ]
   },
-  "NGA": {
-    "risk_score": 11.56,
-    "count": 14,
-    "top_news": "https://dailytrust.com/villagers-flee-as-teenager-killed-cattle-rustled-in-fresh-benue-attack/",
+  "KEN": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://capitalfm.africa/narok-court-jails-70-year-old-man-for-life-over-incest-with-granddaughter/",
     "event_codes": {
-      "19": 7,
-      "15": 3,
       "17": 3,
       "18": 1
     },
     "keywords": [
-      "villagers",
-      "flee",
-      "teenager",
-      "killed",
-      "cattle",
-      "rustled",
-      "fresh",
-      "benue",
-      "attack"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/politics/1-killed-in-drone-attack-on-turkish-ship-as-black-sea-security-wanes/news",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "politics",
-      "killed",
-      "drone",
-      "attack",
-      "turkish",
-      "ship",
-      "black",
-      "sea",
-      "security",
-      "wanes",
-      "news"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://news.tuoitre.vn/2-vietnamese-charged-in-171000-durian-chemical-smuggling-case-103260722162420468.htm",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "vietnamese",
-      "charged",
-      "171000",
-      "durian",
-      "chemical",
-      "smuggling",
-      "case",
-      "103260722162420468.htm"
+      "narok",
+      "court",
+      "jails",
+      "year",
+      "old",
+      "man",
+      "for",
+      "life",
+      "over",
+      "incest",
+      "with",
+      "granddaughter"
     ]
   }
 }
