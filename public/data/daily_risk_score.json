@@ -1,97 +1,123 @@
 {
-  "IRN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/430604",
+  "ETH": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.ibtimes.co.uk/elon-musk-criticises-media-st-paul-triple-homicide-1810123",
     "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "430604"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.65,
-    "count": 11,
-    "top_news": "https://www.breitbart.com/politics/2026/07/22/mamdani-breaks-promise-to-far-left-admits-he-cannot-arrest-netanyahu/",
-    "event_codes": {
-      "18": 5,
-      "19": 3,
-      "14": 1,
-      "16": 1,
+      "19": 4,
       "17": 1
     },
     "keywords": [
-      "politics",
-      "2026",
-      "mamdani",
-      "breaks",
-      "promise",
-      "far",
-      "left",
-      "admits",
-      "cannot",
-      "arrest",
-      "netanyahu"
+      "elon",
+      "musk",
+      "criticises",
+      "media",
+      "paul",
+      "triple",
+      "homicide",
+      "1810123"
     ]
   },
-  "NGA": {
-    "risk_score": 3.72,
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://laist.com/news/us-iranian-attacks-continue-tensions-mount-red-sea",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "iranian",
+      "attacks",
+      "continue",
+      "tensions",
+      "mount",
+      "red",
+      "sea"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.59,
+    "count": 16,
+    "top_news": "http://www.bignewsnetwork.com/news/279203959/increasing-israeli-attacks-leave-gazans-in-dire-living-conditions-un",
+    "event_codes": {
+      "19": 7,
+      "17": 5,
+      "14": 2,
+      "20": 2
+    },
+    "keywords": [
+      "news",
+      "279203959",
+      "increasing",
+      "israeli",
+      "attacks",
+      "leave",
+      "gazans",
+      "dire",
+      "living",
+      "conditions"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.02,
+    "count": 3,
+    "top_news": "https://laist.com/news/us-iranian-attacks-continue-tensions-mount-red-sea",
+    "event_codes": {
+      "16": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "iranian",
+      "attacks",
+      "continue",
+      "tensions",
+      "mount",
+      "red",
+      "sea"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.22,
     "count": 4,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/897404-senate-frowns-at-non-implementation-of-resolutions-by-mdas-mulls-budgetary-sanctions-against-agencies.html",
+    "top_news": "https://www.standardmedia.co.ke/world/article/2001553527/lebanon-pm-says-beirut-working-for-complete-israeli-withdrawal",
     "event_codes": {
-      "19": 3,
-      "15": 1
+      "19": 2,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "top",
-      "news",
-      "897404",
-      "senate",
-      "frowns",
-      "non",
-      "implementation",
-      "resolutions",
-      "mdas",
-      "mulls",
-      "budgetary",
-      "sanctions",
-      "against",
-      "agencies.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.84,
-    "count": 5,
-    "top_news": "http://www.jpost.com/opinion/article-902969",
-    "event_codes": {
-      "16": 3,
-      "15": 2
-    },
-    "keywords": [
-      "opinion",
+      "world",
       "article",
-      "902969"
+      "2001553527",
+      "lebanon",
+      "says",
+      "beirut",
+      "working",
+      "for",
+      "complete",
+      "israeli",
+      "withdrawal"
     ]
   },
   "VEN": {
-    "risk_score": 8.95,
-    "count": 12,
-    "top_news": "https://www.jamaicaobserver.com/2026/07/22/us-trial-venezuelas-maduro-set-june-2027/",
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://www.standardmedia.co.ke/world/article/2001553528/us-trial-of-venezuelas-maduro-set-for-june-2027",
     "event_codes": {
-      "18": 7,
-      "17": 4,
-      "14": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
+      "world",
+      "article",
+      "2001553528",
       "trial",
       "venezuelas",
       "maduro",
       "set",
+      "for",
       "june",
       "2027"
     ]
