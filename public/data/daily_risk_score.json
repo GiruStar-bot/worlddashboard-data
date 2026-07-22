@@ -1,68 +1,120 @@
 {
   "IRN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.hindustantimes.com/world-news/us-iran-war-news-us-hits-bushehr-tabriz-trump-says-strikes-not-finished-brent-crude-at-a-high-10-updates-101784689152551.html",
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/07/22/us-secretary-of-state-marco-rubio-claims-iran-not-serious-about-peace-talks/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 16
     },
     "keywords": [
       "world",
-      "news",
+      "middle",
+      "east",
+      "2026",
+      "secretary",
+      "state",
+      "marco",
+      "rubio",
+      "claims",
       "iran",
-      "war",
-      "news",
-      "hits",
-      "bushehr",
-      "tabriz",
-      "trump",
-      "says",
-      "strikes",
       "not",
-      "finished",
-      "brent",
-      "crude",
-      "high",
-      "updates",
-      "101784689152551.html"
+      "serious",
+      "about",
+      "peace",
+      "talks"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.i24news.tv/en/news/international/artc-us-military-says-it-has-ended-its-11th-consecutive-night-of-strikes-against-iran-live-blog",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "international",
+      "artc",
+      "military",
+      "says",
+      "has",
+      "ended",
+      "its",
+      "11th",
+      "consecutive",
+      "night",
+      "strikes",
+      "against",
+      "iran",
+      "live",
+      "blog"
     ]
   },
   "ISR": {
-    "risk_score": 9.0,
-    "count": 13,
-    "top_news": "https://www.ibtimes.com.au/trump-netanyahu-icc-dispute-1872738",
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://indianexpress.com/article/explained/explained-global/israel-election-2026-netanyahu-eisenkot-10797833/",
     "event_codes": {
-      "17": 7,
-      "18": 5,
-      "19": 1
+      "19": 6,
+      "17": 2
     },
     "keywords": [
-      "trump",
+      "article",
+      "explained",
+      "explained",
+      "global",
+      "israel",
+      "election",
+      "2026",
       "netanyahu",
-      "icc",
-      "dispute",
-      "1872738"
+      "eisenkot",
+      "10797833"
     ]
   },
   "NGA": {
-    "risk_score": 3.85,
-    "count": 6,
-    "top_news": "https://dailytrust.com/months-to-election-opposition-parties-still-battling-crises-in-katsina/",
+    "risk_score": 8.02,
+    "count": 11,
+    "top_news": "https://thenationonlineng.net/compensate-agge/",
     "event_codes": {
-      "16": 3,
-      "19": 2,
-      "14": 1
+      "17": 5,
+      "18": 4,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "months",
-      "election",
-      "opposition",
-      "parties",
-      "still",
-      "battling",
-      "crises",
-      "katsina"
+      "compensate",
+      "agge"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.winknews.com/news/international/a-palestinian-family-split-between-israel-and-gaza-reunites-after-years-of-war-and-loss/article_3d17a071-ccd3-5c5c-956f-663b60d887e6.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "palestinian",
+      "family",
+      "split",
+      "between",
+      "israel",
+      "and",
+      "gaza",
+      "reunites",
+      "after",
+      "years",
+      "war",
+      "and",
+      "loss",
+      "article",
+      "3d17a071",
+      "ccd3",
+      "5c5c",
+      "956f",
+      "663b60d887e6.html"
     ]
   }
 }
