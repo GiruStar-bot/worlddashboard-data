@@ -1,45 +1,68 @@
 {
   "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.nbcmiami.com/news/national-international/houthis-attack-saudi-tankers-red-sea-us-12th-night-strikes/3837656/",
+    "risk_score": 6.55,
+    "count": 8,
+    "top_news": "https://www.orissapost.com/kuwait-military-reports-drone-strike-at-iraq-border/",
     "event_codes": {
-      "19": 10
+      "19": 5,
+      "14": 1,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "kuwait",
+      "military",
+      "reports",
+      "drone",
+      "strike",
+      "iraq",
+      "border"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/07/23/stay-alert-us-warns-citizens-in-israel-over-violent-gangland-crime-wave/",
+    "event_codes": {
+      "19": 7,
+      "18": 1
     },
     "keywords": [
       "news",
-      "national",
-      "international",
-      "houthis",
-      "attack",
-      "saudi",
-      "tankers",
-      "red",
-      "sea",
-      "12th",
-      "night",
-      "strikes",
-      "3837656"
+      "mena",
+      "2026",
+      "stay",
+      "alert",
+      "warns",
+      "citizens",
+      "israel",
+      "over",
+      "violent",
+      "gangland",
+      "crime",
+      "wave"
     ]
   },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.kacu.org/2026-07-23/u-s-nuclear-power-deal-with-saudi-arabia-faces-criticism-in-israel",
+  "MLI": {
+    "risk_score": 9.44,
+    "count": 10,
+    "top_news": "https://pidgin.informationng.com/?p=35482",
     "event_codes": {
-      "19": 3
+      "18": 4,
+      "19": 4,
+      "17": 2
     },
-    "keywords": [
-      "2026",
-      "nuclear",
-      "power",
-      "deal",
-      "with",
-      "saudi",
-      "arabia",
-      "faces",
-      "criticism",
-      "israel"
-    ]
+    "keywords": []
+  },
+  "NGA": {
+    "risk_score": 6.12,
+    "count": 8,
+    "top_news": "https://pidgin.informationng.com/?p=35491",
+    "event_codes": {
+      "19": 4,
+      "16": 3,
+      "17": 1
+    },
+    "keywords": []
   }
 }
