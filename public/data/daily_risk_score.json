@@ -1,58 +1,171 @@
 {
   "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.aol.com/articles/secret-director-says-threat-environment-215736000.html",
+    "risk_score": 11.55,
+    "count": 12,
+    "top_news": "https://keralakaumudi.com/en/en/world/others/donald-trump-issues-warning-to-iran-and-houthis-1782886",
     "event_codes": {
-      "19": 4,
-      "18": 2
+      "19": 11,
+      "14": 1
     },
     "keywords": [
-      "articles",
-      "secret",
-      "director",
-      "says",
-      "threat",
-      "environment",
-      "215736000.html"
+      "world",
+      "others",
+      "donald",
+      "trump",
+      "issues",
+      "warning",
+      "iran",
+      "and",
+      "houthis",
+      "1782886"
     ]
   },
   "ISR": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=450523&fm=psp,tst",
+    "risk_score": 14.12,
+    "count": 15,
+    "top_news": "https://imemc.org/article/israeli-occupation-forces-kill-six-palestinians-in-gaza/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 9,
+      "18": 4,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "article.aspx"
+      "article",
+      "israeli",
+      "occupation",
+      "forces",
+      "kill",
+      "six",
+      "palestinians",
+      "gaza"
     ]
   },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://economictimes.indiatimes.com/news/politics-and-nation/nia-arrests-key-pfi-absconder-in-keralas-sreenivasan-murder-case/articleshow/132590637.cms",
+  "KHM": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://nypost.com/2026/07/23/us-news/dem-rhode-island-lawmaker-threatens-ice-your-day-of-reckoning-will-come-mother-f/",
     "event_codes": {
-      "19": 3
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "dem",
+      "rhode",
+      "island",
+      "lawmaker",
+      "threatens",
+      "ice",
+      "your",
+      "day",
+      "reckoning",
+      "will",
+      "come",
+      "mother"
+    ]
+  },
+  "LAO": {
+    "risk_score": 6.9,
+    "count": 9,
+    "top_news": "https://nypost.com/2026/07/23/us-news/dem-rhode-island-lawmaker-threatens-ice-your-day-of-reckoning-will-come-mother-f/",
+    "event_codes": {
+      "18": 6,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "dem",
+      "rhode",
+      "island",
+      "lawmaker",
+      "threatens",
+      "ice",
+      "your",
+      "day",
+      "reckoning",
+      "will",
+      "come",
+      "mother"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.2,
+    "count": 11,
+    "top_news": "https://www.premiumtimesng.com/entertainment/naija-fashion/897741-dont-let-me-die-ngozi-nwosu-appeals-for-%E2%82%A630m-for-surgeries.html",
+    "event_codes": {
+      "17": 6,
+      "18": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "entertainment",
+      "naija",
+      "fashion",
+      "897741",
+      "dont",
+      "let",
+      "die",
+      "ngozi",
+      "nwosu",
+      "appeals",
+      "for",
+      "%e2%82%a630m",
+      "for",
+      "surgeries.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 9.72,
+    "count": 10,
+    "top_news": "https://imemc.org/article/israeli-occupation-forces-kill-six-palestinians-in-gaza/",
+    "event_codes": {
+      "19": 6,
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "occupation",
+      "forces",
+      "kill",
+      "six",
+      "palestinians",
+      "gaza"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://foxrochester.com/news/nation-world/iran-war-is-getting-out-of-control-united-nations-leader-warns-houthi-rebels-yemen-president-donald-trump-strait-hormuz",
+    "event_codes": {
+      "19": 4,
+      "14": 3
     },
     "keywords": [
       "news",
-      "politics",
-      "and",
       "nation",
-      "nia",
-      "arrests",
-      "key",
-      "pfi",
-      "absconder",
-      "keralas",
-      "sreenivasan",
-      "murder",
-      "case",
-      "articleshow",
-      "132590637.cms"
+      "world",
+      "iran",
+      "war",
+      "getting",
+      "out",
+      "control",
+      "united",
+      "nations",
+      "leader",
+      "warns",
+      "houthi",
+      "rebels",
+      "yemen",
+      "president",
+      "donald",
+      "trump",
+      "strait",
+      "hormuz"
     ]
   }
 }
