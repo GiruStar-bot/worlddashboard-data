@@ -1,124 +1,121 @@
 {
-  "BRN": {
-    "risk_score": 5.0,
+  "IRN": {
+    "risk_score": 4.65,
+    "count": 7,
+    "top_news": "https://www.odnako.org/iran-us-escalation-seventh-night-of-cross-raids-tehran-suspends-the-memorandum-the-strait-of-hormuz-remains-closed/",
+    "event_codes": {
+      "17": 4,
+      "14": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "iran",
+      "escalation",
+      "seventh",
+      "night",
+      "cross",
+      "raids",
+      "tehran",
+      "suspends",
+      "the",
+      "memorandum",
+      "the",
+      "strait",
+      "hormuz",
+      "remains",
+      "closed"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.4,
     "count": 5,
-    "top_news": "https://www.hngn.com/articles/272287/20260723/rubio-meets-russias-lavrov-manila-revive-prospect-us-helping-end-ukraine-war.htm",
+    "top_news": "https://www.odnako.org/iran-us-escalation-seventh-night-of-cross-raids-tehran-suspends-the-memorandum-the-strait-of-hormuz-remains-closed/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "escalation",
+      "seventh",
+      "night",
+      "cross",
+      "raids",
+      "tehran",
+      "suspends",
+      "the",
+      "memorandum",
+      "the",
+      "strait",
+      "hormuz",
+      "remains",
+      "closed"
+    ]
+  },
+  "KEN": {
+    "risk_score": 30.21,
+    "count": 37,
+    "top_news": "https://www.the-star.co.ke/news/2026-07-23-explainer-whats-the-born-alive-principle-why-did-it-shape-sharon-case",
+    "event_codes": {
+      "19": 14,
+      "17": 10,
+      "18": 10,
+      "15": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "explainer",
+      "whats",
+      "the",
+      "born",
+      "alive",
+      "principle",
+      "why",
+      "did",
+      "shape",
+      "sharon",
+      "case"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://gcaptain.com/iran-flew-irgc-commanders-missile-gear-to-yemens-houthis-sources-say/",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "articles",
-      "272287",
-      "20260723",
-      "rubio",
-      "meets",
-      "russias",
-      "lavrov",
-      "manila",
-      "revive",
-      "prospect",
-      "helping",
-      "end",
-      "ukraine",
-      "war.htm"
+      "iran",
+      "flew",
+      "irgc",
+      "commanders",
+      "missile",
+      "gear",
+      "yemens",
+      "houthis",
+      "sources",
+      "say"
     ]
   },
-  "GUY": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://nypost.com/2026/07/23/world-news/families-in-guyana-demand-answers-as-anger-grows-after-100-drown-in-ferry-accident/",
+  "YEM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.naturalnews.com/2026-07-23-trump-restarting-yemen-bombing-houthi-red-sea-blockade.html",
     "event_codes": {
-      "16": 2,
-      "17": 2
+      "19": 6
     },
     "keywords": [
       "2026",
-      "world",
-      "news",
-      "families",
-      "guyana",
-      "demand",
-      "answers",
-      "anger",
-      "grows",
-      "after",
-      "100",
-      "drown",
-      "ferry",
-      "accident"
-    ]
-  },
-  "IRN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://nypost.com/2026/07/23/world-news/us-beefs-up-military-might-in-middle-east-after-unleashing-powerful-b-1-bombers-to-attack-iran/",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "news",
-      "beefs",
-      "military",
-      "might",
-      "middle",
-      "east",
-      "after",
-      "unleashing",
-      "powerful",
-      "bombers",
-      "attack",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.35,
-    "count": 9,
-    "top_news": "http://www.jpost.com/christianworld/article-903457",
-    "event_codes": {
-      "19": 4,
-      "17": 3,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "christianworld",
-      "article",
-      "903457"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.4,
-    "count": 16,
-    "top_news": "https://quicknews-africa.net/police-arraign-2-brothers-over-alleged-assault-threatening-violence/",
-    "event_codes": {
-      "17": 10,
-      "18": 6
-    },
-    "keywords": [
-      "police",
-      "arraign",
-      "brothers",
-      "over",
-      "alleged",
-      "assault",
-      "threatening",
-      "violence"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/northamerica/20260723/cebd467f82044cbab080eed3b84ca0a1/c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "northamerica",
-      "20260723",
-      "cebd467f82044cbab080eed3b84ca0a1",
-      "c.html"
+      "trump",
+      "restarting",
+      "yemen",
+      "bombing",
+      "houthi",
+      "red",
+      "sea",
+      "blockade.html"
     ]
   }
 }
