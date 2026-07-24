@@ -1,43 +1,88 @@
 {
-  "IRN": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "http://www.heraldglobe.com/news/279206450/us-forces-launch-13th-consecutive-night-of-strikes-on-iran-centcom",
-    "event_codes": {
-      "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "279206450",
-      "forces",
-      "launch",
-      "13th",
-      "consecutive",
-      "night",
-      "strikes",
-      "iran",
-      "centcom"
-    ]
-  },
-  "ISR": {
+  "EGY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.fitsnews.com/2026/07/23/s-c-succession-neocon-pac-backs-lindsey-grahams-sister-for-u-s-senate/",
+    "top_news": "https://www.businessday.co.za/opinion/columnists/2026-07-24-ayabonga-cawe-farmers-struggle-to-fill-jobs-after-migrant-deadline/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "opinion",
+      "columnists",
       "2026",
-      "succession",
-      "neocon",
-      "pac",
-      "backs",
-      "lindsey",
-      "grahams",
-      "sister",
-      "for",
-      "senate"
+      "ayabonga",
+      "cawe",
+      "farmers",
+      "struggle",
+      "fill",
+      "jobs",
+      "after",
+      "migrant",
+      "deadline"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.3,
+    "count": 7,
+    "top_news": "https://www.odt.co.nz/news/world/two-thirds-of-gaza-may-face-acute-hunger-by-end-of-year-v3bj8xc4",
+    "event_codes": {
+      "17": 3,
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "two",
+      "thirds",
+      "gaza",
+      "may",
+      "face",
+      "acute",
+      "hunger",
+      "end",
+      "year",
+      "v3bj8xc4"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.vindy.com/obituaries/2026/07/japanese-militant-who-took-part-in-a-1972-tel-aviv-airport-attack-dies-in-beirut/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "obituaries",
+      "2026",
+      "japanese",
+      "militant",
+      "who",
+      "took",
+      "part",
+      "1972",
+      "tel",
+      "aviv",
+      "airport",
+      "attack",
+      "dies",
+      "beirut"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/news/international/willhouthiattacksonsaudishipshurtindia-explained/article71260842.ece",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "international",
+      "willhouthiattacksonsaudishipshurtindia",
+      "explained",
+      "article71260842.ece"
     ]
   }
 }
