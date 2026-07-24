@@ -1,61 +1,101 @@
 {
-  "ISR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://hyperallergic.com/emory-douglass-lifetime-of-revolutionary-art/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wbkb11.com/news/politics/national-politics/us-house-votes-to-curb-trumps-iran-war-powers-but-senate-backs-president-airstrikes-continue/article_6f264ddc-c94c-5927-804c-5bdef9858b22.html",
     "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "national",
+      "politics",
+      "house",
+      "votes",
+      "curb",
+      "trumps",
+      "iran",
+      "war",
+      "powers",
+      "but",
+      "senate",
+      "backs",
+      "president",
+      "airstrikes",
+      "continue",
+      "article",
+      "6f264ddc",
+      "c94c",
+      "5927",
+      "804c",
+      "5bdef9858b22.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "http://www.goskagit.com/news/world/saudi-arabia-strikes-the-port-city-of-hodeida-in-yemen-coalition-says/article_9fdf843d-7cac-567e-ac71-b4a699a47ee8.html",
+    "event_codes": {
+      "17": 2,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "saudi",
+      "arabia",
+      "strikes",
+      "the",
+      "port",
+      "city",
+      "hodeida",
+      "yemen",
+      "coalition",
+      "says",
+      "article",
+      "9fdf843d",
+      "7cac",
+      "567e",
+      "ac71",
+      "b4a699a47ee8.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://thenationonlineng.net/outrage-as-section-of-adelekes-newly-commissioned-osogbo-flyover-sinks-after-rainfall/",
+    "event_codes": {
+      "14": 2,
       "19": 2,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "emory",
-      "douglass",
-      "lifetime",
-      "revolutionary",
-      "art"
+      "outrage",
+      "section",
+      "adelekes",
+      "newly",
+      "commissioned",
+      "osogbo",
+      "flyover",
+      "sinks",
+      "after",
+      "rainfall"
     ]
   },
-  "SAU": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://whbl.com/2026/07/24/saudi-strikes-target-yemens-hodeidah-says-houthi-run-al-masirah-tv/",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "saudi",
-      "strikes",
-      "target",
-      "yemens",
-      "hodeidah",
-      "says",
-      "houthi",
-      "run",
-      "masirah"
-    ]
-  },
-  "SOM": {
+  "TUR": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://humanevents.com/2026/07/24/libby-emmons-conviction-of-minnesota-mom-for-saying-n-word-is-violation-of-first-amendment",
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/news/430726",
     "event_codes": {
-      "17": 4
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "libby",
-      "emmons",
-      "conviction",
-      "minnesota",
-      "mom",
-      "for",
-      "saying",
-      "word",
-      "violation",
-      "first",
-      "amendment"
+      "news",
+      "430726"
     ]
   }
 }
