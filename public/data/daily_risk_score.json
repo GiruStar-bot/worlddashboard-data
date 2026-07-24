@@ -1,74 +1,121 @@
 {
   "IRN": {
-    "risk_score": 8.0,
+    "risk_score": 7.0,
     "count": 8,
-    "top_news": "https://www.tribuneindia.com/news/world/iraq-denies-mediating-between-us-and-iran/",
+    "top_news": "https://www.ynetnews.com/article/rjxd2nwhzl",
     "event_codes": {
-      "19": 8
+      "19": 6,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "iraq",
-      "denies",
-      "mediating",
-      "between",
-      "and",
-      "iran"
+      "article",
+      "rjxd2nwhzl"
     ]
   },
   "ISR": {
-    "risk_score": 11.67,
-    "count": 12,
-    "top_news": "https://www.theage.com.au/world/middle-east/could-this-grieving-political-novice-defeat-netanyahu-the-polls-say-yes-20260723-p60huz.html",
+    "risk_score": 9.8,
+    "count": 13,
+    "top_news": "https://ktvz.com/news/national-world/cnn-world/2026/07/24/israel-prepares-major-military-operation-in-west-bank-after-four-palestinians-and-two-israelis-killed/",
     "event_codes": {
-      "19": 10,
-      "15": 1,
-      "18": 1
+      "17": 6,
+      "19": 4,
+      "16": 3
     },
     "keywords": [
+      "news",
+      "national",
       "world",
-      "middle",
-      "east",
-      "could",
-      "this",
-      "grieving",
-      "political",
-      "novice",
-      "defeat",
-      "netanyahu",
-      "the",
-      "polls",
-      "say",
-      "yes",
-      "20260723",
-      "p60huz.html"
+      "cnn",
+      "world",
+      "2026",
+      "israel",
+      "prepares",
+      "major",
+      "military",
+      "operation",
+      "west",
+      "bank",
+      "after",
+      "four",
+      "palestinians",
+      "and",
+      "two",
+      "israelis",
+      "killed"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.theage.com.au/world/middle-east/could-this-grieving-political-novice-defeat-netanyahu-the-polls-say-yes-20260723-p60huz.html",
+  "NGA": {
+    "risk_score": 3.7,
+    "count": 5,
+    "top_news": "https://theeagleonline.com.ng/lagos-six-liberians-nabbed-for-alleged-abduction/",
     "event_codes": {
-      "19": 2
+      "18": 3,
+      "17": 2
     },
     "keywords": [
+      "lagos",
+      "six",
+      "liberians",
+      "nabbed",
+      "for",
+      "alleged",
+      "abduction"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.9,
+    "count": 11,
+    "top_news": "https://ktvz.com/news/national-world/cnn-world/2026/07/24/israel-prepares-major-military-operation-in-west-bank-after-four-palestinians-and-two-israelis-killed/",
+    "event_codes": {
+      "19": 7,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "national",
       "world",
-      "middle",
-      "east",
-      "could",
-      "this",
-      "grieving",
-      "political",
-      "novice",
-      "defeat",
-      "netanyahu",
-      "the",
-      "polls",
-      "say",
-      "yes",
-      "20260723",
-      "p60huz.html"
+      "cnn",
+      "world",
+      "2026",
+      "israel",
+      "prepares",
+      "major",
+      "military",
+      "operation",
+      "west",
+      "bank",
+      "after",
+      "four",
+      "palestinians",
+      "and",
+      "two",
+      "israelis",
+      "killed"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://nypost.com/2026/07/24/world-news/woman-sentenced-for-attempted-murder-after-giving-rat-poison-to-ex-lover/",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "woman",
+      "sentenced",
+      "for",
+      "attempted",
+      "murder",
+      "after",
+      "giving",
+      "rat",
+      "poison",
+      "lover"
     ]
   }
 }
