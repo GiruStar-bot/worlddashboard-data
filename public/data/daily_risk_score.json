@@ -1,38 +1,84 @@
 {
-  "IDN": {
+  "ISR": {
+    "risk_score": 16.5,
+    "count": 20,
+    "top_news": "https://english.wafa.ps/Pages/Details/172871",
+    "event_codes": {
+      "18": 11,
+      "17": 4,
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172871"
+    ]
+  },
+  "MLI": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://en.tempo.co/read/2115255/fact-check-no-burning-buildings-in-surabaya-student-protest",
+    "top_news": "https://www.globalissues.org/news/2026/07/23/43661",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "read",
-      "2115255",
-      "fact",
-      "check",
-      "burning",
-      "buildings",
-      "surabaya",
-      "student",
-      "protest"
+      "news",
+      "2026",
+      "43661"
     ]
   },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 10,
-    "top_news": "http://www.batonrougepost.com/news/279207091/trump-threatens-to-seize-iranian-assets",
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://tribuneonlineng.com/i-left-school-in-form-3-at-14-to-join-my-fathers-theatre-company-owobo-ogunde/",
     "event_codes": {
-      "16": 10
+      "19": 3
     },
     "keywords": [
-      "news",
-      "279207091",
-      "trump",
-      "threatens",
-      "seize",
-      "iranian",
-      "assets"
+      "left",
+      "school",
+      "form",
+      "join",
+      "fathers",
+      "theatre",
+      "company",
+      "owobo",
+      "ogunde"
+    ]
+  },
+  "PSE": {
+    "risk_score": 9.1,
+    "count": 12,
+    "top_news": "https://english.wafa.ps/Pages/Details/172871",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "172871"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.channelnewsasia.com/singapore/man-jail-molest-granddaughter-lick-ears-6275536",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "singapore",
+      "man",
+      "jail",
+      "molest",
+      "granddaughter",
+      "lick",
+      "ears",
+      "6275536"
     ]
   }
 }
