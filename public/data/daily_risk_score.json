@@ -1,97 +1,189 @@
 {
-  "IDN": {
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-unsc01.htm",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260723",
+      "unsc01.htm"
+    ]
+  },
+  "IRN": {
+    "risk_score": 33.2,
+    "count": 37,
+    "top_news": "https://www.channelafrica.co.za/channelafrica/news/hormuz-shipping-crisis-could-deepen-global-fallout/",
+    "event_codes": {
+      "19": 25,
+      "15": 5,
+      "18": 3,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "channelafrica",
+      "news",
+      "hormuz",
+      "shipping",
+      "crisis",
+      "could",
+      "deepen",
+      "global",
+      "fallout"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/teenagers-chilling-words-police-before-34346124",
+    "event_codes": {
+      "19": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "greater",
+      "manchester",
+      "news",
+      "teenagers",
+      "chilling",
+      "words",
+      "police",
+      "before",
+      "34346124"
+    ]
+  },
+  "ISR": {
+    "risk_score": 39.12,
+    "count": 49,
+    "top_news": "https://www.middleeasteye.net/news/israeli-rights-groups-call-international-community-stop-pogrom-against-palestinians-occupied",
+    "event_codes": {
+      "19": 24,
+      "17": 18,
+      "18": 6,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "rights",
+      "groups",
+      "call",
+      "international",
+      "community",
+      "stop",
+      "pogrom",
+      "against",
+      "palestinians",
+      "occupied"
+    ]
+  },
+  "JOR": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "http://www.thejakartapost.com/business/2026/07/24/indonesia-seeks-better-us-tariff-terms-after-10-forced-labor-duty",
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260723-rferl01.htm",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "business",
+      "wmd",
+      "library",
+      "news",
+      "iran",
       "2026",
-      "indonesia",
-      "seeks",
-      "better",
-      "tariff",
-      "terms",
-      "after",
-      "forced",
-      "labor",
-      "duty"
+      "iran",
+      "260723",
+      "rferl01.htm"
     ]
   },
-  "IRN": {
-    "risk_score": 4.32,
-    "count": 5,
-    "top_news": "https://kdhnews.com/news/world/trump-weighs-wider-iranian-attacks-with-truce-still-elusive/article_8ad91ee3-899b-5660-b75d-3ee806bf42ab.html",
+  "PSE": {
+    "risk_score": 7.45,
+    "count": 10,
+    "top_news": "https://www.middleeasteye.net/news/israeli-rights-groups-call-international-community-stop-pogrom-against-palestinians-occupied",
     "event_codes": {
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "17": 5,
+      "19": 5
     },
     "keywords": [
       "news",
+      "israeli",
+      "rights",
+      "groups",
+      "call",
+      "international",
+      "community",
+      "stop",
+      "pogrom",
+      "against",
+      "palestinians",
+      "occupied"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.dailykos.com/stories/2026/7/24/800074438/world/trump-soothes-ego-by-falsifying-iran-war-casualty-data/",
+    "event_codes": {
+      "14": 2,
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "2026",
+      "800074438",
       "world",
       "trump",
-      "weighs",
-      "wider",
-      "iranian",
-      "attacks",
-      "with",
-      "truce",
-      "still",
-      "elusive",
-      "article",
-      "8ad91ee3",
-      "899b",
-      "5660",
-      "b75d",
-      "3ee806bf42ab.html"
+      "soothes",
+      "ego",
+      "falsifying",
+      "iran",
+      "war",
+      "casualty",
+      "data"
     ]
   },
-  "IRQ": {
+  "SDN": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260723-unocha01.htm",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260723",
+      "unocha01.htm"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://nypost.com/2026/07/24/world-news/drones-target-northern-iraqi-city-where-us-forces-are-based-as-us-iran-fighting-escalates/",
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260723-pakistan-mfab01.htm",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "world",
+      "wmd",
+      "library",
       "news",
-      "drones",
-      "target",
-      "northern",
-      "iraqi",
-      "city",
-      "where",
-      "forces",
-      "are",
-      "based",
-      "iran",
-      "fighting",
-      "escalates"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://www.kurv.com/israeli-military-kills-4-palestinians-after-settler-killed-in-west-bank/",
-    "event_codes": {
-      "18": 3,
-      "19": 2
-    },
-    "keywords": [
-      "israeli",
-      "military",
-      "kills",
-      "palestinians",
-      "after",
-      "settler",
-      "killed",
-      "west",
-      "bank"
+      "pakistan",
+      "2026",
+      "pakistan",
+      "260723",
+      "pakistan",
+      "mfab01.htm"
     ]
   }
 }
