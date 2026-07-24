@@ -1,205 +1,38 @@
 {
-  "BOL": {
-    "risk_score": 3.7,
-    "count": 5,
-    "top_news": "https://news.am/en/news/1051408",
+  "IDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://en.tempo.co/read/2115255/fact-check-no-burning-buildings-in-surabaya-student-protest",
     "event_codes": {
-      "16": 5
+      "19": 4
     },
     "keywords": [
-      "news",
-      "1051408"
+      "read",
+      "2115255",
+      "fact",
+      "check",
+      "burning",
+      "buildings",
+      "surabaya",
+      "student",
+      "protest"
     ]
   },
   "IRN": {
-    "risk_score": 15.0,
-    "count": 15,
-    "top_news": "https://www.penarthtimes.co.uk/news/national/26405807.uk-ready-defend-itself-iran-criticises-us-using-british-bases/",
+    "risk_score": 4.0,
+    "count": 10,
+    "top_news": "http://www.batonrougepost.com/news/279207091/trump-threatens-to-seize-iranian-assets",
     "event_codes": {
-      "19": 15
+      "16": 10
     },
     "keywords": [
       "news",
-      "national",
-      "26405807.uk",
-      "ready",
-      "defend",
-      "itself",
-      "iran",
-      "criticises",
-      "using",
-      "british",
-      "bases"
-    ]
-  },
-  "ISR": {
-    "risk_score": 19.32,
-    "count": 21,
-    "top_news": "https://www.stignacenews.com/articles/st-ignace-council-hears-data-center-concerns/",
-    "event_codes": {
-      "19": 14,
-      "16": 2,
-      "17": 2,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "articles",
-      "ignace",
-      "council",
-      "hears",
-      "data",
-      "center",
-      "concerns"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.aawsat.com/world/5299529-us-sends-more-weaponry-middle-east-giving-it-more-military-options-against-iran",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "5299529",
-      "sends",
-      "more",
-      "weaponry",
-      "middle",
-      "east",
-      "giving",
-      "more",
-      "military",
-      "options",
-      "against",
-      "iran"
-    ]
-  },
-  "KEN": {
-    "risk_score": 11.7,
-    "count": 16,
-    "top_news": "https://allafrica.com/stories/202607240102.html",
-    "event_codes": {
-      "17": 8,
-      "19": 5,
-      "18": 3
-    },
-    "keywords": [
-      "stories",
-      "202607240102.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.94,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attack-wounds-two-paramedics-south-lebanon",
-    "event_codes": {
-      "15": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "attack",
-      "wounds",
-      "two",
-      "paramedics",
-      "south",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.52,
-    "count": 8,
-    "top_news": "https://dailypost.ng/2026/07/24/kaduna-govt-warns-criminals-against-vandalizing-national-assets-vows-to-prosecute-offenders/",
-    "event_codes": {
-      "17": 4,
-      "14": 2,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "kaduna",
-      "govt",
-      "warns",
-      "criminals",
-      "against",
-      "vandalizing",
-      "national",
-      "assets",
-      "vows",
-      "prosecute",
-      "offenders"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-588",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "morning",
-      "update",
-      "588"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.bordertelegraph.com/news/national/26405808.us-strikes-iran-bahrain-warns-incoming-fire-amid-fresh-clashes/",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "26405808.us",
-      "strikes",
-      "iran",
-      "bahrain",
-      "warns",
-      "incoming",
-      "fire",
-      "amid",
-      "fresh",
-      "clashes"
-    ]
-  },
-  "YEM": {
-    "risk_score": 5.45,
-    "count": 6,
-    "top_news": "https://english.aawsat.com/world/5299530-iran-flew-irgc-commanders-missile-gear-yemens-houthis-sources-say",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "5299530",
-      "iran",
-      "flew",
-      "irgc",
-      "commanders",
-      "missile",
-      "gear",
-      "yemens",
-      "houthis",
-      "sources",
-      "say"
+      "279207091",
+      "trump",
+      "threatens",
+      "seize",
+      "iranian",
+      "assets"
     ]
   }
 }
