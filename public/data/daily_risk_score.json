@@ -1,95 +1,97 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://gulfnews.com/world/gulf/kuwait/court-finds-kuwaiti-national-guilty-of-spying-for-iran-and-hezbollah-1.500618887",
+  "IDN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "http://www.thejakartapost.com/business/2026/07/24/indonesia-seeks-better-us-tariff-terms-after-10-forced-labor-duty",
     "event_codes": {
-      "17": 4
+      "19": 5
     },
     "keywords": [
-      "world",
-      "gulf",
-      "kuwait",
-      "court",
-      "finds",
-      "kuwaiti",
-      "national",
-      "guilty",
-      "spying",
-      "for",
-      "iran",
-      "and",
-      "hezbollah",
-      "1.500618887"
+      "business",
+      "2026",
+      "indonesia",
+      "seeks",
+      "better",
+      "tariff",
+      "terms",
+      "after",
+      "forced",
+      "labor",
+      "duty"
     ]
   },
   "IRN": {
-    "risk_score": 2.85,
-    "count": 4,
-    "top_news": "https://977thebay.com/local-news/79169c572ab67d71f2c5dce8857a96f6",
+    "risk_score": 4.32,
+    "count": 5,
+    "top_news": "https://kdhnews.com/news/world/trump-weighs-wider-iranian-attacks-with-truce-still-elusive/article_8ad91ee3-899b-5660-b75d-3ee806bf42ab.html",
     "event_codes": {
-      "16": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "local",
-      "news",
-      "79169c572ab67d71f2c5dce8857a96f6"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.idahopress.com/ap_news/us/the-latest-trump-imposes-double-digit-tariffs-on-dozens-of-countries/article_1f264cc2-bd94-542b-ac93-2f4af1077bf9.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "the",
-      "latest",
-      "trump",
-      "imposes",
-      "double",
-      "digit",
-      "tariffs",
-      "dozens",
-      "countries",
-      "article",
-      "1f264cc2",
-      "bd94",
-      "542b",
-      "ac93",
-      "2f4af1077bf9.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.42,
-    "count": 13,
-    "top_news": "https://www.moneycontrol.com/world/israel-expands-west-bank-crackdown-after-deadly-clash-netanyahu-vows-full-force-response-article-13983002.html",
-    "event_codes": {
-      "19": 11,
-      "15": 1,
+      "19": 3,
+      "16": 1,
       "17": 1
     },
     "keywords": [
+      "news",
       "world",
-      "israel",
-      "expands",
-      "west",
-      "bank",
-      "crackdown",
-      "after",
-      "deadly",
-      "clash",
-      "netanyahu",
-      "vows",
-      "full",
-      "force",
-      "response",
+      "trump",
+      "weighs",
+      "wider",
+      "iranian",
+      "attacks",
+      "with",
+      "truce",
+      "still",
+      "elusive",
       "article",
-      "13983002.html"
+      "8ad91ee3",
+      "899b",
+      "5660",
+      "b75d",
+      "3ee806bf42ab.html"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nypost.com/2026/07/24/world-news/drones-target-northern-iraqi-city-where-us-forces-are-based-as-us-iran-fighting-escalates/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "drones",
+      "target",
+      "northern",
+      "iraqi",
+      "city",
+      "where",
+      "forces",
+      "are",
+      "based",
+      "iran",
+      "fighting",
+      "escalates"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://www.kurv.com/israeli-military-kills-4-palestinians-after-settler-killed-in-west-bank/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "israeli",
+      "military",
+      "kills",
+      "palestinians",
+      "after",
+      "settler",
+      "killed",
+      "west",
+      "bank"
     ]
   }
 }
