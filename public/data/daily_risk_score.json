@@ -1,119 +1,74 @@
 {
-  "BHR": {
+  "IRN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.tribuneindia.com/news/world/iraq-denies-mediating-between-us-and-iran/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "world",
+      "iraq",
+      "denies",
+      "mediating",
+      "between",
+      "and",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.67,
+    "count": 12,
+    "top_news": "https://www.theage.com.au/world/middle-east/could-this-grieving-political-novice-defeat-netanyahu-the-polls-say-yes-20260723-p60huz.html",
+    "event_codes": {
+      "19": 10,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "could",
+      "this",
+      "grieving",
+      "political",
+      "novice",
+      "defeat",
+      "netanyahu",
+      "the",
+      "polls",
+      "say",
+      "yes",
+      "20260723",
+      "p60huz.html"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://news.az/news/which-military-facilities-did-iran-say-it-targeted",
+    "top_news": "https://www.theage.com.au/world/middle-east/could-this-grieving-political-novice-defeat-netanyahu-the-polls-say-yes-20260723-p60huz.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "which",
-      "military",
-      "facilities",
-      "did",
-      "iran",
+      "world",
+      "middle",
+      "east",
+      "could",
+      "this",
+      "grieving",
+      "political",
+      "novice",
+      "defeat",
+      "netanyahu",
+      "the",
+      "polls",
       "say",
-      "targeted"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.65,
-    "count": 7,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/07/24/772934/Abdollahi-vows-kill-US-troops-for-every-Iranian-citizen-killed",
-    "event_codes": {
-      "19": 4,
-      "18": 2,
-      "14": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "772934",
-      "abdollahi",
-      "vows",
-      "kill",
-      "troops",
-      "for",
-      "every",
-      "iranian",
-      "citizen",
-      "killed"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.45,
-    "count": 9,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/07/24/772919/Palestine-West-Bank-",
-    "event_codes": {
-      "19": 7,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "772919",
-      "palestine",
-      "west",
-      "bank"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://news.az/news/which-military-facilities-did-iran-say-it-targeted",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "which",
-      "military",
-      "facilities",
-      "did",
-      "iran",
-      "say",
-      "targeted"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.45,
-    "count": 14,
-    "top_news": "https://news.az/news/nigeria-buries-26-farmers-killed-in-zamfara-bandit-attack",
-    "event_codes": {
-      "14": 5,
-      "19": 5,
-      "18": 3,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "nigeria",
-      "buries",
-      "farmers",
-      "killed",
-      "zamfara",
-      "bandit",
-      "attack"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/07/24/772919/Palestine-West-Bank-",
-    "event_codes": {
-      "18": 3,
-      "19": 3
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "772919",
-      "palestine",
-      "west",
-      "bank"
+      "yes",
+      "20260723",
+      "p60huz.html"
     ]
   }
 }
