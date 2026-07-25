@@ -1,75 +1,106 @@
 {
-  "NGA": {
-    "risk_score": 7.9,
-    "count": 10,
-    "top_news": "https://www.vanguardngr.com/2026/07/h1-2026-review-airlines-battle-rising-operational-costs-faan-faces-policy-hurdle/",
+  "ISR": {
+    "risk_score": 7.62,
+    "count": 9,
+    "top_news": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks",
     "event_codes": {
-      "18": 4,
-      "19": 3,
-      "16": 2,
-      "17": 1
+      "19": 5,
+      "17": 3,
+      "15": 1
     },
     "keywords": [
+      "news",
       "2026",
-      "2026",
-      "review",
-      "airlines",
-      "battle",
-      "rising",
-      "operational",
-      "costs",
-      "faan",
-      "faces",
-      "policy",
-      "hurdle"
+      "israel",
+      "arrests",
+      "dozens",
+      "palestinians",
+      "west",
+      "bank",
+      "amid",
+      "settler",
+      "attacks"
     ]
   },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.scmp.com/week-asia/politics/article/3361822/houthi-blockade-saudi-trade-threatens-wider-middle-east-conflict",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "week",
-      "asia",
-      "politics",
-      "article",
-      "3361822",
-      "houthi",
-      "blockade",
-      "saudi",
-      "trade",
-      "threatens",
-      "wider",
-      "middle",
-      "east",
-      "conflict"
-    ]
-  },
-  "YEM": {
+  "NER": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.ktvu.com/news/bay-area-gas-prices-surge-middle-east-tensions-shipping-threats-strain-oil-reserves",
+    "top_news": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030",
     "event_codes": {
       "19": 4
     },
     "keywords": [
+      "niger",
+      "still",
+      "seeking",
+      "stability",
+      "after",
+      "years",
+      "military",
+      "rule",
+      "78100030"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.2,
+    "count": 10,
+    "top_news": "https://theeagleonline.com.ng/ig-orders-officers-to-shoot-anyone-carrying-illegal-firearms/",
+    "event_codes": {
+      "16": 3,
+      "18": 3,
+      "14": 2,
+      "19": 2
+    },
+    "keywords": [
+      "orders",
+      "officers",
+      "shoot",
+      "anyone",
+      "carrying",
+      "illegal",
+      "firearms"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks",
+    "event_codes": {
+      "17": 3
+    },
+    "keywords": [
       "news",
-      "bay",
-      "area",
-      "gas",
-      "prices",
-      "surge",
-      "middle",
-      "east",
-      "tensions",
-      "shipping",
-      "threats",
-      "strain",
-      "oil",
-      "reserves"
+      "2026",
+      "israel",
+      "arrests",
+      "dozens",
+      "palestinians",
+      "west",
+      "bank",
+      "amid",
+      "settler",
+      "attacks"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "dodging",
+      "snipers",
+      "housing",
+      "crisis",
+      "forces",
+      "yemenis",
+      "live",
+      "front",
+      "line"
     ]
   }
 }
