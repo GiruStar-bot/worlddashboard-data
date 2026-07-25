@@ -1,76 +1,62 @@
 {
   "IRN": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://deadline.com/print-article/1237003541/",
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-903612",
     "event_codes": {
-      "18": 3
+      "14": 1,
+      "16": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "print",
+      "middle",
+      "east",
+      "iran",
+      "news",
       "article",
-      "1237003541"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.apa.az/asia/iraqi-air-defences-shoot-down-drone-near-us-consulate-in-erbil-photo-517595",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "asia",
-      "iraqi",
-      "air",
-      "defences",
-      "shoot",
-      "down",
-      "drone",
-      "near",
-      "consulate",
-      "erbil",
-      "photo",
-      "517595"
+      "903612"
     ]
   },
   "ISR": {
-    "risk_score": 12.35,
-    "count": 16,
-    "top_news": "https://www.jpost.com/opinion/article-903402",
+    "risk_score": 19.02,
+    "count": 20,
+    "top_news": "https://imemc.org/article/israeli-attacks-kill-six-palestinians-saturday-across-gaza/",
     "event_codes": {
-      "18": 7,
+      "19": 14,
       "17": 3,
-      "19": 3,
-      "16": 2,
-      "14": 1
+      "14": 2,
+      "18": 1
     },
     "keywords": [
-      "opinion",
       "article",
-      "903402"
+      "israeli",
+      "attacks",
+      "kill",
+      "six",
+      "palestinians",
+      "saturday",
+      "across",
+      "gaza"
     ]
   },
-  "KWT": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://ianslive.in/explosive-laden-drone-shot-down-near-us-consulate-in-iraqs-erbil-security-source--20260725222008",
+    "top_news": "https://www.wsmv.com/2026/07/25/investigation-underway-after-man-killed-shooting-nashville-apartment/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "explosive",
-      "laden",
-      "drone",
-      "shot",
-      "down",
-      "near",
-      "consulate",
-      "iraqs",
-      "erbil",
-      "security",
-      "source",
-      "20260725222008"
+      "2026",
+      "investigation",
+      "underway",
+      "after",
+      "man",
+      "killed",
+      "shooting",
+      "nashville",
+      "apartment"
     ]
   }
 }
