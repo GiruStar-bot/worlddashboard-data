@@ -1,15 +1,65 @@
 {
   "IRN": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "http://www.strategypage.com/on_point/2026072419208.aspx",
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.mid-day.com/news/world-news/article/lpg-tanker-with-28-indian-crew-members-comes-under-attack-near-strait-of-hormuz-23641511",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "18": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "point",
-      "2026072419208.aspx"
+      "news",
+      "world",
+      "news",
+      "article",
+      "lpg",
+      "tanker",
+      "with",
+      "indian",
+      "crew",
+      "members",
+      "comes",
+      "under",
+      "attack",
+      "near",
+      "strait",
+      "hormuz",
+      "23641511"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/features/5299826-inside-iraq%E2%80%99s-shadow-economy-parties-militias-and-oil",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "features",
+      "5299826",
+      "inside",
+      "iraq%e2%80%99s",
+      "shadow",
+      "economy",
+      "parties",
+      "militias",
+      "and",
+      "oil"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.renewamerica.com/columns/swirsky/260720",
+    "event_codes": {
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "columns",
+      "swirsky",
+      "260720"
     ]
   }
 }
