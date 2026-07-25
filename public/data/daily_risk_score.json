@@ -1,62 +1,98 @@
 {
-  "IRN": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-903612",
+  "BRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://gcaptain.com/three-clashes-in-a-week-escalate-china-philippines-sea-feud/",
     "event_codes": {
-      "14": 1,
-      "16": 1,
-      "17": 1,
-      "19": 1
+      "19": 5
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
+      "three",
+      "clashes",
+      "week",
+      "escalate",
+      "china",
+      "philippines",
+      "sea",
+      "feud"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/houthis-fire-on-saudi-oil-sites-no-us-strike-on-iran-for-first-time-in-two-weeks-101785006891818.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
       "news",
-      "article",
-      "903612"
+      "news",
+      "houthis",
+      "fire",
+      "saudi",
+      "oil",
+      "sites",
+      "strike",
+      "iran",
+      "for",
+      "first",
+      "time",
+      "two",
+      "weeks",
+      "101785006891818.html"
     ]
   },
   "ISR": {
-    "risk_score": 19.02,
-    "count": 20,
-    "top_news": "https://imemc.org/article/israeli-attacks-kill-six-palestinians-saturday-across-gaza/",
+    "risk_score": 8.67,
+    "count": 9,
+    "top_news": "https://english.wafa.ps/Pages/Details/172913",
     "event_codes": {
-      "19": 14,
-      "17": 3,
-      "14": 2,
-      "18": 1
+      "19": 8,
+      "15": 1
     },
     "keywords": [
-      "article",
-      "israeli",
-      "attacks",
-      "kill",
-      "six",
-      "palestinians",
-      "saturday",
-      "across",
-      "gaza"
+      "pages",
+      "details",
+      "172913"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wsmv.com/2026/07/25/investigation-underway-after-man-killed-shooting-nashville-apartment/",
+  "PSE": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.channelnewsasia.com/world/palestinians-bury-four-killed-in-west-bank-clash-israeli-settlers-6278351",
     "event_codes": {
-      "19": 2
+      "19": 7
     },
     "keywords": [
-      "2026",
-      "investigation",
-      "underway",
-      "after",
-      "man",
+      "world",
+      "palestinians",
+      "bury",
+      "four",
       "killed",
-      "shooting",
-      "nashville",
-      "apartment"
+      "west",
+      "bank",
+      "clash",
+      "israeli",
+      "settlers",
+      "6278351"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://gcaptain.com/houthis-fire-on-saudi-red-sea-oil-sites/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "houthis",
+      "fire",
+      "saudi",
+      "red",
+      "sea",
+      "oil",
+      "sites"
     ]
   }
 }
