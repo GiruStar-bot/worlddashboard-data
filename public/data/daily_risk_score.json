@@ -1,49 +1,76 @@
 {
   "IRN": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.wiltsglosstandard.co.uk/news/26401162.uk-ready-defend-itself-criticism-iran/",
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://deadline.com/print-article/1237003541/",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "18": 3
     },
     "keywords": [
-      "news",
-      "26401162.uk",
-      "ready",
-      "defend",
-      "itself",
-      "criticism",
-      "iran"
+      "print",
+      "article",
+      "1237003541"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.apa.az/asia/iraqi-air-defences-shoot-down-drone-near-us-consulate-in-erbil-photo-517595",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "iraqi",
+      "air",
+      "defences",
+      "shoot",
+      "down",
+      "drone",
+      "near",
+      "consulate",
+      "erbil",
+      "photo",
+      "517595"
     ]
   },
   "ISR": {
-    "risk_score": 7.6,
-    "count": 9,
-    "top_news": "https://economictimes.indiatimes.com/news/international/global-trends/ships-continue-red-sea-transit-despite-attacks-and-houthi-blockade-report/articleshow/132630195.cms",
+    "risk_score": 12.35,
+    "count": 16,
+    "top_news": "https://www.jpost.com/opinion/article-903402",
     "event_codes": {
-      "18": 4,
+      "18": 7,
+      "17": 3,
       "19": 3,
-      "17": 2
+      "16": 2,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "international",
-      "global",
-      "trends",
-      "ships",
-      "continue",
-      "red",
-      "sea",
-      "transit",
-      "despite",
-      "attacks",
-      "and",
-      "houthi",
-      "blockade",
-      "report",
-      "articleshow",
-      "132630195.cms"
+      "opinion",
+      "article",
+      "903402"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://ianslive.in/explosive-laden-drone-shot-down-near-us-consulate-in-iraqs-erbil-security-source--20260725222008",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "explosive",
+      "laden",
+      "drone",
+      "shot",
+      "down",
+      "near",
+      "consulate",
+      "iraqs",
+      "erbil",
+      "security",
+      "source",
+      "20260725222008"
     ]
   }
 }
