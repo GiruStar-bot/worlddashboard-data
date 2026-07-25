@@ -1,106 +1,123 @@
 {
-  "ISR": {
-    "risk_score": 7.62,
-    "count": 9,
-    "top_news": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ibtimes.com/fresh-tariffs-steer-trump-administration-legal-arena-how-battle-taking-shape-3805719",
     "event_codes": {
-      "19": 5,
-      "17": 3,
-      "15": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "israel",
-      "arrests",
-      "dozens",
-      "palestinians",
-      "west",
-      "bank",
-      "amid",
-      "settler",
-      "attacks"
+      "fresh",
+      "tariffs",
+      "steer",
+      "trump",
+      "administration",
+      "legal",
+      "arena",
+      "how",
+      "battle",
+      "taking",
+      "shape",
+      "3805719"
     ]
   },
-  "NER": {
+  "ISR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030",
+    "top_news": "https://www.winnipegfreepress.com/world/2026/07/25/u-n-chief-urges-international-community-to-back-syrians-during-visit-to-damascus",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "niger",
-      "still",
-      "seeking",
-      "stability",
-      "after",
-      "years",
-      "military",
-      "rule",
-      "78100030"
+      "world",
+      "2026",
+      "chief",
+      "urges",
+      "international",
+      "community",
+      "back",
+      "syrians",
+      "during",
+      "visit",
+      "damascus"
     ]
   },
   "NGA": {
-    "risk_score": 7.2,
-    "count": 10,
-    "top_news": "https://theeagleonline.com.ng/ig-orders-officers-to-shoot-anyone-carrying-illegal-firearms/",
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://dailytrust.com/in-niger-bandits-give-farmers-condition/",
     "event_codes": {
-      "16": 3,
-      "18": 3,
-      "14": 2,
-      "19": 2
+      "17": 4,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "orders",
-      "officers",
-      "shoot",
-      "anyone",
-      "carrying",
-      "illegal",
-      "firearms"
+      "niger",
+      "bandits",
+      "give",
+      "farmers",
+      "condition"
     ]
   },
-  "PSE": {
-    "risk_score": 2.7,
+  "SAU": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks",
+    "top_news": "https://tradearabia.com:443/News/465572/Missiles-targeting-Saudi-oil-refineries-shot-down,-sources-say",
     "event_codes": {
-      "17": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2026",
-      "israel",
-      "arrests",
-      "dozens",
-      "palestinians",
-      "west",
-      "bank",
-      "amid",
-      "settler",
-      "attacks"
+      "465572",
+      "missiles",
+      "targeting",
+      "saudi",
+      "oil",
+      "refineries",
+      "shot",
+      "down,",
+      "sources",
+      "say"
     ]
   },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line",
+  "SYR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/07/25/u-n-chief-urges-international-community-to-back-syrians-during-visit-to-damascus",
     "event_codes": {
-      "19": 2
+      "16": 3
     },
     "keywords": [
-      "news",
+      "world",
       "2026",
-      "dodging",
-      "snipers",
-      "housing",
-      "crisis",
-      "forces",
-      "yemenis",
-      "live",
-      "front",
-      "line"
+      "chief",
+      "urges",
+      "international",
+      "community",
+      "back",
+      "syrians",
+      "during",
+      "visit",
+      "damascus"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://groundup.org.za/article/immigrants-accuse-authorities-of-unlawful-searches-at-johannesburg-shelter/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "article",
+      "immigrants",
+      "accuse",
+      "authorities",
+      "unlawful",
+      "searches",
+      "johannesburg",
+      "shelter"
     ]
   }
 }
