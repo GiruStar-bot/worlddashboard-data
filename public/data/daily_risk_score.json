@@ -1,101 +1,308 @@
 {
+  "ARE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/policy/defense/4662678/us-strikes-iran-weeks-trump-threatening-expansion-inaccurate-death-count/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "policy",
+      "defense",
+      "4662678",
+      "strikes",
+      "iran",
+      "weeks",
+      "trump",
+      "threatening",
+      "expansion",
+      "inaccurate",
+      "death",
+      "count"
+    ]
+  },
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.iraqsun.com/news/279208482/us-pummels-iran-as-tehran-targets-regional-bases-stationing-us-forces",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "279208482",
+      "pummels",
+      "iran",
+      "tehran",
+      "targets",
+      "regional",
+      "bases",
+      "stationing",
+      "forces"
+    ]
+  },
+  "IDN": {
+    "risk_score": 6.0,
+    "count": 8,
+    "top_news": "http://www.thejakartapost.com/indonesia/2026/07/25/ago-detains-ex-top-prosecutor-febrie-after-questioning",
+    "event_codes": {
+      "17": 4,
+      "19": 4
+    },
+    "keywords": [
+      "indonesia",
+      "2026",
+      "ago",
+      "detains",
+      "top",
+      "prosecutor",
+      "febrie",
+      "after",
+      "questioning"
+    ]
+  },
   "IRN": {
+    "risk_score": 20.9,
+    "count": 21,
+    "top_news": "https://www.washingtonexaminer.com/policy/defense/4662678/us-strikes-iran-weeks-trump-threatening-expansion-inaccurate-death-count/",
+    "event_codes": {
+      "19": 20,
+      "18": 1
+    },
+    "keywords": [
+      "policy",
+      "defense",
+      "4662678",
+      "strikes",
+      "iran",
+      "weeks",
+      "trump",
+      "threatening",
+      "expansion",
+      "inaccurate",
+      "death",
+      "count"
+    ]
+  },
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.wbkb11.com/news/politics/national-politics/us-house-votes-to-curb-trumps-iran-war-powers-but-senate-backs-president-airstrikes-continue/article_6f264ddc-c94c-5927-804c-5bdef9858b22.html",
+    "top_news": "https://www.washingtonexaminer.com/policy/defense/4662678/us-strikes-iran-weeks-trump-threatening-expansion-inaccurate-death-count/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "policy",
+      "defense",
+      "4662678",
+      "strikes",
+      "iran",
+      "weeks",
+      "trump",
+      "threatening",
+      "expansion",
+      "inaccurate",
+      "death",
+      "count"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.2,
+    "count": 28,
+    "top_news": "https://www.abc57.com/news/israel-prepares-major-military-operation-in-west-bank-after-four-palestinians-and-two-israelis-killed",
+    "event_codes": {
+      "19": 13,
+      "18": 9,
+      "17": 6
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "prepares",
+      "major",
+      "military",
+      "operation",
+      "west",
+      "bank",
+      "after",
+      "four",
+      "palestinians",
+      "and",
+      "two",
+      "israelis",
+      "killed"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/policy/defense/4662678/us-strikes-iran-weeks-trump-threatening-expansion-inaccurate-death-count/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "policy",
+      "defense",
+      "4662678",
+      "strikes",
+      "iran",
+      "weeks",
+      "trump",
+      "threatening",
+      "expansion",
+      "inaccurate",
+      "death",
+      "count"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.iraqsun.com/news/279208482/us-pummels-iran-as-tehran-targets-regional-bases-stationing-us-forces",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "politics",
-      "national",
-      "politics",
-      "house",
-      "votes",
-      "curb",
-      "trumps",
+      "279208482",
+      "pummels",
       "iran",
-      "war",
-      "powers",
-      "but",
-      "senate",
-      "backs",
-      "president",
-      "airstrikes",
-      "continue",
-      "article",
-      "6f264ddc",
-      "c94c",
-      "5927",
-      "804c",
-      "5bdef9858b22.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "http://www.goskagit.com/news/world/saudi-arabia-strikes-the-port-city-of-hodeida-in-yemen-coalition-says/article_9fdf843d-7cac-567e-ac71-b4a699a47ee8.html",
-    "event_codes": {
-      "17": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "saudi",
-      "arabia",
-      "strikes",
-      "the",
-      "port",
-      "city",
-      "hodeida",
-      "yemen",
-      "coalition",
-      "says",
-      "article",
-      "9fdf843d",
-      "7cac",
-      "567e",
-      "ac71",
-      "b4a699a47ee8.html"
+      "tehran",
+      "targets",
+      "regional",
+      "bases",
+      "stationing",
+      "forces"
     ]
   },
   "NGA": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://thenationonlineng.net/outrage-as-section-of-adelekes-newly-commissioned-osogbo-flyover-sinks-after-rainfall/",
+    "risk_score": 11.5,
+    "count": 16,
+    "top_news": "https://punchng.com/toba-ijaya-rise-fall-of-lagos-street-warlord/",
     "event_codes": {
+      "16": 5,
+      "18": 4,
+      "19": 3,
       "14": 2,
-      "19": 2,
-      "16": 1,
-      "17": 1
+      "17": 2
     },
     "keywords": [
-      "outrage",
-      "section",
-      "adelekes",
-      "newly",
-      "commissioned",
-      "osogbo",
-      "flyover",
-      "sinks",
-      "after",
-      "rainfall"
+      "toba",
+      "ijaya",
+      "rise",
+      "fall",
+      "lagos",
+      "street",
+      "warlord"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/430726",
+  "PSE": {
+    "risk_score": 16.6,
+    "count": 17,
+    "top_news": "https://www.abc57.com/news/israel-prepares-major-military-operation-in-west-bank-after-four-palestinians-and-two-israelis-killed",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 15,
+      "16": 2
     },
     "keywords": [
       "news",
-      "430726"
+      "israel",
+      "prepares",
+      "major",
+      "military",
+      "operation",
+      "west",
+      "bank",
+      "after",
+      "four",
+      "palestinians",
+      "and",
+      "two",
+      "israelis",
+      "killed"
+    ]
+  },
+  "QAT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.washingtonexaminer.com/policy/defense/4662678/us-strikes-iran-weeks-trump-threatening-expansion-inaccurate-death-count/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "policy",
+      "defense",
+      "4662678",
+      "strikes",
+      "iran",
+      "weeks",
+      "trump",
+      "threatening",
+      "expansion",
+      "inaccurate",
+      "death",
+      "count"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wsws.org/en/articles/2026/07/24/eygf-j24.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "eygf",
+      "j24.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-16004021/Fugitive-child-rapist-early-release-Labours-prison-scheme.html",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16004021",
+      "fugitive",
+      "child",
+      "rapist",
+      "early",
+      "release",
+      "labours",
+      "prison",
+      "scheme.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://westchester.news12.com/families-lawmakers-condemn-gov-hochuls-local-cops-local-crimes-act-outside-yorktown-police-station",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "families",
+      "lawmakers",
+      "condemn",
+      "gov",
+      "hochuls",
+      "local",
+      "cops",
+      "local",
+      "crimes",
+      "act",
+      "outside",
+      "yorktown",
+      "police",
+      "station"
     ]
   }
 }
