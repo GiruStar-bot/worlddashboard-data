@@ -1,26 +1,121 @@
 {
   "IRN": {
-    "risk_score": 3.1,
-    "count": 4,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/resistance-units-weekly-report-nationwide-operations-target-tehrans-campaign-of-terror/",
+    "risk_score": 10.9,
+    "count": 11,
+    "top_news": "https://www.gdnonline.com:443/Details/1401735/Trump-prefers-diplomacy-but-warns-Iran",
     "event_codes": {
-      "18": 3,
+      "19": 10,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1401735",
+      "trump",
+      "prefers",
+      "diplomacy",
+      "but",
+      "warns",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.35,
+    "count": 7,
+    "top_news": "https://www.ketv.com/article/pentagon-removes-4-troops-killed-during-renewed-iran-fighting-from-official-war-death-toll-creates-new-category/73266196",
+    "event_codes": {
+      "19": 5,
+      "14": 1,
       "16": 1
     },
     "keywords": [
+      "article",
+      "pentagon",
+      "removes",
+      "troops",
+      "killed",
+      "during",
+      "renewed",
+      "iran",
+      "fighting",
+      "from",
+      "official",
+      "war",
+      "death",
+      "toll",
+      "creates",
+      "new",
+      "category",
+      "73266196"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ketv.com/article/pentagon-removes-4-troops-killed-during-renewed-iran-fighting-from-official-war-death-toll-creates-new-category/73266196",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "pentagon",
+      "removes",
+      "troops",
+      "killed",
+      "during",
+      "renewed",
+      "iran",
+      "fighting",
+      "from",
+      "official",
+      "war",
+      "death",
+      "toll",
+      "creates",
+      "new",
+      "category",
+      "73266196"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.staradvertiser.com/2026/07/26/breaking-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-u-s-forgoes-strikes/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "breaking",
       "news",
       "iran",
-      "resistance",
-      "resistance",
-      "units",
-      "weekly",
-      "report",
-      "nationwide",
-      "operations",
-      "target",
-      "tehrans",
-      "campaign",
-      "terror"
+      "war",
+      "spreads",
+      "red",
+      "sea",
+      "and",
+      "caspian",
+      "gulf",
+      "quiet",
+      "forgoes",
+      "strikes"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.gdnonline.com:443/Details/1401735/Trump-prefers-diplomacy-but-warns-Iran",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "details",
+      "1401735",
+      "trump",
+      "prefers",
+      "diplomacy",
+      "but",
+      "warns",
+      "iran"
     ]
   }
 }
