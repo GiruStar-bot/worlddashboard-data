@@ -1,61 +1,149 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hindustantimes.com/entertainment/tv/jasmin-bhasin-recalls-frightening-health-scare-in-dubai-aly-goni-101785053345036.html",
+  "IRN": {
+    "risk_score": 6.2,
+    "count": 7,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/07/26/773066/IRGC-warns-Israel-UK-US-war",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "entertainment",
-      "jasmin",
-      "bhasin",
-      "recalls",
-      "frightening",
-      "health",
-      "scare",
-      "dubai",
-      "aly",
-      "goni",
-      "101785053345036.html"
+      "detail",
+      "2026",
+      "773066",
+      "irgc",
+      "warns",
+      "israel",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.israelnationalnews.com/flashes/690555",
+    "risk_score": 24.25,
+    "count": 26,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-conduct-major-raid-west-banks-rafidia-settlers-set-light",
     "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
+      "19": 18,
+      "18": 5,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "flashes",
-      "690555"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "forces",
+      "conduct",
+      "major",
+      "raid",
+      "west",
+      "banks",
+      "rafidia",
+      "settlers",
+      "set",
+      "light"
     ]
   },
-  "MLI": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "http://www.europesun.com/news/279210803/the-great-gas-race-who-is-holding-the-keys-to-europes-energy-future",
+  "NGA": {
+    "risk_score": 7.5,
+    "count": 11,
+    "top_news": "https://thenationonlineng.net/when-even-critics-pause-to-applaud-his-leadership-candour/",
     "event_codes": {
-      "16": 3,
+      "17": 7,
+      "19": 4
+    },
+    "keywords": [
+      "when",
+      "even",
+      "critics",
+      "pause",
+      "applaud",
+      "his",
+      "leadership",
+      "candour"
+    ]
+  },
+  "PSE": {
+    "risk_score": 12.5,
+    "count": 14,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-conduct-major-raid-west-banks-rafidia-settlers-set-light",
+    "event_codes": {
+      "18": 10,
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "forces",
+      "conduct",
+      "major",
+      "raid",
+      "west",
+      "banks",
+      "rafidia",
+      "settlers",
+      "set",
+      "light"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1401607",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "details",
+      "1401607"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.04,
+    "count": 5,
+    "top_news": "https://www.middle-east-online.com/en/un-chief-backs-syria%E2%80%99s-rebuilding-drive-first-damascus-visit",
+    "event_codes": {
+      "15": 2,
+      "16": 2,
       "19": 1
     },
     "keywords": [
-      "news",
-      "279210803",
-      "the",
-      "great",
-      "gas",
-      "race",
-      "who",
-      "holding",
-      "the",
-      "keys",
-      "europes",
-      "energy",
-      "future"
+      "chief",
+      "backs",
+      "syria%e2%80%99s",
+      "rebuilding",
+      "drive",
+      "first",
+      "damascus",
+      "visit"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://arynews.tv/spain-pm-sanchez-difficult-hours-ahead-battle-against-wildfires",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "spain",
+      "sanchez",
+      "difficult",
+      "hours",
+      "ahead",
+      "battle",
+      "against",
+      "wildfires"
     ]
   }
 }
