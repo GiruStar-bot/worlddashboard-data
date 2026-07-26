@@ -1,20 +1,61 @@
 {
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://paktribune.com/us-pauses-iran-strikes-amid-concerns-over-weapons-stockpiles/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hindustantimes.com/entertainment/tv/jasmin-bhasin-recalls-frightening-health-scare-in-dubai-aly-goni-101785053345036.html",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "pauses",
-      "iran",
-      "strikes",
-      "amid",
-      "concerns",
-      "over",
-      "weapons",
-      "stockpiles"
+      "entertainment",
+      "jasmin",
+      "bhasin",
+      "recalls",
+      "frightening",
+      "health",
+      "scare",
+      "dubai",
+      "aly",
+      "goni",
+      "101785053345036.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/flashes/690555",
+    "event_codes": {
+      "19": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "flashes",
+      "690555"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.2,
+    "count": 4,
+    "top_news": "http://www.europesun.com/news/279210803/the-great-gas-race-who-is-holding-the-keys-to-europes-energy-future",
+    "event_codes": {
+      "16": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "279210803",
+      "the",
+      "great",
+      "gas",
+      "race",
+      "who",
+      "holding",
+      "the",
+      "keys",
+      "europes",
+      "energy",
+      "future"
     ]
   }
 }
