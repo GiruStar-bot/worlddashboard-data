@@ -1,67 +1,70 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailykos.com/stories/2026/7/26/800075079/community/russian-stuff-blowing-up/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://arynews.tv/oil-prices-advance-as-shipping-attacks-raise-supply-fears",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "stories",
-      "2026",
-      "800075079",
-      "community",
-      "russian",
-      "stuff",
-      "blowing"
+      "oil",
+      "prices",
+      "advance",
+      "shipping",
+      "attacks",
+      "raise",
+      "supply",
+      "fears"
     ]
   },
   "ISR": {
-    "risk_score": 4.36,
-    "count": 5,
-    "top_news": "https://nypost.com/2026/07/26/us-news/ex-ny-gov-paterson-pushes-fed-probe-into-whether-mamdanis-anti-israel-crusade-is-inciting-violence/",
+    "risk_score": 8.5,
+    "count": 10,
+    "top_news": "https://www.yahoo.com/entertainment/tv/articles/fired-60-minutes-correspondent-accuses-010015750.html",
     "event_codes": {
       "19": 4,
-      "16": 1
+      "17": 3,
+      "18": 3
     },
     "keywords": [
-      "2026",
-      "news",
-      "gov",
-      "paterson",
-      "pushes",
-      "fed",
-      "probe",
-      "into",
-      "whether",
-      "mamdanis",
-      "anti",
-      "israel",
-      "crusade",
-      "inciting",
-      "violence"
+      "entertainment",
+      "articles",
+      "fired",
+      "minutes",
+      "correspondent",
+      "accuses",
+      "010015750.html"
     ]
   },
-  "QAT": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://thepeninsulaqatar.com/article/26/07/2026/prime-minister-holds-phone-call-with-saudi-foreign-minister-13",
+    "top_news": "https://www.arabnews.com/node/2652379/world",
     "event_codes": {
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "article",
+      "node",
+      "2652379",
+      "world"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.8,
+    "count": 12,
+    "top_news": "https://www.nigerianeye.com/2026/07/bandits-abduct-kebbi-high-court-judge.html",
+    "event_codes": {
+      "18": 7,
+      "17": 5
+    },
+    "keywords": [
       "2026",
-      "prime",
-      "minister",
-      "holds",
-      "phone",
-      "call",
-      "with",
-      "saudi",
-      "foreign",
-      "minister"
+      "bandits",
+      "abduct",
+      "kebbi",
+      "high",
+      "court",
+      "judge.html"
     ]
   }
 }
