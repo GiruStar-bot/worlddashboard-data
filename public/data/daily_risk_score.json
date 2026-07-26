@@ -1,21 +1,67 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://arynews.tv/trump-pauses-iran-air-strikes-to-allow-diplomacy-us-envoy-says",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailykos.com/stories/2026/7/26/800075079/community/russian-stuff-blowing-up/",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "trump",
-      "pauses",
-      "iran",
-      "air",
-      "strikes",
-      "allow",
-      "diplomacy",
-      "envoy",
-      "says"
+      "stories",
+      "2026",
+      "800075079",
+      "community",
+      "russian",
+      "stuff",
+      "blowing"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.36,
+    "count": 5,
+    "top_news": "https://nypost.com/2026/07/26/us-news/ex-ny-gov-paterson-pushes-fed-probe-into-whether-mamdanis-anti-israel-crusade-is-inciting-violence/",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "gov",
+      "paterson",
+      "pushes",
+      "fed",
+      "probe",
+      "into",
+      "whether",
+      "mamdanis",
+      "anti",
+      "israel",
+      "crusade",
+      "inciting",
+      "violence"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://thepeninsulaqatar.com/article/26/07/2026/prime-minister-holds-phone-call-with-saudi-foreign-minister-13",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "prime",
+      "minister",
+      "holds",
+      "phone",
+      "call",
+      "with",
+      "saudi",
+      "foreign",
+      "minister"
     ]
   }
 }
