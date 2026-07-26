@@ -1,71 +1,110 @@
 {
   "IRN": {
-    "risk_score": 8.3,
+    "risk_score": 6.55,
     "count": 9,
-    "top_news": "https://www.express.co.uk/news/world/2233037/donald-trump-swapped-planes-uk-iran-threat",
+    "top_news": "https://redstate.com/smoosieq/2026/07/26/redstate-weekly-briefing-n2204779",
+    "event_codes": {
+      "14": 7,
+      "19": 2
+    },
+    "keywords": [
+      "smoosieq",
+      "2026",
+      "redstate",
+      "weekly",
+      "briefing",
+      "n2204779"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.8,
+    "count": 7,
+    "top_news": "https://mymotherlode.com/news/national/11018598/cori-bush-and-wesley-bells-rematch-sets-up-key-test-for-democrats-in-missouri.html",
     "event_codes": {
       "19": 6,
-      "14": 2,
       "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2233037",
-      "donald",
-      "trump",
-      "swapped",
-      "planes",
-      "iran",
-      "threat"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.35,
-    "count": 16,
-    "top_news": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo",
-    "event_codes": {
-      "18": 6,
-      "19": 6,
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "cjrv77gl4deo"
+      "national",
+      "11018598",
+      "cori",
+      "bush",
+      "and",
+      "wesley",
+      "bells",
+      "rematch",
+      "sets",
+      "key",
+      "test",
+      "for",
+      "democrats",
+      "missouri.html"
     ]
   },
   "PSE": {
-    "risk_score": 15.5,
-    "count": 17,
-    "top_news": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo",
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/world/articles/israeli-settlers-set-fire-west-093431963.html",
     "event_codes": {
-      "18": 10,
-      "19": 6,
+      "19": 3,
       "17": 1
     },
     "keywords": [
       "news",
+      "world",
       "articles",
-      "cjrv77gl4deo"
+      "israeli",
+      "settlers",
+      "set",
+      "fire",
+      "west",
+      "093431963.html"
     ]
   },
   "SAU": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://www.lbc.co.uk/article/iran-war-spreads-through-region-5Hjdf9q_2/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.geosuper.tv/latest/58205-hamzah-sheeraz-retains-wbo-crown-with-narrow-win-over-simon-zachenhuber",
     "event_codes": {
-      "16": 3,
       "19": 2
     },
     "keywords": [
-      "article",
-      "iran",
-      "war",
-      "spreads",
-      "through",
-      "region",
-      "5hjdf9q"
+      "latest",
+      "58205",
+      "hamzah",
+      "sheeraz",
+      "retains",
+      "wbo",
+      "crown",
+      "with",
+      "narrow",
+      "win",
+      "over",
+      "simon",
+      "zachenhuber"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.75,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5300212-yemeni-army-strikes-revive-hopes-ending-houthi-coup",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5300212",
+      "yemeni",
+      "army",
+      "strikes",
+      "revive",
+      "hopes",
+      "ending",
+      "houthi",
+      "coup"
     ]
   }
 }
