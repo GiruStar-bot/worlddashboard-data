@@ -1,55 +1,29 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.brisbanetimes.com.au/world/middle-east/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-20260726-p60ile.html",
+    "risk_score": 8.75,
+    "count": 10,
+    "top_news": "https://www.ynetnews.com/article/r111brtghmg",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "spreads",
-      "red",
-      "sea",
-      "and",
-      "caspian",
-      "gulf",
-      "quiet",
-      "forgoes",
-      "strikes",
-      "20260726",
-      "p60ile.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.brisbanetimes.com.au/world/middle-east/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-us-forgoes-strikes-20260726-p60ile.html",
-    "event_codes": {
-      "19": 2,
+      "19": 5,
+      "18": 3,
+      "14": 1,
       "16": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "iran",
-      "war",
-      "spreads",
-      "red",
-      "sea",
-      "and",
-      "caspian",
-      "gulf",
-      "quiet",
-      "forgoes",
-      "strikes",
-      "20260726",
-      "p60ile.html"
+      "article",
+      "r111brtghmg"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/hysdacgsgx",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "hysdacgsgx"
     ]
   }
 }
