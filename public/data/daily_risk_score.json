@@ -1,63 +1,74 @@
 {
-  "BRA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.tmz.com/2026/07/26/oliver-trees-mom-shares-their-final-conversation/",
+  "IRN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://peakoil.com/publicpolicy/is-the-us-running-out-of-weapons-inside-the-strategic-pause-in-the-iran-war",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "oliver",
-      "trees",
-      "mom",
-      "shares",
-      "their",
-      "final",
-      "conversation"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.9,
-    "count": 13,
-    "top_news": "https://www.cbc.ca/news/world/west-bank-mosques-fire-settler-violence-2026-9.7284956",
-    "event_codes": {
-      "19": 10,
-      "17": 2,
+      "19": 3,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "west",
-      "bank",
-      "mosques",
-      "fire",
-      "settler",
-      "violence",
-      "2026",
-      "9.7284956"
+      "publicpolicy",
+      "the",
+      "running",
+      "out",
+      "weapons",
+      "inside",
+      "the",
+      "strategic",
+      "pause",
+      "the",
+      "iran",
+      "war"
     ]
   },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.cbc.ca/news/world/west-bank-mosques-fire-settler-violence-2026-9.7284956",
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/07/zaidis-test-tehran",
     "event_codes": {
-      "19": 4
+      "19": 3
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "zaidis",
+      "test",
+      "tehran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.6,
+    "count": 19,
+    "top_news": "https://www.israelnationalnews.com/news/430789",
+    "event_codes": {
+      "19": 13,
+      "18": 4,
+      "17": 2
     },
     "keywords": [
       "news",
-      "world",
+      "430789"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/07/26/773119/Palestine-West-Bank-Gaza-Israel",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "773119",
+      "palestine",
       "west",
       "bank",
-      "mosques",
-      "fire",
-      "settler",
-      "violence",
-      "2026",
-      "9.7284956"
+      "gaza",
+      "israel"
     ]
   }
 }
