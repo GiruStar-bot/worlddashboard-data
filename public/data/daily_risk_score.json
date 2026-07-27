@@ -1,105 +1,61 @@
 {
-  "ARG": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/politics/articles/brazil-recalls-ambassador-over-argentine-004820406.html",
+  "IRN": {
+    "risk_score": 5.39,
+    "count": 7,
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-903745",
     "event_codes": {
-      "17": 4
+      "19": 3,
+      "15": 2,
+      "17": 2
     },
     "keywords": [
+      "middle",
+      "east",
+      "iran",
       "news",
-      "politics",
-      "articles",
-      "brazil",
-      "recalls",
-      "ambassador",
-      "over",
-      "argentine",
-      "004820406.html"
-    ]
-  },
-  "BRA": {
-    "risk_score": 2.3,
-    "count": 5,
-    "top_news": "https://jp.ibtimes.com/flavio-bolsonaro-confirmed-brazil-presidential-candidate-despite-coalition-struggles-103034",
-    "event_codes": {
-      "17": 3,
-      "16": 2
-    },
-    "keywords": [
-      "flavio",
-      "bolsonaro",
-      "confirmed",
-      "brazil",
-      "presidential",
-      "candidate",
-      "despite",
-      "coalition",
-      "struggles",
-      "103034"
+      "article",
+      "903745"
     ]
   },
   "ISR": {
-    "risk_score": 9.2,
-    "count": 11,
-    "top_news": "https://jp.ibtimes.com/israel-detains-over-70-west-bank-sweep-nablus-clash-death-toll-revised-6-103024",
-    "event_codes": {
-      "19": 8,
-      "16": 3
-    },
-    "keywords": [
-      "israel",
-      "detains",
-      "over",
-      "west",
-      "bank",
-      "sweep",
-      "nablus",
-      "clash",
-      "death",
-      "toll",
-      "revised",
-      "103024"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.5,
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/27/rohingya-schools-in-malaysia-face-closures-amid-online-surge-in-hate-speech",
+    "top_news": "https://www.wcbe.org/npr-news/2026-07-27/can-the-u-s-and-iran-take-the-off-ramp",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
+      "npr",
+      "news",
       "2026",
-      "rohingya",
-      "schools",
-      "malaysia",
-      "face",
-      "closures",
-      "amid",
-      "online",
-      "surge",
-      "hate",
-      "speech"
+      "can",
+      "the",
+      "and",
+      "iran",
+      "take",
+      "the",
+      "off",
+      "ramp"
     ]
   },
   "NGA": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://dailytrust.com/the-battle-for-the-north-i/",
+    "risk_score": 24.3,
+    "count": 28,
+    "top_news": "https://dailytrust.com/how-gunmen-abducted-kebbi-high-court-judge/",
     "event_codes": {
-      "18": 3
+      "18": 17,
+      "19": 7,
+      "17": 4
     },
     "keywords": [
-      "the",
-      "battle",
-      "for",
-      "the",
-      "north"
+      "how",
+      "gunmen",
+      "abducted",
+      "kebbi",
+      "high",
+      "court",
+      "judge"
     ]
   }
 }
