@@ -1,81 +1,83 @@
 {
   "IRN": {
-    "risk_score": 7.06,
-    "count": 8,
-    "top_news": "https://www.arabnews.com/node/2652508/middle-east",
+    "risk_score": 7.8,
+    "count": 9,
+    "top_news": "https://www.breitbart.com/middle-east/2026/07/27/iran-focuses-attacks-on-saudi-arabia-and-red-sea-shipping-lanes/",
     "event_codes": {
       "19": 6,
-      "16": 1,
+      "14": 2,
       "17": 1
     },
     "keywords": [
-      "node",
-      "2652508",
       "middle",
-      "east"
+      "east",
+      "2026",
+      "iran",
+      "focuses",
+      "attacks",
+      "saudi",
+      "arabia",
+      "and",
+      "red",
+      "sea",
+      "shipping",
+      "lanes"
     ]
   },
   "ISR": {
-    "risk_score": 6.7,
-    "count": 9,
-    "top_news": "https://www.arabnews.com/node/2652512/middle-east",
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://www.arabnews.com/node/2652518/middle-east",
     "event_codes": {
       "17": 4,
-      "18": 3,
-      "19": 2
+      "19": 2,
+      "16": 1
     },
     "keywords": [
       "node",
-      "2652512",
+      "2652518",
       "middle",
       "east"
     ]
   },
-  "KEN": {
-    "risk_score": 3.87,
-    "count": 6,
-    "top_news": "https://www.the-star.co.ke/news/2026-07-27-aviation-workers-suspend-strike-pave-way-for-talks",
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://maritime-executive.com/article/yemen-s-houthi-rebels-claim-strike-on-saudi-pipeline-infrastructure",
     "event_codes": {
-      "14": 3,
-      "15": 1,
-      "16": 1,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "2026",
-      "aviation",
-      "workers",
-      "suspend",
+      "article",
+      "yemen",
+      "houthi",
+      "rebels",
+      "claim",
       "strike",
-      "pave",
-      "way",
-      "for",
-      "talks"
+      "saudi",
+      "pipeline",
+      "infrastructure"
     ]
   },
-  "NER": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "http://www.sierraleonetimes.com/news/279212310/nigers-junta-marks-three-years-amid-rising-violence-and-lost-freedoms",
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.foxnews.com/us/illegal-immigrant-accused-murdering-college-student-dials-hearing-from-hospital-bed",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "news",
-      "279212310",
-      "nigers",
-      "junta",
-      "marks",
-      "three",
-      "years",
-      "amid",
-      "rising",
-      "violence",
-      "and",
-      "lost",
-      "freedoms"
+      "illegal",
+      "immigrant",
+      "accused",
+      "murdering",
+      "college",
+      "student",
+      "dials",
+      "hearing",
+      "from",
+      "hospital",
+      "bed"
     ]
   }
 }
