@@ -1,67 +1,81 @@
 {
   "IRN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-amid-pause-in-iran-war-its-best-time-to-get-peace-deal-1974428",
+    "risk_score": 7.06,
+    "count": 8,
+    "top_news": "https://www.arabnews.com/node/2652508/middle-east",
     "event_codes": {
-      "16": 2,
+      "19": 6,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "node",
+      "2652508",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.7,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/node/2652512/middle-east",
+    "event_codes": {
+      "17": 4,
+      "18": 3,
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "comment",
-      "edit",
-      "amid",
-      "pause",
-      "iran",
-      "war",
-      "its",
-      "best",
-      "time",
-      "get",
-      "peace",
-      "deal",
-      "1974428"
+      "node",
+      "2652512",
+      "middle",
+      "east"
     ]
   },
-  "JOR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/gulf/2026/07/27/saudi-arabia-drone-attacks-iraq/",
+  "KEN": {
+    "risk_score": 3.87,
+    "count": 6,
+    "top_news": "https://www.the-star.co.ke/news/2026-07-27-aviation-workers-suspend-strike-pave-way-for-talks",
     "event_codes": {
-      "19": 2,
+      "14": 3,
+      "15": 1,
+      "16": 1,
       "17": 1
     },
     "keywords": [
       "news",
-      "gulf",
       "2026",
-      "saudi",
-      "arabia",
-      "drone",
-      "attacks",
-      "iraq"
+      "aviation",
+      "workers",
+      "suspend",
+      "strike",
+      "pave",
+      "way",
+      "for",
+      "talks"
     ]
   },
-  "NGA": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://tribuneonlineng.com/police-foil-bandits-attack-in-sokoto-recover-magazines-live-ammunition/",
+  "NER": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "http://www.sierraleonetimes.com/news/279212310/nigers-junta-marks-three-years-amid-rising-violence-and-lost-freedoms",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "police",
-      "foil",
-      "bandits",
-      "attack",
-      "sokoto",
-      "recover",
-      "magazines",
-      "live",
-      "ammunition"
+      "news",
+      "279212310",
+      "nigers",
+      "junta",
+      "marks",
+      "three",
+      "years",
+      "amid",
+      "rising",
+      "violence",
+      "and",
+      "lost",
+      "freedoms"
     ]
   }
 }
