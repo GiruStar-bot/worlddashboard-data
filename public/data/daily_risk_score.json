@@ -1,121 +1,105 @@
 {
-  "IRN": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://www.gdnonline.com:443/Details/1401735/Trump-prefers-diplomacy-but-warns-Iran",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/politics/articles/brazil-recalls-ambassador-over-argentine-004820406.html",
     "event_codes": {
-      "19": 10,
-      "18": 1
+      "17": 4
     },
     "keywords": [
-      "details",
-      "1401735",
-      "trump",
-      "prefers",
-      "diplomacy",
-      "but",
-      "warns",
-      "iran"
+      "news",
+      "politics",
+      "articles",
+      "brazil",
+      "recalls",
+      "ambassador",
+      "over",
+      "argentine",
+      "004820406.html"
+    ]
+  },
+  "BRA": {
+    "risk_score": 2.3,
+    "count": 5,
+    "top_news": "https://jp.ibtimes.com/flavio-bolsonaro-confirmed-brazil-presidential-candidate-despite-coalition-struggles-103034",
+    "event_codes": {
+      "17": 3,
+      "16": 2
+    },
+    "keywords": [
+      "flavio",
+      "bolsonaro",
+      "confirmed",
+      "brazil",
+      "presidential",
+      "candidate",
+      "despite",
+      "coalition",
+      "struggles",
+      "103034"
     ]
   },
   "ISR": {
-    "risk_score": 6.35,
-    "count": 7,
-    "top_news": "https://www.ketv.com/article/pentagon-removes-4-troops-killed-during-renewed-iran-fighting-from-official-war-death-toll-creates-new-category/73266196",
+    "risk_score": 9.2,
+    "count": 11,
+    "top_news": "https://jp.ibtimes.com/israel-detains-over-70-west-bank-sweep-nablus-clash-death-toll-revised-6-103024",
     "event_codes": {
-      "19": 5,
-      "14": 1,
-      "16": 1
+      "19": 8,
+      "16": 3
     },
     "keywords": [
-      "article",
-      "pentagon",
-      "removes",
-      "troops",
-      "killed",
-      "during",
-      "renewed",
-      "iran",
-      "fighting",
-      "from",
-      "official",
-      "war",
+      "israel",
+      "detains",
+      "over",
+      "west",
+      "bank",
+      "sweep",
+      "nablus",
+      "clash",
       "death",
       "toll",
-      "creates",
-      "new",
-      "category",
-      "73266196"
+      "revised",
+      "103024"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ketv.com/article/pentagon-removes-4-troops-killed-during-renewed-iran-fighting-from-official-war-death-toll-creates-new-category/73266196",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "pentagon",
-      "removes",
-      "troops",
-      "killed",
-      "during",
-      "renewed",
-      "iran",
-      "fighting",
-      "from",
-      "official",
-      "war",
-      "death",
-      "toll",
-      "creates",
-      "new",
-      "category",
-      "73266196"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.staradvertiser.com/2026/07/26/breaking-news/iran-war-spreads-to-red-sea-and-caspian-gulf-quiet-as-u-s-forgoes-strikes/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "breaking",
-      "news",
-      "iran",
-      "war",
-      "spreads",
-      "red",
-      "sea",
-      "and",
-      "caspian",
-      "gulf",
-      "quiet",
-      "forgoes",
-      "strikes"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
+  "MYS": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1401735/Trump-prefers-diplomacy-but-warns-Iran",
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/27/rohingya-schools-in-malaysia-face-closures-amid-online-surge-in-hate-speech",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "details",
-      "1401735",
-      "trump",
-      "prefers",
-      "diplomacy",
-      "but",
-      "warns",
-      "iran"
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "rohingya",
+      "schools",
+      "malaysia",
+      "face",
+      "closures",
+      "amid",
+      "online",
+      "surge",
+      "hate",
+      "speech"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://dailytrust.com/the-battle-for-the-north-i/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "the",
+      "battle",
+      "for",
+      "the",
+      "north"
     ]
   }
 }
