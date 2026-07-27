@@ -1,103 +1,136 @@
 {
   "IRN": {
-    "risk_score": 13.06,
-    "count": 15,
-    "top_news": "https://www.yahoo.com/news/politics/articles/mediators-see-progress-diplomatic-efforts-094209591.html",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.butlereagle.com/20260727/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/",
     "event_codes": {
-      "19": 8,
-      "15": 3,
-      "17": 2,
-      "18": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "politics",
+      "20260727",
+      "iran",
+      "backed",
+      "houthis",
+      "fire",
+      "missiles",
+      "saudi",
+      "arabia",
+      "response",
+      "airstrikes",
+      "yemen"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://countercurrents.org/2026/07/beyond-the-war-mongering-civilisational-conflict-thesis-a-response-to-bill-warner/",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "beyond",
+      "the",
+      "war",
+      "mongering",
+      "civilisational",
+      "conflict",
+      "thesis",
+      "response",
+      "bill",
+      "warner"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.7,
+    "count": 6,
+    "top_news": "https://www.bankingnews.gr/amyna-diplomatia/articles/890657/fears-of-israel-turkey-conflict-in-the-mediterranean-greece-s-involvement%20title=",
+    "event_codes": {
+      "17": 4,
+      "14": 2
+    },
+    "keywords": [
+      "amyna",
+      "diplomatia",
       "articles",
-      "mediators",
-      "see",
-      "progress",
-      "diplomatic",
-      "efforts",
-      "094209591.html"
+      "890657",
+      "fears",
+      "israel",
+      "turkey",
+      "conflict",
+      "the",
+      "mediterranean",
+      "greece",
+      "involvement%20title="
     ]
   },
-  "MLI": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "http://www.parisguardian.com/news/279211850/france-planning-third-attack-on-former-colony-african-leader",
+  "JOR": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://jordantimes.com/news/local/air-force-downs-two-drones-no-injuries-or-damage-jaf",
     "event_codes": {
-      "19": 3,
-      "18": 2
+      "19": 3
     },
     "keywords": [
       "news",
-      "279211850",
-      "france",
-      "planning",
-      "third",
-      "attack",
-      "former",
-      "colony",
-      "african",
-      "leader"
+      "local",
+      "air",
+      "force",
+      "downs",
+      "two",
+      "drones",
+      "injuries",
+      "damage",
+      "jaf"
     ]
   },
-  "NER": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "http://www.parisguardian.com/news/279211850/france-planning-third-attack-on-former-colony-african-leader",
+  "NGA": {
+    "risk_score": 7.3,
+    "count": 8,
+    "top_news": "https://english.news.cn/20260727/b72242b1948e427cb2cb3211e1e7ffd8/c.html",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 5,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "279211850",
-      "france",
-      "planning",
-      "third",
-      "attack",
-      "former",
-      "colony",
-      "african",
-      "leader"
+      "20260727",
+      "b72242b1948e427cb2cb3211e1e7ffd8",
+      "c.html"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/politics/articles/mediators-see-progress-diplomatic-efforts-094209591.html",
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.okaz.com.sa/politics/na/2258789",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "news",
       "politics",
-      "articles",
-      "mediators",
-      "see",
-      "progress",
-      "diplomatic",
-      "efforts",
-      "094209591.html"
+      "2258789"
     ]
   },
   "VEN": {
-    "risk_score": 3.85,
-    "count": 4,
-    "top_news": "https://www.dw.com/en/france-macron-holds-crisis-talks-as-wildfires-spread/a-78128027",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "http://thepeninsulaqatar.com/article/27/07/2026/spain-races-to-contain-blazes-before-temperatures-rise",
     "event_codes": {
-      "19": 4
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "france",
-      "macron",
-      "holds",
-      "crisis",
-      "talks",
-      "wildfires",
-      "spread",
-      "78128027"
+      "article",
+      "2026",
+      "spain",
+      "races",
+      "contain",
+      "blazes",
+      "before",
+      "temperatures",
+      "rise"
     ]
   }
 }
