@@ -1,40 +1,96 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
+  "IDN": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://en.shafaqna.com/466771/gaza-university-is-looking-to-continue-education-of-palestinians-amid-war/",
+    "top_news": "https://www.asiaone.com/malaysia/malaysian-police-raid-online-scam-centres-johor-and-arrest-335-people-including-309",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "466771",
-      "gaza",
-      "university",
-      "looking",
-      "continue",
-      "education",
-      "palestinians",
-      "amid",
-      "war"
+      "malaysia",
+      "malaysian",
+      "police",
+      "raid",
+      "online",
+      "scam",
+      "centres",
+      "johor",
+      "and",
+      "arrest",
+      "335",
+      "people",
+      "including",
+      "309"
+    ]
+  },
+  "IRN": {
+    "risk_score": 19.45,
+    "count": 26,
+    "top_news": "https://irannewsupdate.com/news/human-rights/un-experts-urge-iran-to-halt-executions-of-protesters-after-mass-death-sentences/",
+    "event_codes": {
+      "17": 12,
+      "19": 7,
+      "18": 5,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "human",
+      "rights",
+      "experts",
+      "urge",
+      "iran",
+      "halt",
+      "executions",
+      "protesters",
+      "after",
+      "mass",
+      "death",
+      "sentences"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.theguardian.com/us-news/2026/jul/28/lindsey-graham-funeral",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "jul",
+      "lindsey",
+      "graham",
+      "funeral"
     ]
   },
   "NGA": {
-    "risk_score": 22.03,
-    "count": 27,
-    "top_news": "https://dailytrust.com/gunmen-kill-5-siblings-25-others-in-kaduna/",
+    "risk_score": 5.01,
+    "count": 7,
+    "top_news": "https://dailytrust.com/how-25-year-old-model-unijos-graduate-was-killed-over-alleged-phone-theft/",
     "event_codes": {
-      "19": 13,
-      "17": 9,
-      "16": 3,
+      "17": 2,
+      "18": 2,
       "14": 1,
-      "15": 1
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "gunmen",
-      "kill",
-      "siblings",
-      "others",
-      "kaduna"
+      "how",
+      "year",
+      "old",
+      "model",
+      "unijos",
+      "graduate",
+      "was",
+      "killed",
+      "over",
+      "alleged",
+      "phone",
+      "theft"
     ]
   }
 }
