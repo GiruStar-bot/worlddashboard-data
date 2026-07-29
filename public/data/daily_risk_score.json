@@ -1,189 +1,111 @@
 {
-  "ARE": {
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.israelnationalnews.com/news/430940",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "430940"
+    ]
+  },
+  "IRQ": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/891005/middle-east-crisis-escalates-as-strikes-target-us-base-in-jordan-gulf-tankers-and-iraqi-sites",
+    "top_news": "https://www.dailypress.com/2026/07/29/iranian-missiles-us-strikes/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "891005",
-      "middle",
-      "east",
-      "crisis",
-      "escalates",
-      "strikes",
-      "target",
-      "base",
-      "jordan",
-      "gulf",
-      "tankers",
-      "and",
-      "iraqi",
-      "sites"
-    ]
-  },
-  "IRN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=450915",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "news",
-      "article.aspx"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.cnbcafrica.com/2026/iran-launches-surprise-ballistic-missile-attack-on-u-s-forces-in-the-middle-east",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
       "2026",
-      "iran",
-      "launches",
-      "surprise",
-      "ballistic",
-      "missile",
-      "attack",
-      "forces",
-      "the",
-      "middle",
-      "east"
+      "iranian",
+      "missiles",
+      "strikes"
     ]
   },
   "ISR": {
-    "risk_score": 8.2,
-    "count": 9,
-    "top_news": "https://www.theguardian.com/global-development/2026/jul/29/they-targeted-us-directly-how-the-israel-lebanon-war-became-deadly-for-healthcare-workers",
+    "risk_score": 14.12,
+    "count": 17,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/07/29/pm-says-may-consider-increasing-sara-allocation-in-budget-2027-due-to-higher-living-costs",
     "event_codes": {
-      "19": 5,
-      "18": 3,
-      "17": 1
+      "18": 6,
+      "19": 6,
+      "17": 4,
+      "15": 1
     },
     "keywords": [
-      "global",
-      "development",
+      "news",
+      "nation",
       "2026",
-      "jul",
-      "they",
-      "targeted",
-      "directly",
-      "how",
-      "the",
-      "israel",
-      "lebanon",
-      "war",
-      "became",
-      "deadly",
-      "for",
-      "healthcare",
-      "workers"
+      "says",
+      "may",
+      "consider",
+      "increasing",
+      "sara",
+      "allocation",
+      "budget",
+      "2027",
+      "due",
+      "higher",
+      "living",
+      "costs"
     ]
   },
   "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/891005/middle-east-crisis-escalates-as-strikes-target-us-base-in-jordan-gulf-tankers-and-iraqi-sites",
+    "top_news": "https://www.dailypress.com/2026/07/29/iranian-missiles-us-strikes/",
     "event_codes": {
       "19": 2
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "891005",
-      "middle",
-      "east",
-      "crisis",
-      "escalates",
-      "strikes",
-      "target",
-      "base",
-      "jordan",
-      "gulf",
-      "tankers",
-      "and",
-      "iraqi",
-      "sites"
-    ]
-  },
-  "KHM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.akp.gov.kh/post/detail/376974",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "post",
-      "detail",
-      "376974"
-    ]
-  },
-  "NGA": {
-    "risk_score": 31.02,
-    "count": 39,
-    "top_news": "https://saharareporters.com/2026/07/28/military-intelligence-officer-colonel-ude-shot-dead-after-resisting-abduction-attempt",
-    "event_codes": {
-      "18": 17,
-      "17": 11,
-      "19": 9,
-      "16": 2
     },
     "keywords": [
       "2026",
-      "military",
-      "intelligence",
-      "officer",
-      "colonel",
-      "ude",
-      "shot",
-      "dead",
-      "after",
-      "resisting",
-      "abduction",
-      "attempt"
+      "iranian",
+      "missiles",
+      "strikes"
     ]
   },
   "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260729/e31d249ba6443decdd3e63cd00f0fb84",
+    "risk_score": 5.87,
+    "count": 6,
+    "top_news": "https://english.aawsat.com/gulf/5301225-gcc-mwl-condemn-continued-terrorist-attacks-saudi-arabia",
     "event_codes": {
-      "19": 4
+      "19": 4,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "gulf",
+      "5301225",
+      "gcc",
+      "mwl",
+      "condemn",
+      "continued",
+      "terrorist",
+      "attacks",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.47,
+    "count": 3,
+    "top_news": "http://www.sierraleonetimes.com/news/279214725/sudanese-leader-visits-recaptured-areas",
+    "event_codes": {
+      "15": 1,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "world",
-      "story",
-      "0001",
-      "20260729",
-      "e31d249ba6443decdd3e63cd00f0fb84"
-    ]
-  },
-  "SOM": {
-    "risk_score": 4.16,
-    "count": 5,
-    "top_news": "https://horseedmedia.net/somalia-and-us-discuss-security-and-investment-ties/424247/",
-    "event_codes": {
-      "15": 3,
-      "19": 2
-    },
-    "keywords": [
-      "somalia",
-      "and",
-      "discuss",
-      "security",
-      "and",
-      "investment",
-      "ties",
-      "424247"
+      "279214725",
+      "sudanese",
+      "leader",
+      "visits",
+      "recaptured",
+      "areas"
     ]
   }
 }
