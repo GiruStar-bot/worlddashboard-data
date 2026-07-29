@@ -1,63 +1,131 @@
 {
   "IRN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.aol.co.uk/articles/trump-pausing-iran-attacks-shows-230016000.html",
+    "risk_score": 11.5,
+    "count": 13,
+    "top_news": "https://www.businesstimes.com.sg/international/militias-iraq-attack-saudi-oil-facilities-second-day",
     "event_codes": {
-      "19": 7,
+      "19": 9,
+      "16": 2,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "articles",
-      "trump",
-      "pausing",
-      "iran",
-      "attacks",
-      "shows",
-      "230016000.html"
+      "international",
+      "militias",
+      "iraq",
+      "attack",
+      "saudi",
+      "oil",
+      "facilities",
+      "second",
+      "day"
     ]
   },
   "ISR": {
+    "risk_score": 4.5,
+    "count": 8,
+    "top_news": "https://standardnewswire.com/when-the-witnesses-become-the-target-activists-diplomats-and-journalists-are-being-forced-out-of-the-west-bank-as-violence-escalates/",
+    "event_codes": {
+      "17": 5,
+      "14": 2,
+      "16": 1
+    },
+    "keywords": [
+      "when",
+      "the",
+      "witnesses",
+      "become",
+      "the",
+      "target",
+      "activists",
+      "diplomats",
+      "and",
+      "journalists",
+      "are",
+      "being",
+      "forced",
+      "out",
+      "the",
+      "west",
+      "bank",
+      "violence",
+      "escalates"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://standardnewswire.com/when-the-witnesses-become-the-target-activists-diplomats-and-journalists-are-being-forced-out-of-the-west-bank-as-violence-escalates/",
+    "event_codes": {
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "when",
+      "the",
+      "witnesses",
+      "become",
+      "the",
+      "target",
+      "activists",
+      "diplomats",
+      "and",
+      "journalists",
+      "are",
+      "being",
+      "forced",
+      "out",
+      "the",
+      "west",
+      "bank",
+      "violence",
+      "escalates"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.wweek.com/news/2026/07/28/feds-retreat-from-most-serious-accusations-against-man-shot-in-portland-by-border-patrol/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "feds",
+      "retreat",
+      "from",
+      "most",
+      "serious",
+      "accusations",
+      "against",
+      "man",
+      "shot",
+      "portland",
+      "border",
+      "patrol"
+    ]
+  },
+  "YEM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://brudirect.com/post/Zelensky-and-Netanyahu-meet-Trump-as-wars-in-Ukraine-and-Iran-drag-on",
+    "top_news": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "post",
-      "zelensky",
-      "and",
-      "netanyahu",
-      "meet",
-      "trump",
-      "wars",
-      "ukraine",
-      "and",
-      "iran",
-      "drag"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.livemint.com/market/oil-holds-three-day-drop-as-tensions-in-the-middle-east-cool-11785277194561.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "market",
+      "news",
+      "2026",
+      "yemens",
+      "houthis",
+      "claim",
+      "missile",
+      "attack",
+      "saudi",
+      "arabia",
       "oil",
-      "holds",
-      "three",
-      "day",
-      "drop",
-      "tensions",
-      "the",
-      "middle",
-      "east",
-      "cool",
-      "11785277194561.html"
+      "tanker"
     ]
   }
 }
