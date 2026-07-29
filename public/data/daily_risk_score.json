@@ -1,23 +1,217 @@
 {
-  "NGA": {
-    "risk_score": 11.8,
-    "count": 14,
-    "top_news": "https://dailytrust.com/how-unijos-student-was-killed-over-alleged-phone-theft/",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.cnn.com/2026/07/29/middleeast/saudi-arabia-iran-iraq-yemen-war-houthis-intl",
     "event_codes": {
-      "19": 9,
-      "17": 3,
-      "14": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "how",
-      "unijos",
-      "student",
-      "was",
-      "killed",
-      "over",
-      "alleged",
-      "phone",
-      "theft"
+      "2026",
+      "middleeast",
+      "saudi",
+      "arabia",
+      "iran",
+      "iraq",
+      "yemen",
+      "war",
+      "houthis",
+      "intl"
+    ]
+  },
+  "IDN": {
+    "risk_score": 3.55,
+    "count": 7,
+    "top_news": "https://en.antaranews.com/news/424393/indonesia-japan-deepen-labor-cooperation-to-develop-skilled-workers",
+    "event_codes": {
+      "16": 4,
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "424393",
+      "indonesia",
+      "japan",
+      "deepen",
+      "labor",
+      "cooperation",
+      "develop",
+      "skilled",
+      "workers"
+    ]
+  },
+  "IRN": {
+    "risk_score": 13.8,
+    "count": 14,
+    "top_news": "https://www.cnn.com/2026/07/29/middleeast/saudi-arabia-iran-iraq-yemen-war-houthis-intl",
+    "event_codes": {
+      "19": 12,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "middleeast",
+      "saudi",
+      "arabia",
+      "iran",
+      "iraq",
+      "yemen",
+      "war",
+      "houthis",
+      "intl"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.02,
+    "count": 6,
+    "top_news": "https://tribune.com.pk/story/2620881/us-says-it-intercepted-iranian-ballistic-missiles-launched-towards-us-forces-in-middle-east",
+    "event_codes": {
+      "19": 3,
+      "16": 2,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "2620881",
+      "says",
+      "intercepted",
+      "iranian",
+      "ballistic",
+      "missiles",
+      "launched",
+      "towards",
+      "forces",
+      "middle",
+      "east"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://cyprus-mail.com/2026/07/29/us-and-saudi-arabia-strike-iran-backed-groups-in-iraq",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "and",
+      "saudi",
+      "arabia",
+      "strike",
+      "iran",
+      "backed",
+      "groups",
+      "iraq"
+    ]
+  },
+  "KHM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://phnompenhpost.com/national/sihanoukville-drug-ring-cleaned-up-87-suspects-sent-to-court/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "national",
+      "sihanoukville",
+      "drug",
+      "ring",
+      "cleaned",
+      "suspects",
+      "sent",
+      "court"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.wral.com/news/ap/461c4-fringe-israeli-settler-group-is-sneaking-into-syria-to-try-to-claim-land-for-a-jewish-outpost/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "461c4",
+      "fringe",
+      "israeli",
+      "settler",
+      "group",
+      "sneaking",
+      "into",
+      "syria",
+      "try",
+      "claim",
+      "land",
+      "for",
+      "jewish",
+      "outpost"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://dailypost.ng/2026/07/29/army-colonel-wife-not-gunned-down-in-abuja-fct-police/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "army",
+      "colonel",
+      "wife",
+      "not",
+      "gunned",
+      "down",
+      "abuja",
+      "fct",
+      "police"
+    ]
+  },
+  "SAU": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.cnn.com/2026/07/29/middleeast/saudi-arabia-iran-iraq-yemen-war-houthis-intl",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "2026",
+      "middleeast",
+      "saudi",
+      "arabia",
+      "iran",
+      "iraq",
+      "yemen",
+      "war",
+      "houthis",
+      "intl"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.wral.com/news/ap/461c4-fringe-israeli-settler-group-is-sneaking-into-syria-to-try-to-claim-land-for-a-jewish-outpost/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "461c4",
+      "fringe",
+      "israeli",
+      "settler",
+      "group",
+      "sneaking",
+      "into",
+      "syria",
+      "try",
+      "claim",
+      "land",
+      "for",
+      "jewish",
+      "outpost"
     ]
   }
 }
