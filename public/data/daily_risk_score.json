@@ -1,136 +1,132 @@
 {
-  "ARE": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://thefrontierpost.com/russia-seeks-arrest-of-telegram-chief-durov/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "russia",
-      "seeks",
-      "arrest",
-      "telegram",
-      "chief",
-      "durov"
-    ]
-  },
-  "IRN": {
-    "risk_score": 15.11,
-    "count": 20,
-    "top_news": "https://news.am/en/news/1052276",
-    "event_codes": {
-      "17": 8,
-      "19": 5,
-      "18": 4,
-      "15": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "1052276"
-    ]
-  },
   "IRQ": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/07/29/773324/Iraqi-president-US-Saudi-aggression-Hashd-Sha",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.channelstv.com/2026/07/29/us-saudi-strikes-in-iraq-kill-20-including-iranians/",
     "event_codes": {
-      "19": 6,
-      "17": 2
+      "19": 9
     },
     "keywords": [
-      "detail",
       "2026",
-      "773324",
-      "iraqi",
-      "president",
       "saudi",
-      "aggression",
-      "hashd",
-      "sha"
+      "strikes",
+      "iraq",
+      "kill",
+      "including",
+      "iranians"
     ]
   },
   "ISR": {
-    "risk_score": 7.27,
-    "count": 9,
-    "top_news": "https://www.miragenews.com/un-alerts-west-bank-settler-violence-surges-to-1718531/",
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted",
     "event_codes": {
-      "14": 3,
-      "17": 3,
-      "19": 3
+      "19": 3,
+      "18": 2
     },
     "keywords": [
-      "alerts",
-      "west",
-      "bank",
-      "settler",
-      "violence",
-      "surges",
-      "1718531"
+      "news",
+      "2026",
+      "trump",
+      "says",
+      "deliver",
+      "beating",
+      "iran",
+      "after",
+      "bases",
+      "again",
+      "targeted"
     ]
   },
-  "QAT": {
+  "KEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://thepeninsulaqatar.com/article/29/07/2026/uae-condemns-renewed-iranian-hostile-attack-on-jordan",
+    "top_news": "https://www.channelstv.com/2026/07/29/five-killed-in-suspected-jihadist-ambush-on-kenya-police-patrol/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "article",
       "2026",
-      "uae",
-      "condemns",
-      "renewed",
-      "iranian",
-      "hostile",
-      "attack",
-      "jordan"
+      "five",
+      "killed",
+      "suspected",
+      "jihadist",
+      "ambush",
+      "kenya",
+      "police",
+      "patrol"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thehindu.com/news/international/west-bank-violence-annexation-only-getting-worse-un/article71283006.ece",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "west",
+      "bank",
+      "violence",
+      "annexation",
+      "only",
+      "getting",
+      "worse",
+      "article71283006.ece"
     ]
   },
   "SAU": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.al-monitor.com/originals/2026/07/us-saudi-hit-irans-allies-iraq-trump-vows-punish-iran-firing-troops",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.malaysiasun.com/news/279215180/iraq-approves-security-plan-to-protect-sovereignty-after-us-saudi-strikes",
     "event_codes": {
-      "19": 6,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "originals",
-      "2026",
-      "saudi",
-      "hit",
-      "irans",
-      "allies",
+      "news",
+      "279215180",
       "iraq",
-      "trump",
-      "vows",
-      "punish",
-      "iran",
-      "firing",
-      "troops"
+      "approves",
+      "security",
+      "plan",
+      "protect",
+      "sovereignty",
+      "after",
+      "saudi",
+      "strikes"
     ]
   },
-  "YEM": {
+  "TUR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.al-monitor.com/originals/2026/07/resumption-yemens-oil-exports-possible-security-measures-vp",
+    "top_news": "https://www.dailymail.com/news/article-16014101/Wildfires-hit-Europe-days-EUs-emergency-response-chief-warns-inferno-kills-two-firefighters-Greece-flare-ups-continue-France.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "originals",
-      "2026",
-      "resumption",
-      "yemens",
-      "oil",
-      "exports",
-      "possible",
-      "security",
-      "measures"
+      "news",
+      "article",
+      "16014101",
+      "wildfires",
+      "hit",
+      "europe",
+      "days",
+      "eus",
+      "emergency",
+      "response",
+      "chief",
+      "warns",
+      "inferno",
+      "kills",
+      "two",
+      "firefighters",
+      "greece",
+      "flare",
+      "ups",
+      "continue",
+      "france.html"
     ]
   }
 }
