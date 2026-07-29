@@ -1,102 +1,83 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
+  "EGY": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
+    "top_news": "https://www.jns.org/news/u-s-news/drone-strikes-us-owned-tanker-in-nile-delta",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "trump",
-      "says",
-      "hit",
-      "iran",
-      "hard"
+      "news",
+      "news",
+      "drone",
+      "strikes",
+      "owned",
+      "tanker",
+      "nile",
+      "delta"
     ]
   },
-  "ISR": {
-    "risk_score": 3.95,
+  "IRN": {
+    "risk_score": 8.8,
+    "count": 9,
+    "top_news": "https://www.sbs.com.au/news/article/iran-attacked-bases-jordan-trump-hit-back-hard/794wf1ce4",
+    "event_codes": {
+      "19": 8,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "iran",
+      "attacked",
+      "bases",
+      "jordan",
+      "trump",
+      "hit",
+      "back",
+      "hard",
+      "794wf1ce4"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://thenewamerican.com/us/mad-king-george-iii-alex-jones-calls-for-trumps-removal/",
+    "top_news": "https://www.sbs.com.au/news/article/iran-attacked-bases-jordan-trump-hit-back-hard/794wf1ce4",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "mad",
-      "king",
-      "george",
-      "iii",
-      "alex",
-      "jones",
-      "calls",
-      "for",
-      "trumps",
-      "removal"
+      "news",
+      "article",
+      "iran",
+      "attacked",
+      "bases",
+      "jordan",
+      "trump",
+      "hit",
+      "back",
+      "hard",
+      "794wf1ce4"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "http://silverbirdtv.com/breaking-police-arrest-osun-ssg-four-others-with-pvcs-%E2%82%A64-8m-laptop-others/",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "breaking",
-      "police",
-      "arrest",
-      "osun",
-      "ssg",
-      "four",
-      "others",
-      "with",
-      "pvcs",
-      "%e2%82%a64",
-      "laptop",
-      "others"
-    ]
-  },
-  "VEN": {
+  "SYR": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.latimes.com/delos/story/2026-07-29/venezuelan-journalist-detained-miami-beach-border-patrol-ice-detention",
+    "count": 3,
+    "top_news": "https://www.jns.org/news/u-s-news/drone-strikes-us-owned-tanker-in-nile-delta",
     "event_codes": {
-      "17": 4
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "delos",
-      "story",
-      "2026",
-      "venezuelan",
-      "journalist",
-      "detained",
-      "miami",
-      "beach",
-      "border",
-      "patrol",
-      "ice",
-      "detention"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.austinchronicle.com/music/meet-the-blacksmith-at-the-center-of-austin-musics-golden-era/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "music",
-      "meet",
-      "the",
-      "blacksmith",
-      "the",
-      "center",
-      "austin",
-      "musics",
-      "golden",
-      "era"
+      "news",
+      "news",
+      "drone",
+      "strikes",
+      "owned",
+      "tanker",
+      "nile",
+      "delta"
     ]
   }
 }
