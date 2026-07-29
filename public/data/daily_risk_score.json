@@ -1,99 +1,69 @@
 {
-  "IRQ": {
-    "risk_score": 5.0,
+  "IRN": {
+    "risk_score": 4.7,
     "count": 5,
-    "top_news": "https://arynews.tv/drone-strikes-us-owned-gas-tanker-at-egypts-damietta-port",
+    "top_news": "https://www.tribuneindia.com/news/comment/india-must-stand-up-for-its-seafarers/",
     "event_codes": {
-      "19": 5
+      "17": 2,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "drone",
-      "strikes",
-      "owned",
-      "gas",
-      "tanker",
-      "egypts",
-      "damietta",
-      "port"
+      "news",
+      "comment",
+      "india",
+      "must",
+      "stand",
+      "for",
+      "its",
+      "seafarers"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "abdul",
-      "sayed",
-      "haley",
-      "stevens",
-      "aipac",
-      "senate",
-      "michigan"
-    ]
-  },
-  "NGA": {
-    "risk_score": 42.97,
-    "count": 51,
-    "top_news": "https://dailytrust.com/kwara-3-killed-as-dss-forest-guards-engage-bandits-in-gun-battle/",
-    "event_codes": {
-      "19": 23,
-      "17": 20,
-      "18": 8
-    },
-    "keywords": [
-      "kwara",
-      "killed",
-      "dss",
-      "forest",
-      "guards",
-      "engage",
-      "bandits",
-      "gun",
-      "battle"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.algemeiner.com/2026/07/29/the-houthis-are-hitting-saudi-arabias-energy-pipeline-and-heres-why-that-matters/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "houthis",
-      "are",
-      "hitting",
-      "saudi",
-      "arabias",
-      "energy",
-      "pipeline",
-      "and",
-      "heres",
-      "why",
-      "that",
-      "matters"
-    ]
-  },
-  "TUR": {
-    "risk_score": 9.0,
+    "risk_score": 8.35,
     "count": 9,
-    "top_news": "https://www.thejournal.ie/wildfires-europe-firefighters-died-7116986-Jul2026/",
+    "top_news": "http://www.philippinetimes.com/news/279208611/west-bank-surge-in-settler-violence-threatens-mass-atrocities",
     "event_codes": {
-      "19": 9
+      "19": 7,
+      "16": 2
     },
     "keywords": [
-      "wildfires",
-      "europe",
-      "firefighters",
-      "died",
-      "7116986",
-      "jul2026"
+      "news",
+      "279208611",
+      "west",
+      "bank",
+      "surge",
+      "settler",
+      "violence",
+      "threatens",
+      "mass",
+      "atrocities"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.thecitizen.co.tz/tanzania/news/africa/five-kenyan-security-officers-killed-in-suspected-al-shabaab-attack-near-somalia-border-5540986",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "tanzania",
+      "news",
+      "africa",
+      "five",
+      "kenyan",
+      "security",
+      "officers",
+      "killed",
+      "suspected",
+      "shabaab",
+      "attack",
+      "near",
+      "somalia",
+      "border",
+      "5540986"
     ]
   }
 }
