@@ -1,132 +1,99 @@
 {
   "IRQ": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.channelstv.com/2026/07/29/us-saudi-strikes-in-iraq-kill-20-including-iranians/",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://arynews.tv/drone-strikes-us-owned-gas-tanker-at-egypts-damietta-port",
     "event_codes": {
-      "19": 9
+      "19": 5
     },
     "keywords": [
-      "2026",
-      "saudi",
+      "drone",
       "strikes",
-      "iraq",
-      "kill",
-      "including",
-      "iranians"
+      "owned",
+      "gas",
+      "tanker",
+      "egypts",
+      "damietta",
+      "port"
     ]
   },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted",
-    "event_codes": {
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "trump",
-      "says",
-      "deliver",
-      "beating",
-      "iran",
-      "after",
-      "bases",
-      "again",
-      "targeted"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.channelstv.com/2026/07/29/five-killed-in-suspected-jihadist-ambush-on-kenya-police-patrol/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "five",
-      "killed",
-      "suspected",
-      "jihadist",
-      "ambush",
-      "kenya",
-      "police",
-      "patrol"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thehindu.com/news/international/west-bank-violence-annexation-only-getting-worse-un/article71283006.ece",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "international",
-      "west",
-      "bank",
-      "violence",
-      "annexation",
-      "only",
-      "getting",
-      "worse",
-      "article71283006.ece"
-    ]
-  },
-  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.malaysiasun.com/news/279215180/iraq-approves-security-plan-to-protect-sovereignty-after-us-saudi-strikes",
+    "top_news": "https://theintercept.com/2026/07/27/abdul-el-sayed-haley-stevens-aipac-senate-michigan/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "279215180",
-      "iraq",
-      "approves",
-      "security",
-      "plan",
-      "protect",
-      "sovereignty",
-      "after",
+      "2026",
+      "abdul",
+      "sayed",
+      "haley",
+      "stevens",
+      "aipac",
+      "senate",
+      "michigan"
+    ]
+  },
+  "NGA": {
+    "risk_score": 42.97,
+    "count": 51,
+    "top_news": "https://dailytrust.com/kwara-3-killed-as-dss-forest-guards-engage-bandits-in-gun-battle/",
+    "event_codes": {
+      "19": 23,
+      "17": 20,
+      "18": 8
+    },
+    "keywords": [
+      "kwara",
+      "killed",
+      "dss",
+      "forest",
+      "guards",
+      "engage",
+      "bandits",
+      "gun",
+      "battle"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.algemeiner.com/2026/07/29/the-houthis-are-hitting-saudi-arabias-energy-pipeline-and-heres-why-that-matters/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "houthis",
+      "are",
+      "hitting",
       "saudi",
-      "strikes"
+      "arabias",
+      "energy",
+      "pipeline",
+      "and",
+      "heres",
+      "why",
+      "that",
+      "matters"
     ]
   },
   "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailymail.com/news/article-16014101/Wildfires-hit-Europe-days-EUs-emergency-response-chief-warns-inferno-kills-two-firefighters-Greece-flare-ups-continue-France.html",
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.thejournal.ie/wildfires-europe-firefighters-died-7116986-Jul2026/",
     "event_codes": {
-      "19": 2
+      "19": 9
     },
     "keywords": [
-      "news",
-      "article",
-      "16014101",
       "wildfires",
-      "hit",
       "europe",
-      "days",
-      "eus",
-      "emergency",
-      "response",
-      "chief",
-      "warns",
-      "inferno",
-      "kills",
-      "two",
       "firefighters",
-      "greece",
-      "flare",
-      "ups",
-      "continue",
-      "france.html"
+      "died",
+      "7116986",
+      "jul2026"
     ]
   }
 }
