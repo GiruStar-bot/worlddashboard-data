@@ -1,170 +1,183 @@
 {
-  "CAF": {
+  "ETH": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.mynbc5.com/article/luciano-frattolini-trial-day-5/73299407",
+    "event_codes": {
+      "18": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "luciano",
+      "frattolini",
+      "trial",
+      "day",
+      "73299407"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/h1byci8bml",
+    "event_codes": {
+      "19": 6,
+      "17": 3
+    },
+    "keywords": [
+      "opinions",
+      "analysis",
+      "article",
+      "h1byci8bml"
+    ]
+  },
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://allafrica.com/stories/202607300402.html",
+    "top_news": "https://www.reviewjournal.com/news/politics-and-government/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-3856931/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "stories",
-      "202607300402.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.al-monitor.com/originals/2026/07/gaza-ceasefire-talks-see-rare-progress-sources-say",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "gaza",
-      "ceasefire",
-      "talks",
-      "see",
-      "rare",
-      "progress",
-      "sources",
-      "say"
-    ]
-  },
-  "IRN": {
-    "risk_score": 10.2,
-    "count": 12,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/891330/strategic-defeat-of-ukraine-zelensky-disorderly-retreat-facing-disaster-iran-will-respond-harshly-in-the-caspian",
-    "event_codes": {
-      "19": 8,
-      "17": 4
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "891330",
-      "strategic",
-      "defeat",
-      "ukraine",
-      "zelensky",
-      "disorderly",
-      "retreat",
-      "facing",
-      "disaster",
-      "iran",
-      "will",
-      "respond",
-      "harshly",
-      "the",
-      "caspian"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.1,
-    "count": 22,
-    "top_news": "https://www.nwaonline.com/news/2026/jul/30/palestine-police-officer-under-investigation/",
-    "event_codes": {
-      "17": 12,
-      "19": 8,
-      "14": 2
-    },
-    "keywords": [
       "news",
-      "2026",
-      "jul",
-      "palestine",
-      "police",
-      "officer",
-      "under",
-      "investigation"
-    ]
-  },
-  "KHM": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://highlandcountypress.com/opinions/communism-its-back",
-    "event_codes": {
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "opinions",
-      "communism",
-      "its",
-      "back"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.siasat.com/us-iran-trade-strikes-as-hopes-dim-for-a-quick-resolution-3516222/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
+      "politics",
+      "and",
+      "government",
+      "and",
       "iran",
       "trade",
-      "strikes",
+      "missile",
+      "barrages",
       "hopes",
       "dim",
       "for",
       "quick",
       "resolution",
-      "3516222"
+      "3856931"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.1,
+    "count": 20,
+    "top_news": "https://www.heritagefl.com/story/2026/07/31/news/minority-of-house-dems-vote-to-continue-aid-to-israel/23724.html",
+    "event_codes": {
+      "17": 9,
+      "19": 5,
+      "16": 4,
+      "14": 1,
+      "20": 1
+    },
+    "keywords": [
+      "story",
+      "2026",
+      "news",
+      "minority",
+      "house",
+      "dems",
+      "vote",
+      "continue",
+      "aid",
+      "israel",
+      "23724.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.56,
+    "count": 4,
+    "top_news": "https://www.heritagefl.com/story/2026/07/31/opinions/fasten-your-seatbelts-as-conflict-escalates/23722.html",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "2026",
+      "opinions",
+      "fasten",
+      "your",
+      "seatbelts",
+      "conflict",
+      "escalates",
+      "23722.html"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202607300483.html",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "stories",
+      "202607300483.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://allafrica.com/view/group/main/main/id/00097615.html",
+    "risk_score": 7.32,
+    "count": 8,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/899456-ex-nigerian-diplomat-abubakar-alhaji-is-dead.html",
     "event_codes": {
-      "19": 2
+      "18": 7,
+      "15": 1
     },
     "keywords": [
-      "view",
-      "group",
-      "main",
-      "main",
-      "00097615.html"
+      "news",
+      "top",
+      "news",
+      "899456",
+      "nigerian",
+      "diplomat",
+      "abubakar",
+      "alhaji",
+      "dead.html"
     ]
   },
   "SAU": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://dailycaller.com/2026/07/30/the-houthis-could-drive-up-gas-prices-even-further/",
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.reviewjournal.com/news/politics-and-government/us-and-iran-trade-missile-barrages-as-hopes-dim-for-a-quick-resolution-3856931/",
     "event_codes": {
-      "19": 8
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "2026",
-      "the",
-      "houthis",
-      "could",
-      "drive",
-      "gas",
-      "prices",
-      "even",
-      "further"
+      "news",
+      "politics",
+      "and",
+      "government",
+      "and",
+      "iran",
+      "trade",
+      "missile",
+      "barrages",
+      "hopes",
+      "dim",
+      "for",
+      "quick",
+      "resolution",
+      "3856931"
     ]
   },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://dailycaller.com/2026/07/30/the-houthis-could-drive-up-gas-prices-even-further/",
+  "TUR": {
+    "risk_score": 4.95,
+    "count": 6,
+    "top_news": "http://thepeninsulaqatar.com/article/30/07/2026/turkiye-confronts-growing-wildfires-on-tourist-coasts",
     "event_codes": {
+      "14": 3,
       "19": 3
     },
     "keywords": [
+      "article",
       "2026",
-      "the",
-      "houthis",
-      "could",
-      "drive",
-      "gas",
-      "prices",
-      "even",
-      "further"
+      "turkiye",
+      "confronts",
+      "growing",
+      "wildfires",
+      "tourist",
+      "coasts"
     ]
   }
 }
