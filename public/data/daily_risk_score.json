@@ -1,111 +1,124 @@
 {
-  "EGY": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.jns.org/news/world/egypt-confirms-us-owned-tanker-fire-a-result-of-drone-attack",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "egypt",
-      "confirms",
-      "owned",
-      "tanker",
-      "fire",
-      "result",
-      "drone",
-      "attack"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.ibtimes.co.uk/axis-aggressors-strategic-cooperation-china-russia-iran-north-korea-1811523",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "axis",
-      "aggressors",
-      "strategic",
-      "cooperation",
-      "china",
-      "russia",
-      "iran",
-      "north",
-      "korea",
-      "1811523"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.15,
-    "count": 6,
-    "top_news": "https://www.jns.org/news/israel-news/israeli-ambulance-driver-indicted-for-spying-on-hospitals-sites-for-iran",
-    "event_codes": {
-      "17": 5,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "israeli",
-      "ambulance",
-      "driver",
-      "indicted",
-      "for",
-      "spying",
-      "hospitals",
-      "sites",
-      "for",
-      "iran"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.44,
+  "ARE": {
+    "risk_score": 2.8,
     "count": 4,
-    "top_news": "https://www.nigerianeye.com/2026/07/forest-guards-dss-rescue-nine-kidnap.html",
+    "top_news": "https://www.hindustantimes.com/world-news/dubais-new-tourist-referral-scheme-who-can-get-rs-2-lakh-plus-rewards-and-how-it-works-explained-101785409100809.html",
     "event_codes": {
-      "15": 2,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "forest",
-      "guards",
-      "dss",
-      "rescue",
-      "nine",
-      "kidnap.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.semissourian.com/world/jordanian-air-defenses-shoot-down-5-missiles-launched-from-iran-state-run-news-agency-says-2a81f68e",
-    "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
       "world",
-      "jordanian",
-      "air",
-      "defenses",
-      "shoot",
-      "down",
-      "missiles",
-      "launched",
-      "from",
-      "iran",
-      "state",
-      "run",
       "news",
-      "agency",
-      "says",
-      "2a81f68e"
+      "dubais",
+      "new",
+      "tourist",
+      "referral",
+      "scheme",
+      "who",
+      "can",
+      "get",
+      "lakh",
+      "plus",
+      "rewards",
+      "and",
+      "how",
+      "works",
+      "explained",
+      "101785409100809.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 15.45,
+    "count": 16,
+    "top_news": "https://www.hindustantimes.com/world-news/the-u-s-commander-with-a-two-week-plan-to-escalate-strikes-in-iran-101785405267375.html",
+    "event_codes": {
+      "19": 15,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "the",
+      "commander",
+      "with",
+      "two",
+      "week",
+      "plan",
+      "escalate",
+      "strikes",
+      "iran",
+      "101785405267375.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 30.77,
+    "count": 33,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-strikes-kill-4-palestinians-including-2-children-in-gaza-despite-ongoing-ceasefire/4013563",
+    "event_codes": {
+      "19": 22,
+      "18": 7,
+      "17": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "strikes",
+      "kill",
+      "palestinians",
+      "including",
+      "children",
+      "gaza",
+      "despite",
+      "ongoing",
+      "ceasefire",
+      "4013563"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-strikes-kill-4-palestinians-including-2-children-in-gaza-despite-ongoing-ceasefire/4013563",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "strikes",
+      "kill",
+      "palestinians",
+      "including",
+      "children",
+      "gaza",
+      "despite",
+      "ongoing",
+      "ceasefire",
+      "4013563"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-artillery-shells-southern-syrias-quneitra-province-sana/4013606",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "artillery",
+      "shells",
+      "southern",
+      "syrias",
+      "quneitra",
+      "province",
+      "sana",
+      "4013606"
     ]
   }
 }
