@@ -1,124 +1,170 @@
 {
-  "ARE": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.hindustantimes.com/world-news/dubais-new-tourist-referral-scheme-who-can-get-rs-2-lakh-plus-rewards-and-how-it-works-explained-101785409100809.html",
+  "CAF": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202607300402.html",
     "event_codes": {
-      "16": 2,
+      "19": 3
+    },
+    "keywords": [
+      "stories",
+      "202607300402.html"
+    ]
+  },
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/07/gaza-ceasefire-talks-see-rare-progress-sources-say",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "world",
-      "news",
-      "dubais",
-      "new",
-      "tourist",
-      "referral",
-      "scheme",
-      "who",
-      "can",
-      "get",
-      "lakh",
-      "plus",
-      "rewards",
-      "and",
-      "how",
-      "works",
-      "explained",
-      "101785409100809.html"
+      "originals",
+      "2026",
+      "gaza",
+      "ceasefire",
+      "talks",
+      "see",
+      "rare",
+      "progress",
+      "sources",
+      "say"
     ]
   },
   "IRN": {
-    "risk_score": 15.45,
-    "count": 16,
-    "top_news": "https://www.hindustantimes.com/world-news/the-u-s-commander-with-a-two-week-plan-to-escalate-strikes-in-iran-101785405267375.html",
+    "risk_score": 10.2,
+    "count": 12,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/891330/strategic-defeat-of-ukraine-zelensky-disorderly-retreat-facing-disaster-iran-will-respond-harshly-in-the-caspian",
     "event_codes": {
-      "19": 15,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "the",
-      "commander",
-      "with",
-      "two",
-      "week",
-      "plan",
-      "escalate",
-      "strikes",
-      "iran",
-      "101785405267375.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 30.77,
-    "count": 33,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-strikes-kill-4-palestinians-including-2-children-in-gaza-despite-ongoing-ceasefire/4013563",
-    "event_codes": {
-      "19": 22,
-      "18": 7,
+      "19": 8,
       "17": 4
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "strikes",
-      "kill",
-      "palestinians",
-      "including",
-      "children",
-      "gaza",
-      "despite",
-      "ongoing",
-      "ceasefire",
-      "4013563"
+      "diethni",
+      "articles",
+      "891330",
+      "strategic",
+      "defeat",
+      "ukraine",
+      "zelensky",
+      "disorderly",
+      "retreat",
+      "facing",
+      "disaster",
+      "iran",
+      "will",
+      "respond",
+      "harshly",
+      "the",
+      "caspian"
     ]
   },
-  "PSE": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-strikes-kill-4-palestinians-including-2-children-in-gaza-despite-ongoing-ceasefire/4013563",
+  "ISR": {
+    "risk_score": 16.1,
+    "count": 22,
+    "top_news": "https://www.nwaonline.com/news/2026/jul/30/palestine-police-officer-under-investigation/",
     "event_codes": {
-      "19": 4,
+      "17": 12,
+      "19": 8,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "jul",
+      "palestine",
+      "police",
+      "officer",
+      "under",
+      "investigation"
+    ]
+  },
+  "KHM": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://highlandcountypress.com/opinions/communism-its-back",
+    "event_codes": {
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "strikes",
-      "kill",
-      "palestinians",
-      "including",
-      "children",
-      "gaza",
-      "despite",
-      "ongoing",
-      "ceasefire",
-      "4013563"
+      "opinions",
+      "communism",
+      "its",
+      "back"
     ]
   },
-  "SYR": {
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-artillery-shells-southern-syrias-quneitra-province-sana/4013606",
+    "top_news": "https://www.siasat.com/us-iran-trade-strikes-as-hopes-dim-for-a-quick-resolution-3516222/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "artillery",
-      "shells",
-      "southern",
-      "syrias",
-      "quneitra",
-      "province",
-      "sana",
-      "4013606"
+      "iran",
+      "trade",
+      "strikes",
+      "hopes",
+      "dim",
+      "for",
+      "quick",
+      "resolution",
+      "3516222"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://allafrica.com/view/group/main/main/id/00097615.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "view",
+      "group",
+      "main",
+      "main",
+      "00097615.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://dailycaller.com/2026/07/30/the-houthis-could-drive-up-gas-prices-even-further/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "houthis",
+      "could",
+      "drive",
+      "gas",
+      "prices",
+      "even",
+      "further"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dailycaller.com/2026/07/30/the-houthis-could-drive-up-gas-prices-even-further/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "houthis",
+      "could",
+      "drive",
+      "gas",
+      "prices",
+      "even",
+      "further"
     ]
   }
 }
