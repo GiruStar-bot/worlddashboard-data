@@ -1,83 +1,194 @@
 {
-  "EGY": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.jns.org/news/u-s-news/drone-strikes-us-owned-tanker-in-nile-delta",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "news",
-      "drone",
-      "strikes",
-      "owned",
-      "tanker",
-      "nile",
-      "delta"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://www.sbs.com.au/news/article/iran-attacked-bases-jordan-trump-hit-back-hard/794wf1ce4",
+    "risk_score": 10.95,
+    "count": 11,
+    "top_news": "http://www.goskagit.com/news/world/us-military-launches-strikes-on-iranian-targets-a-day-after-it-foiled-missile-attack-on/article_5b8cd012-1b07-503b-92c4-1df6c8b65687.html",
     "event_codes": {
-      "19": 8,
-      "16": 1
+      "19": 11
     },
     "keywords": [
       "news",
+      "world",
+      "military",
+      "launches",
+      "strikes",
+      "iranian",
+      "targets",
+      "day",
+      "after",
+      "foiled",
+      "missile",
+      "attack",
       "article",
-      "iran",
-      "attacked",
-      "bases",
-      "jordan",
-      "trump",
-      "hit",
-      "back",
-      "hard",
-      "794wf1ce4"
+      "5b8cd012",
+      "1b07",
+      "503b",
+      "92c4",
+      "1df6c8b65687.html"
     ]
   },
   "IRQ": {
+    "risk_score": 10.5,
+    "count": 11,
+    "top_news": "http://www.goskagit.com/news/world/us-military-launches-strikes-on-iranian-targets-a-day-after-it-foiled-missile-attack-on/article_5b8cd012-1b07-503b-92c4-1df6c8b65687.html",
+    "event_codes": {
+      "19": 6,
+      "18": 5
+    },
+    "keywords": [
+      "news",
+      "world",
+      "military",
+      "launches",
+      "strikes",
+      "iranian",
+      "targets",
+      "day",
+      "after",
+      "foiled",
+      "missile",
+      "attack",
+      "article",
+      "5b8cd012",
+      "1b07",
+      "503b",
+      "92c4",
+      "1df6c8b65687.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 21.88,
+    "count": 25,
+    "top_news": "http://www.jpost.com/israel-news/politics-and-diplomacy/article-904053",
+    "event_codes": {
+      "18": 11,
+      "17": 8,
+      "19": 6
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "politics",
+      "and",
+      "diplomacy",
+      "article",
+      "904053"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.cubaheadlines.com/articles/336540",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "336540"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.66,
+    "count": 7,
+    "top_news": "https://imemc.org/article/israeli-forces-demolish-3-wells-in-tubas-order-citizen-to-demolish-home-in-jerusalem/",
+    "event_codes": {
+      "17": 3,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "forces",
+      "demolish",
+      "wells",
+      "tubas",
+      "order",
+      "citizen",
+      "demolish",
+      "home",
+      "jerusalem"
+    ]
+  },
+  "SAU": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.sbs.com.au/news/article/iran-attacked-bases-jordan-trump-hit-back-hard/794wf1ce4",
+    "top_news": "http://www.jpost.com/middle-east/article-904052",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "904052"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-16015235/gold-coast-stevenson-murder-case-syria-death-penalty.html",
     "event_codes": {
       "19": 4
     },
     "keywords": [
       "news",
       "article",
-      "iran",
-      "attacked",
-      "bases",
-      "jordan",
-      "trump",
-      "hit",
-      "back",
-      "hard",
-      "794wf1ce4"
+      "16015235",
+      "gold",
+      "coast",
+      "stevenson",
+      "murder",
+      "case",
+      "syria",
+      "death",
+      "penalty.html"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.jns.org/news/u-s-news/drone-strikes-us-owned-tanker-in-nile-delta",
+  "THA": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.perthnow.com.au/news/politics/news-and-politics-live-updates-closing-the-gap-data-highlights-nt-child-protection-challenge--c-22649285",
     "event_codes": {
-      "17": 2,
+      "18": 2,
+      "17": 1,
       "19": 1
     },
     "keywords": [
       "news",
+      "politics",
       "news",
-      "drone",
-      "strikes",
-      "owned",
-      "tanker",
-      "nile",
-      "delta"
+      "and",
+      "politics",
+      "live",
+      "updates",
+      "closing",
+      "the",
+      "gap",
+      "data",
+      "highlights",
+      "child",
+      "protection",
+      "challenge",
+      "22649285"
+    ]
+  },
+  "VNM": {
+    "risk_score": 7.0,
+    "count": 14,
+    "top_news": "http://www.thailandnews.net/news/279215618/vietnam-quash-conviction-of-social-media-commentator",
+    "event_codes": {
+      "17": 14
+    },
+    "keywords": [
+      "news",
+      "279215618",
+      "vietnam",
+      "quash",
+      "conviction",
+      "social",
+      "media",
+      "commentator"
     ]
   }
 }
