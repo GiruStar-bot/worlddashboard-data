@@ -1,98 +1,111 @@
 {
-  "IRN": {
-    "risk_score": 10.0,
-    "count": 11,
-    "top_news": "https://www.dailymail.com/news/article-16015793/Egypt-dragged-Middle-East-war-drone-hits-US-gas-tanker-Mediterranean-port-day-Saudi-Arabia-joined-American-strikes-Iraq.html",
+  "EGY": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.jns.org/news/world/egypt-confirms-us-owned-tanker-fire-a-result-of-drone-attack",
     "event_codes": {
-      "19": 9,
-      "17": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "news",
-      "article",
-      "16015793",
+      "world",
       "egypt",
-      "dragged",
-      "middle",
-      "east",
-      "war",
-      "drone",
-      "hits",
-      "gas",
+      "confirms",
+      "owned",
       "tanker",
-      "mediterranean",
-      "port",
-      "day",
-      "saudi",
-      "arabia",
-      "joined",
-      "american",
-      "strikes",
-      "iraq.html"
+      "fire",
+      "result",
+      "drone",
+      "attack"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.ibtimes.co.uk/axis-aggressors-strategic-cooperation-china-russia-iran-north-korea-1811523",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "axis",
+      "aggressors",
+      "strategic",
+      "cooperation",
+      "china",
+      "russia",
+      "iran",
+      "north",
+      "korea",
+      "1811523"
     ]
   },
   "ISR": {
-    "risk_score": 7.65,
-    "count": 9,
-    "top_news": "http://www.jpost.com/middle-east/article-904084",
+    "risk_score": 3.15,
+    "count": 6,
+    "top_news": "https://www.jns.org/news/israel-news/israeli-ambulance-driver-indicted-for-spying-on-hospitals-sites-for-iran",
     "event_codes": {
-      "19": 6,
-      "17": 2,
+      "17": 5,
       "14": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "904084"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.45,
-    "count": 4,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-904078",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
+      "news",
       "israel",
       "news",
-      "defense",
-      "news",
-      "article",
-      "904078"
+      "israeli",
+      "ambulance",
+      "driver",
+      "indicted",
+      "for",
+      "spying",
+      "hospitals",
+      "sites",
+      "for",
+      "iran"
     ]
   },
-  "YEM": {
+  "NGA": {
+    "risk_score": 2.44,
+    "count": 4,
+    "top_news": "https://www.nigerianeye.com/2026/07/forest-guards-dss-rescue-nine-kidnap.html",
+    "event_codes": {
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "forest",
+      "guards",
+      "dss",
+      "rescue",
+      "nine",
+      "kidnap.html"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailymail.com/news/article-16015793/Egypt-dragged-Middle-East-war-drone-hits-US-gas-tanker-Mediterranean-port-day-Saudi-Arabia-joined-American-strikes-Iraq.html",
+    "top_news": "https://www.semissourian.com/world/jordanian-air-defenses-shoot-down-5-missiles-launched-from-iran-state-run-news-agency-says-2a81f68e",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "world",
+      "jordanian",
+      "air",
+      "defenses",
+      "shoot",
+      "down",
+      "missiles",
+      "launched",
+      "from",
+      "iran",
+      "state",
+      "run",
       "news",
-      "article",
-      "16015793",
-      "egypt",
-      "dragged",
-      "middle",
-      "east",
-      "war",
-      "drone",
-      "hits",
-      "gas",
-      "tanker",
-      "mediterranean",
-      "port",
-      "day",
-      "saudi",
-      "arabia",
-      "joined",
-      "american",
-      "strikes",
-      "iraq.html"
+      "agency",
+      "says",
+      "2a81f68e"
     ]
   }
 }
