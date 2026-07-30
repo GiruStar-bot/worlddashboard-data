@@ -1,66 +1,131 @@
 {
+  "CHL": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://lasillarota.com/lsr-en-ingles/2026/7/30/r1-alleged-mastermind-behind-carlos-manzos-murder-arrested-harfuch-says-610820.html",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "lsr",
+      "ingles",
+      "2026",
+      "alleged",
+      "mastermind",
+      "behind",
+      "carlos",
+      "manzos",
+      "murder",
+      "arrested",
+      "harfuch",
+      "says",
+      "610820.html"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/egypt-analysing-drone-fragments-from-port-strike-warns-of-escalation-101785446350412.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "news",
+      "news",
+      "egypt",
+      "analysing",
+      "drone",
+      "fragments",
+      "from",
+      "port",
+      "strike",
+      "warns",
+      "escalation",
+      "101785446350412.html"
+    ]
+  },
   "IRN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://yalibnan.com/2026/07/30/saudi-leaders-netanyahu-give-trump-their-input-on-iran-war-as-conflict-enters-6th-month/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "saudi",
+      "leaders",
+      "netanyahu",
+      "give",
+      "trump",
+      "their",
+      "input",
+      "iran",
+      "war",
+      "conflict",
+      "enters",
+      "6th",
+      "month"
+    ]
+  },
+  "MMR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.inforum.com/opinion/letters/letter-an-open-letter-to-president-trump",
+    "top_news": "https://www.bbc.com/news/articles/ckgd3k7xe39o",
     "event_codes": {
       "18": 2,
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "letters",
-      "letter",
-      "open",
-      "letter",
-      "president",
-      "trump"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.6,
-    "count": 12,
-    "top_news": "https://news.az/news/israeli-forces-shoot-palestinian-man-near-nablus",
-    "event_codes": {
-      "19": 6,
-      "17": 4,
-      "16": 2
-    },
-    "keywords": [
       "news",
-      "israeli",
-      "forces",
-      "shoot",
-      "palestinian",
-      "man",
-      "near",
-      "nablus"
+      "articles",
+      "ckgd3k7xe39o"
     ]
   },
-  "QAT": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.qatar-tribune.com/article/246687/latest-news/qatar-international-search-and-rescue-group-departs-to-assist-in-spain-wildfire-combat-efforts",
+    "top_news": "https://yalibnan.com/2026/07/30/live-s-arabia-proposes-maritime-defence-coalition-in-bab-el-mandeb-red-sea-and-gulf-of-aden/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "article",
-      "246687",
-      "latest",
-      "news",
-      "qatar",
-      "international",
-      "search",
+      "2026",
+      "live",
+      "arabia",
+      "proposes",
+      "maritime",
+      "defence",
+      "coalition",
+      "bab",
+      "mandeb",
+      "red",
+      "sea",
       "and",
-      "rescue",
-      "group",
-      "departs",
-      "assist",
-      "spain",
-      "wildfire",
-      "combat",
-      "efforts"
+      "gulf",
+      "aden"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/world-news/turkey-battles-wind-fuelled-wildfires-on-tourist-coasts-101785448195448.html",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "news",
+      "turkey",
+      "battles",
+      "wind",
+      "fuelled",
+      "wildfires",
+      "tourist",
+      "coasts",
+      "101785448195448.html"
     ]
   }
 }
