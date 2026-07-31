@@ -1,45 +1,104 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
+  "IDN": {
+    "risk_score": 3.42,
     "count": 4,
-    "top_news": "https://www.fox5ny.com/news/angel-rampersad-funeral-queens-u-s-army-staff-soldier-killed-in-jordan",
+    "top_news": "https://en.antaranews.com/news/424900/indonesia-proposes-task-force-with-cambodia-to-combat-online-scams",
     "event_codes": {
-      "19": 4
+      "17": 2,
+      "19": 2
     },
     "keywords": [
       "news",
+      "424900",
+      "indonesia",
+      "proposes",
+      "task",
+      "force",
+      "with",
+      "cambodia",
+      "combat",
+      "online",
+      "scams"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.nbcnewyork.com/queens/watch-live-angel-rampersad-funeral-queens-soldier-killed-jordan-iran/6532288/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "queens",
+      "watch",
+      "live",
       "angel",
       "rampersad",
       "funeral",
       "queens",
-      "army",
-      "staff",
       "soldier",
       "killed",
-      "jordan"
+      "jordan",
+      "iran",
+      "6532288"
     ]
   },
-  "KWT": {
+  "JOR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.bignewsnetwork.com/news/279217603/kuwait-armed-forces-downs-hostile-drones-after-attacks-on-vital-military-sites",
+    "top_news": "https://www.nbcnewyork.com/queens/watch-live-angel-rampersad-funeral-queens-soldier-killed-jordan-iran/6532288/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "queens",
+      "watch",
+      "live",
+      "angel",
+      "rampersad",
+      "funeral",
+      "queens",
+      "soldier",
+      "killed",
+      "jordan",
+      "iran",
+      "6532288"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.7,
+    "count": 7,
+    "top_news": "https://quicknews-africa.net/lagos-cp-orders-crackdown-on-officers-driving-commercial-vehicles-in-uniforms/",
+    "event_codes": {
+      "17": 7
+    },
+    "keywords": [
+      "lagos",
+      "orders",
+      "crackdown",
+      "officers",
+      "driving",
+      "commercial",
+      "vehicles",
+      "uniforms"
+    ]
+  },
+  "PER": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/us/articles/suspect-meijer-shooting-now-jail-143100666.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "279217603",
-      "kuwait",
-      "armed",
-      "forces",
-      "downs",
-      "hostile",
-      "drones",
-      "after",
-      "attacks",
-      "vital",
-      "military",
-      "sites"
+      "articles",
+      "suspect",
+      "meijer",
+      "shooting",
+      "now",
+      "jail",
+      "143100666.html"
     ]
   }
 }
