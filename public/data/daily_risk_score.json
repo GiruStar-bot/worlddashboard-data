@@ -1,64 +1,82 @@
 {
-  "IRN": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.nbcdfw.com/news/local/memorial-service-honors-fallen-north-texas-soldier-isabella-gonzales/4056911/",
+    "top_news": "https://havanatimes.org/interviews/ecuadorian-prosecutor-killed-while-investigating-us-boat-strikes/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "local",
-      "memorial",
-      "service",
-      "honors",
-      "fallen",
-      "north",
-      "texas",
-      "soldier",
-      "isabella",
-      "gonzales",
-      "4056911"
+      "interviews",
+      "ecuadorian",
+      "prosecutor",
+      "killed",
+      "while",
+      "investigating",
+      "boat",
+      "strikes"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.iraqsun.com/news/279217853/why-did-riyadh-join-us-strikes-on-tehran-allies-in-iraq",
+  "ECU": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://havanatimes.org/interviews/ecuadorian-prosecutor-killed-while-investigating-us-boat-strikes/",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "279217853",
-      "why",
-      "did",
-      "riyadh",
-      "join",
-      "strikes",
-      "tehran",
-      "allies",
-      "iraq"
+      "interviews",
+      "ecuadorian",
+      "prosecutor",
+      "killed",
+      "while",
+      "investigating",
+      "boat",
+      "strikes"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.iraqsun.com/news/279217853/why-did-riyadh-join-us-strikes-on-tehran-allies-in-iraq",
+  "ISR": {
+    "risk_score": 2.26,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/news/columbia-university-student-workers-union-withdraws-israel-divestment-demand",
     "event_codes": {
-      "19": 2
+      "16": 2,
+      "17": 2
     },
     "keywords": [
       "news",
-      "279217853",
-      "why",
-      "did",
-      "riyadh",
-      "join",
-      "strikes",
-      "tehran",
-      "allies",
-      "iraq"
+      "columbia",
+      "university",
+      "student",
+      "workers",
+      "union",
+      "withdraws",
+      "israel",
+      "divestment",
+      "demand"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.0,
+    "count": 16,
+    "top_news": "https://www.thecable.ng/makinde-names-retired-acourt-justice-ex-aig-to-panel-probing-ogbomoso-abduction/",
+    "event_codes": {
+      "17": 9,
+      "18": 5,
+      "19": 2
+    },
+    "keywords": [
+      "makinde",
+      "names",
+      "retired",
+      "acourt",
+      "justice",
+      "aig",
+      "panel",
+      "probing",
+      "ogbomoso",
+      "abduction"
     ]
   }
 }
