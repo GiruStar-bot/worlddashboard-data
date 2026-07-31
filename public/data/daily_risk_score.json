@@ -1,56 +1,102 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://nypost.com/2026/07/31/us-news/trump-previews-next-damaging-military-offensive-against-iran-from-camp-david-cabinet-summit/",
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.klcc.org/npr-news/2026-07-31/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
+      "npr",
       "news",
-      "trump",
-      "previews",
-      "next",
-      "damaging",
-      "military",
-      "offensive",
-      "against",
-      "iran",
-      "from",
-      "camp",
-      "david",
-      "cabinet",
-      "summit"
+      "2026",
+      "google",
+      "adds",
+      "satellite",
+      "images",
+      "raising",
+      "fears",
+      "deepfakes",
+      "the",
+      "sky"
     ]
   },
-  "TUR": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/07/31/trump-announces-a-breakthrough-in-gaza-but-there-are-major-caveats-heres-what-we-know/",
+  "IRQ": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.americanthinker.com/blog/2026/07/an-admiral-is-now-leading-the-u-s-army-europe-and-africa-command/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 6
     },
     "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
+      "blog",
       "2026",
-      "trump",
-      "announces",
-      "breakthrough",
-      "gaza",
-      "but",
-      "there",
-      "are",
-      "major",
-      "caveats",
-      "heres",
-      "what",
-      "know"
+      "admiral",
+      "now",
+      "leading",
+      "the",
+      "army",
+      "europe",
+      "and",
+      "africa",
+      "command"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.02,
+    "count": 6,
+    "top_news": "https://www.middleeastmonitor.com/20260731-israeli-defense-minister-says-government-approved-104-illegal-settlements-in-the-west-bank-since-2022/",
+    "event_codes": {
+      "16": 2,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "20260731",
+      "israeli",
+      "defense",
+      "minister",
+      "says",
+      "government",
+      "approved",
+      "104",
+      "illegal",
+      "settlements",
+      "the",
+      "west",
+      "bank",
+      "since",
+      "2022"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.45,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/promoted/899764-the-dislocated-dream-south-africas-xenophobic-problem-and-future-of-african-unity-by-aitanu-elegbenosa-emmanuel.html",
+    "event_codes": {
+      "17": 6,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "promoted",
+      "899764",
+      "the",
+      "dislocated",
+      "dream",
+      "south",
+      "africas",
+      "xenophobic",
+      "problem",
+      "and",
+      "future",
+      "african",
+      "unity",
+      "aitanu",
+      "elegbenosa",
+      "emmanuel.html"
     ]
   }
 }
