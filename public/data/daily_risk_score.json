@@ -1,95 +1,122 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://pakobserver.net/iran-warns-of-israeli-false-flag-operations-in-region-amid-ongoing-tensions/",
+  "EGY": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://cairoscene.com/News/Up-to-15-of-Newborns-in-Egypt-Are-Born-to-Child-Mothers",
     "event_codes": {
-      "19": 2
+      "19": 5
     },
     "keywords": [
-      "iran",
-      "warns",
-      "israeli",
-      "false",
-      "flag",
-      "operations",
-      "region",
-      "amid",
-      "ongoing",
-      "tensions"
+      "news",
+      "newborns",
+      "egypt",
+      "are",
+      "born",
+      "child",
+      "mothers"
     ]
   },
-  "MLI": {
+  "IRN": {
+    "risk_score": 7.7,
+    "count": 8,
+    "top_news": "https://www.cnbc.com/2026/07/31/us-iran-war-trump-hormuz.html",
+    "event_codes": {
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "trump",
+      "hormuz.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.newkerala.com/news/a/idf-claims-dismantle-key-hezbollah-tunnel-network-beneath-875.htm",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "idf",
+      "claims",
+      "dismantle",
+      "key",
+      "hezbollah",
+      "tunnel",
+      "network",
+      "beneath",
+      "875.htm"
+    ]
+  },
+  "JOR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.straitstimes.com/world/europe/russias-africa-corps-kills-mali-civilians-in-indiscriminate-attack-rights-group-says",
+    "top_news": "https://en.dailypakistan.com.pk/31-Jul-2026/us-will-pay-the-price-says-iran-after-civilian-deaths-qeshm-attack",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "world",
-      "europe",
-      "russias",
-      "africa",
-      "corps",
-      "kills",
-      "mali",
-      "civilians",
-      "indiscriminate",
-      "attack",
-      "rights",
-      "group",
-      "says"
-    ]
-  },
-  "MYS": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://asianews.network/malaysias-negeri-sembilan-state-elections-indian-voters-could-be-key-to-whether-pm-anwars-coalition-retains-the-state/",
-    "event_codes": {
-      "18": 4,
-      "14": 1
-    },
-    "keywords": [
-      "malaysias",
-      "negeri",
-      "sembilan",
-      "state",
-      "elections",
-      "indian",
-      "voters",
-      "could",
-      "key",
-      "whether",
-      "anwars",
-      "coalition",
-      "retains",
+      "jul",
+      "2026",
+      "will",
+      "pay",
       "the",
-      "state"
+      "price",
+      "says",
+      "iran",
+      "after",
+      "civilian",
+      "deaths",
+      "qeshm",
+      "attack"
     ]
   },
-  "NGA": {
-    "risk_score": 5.2,
-    "count": 6,
-    "top_news": "https://www.thewrap.com/media-platforms/politics/state-department-map-incorrectly-labels-african-countries-at-aids-conference/",
+  "KHM": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.theboltonnews.co.uk/news/26415924.major-anthony-hornby-remembered-chinook-answers-fight/",
     "event_codes": {
-      "18": 3,
-      "19": 2,
+      "19": 3,
       "17": 1
     },
     "keywords": [
-      "media",
-      "platforms",
-      "politics",
-      "state",
-      "department",
-      "map",
-      "incorrectly",
-      "labels",
-      "african",
-      "countries",
-      "aids",
-      "conference"
+      "news",
+      "26415924.major",
+      "anthony",
+      "hornby",
+      "remembered",
+      "chinook",
+      "answers",
+      "fight"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.94,
+    "count": 23,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/07/31/pilot-believed-to-be-part-of-international-drug-ring-say-indonesian-cops",
+    "event_codes": {
+      "17": 19,
+      "15": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "pilot",
+      "believed",
+      "part",
+      "international",
+      "drug",
+      "ring",
+      "say",
+      "indonesian",
+      "cops"
     ]
   }
 }
