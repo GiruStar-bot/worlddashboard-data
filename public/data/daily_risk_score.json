@@ -1,65 +1,79 @@
 {
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/middle-east/egypt-says-investigation-into-attack-on-2-vessels-at-port-ongoing/4015607",
+    "risk_score": 14.75,
+    "count": 15,
+    "top_news": "https://www.theguardian.com/media/2026/aug/01/fox-news-iran-war-trump-criticism",
     "event_codes": {
-      "19": 4
+      "19": 13,
+      "18": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "egypt",
-      "says",
-      "investigation",
-      "into",
-      "attack",
-      "vessels",
-      "port",
-      "ongoing",
-      "4015607"
+      "media",
+      "2026",
+      "aug",
+      "fox",
+      "news",
+      "iran",
+      "war",
+      "trump",
+      "criticism"
     ]
   },
   "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.forbes.com/sites/pauliddon/2026/08/01/iraqs-vow-to-modernize-air-defense-after-us-saudi-strikes-is-nothing-new/",
+    "top_news": "https://www.middleeasteye.net/news/why-iran-attacking-kurdish-groups-northern-iraq",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "sites",
-      "pauliddon",
-      "2026",
-      "iraqs",
-      "vow",
-      "modernize",
-      "air",
-      "defense",
-      "after",
-      "saudi",
-      "strikes",
-      "nothing",
-      "new"
+      "news",
+      "why",
+      "iran",
+      "attacking",
+      "kurdish",
+      "groups",
+      "northern",
+      "iraq"
     ]
   },
-  "NGA": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://thenationonlineng.net/can-adeleke-survive-without-party-machine/",
+  "ISR": {
+    "risk_score": 26.8,
+    "count": 27,
+    "top_news": "https://www.middleeasteye.net/news/after-israel-killed-her-three-sons-she-found-hope-newborn-then-israel-killed-him-too",
     "event_codes": {
-      "19": 3,
-      "18": 2,
-      "16": 1,
-      "17": 1
+      "19": 25,
+      "18": 2
     },
     "keywords": [
-      "can",
-      "adeleke",
-      "survive",
-      "without",
-      "party",
-      "machine"
+      "news",
+      "after",
+      "israel",
+      "killed",
+      "her",
+      "three",
+      "sons",
+      "she",
+      "found",
+      "hope",
+      "newborn",
+      "then",
+      "israel",
+      "killed",
+      "him",
+      "too"
+    ]
+  },
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/sy100zssme",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "sy100zssme"
     ]
   }
 }
