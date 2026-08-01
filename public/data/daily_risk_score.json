@@ -1,64 +1,108 @@
 {
-  "COL": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://truthout.org/articles/trumps-brutal-blockade-on-cuba-harkens-back-to-the-days-of-us-invasions/",
+  "IRN": {
+    "risk_score": 23.6,
+    "count": 26,
+    "top_news": "https://nypost.com/2026/08/01/us-news/iran-executes-man-20-arrested-during-anti-regime-protests/",
     "event_codes": {
+      "19": 18,
+      "14": 4,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "iran",
+      "executes",
+      "man",
+      "arrested",
+      "during",
+      "anti",
+      "regime",
+      "protests"
+    ]
+  },
+  "ISR": {
+    "risk_score": 19.41,
+    "count": 22,
+    "top_news": "https://www.greanvillepost.com/narcissism-and-psychopathy-on-display-in-the-oval-office/",
+    "event_codes": {
+      "19": 12,
+      "14": 3,
+      "18": 3,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "narcissism",
+      "and",
+      "psychopathy",
+      "display",
+      "the",
+      "oval",
+      "office"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.breitbart.com/politics/2026/07/30/iran-claims-to-have-killed-u-s-troops-to-liberate-the-islamic-land-of-jordan/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "iran",
+      "claims",
+      "have",
+      "killed",
+      "troops",
+      "liberate",
+      "the",
+      "islamic",
+      "land",
+      "jordan"
+    ]
+  },
+  "PSE": {
+    "risk_score": 9.75,
+    "count": 10,
+    "top_news": "https://www.arabnews.com/node/2653064/middle-east",
+    "event_codes": {
+      "19": 7,
       "18": 3
     },
     "keywords": [
-      "articles",
-      "trumps",
-      "brutal",
-      "blockade",
-      "cuba",
-      "harkens",
-      "back",
-      "the",
-      "days",
-      "invasions"
-    ]
-  },
-  "IRN": {
-    "risk_score": 11.0,
-    "count": 11,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/us-embassies-urge-citizens-consider-departing-middle-east",
-    "event_codes": {
-      "19": 11
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "embassies",
-      "urge",
-      "citizens",
-      "consider",
-      "departing",
+      "node",
+      "2653064",
       "middle",
       "east"
     ]
   },
-  "ISR": {
-    "risk_score": 9.1,
-    "count": 11,
-    "top_news": "https://truthout.org/articles/israel-closes-investigation-of-2023-settler-pogrom-without-charging-perpetrators/",
+  "SAU": {
+    "risk_score": 6.6,
+    "count": 8,
+    "top_news": "https://www.al-monitor.com/originals/2026/07/renewed-iraq-attacks-test-zaidis-push-disarm-iran-backed-militias",
     "event_codes": {
-      "18": 4,
       "19": 3,
       "14": 2,
-      "17": 2
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "articles",
-      "israel",
-      "closes",
-      "investigation",
-      "2023",
-      "settler",
-      "pogrom",
-      "without",
-      "charging",
-      "perpetrators"
+      "originals",
+      "2026",
+      "renewed",
+      "iraq",
+      "attacks",
+      "test",
+      "zaidis",
+      "push",
+      "disarm",
+      "iran",
+      "backed",
+      "militias"
     ]
   }
 }
