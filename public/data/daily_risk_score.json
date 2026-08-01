@@ -1,79 +1,64 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/279218736/factory-stabbing-kills-3-in-brazil",
+  "COL": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://truthout.org/articles/trumps-brutal-blockade-on-cuba-harkens-back-to-the-days-of-us-invasions/",
     "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "279218736",
-      "factory",
-      "stabbing",
-      "kills",
-      "brazil"
-    ]
-  },
-  "ISR": {
-    "risk_score": 9.65,
-    "count": 10,
-    "top_news": "https://www.durangoherald.com/articles/associated-press/trump-threatens-more-strikes-on-iran-and-other-developments-in-the-middle-east/",
-    "event_codes": {
-      "19": 9,
-      "14": 1
+      "18": 3
     },
     "keywords": [
       "articles",
-      "associated",
-      "press",
-      "trump",
-      "threatens",
-      "more",
-      "strikes",
-      "iran",
-      "and",
-      "other",
-      "developments",
+      "trumps",
+      "brutal",
+      "blockade",
+      "cuba",
+      "harkens",
+      "back",
       "the",
+      "days",
+      "invasions"
+    ]
+  },
+  "IRN": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.al-monitor.com/originals/2026/08/us-embassies-urge-citizens-consider-departing-middle-east",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "embassies",
+      "urge",
+      "citizens",
+      "consider",
+      "departing",
       "middle",
       "east"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://peakoil.com/publicpolicy/tanker-carrying-qatari-lng-struck-while-transiting-strait-of-hormuz",
+  "ISR": {
+    "risk_score": 9.1,
+    "count": 11,
+    "top_news": "https://truthout.org/articles/israel-closes-investigation-of-2023-settler-pogrom-without-charging-perpetrators/",
     "event_codes": {
-      "19": 2
+      "18": 4,
+      "19": 3,
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "publicpolicy",
-      "tanker",
-      "carrying",
-      "qatari",
-      "lng",
-      "struck",
-      "while",
-      "transiting",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://en.shafaqna.com/467841/more-settler-attacks-in-west-bank/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "467841",
-      "more",
+      "articles",
+      "israel",
+      "closes",
+      "investigation",
+      "2023",
       "settler",
-      "attacks",
-      "west",
-      "bank"
+      "pogrom",
+      "without",
+      "charging",
+      "perpetrators"
     ]
   }
 }
