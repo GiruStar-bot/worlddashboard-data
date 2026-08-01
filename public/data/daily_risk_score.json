@@ -1,107 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://legalinsurrection.com/2026/08/u-s-warns-its-citizens-to-leave-middle-east-citing-unforeseen-escalation-with-iran/",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/279218736/factory-stabbing-kills-3-in-brazil",
     "event_codes": {
-      "18": 4,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "warns",
-      "its",
-      "citizens",
-      "leave",
-      "middle",
-      "east",
-      "citing",
-      "unforeseen",
-      "escalation",
-      "with",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.2,
-    "count": 10,
-    "top_news": "https://torontosun.com/opinion/columnists/donald-trumps-israel-hamas-peace-deal-a-joke",
-    "event_codes": {
-      "17": 6,
-      "18": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
-      "columnists",
-      "donald",
-      "trumps",
-      "israel",
-      "hamas",
-      "peace",
-      "deal",
-      "joke"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.42,
-    "count": 3,
-    "top_news": "https://www.aol.co.uk/articles/katie-price-youve-never-seen-160150000.html",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "articles",
-      "katie",
-      "price",
-      "youve",
-      "never",
-      "seen",
-      "160150000.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.3,
-    "count": 12,
-    "top_news": "https://leadership.ng/police-recover-160-suspected-stolen-solar-inverters-in-kano/",
-    "event_codes": {
-      "17": 7,
-      "19": 3,
       "18": 2
     },
     "keywords": [
-      "police",
-      "recover",
-      "160",
-      "suspected",
-      "stolen",
-      "solar",
-      "inverters",
-      "kano"
+      "news",
+      "279218736",
+      "factory",
+      "stabbing",
+      "kills",
+      "brazil"
     ]
   },
-  "SAU": {
+  "ISR": {
+    "risk_score": 9.65,
+    "count": 10,
+    "top_news": "https://www.durangoherald.com/articles/associated-press/trump-threatens-more-strikes-on-iran-and-other-developments-in-the-middle-east/",
+    "event_codes": {
+      "19": 9,
+      "14": 1
+    },
+    "keywords": [
+      "articles",
+      "associated",
+      "press",
+      "trump",
+      "threatens",
+      "more",
+      "strikes",
+      "iran",
+      "and",
+      "other",
+      "developments",
+      "the",
+      "middle",
+      "east"
+    ]
+  },
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://legalinsurrection.com/2026/08/u-s-warns-its-citizens-to-leave-middle-east-citing-unforeseen-escalation-with-iran/",
+    "top_news": "https://peakoil.com/publicpolicy/tanker-carrying-qatari-lng-struck-while-transiting-strait-of-hormuz",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "warns",
-      "its",
-      "citizens",
-      "leave",
-      "middle",
-      "east",
-      "citing",
-      "unforeseen",
-      "escalation",
-      "with",
-      "iran"
+      "publicpolicy",
+      "tanker",
+      "carrying",
+      "qatari",
+      "lng",
+      "struck",
+      "while",
+      "transiting",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://en.shafaqna.com/467841/more-settler-attacks-in-west-bank/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "467841",
+      "more",
+      "settler",
+      "attacks",
+      "west",
+      "bank"
     ]
   }
 }
