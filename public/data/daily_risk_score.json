@@ -1,52 +1,67 @@
 {
-  "BRN": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/01/china-conducts-naval-air-patrols-around-disputed-shoal-in-south-china-sea",
+    "top_news": "https://www.rferl.org/a/iran-war-stoil-army-war-college-interview/33819707.html",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "china",
-      "conducts",
-      "naval",
-      "air",
-      "patrols",
-      "around",
-      "disputed",
-      "shoal",
-      "south",
-      "china",
-      "sea"
+      "iran",
+      "war",
+      "stoil",
+      "army",
+      "war",
+      "college",
+      "interview",
+      "33819707.html"
     ]
   },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://prescottenews.com/2026/07/31/white-house-says-iran-will-continue-to-pay-amid-reports-of-new-us-strikes-the-epoch-times/",
+  "ISR": {
+    "risk_score": 8.8,
+    "count": 9,
+    "top_news": "https://english.wafa.ps/Pages/Details/173086",
     "event_codes": {
-      "19": 4
+      "19": 8,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "white",
-      "house",
-      "says",
-      "iran",
-      "will",
-      "continue",
-      "pay",
-      "amid",
-      "reports",
-      "new",
-      "strikes",
-      "the",
-      "epoch",
-      "times"
+      "pages",
+      "details",
+      "173086"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/horror-woman-gang-raped-robbed-080100000.html",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "articles",
+      "horror",
+      "woman",
+      "gang",
+      "raped",
+      "robbed",
+      "080100000.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.wafa.ps/Pages/Details/173086",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "173086"
     ]
   }
 }
