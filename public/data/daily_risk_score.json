@@ -1,67 +1,81 @@
 {
   "IRN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.rferl.org/a/iran-war-stoil-army-war-college-interview/33819707.html",
+    "risk_score": 12.95,
+    "count": 14,
+    "top_news": "https://www.gatestoneinstitute.org/22761/eu-iran-appeasement",
     "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "iran",
-      "war",
-      "stoil",
-      "army",
-      "war",
-      "college",
-      "interview",
-      "33819707.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://english.wafa.ps/Pages/Details/173086",
-    "event_codes": {
-      "19": 8,
+      "18": 7,
+      "19": 6,
       "17": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "173086"
+      "22761",
+      "iran",
+      "appeasement"
     ]
   },
-  "KEN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.aol.co.uk/articles/horror-woman-gang-raped-robbed-080100000.html",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "articles",
-      "horror",
-      "woman",
-      "gang",
-      "raped",
-      "robbed",
-      "080100000.html"
-    ]
-  },
-  "PSE": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.wafa.ps/Pages/Details/173086",
+    "top_news": "https://www.yahoo.com/news/politics/articles/kill-iran-defiant-trump-moves-180848313.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "173086"
+      "news",
+      "politics",
+      "articles",
+      "kill",
+      "iran",
+      "defiant",
+      "trump",
+      "moves",
+      "180848313.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.42,
+    "count": 5,
+    "top_news": "https://www.aol.co.uk/articles/laura-loomer-lindsey-graham-deepening-100049000.html",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "articles",
+      "laura",
+      "loomer",
+      "lindsey",
+      "graham",
+      "deepening",
+      "100049000.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.87,
+    "count": 8,
+    "top_news": "https://saharareporters.com/2026/07/31/oriire-and-911-standard-why-oyo-commission-deserves-open-mind-oludare-ogunlana-phd",
+    "event_codes": {
+      "17": 3,
+      "18": 3,
+      "15": 1,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "oriire",
+      "and",
+      "911",
+      "standard",
+      "why",
+      "oyo",
+      "commission",
+      "deserves",
+      "open",
+      "mind",
+      "oludare",
+      "ogunlana",
+      "phd"
     ]
   }
 }
