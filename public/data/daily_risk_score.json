@@ -1,84 +1,114 @@
 {
-  "BRA": {
-    "risk_score": 4.0,
+  "IRN": {
+    "risk_score": 3.5,
     "count": 4,
-    "top_news": "https://www.walesonline.co.uk/lifestyle/tv/where-is-helena-matsunaga-now-34391104",
+    "top_news": "http://www.bignewsnetwork.com/news/279219616/1st-ld-writethru-kuwait-says-air-defenses-destroy-hostile-drones-facilities-damaged",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "lifestyle",
-      "where",
-      "helena",
-      "matsunaga",
-      "now",
-      "34391104"
+      "news",
+      "279219616",
+      "1st",
+      "writethru",
+      "kuwait",
+      "says",
+      "air",
+      "defenses",
+      "destroy",
+      "hostile",
+      "drones",
+      "facilities",
+      "damaged"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "commentisfree",
+      "2026",
+      "aug",
+      "donald",
+      "trump",
+      "iran",
+      "afghanistan",
+      "years",
+      "same",
+      "mistakes"
     ]
   },
   "ISR": {
-    "risk_score": 12.35,
-    "count": 13,
-    "top_news": "https://countercurrents.org/2026/08/israeli-attacks-across-gaza-kill-ten-palestinians-including-three-children/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thehindu.com/news/international/israeli-strikes-northern-gaza-city-and-jabalia-israeli-minister-eli-cohen-says-no-deal-to-halt-attacks/article71297603.ece",
     "event_codes": {
-      "19": 11,
-      "17": 1,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "2026",
+      "news",
+      "international",
       "israeli",
-      "attacks",
-      "across",
+      "strikes",
+      "northern",
       "gaza",
-      "kill",
-      "ten",
-      "palestinians",
-      "including",
-      "three",
-      "children"
+      "city",
+      "and",
+      "jabalia",
+      "israeli",
+      "minister",
+      "eli",
+      "cohen",
+      "says",
+      "deal",
+      "halt",
+      "attacks",
+      "article71297603.ece"
     ]
   },
-  "NGA": {
-    "risk_score": 5.25,
-    "count": 8,
-    "top_news": "https://www.thecable.ng/nigeria-deploys-troops-to-guinea-bissau-for-ecowas-peace-mission/",
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes",
     "event_codes": {
-      "15": 5,
-      "17": 2,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "nigeria",
-      "deploys",
-      "troops",
-      "guinea",
-      "bissau",
-      "for",
-      "ecowas",
-      "peace",
-      "mission"
+      "commentisfree",
+      "2026",
+      "aug",
+      "donald",
+      "trump",
+      "iran",
+      "afghanistan",
+      "years",
+      "same",
+      "mistakes"
     ]
   },
-  "THA": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3295359/suspect-who-exposed-serialmurders-gang-now-in-witness-protection",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/aug/02/donald-trump-iran-afghanistan-25-years-same-mistakes",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "thailand",
-      "general",
-      "3295359",
-      "suspect",
-      "who",
-      "exposed",
-      "serialmurders",
-      "gang",
-      "now",
-      "witness",
-      "protection"
+      "commentisfree",
+      "2026",
+      "aug",
+      "donald",
+      "trump",
+      "iran",
+      "afghanistan",
+      "years",
+      "same",
+      "mistakes"
     ]
   }
 }
