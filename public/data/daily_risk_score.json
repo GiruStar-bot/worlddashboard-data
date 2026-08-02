@@ -1,63 +1,88 @@
 {
-  "IRN": {
+  "COL": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://kashmirreader.com/2026/08/02/us-weighs-strikes-on-iranian-energy-sites-as-trump-authorises-fresh-attack/",
+    "top_news": "https://www.bssnews.net/international/410925",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "weighs",
-      "strikes",
-      "iranian",
-      "energy",
-      "sites",
-      "trump",
-      "authorises",
-      "fresh",
-      "attack"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://kashmirreader.com/2026/08/02/us-weighs-strikes-on-iranian-energy-sites-as-trump-authorises-fresh-attack/",
-    "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "weighs",
-      "strikes",
-      "iranian",
-      "energy",
-      "sites",
-      "trump",
-      "authorises",
-      "fresh",
-      "attack"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.1,
-    "count": 5,
-    "top_news": "https://blueprint.ng/fire-guts-federal-mortgage-bank-headquarters-in-abuja/",
-    "event_codes": {
-      "16": 3,
-      "18": 1,
+      "18": 4,
       "19": 1
     },
     "keywords": [
-      "fire",
-      "guts",
-      "federal",
-      "mortgage",
-      "bank",
-      "headquarters",
-      "abuja"
+      "international",
+      "410925"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.92,
+    "count": 7,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/891794/us-delays-strikes-on-iran-for-48-hours-amid-new-peace-proposal-and-nato-general-warns-israel-is-unprotected",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "891794",
+      "delays",
+      "strikes",
+      "iran",
+      "for",
+      "hours",
+      "amid",
+      "new",
+      "peace",
+      "proposal",
+      "and",
+      "nato",
+      "general",
+      "warns",
+      "israel",
+      "unprotected"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.56,
+    "count": 12,
+    "top_news": "https://www.jns.org/news/israel-news/idf-eliminates-hamas-commander-who-infiltrated-nir-oz-on-oct-7",
+    "event_codes": {
+      "17": 5,
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "idf",
+      "eliminates",
+      "hamas",
+      "commander",
+      "who",
+      "infiltrated",
+      "nir",
+      "oct"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://dailypost.ng/2026/08/02/bandits-overrun-military-post-abduct-70-residents-in-zamfara-community/",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "overrun",
+      "military",
+      "post",
+      "abduct",
+      "residents",
+      "zamfara",
+      "community"
     ]
   }
 }
