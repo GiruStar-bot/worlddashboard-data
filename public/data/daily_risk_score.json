@@ -1,88 +1,84 @@
 {
-  "COL": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.bssnews.net/international/410925",
+  "BRA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.walesonline.co.uk/lifestyle/tv/where-is-helena-matsunaga-now-34391104",
     "event_codes": {
-      "18": 4,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "international",
-      "410925"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.92,
-    "count": 7,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/891794/us-delays-strikes-on-iran-for-48-hours-amid-new-peace-proposal-and-nato-general-warns-israel-is-unprotected",
-    "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "891794",
-      "delays",
-      "strikes",
-      "iran",
-      "for",
-      "hours",
-      "amid",
-      "new",
-      "peace",
-      "proposal",
-      "and",
-      "nato",
-      "general",
-      "warns",
-      "israel",
-      "unprotected"
+      "lifestyle",
+      "where",
+      "helena",
+      "matsunaga",
+      "now",
+      "34391104"
     ]
   },
   "ISR": {
-    "risk_score": 10.56,
-    "count": 12,
-    "top_news": "https://www.jns.org/news/israel-news/idf-eliminates-hamas-commander-who-infiltrated-nir-oz-on-oct-7",
+    "risk_score": 12.35,
+    "count": 13,
+    "top_news": "https://countercurrents.org/2026/08/israeli-attacks-across-gaza-kill-ten-palestinians-including-three-children/",
     "event_codes": {
-      "17": 5,
-      "19": 5,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "idf",
-      "eliminates",
-      "hamas",
-      "commander",
-      "who",
-      "infiltrated",
-      "nir",
-      "oct"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.8,
-    "count": 8,
-    "top_news": "https://dailypost.ng/2026/08/02/bandits-overrun-military-post-abduct-70-residents-in-zamfara-community/",
-    "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 2
+      "19": 11,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "bandits",
-      "overrun",
-      "military",
-      "post",
-      "abduct",
-      "residents",
-      "zamfara",
-      "community"
+      "israeli",
+      "attacks",
+      "across",
+      "gaza",
+      "kill",
+      "ten",
+      "palestinians",
+      "including",
+      "three",
+      "children"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.25,
+    "count": 8,
+    "top_news": "https://www.thecable.ng/nigeria-deploys-troops-to-guinea-bissau-for-ecowas-peace-mission/",
+    "event_codes": {
+      "15": 5,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "nigeria",
+      "deploys",
+      "troops",
+      "guinea",
+      "bissau",
+      "for",
+      "ecowas",
+      "peace",
+      "mission"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3295359/suspect-who-exposed-serialmurders-gang-now-in-witness-protection",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "thailand",
+      "general",
+      "3295359",
+      "suspect",
+      "who",
+      "exposed",
+      "serialmurders",
+      "gang",
+      "now",
+      "witness",
+      "protection"
     ]
   }
 }
