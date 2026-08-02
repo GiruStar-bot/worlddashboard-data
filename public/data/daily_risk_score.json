@@ -1,68 +1,79 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/279219732/at-least-9-killed-in-fresh-israeli-airstrikes-on-gaza-israel-says-killed-2-hamas-commanders-over-weekend",
+  "IRN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.rferl.org/a/iran-executions-kheirkhahan-outcry/33820267.html",
     "event_codes": {
-      "19": 2
+      "18": 4,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "279219732",
-      "least",
-      "killed",
-      "fresh",
-      "israeli",
-      "airstrikes",
-      "gaza",
-      "israel",
-      "says",
-      "killed",
-      "hamas",
-      "commanders",
-      "over",
-      "weekend"
+      "iran",
+      "executions",
+      "kheirkhahan",
+      "outcry",
+      "33820267.html"
     ]
   },
-  "THA": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/02/two-police-officers-killed-in-exchange-of-gunfire-in-tak-bai",
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.orlandosentinel.com/2026/08/02/democrats-republicans-vie-to-replace-rep-cory-mills/",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 3
     },
     "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
       "2026",
-      "two",
-      "police",
-      "officers",
-      "killed",
-      "exchange",
-      "gunfire",
-      "tak",
-      "bai"
+      "democrats",
+      "republicans",
+      "vie",
+      "replace",
+      "rep",
+      "cory",
+      "mills"
     ]
   },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.dailysabah.com/turkiye/turkiyes-justice-ministry-investigates-44-wildfires-arrests-6/news",
+  "KEN": {
+    "risk_score": 2.44,
+    "count": 4,
+    "top_news": "https://capitalfm.africa/gachagua-renews-attack-on-vision-2060-demands-action-on-economy-and-security/",
     "event_codes": {
-      "19": 5
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "turkiye",
-      "turkiyes",
-      "justice",
-      "ministry",
-      "investigates",
-      "wildfires",
-      "arrests",
-      "news"
+      "gachagua",
+      "renews",
+      "attack",
+      "vision",
+      "2060",
+      "demands",
+      "action",
+      "economy",
+      "and",
+      "security"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.3,
+    "count": 21,
+    "top_news": "https://www.vanguardngr.com/2026/08/thugs-injure-10-pdp-members-in-ebonyi-as-party-seeks-security-probe/",
+    "event_codes": {
+      "18": 11,
+      "17": 6,
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "thugs",
+      "injure",
+      "pdp",
+      "members",
+      "ebonyi",
+      "party",
+      "seeks",
+      "security",
+      "probe"
     ]
   }
 }
