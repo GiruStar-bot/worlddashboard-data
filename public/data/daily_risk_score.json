@@ -1,66 +1,39 @@
 {
-  "IRQ": {
-    "risk_score": 5.16,
-    "count": 6,
-    "top_news": "https://www.the-independent.com/arts-entertainment/tv/news/lioness-true-story-taylor-sheridan-b3026681.html",
+  "NGA": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://angelusnews.com/news/world/priest-nigeria-killed-machete/",
     "event_codes": {
-      "15": 3,
-      "19": 3
+      "19": 6,
+      "18": 1
     },
     "keywords": [
-      "arts",
-      "entertainment",
       "news",
-      "lioness",
-      "true",
-      "story",
-      "taylor",
-      "sheridan",
-      "b3026681.html"
+      "world",
+      "priest",
+      "nigeria",
+      "killed",
+      "machete"
     ]
   },
-  "ISR": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2582094/aliyah-joy-140-new-olim-from-france-arrive-in-israel-on-special-families-flight.html",
+    "top_news": "https://www.theepochtimes.com/world/ukraine-agrees-to-drone-deal-with-9-countries-zelenskyy-says-6070654",
     "event_codes": {
-      "19": 1,
-      "20": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "2582094",
-      "aliyah",
-      "joy",
-      "140",
-      "new",
-      "olim",
-      "from",
-      "france",
-      "arrive",
-      "israel",
-      "special",
-      "families",
-      "flight.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/africa-intelligence-brief-monday-august-3-2026/",
-    "event_codes": {
-      "18": 3,
-      "19": 1
-    },
-    "keywords": [
-      "africa",
-      "intelligence",
-      "brief",
-      "monday",
-      "august",
-      "2026"
+      "world",
+      "ukraine",
+      "agrees",
+      "drone",
+      "deal",
+      "with",
+      "countries",
+      "zelenskyy",
+      "says",
+      "6070654"
     ]
   }
 }
