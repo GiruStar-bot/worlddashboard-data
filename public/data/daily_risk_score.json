@@ -1,86 +1,99 @@
 {
   "EGY": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.bostonherald.com/2026/08/03/mideast-wars-gaza/",
+    "count": 3,
+    "top_news": "https://www.ironmountaindailynews.com/news/2026/08/envoy-meets-with-netanyahu-on-gaza-disarmament-deal/",
     "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "mideast",
-      "wars",
-      "gaza"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "http://www.reflector.com/news/national/board-of-peace-envoy-meets-with-netanyahu-on-gaza-disarmament-deal-and-urges-a-halt/article_cbdd033a-9ad8-5f5e-87b7-fac597559b84.html",
-    "event_codes": {
-      "19": 8
+      "19": 3
     },
     "keywords": [
       "news",
-      "national",
-      "board",
-      "peace",
+      "2026",
       "envoy",
       "meets",
       "with",
       "netanyahu",
       "gaza",
       "disarmament",
-      "deal",
-      "and",
-      "urges",
-      "halt",
-      "article",
-      "cbdd033a",
-      "9ad8",
-      "5f5e",
-      "87b7",
-      "fac597559b84.html"
+      "deal"
     ]
   },
-  "NGA": {
-    "risk_score": 10.65,
-    "count": 12,
-    "top_news": "https://www.thecable.ng/troops-begin-surveillance-as-imn-holds-annual-procession-in-kaduna/",
+  "IRN": {
+    "risk_score": 5.67,
+    "count": 9,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-negotiations-truth-social-post-b3026807.html",
     "event_codes": {
-      "19": 9,
-      "17": 2,
-      "14": 1
+      "17": 4,
+      "14": 3,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "troops",
-      "begin",
-      "surveillance",
-      "imn",
-      "holds",
-      "annual",
-      "procession",
-      "kaduna"
+      "news",
+      "world",
+      "americas",
+      "politics",
+      "trump",
+      "iran",
+      "negotiations",
+      "truth",
+      "social",
+      "post",
+      "b3026807.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.daytondailynews.com/local/update-man-dead-after-shooting-with-new-lebanon-police/article_a471cefe-efac-50a7-821c-c6c6949e11df.html",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "local",
+      "update",
+      "man",
+      "dead",
+      "after",
+      "shooting",
+      "with",
+      "new",
+      "lebanon",
+      "police",
+      "article",
+      "a471cefe",
+      "efac",
+      "50a7",
+      "821c",
+      "c6c6949e11df.html"
     ]
   },
   "SDN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.miragenews.com/drone-strikes-endanger-sudan-civilians-aid-1721062/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/africa/20260804/d0394af13c6d49c49bacc16c438cd114/c.html",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "drone",
-      "strikes",
-      "endanger",
-      "sudan",
-      "civilians",
-      "aid",
-      "1721062"
+      "africa",
+      "20260804",
+      "d0394af13c6d49c49bacc16c438cd114",
+      "c.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/africa/20260804/d0394af13c6d49c49bacc16c438cd114/c.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "africa",
+      "20260804",
+      "d0394af13c6d49c49bacc16c438cd114",
+      "c.html"
     ]
   }
 }
