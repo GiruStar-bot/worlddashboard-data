@@ -1,66 +1,63 @@
 {
-  "BOL": {
+  "ISR": {
+    "risk_score": 9.2,
+    "count": 14,
+    "top_news": "https://www.bostonglobe.com/2026/08/03/metro/brown-university-president-christina-paxson/",
+    "event_codes": {
+      "17": 6,
+      "19": 5,
+      "16": 3
+    },
+    "keywords": [
+      "2026",
+      "metro",
+      "brown",
+      "university",
+      "president",
+      "christina",
+      "paxson"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202608030809.html",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "stories",
+      "202608030809.html"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.sb.by/en/fm-on-latvia-s-closure-of-its-border-with-belarus-in-pursuit-of-political-gains-riga-neglected-its-p.html",
+    "top_news": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-saudi-joins-us-strikes-in-iraq-ukraine-targets-russian-e-commerce-giant/articleshow/132836578.cms",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "latvia",
-      "closure",
-      "its",
-      "border",
-      "with",
-      "belarus",
-      "pursuit",
-      "political",
-      "gains",
-      "riga",
-      "neglected",
-      "its",
-      "p.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.5,
-    "count": 13,
-    "top_news": "https://news.az/news/gaza-toll-rises-to-73-375-after-latest-israeli-strikes-kill-at-least-19",
-    "event_codes": {
-      "17": 11,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "gaza",
-      "toll",
-      "rises",
-      "375",
-      "after",
-      "latest",
-      "israeli",
+      "world",
+      "rest",
+      "world",
+      "the",
+      "week",
+      "that",
+      "was",
+      "international",
+      "affairs",
+      "saudi",
+      "joins",
       "strikes",
-      "kill",
-      "least"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "http://www.israelherald.com/news/279217759/israeli-pressure-fails-to-sway-labor-on-gaza",
-    "event_codes": {
-      "17": 2,
-      "20": 2
-    },
-    "keywords": [
-      "news",
-      "279217759",
-      "israeli",
-      "pressure",
-      "fails",
-      "sway",
-      "labor",
-      "gaza"
+      "iraq",
+      "ukraine",
+      "targets",
+      "russian",
+      "commerce",
+      "giant",
+      "articleshow",
+      "132836578.cms"
     ]
   }
 }
