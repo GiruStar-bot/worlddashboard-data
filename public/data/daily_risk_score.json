@@ -1,48 +1,104 @@
 {
   "ISR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.upi.com/Top_News/World-News/2026/08/03/attacks-Gaza-Nickolay-Mladenov-Peace-Board/1011785726270/",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-drop-missiles-phosphorus-bombs-southern-lebanon",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 8
     },
     "keywords": [
-      "top",
-      "news",
-      "world",
-      "news",
-      "2026",
-      "attacks",
-      "gaza",
-      "nickolay",
-      "mladenov",
-      "peace",
-      "board",
-      "1011785726270"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "forces",
+      "drop",
+      "missiles",
+      "phosphorus",
+      "bombs",
+      "southern",
+      "lebanon"
     ]
   },
-  "MYS": {
+  "KEN": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://chimpreports.com/mbale-speaker-oboth-oboth-forced-to-flee-as-kadodi-dancers-storm-vip-tent/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "mbale",
+      "speaker",
+      "oboth",
+      "oboth",
+      "forced",
+      "flee",
+      "kadodi",
+      "dancers",
+      "storm",
+      "vip",
+      "tent"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-drop-missiles-phosphorus-bombs-southern-lebanon",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "forces",
+      "drop",
+      "missiles",
+      "phosphorus",
+      "bombs",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202608030289.html",
+    "event_codes": {
+      "18": 3,
+      "14": 1
+    },
+    "keywords": [
+      "stories",
+      "202608030289.html"
+    ]
+  },
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/08/03/eight-more-nabbed-in-ops-crack-follow-up-over-forged-pass-syndicate",
+    "top_news": "https://pajhwok.com/2026/08/03/israeli-forces-kill-19-palestinians-in-gaza-despite-trumps-peace-plan/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "nation",
       "2026",
-      "eight",
-      "more",
-      "nabbed",
-      "ops",
-      "crack",
-      "follow",
-      "over",
-      "forged",
-      "pass",
-      "syndicate"
+      "israeli",
+      "forces",
+      "kill",
+      "palestinians",
+      "gaza",
+      "despite",
+      "trumps",
+      "peace",
+      "plan"
     ]
   }
 }
