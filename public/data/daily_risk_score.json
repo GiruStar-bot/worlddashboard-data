@@ -1,63 +1,79 @@
 {
-  "ISR": {
-    "risk_score": 9.2,
-    "count": 14,
-    "top_news": "https://www.bostonglobe.com/2026/08/03/metro/brown-university-president-christina-paxson/",
-    "event_codes": {
-      "17": 6,
-      "19": 5,
-      "16": 3
-    },
-    "keywords": [
-      "2026",
-      "metro",
-      "brown",
-      "university",
-      "president",
-      "christina",
-      "paxson"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202608030809.html",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "stories",
-      "202608030809.html"
-    ]
-  },
-  "SAU": {
+  "EGY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://timesofindia.indiatimes.com/world/rest-of-world/the-week-that-was-in-international-affairs-saudi-joins-us-strikes-in-iraq-ukraine-targets-russian-e-commerce-giant/articleshow/132836578.cms",
+    "top_news": "http://www.israelherald.com/news/279221134/arab-league-chief-condemns-israeli-attacks-on-gaza",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "rest",
-      "world",
-      "the",
-      "week",
-      "that",
-      "was",
-      "international",
-      "affairs",
-      "saudi",
-      "joins",
-      "strikes",
-      "iraq",
-      "ukraine",
-      "targets",
-      "russian",
-      "commerce",
-      "giant",
-      "articleshow",
-      "132836578.cms"
+      "news",
+      "279221134",
+      "arab",
+      "league",
+      "chief",
+      "condemns",
+      "israeli",
+      "attacks",
+      "gaza"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.74,
+    "count": 4,
+    "top_news": "https://news.antiwar.com/2026/08/03/ahead-of-seventh-round-of-lebanon-talks-israel-demands-hezbollah-cede-strategic-ridge/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "ahead",
+      "seventh",
+      "round",
+      "lebanon",
+      "talks",
+      "israel",
+      "demands",
+      "hezbollah",
+      "cede",
+      "strategic",
+      "ridge"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.95,
+    "count": 24,
+    "top_news": "https://tribuneonlineng.com/nans-gives-bayelsa-govt-seven-day-ultimatum-over-murder-of-corps-member/",
+    "event_codes": {
+      "19": 11,
+      "17": 10,
+      "14": 3
+    },
+    "keywords": [
+      "nans",
+      "gives",
+      "bayelsa",
+      "govt",
+      "seven",
+      "day",
+      "ultimatum",
+      "over",
+      "murder",
+      "corps",
+      "member"
+    ]
+  },
+  "SOM": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://allafrica.com/stories/202608030783.html",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "stories",
+      "202608030783.html"
     ]
   }
 }
