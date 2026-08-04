@@ -1,41 +1,85 @@
 {
   "IRN": {
-    "risk_score": 4.2,
-    "count": 5,
-    "top_news": "https://www.arkansasonline.com/news/2026/aug/04/talks-to-bring-conflict-to-end-said-to-resume/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.citizen.co.za/news/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow-after-ship-hit/",
     "event_codes": {
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "aug",
-      "talks",
-      "bring",
-      "conflict",
-      "end",
-      "said",
-      "resume"
+      "hopeful",
+      "hormuz",
+      "strait",
+      "deal",
+      "will",
+      "done",
+      "today",
+      "tomorrow",
+      "after",
+      "ship",
+      "hit"
     ]
   },
-  "ISR": {
-    "risk_score": 2.9,
+  "LBN": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-904549",
+    "top_news": "https://www.wtvq.com/mass-funeral-held-in-gaza-and-other-developments-from-across-the-mideast/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "politics",
+      "mass",
+      "funeral",
+      "held",
+      "gaza",
       "and",
-      "diplomacy",
-      "article",
-      "904549"
+      "other",
+      "developments",
+      "from",
+      "across",
+      "the",
+      "mideast"
+    ]
+  },
+  "MLI": {
+    "risk_score": 8.73,
+    "count": 10,
+    "top_news": "https://defenceweb.co.za/joint/sahel-security-crisis-demands-action-beyond-assurances-of-solidarity/",
+    "event_codes": {
+      "19": 6,
+      "15": 4
+    },
+    "keywords": [
+      "joint",
+      "sahel",
+      "security",
+      "crisis",
+      "demands",
+      "action",
+      "beyond",
+      "assurances",
+      "solidarity"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://defenceweb.co.za/joint/sahel-security-crisis-demands-action-beyond-assurances-of-solidarity/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "joint",
+      "sahel",
+      "security",
+      "crisis",
+      "demands",
+      "action",
+      "beyond",
+      "assurances",
+      "solidarity"
     ]
   }
 }
