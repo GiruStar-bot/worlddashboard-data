@@ -1,94 +1,115 @@
 {
-  "IRN": {
-    "risk_score": 7.3,
-    "count": 10,
-    "top_news": "https://www.aol.com/articles/7-times-trump-walked-back-233650000.html",
+  "IDN": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://en.antaranews.com/news/425371/indonesian-forces-hunt-gunmen-after-papua-road-workers-killed",
     "event_codes": {
-      "19": 5,
-      "17": 3,
-      "16": 2
+      "19": 9
     },
     "keywords": [
+      "news",
+      "425371",
+      "indonesian",
+      "forces",
+      "hunt",
+      "gunmen",
+      "after",
+      "papua",
+      "road",
+      "workers",
+      "killed"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.prokerala.com/news/articles/a1796074.html",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
       "articles",
-      "times",
-      "trump",
-      "walked",
-      "back",
-      "233650000.html"
+      "a1796074.html"
     ]
   },
   "ISR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://lasvegassun.com/news/2026/aug/03/trump-optimistic-iran-talks-will-reopen-strait-and/",
+    "risk_score": 3.85,
+    "count": 5,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/08/04/spanish-prime-minister-sanchez-fends-off-blistering-criticism-within-the-eu-over-ceuta-crisis",
     "event_codes": {
       "19": 3,
-      "17": 1
+      "17": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "aug",
-      "trump",
-      "optimistic",
-      "iran",
-      "talks",
-      "will",
-      "reopen",
-      "strait",
-      "and"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.com/articles/7-times-trump-walked-back-233650000.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "articles",
-      "times",
-      "trump",
-      "walked",
-      "back",
-      "233650000.html"
-    ]
-  },
-  "MYS": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/08/04/independent-inspections-can-safeguard-car-buyers",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "independent",
-      "inspections",
-      "can",
-      "safeguard",
-      "car",
-      "buyers"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260804/30f2fac5edbab69ed0fc6b65232d0aaa",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
       "world",
-      "story",
-      "0001",
-      "20260804",
-      "30f2fac5edbab69ed0fc6b65232d0aaa"
+      "2026",
+      "spanish",
+      "prime",
+      "minister",
+      "sanchez",
+      "fends",
+      "off",
+      "blistering",
+      "criticism",
+      "within",
+      "the",
+      "over",
+      "ceuta",
+      "crisis"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.7,
+    "count": 8,
+    "top_news": "https://nairobiwire.com/2026/08/court-cites-witness-tampering-risk-in-dr-victoria-mutiso-murder-case.html",
+    "event_codes": {
+      "17": 4,
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "court",
+      "cites",
+      "witness",
+      "tampering",
+      "risk",
+      "victoria",
+      "mutiso",
+      "murder",
+      "case.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.06,
+    "count": 8,
+    "top_news": "https://www.premiumtimesng.com/news/more-news/900520-osun-2026-adelekes-campaign-organisation-petitions-human-rights-commission-seeks-release-of-detained-supporters.html",
+    "event_codes": {
+      "15": 3,
+      "19": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "more",
+      "news",
+      "900520",
+      "osun",
+      "2026",
+      "adelekes",
+      "campaign",
+      "organisation",
+      "petitions",
+      "human",
+      "rights",
+      "commission",
+      "seeks",
+      "release",
+      "detained",
+      "supporters.html"
     ]
   }
 }
