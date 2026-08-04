@@ -1,139 +1,116 @@
 {
-  "COL": {
-    "risk_score": 6.2,
-    "count": 8,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/colombian-ex-guerrillas-fear-for-future-under-hardline-president-101785872782670.html",
+  "IDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://en.antaranews.com/news/425564/indonesia-strongly-condemns-israeli-attacks-hindering-gaza-peace-plan",
     "event_codes": {
-      "19": 5,
-      "16": 3
-    },
-    "keywords": [
-      "world",
-      "news",
-      "news",
-      "colombian",
-      "guerrillas",
-      "fear",
-      "for",
-      "future",
-      "under",
-      "hardline",
-      "president",
-      "101785872782670.html"
-    ]
-  },
-  "EGY": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://www.bbc.co.uk/news/articles/cn0n9wpvlwpo",
-    "event_codes": {
-      "17": 7
+      "19": 4
     },
     "keywords": [
       "news",
-      "articles",
-      "cn0n9wpvlwpo"
+      "425564",
+      "indonesia",
+      "strongly",
+      "condemns",
+      "israeli",
+      "attacks",
+      "hindering",
+      "gaza",
+      "peace",
+      "plan"
     ]
   },
   "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/politics/articles/pentagons-counter-drone-force-rolled-195511242.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "articles",
+      "pentagons",
+      "counter",
+      "drone",
+      "force",
+      "rolled",
+      "195511242.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://vnews.com/2026/08/04/vermont-police-identify-victims-in-newbury-shooting-seek-yellow-truck/",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "vermont",
+      "police",
+      "identify",
+      "victims",
+      "newbury",
+      "shooting",
+      "seek",
+      "yellow",
+      "truck"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.taipeitimes.com/News/world/archives/2026/08/05/2003861980",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "archives",
+      "2026",
+      "2003861980"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://grenadachronicle.com/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us/",
+    "top_news": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "maximum",
-      "use",
-      "iran",
-      "boosts",
-      "military",
-      "strength",
-      "during",
-      "ceasefire",
-      "with"
+      "investigations",
+      "damascus",
+      "dossier",
+      "companies",
+      "once",
+      "tied",
+      "assad",
+      "kept",
+      "winning",
+      "contracts",
+      "under",
+      "syrias",
+      "new",
+      "rulers"
     ]
   },
-  "ISR": {
-    "risk_score": 2.0,
+  "YEM": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://english.news.cn/20260805/c40f0992ff0742498ddee608fd04ba65/c.html",
+    "top_news": "https://www.okaz.com.sa/politics/na/2259950",
     "event_codes": {
-      "17": 2,
+      "16": 2,
       "19": 1
     },
     "keywords": [
-      "20260805",
-      "c40f0992ff0742498ddee608fd04ba65",
-      "c.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://allafrica.com/stories/202608040603.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "stories",
-      "202608040603.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.42,
-    "count": 5,
-    "top_news": "https://english.news.cn/20260805/c40f0992ff0742498ddee608fd04ba65/c.html",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "20260805",
-      "c40f0992ff0742498ddee608fd04ba65",
-      "c.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://boxingnewsonline.net/news/canelo-not-there-for-one-of-his-losses/",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "canelo",
-      "not",
-      "there",
-      "for",
-      "one",
-      "his",
-      "losses"
-    ]
-  },
-  "VNM": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://oilprice.com/Geopolitics/South-America/The-Cold-War-Roots-of-Colombias-Paramilitary-Death-Squads.html",
-    "event_codes": {
-      "17": 5,
-      "19": 1
-    },
-    "keywords": [
-      "geopolitics",
-      "south",
-      "america",
-      "the",
-      "cold",
-      "war",
-      "roots",
-      "colombias",
-      "paramilitary",
-      "death",
-      "squads.html"
+      "politics",
+      "2259950"
     ]
   }
 }
