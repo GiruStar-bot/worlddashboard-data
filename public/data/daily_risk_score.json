@@ -1,99 +1,94 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ironmountaindailynews.com/news/2026/08/envoy-meets-with-netanyahu-on-gaza-disarmament-deal/",
+  "IRN": {
+    "risk_score": 7.3,
+    "count": 10,
+    "top_news": "https://www.aol.com/articles/7-times-trump-walked-back-233650000.html",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "17": 3,
+      "16": 2
+    },
+    "keywords": [
+      "articles",
+      "times",
+      "trump",
+      "walked",
+      "back",
+      "233650000.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://lasvegassun.com/news/2026/aug/03/trump-optimistic-iran-talks-will-reopen-strait-and/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
       "2026",
-      "envoy",
-      "meets",
-      "with",
-      "netanyahu",
-      "gaza",
-      "disarmament",
-      "deal"
+      "aug",
+      "trump",
+      "optimistic",
+      "iran",
+      "talks",
+      "will",
+      "reopen",
+      "strait",
+      "and"
     ]
   },
-  "IRN": {
-    "risk_score": 5.67,
-    "count": 9,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-iran-negotiations-truth-social-post-b3026807.html",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.com/articles/7-times-trump-walked-back-233650000.html",
     "event_codes": {
-      "17": 4,
-      "14": 3,
-      "15": 1,
-      "19": 1
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "times",
+      "trump",
+      "walked",
+      "back",
+      "233650000.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/08/04/independent-inspections-can-safeguard-car-buyers",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
-      "world",
-      "americas",
-      "politics",
-      "trump",
-      "iran",
-      "negotiations",
-      "truth",
-      "social",
-      "post",
-      "b3026807.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.daytondailynews.com/local/update-man-dead-after-shooting-with-new-lebanon-police/article_a471cefe-efac-50a7-821c-c6c6949e11df.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "local",
-      "update",
-      "man",
-      "dead",
-      "after",
-      "shooting",
-      "with",
-      "new",
-      "lebanon",
-      "police",
-      "article",
-      "a471cefe",
-      "efac",
-      "50a7",
-      "821c",
-      "c6c6949e11df.html"
+      "nation",
+      "2026",
+      "independent",
+      "inspections",
+      "can",
+      "safeguard",
+      "car",
+      "buyers"
     ]
   },
   "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.news.cn/africa/20260804/d0394af13c6d49c49bacc16c438cd114/c.html",
+    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260804/30f2fac5edbab69ed0fc6b65232d0aaa",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "africa",
+      "news",
+      "world",
+      "story",
+      "0001",
       "20260804",
-      "d0394af13c6d49c49bacc16c438cd114",
-      "c.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/africa/20260804/d0394af13c6d49c49bacc16c438cd114/c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "africa",
-      "20260804",
-      "d0394af13c6d49c49bacc16c438cd114",
-      "c.html"
+      "30f2fac5edbab69ed0fc6b65232d0aaa"
     ]
   }
 }
