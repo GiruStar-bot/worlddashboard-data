@@ -1,116 +1,104 @@
 {
-  "IDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://en.antaranews.com/news/425564/indonesia-strongly-condemns-israeli-attacks-hindering-gaza-peace-plan",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ksla.com/2026/08/04/natchitoches-parish-deputies-investigating-shooting-campti-that-killed-27-year-old-woman/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "425564",
-      "indonesia",
-      "strongly",
-      "condemns",
-      "israeli",
-      "attacks",
-      "hindering",
-      "gaza",
-      "peace",
-      "plan"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/politics/articles/pentagons-counter-drone-force-rolled-195511242.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "pentagons",
-      "counter",
-      "drone",
-      "force",
-      "rolled",
-      "195511242.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://vnews.com/2026/08/04/vermont-police-identify-victims-in-newbury-shooting-seek-yellow-truck/",
-    "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "2026",
-      "vermont",
-      "police",
-      "identify",
-      "victims",
-      "newbury",
+      "natchitoches",
+      "parish",
+      "deputies",
+      "investigating",
       "shooting",
-      "seek",
-      "yellow",
-      "truck"
+      "campti",
+      "that",
+      "killed",
+      "year",
+      "old",
+      "woman"
     ]
   },
-  "SGP": {
-    "risk_score": 2.0,
+  "ISR": {
+    "risk_score": 2.3,
     "count": 4,
-    "top_news": "https://www.taipeitimes.com/News/world/archives/2026/08/05/2003861980",
+    "top_news": "https://www.livemint.com/news/world/netanyahu-rejects-trump-backed-gaza-withdrawal-plan-insists-hamas-must-disarm-first-11785876474573.html",
     "event_codes": {
-      "17": 4
+      "14": 2,
+      "17": 2
     },
     "keywords": [
       "news",
       "world",
-      "archives",
-      "2026",
-      "2003861980"
+      "netanyahu",
+      "rejects",
+      "trump",
+      "backed",
+      "gaza",
+      "withdrawal",
+      "plan",
+      "insists",
+      "hamas",
+      "must",
+      "disarm",
+      "first",
+      "11785876474573.html"
     ]
   },
-  "SYR": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.icij.org/investigations/damascus-dossier/companies-once-tied-to-assad-kept-winning-un-contracts-under-syrias-new-rulers/",
+  "NGA": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://tribuneonlineng.com/resident-doctors-shelf-planned-strike/",
     "event_codes": {
-      "19": 2,
+      "17": 3,
       "18": 1
     },
     "keywords": [
-      "investigations",
-      "damascus",
-      "dossier",
-      "companies",
-      "once",
-      "tied",
-      "assad",
-      "kept",
-      "winning",
-      "contracts",
-      "under",
-      "syrias",
-      "new",
-      "rulers"
+      "resident",
+      "doctors",
+      "shelf",
+      "planned",
+      "strike"
     ]
   },
-  "YEM": {
-    "risk_score": 2.4,
+  "SAU": {
+    "risk_score": 2.44,
     "count": 3,
-    "top_news": "https://www.okaz.com.sa/politics/na/2259950",
+    "top_news": "https://news.antiwar.com/2026/08/04/yemens-ansar-allah-announces-attack-on-saudi-airport/",
     "event_codes": {
-      "16": 2,
+      "15": 2,
       "19": 1
     },
     "keywords": [
-      "politics",
-      "2259950"
+      "2026",
+      "yemens",
+      "ansar",
+      "allah",
+      "announces",
+      "attack",
+      "saudi",
+      "airport"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://news.antiwar.com/2026/08/04/yemens-ansar-allah-announces-attack-on-saudi-airport/",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "yemens",
+      "ansar",
+      "allah",
+      "announces",
+      "attack",
+      "saudi",
+      "airport"
     ]
   }
 }
