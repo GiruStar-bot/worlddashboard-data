@@ -1,28 +1,89 @@
 {
-  "ISR": {
-    "risk_score": 3.6,
+  "IRN": {
+    "risk_score": 4.95,
     "count": 5,
-    "top_news": "https://www.rnz.co.nz/news/world/901696/what-the-success-of-michigan-mamdani-says-about-the-future-of-the-democrats",
+    "top_news": "https://www.wfmz.com/news/ap/ap-national/tensions-in-lebanon-and-other-news-from-across-the-middle-east/article_00b0360d-0dda-51d2-b297-caa6b9538312.html",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1
+      "19": 5
     },
     "keywords": [
       "news",
-      "world",
-      "901696",
-      "what",
+      "national",
+      "tensions",
+      "lebanon",
+      "and",
+      "other",
+      "news",
+      "from",
+      "across",
       "the",
-      "success",
-      "michigan",
-      "mamdani",
-      "says",
-      "about",
-      "the",
-      "future",
-      "the",
-      "democrats"
+      "middle",
+      "east",
+      "article",
+      "00b0360d",
+      "0dda",
+      "51d2",
+      "b297",
+      "caa6b9538312.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.62,
+    "count": 20,
+    "top_news": "https://jewishcurrents.org/israeli-prosecutors-will-file-charges-against-settler-who-shot-activist-awdah-hathaleen",
+    "event_codes": {
+      "19": 14,
+      "17": 4,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "israeli",
+      "prosecutors",
+      "will",
+      "file",
+      "charges",
+      "against",
+      "settler",
+      "who",
+      "shot",
+      "activist",
+      "awdah",
+      "hathaleen"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.39,
+    "count": 5,
+    "top_news": "https://www.bbc.co.uk/news/articles/c998711dyjvo",
+    "event_codes": {
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "c998711dyjvo"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.1,
+    "count": 6,
+    "top_news": "https://leadership.ng/tinubu-hails-rescue-of-308-abducted-nigerians-commends-security-agencies/",
+    "event_codes": {
+      "18": 4,
+      "14": 2
+    },
+    "keywords": [
+      "tinubu",
+      "hails",
+      "rescue",
+      "308",
+      "abducted",
+      "nigerians",
+      "commends",
+      "security",
+      "agencies"
     ]
   }
 }
