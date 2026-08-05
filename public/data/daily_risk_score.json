@@ -1,83 +1,28 @@
 {
-  "EGY": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://www.newsweek.com/democratic-socialists-favorability-rating-compared-to-trump-and-maga-12287516",
+  "ISR": {
+    "risk_score": 3.6,
+    "count": 5,
+    "top_news": "https://www.rnz.co.nz/news/world/901696/what-the-success-of-michigan-mamdani-says-about-the-future-of-the-democrats",
     "event_codes": {
-      "16": 3
-    },
-    "keywords": [
-      "democratic",
-      "socialists",
-      "favorability",
-      "rating",
-      "compared",
-      "trump",
-      "and",
-      "maga",
-      "12287516"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.rigzone.com/news/wire/trump_says_iran_talks_going_well-04-aug-2026-184293-article/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 2,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
       "news",
-      "wire",
-      "trump",
+      "world",
+      "901696",
+      "what",
+      "the",
+      "success",
+      "michigan",
+      "mamdani",
       "says",
-      "iran",
-      "talks",
-      "going",
-      "well",
-      "aug",
-      "2026",
-      "184293",
-      "article"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://www.newsweek.com/trump-board-of-peace-you-first-problem-israel-gaza-palestine-12288214",
-    "event_codes": {
-      "19": 6,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "trump",
-      "board",
-      "peace",
-      "you",
-      "first",
-      "problem",
-      "israel",
-      "gaza",
-      "palestine",
-      "12288214"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.44,
-    "count": 3,
-    "top_news": "https://punchng.com/pictorial-fire-guts-makeshift-structures-in-lagos/",
-    "event_codes": {
-      "15": 2,
-      "19": 1
-    },
-    "keywords": [
-      "pictorial",
-      "fire",
-      "guts",
-      "makeshift",
-      "structures",
-      "lagos"
+      "about",
+      "the",
+      "future",
+      "the",
+      "democrats"
     ]
   }
 }
