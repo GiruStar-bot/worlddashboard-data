@@ -1,31 +1,83 @@
 {
-  "ISR": {
-    "risk_score": 10.26,
-    "count": 11,
-    "top_news": "https://www.moneycontrol.com/world/trump-calls-him-a-communist-loser-how-abdul-el-sayed-pulled-off-a-stunning-michigan-primary-upset-article-13995661.html",
+  "EGY": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.newsweek.com/democratic-socialists-favorability-rating-compared-to-trump-and-maga-12287516",
     "event_codes": {
-      "17": 4,
-      "19": 4,
-      "18": 3
+      "16": 3
     },
     "keywords": [
-      "world",
+      "democratic",
+      "socialists",
+      "favorability",
+      "rating",
+      "compared",
       "trump",
-      "calls",
-      "him",
-      "communist",
-      "loser",
-      "how",
-      "abdul",
-      "sayed",
-      "pulled",
-      "off",
-      "stunning",
-      "michigan",
-      "primary",
-      "upset",
-      "article",
-      "13995661.html"
+      "and",
+      "maga",
+      "12287516"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.rigzone.com/news/wire/trump_says_iran_talks_going_well-04-aug-2026-184293-article/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "wire",
+      "trump",
+      "says",
+      "iran",
+      "talks",
+      "going",
+      "well",
+      "aug",
+      "2026",
+      "184293",
+      "article"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://www.newsweek.com/trump-board-of-peace-you-first-problem-israel-gaza-palestine-12288214",
+    "event_codes": {
+      "19": 6,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "trump",
+      "board",
+      "peace",
+      "you",
+      "first",
+      "problem",
+      "israel",
+      "gaza",
+      "palestine",
+      "12288214"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://punchng.com/pictorial-fire-guts-makeshift-structures-in-lagos/",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "pictorial",
+      "fire",
+      "guts",
+      "makeshift",
+      "structures",
+      "lagos"
     ]
   }
 }
