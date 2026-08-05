@@ -1,104 +1,143 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ksla.com/2026/08/04/natchitoches-parish-deputies-investigating-shooting-campti-that-killed-27-year-old-woman/",
+  "BRA": {
+    "risk_score": 6.84,
+    "count": 8,
+    "top_news": "https://www.algemeiner.com/2026/08/04/antisemitism-now-speaks-in-code-and-we-need-to-be-aware-of-those-symbols-and-phrases/",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "15": 2,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "natchitoches",
-      "parish",
-      "deputies",
-      "investigating",
-      "shooting",
-      "campti",
-      "that",
-      "killed",
-      "year",
-      "old",
-      "woman"
+      "antisemitism",
+      "now",
+      "speaks",
+      "code",
+      "and",
+      "need",
+      "aware",
+      "those",
+      "symbols",
+      "and",
+      "phrases"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://www.foxnews.com/us/half-us-weapons-stockpiles-used-iran-war-raising-concerns-china-threat",
+    "event_codes": {
+      "18": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "half",
+      "weapons",
+      "stockpiles",
+      "used",
+      "iran",
+      "war",
+      "raising",
+      "concerns",
+      "china",
+      "threat"
     ]
   },
   "ISR": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://www.livemint.com/news/world/netanyahu-rejects-trump-backed-gaza-withdrawal-plan-insists-hamas-must-disarm-first-11785876474573.html",
+    "risk_score": 10.15,
+    "count": 12,
+    "top_news": "https://www.algemeiner.com/2026/08/04/we-all-want-peace-but-a-militarized-palestinian-state-that-allows-terrorism-will-not-lead-to-it/",
     "event_codes": {
-      "14": 2,
-      "17": 2
+      "19": 8,
+      "17": 3,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "netanyahu",
-      "rejects",
-      "trump",
-      "backed",
-      "gaza",
-      "withdrawal",
-      "plan",
-      "insists",
-      "hamas",
-      "must",
-      "disarm",
-      "first",
-      "11785876474573.html"
+      "2026",
+      "all",
+      "want",
+      "peace",
+      "but",
+      "militarized",
+      "palestinian",
+      "state",
+      "that",
+      "allows",
+      "terrorism",
+      "will",
+      "not",
+      "lead"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.standardmedia.co.ke/article/2001554548/another-killing-boda-boda-rider-beaten-to-death",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "2001554548",
+      "another",
+      "killing",
+      "boda",
+      "boda",
+      "rider",
+      "beaten",
+      "death"
     ]
   },
   "NGA": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://tribuneonlineng.com/resident-doctors-shelf-planned-strike/",
+    "risk_score": 5.38,
+    "count": 9,
+    "top_news": "https://thenationonlineng.net/coas-seeks-stronger-partnership-with-indigenous-defence-firms-to-boost-security/",
     "event_codes": {
-      "17": 3,
-      "18": 1
+      "17": 5,
+      "15": 4
     },
     "keywords": [
-      "resident",
-      "doctors",
-      "shelf",
-      "planned",
-      "strike"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.44,
-    "count": 3,
-    "top_news": "https://news.antiwar.com/2026/08/04/yemens-ansar-allah-announces-attack-on-saudi-airport/",
-    "event_codes": {
-      "15": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "yemens",
-      "ansar",
-      "allah",
-      "announces",
-      "attack",
-      "saudi",
-      "airport"
+      "coas",
+      "seeks",
+      "stronger",
+      "partnership",
+      "with",
+      "indigenous",
+      "defence",
+      "firms",
+      "boost",
+      "security"
     ]
   },
   "YEM": {
-    "risk_score": 2.44,
-    "count": 3,
-    "top_news": "https://news.antiwar.com/2026/08/04/yemens-ansar-allah-announces-attack-on-saudi-airport/",
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "http://www.utahindependent.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
     "event_codes": {
-      "15": 2,
-      "19": 1
+      "19": 3,
+      "15": 1
     },
     "keywords": [
-      "2026",
-      "yemens",
-      "ansar",
-      "allah",
-      "announces",
-      "attack",
-      "saudi",
-      "airport"
+      "news",
+      "279222598",
+      "all",
+      "indian",
+      "nationals",
+      "have",
+      "been",
+      "rescued",
+      "mea",
+      "after",
+      "indian",
+      "vessel",
+      "sinks",
+      "off",
+      "yemen",
+      "after",
+      "attack"
     ]
   }
 }
