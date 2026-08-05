@@ -1,70 +1,91 @@
 {
-  "ISR": {
-    "risk_score": 8.2,
-    "count": 13,
-    "top_news": "http://www.jpost.com/opinion/article-904592",
-    "event_codes": {
-      "17": 9,
-      "18": 4
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "904592"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://news.az/news/what-is-behind-deadly-violence-in-nigeria",
-    "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "what",
-      "behind",
-      "deadly",
-      "violence",
-      "nigeria"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.92,
-    "count": 5,
-    "top_news": "https://news.az/news/why-are-settler-attacks-increasing-in-the-west-bank",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "why",
-      "are",
-      "settler",
-      "attacks",
-      "increasing",
-      "the",
-      "west",
-      "bank"
-    ]
-  },
-  "VEN": {
+  "GUY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://signalscv.com/2026/08/vince-fire-prompts-evacuation-orders/",
+    "top_news": "https://www.jamaicaobserver.com/2026/08/04/guyana-govt-ends-mv-barima-search-recovery-exercise/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "vince",
-      "fire",
-      "prompts",
-      "evacuation",
-      "orders"
+      "guyana",
+      "govt",
+      "ends",
+      "barima",
+      "search",
+      "recovery",
+      "exercise"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-officials-question-trumps-push-for-iran-deal-say-washington-seeks-agreement-at-any-cost/4018585",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "officials",
+      "question",
+      "trumps",
+      "push",
+      "for",
+      "iran",
+      "deal",
+      "say",
+      "washington",
+      "seeks",
+      "agreement",
+      "any",
+      "cost",
+      "4018585"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://blueprint.ng/fg-moves-to-integrate-ai-into-foreign-policy-launches-digital-diplomacy-drive/",
+    "event_codes": {
+      "18": 3,
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "moves",
+      "integrate",
+      "into",
+      "foreign",
+      "policy",
+      "launches",
+      "digital",
+      "diplomacy",
+      "drive"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.euronews.com/my-europe/2026/08/05/brussels-vs-beijing-the-new-trade-battle-begins-in-morocco-and-turkey",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "europe",
+      "2026",
+      "brussels",
+      "beijing",
+      "the",
+      "new",
+      "trade",
+      "battle",
+      "begins",
+      "morocco",
+      "and",
+      "turkey"
     ]
   }
 }
