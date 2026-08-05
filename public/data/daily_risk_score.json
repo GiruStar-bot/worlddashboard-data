@@ -1,89 +1,77 @@
 {
+  "BRA": {
+    "risk_score": 2.44,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/brazil-idb-anti-crime-financing-deal-2026/",
+    "event_codes": {
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "brazil",
+      "idb",
+      "anti",
+      "crime",
+      "financing",
+      "deal",
+      "2026"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://en.antaranews.com/news/425759/indonesia-australia-air-chiefs-fly-joint-fighter-formation-in-darwin",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
+      "news",
+      "425759",
+      "indonesia",
+      "australia",
+      "air",
+      "chiefs",
+      "fly",
+      "joint",
+      "fighter",
+      "formation",
+      "darwin"
+    ]
+  },
   "IRN": {
-    "risk_score": 4.95,
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.wfmz.com/news/ap/ap-national/tensions-in-lebanon-and-other-news-from-across-the-middle-east/article_00b0360d-0dda-51d2-b297-caa6b9538312.html",
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-missiles-iran-war-us-military-b3027655.html",
     "event_codes": {
       "19": 5
     },
     "keywords": [
       "news",
-      "national",
-      "tensions",
-      "lebanon",
-      "and",
-      "other",
-      "news",
-      "from",
-      "across",
-      "the",
+      "world",
       "middle",
       "east",
-      "article",
-      "00b0360d",
-      "0dda",
-      "51d2",
-      "b297",
-      "caa6b9538312.html"
+      "trump",
+      "missiles",
+      "iran",
+      "war",
+      "military",
+      "b3027655.html"
     ]
   },
   "ISR": {
-    "risk_score": 17.62,
-    "count": 20,
-    "top_news": "https://jewishcurrents.org/israeli-prosecutors-will-file-charges-against-settler-who-shot-activist-awdah-hathaleen",
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.sun-sentinel.com/2026/08/05/with-netanyahu-enough-is-enough-editorial/",
     "event_codes": {
-      "19": 14,
-      "17": 4,
-      "15": 1,
-      "18": 1
+      "19": 12
     },
     "keywords": [
-      "israeli",
-      "prosecutors",
-      "will",
-      "file",
-      "charges",
-      "against",
-      "settler",
-      "who",
-      "shot",
-      "activist",
-      "awdah",
-      "hathaleen"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.39,
-    "count": 5,
-    "top_news": "https://www.bbc.co.uk/news/articles/c998711dyjvo",
-    "event_codes": {
-      "19": 3,
-      "15": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "c998711dyjvo"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.1,
-    "count": 6,
-    "top_news": "https://leadership.ng/tinubu-hails-rescue-of-308-abducted-nigerians-commends-security-agencies/",
-    "event_codes": {
-      "18": 4,
-      "14": 2
-    },
-    "keywords": [
-      "tinubu",
-      "hails",
-      "rescue",
-      "308",
-      "abducted",
-      "nigerians",
-      "commends",
-      "security",
-      "agencies"
+      "2026",
+      "with",
+      "netanyahu",
+      "enough",
+      "enough",
+      "editorial"
     ]
   }
 }
