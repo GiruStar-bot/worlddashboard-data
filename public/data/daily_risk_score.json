@@ -1,143 +1,70 @@
 {
-  "BRA": {
-    "risk_score": 6.84,
-    "count": 8,
-    "top_news": "https://www.algemeiner.com/2026/08/04/antisemitism-now-speaks-in-code-and-we-need-to-be-aware-of-those-symbols-and-phrases/",
-    "event_codes": {
-      "19": 5,
-      "15": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "antisemitism",
-      "now",
-      "speaks",
-      "code",
-      "and",
-      "need",
-      "aware",
-      "those",
-      "symbols",
-      "and",
-      "phrases"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://www.foxnews.com/us/half-us-weapons-stockpiles-used-iran-war-raising-concerns-china-threat",
-    "event_codes": {
-      "18": 2,
-      "14": 1,
-      "19": 1
-    },
-    "keywords": [
-      "half",
-      "weapons",
-      "stockpiles",
-      "used",
-      "iran",
-      "war",
-      "raising",
-      "concerns",
-      "china",
-      "threat"
-    ]
-  },
   "ISR": {
-    "risk_score": 10.15,
-    "count": 12,
-    "top_news": "https://www.algemeiner.com/2026/08/04/we-all-want-peace-but-a-militarized-palestinian-state-that-allows-terrorism-will-not-lead-to-it/",
+    "risk_score": 8.2,
+    "count": 13,
+    "top_news": "http://www.jpost.com/opinion/article-904592",
     "event_codes": {
-      "19": 8,
-      "17": 3,
-      "14": 1
+      "17": 9,
+      "18": 4
     },
     "keywords": [
-      "2026",
-      "all",
-      "want",
-      "peace",
-      "but",
-      "militarized",
-      "palestinian",
-      "state",
-      "that",
-      "allows",
-      "terrorism",
-      "will",
-      "not",
-      "lead"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.standardmedia.co.ke/article/2001554548/another-killing-boda-boda-rider-beaten-to-death",
-    "event_codes": {
-      "18": 3,
-      "17": 1
-    },
-    "keywords": [
+      "opinion",
       "article",
-      "2001554548",
-      "another",
-      "killing",
-      "boda",
-      "boda",
-      "rider",
-      "beaten",
-      "death"
+      "904592"
     ]
   },
   "NGA": {
-    "risk_score": 5.38,
-    "count": 9,
-    "top_news": "https://thenationonlineng.net/coas-seeks-stronger-partnership-with-indigenous-defence-firms-to-boost-security/",
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://news.az/news/what-is-behind-deadly-violence-in-nigeria",
     "event_codes": {
-      "17": 5,
-      "15": 4
-    },
-    "keywords": [
-      "coas",
-      "seeks",
-      "stronger",
-      "partnership",
-      "with",
-      "indigenous",
-      "defence",
-      "firms",
-      "boost",
-      "security"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "http://www.utahindependent.com/news/279222598/all-13-indian-nationals-have-been-rescued-mea-after-indian-vessel-sinks-off-yemen-after-attack",
-    "event_codes": {
-      "19": 3,
-      "15": 1
+      "17": 2,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "279222598",
-      "all",
-      "indian",
-      "nationals",
-      "have",
-      "been",
-      "rescued",
-      "mea",
-      "after",
-      "indian",
-      "vessel",
-      "sinks",
-      "off",
-      "yemen",
-      "after",
-      "attack"
+      "what",
+      "behind",
+      "deadly",
+      "violence",
+      "nigeria"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.92,
+    "count": 5,
+    "top_news": "https://news.az/news/why-are-settler-attacks-increasing-in-the-west-bank",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "why",
+      "are",
+      "settler",
+      "attacks",
+      "increasing",
+      "the",
+      "west",
+      "bank"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://signalscv.com/2026/08/vince-fire-prompts-evacuation-orders/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "vince",
+      "fire",
+      "prompts",
+      "evacuation",
+      "orders"
     ]
   }
 }
