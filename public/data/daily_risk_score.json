@@ -1,125 +1,57 @@
 {
-  "BRA": {
-    "risk_score": 3.32,
-    "count": 4,
-    "top_news": "https://www.esmmagazine.com/supply-chain/eu-ban-on-brazilian-meat-threatens-supply-chains-and-prices-rabobank-318242",
+  "ISR": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://countercurrents.org/2026/08/palestinian-prisoners-live-in-hellish-conditions-research-paper/",
     "event_codes": {
-      "17": 2,
+      "18": 4,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "palestinian",
+      "prisoners",
+      "live",
+      "hellish",
+      "conditions",
+      "research",
+      "paper"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.insurancejournal.com/news/international/2026/08/05/880307.htm",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "supply",
-      "chain",
-      "ban",
-      "brazilian",
-      "meat",
-      "threatens",
-      "supply",
-      "chains",
-      "and",
-      "prices",
-      "rabobank",
-      "318242"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.85,
-    "count": 4,
-    "top_news": "http://www.britainnews.net/news/279223111/trump-strait-of-hormuz-deal-could-come-tomorrow-or-the-next-day",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
       "news",
-      "279223111",
-      "trump",
-      "strait",
-      "hormuz",
-      "deal",
-      "could",
-      "come",
-      "tomorrow",
-      "the",
-      "next",
-      "day"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/opinions/2026/8/5/nigeria-cannot-build-safe-schools-in-unsafe-communities",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "opinions",
+      "international",
       "2026",
-      "nigeria",
-      "cannot",
-      "build",
-      "safe",
-      "schools",
-      "unsafe",
-      "communities"
+      "880307.htm"
     ]
   },
-  "TUR": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://www.egyptindependent.com/russian-attack-kills-17-in-kyiv-region-zelensky-says/",
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://raxanreeb.com/puntland-forces-clash-with-federal-aligned-unit-as-civilians-flee-galkayo-airport-area/",
     "event_codes": {
-      "14": 1,
-      "18": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "russian",
-      "attack",
-      "kills",
-      "kyiv",
-      "region",
-      "zelensky",
-      "says"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://www.standardmedia.co.ke/world/article/2001554564/taiwan-begins-military-drills-as-china-pressure-grows",
-    "event_codes": {
-      "15": 2,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "article",
-      "2001554564",
-      "taiwan",
-      "begins",
-      "military",
-      "drills",
-      "china",
-      "pressure",
-      "grows"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.newsday.co.zw/editorials/article/200059029/make-london-fly-or-heads-must-roll",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "editorials",
-      "article",
-      "200059029",
-      "make",
-      "london",
-      "fly",
-      "heads",
-      "must",
-      "roll"
+      "puntland",
+      "forces",
+      "clash",
+      "with",
+      "federal",
+      "aligned",
+      "unit",
+      "civilians",
+      "flee",
+      "galkayo",
+      "airport",
+      "area"
     ]
   }
 }
