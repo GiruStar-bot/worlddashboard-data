@@ -1,139 +1,89 @@
 {
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.hindustantimes.com/india-news/kerala-man-killed-in-dubai-showroom-blast-was-planning-to-bring-wife-to-uae-101786007675890.html",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "india",
+      "news",
+      "kerala",
+      "man",
+      "killed",
+      "dubai",
+      "showroom",
+      "blast",
+      "was",
+      "planning",
+      "bring",
+      "wife",
+      "uae",
+      "101786007675890.html"
+    ]
+  },
   "IRN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.rawstory.com/raw-investigates/hegseth-iran-war-dead/",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "raw",
+      "investigates",
+      "hegseth",
+      "iran",
+      "war",
+      "dead"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.8,
+    "count": 12,
+    "top_news": "https://news.az/news/israeli-military-expands-qalandia-raid-with-demolitions-curfews",
+    "event_codes": {
+      "17": 7,
+      "16": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "military",
+      "expands",
+      "qalandia",
+      "raid",
+      "with",
+      "demolitions",
+      "curfews"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://nuclear-news.net/2026/08/06/7-a-walt-zlotow-many-top-military-leaders-opposed-atomic-bombings/",
+    "top_news": "https://peoplesreview.com.np/2026/08/06/saudis-call-new-coalition-for-the-red-sea-iran-backed-houthis-attack-ships/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "2026",
-      "walt",
-      "zlotow",
-      "many",
-      "top",
-      "military",
-      "leaders",
-      "opposed",
-      "atomic",
-      "bombings"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.17,
-    "count": 13,
-    "top_news": "https://nuclear-news.net/2026/08/06/7-a-how-lockheed-martin-raytheon-bae-systems-are-propagandizing-children-to-support-war-through-stem/",
-    "event_codes": {
-      "19": 5,
-      "17": 3,
-      "14": 2,
-      "18": 2,
-      "15": 1
-    },
-    "keywords": [
-      "2026",
-      "how",
-      "lockheed",
-      "martin",
-      "raytheon",
-      "bae",
-      "systems",
-      "are",
-      "propagandizing",
-      "children",
-      "support",
-      "war",
-      "through",
-      "stem"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/08/troops-rescue-308-kidnap-victims-after-six-month-operation-in-kwara-niger-forests/",
-    "event_codes": {
-      "18": 3
-    },
-    "keywords": [
-      "2026",
-      "troops",
-      "rescue",
-      "308",
-      "kidnap",
-      "victims",
-      "after",
-      "six",
-      "month",
-      "operation",
-      "kwara",
-      "niger",
-      "forests"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.9,
-    "count": 14,
-    "top_news": "https://www.vanguardngr.com/2026/08/tambuwal-mourns-slain-police-officer-seeks-stronger-action-against-insecurity-in-sokoto/",
-    "event_codes": {
-      "18": 5,
-      "19": 4,
-      "14": 2,
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "tambuwal",
-      "mourns",
-      "slain",
-      "police",
-      "officer",
-      "seeks",
-      "stronger",
-      "action",
-      "against",
-      "insecurity",
-      "sokoto"
-    ]
-  },
-  "TWN": {
-    "risk_score": 5.04,
-    "count": 7,
-    "top_news": "https://www.wsws.org/en/articles/2026/08/06/cebz-a06.html",
-    "event_codes": {
-      "15": 7
-    },
-    "keywords": [
-      "articles",
-      "2026",
-      "cebz",
-      "a06.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://news.tuoitre.vn/ceo-of-vietnamese-firm-behind-100bn-high-speed-rail-proposal-arrested-for-fraudulent-claims-10326080613391191.htm",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "ceo",
-      "vietnamese",
-      "firm",
-      "behind",
-      "100bn",
-      "high",
-      "speed",
-      "rail",
-      "proposal",
-      "arrested",
+      "saudis",
+      "call",
+      "new",
+      "coalition",
       "for",
-      "fraudulent",
-      "claims",
-      "10326080613391191.htm"
+      "the",
+      "red",
+      "sea",
+      "iran",
+      "backed",
+      "houthis",
+      "attack",
+      "ships"
     ]
   }
 }
