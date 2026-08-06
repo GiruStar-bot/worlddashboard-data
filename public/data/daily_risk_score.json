@@ -1,157 +1,153 @@
 {
   "IRN": {
-    "risk_score": 2.72,
-    "count": 5,
-    "top_news": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/economia-e-finanza-dai-giornali-usa-nRC_06082026_1328_410210751.html",
+    "risk_score": 17.4,
+    "count": 26,
+    "top_news": "https://themedialine.org/headlines/reported-clash-between-president-trump-and-hegseth-exposes-us-munitions-stockpile-concerns-2/",
     "event_codes": {
-      "17": 4,
-      "15": 1
-    },
-    "keywords": [
-      "borsa",
-      "notizie",
-      "radiocor",
-      "finanza",
-      "dettaglio",
-      "economia",
-      "finanza",
-      "dai",
-      "giornali",
-      "usa",
-      "nrc",
-      "06082026",
-      "1328",
-      "410210751.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 17.94,
-    "count": 21,
-    "top_news": "https://www.arabnews.com/node/2653618/media",
-    "event_codes": {
-      "19": 11,
-      "17": 5,
-      "16": 3,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "node",
-      "2653618",
-      "media"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.84,
-    "count": 3,
-    "top_news": "https://www.ghafla.co.ke/mt-kenya-rift-deepens-as-peter-munya-hits-out-at-rigathi-gachagua-over-bullying-and-dictatorial-tendencies/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "kenya",
-      "rift",
-      "deepens",
-      "peter",
-      "munya",
-      "hits",
-      "out",
-      "rigathi",
-      "gachagua",
-      "over",
-      "bullying",
-      "and",
-      "dictatorial",
-      "tendencies"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.58,
-    "count": 11,
-    "top_news": "https://www.thisdaylive.com/2026/08/06/situating-tinubus-second-military-pay-rise-around-nigerias-battle-against-insecurity/",
-    "event_codes": {
-      "15": 4,
-      "14": 2,
-      "18": 2,
-      "19": 2,
+      "17": 16,
+      "19": 9,
       "16": 1
     },
     "keywords": [
-      "2026",
-      "situating",
-      "tinubus",
-      "second",
-      "military",
-      "pay",
-      "rise",
-      "around",
-      "nigerias",
-      "battle",
-      "against",
-      "insecurity"
+      "headlines",
+      "reported",
+      "clash",
+      "between",
+      "president",
+      "trump",
+      "and",
+      "hegseth",
+      "exposes",
+      "munitions",
+      "stockpile",
+      "concerns"
     ]
   },
-  "PSE": {
-    "risk_score": 9.06,
-    "count": 11,
-    "top_news": "https://news.az/news/what-happened-during-the-expanded-israeli-military-operation-in-qalandia",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/article-904789",
     "event_codes": {
-      "19": 5,
-      "14": 2,
-      "15": 2,
-      "16": 1,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "what",
-      "happened",
-      "during",
-      "the",
-      "expanded",
+      "middle",
+      "east",
+      "article",
+      "904789"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.62,
+    "count": 8,
+    "top_news": "https://www.jpost.com/middle-east/article-904778",
+    "event_codes": {
+      "17": 3,
+      "16": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "904778"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.justiceinfo.net/en/162955-rights-groups-decry-israeli-killing-of-lebanon-journalist-as-war-crime.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "162955",
+      "rights",
+      "groups",
+      "decry",
       "israeli",
+      "killing",
+      "lebanon",
+      "journalist",
+      "war",
+      "crime.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 9,
+    "top_news": "https://punchng.com/nigeria-burundi-deepen-military-cooperation-against-terrorism/",
+    "event_codes": {
+      "14": 6,
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "nigeria",
+      "burundi",
+      "deepen",
       "military",
-      "operation",
-      "qalandia"
+      "cooperation",
+      "against",
+      "terrorism"
     ]
   },
   "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://leadership.ng/iran-oman-agree-on-shipping-route-through-strait-of-hormuz/",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.samaa.tv/2087354810-30-yemeni-troops-killed-in-houthi-attacks-on-military-camps",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "iran",
-      "oman",
-      "agree",
-      "shipping",
-      "route",
-      "through",
-      "strait",
-      "hormuz"
+      "2087354810",
+      "yemeni",
+      "troops",
+      "killed",
+      "houthi",
+      "attacks",
+      "military",
+      "camps"
     ]
   },
-  "SSD": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/eastern-equatoria-splm-delegation-ambushed-driver-killed",
+  "TUR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.jpost.com/middle-east/article-904789",
     "event_codes": {
-      "18": 4,
-      "19": 2
+      "17": 2,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "news",
+      "middle",
+      "east",
       "article",
-      "eastern",
-      "equatoria",
-      "splm",
-      "delegation",
-      "ambushed",
-      "driver",
-      "killed"
+      "904789"
+    ]
+  },
+  "YEM": {
+    "risk_score": 14.9,
+    "count": 15,
+    "top_news": "https://www.zerohedge.com/geopolitical/yemen-war-reignites-houthis-intensify-saudi-shipping-attacks-ground-assault-amid",
+    "event_codes": {
+      "19": 14,
+      "18": 1
+    },
+    "keywords": [
+      "geopolitical",
+      "yemen",
+      "war",
+      "reignites",
+      "houthis",
+      "intensify",
+      "saudi",
+      "shipping",
+      "attacks",
+      "ground",
+      "assault",
+      "amid"
     ]
   }
 }
