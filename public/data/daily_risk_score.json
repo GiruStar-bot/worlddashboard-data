@@ -1,155 +1,67 @@
 {
   "IRN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.theepochtimes.com/world/houthi-attack-on-saudi-arabia-injures-11-civilians-6072463",
+    "risk_score": 4.15,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/rjbvebq8fx",
     "event_codes": {
-      "19": 2,
+      "19": 3,
+      "14": 1,
       "17": 1
     },
     "keywords": [
-      "world",
-      "houthi",
-      "attack",
-      "saudi",
-      "arabia",
-      "injures",
-      "civilians",
-      "6072463"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.theepochtimes.com/world/houthi-attack-on-saudi-arabia-injures-11-civilians-6072463",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "world",
-      "houthi",
-      "attack",
-      "saudi",
-      "arabia",
-      "injures",
-      "civilians",
-      "6072463"
+      "article",
+      "rjbvebq8fx"
     ]
   },
   "ISR": {
-    "risk_score": 9.2,
-    "count": 10,
-    "top_news": "https://www.naharnet.com/stories/en/321706-israel-targets-lebanese-army-bulldozer-in-al-mansouri-wounds-soldier",
+    "risk_score": 4.7,
+    "count": 8,
+    "top_news": "https://english.wafa.ps/Pages/Details/173340",
     "event_codes": {
-      "19": 6,
-      "18": 3,
-      "17": 1
-    },
-    "keywords": [
-      "stories",
-      "321706",
-      "israel",
-      "targets",
-      "lebanese",
-      "army",
-      "bulldozer",
-      "mansouri",
-      "wounds",
-      "soldier"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.61,
-    "count": 9,
-    "top_news": "https://www.naharnet.com/stories/en/321706-israel-targets-lebanese-army-bulldozer-in-al-mansouri-wounds-soldier",
-    "event_codes": {
-      "15": 3,
-      "19": 3,
-      "18": 2,
-      "14": 1
-    },
-    "keywords": [
-      "stories",
-      "321706",
-      "israel",
-      "targets",
-      "lebanese",
-      "army",
-      "bulldozer",
-      "mansouri",
-      "wounds",
-      "soldier"
-    ]
-  },
-  "SAU": {
-    "risk_score": 9.44,
-    "count": 10,
-    "top_news": "https://www.theepochtimes.com/world/houthi-attack-on-saudi-arabia-injures-11-civilians-6072463",
-    "event_codes": {
-      "19": 8,
-      "15": 2
-    },
-    "keywords": [
-      "world",
-      "houthi",
-      "attack",
-      "saudi",
-      "arabia",
-      "injures",
-      "civilians",
-      "6072463"
-    ]
-  },
-  "THA": {
-    "risk_score": 11.7,
-    "count": 14,
-    "top_news": "https://www.theepochtimes.com/world/thai-soldier-kills-at-least-10-in-shooting-rampage-police-3231702",
-    "event_codes": {
-      "19": 7,
-      "14": 4,
-      "17": 3
-    },
-    "keywords": [
-      "world",
-      "thai",
-      "soldier",
-      "kills",
-      "least",
-      "shooting",
-      "rampage",
-      "police",
-      "3231702"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.16,
-    "count": 4,
-    "top_news": "https://focustaiwan.tw:443/politics/202608070022",
-    "event_codes": {
-      "15": 3,
-      "19": 1
-    },
-    "keywords": [
-      "politics",
-      "202608070022"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thehindu.com/news/top-news-from-the-hindu-07-08-2026/article71317249.ece",
-    "event_codes": {
+      "16": 3,
+      "17": 3,
       "19": 2
     },
     "keywords": [
-      "news",
-      "top",
-      "news",
-      "from",
-      "the",
-      "hindu",
+      "pages",
+      "details",
+      "173340"
+    ]
+  },
+  "SAU": {
+    "risk_score": 11.45,
+    "count": 12,
+    "top_news": "https://us.cnn.com/2026/08/07/middleeast/yemen-iran-war-explainer-intl",
+    "event_codes": {
+      "19": 10,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
       "2026",
-      "article71317249.ece"
+      "middleeast",
+      "yemen",
+      "iran",
+      "war",
+      "explainer",
+      "intl"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://us.cnn.com/2026/08/07/middleeast/yemen-iran-war-explainer-intl",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "middleeast",
+      "yemen",
+      "iran",
+      "war",
+      "explainer",
+      "intl"
     ]
   }
 }
