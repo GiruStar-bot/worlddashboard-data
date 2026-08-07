@@ -1,37 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 4.62,
-    "count": 5,
-    "top_news": "https://slguardian.org/irans-regional-strategy-reshapes-gulf-conflict/",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theage.com.au/national/nsw/push-to-train-imams-in-australia-warning-of-islamophobia-spike-20260807-p60mc3.html",
     "event_codes": {
-      "19": 4,
-      "15": 1
+      "19": 3
     },
     "keywords": [
-      "irans",
-      "regional",
-      "strategy",
-      "reshapes",
-      "gulf",
-      "conflict"
+      "national",
+      "nsw",
+      "push",
+      "train",
+      "imams",
+      "australia",
+      "warning",
+      "islamophobia",
+      "spike",
+      "20260807",
+      "p60mc3.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://en.apa.az/asia/11-civilians-injured-in-houthi-attack-on-saudi-arabias-najran-519322",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "civilians",
+      "injured",
+      "houthi",
+      "attack",
+      "saudi",
+      "arabias",
+      "najran",
+      "519322"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://pajhwok.com/2026/08/07/2-killed-13-injured-in-blast-in-damascus/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "killed",
+      "injured",
+      "blast",
+      "damascus"
     ]
   },
   "THA": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.dailystar.co.uk/news/world-news/thailand-teachers-killed-least-20-37523599",
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://grenadachronicle.com/one-killed-four-injured-in-thailand-school-shooting-officials-say/",
     "event_codes": {
-      "19": 9
+      "19": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "news",
-      "thailand",
-      "teachers",
+      "one",
       "killed",
-      "least",
-      "37523599"
+      "four",
+      "injured",
+      "thailand",
+      "school",
+      "shooting",
+      "officials",
+      "say"
     ]
   }
 }
