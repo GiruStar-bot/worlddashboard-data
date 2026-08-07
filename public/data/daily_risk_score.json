@@ -1,153 +1,77 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://gamerant.com/my-hero-academia-strongest-swordsmen/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "hero",
-      "academia",
-      "strongest",
-      "swordsmen"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.4,
-    "count": 9,
-    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/08/07/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces",
-    "event_codes": {
-      "19": 8,
-      "16": 1
-    },
-    "keywords": [
-      "category",
-      "highlight",
-      "2026",
-      "houthi",
-      "missile",
-      "attacks",
-      "kill",
-      "saudi",
-      "backed",
-      "yemeni",
-      "govt",
-      "forces"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.03,
-    "count": 16,
-    "top_news": "https://www.sandiegouniontribune.com/2026/08/06/israeli-soldiers-killed-lebanon/",
-    "event_codes": {
-      "19": 7,
-      "14": 4,
-      "16": 2,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "soldiers",
-      "killed",
-      "lebanon"
-    ]
-  },
-  "LBN": {
-    "risk_score": 8.76,
-    "count": 9,
-    "top_news": "https://www.sandiegouniontribune.com/2026/08/06/israeli-soldiers-killed-lebanon/",
-    "event_codes": {
-      "19": 6,
-      "17": 3
-    },
-    "keywords": [
-      "2026",
-      "israeli",
-      "soldiers",
-      "killed",
-      "lebanon"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/08/07/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "category",
-      "highlight",
-      "2026",
-      "houthi",
-      "missile",
-      "attacks",
-      "kill",
-      "saudi",
-      "backed",
-      "yemeni",
-      "govt",
-      "forces"
-    ]
-  },
-  "SYR": {
-    "risk_score": 9.0,
-    "count": 9,
-    "top_news": "https://www.jpost.com/middle-east/article-904831",
-    "event_codes": {
-      "19": 9
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "904831"
-    ]
-  },
-  "TCD": {
-    "risk_score": 5.1,
-    "count": 6,
-    "top_news": "https://www.timesfreepress.com/news/2026/aug/06/harrison-man-gets-three-years-for-shooting-at/",
-    "event_codes": {
-      "18": 4,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "aug",
-      "harrison",
-      "man",
-      "gets",
-      "three",
-      "years",
-      "for",
-      "shooting"
-    ]
-  },
-  "YEM": {
     "risk_score": 7.0,
     "count": 7,
-    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/08/07/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces",
+    "top_news": "https://www.scmp.com/news/world/middle-east/article/3363241/houthi-attacks-kill-dozens-troops-yemen-wound-civilians-saudi-arabia",
     "event_codes": {
       "19": 7
     },
     "keywords": [
-      "category",
-      "highlight",
-      "2026",
+      "news",
+      "world",
+      "middle",
+      "east",
+      "article",
+      "3363241",
       "houthi",
-      "missile",
       "attacks",
       "kill",
+      "dozens",
+      "troops",
+      "yemen",
+      "wound",
+      "civilians",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "http://www.jpost.com/opinion/article-904814",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "904814"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://english.news.cn/africa/20260807/1b6e47ada75e4dd8b5b97905aa40a9a0/c.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "africa",
+      "20260807",
+      "1b6e47ada75e4dd8b5b97905aa40a9a0",
+      "c.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "http://www.myanmarnews.net/news/279225624/yemens-houthis-launch-major-attacks-on-saudi-backed-forces",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "279225624",
+      "yemens",
+      "houthis",
+      "launch",
+      "major",
+      "attacks",
       "saudi",
       "backed",
-      "yemeni",
-      "govt",
       "forces"
     ]
   }
