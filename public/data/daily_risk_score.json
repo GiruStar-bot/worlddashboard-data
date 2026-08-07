@@ -1,80 +1,163 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theage.com.au/national/nsw/push-to-train-imams-in-australia-warning-of-islamophobia-spike-20260807-p60mc3.html",
+  "IRN": {
+    "risk_score": 6.9,
+    "count": 8,
+    "top_news": "https://www.juancole.com/2026/08/nuclear-destruction-began.html",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "national",
-      "nsw",
-      "push",
-      "train",
-      "imams",
-      "australia",
-      "warning",
-      "islamophobia",
-      "spike",
-      "20260807",
-      "p60mc3.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://en.apa.az/asia/11-civilians-injured-in-houthi-attack-on-saudi-arabias-najran-519322",
-    "event_codes": {
-      "18": 3,
-      "19": 2
-    },
-    "keywords": [
-      "asia",
-      "civilians",
-      "injured",
-      "houthi",
-      "attack",
-      "saudi",
-      "arabias",
-      "najran",
-      "519322"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://pajhwok.com/2026/08/07/2-killed-13-injured-in-blast-in-damascus/",
-    "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 5,
+      "16": 2,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "killed",
-      "injured",
-      "blast",
-      "damascus"
+      "nuclear",
+      "destruction",
+      "began.html"
     ]
   },
-  "THA": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://grenadachronicle.com/one-killed-four-injured-in-thailand-school-shooting-officials-say/",
+  "IRQ": {
+    "risk_score": 13.54,
+    "count": 17,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/07/iraqi-forces-on-high-alert-as-iran-aligned-factions-deadline-for-response-to-us-saudi-strikes-expires/",
     "event_codes": {
-      "19": 2,
-      "17": 1,
+      "15": 12,
+      "19": 4,
       "18": 1
     },
     "keywords": [
-      "one",
-      "killed",
-      "four",
-      "injured",
+      "news",
+      "mena",
+      "2026",
+      "iraqi",
+      "forces",
+      "high",
+      "alert",
+      "iran",
+      "aligned",
+      "factions",
+      "deadline",
+      "for",
+      "response",
+      "saudi",
+      "strikes",
+      "expires"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.64,
+    "count": 6,
+    "top_news": "https://www.thenationalnews.com/news/uae/2026/08/07/fireballs-near-misses-and-distress-calls-hormuz-sailor-recalls-horror-of-being-caught-in-us-iran-war/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "uae",
+      "2026",
+      "fireballs",
+      "near",
+      "misses",
+      "and",
+      "distress",
+      "calls",
+      "hormuz",
+      "sailor",
+      "recalls",
+      "horror",
+      "being",
+      "caught",
+      "iran",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 23.35,
+    "count": 26,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/901252-kogi-govt-vows-justice-for-victims-after-deadly-reprisal-attack.html",
+    "event_codes": {
+      "18": 14,
+      "19": 8,
+      "14": 3,
+      "16": 1
+    },
+    "keywords": [
+      "regional",
+      "north",
+      "central",
+      "901252",
+      "kogi",
+      "govt",
+      "vows",
+      "justice",
+      "for",
+      "victims",
+      "after",
+      "deadly",
+      "reprisal",
+      "attack.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 10.95,
+    "count": 11,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/07/iraqi-forces-on-high-alert-as-iran-aligned-factions-deadline-for-response-to-us-saudi-strikes-expires/",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "iraqi",
+      "forces",
+      "high",
+      "alert",
+      "iran",
+      "aligned",
+      "factions",
+      "deadline",
+      "for",
+      "response",
+      "saudi",
+      "strikes",
+      "expires"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.8,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202608070012.html",
+    "event_codes": {
+      "17": 3,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "stories",
+      "202608070012.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 17.51,
+    "count": 19,
+    "top_news": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568",
+    "event_codes": {
+      "19": 14,
+      "15": 3,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
       "thailand",
+      "several",
+      "killed",
       "school",
       "shooting",
-      "officials",
-      "say"
+      "north",
+      "bangkok",
+      "78273568"
     ]
   }
 }
