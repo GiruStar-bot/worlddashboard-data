@@ -1,132 +1,83 @@
 {
-  "IRN": {
-    "risk_score": 4.12,
-    "count": 5,
-    "top_news": "https://abcnews.com/Politics/crucial-us-missile-stockpiles-extremely-low-official/story?id=135428997",
-    "event_codes": {
-      "19": 3,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "politics",
-      "crucial",
-      "missile",
-      "stockpiles",
-      "extremely",
-      "low",
-      "official",
-      "story"
-    ]
-  },
   "ISR": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://www.express.co.uk/news/uk/2236944/placing-israel-centre-uk-politics",
+    "risk_score": 8.5,
+    "count": 9,
+    "top_news": "https://news.az/news/israeli-settlers-target-bedouin-community-east-of-ramallah",
     "event_codes": {
-      "19": 5,
-      "16": 1
+      "19": 8,
+      "17": 1
     },
     "keywords": [
       "news",
-      "2236944",
-      "placing",
-      "israel",
-      "centre",
-      "politics"
+      "israeli",
+      "settlers",
+      "target",
+      "bedouin",
+      "community",
+      "east",
+      "ramallah"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.military.com/veterans-from-different-parties-clash-as-montana-us-senate-race-deadline-nears",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "veterans",
-      "from",
-      "different",
-      "parties",
-      "clash",
-      "montana",
-      "senate",
-      "race",
-      "deadline",
-      "nears"
-    ]
-  },
-  "NGA": {
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://thesun.ng/atiku-raises-alarm-over-suspicious-credit-to-private-bank-account/",
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupiers-intensify-attacks-on-bedouin-community-near-ramallah/4020961",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "occupiers",
+      "intensify",
+      "attacks",
+      "bedouin",
+      "community",
+      "near",
+      "ramallah",
+      "4020961"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/world/articles/pakistan-saudi-arabia-turkey-sign-091832755.html",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "atiku",
-      "raises",
-      "alarm",
-      "over",
-      "suspicious",
-      "credit",
-      "private",
-      "bank",
-      "account"
+      "news",
+      "world",
+      "articles",
+      "pakistan",
+      "saudi",
+      "arabia",
+      "turkey",
+      "sign",
+      "091832755.html"
     ]
   },
   "THA": {
-    "risk_score": 16.75,
-    "count": 17,
-    "top_news": "https://english.news.cn/asiapacific/20260807/0def675e48a749c59a1b4e778268859c/c.html",
+    "risk_score": 10.45,
+    "count": 14,
+    "top_news": "https://www.dailystar.co.uk/news/world-news/breaking-thailand-school-shooting-sees-37523745",
     "event_codes": {
-      "19": 11,
-      "18": 6
+      "17": 7,
+      "19": 6,
+      "18": 1
     },
     "keywords": [
-      "asiapacific",
-      "20260807",
-      "0def675e48a749c59a1b4e778268859c",
-      "c.html"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.military.com/15-military-photos-with-stories-youll-never-forget",
-    "event_codes": {
-      "20": 2
-    },
-    "keywords": [
-      "military",
-      "photos",
-      "with",
-      "stories",
-      "youll",
-      "never",
-      "forget"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/world/mid-east/yemens-fragile-calm-up-in-smoke-as-houthi-strikes-kill-58-troops",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
+      "news",
       "world",
-      "mid",
-      "east",
-      "yemens",
-      "fragile",
-      "calm",
-      "smoke",
-      "houthi",
-      "strikes",
-      "kill",
-      "troops"
+      "news",
+      "breaking",
+      "thailand",
+      "school",
+      "shooting",
+      "sees",
+      "37523745"
     ]
   }
 }
