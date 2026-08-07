@@ -1,25 +1,82 @@
 {
-  "ISR": {
-    "risk_score": 3.62,
-    "count": 4,
-    "top_news": "https://www.camera.org/article/the-news-you-didnt-hear-about-this-week-friday-august-7-2026/",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.kalb.com/2026/08/07/arrest-made-fatal-shooting-levin-street-tennessee-avenue-alexandria/",
     "event_codes": {
-      "18": 3,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "article",
-      "the",
+      "2026",
+      "arrest",
+      "made",
+      "fatal",
+      "shooting",
+      "levin",
+      "street",
+      "tennessee",
+      "avenue",
+      "alexandria"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.breitbart.com/middle-east/2026/08/07/iran-continues-to-trash-u-s-claims-no-peace-talks/",
+    "event_codes": {
+      "14": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "iran",
+      "continues",
+      "trash",
+      "claims",
+      "peace",
+      "talks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.middleeastmonitor.com/20260807-israel-targets-southern-lebanon-with-phosphorus-bombs-state-media-reports/",
+    "event_codes": {
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "20260807",
+      "israel",
+      "targets",
+      "southern",
+      "lebanon",
+      "with",
+      "phosphorus",
+      "bombs",
+      "state",
+      "media",
+      "reports"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/07/773912/Press-TV-s-news-headlines-",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "773912",
+      "press",
       "news",
-      "you",
-      "didnt",
-      "hear",
-      "about",
-      "this",
-      "week",
-      "friday",
-      "august",
-      "2026"
+      "headlines"
     ]
   }
 }
