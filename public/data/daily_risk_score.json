@@ -1,153 +1,154 @@
 {
-  "IRN": {
-    "risk_score": 17.4,
-    "count": 26,
-    "top_news": "https://themedialine.org/headlines/reported-clash-between-president-trump-and-hegseth-exposes-us-munitions-stockpile-concerns-2/",
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://gamerant.com/my-hero-academia-strongest-swordsmen/",
     "event_codes": {
-      "17": 16,
-      "19": 9,
+      "19": 3
+    },
+    "keywords": [
+      "hero",
+      "academia",
+      "strongest",
+      "swordsmen"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.4,
+    "count": 9,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/08/07/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces",
+    "event_codes": {
+      "19": 8,
       "16": 1
     },
     "keywords": [
-      "headlines",
-      "reported",
-      "clash",
-      "between",
-      "president",
-      "trump",
-      "and",
-      "hegseth",
-      "exposes",
-      "munitions",
-      "stockpile",
-      "concerns"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jpost.com/middle-east/article-904789",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "904789"
+      "category",
+      "highlight",
+      "2026",
+      "houthi",
+      "missile",
+      "attacks",
+      "kill",
+      "saudi",
+      "backed",
+      "yemeni",
+      "govt",
+      "forces"
     ]
   },
   "ISR": {
-    "risk_score": 5.62,
-    "count": 8,
-    "top_news": "https://www.jpost.com/middle-east/article-904778",
+    "risk_score": 13.03,
+    "count": 16,
+    "top_news": "https://www.sandiegouniontribune.com/2026/08/06/israeli-soldiers-killed-lebanon/",
     "event_codes": {
-      "17": 3,
+      "19": 7,
+      "14": 4,
       "16": 2,
       "18": 2,
-      "19": 1
+      "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "904778"
+      "2026",
+      "israeli",
+      "soldiers",
+      "killed",
+      "lebanon"
     ]
   },
   "LBN": {
+    "risk_score": 8.76,
+    "count": 9,
+    "top_news": "https://www.sandiegouniontribune.com/2026/08/06/israeli-soldiers-killed-lebanon/",
+    "event_codes": {
+      "19": 6,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "soldiers",
+      "killed",
+      "lebanon"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.justiceinfo.net/en/162955-rights-groups-decry-israeli-killing-of-lebanon-journalist-as-war-crime.html",
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/08/07/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "162955",
-      "rights",
-      "groups",
-      "decry",
-      "israeli",
-      "killing",
-      "lebanon",
-      "journalist",
-      "war",
-      "crime.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://punchng.com/nigeria-burundi-deepen-military-cooperation-against-terrorism/",
-    "event_codes": {
-      "14": 6,
-      "16": 2,
-      "19": 1
-    },
-    "keywords": [
-      "nigeria",
-      "burundi",
-      "deepen",
-      "military",
-      "cooperation",
-      "against",
-      "terrorism"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.samaa.tv/2087354810-30-yemeni-troops-killed-in-houthi-attacks-on-military-camps",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2087354810",
-      "yemeni",
-      "troops",
-      "killed",
+      "category",
+      "highlight",
+      "2026",
       "houthi",
+      "missile",
       "attacks",
-      "military",
-      "camps"
+      "kill",
+      "saudi",
+      "backed",
+      "yemeni",
+      "govt",
+      "forces"
     ]
   },
-  "TUR": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.jpost.com/middle-east/article-904789",
+  "SYR": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://www.jpost.com/middle-east/article-904831",
     "event_codes": {
-      "17": 2,
-      "16": 1,
-      "19": 1
+      "19": 9
     },
     "keywords": [
       "middle",
       "east",
       "article",
-      "904789"
+      "904831"
+    ]
+  },
+  "TCD": {
+    "risk_score": 5.1,
+    "count": 6,
+    "top_news": "https://www.timesfreepress.com/news/2026/aug/06/harrison-man-gets-three-years-for-shooting-at/",
+    "event_codes": {
+      "18": 4,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "aug",
+      "harrison",
+      "man",
+      "gets",
+      "three",
+      "years",
+      "for",
+      "shooting"
     ]
   },
   "YEM": {
-    "risk_score": 14.9,
-    "count": 15,
-    "top_news": "https://www.zerohedge.com/geopolitical/yemen-war-reignites-houthis-intensify-saudi-shipping-attacks-ground-assault-amid",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/08/07/houthi-missile-attacks-kill-58-saudi-backed-yemeni-govt-forces",
     "event_codes": {
-      "19": 14,
-      "18": 1
+      "19": 7
     },
     "keywords": [
-      "geopolitical",
-      "yemen",
-      "war",
-      "reignites",
-      "houthis",
-      "intensify",
-      "saudi",
-      "shipping",
+      "category",
+      "highlight",
+      "2026",
+      "houthi",
+      "missile",
       "attacks",
-      "ground",
-      "assault",
-      "amid"
+      "kill",
+      "saudi",
+      "backed",
+      "yemeni",
+      "govt",
+      "forces"
     ]
   }
 }
