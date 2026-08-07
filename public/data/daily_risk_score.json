@@ -1,82 +1,43 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.kalb.com/2026/08/07/arrest-made-fatal-shooting-levin-street-tennessee-avenue-alexandria/",
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.sbs.com.au/news/article/rights-groups-decry-israeli-killing-of-lebanese-journalist-as-war-crime/6yw1cso9i",
     "event_codes": {
-      "19": 2
+      "19": 5
     },
     "keywords": [
-      "2026",
-      "arrest",
-      "made",
-      "fatal",
-      "shooting",
-      "levin",
-      "street",
-      "tennessee",
-      "avenue",
-      "alexandria"
+      "news",
+      "article",
+      "rights",
+      "groups",
+      "decry",
+      "israeli",
+      "killing",
+      "lebanese",
+      "journalist",
+      "war",
+      "crime",
+      "6yw1cso9i"
     ]
   },
-  "IRN": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.breitbart.com/middle-east/2026/08/07/iran-continues-to-trash-u-s-claims-no-peace-talks/",
+  "SYR": {
+    "risk_score": 6.45,
+    "count": 9,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/07/syria-iraq-zaiidi-baniyas/",
     "event_codes": {
-      "14": 2,
-      "18": 1,
+      "16": 5,
+      "18": 3,
       "19": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "2026",
-      "iran",
-      "continues",
-      "trash",
-      "claims",
-      "peace",
-      "talks"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.middleeastmonitor.com/20260807-israel-targets-southern-lebanon-with-phosphorus-bombs-state-media-reports/",
-    "event_codes": {
-      "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "20260807",
-      "israel",
-      "targets",
-      "southern",
-      "lebanon",
-      "with",
-      "phosphorus",
-      "bombs",
-      "state",
-      "media",
-      "reports"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/07/773912/Press-TV-s-news-headlines-",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "773912",
-      "press",
       "news",
-      "headlines"
+      "mena",
+      "2026",
+      "syria",
+      "iraq",
+      "zaiidi",
+      "baniyas"
     ]
   }
 }
