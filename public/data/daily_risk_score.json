@@ -1,95 +1,132 @@
 {
   "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.moneycontrol.com/city/atiq-ahmed-s-son-was-carrying-gutkha-4-phones-and-a-tehran-novel-when-suv-crashed-article-13997343.html",
+    "risk_score": 4.12,
+    "count": 5,
+    "top_news": "https://abcnews.com/Politics/crucial-us-missile-stockpiles-extremely-low-official/story?id=135428997",
     "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "city",
-      "atiq",
-      "ahmed",
-      "son",
-      "was",
-      "carrying",
-      "gutkha",
-      "phones",
-      "and",
-      "tehran",
-      "novel",
-      "when",
-      "suv",
-      "crashed",
-      "article",
-      "13997343.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.rightspeak.net/2026/08/icymi-ukraine-hits-iranian-ship.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "icymi",
-      "ukraine",
-      "hits",
-      "iranian",
-      "ship.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.outlookindia.com/international/thailand-school-shooting-4-killed-at-debsirin-nonthaburi-school",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "international",
-      "thailand",
-      "school",
-      "shooting",
-      "killed",
-      "debsirin",
-      "nonthaburi",
-      "school"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.84,
-    "count": 3,
-    "top_news": "https://cyprus-mail.com/2026/08/07/motorcyclists-stage-symbolic-crossing-point-closure-in-isaac-solomou-tribute",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "motorcyclists",
-      "stage",
-      "symbolic",
-      "crossing",
-      "point",
-      "closure",
-      "isaac",
-      "solomou",
-      "tribute"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.okaz.com.sa/politics/na/2260294",
-    "event_codes": {
-      "19": 2
+      "19": 3,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
       "politics",
-      "2260294"
+      "crucial",
+      "missile",
+      "stockpiles",
+      "extremely",
+      "low",
+      "official",
+      "story"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.express.co.uk/news/uk/2236944/placing-israel-centre-uk-politics",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "2236944",
+      "placing",
+      "israel",
+      "centre",
+      "politics"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.military.com/veterans-from-different-parties-clash-as-montana-us-senate-race-deadline-nears",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "veterans",
+      "from",
+      "different",
+      "parties",
+      "clash",
+      "montana",
+      "senate",
+      "race",
+      "deadline",
+      "nears"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://thesun.ng/atiku-raises-alarm-over-suspicious-credit-to-private-bank-account/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "atiku",
+      "raises",
+      "alarm",
+      "over",
+      "suspicious",
+      "credit",
+      "private",
+      "bank",
+      "account"
+    ]
+  },
+  "THA": {
+    "risk_score": 16.75,
+    "count": 17,
+    "top_news": "https://english.news.cn/asiapacific/20260807/0def675e48a749c59a1b4e778268859c/c.html",
+    "event_codes": {
+      "19": 11,
+      "18": 6
+    },
+    "keywords": [
+      "asiapacific",
+      "20260807",
+      "0def675e48a749c59a1b4e778268859c",
+      "c.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.military.com/15-military-photos-with-stories-youll-never-forget",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "military",
+      "photos",
+      "with",
+      "stories",
+      "youll",
+      "never",
+      "forget"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/world/mid-east/yemens-fragile-calm-up-in-smoke-as-houthi-strikes-kill-58-troops",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "yemens",
+      "fragile",
+      "calm",
+      "smoke",
+      "houthi",
+      "strikes",
+      "kill",
+      "troops"
     ]
   }
 }
