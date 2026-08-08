@@ -1,61 +1,62 @@
 {
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.samaa.tv/2087354907-iran-won-t-accept-pressure-to-surrender-or-submit-says-pezeshkian",
+    "risk_score": 26.85,
+    "count": 28,
+    "top_news": "https://www.journalismpakistan.com/journalist-beaten-during-israeli-raid-as-attacks-persist",
     "event_codes": {
-      "19": 5
+      "19": 22,
+      "18": 5,
+      "16": 1
     },
     "keywords": [
-      "2087354907",
-      "iran",
-      "won",
-      "accept",
-      "pressure",
-      "surrender",
-      "submit",
-      "says",
-      "pezeshkian"
+      "journalist",
+      "beaten",
+      "during",
+      "israeli",
+      "raid",
+      "attacks",
+      "persist"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 12,
+    "top_news": "https://www.thisdaylive.com/2026/08/08/2027-kogi-east-apc-stakeholders-back-tinubu-ododo-demand-power-rotation/",
+    "event_codes": {
+      "17": 8,
+      "18": 4
+    },
+    "keywords": [
+      "2026",
+      "2027",
+      "kogi",
+      "east",
+      "apc",
+      "stakeholders",
+      "back",
+      "tinubu",
+      "ododo",
+      "demand",
+      "power",
+      "rotation"
     ]
   },
   "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.jns.org/news/israel-news/israeli-embassy-in-us-honors-memory-of-six-hostages-murdered-in-gaza",
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "https://www.journalismpakistan.com/journalist-beaten-during-israeli-raid-as-attacks-persist",
     "event_codes": {
-      "19": 4
+      "19": 7,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
+      "journalist",
+      "beaten",
+      "during",
       "israeli",
-      "embassy",
-      "honors",
-      "memory",
-      "six",
-      "hostages",
-      "murdered",
-      "gaza"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/world/articles/yemen-government-forces-attack-houthis-184320864.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "yemen",
-      "government",
-      "forces",
-      "attack",
-      "houthis",
-      "184320864.html"
+      "raid",
+      "attacks",
+      "persist"
     ]
   }
 }
