@@ -1,14 +1,77 @@
 {
-  "THA": {
+  "ISR": {
+    "risk_score": 11.7,
+    "count": 13,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanons-health-ministry-says-israeli-attacks-have-killed-4335-people-2",
+    "event_codes": {
+      "19": 8,
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "lebanons",
+      "health",
+      "ministry",
+      "says",
+      "israeli",
+      "attacks",
+      "have",
+      "killed",
+      "4335",
+      "people"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nny360.com/top_stories/iran-debates-hormuz-wording-as-trump-says-deal-s-moving-along/article_bee1d395-8172-54d5-a959-9fb66f62b0c1.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "top",
+      "stories",
+      "iran",
+      "debates",
+      "hormuz",
+      "wording",
+      "trump",
+      "says",
+      "deal",
+      "moving",
+      "along",
+      "article",
+      "bee1d395",
+      "8172",
+      "54d5",
+      "a959",
+      "9fb66f62b0c1.html"
+    ]
+  },
+  "YEM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1402863",
+    "top_news": "https://www.nbcnews.com/world/yemen/houthis-strike-marib-un-warns-yemen-nearing-wider-conflict-rcna591445",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "details",
-      "1402863"
+      "world",
+      "yemen",
+      "houthis",
+      "strike",
+      "marib",
+      "warns",
+      "yemen",
+      "nearing",
+      "wider",
+      "conflict",
+      "rcna591445"
     ]
   }
 }
