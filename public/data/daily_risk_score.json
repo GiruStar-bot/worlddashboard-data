@@ -1,82 +1,36 @@
 {
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.standard.net.au/story/9326459/iran-says-hormuz-deal-close-not-close-enough-to-open/",
+  "IRN": {
+    "risk_score": 17.0,
+    "count": 17,
+    "top_news": "https://www.azernews.az/region/262148.html",
     "event_codes": {
-      "19": 2
+      "19": 17
     },
     "keywords": [
-      "story",
-      "9326459",
-      "iran",
-      "says",
-      "hormuz",
-      "deal",
-      "close",
-      "not",
-      "close",
-      "enough",
-      "open"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.whmi.com/news/fox/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "fox",
-      "spains",
-      "migrant",
-      "surge",
-      "reignites",
-      "debate",
-      "over",
-      "europes",
-      "islamist",
-      "terror",
-      "threat"
+      "region",
+      "262148.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://pmnewsnigeria.com/2026/08/08/edo-community-leader-murdered-in-night-attack/",
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://thesun.ng/enugu-council-polls-ndc-threatens-boycott-over-alleged-denial-of-electoral-materials/",
     "event_codes": {
-      "19": 2
+      "14": 2,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "edo",
-      "community",
-      "leader",
-      "murdered",
-      "night",
-      "attack"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://wardheernews.com/yemeni-national-stabbed-to-death-inside-mogadishu-mosque-during-friday-prayers/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "yemeni",
-      "national",
-      "stabbed",
-      "death",
-      "inside",
-      "mogadishu",
-      "mosque",
-      "during",
-      "friday",
-      "prayers"
+      "enugu",
+      "council",
+      "polls",
+      "ndc",
+      "threatens",
+      "boycott",
+      "over",
+      "alleged",
+      "denial",
+      "electoral",
+      "materials"
     ]
   }
 }
