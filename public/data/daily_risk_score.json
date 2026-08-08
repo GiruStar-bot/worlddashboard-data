@@ -1,78 +1,105 @@
 {
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hngn.com/articles/272640/20260808/saudi-arabia-pakistan-turkey-sign-mutual-defense-pact-houthi-attacks-kill-dozens-near-yemen.htm",
+  "IRN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.durangoherald.com/articles/associated-press/yemen-attacks-houthis-turkeys-kurdish-peace-bill-wins-approval-and-other-middle-east-news/",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
       "articles",
-      "272640",
-      "20260808",
-      "saudi",
-      "arabia",
-      "pakistan",
-      "turkey",
-      "sign",
-      "mutual",
-      "defense",
-      "pact",
-      "houthi",
+      "associated",
+      "press",
+      "yemen",
       "attacks",
-      "kill",
-      "dozens",
-      "near",
-      "yemen.htm"
+      "houthis",
+      "turkeys",
+      "kurdish",
+      "peace",
+      "bill",
+      "wins",
+      "approval",
+      "and",
+      "other",
+      "middle",
+      "east",
+      "news"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border-says-pm",
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/892808/inside-mossad-s-3-tier-spy-network-from-dead-drops-to-targeted-assassinations%20title=",
     "event_codes": {
-      "19": 2
+      "18": 4
     },
     "keywords": [
-      "category",
-      "world",
-      "2026",
-      "drone",
-      "enters",
-      "bulgaria",
-      "explodes",
-      "near",
-      "pipeline",
-      "romanian",
-      "border",
-      "says"
+      "diethni",
+      "articles",
+      "892808",
+      "inside",
+      "mossad",
+      "tier",
+      "spy",
+      "network",
+      "from",
+      "dead",
+      "drops",
+      "targeted",
+      "assassinations%20title="
     ]
   },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hngn.com/articles/272640/20260808/saudi-arabia-pakistan-turkey-sign-mutual-defense-pact-houthi-attacks-kill-dozens-near-yemen.htm",
+  "NGA": {
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://www.durangoherald.com/articles/associated-press/we-saw-death-and-suffering-dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity/",
     "event_codes": {
-      "19": 2
+      "17": 4,
+      "18": 2
     },
     "keywords": [
       "articles",
-      "272640",
-      "20260808",
-      "saudi",
-      "arabia",
-      "pakistan",
-      "turkey",
-      "sign",
-      "mutual",
-      "defense",
-      "pact",
-      "houthi",
-      "attacks",
-      "kill",
+      "associated",
+      "press",
+      "saw",
+      "death",
+      "and",
+      "suffering",
       "dozens",
-      "near",
-      "yemen.htm"
+      "nigerians",
+      "freed",
+      "after",
+      "months",
+      "jihadi",
+      "captivity"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.durangoherald.com/articles/associated-press/a-12-year-old-girl-dies-after-thailand-school-shooting-bringing-the-death-toll-to-at-least-8/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "associated",
+      "press",
+      "year",
+      "old",
+      "girl",
+      "dies",
+      "after",
+      "thailand",
+      "school",
+      "shooting",
+      "bringing",
+      "the",
+      "death",
+      "toll",
+      "least"
     ]
   }
 }
