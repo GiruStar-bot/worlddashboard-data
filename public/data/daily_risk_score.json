@@ -1,24 +1,38 @@
 {
   "ISR": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.newsweek.com/is-the-dsa-platform-unpopular-what-polls-reveal-about-5-key-issues-12297503",
+    "risk_score": 6.22,
+    "count": 7,
+    "top_news": "https://truthout.org/articles/i-saw-dr-hussam-abu-safiya-save-lives-now-israel-is-holding-him-hostage/",
     "event_codes": {
-      "17": 3,
-      "18": 1
+      "19": 5,
+      "15": 1,
+      "17": 1
     },
     "keywords": [
-      "the",
-      "dsa",
-      "platform",
-      "unpopular",
-      "what",
-      "polls",
-      "reveal",
-      "about",
-      "key",
-      "issues",
-      "12297503"
+      "articles",
+      "saw",
+      "hussam",
+      "abu",
+      "safiya",
+      "save",
+      "lives",
+      "now",
+      "israel",
+      "holding",
+      "him",
+      "hostage"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/node/2653916",
+    "event_codes": {
+      "15": 4
+    },
+    "keywords": [
+      "node",
+      "2653916"
     ]
   }
 }
