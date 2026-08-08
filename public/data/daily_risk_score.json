@@ -1,36 +1,61 @@
 {
-  "IRN": {
-    "risk_score": 17.0,
-    "count": 17,
-    "top_news": "https://www.azernews.az/region/262148.html",
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.samaa.tv/2087354907-iran-won-t-accept-pressure-to-surrender-or-submit-says-pezeshkian",
     "event_codes": {
-      "19": 17
+      "19": 5
     },
     "keywords": [
-      "region",
-      "262148.html"
+      "2087354907",
+      "iran",
+      "won",
+      "accept",
+      "pressure",
+      "surrender",
+      "submit",
+      "says",
+      "pezeshkian"
     ]
   },
-  "NGA": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://thesun.ng/enugu-council-polls-ndc-threatens-boycott-over-alleged-denial-of-electoral-materials/",
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.jns.org/news/israel-news/israeli-embassy-in-us-honors-memory-of-six-hostages-murdered-in-gaza",
     "event_codes": {
-      "14": 2,
-      "16": 1
+      "19": 4
     },
     "keywords": [
-      "enugu",
-      "council",
-      "polls",
-      "ndc",
-      "threatens",
-      "boycott",
-      "over",
-      "alleged",
-      "denial",
-      "electoral",
-      "materials"
+      "news",
+      "israel",
+      "news",
+      "israeli",
+      "embassy",
+      "honors",
+      "memory",
+      "six",
+      "hostages",
+      "murdered",
+      "gaza"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/world/articles/yemen-government-forces-attack-houthis-184320864.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "yemen",
+      "government",
+      "forces",
+      "attack",
+      "houthis",
+      "184320864.html"
     ]
   }
 }
