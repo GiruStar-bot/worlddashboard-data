@@ -1,78 +1,45 @@
 {
-  "ISR": {
-    "risk_score": 3.64,
-    "count": 7,
-    "top_news": "https://news.az/news/israeli-forces-set-up-military-checkpoint-west-of-ramallah",
-    "event_codes": {
-      "16": 3,
-      "15": 2,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "israeli",
-      "forces",
-      "set",
-      "military",
-      "checkpoint",
-      "west",
-      "ramallah"
-    ]
-  },
   "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.canyon-news.com/drew-is-back-willow-exposed-chaos-on-general-hospital/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "drew",
-      "back",
-      "willow",
-      "exposed",
-      "chaos",
-      "general",
-      "hospital"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.6,
-    "count": 15,
-    "top_news": "https://dailytrust.com/abuja-petrol-station-fire-injures-3-firefighters/",
-    "event_codes": {
-      "19": 6,
-      "17": 5,
-      "14": 2,
-      "18": 2
-    },
-    "keywords": [
-      "abuja",
-      "petrol",
-      "station",
-      "fire",
-      "injures",
-      "firefighters"
-    ]
-  },
-  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://aa.com.tr/en/middle-east/yemens-armed-forces-launch-operation-against-houthis/4021593",
+    "top_news": "https://www.aol.co.uk/articles/planting-seeds-peace-teenagers-conflict-080040000.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "yemens",
-      "armed",
-      "forces",
-      "launch",
-      "operation",
-      "against",
-      "houthis",
-      "4021593"
+      "articles",
+      "planting",
+      "seeds",
+      "peace",
+      "teenagers",
+      "conflict",
+      "080040000.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 12.0,
+    "count": 13,
+    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/08/08/teen-kills-five-teachers-in-thailands-deadliest-school-shooting-in-years/",
+    "event_codes": {
+      "19": 11,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
+      "2026",
+      "teen",
+      "kills",
+      "five",
+      "teachers",
+      "thailands",
+      "deadliest",
+      "school",
+      "shooting",
+      "years"
     ]
   }
 }
