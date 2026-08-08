@@ -1,86 +1,261 @@
 {
-  "IRN": {
-    "risk_score": 10.34,
-    "count": 11,
-    "top_news": "https://www.arabnews.com/node/2653884/saudi-arabia",
+  "EGY": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "http://www.arabherald.com/news/279227582/arab-league-condemns-iranian-missile-attack-on-adnoc-tanker-in-strait-of-hormuz",
     "event_codes": {
-      "19": 8,
-      "15": 2,
-      "18": 1
-    },
-    "keywords": [
-      "node",
-      "2653884",
-      "saudi",
-      "arabia"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.21,
-    "count": 13,
-    "top_news": "https://legalinsurrection.com/2026/08/writer-claims-jewish-studies-programs-in-american-higher-education-are-a-waste/",
-    "event_codes": {
-      "19": 7,
-      "18": 3,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "writer",
-      "claims",
-      "jewish",
-      "studies",
-      "programs",
-      "american",
-      "higher",
-      "education",
-      "are",
-      "waste"
-    ]
-  },
-  "LBN": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "http://www.jpost.com/international/islamic-terrorism/article-904810",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "international",
-      "islamic",
-      "terrorism",
-      "article",
-      "904810"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "http://www.jpost.com/international/islamic-terrorism/article-904810",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "international",
-      "islamic",
-      "terrorism",
-      "article",
-      "904810"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.kyivpost.com/post/81977",
-    "event_codes": {
-      "19": 4,
+      "19": 3,
       "17": 2
     },
     "keywords": [
-      "post",
-      "81977"
+      "news",
+      "279227582",
+      "arab",
+      "league",
+      "condemns",
+      "iranian",
+      "missile",
+      "attack",
+      "adnoc",
+      "tanker",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.yourlocalguardian.co.uk/news/national/26448120.iran-makes-new-strait-hormuz-demands-uae-says-ship-targeted/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "national",
+      "26448120.iran",
+      "makes",
+      "new",
+      "strait",
+      "hormuz",
+      "demands",
+      "uae",
+      "says",
+      "ship",
+      "targeted"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.62,
+    "count": 9,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-continues-attacks-across-southern-lebanon-despite-ceasefire-talks/4021772",
+    "event_codes": {
+      "19": 7,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "continues",
+      "attacks",
+      "across",
+      "southern",
+      "lebanon",
+      "despite",
+      "ceasefire",
+      "talks",
+      "4021772"
+    ]
+  },
+  "LAO": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://english.news.cn/20260808/8dc0ee004164426991363ad2f7659637/c.html",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "20260808",
+      "8dc0ee004164426991363ad2f7659637",
+      "c.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-continues-attacks-across-southern-lebanon-despite-ceasefire-talks/4021772",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "continues",
+      "attacks",
+      "across",
+      "southern",
+      "lebanon",
+      "despite",
+      "ceasefire",
+      "talks",
+      "4021772"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.dailymail.com/news/article-16038287/Terrifying-moment-plane-passenger-tried-open-emergency-exit.html",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16038287",
+      "terrifying",
+      "moment",
+      "plane",
+      "passenger",
+      "tried",
+      "open",
+      "emergency",
+      "exit.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://dailytrust.com/troops-nab-suspected-terrorists-logistics-supplier-defuse-ied-in-zamfara/",
+    "event_codes": {
+      "17": 5,
+      "19": 2
+    },
+    "keywords": [
+      "troops",
+      "nab",
+      "suspected",
+      "terrorists",
+      "logistics",
+      "supplier",
+      "defuse",
+      "ied",
+      "zamfara"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "features",
+      "2026",
+      "unrwa",
+      "has",
+      "been",
+      "with",
+      "since",
+      "birth",
+      "cannot",
+      "imagine",
+      "future",
+      "without"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.garoweonline.com/en/news/somalia/somalia-puntland-says-it-has-taken-over-military-base-in-carmo",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "somalia",
+      "somalia",
+      "puntland",
+      "says",
+      "has",
+      "taken",
+      "over",
+      "military",
+      "base",
+      "carmo"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-16038339/Bangkok-school-shooters-parents-apologise-society-killed-grandparents-rampage.html",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16038339",
+      "bangkok",
+      "school",
+      "shooters",
+      "parents",
+      "apologise",
+      "society",
+      "killed",
+      "grandparents",
+      "rampage.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-16036765/Chilling-moment-serial-Tube-sex-attacker-leaves-home-murder-woman.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16036765",
+      "chilling",
+      "moment",
+      "serial",
+      "tube",
+      "sex",
+      "attacker",
+      "leaves",
+      "home",
+      "murder",
+      "woman.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bignewsnetwork.com/news/279227649/yemeni-govt-forces-launch-operation-against-houthis-as-fighting-escalates",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "279227649",
+      "yemeni",
+      "govt",
+      "forces",
+      "launch",
+      "operation",
+      "against",
+      "houthis",
+      "fighting",
+      "escalates"
     ]
   }
 }
