@@ -1,33 +1,41 @@
 {
-  "COL": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://globalnews.ca/news/12014465/car-bomb-attack-colombia/",
+  "IRN": {
+    "risk_score": 12.75,
+    "count": 15,
+    "top_news": "https://www.csmonitor.com/World/Middle-East/2026/0808/iran-war-hormuz",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 8,
+      "14": 5,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "12014465",
-      "car",
-      "bomb",
-      "attack",
-      "colombia"
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "0808",
+      "iran",
+      "war",
+      "hormuz"
     ]
   },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailykos.com/stories/2026/8/8/800081535/community/do/",
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.csmonitor.com/World/Middle-East/2026/0808/iran-war-hormuz",
     "event_codes": {
-      "19": 2
+      "19": 5
     },
     "keywords": [
-      "stories",
+      "world",
+      "middle",
+      "east",
       "2026",
-      "800081535",
-      "community"
+      "0808",
+      "iran",
+      "war",
+      "hormuz"
     ]
   }
 }
