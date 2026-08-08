@@ -1,51 +1,78 @@
 {
-  "IRN": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.dailykos.com/stories/2026/8/7/800081370/community/the-missel-crisis-us-couldnt-defend-itself-if-attacked-_-sor/",
+  "ISR": {
+    "risk_score": 3.64,
+    "count": 7,
+    "top_news": "https://news.az/news/israeli-forces-set-up-military-checkpoint-west-of-ramallah",
     "event_codes": {
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "16": 3,
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "stories",
-      "2026",
-      "800081370",
-      "community",
-      "the",
-      "missel",
-      "crisis",
-      "couldnt",
-      "defend",
-      "itself",
-      "attacked",
-      "sor"
+      "news",
+      "israeli",
+      "forces",
+      "set",
+      "military",
+      "checkpoint",
+      "west",
+      "ramallah"
     ]
   },
-  "KEN": {
-    "risk_score": 2.2,
+  "JOR": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.standardmedia.co.ke/politics/article/2001554806/wewe-ndio-hauna-akili-sifuna-launches-scathing-attack-at-ruto-in-busia-tour",
+    "top_news": "https://www.canyon-news.com/drew-is-back-willow-exposed-chaos-on-general-hospital/",
     "event_codes": {
-      "14": 2,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "politics",
-      "article",
-      "2001554806",
-      "wewe",
-      "ndio",
-      "hauna",
-      "akili",
-      "sifuna",
-      "launches",
-      "scathing",
-      "attack",
-      "ruto",
-      "busia",
-      "tour"
+      "drew",
+      "back",
+      "willow",
+      "exposed",
+      "chaos",
+      "general",
+      "hospital"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.6,
+    "count": 15,
+    "top_news": "https://dailytrust.com/abuja-petrol-station-fire-injures-3-firefighters/",
+    "event_codes": {
+      "19": 6,
+      "17": 5,
+      "14": 2,
+      "18": 2
+    },
+    "keywords": [
+      "abuja",
+      "petrol",
+      "station",
+      "fire",
+      "injures",
+      "firefighters"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/middle-east/yemens-armed-forces-launch-operation-against-houthis/4021593",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "yemens",
+      "armed",
+      "forces",
+      "launch",
+      "operation",
+      "against",
+      "houthis",
+      "4021593"
     ]
   }
 }
