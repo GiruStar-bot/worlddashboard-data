@@ -1,17 +1,72 @@
 {
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.caribbeanherald.com/news/279227001/is-it-still-un-american-to-care",
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-west-bank-israeli-settler-attacks",
     "event_codes": {
+      "18": 3,
       "19": 2
     },
     "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "several",
+      "palestinians",
+      "injured",
+      "west",
+      "bank",
+      "israeli",
+      "settler",
+      "attacks"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/news/2026-08-08-linda-mwananchi-team-targets-odinga-bastions-with-campaigns-in-busia",
+    "event_codes": {
+      "14": 3,
+      "17": 1
+    },
+    "keywords": [
       "news",
-      "279227001",
-      "still",
-      "american",
-      "care"
+      "2026",
+      "linda",
+      "mwananchi",
+      "team",
+      "targets",
+      "odinga",
+      "bastions",
+      "with",
+      "campaigns",
+      "busia"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-west-bank-israeli-settler-attacks",
+    "event_codes": {
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "several",
+      "palestinians",
+      "injured",
+      "west",
+      "bank",
+      "israeli",
+      "settler",
+      "attacks"
     ]
   }
 }
