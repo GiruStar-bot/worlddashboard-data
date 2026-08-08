@@ -1,42 +1,83 @@
 {
-  "NGA": {
-    "risk_score": 9.4,
-    "count": 12,
-    "top_news": "https://promptnewsonline.com/i-delivered-10-babies-with-bare-hands-while-in-kidnappers-den-nurse/",
+  "IRN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.samaa.tv/2087354878-iran-oman-finalise-framework-for-strait-of-hormuz-deal",
     "event_codes": {
-      "18": 6,
-      "17": 4,
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "delivered",
-      "babies",
-      "with",
-      "bare",
-      "hands",
-      "while",
-      "kidnappers",
-      "den",
-      "nurse"
+      "2087354878",
+      "iran",
+      "oman",
+      "finalise",
+      "framework",
+      "for",
+      "strait",
+      "hormuz",
+      "deal"
     ]
   },
   "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ariananews.af/iran-fm-calls-for-regional-self-reliance-and-true-brotherhood/",
+    "risk_score": 6.06,
+    "count": 7,
+    "top_news": "https://www.samaa.tv/2087354878-iran-oman-finalise-framework-for-strait-of-hormuz-deal",
     "event_codes": {
-      "19": 3
+      "15": 3,
+      "19": 3,
+      "18": 1
     },
     "keywords": [
+      "2087354878",
       "iran",
-      "calls",
+      "oman",
+      "finalise",
+      "framework",
       "for",
-      "regional",
-      "self",
-      "reliance",
-      "and",
-      "true",
-      "brotherhood"
+      "strait",
+      "hormuz",
+      "deal"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://news.tuoitre.vn/vietnam-busts-explosives-smuggling-ring-from-laos-seizes-over-210kg-103260808151534613.htm",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "vietnam",
+      "busts",
+      "explosives",
+      "smuggling",
+      "ring",
+      "from",
+      "laos",
+      "seizes",
+      "over",
+      "210kg",
+      "103260808151534613.htm"
+    ]
+  },
+  "YEM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.samaa.tv/2087354878-iran-oman-finalise-framework-for-strait-of-hormuz-deal",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2087354878",
+      "iran",
+      "oman",
+      "finalise",
+      "framework",
+      "for",
+      "strait",
+      "hormuz",
+      "deal"
     ]
   }
 }
