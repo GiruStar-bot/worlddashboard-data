@@ -1,53 +1,90 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/node/2653869/middle-east",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.albawaba.net/news/missile-strike-uae-oil-tanker-sparks-1634632",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
-      "node",
-      "2653869",
-      "middle",
-      "east"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.salon.com/2026/08/08/the-ghost-of-60-minutes-is-about-to-haunt-bari-weiss/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "ghost",
-      "minutes",
-      "about",
-      "haunt",
-      "bari",
-      "weiss"
+      "news",
+      "missile",
+      "strike",
+      "uae",
+      "oil",
+      "tanker",
+      "sparks",
+      "1634632"
     ]
   },
   "NGA": {
-    "risk_score": 6.16,
-    "count": 11,
-    "top_news": "https://dailypost.ng/2026/08/08/troops-recover-suspected-ied-reopen-road-in-zamfara/",
+    "risk_score": 11.6,
+    "count": 20,
+    "top_news": "https://quicknews-africa.net/navy-intercepts-17000-litres-of-suspected-illegally-refined-ago-in-rivers/",
     "event_codes": {
-      "17": 8,
-      "15": 3
+      "17": 14,
+      "16": 2,
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "troops",
-      "recover",
+      "navy",
+      "intercepts",
+      "17000",
+      "litres",
       "suspected",
-      "ied",
-      "reopen",
-      "road",
-      "zamfara"
+      "illegally",
+      "refined",
+      "ago",
+      "rivers"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.justiceinfo.net/en/163106-lebanon-detains-assad-era-syrian-officer-wanted-by-damascus-judicial-official.html",
+    "event_codes": {
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "163106",
+      "lebanon",
+      "detains",
+      "assad",
+      "era",
+      "syrian",
+      "officer",
+      "wanted",
+      "damascus",
+      "judicial",
+      "official.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thestar.com.my/news/world/2026/08/08/thailand-school-shooting-toll-rises-to-nine-after-death-of-12-year-old-girl-police-say",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "thailand",
+      "school",
+      "shooting",
+      "toll",
+      "rises",
+      "nine",
+      "after",
+      "death",
+      "year",
+      "old",
+      "girl",
+      "police",
+      "say"
     ]
   }
 }
