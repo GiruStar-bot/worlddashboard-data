@@ -1,65 +1,41 @@
 {
-  "IRN": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/892814/iran-ends-decades-of-us-military-dominance-in-the-persian-gulf-wsj-reports",
+  "VEN": {
+    "risk_score": 6.0,
+    "count": 8,
+    "top_news": "https://www.independent.co.uk/news/uk/crime/simon-levy-met-police-sheryl-wilkins-london-b3029708.html",
     "event_codes": {
-      "16": 2,
-      "17": 1
-    },
-    "keywords": [
-      "diethni",
-      "articles",
-      "892814",
-      "iran",
-      "ends",
-      "decades",
-      "military",
-      "dominance",
-      "the",
-      "persian",
-      "gulf",
-      "wsj",
-      "reports"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.candgnews.com/articles/features-news/musk-e-meet-to-honor-veterans/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "articles",
-      "features",
-      "news",
-      "musk",
-      "meet",
-      "honor",
-      "veterans"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/08/08/six-remanded-for-a-week-in-alor-setar-kidnapping-case",
-    "event_codes": {
-      "19": 2,
-      "18": 1
+      "17": 4,
+      "19": 4
     },
     "keywords": [
       "news",
-      "nation",
-      "2026",
-      "six",
-      "remanded",
-      "for",
-      "week",
-      "alor",
-      "setar",
-      "kidnapping",
-      "case"
+      "crime",
+      "simon",
+      "levy",
+      "met",
+      "police",
+      "sheryl",
+      "wilkins",
+      "london",
+      "b3029708.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://english.aawsat.com/arab-world/5304783-yemen%E2%80%99s-army-attacks-houthis",
+    "event_codes": {
+      "18": 3,
+      "19": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5304783",
+      "yemen%e2%80%99s",
+      "army",
+      "attacks",
+      "houthis"
     ]
   }
 }
