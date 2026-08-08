@@ -1,41 +1,86 @@
 {
-  "VEN": {
-    "risk_score": 6.0,
-    "count": 8,
-    "top_news": "https://www.independent.co.uk/news/uk/crime/simon-levy-met-police-sheryl-wilkins-london-b3029708.html",
+  "IRN": {
+    "risk_score": 10.34,
+    "count": 11,
+    "top_news": "https://www.arabnews.com/node/2653884/saudi-arabia",
     "event_codes": {
-      "17": 4,
-      "19": 4
+      "19": 8,
+      "15": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "crime",
-      "simon",
-      "levy",
-      "met",
-      "police",
-      "sheryl",
-      "wilkins",
-      "london",
-      "b3029708.html"
+      "node",
+      "2653884",
+      "saudi",
+      "arabia"
     ]
   },
-  "YEM": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/arab-world/5304783-yemen%E2%80%99s-army-attacks-houthis",
+  "ISR": {
+    "risk_score": 11.21,
+    "count": 13,
+    "top_news": "https://legalinsurrection.com/2026/08/writer-claims-jewish-studies-programs-in-american-higher-education-are-a-waste/",
     "event_codes": {
+      "19": 7,
       "18": 3,
-      "19": 1
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5304783",
-      "yemen%e2%80%99s",
-      "army",
-      "attacks",
-      "houthis"
+      "2026",
+      "writer",
+      "claims",
+      "jewish",
+      "studies",
+      "programs",
+      "american",
+      "higher",
+      "education",
+      "are",
+      "waste"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "http://www.jpost.com/international/islamic-terrorism/article-904810",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "international",
+      "islamic",
+      "terrorism",
+      "article",
+      "904810"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "http://www.jpost.com/international/islamic-terrorism/article-904810",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "international",
+      "islamic",
+      "terrorism",
+      "article",
+      "904810"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.kyivpost.com/post/81977",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "post",
+      "81977"
     ]
   }
 }
