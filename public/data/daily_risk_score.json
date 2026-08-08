@@ -1,105 +1,117 @@
 {
-  "IRN": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.durangoherald.com/articles/associated-press/yemen-attacks-houthis-turkeys-kurdish-peace-bill-wins-approval-and-other-middle-east-news/",
+  "COL": {
+    "risk_score": 3.7,
+    "count": 7,
+    "top_news": "https://mizonews.net/world/16869/",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "16": 1
+      "16": 7
     },
     "keywords": [
-      "articles",
-      "associated",
-      "press",
-      "yemen",
-      "attacks",
-      "houthis",
-      "turkeys",
-      "kurdish",
-      "peace",
-      "bill",
-      "wins",
-      "approval",
-      "and",
-      "other",
-      "middle",
-      "east",
-      "news"
+      "world",
+      "16869"
     ]
   },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/892808/inside-mossad-s-3-tier-spy-network-from-dead-drops-to-targeted-assassinations%20title=",
+  "ISR": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4678211/blame-pedro-sanchez-ceuta-immigration-spain/",
     "event_codes": {
-      "18": 4
+      "19": 4,
+      "15": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "892808",
-      "inside",
-      "mossad",
-      "tier",
-      "spy",
-      "network",
-      "from",
-      "dead",
-      "drops",
-      "targeted",
-      "assassinations%20title="
+      "restoring",
+      "america",
+      "courage",
+      "strength",
+      "optimism",
+      "4678211",
+      "blame",
+      "pedro",
+      "sanchez",
+      "ceuta",
+      "immigration",
+      "spain"
+    ]
+  },
+  "LAO": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.tuoitre.vn/floodwaters-wash-away-temporary-bridge-isolate-over-400-households-in-vietnams-nghe-an-1032608081701037.htm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "floodwaters",
+      "wash",
+      "away",
+      "temporary",
+      "bridge",
+      "isolate",
+      "over",
+      "400",
+      "households",
+      "vietnams",
+      "nghe",
+      "1032608081701037.htm"
     ]
   },
   "NGA": {
-    "risk_score": 3.8,
-    "count": 6,
-    "top_news": "https://www.durangoherald.com/articles/associated-press/we-saw-death-and-suffering-dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity/",
+    "risk_score": 13.12,
+    "count": 16,
+    "top_news": "https://theeagleonline.com.ng/gunmen-kill-85-year-old-community-leader-in-benin/",
     "event_codes": {
-      "17": 4,
-      "18": 2
+      "19": 7,
+      "15": 6,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "articles",
-      "associated",
-      "press",
-      "saw",
-      "death",
-      "and",
-      "suffering",
-      "dozens",
-      "nigerians",
-      "freed",
-      "after",
-      "months",
-      "jihadi",
-      "captivity"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.durangoherald.com/articles/associated-press/a-12-year-old-girl-dies-after-thailand-school-shooting-bringing-the-death-toll-to-at-least-8/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "articles",
-      "associated",
-      "press",
+      "gunmen",
+      "kill",
       "year",
       "old",
-      "girl",
-      "dies",
-      "after",
-      "thailand",
-      "school",
-      "shooting",
-      "bringing",
-      "the",
-      "death",
-      "toll",
-      "least"
+      "community",
+      "leader",
+      "benin"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://radiofreesyria.com/assad-officers-identified-in-massacre-of-13-civilians-including-a-12-year-old-in-quneitra/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "assad",
+      "officers",
+      "identified",
+      "massacre",
+      "civilians",
+      "including",
+      "year",
+      "old",
+      "quneitra"
+    ]
+  },
+  "VNM": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.dakotanewsnow.com/2026/08/08/south-dakota-pilot-killed-vietnams-remains-identified/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "2026",
+      "south",
+      "dakota",
+      "pilot",
+      "killed",
+      "vietnams",
+      "remains",
+      "identified"
     ]
   }
 }
