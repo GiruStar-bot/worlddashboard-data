@@ -1,90 +1,78 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.albawaba.net/news/missile-strike-uae-oil-tanker-sparks-1634632",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "missile",
-      "strike",
-      "uae",
-      "oil",
-      "tanker",
-      "sparks",
-      "1634632"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.6,
-    "count": 20,
-    "top_news": "https://quicknews-africa.net/navy-intercepts-17000-litres-of-suspected-illegally-refined-ago-in-rivers/",
-    "event_codes": {
-      "17": 14,
-      "16": 2,
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "navy",
-      "intercepts",
-      "17000",
-      "litres",
-      "suspected",
-      "illegally",
-      "refined",
-      "ago",
-      "rivers"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.justiceinfo.net/en/163106-lebanon-detains-assad-era-syrian-officer-wanted-by-damascus-judicial-official.html",
-    "event_codes": {
-      "17": 3,
-      "18": 1
-    },
-    "keywords": [
-      "163106",
-      "lebanon",
-      "detains",
-      "assad",
-      "era",
-      "syrian",
-      "officer",
-      "wanted",
-      "damascus",
-      "judicial",
-      "official.html"
-    ]
-  },
-  "THA": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thestar.com.my/news/world/2026/08/08/thailand-school-shooting-toll-rises-to-nine-after-death-of-12-year-old-girl-police-say",
+    "top_news": "https://www.hngn.com/articles/272640/20260808/saudi-arabia-pakistan-turkey-sign-mutual-defense-pact-houthi-attacks-kill-dozens-near-yemen.htm",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
+      "articles",
+      "272640",
+      "20260808",
+      "saudi",
+      "arabia",
+      "pakistan",
+      "turkey",
+      "sign",
+      "mutual",
+      "defense",
+      "pact",
+      "houthi",
+      "attacks",
+      "kill",
+      "dozens",
+      "near",
+      "yemen.htm"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/08/08/drone-enters-bulgaria-explodes-near-pipeline-at-romanian-border-says-pm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "category",
       "world",
       "2026",
-      "thailand",
-      "school",
-      "shooting",
-      "toll",
-      "rises",
-      "nine",
-      "after",
-      "death",
-      "year",
-      "old",
-      "girl",
-      "police",
-      "say"
+      "drone",
+      "enters",
+      "bulgaria",
+      "explodes",
+      "near",
+      "pipeline",
+      "romanian",
+      "border",
+      "says"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hngn.com/articles/272640/20260808/saudi-arabia-pakistan-turkey-sign-mutual-defense-pact-houthi-attacks-kill-dozens-near-yemen.htm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "272640",
+      "20260808",
+      "saudi",
+      "arabia",
+      "pakistan",
+      "turkey",
+      "sign",
+      "mutual",
+      "defense",
+      "pact",
+      "houthi",
+      "attacks",
+      "kill",
+      "dozens",
+      "near",
+      "yemen.htm"
     ]
   }
 }
