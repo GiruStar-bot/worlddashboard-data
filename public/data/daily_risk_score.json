@@ -1,37 +1,82 @@
 {
-  "LAO": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://news.az/news/lao-na-president-passes-away",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "lao",
-      "president",
-      "passes",
-      "away"
-    ]
-  },
-  "SAU": {
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal",
+    "top_news": "https://www.standard.net.au/story/9326459/iran-says-hormuz-deal-close-not-close-enough-to-open/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "story",
+      "9326459",
+      "iran",
+      "says",
+      "hormuz",
+      "deal",
+      "close",
+      "not",
+      "close",
+      "enough",
+      "open"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.whmi.com/news/fox/spains-migrant-surge-reignites-debate-over-europes-islamist-terror-threat",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
+      "fox",
+      "spains",
+      "migrant",
+      "surge",
+      "reignites",
+      "debate",
+      "over",
+      "europes",
+      "islamist",
+      "terror",
+      "threat"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://pmnewsnigeria.com/2026/08/08/edo-community-leader-murdered-in-night-attack/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "2026",
-      "saudi",
-      "pakistan",
-      "turkiye",
-      "pact",
-      "new",
-      "shield",
-      "strategic",
-      "signal"
+      "edo",
+      "community",
+      "leader",
+      "murdered",
+      "night",
+      "attack"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://wardheernews.com/yemeni-national-stabbed-to-death-inside-mogadishu-mosque-during-friday-prayers/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "yemeni",
+      "national",
+      "stabbed",
+      "death",
+      "inside",
+      "mogadishu",
+      "mosque",
+      "during",
+      "friday",
+      "prayers"
     ]
   }
 }
