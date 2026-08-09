@@ -1,44 +1,51 @@
 {
-  "IRN": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.austinglobe.com/news/279227943/iran-makes-new-hormuz-demands-as-missile-hits-emirati-ship",
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-904925",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "israel",
       "news",
-      "279227943",
-      "iran",
-      "makes",
-      "new",
-      "hormuz",
-      "demands",
-      "missile",
-      "hits",
-      "emirati",
-      "ship"
+      "defense",
+      "news",
+      "article",
+      "904925"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.austinglobe.com/news/279227943/iran-makes-new-hormuz-demands-as-missile-hits-emirati-ship",
+  "NGA": {
+    "risk_score": 10.3,
+    "count": 12,
+    "top_news": "https://www.vanguardngr.com/2026/08/insecurity-scores-of-schools-in-40-lgas-shut-down/",
     "event_codes": {
-      "19": 3
+      "19": 7,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "279227943",
-      "iran",
-      "makes",
-      "new",
-      "hormuz",
-      "demands",
-      "missile",
-      "hits",
-      "emirati",
-      "ship"
+      "2026",
+      "insecurity",
+      "scores",
+      "schools",
+      "lgas",
+      "shut",
+      "down"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/node/2653950/saudi-arabia",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "node",
+      "2653950",
+      "saudi",
+      "arabia"
     ]
   }
 }
