@@ -1,97 +1,96 @@
 {
-  "ARE": {
-    "risk_score": 5.0,
-    "count": 9,
-    "top_news": "https://www.latimes.com/world-nation/story/2026-08-09/suspected-irish-crime-boss-lands-in-dublin-after-being-extradited-from-dubai",
+  "BHR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1402958",
     "event_codes": {
-      "17": 8,
-      "19": 1
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "nation",
-      "story",
-      "2026",
-      "suspected",
-      "irish",
-      "crime",
-      "boss",
-      "lands",
-      "dublin",
-      "after",
-      "being",
-      "extradited",
-      "from",
-      "dubai"
+      "details",
+      "1402958"
     ]
   },
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.scmp.com/news/world/russia-central-asia/article/3363468/russia-and-ukraine-exchange-overnight-strikes-leave-7-dead-many-injured",
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.israelnationalnews.com/news/431467",
     "event_codes": {
-      "18": 1,
-      "19": 1
+      "17": 4,
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "russia",
-      "central",
-      "asia",
-      "article",
-      "3363468",
-      "russia",
-      "and",
-      "ukraine",
-      "exchange",
-      "overnight",
-      "strikes",
-      "leave",
-      "dead",
-      "many",
-      "injured"
+      "431467"
     ]
   },
   "ISR": {
-    "risk_score": 7.8,
-    "count": 8,
-    "top_news": "https://www.middleeasteye.net/news/israeli-general-says-gaza-should-remain-destroyed-generations",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.canberratimes.com.au/story/9326016/national-capital-authority-griffin-statue-plans-cancelled-costs-mount/",
     "event_codes": {
-      "19": 7,
-      "16": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "israeli",
-      "general",
-      "says",
-      "gaza",
-      "should",
-      "remain",
-      "destroyed",
-      "generations"
+      "story",
+      "9326016",
+      "national",
+      "capital",
+      "authority",
+      "griffin",
+      "statue",
+      "plans",
+      "cancelled",
+      "costs",
+      "mount"
+    ]
+  },
+  "MLI": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/node/2654037/world",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "node",
+      "2654037",
+      "world"
     ]
   },
   "NGA": {
-    "risk_score": 17.46,
-    "count": 22,
-    "top_news": "https://www.premiumtimesng.com/opinion/901746-when-pulpit-confronts-power-by-wole-olaoye.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dailytrust.com/police-gun-down-bandit-kingpin-linked-to-killing-of-imo-monarch/",
     "event_codes": {
-      "18": 7,
-      "17": 6,
-      "19": 6,
-      "15": 3
+      "19": 2
     },
     "keywords": [
-      "opinion",
-      "901746",
-      "when",
-      "pulpit",
-      "confronts",
-      "power",
-      "wole",
-      "olaoye.html"
+      "police",
+      "gun",
+      "down",
+      "bandit",
+      "kingpin",
+      "linked",
+      "killing",
+      "imo",
+      "monarch"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/node/2654035/middle-east",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "node",
+      "2654035",
+      "middle",
+      "east"
     ]
   }
 }
