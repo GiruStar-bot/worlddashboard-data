@@ -1,34 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 5.37,
+  "ISR": {
+    "risk_score": 5.0,
     "count": 6,
-    "top_news": "https://www.cnn.com/2026/08/09/middleeast/hormuz-iran-us-demands-analysis",
+    "top_news": "https://english.news.cn/20260809/ae8893d4c6624218947abf5e066efeee/c.html",
     "event_codes": {
-      "19": 3,
-      "14": 2,
-      "17": 1
+      "20": 3,
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "middleeast",
-      "hormuz",
-      "iran",
-      "demands",
-      "analysis"
+      "20260809",
+      "ae8893d4c6624218947abf5e066efeee",
+      "c.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.camera.org/article/independent-corrects-error-ridden-temple-mount-story/",
+    "event_codes": {
+      "20": 3
+    },
+    "keywords": [
+      "article",
+      "independent",
+      "corrects",
+      "error",
+      "ridden",
+      "temple",
+      "mount",
+      "story"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://english.news.cn/20260809/ae8893d4c6624218947abf5e066efeee/c.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "20260809",
+      "ae8893d4c6624218947abf5e066efeee",
+      "c.html"
     ]
   },
   "PSE": {
-    "risk_score": 7.85,
-    "count": 8,
-    "top_news": "https://english.wafa.ps/Pages/Details/173382",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.camera.org/article/independent-corrects-error-ridden-temple-mount-story/",
     "event_codes": {
-      "19": 7,
-      "18": 1
+      "20": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "173382"
+      "article",
+      "independent",
+      "corrects",
+      "error",
+      "ridden",
+      "temple",
+      "mount",
+      "story"
     ]
   }
 }
