@@ -1,105 +1,97 @@
 {
-  "BHR": {
+  "ARE": {
+    "risk_score": 5.0,
+    "count": 9,
+    "top_news": "https://www.latimes.com/world-nation/story/2026-08-09/suspected-irish-crime-boss-lands-in-dublin-after-being-extradited-from-dubai",
+    "event_codes": {
+      "17": 8,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "nation",
+      "story",
+      "2026",
+      "suspected",
+      "irish",
+      "crime",
+      "boss",
+      "lands",
+      "dublin",
+      "after",
+      "being",
+      "extradited",
+      "from",
+      "dubai"
+    ]
+  },
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.arabtimesonline.com/news/kuwait-keeps-defenses-razor-sharp/",
+    "top_news": "https://www.scmp.com/news/world/russia-central-asia/article/3363468/russia-and-ukraine-exchange-overnight-strikes-leave-7-dead-many-injured",
     "event_codes": {
-      "19": 2
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "kuwait",
-      "keeps",
-      "defenses",
-      "razor",
-      "sharp"
+      "world",
+      "russia",
+      "central",
+      "asia",
+      "article",
+      "3363468",
+      "russia",
+      "and",
+      "ukraine",
+      "exchange",
+      "overnight",
+      "strikes",
+      "leave",
+      "dead",
+      "many",
+      "injured"
     ]
   },
   "ISR": {
-    "risk_score": 11.35,
-    "count": 12,
-    "top_news": "https://www.arabnews.com/node/2654030/middle-east",
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/news/israeli-general-says-gaza-should-remain-destroyed-generations",
     "event_codes": {
-      "19": 10,
-      "17": 1,
-      "18": 1
+      "19": 7,
+      "16": 1
     },
     "keywords": [
-      "node",
-      "2654030",
-      "middle",
-      "east"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ghafla.co.ke/gachagua-labels-kikuyu-police-station-a-crime-scene-accuses-dci-of-cover-up-in-dr-mutiso-murder/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "gachagua",
-      "labels",
-      "kikuyu",
-      "police",
-      "station",
-      "crime",
-      "scene",
-      "accuses",
-      "dci",
-      "cover",
-      "mutiso",
-      "murder"
+      "news",
+      "israeli",
+      "general",
+      "says",
+      "gaza",
+      "should",
+      "remain",
+      "destroyed",
+      "generations"
     ]
   },
   "NGA": {
-    "risk_score": 4.95,
-    "count": 7,
-    "top_news": "https://leadership.ng/5091-killed-in-3-months-atiku-says-tinubus-scorecard-is-soaked-in-blood/",
+    "risk_score": 17.46,
+    "count": 22,
+    "top_news": "https://www.premiumtimesng.com/opinion/901746-when-pulpit-confronts-power-by-wole-olaoye.html",
     "event_codes": {
-      "17": 4,
-      "19": 3
+      "18": 7,
+      "17": 6,
+      "19": 6,
+      "15": 3
     },
     "keywords": [
-      "5091",
-      "killed",
-      "months",
-      "atiku",
-      "says",
-      "tinubus",
-      "scorecard",
-      "soaked",
-      "blood"
-    ]
-  },
-  "PSE": {
-    "risk_score": 7.64,
-    "count": 8,
-    "top_news": "https://www.arabnews.com/node/2654030/middle-east",
-    "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "node",
-      "2654030",
-      "middle",
-      "east"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/node/2654025/world",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "node",
-      "2654025",
-      "world"
+      "opinion",
+      "901746",
+      "when",
+      "pulpit",
+      "confronts",
+      "power",
+      "wole",
+      "olaoye.html"
     ]
   }
 }
