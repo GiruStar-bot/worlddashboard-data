@@ -1,51 +1,53 @@
 {
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-904925",
+  "IRN": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "http://www.rightspeak.net/2026/08/the-biological-trap-doctrine-that.html",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "904925"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.3,
-    "count": 12,
-    "top_news": "https://www.vanguardngr.com/2026/08/insecurity-scores-of-schools-in-40-lgas-shut-down/",
-    "event_codes": {
-      "19": 7,
-      "17": 3,
-      "18": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "insecurity",
-      "scores",
-      "schools",
-      "lgas",
-      "shut",
-      "down"
+      "the",
+      "biological",
+      "trap",
+      "doctrine",
+      "that.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.05,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/173371",
+    "event_codes": {
+      "18": 6,
+      "14": 1
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "173371"
     ]
   },
   "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.arabnews.com/node/2653950/saudi-arabia",
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.omanobserver.om/article/1194167/world/region/fire-extinguished-at-aramco-refinery-in-jazan",
     "event_codes": {
-      "19": 4
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "node",
-      "2653950",
-      "saudi",
-      "arabia"
+      "article",
+      "1194167",
+      "world",
+      "region",
+      "fire",
+      "extinguished",
+      "aramco",
+      "refinery",
+      "jazan"
     ]
   }
 }
