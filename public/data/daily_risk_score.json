@@ -1,90 +1,77 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.albawaba.com/news/multiple-explosions-reported-mokha-port-1634677",
+  "ISR": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/431439",
     "event_codes": {
-      "18": 1,
-      "19": 1
+      "19": 3,
+      "14": 1
     },
     "keywords": [
       "news",
-      "multiple",
-      "explosions",
-      "reported",
-      "mokha",
-      "port",
-      "1634677"
+      "431439"
     ]
   },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.clevelandjewishnews.com/jns/italian-court-forces-airport-to-ditch-israeli-defense-maker/article_5c56dd87-345d-5ea4-95c6-80ee9d8c2c8c.html",
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://leadership.ng/police-neutralise-suspected-killer-of-imo-monarch-5-others/",
     "event_codes": {
-      "18": 1,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "jns",
-      "italian",
-      "court",
-      "forces",
-      "airport",
-      "ditch",
-      "israeli",
-      "defense",
-      "maker",
-      "article",
-      "5c56dd87",
-      "345d",
-      "5ea4",
-      "95c6",
-      "80ee9d8c2c8c.html"
+      "police",
+      "neutralise",
+      "suspected",
+      "killer",
+      "imo",
+      "monarch",
+      "others"
     ]
   },
   "SAU": {
+    "risk_score": 4.15,
+    "count": 5,
+    "top_news": "https://www.thedailystar.net/news/crime-justice/news/salman-shah-murder-accused-arrested-dhaka-airport-police-4243541",
+    "event_codes": {
+      "19": 3,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "crime",
+      "justice",
+      "news",
+      "salman",
+      "shah",
+      "murder",
+      "accused",
+      "arrested",
+      "dhaka",
+      "airport",
+      "police",
+      "4243541"
+    ]
+  },
+  "ZWE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/saudi-refinery-on-red-sea-coast-hit-by-reported-houthi-attack",
+    "top_news": "https://www.thestandard.co.zw/news/article/200059172/chikurubi-maximum-prison-sanitation-crisis-laid-bare",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
-      "saudi",
-      "refinery",
-      "red",
-      "sea",
-      "coast",
-      "hit",
-      "reported",
-      "houthi",
-      "attack"
-    ]
-  },
-  "YEM": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.dailysabah.com/world/mid-east/saudi-refinery-on-red-sea-coast-hit-by-reported-houthi-attack",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "saudi",
-      "refinery",
-      "red",
-      "sea",
-      "coast",
-      "hit",
-      "reported",
-      "houthi",
-      "attack"
+      "news",
+      "article",
+      "200059172",
+      "chikurubi",
+      "maximum",
+      "prison",
+      "sanitation",
+      "crisis",
+      "laid",
+      "bare"
     ]
   }
 }
