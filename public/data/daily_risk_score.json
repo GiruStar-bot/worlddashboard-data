@@ -1,66 +1,53 @@
 {
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://english.news.cn/20260809/ae8893d4c6624218947abf5e066efeee/c.html",
+  "IRN": {
+    "risk_score": 10.45,
+    "count": 16,
+    "top_news": "https://www.jpost.com/international/article-904979",
     "event_codes": {
-      "20": 3,
-      "17": 2,
-      "19": 1
+      "17": 9,
+      "19": 4,
+      "14": 3
     },
     "keywords": [
-      "20260809",
-      "ae8893d4c6624218947abf5e066efeee",
-      "c.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.camera.org/article/independent-corrects-error-ridden-temple-mount-story/",
-    "event_codes": {
-      "20": 3
-    },
-    "keywords": [
+      "international",
       "article",
-      "independent",
-      "corrects",
-      "error",
-      "ridden",
-      "temple",
-      "mount",
-      "story"
+      "904979"
     ]
   },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260809/ae8893d4c6624218947abf5e066efeee/c.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "20260809",
-      "ae8893d4c6624218947abf5e066efeee",
-      "c.html"
-    ]
-  },
-  "PSE": {
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.camera.org/article/independent-corrects-error-ridden-temple-mount-story/",
+    "top_news": "https://www.jpost.com/diaspora/antisemitism/article-904991",
     "event_codes": {
       "20": 2
     },
     "keywords": [
+      "diaspora",
+      "antisemitism",
       "article",
-      "independent",
-      "corrects",
-      "error",
-      "ridden",
-      "temple",
-      "mount",
-      "story"
+      "904991"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.1,
+    "count": 13,
+    "top_news": "https://tribuneonlineng.com/tinubu-has-delivered-100-of-his-2023-campaign-promises-alausa/",
+    "event_codes": {
+      "16": 4,
+      "19": 4,
+      "18": 3,
+      "17": 2
+    },
+    "keywords": [
+      "tinubu",
+      "has",
+      "delivered",
+      "100",
+      "his",
+      "2023",
+      "campaign",
+      "promises",
+      "alausa"
     ]
   }
 }
