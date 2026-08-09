@@ -1,77 +1,135 @@
 {
-  "ISR": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/431439",
+  "IDN": {
+    "risk_score": 2.36,
+    "count": 3,
+    "top_news": "https://en.antaranews.com/news/426236/indonesian-navy-tightens-maritime-security-after-13-ton-drug-seizure",
     "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "431439"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://leadership.ng/police-neutralise-suspected-killer-of-imo-monarch-5-others/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "police",
-      "neutralise",
-      "suspected",
-      "killer",
-      "imo",
-      "monarch",
-      "others"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.15,
-    "count": 5,
-    "top_news": "https://www.thedailystar.net/news/crime-justice/news/salman-shah-murder-accused-arrested-dhaka-airport-police-4243541",
-    "event_codes": {
-      "19": 3,
-      "14": 1,
+      "15": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "crime",
-      "justice",
-      "news",
-      "salman",
-      "shah",
-      "murder",
-      "accused",
-      "arrested",
-      "dhaka",
-      "airport",
-      "police",
-      "4243541"
+      "426236",
+      "indonesian",
+      "navy",
+      "tightens",
+      "maritime",
+      "security",
+      "after",
+      "ton",
+      "drug",
+      "seizure"
     ]
   },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thestandard.co.zw/news/article/200059172/chikurubi-maximum-prison-sanitation-crisis-laid-bare",
+  "IRN": {
+    "risk_score": 17.95,
+    "count": 18,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/09/774000/iran-resistance-against-us-aggression-echoes-china-korean-war-signals-end-western-hegemony",
     "event_codes": {
-      "19": 2
+      "19": 12,
+      "18": 6
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774000",
+      "iran",
+      "resistance",
+      "against",
+      "aggression",
+      "echoes",
+      "china",
+      "korean",
+      "war",
+      "signals",
+      "end",
+      "western",
+      "hegemony"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.6,
+    "count": 12,
+    "top_news": "https://www.newkerala.com/news/a/houthis-confirm-they-targeted-yemens-al-mokha-port-red-636.htm",
+    "event_codes": {
+      "18": 7,
+      "19": 4,
+      "14": 1
     },
     "keywords": [
       "news",
-      "article",
-      "200059172",
-      "chikurubi",
-      "maximum",
-      "prison",
-      "sanitation",
-      "crisis",
-      "laid",
-      "bare"
+      "houthis",
+      "confirm",
+      "they",
+      "targeted",
+      "yemens",
+      "mokha",
+      "port",
+      "red",
+      "636.htm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 14.5,
+    "count": 17,
+    "top_news": "https://dailypost.ng/2026/08/09/army-rescues-33-kidnapped-passengers-in-zamfara/",
+    "event_codes": {
+      "18": 10,
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "army",
+      "rescues",
+      "kidnapped",
+      "passengers",
+      "zamfara"
+    ]
+  },
+  "SAU": {
+    "risk_score": 10.05,
+    "count": 11,
+    "top_news": "https://www.newkerala.com/news/a/houthis-confirm-they-targeted-yemens-al-mokha-port-red-636.htm",
+    "event_codes": {
+      "19": 8,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "houthis",
+      "confirm",
+      "they",
+      "targeted",
+      "yemens",
+      "mokha",
+      "port",
+      "red",
+      "636.htm"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.44,
+    "count": 4,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/09/773999/Yemen-Saudi-energy-facilities-drones-Sa-adah-Hajjah-Jubail-Jazan",
+    "event_codes": {
+      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "773999",
+      "yemen",
+      "saudi",
+      "energy",
+      "facilities",
+      "drones",
+      "adah",
+      "hajjah",
+      "jubail",
+      "jazan"
     ]
   }
 }
