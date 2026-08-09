@@ -1,27 +1,91 @@
 {
-  "KWT": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://sana.sy/en/middle-east/2335203/",
+  "IRN": {
+    "risk_score": 6.3,
+    "count": 8,
+    "top_news": "https://dominicanrepublicpost.com/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan/",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "2335203"
+      "saudi",
+      "arabia",
+      "says",
+      "fire",
+      "extinguished",
+      "aramco",
+      "facility",
+      "jizan"
     ]
   },
-  "TUR": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://sana.sy/en/international/2335164/",
+    "top_news": "https://news.webindia123.com/news/Articles/World/20260809/4485067.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "international",
-      "2335164"
+      "news",
+      "articles",
+      "world",
+      "20260809",
+      "4485067.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.72,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/rjx2gqb8ml",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "rjx2gqb8ml"
+    ]
+  },
+  "NGA": {
+    "risk_score": 13.62,
+    "count": 17,
+    "top_news": "https://thenationonlineng.net/2027-obi-seriakes-aides-clash-over-threats-to-ndcs-fortunes/",
+    "event_codes": {
+      "17": 7,
+      "19": 7,
+      "18": 3
+    },
+    "keywords": [
+      "2027",
+      "obi",
+      "seriakes",
+      "aides",
+      "clash",
+      "over",
+      "threats",
+      "ndcs",
+      "fortunes"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://dominicanrepublicpost.com/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "saudi",
+      "arabia",
+      "says",
+      "fire",
+      "extinguished",
+      "aramco",
+      "facility",
+      "jizan"
     ]
   }
 }
