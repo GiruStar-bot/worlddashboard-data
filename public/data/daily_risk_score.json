@@ -1,91 +1,90 @@
 {
   "IRN": {
-    "risk_score": 6.3,
-    "count": 8,
-    "top_news": "https://dominicanrepublicpost.com/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan/",
-    "event_codes": {
-      "19": 4,
-      "14": 2,
-      "17": 2
-    },
-    "keywords": [
-      "saudi",
-      "arabia",
-      "says",
-      "fire",
-      "extinguished",
-      "aramco",
-      "facility",
-      "jizan"
-    ]
-  },
-  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20260809/4485067.html",
+    "top_news": "https://www.albawaba.com/news/multiple-explosions-reported-mokha-port-1634677",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "multiple",
+      "explosions",
+      "reported",
+      "mokha",
+      "port",
+      "1634677"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.clevelandjewishnews.com/jns/italian-court-forces-airport-to-ditch-israeli-defense-maker/article_5c56dd87-345d-5ea4-95c6-80ee9d8c2c8c.html",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "jns",
+      "italian",
+      "court",
+      "forces",
+      "airport",
+      "ditch",
+      "israeli",
+      "defense",
+      "maker",
+      "article",
+      "5c56dd87",
+      "345d",
+      "5ea4",
+      "95c6",
+      "80ee9d8c2c8c.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/world/mid-east/saudi-refinery-on-red-sea-coast-hit-by-reported-houthi-attack",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
       "world",
-      "20260809",
-      "4485067.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.72,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/rjx2gqb8ml",
-    "event_codes": {
-      "17": 2,
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "article",
-      "rjx2gqb8ml"
-    ]
-  },
-  "NGA": {
-    "risk_score": 13.62,
-    "count": 17,
-    "top_news": "https://thenationonlineng.net/2027-obi-seriakes-aides-clash-over-threats-to-ndcs-fortunes/",
-    "event_codes": {
-      "17": 7,
-      "19": 7,
-      "18": 3
-    },
-    "keywords": [
-      "2027",
-      "obi",
-      "seriakes",
-      "aides",
-      "clash",
-      "over",
-      "threats",
-      "ndcs",
-      "fortunes"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://dominicanrepublicpost.com/saudi-arabia-says-fire-extinguished-at-aramco-facility-in-jizan/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
+      "mid",
+      "east",
       "saudi",
-      "arabia",
-      "says",
-      "fire",
-      "extinguished",
-      "aramco",
-      "facility",
-      "jizan"
+      "refinery",
+      "red",
+      "sea",
+      "coast",
+      "hit",
+      "reported",
+      "houthi",
+      "attack"
+    ]
+  },
+  "YEM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.dailysabah.com/world/mid-east/saudi-refinery-on-red-sea-coast-hit-by-reported-houthi-attack",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "saudi",
+      "refinery",
+      "red",
+      "sea",
+      "coast",
+      "hit",
+      "reported",
+      "houthi",
+      "attack"
     ]
   }
 }
