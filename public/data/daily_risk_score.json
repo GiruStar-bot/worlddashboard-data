@@ -1,93 +1,30 @@
 {
-  "IRN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-rejects-gaza-plan-israel-wont-withdraw-until-hamas-genuinely-disarmed",
+  "ISR": {
+    "risk_score": 5.55,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/173431",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "17": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "geopolitical",
-      "netanyahu",
-      "rejects",
-      "gaza",
-      "plan",
-      "israel",
-      "wont",
-      "withdraw",
-      "until",
-      "hamas",
-      "genuinely",
-      "disarmed"
+      "pages",
+      "details",
+      "173431"
     ]
   },
-  "ISR": {
+  "MOZ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-rejects-gaza-plan-israel-wont-withdraw-until-hamas-genuinely-disarmed",
+    "top_news": "https://allafrica.com/stories/202608100023.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "geopolitical",
-      "netanyahu",
-      "rejects",
-      "gaza",
-      "plan",
-      "israel",
-      "wont",
-      "withdraw",
-      "until",
-      "hamas",
-      "genuinely",
-      "disarmed"
-    ]
-  },
-  "LBN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.zerohedge.com/geopolitical/netanyahu-rejects-gaza-plan-israel-wont-withdraw-until-hamas-genuinely-disarmed",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "geopolitical",
-      "netanyahu",
-      "rejects",
-      "gaza",
-      "plan",
-      "israel",
-      "wont",
-      "withdraw",
-      "until",
-      "hamas",
-      "genuinely",
-      "disarmed"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://timesofindia.indiatimes.com/defence/international/taiwan-rehearses-chinese-invasion-with-live-fire-drills-mobile-internet-slowdown/articleshow/133079637.cms",
-    "event_codes": {
-      "15": 5
-    },
-    "keywords": [
-      "defence",
-      "international",
-      "taiwan",
-      "rehearses",
-      "chinese",
-      "invasion",
-      "with",
-      "live",
-      "fire",
-      "drills",
-      "mobile",
-      "internet",
-      "slowdown",
-      "articleshow",
-      "133079637.cms"
+      "stories",
+      "202608100023.html"
     ]
   }
 }
