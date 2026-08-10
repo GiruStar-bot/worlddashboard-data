@@ -1,134 +1,141 @@
 {
-  "ETH": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.tamilguardian.com/index.php/content/tigray-civilians-face-fresh-danger-clashes-return-says-amnesty",
+  "COD": {
+    "risk_score": 4.22,
+    "count": 5,
+    "top_news": "http://www.africaleader.com/news/279229043/islamic-state-linked-militants-stage-deadly-attack-in-dr-congo",
     "event_codes": {
-      "19": 3,
+      "14": 2,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "index.php",
-      "content",
-      "tigray",
-      "civilians",
-      "face",
-      "fresh",
-      "danger",
-      "clashes",
-      "return",
-      "says",
-      "amnesty"
+      "news",
+      "279229043",
+      "islamic",
+      "state",
+      "linked",
+      "militants",
+      "stage",
+      "deadly",
+      "attack",
+      "congo"
     ]
   },
-  "ISR": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/08/10/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "business",
-      "2026",
-      "iran",
-      "wont",
-      "reopen",
-      "strait",
-      "hormuz",
-      "without",
-      "concessions",
-      "and",
-      "other",
-      "mideast",
-      "developments"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.5,
+  "COL": {
+    "risk_score": 2.16,
     "count": 3,
-    "top_news": "http://thepeninsulaqatar.com/article/10/08/2026/greece-battles-new-fire-near-athens-driven-by-winds",
+    "top_news": "https://www.yahoo.com/news/world/articles/six-colombian-rebels-killed-message-111505380.html",
     "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "article",
-      "2026",
-      "greece",
-      "battles",
-      "new",
-      "fire",
-      "near",
-      "athens",
-      "driven",
-      "winds"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/south-sudanese-man-abducted-in-kenya-released-after-two-months",
-    "event_codes": {
-      "18": 4
+      "15": 3
     },
     "keywords": [
       "news",
-      "article",
-      "south",
-      "sudanese",
-      "man",
-      "abducted",
-      "kenya",
-      "released",
-      "after",
-      "two",
-      "months"
+      "world",
+      "articles",
+      "six",
+      "colombian",
+      "rebels",
+      "killed",
+      "message",
+      "111505380.html"
     ]
   },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://thepeninsulaqatar.com/article/10/08/2026/ex-thai-mp-shoots-dead-local-official-over-money-row",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/weather-news/articles/parts-germanys-rhine-could-become-111502038.html",
     "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "article",
-      "2026",
-      "thai",
-      "shoots",
-      "dead",
-      "local",
-      "official",
-      "over",
-      "money",
-      "row"
+      "news",
+      "weather",
+      "news",
+      "articles",
+      "parts",
+      "germanys",
+      "rhine",
+      "could",
+      "become",
+      "111502038.html"
     ]
   },
-  "YEM": {
-    "risk_score": 3.0,
+  "ISR": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.winnipegfreepress.com/business/2026/08/10/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments",
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-905074",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "business",
-      "2026",
+      "middle",
+      "east",
       "iran",
-      "wont",
-      "reopen",
-      "strait",
-      "hormuz",
-      "without",
-      "concessions",
-      "and",
-      "other",
-      "mideast",
-      "developments"
+      "news",
+      "article",
+      "905074"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/08/police-arrest-23-foreign-nationals-for-alleged-ponzi-scheme-visa-scam/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "arrest",
+      "foreign",
+      "nationals",
+      "for",
+      "alleged",
+      "ponzi",
+      "scheme",
+      "visa",
+      "scam"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-905053",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "crime",
+      "israel",
+      "article",
+      "905053"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.moneycontrol.com/world/former-thailand-mp-allegedly-shoots-official-dead-confesses-on-youtube-article-14000512.html",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "former",
+      "thailand",
+      "allegedly",
+      "shoots",
+      "official",
+      "dead",
+      "confesses",
+      "youtube",
+      "article",
+      "14000512.html"
     ]
   }
 }
