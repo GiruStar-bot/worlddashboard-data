@@ -1,155 +1,134 @@
 {
-  "BOL": {
-    "risk_score": 7.8,
-    "count": 12,
-    "top_news": "https://www.lrt.lt/en/news-in-english/19/3017133/belarusians-in-lithuania-mark-sixth-anniversary-of-2020-protests-against-lukashenko",
+  "ETH": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.tamilguardian.com/index.php/content/tigray-civilians-face-fresh-danger-clashes-return-says-amnesty",
     "event_codes": {
-      "14": 12
-    },
-    "keywords": [
-      "news",
-      "english",
-      "3017133",
-      "belarusians",
-      "lithuania",
-      "mark",
-      "sixth",
-      "anniversary",
-      "2020",
-      "protests",
-      "against",
-      "lukashenko"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://en.tempo.co/read/2117129/thailand-gunshots-in-government-office-ex-mp-arrested",
-    "event_codes": {
-      "19": 2,
+      "19": 3,
       "17": 1
     },
     "keywords": [
-      "read",
-      "2117129",
-      "thailand",
-      "gunshots",
-      "government",
-      "office",
-      "arrested"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.45,
-    "count": 9,
-    "top_news": "https://countercurrents.org/2026/08/81-years-after-the-nuclear-bombings-from-the-memory-of-catastrophe-to-the-responsibility-to-survive/",
-    "event_codes": {
-      "19": 5,
-      "14": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "years",
-      "after",
-      "the",
-      "nuclear",
-      "bombings",
-      "from",
-      "the",
-      "memory",
-      "catastrophe",
-      "the",
-      "responsibility",
-      "survive"
+      "index.php",
+      "content",
+      "tigray",
+      "civilians",
+      "face",
+      "fresh",
+      "danger",
+      "clashes",
+      "return",
+      "says",
+      "amnesty"
     ]
   },
   "ISR": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://dailypost.ng/2026/08/10/gaza-militia-commander-says-hamas-will-reject-any-deal-requiring-disarmament/",
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.winnipegfreepress.com/business/2026/08/10/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments",
     "event_codes": {
-      "17": 3,
+      "18": 2,
       "19": 2
     },
     "keywords": [
+      "business",
       "2026",
-      "gaza",
-      "militia",
-      "commander",
-      "says",
-      "hamas",
-      "will",
-      "reject",
-      "any",
-      "deal",
-      "requiring",
-      "disarmament"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/431483",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "431483"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.32,
-    "count": 6,
-    "top_news": "https://punchng.com/new-anambra-cp-assumes-duty-pledges-safe-secure-environment/",
-    "event_codes": {
-      "15": 6
-    },
-    "keywords": [
-      "new",
-      "anambra",
-      "assumes",
-      "duty",
-      "pledges",
-      "safe",
-      "secure",
-      "environment"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/opinion/columns/mecca-agreement-and-new-security-moment",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "opinion",
-      "columns",
-      "mecca",
-      "agreement",
+      "iran",
+      "wont",
+      "reopen",
+      "strait",
+      "hormuz",
+      "without",
+      "concessions",
       "and",
-      "new",
-      "security",
-      "moment"
+      "other",
+      "mideast",
+      "developments"
     ]
   },
-  "THA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://english.news.cn/20260810/18338c4cf46a4be3b10e52f2f4aea898/c.html",
+  "QAT": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "http://thepeninsulaqatar.com/article/10/08/2026/greece-battles-new-fire-near-athens-driven-by-winds",
     "event_codes": {
-      "17": 2,
+      "17": 1,
       "18": 1,
       "19": 1
     },
     "keywords": [
-      "20260810",
-      "18338c4cf46a4be3b10e52f2f4aea898",
-      "c.html"
+      "article",
+      "2026",
+      "greece",
+      "battles",
+      "new",
+      "fire",
+      "near",
+      "athens",
+      "driven",
+      "winds"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/south-sudanese-man-abducted-in-kenya-released-after-two-months",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "news",
+      "article",
+      "south",
+      "sudanese",
+      "man",
+      "abducted",
+      "kenya",
+      "released",
+      "after",
+      "two",
+      "months"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://thepeninsulaqatar.com/article/10/08/2026/ex-thai-mp-shoots-dead-local-official-over-money-row",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "thai",
+      "shoots",
+      "dead",
+      "local",
+      "official",
+      "over",
+      "money",
+      "row"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.winnipegfreepress.com/business/2026/08/10/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "business",
+      "2026",
+      "iran",
+      "wont",
+      "reopen",
+      "strait",
+      "hormuz",
+      "without",
+      "concessions",
+      "and",
+      "other",
+      "mideast",
+      "developments"
     ]
   }
 }
