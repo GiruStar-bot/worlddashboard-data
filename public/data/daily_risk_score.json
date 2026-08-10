@@ -1,94 +1,125 @@
 {
-  "BRA": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.dailystar.co.uk/news/latest-news/influencer-killed-horror-helicopter-crash-37534558",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "latest",
-      "news",
-      "influencer",
-      "killed",
-      "horror",
-      "helicopter",
-      "crash",
-      "37534558"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.92,
-    "count": 9,
-    "top_news": "https://www.wsiu.org/2026-08-10/despite-mideast-wars-20-million-gather-in-iraq-for-shia-pilgrimage",
+    "risk_score": 9.9,
+    "count": 12,
+    "top_news": "https://freethoughtblogs.com/singham/2026/08/10/trump-fails-the-first-rule-of-war-know-your-enemy/",
     "event_codes": {
       "19": 8,
-      "17": 1
+      "17": 4
     },
     "keywords": [
+      "singham",
       "2026",
-      "despite",
-      "mideast",
-      "wars",
-      "million",
-      "gather",
-      "iraq",
-      "for",
-      "shia",
-      "pilgrimage"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.wsiu.org/2026-08-10/despite-mideast-wars-20-million-gather-in-iraq-for-shia-pilgrimage",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "2026",
-      "despite",
-      "mideast",
-      "wars",
-      "million",
-      "gather",
-      "iraq",
-      "for",
-      "shia",
-      "pilgrimage"
+      "trump",
+      "fails",
+      "the",
+      "first",
+      "rule",
+      "war",
+      "know",
+      "your",
+      "enemy"
     ]
   },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 9,
-    "top_news": "https://www.dailykos.com/stories/2026/8/10/800080990/community/aoc-president-or-senator/",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://nypost.com/2026/08/10/us-news/dsa-co-chair-megan-romer-says-events-of-october-7-were-in-many-ways-inevitable-blames-israel-for-running-concentration-camp/",
     "event_codes": {
-      "17": 6,
-      "19": 3
+      "19": 8
     },
     "keywords": [
-      "stories",
       "2026",
-      "800080990",
-      "community",
-      "aoc",
-      "president",
-      "senator"
+      "news",
+      "dsa",
+      "chair",
+      "megan",
+      "romer",
+      "says",
+      "events",
+      "october",
+      "were",
+      "many",
+      "ways",
+      "inevitable",
+      "blames",
+      "israel",
+      "for",
+      "running",
+      "concentration",
+      "camp"
     ]
   },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/node/2654127/middle-east",
+  "NGA": {
+    "risk_score": 16.5,
+    "count": 19,
+    "top_news": "https://www.opinionnigeria.com/onoh-tackles-south-african-envoy-over-xenophobia-denial-demands-protection-for-nigerians/",
     "event_codes": {
-      "19": 3
+      "19": 10,
+      "18": 5,
+      "17": 4
     },
     "keywords": [
-      "node",
-      "2654127",
-      "middle",
-      "east"
+      "onoh",
+      "tackles",
+      "south",
+      "african",
+      "envoy",
+      "over",
+      "xenophobia",
+      "denial",
+      "demands",
+      "protection",
+      "for",
+      "nigerians"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://standardnewswire.com/israel-declares-taybeh-the-west-banks-last-entirely-christian-village-a-closed-military-zone-barring-journalists-and-observers-as-settler-violence-peaks/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "israel",
+      "declares",
+      "taybeh",
+      "the",
+      "west",
+      "banks",
+      "last",
+      "entirely",
+      "christian",
+      "village",
+      "closed",
+      "military",
+      "zone",
+      "barring",
+      "journalists",
+      "and",
+      "observers",
+      "settler",
+      "violence",
+      "peaks"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.bgnes.com/society/powerful-earthquake-strikes-colombia-killing-at-least-18",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "society",
+      "powerful",
+      "earthquake",
+      "strikes",
+      "colombia",
+      "killing",
+      "least"
     ]
   }
 }
