@@ -1,43 +1,96 @@
 {
-  "IDN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/weather-news/articles/wildfires-burn-across-indonesia-officials-211541460.html",
+  "ISR": {
+    "risk_score": 8.45,
+    "count": 9,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/latest-occupied-west-bank",
     "event_codes": {
-      "19": 5
+      "19": 7,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "weather",
-      "news",
-      "articles",
-      "wildfires",
-      "burn",
-      "across",
-      "indonesia",
-      "officials",
-      "211541460.html"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "latest",
+      "occupied",
+      "west",
+      "bank"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://www.vanguardngr.com/2026/08/navy-raids-militants-camp-in-bayelsa-arrests-associates-of-wanted-kingpin/",
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.brnow.org/news/christian-lawyers-in-nigeria-aid-women-children-suffering-atrocities-for-faith/",
     "event_codes": {
-      "17": 4,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "christian",
+      "lawyers",
+      "nigeria",
+      "aid",
+      "women",
+      "children",
+      "suffering",
+      "atrocities",
+      "for",
+      "faith"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/08/return-displaced-syrian-kurds-hometown-suspended-after-violence",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "return",
+      "displaced",
+      "syrian",
+      "kurds",
+      "hometown",
+      "suspended",
+      "after",
+      "violence"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.kxxv.com/news/local-news/in-your-neighborhood/mclennan-county/vietnam-veteran-still-fighting-agent-oranges-effects-65-years-after-toxic-herbicide-was-first-used",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "navy",
-      "raids",
-      "militants",
-      "camp",
-      "bayelsa",
-      "arrests",
-      "associates",
-      "wanted",
-      "kingpin"
+      "news",
+      "local",
+      "news",
+      "your",
+      "neighborhood",
+      "mclennan",
+      "county",
+      "vietnam",
+      "veteran",
+      "still",
+      "fighting",
+      "agent",
+      "oranges",
+      "effects",
+      "years",
+      "after",
+      "toxic",
+      "herbicide",
+      "was",
+      "first",
+      "used"
     ]
   }
 }
