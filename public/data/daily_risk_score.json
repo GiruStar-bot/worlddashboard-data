@@ -1,207 +1,94 @@
 {
-  "COL": {
-    "risk_score": 5.4,
+  "BRA": {
+    "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://www.theweek.in/news/world/2026/08/10/colombia-earthquake-7-magnitude-choco-evacuation-buildings.html",
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/influencer-killed-horror-helicopter-crash-37534558",
     "event_codes": {
-      "19": 4,
-      "16": 2
+      "19": 6
     },
     "keywords": [
       "news",
-      "world",
-      "2026",
-      "colombia",
-      "earthquake",
-      "magnitude",
-      "choco",
-      "evacuation",
-      "buildings.html"
-    ]
-  },
-  "ETH": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://raxanreeb.com/ethiopian-aussom-troops-exit-buurhakaba-after-12-years/",
-    "event_codes": {
-      "15": 3
-    },
-    "keywords": [
-      "ethiopian",
-      "aussom",
-      "troops",
-      "exit",
-      "buurhakaba",
-      "after",
-      "years"
+      "latest",
+      "news",
+      "influencer",
+      "killed",
+      "horror",
+      "helicopter",
+      "crash",
+      "37534558"
     ]
   },
   "IRN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.theepochtimes.com/world/us-has-depleted-nearly-two-thirds-of-patriot-interceptor-stockpile-report-6069891",
+    "risk_score": 8.92,
+    "count": 9,
+    "top_news": "https://www.wsiu.org/2026-08-10/despite-mideast-wars-20-million-gather-in-iraq-for-shia-pilgrimage",
     "event_codes": {
-      "14": 1,
-      "18": 1,
-      "19": 1
+      "19": 8,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "has",
-      "depleted",
-      "nearly",
-      "two",
-      "thirds",
-      "patriot",
-      "interceptor",
-      "stockpile",
-      "report",
-      "6069891"
+      "2026",
+      "despite",
+      "mideast",
+      "wars",
+      "million",
+      "gather",
+      "iraq",
+      "for",
+      "shia",
+      "pilgrimage"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.wsiu.org/2026-08-10/despite-mideast-wars-20-million-gather-in-iraq-for-shia-pilgrimage",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "despite",
+      "mideast",
+      "wars",
+      "million",
+      "gather",
+      "iraq",
+      "for",
+      "shia",
+      "pilgrimage"
     ]
   },
   "ISR": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/news/caspian-gamble-iran-ukraine-tensions-widen-geography-instability",
-    "event_codes": {
-      "19": 3,
-      "16": 1,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "caspian",
-      "gamble",
-      "iran",
-      "ukraine",
-      "tensions",
-      "widen",
-      "geography",
-      "instability"
-    ]
-  },
-  "KEN": {
-    "risk_score": 5.9,
+    "risk_score": 6.0,
     "count": 9,
-    "top_news": "https://capitalfm.africa/gachagua-to-expose-rutos-failures-in-four-year-scorecard/",
+    "top_news": "https://www.dailykos.com/stories/2026/8/10/800080990/community/aoc-president-or-senator/",
     "event_codes": {
       "17": 6,
-      "19": 2,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "gachagua",
-      "expose",
-      "rutos",
-      "failures",
-      "four",
-      "year",
-      "scorecard"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/opinion/the-mecca-agreement-necessary-show-of-force",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "opinion",
-      "the",
-      "mecca",
-      "agreement",
-      "necessary",
-      "show",
-      "force"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.62,
-    "count": 7,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/901874-soldiers-repel-midnight-terror-attack-in-borno.html",
-    "event_codes": {
-      "19": 5,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "top",
-      "news",
-      "901874",
-      "soldiers",
-      "repel",
-      "midnight",
-      "terror",
-      "attack",
-      "borno.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/opinion/the-mecca-agreement-necessary-show-of-force",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "opinion",
-      "the",
-      "mecca",
-      "agreement",
-      "necessary",
-      "show",
-      "force"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.odnako.org/massacre-in-thailand-kills-grandparents-and-then-shoots-up-a-school-8-dead-and-over-30-injured-in-bangkok/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "massacre",
-      "thailand",
-      "kills",
-      "grandparents",
-      "and",
-      "then",
-      "shoots",
-      "school",
-      "dead",
-      "and",
-      "over",
-      "injured",
-      "bangkok"
+      "stories",
+      "2026",
+      "800080990",
+      "community",
+      "aoc",
+      "president",
+      "senator"
     ]
   },
   "YEM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.timeslive.co.za/news/world/2026-08-10-a-blocked-iranian-flight-to-yemen-set-off-houthis-latest-spiral-with-saudi-arabia/",
+    "top_news": "https://www.arabnews.com/node/2654127/middle-east",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "blocked",
-      "iranian",
-      "flight",
-      "yemen",
-      "set",
-      "off",
-      "houthis",
-      "latest",
-      "spiral",
-      "with",
-      "saudi",
-      "arabia"
+      "node",
+      "2654127",
+      "middle",
+      "east"
     ]
   }
 }
