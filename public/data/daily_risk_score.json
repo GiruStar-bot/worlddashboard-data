@@ -1,87 +1,35 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.lanereport.com/188807/2026/08/stoll-keenon-ogden-pllc-welcomes-andrew-m-hopkins/",
+  "ISR": {
+    "risk_score": 27.92,
+    "count": 32,
+    "top_news": "https://www.arabnews.com/node/2654145/middle-east",
     "event_codes": {
-      "19": 2
+      "19": 15,
+      "17": 14,
+      "15": 2,
+      "18": 1
     },
     "keywords": [
-      "188807",
-      "2026",
-      "stoll",
-      "keenon",
-      "ogden",
-      "pllc",
-      "welcomes",
-      "andrew",
-      "hopkins"
+      "node",
+      "2654145",
+      "middle",
+      "east"
     ]
   },
-  "NGA": {
-    "risk_score": 9.16,
-    "count": 11,
-    "top_news": "https://punchng.com/zedcrest-group-convenes-market-leaders-to-navigate-a-new-era-of-global-investing/",
+  "PSE": {
+    "risk_score": 9.42,
+    "count": 10,
+    "top_news": "https://www.arabnews.com/node/2654145/middle-east",
     "event_codes": {
       "19": 6,
-      "15": 3,
-      "17": 2
-    },
-    "keywords": [
-      "zedcrest",
-      "group",
-      "convenes",
-      "market",
-      "leaders",
-      "navigate",
-      "new",
-      "era",
-      "global",
-      "investing"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-16042573/Jailed-small-boat-refugee-sex-assaults-two-women.html",
-    "event_codes": {
       "18": 3,
-      "19": 1
+      "15": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "16042573",
-      "jailed",
-      "small",
-      "boat",
-      "refugee",
-      "sex",
-      "assaults",
-      "two",
-      "women.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.business-standard.com/world-news/yemeni-military-says-houthi-attack-on-mocha-killed-7-wounded-30-126081001857_1.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "news",
-      "yemeni",
-      "military",
-      "says",
-      "houthi",
-      "attack",
-      "mocha",
-      "killed",
-      "wounded",
-      "126081001857",
-      "1.html"
+      "node",
+      "2654145",
+      "middle",
+      "east"
     ]
   }
 }
