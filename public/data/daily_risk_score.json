@@ -1,141 +1,116 @@
 {
-  "COD": {
-    "risk_score": 4.22,
-    "count": 5,
-    "top_news": "http://www.africaleader.com/news/279229043/islamic-state-linked-militants-stage-deadly-attack-in-dr-congo",
-    "event_codes": {
-      "14": 2,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "279229043",
-      "islamic",
-      "state",
-      "linked",
-      "militants",
-      "stage",
-      "deadly",
-      "attack",
-      "congo"
-    ]
-  },
-  "COL": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/world/articles/six-colombian-rebels-killed-message-111505380.html",
-    "event_codes": {
-      "15": 3
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "six",
-      "colombian",
-      "rebels",
-      "killed",
-      "message",
-      "111505380.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/weather-news/articles/parts-germanys-rhine-could-become-111502038.html",
+    "risk_score": 17.44,
+    "count": 18,
+    "top_news": "https://www.azernews.az/region/262201.html",
     "event_codes": {
-      "17": 2,
+      "19": 16,
+      "15": 2
+    },
+    "keywords": [
+      "region",
+      "262201.html"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://punchng.com/south-sudan-whistleblower-abducted-in-kenya-released-after-two-months/",
+    "event_codes": {
+      "18": 5
+    },
+    "keywords": [
+      "south",
+      "sudan",
+      "whistleblower",
+      "abducted",
+      "kenya",
+      "released",
+      "after",
+      "two",
+      "months"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.88,
+    "count": 6,
+    "top_news": "https://www.samaa.tv/2087354964-iran-says-pakistan-saudi-t-rkiye-defence-pact-not-a-threat",
+    "event_codes": {
+      "15": 4,
       "19": 2
     },
     "keywords": [
-      "news",
-      "weather",
-      "news",
-      "articles",
-      "parts",
-      "germanys",
-      "rhine",
-      "could",
-      "become",
-      "111502038.html"
+      "2087354964",
+      "iran",
+      "says",
+      "pakistan",
+      "saudi",
+      "rkiye",
+      "defence",
+      "pact",
+      "not",
+      "threat"
     ]
   },
-  "ISR": {
-    "risk_score": 2.0,
+  "MYS": {
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-905074",
+    "top_news": "https://www.asiaone.com/singapore/malaysia-police-rescue-singaporean-kidnapped-kedah",
     "event_codes": {
-      "17": 2,
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "news",
-      "article",
-      "905074"
+      "singapore",
+      "malaysia",
+      "police",
+      "rescue",
+      "singaporean",
+      "kidnapped",
+      "kedah"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/08/police-arrest-23-foreign-nationals-for-alleged-ponzi-scheme-visa-scam/",
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=70348",
     "event_codes": {
-      "17": 2,
+      "16": 2,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "headlines",
+      "index.cfm"
+    ]
+  },
+  "TUR": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://www.jns.org/opinion/column/alex-traiman/netanyahus-congressional-call-for-a-nato-style-alliance-to-counter-iran-gives-way-to-a-sunni-state-alliance",
+    "event_codes": {
+      "18": 6,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "police",
-      "arrest",
-      "foreign",
-      "nationals",
+      "opinion",
+      "column",
+      "alex",
+      "traiman",
+      "netanyahus",
+      "congressional",
+      "call",
       "for",
-      "alleged",
-      "ponzi",
-      "scheme",
-      "visa",
-      "scam"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-905053",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "crime",
-      "israel",
-      "article",
-      "905053"
-    ]
-  },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.moneycontrol.com/world/former-thailand-mp-allegedly-shoots-official-dead-confesses-on-youtube-article-14000512.html",
-    "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "former",
-      "thailand",
-      "allegedly",
-      "shoots",
-      "official",
-      "dead",
-      "confesses",
-      "youtube",
-      "article",
-      "14000512.html"
+      "nato",
+      "style",
+      "alliance",
+      "counter",
+      "iran",
+      "gives",
+      "way",
+      "sunni",
+      "state",
+      "alliance"
     ]
   }
 }
