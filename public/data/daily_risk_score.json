@@ -1,73 +1,207 @@
 {
-  "ISR": {
-    "risk_score": 4.65,
+  "COL": {
+    "risk_score": 5.4,
     "count": 6,
-    "top_news": "https://www.theguardian.com/commentisfree/2026/aug/10/media-gadi-eisenkot-anti-netanyahu",
+    "top_news": "https://www.theweek.in/news/world/2026/08/10/colombia-earthquake-7-magnitude-choco-evacuation-buildings.html",
     "event_codes": {
-      "16": 2,
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "colombia",
+      "earthquake",
+      "magnitude",
+      "choco",
+      "evacuation",
+      "buildings.html"
+    ]
+  },
+  "ETH": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://raxanreeb.com/ethiopian-aussom-troops-exit-buurhakaba-after-12-years/",
+    "event_codes": {
+      "15": 3
+    },
+    "keywords": [
+      "ethiopian",
+      "aussom",
+      "troops",
+      "exit",
+      "buurhakaba",
+      "after",
+      "years"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.theepochtimes.com/world/us-has-depleted-nearly-two-thirds-of-patriot-interceptor-stockpile-report-6069891",
+    "event_codes": {
       "14": 1,
-      "17": 1,
       "18": 1,
       "19": 1
     },
     "keywords": [
-      "commentisfree",
-      "2026",
-      "aug",
-      "media",
-      "gadi",
-      "eisenkot",
-      "anti",
-      "netanyahu"
+      "world",
+      "has",
+      "depleted",
+      "nearly",
+      "two",
+      "thirds",
+      "patriot",
+      "interceptor",
+      "stockpile",
+      "report",
+      "6069891"
     ]
   },
-  "LBN": {
-    "risk_score": 2.74,
-    "count": 3,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2584027/several-miles-from-israeli-border-syrian-forces-uncover-9-member-isis-cell.html",
+  "ISR": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/news/caspian-gamble-iran-ukraine-tensions-widen-geography-instability",
     "event_codes": {
-      "17": 2,
+      "19": 3,
+      "16": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "israel",
-      "news",
-      "2584027",
-      "several",
-      "miles",
-      "from",
-      "israeli",
-      "border",
-      "syrian",
-      "forces",
-      "uncover",
-      "member",
-      "isis",
-      "cell.html"
+      "caspian",
+      "gamble",
+      "iran",
+      "ukraine",
+      "tensions",
+      "widen",
+      "geography",
+      "instability"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.9,
+    "count": 9,
+    "top_news": "https://capitalfm.africa/gachagua-to-expose-rutos-failures-in-four-year-scorecard/",
+    "event_codes": {
+      "17": 6,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "gachagua",
+      "expose",
+      "rutos",
+      "failures",
+      "four",
+      "year",
+      "scorecard"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/opinion/the-mecca-agreement-necessary-show-of-force",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "the",
+      "mecca",
+      "agreement",
+      "necessary",
+      "show",
+      "force"
     ]
   },
   "NGA": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://thenewsnigeria.com.ng/2026/08/10/beyond-marriage-how-yusufs-n1-5bn-mass-wedding-empowers-1500-kano-couples/",
+    "risk_score": 6.62,
+    "count": 7,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/901874-soldiers-repel-midnight-terror-attack-in-borno.html",
     "event_codes": {
-      "19": 4,
-      "17": 2
+      "19": 5,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
+      "news",
+      "top",
+      "news",
+      "901874",
+      "soldiers",
+      "repel",
+      "midnight",
+      "terror",
+      "attack",
+      "borno.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/opinion/the-mecca-agreement-necessary-show-of-force",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "opinion",
+      "the",
+      "mecca",
+      "agreement",
+      "necessary",
+      "show",
+      "force"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.odnako.org/massacre-in-thailand-kills-grandparents-and-then-shoots-up-a-school-8-dead-and-over-30-injured-in-bangkok/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "massacre",
+      "thailand",
+      "kills",
+      "grandparents",
+      "and",
+      "then",
+      "shoots",
+      "school",
+      "dead",
+      "and",
+      "over",
+      "injured",
+      "bangkok"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.timeslive.co.za/news/world/2026-08-10-a-blocked-iranian-flight-to-yemen-set-off-houthis-latest-spiral-with-saudi-arabia/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
       "2026",
-      "beyond",
-      "marriage",
-      "how",
-      "yusufs",
-      "5bn",
-      "mass",
-      "wedding",
-      "empowers",
-      "1500",
-      "kano",
-      "couples"
+      "blocked",
+      "iranian",
+      "flight",
+      "yemen",
+      "set",
+      "off",
+      "houthis",
+      "latest",
+      "spiral",
+      "with",
+      "saudi",
+      "arabia"
     ]
   }
 }
