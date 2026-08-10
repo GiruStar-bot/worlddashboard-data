@@ -1,18 +1,43 @@
 {
-  "NGA": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://punchng.com/soldiers-battle-bandits-heading-to-kebbi-communities/",
+  "IDN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/weather-news/articles/wildfires-burn-across-indonesia-officials-211541460.html",
     "event_codes": {
-      "19": 7
+      "19": 5
     },
     "keywords": [
-      "soldiers",
-      "battle",
-      "bandits",
-      "heading",
-      "kebbi",
-      "communities"
+      "news",
+      "weather",
+      "news",
+      "articles",
+      "wildfires",
+      "burn",
+      "across",
+      "indonesia",
+      "officials",
+      "211541460.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.vanguardngr.com/2026/08/navy-raids-militants-camp-in-bayelsa-arrests-associates-of-wanted-kingpin/",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "navy",
+      "raids",
+      "militants",
+      "camp",
+      "bayelsa",
+      "arrests",
+      "associates",
+      "wanted",
+      "kingpin"
     ]
   }
 }
