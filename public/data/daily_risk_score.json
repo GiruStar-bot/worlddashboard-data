@@ -1,43 +1,117 @@
 {
-  "LBY": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.the-messenger.com/news/world/article_478cf8ee-6415-5726-884b-a9514cfcbda6.html",
+  "IRN": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://fpif.org/the-iran-war-hits-home/",
     "event_codes": {
-      "18": 3,
-      "19": 1
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "the",
+      "iran",
+      "war",
+      "hits",
+      "home"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.8,
+    "count": 16,
+    "top_news": "https://www.middleeasteye.net/news/us-rights-groups-sue-trump-administration-icc-sanctions",
+    "event_codes": {
+      "16": 7,
+      "17": 6,
+      "19": 3
     },
     "keywords": [
       "news",
-      "world",
-      "article",
-      "478cf8ee",
-      "6415",
-      "5726",
-      "884b",
-      "a9514cfcbda6.html"
+      "rights",
+      "groups",
+      "sue",
+      "trump",
+      "administration",
+      "icc",
+      "sanctions"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabtimesonline.com/news/case-of-mistaken-identity-indian-or-iranian-not-targets/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "case",
+      "mistaken",
+      "identity",
+      "indian",
+      "iranian",
+      "not",
+      "targets"
     ]
   },
   "NGA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://thesun.ng/osun-poll-adeleke-calls-for-arrest-of-lawmaker-over-order-to-kill-opposition-members/",
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://tribuneonlineng.com/atiku-to-tinubu-despite-n144-86bn-safe-schools-funds-terrorists-are-shutting-classrooms/",
     "event_codes": {
-      "17": 5
+      "18": 4,
+      "17": 2
     },
     "keywords": [
-      "osun",
-      "poll",
-      "adeleke",
-      "calls",
-      "for",
-      "arrest",
-      "lawmaker",
-      "over",
-      "order",
-      "kill",
-      "opposition",
-      "members"
+      "atiku",
+      "tinubu",
+      "despite",
+      "n144",
+      "86bn",
+      "safe",
+      "schools",
+      "funds",
+      "terrorists",
+      "are",
+      "shutting",
+      "classrooms"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20260811-un-officials-occupied-west-bank-at-breaking-point/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "20260811",
+      "officials",
+      "occupied",
+      "west",
+      "bank",
+      "breaking",
+      "point"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-venezuela-renew-dip",
+    "event_codes": {
+      "18": 4,
+      "16": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israel",
+      "and",
+      "venezuela",
+      "renew",
+      "dip"
     ]
   }
 }
