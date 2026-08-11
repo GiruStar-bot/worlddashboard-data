@@ -1,94 +1,187 @@
 {
-  "IDN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/08/11/wildfire-at-indonesias-mount-bromo-mostly-contained-as-smoke-forces-school-closures",
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "greenpage",
+      "news",
       "2026",
-      "wildfire",
-      "indonesias",
-      "mount",
-      "bromo",
-      "mostly",
-      "contained",
-      "smoke",
-      "forces",
-      "school",
-      "closures"
+      "iraqs",
+      "semi",
+      "autonomous",
+      "kurdish",
+      "region",
+      "suffers",
+      "iran",
+      "war",
+      "drags"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/8/11/iraqs-semi-autonomous-kurdish-region-suffers-as-us-iran-war-drags-on",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "iraqs",
+      "semi",
+      "autonomous",
+      "kurdish",
+      "region",
+      "suffers",
+      "iran",
+      "war",
+      "drags"
     ]
   },
   "ISR": {
-    "risk_score": 3.6,
-    "count": 6,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/08/11/iranian-backed-houthi-rebels-renew-attacks-on-key-port-city-and-other-developments-in-the-mideast",
+    "risk_score": 4.9,
+    "count": 7,
+    "top_news": "https://www.clevelandjewishnews.com/jns/us-brokers-deal-for-iaea-to-remove-nuclear-material-hidden-in-syria/article_223424bb-d1e1-5405-a2f7-7d2cb0785d09.html",
     "event_codes": {
-      "16": 4,
-      "19": 2
+      "17": 4,
+      "18": 1,
+      "19": 1,
+      "20": 1
     },
     "keywords": [
-      "world",
+      "jns",
+      "brokers",
+      "deal",
+      "for",
+      "iaea",
+      "remove",
+      "nuclear",
+      "material",
+      "hidden",
+      "syria",
+      "article",
+      "223424bb",
+      "d1e1",
+      "5405",
+      "a2f7",
+      "7d2cb0785d09.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nwaonline.com/news/2026/aug/11/trump-claims-iran-owes-us-compensation/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "news",
       "2026",
-      "iranian",
-      "backed",
-      "houthi",
-      "rebels",
-      "renew",
-      "attacks",
-      "key",
-      "port",
-      "city",
-      "and",
-      "other",
-      "developments",
+      "aug",
+      "trump",
+      "claims",
+      "iran",
+      "owes",
+      "compensation"
+    ]
+  },
+  "NGA": {
+    "risk_score": 16.46,
+    "count": 20,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/902043-security-forces-rescue-16-kidnap-victims-in-kogi-state.html",
+    "event_codes": {
+      "18": 7,
+      "19": 6,
+      "17": 4,
+      "15": 3
+    },
+    "keywords": [
+      "regional",
+      "north",
+      "central",
+      "902043",
+      "security",
+      "forces",
+      "rescue",
+      "kidnap",
+      "victims",
+      "kogi",
+      "state.html"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.jns.org/opinion/louis-rene-beres/know-the-enemy",
+    "event_codes": {
+      "17": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "louis",
+      "rene",
+      "beres",
+      "know",
       "the",
-      "mideast"
+      "enemy"
     ]
   },
   "SDN": {
-    "risk_score": 13.0,
-    "count": 13,
-    "top_news": "https://dominicanrepublicpost.com/mass-grave-with-25-bodies-found-in-sudans-kurmuk-after-army-retakes-town/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/249054",
     "event_codes": {
-      "19": 13
+      "19": 2
     },
     "keywords": [
-      "mass",
-      "grave",
-      "with",
-      "bodies",
-      "found",
-      "sudans",
-      "kurmuk",
-      "after",
-      "army",
-      "retakes",
-      "town"
+      "news",
+      "article",
+      "249054"
     ]
   },
   "SYR": {
-    "risk_score": 9.8,
-    "count": 13,
-    "top_news": "http://www.jpost.com/middle-east/article-905172",
+    "risk_score": 23.5,
+    "count": 33,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/902053-syrias-ex-president-bashar-al-assad-sentenced-to-death.html",
     "event_codes": {
+      "17": 17,
+      "19": 9,
       "18": 6,
-      "17": 4,
-      "19": 2,
       "16": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "905172"
+      "news",
+      "headlines",
+      "902053",
+      "syrias",
+      "president",
+      "bashar",
+      "assad",
+      "sentenced",
+      "death.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.nwaonline.com/news/2026/aug/11/trump-claims-iran-owes-us-compensation/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "aug",
+      "trump",
+      "claims",
+      "iran",
+      "owes",
+      "compensation"
     ]
   }
 }
