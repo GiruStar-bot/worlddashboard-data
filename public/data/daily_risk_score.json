@@ -1,90 +1,81 @@
 {
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.thedailybeast.com/trumps-moral-vacuum-reveals-truth-about-bone-spurs-president/",
+  "GUY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cubaheadlines.com/articles/337584",
     "event_codes": {
-      "19": 4,
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "337584"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.nationalaccordnewspaper.com/trump-secretly-switched-planes-in-turkey-over-alleged-iran-assassination-threat-report/",
+    "event_codes": {
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "trumps",
-      "moral",
-      "vacuum",
-      "reveals",
-      "truth",
-      "about",
-      "bone",
-      "spurs",
-      "president"
-    ]
-  },
-  "NGA": {
-    "risk_score": 18.5,
-    "count": 20,
-    "top_news": "https://www.premiumtimesng.com/regional/north-central/902220-army-rescues-nine-more-kidnap-victims-in-kogi.html",
-    "event_codes": {
-      "18": 10,
-      "19": 9,
-      "17": 1
-    },
-    "keywords": [
-      "regional",
-      "north",
-      "central",
-      "902220",
-      "army",
-      "rescues",
-      "nine",
-      "more",
-      "kidnap",
-      "victims",
-      "kogi.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ksl.com:443/article/51608314/iranian-backed-houthis-kill-6-in-attack-on-vessel-and-other-developments-in-the-mideast",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "article",
-      "51608314",
-      "iranian",
-      "backed",
-      "houthis",
-      "kill",
-      "attack",
-      "vessel",
-      "and",
-      "other",
-      "developments",
-      "the",
-      "mideast"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.premiumtimesng.com/foreign/902224-trump-secretly-switched-planes-in-turkey-over-iranian-threat-report.html",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "foreign",
-      "902224",
       "trump",
       "secretly",
       "switched",
       "planes",
       "turkey",
       "over",
-      "iranian",
+      "alleged",
+      "iran",
+      "assassination",
       "threat",
-      "report.html"
+      "report"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.68,
+    "count": 7,
+    "top_news": "https://www.express.co.uk/news/world/2238105/bombshell-video-shows-trumps-chilling",
+    "event_codes": {
+      "17": 4,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2238105",
+      "bombshell",
+      "video",
+      "shows",
+      "trumps",
+      "chilling"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.nationalaccordnewspaper.com/osun-election-stop-wasting-your-time-trump-wont-intervene-in-nigerias-polls-shehu-sani-tells-davido/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "osun",
+      "election",
+      "stop",
+      "wasting",
+      "your",
+      "time",
+      "trump",
+      "wont",
+      "intervene",
+      "nigerias",
+      "polls",
+      "shehu",
+      "sani",
+      "tells",
+      "davido"
     ]
   }
 }
