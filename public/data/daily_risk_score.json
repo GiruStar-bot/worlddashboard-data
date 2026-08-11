@@ -1,116 +1,176 @@
 {
-  "ARE": {
+  "COL": {
+    "risk_score": 5.64,
+    "count": 7,
+    "top_news": "https://www.thenewhumanitarian.org/news-feature/2026/08/11/colombia-earthquake-strikes-challenging-time-aid-response",
+    "event_codes": {
+      "19": 3,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "feature",
+      "2026",
+      "colombia",
+      "earthquake",
+      "strikes",
+      "challenging",
+      "time",
+      "aid",
+      "response"
+    ]
+  },
+  "ETH": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://tribune.com.pk/story/2623321/3-pakistanis-among-four-killed-after-houthi-attack-on-commercial-vessel-in-bab-al-mandeb",
+    "top_news": "https://clarechampion.ie/boeing-in-court-over-death-of-lahinch-man-michael-ryan/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "story",
-      "2623321",
-      "pakistanis",
-      "among",
-      "four",
-      "killed",
-      "after",
-      "houthi",
-      "attack",
-      "commercial",
-      "vessel",
-      "bab",
-      "mandeb"
+      "boeing",
+      "court",
+      "over",
+      "death",
+      "lahinch",
+      "man",
+      "michael",
+      "ryan"
     ]
   },
-  "COL": {
-    "risk_score": 2.9,
-    "count": 5,
-    "top_news": "https://www.theguardian.com/world/2026/aug/11/colombia-earthquake-dead-amid-hunt-for-survivors",
-    "event_codes": {
-      "17": 4,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "aug",
-      "colombia",
-      "earthquake",
-      "dead",
-      "amid",
-      "hunt",
-      "for",
-      "survivors"
-    ]
-  },
-  "IRN": {
+  "IDN": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://tribune.com.pk/story/2623321/3-pakistanis-among-four-killed-after-houthi-attack-on-commercial-vessel-in-bab-al-mandeb",
+    "top_news": "https://www.manilatimes.net/2026/08/12/world/asia-oceania/indonesian-wildfires-shut-schools/2403048",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "story",
-      "2623321",
-      "pakistanis",
-      "among",
-      "four",
-      "killed",
-      "after",
-      "houthi",
-      "attack",
-      "commercial",
-      "vessel",
-      "bab",
-      "mandeb"
+      "2026",
+      "world",
+      "asia",
+      "oceania",
+      "indonesian",
+      "wildfires",
+      "shut",
+      "schools",
+      "2403048"
     ]
   },
-  "IRQ": {
-    "risk_score": 8.72,
-    "count": 9,
-    "top_news": "https://www.wistv.com/2026/08/11/purple-heart-recipient-receives-mortgage-free-home-columbia/",
+  "IRN": {
+    "risk_score": 3.32,
+    "count": 4,
+    "top_news": "https://www.africanews.com/2026/08/11/trump-secretly-switched-planes-amid-reported-iran-assassination-threat/",
     "event_codes": {
-      "19": 8,
-      "15": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
       "2026",
-      "purple",
-      "heart",
-      "recipient",
-      "receives",
-      "mortgage",
-      "free",
-      "home",
-      "columbia"
+      "trump",
+      "secretly",
+      "switched",
+      "planes",
+      "amid",
+      "reported",
+      "iran",
+      "assassination",
+      "threat"
     ]
   },
   "ISR": {
-    "risk_score": 7.72,
-    "count": 8,
-    "top_news": "https://www.thejc.com/news/world/us-brokers-deal-for-atomic-agency-to-remove-dirty-bomb-material-from-secret-site-in-syria-w25uem9n",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://honestreporting.com/it-was-never-about-bibi-the-demonization-of-israels-prime-ministers/",
     "event_codes": {
-      "19": 7,
-      "15": 1
+      "19": 3
+    },
+    "keywords": [
+      "was",
+      "never",
+      "about",
+      "bibi",
+      "the",
+      "demonization",
+      "israels",
+      "prime",
+      "ministers"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.5,
+    "count": 7,
+    "top_news": "https://thenationonlineng.net/osun-2026-psc-warns-police-against-misconduct-deploys-high-powered-team/",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "osun",
+      "2026",
+      "psc",
+      "warns",
+      "police",
+      "against",
+      "misconduct",
+      "deploys",
+      "high",
+      "powered",
+      "team"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.christianitydaily.com:443/news/sudanese-pastor-among-7-executed-by-armed-group-in-nuba-mountains.html",
+    "event_codes": {
+      "17": 3,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "brokers",
-      "deal",
-      "for",
-      "atomic",
-      "agency",
-      "remove",
-      "dirty",
-      "bomb",
-      "material",
-      "from",
-      "secret",
-      "site",
-      "syria",
-      "w25uem9n"
+      "sudanese",
+      "pastor",
+      "among",
+      "executed",
+      "armed",
+      "group",
+      "nuba",
+      "mountains.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://honestreporting.com/it-was-never-about-bibi-the-demonization-of-israels-prime-ministers/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "was",
+      "never",
+      "about",
+      "bibi",
+      "the",
+      "demonization",
+      "israels",
+      "prime",
+      "ministers"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cm2g550v0pvo"
     ]
   }
 }
