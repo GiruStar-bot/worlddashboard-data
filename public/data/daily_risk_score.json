@@ -1,23 +1,78 @@
 {
   "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.kccu.org/world/2026-08-10/magnitude-7-4-quake-rocks-western-colombia-killing-at-least-111-people",
+    "risk_score": 2.22,
+    "count": 3,
+    "top_news": "https://mizonews.net/world/17126/",
     "event_codes": {
-      "19": 2
+      "15": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
       "world",
-      "2026",
-      "magnitude",
-      "quake",
-      "rocks",
-      "western",
-      "colombia",
-      "killing",
-      "least",
-      "111",
-      "people"
+      "17126"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.6,
+    "count": 7,
+    "top_news": "https://www.nbcsandiego.com/news/national-international/trump-elaborate-ruse-fly-out-turkey/4059524/",
+    "event_codes": {
+      "18": 3,
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
+      "trump",
+      "elaborate",
+      "ruse",
+      "fly",
+      "out",
+      "turkey",
+      "4059524"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.4,
+    "count": 10,
+    "top_news": "https://www.dailystar.co.uk/news/us-news/trump-hid-catering-cart-escape-37536303",
+    "event_codes": {
+      "19": 7,
+      "18": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "trump",
+      "hid",
+      "catering",
+      "cart",
+      "escape",
+      "37536303"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.nbcsandiego.com/news/national-international/trump-elaborate-ruse-fly-out-turkey/4059524/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "national",
+      "international",
+      "trump",
+      "elaborate",
+      "ruse",
+      "fly",
+      "out",
+      "turkey",
+      "4059524"
     ]
   }
 }
