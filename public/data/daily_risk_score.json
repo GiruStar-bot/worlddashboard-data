@@ -1,142 +1,164 @@
 {
   "COL": {
+    "risk_score": 4.16,
+    "count": 6,
+    "top_news": "http://www.jpost.com/international/article-905182",
+    "event_codes": {
+      "15": 3,
+      "14": 2,
+      "17": 1
+    },
+    "keywords": [
+      "international",
+      "article",
+      "905182"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.jpost.com/middle-east/article-905188",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "905188"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.24,
+    "count": 8,
+    "top_news": "https://www.dailysabah.com/world/mid-east/medical-evacuation-crisis-grips-gaza-as-west-bank-violence-worsens",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "medical",
+      "evacuation",
+      "crisis",
+      "grips",
+      "gaza",
+      "west",
+      "bank",
+      "violence",
+      "worsens"
+    ]
+  },
+  "NGA": {
+    "risk_score": 13.85,
+    "count": 17,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/902112-army-foil-bandits-ambush-recover-ak-47-in-plateau.html",
+    "event_codes": {
+      "19": 8,
+      "17": 5,
+      "18": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "902112",
+      "army",
+      "foil",
+      "bandits",
+      "ambush",
+      "recover",
+      "plateau.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 12.0,
+    "count": 13,
+    "top_news": "http://www.jpost.com/israel-news/defense-news/article-905181",
+    "event_codes": {
+      "19": 7,
+      "17": 5,
+      "16": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "905181"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.archdaily.com/1183077/magnitude-earthquake-damages-historic-architecture-across-colombia",
+    "top_news": "https://www.semissourian.com/world/iranian-backed-houthi-rebels-renew-attacks-on-key-port-city-and-other-developments-in-the-mideast-d882c445",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "1183077",
-      "magnitude",
-      "earthquake",
-      "damages",
-      "historic",
-      "architecture",
-      "across",
-      "colombia"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.archdaily.com/1183077/magnitude-earthquake-damages-historic-architecture-across-colombia",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "1183077",
-      "magnitude",
-      "earthquake",
-      "damages",
-      "historic",
-      "architecture",
-      "across",
-      "colombia"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap",
-    "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "palestine",
-      "weekly",
-      "netanyahu",
-      "hedges",
-      "gaza",
-      "roadmap"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.archdaily.com/1183077/magnitude-earthquake-damages-historic-architecture-across-colombia",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "1183077",
-      "magnitude",
-      "earthquake",
-      "damages",
-      "historic",
-      "architecture",
-      "across",
-      "colombia"
-    ]
-  },
-  "PSE": {
-    "risk_score": 7.5,
-    "count": 9,
-    "top_news": "https://www.aljazeera.com/news/2026/8/11/palestine-weekly-netanyahu-hedges-on-gaza-roadmap",
-    "event_codes": {
-      "19": 6,
-      "17": 3
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "palestine",
-      "weekly",
-      "netanyahu",
-      "hedges",
-      "gaza",
-      "roadmap"
+      "world",
+      "iranian",
+      "backed",
+      "houthi",
+      "rebels",
+      "renew",
+      "attacks",
+      "key",
+      "port",
+      "city",
+      "and",
+      "other",
+      "developments",
+      "the",
+      "mideast",
+      "d882c445"
     ]
   },
   "SYR": {
-    "risk_score": 5.6,
-    "count": 9,
-    "top_news": "https://www.archdaily.com/1183077/magnitude-earthquake-damages-historic-architecture-across-colombia",
+    "risk_score": 16.1,
+    "count": 23,
+    "top_news": "https://www.premiumtimesng.com/news/headlines/902053-updated-syrias-ex-president-bashar-al-assad-sentenced-to-death.html",
     "event_codes": {
-      "14": 4,
-      "17": 4,
-      "19": 1
+      "17": 13,
+      "18": 6,
+      "19": 4
     },
     "keywords": [
-      "1183077",
-      "magnitude",
-      "earthquake",
-      "damages",
-      "historic",
-      "architecture",
-      "across",
-      "colombia"
+      "news",
+      "headlines",
+      "902053",
+      "updated",
+      "syrias",
+      "president",
+      "bashar",
+      "assad",
+      "sentenced",
+      "death.html"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.moneycontrol.com/world/james-bond-style-move-trump-s-secret-plane-swap-in-turkey-amid-death-threat-watch-article-14001998.html",
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.theepochtimes.com/world/australia-deepens-vietnam-ties-amid-human-rights-concerns-6073547",
     "event_codes": {
-      "18": 1,
-      "19": 1
+      "17": 6
     },
     "keywords": [
       "world",
-      "james",
-      "bond",
-      "style",
-      "move",
-      "trump",
-      "secret",
-      "plane",
-      "swap",
-      "turkey",
+      "australia",
+      "deepens",
+      "vietnam",
+      "ties",
       "amid",
-      "death",
-      "threat",
-      "watch",
-      "article",
-      "14001998.html"
+      "human",
+      "rights",
+      "concerns",
+      "6073547"
     ]
   }
 }
