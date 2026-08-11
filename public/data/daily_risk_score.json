@@ -1,117 +1,90 @@
 {
   "IRN": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://fpif.org/the-iran-war-hits-home/",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.thedailybeast.com/trumps-moral-vacuum-reveals-truth-about-bone-spurs-president/",
     "event_codes": {
-      "17": 3,
-      "19": 3
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "the",
-      "iran",
-      "war",
-      "hits",
-      "home"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.8,
-    "count": 16,
-    "top_news": "https://www.middleeasteye.net/news/us-rights-groups-sue-trump-administration-icc-sanctions",
-    "event_codes": {
-      "16": 7,
-      "17": 6,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "rights",
-      "groups",
-      "sue",
-      "trump",
-      "administration",
-      "icc",
-      "sanctions"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabtimesonline.com/news/case-of-mistaken-identity-indian-or-iranian-not-targets/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "case",
-      "mistaken",
-      "identity",
-      "indian",
-      "iranian",
-      "not",
-      "targets"
+      "trumps",
+      "moral",
+      "vacuum",
+      "reveals",
+      "truth",
+      "about",
+      "bone",
+      "spurs",
+      "president"
     ]
   },
   "NGA": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://tribuneonlineng.com/atiku-to-tinubu-despite-n144-86bn-safe-schools-funds-terrorists-are-shutting-classrooms/",
+    "risk_score": 18.5,
+    "count": 20,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/902220-army-rescues-nine-more-kidnap-victims-in-kogi.html",
     "event_codes": {
-      "18": 4,
-      "17": 2
+      "18": 10,
+      "19": 9,
+      "17": 1
     },
     "keywords": [
-      "atiku",
-      "tinubu",
-      "despite",
-      "n144",
-      "86bn",
-      "safe",
-      "schools",
-      "funds",
-      "terrorists",
-      "are",
-      "shutting",
-      "classrooms"
+      "regional",
+      "north",
+      "central",
+      "902220",
+      "army",
+      "rescues",
+      "nine",
+      "more",
+      "kidnap",
+      "victims",
+      "kogi.html"
     ]
   },
-  "PSE": {
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ksl.com:443/article/51608314/iranian-backed-houthis-kill-6-in-attack-on-vessel-and-other-developments-in-the-mideast",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "article",
+      "51608314",
+      "iranian",
+      "backed",
+      "houthis",
+      "kill",
+      "attack",
+      "vessel",
+      "and",
+      "other",
+      "developments",
+      "the",
+      "mideast"
+    ]
+  },
+  "TUR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.middleeastmonitor.com/20260811-un-officials-occupied-west-bank-at-breaking-point/",
+    "top_news": "https://www.premiumtimesng.com/foreign/902224-trump-secretly-switched-planes-in-turkey-over-iranian-threat-report.html",
     "event_codes": {
-      "19": 2
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "20260811",
-      "officials",
-      "occupied",
-      "west",
-      "bank",
-      "breaking",
-      "point"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-and-venezuela-renew-dip",
-    "event_codes": {
-      "18": 4,
-      "16": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israel",
-      "and",
-      "venezuela",
-      "renew",
-      "dip"
+      "foreign",
+      "902224",
+      "trump",
+      "secretly",
+      "switched",
+      "planes",
+      "turkey",
+      "over",
+      "iranian",
+      "threat",
+      "report.html"
     ]
   }
 }
