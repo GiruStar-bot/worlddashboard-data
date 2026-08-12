@@ -1,62 +1,128 @@
 {
-  "ISR": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "http://silverbirdtv.com/israel-hamas-war-death-toll-hits-to-2215-in-gaza/",
+  "COL": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://lavozcolorado.com/2026/08/12/a-week-in-review-206/",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "israel",
-      "hamas",
-      "war",
-      "death",
-      "toll",
-      "hits",
-      "2215",
-      "gaza"
+      "2026",
+      "week",
+      "review",
+      "206"
+    ]
+  },
+  "ETH": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://lavozcolorado.com/2026/08/12/a-week-in-review-206/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "week",
+      "review",
+      "206"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://www.sbs.com.au/news/article/settlers-seige-palestinian-homes-in-west-bank/iuq0fhfh8",
+    "event_codes": {
+      "19": 4,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "settlers",
+      "seige",
+      "palestinian",
+      "homes",
+      "west",
+      "bank",
+      "iuq0fhfh8"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://silverbirdtv.com/fela-kuti-makes-history-as-first-african-to-receive-grammy-lifetime-achievement-award/",
+    "risk_score": 6.25,
+    "count": 11,
+    "top_news": "https://punchng.com/osun-2026-appeal-for-peaceful-election/",
     "event_codes": {
-      "19": 2
+      "17": 6,
+      "14": 5
     },
     "keywords": [
-      "fela",
-      "kuti",
-      "makes",
-      "history",
-      "first",
-      "african",
-      "receive",
-      "grammy",
-      "lifetime",
-      "achievement",
-      "award"
+      "osun",
+      "2026",
+      "appeal",
+      "for",
+      "peaceful",
+      "election"
     ]
   },
-  "SYR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.theepochtimes.com/us/us-airstrikes-in-yemen-killed-153-civilians-injured-243-pentagon-6074358",
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.sbs.com.au/news/article/settlers-seige-palestinian-homes-in-west-bank/iuq0fhfh8",
     "event_codes": {
-      "18": 2,
       "19": 2
     },
     "keywords": [
-      "airstrikes",
-      "yemen",
-      "killed",
-      "153",
-      "civilians",
-      "injured",
-      "243",
-      "pentagon",
-      "6074358"
+      "news",
+      "article",
+      "settlers",
+      "seige",
+      "palestinian",
+      "homes",
+      "west",
+      "bank",
+      "iuq0fhfh8"
+    ]
+  },
+  "YEM": {
+    "risk_score": 12.5,
+    "count": 14,
+    "top_news": "https://www.businesstimes.com.sg/international/global/iran-says-no-progress-reviving-interim-peace-deal-us",
+    "event_codes": {
+      "19": 11,
+      "17": 3
+    },
+    "keywords": [
+      "international",
+      "global",
+      "iran",
+      "says",
+      "progress",
+      "reviving",
+      "interim",
+      "peace",
+      "deal"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 3.05,
+    "count": 5,
+    "top_news": "https://www.pressherald.com/2026/08/12/portland-nurse-was-detained-by-ice-during-jetport-security-screening/",
+    "event_codes": {
+      "17": 4,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "portland",
+      "nurse",
+      "was",
+      "detained",
+      "ice",
+      "during",
+      "jetport",
+      "security",
+      "screening"
     ]
   }
 }
