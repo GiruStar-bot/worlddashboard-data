@@ -1,55 +1,114 @@
 {
   "IRN": {
-    "risk_score": 4.62,
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.wsws.org/en/articles/2026/08/12/nbrk-a12.html",
+    "top_news": "https://www.eldoradonews.com/news/2026/aug/11/trump-claims-iran-owes-us-compensation/",
     "event_codes": {
-      "19": 3,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "articles",
-      "2026",
-      "nbrk",
-      "a12.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.dailyliberal.com.au/story/9329284/thailand-vows-tougher-gun-controls-after-shootings/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "story",
-      "9329284",
-      "thailand",
-      "vows",
-      "tougher",
-      "gun",
-      "controls",
-      "after",
-      "shootings"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.albawaba.com/news/houthi-attack-commercial-vessel-kills-3-1634899",
-    "event_codes": {
-      "19": 2
+      "19": 5
     },
     "keywords": [
       "news",
-      "houthi",
-      "attack",
-      "commercial",
-      "vessel",
-      "kills",
-      "1634899"
+      "2026",
+      "aug",
+      "trump",
+      "claims",
+      "iran",
+      "owes",
+      "compensation"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://www.naharnet.com/stories/en/321776-salam-and-menassa-clash-in-parliament-over-amnesty-law",
+    "event_codes": {
+      "18": 5,
+      "19": 3
+    },
+    "keywords": [
+      "stories",
+      "321776",
+      "salam",
+      "and",
+      "menassa",
+      "clash",
+      "parliament",
+      "over",
+      "amnesty",
+      "law"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://www.mnnonline.org/news/nigeria-308-captives-freed-in-largest-single-day-rescue/",
+    "event_codes": {
+      "14": 2,
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "nigeria",
+      "308",
+      "captives",
+      "freed",
+      "largest",
+      "single",
+      "day",
+      "rescue"
+    ]
+  },
+  "SDN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.middleeastmonitor.com/20260812-iom-2500-people-displaced-by-clashes-in-sudans-blue-nile-state/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "20260812",
+      "iom",
+      "2500",
+      "people",
+      "displaced",
+      "clashes",
+      "sudans",
+      "blue",
+      "nile",
+      "state"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "http://usa.chinadaily.com.cn/a/202608/12/WS6a7bde6ba310986e2b46a52f.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "202608",
+      "ws6a7bde6ba310986e2b46a52f.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.eldoradonews.com/news/2026/aug/11/trump-claims-iran-owes-us-compensation/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "aug",
+      "trump",
+      "claims",
+      "iran",
+      "owes",
+      "compensation"
     ]
   }
 }
