@@ -1,19 +1,62 @@
 {
   "ISR": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "http://silverbirdtv.com/israel-hamas-war-death-toll-hits-to-2215-in-gaza/",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "hamas",
+      "war",
+      "death",
+      "toll",
+      "hits",
+      "2215",
+      "gaza"
+    ]
+  },
+  "NGA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/israeli-militants-besiege-two-palestinian-212910000.html",
+    "top_news": "http://silverbirdtv.com/fela-kuti-makes-history-as-first-african-to-receive-grammy-lifetime-achievement-award/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "articles",
-      "israeli",
-      "militants",
-      "besiege",
-      "two",
-      "palestinian",
-      "212910000.html"
+      "fela",
+      "kuti",
+      "makes",
+      "history",
+      "first",
+      "african",
+      "receive",
+      "grammy",
+      "lifetime",
+      "achievement",
+      "award"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.theepochtimes.com/us/us-airstrikes-in-yemen-killed-153-civilians-injured-243-pentagon-6074358",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "airstrikes",
+      "yemen",
+      "killed",
+      "153",
+      "civilians",
+      "injured",
+      "243",
+      "pentagon",
+      "6074358"
     ]
   }
 }
