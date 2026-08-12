@@ -1,72 +1,87 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.moneycontrol.com/world/iran-is-draining-america-s-usd-4-million-missile-shield-one-strike-at-a-time-article-14003224.html",
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cp24.com/news/world/2026/08/12/pakistan-says-3-citizens-killed-in-houthi-attack-on-ship-and-other-developments-in-the-mideast/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "draining",
-      "america",
-      "usd",
-      "million",
-      "missile",
-      "shield",
-      "one",
-      "strike",
-      "time",
-      "article",
-      "14003224.html"
-    ]
-  },
-  "PER": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/traceability-comes-for-ferrochrome-what-the-buyers-enforced-that-regulators-could-not/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "traceability",
-      "comes",
-      "for",
-      "ferrochrome",
-      "what",
-      "the",
-      "buyers",
-      "enforced",
-      "that",
-      "regulators",
-      "could",
-      "not"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/sje0bcklfx",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "article",
-      "sje0bcklfx"
-    ]
-  },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.prokerala.com/news/articles/a1799425.html",
-    "event_codes": {
-      "19": 5
+      "19": 2
     },
     "keywords": [
       "news",
-      "articles",
-      "a1799425.html"
+      "world",
+      "2026",
+      "pakistan",
+      "says",
+      "citizens",
+      "killed",
+      "houthi",
+      "attack",
+      "ship",
+      "and",
+      "other",
+      "developments",
+      "the",
+      "mideast"
+    ]
+  },
+  "JOR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.albawaba.com/news/iran-developed-advanced-missiles-attacks-1634918",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "developed",
+      "advanced",
+      "missiles",
+      "attacks",
+      "1634918"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.africanews.com/2026/08/12/funeral-held-for-libyas-military-intelligence-chief-killed-in-car-bombing/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "funeral",
+      "held",
+      "for",
+      "libyas",
+      "military",
+      "intelligence",
+      "chief",
+      "killed",
+      "car",
+      "bombing"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.express.co.uk/news/world/2238350/trump-decoy-plane-nato-summit-turkey",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2238350",
+      "trump",
+      "decoy",
+      "plane",
+      "nato",
+      "summit",
+      "turkey"
     ]
   }
 }
