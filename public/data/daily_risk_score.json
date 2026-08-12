@@ -1,91 +1,110 @@
 {
-  "IRN": {
-    "risk_score": 3.3,
-    "count": 6,
-    "top_news": "https://peoplesreview.com.np/2026/08/12/trump-accepts-he-switched-planes-to-avoid-iran-threats/",
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://townhall.com/news/amy-curtis/2026/08/12/abdul-el-sayed-obligated-to-follow-sharia-law-n2681101",
     "event_codes": {
-      "17": 3,
-      "16": 2,
-      "19": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
+      "news",
+      "amy",
+      "curtis",
       "2026",
-      "trump",
-      "accepts",
-      "switched",
-      "planes",
-      "avoid",
-      "iran",
-      "threats"
+      "abdul",
+      "sayed",
+      "obligated",
+      "follow",
+      "sharia",
+      "law",
+      "n2681101"
     ]
   },
-  "KEN": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.standardmedia.co.ke/rift-valley/article/2001555160/rising-kenyan-lakes-push-crocodiles-closer-to-homes",
+  "IRN": {
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/trump-assassination-attempts-iran-us-b3031059.html",
     "event_codes": {
-      "19": 6
+      "19": 6,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "rift",
-      "valley",
-      "article",
-      "2001555160",
-      "rising",
-      "kenyan",
-      "lakes",
-      "push",
-      "crocodiles",
-      "closer",
-      "homes"
+      "news",
+      "world",
+      "middle",
+      "east",
+      "trump",
+      "assassination",
+      "attempts",
+      "iran",
+      "b3031059.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/08/12/cops-rescue-wanted-s-pore-man-kidnapped-in-johor",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "cops",
+      "rescue",
+      "wanted",
+      "pore",
+      "man",
+      "kidnapped",
+      "johor"
     ]
   },
   "NGA": {
-    "risk_score": 9.34,
-    "count": 14,
-    "top_news": "https://www.premiumtimesng.com/news/more-news/902301-police-arrest-2-suspected-hard-drug-dealers-in-anambra.html",
+    "risk_score": 6.68,
+    "count": 8,
+    "top_news": "https://www.vanguardngr.com/2026/08/police-declare-two-men-wanted-over-alleged-ikoyi-murder/",
     "event_codes": {
-      "17": 8,
-      "19": 4,
-      "15": 2
-    },
-    "keywords": [
-      "news",
-      "more",
-      "news",
-      "902301",
-      "police",
-      "arrest",
-      "suspected",
-      "hard",
-      "drug",
-      "dealers",
-      "anambra.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://cyprus-mail.com/2026/08/12/serial-uk-sex-attacker-jailed-for-life-for-double-murder-rape-after-police-failings",
-    "event_codes": {
+      "19": 3,
+      "15": 2,
       "17": 2,
-      "18": 2
+      "16": 1
     },
     "keywords": [
       "2026",
-      "serial",
-      "sex",
-      "attacker",
-      "jailed",
-      "for",
-      "life",
-      "for",
-      "double",
-      "murder",
-      "rape",
-      "after",
       "police",
-      "failings"
+      "declare",
+      "two",
+      "men",
+      "wanted",
+      "over",
+      "alleged",
+      "ikoyi",
+      "murder"
+    ]
+  },
+  "SSD": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/279237029/un-reports-aid-worker-attack-surge-across-south-sudan-in-july",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "279237029",
+      "reports",
+      "aid",
+      "worker",
+      "attack",
+      "surge",
+      "across",
+      "south",
+      "sudan",
+      "july"
     ]
   }
 }
