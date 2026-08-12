@@ -1,147 +1,71 @@
 {
   "IRN": {
     "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://nypost.com/2026/08/12/world-news/iran-reshapes-military-command-for-offensive-phase-of-war-crackdown-on-dissent/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "iran",
+      "reshapes",
+      "military",
+      "command",
+      "for",
+      "offensive",
+      "phase",
+      "war",
+      "crackdown",
+      "dissent"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.75,
+    "count": 6,
+    "top_news": "https://www.arabnews.com/node/2654448/middle-east",
+    "event_codes": {
+      "16": 2,
+      "19": 2,
+      "20": 2
+    },
+    "keywords": [
+      "node",
+      "2654448",
+      "middle",
+      "east"
+    ]
+  },
+  "PSE": {
+    "risk_score": 9.5,
+    "count": 11,
+    "top_news": "https://www.arabnews.com/node/2654448/middle-east",
+    "event_codes": {
+      "19": 6,
+      "17": 3,
+      "20": 2
+    },
+    "keywords": [
+      "node",
+      "2654448",
+      "middle",
+      "east"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.polygon.com/liam-neesons-106-minute-crime-thriller-officially-one-of-the-biggest-movies-on-streaming/",
+    "top_news": "https://www.arabnews.com/node/2654449/middle-east",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "liam",
-      "neesons",
-      "106",
-      "minute",
-      "crime",
-      "thriller",
-      "officially",
-      "one",
-      "the",
-      "biggest",
-      "movies",
-      "streaming"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.82,
-    "count": 13,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/08/12/israeli-troops-clash-with-settlers-besieging-palestinian-homes-in-occupied-west-bank/",
-    "event_codes": {
-      "19": 10,
-      "17": 3
-    },
-    "keywords": [
-      "world",
+      "node",
+      "2654449",
       "middle",
-      "east",
-      "2026",
-      "israeli",
-      "troops",
-      "clash",
-      "with",
-      "settlers",
-      "besieging",
-      "palestinian",
-      "homes",
-      "occupied",
-      "west",
-      "bank"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.irishtimes.com/opinion/editorials/2026/08/12/the-irish-times-view-on-bashar-al-assad-death-in-absentia/",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "opinion",
-      "editorials",
-      "2026",
-      "the",
-      "irish",
-      "times",
-      "view",
-      "bashar",
-      "assad",
-      "death",
-      "absentia"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.77,
-    "count": 12,
-    "top_news": "https://www.premiumtimesng.com/news/more-news/902448-osun-2026-cislac-raises-alarm-over-killings-vote-buying-electoral-manipulation.html",
-    "event_codes": {
-      "17": 4,
-      "19": 4,
-      "14": 3,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "more",
-      "news",
-      "902448",
-      "osun",
-      "2026",
-      "cislac",
-      "raises",
-      "alarm",
-      "over",
-      "killings",
-      "vote",
-      "buying",
-      "electoral",
-      "manipulation.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.irishtimes.com/world/middle-east/2026/08/12/israeli-troops-clash-with-settlers-besieging-palestinian-homes-in-occupied-west-bank/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "israeli",
-      "troops",
-      "clash",
-      "with",
-      "settlers",
-      "besieging",
-      "palestinian",
-      "homes",
-      "occupied",
-      "west",
-      "bank"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.foxnews.com/politics/illegal-immigrant-charged-brutal-slaying-one-day-after-california-judge-released-him",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "politics",
-      "illegal",
-      "immigrant",
-      "charged",
-      "brutal",
-      "slaying",
-      "one",
-      "day",
-      "after",
-      "california",
-      "judge",
-      "released",
-      "him"
+      "east"
     ]
   }
 }
