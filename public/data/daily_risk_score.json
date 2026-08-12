@@ -1,127 +1,91 @@
 {
-  "ISR": {
-    "risk_score": 4.8,
+  "IRN": {
+    "risk_score": 3.3,
     "count": 6,
-    "top_news": "https://www.yahoo.com/news/world/articles/idf-act-against-israelis-seen-110336186.html",
+    "top_news": "https://peoplesreview.com.np/2026/08/12/trump-accepts-he-switched-planes-to-avoid-iran-threats/",
     "event_codes": {
-      "19": 3,
-      "14": 2,
-      "17": 1
+      "17": 3,
+      "16": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "articles",
-      "idf",
-      "act",
-      "against",
-      "israelis",
-      "seen",
-      "110336186.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "http://www.bignewsnetwork.com/news/279236838/houthis-launch-fresh-ballistic-missile-attack-on-yemen-red-sea-port-city",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "279236838",
-      "houthis",
-      "launch",
-      "fresh",
-      "ballistic",
-      "missile",
-      "attack",
-      "yemen",
-      "red",
-      "sea",
-      "port",
-      "city"
-    ]
-  },
-  "SDN": {
-    "risk_score": 5.45,
-    "count": 6,
-    "top_news": "https://www.justiceinfo.net/en/163265-paramilitary-force-launches-drone-attacks-across-sudan.html",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "163265",
-      "paramilitary",
-      "force",
-      "launches",
-      "drone",
-      "attacks",
-      "across",
-      "sudan.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.newser.com/story/394508/trump-explains-air-force-one-ruse.html",
-    "event_codes": {
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "story",
-      "394508",
+      "2026",
       "trump",
-      "explains",
-      "air",
-      "force",
-      "one",
-      "ruse.html"
+      "accepts",
+      "switched",
+      "planes",
+      "avoid",
+      "iran",
+      "threats"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.standardmedia.co.ke/rift-valley/article/2001555160/rising-kenyan-lakes-push-crocodiles-closer-to-homes",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "rift",
+      "valley",
+      "article",
+      "2001555160",
+      "rising",
+      "kenyan",
+      "lakes",
+      "push",
+      "crocodiles",
+      "closer",
+      "homes"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.34,
+    "count": 14,
+    "top_news": "https://www.premiumtimesng.com/news/more-news/902301-police-arrest-2-suspected-hard-drug-dealers-in-anambra.html",
+    "event_codes": {
+      "17": 8,
+      "19": 4,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "more",
+      "news",
+      "902301",
+      "police",
+      "arrest",
+      "suspected",
+      "hard",
+      "drug",
+      "dealers",
+      "anambra.html"
     ]
   },
   "VEN": {
-    "risk_score": 4.8,
-    "count": 6,
-    "top_news": "https://www.aol.co.uk/articles/simon-levy-handed-whole-life-111813000.html",
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://cyprus-mail.com/2026/08/12/serial-uk-sex-attacker-jailed-for-life-for-double-murder-rape-after-police-failings",
     "event_codes": {
       "17": 2,
-      "18": 2,
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "articles",
-      "simon",
-      "levy",
-      "handed",
-      "whole",
+      "2026",
+      "serial",
+      "sex",
+      "attacker",
+      "jailed",
+      "for",
       "life",
-      "111813000.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/279236838/houthis-launch-fresh-ballistic-missile-attack-on-yemen-red-sea-port-city",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "279236838",
-      "houthis",
-      "launch",
-      "fresh",
-      "ballistic",
-      "missile",
-      "attack",
-      "yemen",
-      "red",
-      "sea",
-      "port",
-      "city"
+      "for",
+      "double",
+      "murder",
+      "rape",
+      "after",
+      "police",
+      "failings"
     ]
   }
 }
