@@ -1,87 +1,127 @@
 {
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cp24.com/news/world/2026/08/12/pakistan-says-3-citizens-killed-in-houthi-attack-on-ship-and-other-developments-in-the-mideast/",
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/world/articles/idf-act-against-israelis-seen-110336186.html",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "pakistan",
-      "says",
-      "citizens",
-      "killed",
-      "houthi",
-      "attack",
-      "ship",
-      "and",
-      "other",
-      "developments",
-      "the",
-      "mideast"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.albawaba.com/news/iran-developed-advanced-missiles-attacks-1634918",
-    "event_codes": {
-      "19": 4,
+      "19": 3,
+      "14": 2,
       "17": 1
     },
     "keywords": [
       "news",
-      "iran",
-      "developed",
-      "advanced",
-      "missiles",
-      "attacks",
-      "1634918"
+      "world",
+      "articles",
+      "idf",
+      "act",
+      "against",
+      "israelis",
+      "seen",
+      "110336186.html"
     ]
   },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.africanews.com/2026/08/12/funeral-held-for-libyas-military-intelligence-chief-killed-in-car-bombing/",
+  "SAU": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "http://www.bignewsnetwork.com/news/279236838/houthis-launch-fresh-ballistic-missile-attack-on-yemen-red-sea-port-city",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "funeral",
-      "held",
-      "for",
-      "libyas",
-      "military",
-      "intelligence",
-      "chief",
-      "killed",
-      "car",
-      "bombing"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.express.co.uk/news/world/2238350/trump-decoy-plane-nato-summit-turkey",
-    "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
+      "19": 2,
+      "16": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2238350",
+      "279236838",
+      "houthis",
+      "launch",
+      "fresh",
+      "ballistic",
+      "missile",
+      "attack",
+      "yemen",
+      "red",
+      "sea",
+      "port",
+      "city"
+    ]
+  },
+  "SDN": {
+    "risk_score": 5.45,
+    "count": 6,
+    "top_news": "https://www.justiceinfo.net/en/163265-paramilitary-force-launches-drone-attacks-across-sudan.html",
+    "event_codes": {
+      "19": 5,
+      "17": 1
+    },
+    "keywords": [
+      "163265",
+      "paramilitary",
+      "force",
+      "launches",
+      "drone",
+      "attacks",
+      "across",
+      "sudan.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.newser.com/story/394508/trump-explains-air-force-one-ruse.html",
+    "event_codes": {
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "394508",
       "trump",
-      "decoy",
-      "plane",
-      "nato",
-      "summit",
-      "turkey"
+      "explains",
+      "air",
+      "force",
+      "one",
+      "ruse.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.aol.co.uk/articles/simon-levy-handed-whole-life-111813000.html",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "articles",
+      "simon",
+      "levy",
+      "handed",
+      "whole",
+      "life",
+      "111813000.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/279236838/houthis-launch-fresh-ballistic-missile-attack-on-yemen-red-sea-port-city",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "279236838",
+      "houthis",
+      "launch",
+      "fresh",
+      "ballistic",
+      "missile",
+      "attack",
+      "yemen",
+      "red",
+      "sea",
+      "port",
+      "city"
     ]
   }
 }
