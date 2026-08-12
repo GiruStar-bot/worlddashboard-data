@@ -1,67 +1,55 @@
 {
-  "NGA": {
-    "risk_score": 11.5,
-    "count": 15,
-    "top_news": "https://dailytrust.com/vom-federal-institution-mustnt-be-ethnic-fiefdom/",
+  "IRN": {
+    "risk_score": 4.62,
+    "count": 5,
+    "top_news": "https://www.wsws.org/en/articles/2026/08/12/nbrk-a12.html",
     "event_codes": {
-      "14": 8,
-      "19": 4,
-      "18": 2,
+      "19": 3,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "nbrk",
+      "a12.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.dailyliberal.com.au/story/9329284/thailand-vows-tougher-gun-controls-after-shootings/",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "vom",
-      "federal",
-      "institution",
-      "mustnt",
-      "ethnic",
-      "fiefdom"
+      "story",
+      "9329284",
+      "thailand",
+      "vows",
+      "tougher",
+      "gun",
+      "controls",
+      "after",
+      "shootings"
     ]
   },
-  "SYR": {
-    "risk_score": 4.9,
-    "count": 7,
-    "top_news": "https://www.odt.co.nz/news/world/death-sentence-for-absent-bashar-al-assad-nbld08ie",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.albawaba.com/news/houthi-attack-commercial-vessel-kills-3-1634899",
     "event_codes": {
-      "14": 4,
-      "18": 2,
-      "16": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "death",
-      "sentence",
-      "for",
-      "absent",
-      "bashar",
-      "assad",
-      "nbld08ie"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.42,
-    "count": 6,
-    "top_news": "https://www.straitstimes.com/world/united-states/trump-says-air-force-one-ruse-was-secret-service-military-call",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "united",
-      "states",
-      "trump",
-      "says",
-      "air",
-      "force",
-      "one",
-      "ruse",
-      "was",
-      "secret",
-      "service",
-      "military",
-      "call"
+      "houthi",
+      "attack",
+      "commercial",
+      "vessel",
+      "kills",
+      "1634899"
     ]
   }
 }
