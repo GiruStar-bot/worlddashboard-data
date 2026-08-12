@@ -1,172 +1,67 @@
 {
-  "COL": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ijpr.org/npr-news/2026-08-10/magnitude-7-4-quake-rocks-western-colombia-killing-at-least-111-people",
+  "NGA": {
+    "risk_score": 11.5,
+    "count": 15,
+    "top_news": "https://dailytrust.com/vom-federal-institution-mustnt-be-ethnic-fiefdom/",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "npr",
-      "news",
-      "2026",
-      "magnitude",
-      "quake",
-      "rocks",
-      "western",
-      "colombia",
-      "killing",
-      "least",
-      "111",
-      "people"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.9,
-    "count": 8,
-    "top_news": "http://www.bignewsnetwork.com/news/279235710/burned-out-us-carrier-sailors-near-iran-tried-to-jump-overboard-military-times",
-    "event_codes": {
-      "19": 6,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "279235710",
-      "burned",
-      "out",
-      "carrier",
-      "sailors",
-      "near",
-      "iran",
-      "tried",
-      "jump",
-      "overboard",
-      "military",
-      "times"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.5,
-    "count": 12,
-    "top_news": "http://www.bignewsnetwork.com/news/279235710/burned-out-us-carrier-sailors-near-iran-tried-to-jump-overboard-military-times",
-    "event_codes": {
-      "19": 10,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "279235710",
-      "burned",
-      "out",
-      "carrier",
-      "sailors",
-      "near",
-      "iran",
-      "tried",
-      "jump",
-      "overboard",
-      "military",
-      "times"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://ktbb.com/post/?p=1532040",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "post"
-    ]
-  },
-  "LBY": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "http://www.bignewsnetwork.com/news/279235671/un-calls-for-end-to-clashes-in-w-libya-accountability-for-violence",
-    "event_codes": {
+      "14": 8,
       "19": 4,
       "18": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "279235671",
-      "calls",
-      "for",
-      "end",
-      "clashes",
-      "libya",
-      "accountability",
-      "for",
-      "violence"
+      "vom",
+      "federal",
+      "institution",
+      "mustnt",
+      "ethnic",
+      "fiefdom"
     ]
   },
-  "NGA": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://punchng.com/police-arrest-lagos-man-over-alleged-defilement-of-stepdaughter/",
+  "SYR": {
+    "risk_score": 4.9,
+    "count": 7,
+    "top_news": "https://www.odt.co.nz/news/world/death-sentence-for-absent-bashar-al-assad-nbld08ie",
     "event_codes": {
-      "17": 3,
-      "18": 1
-    },
-    "keywords": [
-      "police",
-      "arrest",
-      "lagos",
-      "man",
-      "over",
-      "alleged",
-      "defilement",
-      "stepdaughter"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "six",
-      "killed",
-      "houthi",
-      "attack",
-      "bab",
-      "mandeb",
-      "ship",
-      "yemens",
-      "government",
-      "says"
-    ]
-  },
-  "YEM": {
-    "risk_score": 10.57,
-    "count": 11,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-admits-killing-153-civilians-last-year-yemen-report",
-    "event_codes": {
-      "19": 8,
+      "14": 4,
       "18": 2,
-      "15": 1
+      "16": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "pentagon",
-      "admits",
-      "killing",
-      "153",
-      "civilians",
-      "last",
-      "year",
-      "yemen",
-      "report"
+      "news",
+      "world",
+      "death",
+      "sentence",
+      "for",
+      "absent",
+      "bashar",
+      "assad",
+      "nbld08ie"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.42,
+    "count": 6,
+    "top_news": "https://www.straitstimes.com/world/united-states/trump-says-air-force-one-ruse-was-secret-service-military-call",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "united",
+      "states",
+      "trump",
+      "says",
+      "air",
+      "force",
+      "one",
+      "ruse",
+      "was",
+      "secret",
+      "service",
+      "military",
+      "call"
     ]
   }
 }
