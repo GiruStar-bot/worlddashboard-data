@@ -1,36 +1,78 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.cjme.com/2026/08/12/global-affairs-tight-lipped-on-fate-of-canadian-men-being-held-in-iraq/",
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://nypost.com/2026/08/12/us-news/shoulder-fired-missile-threat-prompted-trumps-turkey-plane-switch-report/",
     "event_codes": {
-      "17": 4
+      "19": 6,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "global",
-      "affairs",
-      "tight",
-      "lipped",
-      "fate",
-      "canadian",
-      "men",
-      "being",
-      "held",
-      "iraq"
+      "news",
+      "shoulder",
+      "fired",
+      "missile",
+      "threat",
+      "prompted",
+      "trumps",
+      "turkey",
+      "plane",
+      "switch",
+      "report"
     ]
   },
-  "YEM": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.okaz.com.sa/politics/na/2261037",
+  "ISR": {
+    "risk_score": 12.32,
+    "count": 15,
+    "top_news": "https://english.wafa.ps/Pages/Details/173563",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 5,
+      "17": 4,
+      "16": 3,
+      "20": 2,
+      "18": 1
     },
     "keywords": [
-      "politics",
-      "2261037"
+      "pages",
+      "details",
+      "173563"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dailypost.ng/2026/08/12/nigeria-police-declare-two-persons-wanted-over-alleged-murder-in-lagos/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "nigeria",
+      "police",
+      "declare",
+      "two",
+      "persons",
+      "wanted",
+      "over",
+      "alleged",
+      "murder",
+      "lagos"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.65,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/173563",
+    "event_codes": {
+      "18": 3,
+      "19": 2,
+      "20": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "173563"
     ]
   }
 }
