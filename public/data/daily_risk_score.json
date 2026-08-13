@@ -1,97 +1,134 @@
 {
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.moneycontrol.com/world/trump-plane-deception-did-israel-give-fake-assassination-warning-to-us-little-fantastical-article-14004318.html",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "plane",
+      "deception",
+      "did",
+      "israel",
+      "give",
+      "fake",
+      "assassination",
+      "warning",
+      "little",
+      "fantastical",
+      "article",
+      "14004318.html"
+    ]
+  },
   "ISR": {
+    "risk_score": 3.76,
+    "count": 4,
+    "top_news": "https://www.moneycontrol.com/world/trump-plane-deception-did-israel-give-fake-assassination-warning-to-us-little-fantastical-article-14004318.html",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "trump",
+      "plane",
+      "deception",
+      "did",
+      "israel",
+      "give",
+      "fake",
+      "assassination",
+      "warning",
+      "little",
+      "fantastical",
+      "article",
+      "14004318.html"
+    ]
+  },
+  "KHM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.juancole.com/2026/08/netanyahu-rejects-planning.html",
+    "top_news": "https://www.akp.gov.kh/post/detail/378305",
     "event_codes": {
-      "20": 2
-    },
-    "keywords": [
-      "2026",
-      "netanyahu",
-      "rejects",
-      "planning.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.96,
-    "count": 16,
-    "top_news": "https://www.premiumtimesng.com/features-and-interviews/902414-osundecides2026-a-governorship-election-trailed-by-sorrow-tears-blood.html",
-    "event_codes": {
-      "19": 7,
-      "17": 4,
-      "15": 3,
-      "16": 2
-    },
-    "keywords": [
-      "features",
-      "and",
-      "interviews",
-      "902414",
-      "osundecides2026",
-      "governorship",
-      "election",
-      "trailed",
-      "sorrow",
-      "tears",
-      "blood.html"
-    ]
-  },
-  "SGP": {
-    "risk_score": 3.44,
-    "count": 4,
-    "top_news": "https://www.adgully.com/post/19217/warc-unveils-2026-cannes-creative-effectiveness-insights",
-    "event_codes": {
-      "15": 2,
       "19": 2
     },
     "keywords": [
       "post",
-      "19217",
-      "warc",
-      "unveils",
-      "2026",
-      "cannes",
-      "creative",
-      "effectiveness",
-      "insights"
+      "detail",
+      "378305"
     ]
   },
-  "THA": {
+  "NER": {
     "risk_score": 3.6,
     "count": 5,
-    "top_news": "https://www.australiandefence.com.au/news/news/upgraded-capability-on-show-at-pitch-black-2026",
+    "top_news": "https://dailypost.ng/2026/08/13/nine-bodies-of-suspected-bandit-victims-found-by-roadside-in-niger/",
     "event_codes": {
       "15": 5
     },
     "keywords": [
-      "news",
-      "news",
-      "upgraded",
-      "capability",
-      "show",
-      "pitch",
-      "black",
-      "2026"
+      "2026",
+      "nine",
+      "bodies",
+      "suspected",
+      "bandit",
+      "victims",
+      "found",
+      "roadside",
+      "niger"
     ]
   },
-  "ZAF": {
-    "risk_score": 3.75,
-    "count": 5,
-    "top_news": "https://www.newzimbabwe.com/zambia-elections-haunted-by-ghost-of-incumbent-presidents-arch-rival/",
+  "NGA": {
+    "risk_score": 6.21,
+    "count": 7,
+    "top_news": "https://thesun.ng/osun-tension-fear-persist-as-accord-apc-trade-killing-claims/",
     "event_codes": {
-      "14": 3,
-      "17": 2
+      "15": 2,
+      "18": 2,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "zambia",
-      "elections",
-      "haunted",
-      "ghost",
-      "incumbent",
-      "presidents",
-      "arch",
-      "rival"
+      "osun",
+      "tension",
+      "fear",
+      "persist",
+      "accord",
+      "apc",
+      "trade",
+      "killing",
+      "claims"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.55,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/asia/reflects-waning-us-influence-in-region-senior-diplomat-vidya-bhushan-soni-on-saudi-turkiye-pak-alliance20260813132443/",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "asia",
+      "reflects",
+      "waning",
+      "influence",
+      "region",
+      "senior",
+      "diplomat",
+      "vidya",
+      "bhushan",
+      "soni",
+      "saudi",
+      "turkiye",
+      "pak",
+      "alliance20260813132443"
     ]
   }
 }
