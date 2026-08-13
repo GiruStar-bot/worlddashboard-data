@@ -1,136 +1,165 @@
 {
-  "ARG": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://buenosairesherald.com/politics/judiciary-orders-seizure-of-apartment-where-cristina-kirchner-is-under-house-arrest",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "politics",
-      "judiciary",
-      "orders",
-      "seizure",
-      "apartment",
-      "where",
-      "cristina",
-      "kirchner",
-      "under",
-      "house",
-      "arrest"
-    ]
-  },
-  "ETH": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "rsf",
-      "claims",
-      "key",
-      "victory",
-      "sudans",
-      "blue",
-      "nile",
-      "region"
-    ]
-  },
   "IRN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.moneycontrol.com/world/israel-warned-trump-that-iran-wanted-him-dead-but-cia-called-intel-low-confidence-did-netanyahu-try-to-derail-us-iran-talks-article-14004841.html",
+    "risk_score": 7.66,
+    "count": 10,
+    "top_news": "https://www.foxnews.com/media/wisconsin-democratic-candidate-governor-david-crowley-reveals-he-wont-campaign-hasan-piker",
     "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
+      "19": 4,
+      "15": 3,
+      "17": 3
     },
     "keywords": [
-      "world",
-      "israel",
-      "warned",
-      "trump",
-      "that",
-      "iran",
-      "wanted",
-      "him",
-      "dead",
-      "but",
-      "cia",
-      "called",
-      "intel",
-      "low",
-      "confidence",
-      "did",
-      "netanyahu",
-      "try",
-      "derail",
-      "iran",
-      "talks",
-      "article",
-      "14004841.html"
+      "media",
+      "wisconsin",
+      "democratic",
+      "candidate",
+      "governor",
+      "david",
+      "crowley",
+      "reveals",
+      "wont",
+      "campaign",
+      "hasan",
+      "piker"
     ]
   },
-  "IRQ": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://nypost.com/2026/08/13/us-news/suspect-in-attack-on-controversial-activist-jake-long-is-an-illegal-immigrant-who-served-15-years-for-murder/",
+  "ISR": {
+    "risk_score": 6.62,
+    "count": 9,
+    "top_news": "https://www.clevelandjewishnews.com/news/local_news/educator-discusses-rise-of-campus-antisemitism/article_c1545f83-8676-4765-93ff-87f6e2cc5dd9.html",
     "event_codes": {
-      "18": 5,
+      "16": 3,
+      "18": 2,
       "19": 2,
+      "15": 1,
       "17": 1
     },
     "keywords": [
-      "2026",
       "news",
-      "suspect",
-      "attack",
-      "controversial",
-      "activist",
-      "jake",
-      "long",
-      "illegal",
-      "immigrant",
-      "who",
-      "served",
-      "years",
-      "for",
-      "murder"
+      "local",
+      "news",
+      "educator",
+      "discusses",
+      "rise",
+      "campus",
+      "antisemitism",
+      "article",
+      "c1545f83",
+      "8676",
+      "4765",
+      "93ff",
+      "87f6e2cc5dd9.html"
     ]
   },
-  "SDN": {
-    "risk_score": 2.85,
+  "KEN": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://www.standardmedia.co.ke/environment-climate/article/2001555281/how-many-will-die-the-mysterious-ailment-killing-kenyan-elephants",
+    "event_codes": {
+      "14": 4,
+      "19": 2
+    },
+    "keywords": [
+      "environment",
+      "climate",
+      "article",
+      "2001555281",
+      "how",
+      "many",
+      "will",
+      "die",
+      "the",
+      "mysterious",
+      "ailment",
+      "killing",
+      "kenyan",
+      "elephants"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
+    "top_news": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "news",
       "2026",
-      "rsf",
-      "claims",
-      "key",
-      "victory",
-      "sudans",
-      "blue",
-      "nile",
-      "region"
+      "will",
+      "all",
+      "out",
+      "war",
+      "yemen",
+      "reignite",
+      "houthis",
+      "escalate",
+      "attacks"
     ]
   },
-  "YEM": {
+  "SDN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.standardmedia.co.ke/africa/article/2001555272/paramilitaries-launch-drones-ground-attacks-across-sudan",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "africa",
+      "article",
+      "2001555272",
+      "paramilitaries",
+      "launch",
+      "drones",
+      "ground",
+      "attacks",
+      "across",
+      "sudan"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.okaz.com.sa/politics/na/2261178",
+    "top_news": "https://www.clevelandjewishnews.com/jns/erdo-an-vows-resolute-fight-for-palestinian-statehood/article_b2ca046d-848e-5820-a923-05bf00e15215.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "politics",
-      "2261178"
+      "jns",
+      "erdo",
+      "vows",
+      "resolute",
+      "fight",
+      "for",
+      "palestinian",
+      "statehood",
+      "article",
+      "b2ca046d",
+      "848e",
+      "5820",
+      "a923",
+      "05bf00e15215.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "will",
+      "all",
+      "out",
+      "war",
+      "yemen",
+      "reignite",
+      "houthis",
+      "escalate",
+      "attacks"
     ]
   }
 }
