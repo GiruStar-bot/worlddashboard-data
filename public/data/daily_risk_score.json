@@ -1,48 +1,110 @@
 {
   "ISR": {
-    "risk_score": 7.52,
-    "count": 8,
-    "top_news": "https://morningstaronline.co.uk/article/more-half-gazans-lack-access-water-says-un",
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.nvdaily.com/associated_press_national/iran-backed-houthis-clash-with-yemeni-forces-and-other-mideast-developments/article_356065e0-3810-5510-92f1-890e78ba2e56.html",
     "event_codes": {
-      "19": 5,
-      "18": 2,
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "associated",
+      "press",
+      "national",
+      "iran",
+      "backed",
+      "houthis",
+      "clash",
+      "with",
+      "yemeni",
+      "forces",
+      "and",
+      "other",
+      "mideast",
+      "developments",
+      "article",
+      "356065e0",
+      "3810",
+      "5510",
+      "92f1",
+      "890e78ba2e56.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thedailybeast.com/trumps-blonde-aide-natalie-harp-35-emerges-as-wild-card-to-replace-leavitt/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "trumps",
+      "blonde",
+      "aide",
+      "natalie",
+      "harp",
+      "emerges",
+      "wild",
+      "card",
+      "replace",
+      "leavitt"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://thesun.ng/osun-2026-tension-preparations-heighten-ahead-of-saturday-vote/",
+    "event_codes": {
+      "19": 4,
       "15": 1
     },
     "keywords": [
-      "article",
-      "more",
-      "half",
-      "gazans",
-      "lack",
-      "access",
-      "water",
-      "says"
+      "osun",
+      "2026",
+      "tension",
+      "preparations",
+      "heighten",
+      "ahead",
+      "saturday",
+      "vote"
     ]
   },
-  "TWN": {
-    "risk_score": 2.66,
-    "count": 4,
-    "top_news": "https://www.hngn.com/articles/272743/20260813/taiwan-wraps-largest-ever-war-games-officials-warn-this-no-longer-lab-exercise.htm",
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wgauradio.com/news/world/iran-backed-houthi/76DTKPASOY3S3BUHPPRZZ2G5H4/",
     "event_codes": {
-      "15": 3,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "articles",
-      "272743",
-      "20260813",
-      "taiwan",
-      "wraps",
-      "largest",
-      "ever",
-      "war",
-      "games",
-      "officials",
-      "warn",
-      "this",
-      "longer",
-      "lab",
-      "exercise.htm"
+      "news",
+      "world",
+      "iran",
+      "backed",
+      "houthi",
+      "76dtkpasoy3s3buhpprzz2g5h4"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/279240433/drone-attacks-target-khartoum-other-sudanese-cities-amid-escalating-fighting",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "279240433",
+      "drone",
+      "attacks",
+      "target",
+      "khartoum",
+      "other",
+      "sudanese",
+      "cities",
+      "amid",
+      "escalating",
+      "fighting"
     ]
   }
 }
