@@ -1,78 +1,136 @@
 {
-  "IRN": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://dominicanrepublicpost.com/us-iran-talks-in-deadlock/",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://buenosairesherald.com/politics/judiciary-orders-seizure-of-apartment-where-cristina-kirchner-is-under-house-arrest",
     "event_codes": {
-      "16": 3,
-      "14": 2,
-      "19": 1
+      "17": 4
     },
     "keywords": [
-      "iran",
-      "talks",
-      "deadlock"
+      "politics",
+      "judiciary",
+      "orders",
+      "seizure",
+      "apartment",
+      "where",
+      "cristina",
+      "kirchner",
+      "under",
+      "house",
+      "arrest"
     ]
   },
-  "ISR": {
-    "risk_score": 6.2,
-    "count": 7,
-    "top_news": "https://news.az/news/israel-ties-lebanon-withdrawal-to-hezbollah-disarmament-after-us-criticism",
+  "ETH": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
     "event_codes": {
-      "19": 5,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "rsf",
+      "claims",
+      "key",
+      "victory",
+      "sudans",
+      "blue",
+      "nile",
+      "region"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.moneycontrol.com/world/israel-warned-trump-that-iran-wanted-him-dead-but-cia-called-intel-low-confidence-did-netanyahu-try-to-derail-us-iran-talks-article-14004841.html",
+    "event_codes": {
+      "19": 3,
       "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
+      "world",
       "israel",
-      "ties",
-      "lebanon",
-      "withdrawal",
-      "hezbollah",
-      "disarmament",
-      "after",
-      "criticism"
+      "warned",
+      "trump",
+      "that",
+      "iran",
+      "wanted",
+      "him",
+      "dead",
+      "but",
+      "cia",
+      "called",
+      "intel",
+      "low",
+      "confidence",
+      "did",
+      "netanyahu",
+      "try",
+      "derail",
+      "iran",
+      "talks",
+      "article",
+      "14004841.html"
     ]
   },
-  "KEN": {
-    "risk_score": 3.0,
+  "IRQ": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://nypost.com/2026/08/13/us-news/suspect-in-attack-on-controversial-activist-jake-long-is-an-illegal-immigrant-who-served-15-years-for-murder/",
+    "event_codes": {
+      "18": 5,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "suspect",
+      "attack",
+      "controversial",
+      "activist",
+      "jake",
+      "long",
+      "illegal",
+      "immigrant",
+      "who",
+      "served",
+      "years",
+      "for",
+      "murder"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.85,
     "count": 3,
-    "top_news": "https://www.kenyan-post.com/2026/08/an-elderly-priest-found-dead-in-langata.html",
+    "top_news": "https://www.africanews.com/2026/08/13/rsf-claims-key-victory-in-sudans-blue-nile-region/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "2026",
-      "elderly",
-      "priest",
-      "found",
-      "dead",
-      "langata.html"
+      "rsf",
+      "claims",
+      "key",
+      "victory",
+      "sudans",
+      "blue",
+      "nile",
+      "region"
     ]
   },
-  "PSE": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.local10.com/news/2026/08/13/settler-siege-of-palestinian-homes-in-the-west-bank-a-horrific-act-of-terror-us-ambassador-says/",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.okaz.com.sa/politics/na/2261178",
     "event_codes": {
-      "17": 5
+      "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "settler",
-      "siege",
-      "palestinian",
-      "homes",
-      "the",
-      "west",
-      "bank",
-      "horrific",
-      "act",
-      "terror",
-      "ambassador",
-      "says"
+      "politics",
+      "2261178"
     ]
   }
 }
