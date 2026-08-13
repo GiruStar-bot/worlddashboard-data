@@ -1,23 +1,70 @@
 {
-  "SGP": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.businesstimes.com.sg/singapore/pritam-singh-struck-rolls-over-conviction-lying-parliamentary-committee",
+  "IDN": {
+    "risk_score": 8.6,
+    "count": 11,
+    "top_news": "https://en.tempo.co/read/2117400/fact-check-did-reform-2-0-protests-really-take-place-in-jakarta-in-august-2026",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "14": 6,
+      "18": 3,
+      "19": 2
     },
     "keywords": [
-      "singapore",
-      "pritam",
-      "singh",
-      "struck",
-      "rolls",
-      "over",
-      "conviction",
-      "lying",
-      "parliamentary",
-      "committee"
+      "read",
+      "2117400",
+      "fact",
+      "check",
+      "did",
+      "reform",
+      "protests",
+      "really",
+      "take",
+      "place",
+      "jakarta",
+      "august",
+      "2026"
+    ]
+  },
+  "NGA": {
+    "risk_score": 29.42,
+    "count": 36,
+    "top_news": "https://dailytrust.com/kidnappers-beat-me-for-reducing-ransom-to-n500000-kogi-abductee/",
+    "event_codes": {
+      "18": 15,
+      "17": 11,
+      "19": 10
+    },
+    "keywords": [
+      "kidnappers",
+      "beat",
+      "for",
+      "reducing",
+      "ransom",
+      "n500000",
+      "kogi",
+      "abductee"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.euronews.com/2026/08/13/us-strikes-targeting-houthis-killed-153-civilians-in-yemen-last-year-pentagon-review-says",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "strikes",
+      "targeting",
+      "houthis",
+      "killed",
+      "153",
+      "civilians",
+      "yemen",
+      "last",
+      "year",
+      "pentagon",
+      "review",
+      "says"
     ]
   }
 }
