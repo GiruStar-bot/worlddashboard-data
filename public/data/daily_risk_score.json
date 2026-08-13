@@ -1,196 +1,98 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.econotimes.com/US-Colombia-Weigh-Joint-Strikes-on-Armed-Groups-in-Expanded-Anti-Drug-Campaign-1749363",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "colombia",
-      "weigh",
-      "joint",
-      "strikes",
-      "armed",
-      "groups",
-      "expanded",
-      "anti",
-      "drug",
-      "campaign",
-      "1749363"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.0,
-    "count": 9,
-    "top_news": "https://www.livemint.com/global/irans-trump-strategy-dead-or-alive-11786537590318.html",
+    "risk_score": 9.3,
+    "count": 11,
+    "top_news": "https://news.az/news/iran-says-two-militants-killed-four-arrested-in-sistan-and-baluchestan",
     "event_codes": {
-      "19": 7,
-      "17": 2
+      "19": 5,
+      "17": 3,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "global",
-      "irans",
-      "trump",
-      "strategy",
-      "dead",
-      "alive",
-      "11786537590318.html"
+      "news",
+      "iran",
+      "says",
+      "two",
+      "militants",
+      "killed",
+      "four",
+      "arrested",
+      "sistan",
+      "and",
+      "baluchestan"
     ]
   },
   "ISR": {
-    "risk_score": 29.36,
-    "count": 32,
-    "top_news": "https://www.middleeastmonitor.com/20260813-calculated-deception-how-israel-uses-diplomacy-to-buy-time-for-gazas-destruction/",
-    "event_codes": {
-      "19": 18,
-      "20": 7,
-      "17": 3,
-      "18": 2,
-      "14": 1,
-      "16": 1
-    },
-    "keywords": [
-      "20260813",
-      "calculated",
-      "deception",
-      "how",
-      "israel",
-      "uses",
-      "diplomacy",
-      "buy",
-      "time",
-      "for",
-      "gazas",
-      "destruction"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.25,
-    "count": 3,
-    "top_news": "https://www.bbc.com/news/articles/cj4kppdk2qwo",
-    "event_codes": {
-      "14": 3
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "cj4kppdk2qwo"
-    ]
-  },
-  "SDN": {
-    "risk_score": 7.9,
+    "risk_score": 4.92,
     "count": 8,
-    "top_news": "http://www.kenyastar.com/news/279239449/sudanese-paramilitaries-renew-assault-reuters",
+    "top_news": "https://www.jpost.com/international/article-905400",
     "event_codes": {
-      "19": 7,
+      "17": 7,
       "18": 1
     },
     "keywords": [
-      "news",
-      "279239449",
-      "sudanese",
-      "paramilitaries",
-      "renew",
-      "assault",
-      "reuters"
+      "international",
+      "article",
+      "905400"
     ]
   },
-  "THA": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3301152/korean-drug-and-fraud-fugitive-arrested-in-phuket",
+  "KWT": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.latimes.com/opinion/story/2026-08-13/military-women-minorities-iran-war",
     "event_codes": {
-      "17": 6
+      "19": 4
     },
     "keywords": [
-      "thailand",
-      "general",
-      "3301152",
-      "korean",
-      "drug",
-      "and",
-      "fraud",
-      "fugitive",
-      "arrested",
-      "phuket"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.techtimes.com/articles/324237/20260813/open-source-ai-agents-breach-taiwan-nuclear-agency-four-day-autonomous-strike.htm",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "articles",
-      "324237",
-      "20260813",
-      "open",
-      "source",
-      "agents",
-      "breach",
-      "taiwan",
-      "nuclear",
-      "agency",
-      "four",
-      "day",
-      "autonomous",
-      "strike.htm"
-    ]
-  },
-  "VEN": {
-    "risk_score": 6.9,
-    "count": 14,
-    "top_news": "https://en.mercopress.com/2026/08/13/venezuela-s-government-and-opposition-agree-to-renew-the-supreme-court-and-claim-the-london-gold",
-    "event_codes": {
-      "17": 13,
-      "16": 1
-    },
-    "keywords": [
+      "opinion",
+      "story",
       "2026",
-      "venezuela",
-      "government",
-      "and",
-      "opposition",
-      "agree",
-      "renew",
-      "the",
-      "supreme",
-      "court",
-      "and",
-      "claim",
-      "the",
-      "london",
-      "gold"
+      "military",
+      "women",
+      "minorities",
+      "iran",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://thenationonlineng.net/osun-2026-11-adc-executives-defect-to-apc-four-days-to-governorship-election/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "osun",
+      "2026",
+      "adc",
+      "executives",
+      "defect",
+      "apc",
+      "four",
+      "days",
+      "governorship",
+      "election"
     ]
   },
   "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthi-rebels-clash-with-yemeni-government-forces-and-other-mideast-developments/articleshow/133209185.cms",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/yemeni-forces-say-houthi-attack-repelled-in-taiz-amid-escalation/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "news",
-      "defence",
-      "iran",
-      "backed",
-      "houthi",
-      "rebels",
-      "clash",
-      "with",
       "yemeni",
-      "government",
       "forces",
-      "and",
-      "other",
-      "mideast",
-      "developments",
-      "articleshow",
-      "133209185.cms"
+      "say",
+      "houthi",
+      "attack",
+      "repelled",
+      "taiz",
+      "amid",
+      "escalation"
     ]
   }
 }
