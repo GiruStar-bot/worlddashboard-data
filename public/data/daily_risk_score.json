@@ -1,128 +1,52 @@
 {
-  "COL": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://lavozcolorado.com/2026/08/12/a-week-in-review-206/",
+  "MLI": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/world-news/35-mauritanians-return-from-mali-detention-some-tortured-govt-101786578701506.html",
     "event_codes": {
-      "19": 4
+      "18": 4,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "week",
-      "review",
-      "206"
-    ]
-  },
-  "ETH": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://lavozcolorado.com/2026/08/12/a-week-in-review-206/",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "week",
-      "review",
-      "206"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://www.sbs.com.au/news/article/settlers-seige-palestinian-homes-in-west-bank/iuq0fhfh8",
-    "event_codes": {
-      "19": 4,
-      "14": 1
-    },
-    "keywords": [
+      "world",
       "news",
-      "article",
-      "settlers",
-      "seige",
-      "palestinian",
-      "homes",
-      "west",
-      "bank",
-      "iuq0fhfh8"
+      "mauritanians",
+      "return",
+      "from",
+      "mali",
+      "detention",
+      "some",
+      "tortured",
+      "govt",
+      "101786578701506.html"
     ]
   },
-  "NGA": {
-    "risk_score": 6.25,
-    "count": 11,
-    "top_news": "https://punchng.com/osun-2026-appeal-for-peaceful-election/",
+  "SYR": {
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://www.santafenewmexican.com/ap/international/former-syrian-president-assad-sentenced-to-death-in-absentia-for-war-crimes/article_534f6e67-956e-5c98-a65c-c74e14129ad1.html",
     "event_codes": {
-      "17": 6,
-      "14": 5
-    },
-    "keywords": [
-      "osun",
-      "2026",
-      "appeal",
-      "for",
-      "peaceful",
-      "election"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.sbs.com.au/news/article/settlers-seige-palestinian-homes-in-west-bank/iuq0fhfh8",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "settlers",
-      "seige",
-      "palestinian",
-      "homes",
-      "west",
-      "bank",
-      "iuq0fhfh8"
-    ]
-  },
-  "YEM": {
-    "risk_score": 12.5,
-    "count": 14,
-    "top_news": "https://www.businesstimes.com.sg/international/global/iran-says-no-progress-reviving-interim-peace-deal-us",
-    "event_codes": {
-      "19": 11,
-      "17": 3
+      "17": 4,
+      "18": 2
     },
     "keywords": [
       "international",
-      "global",
-      "iran",
-      "says",
-      "progress",
-      "reviving",
-      "interim",
-      "peace",
-      "deal"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 3.05,
-    "count": 5,
-    "top_news": "https://www.pressherald.com/2026/08/12/portland-nurse-was-detained-by-ice-during-jetport-security-screening/",
-    "event_codes": {
-      "17": 4,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "portland",
-      "nurse",
-      "was",
-      "detained",
-      "ice",
-      "during",
-      "jetport",
-      "security",
-      "screening"
+      "former",
+      "syrian",
+      "president",
+      "assad",
+      "sentenced",
+      "death",
+      "absentia",
+      "for",
+      "war",
+      "crimes",
+      "article",
+      "534f6e67",
+      "956e",
+      "5c98",
+      "a65c",
+      "c74e14129ad1.html"
     ]
   }
 }
