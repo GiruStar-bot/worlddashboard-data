@@ -1,99 +1,86 @@
 {
-  "IRN": {
+  "ISR": {
+    "risk_score": 11.42,
+    "count": 13,
+    "top_news": "https://wrp.org.uk/news/israeli-forces-raid-west-bank-towns/",
+    "event_codes": {
+      "19": 10,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "forces",
+      "raid",
+      "west",
+      "bank",
+      "towns"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.39,
+    "count": 5,
+    "top_news": "https://wrp.org.uk/news/israeli-forces-raid-west-bank-towns/",
+    "event_codes": {
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "forces",
+      "raid",
+      "west",
+      "bank",
+      "towns"
+    ]
+  },
+  "PER": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://freerepublic.com/focus/f-news/4391723/posts",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "focus",
+      "news",
+      "4391723",
+      "posts"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://english.news.cn/20260814/628f94ed82cb4163958ce2649d076856/c.html",
+    "top_news": "https://wrp.org.uk/news/israeli-forces-raid-west-bank-towns/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "20260814",
-      "628f94ed82cb4163958ce2649d076856",
-      "c.html"
+      "news",
+      "israeli",
+      "forces",
+      "raid",
+      "west",
+      "bank",
+      "towns"
     ]
   },
-  "ISR": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.4029tv.com/article/judge-dismisses-trump-lawsuit-antisemitism-harvard/73426629",
+  "VNM": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://freerepublic.com/focus/f-news/4391723/posts",
     "event_codes": {
-      "19": 6,
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "article",
-      "judge",
-      "dismisses",
-      "trump",
-      "lawsuit",
-      "antisemitism",
-      "harvard",
-      "73426629"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260814/42dbc78d1c134d05965327441c2e847e/c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "20260814",
-      "42dbc78d1c134d05965327441c2e847e",
-      "c.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://english.news.cn/africa/20260814/6b1894aac4c34d3b8747dbb943e9a9f7/c.html",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "africa",
-      "20260814",
-      "6b1894aac4c34d3b8747dbb943e9a9f7",
-      "c.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.theguardian.com/law/2026/aug/14/cps-director-apologises-for-failings-in-case-of-rapist-murderer-simon-levy",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "law",
-      "2026",
-      "aug",
-      "cps",
-      "director",
-      "apologises",
-      "for",
-      "failings",
-      "case",
-      "rapist",
-      "murderer",
-      "simon",
-      "levy"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260814/42dbc78d1c134d05965327441c2e847e/c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "20260814",
-      "42dbc78d1c134d05965327441c2e847e",
-      "c.html"
+      "focus",
+      "news",
+      "4391723",
+      "posts"
     ]
   }
 }
