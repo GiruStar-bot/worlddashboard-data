@@ -1,22 +1,84 @@
 {
-  "NGA": {
-    "risk_score": 2.02,
-    "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/08/osun-election-no-office-worth-blood-cdhr-warns-politicians/",
+  "ISR": {
+    "risk_score": 14.11,
+    "count": 15,
+    "top_news": "https://www.hngn.com/articles/272760/20260814/qusra-siege-enters-sixth-day-settlers-rebuild-tent-israeli-forces-block-aid-convoy.htm",
     "event_codes": {
-      "14": 2,
-      "15": 1
+      "19": 8,
+      "17": 4,
+      "18": 3
     },
     "keywords": [
-      "2026",
-      "osun",
-      "election",
-      "office",
-      "worth",
-      "blood",
-      "cdhr",
-      "warns",
-      "politicians"
+      "articles",
+      "272760",
+      "20260814",
+      "qusra",
+      "siege",
+      "enters",
+      "sixth",
+      "day",
+      "settlers",
+      "rebuild",
+      "tent",
+      "israeli",
+      "forces",
+      "block",
+      "aid",
+      "convoy.htm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.74,
+    "count": 5,
+    "top_news": "https://www.nationalaccordnewspaper.com/bauchi-forced-conversion-case-law-firm-petitions-dss-over-alleged-defiance-of-court-order-on-teens-release/",
+    "event_codes": {
+      "15": 2,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "bauchi",
+      "forced",
+      "conversion",
+      "case",
+      "law",
+      "firm",
+      "petitions",
+      "dss",
+      "over",
+      "alleged",
+      "defiance",
+      "court",
+      "order",
+      "teens",
+      "release"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.92,
+    "count": 8,
+    "top_news": "https://www.hngn.com/articles/272760/20260814/qusra-siege-enters-sixth-day-settlers-rebuild-tent-israeli-forces-block-aid-convoy.htm",
+    "event_codes": {
+      "19": 7,
+      "17": 1
+    },
+    "keywords": [
+      "articles",
+      "272760",
+      "20260814",
+      "qusra",
+      "siege",
+      "enters",
+      "sixth",
+      "day",
+      "settlers",
+      "rebuild",
+      "tent",
+      "israeli",
+      "forces",
+      "block",
+      "aid",
+      "convoy.htm"
     ]
   }
 }
