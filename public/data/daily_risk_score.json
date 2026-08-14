@@ -1,136 +1,74 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.afr.com/politics/federal/us-iran-war-live-updates-israel-reportedly-warned-us-of-plots-to-kill-trump-20260815-p60ojx",
+  "IRN": {
+    "risk_score": 7.9,
+    "count": 12,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/14/774351/Press-TV-s-news-headlines-",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 8,
+      "19": 4
     },
     "keywords": [
-      "politics",
-      "federal",
-      "iran",
-      "war",
-      "live",
-      "updates",
-      "israel",
-      "reportedly",
-      "warned",
-      "plots",
-      "kill",
-      "trump",
-      "20260815",
-      "p60ojx"
+      "detail",
+      "2026",
+      "774351",
+      "press",
+      "news",
+      "headlines"
     ]
   },
-  "LBY": {
-    "risk_score": 4.3,
-    "count": 6,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/libyas-khalifa-haftar-played-key-role-in-release-of-us-hostage-kevin-rideout-held-by-islamic-state-sources/articleshow/133250280.cms",
+  "ISR": {
+    "risk_score": 2.55,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/431726",
     "event_codes": {
-      "17": 3,
-      "19": 2,
+      "17": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "international",
-      "world",
-      "news",
-      "libyas",
-      "khalifa",
-      "haftar",
-      "played",
-      "key",
-      "role",
-      "release",
-      "hostage",
-      "kevin",
-      "rideout",
-      "held",
-      "islamic",
-      "state",
-      "sources",
-      "articleshow",
-      "133250280.cms"
-    ]
-  },
-  "MLI": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://whbl.com/2026/08/14/exclusive-libyas-haftar-played-key-role-in-release-of-us-hostage-held-by-islamic-state-sources-say/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "2026",
-      "exclusive",
-      "libyas",
-      "haftar",
-      "played",
-      "key",
-      "role",
-      "release",
-      "hostage",
-      "held",
-      "islamic",
-      "state",
-      "sources",
-      "say"
+      "431726"
     ]
   },
   "NER": {
-    "risk_score": 12.45,
-    "count": 15,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/libyas-khalifa-haftar-played-key-role-in-release-of-us-hostage-kevin-rideout-held-by-islamic-state-sources/articleshow/133250280.cms",
+    "risk_score": 8.25,
+    "count": 9,
+    "top_news": "https://www.theepochtimes.com/us/american-missionary-pilot-kidnapped-by-islamists-in-niger-released-trump-confirms-6075284",
     "event_codes": {
-      "18": 9,
-      "17": 3,
-      "19": 3
+      "19": 6,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "international",
-      "world",
-      "news",
-      "libyas",
-      "khalifa",
-      "haftar",
-      "played",
-      "key",
-      "role",
-      "release",
-      "hostage",
-      "kevin",
-      "rideout",
-      "held",
-      "islamic",
-      "state",
-      "sources",
-      "articleshow",
-      "133250280.cms"
+      "american",
+      "missionary",
+      "pilot",
+      "kidnapped",
+      "islamists",
+      "niger",
+      "released",
+      "trump",
+      "confirms",
+      "6075284"
     ]
   },
   "NGA": {
-    "risk_score": 5.5,
-    "count": 8,
-    "top_news": "https://www.vanguardngr.com/2026/08/troops-rescue-nine-kidnapped-victims-foil-terrorist-attacks-in-niger/",
+    "risk_score": 33.0,
+    "count": 37,
+    "top_news": "https://www.christiandaily.com/news/herdsmen-kill-at-least-31-christians-in-central-nigeria",
     "event_codes": {
-      "17": 5,
-      "19": 3
+      "19": 21,
+      "18": 10,
+      "17": 6
     },
     "keywords": [
-      "2026",
-      "troops",
-      "rescue",
-      "nine",
-      "kidnapped",
-      "victims",
-      "foil",
-      "terrorist",
-      "attacks",
-      "niger"
+      "news",
+      "herdsmen",
+      "kill",
+      "least",
+      "christians",
+      "central",
+      "nigeria"
     ]
   }
 }
