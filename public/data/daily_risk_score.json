@@ -1,156 +1,134 @@
 {
-  "COL": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.riotimesonline.com/colombias-de-la-espriella-meets-attorney-general-luz-adriana-camargo/",
+  "ETH": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202608140050.html",
     "event_codes": {
-      "19": 6
+      "19": 3
     },
     "keywords": [
-      "colombias",
-      "espriella",
-      "meets",
-      "attorney",
-      "general",
-      "luz",
-      "adriana",
-      "camargo"
+      "stories",
+      "202608140050.html"
     ]
   },
   "IRN": {
-    "risk_score": 2.95,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.i24news.tv/en/news/international/europe/artc-germany-manages-world-s-highest-level-of-antisemitism-berlin-needs-methods-to-confront-it-opinion",
+    "top_news": "https://news.webindia123.com/news/Articles/World/20260814/4486993.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "international",
-      "europe",
-      "artc",
-      "germany",
-      "manages",
+      "articles",
       "world",
-      "highest",
-      "level",
-      "antisemitism",
-      "berlin",
-      "needs",
-      "methods",
-      "confront",
-      "opinion"
+      "20260814",
+      "4486993.html"
     ]
   },
-  "ISR": {
-    "risk_score": 7.9,
-    "count": 8,
-    "top_news": "https://www.ibtimes.co.uk/netanyahu-islamic-republic-britain-remark-1814239",
-    "event_codes": {
-      "19": 7,
-      "18": 1
-    },
-    "keywords": [
-      "netanyahu",
-      "islamic",
-      "republic",
-      "britain",
-      "remark",
-      "1814239"
-    ]
-  },
-  "NGA": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://thenationonlineng.net/after-government-house-what-next-for-zulum/",
+    "top_news": "https://consortiumnews.com/2026/08/14/paper-tiger-the-us-trillion-dollar-war-machine/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "after",
-      "government",
-      "house",
-      "what",
-      "next",
-      "for",
-      "zulum"
+      "2026",
+      "paper",
+      "tiger",
+      "the",
+      "trillion",
+      "dollar",
+      "war",
+      "machine"
     ]
   },
-  "PER": {
-    "risk_score": 2.45,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/perus-fugitive-peru-libre-leader-vladimir-cerron-resurfaces-in-public/",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "perus",
-      "fugitive",
-      "peru",
-      "libre",
-      "leader",
-      "vladimir",
-      "cerron",
-      "resurfaces",
-      "public"
-    ]
-  },
-  "SGP": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.asiaone.com/singapore/police-islandwide-raid-loanshark-syndicate",
+  "ISR": {
+    "risk_score": 2.42,
+    "count": 3,
+    "top_news": "https://www.surinametimes.com/artikel/israel-reopens-historic-settlement-in-north-west-bank",
     "event_codes": {
       "14": 2,
-      "17": 1,
-      "19": 1
+      "17": 1
     },
     "keywords": [
-      "singapore",
-      "police",
-      "islandwide",
-      "raid",
-      "loanshark",
-      "syndicate"
+      "artikel",
+      "israel",
+      "reopens",
+      "historic",
+      "settlement",
+      "north",
+      "west",
+      "bank"
     ]
   },
-  "SYR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://news.az/news/israeli-army-opens-fire-on-civilian-areas-in-southern-syria",
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://metro.co.uk/2026/08/14/major-eastenders-star-confirms-exit-its-wild-29375048/",
     "event_codes": {
-      "19": 5
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "major",
+      "eastenders",
+      "star",
+      "confirms",
+      "exit",
+      "its",
+      "wild",
+      "29375048"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wsbradio.com/news/world/us-missionary/FF7CK7ASBM7NRHBETHKCVGL2SQ/",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
-      "israeli",
-      "army",
-      "opens",
-      "fire",
-      "civilian",
-      "areas",
-      "southern",
-      "syria"
+      "world",
+      "missionary",
+      "ff7ck7asbm7nrhbethkcvgl2sq"
     ]
   },
-  "THA": {
-    "risk_score": 4.44,
-    "count": 5,
-    "top_news": "https://www.straitstimes.com/asia/se-asia/thai-schools-step-up-security-after-deadly-shooting",
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.gmw.cn/2026-08/14/content_38944334.htm",
     "event_codes": {
-      "19": 3,
-      "15": 2
+      "19": 2
     },
     "keywords": [
-      "asia",
-      "asia",
-      "thai",
-      "schools",
-      "step",
-      "security",
-      "after",
-      "deadly",
-      "shooting"
+      "2026",
+      "content",
+      "38944334.htm"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://sputnikglobe.com/20260814/venezuela-wants-to-reclaim-4bln-in-gold-reserves-from-bank-of-england---reports-1124577021.html",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "20260814",
+      "venezuela",
+      "wants",
+      "reclaim",
+      "4bln",
+      "gold",
+      "reserves",
+      "from",
+      "bank",
+      "england",
+      "reports",
+      "1124577021.html"
     ]
   }
 }
