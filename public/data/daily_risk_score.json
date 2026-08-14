@@ -1,85 +1,136 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.tempo.co/read/2117539/france-top-court-blocks-social-media-ban-for-children",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.afr.com/politics/federal/us-iran-war-live-updates-israel-reportedly-warned-us-of-plots-to-kill-trump-20260815-p60ojx",
     "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "read",
-      "2117539",
-      "france",
-      "top",
-      "court",
-      "blocks",
-      "social",
-      "media",
-      "ban",
-      "for",
-      "children"
+      "politics",
+      "federal",
+      "iran",
+      "war",
+      "live",
+      "updates",
+      "israel",
+      "reportedly",
+      "warned",
+      "plots",
+      "kill",
+      "trump",
+      "20260815",
+      "p60ojx"
     ]
   },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.pr-inside.com/money-metals-to-honor-twin-falls-hero-jordan-salinas-with-25-ounce-r5212455.htm",
+  "LBY": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/libyas-khalifa-haftar-played-key-role-in-release-of-us-hostage-kevin-rideout-held-by-islamic-state-sources/articleshow/133250280.cms",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "money",
-      "metals",
-      "honor",
-      "twin",
-      "falls",
-      "hero",
-      "jordan",
-      "salinas",
-      "with",
-      "ounce",
-      "r5212455.htm"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.sanews.gov.za/world/malaysia-hopes-russias-further-help-mh17-crash-probe",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "malaysia",
-      "hopes",
-      "russias",
-      "further",
-      "help",
-      "mh17",
-      "crash",
-      "probe"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.82,
-    "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/surrounded-israels-new-west-bank-settlements-bring-chaos-palestinians",
-    "event_codes": {
+      "17": 3,
       "19": 2,
-      "17": 1
+      "18": 1
     },
     "keywords": [
-      "originals",
+      "news",
+      "international",
+      "world",
+      "news",
+      "libyas",
+      "khalifa",
+      "haftar",
+      "played",
+      "key",
+      "role",
+      "release",
+      "hostage",
+      "kevin",
+      "rideout",
+      "held",
+      "islamic",
+      "state",
+      "sources",
+      "articleshow",
+      "133250280.cms"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://whbl.com/2026/08/14/exclusive-libyas-haftar-played-key-role-in-release-of-us-hostage-held-by-islamic-state-sources-say/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
       "2026",
-      "surrounded",
-      "israels",
-      "new",
-      "west",
-      "bank",
-      "settlements",
-      "bring",
-      "chaos",
-      "palestinians"
+      "exclusive",
+      "libyas",
+      "haftar",
+      "played",
+      "key",
+      "role",
+      "release",
+      "hostage",
+      "held",
+      "islamic",
+      "state",
+      "sources",
+      "say"
+    ]
+  },
+  "NER": {
+    "risk_score": 12.45,
+    "count": 15,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/libyas-khalifa-haftar-played-key-role-in-release-of-us-hostage-kevin-rideout-held-by-islamic-state-sources/articleshow/133250280.cms",
+    "event_codes": {
+      "18": 9,
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "international",
+      "world",
+      "news",
+      "libyas",
+      "khalifa",
+      "haftar",
+      "played",
+      "key",
+      "role",
+      "release",
+      "hostage",
+      "kevin",
+      "rideout",
+      "held",
+      "islamic",
+      "state",
+      "sources",
+      "articleshow",
+      "133250280.cms"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.5,
+    "count": 8,
+    "top_news": "https://www.vanguardngr.com/2026/08/troops-rescue-nine-kidnapped-victims-foil-terrorist-attacks-in-niger/",
+    "event_codes": {
+      "17": 5,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "rescue",
+      "nine",
+      "kidnapped",
+      "victims",
+      "foil",
+      "terrorist",
+      "attacks",
+      "niger"
     ]
   }
 }
