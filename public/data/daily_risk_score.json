@@ -1,74 +1,54 @@
 {
-  "IRN": {
-    "risk_score": 7.9,
-    "count": 12,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/14/774351/Press-TV-s-news-headlines-",
+  "CHL": {
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://www.elciudadano.com/en/krassnoff-sentenced-to-15-years-for-kidnapping-and-disappearance-of-university-student-backed-by-kast/08/14/",
     "event_codes": {
-      "17": 8,
-      "19": 4
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "774351",
-      "press",
-      "news",
-      "headlines"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.55,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/431726",
-    "event_codes": {
-      "17": 2,
-      "14": 1,
+      "17": 5,
       "18": 1
     },
     "keywords": [
-      "news",
-      "431726"
+      "krassnoff",
+      "sentenced",
+      "years",
+      "for",
+      "kidnapping",
+      "and",
+      "disappearance",
+      "university",
+      "student",
+      "backed",
+      "kast"
     ]
   },
-  "NER": {
-    "risk_score": 8.25,
-    "count": 9,
-    "top_news": "https://www.theepochtimes.com/us/american-missionary-pilot-kidnapped-by-islamists-in-niger-released-trump-confirms-6075284",
+  "VEN": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.montereycountynow.com/news/local_news/family-members-of-ronald-tinsley-file-a-wrongful-death-claim-against-marina/article_bdf22527-8ec9-4ab1-9af5-64cb18ffa203.html",
     "event_codes": {
-      "19": 6,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "american",
-      "missionary",
-      "pilot",
-      "kidnapped",
-      "islamists",
-      "niger",
-      "released",
-      "trump",
-      "confirms",
-      "6075284"
-    ]
-  },
-  "NGA": {
-    "risk_score": 33.0,
-    "count": 37,
-    "top_news": "https://www.christiandaily.com/news/herdsmen-kill-at-least-31-christians-in-central-nigeria",
-    "event_codes": {
-      "19": 21,
-      "18": 10,
-      "17": 6
+      "17": 3,
+      "19": 3
     },
     "keywords": [
       "news",
-      "herdsmen",
-      "kill",
-      "least",
-      "christians",
-      "central",
-      "nigeria"
+      "local",
+      "news",
+      "family",
+      "members",
+      "ronald",
+      "tinsley",
+      "file",
+      "wrongful",
+      "death",
+      "claim",
+      "against",
+      "marina",
+      "article",
+      "bdf22527",
+      "8ec9",
+      "4ab1",
+      "9af5",
+      "64cb18ffa203.html"
     ]
   }
 }
