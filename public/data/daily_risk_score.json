@@ -1,89 +1,141 @@
 {
-  "IRN": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force/",
+    "top_news": "https://www.prokerala.com/news/articles/a1800457.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "news",
+      "articles",
+      "a1800457.html"
+    ]
+  },
+  "GUY": {
+    "risk_score": 2.75,
+    "count": 3,
+    "top_news": "https://kaieteurnewsonline.com/2026/08/14/the-mohameds-ccj-ruling-was-always-unambiguous/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
       "2026",
-      "centcom",
-      "launches",
-      "multinational",
-      "one",
-      "way",
-      "attack",
-      "drone",
-      "force"
+      "the",
+      "mohameds",
+      "ccj",
+      "ruling",
+      "was",
+      "always",
+      "unambiguous"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.32,
+    "count": 5,
+    "top_news": "https://www.moneycontrol.com/world/two-adnoc-tankers-attacked-in-strait-of-hormuz-uae-blames-iran-calls-it-flagrant-violation-article-14005998.html",
+    "event_codes": {
+      "16": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "two",
+      "adnoc",
+      "tankers",
+      "attacked",
+      "strait",
+      "hormuz",
+      "uae",
+      "blames",
+      "iran",
+      "calls",
+      "flagrant",
+      "violation",
+      "article",
+      "14005998.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.15,
+    "count": 3,
+    "top_news": "https://antonyloewenstein.com/tough-jews-battle-for-the-shiny-zionist-crown/",
+    "event_codes": {
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "tough",
+      "jews",
+      "battle",
+      "for",
+      "the",
+      "shiny",
+      "zionist",
+      "crown"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.kenyan-post.com/2026/08/kenyan-teacher-who-wrote-love-letter-to.html",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "2026",
+      "kenyan",
+      "teacher",
+      "who",
+      "wrote",
+      "love",
+      "letter",
+      "to.html"
     ]
   },
   "NGA": {
-    "risk_score": 9.05,
-    "count": 13,
-    "top_news": "https://www.premiumtimesng.com/news/more-news/902880-police-arrest-139-criminal-suspects-prosecute-64.html",
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://hallmarknews.com/land-dispute-my-only-offence-is-choosing-peace-over-violence-pastor-uncle/",
     "event_codes": {
-      "17": 7,
-      "19": 4,
-      "14": 1,
-      "18": 1
+      "17": 5
     },
     "keywords": [
-      "news",
-      "more",
-      "news",
-      "902880",
-      "police",
-      "arrest",
-      "139",
-      "criminal",
-      "suspects",
-      "prosecute",
-      "64.html"
+      "land",
+      "dispute",
+      "only",
+      "offence",
+      "choosing",
+      "peace",
+      "over",
+      "violence",
+      "pastor",
+      "uncle"
     ]
   },
-  "PSE": {
-    "risk_score": 6.42,
-    "count": 7,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/08/14/palestinians-besieged-in-west-bank-village-fear-israeli-settlers-will-seize-their-homes",
+  "SAU": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://gcaptain.com/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/",
     "event_codes": {
-      "19": 5,
-      "17": 2
+      "15": 2,
+      "19": 1
     },
     "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "faith",
-      "2026",
-      "palestinians",
-      "besieged",
-      "west",
-      "bank",
-      "village",
-      "fear",
-      "israeli",
-      "settlers",
+      "warns",
+      "iran",
       "will",
-      "seize",
-      "their",
-      "homes"
-    ]
-  },
-  "TCD": {
-    "risk_score": 4.4,
-    "count": 7,
-    "top_news": "https://www.arabnews.com/node/2654658/world",
-    "event_codes": {
-      "17": 3,
-      "14": 2,
-      "16": 2
-    },
-    "keywords": [
-      "node",
-      "2654658",
-      "world"
+      "step",
+      "economic",
+      "pressure",
+      "two",
+      "more",
+      "ships",
+      "attacked",
+      "hormuz"
     ]
   }
 }
