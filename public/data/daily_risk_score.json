@@ -1,61 +1,173 @@
 {
-  "IRN": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/trump-dismisses-concerns-over-conditions-us-aircraft-carrier",
+  "EGY": {
+    "risk_score": 6.8,
+    "count": 12,
+    "top_news": "https://lufkindailynews.com/news/record/on_the_record/8-15-26-on-the-record/article_0d5d7b05-67fe-512c-8090-acf11e925c54.html",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "17": 10,
+      "18": 2
     },
     "keywords": [
-      "originals",
-      "2026",
-      "trump",
-      "dismisses",
-      "concerns",
-      "over",
-      "conditions",
-      "aircraft",
-      "carrier"
+      "news",
+      "record",
+      "the",
+      "record",
+      "the",
+      "record",
+      "article",
+      "0d5d7b05",
+      "67fe",
+      "512c",
+      "8090",
+      "acf11e925c54.html"
     ]
   },
-  "NER": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "http://www.nigeriasun.com/news/279242186/trump-confirms-release-of-us-missionary-kidnapped-in-niger",
+  "IRN": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.wglt.org/local-news/2026-08-14/rep-sorensen-questions-presidents-decision-on-vaccines-threats-to-air-force-one",
     "event_codes": {
-      "18": 3,
+      "19": 2,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "local",
+      "news",
+      "2026",
+      "rep",
+      "sorensen",
+      "questions",
+      "presidents",
+      "decision",
+      "vaccines",
+      "threats",
+      "air",
+      "force",
+      "one"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.sott.net/article/507925-Israeli-troops-conducting-deliberate-arson-campaign-in-south-Lebanon",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "507925",
+      "israeli",
+      "troops",
+      "conducting",
+      "deliberate",
+      "arson",
+      "campaign",
+      "south",
+      "lebanon"
+    ]
+  },
+  "LBY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/exclusive-libyas-haftar-played-key-183118133.html",
+    "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "279242186",
-      "trump",
-      "confirms",
-      "release",
-      "missionary",
-      "kidnapped",
-      "niger"
+      "articles",
+      "exclusive",
+      "libyas",
+      "haftar",
+      "played",
+      "key",
+      "183118133.html"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/articles/exclusive-libyas-haftar-played-key-183118133.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "exclusive",
+      "libyas",
+      "haftar",
+      "played",
+      "key",
+      "183118133.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/articles/exclusive-libyas-haftar-played-key-183118133.html",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "exclusive",
+      "libyas",
+      "haftar",
+      "played",
+      "key",
+      "183118133.html"
     ]
   },
   "NGA": {
-    "risk_score": 8.89,
-    "count": 13,
-    "top_news": "https://dailytrust.com/4-soldiers-feared-dead-as-bandits-attack-sokoto-community/",
+    "risk_score": 25.32,
+    "count": 26,
+    "top_news": "https://promptnewsonline.com/son-mother-arraigned-over-alleged-plot-to-kill-father/",
     "event_codes": {
-      "17": 5,
-      "14": 3,
-      "19": 3,
-      "15": 2
+      "19": 18,
+      "17": 6,
+      "18": 2
     },
     "keywords": [
-      "soldiers",
-      "feared",
-      "dead",
-      "bandits",
-      "attack",
-      "sokoto",
-      "community"
+      "son",
+      "mother",
+      "arraigned",
+      "over",
+      "alleged",
+      "plot",
+      "kill",
+      "father"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.boston.com/news/national-news/2026/08/14/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue-during-appeal/",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "national",
+      "news",
+      "2026",
+      "trump",
+      "asks",
+      "supreme",
+      "court",
+      "let",
+      "white",
+      "house",
+      "ballroom",
+      "construction",
+      "continue",
+      "during",
+      "appeal"
     ]
   }
 }
