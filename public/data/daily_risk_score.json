@@ -1,17 +1,141 @@
 {
-  "ISR": {
-    "risk_score": 3.5,
-    "count": 6,
-    "top_news": "https://lobotero.com/2026/08/14/some-thoughts-on-israel/",
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-centcom01.htm",
     "event_codes": {
-      "17": 5,
-      "19": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
+      "military",
+      "library",
+      "news",
       "2026",
-      "some",
-      "thoughts",
-      "israel"
+      "mil",
+      "260813",
+      "centcom01.htm"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.29,
+    "count": 14,
+    "top_news": "https://www.cbc.ca/news/world/washington-netanyahu-west-bank-settler-siege-9.7307097",
+    "event_codes": {
+      "19": 12,
+      "15": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "washington",
+      "netanyahu",
+      "west",
+      "bank",
+      "settler",
+      "siege",
+      "9.7307097"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/08/lebanons-creative-talent-suffers-iran-war-squeezes-gulf-economies",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "lebanons",
+      "creative",
+      "talent",
+      "suffers",
+      "iran",
+      "war",
+      "squeezes",
+      "gulf",
+      "economies"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.45,
+    "count": 7,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unnews02.htm",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260813",
+      "unnews02.htm"
+    ]
+  },
+  "SAU": {
+    "risk_score": 6.44,
+    "count": 7,
+    "top_news": "http://www.thejakartapost.com/world/2026/08/14/one-indonesian-crewman-missing-two-survive-yemen-vessel-attack",
+    "event_codes": {
+      "19": 5,
+      "15": 2
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "one",
+      "indonesian",
+      "crewman",
+      "missing",
+      "two",
+      "survive",
+      "yemen",
+      "vessel",
+      "attack"
+    ]
+  },
+  "TWN": {
+    "risk_score": 10.35,
+    "count": 12,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260813-globaltimes01.htm",
+    "event_codes": {
+      "15": 5,
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "taiwan",
+      "2026",
+      "taiwan",
+      "260813",
+      "globaltimes01.htm"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.64,
+    "count": 5,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
+    "event_codes": {
+      "19": 3,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260813",
+      "unsc01.htm"
     ]
   }
 }
