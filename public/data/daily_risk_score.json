@@ -1,20 +1,156 @@
 {
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://leadership.ng/osun-2026-parties-make-last-minute-push/",
+  "COL": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.riotimesonline.com/colombias-de-la-espriella-meets-attorney-general-luz-adriana-camargo/",
     "event_codes": {
-      "18": 2,
+      "19": 6
+    },
+    "keywords": [
+      "colombias",
+      "espriella",
+      "meets",
+      "attorney",
+      "general",
+      "luz",
+      "adriana",
+      "camargo"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.i24news.tv/en/news/international/europe/artc-germany-manages-world-s-highest-level-of-antisemitism-berlin-needs-methods-to-confront-it-opinion",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "international",
+      "europe",
+      "artc",
+      "germany",
+      "manages",
+      "world",
+      "highest",
+      "level",
+      "antisemitism",
+      "berlin",
+      "needs",
+      "methods",
+      "confront",
+      "opinion"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://www.ibtimes.co.uk/netanyahu-islamic-republic-britain-remark-1814239",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "netanyahu",
+      "islamic",
+      "republic",
+      "britain",
+      "remark",
+      "1814239"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thenationonlineng.net/after-government-house-what-next-for-zulum/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "after",
+      "government",
+      "house",
+      "what",
+      "next",
+      "for",
+      "zulum"
+    ]
+  },
+  "PER": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/perus-fugitive-peru-libre-leader-vladimir-cerron-resurfaces-in-public/",
+    "event_codes": {
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "osun",
-      "2026",
-      "parties",
-      "make",
-      "last",
-      "minute",
-      "push"
+      "perus",
+      "fugitive",
+      "peru",
+      "libre",
+      "leader",
+      "vladimir",
+      "cerron",
+      "resurfaces",
+      "public"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.asiaone.com/singapore/police-islandwide-raid-loanshark-syndicate",
+    "event_codes": {
+      "14": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "singapore",
+      "police",
+      "islandwide",
+      "raid",
+      "loanshark",
+      "syndicate"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://news.az/news/israeli-army-opens-fire-on-civilian-areas-in-southern-syria",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "army",
+      "opens",
+      "fire",
+      "civilian",
+      "areas",
+      "southern",
+      "syria"
+    ]
+  },
+  "THA": {
+    "risk_score": 4.44,
+    "count": 5,
+    "top_news": "https://www.straitstimes.com/asia/se-asia/thai-schools-step-up-security-after-deadly-shooting",
+    "event_codes": {
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "asia",
+      "asia",
+      "thai",
+      "schools",
+      "step",
+      "security",
+      "after",
+      "deadly",
+      "shooting"
     ]
   }
 }
