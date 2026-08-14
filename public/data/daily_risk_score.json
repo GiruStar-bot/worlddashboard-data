@@ -1,1 +1,61 @@
-{}
+{
+  "IRN": {
+    "risk_score": 3.84,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/08/trump-dismisses-concerns-over-conditions-us-aircraft-carrier",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "trump",
+      "dismisses",
+      "concerns",
+      "over",
+      "conditions",
+      "aircraft",
+      "carrier"
+    ]
+  },
+  "NER": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "http://www.nigeriasun.com/news/279242186/trump-confirms-release-of-us-missionary-kidnapped-in-niger",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "279242186",
+      "trump",
+      "confirms",
+      "release",
+      "missionary",
+      "kidnapped",
+      "niger"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.89,
+    "count": 13,
+    "top_news": "https://dailytrust.com/4-soldiers-feared-dead-as-bandits-attack-sokoto-community/",
+    "event_codes": {
+      "17": 5,
+      "14": 3,
+      "19": 3,
+      "15": 2
+    },
+    "keywords": [
+      "soldiers",
+      "feared",
+      "dead",
+      "bandits",
+      "attack",
+      "sokoto",
+      "community"
+    ]
+  }
+}
