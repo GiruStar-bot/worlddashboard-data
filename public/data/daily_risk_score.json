@@ -1,134 +1,75 @@
 {
-  "ETH": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202608140050.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "stories",
-      "202608140050.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20260814/4486993.html",
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://pajhwok.com/2026/08/14/uae-says-2-adnoc-vessels-attacked-in-strait-of-hormuz/",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "world",
-      "20260814",
-      "4486993.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://consortiumnews.com/2026/08/14/paper-tiger-the-us-trillion-dollar-war-machine/",
-    "event_codes": {
-      "19": 2
+      "19": 4,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "paper",
-      "tiger",
-      "the",
-      "trillion",
-      "dollar",
-      "war",
-      "machine"
+      "uae",
+      "says",
+      "adnoc",
+      "vessels",
+      "attacked",
+      "strait",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 2.42,
-    "count": 3,
-    "top_news": "https://www.surinametimes.com/artikel/israel-reopens-historic-settlement-in-north-west-bank",
-    "event_codes": {
-      "14": 2,
-      "17": 1
-    },
-    "keywords": [
-      "artikel",
-      "israel",
-      "reopens",
-      "historic",
-      "settlement",
-      "north",
-      "west",
-      "bank"
-    ]
-  },
-  "JOR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://metro.co.uk/2026/08/14/major-eastenders-star-confirms-exit-its-wild-29375048/",
+    "top_news": "https://sana.sy/en/middle-east/2336275/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "major",
-      "eastenders",
-      "star",
-      "confirms",
-      "exit",
-      "its",
-      "wild",
-      "29375048"
+      "middle",
+      "east",
+      "2336275"
     ]
   },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wsbradio.com/news/world/us-missionary/FF7CK7ASBM7NRHBETHKCVGL2SQ/",
+  "NGA": {
+    "risk_score": 10.55,
+    "count": 15,
+    "top_news": "https://pmnewsnigeria.com/2026/08/14/army-arrests-dogo-gide-linked-operative-60-suspected-collaborators/",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "missionary",
-      "ff7ck7asbm7nrhbethkcvgl2sq"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.gmw.cn/2026-08/14/content_38944334.htm",
-    "event_codes": {
-      "19": 2
+      "17": 8,
+      "19": 5,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "content",
-      "38944334.htm"
+      "army",
+      "arrests",
+      "dogo",
+      "gide",
+      "linked",
+      "operative",
+      "suspected",
+      "collaborators"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://sputnikglobe.com/20260814/venezuela-wants-to-reclaim-4bln-in-gold-reserves-from-bank-of-england---reports-1124577021.html",
+  "TUR": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://cyprus-mail.com/2026/08/14/cyprus-commemorates-anniversary-of-second-phase-of-invasion",
     "event_codes": {
-      "17": 4
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "20260814",
-      "venezuela",
-      "wants",
-      "reclaim",
-      "4bln",
-      "gold",
-      "reserves",
-      "from",
-      "bank",
-      "england",
-      "reports",
-      "1124577021.html"
+      "2026",
+      "cyprus",
+      "commemorates",
+      "anniversary",
+      "second",
+      "phase",
+      "invasion"
     ]
   }
 }
