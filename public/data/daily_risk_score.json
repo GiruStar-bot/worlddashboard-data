@@ -1,86 +1,93 @@
 {
-  "ISR": {
-    "risk_score": 15.74,
-    "count": 19,
-    "top_news": "https://nuclear-news.net/2026/08/15/1-b1-at-un-security-council-officials-say-israeli-settler-violence-has-brought-west-bank-to-breaking-point/",
-    "event_codes": {
-      "14": 6,
-      "17": 4,
-      "19": 4,
-      "20": 3,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "security",
-      "council",
-      "officials",
-      "say",
-      "israeli",
-      "settler",
-      "violence",
-      "has",
-      "brought",
-      "west",
-      "bank",
-      "breaking",
-      "point"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://nuclear-news.net/2026/08/15/1-b1-at-un-security-council-officials-say-israeli-settler-violence-has-brought-west-bank-to-breaking-point/",
-    "event_codes": {
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "2026",
-      "security",
-      "council",
-      "officials",
-      "say",
-      "israeli",
-      "settler",
-      "violence",
-      "has",
-      "brought",
-      "west",
-      "bank",
-      "breaking",
-      "point"
-    ]
-  },
-  "SGP": {
+  "BHR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.mainstreamweekly.net/article16882.html",
+    "top_news": "https://www.moneycontrol.com/world/us-navy-ship-sailors-pushed-to-the-limit-after-iran-cripples-bahrain-hub-article-14006386.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "article16882.html"
+      "world",
+      "navy",
+      "ship",
+      "sailors",
+      "pushed",
+      "the",
+      "limit",
+      "after",
+      "iran",
+      "cripples",
+      "bahrain",
+      "hub",
+      "article",
+      "14006386.html"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/news/five-years-taliban-rule-state-has-survived-what-cost",
+  "IRN": {
+    "risk_score": 4.4,
+    "count": 6,
+    "top_news": "https://www.moneycontrol.com/world/us-navy-ship-sailors-pushed-to-the-limit-after-iran-cripples-bahrain-hub-article-14006386.html",
     "event_codes": {
-      "17": 4
+      "19": 3,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "navy",
+      "ship",
+      "sailors",
+      "pushed",
+      "the",
+      "limit",
+      "after",
+      "iran",
+      "cripples",
+      "bahrain",
+      "hub",
+      "article",
+      "14006386.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aninews.in/news/world/middle-east/idf-strikes-hezbollah-infrastructure-in-southern-lebanon-kills-seven-in-ansar20260815142445/",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
-      "five",
-      "years",
-      "taliban",
-      "rule",
-      "state",
-      "has",
-      "survived",
-      "what",
-      "cost"
+      "world",
+      "middle",
+      "east",
+      "idf",
+      "strikes",
+      "hezbollah",
+      "infrastructure",
+      "southern",
+      "lebanon",
+      "kills",
+      "seven",
+      "ansar20260815142445"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.15,
+    "count": 9,
+    "top_news": "https://blueprint.ng/tinubus-re-election-chances-brighter-in-2027-musa/",
+    "event_codes": {
+      "18": 5,
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "tinubus",
+      "election",
+      "chances",
+      "brighter",
+      "2027",
+      "musa"
     ]
   }
 }
