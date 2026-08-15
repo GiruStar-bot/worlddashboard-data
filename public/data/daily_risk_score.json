@@ -1,35 +1,100 @@
 {
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hottalkradio.com/news/2026/08/16/",
+  "ISR": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.arabnews.com/node/2654808/middle-east",
     "event_codes": {
-      "19": 2
+      "19": 10
     },
     "keywords": [
-      "news",
-      "2026"
+      "node",
+      "2654808",
+      "middle",
+      "east"
     ]
   },
-  "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/279244119/houthis-launch-missile-attack-on-yemen-marib-pro-govt-media",
+  "LBN": {
+    "risk_score": 4.68,
+    "count": 5,
+    "top_news": "https://www.cjme.com/2026/08/15/israeli-strikes-on-southern-lebanon-kill-11-in-another-test-to-truce/",
     "event_codes": {
-      "19": 4
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon",
+      "kill",
+      "another",
+      "test",
+      "truce"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.0,
+    "count": 14,
+    "top_news": "https://saharareporters.com/2026/08/15/oyo-police-command-arrests-10-suspected-human-parts-sellers-recovers-heart-skull",
+    "event_codes": {
+      "19": 7,
+      "18": 4,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "oyo",
+      "police",
+      "command",
+      "arrests",
+      "suspected",
+      "human",
+      "parts",
+      "sellers",
+      "recovers",
+      "heart",
+      "skull"
+    ]
+  },
+  "PSE": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.arabnews.com/node/2654808/middle-east",
+    "event_codes": {
+      "19": 11
+    },
+    "keywords": [
+      "node",
+      "2654808",
+      "middle",
+      "east"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-16055477/Somali-man-arrested-suspicion-attempted-murder-stabbing-migrant-hotel-near-Heathrow.html",
+    "event_codes": {
+      "19": 3,
+      "17": 1
     },
     "keywords": [
       "news",
-      "279244119",
-      "houthis",
-      "launch",
-      "missile",
-      "attack",
-      "yemen",
-      "marib",
-      "pro",
-      "govt",
-      "media"
+      "article",
+      "16055477",
+      "somali",
+      "man",
+      "arrested",
+      "suspicion",
+      "attempted",
+      "murder",
+      "stabbing",
+      "migrant",
+      "hotel",
+      "near",
+      "heathrow.html"
     ]
   }
 }
