@@ -1,51 +1,54 @@
 {
+  "COL": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.straitstimes.com/world/europe/race-to-reach-trapped-colombia-quake-survivors-offers-hope",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "europe",
+      "race",
+      "reach",
+      "trapped",
+      "colombia",
+      "quake",
+      "survivors",
+      "offers",
+      "hope"
+    ]
+  },
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4391845",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "tag",
+      "index"
+    ]
+  },
   "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.greanvillepost.com/fish-or-cut-bait/",
+    "top_news": "https://www.nbcnews.com/politics/politics-news/s-democrats-november-2027-politics-desk-rcna592655",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "fish",
-      "cut",
-      "bait"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.greanvillepost.com/israelis-now-get-confronted-everywhere-they-go/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "israelis",
-      "now",
-      "get",
-      "confronted",
-      "everywhere",
-      "they"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/americas/venezuela-announces-131-political-prisoners-granted-alternates-to-imprisonment/4027888",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "americas",
-      "venezuela",
-      "announces",
-      "131",
-      "political",
-      "prisoners",
-      "granted",
-      "alternates",
-      "imprisonment",
-      "4027888"
+      "politics",
+      "politics",
+      "news",
+      "democrats",
+      "november",
+      "2027",
+      "politics",
+      "desk",
+      "rcna592655"
     ]
   }
 }
