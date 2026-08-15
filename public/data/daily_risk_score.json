@@ -1,69 +1,96 @@
 {
   "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.azernews.az/region/262422.html",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "region",
-      "262422.html"
-    ]
-  },
-  "IRQ": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://organiser.org/2026/08/15/375209/world/pakistan-saudi-arabia-turkiye-defence-pact-a-shaky-beginning-and-growing-questions-over-its-strategic-credibility/",
+    "count": 4,
+    "top_news": "https://www.nbcnews.com/world/afghanistan/taliban-mark-five-years-back-power-afghanistan-aid-groups-warn-crisis-rcna592676",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
-      "2026",
-      "375209",
       "world",
-      "pakistan",
-      "saudi",
-      "arabia",
-      "turkiye",
-      "defence",
-      "pact",
-      "shaky",
-      "beginning",
-      "and",
-      "growing",
-      "questions",
-      "over",
-      "its",
-      "strategic",
-      "credibility"
+      "afghanistan",
+      "taliban",
+      "mark",
+      "five",
+      "years",
+      "back",
+      "power",
+      "afghanistan",
+      "aid",
+      "groups",
+      "warn",
+      "crisis",
+      "rcna592676"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/middle-east/iran-says-qatar-captured-3-pilots-after-fighter-jets-crashed-during-war-with-us-israel/4028212",
+    "risk_score": 7.1,
+    "count": 10,
+    "top_news": "https://www.hngn.com/articles/272765/20260815/palestinian-nurse-permanently-paralyzed-after-settler-gunfire-west-bank-town-sair.htm",
     "event_codes": {
-      "19": 4
+      "19": 5,
+      "16": 4,
+      "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
-      "says",
-      "qatar",
-      "captured",
-      "pilots",
+      "articles",
+      "272765",
+      "20260815",
+      "palestinian",
+      "nurse",
+      "permanently",
+      "paralyzed",
       "after",
-      "fighter",
-      "jets",
-      "crashed",
-      "during",
+      "settler",
+      "gunfire",
+      "west",
+      "bank",
+      "town",
+      "sair.htm"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.15,
+    "count": 12,
+    "top_news": "https://thesun.ng/3-dead-2-wounded-in-vigilante-abductor-shootout-in-imo/",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "dead",
+      "wounded",
+      "vigilante",
+      "abductor",
+      "shootout",
+      "imo"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.hngn.com/articles/272756/20260814/yemens-civil-war-reignites-houthi-forces-escalate-attacks-government-positions-taiz.htm",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "articles",
+      "272756",
+      "20260814",
+      "yemens",
+      "civil",
       "war",
-      "with",
-      "israel",
-      "4028212"
+      "reignites",
+      "houthi",
+      "forces",
+      "escalate",
+      "attacks",
+      "government",
+      "positions",
+      "taiz.htm"
     ]
   }
 }
