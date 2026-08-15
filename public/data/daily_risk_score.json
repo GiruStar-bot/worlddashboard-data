@@ -1,96 +1,100 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.nbcnews.com/world/afghanistan/taliban-mark-five-years-back-power-afghanistan-aid-groups-warn-crisis-rcna592676",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "world",
-      "afghanistan",
-      "taliban",
-      "mark",
-      "five",
-      "years",
-      "back",
-      "power",
-      "afghanistan",
-      "aid",
-      "groups",
-      "warn",
-      "crisis",
-      "rcna592676"
-    ]
-  },
   "ISR": {
-    "risk_score": 7.1,
+    "risk_score": 9.48,
     "count": 10,
-    "top_news": "https://www.hngn.com/articles/272765/20260815/palestinian-nurse-permanently-paralyzed-after-settler-gunfire-west-bank-town-sair.htm",
+    "top_news": "https://www.arabnews.com/node/2654788/middle-east",
     "event_codes": {
-      "19": 5,
-      "16": 4,
-      "17": 1
+      "19": 6,
+      "17": 3,
+      "15": 1
     },
     "keywords": [
-      "articles",
-      "272765",
-      "20260815",
-      "palestinian",
-      "nurse",
-      "permanently",
-      "paralyzed",
-      "after",
-      "settler",
-      "gunfire",
-      "west",
-      "bank",
-      "town",
-      "sair.htm"
+      "node",
+      "2654788",
+      "middle",
+      "east"
     ]
   },
-  "NGA": {
-    "risk_score": 9.15,
-    "count": 12,
-    "top_news": "https://thesun.ng/3-dead-2-wounded-in-vigilante-abductor-shootout-in-imo/",
+  "LBN": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://bilkulonline.com/2026/08/15/daily-news-wrap-bilkulonline-60/",
     "event_codes": {
-      "17": 4,
-      "19": 4,
-      "18": 3,
-      "16": 1
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "dead",
-      "wounded",
-      "vigilante",
-      "abductor",
-      "shootout",
-      "imo"
+      "2026",
+      "daily",
+      "news",
+      "wrap",
+      "bilkulonline"
     ]
   },
-  "YEM": {
+  "NER": {
     "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.hngn.com/articles/272756/20260814/yemens-civil-war-reignites-houthi-forces-escalate-attacks-government-positions-taiz.htm",
+    "top_news": "https://quicknews-africa.net/military-eliminates-65-terrorists-rescues-34-kidnap-victims-in-1-week/",
     "event_codes": {
       "19": 2,
       "17": 1
     },
     "keywords": [
-      "articles",
-      "272756",
-      "20260814",
-      "yemens",
-      "civil",
-      "war",
-      "reignites",
-      "houthi",
-      "forces",
-      "escalate",
-      "attacks",
-      "government",
-      "positions",
-      "taiz.htm"
+      "military",
+      "eliminates",
+      "terrorists",
+      "rescues",
+      "kidnap",
+      "victims",
+      "week"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://quicknews-africa.net/military-eliminates-65-terrorists-rescues-34-kidnap-victims-in-1-week/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "military",
+      "eliminates",
+      "terrorists",
+      "rescues",
+      "kidnap",
+      "victims",
+      "week"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.hngnews.com/nation_world/iran-says-qatar-is-holding-pilots-israeli-strikes-kill-9-in-lebanon-and-other-middle/article_20495e26-a775-5722-8ebe-edb45f70d1bb.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "nation",
+      "world",
+      "iran",
+      "says",
+      "qatar",
+      "holding",
+      "pilots",
+      "israeli",
+      "strikes",
+      "kill",
+      "lebanon",
+      "and",
+      "other",
+      "middle",
+      "article",
+      "20495e26",
+      "a775",
+      "5722",
+      "8ebe",
+      "edb45f70d1bb.html"
     ]
   }
 }
