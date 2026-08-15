@@ -1,84 +1,45 @@
 {
-  "IRN": {
-    "risk_score": 2.42,
-    "count": 3,
-    "top_news": "http://www.goskagit.com/news/ap_business/iran-claims-qatar-is-holding-pilots-israeli-strikes-kill-11-in-lebanon-and-other-middle/article_23622e45-97ed-532c-ad97-f53001ad62e0.html",
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/15/774421/Palestine-Gaza-Civil-Defense-rescue-teams-recover-bodies-Palestinians-beneath-rubble-destroyed-buildings-Israeli-war",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774421",
+      "palestine",
+      "gaza",
+      "civil",
+      "defense",
+      "rescue",
+      "teams",
+      "recover",
+      "bodies",
+      "palestinians",
+      "beneath",
+      "rubble",
+      "destroyed",
+      "buildings",
+      "israeli",
+      "war"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://news.ltn.com.tw/news/focus/breakingnews/5541262",
+    "event_codes": {
+      "15": 4
     },
     "keywords": [
       "news",
-      "business",
-      "iran",
-      "claims",
-      "qatar",
-      "holding",
-      "pilots",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon",
-      "and",
-      "other",
-      "middle",
-      "article",
-      "23622e45",
-      "97ed",
-      "532c",
-      "ad97",
-      "f53001ad62e0.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.7,
-    "count": 17,
-    "top_news": "https://sana.sy/en/middle-east/2336557/",
-    "event_codes": {
-      "19": 14,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "2336557"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.brandonsun.com/local/2026/08/15/israeli-airstrike-on-southern-lebanon-kills-7-people-lebanese-state-media-say",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "local",
-      "2026",
-      "israeli",
-      "airstrike",
-      "southern",
-      "lebanon",
-      "kills",
-      "people",
-      "lebanese",
-      "state",
-      "media",
-      "say"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://sana.sy/en/middle-east/2336557/",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "2336557"
+      "focus",
+      "breakingnews",
+      "5541262"
     ]
   }
 }
