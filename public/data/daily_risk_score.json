@@ -1,128 +1,94 @@
 {
-  "BRA": {
-    "risk_score": 2.5,
+  "BFA": {
+    "risk_score": 2.12,
     "count": 3,
-    "top_news": "https://timesofoman.com/article/175650-france-top-watchdog-blocks-social-media-ban-for-children",
+    "top_news": "https://pidgin.informationng.com/?p=35714",
     "event_codes": {
-      "19": 2,
+      "15": 1,
+      "16": 1,
+      "19": 1
+    },
+    "keywords": []
+  },
+  "IRN": {
+    "risk_score": 5.15,
+    "count": 6,
+    "top_news": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war",
+    "event_codes": {
+      "19": 4,
+      "14": 1,
       "17": 1
     },
     "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
       "article",
-      "175650",
-      "france",
-      "top",
-      "watchdog",
-      "blocks",
-      "social",
-      "media",
-      "ban",
-      "for",
-      "children"
+      "3364164",
+      "iran",
+      "urges",
+      "qatar",
+      "release",
+      "pilots",
+      "shot",
+      "down",
+      "middle",
+      "east",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 8.19,
-    "count": 10,
-    "top_news": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "risk_score": 11.67,
+    "count": 13,
+    "top_news": "https://english.wafa.ps/Pages/Details/173646",
     "event_codes": {
-      "18": 3,
-      "19": 3,
-      "15": 2,
-      "17": 2
+      "19": 8,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
-      "world",
-      "exclusive",
-      "israel",
-      "seizes",
-      "vast",
-      "iran",
-      "terror",
-      "axis",
-      "arsenal",
-      "surprising",
-      "foreign",
-      "origins"
+      "pages",
+      "details",
+      "173646"
     ]
   },
   "LBN": {
-    "risk_score": 3.67,
-    "count": 4,
-    "top_news": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.scmp.com/news/world/middle-east/article/3364163/israeli-air-strikes-lebanon-kill-11-people-another-test-truce",
     "event_codes": {
-      "19": 3,
-      "15": 1
-    },
-    "keywords": [
-      "world",
-      "exclusive",
-      "israel",
-      "seizes",
-      "vast",
-      "iran",
-      "terror",
-      "axis",
-      "arsenal",
-      "surprising",
-      "foreign",
-      "origins"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://punchng.com/police-nab-27-year-old-over-fatal-hotel-stabbing-in-adamawa/",
-    "event_codes": {
-      "17": 4,
       "19": 2
     },
     "keywords": [
-      "police",
-      "nab",
-      "year",
-      "old",
-      "over",
-      "fatal",
-      "hotel",
-      "stabbing",
-      "adamawa"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://thefutoncritic.com/news/2026/08/14/development-update-week-of-august-10-14-137013/14866/",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
       "news",
-      "2026",
-      "development",
-      "update",
-      "week",
-      "august",
-      "137013",
-      "14866"
+      "world",
+      "middle",
+      "east",
+      "article",
+      "3364163",
+      "israeli",
+      "air",
+      "strikes",
+      "lebanon",
+      "kill",
+      "people",
+      "another",
+      "test",
+      "truce"
     ]
   },
-  "ZWE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theglobeandmail.com/world/article-capsized-ferry-in-zimbabwe-kills-68-people/",
+  "PSE": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://english.wafa.ps/Pages/Details/173650",
     "event_codes": {
-      "19": 3
+      "19": 7
     },
     "keywords": [
-      "world",
-      "article",
-      "capsized",
-      "ferry",
-      "zimbabwe",
-      "kills",
-      "people"
+      "pages",
+      "details",
+      "173650"
     ]
   }
 }
