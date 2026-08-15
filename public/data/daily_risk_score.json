@@ -1,100 +1,131 @@
 {
-  "ISR": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.arabnews.com/node/2654808/middle-east",
+  "IRN": {
+    "risk_score": 9.0,
+    "count": 15,
+    "top_news": "https://newswithviews.com/vp-vance-is-actually-a-dangerous-choice-for-potus/",
     "event_codes": {
-      "19": 10
+      "17": 12,
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "node",
-      "2654808",
-      "middle",
-      "east"
+      "vance",
+      "actually",
+      "dangerous",
+      "choice",
+      "for",
+      "potus"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.75,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-masafer-yatta-attacks",
+    "event_codes": {
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "settlers",
+      "injure",
+      "five",
+      "palestinians",
+      "masafer",
+      "yatta",
+      "attacks"
     ]
   },
   "LBN": {
-    "risk_score": 4.68,
+    "risk_score": 4.8,
     "count": 5,
-    "top_news": "https://www.cjme.com/2026/08/15/israeli-strikes-on-southern-lebanon-kill-11-in-another-test-to-truce/",
+    "top_news": "https://www.theamericanconservative.com/iran-war-day-169-trump-claims-hormuz-will-become-u-s-territory-pretty-soon/",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "18": 2,
+      "19": 2,
+      "20": 1
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon",
-      "kill",
-      "another",
-      "test",
-      "truce"
+      "iran",
+      "war",
+      "day",
+      "169",
+      "trump",
+      "claims",
+      "hormuz",
+      "will",
+      "become",
+      "territory",
+      "pretty",
+      "soon"
     ]
   },
   "NGA": {
-    "risk_score": 12.0,
-    "count": 14,
-    "top_news": "https://saharareporters.com/2026/08/15/oyo-police-command-arrests-10-suspected-human-parts-sellers-recovers-heart-skull",
+    "risk_score": 2.56,
+    "count": 3,
+    "top_news": "https://nigerianobservernews.com/2026/08/rmafc-completes-revenue-formula-remuneration-review/",
     "event_codes": {
-      "19": 7,
-      "18": 4,
       "17": 2,
-      "16": 1
+      "15": 1
     },
     "keywords": [
       "2026",
-      "oyo",
-      "police",
-      "command",
-      "arrests",
-      "suspected",
-      "human",
-      "parts",
-      "sellers",
-      "recovers",
-      "heart",
-      "skull"
+      "rmafc",
+      "completes",
+      "revenue",
+      "formula",
+      "remuneration",
+      "review"
     ]
   },
   "PSE": {
-    "risk_score": 11.0,
-    "count": 11,
-    "top_news": "https://www.arabnews.com/node/2654808/middle-east",
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-masafer-yatta-attacks",
     "event_codes": {
-      "19": 11
+      "18": 5,
+      "19": 1
     },
     "keywords": [
-      "node",
-      "2654808",
-      "middle",
-      "east"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "settlers",
+      "injure",
+      "five",
+      "palestinians",
+      "masafer",
+      "yatta",
+      "attacks"
     ]
   },
-  "SOM": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-16055477/Somali-man-arrested-suspicion-attempted-murder-stabbing-migrant-hotel-near-Heathrow.html",
+  "QAT": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/world/articles/qatar-denies-capturing-three-iranian-210402602.html",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "article",
-      "16055477",
-      "somali",
-      "man",
-      "arrested",
-      "suspicion",
-      "attempted",
-      "murder",
-      "stabbing",
-      "migrant",
-      "hotel",
-      "near",
-      "heathrow.html"
+      "world",
+      "articles",
+      "qatar",
+      "denies",
+      "capturing",
+      "three",
+      "iranian",
+      "210402602.html"
     ]
   }
 }
