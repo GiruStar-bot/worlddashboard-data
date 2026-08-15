@@ -1,100 +1,85 @@
 {
   "ISR": {
-    "risk_score": 9.48,
-    "count": 10,
-    "top_news": "https://www.arabnews.com/node/2654788/middle-east",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.middleeasteye.net/news/israel-pilot-zones-withdrawal-paper-continued-occupation-south-lebanon",
     "event_codes": {
       "19": 6,
-      "17": 3,
-      "15": 1
-    },
-    "keywords": [
-      "node",
-      "2654788",
-      "middle",
-      "east"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://bilkulonline.com/2026/08/15/daily-news-wrap-bilkulonline-60/",
-    "event_codes": {
-      "19": 3,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "daily",
       "news",
-      "wrap",
-      "bilkulonline"
+      "israel",
+      "pilot",
+      "zones",
+      "withdrawal",
+      "paper",
+      "continued",
+      "occupation",
+      "south",
+      "lebanon"
     ]
   },
-  "NER": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://quicknews-africa.net/military-eliminates-65-terrorists-rescues-34-kidnap-victims-in-1-week/",
+  "LBN": {
+    "risk_score": 8.66,
+    "count": 10,
+    "top_news": "http://www.bignewsnetwork.com/news/279243868/israeli-military-says-killed-hezbollah-radwan-force-commander-in-s-lebanon",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 5,
+      "19": 4,
+      "18": 1
     },
     "keywords": [
+      "news",
+      "279243868",
+      "israeli",
       "military",
-      "eliminates",
-      "terrorists",
-      "rescues",
-      "kidnap",
-      "victims",
-      "week"
+      "says",
+      "killed",
+      "hezbollah",
+      "radwan",
+      "force",
+      "commander",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 2.8,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://quicknews-africa.net/military-eliminates-65-terrorists-rescues-34-kidnap-victims-in-1-week/",
+    "top_news": "https://dailytrust.com/osun-police-arrest-officer-who-scared-voters-with-tear-gas/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "military",
-      "eliminates",
-      "terrorists",
-      "rescues",
-      "kidnap",
-      "victims",
-      "week"
+      "osun",
+      "police",
+      "arrest",
+      "officer",
+      "who",
+      "scared",
+      "voters",
+      "with",
+      "tear",
+      "gas"
     ]
   },
-  "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "http://www.hngnews.com/nation_world/iran-says-qatar-is-holding-pilots-israeli-strikes-kill-9-in-lebanon-and-other-middle/article_20495e26-a775-5722-8ebe-edb45f70d1bb.html",
+  "TCD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.the-star.co.ke/news/africa/2026-08-15-pardon-for-presidents-main-rival-in-chad",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "nation",
-      "world",
-      "iran",
-      "says",
-      "qatar",
-      "holding",
-      "pilots",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon",
-      "and",
-      "other",
-      "middle",
-      "article",
-      "20495e26",
-      "a775",
-      "5722",
-      "8ebe",
-      "edb45f70d1bb.html"
+      "news",
+      "africa",
+      "2026",
+      "pardon",
+      "for",
+      "presidents",
+      "main",
+      "rival",
+      "chad"
     ]
   }
 }
