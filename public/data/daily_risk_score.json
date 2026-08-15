@@ -1,46 +1,120 @@
 {
-  "NGA": {
-    "risk_score": 50.15,
-    "count": 68,
-    "top_news": "https://www.vanguardngr.com/2026/08/military-airstrikes-ground-offensive-kill-over-160-terrorists-in-north-west/",
+  "IRN": {
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/15/774392/Qalibaf-halted-talks-warned-immediate-strike-after-Israeli-assault-Dahiyeh",
     "event_codes": {
-      "17": 29,
-      "19": 27,
-      "15": 5,
       "14": 3,
-      "18": 3,
-      "16": 1
+      "18": 2
     },
     "keywords": [
+      "detail",
       "2026",
-      "military",
-      "airstrikes",
-      "ground",
-      "offensive",
-      "kill",
-      "over",
-      "160",
-      "terrorists",
-      "north",
-      "west"
+      "774392",
+      "qalibaf",
+      "halted",
+      "talks",
+      "warned",
+      "immediate",
+      "strike",
+      "after",
+      "israeli",
+      "assault",
+      "dahiyeh"
     ]
   },
-  "ZWE": {
+  "ISR": {
+    "risk_score": 11.31,
+    "count": 14,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/15/774391/Israeli-forces-detain-Palestinian-newlywed-couple,-storm-wedding-hall-in-West-Bank",
+    "event_codes": {
+      "19": 4,
+      "15": 3,
+      "17": 3,
+      "18": 3,
+      "14": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774391",
+      "israeli",
+      "forces",
+      "detain",
+      "palestinian",
+      "newlywed",
+      "couple,",
+      "storm",
+      "wedding",
+      "hall",
+      "west",
+      "bank"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://journalnow.com/news/community/article_e8618be7-c799-5409-8ffa-1395a5062015.html",
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/15/774382/Seven-killed,-3-injured-in-Israeli-strikes-in-southern-Lebanon-in-latest-ceasefire-violation",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "community",
-      "article",
-      "e8618be7",
-      "c799",
-      "5409",
-      "8ffa",
-      "1395a5062015.html"
+      "detail",
+      "2026",
+      "774382",
+      "seven",
+      "killed,",
+      "injured",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon",
+      "latest",
+      "ceasefire",
+      "violation"
+    ]
+  },
+  "NGA": {
+    "risk_score": 16.7,
+    "count": 20,
+    "top_news": "https://theeagleonline.com.ng/two-injured-as-sabo-residents-clash-with-amotekun-operatives/",
+    "event_codes": {
+      "19": 8,
+      "18": 6,
+      "17": 4,
+      "14": 2
+    },
+    "keywords": [
+      "two",
+      "injured",
+      "sabo",
+      "residents",
+      "clash",
+      "with",
+      "amotekun",
+      "operatives"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.tanzanianewsreports.com/egypt-denies-connection-to-ship-targeted-near-yemen-condemns-red-sea-maritime-attacks/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "egypt",
+      "denies",
+      "connection",
+      "ship",
+      "targeted",
+      "near",
+      "yemen",
+      "condemns",
+      "red",
+      "sea",
+      "maritime",
+      "attacks"
     ]
   }
 }
