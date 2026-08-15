@@ -1,93 +1,51 @@
 {
-  "BRA": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://news4sanantonio.com/news/local/operation-take-back-america-drives-292-new-immigration-cases-across-west-texas-doj-says",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "news",
-      "local",
-      "operation",
-      "take",
-      "back",
-      "america",
-      "drives",
-      "292",
-      "new",
-      "immigration",
-      "cases",
-      "across",
-      "west",
-      "texas",
-      "doj",
-      "says"
-    ]
-  },
   "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html",
+    "top_news": "https://www.greanvillepost.com/fish-or-cut-bait/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "and",
-      "politics",
-      "2026",
-      "trump",
-      "uss",
-      "abraham",
-      "lincoln",
-      "navy",
-      "iran",
-      "war.html"
+      "fish",
+      "cut",
+      "bait"
     ]
   },
-  "ISR": {
-    "risk_score": 6.9,
-    "count": 9,
-    "top_news": "https://www.foxnews.com/politics/el-sayeds-half-sister-offered-oct-7-blessing-one-year-after-hamas-attack-allahu-akbar",
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.greanvillepost.com/israelis-now-get-confronted-everywhere-they-go/",
     "event_codes": {
-      "14": 6,
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "politics",
-      "sayeds",
-      "half",
-      "sister",
-      "offered",
-      "oct",
-      "blessing",
-      "one",
-      "year",
-      "after",
-      "hamas",
-      "attack",
-      "allahu",
-      "akbar"
+      "israelis",
+      "now",
+      "get",
+      "confronted",
+      "everywhere",
+      "they"
     ]
   },
-  "NER": {
-    "risk_score": 12.9,
-    "count": 14,
-    "top_news": "http://www.sierraleonetimes.com/news/279242186/trump-confirms-release-of-us-missionary-kidnapped-in-niger",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://aa.com.tr/en/americas/venezuela-announces-131-political-prisoners-granted-alternates-to-imprisonment/4027888",
     "event_codes": {
-      "18": 11,
-      "19": 3
+      "17": 4
     },
     "keywords": [
-      "news",
-      "279242186",
-      "trump",
-      "confirms",
-      "release",
-      "missionary",
-      "kidnapped",
-      "niger"
+      "americas",
+      "venezuela",
+      "announces",
+      "131",
+      "political",
+      "prisoners",
+      "granted",
+      "alternates",
+      "imprisonment",
+      "4027888"
     ]
   }
 }
