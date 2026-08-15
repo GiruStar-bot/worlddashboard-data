@@ -1,94 +1,59 @@
 {
-  "BFA": {
-    "risk_score": 2.12,
-    "count": 3,
-    "top_news": "https://pidgin.informationng.com/?p=35714",
-    "event_codes": {
-      "15": 1,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": []
-  },
-  "IRN": {
-    "risk_score": 5.15,
-    "count": 6,
-    "top_news": "https://www.scmp.com/news/world/middle-east/article/3364164/iran-urges-qatar-release-pilots-shot-down-middle-east-war",
-    "event_codes": {
-      "19": 4,
-      "14": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "article",
-      "3364164",
-      "iran",
-      "urges",
-      "qatar",
-      "release",
-      "pilots",
-      "shot",
-      "down",
-      "middle",
-      "east",
-      "war"
-    ]
-  },
   "ISR": {
-    "risk_score": 11.67,
-    "count": 13,
-    "top_news": "https://english.wafa.ps/Pages/Details/173646",
-    "event_codes": {
-      "19": 8,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "173646"
-    ]
-  },
-  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.scmp.com/news/world/middle-east/article/3364163/israeli-air-strikes-lebanon-kill-11-people-another-test-truce",
+    "top_news": "http://www.bignewsnetwork.com/news/279243953/israeli-military-says-killed-2-militants-in-gaza",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "middle",
-      "east",
-      "article",
-      "3364163",
+      "279243953",
       "israeli",
-      "air",
-      "strikes",
-      "lebanon",
-      "kill",
-      "people",
-      "another",
-      "test",
-      "truce"
+      "military",
+      "says",
+      "killed",
+      "militants",
+      "gaza"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/news/431734",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "431734"
     ]
   },
   "PSE": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://english.wafa.ps/Pages/Details/173650",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.israelnationalnews.com/news/431735",
     "event_codes": {
-      "19": 7
+      "18": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "173650"
+      "news",
+      "431735"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/node/2654793/middle-east",
+    "event_codes": {
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "node",
+      "2654793",
+      "middle",
+      "east"
     ]
   }
 }
