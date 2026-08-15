@@ -1,21 +1,93 @@
 {
+  "BRA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://news4sanantonio.com/news/local/operation-take-back-america-drives-292-new-immigration-cases-across-west-texas-doj-says",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "news",
+      "local",
+      "operation",
+      "take",
+      "back",
+      "america",
+      "drives",
+      "292",
+      "new",
+      "immigration",
+      "cases",
+      "across",
+      "west",
+      "texas",
+      "doj",
+      "says"
+    ]
+  },
   "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.hellenicshippingnews.com/oil-climbs-on-tanker-attacks-us-iran-claims-about-hormuz-control/",
+    "top_news": "https://slate.com/news-and-politics/2026/08/trump-uss-abraham-lincoln-navy-iran-war.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "oil",
-      "climbs",
-      "tanker",
-      "attacks",
+      "news",
+      "and",
+      "politics",
+      "2026",
+      "trump",
+      "uss",
+      "abraham",
+      "lincoln",
+      "navy",
       "iran",
-      "claims",
-      "about",
-      "hormuz",
-      "control"
+      "war.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.9,
+    "count": 9,
+    "top_news": "https://www.foxnews.com/politics/el-sayeds-half-sister-offered-oct-7-blessing-one-year-after-hamas-attack-allahu-akbar",
+    "event_codes": {
+      "14": 6,
+      "19": 3
+    },
+    "keywords": [
+      "politics",
+      "sayeds",
+      "half",
+      "sister",
+      "offered",
+      "oct",
+      "blessing",
+      "one",
+      "year",
+      "after",
+      "hamas",
+      "attack",
+      "allahu",
+      "akbar"
+    ]
+  },
+  "NER": {
+    "risk_score": 12.9,
+    "count": 14,
+    "top_news": "http://www.sierraleonetimes.com/news/279242186/trump-confirms-release-of-us-missionary-kidnapped-in-niger",
+    "event_codes": {
+      "18": 11,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "279242186",
+      "trump",
+      "confirms",
+      "release",
+      "missionary",
+      "kidnapped",
+      "niger"
     ]
   }
 }
