@@ -1,23 +1,49 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 9,
-    "top_news": "https://spectator.org/trumps-ceasefire-trap-iran-gaza-and-the-politics-of-peace/",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/article-905571",
     "event_codes": {
-      "17": 4,
-      "19": 3,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "trumps",
-      "ceasefire",
-      "trap",
-      "iran",
-      "gaza",
-      "and",
-      "the",
-      "politics",
-      "peace"
+      "middle",
+      "east",
+      "article",
+      "905571"
+    ]
+  },
+  "CMR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.cnn.com/2026/08/15/africa/paul-biya-europe-trip-controversy-intl",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "africa",
+      "paul",
+      "biya",
+      "europe",
+      "trip",
+      "controversy",
+      "intl"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/article-905571",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "905571"
     ]
   }
 }
