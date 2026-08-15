@@ -1,108 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 5.25,
-    "count": 6,
-    "top_news": "https://www.bangkokpost.com/world/3302245/iran-fires-back-at-trumps-hormuz-takeover-threat",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.malaysiasun.com/news/279243480/magnitude-77-earthquake-off-indonesia-kills-at-least-five",
     "event_codes": {
-      "19": 4,
-      "16": 1,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "world",
-      "3302245",
-      "iran",
-      "fires",
-      "back",
-      "trumps",
-      "hormuz",
-      "takeover",
-      "threat"
+      "news",
+      "279243480",
+      "magnitude",
+      "earthquake",
+      "off",
+      "indonesia",
+      "kills",
+      "least",
+      "five"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://english.aawsat.com/arab-world/5307129-israeli-airstrike-southern-lebanon-kills-7-people",
+    "risk_score": 11.9,
+    "count": 12,
+    "top_news": "https://www.ynetnews.com/article/rkhatj6ife",
     "event_codes": {
-      "19": 3
+      "19": 11,
+      "18": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5307129",
-      "israeli",
-      "airstrike",
-      "southern",
-      "lebanon",
-      "kills",
-      "people"
+      "article",
+      "rkhatj6ife"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://english.aawsat.com/arab-world/5307159-lebanon-pm-those-killed-israeli-strike-were-not-military-infrastructure",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5307159",
-      "lebanon",
-      "those",
-      "killed",
-      "israeli",
-      "strike",
-      "were",
-      "not",
-      "military",
-      "infrastructure"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.0,
-    "count": 12,
-    "top_news": "https://dailypost.ng/2026/08/15/nigerian-police-arrest-repatriate-chadian-mahadijiria-abdoulaye-wanted-for-murder/",
-    "event_codes": {
-      "17": 6,
-      "19": 6
-    },
-    "keywords": [
-      "2026",
-      "nigerian",
-      "police",
-      "arrest",
-      "repatriate",
-      "chadian",
-      "mahadijiria",
-      "abdoulaye",
-      "wanted",
-      "for",
-      "murder"
-    ]
-  },
-  "TCD": {
-    "risk_score": 5.5,
+    "risk_score": 8.0,
     "count": 8,
-    "top_news": "https://dailypost.ng/2026/08/15/nigerian-police-arrest-repatriate-chadian-mahadijiria-abdoulaye-wanted-for-murder/",
+    "top_news": "https://www.ynetnews.com/article/rkhatj6ife",
     "event_codes": {
-      "17": 5,
-      "19": 3
+      "19": 8
     },
     "keywords": [
-      "2026",
-      "nigerian",
-      "police",
-      "arrest",
-      "repatriate",
-      "chadian",
-      "mahadijiria",
-      "abdoulaye",
-      "wanted",
-      "for",
-      "murder"
+      "article",
+      "rkhatj6ife"
+    ]
+  },
+  "SSD": {
+    "risk_score": 10.85,
+    "count": 11,
+    "top_news": "https://www.independent.co.uk/news/world/africa/south-sudan-war-conflict-aid-b3015452.html",
+    "event_codes": {
+      "19": 8,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "africa",
+      "south",
+      "sudan",
+      "war",
+      "conflict",
+      "aid",
+      "b3015452.html"
     ]
   }
 }
