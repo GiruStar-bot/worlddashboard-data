@@ -1,59 +1,84 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.bignewsnetwork.com/news/279243953/israeli-military-says-killed-2-militants-in-gaza",
+  "IRN": {
+    "risk_score": 2.42,
+    "count": 3,
+    "top_news": "http://www.goskagit.com/news/ap_business/iran-claims-qatar-is-holding-pilots-israeli-strikes-kill-11-in-lebanon-and-other-middle/article_23622e45-97ed-532c-ad97-f53001ad62e0.html",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "279243953",
+      "business",
+      "iran",
+      "claims",
+      "qatar",
+      "holding",
+      "pilots",
       "israeli",
-      "military",
-      "says",
-      "killed",
-      "militants",
-      "gaza"
+      "strikes",
+      "kill",
+      "lebanon",
+      "and",
+      "other",
+      "middle",
+      "article",
+      "23622e45",
+      "97ed",
+      "532c",
+      "ad97",
+      "f53001ad62e0.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.7,
+    "count": 17,
+    "top_news": "https://sana.sy/en/middle-east/2336557/",
+    "event_codes": {
+      "19": 14,
+      "16": 2,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2336557"
     ]
   },
   "LBN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/431734",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.brandonsun.com/local/2026/08/15/israeli-airstrike-on-southern-lebanon-kills-7-people-lebanese-state-media-say",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
-      "news",
-      "431734"
+      "local",
+      "2026",
+      "israeli",
+      "airstrike",
+      "southern",
+      "lebanon",
+      "kills",
+      "people",
+      "lebanese",
+      "state",
+      "media",
+      "say"
     ]
   },
   "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.israelnationalnews.com/news/431735",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "431735"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.2,
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "https://www.arabnews.com/node/2654793/middle-east",
+    "top_news": "https://sana.sy/en/middle-east/2336557/",
     "event_codes": {
-      "17": 2,
-      "18": 2
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "node",
-      "2654793",
       "middle",
-      "east"
+      "east",
+      "2336557"
     ]
   }
 }
