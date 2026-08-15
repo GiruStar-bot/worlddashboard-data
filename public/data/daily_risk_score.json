@@ -1,40 +1,47 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://srilankamirror.com/news/shiran-basik-brought-back-to-sri-lanka/",
+  "ISR": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.brandonsun.com/world/2026/08/15/israeli-airstrike-on-southern-lebanon-kills-7-people-lebanese-state-media-say",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "shiran",
-      "basik",
-      "brought",
-      "back",
-      "sri",
-      "lanka"
+      "world",
+      "2026",
+      "israeli",
+      "airstrike",
+      "southern",
+      "lebanon",
+      "kills",
+      "people",
+      "lebanese",
+      "state",
+      "media",
+      "say"
     ]
   },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/08/15/helicopter-catches-fire-at-sultan-abdul-aziz-shah-airport",
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://dailypost.ng/2026/08/15/benue-attacks-govt-failed-otukpo-nobi-efeyi-ugboju-peter-obi/",
     "event_codes": {
-      "19": 2
+      "14": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "nation",
       "2026",
-      "helicopter",
-      "catches",
-      "fire",
-      "sultan",
-      "abdul",
-      "aziz",
-      "shah",
-      "airport"
+      "benue",
+      "attacks",
+      "govt",
+      "failed",
+      "otukpo",
+      "nobi",
+      "efeyi",
+      "ugboju",
+      "peter",
+      "obi"
     ]
   }
 }
