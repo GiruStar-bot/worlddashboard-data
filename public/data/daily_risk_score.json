@@ -1,81 +1,35 @@
 {
-  "IRN": {
-    "risk_score": 5.15,
-    "count": 8,
-    "top_news": "https://aa.com.tr/en/middle-east/qatar-rejects-irans-claim-it-detained-3-fighter-pilots-after-march-attack/4028482",
-    "event_codes": {
-      "14": 3,
-      "16": 3,
-      "19": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "qatar",
-      "rejects",
-      "irans",
-      "claim",
-      "detained",
-      "fighter",
-      "pilots",
-      "after",
-      "march",
-      "attack",
-      "4028482"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.91,
-    "count": 24,
-    "top_news": "http://www.jpost.com/opinion/article-905388",
-    "event_codes": {
-      "19": 18,
-      "17": 4,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "905388"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.hngn.com/articles/272766/20260815/israeli-airstrikes-kill-11-southern-lebanon-including-3-children-hezbollah-vows-response.htm",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "articles",
-      "272766",
-      "20260815",
-      "israeli",
-      "airstrikes",
-      "kill",
-      "southern",
-      "lebanon",
-      "including",
-      "children",
-      "hezbollah",
-      "vows",
-      "response.htm"
-    ]
-  },
-  "PSE": {
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.jpost.com/israel-news/article-905595",
+    "top_news": "https://www.hottalkradio.com/news/2026/08/16/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "israel",
       "news",
-      "article",
-      "905595"
+      "2026"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "http://www.bignewsnetwork.com/news/279244119/houthis-launch-missile-attack-on-yemen-marib-pro-govt-media",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "279244119",
+      "houthis",
+      "launch",
+      "missile",
+      "attack",
+      "yemen",
+      "marib",
+      "pro",
+      "govt",
+      "media"
     ]
   }
 }
