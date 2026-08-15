@@ -1,22 +1,51 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-merchandise-store-out-of-business-b3033705.html",
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.theepochtimes.com/world/iran-accuses-qatar-of-holding-3-of-its-military-pilots-captive-6075596",
     "event_codes": {
+      "17": 4,
       "19": 2
     },
     "keywords": [
-      "news",
       "world",
-      "americas",
-      "politics",
-      "trump",
-      "merchandise",
-      "store",
-      "out",
-      "business",
-      "b3033705.html"
+      "iran",
+      "accuses",
+      "qatar",
+      "holding",
+      "its",
+      "military",
+      "pilots",
+      "captive",
+      "6075596"
+    ]
+  },
+  "VNM": {
+    "risk_score": 5.1,
+    "count": 7,
+    "top_news": "https://www.rnz.co.nz/news/crime-and-justice/1009896/woman-realises-she-had-been-violated-while-chatting-with-her-rapist-online",
+    "event_codes": {
+      "18": 4,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "crime",
+      "and",
+      "justice",
+      "1009896",
+      "woman",
+      "realises",
+      "she",
+      "had",
+      "been",
+      "violated",
+      "while",
+      "chatting",
+      "with",
+      "her",
+      "rapist",
+      "online"
     ]
   }
 }
