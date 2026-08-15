@@ -1,98 +1,86 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.naharnet.com:443/stories/en/321855-uae-state-oil-company-says-vessel-attacked-in-hormuz-strait",
+  "ISR": {
+    "risk_score": 15.74,
+    "count": 19,
+    "top_news": "https://nuclear-news.net/2026/08/15/1-b1-at-un-security-council-officials-say-israeli-settler-violence-has-brought-west-bank-to-breaking-point/",
     "event_codes": {
-      "19": 2
+      "14": 6,
+      "17": 4,
+      "19": 4,
+      "20": 3,
+      "18": 2
     },
     "keywords": [
-      "stories",
-      "321855",
-      "uae",
-      "state",
-      "oil",
-      "company",
-      "says",
-      "vessel",
-      "attacked",
-      "hormuz",
-      "strait"
+      "2026",
+      "security",
+      "council",
+      "officials",
+      "say",
+      "israeli",
+      "settler",
+      "violence",
+      "has",
+      "brought",
+      "west",
+      "bank",
+      "breaking",
+      "point"
     ]
   },
-  "SAU": {
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nuclear-news.net/2026/08/15/1-b1-at-un-security-council-officials-say-israeli-settler-violence-has-brought-west-bank-to-breaking-point/",
+    "event_codes": {
+      "19": 1,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "security",
+      "council",
+      "officials",
+      "say",
+      "israeli",
+      "settler",
+      "violence",
+      "has",
+      "brought",
+      "west",
+      "bank",
+      "breaking",
+      "point"
+    ]
+  },
+  "SGP": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.clickondetroit.com/news/2026/08/15/israeli-strike-kills-7-in-lebanon-a-vessel-attacked-in-hormuz-and-other-news-from-the-middle-east/",
+    "top_news": "https://www.mainstreamweekly.net/article16882.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "2026",
-      "israeli",
-      "strike",
-      "kills",
-      "lebanon",
-      "vessel",
-      "attacked",
-      "hormuz",
-      "and",
-      "other",
-      "news",
-      "from",
-      "the",
-      "middle",
-      "east"
+      "article16882.html"
     ]
   },
-  "SOM": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://raxanreeb.com/somalia-military-command-and-nisa-issue-conflicting-accounts-of-recent-airstrikes-targeting-al-shabaab/",
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/news/five-years-taliban-rule-state-has-survived-what-cost",
     "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "somalia",
-      "military",
-      "command",
-      "and",
-      "nisa",
-      "issue",
-      "conflicting",
-      "accounts",
-      "recent",
-      "airstrikes",
-      "targeting",
-      "shabaab"
-    ]
-  },
-  "YEM": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.clickondetroit.com/news/2026/08/15/israeli-strike-kills-7-in-lebanon-a-vessel-attacked-in-hormuz-and-other-news-from-the-middle-east/",
-    "event_codes": {
-      "19": 6
+      "17": 4
     },
     "keywords": [
       "news",
-      "2026",
-      "israeli",
-      "strike",
-      "kills",
-      "lebanon",
-      "vessel",
-      "attacked",
-      "hormuz",
-      "and",
-      "other",
-      "news",
-      "from",
-      "the",
-      "middle",
-      "east"
+      "five",
+      "years",
+      "taliban",
+      "rule",
+      "state",
+      "has",
+      "survived",
+      "what",
+      "cost"
     ]
   }
 }
