@@ -1,110 +1,76 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+  "ISR": {
+    "risk_score": 10.4,
+    "count": 13,
+    "top_news": "http://www.iraqsun.com/news/279244187/11-dead-19-injured-in-israeli-strikes-on-southern-lebanon",
     "event_codes": {
-      "19": 2
+      "19": 9,
+      "16": 3,
+      "17": 1
     },
     "keywords": [
       "news",
-      "world",
-      "articles",
-      "exclusive",
-      "israel",
-      "seizes",
-      "vast",
-      "iran",
-      "174948173.html"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.channelnewsasia.com/world/iran-fires-back-trumps-threat-declare-hormuz-us-territory-6321731",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "iran",
-      "fires",
-      "back",
-      "trumps",
-      "threat",
-      "declare",
-      "hormuz",
-      "territory",
-      "6321731"
+      "279244187",
+      "dead",
+      "injured",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 3.44,
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+    "top_news": "http://www.iraqsun.com/news/279244187/11-dead-19-injured-in-israeli-strikes-on-southern-lebanon",
     "event_codes": {
-      "15": 2,
-      "19": 2
+      "19": 4
     },
     "keywords": [
       "news",
-      "world",
-      "articles",
-      "exclusive",
-      "israel",
-      "seizes",
-      "vast",
-      "iran",
-      "174948173.html"
+      "279244187",
+      "dead",
+      "injured",
+      "israeli",
+      "strikes",
+      "southern",
+      "lebanon"
     ]
   },
   "NGA": {
-    "risk_score": 5.52,
-    "count": 6,
-    "top_news": "https://dailytrust.com/two-herders-shot-dead-in-plateau-2/",
+    "risk_score": 6.75,
+    "count": 11,
+    "top_news": "http://silverbirdtv.com/troops-kill-many-terrorists-recover-arms-in-rann-kala-balge-lg-borno-state/",
     "event_codes": {
-      "19": 3,
-      "18": 2,
-      "15": 1
+      "17": 7,
+      "14": 3,
+      "19": 1
     },
     "keywords": [
-      "two",
-      "herders",
-      "shot",
-      "dead",
-      "plateau"
+      "troops",
+      "kill",
+      "many",
+      "terrorists",
+      "recover",
+      "arms",
+      "rann",
+      "kala",
+      "balge",
+      "borno",
+      "state"
     ]
   },
-  "ZAF": {
+  "QAT": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.maravipost.com/zambia-on-edge-this-was-not-politics-it-was-an-attack-on-our-lives-mundubile-claims-tasila-lungus-husband-among-those-missing-after-alleged-army-raid/",
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/news/431746",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "zambia",
-      "edge",
-      "this",
-      "was",
-      "not",
-      "politics",
-      "was",
-      "attack",
-      "our",
-      "lives",
-      "mundubile",
-      "claims",
-      "tasila",
-      "lungus",
-      "husband",
-      "among",
-      "those",
-      "missing",
-      "after",
-      "alleged",
-      "army",
-      "raid"
+      "news",
+      "431746"
     ]
   }
 }
