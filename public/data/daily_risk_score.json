@@ -1,105 +1,68 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/iran-says-hormuz-will-remain-iranian-after-trump-threats-225647",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "iran",
-      "says",
-      "hormuz",
-      "will",
-      "remain",
-      "iranian",
-      "after",
-      "trump",
-      "threats",
-      "225647"
-    ]
-  },
   "ISR": {
-    "risk_score": 32.52,
-    "count": 36,
-    "top_news": "https://www.newsday.com/news/nation/iran-israel-lebanon-uae-us-hormuz-august-15-2026-y66182",
+    "risk_score": 12.37,
+    "count": 13,
+    "top_news": "https://www.arkansasonline.com/news/2026/aug/15/israeli-settlers-escalate-west-bank-pressure/",
     "event_codes": {
-      "19": 25,
-      "17": 7,
-      "18": 4
+      "19": 11,
+      "17": 2
     },
     "keywords": [
       "news",
-      "nation",
-      "iran",
-      "israel",
-      "lebanon",
-      "uae",
-      "hormuz",
-      "august",
       "2026",
-      "y66182"
+      "aug",
+      "israeli",
+      "settlers",
+      "escalate",
+      "west",
+      "bank",
+      "pressure"
     ]
   },
-  "LBN": {
+  "MLI": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://mizonews.net/world/17469/",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "17469"
+    ]
+  },
+  "NER": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.hurriyetdailynews.com/deadly-israeli-strikes-hit-southern-lebanon-despite-ceasefire-225649",
+    "top_news": "https://mizonews.net/world/17469/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "deadly",
-      "israeli",
-      "strikes",
-      "hit",
-      "southern",
-      "lebanon",
-      "despite",
-      "ceasefire",
-      "225649"
+      "world",
+      "17469"
     ]
   },
-  "PSE": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://imemc.org/article/colonizer-attacks-injure-palestinians-across-occupied-west-bank/",
+  "NGA": {
+    "risk_score": 17.76,
+    "count": 25,
+    "top_news": "https://www.vanguardngr.com/2026/08/troops-repel-bandits-attack-on-construction-workers-in-kebbi/",
     "event_codes": {
-      "19": 7
+      "17": 13,
+      "18": 6,
+      "19": 4,
+      "15": 2
     },
     "keywords": [
-      "article",
-      "colonizer",
-      "attacks",
-      "injure",
-      "palestinians",
-      "across",
-      "occupied",
-      "west",
-      "bank"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.military.com/more-than-100000-surplus-m14-rifles-are-approved-for-sale-to-the-public",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "more",
-      "than",
-      "100000",
-      "surplus",
-      "m14",
-      "rifles",
-      "are",
-      "approved",
-      "for",
-      "sale",
-      "the",
-      "public"
+      "2026",
+      "troops",
+      "repel",
+      "bandits",
+      "attack",
+      "construction",
+      "workers",
+      "kebbi"
     ]
   }
 }
