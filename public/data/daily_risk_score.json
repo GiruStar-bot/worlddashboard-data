@@ -1,31 +1,128 @@
 {
-  "ISR": {
-    "risk_score": 17.75,
-    "count": 18,
-    "top_news": "https://aninews.in/news/world/middle-east/hezbollah-using-its-own-civilians-as-human-shields-netanyahu-on-several-killed-in-israeli-airstrike-in-southern-lebanon20260815221612/",
+  "BRA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://timesofoman.com/article/175650-france-top-watchdog-blocks-social-media-ban-for-children",
     "event_codes": {
-      "19": 16,
-      "18": 2
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "175650",
+      "france",
+      "top",
+      "watchdog",
+      "blocks",
+      "social",
+      "media",
+      "ban",
+      "for",
+      "children"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.19,
+    "count": 10,
+    "top_news": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "event_codes": {
+      "18": 3,
+      "19": 3,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "exclusive",
+      "israel",
+      "seizes",
+      "vast",
+      "iran",
+      "terror",
+      "axis",
+      "arsenal",
+      "surprising",
+      "foreign",
+      "origins"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.67,
+    "count": 4,
+    "top_news": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
+    "event_codes": {
+      "19": 3,
+      "15": 1
+    },
+    "keywords": [
+      "world",
+      "exclusive",
+      "israel",
+      "seizes",
+      "vast",
+      "iran",
+      "terror",
+      "axis",
+      "arsenal",
+      "surprising",
+      "foreign",
+      "origins"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://punchng.com/police-nab-27-year-old-over-fatal-hotel-stabbing-in-adamawa/",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "police",
+      "nab",
+      "year",
+      "old",
+      "over",
+      "fatal",
+      "hotel",
+      "stabbing",
+      "adamawa"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://thefutoncritic.com/news/2026/08/14/development-update-week-of-august-10-14-137013/14866/",
+    "event_codes": {
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
+      "2026",
+      "development",
+      "update",
+      "week",
+      "august",
+      "137013",
+      "14866"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theglobeandmail.com/world/article-capsized-ferry-in-zimbabwe-kills-68-people/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
       "world",
-      "middle",
-      "east",
-      "hezbollah",
-      "using",
-      "its",
-      "own",
-      "civilians",
-      "human",
-      "shields",
-      "netanyahu",
-      "several",
-      "killed",
-      "israeli",
-      "airstrike",
-      "southern",
-      "lebanon20260815221612"
+      "article",
+      "capsized",
+      "ferry",
+      "zimbabwe",
+      "kills",
+      "people"
     ]
   }
 }
