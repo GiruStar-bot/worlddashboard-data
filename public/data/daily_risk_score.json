@@ -1,68 +1,98 @@
 {
-  "ISR": {
-    "risk_score": 12.37,
-    "count": 13,
-    "top_news": "https://www.arkansasonline.com/news/2026/aug/15/israeli-settlers-escalate-west-bank-pressure/",
-    "event_codes": {
-      "19": 11,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "aug",
-      "israeli",
-      "settlers",
-      "escalate",
-      "west",
-      "bank",
-      "pressure"
-    ]
-  },
-  "MLI": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://mizonews.net/world/17469/",
-    "event_codes": {
-      "18": 4,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "17469"
-    ]
-  },
-  "NER": {
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://mizonews.net/world/17469/",
+    "top_news": "https://www.naharnet.com:443/stories/en/321855-uae-state-oil-company-says-vessel-attacked-in-hormuz-strait",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "17469"
+      "stories",
+      "321855",
+      "uae",
+      "state",
+      "oil",
+      "company",
+      "says",
+      "vessel",
+      "attacked",
+      "hormuz",
+      "strait"
     ]
   },
-  "NGA": {
-    "risk_score": 17.76,
-    "count": 25,
-    "top_news": "https://www.vanguardngr.com/2026/08/troops-repel-bandits-attack-on-construction-workers-in-kebbi/",
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.clickondetroit.com/news/2026/08/15/israeli-strike-kills-7-in-lebanon-a-vessel-attacked-in-hormuz-and-other-news-from-the-middle-east/",
     "event_codes": {
-      "17": 13,
-      "18": 6,
-      "19": 4,
-      "15": 2
+      "19": 3
     },
     "keywords": [
+      "news",
       "2026",
-      "troops",
-      "repel",
-      "bandits",
-      "attack",
-      "construction",
-      "workers",
-      "kebbi"
+      "israeli",
+      "strike",
+      "kills",
+      "lebanon",
+      "vessel",
+      "attacked",
+      "hormuz",
+      "and",
+      "other",
+      "news",
+      "from",
+      "the",
+      "middle",
+      "east"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://raxanreeb.com/somalia-military-command-and-nisa-issue-conflicting-accounts-of-recent-airstrikes-targeting-al-shabaab/",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "somalia",
+      "military",
+      "command",
+      "and",
+      "nisa",
+      "issue",
+      "conflicting",
+      "accounts",
+      "recent",
+      "airstrikes",
+      "targeting",
+      "shabaab"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.clickondetroit.com/news/2026/08/15/israeli-strike-kills-7-in-lebanon-a-vessel-attacked-in-hormuz-and-other-news-from-the-middle-east/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "israeli",
+      "strike",
+      "kills",
+      "lebanon",
+      "vessel",
+      "attacked",
+      "hormuz",
+      "and",
+      "other",
+      "news",
+      "from",
+      "the",
+      "middle",
+      "east"
     ]
   }
 }
