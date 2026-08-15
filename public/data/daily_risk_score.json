@@ -1,66 +1,44 @@
 {
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.malaysiasun.com/news/279243480/magnitude-77-earthquake-off-indonesia-kills-at-least-five",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "279243480",
-      "magnitude",
-      "earthquake",
-      "off",
-      "indonesia",
-      "kills",
-      "least",
-      "five"
-    ]
-  },
   "ISR": {
-    "risk_score": 11.9,
-    "count": 12,
-    "top_news": "https://www.ynetnews.com/article/rkhatj6ife",
+    "risk_score": 7.6,
+    "count": 10,
+    "top_news": "https://www.yahoo.com/news/world/articles/lebanon-says-nine-killed-israeli-103324191.html",
     "event_codes": {
-      "19": 11,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "rkhatj6ife"
-    ]
-  },
-  "LBN": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.ynetnews.com/article/rkhatj6ife",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "article",
-      "rkhatj6ife"
-    ]
-  },
-  "SSD": {
-    "risk_score": 10.85,
-    "count": 11,
-    "top_news": "https://www.independent.co.uk/news/world/africa/south-sudan-war-conflict-aid-b3015452.html",
-    "event_codes": {
-      "19": 8,
-      "18": 3
+      "17": 6,
+      "19": 4
     },
     "keywords": [
       "news",
       "world",
-      "africa",
-      "south",
-      "sudan",
-      "war",
-      "conflict",
-      "aid",
-      "b3015452.html"
+      "articles",
+      "lebanon",
+      "says",
+      "nine",
+      "killed",
+      "israeli",
+      "103324191.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://panow.com/2026/08/15/israeli-airstrike-on-southern-lebanon-kills-7-people-lebanese-state-media-say/",
+    "event_codes": {
+      "19": 5,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "airstrike",
+      "southern",
+      "lebanon",
+      "kills",
+      "people",
+      "lebanese",
+      "state",
+      "media",
+      "say"
     ]
   }
 }
