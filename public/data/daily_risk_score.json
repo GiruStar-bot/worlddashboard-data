@@ -1,76 +1,96 @@
 {
-  "ISR": {
-    "risk_score": 10.4,
-    "count": 13,
-    "top_news": "http://www.iraqsun.com/news/279244187/11-dead-19-injured-in-israeli-strikes-on-southern-lebanon",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.rawstory.com/trump-2677712078/",
     "event_codes": {
-      "19": 9,
-      "16": 3,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "trump",
+      "2677712078"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.62,
+    "count": 13,
+    "top_news": "https://english.news.cn/20260816/2a9737db362441e8a656405fa4e42d75/c.html",
+    "event_codes": {
+      "19": 11,
+      "15": 1,
       "17": 1
     },
     "keywords": [
-      "news",
-      "279244187",
-      "dead",
-      "injured",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon"
+      "20260816",
+      "2a9737db362441e8a656405fa4e42d75",
+      "c.html"
     ]
   },
-  "LBN": {
+  "NGA": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/08/troops-dismantle-ipob-esn-camps-in-anambra-kill-3/",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "dismantle",
+      "ipob",
+      "esn",
+      "camps",
+      "anambra",
+      "kill"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://imemc.org/article/israeli-colonizers-attack-palestinians-across-west-bank-2/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "colonizers",
+      "attack",
+      "palestinians",
+      "across",
+      "west",
+      "bank"
+    ]
+  },
+  "ZWE": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "http://www.iraqsun.com/news/279244187/11-dead-19-injured-in-israeli-strikes-on-southern-lebanon",
+    "top_news": "https://www.dailymail.com/news/article-16055397/Police-officer-killed-lover-exposed-affair-set-freed-THREE-years-early-Labours-release-scheme.html",
     "event_codes": {
       "19": 4
     },
     "keywords": [
       "news",
-      "279244187",
-      "dead",
-      "injured",
-      "israeli",
-      "strikes",
-      "southern",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.75,
-    "count": 11,
-    "top_news": "http://silverbirdtv.com/troops-kill-many-terrorists-recover-arms-in-rann-kala-balge-lg-borno-state/",
-    "event_codes": {
-      "17": 7,
-      "14": 3,
-      "19": 1
-    },
-    "keywords": [
-      "troops",
-      "kill",
-      "many",
-      "terrorists",
-      "recover",
-      "arms",
-      "rann",
-      "kala",
-      "balge",
-      "borno",
-      "state"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/431746",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "431746"
+      "article",
+      "16055397",
+      "police",
+      "officer",
+      "killed",
+      "lover",
+      "exposed",
+      "affair",
+      "set",
+      "freed",
+      "three",
+      "years",
+      "early",
+      "labours",
+      "release",
+      "scheme.html"
     ]
   }
 }
