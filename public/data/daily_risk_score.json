@@ -1,93 +1,108 @@
 {
-  "BHR": {
+  "IRN": {
+    "risk_score": 5.25,
+    "count": 6,
+    "top_news": "https://www.bangkokpost.com/world/3302245/iran-fires-back-at-trumps-hormuz-takeover-threat",
+    "event_codes": {
+      "19": 4,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "3302245",
+      "iran",
+      "fires",
+      "back",
+      "trumps",
+      "hormuz",
+      "takeover",
+      "threat"
+    ]
+  },
+  "ISR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.moneycontrol.com/world/us-navy-ship-sailors-pushed-to-the-limit-after-iran-cripples-bahrain-hub-article-14006386.html",
+    "top_news": "https://english.aawsat.com/arab-world/5307129-israeli-airstrike-southern-lebanon-kills-7-people",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "arab",
       "world",
-      "navy",
-      "ship",
-      "sailors",
-      "pushed",
-      "the",
-      "limit",
-      "after",
-      "iran",
-      "cripples",
-      "bahrain",
-      "hub",
-      "article",
-      "14006386.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.4,
-    "count": 6,
-    "top_news": "https://www.moneycontrol.com/world/us-navy-ship-sailors-pushed-to-the-limit-after-iran-cripples-bahrain-hub-article-14006386.html",
-    "event_codes": {
-      "19": 3,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "navy",
-      "ship",
-      "sailors",
-      "pushed",
-      "the",
-      "limit",
-      "after",
-      "iran",
-      "cripples",
-      "bahrain",
-      "hub",
-      "article",
-      "14006386.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://aninews.in/news/world/middle-east/idf-strikes-hezbollah-infrastructure-in-southern-lebanon-kills-seven-in-ansar20260815142445/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "idf",
-      "strikes",
-      "hezbollah",
-      "infrastructure",
+      "5307129",
+      "israeli",
+      "airstrike",
       "southern",
       "lebanon",
       "kills",
-      "seven",
-      "ansar20260815142445"
+      "people"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5307159-lebanon-pm-those-killed-israeli-strike-were-not-military-infrastructure",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5307159",
+      "lebanon",
+      "those",
+      "killed",
+      "israeli",
+      "strike",
+      "were",
+      "not",
+      "military",
+      "infrastructure"
     ]
   },
   "NGA": {
-    "risk_score": 7.15,
-    "count": 9,
-    "top_news": "https://blueprint.ng/tinubus-re-election-chances-brighter-in-2027-musa/",
+    "risk_score": 9.0,
+    "count": 12,
+    "top_news": "https://dailypost.ng/2026/08/15/nigerian-police-arrest-repatriate-chadian-mahadijiria-abdoulaye-wanted-for-murder/",
     "event_codes": {
-      "18": 5,
-      "17": 3,
-      "19": 1
+      "17": 6,
+      "19": 6
     },
     "keywords": [
-      "tinubus",
-      "election",
-      "chances",
-      "brighter",
-      "2027",
-      "musa"
+      "2026",
+      "nigerian",
+      "police",
+      "arrest",
+      "repatriate",
+      "chadian",
+      "mahadijiria",
+      "abdoulaye",
+      "wanted",
+      "for",
+      "murder"
+    ]
+  },
+  "TCD": {
+    "risk_score": 5.5,
+    "count": 8,
+    "top_news": "https://dailypost.ng/2026/08/15/nigerian-police-arrest-repatriate-chadian-mahadijiria-abdoulaye-wanted-for-murder/",
+    "event_codes": {
+      "17": 5,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "nigerian",
+      "police",
+      "arrest",
+      "repatriate",
+      "chadian",
+      "mahadijiria",
+      "abdoulaye",
+      "wanted",
+      "for",
+      "murder"
     ]
   }
 }
