@@ -1,64 +1,81 @@
 {
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2654854/middle-east",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2654854",
+      "middle",
+      "east"
+    ]
+  },
   "IRN": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.renewamerica.com/columns/swirsky/260816",
+    "top_news": "https://peakoil.com/consumption/oil-climbs-over-1-on-tanker-attacks",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "columns",
-      "swirsky",
-      "260816"
+      "consumption",
+      "oil",
+      "climbs",
+      "over",
+      "tanker",
+      "attacks"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.95,
+    "count": 7,
+    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/ap-news-summary-at-7-00-a-m-edt/article_9e7d6387-71a0-57d8-b40d-2197933ea5e4.html",
+    "event_codes": {
+      "19": 6,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "and",
+      "world",
+      "news",
+      "news",
+      "summary",
+      "edt",
+      "article",
+      "9e7d6387",
+      "71a0",
+      "57d8",
+      "b40d",
+      "2197933ea5e4.html"
     ]
   },
   "LBN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.idahopress.com/ap_news/us/us-top-middle-east-commander-visits-deployed-aircraft-carrier-and-other-mideast-news/article_5838ae5d-3ed7-5b4c-868e-b457bba58045.html",
+    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/ap-news-summary-at-7-00-a-m-edt/article_9e7d6387-71a0-57d8-b40d-2197933ea5e4.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "top",
-      "middle",
-      "east",
-      "commander",
-      "visits",
-      "deployed",
-      "aircraft",
-      "carrier",
+      "national",
       "and",
-      "other",
-      "mideast",
+      "world",
       "news",
+      "news",
+      "summary",
+      "edt",
       "article",
-      "5838ae5d",
-      "3ed7",
-      "5b4c",
-      "868e",
-      "b457bba58045.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://theeagleonline.com.ng/us-israeli-war-on-iran-wetin-be-nigeria-own-4-by-hassan-gimba/",
-    "event_codes": {
-      "17": 5,
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "israeli",
-      "war",
-      "iran",
-      "wetin",
-      "nigeria",
-      "own",
-      "hassan",
-      "gimba"
+      "9e7d6387",
+      "71a0",
+      "57d8",
+      "b40d",
+      "2197933ea5e4.html"
     ]
   }
 }
