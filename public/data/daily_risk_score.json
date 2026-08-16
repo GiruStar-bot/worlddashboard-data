@@ -1,81 +1,122 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/node/2654854/middle-east",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "node",
-      "2654854",
-      "middle",
-      "east"
-    ]
-  },
   "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://peakoil.com/consumption/oil-climbs-over-1-on-tanker-attacks",
+    "risk_score": 8.97,
+    "count": 10,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/16/774449/Former-US-senator-condemns-Trump-admin--over-harsh-conditions-aboard-USS-Abraham-Lincoln",
     "event_codes": {
-      "19": 4
+      "19": 4,
+      "18": 3,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
-      "consumption",
-      "oil",
-      "climbs",
+      "detail",
+      "2026",
+      "774449",
+      "former",
+      "senator",
+      "condemns",
+      "trump",
+      "admin",
       "over",
-      "tanker",
-      "attacks"
+      "harsh",
+      "conditions",
+      "aboard",
+      "uss",
+      "abraham",
+      "lincoln"
     ]
   },
   "ISR": {
-    "risk_score": 6.95,
-    "count": 7,
-    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/ap-news-summary-at-7-00-a-m-edt/article_9e7d6387-71a0-57d8-b40d-2197933ea5e4.html",
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.i24news.tv/en/news/israel/defense/artc-israeli-police-raid-pre-wedding-celebration-in-umm-al-fahm-to-locate-firearms",
     "event_codes": {
-      "19": 6,
+      "19": 3,
+      "17": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "national",
-      "and",
-      "world",
-      "news",
-      "news",
-      "summary",
-      "edt",
-      "article",
-      "9e7d6387",
-      "71a0",
-      "57d8",
-      "b40d",
-      "2197933ea5e4.html"
+      "israel",
+      "defense",
+      "artc",
+      "israeli",
+      "police",
+      "raid",
+      "pre",
+      "wedding",
+      "celebration",
+      "umm",
+      "fahm",
+      "locate",
+      "firearms"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.woonsocketcall.com/news/national_and_world_news/ap-news-summary-at-7-00-a-m-edt/article_9e7d6387-71a0-57d8-b40d-2197933ea5e4.html",
+  "KEN": {
+    "risk_score": 2.42,
+    "count": 4,
+    "top_news": "https://capitalfm.africa/youths-in-odm-attire-raid-homa-bay-hotel-destroy-and-steal-property-ahead-of-linda-mwananchi-rally/",
     "event_codes": {
-      "19": 3
+      "17": 4
+    },
+    "keywords": [
+      "youths",
+      "odm",
+      "attire",
+      "raid",
+      "homa",
+      "bay",
+      "hotel",
+      "destroy",
+      "and",
+      "steal",
+      "property",
+      "ahead",
+      "linda",
+      "mwananchi",
+      "rally"
+    ]
+  },
+  "SSD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.eyeradio.org/atoch-chol-lang-murder-case-defense-to-cross-examine-investigating-officer-monday/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "atoch",
+      "chol",
+      "lang",
+      "murder",
+      "case",
+      "defense",
+      "cross",
+      "examine",
+      "investigating",
+      "officer",
+      "monday"
+    ]
+  },
+  "YEM": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/news/houthi-missile-barrage-hits-mocha-port-fighting-escalates-yemen",
+    "event_codes": {
+      "19": 8
     },
     "keywords": [
       "news",
-      "national",
-      "and",
-      "world",
-      "news",
-      "news",
-      "summary",
-      "edt",
-      "article",
-      "9e7d6387",
-      "71a0",
-      "57d8",
-      "b40d",
-      "2197933ea5e4.html"
+      "houthi",
+      "missile",
+      "barrage",
+      "hits",
+      "mocha",
+      "port",
+      "fighting",
+      "escalates",
+      "yemen"
     ]
   }
 }
