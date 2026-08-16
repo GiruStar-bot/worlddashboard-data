@@ -1,60 +1,68 @@
 {
-  "IRN": {
-    "risk_score": 2.22,
-    "count": 3,
-    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260816/98f43f920c102080a3526981cf0dd7b8",
-    "event_codes": {
-      "15": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "story",
-      "0001",
-      "20260816",
-      "98f43f920c102080a3526981cf0dd7b8"
-    ]
-  },
   "ISR": {
-    "risk_score": 8.72,
-    "count": 10,
-    "top_news": "https://sana.sy/en/international/2336717/",
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/16/trump-s-envoys-in-middle-east-to-push-for-gaza-peace-plan",
     "event_codes": {
-      "17": 4,
       "19": 4,
       "18": 2
     },
     "keywords": [
-      "international",
-      "2336717"
-    ]
-  },
-  "SDN": {
-    "risk_score": 5.4,
-    "count": 6,
-    "top_news": "https://aa.com.tr/en/middle-east/insecurity-displaces-over-4-000-people-in-sudans-north-kordofan-in-2-days-un-migration-agency-says/4028830",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "trump",
+      "envoys",
       "middle",
       "east",
-      "insecurity",
-      "displaces",
-      "over",
-      "000",
-      "people",
-      "sudans",
-      "north",
-      "kordofan",
-      "days",
-      "migration",
-      "agency",
-      "says",
-      "4028830"
+      "push",
+      "for",
+      "gaza",
+      "peace",
+      "plan"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.thejc.com/news/israel/israel-responds-to-hezbollah-suicide-drone-attack-by-killing-senior-commander-no8yjnm6",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "israel",
+      "responds",
+      "hezbollah",
+      "suicide",
+      "drone",
+      "attack",
+      "killing",
+      "senior",
+      "commander",
+      "no8yjnm6"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.4,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/903361-police-confirm-terrorist-attack-in-sokoto.html",
+    "event_codes": {
+      "19": 8,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "903361",
+      "police",
+      "confirm",
+      "terrorist",
+      "attack",
+      "sokoto.html"
     ]
   }
 }
