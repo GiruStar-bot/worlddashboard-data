@@ -1,17 +1,45 @@
 {
-  "ISR": {
-    "risk_score": 10.51,
-    "count": 11,
-    "top_news": "https://www.juancole.com/2026/08/calculated-deception-destruction.html",
+  "IRN": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://arynews.tv/iran-demands-release-of-downed-pilots-qatar-denies-holding-them",
     "event_codes": {
-      "19": 10,
-      "16": 1
+      "19": 3,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "calculated",
-      "deception",
-      "destruction.html"
+      "iran",
+      "demands",
+      "release",
+      "downed",
+      "pilots",
+      "qatar",
+      "denies",
+      "holding",
+      "them"
+    ]
+  },
+  "QAT": {
+    "risk_score": 4.12,
+    "count": 5,
+    "top_news": "https://arynews.tv/iran-demands-release-of-downed-pilots-qatar-denies-holding-them",
+    "event_codes": {
+      "19": 2,
+      "15": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "iran",
+      "demands",
+      "release",
+      "downed",
+      "pilots",
+      "qatar",
+      "denies",
+      "holding",
+      "them"
     ]
   }
 }
