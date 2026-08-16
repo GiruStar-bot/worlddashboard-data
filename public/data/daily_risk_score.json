@@ -1,90 +1,64 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.naharnet.com:443/stories/en/321866-iran-accuses-qatar-of-thwarting-probe-into-fate-of-pilots",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.renewamerica.com/columns/swirsky/260816",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "stories",
-      "321866",
-      "iran",
-      "accuses",
-      "qatar",
-      "thwarting",
-      "probe",
-      "into",
-      "fate",
-      "pilots"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.8,
-    "count": 9,
-    "top_news": "https://www.naharnet.com:443/stories/en/321869-israel-vows-to-go-after-hezbollah-as-it-names-another-killed",
-    "event_codes": {
-      "19": 4,
-      "17": 3,
-      "14": 2
-    },
-    "keywords": [
-      "stories",
-      "321869",
-      "israel",
-      "vows",
-      "after",
-      "hezbollah",
-      "names",
-      "another",
-      "killed"
+      "columns",
+      "swirsky",
+      "260816"
     ]
   },
   "LBN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.naharnet.com:443/stories/en/321869-israel-vows-to-go-after-hezbollah-as-it-names-another-killed",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.idahopress.com/ap_news/us/us-top-middle-east-commander-visits-deployed-aircraft-carrier-and-other-mideast-news/article_5838ae5d-3ed7-5b4c-868e-b457bba58045.html",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "stories",
-      "321869",
-      "israel",
-      "vows",
-      "after",
-      "hezbollah",
-      "names",
-      "another",
-      "killed"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.35,
-    "count": 4,
-    "top_news": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364186/17-arrested-hk367m-seized-crackdown-scam-group-using-malaysian-runners",
-    "event_codes": {
-      "17": 3,
-      "14": 1
+      "19": 3
     },
     "keywords": [
       "news",
-      "hong",
-      "kong",
-      "law",
+      "top",
+      "middle",
+      "east",
+      "commander",
+      "visits",
+      "deployed",
+      "aircraft",
+      "carrier",
       "and",
-      "crime",
+      "other",
+      "mideast",
+      "news",
       "article",
-      "3364186",
-      "arrested",
-      "hk367m",
-      "seized",
-      "crackdown",
-      "scam",
-      "group",
-      "using",
-      "malaysian",
-      "runners"
+      "5838ae5d",
+      "3ed7",
+      "5b4c",
+      "868e",
+      "b457bba58045.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://theeagleonline.com.ng/us-israeli-war-on-iran-wetin-be-nigeria-own-4-by-hassan-gimba/",
+    "event_codes": {
+      "17": 5,
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "israeli",
+      "war",
+      "iran",
+      "wetin",
+      "nigeria",
+      "own",
+      "hassan",
+      "gimba"
     ]
   }
 }
