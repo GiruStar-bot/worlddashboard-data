@@ -1,48 +1,72 @@
 {
-  "ISR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://aninews.in/news/world/middle-east/israel-claims-it-shot-down-senior-hezbollah-commander-in-south-lebanon20260816134856/",
+  "IRN": {
+    "risk_score": 5.35,
+    "count": 6,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/resistance-units-weekly-report-anti-regime-defiance-fracture-irans-security-apparatus/",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "18": 4,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "world",
-      "middle",
-      "east",
-      "israel",
-      "claims",
-      "shot",
-      "down",
-      "senior",
-      "hezbollah",
-      "commander",
-      "south",
-      "lebanon20260816134856"
+      "iran",
+      "resistance",
+      "resistance",
+      "units",
+      "weekly",
+      "report",
+      "anti",
+      "regime",
+      "defiance",
+      "fracture",
+      "irans",
+      "security",
+      "apparatus"
     ]
   },
-  "SDN": {
-    "risk_score": 5.7,
+  "ISR": {
+    "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/rsf-turns-drones-new-fronts-sudan-battlefield-pressure-grows",
+    "top_news": "https://slguardian.org/the-mysterious-death-of-assads-confidante/",
     "event_codes": {
-      "18": 3,
+      "19": 6
+    },
+    "keywords": [
+      "the",
+      "mysterious",
+      "death",
+      "assads",
+      "confidante"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://slguardian.org/the-return-of-somali-piracy/",
+    "event_codes": {
       "19": 3
     },
     "keywords": [
-      "originals",
-      "2026",
-      "rsf",
-      "turns",
-      "drones",
-      "new",
-      "fronts",
-      "sudan",
-      "battlefield",
-      "pressure",
-      "grows"
+      "the",
+      "return",
+      "somali",
+      "piracy"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://slguardian.org/the-mysterious-death-of-assads-confidante/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "the",
+      "mysterious",
+      "death",
+      "assads",
+      "confidante"
     ]
   }
 }
