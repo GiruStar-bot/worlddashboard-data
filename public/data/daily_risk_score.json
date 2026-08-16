@@ -1,22 +1,79 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.the-independent.com/news/world/americas/us-politics/trump-merchandise-store-out-of-business-b3033705.html",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.timeslive.co.za/news/world/2026-08-16-iran-executes-man-for-running-over-police-in-protest/",
     "event_codes": {
-      "19": 2
+      "19": 7
     },
     "keywords": [
       "news",
       "world",
-      "americas",
-      "politics",
-      "trump",
-      "merchandise",
-      "store",
-      "out",
-      "business",
-      "b3033705.html"
+      "2026",
+      "iran",
+      "executes",
+      "man",
+      "for",
+      "running",
+      "over",
+      "police",
+      "protest"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2654882/middle-east",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "node",
+      "2654882",
+      "middle",
+      "east"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.prokerala.com/news/articles/a1801120.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1801120.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.arabnews.com/node/2654882/middle-east",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "node",
+      "2654882",
+      "middle",
+      "east"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.prokerala.com/news/articles/a1801129.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1801129.html"
     ]
   }
 }
