@@ -1,79 +1,95 @@
 {
   "IRN": {
-    "risk_score": 6.9,
-    "count": 7,
-    "top_news": "https://www.timeslive.co.za/news/world/2026-08-16-iran-executes-man-for-running-over-police-in-protest/",
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.dailykos.com/stories/2026/8/16/800083491/series/munitions-suspicions/",
     "event_codes": {
-      "19": 7
+      "19": 3,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "world",
+      "stories",
       "2026",
-      "iran",
-      "executes",
-      "man",
-      "for",
-      "running",
-      "over",
-      "police",
-      "protest"
+      "800083491",
+      "series",
+      "munitions",
+      "suspicions"
     ]
   },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2654882/middle-east",
+    "risk_score": 25.62,
+    "count": 26,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/16/774476/Palestinians-shot-beaten-and-forced-from-homes-as-Israeli-raids-sweep-occupied-West-Bank",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 19,
+      "18": 4,
+      "17": 3
     },
     "keywords": [
-      "node",
-      "2654882",
-      "middle",
-      "east"
+      "detail",
+      "2026",
+      "774476",
+      "palestinians",
+      "shot",
+      "beaten",
+      "and",
+      "forced",
+      "from",
+      "homes",
+      "israeli",
+      "raids",
+      "sweep",
+      "occupied",
+      "west",
+      "bank"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.prokerala.com/news/articles/a1801120.html",
+  "KEN": {
+    "risk_score": 12.1,
+    "count": 14,
+    "top_news": "https://www.the-star.co.ke/news/2026-08-16-homa-bay-on-edge-as-two-journalists-attacked",
     "event_codes": {
-      "19": 3
+      "18": 5,
+      "19": 5,
+      "14": 4
     },
     "keywords": [
       "news",
-      "articles",
-      "a1801120.html"
+      "2026",
+      "homa",
+      "bay",
+      "edge",
+      "two",
+      "journalists",
+      "attacked"
     ]
   },
   "PSE": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.arabnews.com/node/2654882/middle-east",
+    "risk_score": 14.32,
+    "count": 16,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/16/774476/Palestinians-shot-beaten-and-forced-from-homes-as-Israeli-raids-sweep-occupied-West-Bank",
     "event_codes": {
-      "19": 6
+      "19": 11,
+      "17": 5
     },
     "keywords": [
-      "node",
-      "2654882",
-      "middle",
-      "east"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.prokerala.com/news/articles/a1801129.html",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1801129.html"
+      "detail",
+      "2026",
+      "774476",
+      "palestinians",
+      "shot",
+      "beaten",
+      "and",
+      "forced",
+      "from",
+      "homes",
+      "israeli",
+      "raids",
+      "sweep",
+      "occupied",
+      "west",
+      "bank"
     ]
   }
 }
