@@ -1,72 +1,90 @@
 {
   "IRN": {
-    "risk_score": 5.35,
-    "count": 6,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/resistance-units-weekly-report-anti-regime-defiance-fracture-irans-security-apparatus/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.naharnet.com:443/stories/en/321866-iran-accuses-qatar-of-thwarting-probe-into-fate-of-pilots",
     "event_codes": {
-      "18": 4,
-      "14": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "news",
+      "stories",
+      "321866",
       "iran",
-      "resistance",
-      "resistance",
-      "units",
-      "weekly",
-      "report",
-      "anti",
-      "regime",
-      "defiance",
-      "fracture",
-      "irans",
-      "security",
-      "apparatus"
+      "accuses",
+      "qatar",
+      "thwarting",
+      "probe",
+      "into",
+      "fate",
+      "pilots"
     ]
   },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://slguardian.org/the-mysterious-death-of-assads-confidante/",
+    "risk_score": 6.8,
+    "count": 9,
+    "top_news": "https://www.naharnet.com:443/stories/en/321869-israel-vows-to-go-after-hezbollah-as-it-names-another-killed",
     "event_codes": {
-      "19": 6
+      "19": 4,
+      "17": 3,
+      "14": 2
     },
     "keywords": [
-      "the",
-      "mysterious",
-      "death",
-      "assads",
-      "confidante"
+      "stories",
+      "321869",
+      "israel",
+      "vows",
+      "after",
+      "hezbollah",
+      "names",
+      "another",
+      "killed"
     ]
   },
-  "SOM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://slguardian.org/the-return-of-somali-piracy/",
+  "LBN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.naharnet.com:443/stories/en/321869-israel-vows-to-go-after-hezbollah-as-it-names-another-killed",
     "event_codes": {
-      "19": 3
+      "19": 5
     },
     "keywords": [
-      "the",
-      "return",
-      "somali",
-      "piracy"
+      "stories",
+      "321869",
+      "israel",
+      "vows",
+      "after",
+      "hezbollah",
+      "names",
+      "another",
+      "killed"
     ]
   },
-  "SYR": {
-    "risk_score": 3.95,
+  "MYS": {
+    "risk_score": 2.35,
     "count": 4,
-    "top_news": "https://slguardian.org/the-mysterious-death-of-assads-confidante/",
+    "top_news": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364186/17-arrested-hk367m-seized-crackdown-scam-group-using-malaysian-runners",
     "event_codes": {
-      "19": 4
+      "17": 3,
+      "14": 1
     },
     "keywords": [
-      "the",
-      "mysterious",
-      "death",
-      "assads",
-      "confidante"
+      "news",
+      "hong",
+      "kong",
+      "law",
+      "and",
+      "crime",
+      "article",
+      "3364186",
+      "arrested",
+      "hk367m",
+      "seized",
+      "crackdown",
+      "scam",
+      "group",
+      "using",
+      "malaysian",
+      "runners"
     ]
   }
 }
