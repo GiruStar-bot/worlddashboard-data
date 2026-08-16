@@ -1,45 +1,58 @@
 {
-  "IRN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://arynews.tv/iran-demands-release-of-downed-pilots-qatar-denies-holding-them",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2624157/israeli-air-blitz-kills-11-in-south-lebanon",
     "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "iran",
-      "demands",
-      "release",
-      "downed",
-      "pilots",
-      "qatar",
-      "denies",
-      "holding",
-      "them"
+      "story",
+      "2624157",
+      "israeli",
+      "air",
+      "blitz",
+      "kills",
+      "south",
+      "lebanon"
     ]
   },
-  "QAT": {
-    "risk_score": 4.12,
-    "count": 5,
-    "top_news": "https://arynews.tv/iran-demands-release-of-downed-pilots-qatar-denies-holding-them",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://tribune.com.pk/story/2624157/israeli-air-blitz-kills-11-in-south-lebanon",
     "event_codes": {
-      "19": 2,
-      "15": 1,
-      "17": 1,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "iran",
-      "demands",
-      "release",
-      "downed",
-      "pilots",
-      "qatar",
-      "denies",
-      "holding",
-      "them"
+      "story",
+      "2624157",
+      "israeli",
+      "air",
+      "blitz",
+      "kills",
+      "south",
+      "lebanon"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://www.warrackherald.com.au/vietnam-veteran-s-day-commemorates-60th-anniversary-of-long-tan-2026-08-16",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "vietnam",
+      "veteran",
+      "day",
+      "commemorates",
+      "60th",
+      "anniversary",
+      "long",
+      "tan",
+      "2026"
     ]
   }
 }
