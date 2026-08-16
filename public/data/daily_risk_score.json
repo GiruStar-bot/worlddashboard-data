@@ -1,64 +1,87 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/iraq-says-arms-of-mobilization-forces-will-not-be-collected-225704",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.siasat.com/hormuz-defenders-will-break-your-legs-says-iran-army-to-trump-3525845/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "iraq",
-      "says",
-      "arms",
-      "mobilization",
-      "forces",
+      "hormuz",
+      "defenders",
       "will",
-      "not",
-      "collected",
-      "225704"
+      "break",
+      "your",
+      "legs",
+      "says",
+      "iran",
+      "army",
+      "trump",
+      "3525845"
     ]
   },
   "ISR": {
-    "risk_score": 7.84,
-    "count": 9,
-    "top_news": "https://aninews.in/news/world/middle-east/police-seize-weapons-explosives-in-weekend-raids-across-rahat20260816223842/",
+    "risk_score": 6.6,
+    "count": 8,
+    "top_news": "https://www.siasat.com/hormuz-defenders-will-break-your-legs-says-iran-army-to-trump-3525845/",
     "event_codes": {
-      "19": 5,
-      "17": 4
+      "19": 4,
+      "17": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "middle",
-      "east",
-      "police",
-      "seize",
-      "weapons",
-      "explosives",
-      "weekend",
-      "raids",
-      "across",
-      "rahat20260816223842"
+      "hormuz",
+      "defenders",
+      "will",
+      "break",
+      "your",
+      "legs",
+      "says",
+      "iran",
+      "army",
+      "trump",
+      "3525845"
     ]
   },
-  "NGA": {
-    "risk_score": 4.85,
-    "count": 7,
-    "top_news": "https://dailytrust.com/prayers-will-crush-boko-haram-catholic-bishop/",
+  "LBN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.omanobserver.om/article/1194577/world/asia/israel-vows-to-go-after-hezbollah-despite-us-brokered-deal",
     "event_codes": {
-      "17": 3,
-      "18": 3,
-      "14": 1
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "prayers",
-      "will",
-      "crush",
-      "boko",
-      "haram",
-      "catholic",
-      "bishop"
+      "article",
+      "1194577",
+      "world",
+      "asia",
+      "israel",
+      "vows",
+      "after",
+      "hezbollah",
+      "despite",
+      "brokered",
+      "deal"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://thedailyblog.co.nz/security-council-escalating-attacks-threaten-peace-in-yemen-un-news/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "security",
+      "council",
+      "escalating",
+      "attacks",
+      "threaten",
+      "peace",
+      "yemen",
+      "news"
     ]
   }
 }
