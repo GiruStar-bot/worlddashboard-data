@@ -1,39 +1,65 @@
 {
-  "ARE": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "http://www.lankaenews.com/news/5094/en",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://redstate.com/terichristoph/2026/08/16/centcom-commander-visits-lincoln-n2205661",
     "event_codes": {
-      "17": 6
+      "19": 2
+    },
+    "keywords": [
+      "terichristoph",
+      "2026",
+      "centcom",
+      "commander",
+      "visits",
+      "lincoln",
+      "n2205661"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.52,
+    "count": 5,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/israeli-settler-attack-west-bank-fire-homes-children-inside-b3032645.html",
+    "event_codes": {
+      "18": 4,
+      "17": 1
     },
     "keywords": [
       "news",
-      "5094"
+      "world",
+      "middle",
+      "east",
+      "israeli",
+      "settler",
+      "attack",
+      "west",
+      "bank",
+      "fire",
+      "homes",
+      "children",
+      "inside",
+      "b3032645.html"
     ]
   },
-  "YEM": {
-    "risk_score": 10.7,
-    "count": 11,
-    "top_news": "https://www.hngn.com/articles/272756/20260815/yemens-civil-war-reignites-houthi-forces-escalate-attacks-government-positions-taiz.htm",
+  "NGA": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://leadership.ng/osun-adc-congratulates-adeleke-demands-explanation-from-inec-over-irev-interruption/",
     "event_codes": {
-      "19": 8,
-      "18": 3
+      "19": 3
     },
     "keywords": [
-      "articles",
-      "272756",
-      "20260815",
-      "yemens",
-      "civil",
-      "war",
-      "reignites",
-      "houthi",
-      "forces",
-      "escalate",
-      "attacks",
-      "government",
-      "positions",
-      "taiz.htm"
+      "osun",
+      "adc",
+      "congratulates",
+      "adeleke",
+      "demands",
+      "explanation",
+      "from",
+      "inec",
+      "over",
+      "irev",
+      "interruption"
     ]
   }
 }
