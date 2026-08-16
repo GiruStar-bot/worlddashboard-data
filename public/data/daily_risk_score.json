@@ -1,87 +1,85 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.siasat.com/hormuz-defenders-will-break-your-legs-says-iran-army-to-trump-3525845/",
+  "IDN": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://en.tempo.co/read/2117639/todays-top-3-news-aceh-peace-day-celebration-descends-into-chaos",
     "event_codes": {
-      "19": 2
+      "14": 2,
+      "18": 2
     },
     "keywords": [
-      "hormuz",
-      "defenders",
-      "will",
-      "break",
-      "your",
-      "legs",
-      "says",
-      "iran",
-      "army",
-      "trump",
-      "3525845"
+      "read",
+      "2117639",
+      "todays",
+      "top",
+      "news",
+      "aceh",
+      "peace",
+      "day",
+      "celebration",
+      "descends",
+      "into",
+      "chaos"
     ]
   },
   "ISR": {
-    "risk_score": 6.6,
-    "count": 8,
-    "top_news": "https://www.siasat.com/hormuz-defenders-will-break-your-legs-says-iran-army-to-trump-3525845/",
+    "risk_score": 14.12,
+    "count": 18,
+    "top_news": "https://jordantimes.com/opinion/najla-m-shahwan/west-bank-at-a-breaking-point-as-settler-violence-military-raids-escalate",
+    "event_codes": {
+      "17": 6,
+      "16": 4,
+      "19": 4,
+      "15": 3,
+      "18": 1
+    },
+    "keywords": [
+      "opinion",
+      "najla",
+      "shahwan",
+      "west",
+      "bank",
+      "breaking",
+      "point",
+      "settler",
+      "violence",
+      "military",
+      "raids",
+      "escalate"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.44,
+    "count": 6,
+    "top_news": "https://english.wafa.ps/Pages/Details/173679",
     "event_codes": {
       "19": 4,
-      "17": 2,
-      "14": 1,
-      "18": 1
+      "15": 2
     },
     "keywords": [
-      "hormuz",
-      "defenders",
-      "will",
-      "break",
-      "your",
-      "legs",
-      "says",
-      "iran",
-      "army",
-      "trump",
-      "3525845"
+      "pages",
+      "details",
+      "173679"
     ]
   },
-  "LBN": {
-    "risk_score": 2.95,
+  "SOM": {
+    "risk_score": 2.45,
     "count": 3,
-    "top_news": "https://www.omanobserver.om/article/1194577/world/asia/israel-vows-to-go-after-hezbollah-despite-us-brokered-deal",
+    "top_news": "https://www.express.co.uk/news/uk/2239663/migrant-hotel-attempted-murder-stabbing-update",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "article",
-      "1194577",
-      "world",
-      "asia",
-      "israel",
-      "vows",
-      "after",
-      "hezbollah",
-      "despite",
-      "brokered",
-      "deal"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://thedailyblog.co.nz/security-council-escalating-attacks-threaten-peace-in-yemen-un-news/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "security",
-      "council",
-      "escalating",
-      "attacks",
-      "threaten",
-      "peace",
-      "yemen",
-      "news"
+      "news",
+      "2239663",
+      "migrant",
+      "hotel",
+      "attempted",
+      "murder",
+      "stabbing",
+      "update"
     ]
   }
 }
