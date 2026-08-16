@@ -1,15 +1,41 @@
 {
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.prokerala.com/news/articles/a1800890.html",
+    "risk_score": 14.85,
+    "count": 15,
+    "top_news": "https://imemc.org/article/gaza-attacks-continue-amid-deepening-oxygen-crisis/",
     "event_codes": {
-      "19": 4
+      "19": 13,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "a1800890.html"
+      "article",
+      "gaza",
+      "attacks",
+      "continue",
+      "amid",
+      "deepening",
+      "oxygen",
+      "crisis"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.7,
+    "count": 9,
+    "top_news": "https://imemc.org/article/israeli-army-invades-west-bank-communities-abducts-palestinians/",
+    "event_codes": {
+      "19": 6,
+      "18": 3
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "invades",
+      "west",
+      "bank",
+      "communities",
+      "abducts",
+      "palestinians"
     ]
   }
 }
