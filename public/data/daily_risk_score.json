@@ -1,68 +1,64 @@
 {
   "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.fairobserver.com/region/middle_east_north_africa/is-sudans-bloody-war-reaching-a-tipping-point/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "region",
-      "middle",
-      "east",
-      "north",
-      "africa",
-      "sudans",
-      "bloody",
-      "war",
-      "reaching",
-      "tipping",
-      "point"
-    ]
-  },
-  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
+    "top_news": "https://www.hurriyetdailynews.com/iraq-says-arms-of-mobilization-forces-will-not-be-collected-225704",
     "event_codes": {
-      "19": 3
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "economics",
-      "new",
-      "game",
-      "monopoly",
-      "middle",
-      "eastern",
-      "pipelines",
-      "cannot",
-      "replace",
-      "the",
-      "strait",
-      "hormuz"
+      "iraq",
+      "says",
+      "arms",
+      "mobilization",
+      "forces",
+      "will",
+      "not",
+      "collected",
+      "225704"
     ]
   },
-  "YEM": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://english.aawsat.com/arab-world/5307734-yemeni-army-says-it-carried-out-181-operations-against-houthis-24-hours",
+  "ISR": {
+    "risk_score": 7.84,
+    "count": 9,
+    "top_news": "https://aninews.in/news/world/middle-east/police-seize-weapons-explosives-in-weekend-raids-across-rahat20260816223842/",
     "event_codes": {
-      "19": 7
+      "19": 5,
+      "17": 4
     },
     "keywords": [
-      "arab",
+      "news",
       "world",
-      "5307734",
-      "yemeni",
-      "army",
-      "says",
-      "carried",
-      "out",
-      "181",
-      "operations",
-      "against",
-      "houthis",
-      "hours"
+      "middle",
+      "east",
+      "police",
+      "seize",
+      "weapons",
+      "explosives",
+      "weekend",
+      "raids",
+      "across",
+      "rahat20260816223842"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.85,
+    "count": 7,
+    "top_news": "https://dailytrust.com/prayers-will-crush-boko-haram-catholic-bishop/",
+    "event_codes": {
+      "17": 3,
+      "18": 3,
+      "14": 1
+    },
+    "keywords": [
+      "prayers",
+      "will",
+      "crush",
+      "boko",
+      "haram",
+      "catholic",
+      "bishop"
     ]
   }
 }
