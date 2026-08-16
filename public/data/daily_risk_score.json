@@ -1,21 +1,42 @@
 {
-  "NGA": {
-    "risk_score": 9.0,
-    "count": 14,
-    "top_news": "https://thenationonlineng.net/troops-kill-terrorists-rescue-40-kidnap-victims-in-one-week-2/",
+  "ISR": {
+    "risk_score": 6.3,
+    "count": 8,
+    "top_news": "https://imemc.org/article/israeli-army-invades-several-west-bank-communities/",
     "event_codes": {
-      "17": 10,
-      "19": 4
+      "15": 5,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "troops",
-      "kill",
-      "terrorists",
-      "rescue",
-      "kidnap",
-      "victims",
-      "one",
-      "week"
+      "article",
+      "israeli",
+      "army",
+      "invades",
+      "several",
+      "west",
+      "bank",
+      "communities"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.22,
+    "count": 6,
+    "top_news": "https://imemc.org/article/israeli-army-invades-several-west-bank-communities/",
+    "event_codes": {
+      "17": 3,
+      "18": 2,
+      "15": 1
+    },
+    "keywords": [
+      "article",
+      "israeli",
+      "army",
+      "invades",
+      "several",
+      "west",
+      "bank",
+      "communities"
     ]
   }
 }
