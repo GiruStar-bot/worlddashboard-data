@@ -1,124 +1,118 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://latinamericanpost.com/americas/latin-america-counts-growth-while-indigenous-lands-keep-quietly-bleeding/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "americas",
-      "latin",
-      "america",
-      "counts",
-      "growth",
-      "while",
-      "indigenous",
-      "lands",
-      "keep",
-      "quietly",
-      "bleeding"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.16,
-    "count": 4,
-    "top_news": "https://economictimes.indiatimes.com/news/defence/iran-offers-30000-bounty-for-killing-capturing-us-soldiers/articleshow/133276473.cms",
-    "event_codes": {
-      "15": 3,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "defence",
-      "iran",
-      "offers",
-      "30000",
-      "bounty",
-      "for",
-      "killing",
-      "capturing",
-      "soldiers",
-      "articleshow",
-      "133276473.cms"
-    ]
-  },
   "ISR": {
-    "risk_score": 14.6,
-    "count": 15,
-    "top_news": "https://grenadachronicle.com/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police/",
+    "risk_score": 9.95,
+    "count": 10,
+    "top_news": "https://www.arabnews.com/node/2654871/middle-east",
     "event_codes": {
-      "19": 13,
-      "14": 1,
-      "20": 1
+      "19": 9,
+      "18": 1
     },
     "keywords": [
-      "spearhead",
-      "annexation",
-      "israel",
-      "hands",
-      "west",
-      "bank",
-      "rule",
-      "civilian",
-      "police"
+      "node",
+      "2654871",
+      "middle",
+      "east"
     ]
   },
-  "NGA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.nigerianeye.com/2026/08/imo-govt-bans-street-trading-illegal.html",
+  "KHM": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "http://www.thegazette.com/news/world/bou-meng-a-cambodian-artist-and-survivor-of-a-khmer-rouge-torture-center-has-died/article_173f8fd5-ca26-517a-b7e1-65c7056384b0.html",
     "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "2026",
-      "imo",
-      "govt",
-      "bans",
-      "street",
-      "trading",
-      "illegal.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://grenadachronicle.com/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police/",
-    "event_codes": {
-      "18": 2,
-      "19": 2,
-      "20": 1
-    },
-    "keywords": [
-      "spearhead",
-      "annexation",
-      "israel",
-      "hands",
-      "west",
-      "bank",
-      "rule",
-      "civilian",
-      "police"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/world/articles/yemeni-forces-report-spike-attacks-130331477.html",
-    "event_codes": {
-      "19": 5
+      "18": 4
     },
     "keywords": [
       "news",
       "world",
-      "articles",
-      "yemeni",
-      "forces",
-      "report",
-      "spike",
-      "attacks",
-      "130331477.html"
+      "bou",
+      "meng",
+      "cambodian",
+      "artist",
+      "and",
+      "survivor",
+      "khmer",
+      "rouge",
+      "torture",
+      "center",
+      "has",
+      "died",
+      "article",
+      "173f8fd5",
+      "ca26",
+      "517a",
+      "b7e1",
+      "65c7056384b0.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://blueprint.ng/icrc-and-the-new-ppp-push-turning-nigerias-infrastructure-ambition-into-projects/",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "icrc",
+      "and",
+      "the",
+      "new",
+      "ppp",
+      "push",
+      "turning",
+      "nigerias",
+      "infrastructure",
+      "ambition",
+      "into",
+      "projects"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.dailyexcelsior.com/hamas-delegation-holds-talks-with-egypt-on-israeli-violations-and-implementation-of-gaza-plan/",
+    "event_codes": {
+      "19": 3,
+      "15": 1
+    },
+    "keywords": [
+      "hamas",
+      "delegation",
+      "holds",
+      "talks",
+      "with",
+      "egypt",
+      "israeli",
+      "violations",
+      "and",
+      "implementation",
+      "gaza",
+      "plan"
+    ]
+  },
+  "TCD": {
+    "risk_score": 4.4,
+    "count": 7,
+    "top_news": "https://www.africanews.com/2026/08/16/chad-opposition-figure-succes-masra-calls-for-reconciliation-after-his-release/",
+    "event_codes": {
+      "17": 3,
+      "14": 2,
+      "16": 2
+    },
+    "keywords": [
+      "2026",
+      "chad",
+      "opposition",
+      "figure",
+      "succes",
+      "masra",
+      "calls",
+      "for",
+      "reconciliation",
+      "after",
+      "his",
+      "release"
     ]
   }
 }
