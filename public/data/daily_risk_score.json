@@ -1,102 +1,119 @@
 {
   "ISR": {
-    "risk_score": 5.65,
-    "count": 6,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-905613",
+    "risk_score": 29.26,
+    "count": 32,
+    "top_news": "https://www.freepressjournal.in/world/israel-strikes-southern-lebanon-killing-11-injuring-19-amid-hezbollah-tensions",
     "event_codes": {
-      "19": 5,
-      "14": 1
+      "19": 20,
+      "17": 7,
+      "18": 5
     },
     "keywords": [
+      "world",
       "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "905613"
+      "strikes",
+      "southern",
+      "lebanon",
+      "killing",
+      "injuring",
+      "amid",
+      "hezbollah",
+      "tensions"
     ]
   },
   "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.moneycontrol.com/world/israel-claims-hezbollah-commander-abu-hassan-alaa-killed-in-southern-lebanon-amid-escalating-strikes-article-14006596.html",
+    "top_news": "https://www.freepressjournal.in/world/israel-strikes-southern-lebanon-killing-11-injuring-19-amid-hezbollah-tensions",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "world",
       "israel",
-      "claims",
-      "hezbollah",
-      "commander",
-      "abu",
-      "hassan",
-      "alaa",
-      "killed",
+      "strikes",
       "southern",
       "lebanon",
+      "killing",
+      "injuring",
       "amid",
-      "escalating",
-      "strikes",
-      "article",
-      "14006596.html"
+      "hezbollah",
+      "tensions"
     ]
   },
-  "NGA": {
-    "risk_score": 5.54,
-    "count": 7,
-    "top_news": "https://thenationonlineng.net/osun-adeleke-in-early-lead/",
+  "PSE": {
+    "risk_score": 5.75,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-settlers-continue-attacks-west-bank",
     "event_codes": {
-      "17": 4,
-      "18": 3
-    },
-    "keywords": [
-      "osun",
-      "adeleke",
-      "early",
-      "lead"
-    ]
-  },
-  "TCD": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/articles/chads-president-pardons-main-rival-114959444.html",
-    "event_codes": {
-      "17": 3,
+      "18": 4,
       "19": 2
     },
     "keywords": [
-      "news",
-      "articles",
-      "chads",
-      "president",
-      "pardons",
-      "main",
-      "rival",
-      "114959444.html"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "several",
+      "palestinians",
+      "injured",
+      "settlers",
+      "continue",
+      "attacks",
+      "west",
+      "bank"
     ]
   },
-  "ZWE": {
-    "risk_score": 2.4,
+  "SYR": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.thezimbabwean.co/2026/08/batoka-gorge-moves-toward-formal-procurement-with-440m-of-state-equity-behind-it/",
+    "top_news": "https://www.pressenza.com/2026/08/the-witness-who-stayed/",
     "event_codes": {
-      "18": 2,
+      "19": 2,
       "17": 1
     },
     "keywords": [
       "2026",
-      "batoka",
-      "gorge",
-      "moves",
-      "toward",
-      "formal",
-      "procurement",
-      "with",
-      "440m",
-      "state",
-      "equity",
-      "behind"
+      "the",
+      "witness",
+      "who",
+      "stayed"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.65,
+    "count": 5,
+    "top_news": "https://www.pressenza.com/2026/08/the-witness-who-stayed/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "witness",
+      "who",
+      "stayed"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-154",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "morning",
+      "recap",
+      "154"
     ]
   }
 }
