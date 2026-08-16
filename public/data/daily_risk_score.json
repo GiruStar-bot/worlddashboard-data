@@ -1,107 +1,69 @@
 {
-  "ISR": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://dominicanrepublicpost.com/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire/",
+  "EGY": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.hurriyetdailynews.com/erdogan-says-egypt-could-join-regional-defense-pact-225698",
     "event_codes": {
-      "19": 5
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "why",
-      "has",
-      "israel",
-      "escalated",
-      "attacks",
-      "southern",
-      "lebanon",
-      "despite",
-      "ceasefire"
+      "erdogan",
+      "says",
+      "egypt",
+      "could",
+      "join",
+      "regional",
+      "defense",
+      "pact",
+      "225698"
     ]
   },
-  "LBN": {
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://dominicanrepublicpost.com/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire/",
+    "top_news": "https://redstate.com/ben-smith/2026/08/16/strava-is-still-exposing-us-troop-locations-in-the-middle-east-eight-years-after-pentagon-warning-n2205657",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "why",
-      "has",
-      "israel",
-      "escalated",
-      "attacks",
-      "southern",
-      "lebanon",
-      "despite",
-      "ceasefire"
+      "ben",
+      "smith",
+      "2026",
+      "strava",
+      "still",
+      "exposing",
+      "troop",
+      "locations",
+      "the",
+      "middle",
+      "east",
+      "eight",
+      "years",
+      "after",
+      "pentagon",
+      "warning",
+      "n2205657"
     ]
   },
-  "NGA": {
-    "risk_score": 9.0,
-    "count": 11,
-    "top_news": "https://thesun.ng/osun-election-apc-examines-election-results-across-332-wards-hints-at-tribunal-legal-battle/",
+  "TUR": {
+    "risk_score": 5.6,
+    "count": 9,
+    "top_news": "https://www.aol.co.uk/articles/victor-osimhen-arsenal-decision-made-131027000.html",
     "event_codes": {
-      "19": 7,
-      "17": 4
-    },
-    "keywords": [
-      "osun",
-      "election",
-      "apc",
-      "examines",
-      "election",
-      "results",
-      "across",
-      "332",
-      "wards",
-      "hints",
-      "tribunal",
-      "legal",
-      "battle"
-    ]
-  },
-  "TCD": {
-    "risk_score": 3.1,
-    "count": 4,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/08/16/chadian-opposition-leader-calls-for-unity-after-presidential-pardon",
-    "event_codes": {
-      "16": 2,
-      "17": 1,
+      "17": 5,
+      "14": 2,
+      "16": 1,
       "19": 1
     },
     "keywords": [
-      "category",
-      "world",
-      "2026",
-      "chadian",
-      "opposition",
-      "leader",
-      "calls",
-      "for",
-      "unity",
-      "after",
-      "presidential",
-      "pardon"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dorsetecho.co.uk/news/26468512.killer-timothy-brehmer-walk-free-early-release-scheme/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "26468512.killer",
-      "timothy",
-      "brehmer",
-      "walk",
-      "free",
-      "early",
-      "release",
-      "scheme"
+      "articles",
+      "victor",
+      "osimhen",
+      "arsenal",
+      "decision",
+      "made",
+      "131027000.html"
     ]
   }
 }
