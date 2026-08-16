@@ -1,20 +1,72 @@
 {
-  "NGA": {
-    "risk_score": 16.5,
-    "count": 26,
-    "top_news": "https://theeagleonline.com.ng/ndlea-recovers-n3-6b-colos-codeine-in-lagos/",
+  "ISR": {
+    "risk_score": 14.74,
+    "count": 17,
+    "top_news": "https://www.stripes.com/theaters/middle_east/2026-08-16/israel-lebanon-iran-sanctions-package-22571168.html",
     "event_codes": {
-      "17": 16,
-      "18": 5,
-      "19": 3,
-      "16": 2
+      "19": 9,
+      "15": 6,
+      "17": 2
     },
     "keywords": [
-      "ndlea",
-      "recovers",
-      "colos",
-      "codeine",
-      "lagos"
+      "theaters",
+      "middle",
+      "east",
+      "2026",
+      "israel",
+      "lebanon",
+      "iran",
+      "sanctions",
+      "package",
+      "22571168.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.ynetnews.com/article/hkjoksypzg",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "article",
+      "hkjoksypzg"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.19,
+    "count": 15,
+    "top_news": "https://saharareporters.com/2026/08/16/bandits-attack-former-zurmi-lga-chairmans-vehicle-zamfara-kill-passenger",
+    "event_codes": {
+      "17": 7,
+      "19": 4,
+      "14": 3,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "attack",
+      "former",
+      "zurmi",
+      "lga",
+      "chairmans",
+      "vehicle",
+      "zamfara",
+      "kill",
+      "passenger"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/rjibefjwzl",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "rjibefjwzl"
     ]
   }
 }
