@@ -1,20 +1,149 @@
 {
-  "NGA": {
-    "risk_score": 4.65,
-    "count": 9,
-    "top_news": "https://punchng.com/fg-meta-plan-ai-academy-to-boost-nigerias-tech-talent/",
+  "BOL": {
+    "risk_score": 2.45,
+    "count": 3,
+    "top_news": "https://www.lrt.lt/en/news-in-english/19/3024347/lithuania-s-border-guard-chief-resigns-after-cover-up-claims-over-migrant-attack",
     "event_codes": {
-      "17": 8,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "english",
+      "3024347",
+      "lithuania",
+      "border",
+      "guard",
+      "chief",
+      "resigns",
+      "after",
+      "cover",
+      "claims",
+      "over",
+      "migrant",
+      "attack"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.americanthinker.com/blog/2026/08/the-whole-gop-must-loudly-excommunicate-florida-primary-candidate-dan-bilzerian/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "blog",
+      "2026",
+      "the",
+      "whole",
+      "gop",
+      "must",
+      "loudly",
+      "excommunicate",
+      "florida",
+      "primary",
+      "candidate",
+      "dan",
+      "bilzerian"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.92,
+    "count": 7,
+    "top_news": "https://www.the-star.co.ke/news/2026-08-17-mck-demands-action-after-journalists-injured-equipment-destroyed-in-homa-bay",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2,
       "14": 1
     },
     "keywords": [
-      "meta",
-      "plan",
-      "academy",
-      "boost",
-      "nigerias",
-      "tech",
-      "talent"
+      "news",
+      "2026",
+      "mck",
+      "demands",
+      "action",
+      "after",
+      "journalists",
+      "injured",
+      "equipment",
+      "destroyed",
+      "homa",
+      "bay"
+    ]
+  },
+  "LBY": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://kyma.com/news/national-world/2026/08/17/kidnapped-u-s-missionary-pilot-kevin-rideout-released/",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "2026",
+      "kidnapped",
+      "missionary",
+      "pilot",
+      "kevin",
+      "rideout",
+      "released"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://kyma.com/news/national-world/2026/08/17/kidnapped-u-s-missionary-pilot-kevin-rideout-released/",
+    "event_codes": {
+      "17": 2,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "world",
+      "2026",
+      "kidnapped",
+      "missionary",
+      "pilot",
+      "kevin",
+      "rideout",
+      "released"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.3,
+    "count": 7,
+    "top_news": "https://allafrica.com/stories/202608170504.html",
+    "event_codes": {
+      "19": 5,
+      "14": 2
+    },
+    "keywords": [
+      "stories",
+      "202608170504.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.2,
+    "count": 6,
+    "top_news": "https://www.aol.com/articles/12-places-travelers-warning-against-130200000.html",
+    "event_codes": {
+      "16": 3,
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "places",
+      "travelers",
+      "warning",
+      "against",
+      "130200000.html"
     ]
   }
 }
