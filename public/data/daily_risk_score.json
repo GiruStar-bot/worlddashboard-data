@@ -1,99 +1,64 @@
 {
-  "ARG": {
-    "risk_score": 3.25,
-    "count": 5,
-    "top_news": "https://www.forbes.com/sites/danielmarkind/2026/08/17/azerbaijans-energy-faces-another-headwind--former-icc-prosecutors/",
-    "event_codes": {
-      "14": 5
-    },
-    "keywords": [
-      "sites",
-      "danielmarkind",
-      "2026",
-      "azerbaijans",
-      "energy",
-      "faces",
-      "another",
-      "headwind",
-      "former",
-      "icc",
-      "prosecutors"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://eng.chinamil.com.cn/2025xb/W/A_251464/16479906.html",
+    "risk_score": 6.2,
+    "count": 8,
+    "top_news": "http://www.pakistantelegraph.com/news/279247275/60-day-deadline-expires-for-us-iran-talks-under-framework-agreement",
     "event_codes": {
-      "19": 3
+      "17": 3,
+      "19": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "2025xb",
-      "251464",
-      "16479906.html"
+      "news",
+      "279247275",
+      "day",
+      "deadline",
+      "expires",
+      "for",
+      "iran",
+      "talks",
+      "under",
+      "framework",
+      "agreement"
     ]
   },
-  "ISR": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "https://www.livemint.com/news/us-news/netanyahukushner-meet-us-general-to-monitor-hamas-disarmament-as-israel-rejects-gaza-exit-before-weapons-handover-11786993487170.html",
+  "YEM": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.ky3.com/2026/08/17/trump-threatens-bomb-oman-if-it-interferes-deal-open-strait-hormuz/",
     "event_codes": {
-      "15": 3
+      "19": 6
     },
     "keywords": [
-      "news",
-      "news",
-      "netanyahukushner",
-      "meet",
-      "general",
-      "monitor",
-      "hamas",
-      "disarmament",
-      "israel",
-      "rejects",
-      "gaza",
-      "exit",
-      "before",
-      "weapons",
-      "handover",
-      "11786993487170.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.premiumtimesng.com/news/more-news/903645-ndlea-destroys-4-6-tonnes-of-suspected-cannabis-farms-in-edo.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "more",
-      "news",
-      "903645",
-      "ndlea",
-      "destroys",
-      "tonnes",
-      "suspected",
-      "cannabis",
-      "farms",
-      "edo.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/17/syria-torture/",
-    "event_codes": {
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "mena",
       "2026",
-      "syria",
-      "torture"
+      "trump",
+      "threatens",
+      "bomb",
+      "oman",
+      "interferes",
+      "deal",
+      "open",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.59,
+    "count": 5,
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-266910.html",
+    "event_codes": {
+      "15": 2,
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "index",
+      "news",
+      "national",
+      "byo",
+      "266910.html"
     ]
   }
 }
