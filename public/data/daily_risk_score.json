@@ -1,100 +1,105 @@
 {
-  "BRA": {
-    "risk_score": 4.0,
-    "count": 7,
-    "top_news": "https://www.riotimesonline.com/sao-paulo-bar-association-proposes-12-year-term-limits-and-a-minimum-age-of-50-for-brazils-supreme-court-justices/",
+  "BOL": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.rollingstone.com/politics/politics-features/trump-opened-door-putin-move-nato-1235610069/",
     "event_codes": {
-      "17": 6,
-      "19": 1
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "sao",
-      "paulo",
-      "bar",
-      "association",
-      "proposes",
-      "year",
-      "term",
-      "limits",
-      "and",
-      "minimum",
-      "age",
-      "for",
-      "brazils",
-      "supreme",
-      "court",
-      "justices"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2866214-trump-warns-oman-against-hindering-iran-deal-update",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "and",
-      "insights",
-      "latest",
-      "market",
-      "news",
-      "2866214",
+      "politics",
+      "politics",
+      "features",
       "trump",
-      "warns",
-      "oman",
-      "against",
-      "hindering",
-      "iran",
-      "deal",
-      "update"
+      "opened",
+      "door",
+      "putin",
+      "move",
+      "nato",
+      "1235610069"
     ]
   },
   "ISR": {
-    "risk_score": 5.75,
-    "count": 7,
-    "top_news": "https://thecatholicherald.com/article/pope-leo-calls-for-two-state-solution-amid-attacks-on-taybeh",
+    "risk_score": 16.0,
+    "count": 22,
+    "top_news": "https://www.wsbradio.com/news/world/palestinian-american/JSZYA4IZTQ4HFIMSCU3IJD7MFA/",
     "event_codes": {
-      "19": 3,
-      "17": 2,
+      "17": 10,
+      "19": 8,
+      "14": 2,
       "16": 1,
       "18": 1
     },
     "keywords": [
-      "article",
-      "pope",
-      "leo",
-      "calls",
-      "for",
-      "two",
-      "state",
-      "solution",
-      "amid",
-      "attacks",
-      "taybeh"
+      "news",
+      "world",
+      "palestinian",
+      "american",
+      "jszya4iztq4hfimscu3ijd7mfa"
     ]
   },
-  "KEN": {
-    "risk_score": 9.4,
-    "count": 12,
-    "top_news": "https://capitalfm.africa/18-journalists-two-drivers-attacked-in-two-months-mck-says/",
+  "LBN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.unfpa.org/news/humanitarians-under-fire-lebanon-batoul%E2%80%99s-family-remember-%E2%80%9C-joy-our-home%E2%80%9D",
     "event_codes": {
-      "18": 5,
-      "14": 3,
-      "19": 2,
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "humanitarians",
+      "under",
+      "fire",
+      "lebanon",
+      "batoul%e2%80%99s",
+      "family",
+      "remember",
+      "%e2%80%9c",
+      "joy",
+      "our",
+      "home%e2%80%9d"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.nigerianeye.com/2026/08/reps-group-seeks-probe-of-fadahunsi.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "reps",
+      "group",
+      "seeks",
+      "probe",
+      "fadahunsi.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.2,
+    "count": 9,
+    "top_news": "https://www.nbcchicago.com/news/national-international/palestinian-american-west-bank-defend-home-siege-israeli-settlers/3976468/",
+    "event_codes": {
+      "19": 7,
       "16": 1,
       "17": 1
     },
     "keywords": [
-      "journalists",
-      "two",
-      "drivers",
-      "attacked",
-      "two",
-      "months",
-      "mck",
-      "says"
+      "news",
+      "national",
+      "international",
+      "palestinian",
+      "american",
+      "west",
+      "bank",
+      "defend",
+      "home",
+      "siege",
+      "israeli",
+      "settlers",
+      "3976468"
     ]
   }
 }
