@@ -1,118 +1,60 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.southeastasiapost.com/news/279247950/trump-says-us-not-seeking-extension-of-interim-deal-with-iran",
+  "EGY": {
+    "risk_score": 3.02,
+    "count": 4,
+    "top_news": "https://knoxradio.com/2026/08/17/1364502/",
     "event_codes": {
+      "18": 2,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "1364502"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.44,
+    "count": 6,
+    "top_news": "https://themedialine.org/top-stories/the-ceasefire-arsenal-iran-and-its-rivals-race-to-reload/",
+    "event_codes": {
+      "15": 2,
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "279247950",
-      "trump",
-      "says",
-      "not",
-      "seeking",
-      "extension",
-      "interim",
-      "deal",
-      "with",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.62,
-    "count": 9,
-    "top_news": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil",
-    "event_codes": {
-      "19": 4,
-      "15": 3,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "civilians",
-      "pay",
-      "price",
-      "israeli",
-      "military",
-      "activity",
-      "rises",
-      "lebanon",
-      "unifil"
-    ]
-  },
-  "QAT": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "http://www.southeastasiapost.com/news/279247950/trump-says-us-not-seeking-extension-of-interim-deal-with-iran",
-    "event_codes": {
-      "19": 5,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "279247950",
-      "trump",
-      "says",
-      "not",
-      "seeking",
-      "extension",
-      "interim",
-      "deal",
-      "with",
-      "iran"
+      "top",
+      "stories",
+      "the",
+      "ceasefire",
+      "arsenal",
+      "iran",
+      "and",
+      "its",
+      "rivals",
+      "race",
+      "reload"
     ]
   },
   "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "http://www.southeastasiapost.com/news/279247950/trump-says-us-not-seeking-extension-of-interim-deal-with-iran",
+    "top_news": "https://themedialine.org/top-stories/turkeys-libya-pivot-forces-israel-to-recalculate-in-the-eastern-mediterranean/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "279247950",
-      "trump",
-      "says",
-      "not",
-      "seeking",
-      "extension",
-      "interim",
-      "deal",
-      "with",
-      "iran"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "blog",
-      "misa",
-      "regional",
-      "preliminary",
-      "statement",
-      "media",
-      "freedom",
-      "digital",
-      "rights",
-      "and",
-      "access",
-      "information",
+      "top",
+      "stories",
+      "turkeys",
+      "libya",
+      "pivot",
+      "forces",
+      "israel",
+      "recalculate",
       "the",
-      "2026",
-      "zambia",
-      "general",
-      "elections"
+      "eastern",
+      "mediterranean"
     ]
   }
 }
