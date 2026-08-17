@@ -1,64 +1,116 @@
 {
-  "ISR": {
-    "risk_score": 9.6,
-    "count": 12,
-    "top_news": "https://countercurrents.org/2026/08/rss-muslim-brotherhood-legatees-of-radical-ideologies-agents-of-discords/",
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://gulfnews.com/entertainment/egyptian-actor-dies-at-51-after-years-with-multiple-sclerosis-1.500643849",
     "event_codes": {
-      "19": 5,
-      "16": 4,
-      "17": 2,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "2026",
-      "rss",
-      "muslim",
-      "brotherhood",
-      "legatees",
-      "radical",
-      "ideologies",
-      "agents",
-      "discords"
+      "entertainment",
+      "egyptian",
+      "actor",
+      "dies",
+      "after",
+      "years",
+      "with",
+      "multiple",
+      "sclerosis",
+      "1.500643849"
     ]
   },
-  "NGA": {
-    "risk_score": 4.65,
-    "count": 8,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/903619-lawmakers-demand-probe-into-osun-election-violence-security-deployment.html",
-    "event_codes": {
-      "16": 5,
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "top",
-      "news",
-      "903619",
-      "lawmakers",
-      "demand",
-      "probe",
-      "into",
-      "osun",
-      "election",
-      "violence",
-      "security",
-      "deployment.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.9,
+  "IRN": {
+    "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://www.wokv.com/news/world/palestinian-american/JSZYA4IZTQ4HFIMSCU3IJD7MFA/",
+    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/08/18/2003862666",
     "event_codes": {
       "19": 6
     },
     "keywords": [
       "news",
-      "world",
-      "palestinian",
-      "american",
-      "jszya4iztq4hfimscu3ijd7mfa"
+      "editorials",
+      "archives",
+      "2026",
+      "2003862666"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.05,
+    "count": 7,
+    "top_news": "https://www.africa.com/featuresopinion/kenya-police-detain-activists-during-protest-against-alleged-police-brutality",
+    "event_codes": {
+      "14": 5,
+      "17": 2
+    },
+    "keywords": [
+      "featuresopinion",
+      "kenya",
+      "police",
+      "detain",
+      "activists",
+      "during",
+      "protest",
+      "against",
+      "alleged",
+      "police",
+      "brutality"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.3,
+    "count": 13,
+    "top_news": "https://punchng.com/ndlea-destroys-two-cannabis-farms-in-edo-arrests-10/",
+    "event_codes": {
+      "17": 7,
+      "19": 4,
+      "16": 2
+    },
+    "keywords": [
+      "ndlea",
+      "destroys",
+      "two",
+      "cannabis",
+      "farms",
+      "edo",
+      "arrests"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.15,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa/",
+    "event_codes": {
+      "19": 4,
+      "16": 3
+    },
+    "keywords": [
+      "somali",
+      "army",
+      "clashes",
+      "with",
+      "rebel",
+      "forces",
+      "for",
+      "control",
+      "key",
+      "city",
+      "baidoa"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/08/18/2003862663",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "editorials",
+      "archives",
+      "2026",
+      "2003862663"
     ]
   }
 }
