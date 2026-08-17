@@ -1,105 +1,119 @@
 {
-  "BOL": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://www.rollingstone.com/politics/politics-features/trump-opened-door-putin-move-nato-1235610069/",
+  "IDN": {
+    "risk_score": 3.85,
+    "count": 5,
+    "top_news": "https://www.agrinews-pubs.com:443/business/2026/08/17/soy-connext-conference-draws-record-attendance/",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "14": 3,
+      "19": 2
     },
     "keywords": [
-      "politics",
-      "politics",
-      "features",
-      "trump",
-      "opened",
-      "door",
-      "putin",
-      "move",
-      "nato",
-      "1235610069"
+      "business",
+      "2026",
+      "soy",
+      "connext",
+      "conference",
+      "draws",
+      "record",
+      "attendance"
     ]
   },
-  "ISR": {
-    "risk_score": 16.0,
-    "count": 22,
-    "top_news": "https://www.wsbradio.com/news/world/palestinian-american/JSZYA4IZTQ4HFIMSCU3IJD7MFA/",
+  "IRN": {
+    "risk_score": 4.44,
+    "count": 6,
+    "top_news": "https://saharareporters.com/2026/08/17/trump-threatens-bomb-oman-if-it-meddles-iran-talks-strait-hormuz",
     "event_codes": {
-      "17": 10,
-      "19": 8,
+      "16": 2,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "threatens",
+      "bomb",
+      "oman",
+      "meddles",
+      "iran",
+      "talks",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.1,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/08/17/six-activists-arrested-kenya-protest-demanding-police-chief-kanjas-resignation",
+    "event_codes": {
       "14": 2,
-      "16": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "palestinian",
-      "american",
-      "jszya4iztq4hfimscu3ijd7mfa"
-    ]
-  },
-  "LBN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.unfpa.org/news/humanitarians-under-fire-lebanon-batoul%E2%80%99s-family-remember-%E2%80%9C-joy-our-home%E2%80%9D",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "news",
-      "humanitarians",
-      "under",
-      "fire",
-      "lebanon",
-      "batoul%e2%80%99s",
-      "family",
-      "remember",
-      "%e2%80%9c",
-      "joy",
-      "our",
-      "home%e2%80%9d"
+      "2026",
+      "six",
+      "activists",
+      "arrested",
+      "kenya",
+      "protest",
+      "demanding",
+      "police",
+      "chief",
+      "kanjas",
+      "resignation"
     ]
   },
   "NGA": {
+    "risk_score": 14.5,
+    "count": 16,
+    "top_news": "https://saharareporters.com/2026/08/17/scores-southern-travellers-abducted-within-days-bandits-lay-siege-kogi-benue-ondo-roads",
+    "event_codes": {
+      "18": 15,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "scores",
+      "southern",
+      "travellers",
+      "abducted",
+      "within",
+      "days",
+      "bandits",
+      "lay",
+      "siege",
+      "kogi",
+      "benue",
+      "ondo",
+      "roads"
+    ]
+  },
+  "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.nigerianeye.com/2026/08/reps-group-seeks-probe-of-fadahunsi.html",
+    "top_news": "http://www.jpost.com/israel-news/article-905816",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "2026",
-      "reps",
-      "group",
-      "seeks",
-      "probe",
-      "fadahunsi.html"
+      "israel",
+      "news",
+      "article",
+      "905816"
     ]
   },
-  "PSE": {
-    "risk_score": 8.2,
-    "count": 9,
-    "top_news": "https://www.nbcchicago.com/news/national-international/palestinian-american-west-bank-defend-home-siege-israeli-settlers/3976468/",
+  "TWN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "http://www.jpost.com/opinion/article-905757",
     "event_codes": {
-      "19": 7,
-      "16": 1,
-      "17": 1
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "international",
-      "palestinian",
-      "american",
-      "west",
-      "bank",
-      "defend",
-      "home",
-      "siege",
-      "israeli",
-      "settlers",
-      "3976468"
+      "opinion",
+      "article",
+      "905757"
     ]
   }
 }
