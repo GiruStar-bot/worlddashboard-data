@@ -1,154 +1,64 @@
 {
-  "BFA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.worthynews.com/116756-us-christian-missionary-freed-after-nine-months-in-islamist-militant-captivity",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "116756",
-      "christian",
-      "missionary",
-      "freed",
-      "after",
-      "nine",
-      "months",
-      "islamist",
-      "militant",
-      "captivity"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.communityadvocate.com/news/mizikar-says-town-is-in-good-spot-amid-nationwide-cyberattacks-on-water-systems/article_b4511e2c-d1a2-4944-8966-a6f6f675e700.html",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "mizikar",
-      "says",
-      "town",
-      "good",
-      "spot",
-      "amid",
-      "nationwide",
-      "cyberattacks",
-      "water",
-      "systems",
-      "article",
-      "b4511e2c",
-      "d1a2",
-      "4944",
-      "8966",
-      "a6f6f675e700.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.worthynews.com/116759-hezbollah-threatens-retaliation-after-israeli-strikes-kill-11-in-lebanon",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "116759",
-      "hezbollah",
-      "threatens",
-      "retaliation",
-      "after",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon"
-    ]
-  },
-  "LBY": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.worthynews.com/116756-us-christian-missionary-freed-after-nine-months-in-islamist-militant-captivity",
+  "ISR": {
+    "risk_score": 9.6,
+    "count": 12,
+    "top_news": "https://countercurrents.org/2026/08/rss-muslim-brotherhood-legatees-of-radical-ideologies-agents-of-discords/",
     "event_codes": {
       "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "116756",
-      "christian",
-      "missionary",
-      "freed",
-      "after",
-      "nine",
-      "months",
-      "islamist",
-      "militant",
-      "captivity"
-    ]
-  },
-  "MLI": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.worthynews.com/116756-us-christian-missionary-freed-after-nine-months-in-islamist-militant-captivity",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "116756",
-      "christian",
-      "missionary",
-      "freed",
-      "after",
-      "nine",
-      "months",
-      "islamist",
-      "militant",
-      "captivity"
-    ]
-  },
-  "NER": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.worthynews.com/116756-us-christian-missionary-freed-after-nine-months-in-islamist-militant-captivity",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
+      "16": 4,
+      "17": 2,
       "18": 1
     },
     "keywords": [
-      "116756",
-      "christian",
-      "missionary",
-      "freed",
-      "after",
-      "nine",
-      "months",
-      "islamist",
-      "militant",
-      "captivity"
+      "2026",
+      "rss",
+      "muslim",
+      "brotherhood",
+      "legatees",
+      "radical",
+      "ideologies",
+      "agents",
+      "discords"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.vanguardngr.com/2026/08/kanu-doesnt-need-esn-camp-to-win-case-ipob-replies-army/",
+    "risk_score": 4.65,
+    "count": 8,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/903619-lawmakers-demand-probe-into-osun-election-violence-security-deployment.html",
     "event_codes": {
-      "19": 2
+      "16": 5,
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "2026",
-      "kanu",
-      "doesnt",
-      "need",
-      "esn",
-      "camp",
-      "win",
-      "case",
-      "ipob",
-      "replies",
-      "army"
+      "news",
+      "top",
+      "news",
+      "903619",
+      "lawmakers",
+      "demand",
+      "probe",
+      "into",
+      "osun",
+      "election",
+      "violence",
+      "security",
+      "deployment.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.wokv.com/news/world/palestinian-american/JSZYA4IZTQ4HFIMSCU3IJD7MFA/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "world",
+      "palestinian",
+      "american",
+      "jszya4iztq4hfimscu3ijd7mfa"
     ]
   }
 }
