@@ -1,75 +1,86 @@
 {
   "IRN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/17/774563/Drone-attack-on-Iraqi-Kurdistan",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.cbc.ca/news/world/iran-us-conflict-trump-oman-9.7310060",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "774563",
-      "drone",
-      "attack",
-      "iraqi",
-      "kurdistan"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.dailykos.com/stories/2026/8/17/800085203/community/natl-security-minister-ben-givr-says-israel-should-kill-30-to-40-gazans-every-night-because-some-of-them-are-not-even-people/",
-    "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "stories",
-      "2026",
-      "800085203",
-      "community",
-      "natl",
-      "security",
-      "minister",
-      "ben",
-      "givr",
-      "says",
-      "israel",
-      "should",
-      "kill",
-      "gazans",
-      "every",
-      "night",
-      "because",
-      "some",
-      "them",
-      "are",
-      "not",
-      "even",
-      "people"
+      "news",
+      "world",
+      "iran",
+      "conflict",
+      "trump",
+      "oman",
+      "9.7310060"
     ]
   },
-  "ZWE": {
-    "risk_score": 3.2,
+  "ISR": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.salisburyjournal.co.uk/features/journalfeatures/26469891.authors-sharing-crime-stories-salisbury-history-festival/",
+    "top_news": "https://www.arabnews.com/node/2655007/middle-east",
     "event_codes": {
-      "19": 2,
-      "16": 1,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2655007",
+      "middle",
+      "east"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.standardmedia.co.ke/national/article/2001555549/we-escaped-death-journalists-recount-terror-unleashed-by-goons-in-homa-bay",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "national",
+      "article",
+      "2001555549",
+      "escaped",
+      "death",
+      "journalists",
+      "recount",
+      "terror",
+      "unleashed",
+      "goons",
+      "homa",
+      "bay"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.15,
+    "count": 6,
+    "top_news": "https://www.thisdaylive.com/2026/08/17/osun-poll-lawmakers-demand-probe-of-killings-fadahunsis-alleged-incitement-call-for-recovening-of-nassembly-to-discuss-urgent-national-matters/",
+    "event_codes": {
+      "19": 4,
+      "14": 1,
       "17": 1
     },
     "keywords": [
-      "features",
-      "journalfeatures",
-      "26469891.authors",
-      "sharing",
-      "crime",
-      "stories",
-      "salisbury",
-      "history",
-      "festival"
+      "2026",
+      "osun",
+      "poll",
+      "lawmakers",
+      "demand",
+      "probe",
+      "killings",
+      "fadahunsis",
+      "alleged",
+      "incitement",
+      "call",
+      "for",
+      "recovening",
+      "nassembly",
+      "discuss",
+      "urgent",
+      "national",
+      "matters"
     ]
   }
 }
