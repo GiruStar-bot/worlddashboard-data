@@ -1,37 +1,94 @@
 {
-  "KEN": {
-    "risk_score": 11.85,
-    "count": 14,
-    "top_news": "https://www.the-star.co.ke/news/2026-08-17-bouncer-held-after-man-dies-in-nairobi-lounge-fight",
+  "IDN": {
+    "risk_score": 4.63,
+    "count": 5,
+    "top_news": "https://www.thestar.com.my/lifestyle/living/2026/08/17/contradictheory-look-beyond-your-phones-screen",
     "event_codes": {
-      "14": 5,
-      "19": 5,
-      "18": 4
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "lifestyle",
+      "living",
+      "2026",
+      "contradictheory",
+      "look",
+      "beyond",
+      "your",
+      "phones",
+      "screen"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202608170059.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "stories",
+      "202608170059.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.therakyatpost.com/news/2026/08/17/too-controversial-iium-calls-off-razak-baginda-leadership-lecture/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
     },
     "keywords": [
       "news",
       "2026",
-      "bouncer",
-      "held",
-      "after",
-      "man",
-      "dies",
-      "nairobi",
-      "lounge",
-      "fight"
+      "too",
+      "controversial",
+      "iium",
+      "calls",
+      "off",
+      "razak",
+      "baginda",
+      "leadership",
+      "lecture"
     ]
   },
-  "MOZ": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202608170081.html",
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202608170059.html",
     "event_codes": {
-      "14": 2,
-      "17": 1
+      "19": 4
     },
     "keywords": [
       "stories",
-      "202608170081.html"
+      "202608170059.html"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202608170102.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "stories",
+      "202608170102.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://allafrica.com/stories/202608170059.html",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "stories",
+      "202608170059.html"
     ]
   }
 }
