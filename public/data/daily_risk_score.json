@@ -1,116 +1,100 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://gulfnews.com/entertainment/egyptian-actor-dies-at-51-after-years-with-multiple-sclerosis-1.500643849",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "entertainment",
-      "egyptian",
-      "actor",
-      "dies",
-      "after",
-      "years",
-      "with",
-      "multiple",
-      "sclerosis",
-      "1.500643849"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/08/18/2003862666",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "editorials",
-      "archives",
-      "2026",
-      "2003862666"
-    ]
-  },
-  "KEN": {
-    "risk_score": 5.05,
+  "BRA": {
+    "risk_score": 4.0,
     "count": 7,
-    "top_news": "https://www.africa.com/featuresopinion/kenya-police-detain-activists-during-protest-against-alleged-police-brutality",
+    "top_news": "https://www.riotimesonline.com/sao-paulo-bar-association-proposes-12-year-term-limits-and-a-minimum-age-of-50-for-brazils-supreme-court-justices/",
     "event_codes": {
-      "14": 5,
-      "17": 2
-    },
-    "keywords": [
-      "featuresopinion",
-      "kenya",
-      "police",
-      "detain",
-      "activists",
-      "during",
-      "protest",
-      "against",
-      "alleged",
-      "police",
-      "brutality"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.3,
-    "count": 13,
-    "top_news": "https://punchng.com/ndlea-destroys-two-cannabis-farms-in-edo-arrests-10/",
-    "event_codes": {
-      "17": 7,
-      "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "ndlea",
-      "destroys",
-      "two",
-      "cannabis",
-      "farms",
-      "edo",
-      "arrests"
-    ]
-  },
-  "SOM": {
-    "risk_score": 5.15,
-    "count": 7,
-    "top_news": "https://dominicanrepublicpost.com/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa/",
-    "event_codes": {
-      "19": 4,
-      "16": 3
-    },
-    "keywords": [
-      "somali",
-      "army",
-      "clashes",
-      "with",
-      "rebel",
-      "forces",
-      "for",
-      "control",
-      "key",
-      "city",
-      "baidoa"
-    ]
-  },
-  "TWN": {
-    "risk_score": 2.44,
-    "count": 3,
-    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/08/18/2003862663",
-    "event_codes": {
-      "15": 2,
+      "17": 6,
       "19": 1
     },
     "keywords": [
+      "sao",
+      "paulo",
+      "bar",
+      "association",
+      "proposes",
+      "year",
+      "term",
+      "limits",
+      "and",
+      "minimum",
+      "age",
+      "for",
+      "brazils",
+      "supreme",
+      "court",
+      "justices"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.argusmedia.com/en/news-and-insights/latest-market-news/2866214-trump-warns-oman-against-hindering-iran-deal-update",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
       "news",
-      "editorials",
-      "archives",
-      "2026",
-      "2003862663"
+      "and",
+      "insights",
+      "latest",
+      "market",
+      "news",
+      "2866214",
+      "trump",
+      "warns",
+      "oman",
+      "against",
+      "hindering",
+      "iran",
+      "deal",
+      "update"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.75,
+    "count": 7,
+    "top_news": "https://thecatholicherald.com/article/pope-leo-calls-for-two-state-solution-amid-attacks-on-taybeh",
+    "event_codes": {
+      "19": 3,
+      "17": 2,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "pope",
+      "leo",
+      "calls",
+      "for",
+      "two",
+      "state",
+      "solution",
+      "amid",
+      "attacks",
+      "taybeh"
+    ]
+  },
+  "KEN": {
+    "risk_score": 9.4,
+    "count": 12,
+    "top_news": "https://capitalfm.africa/18-journalists-two-drivers-attacked-in-two-months-mck-says/",
+    "event_codes": {
+      "18": 5,
+      "14": 3,
+      "19": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "journalists",
+      "two",
+      "drivers",
+      "attacked",
+      "two",
+      "months",
+      "mck",
+      "says"
     ]
   }
 }
