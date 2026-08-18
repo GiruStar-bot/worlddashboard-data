@@ -1,81 +1,127 @@
 {
-  "ISR": {
+  "COD": {
+    "risk_score": 8.34,
+    "count": 9,
+    "top_news": "https://freerepublic.com/tag/*/index?more=4392199",
+    "event_codes": {
+      "18": 5,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "tag",
+      "index"
+    ]
+  },
+  "ETH": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.theafricareport.com/427967/ethiopia-accused-of-drone-strike-near-tigray-capital/",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "427967",
+      "ethiopia",
+      "accused",
+      "drone",
+      "strike",
+      "near",
+      "tigray",
+      "capital"
+    ]
+  },
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://morungexpress.com/israel-kills-islamic-jihad-commander-in-gaza",
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774605/Iran-Defense-Ministry-vows-to-advance-military-capabilities-in-line-with-martyred-leader-legacy",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774605",
+      "iran",
+      "defense",
+      "ministry",
+      "vows",
+      "advance",
+      "military",
+      "capabilities",
+      "line",
+      "with",
+      "martyred",
+      "leader",
+      "legacy"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.1,
+    "count": 10,
+    "top_news": "https://www.moneycontrol.com/world/why-did-israel-strike-syria-s-abu-al-duhur-airbase-eight-strikes-reported-article-14009665.html",
+    "event_codes": {
+      "17": 4,
+      "14": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "why",
+      "did",
+      "israel",
+      "strike",
+      "syria",
+      "abu",
+      "duhur",
+      "airbase",
+      "eight",
+      "strikes",
+      "reported",
+      "article",
+      "14009665.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theafricareport.com/427967/ethiopia-accused-of-drone-strike-near-tigray-capital/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "israel",
-      "kills",
-      "islamic",
-      "jihad",
-      "commander",
-      "gaza"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://www.thisdaylive.com/2026/08/18/miskay-boosts-capital-market-profile-with-full-redemption-of-%E2%82%A6824-2m-commercial-paper/",
-    "event_codes": {
-      "18": 3,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "miskay",
-      "boosts",
-      "capital",
-      "market",
-      "profile",
-      "with",
-      "full",
-      "redemption",
-      "%e2%82%a6824",
-      "commercial",
-      "paper"
+      "427967",
+      "ethiopia",
+      "accused",
+      "drone",
+      "strike",
+      "near",
+      "tigray",
+      "capital"
     ]
   },
   "SYR": {
-    "risk_score": 4.4,
-    "count": 7,
-    "top_news": "https://dominicanrepublicpost.com/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities/",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.worthynews.com/116800-israel-strikes-syrian-airbase-after-turkish-military-visit-drawing-rare-u-s-rebuke",
     "event_codes": {
-      "17": 4,
-      "19": 2,
-      "16": 1
+      "19": 6
     },
     "keywords": [
-      "who",
-      "wassim",
-      "assad",
-      "sentenced",
-      "death",
-      "for",
-      "syria",
-      "war",
-      "atrocities"
-    ]
-  },
-  "YEM": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://dominicanrepublicpost.com/yemeni-government-escalates-attacks-against-houthis-whats-next/",
-    "event_codes": {
-      "19": 12
-    },
-    "keywords": [
-      "yemeni",
-      "government",
-      "escalates",
-      "attacks",
-      "against",
-      "houthis",
-      "whats",
-      "next"
+      "116800",
+      "israel",
+      "strikes",
+      "syrian",
+      "airbase",
+      "after",
+      "turkish",
+      "military",
+      "visit",
+      "drawing",
+      "rare",
+      "rebuke"
     ]
   }
 }
