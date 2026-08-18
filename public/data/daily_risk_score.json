@@ -1,93 +1,124 @@
 {
   "IDN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/08/19/2003862722",
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://en.tempo.co/read/2117769/student-protesters-blocked-at-dukuh-atas-on-way-to-hi-roundabout",
     "event_codes": {
-      "19": 3
+      "14": 2,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "editorials",
-      "archives",
-      "2026",
-      "2003862722"
+      "read",
+      "2117769",
+      "student",
+      "protesters",
+      "blocked",
+      "dukuh",
+      "atas",
+      "way",
+      "roundabout"
     ]
   },
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://keralakaumudi.com/en/en/world/gulf/uae-warns-of-potential-missile-threats-1793501",
+    "risk_score": 9.31,
+    "count": 14,
+    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/08/18/trumps-threats-anger-omanis-leave-observers-puzzled/",
     "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "world",
-      "gulf",
-      "uae",
-      "warns",
-      "potential",
-      "missile",
-      "threats",
-      "1793501"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.8,
-    "count": 11,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/israeli-airstrikes-hit-syrian-airbase-drawing-turkish-condemnation",
-    "event_codes": {
-      "19": 6,
-      "18": 5
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "israeli",
-      "airstrikes",
-      "hit",
-      "syrian",
-      "airbase",
-      "drawing",
-      "turkish",
-      "condemnation"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.6,
-    "count": 6,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/israeli-airstrikes-hit-syrian-airbase-drawing-turkish-condemnation",
-    "event_codes": {
+      "16": 6,
       "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "israeli",
-      "airstrikes",
-      "hit",
-      "syrian",
-      "airbase",
-      "drawing",
-      "turkish",
-      "condemnation"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.taipeitimes.com/News/biz/archives/2026/08/19/2003862713",
-    "event_codes": {
-      "17": 3,
-      "18": 2
+      "15": 3,
+      "18": 1
     },
     "keywords": [
       "news",
-      "biz",
-      "archives",
+      "national",
+      "world",
+      "cnn",
+      "world",
       "2026",
-      "2003862713"
+      "trumps",
+      "threats",
+      "anger",
+      "omanis",
+      "leave",
+      "observers",
+      "puzzled"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.wdrb.com/news/national/trump-says-us-has-no-talks-planned-with-iran-and-other-news-from-the-middle/article_1f9b58d6-32c6-5cf5-8069-4a867f793899.html",
+    "event_codes": {
+      "19": 5,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "trump",
+      "says",
+      "has",
+      "talks",
+      "planned",
+      "with",
+      "iran",
+      "and",
+      "other",
+      "news",
+      "from",
+      "the",
+      "middle",
+      "article",
+      "1f9b58d6",
+      "32c6",
+      "5cf5",
+      "8069",
+      "4a867f793899.html"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://petapixel.com/2026/08/18/filmmakers-spent-four-years-following-a-lion-on-his-journey-to-become-king/",
+    "event_codes": {
+      "17": 4,
+      "14": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "filmmakers",
+      "spent",
+      "four",
+      "years",
+      "following",
+      "lion",
+      "his",
+      "journey",
+      "become",
+      "king"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.22,
+    "count": 7,
+    "top_news": "https://tribuneonlineng.com/insecurity-troops-foil-multiple-terrorists-abductions-in-zamfara/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "14": 1,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "insecurity",
+      "troops",
+      "foil",
+      "multiple",
+      "terrorists",
+      "abductions",
+      "zamfara"
     ]
   }
 }
