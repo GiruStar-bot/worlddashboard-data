@@ -1,83 +1,45 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dailymail.com/news/article-16059557/jared-kushner-peace-deal-iran-trump-hamas-negotiations.html",
+  "KEN": {
+    "risk_score": 7.32,
+    "count": 8,
+    "top_news": "https://www.standardmedia.co.ke/opinion/article/2001555543/rogue-political-leaders-are-the-real-goons",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
+      "opinion",
       "article",
-      "16059557",
-      "jared",
-      "kushner",
-      "peace",
-      "deal",
-      "iran",
-      "trump",
-      "hamas",
-      "negotiations.html"
+      "2001555543",
+      "rogue",
+      "political",
+      "leaders",
+      "are",
+      "the",
+      "real",
+      "goons"
     ]
   },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.geo.tv/latest/678021-iran-threatens-attack-on-us-blockade-as-washington-rules-out-extending-ceasefire",
+  "SDN": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.christianpost.com/news/kidnapped-sudanese-pastors-family-released-amid-surge-in-attacks.html",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "latest",
-      "678021",
-      "iran",
-      "threatens",
-      "attack",
-      "blockade",
-      "washington",
-      "rules",
-      "out",
-      "extending",
-      "ceasefire"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.zerohedge.com/markets/iran-war-pushes-middle-eastern-airlines-towards-43bn-loss-2026",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "markets",
-      "iran",
-      "war",
-      "pushes",
-      "middle",
-      "eastern",
-      "airlines",
-      "towards",
-      "43bn",
-      "loss",
-      "2026"
-    ]
-  },
-  "THA": {
-    "risk_score": 6.9,
-    "count": 11,
-    "top_news": "https://www.miragenews.com/thailand-to-deport-ethnic-karen-to-myanmar-1728724/",
-    "event_codes": {
-      "17": 7,
-      "19": 3,
+      "18": 4,
+      "19": 2,
       "16": 1
     },
     "keywords": [
-      "thailand",
-      "deport",
-      "ethnic",
-      "karen",
-      "myanmar",
-      "1728724"
+      "news",
+      "kidnapped",
+      "sudanese",
+      "pastors",
+      "family",
+      "released",
+      "amid",
+      "surge",
+      "attacks.html"
     ]
   }
 }
