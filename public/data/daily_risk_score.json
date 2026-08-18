@@ -1,102 +1,72 @@
 {
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.mexicostar.com/news/279247410/as-deadlock-persists-iran-shifts-to-fully-offensive-war-policy",
+    "risk_score": 5.16,
+    "count": 6,
+    "top_news": "https://www.vladtv.com/article/315779/robert-oneill-who-killed-bin-laden-on-charlie-kirk-israel-iran",
     "event_codes": {
+      "15": 3,
       "19": 3
     },
     "keywords": [
-      "news",
-      "279247410",
-      "deadlock",
-      "persists",
-      "iran",
-      "shifts",
-      "fully",
-      "offensive",
-      "war",
-      "policy"
+      "article",
+      "315779",
+      "robert",
+      "oneill",
+      "who",
+      "killed",
+      "bin",
+      "laden",
+      "charlie",
+      "kirk",
+      "israel",
+      "iran"
     ]
   },
   "ISR": {
-    "risk_score": 6.9,
-    "count": 8,
-    "top_news": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
+    "risk_score": 7.4,
+    "count": 9,
+    "top_news": "https://www.vladtv.com/article/315779/robert-oneill-who-killed-bin-laden-on-charlie-kirk-israel-iran",
     "event_codes": {
-      "19": 5,
-      "17": 2,
-      "20": 1
+      "19": 6,
+      "17": 3
     },
     "keywords": [
-      "world",
-      "kushner",
-      "gives",
-      "hamas",
-      "stark",
-      "ultimatum",
-      "disarm",
+      "article",
+      "315779",
+      "robert",
+      "oneill",
+      "who",
+      "killed",
+      "bin",
+      "laden",
+      "charlie",
+      "kirk",
       "israel",
-      "gets",
-      "backing",
-      "finish",
-      "job"
+      "iran"
     ]
   },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://leadership.ng/hospitals-refusing-to-treat-our-father-ogogos-daughters-cry-for-help-over-fathers-ill-heath/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "hospitals",
-      "refusing",
-      "treat",
-      "our",
-      "father",
-      "ogogos",
-      "daughters",
-      "cry",
-      "for",
-      "help",
-      "over",
-      "fathers",
-      "ill",
-      "heath"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/politics/articles/u-defense-secretary-pete-hegseth-232603375.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "defense",
-      "secretary",
-      "pete",
-      "hegseth",
-      "232603375.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.25,
+  "PSE": {
+    "risk_score": 6.4,
     "count": 7,
-    "top_news": "https://www.israelnationalnews.com/news/431852",
+    "top_news": "https://www.nbcbayarea.com/news/national-international/palestinian-american-west-bank-defend-home-siege-israeli-settlers/4129210/",
     "event_codes": {
-      "14": 5,
-      "19": 1,
-      "20": 1
+      "19": 6,
+      "17": 1
     },
     "keywords": [
       "news",
-      "431852"
+      "national",
+      "international",
+      "palestinian",
+      "american",
+      "west",
+      "bank",
+      "defend",
+      "home",
+      "siege",
+      "israeli",
+      "settlers",
+      "4129210"
     ]
   }
 }
