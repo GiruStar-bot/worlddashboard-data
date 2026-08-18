@@ -1,160 +1,92 @@
 {
-  "BHR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "why",
-      "finds",
-      "itself",
-      "stalemate",
-      "day",
-      "peace",
-      "deadline",
-      "expires"
-    ]
-  },
-  "BRA": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://warontherocks.com/inside-brazils-3d-printed-gun-supply-chain/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "inside",
-      "brazils",
-      "printed",
-      "gun",
-      "supply",
-      "chain"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.4,
-    "count": 7,
-    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "why",
-      "finds",
-      "itself",
-      "stalemate",
-      "day",
-      "peace",
-      "deadline",
-      "expires"
-    ]
-  },
-  "IRQ": {
+  "ARE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.khaama.com/fire-at-fuel-depot-near-iraqs-sulaimaniyah-injures-20-destroys-dozens-of-tankers/",
+    "top_news": "https://www.cityam.com/city-law-firm-sues-prominent-emirati-business-family/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "fire",
-      "fuel",
-      "depot",
-      "near",
-      "iraqs",
-      "sulaimaniyah",
-      "injures",
-      "destroys",
-      "dozens",
-      "tankers"
+      "city",
+      "law",
+      "firm",
+      "sues",
+      "prominent",
+      "emirati",
+      "business",
+      "family"
     ]
   },
   "ISR": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://english.news.cn/20260818/e39b101ad37842efa9a38b2c2a86a3fa/c.html",
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/news/former-israeli-soldier-held-captive-gaza-asks-ben-gvir-let-him-execute-palestinian-detainees",
     "event_codes": {
-      "19": 7
+      "18": 2,
+      "17": 1,
+      "20": 1
     },
     "keywords": [
-      "20260818",
-      "e39b101ad37842efa9a38b2c2a86a3fa",
-      "c.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "why",
-      "finds",
-      "itself",
-      "stalemate",
-      "day",
-      "peace",
-      "deadline",
-      "expires"
+      "news",
+      "former",
+      "israeli",
+      "soldier",
+      "held",
+      "captive",
+      "gaza",
+      "asks",
+      "ben",
+      "gvir",
+      "let",
+      "him",
+      "execute",
+      "palestinian",
+      "detainees"
     ]
   },
   "NGA": {
-    "risk_score": 5.72,
-    "count": 10,
-    "top_news": "https://thesun.ng/police-arrest-man-for-hacking-mother-to-death-in-ondo/",
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://punchng.com/doctor-clarifies-palliative-care-after-ogogos-daughters-claim-hospitals-refused-treatment/",
     "event_codes": {
-      "17": 8,
-      "15": 1,
+      "19": 4,
+      "14": 1
+    },
+    "keywords": [
+      "doctor",
+      "clarifies",
+      "palliative",
+      "care",
+      "after",
+      "ogogos",
+      "daughters",
+      "claim",
+      "hospitals",
+      "refused",
+      "treatment"
+    ]
+  },
+  "SYR": {
+    "risk_score": 7.4,
+    "count": 11,
+    "top_news": "https://www.naharnet.com:443/stories/en/321909-syria-state-media-says-3-dead-in-blast-at-coastal-power-plant",
+    "event_codes": {
+      "17": 7,
+      "19": 3,
       "18": 1
     },
     "keywords": [
-      "police",
-      "arrest",
-      "man",
-      "for",
-      "hacking",
-      "mother",
-      "death",
-      "ondo"
-    ]
-  },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "why",
-      "finds",
-      "itself",
-      "stalemate",
-      "day",
-      "peace",
-      "deadline",
-      "expires"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/node/2655058/middle-east",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "node",
-      "2655058",
-      "middle",
-      "east"
+      "stories",
+      "321909",
+      "syria",
+      "state",
+      "media",
+      "says",
+      "dead",
+      "blast",
+      "coastal",
+      "power",
+      "plant"
     ]
   }
 }
