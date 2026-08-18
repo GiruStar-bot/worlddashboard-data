@@ -1,26 +1,105 @@
 {
-  "ISR": {
-    "risk_score": 2.89,
-    "count": 4,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2586911/report-israel-quietly-relinquished-territory-in-the-gaza-strip.html",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-the-war-within-the-war/article71356394.ece",
     "event_codes": {
-      "15": 2,
-      "17": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
       "news",
-      "israel",
-      "news",
-      "2586911",
-      "report",
-      "israel",
-      "quietly",
-      "relinquished",
-      "territory",
+      "international",
       "the",
-      "gaza",
-      "strip.html"
+      "view",
+      "from",
+      "india",
+      "newsletter",
+      "the",
+      "war",
+      "within",
+      "the",
+      "war",
+      "article71356394.ece"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.nigerianeye.com/2026/08/how-many-more-nigerians-must-be.html",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "many",
+      "more",
+      "nigerians",
+      "must",
+      "be.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.dailygazette.com/spotlightnews/spotlightnews/towns/colonie/colonie-larceny-warrants-arrests/article_fa1aae35-c70a-4246-8900-bba6f7b96ec6.html",
+    "event_codes": {
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "spotlightnews",
+      "spotlightnews",
+      "towns",
+      "colonie",
+      "colonie",
+      "larceny",
+      "warrants",
+      "arrests",
+      "article",
+      "fa1aae35",
+      "c70a",
+      "4246",
+      "8900",
+      "bba6f7b96ec6.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://allafrica.com/stories/202608180087.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "202608180087.html"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.news24.com/business/economy/investors-will-be-happy-zambias-pro-business-president-wins-second-term-20260818-0489",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "business",
+      "economy",
+      "investors",
+      "will",
+      "happy",
+      "zambias",
+      "pro",
+      "business",
+      "president",
+      "wins",
+      "second",
+      "term",
+      "20260818",
+      "0489"
     ]
   }
 }
