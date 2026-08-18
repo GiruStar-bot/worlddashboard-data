@@ -1,124 +1,177 @@
 {
-  "IDN": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://en.tempo.co/read/2117769/student-protesters-blocked-at-dukuh-atas-on-way-to-hi-roundabout",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/r1wosezwme",
     "event_codes": {
-      "14": 2,
-      "17": 2
+      "19": 2
     },
     "keywords": [
-      "read",
-      "2117769",
-      "student",
-      "protesters",
-      "blocked",
-      "dukuh",
-      "atas",
-      "way",
-      "roundabout"
+      "article",
+      "r1wosezwme"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.leadertelegram.com/news/world/emitari-defense-ministry-says-two-missiles-fired-from-iran-toward-the-uae-landed-in-the/article_c150e550-93b2-5892-98dc-9fe1e460864b.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "emitari",
+      "defense",
+      "ministry",
+      "says",
+      "two",
+      "missiles",
+      "fired",
+      "from",
+      "iran",
+      "toward",
+      "the",
+      "uae",
+      "landed",
+      "the",
+      "article",
+      "c150e550",
+      "93b2",
+      "5892",
+      "98dc",
+      "9fe1e460864b.html"
     ]
   },
   "IRN": {
-    "risk_score": 9.31,
-    "count": 14,
-    "top_news": "https://kesq.com/news/national-world/cnn-world/2026/08/18/trumps-threats-anger-omanis-leave-observers-puzzled/",
+    "risk_score": 9.25,
+    "count": 11,
+    "top_news": "https://www.siasat.com/uae-detects-two-iranian-missiles-both-fall-into-sea-3527033/",
     "event_codes": {
-      "16": 6,
-      "19": 4,
-      "15": 3,
-      "18": 1
+      "19": 6,
+      "14": 5
     },
     "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "trumps",
-      "threats",
-      "anger",
-      "omanis",
-      "leave",
-      "observers",
-      "puzzled"
+      "uae",
+      "detects",
+      "two",
+      "iranian",
+      "missiles",
+      "both",
+      "fall",
+      "into",
+      "sea",
+      "3527033"
     ]
   },
   "ISR": {
-    "risk_score": 5.8,
-    "count": 6,
-    "top_news": "https://www.wdrb.com/news/national/trump-says-us-has-no-talks-planned-with-iran-and-other-news-from-the-middle/article_1f9b58d6-32c6-5cf5-8069-4a867f793899.html",
+    "risk_score": 3.59,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/bkccy11gpfx",
     "event_codes": {
-      "19": 5,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "trump",
-      "says",
-      "has",
-      "talks",
-      "planned",
-      "with",
-      "iran",
-      "and",
-      "other",
-      "news",
-      "from",
-      "the",
-      "middle",
-      "article",
-      "1f9b58d6",
-      "32c6",
-      "5cf5",
-      "8069",
-      "4a867f793899.html"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.3,
-    "count": 7,
-    "top_news": "https://petapixel.com/2026/08/18/filmmakers-spent-four-years-following-a-lion-on-his-journey-to-become-king/",
-    "event_codes": {
-      "17": 4,
-      "14": 2,
+      "15": 2,
+      "14": 1,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "filmmakers",
-      "spent",
-      "four",
-      "years",
-      "following",
-      "lion",
-      "his",
-      "journey",
-      "become",
-      "king"
+      "article",
+      "bkccy11gpfx"
     ]
   },
   "NGA": {
-    "risk_score": 5.22,
-    "count": 7,
-    "top_news": "https://tribuneonlineng.com/insecurity-troops-foil-multiple-terrorists-abductions-in-zamfara/",
+    "risk_score": 11.0,
+    "count": 15,
+    "top_news": "https://dailypost.ng/2026/08/18/why-us-cant-lift-nigeria-from-cpc-list-american-lawmaker-riley-moore/",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "14": 1,
-      "15": 1,
+      "17": 8,
+      "19": 7
+    },
+    "keywords": [
+      "2026",
+      "why",
+      "cant",
+      "lift",
+      "nigeria",
+      "from",
+      "cpc",
+      "list",
+      "american",
+      "lawmaker",
+      "riley",
+      "moore"
+    ]
+  },
+  "SOM": {
+    "risk_score": 6.44,
+    "count": 8,
+    "top_news": "https://www.standardmedia.co.ke/africa/article/2001555660/somali-pirates-using-seized-vessel-for-more-attacks",
+    "event_codes": {
+      "19": 4,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "africa",
+      "article",
+      "2001555660",
+      "somali",
+      "pirates",
+      "using",
+      "seized",
+      "vessel",
+      "for",
+      "more",
+      "attacks"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.breitbart.com/middle-east/2026/08/18/syria-receives-u-s-support-after-blaming-israel-for-bombing-of-military-airport/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "syria",
+      "receives",
+      "support",
+      "after",
+      "blaming",
+      "israel",
+      "for",
+      "bombing",
+      "military",
+      "airport"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://nehandaradio.com/2026/08/18/18-armed-robbers-jailed-for-combined-950-years-over-us74000-raid-on-wicknell-chivayos-in-laws/",
+    "event_codes": {
+      "19": 6,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "insecurity",
-      "troops",
-      "foil",
-      "multiple",
-      "terrorists",
-      "abductions",
-      "zamfara"
+      "2026",
+      "armed",
+      "robbers",
+      "jailed",
+      "for",
+      "combined",
+      "950",
+      "years",
+      "over",
+      "us74000",
+      "raid",
+      "wicknell",
+      "chivayos",
+      "laws"
     ]
   }
 }
