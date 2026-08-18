@@ -1,177 +1,172 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ynetnews.com/article/r1wosezwme",
+  "ARG": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://buenosairesherald.com/politics/former-milei-advisor-fernando-cerimedo-detained-in-bolivia-over-armed-attack",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "r1wosezwme"
-    ]
-  },
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.leadertelegram.com/news/world/emitari-defense-ministry-says-two-missiles-fired-from-iran-toward-the-uae-landed-in-the/article_c150e550-93b2-5892-98dc-9fe1e460864b.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "emitari",
-      "defense",
-      "ministry",
-      "says",
-      "two",
-      "missiles",
-      "fired",
-      "from",
-      "iran",
-      "toward",
-      "the",
-      "uae",
-      "landed",
-      "the",
-      "article",
-      "c150e550",
-      "93b2",
-      "5892",
-      "98dc",
-      "9fe1e460864b.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.25,
-    "count": 11,
-    "top_news": "https://www.siasat.com/uae-detects-two-iranian-missiles-both-fall-into-sea-3527033/",
-    "event_codes": {
-      "19": 6,
-      "14": 5
-    },
-    "keywords": [
-      "uae",
-      "detects",
-      "two",
-      "iranian",
-      "missiles",
-      "both",
-      "fall",
-      "into",
-      "sea",
-      "3527033"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.59,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/bkccy11gpfx",
-    "event_codes": {
-      "15": 2,
-      "14": 1,
-      "17": 1,
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "article",
-      "bkccy11gpfx"
+      "politics",
+      "former",
+      "milei",
+      "advisor",
+      "fernando",
+      "cerimedo",
+      "detained",
+      "bolivia",
+      "over",
+      "armed",
+      "attack"
     ]
   },
-  "NGA": {
-    "risk_score": 11.0,
-    "count": 15,
-    "top_news": "https://dailypost.ng/2026/08/18/why-us-cant-lift-nigeria-from-cpc-list-american-lawmaker-riley-moore/",
+  "IRN": {
+    "risk_score": 10.75,
+    "count": 12,
+    "top_news": "https://aa.com.tr/en/middle-east/uae-says-it-detected-2-incoming-ballistic-missiles-launched-from-iran/4030934",
     "event_codes": {
-      "17": 8,
-      "19": 7
-    },
-    "keywords": [
-      "2026",
-      "why",
-      "cant",
-      "lift",
-      "nigeria",
-      "from",
-      "cpc",
-      "list",
-      "american",
-      "lawmaker",
-      "riley",
-      "moore"
-    ]
-  },
-  "SOM": {
-    "risk_score": 6.44,
-    "count": 8,
-    "top_news": "https://www.standardmedia.co.ke/africa/article/2001555660/somali-pirates-using-seized-vessel-for-more-attacks",
-    "event_codes": {
-      "19": 4,
-      "15": 2,
-      "17": 2
-    },
-    "keywords": [
-      "africa",
-      "article",
-      "2001555660",
-      "somali",
-      "pirates",
-      "using",
-      "seized",
-      "vessel",
-      "for",
-      "more",
-      "attacks"
-    ]
-  },
-  "SYR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.breitbart.com/middle-east/2026/08/18/syria-receives-u-s-support-after-blaming-israel-for-bombing-of-military-airport/",
-    "event_codes": {
-      "19": 6
+      "19": 9,
+      "17": 2,
+      "14": 1
     },
     "keywords": [
       "middle",
       "east",
-      "2026",
-      "syria",
-      "receives",
-      "support",
-      "after",
-      "blaming",
-      "israel",
-      "for",
-      "bombing",
-      "military",
-      "airport"
+      "uae",
+      "says",
+      "detected",
+      "incoming",
+      "ballistic",
+      "missiles",
+      "launched",
+      "from",
+      "iran",
+      "4030934"
     ]
   },
-  "ZWE": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://nehandaradio.com/2026/08/18/18-armed-robbers-jailed-for-combined-950-years-over-us74000-raid-on-wicknell-chivayos-in-laws/",
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://townhall.com/news/amy-curtis/2026/08/18/abdul-el-sayeds-mother-n2681457",
     "event_codes": {
-      "19": 6,
-      "17": 1,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "amy",
+      "curtis",
+      "2026",
+      "abdul",
+      "sayeds",
+      "mother",
+      "n2681457"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.82,
+    "count": 20,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/18/israel-kills-six-in-gaza-on-day-after-kushner-meeting-with-netanyahu-medics-say",
+    "event_codes": {
+      "19": 14,
+      "18": 4,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "israel",
+      "kills",
+      "six",
+      "gaza",
+      "day",
+      "after",
+      "kushner",
+      "meeting",
+      "with",
+      "netanyahu",
+      "medics",
+      "say"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.0,
+    "count": 11,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/903832-anambra-records-22-8-revenue-performance-in-first-half-of-2026-spends-%E2%82%A613-79-billion-on-security.html",
+    "event_codes": {
+      "19": 8,
+      "17": 2,
       "18": 1
     },
     "keywords": [
+      "news",
+      "top",
+      "news",
+      "903832",
+      "anambra",
+      "records",
+      "revenue",
+      "performance",
+      "first",
+      "half",
       "2026",
-      "armed",
-      "robbers",
-      "jailed",
-      "for",
-      "combined",
-      "950",
-      "years",
+      "spends",
+      "%e2%82%a613",
+      "billion",
+      "security.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.15,
+    "count": 6,
+    "top_news": "https://universitytimes.ie/2026/08/over-700-sign-petition-to-halt-deportation-of-dublin-activist-ordered-to-leave-state-by-end-of-month/",
+    "event_codes": {
+      "18": 3,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "2026",
       "over",
-      "us74000",
-      "raid",
-      "wicknell",
-      "chivayos",
-      "laws"
+      "700",
+      "sign",
+      "petition",
+      "halt",
+      "deportation",
+      "dublin",
+      "activist",
+      "ordered",
+      "leave",
+      "state",
+      "end",
+      "month"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://aa.com.tr/en/middle-east/death-toll-from-houthi-missile-attack-in-yemens-hodeidah-rises-to-3-yemeni-forces/4030974",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "death",
+      "toll",
+      "from",
+      "houthi",
+      "missile",
+      "attack",
+      "yemens",
+      "hodeidah",
+      "rises",
+      "yemeni",
+      "forces",
+      "4030974"
     ]
   }
 }
