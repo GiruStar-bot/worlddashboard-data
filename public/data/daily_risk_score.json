@@ -1,34 +1,81 @@
 {
   "ISR": {
-    "risk_score": 4.25,
-    "count": 6,
-    "top_news": "https://nypost.com/2026/08/18/us-news/warrant-issued-for-jill-stein-after-ex-presidential-candidate-skipped-court-date-over-alleged-cop-assault-at-anti-israel-protest/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://morungexpress.com/israel-kills-islamic-jihad-commander-in-gaza",
     "event_codes": {
-      "14": 3,
-      "18": 2,
-      "17": 1
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "kills",
+      "islamic",
+      "jihad",
+      "commander",
+      "gaza"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.thisdaylive.com/2026/08/18/miskay-boosts-capital-market-profile-with-full-redemption-of-%E2%82%A6824-2m-commercial-paper/",
+    "event_codes": {
+      "18": 3,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "news",
-      "warrant",
-      "issued",
+      "miskay",
+      "boosts",
+      "capital",
+      "market",
+      "profile",
+      "with",
+      "full",
+      "redemption",
+      "%e2%82%a6824",
+      "commercial",
+      "paper"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.4,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities/",
+    "event_codes": {
+      "17": 4,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "who",
+      "wassim",
+      "assad",
+      "sentenced",
+      "death",
       "for",
-      "jill",
-      "stein",
-      "after",
-      "presidential",
-      "candidate",
-      "skipped",
-      "court",
-      "date",
-      "over",
-      "alleged",
-      "cop",
-      "assault",
-      "anti",
-      "israel",
-      "protest"
+      "syria",
+      "war",
+      "atrocities"
+    ]
+  },
+  "YEM": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://dominicanrepublicpost.com/yemeni-government-escalates-attacks-against-houthis-whats-next/",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "yemeni",
+      "government",
+      "escalates",
+      "attacks",
+      "against",
+      "houthis",
+      "whats",
+      "next"
     ]
   }
 }
