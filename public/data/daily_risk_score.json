@@ -1,62 +1,225 @@
 {
-  "NGA": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://www.premiumtimesng.com/regional/north-central/903745-residents-report-mass-killings-in-plateau-community.html",
+  "ARE": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://www.riotimesonline.com/first-abu-dhabi-bank-misr-profit-growth-egypt-2026/",
     "event_codes": {
-      "17": 2,
-      "18": 1,
+      "17": 4,
       "19": 1
     },
     "keywords": [
-      "regional",
-      "north",
-      "central",
-      "903745",
-      "residents",
-      "report",
-      "mass",
-      "killings",
-      "plateau",
-      "community.html"
+      "first",
+      "abu",
+      "dhabi",
+      "bank",
+      "misr",
+      "profit",
+      "growth",
+      "egypt",
+      "2026"
     ]
   },
-  "SDN": {
-    "risk_score": 14.15,
-    "count": 15,
-    "top_news": "https://www.miragenews.com/sudan-100-civilians-dead-in-22-days-of-1728989/",
-    "event_codes": {
-      "19": 10,
-      "14": 3,
-      "18": 2
-    },
-    "keywords": [
-      "sudan",
-      "100",
-      "civilians",
-      "dead",
-      "days",
-      "1728989"
-    ]
-  },
-  "THA": {
+  "ARG": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theglobeandmail.com/world/article-philippine-student-kills-schoolmate-and-himself-in-livestreamed-attack/",
+    "top_news": "https://www.prnewswire.com/news-releases/jaguar-uranium-reports-final-copper-assay-results-including-up-to-8-54-copper-potential-4-km-trend-identified-from-huemul-uranium-copper-vanadium-project-302853487.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "article",
-      "philippine",
-      "student",
-      "kills",
-      "schoolmate",
-      "and",
-      "himself",
-      "livestreamed",
-      "attack"
+      "news",
+      "releases",
+      "jaguar",
+      "uranium",
+      "reports",
+      "final",
+      "copper",
+      "assay",
+      "results",
+      "including",
+      "copper",
+      "potential",
+      "trend",
+      "identified",
+      "from",
+      "huemul",
+      "uranium",
+      "copper",
+      "vanadium",
+      "project",
+      "302853487.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.attitude.co.uk/news/pete-hegseth-uses-anti-trans-slur-during-iowa-state-fair-speech-531840/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "pete",
+      "hegseth",
+      "uses",
+      "anti",
+      "trans",
+      "slur",
+      "during",
+      "iowa",
+      "state",
+      "fair",
+      "speech",
+      "531840"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.09,
+    "count": 19,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774591/Iran-down-200-aircraft-US-Israeli-aggression--IRGC-deputy-chief",
+    "event_codes": {
+      "19": 9,
+      "17": 4,
+      "18": 4,
+      "16": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774591",
+      "iran",
+      "down",
+      "200",
+      "aircraft",
+      "israeli",
+      "aggression",
+      "irgc",
+      "deputy",
+      "chief"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.egyptindependent.com/israeli-occupation-forces-escalate-targeting-civilians-in-southern-lebanon/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "israeli",
+      "occupation",
+      "forces",
+      "escalate",
+      "targeting",
+      "civilians",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774589/Israel-launches-four-airstrikes-on-military-airbase-in-northwestern-Syria",
+    "event_codes": {
+      "17": 3,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774589",
+      "israel",
+      "launches",
+      "four",
+      "airstrikes",
+      "military",
+      "airbase",
+      "northwestern",
+      "syria"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/airline-passenger-arrested-after-200-37563483",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "news",
+      "latest",
+      "news",
+      "airline",
+      "passenger",
+      "arrested",
+      "after",
+      "200",
+      "37563483"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://variety.com/2026/film/awards/oscars-taiwan-a-foggy-tale-international-feature-1236837005/",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "film",
+      "awards",
+      "oscars",
+      "taiwan",
+      "foggy",
+      "tale",
+      "international",
+      "feature",
+      "1236837005"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774592/saudi-turkey-pakistan-military-alliance-wont-bring-security-us-ouster-region-will",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774592",
+      "saudi",
+      "turkey",
+      "pakistan",
+      "military",
+      "alliance",
+      "wont",
+      "bring",
+      "security",
+      "ouster",
+      "region",
+      "will"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.riotimesonline.com/zambia-arrests-opposition-figures-election-night-2026/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "zambia",
+      "arrests",
+      "opposition",
+      "figures",
+      "election",
+      "night",
+      "2026"
     ]
   }
 }
