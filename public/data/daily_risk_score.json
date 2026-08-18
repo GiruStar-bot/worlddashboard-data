@@ -1,72 +1,83 @@
 {
   "IRN": {
-    "risk_score": 5.16,
-    "count": 6,
-    "top_news": "https://www.vladtv.com/article/315779/robert-oneill-who-killed-bin-laden-on-charlie-kirk-israel-iran",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailymail.com/news/article-16059557/jared-kushner-peace-deal-iran-trump-hamas-negotiations.html",
     "event_codes": {
-      "15": 3,
       "19": 3
     },
     "keywords": [
-      "article",
-      "315779",
-      "robert",
-      "oneill",
-      "who",
-      "killed",
-      "bin",
-      "laden",
-      "charlie",
-      "kirk",
-      "israel",
-      "iran"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.4,
-    "count": 9,
-    "top_news": "https://www.vladtv.com/article/315779/robert-oneill-who-killed-bin-laden-on-charlie-kirk-israel-iran",
-    "event_codes": {
-      "19": 6,
-      "17": 3
-    },
-    "keywords": [
-      "article",
-      "315779",
-      "robert",
-      "oneill",
-      "who",
-      "killed",
-      "bin",
-      "laden",
-      "charlie",
-      "kirk",
-      "israel",
-      "iran"
-    ]
-  },
-  "PSE": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://www.nbcbayarea.com/news/national-international/palestinian-american-west-bank-defend-home-siege-israeli-settlers/4129210/",
-    "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
       "news",
-      "national",
-      "international",
-      "palestinian",
-      "american",
-      "west",
-      "bank",
-      "defend",
-      "home",
-      "siege",
-      "israeli",
-      "settlers",
-      "4129210"
+      "article",
+      "16059557",
+      "jared",
+      "kushner",
+      "peace",
+      "deal",
+      "iran",
+      "trump",
+      "hamas",
+      "negotiations.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.geo.tv/latest/678021-iran-threatens-attack-on-us-blockade-as-washington-rules-out-extending-ceasefire",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "latest",
+      "678021",
+      "iran",
+      "threatens",
+      "attack",
+      "blockade",
+      "washington",
+      "rules",
+      "out",
+      "extending",
+      "ceasefire"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.zerohedge.com/markets/iran-war-pushes-middle-eastern-airlines-towards-43bn-loss-2026",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "markets",
+      "iran",
+      "war",
+      "pushes",
+      "middle",
+      "eastern",
+      "airlines",
+      "towards",
+      "43bn",
+      "loss",
+      "2026"
+    ]
+  },
+  "THA": {
+    "risk_score": 6.9,
+    "count": 11,
+    "top_news": "https://www.miragenews.com/thailand-to-deport-ethnic-karen-to-myanmar-1728724/",
+    "event_codes": {
+      "17": 7,
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "thailand",
+      "deport",
+      "ethnic",
+      "karen",
+      "myanmar",
+      "1728724"
     ]
   }
 }
