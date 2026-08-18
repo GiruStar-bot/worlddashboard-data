@@ -1,136 +1,62 @@
 {
-  "IRN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.okaz.com.sa/politics/na/2261782",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "politics",
-      "2261782"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://www.middleeastmonitor.com/20260818-iraqi-hezbollah-brigades-set-conditions-for-talks-on-weapons-including-turkish-withdrawal-and-disbanding-of-peshmerga/",
-    "event_codes": {
-      "16": 2,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "20260818",
-      "iraqi",
-      "hezbollah",
-      "brigades",
-      "set",
-      "conditions",
-      "for",
-      "talks",
-      "weapons",
-      "including",
-      "turkish",
-      "withdrawal",
-      "and",
-      "disbanding",
-      "peshmerga"
-    ]
-  },
-  "ISR": {
-    "risk_score": 19.78,
-    "count": 23,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/18/israeli-warplanes-strike-airfield-runway-in-syrias-idlib-state-tv-reports/",
-    "event_codes": {
-      "19": 10,
-      "17": 6,
-      "18": 4,
-      "14": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "israeli",
-      "warplanes",
-      "strike",
-      "airfield",
-      "runway",
-      "syrias",
-      "idlib",
-      "state",
-      "reports"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://english.aawsat.com/opinion/5308245-%E2%80%98south%E2%80%99-beneath-south",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "opinion",
-      "5308245",
-      "%e2%80%98south%e2%80%99",
-      "beneath",
-      "south"
-    ]
-  },
   "NGA": {
-    "risk_score": 2.4,
-    "count": 6,
-    "top_news": "https://pmnewsnigeria.com/2026/08/18/osun-people-shouldnt-feel-betrayed-by-adelekes-endorsement-of-tinubu-spokesman/",
-    "event_codes": {
-      "16": 6
-    },
-    "keywords": [
-      "2026",
-      "osun",
-      "people",
-      "shouldnt",
-      "feel",
-      "betrayed",
-      "adelekes",
-      "endorsement",
-      "tinubu",
-      "spokesman"
-    ]
-  },
-  "SYR": {
-    "risk_score": 25.0,
-    "count": 32,
-    "top_news": "https://dominicanrepublicpost.com/syrian-court-sentences-wassim-al-assad-to-death/",
-    "event_codes": {
-      "17": 12,
-      "18": 12,
-      "19": 6,
-      "20": 2
-    },
-    "keywords": [
-      "syrian",
-      "court",
-      "sentences",
-      "wassim",
-      "assad",
-      "death"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202608180144.html",
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/903745-residents-report-mass-killings-in-plateau-community.html",
     "event_codes": {
       "17": 2,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "stories",
-      "202608180144.html"
+      "regional",
+      "north",
+      "central",
+      "903745",
+      "residents",
+      "report",
+      "mass",
+      "killings",
+      "plateau",
+      "community.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 14.15,
+    "count": 15,
+    "top_news": "https://www.miragenews.com/sudan-100-civilians-dead-in-22-days-of-1728989/",
+    "event_codes": {
+      "19": 10,
+      "14": 3,
+      "18": 2
+    },
+    "keywords": [
+      "sudan",
+      "100",
+      "civilians",
+      "dead",
+      "days",
+      "1728989"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theglobeandmail.com/world/article-philippine-student-kills-schoolmate-and-himself-in-livestreamed-attack/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "article",
+      "philippine",
+      "student",
+      "kills",
+      "schoolmate",
+      "and",
+      "himself",
+      "livestreamed",
+      "attack"
     ]
   }
 }
