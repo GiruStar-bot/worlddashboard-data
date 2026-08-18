@@ -1,105 +1,160 @@
 {
+  "BHR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "why",
+      "finds",
+      "itself",
+      "stalemate",
+      "day",
+      "peace",
+      "deadline",
+      "expires"
+    ]
+  },
+  "BRA": {
+    "risk_score": 3.45,
+    "count": 4,
+    "top_news": "https://warontherocks.com/inside-brazils-3d-printed-gun-supply-chain/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "inside",
+      "brazils",
+      "printed",
+      "gun",
+      "supply",
+      "chain"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.4,
+    "count": 7,
+    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "why",
+      "finds",
+      "itself",
+      "stalemate",
+      "day",
+      "peace",
+      "deadline",
+      "expires"
+    ]
+  },
   "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-the-war-within-the-war/article71356394.ece",
+    "top_news": "https://www.khaama.com/fire-at-fuel-depot-near-iraqs-sulaimaniyah-injures-20-destroys-dozens-of-tankers/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "international",
-      "the",
-      "view",
-      "from",
-      "india",
-      "newsletter",
-      "the",
-      "war",
-      "within",
-      "the",
-      "war",
-      "article71356394.ece"
+      "fire",
+      "fuel",
+      "depot",
+      "near",
+      "iraqs",
+      "sulaimaniyah",
+      "injures",
+      "destroys",
+      "dozens",
+      "tankers"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://english.news.cn/20260818/e39b101ad37842efa9a38b2c2a86a3fa/c.html",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "20260818",
+      "e39b101ad37842efa9a38b2c2a86a3fa",
+      "c.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "why",
+      "finds",
+      "itself",
+      "stalemate",
+      "day",
+      "peace",
+      "deadline",
+      "expires"
     ]
   },
   "NGA": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.nigerianeye.com/2026/08/how-many-more-nigerians-must-be.html",
+    "risk_score": 5.72,
+    "count": 10,
+    "top_news": "https://thesun.ng/police-arrest-man-for-hacking-mother-to-death-in-ondo/",
     "event_codes": {
-      "19": 3,
+      "17": 8,
+      "15": 1,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "how",
-      "many",
-      "more",
-      "nigerians",
-      "must",
-      "be.html"
+      "police",
+      "arrest",
+      "man",
+      "for",
+      "hacking",
+      "mother",
+      "death",
+      "ondo"
     ]
   },
-  "PSE": {
-    "risk_score": 2.4,
-    "count": 4,
-    "top_news": "https://www.dailygazette.com/spotlightnews/spotlightnews/towns/colonie/colonie-larceny-warrants-arrests/article_fa1aae35-c70a-4246-8900-bba6f7b96ec6.html",
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.independent.co.ug/why-u-s-finds-itself-in-stalemate-as-60-day-peace-deadline-expires/",
     "event_codes": {
-      "17": 3,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "spotlightnews",
-      "spotlightnews",
-      "towns",
-      "colonie",
-      "colonie",
-      "larceny",
-      "warrants",
-      "arrests",
-      "article",
-      "fa1aae35",
-      "c70a",
-      "4246",
-      "8900",
-      "bba6f7b96ec6.html"
+      "why",
+      "finds",
+      "itself",
+      "stalemate",
+      "day",
+      "peace",
+      "deadline",
+      "expires"
     ]
   },
   "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://allafrica.com/stories/202608180087.html",
+    "top_news": "https://www.arabnews.com/node/2655058/middle-east",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "stories",
-      "202608180087.html"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.news24.com/business/economy/investors-will-be-happy-zambias-pro-business-president-wins-second-term-20260818-0489",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "business",
-      "economy",
-      "investors",
-      "will",
-      "happy",
-      "zambias",
-      "pro",
-      "business",
-      "president",
-      "wins",
-      "second",
-      "term",
-      "20260818",
-      "0489"
+      "node",
+      "2655058",
+      "middle",
+      "east"
     ]
   }
 }
