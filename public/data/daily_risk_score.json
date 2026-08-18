@@ -1,84 +1,86 @@
 {
   "ARE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.clevelandjewishnews.com/jns/iran-fires-ballistic-missiles-at-uae/article_a4bf97a7-7d07-526b-b7ed-e15a8e05b9a0.html",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/dubai-residents-sent-missile-alert-224438000.html",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
-      "jns",
-      "iran",
-      "fires",
-      "ballistic",
-      "missiles",
-      "uae",
-      "article",
-      "a4bf97a7",
-      "7d07",
-      "526b",
-      "b7ed",
-      "e15a8e05b9a0.html"
+      "articles",
+      "dubai",
+      "residents",
+      "sent",
+      "missile",
+      "alert",
+      "224438000.html"
     ]
   },
-  "IRN": {
-    "risk_score": 19.8,
-    "count": 23,
-    "top_news": "https://www.israelnationalnews.com/news/431904",
+  "BOL": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "http://www.centralasiatimes.com/news/279249598/belarus-criminal-cases-against-exiled-religious-freedom-defenders",
     "event_codes": {
-      "19": 16,
-      "17": 5,
-      "16": 1,
-      "18": 1
+      "17": 4
     },
     "keywords": [
       "news",
-      "431904"
+      "279249598",
+      "belarus",
+      "criminal",
+      "cases",
+      "against",
+      "exiled",
+      "religious",
+      "freedom",
+      "defenders"
     ]
   },
   "ISR": {
-    "risk_score": 10.85,
-    "count": 12,
-    "top_news": "http://www.jpost.com/israel-news/article-905932",
+    "risk_score": 7.36,
+    "count": 8,
+    "top_news": "https://www.breitbart.com/politics/2026/08/18/election-night-livewire-byron-donalds-eyes-governors-mansion-as-scandals-plague-races-across-country/",
     "event_codes": {
-      "19": 10,
-      "16": 1,
-      "17": 1
+      "17": 3,
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "israel",
+      "politics",
+      "2026",
+      "election",
+      "night",
+      "livewire",
+      "byron",
+      "donalds",
+      "eyes",
+      "governors",
+      "mansion",
+      "scandals",
+      "plague",
+      "races",
+      "across",
+      "country"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.57,
+    "count": 3,
+    "top_news": "https://wrp.org.uk/news/israel-must-stop-bombing-gaza-says-hamas/",
+    "event_codes": {
+      "14": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
       "news",
-      "article",
-      "905932"
+      "israel",
+      "must",
+      "stop",
+      "bombing",
+      "gaza",
+      "says",
+      "hamas"
     ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://collider.com/hbo-lanterns-hal-jordan-spectre-comics-history-meaning/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "hbo",
-      "lanterns",
-      "hal",
-      "jordan",
-      "spectre",
-      "comics",
-      "history",
-      "meaning"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://pidgin.informationng.com/?p=35733",
-    "event_codes": {
-      "14": 2,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": []
   }
 }
