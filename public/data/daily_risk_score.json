@@ -1,15 +1,70 @@
 {
   "ISR": {
-    "risk_score": 6.85,
-    "count": 7,
-    "top_news": "http://www.jpost.com/opinion/article-905824",
+    "risk_score": 7.32,
+    "count": 8,
+    "top_news": "https://www.cnn.com/2026/08/18/politics/trump-iran-war-south-korea-oman-strait-of-hormuz",
     "event_codes": {
-      "19": 7
+      "19": 6,
+      "17": 2
     },
     "keywords": [
-      "opinion",
-      "article",
-      "905824"
+      "2026",
+      "politics",
+      "trump",
+      "iran",
+      "war",
+      "south",
+      "korea",
+      "oman",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/middle-east/4-air-strikes-hit-military-airport-in-syrias-idlib-in-first-attack-since-al-assads-fall20260818102135/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "air",
+      "strikes",
+      "hit",
+      "military",
+      "airport",
+      "syrias",
+      "idlib",
+      "first",
+      "attack",
+      "since",
+      "assads",
+      "fall20260818102135"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.thenews.com.pk/latest/1412637-deadly-philippines-school-shooting-leaves-student-and-gunman-dead",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "latest",
+      "1412637",
+      "deadly",
+      "philippines",
+      "school",
+      "shooting",
+      "leaves",
+      "student",
+      "and",
+      "gunman",
+      "dead"
     ]
   }
 }
