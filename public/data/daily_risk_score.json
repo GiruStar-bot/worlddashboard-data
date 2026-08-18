@@ -1,86 +1,159 @@
 {
   "ARE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "http://www.bignewsnetwork.com/news/279250144/iran-rejects-uae-claim-of-missile-launch-calls-accusations-baseless",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "279250144",
+      "iran",
+      "rejects",
+      "uae",
+      "claim",
+      "missile",
+      "launch",
+      "calls",
+      "accusations",
+      "baseless"
+    ]
+  },
+  "IRN": {
+    "risk_score": 21.5,
+    "count": 23,
+    "top_news": "https://www.wptf.com/2026/08/18/trump-says-us-has-no-talks-planned-with-iran-and-other-news-from-the-middle-east/",
+    "event_codes": {
+      "19": 20,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "says",
+      "has",
+      "talks",
+      "planned",
+      "with",
+      "iran",
+      "and",
+      "other",
+      "news",
+      "from",
+      "the",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://www.wptf.com/2026/08/18/trump-says-us-has-no-talks-planned-with-iran-and-other-news-from-the-middle-east/",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "says",
+      "has",
+      "talks",
+      "planned",
+      "with",
+      "iran",
+      "and",
+      "other",
+      "news",
+      "from",
+      "the",
+      "middle",
+      "east"
+    ]
+  },
+  "QAT": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "http://www.middleeaststar.com/news/279249809/trump-says-no-iran-talks-underway",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "279249809",
+      "trump",
+      "says",
+      "iran",
+      "talks",
+      "underway"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.aol.co.uk/articles/dubai-residents-sent-missile-alert-224438000.html",
+    "top_news": "http://www.middleeaststar.com/news/279249809/trump-says-no-iran-talks-underway",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "articles",
-      "dubai",
-      "residents",
-      "sent",
-      "missile",
-      "alert",
-      "224438000.html"
-    ]
-  },
-  "BOL": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "http://www.centralasiatimes.com/news/279249598/belarus-criminal-cases-against-exiled-religious-freedom-defenders",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
       "news",
-      "279249598",
-      "belarus",
-      "criminal",
-      "cases",
-      "against",
-      "exiled",
-      "religious",
-      "freedom",
-      "defenders"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.36,
-    "count": 8,
-    "top_news": "https://www.breitbart.com/politics/2026/08/18/election-night-livewire-byron-donalds-eyes-governors-mansion-as-scandals-plague-races-across-country/",
-    "event_codes": {
-      "17": 3,
-      "19": 3,
-      "16": 2
-    },
-    "keywords": [
-      "politics",
-      "2026",
-      "election",
-      "night",
-      "livewire",
-      "byron",
-      "donalds",
-      "eyes",
-      "governors",
-      "mansion",
-      "scandals",
-      "plague",
-      "races",
-      "across",
-      "country"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.57,
-    "count": 3,
-    "top_news": "https://wrp.org.uk/news/israel-must-stop-bombing-gaza-says-hamas/",
-    "event_codes": {
-      "14": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "must",
-      "stop",
-      "bombing",
-      "gaza",
+      "279249809",
+      "trump",
       "says",
-      "hamas"
+      "iran",
+      "talks",
+      "underway"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://aninews.in/news/world/middle-east/israel-and-syria-agreed-to-maintain-status-quo-on-security-matters-netanyahu20260819051146/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "israel",
+      "and",
+      "syria",
+      "agreed",
+      "maintain",
+      "status",
+      "quo",
+      "security",
+      "matters",
+      "netanyahu20260819051146"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://coast931.com/news/030030-trump-threatened-to-bomb-oman-because-hes-unhappy-with-countrys-deal-with-iran-officials-say/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "030030",
+      "trump",
+      "threatened",
+      "bomb",
+      "oman",
+      "because",
+      "hes",
+      "unhappy",
+      "with",
+      "countrys",
+      "deal",
+      "with",
+      "iran",
+      "officials",
+      "say"
     ]
   }
 }
