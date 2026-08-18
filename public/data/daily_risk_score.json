@@ -1,115 +1,104 @@
 {
-  "BRA": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.hottalkradio.com/news/2026/08/19/",
+  "ETH": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hngn.com/articles/272805/20260818/federal-judge-clears-way-trump-end-deportation-protections-5000-ethiopians.htm",
     "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "2026"
-    ]
-  },
-  "IRN": {
-    "risk_score": 9.84,
-    "count": 11,
-    "top_news": "http://www.theuknews.com/news/279249809/trump-says-no-iran-talks-underway",
-    "event_codes": {
-      "19": 7,
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "279249809",
-      "trump",
-      "says",
-      "iran",
-      "talks",
-      "underway"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/world/articles/israel-recovers-remains-soldier-missing-191837464.html",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "israel",
-      "recovers",
-      "remains",
-      "soldier",
-      "missing",
-      "191837464.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 23.26,
-    "count": 30,
-    "top_news": "https://saharareporters.com/2026/08/18/osun-speaker-accuses-police-commissioner-ordering-shoot-sight-local-govt-secretariats",
-    "event_codes": {
-      "17": 15,
-      "19": 10,
-      "18": 5
-    },
-    "keywords": [
-      "2026",
-      "osun",
-      "speaker",
-      "accuses",
-      "police",
-      "commissioner",
-      "ordering",
-      "shoot",
-      "sight",
-      "local",
-      "govt",
-      "secretariats"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/world/articles/israel-recovers-remains-soldier-missing-191837464.html",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "israel",
-      "recovers",
-      "remains",
-      "soldier",
-      "missing",
-      "191837464.html"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.45,
-    "count": 5,
-    "top_news": "https://www.theepochtimes.com/china/taiwanese-president-says-defense-spending-is-investment-in-peace-6076439",
-    "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "china",
-      "taiwanese",
-      "president",
-      "says",
-      "defense",
-      "spending",
-      "investment",
+      "articles",
+      "272805",
+      "20260818",
+      "federal",
+      "judge",
+      "clears",
+      "way",
+      "trump",
+      "end",
+      "deportation",
+      "protections",
+      "5000",
+      "ethiopians.htm"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.sandiegouniontribune.com/2026/08/18/trump-threatened-bomb-oman-iran/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "threatened",
+      "bomb",
+      "oman",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.7,
+    "count": 8,
+    "top_news": "https://www.theglobeandmail.com/world/article-gaza-peace-talks-israel-hamas-trump-kushner/",
+    "event_codes": {
+      "16": 4,
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "article",
+      "gaza",
       "peace",
-      "6076439"
+      "talks",
+      "israel",
+      "hamas",
+      "trump",
+      "kushner"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://legalinsurrection.com/2026/08/report-israeli-airstrikes-hit-syrian-airbase-as-turkey-expands-regional-military-footprint/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "report",
+      "israeli",
+      "airstrikes",
+      "hit",
+      "syrian",
+      "airbase",
+      "turkey",
+      "expands",
+      "regional",
+      "military",
+      "footprint"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.9,
+    "count": 8,
+    "top_news": "https://www.theguardian.com/us-news/2026/aug/18/minnesota-ice-agent-lawsuit-texas",
+    "event_codes": {
+      "17": 6,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "aug",
+      "minnesota",
+      "ice",
+      "agent",
+      "lawsuit",
+      "texas"
     ]
   }
 }
