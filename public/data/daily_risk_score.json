@@ -1,172 +1,117 @@
 {
-  "ARG": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://buenosairesherald.com/politics/former-milei-advisor-fernando-cerimedo-detained-in-bolivia-over-armed-attack",
+  "BOL": {
+    "risk_score": 7.02,
+    "count": 12,
+    "top_news": "http://www.azerbaijannews.net/news/279249598/belarus-criminal-cases-against-exiled-religious-freedom-defenders",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "17": 11,
+      "15": 1
     },
     "keywords": [
-      "politics",
-      "former",
-      "milei",
-      "advisor",
-      "fernando",
-      "cerimedo",
-      "detained",
-      "bolivia",
-      "over",
-      "armed",
-      "attack"
+      "news",
+      "279249598",
+      "belarus",
+      "criminal",
+      "cases",
+      "against",
+      "exiled",
+      "religious",
+      "freedom",
+      "defenders"
     ]
   },
   "IRN": {
-    "risk_score": 10.75,
-    "count": 12,
-    "top_news": "https://aa.com.tr/en/middle-east/uae-says-it-detected-2-incoming-ballistic-missiles-launched-from-iran/4030934",
-    "event_codes": {
-      "19": 9,
-      "17": 2,
-      "14": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "uae",
-      "says",
-      "detected",
-      "incoming",
-      "ballistic",
-      "missiles",
-      "launched",
-      "from",
-      "iran",
-      "4030934"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
+    "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://townhall.com/news/amy-curtis/2026/08/18/abdul-el-sayeds-mother-n2681457",
+    "top_news": "https://radaronline.com/p/melania-trump-trolled-by-jimmy-fallon-affair-joke-mitch-mcconnell/",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "amy",
-      "curtis",
-      "2026",
-      "abdul",
-      "sayeds",
-      "mother",
-      "n2681457"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.82,
-    "count": 20,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/18/israel-kills-six-in-gaza-on-day-after-kushner-meeting-with-netanyahu-medics-say",
-    "event_codes": {
-      "19": 14,
-      "18": 4,
-      "15": 1,
-      "17": 1
-    },
-    "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "israel",
-      "kills",
-      "six",
-      "gaza",
-      "day",
-      "after",
-      "kushner",
-      "meeting",
-      "with",
-      "netanyahu",
-      "medics",
-      "say"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.0,
-    "count": 11,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/903832-anambra-records-22-8-revenue-performance-in-first-half-of-2026-spends-%E2%82%A613-79-billion-on-security.html",
-    "event_codes": {
-      "19": 8,
-      "17": 2,
+      "19": 2,
       "18": 1
     },
     "keywords": [
-      "news",
-      "top",
-      "news",
-      "903832",
-      "anambra",
-      "records",
-      "revenue",
-      "performance",
-      "first",
-      "half",
-      "2026",
-      "spends",
-      "%e2%82%a613",
-      "billion",
-      "security.html"
+      "melania",
+      "trump",
+      "trolled",
+      "jimmy",
+      "fallon",
+      "affair",
+      "joke",
+      "mitch",
+      "mcconnell"
     ]
   },
-  "TUR": {
-    "risk_score": 4.15,
-    "count": 6,
-    "top_news": "https://universitytimes.ie/2026/08/over-700-sign-petition-to-halt-deportation-of-dublin-activist-ordered-to-leave-state-by-end-of-month/",
+  "ISR": {
+    "risk_score": 24.15,
+    "count": 26,
+    "top_news": "https://www.middleeasteye.net/opinion/world-fixates-hamas-who-will-disarm-israeli-settlers-storming-west-bank-villages",
     "event_codes": {
-      "18": 3,
-      "16": 2,
-      "14": 1
+      "19": 15,
+      "18": 5,
+      "20": 3,
+      "14": 1,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "over",
-      "700",
-      "sign",
-      "petition",
-      "halt",
-      "deportation",
-      "dublin",
-      "activist",
-      "ordered",
-      "leave",
-      "state",
-      "end",
-      "month"
+      "opinion",
+      "world",
+      "fixates",
+      "hamas",
+      "who",
+      "will",
+      "disarm",
+      "israeli",
+      "settlers",
+      "storming",
+      "west",
+      "bank",
+      "villages"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/opinion/world-fixates-hamas-who-will-disarm-israeli-settlers-storming-west-bank-villages",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "opinion",
+      "world",
+      "fixates",
+      "hamas",
+      "who",
+      "will",
+      "disarm",
+      "israeli",
+      "settlers",
+      "storming",
+      "west",
+      "bank",
+      "villages"
     ]
   },
   "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://aa.com.tr/en/middle-east/death-toll-from-houthi-missile-attack-in-yemens-hodeidah-rises-to-3-yemeni-forces/4030974",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-forces-shoot-down-houthi-drone-hadramout",
     "event_codes": {
-      "19": 3
+      "19": 5
     },
     "keywords": [
-      "middle",
-      "east",
-      "death",
-      "toll",
-      "from",
-      "houthi",
-      "missile",
-      "attack",
-      "yemens",
-      "hodeidah",
-      "rises",
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
       "yemeni",
       "forces",
-      "4030974"
+      "shoot",
+      "down",
+      "houthi",
+      "drone",
+      "hadramout"
     ]
   }
 }
