@@ -1,127 +1,126 @@
 {
-  "COD": {
-    "risk_score": 8.34,
-    "count": 9,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4392199",
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.manilatimes.net/2026/08/19/podcasts/headlines-student-kills-schoolmate-in-livestreamed-shooting-aug-19-2026/2407646",
     "event_codes": {
-      "18": 5,
-      "17": 2,
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "tag",
-      "index"
-    ]
-  },
-  "ETH": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.theafricareport.com/427967/ethiopia-accused-of-drone-strike-near-tigray-capital/",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "427967",
-      "ethiopia",
-      "accused",
-      "drone",
-      "strike",
-      "near",
-      "tigray",
-      "capital"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774605/Iran-Defense-Ministry-vows-to-advance-military-capabilities-in-line-with-martyred-leader-legacy",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "detail",
       "2026",
-      "774605",
-      "iran",
-      "defense",
-      "ministry",
-      "vows",
-      "advance",
-      "military",
-      "capabilities",
-      "line",
-      "with",
-      "martyred",
-      "leader",
-      "legacy"
+      "podcasts",
+      "headlines",
+      "student",
+      "kills",
+      "schoolmate",
+      "livestreamed",
+      "shooting",
+      "aug",
+      "2026",
+      "2407646"
     ]
   },
   "ISR": {
-    "risk_score": 7.1,
-    "count": 10,
-    "top_news": "https://www.moneycontrol.com/world/why-did-israel-strike-syria-s-abu-al-duhur-airbase-eight-strikes-reported-article-14009665.html",
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.dailysabah.com/politics/turkish-ruling-ak-party-slams-netanyahu-over-fueling-regional-chaos/news",
     "event_codes": {
-      "17": 4,
-      "14": 2,
       "18": 2,
-      "19": 2
+      "19": 2,
+      "20": 1
     },
     "keywords": [
-      "world",
-      "why",
-      "did",
-      "israel",
-      "strike",
-      "syria",
-      "abu",
-      "duhur",
-      "airbase",
-      "eight",
-      "strikes",
-      "reported",
-      "article",
-      "14009665.html"
+      "politics",
+      "turkish",
+      "ruling",
+      "party",
+      "slams",
+      "netanyahu",
+      "over",
+      "fueling",
+      "regional",
+      "chaos",
+      "news"
     ]
   },
-  "SDN": {
+  "NGA": {
+    "risk_score": 8.63,
+    "count": 11,
+    "top_news": "http://www.bignewsnetwork.com/news/279249505/spotnews-nigeria-plateau-state-attack",
+    "event_codes": {
+      "17": 8,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "279249505",
+      "spotnews",
+      "nigeria",
+      "plateau",
+      "state",
+      "attack"
+    ]
+  },
+  "PER": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theafricareport.com/427967/ethiopia-accused-of-drone-strike-near-tigray-capital/",
+    "top_news": "http://www.venezuelastar.com/news/279249440/peru-we-have-to-be-active-as-a-society",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "427967",
-      "ethiopia",
-      "accused",
-      "drone",
-      "strike",
-      "near",
-      "tigray",
-      "capital"
+      "news",
+      "279249440",
+      "peru",
+      "have",
+      "active",
+      "society"
     ]
   },
   "SYR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.worthynews.com/116800-israel-strikes-syrian-airbase-after-turkish-military-visit-drawing-rare-u-s-rebuke",
+    "risk_score": 9.85,
+    "count": 11,
+    "top_news": "https://www.dailysabah.com/politics/turkish-ruling-ak-party-slams-netanyahu-over-fueling-regional-chaos/news",
     "event_codes": {
-      "19": 6
+      "18": 8,
+      "14": 1,
+      "19": 1,
+      "20": 1
     },
     "keywords": [
-      "116800",
-      "israel",
-      "strikes",
-      "syrian",
-      "airbase",
-      "after",
+      "politics",
       "turkish",
-      "military",
-      "visit",
-      "drawing",
-      "rare",
-      "rebuke"
+      "ruling",
+      "party",
+      "slams",
+      "netanyahu",
+      "over",
+      "fueling",
+      "regional",
+      "chaos",
+      "news"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/politics/turkiyes-constitution-key-articles-everyone-should-know/news",
+    "event_codes": {
+      "18": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "politics",
+      "turkiyes",
+      "constitution",
+      "key",
+      "articles",
+      "everyone",
+      "should",
+      "know",
+      "news"
     ]
   }
 }
