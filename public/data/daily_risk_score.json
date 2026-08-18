@@ -1,66 +1,171 @@
 {
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.dailysabah.com/politics/new-board-overseeing-terror-free-turkiye-plan-to-meet-on-aug-24/news",
+  "IDN": {
+    "risk_score": 10.15,
+    "count": 13,
+    "top_news": "https://news.mongabay.com/2026/08/indonesia-leads-global-tally-of-abuses-linked-to-chinese-transition-mineral-investments/",
     "event_codes": {
-      "17": 6
+      "19": 7,
+      "17": 3,
+      "14": 2,
+      "16": 1
     },
     "keywords": [
-      "politics",
-      "new",
-      "board",
-      "overseeing",
-      "terror",
-      "free",
-      "turkiye",
-      "plan",
-      "meet",
-      "aug",
-      "news"
+      "2026",
+      "indonesia",
+      "leads",
+      "global",
+      "tally",
+      "abuses",
+      "linked",
+      "chinese",
+      "transition",
+      "mineral",
+      "investments"
     ]
   },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.al-monitor.com/originals/2026/08/who-khalil-al-hayya-hamas-leader-who-met-kushner-egypt",
+    "risk_score": 15.85,
+    "count": 17,
+    "top_news": "https://www.israelnationalnews.com/flashes/691969",
     "event_codes": {
+      "19": 12,
       "18": 3,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "flashes",
+      "691969"
+    ]
+  },
+  "NGA": {
+    "risk_score": 31.97,
+    "count": 36,
+    "top_news": "https://dailytrust.com/sokoto-attack-my-baby-almost-died-new-mother-recounts-ordeal/",
+    "event_codes": {
+      "18": 18,
+      "19": 12,
+      "14": 3,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "sokoto",
+      "attack",
+      "baby",
+      "almost",
+      "died",
+      "new",
+      "mother",
+      "recounts",
+      "ordeal"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://english.wafa.ps/Pages/Details/173835",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "173835"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.independent.co.uk/news/world/middle-east/muslim-nato-trump-saudi-mecca-pact-b3033073.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "originals",
+      "news",
+      "world",
+      "middle",
+      "east",
+      "muslim",
+      "nato",
+      "trump",
+      "saudi",
+      "mecca",
+      "pact",
+      "b3033073.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/08/18/latest-developments-in-us-iran-war",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "category",
+      "world",
       "2026",
-      "who",
-      "khalil",
-      "hayya",
-      "hamas",
-      "leader",
-      "who",
-      "met",
-      "kushner",
-      "egypt"
+      "latest",
+      "developments",
+      "iran",
+      "war"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.8,
+    "count": 10,
+    "top_news": "https://grenadachronicle.com/eight-air-strikes-hit-airbase-in-syrias-idlib/",
+    "event_codes": {
+      "17": 6,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "eight",
+      "air",
+      "strikes",
+      "hit",
+      "airbase",
+      "syrias",
+      "idlib"
     ]
   },
   "THA": {
-    "risk_score": 2.0,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://geographical.co.uk/news/could-cloud-seeding-make-it-rain-and-help-fight-wildfires",
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/08/18/thai-cops-bust-syndicate-attempting-to-smuggle-syabu-into-m-sia",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "could",
-      "cloud",
-      "seeding",
-      "make",
-      "rain",
-      "and",
-      "help",
-      "fight",
-      "wildfires"
+      "category",
+      "nation",
+      "2026",
+      "thai",
+      "cops",
+      "bust",
+      "syndicate",
+      "attempting",
+      "smuggle",
+      "syabu",
+      "into",
+      "sia"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.justsecurity.org/154447/early-edition-august-18-2026/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "154447",
+      "early",
+      "edition",
+      "august",
+      "2026"
     ]
   }
 }
