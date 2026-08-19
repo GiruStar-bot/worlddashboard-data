@@ -1,33 +1,85 @@
 {
   "IRN": {
+    "risk_score": 5.4,
+    "count": 7,
+    "top_news": "https://www.express.co.uk/news/world/2240431/irans-horror-plan-attack-british",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2240431",
+      "irans",
+      "horror",
+      "plan",
+      "attack",
+      "british"
+    ]
+  },
+  "ISR": {
+    "risk_score": 14.5,
+    "count": 17,
+    "top_news": "https://dunyanews.tv/en/World/968666-attacks-on-aid-workers-hit-record-high-in-2025-un-says",
+    "event_codes": {
+      "19": 11,
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "968666",
+      "attacks",
+      "aid",
+      "workers",
+      "hit",
+      "record",
+      "high",
+      "2025",
+      "says"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/france-expel-two-iranian-diplomats-072923000.html",
+    "top_news": "https://naharnet.com/stories/en/321909-syria-state-media-says-3-dead-in-blast-at-coastal-power-plant",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "articles",
-      "france",
-      "expel",
-      "two",
-      "iranian",
-      "diplomats",
-      "072923000.html"
+      "stories",
+      "321909",
+      "syria",
+      "state",
+      "media",
+      "says",
+      "dead",
+      "blast",
+      "coastal",
+      "power",
+      "plant"
     ]
   },
-  "ISR": {
-    "risk_score": 5.85,
-    "count": 7,
-    "top_news": "https://english.pnn.ps/news/48239",
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www2.fundsforngos.org/listing/global-calls-closing-soon-funding-opportunities-ending-in-august-2026/",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "48239"
+      "listing",
+      "global",
+      "calls",
+      "closing",
+      "soon",
+      "funding",
+      "opportunities",
+      "ending",
+      "august",
+      "2026"
     ]
   }
 }
