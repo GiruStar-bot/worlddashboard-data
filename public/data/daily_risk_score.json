@@ -1,99 +1,62 @@
 {
-  "IDN": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "https://en.tempo.co/read/2117869/jakarta-police-release-21-detained-ahead-of-ui-student-protest",
-    "event_codes": {
-      "14": 2,
-      "17": 1
-    },
-    "keywords": [
-      "read",
-      "2117869",
-      "jakarta",
-      "police",
-      "release",
-      "detained",
-      "ahead",
-      "student",
-      "protest"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.justsecurity.org/154539/early-edition-august-19-2026/",
-    "event_codes": {
-      "18": 3,
-      "17": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "154539",
-      "early",
-      "edition",
-      "august",
-      "2026"
-    ]
-  },
   "ISR": {
-    "risk_score": 10.09,
-    "count": 11,
-    "top_news": "https://www.ynetnews.com/article/ryozizxvge",
-    "event_codes": {
-      "19": 5,
-      "18": 4,
-      "15": 2
-    },
-    "keywords": [
-      "article",
-      "ryozizxvge"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.5,
+    "risk_score": 4.4,
     "count": 5,
-    "top_news": "https://www.standardmedia.co.ke/nairobi/article/2001555701/30-stolen-phones-recovered-as-police-bust-alleged-theft-syndicate",
+    "top_news": "https://www.jpost.com/middle-east/article-906009",
     "event_codes": {
       "19": 4,
-      "17": 1
+      "16": 1
     },
     "keywords": [
-      "nairobi",
+      "middle",
+      "east",
       "article",
-      "2001555701",
-      "stolen",
-      "phones",
-      "recovered",
-      "police",
-      "bust",
-      "alleged",
-      "theft",
-      "syndicate"
+      "906009"
     ]
   },
-  "NGA": {
-    "risk_score": 12.12,
-    "count": 15,
-    "top_news": "https://thecatholicherald.com/article/nigerian-bishop-warns-church-is-losing-moral-authority-in-europe",
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://allafrica.com/stories/202608190471.html",
     "event_codes": {
-      "19": 5,
-      "18": 4,
-      "17": 3,
-      "14": 2,
-      "15": 1
+      "19": 2
     },
     "keywords": [
+      "stories",
+      "202608190471.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailystar.co.uk/news/latest-news/man-accused-strangling-teen-stuffing-37569428",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "latest",
+      "news",
+      "man",
+      "accused",
+      "strangling",
+      "teen",
+      "stuffing",
+      "37569428"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/middle-east/article-906009",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
       "article",
-      "nigerian",
-      "bishop",
-      "warns",
-      "church",
-      "losing",
-      "moral",
-      "authority",
-      "europe"
+      "906009"
     ]
   }
 }
