@@ -1,157 +1,99 @@
 {
-  "CAF": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/un-marks-gaza-as-deadliest-place-for-aid-workers-for-3rd-year",
+  "IDN": {
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "https://en.tempo.co/read/2117869/jakarta-police-release-21-detained-ahead-of-ui-student-protest",
     "event_codes": {
-      "19": 2
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "mid",
-      "east",
-      "marks",
-      "gaza",
-      "deadliest",
-      "place",
-      "for",
-      "aid",
-      "workers",
-      "for",
-      "3rd",
-      "year"
+      "read",
+      "2117869",
+      "jakarta",
+      "police",
+      "release",
+      "detained",
+      "ahead",
+      "student",
+      "protest"
     ]
   },
-  "COD": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260818-unocha01.htm",
+  "IRN": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.justsecurity.org/154539/early-edition-august-19-2026/",
     "event_codes": {
       "18": 3,
-      "19": 3
+      "17": 2,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260818",
-      "unocha01.htm"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 19.0,
-    "count": 19,
-    "top_news": "https://www.globalsecurity.org/wmd/library/news/iraq/2026/iraq-260818-rferl01.htm",
-    "event_codes": {
-      "19": 19
-    },
-    "keywords": [
-      "wmd",
-      "library",
-      "news",
-      "iraq",
-      "2026",
-      "iraq",
-      "260818",
-      "rferl01.htm"
+      "154539",
+      "early",
+      "edition",
+      "august",
+      "2026"
     ]
   },
   "ISR": {
-    "risk_score": 6.1,
-    "count": 8,
-    "top_news": "https://www.jns.org/news/israel-news/katz-idf-to-continue-eliminating-terrorists-from-within-gaza-security-zone",
+    "risk_score": 10.09,
+    "count": 11,
+    "top_news": "https://www.ynetnews.com/article/ryozizxvge",
     "event_codes": {
-      "17": 5,
-      "19": 3
+      "19": 5,
+      "18": 4,
+      "15": 2
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "katz",
-      "idf",
-      "continue",
-      "eliminating",
-      "terrorists",
-      "from",
-      "within",
-      "gaza",
-      "security",
-      "zone"
+      "article",
+      "ryozizxvge"
     ]
   },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://allafrica.com/stories/202608190420.html",
+  "KEN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.standardmedia.co.ke/nairobi/article/2001555701/30-stolen-phones-recovered-as-police-bust-alleged-theft-syndicate",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "stories",
-      "202608190420.html"
+      "nairobi",
+      "article",
+      "2001555701",
+      "stolen",
+      "phones",
+      "recovered",
+      "police",
+      "bust",
+      "alleged",
+      "theft",
+      "syndicate"
     ]
   },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/world/asia-pacific/israel-faces-wave-of-intl-criticism-over-unprovoked-syria-strikes",
+  "NGA": {
+    "risk_score": 12.12,
+    "count": 15,
+    "top_news": "https://thecatholicherald.com/article/nigerian-bishop-warns-church-is-losing-moral-authority-in-europe",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "asia",
-      "pacific",
-      "israel",
-      "faces",
-      "wave",
-      "intl",
-      "criticism",
-      "over",
-      "unprovoked",
-      "syria",
-      "strikes"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.1,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/business/defense/turkish-american-groups-call-on-congress-to-ok-f-35-sale-to-turkiye",
-    "event_codes": {
+      "19": 5,
+      "18": 4,
+      "17": 3,
       "14": 2,
-      "16": 1
+      "15": 1
     },
     "keywords": [
-      "business",
-      "defense",
-      "turkish",
-      "american",
-      "groups",
-      "call",
-      "congress",
-      "sale",
-      "turkiye"
-    ]
-  },
-  "YEM": {
-    "risk_score": 9.85,
-    "count": 10,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260818-azertac02.htm",
-    "event_codes": {
-      "19": 7,
-      "18": 3
-    },
-    "keywords": [
-      "military",
-      "library",
-      "news",
-      "2026",
-      "mil",
-      "260818",
-      "azertac02.htm"
+      "article",
+      "nigerian",
+      "bishop",
+      "warns",
+      "church",
+      "losing",
+      "moral",
+      "authority",
+      "europe"
     ]
   }
 }
