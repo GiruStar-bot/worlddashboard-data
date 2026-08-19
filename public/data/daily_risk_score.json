@@ -1,76 +1,110 @@
 {
-  "COL": {
-    "risk_score": 5.35,
-    "count": 6,
-    "top_news": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://cbn.com/news/israel/talks-stall-iran-tests-us-military-restraint-hormuz-un-inspectors-visit-syrian-nuclear",
     "event_codes": {
-      "19": 4,
-      "17": 1,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "world",
-      "2026",
-      "aug",
-      "activist",
-      "forced",
-      "out",
-      "after",
-      "criticising",
-      "trump",
-      "aligned",
-      "colombian",
-      "politician"
+      "news",
+      "israel",
+      "talks",
+      "stall",
+      "iran",
+      "tests",
+      "military",
+      "restraint",
+      "hormuz",
+      "inspectors",
+      "visit",
+      "syrian",
+      "nuclear"
     ]
   },
-  "ISR": {
+  "IRN": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/431921",
+    "top_news": "https://seekingalpha.com/news/4634681-iran-eyes-us-military-targets-in-europe-if-trump-escalates-war",
     "event_codes": {
       "19": 4
     },
     "keywords": [
       "news",
-      "431921"
+      "4634681",
+      "iran",
+      "eyes",
+      "military",
+      "targets",
+      "europe",
+      "trump",
+      "escalates",
+      "war"
     ]
   },
-  "NGA": {
-    "risk_score": 4.0,
+  "ISR": {
+    "risk_score": 3.44,
     "count": 4,
-    "top_news": "https://tribuneonlineng.com/osun-what-next-after-apcs-defeat-by-adeleke/",
+    "top_news": "https://cbn.com/news/israel/talks-stall-iran-tests-us-military-restraint-hormuz-un-inspectors-visit-syrian-nuclear",
     "event_codes": {
-      "19": 4
+      "15": 2,
+      "19": 2
     },
     "keywords": [
-      "osun",
-      "what",
-      "next",
-      "after",
-      "apcs",
-      "defeat",
-      "adeleke"
+      "news",
+      "israel",
+      "talks",
+      "stall",
+      "iran",
+      "tests",
+      "military",
+      "restraint",
+      "hormuz",
+      "inspectors",
+      "visit",
+      "syrian",
+      "nuclear"
     ]
   },
-  "THA": {
+  "VEN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.asiaone.com:443/asia/thailand-seeks-new-path-end-deadly-southern-insurgency-negotiator-says",
+    "top_news": "https://slguardian.org/venezuela-appears-to-abandon-maduro-as-talks-with-opposition-advance/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "asia",
-      "thailand",
-      "seeks",
-      "new",
-      "path",
-      "end",
-      "deadly",
-      "southern",
-      "insurgency",
-      "negotiator",
-      "says"
+      "venezuela",
+      "appears",
+      "abandon",
+      "maduro",
+      "talks",
+      "with",
+      "opposition",
+      "advance"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://cbn.com/news/israel/talks-stall-iran-tests-us-military-restraint-hormuz-un-inspectors-visit-syrian-nuclear",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "talks",
+      "stall",
+      "iran",
+      "tests",
+      "military",
+      "restraint",
+      "hormuz",
+      "inspectors",
+      "visit",
+      "syrian",
+      "nuclear"
     ]
   }
 }
