@@ -1,84 +1,165 @@
 {
-  "ARE": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.irishmirror.ie/kinahan-mobster-sean-mcgovern-sues-37569220",
+  "IDN": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://www.hngn.com/articles/272763/20260818/indonesia-earthquake-magnitude-77-quake-off-flores-kills-least-38-triggers-tsunami-alert.htm",
     "event_codes": {
-      "19": 5
+      "15": 3
     },
     "keywords": [
-      "kinahan",
-      "mobster",
-      "sean",
-      "mcgovern",
-      "sues",
-      "37569220"
+      "articles",
+      "272763",
+      "20260818",
+      "indonesia",
+      "earthquake",
+      "magnitude",
+      "quake",
+      "off",
+      "flores",
+      "kills",
+      "least",
+      "triggers",
+      "tsunami",
+      "alert.htm"
     ]
   },
   "IRN": {
-    "risk_score": 12.0,
-    "count": 12,
-    "top_news": "https://www.thenews.com.pk/latest/1412806-uae-halts-trade-with-iran-what-it-means-for-tehrans-economy",
+    "risk_score": 6.9,
+    "count": 8,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774610/32-year-old-iranian-scientist-identified-dna-10-days-after-martyrdom-us-israeli-attack",
     "event_codes": {
-      "19": 12
+      "19": 6,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "latest",
-      "1412806",
-      "uae",
-      "halts",
-      "trade",
-      "with",
-      "iran",
-      "what",
-      "means",
-      "for",
-      "tehrans",
-      "economy"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://news.az/news/irans-qalibaf-hails-iraqi-resistance-as-major-source-of-strength-for-both-countries",
-    "event_codes": {
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "irans",
-      "qalibaf",
-      "hails",
-      "iraqi",
-      "resistance",
-      "major",
-      "source",
-      "strength",
-      "for",
-      "both",
-      "countries"
+      "detail",
+      "2026",
+      "774610",
+      "year",
+      "old",
+      "iranian",
+      "scientist",
+      "identified",
+      "dna",
+      "days",
+      "after",
+      "martyrdom",
+      "israeli",
+      "attack"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://news.az/news/what-happened-in-gaza-city-drone-strike-kills-6-near-busy-area",
+    "risk_score": 9.6,
+    "count": 12,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/18/774610/32-year-old-iranian-scientist-identified-dna-10-days-after-martyrdom-us-israeli-attack",
     "event_codes": {
-      "19": 4
+      "19": 6,
+      "17": 4,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "what",
-      "happened",
-      "gaza",
-      "city",
-      "drone",
-      "strike",
-      "kills",
-      "near",
-      "busy",
-      "area"
+      "detail",
+      "2026",
+      "774610",
+      "year",
+      "old",
+      "iranian",
+      "scientist",
+      "identified",
+      "dna",
+      "days",
+      "after",
+      "martyrdom",
+      "israeli",
+      "attack"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://www.standardmedia.co.ke/politics/article/2001555727/vocal-africa-urges-icc-to-monitor-kenya-ahead-of-2027-polls",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "politics",
+      "article",
+      "2001555727",
+      "vocal",
+      "africa",
+      "urges",
+      "icc",
+      "monitor",
+      "kenya",
+      "ahead",
+      "2027",
+      "polls"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thesun.ng/ebonyi-elderly-man-murdered-after-apga-endorsement-meeting/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "ebonyi",
+      "elderly",
+      "man",
+      "murdered",
+      "after",
+      "apga",
+      "endorsement",
+      "meeting"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 10,
+    "top_news": "https://www.justiceinfo.net/en/163515-syria-arrests-assad-era-officer-convicted-in-austria.html",
+    "event_codes": {
+      "17": 10
+    },
+    "keywords": [
+      "163515",
+      "syria",
+      "arrests",
+      "assad",
+      "era",
+      "officer",
+      "convicted",
+      "austria.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/19/774666/Israeli-aggression-in-Syria-brings-regime-closer-to-direct-confrontation-with-Ankara--Turkish-media",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774666",
+      "israeli",
+      "aggression",
+      "syria",
+      "brings",
+      "regime",
+      "closer",
+      "direct",
+      "confrontation",
+      "with",
+      "ankara",
+      "turkish",
+      "media"
     ]
   }
 }
