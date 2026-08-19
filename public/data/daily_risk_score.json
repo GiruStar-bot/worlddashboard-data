@@ -1,15 +1,44 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.prokerala.com/news/articles/a1802029.html",
+  "IRN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://maritime-executive.com/article/uae-suspends-trade-with-iran-following-antiship-missile-strike",
     "event_codes": {
-      "19": 2
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "a1802029.html"
+      "article",
+      "uae",
+      "suspends",
+      "trade",
+      "with",
+      "iran",
+      "following",
+      "antiship",
+      "missile",
+      "strike"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.0,
+    "count": 9,
+    "top_news": "https://dailytrust.com/fct-residents-battle-poor-connectivity-water-scarcity/",
+    "event_codes": {
+      "19": 4,
+      "14": 2,
+      "16": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "fct",
+      "residents",
+      "battle",
+      "poor",
+      "connectivity",
+      "water",
+      "scarcity"
     ]
   }
 }
