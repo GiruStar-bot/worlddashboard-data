@@ -1,62 +1,84 @@
 {
-  "ISR": {
-    "risk_score": 4.4,
+  "ARE": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.jpost.com/middle-east/article-906009",
+    "top_news": "https://www.irishmirror.ie/kinahan-mobster-sean-mcgovern-sues-37569220",
     "event_codes": {
-      "19": 4,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "906009"
+      "kinahan",
+      "mobster",
+      "sean",
+      "mcgovern",
+      "sues",
+      "37569220"
     ]
   },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://allafrica.com/stories/202608190471.html",
+  "IRN": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://www.thenews.com.pk/latest/1412806-uae-halts-trade-with-iran-what-it-means-for-tehrans-economy",
     "event_codes": {
-      "19": 2
+      "19": 12
     },
     "keywords": [
-      "stories",
-      "202608190471.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailystar.co.uk/news/latest-news/man-accused-strangling-teen-stuffing-37569428",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
       "latest",
-      "news",
-      "man",
-      "accused",
-      "strangling",
-      "teen",
-      "stuffing",
-      "37569428"
+      "1412806",
+      "uae",
+      "halts",
+      "trade",
+      "with",
+      "iran",
+      "what",
+      "means",
+      "for",
+      "tehrans",
+      "economy"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jpost.com/middle-east/article-906009",
+  "IRQ": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://news.az/news/irans-qalibaf-hails-iraqi-resistance-as-major-source-of-strength-for-both-countries",
     "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "906009"
+      "news",
+      "irans",
+      "qalibaf",
+      "hails",
+      "iraqi",
+      "resistance",
+      "major",
+      "source",
+      "strength",
+      "for",
+      "both",
+      "countries"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://news.az/news/what-happened-in-gaza-city-drone-strike-kills-6-near-busy-area",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "what",
+      "happened",
+      "gaza",
+      "city",
+      "drone",
+      "strike",
+      "kills",
+      "near",
+      "busy",
+      "area"
     ]
   }
 }
