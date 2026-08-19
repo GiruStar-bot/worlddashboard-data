@@ -1,60 +1,99 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://en.people.cn/n3/2026/0819/c90000-20489944.html",
+  "IDN": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "http://www.thejakartapost.com/indonesia/2026/08/19/papuan-rebels-shoot-one-soldier-dead-injure-two-on-independence-day",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "18": 1
     },
     "keywords": [
+      "indonesia",
       "2026",
-      "0819",
-      "c90000",
-      "20489944.html"
+      "papuan",
+      "rebels",
+      "shoot",
+      "one",
+      "soldier",
+      "dead",
+      "injure",
+      "two",
+      "independence",
+      "day"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://aa.com.tr/en/middle-east/israel-recovers-remains-of-soldier-killed-in-lebanon-44-years-ago-netanyahu/4031154",
+  "IRN": {
+    "risk_score": 6.55,
+    "count": 9,
+    "top_news": "https://www.theepochtimes.com/world/uae-halts-all-iranian-trade-after-2-missiles-launched-from-iranian-territory-6076703",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "17": 3,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
+      "world",
+      "uae",
+      "halts",
+      "all",
+      "iranian",
+      "trade",
+      "after",
+      "missiles",
+      "launched",
+      "from",
+      "iranian",
+      "territory",
+      "6076703"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.theweek.in/news/middle-east/2026/08/19/uae-suspends-trade-iran-gulf-security-situation.html",
+    "event_codes": {
+      "16": 3,
+      "19": 2,
+      "20": 1
+    },
+    "keywords": [
+      "news",
       "middle",
       "east",
-      "israel",
-      "recovers",
-      "remains",
-      "soldier",
-      "killed",
-      "lebanon",
-      "years",
-      "ago",
-      "netanyahu",
-      "4031154"
+      "2026",
+      "uae",
+      "suspends",
+      "trade",
+      "iran",
+      "gulf",
+      "security",
+      "situation.html"
     ]
   },
-  "NGA": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://aa.com.tr/en/africa/gunmen-kill-at-least-24-people-in-attack-in-nigeria-s-plateau-state/4031155",
+  "LBY": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.nbcsandiego.com/news/local/san-diego-area-lawmakers-demand-answers-on-san-diego-based-uss-lincoln-group/4062818/",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "18": 3
     },
     "keywords": [
-      "africa",
-      "gunmen",
-      "kill",
-      "least",
-      "people",
-      "attack",
-      "nigeria",
-      "plateau",
-      "state",
-      "4031155"
+      "news",
+      "local",
+      "san",
+      "diego",
+      "area",
+      "lawmakers",
+      "demand",
+      "answers",
+      "san",
+      "diego",
+      "based",
+      "uss",
+      "lincoln",
+      "group",
+      "4062818"
     ]
   }
 }
