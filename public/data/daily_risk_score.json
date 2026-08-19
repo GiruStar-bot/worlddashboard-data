@@ -1,71 +1,59 @@
 {
-  "ISR": {
-    "risk_score": 5.85,
-    "count": 7,
-    "top_news": "https://news.antiwar.com/2026/08/19/two-killed-in-southern-lebanon-as-israel-continues-heavy-demolitions/",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850",
     "event_codes": {
-      "19": 3,
-      "17": 2,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "two",
-      "killed",
-      "southern",
-      "lebanon",
-      "israel",
-      "continues",
-      "heavy",
-      "demolitions"
+      "kenya",
+      "helicopter",
+      "crash",
+      "kills",
+      "including",
+      "ecuador",
+      "spy",
+      "boss",
+      "78437850"
     ]
   },
-  "KEN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://kvia.com/news/us-world/cnn-world/2026/08/19/five-americans-ecuador-intelligence-chief-killed-in-helicopter-crash-in-kenya/",
+  "ISR": {
+    "risk_score": 5.22,
+    "count": 8,
+    "top_news": "https://www.bbc.co.uk/news/articles/cp87g29r718o",
     "event_codes": {
-      "19": 7
+      "17": 5,
+      "19": 2,
+      "15": 1
     },
     "keywords": [
       "news",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "five",
-      "americans",
-      "ecuador",
-      "intelligence",
-      "chief",
-      "killed",
-      "helicopter",
-      "crash",
-      "kenya"
+      "articles",
+      "cp87g29r718o"
     ]
   },
   "NGA": {
-    "risk_score": 9.55,
-    "count": 12,
-    "top_news": "https://thenationonlineng.net/soldiers-dss-kill-24-bandits-foil-mass-kidnapping-rescue-victims-in-katsina/",
+    "risk_score": 27.47,
+    "count": 33,
+    "top_news": "https://dailytrust.com/breaking-davido-was-target-of-osun-convoy-attack-police/",
     "event_codes": {
-      "18": 4,
+      "18": 15,
+      "19": 9,
       "14": 3,
-      "19": 3,
-      "16": 1,
-      "17": 1
+      "17": 3,
+      "16": 2,
+      "15": 1
     },
     "keywords": [
-      "soldiers",
-      "dss",
-      "kill",
-      "bandits",
-      "foil",
-      "mass",
-      "kidnapping",
-      "rescue",
-      "victims",
-      "katsina"
+      "breaking",
+      "davido",
+      "was",
+      "target",
+      "osun",
+      "convoy",
+      "attack",
+      "police"
     ]
   }
 }
