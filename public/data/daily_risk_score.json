@@ -1,59 +1,60 @@
 {
-  "ECU": {
+  "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850",
+    "top_news": "https://www.greanvillepost.com/media-find-a-new-man-who-will-save-colombia-de-la-espriella-style/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "kenya",
-      "helicopter",
-      "crash",
-      "kills",
-      "including",
-      "ecuador",
-      "spy",
-      "boss",
-      "78437850"
+      "media",
+      "find",
+      "new",
+      "man",
+      "who",
+      "will",
+      "save",
+      "colombia",
+      "espriella",
+      "style"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/rjai2g7wzx",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "rjai2g7wzx"
     ]
   },
   "ISR": {
-    "risk_score": 5.22,
-    "count": 8,
-    "top_news": "https://www.bbc.co.uk/news/articles/cp87g29r718o",
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/ryea2p7wzx",
     "event_codes": {
-      "17": 5,
-      "19": 2,
-      "15": 1
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "cp87g29r718o"
+      "article",
+      "ryea2p7wzx"
     ]
   },
-  "NGA": {
-    "risk_score": 27.47,
-    "count": 33,
-    "top_news": "https://dailytrust.com/breaking-davido-was-target-of-osun-convoy-attack-police/",
+  "KWT": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.ynetnews.com/article/rjai2g7wzx",
     "event_codes": {
-      "18": 15,
-      "19": 9,
-      "14": 3,
-      "17": 3,
-      "16": 2,
-      "15": 1
+      "19": 3
     },
     "keywords": [
-      "breaking",
-      "davido",
-      "was",
-      "target",
-      "osun",
-      "convoy",
-      "attack",
-      "police"
+      "article",
+      "rjai2g7wzx"
     ]
   }
 }
