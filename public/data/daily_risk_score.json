@@ -1,100 +1,157 @@
 {
-  "IRQ": {
+  "CAF": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.iranherald.com/news/279251318/iran-again-warns-gulf-states-against-assisting-us-military",
+    "top_news": "https://www.dailysabah.com/world/mid-east/un-marks-gaza-as-deadliest-place-for-aid-workers-for-3rd-year",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "world",
+      "mid",
+      "east",
+      "marks",
+      "gaza",
+      "deadliest",
+      "place",
+      "for",
+      "aid",
+      "workers",
+      "for",
+      "3rd",
+      "year"
+    ]
+  },
+  "COD": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260818-unocha01.htm",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "military",
+      "library",
       "news",
-      "279251318",
-      "iran",
-      "again",
-      "warns",
-      "gulf",
-      "states",
-      "against",
-      "assisting",
-      "military"
+      "2026",
+      "mil",
+      "260818",
+      "unocha01.htm"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 19.0,
+    "count": 19,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iraq/2026/iraq-260818-rferl01.htm",
+    "event_codes": {
+      "19": 19
+    },
+    "keywords": [
+      "wmd",
+      "library",
+      "news",
+      "iraq",
+      "2026",
+      "iraq",
+      "260818",
+      "rferl01.htm"
     ]
   },
   "ISR": {
-    "risk_score": 9.07,
-    "count": 11,
-    "top_news": "https://www.arkansasonline.com/news/2026/aug/19/shooter-films-attack-on-philippine-school-4/",
+    "risk_score": 6.1,
+    "count": 8,
+    "top_news": "https://www.jns.org/news/israel-news/katz-idf-to-continue-eliminating-terrorists-from-within-gaza-security-zone",
     "event_codes": {
-      "19": 5,
-      "16": 3,
-      "17": 2,
-      "15": 1
+      "17": 5,
+      "19": 3
     },
     "keywords": [
       "news",
-      "2026",
-      "aug",
-      "shooter",
-      "films",
-      "attack",
-      "philippine",
-      "school"
+      "israel",
+      "news",
+      "katz",
+      "idf",
+      "continue",
+      "eliminating",
+      "terrorists",
+      "from",
+      "within",
+      "gaza",
+      "security",
+      "zone"
     ]
   },
-  "MYS": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/08/19/cops-seize-rm37-5mil-drugs-smuggled-through-klia",
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://allafrica.com/stories/202608190420.html",
     "event_codes": {
-      "17": 2,
       "19": 2
     },
     "keywords": [
-      "category",
-      "nation",
-      "2026",
-      "cops",
-      "seize",
-      "rm37",
-      "5mil",
-      "drugs",
-      "smuggled",
-      "through",
-      "klia"
+      "stories",
+      "202608190420.html"
     ]
   },
-  "NGA": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://bentelevision.com/u-s-congressman-opposes-lifting-nigerias-cpc-designation/",
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.dailysabah.com/world/asia-pacific/israel-faces-wave-of-intl-criticism-over-unprovoked-syria-strikes",
     "event_codes": {
-      "19": 3,
-      "15": 1
+      "19": 3
     },
     "keywords": [
-      "congressman",
-      "opposes",
-      "lifting",
-      "nigerias",
-      "cpc",
-      "designation"
+      "world",
+      "asia",
+      "pacific",
+      "israel",
+      "faces",
+      "wave",
+      "intl",
+      "criticism",
+      "over",
+      "unprovoked",
+      "syria",
+      "strikes"
     ]
   },
-  "SOM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.arkansasonline.com/news/2026/aug/19/shooter-films-attack-on-philippine-school-4/",
+  "TUR": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.dailysabah.com/business/defense/turkish-american-groups-call-on-congress-to-ok-f-35-sale-to-turkiye",
     "event_codes": {
-      "19": 4
+      "14": 2,
+      "16": 1
     },
     "keywords": [
+      "business",
+      "defense",
+      "turkish",
+      "american",
+      "groups",
+      "call",
+      "congress",
+      "sale",
+      "turkiye"
+    ]
+  },
+  "YEM": {
+    "risk_score": 9.85,
+    "count": 10,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260818-azertac02.htm",
+    "event_codes": {
+      "19": 7,
+      "18": 3
+    },
+    "keywords": [
+      "military",
+      "library",
       "news",
       "2026",
-      "aug",
-      "shooter",
-      "films",
-      "attack",
-      "philippine",
-      "school"
+      "mil",
+      "260818",
+      "azertac02.htm"
     ]
   }
 }
