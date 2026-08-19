@@ -1,79 +1,108 @@
 {
   "BRA": {
-    "risk_score": 4.0,
+    "risk_score": 5.45,
+    "count": 7,
+    "top_news": "https://www.breitbart.com/politics/2026/08/19/ice-agents-arrest-biden-released-illegal-alien-accused-of-murder-in-brazil/",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "ice",
+      "agents",
+      "arrest",
+      "biden",
+      "released",
+      "illegal",
+      "alien",
+      "accused",
+      "murder",
+      "brazil"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.67,
+    "count": 15,
+    "top_news": "https://www.straitstimes.com/world/middle-east/israeli-airstrike-kills-nine-palestinians-at-gaza-police-station-medics-say",
+    "event_codes": {
+      "19": 7,
+      "17": 5,
+      "18": 3
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "israeli",
+      "airstrike",
+      "kills",
+      "nine",
+      "palestinians",
+      "gaza",
+      "police",
+      "station",
+      "medics",
+      "say"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.79,
+    "count": 13,
+    "top_news": "https://theeagleonline.com.ng/army-troops-neutralise-eight-iswap-fighters-in-borno-airstrike/",
+    "event_codes": {
+      "19": 8,
+      "14": 3,
+      "17": 2
+    },
+    "keywords": [
+      "army",
+      "troops",
+      "neutralise",
+      "eight",
+      "iswap",
+      "fighters",
+      "borno",
+      "airstrike"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.pakistantoday.com.pk/2026/08/19/trump-posts-map-showing-strait-of-hormuz-as-new-us-territory",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "posts",
+      "map",
+      "showing",
+      "strait",
+      "hormuz",
+      "new",
+      "territory"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "https://globalvoices.org/2026/08/19/amid-political-and-economic-pressure-brazil-sees-a-rise-in-land-conflicts-and-the-murders-of-indigenous-people/",
+    "top_news": "https://indonesiatribune.com/trk-alarmed-by-rising-civilian-toll-in-yemen-urges-restraint/",
     "event_codes": {
       "19": 3,
       "18": 1
     },
     "keywords": [
-      "2026",
-      "amid",
-      "political",
-      "and",
-      "economic",
-      "pressure",
-      "brazil",
-      "sees",
-      "rise",
-      "land",
-      "conflicts",
-      "and",
-      "the",
-      "murders",
-      "indigenous",
-      "people"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/national/kerala/response-to-anti-drugs-campaign-is-overwhelming-says-keralam-home-minister/article71365495.ece",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "kerala",
-      "response",
-      "anti",
-      "drugs",
-      "campaign",
-      "overwhelming",
-      "says",
-      "keralam",
-      "home",
-      "minister",
-      "article71365495.ece"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.8,
-    "count": 6,
-    "top_news": "https://www.elciudadano.com/en/trial-begins-for-former-chief-of-staff-of-collipulli-accused-of-rape-and-sexual-abuse-after-three-years/08/19/",
-    "event_codes": {
-      "17": 4,
-      "18": 2
-    },
-    "keywords": [
-      "trial",
-      "begins",
-      "for",
-      "former",
-      "chief",
-      "staff",
-      "collipulli",
-      "accused",
-      "rape",
-      "and",
-      "sexual",
-      "abuse",
-      "after",
-      "three",
-      "years"
+      "trk",
+      "alarmed",
+      "rising",
+      "civilian",
+      "toll",
+      "yemen",
+      "urges",
+      "restraint"
     ]
   }
 }
