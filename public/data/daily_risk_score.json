@@ -1,78 +1,33 @@
 {
   "IRN": {
-    "risk_score": 6.3,
-    "count": 12,
-    "top_news": "https://us.cnn.com/2026/08/19/world/live-news/iran-war-trump",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.co.uk/articles/france-expel-two-iranian-diplomats-072923000.html",
     "event_codes": {
-      "16": 7,
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "2026",
-      "world",
-      "live",
-      "news",
-      "iran",
-      "war",
-      "trump"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://us.cnn.com/2026/08/19/world/live-news/iran-war-trump",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "live",
-      "news",
-      "iran",
-      "war",
-      "trump"
+      "articles",
+      "france",
+      "expel",
+      "two",
+      "iranian",
+      "diplomats",
+      "072923000.html"
     ]
   },
   "ISR": {
-    "risk_score": 8.85,
-    "count": 11,
-    "top_news": "https://www.jns.org/opinion/james-sinkinson/how-american-jews-can-cope-with-the-democratic-partys-betrayal",
+    "risk_score": 5.85,
+    "count": 7,
+    "top_news": "https://english.pnn.ps/news/48239",
     "event_codes": {
-      "19": 5,
-      "17": 4,
-      "20": 2
+      "19": 3,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "opinion",
-      "james",
-      "sinkinson",
-      "how",
-      "american",
-      "jews",
-      "can",
-      "cope",
-      "with",
-      "the",
-      "democratic",
-      "partys",
-      "betrayal"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.jpost.com/diaspora/antisemitism/article-905964",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "diaspora",
-      "antisemitism",
-      "article",
-      "905964"
+      "news",
+      "48239"
     ]
   }
 }
