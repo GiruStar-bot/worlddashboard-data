@@ -1,60 +1,84 @@
 {
-  "ISR": {
-    "risk_score": 21.7,
-    "count": 25,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3304342/leftover-munition-wounds-six-thais-in-israel",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.vindy.com/news/national-news/2026/08/no-peace-talks-but-strait-opens-trump-declares/",
     "event_codes": {
-      "18": 15,
-      "19": 6,
-      "17": 4
+      "19": 2
     },
     "keywords": [
-      "thailand",
-      "general",
-      "3304342",
-      "leftover",
-      "munition",
-      "wounds",
-      "six",
-      "thais",
-      "israel"
+      "news",
+      "national",
+      "news",
+      "2026",
+      "peace",
+      "talks",
+      "but",
+      "strait",
+      "opens",
+      "trump",
+      "declares"
     ]
   },
-  "NGA": {
-    "risk_score": 2.22,
-    "count": 3,
-    "top_news": "https://thesun.ng/nigerian-newspapers-major-stories-on-wednesday-morning-5/",
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ewn.co.za/2026/08/19/how-many-will-die-the-mysterious-ailment-killing-kenyan-elephants",
     "event_codes": {
-      "15": 1,
-      "17": 1,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "many",
+      "will",
+      "die",
+      "the",
+      "mysterious",
+      "ailment",
+      "killing",
+      "kenyan",
+      "elephants"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.rte.ie/news/2026/0819/1588442-middle-east/",
+    "event_codes": {
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "nigerian",
-      "newspapers",
-      "major",
-      "stories",
-      "wednesday",
-      "morning"
+      "news",
+      "2026",
+      "0819",
+      "1588442",
+      "middle",
+      "east"
     ]
   },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3304342/leftover-munition-wounds-six-thais-in-israel",
+  "SOM": {
+    "risk_score": 5.55,
+    "count": 6,
+    "top_news": "https://www.garoweonline.com/en/editorial/south-west-conflict-an-expanding-threat-and-president-hassan-sheikh-s-political-responsibility",
     "event_codes": {
-      "18": 5
+      "19": 5,
+      "14": 1
     },
     "keywords": [
-      "thailand",
-      "general",
-      "3304342",
-      "leftover",
-      "munition",
-      "wounds",
-      "six",
-      "thais",
-      "israel"
+      "editorial",
+      "south",
+      "west",
+      "conflict",
+      "expanding",
+      "threat",
+      "and",
+      "president",
+      "hassan",
+      "sheikh",
+      "political",
+      "responsibility"
     ]
   }
 }
