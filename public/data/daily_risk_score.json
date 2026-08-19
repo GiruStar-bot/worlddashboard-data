@@ -1,108 +1,63 @@
 {
-  "BRA": {
-    "risk_score": 5.45,
-    "count": 7,
-    "top_news": "https://www.breitbart.com/politics/2026/08/19/ice-agents-arrest-biden-released-illegal-alien-accused-of-murder-in-brazil/",
+  "IRN": {
+    "risk_score": 2.42,
+    "count": 4,
+    "top_news": "https://www.inquirer.com/opinion/trump-north-korea-kim-jong-un-russia-putin-china-xi-20260819.html",
     "event_codes": {
-      "19": 4,
-      "17": 3
+      "17": 2,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "politics",
-      "2026",
-      "ice",
-      "agents",
-      "arrest",
-      "biden",
-      "released",
-      "illegal",
-      "alien",
-      "accused",
-      "murder",
-      "brazil"
+      "opinion",
+      "trump",
+      "north",
+      "korea",
+      "kim",
+      "jong",
+      "russia",
+      "putin",
+      "china",
+      "20260819.html"
     ]
   },
   "ISR": {
-    "risk_score": 12.67,
-    "count": 15,
-    "top_news": "https://www.straitstimes.com/world/middle-east/israeli-airstrike-kills-nine-palestinians-at-gaza-police-station-medics-say",
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.thenational.scot/news/26478723.uk-government-urged-hold-israel-account-strikes/",
     "event_codes": {
-      "19": 7,
-      "17": 5,
-      "18": 3
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "israeli",
-      "airstrike",
-      "kills",
-      "nine",
-      "palestinians",
-      "gaza",
-      "police",
-      "station",
-      "medics",
-      "say"
+      "news",
+      "26478723.uk",
+      "government",
+      "urged",
+      "hold",
+      "israel",
+      "account",
+      "strikes"
     ]
   },
   "NGA": {
-    "risk_score": 11.79,
-    "count": 13,
-    "top_news": "https://theeagleonline.com.ng/army-troops-neutralise-eight-iswap-fighters-in-borno-airstrike/",
+    "risk_score": 4.35,
+    "count": 6,
+    "top_news": "https://dailytrust.com/just-in-gunshots-as-adelekes-convoy-leaves-monarchs-palace/",
     "event_codes": {
-      "19": 8,
       "14": 3,
-      "17": 2
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "army",
-      "troops",
-      "neutralise",
-      "eight",
-      "iswap",
-      "fighters",
-      "borno",
-      "airstrike"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.pakistantoday.com.pk/2026/08/19/trump-posts-map-showing-strait-of-hormuz-as-new-us-territory",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "trump",
-      "posts",
-      "map",
-      "showing",
-      "strait",
-      "hormuz",
-      "new",
-      "territory"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://indonesiatribune.com/trk-alarmed-by-rising-civilian-toll-in-yemen-urges-restraint/",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "trk",
-      "alarmed",
-      "rising",
-      "civilian",
-      "toll",
-      "yemen",
-      "urges",
-      "restraint"
+      "just",
+      "gunshots",
+      "adelekes",
+      "convoy",
+      "leaves",
+      "monarchs",
+      "palace"
     ]
   }
 }
