@@ -1,53 +1,60 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 8,
-    "top_news": "http://www.theuknews.com/news/279250504/trump-says-no-iran-talks-planned-as-uae-suspends-trade-with-tehran",
+  "ISR": {
+    "risk_score": 21.7,
+    "count": 25,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3304342/leftover-munition-wounds-six-thais-in-israel",
     "event_codes": {
-      "17": 4,
-      "14": 2,
-      "19": 2
+      "18": 15,
+      "19": 6,
+      "17": 4
     },
     "keywords": [
-      "news",
-      "279250504",
-      "trump",
-      "says",
-      "iran",
-      "talks",
-      "planned",
-      "uae",
-      "suspends",
-      "trade",
-      "with",
-      "tehran"
+      "thailand",
+      "general",
+      "3304342",
+      "leftover",
+      "munition",
+      "wounds",
+      "six",
+      "thais",
+      "israel"
     ]
   },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.freepressjournal.in/world/israel-warns-syria-of-security-breach-over-turkish-troop-deployment-near-aleppo-after-strikes-on-abu-al-duhur-airbase",
+  "NGA": {
+    "risk_score": 2.22,
+    "count": 3,
+    "top_news": "https://thesun.ng/nigerian-newspapers-major-stories-on-wednesday-morning-5/",
     "event_codes": {
-      "19": 4
+      "15": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "israel",
-      "warns",
-      "syria",
-      "security",
-      "breach",
-      "over",
-      "turkish",
-      "troop",
-      "deployment",
-      "near",
-      "aleppo",
-      "after",
-      "strikes",
-      "abu",
-      "duhur",
-      "airbase"
+      "nigerian",
+      "newspapers",
+      "major",
+      "stories",
+      "wednesday",
+      "morning"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3304342/leftover-munition-wounds-six-thais-in-israel",
+    "event_codes": {
+      "18": 5
+    },
+    "keywords": [
+      "thailand",
+      "general",
+      "3304342",
+      "leftover",
+      "munition",
+      "wounds",
+      "six",
+      "thais",
+      "israel"
     ]
   }
 }
