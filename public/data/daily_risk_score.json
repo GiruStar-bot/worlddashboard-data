@@ -1,67 +1,136 @@
 {
   "IRN": {
-    "risk_score": 3.0,
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.channelnewsasia.com/world/iran-warns-gulf-countries-us-military-uae-cut-trade-ties-6328211",
+    "top_news": "https://www.bankingnews.gr/diethni/articles/894543/iran-prepares-hell-at-us-bases-in-europe-targets-bulgaria-and-cyprus-threatens-gulf-states",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "world",
+      "diethni",
+      "articles",
+      "894543",
       "iran",
-      "warns",
+      "prepares",
+      "hell",
+      "bases",
+      "europe",
+      "targets",
+      "bulgaria",
+      "and",
+      "cyprus",
+      "threatens",
       "gulf",
-      "countries",
-      "military",
-      "uae",
-      "cut",
-      "trade",
-      "ties",
-      "6328211"
+      "states"
     ]
   },
   "ISR": {
-    "risk_score": 9.56,
-    "count": 12,
-    "top_news": "https://news.az/news/israeli-forces-raid-syrias-quneitra-and-abduct-two-people-after-new-strikes",
+    "risk_score": 6.95,
+    "count": 10,
+    "top_news": "https://www.moroccoworldnews.com/2026/08/335270/the-mecca-defense-agreement-towards-a-multipolar-security-order-in-middle-east/",
     "event_codes": {
-      "15": 3,
-      "19": 3,
-      "16": 2,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "israeli",
-      "forces",
-      "raid",
-      "syrias",
-      "quneitra",
-      "and",
-      "abduct",
-      "two",
-      "people",
-      "after",
-      "new",
-      "strikes"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.baltimoresun.com/2026/08/19/today-in-history-august-19-2026/",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
+      "17": 6,
+      "19": 4
     },
     "keywords": [
       "2026",
-      "today",
-      "history",
-      "august",
-      "2026"
+      "335270",
+      "the",
+      "mecca",
+      "defense",
+      "agreement",
+      "towards",
+      "multipolar",
+      "security",
+      "order",
+      "middle",
+      "east"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.newdelhitimes.com/mali-separatists-release-82-soldiers-including-some-held-since-a-major-attack-in-april/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "mali",
+      "separatists",
+      "release",
+      "soldiers",
+      "including",
+      "some",
+      "held",
+      "since",
+      "major",
+      "attack",
+      "april"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theweek.in/news/middle-east/2026/08/19/israels-strike-on-syria-a-costly-deterrent-against-turkey.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "middle",
+      "east",
+      "2026",
+      "israels",
+      "strike",
+      "syria",
+      "costly",
+      "deterrent",
+      "against",
+      "turkey.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ibtimes.co.uk/vietnamese-pastor-sentenced-religious-persecution-1815100",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "vietnamese",
+      "pastor",
+      "sentenced",
+      "religious",
+      "persecution",
+      "1815100"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/894534/russians-pre-announce-oreshnik-strike-on-bae-systems-lavrov-i-pity-britain-for-what-will-follow",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "894534",
+      "russians",
+      "pre",
+      "announce",
+      "oreshnik",
+      "strike",
+      "bae",
+      "systems",
+      "lavrov",
+      "pity",
+      "britain",
+      "for",
+      "what",
+      "will",
+      "follow"
     ]
   }
 }
