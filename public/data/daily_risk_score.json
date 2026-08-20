@@ -1,160 +1,104 @@
 {
-  "EGY": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://grenadachronicle.com/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow/",
+  "CHL": {
+    "risk_score": 2.22,
+    "count": 3,
+    "top_news": "https://dominicantoday.com/residents-protest-in-licey-al-medio-demanding-justice-for-carolay-taveras/",
     "event_codes": {
-      "19": 6
+      "14": 2,
+      "15": 1
     },
     "keywords": [
-      "can",
-      "middle",
-      "eastern",
-      "powers",
-      "unite",
-      "libya",
-      "years",
-      "after",
-      "gaddafi",
-      "overthrow"
+      "residents",
+      "protest",
+      "licey",
+      "medio",
+      "demanding",
+      "justice",
+      "for",
+      "carolay",
+      "taveras"
     ]
   },
   "ISR": {
-    "risk_score": 17.14,
-    "count": 20,
-    "top_news": "https://rsf.org/en/west-bank-israeli-army-escalates-violence-against-palestinian-journalists",
-    "event_codes": {
-      "17": 8,
-      "18": 7,
-      "19": 5
-    },
-    "keywords": [
-      "west",
-      "bank",
-      "israeli",
-      "army",
-      "escalates",
-      "violence",
-      "against",
-      "palestinian",
-      "journalists"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.9,
+    "risk_score": 2.95,
     "count": 4,
-    "top_news": "https://grenadachronicle.com/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow/",
+    "top_news": "https://cheknews.ca/canada-silent-as-israel-clears-itself-in-death-of-aid-workers-including-a-canadian-1343084/",
     "event_codes": {
-      "14": 3,
-      "19": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "can",
-      "middle",
-      "eastern",
-      "powers",
-      "unite",
-      "libya",
-      "years",
-      "after",
-      "gaddafi",
-      "overthrow"
+      "canada",
+      "silent",
+      "israel",
+      "clears",
+      "itself",
+      "death",
+      "aid",
+      "workers",
+      "including",
+      "canadian",
+      "1343084"
     ]
   },
   "NGA": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202608200573.html",
+    "risk_score": 7.6,
+    "count": 10,
+    "top_news": "https://thealabamabaptist.org/violence-against-nigerian-believers-claims-ever-more-lives/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "17": 4,
+      "18": 4,
+      "19": 1,
+      "20": 1
     },
     "keywords": [
-      "stories",
-      "202608200573.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 7.35,
-    "count": 9,
-    "top_news": "https://rsf.org/en/west-bank-israeli-army-escalates-violence-against-palestinian-journalists",
-    "event_codes": {
-      "19": 6,
-      "17": 3
-    },
-    "keywords": [
-      "west",
-      "bank",
-      "israeli",
-      "army",
-      "escalates",
       "violence",
       "against",
-      "palestinian",
-      "journalists"
+      "nigerian",
+      "believers",
+      "claims",
+      "ever",
+      "more",
+      "lives"
     ]
   },
-  "QAT": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://grenadachronicle.com/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow/",
+  "SOM": {
+    "risk_score": 2.75,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "can",
-      "middle",
-      "eastern",
-      "powers",
-      "unite",
-      "libya",
-      "years",
-      "after",
-      "gaddafi",
-      "overthrow"
+      "gunmen",
+      "seize",
+      "tanker",
+      "off",
+      "yemen",
+      "amid",
+      "resurgence",
+      "somali",
+      "piracy"
     ]
   },
   "YEM": {
-    "risk_score": 3.0,
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-forces-carry-out-dozens-operations-against-houthis",
+    "top_news": "http://www.afghanistannews.net/news/279254592/us-vows-toughest-sanctions-in-history-against-iran",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "yemeni",
-      "government",
-      "forces",
-      "carry",
-      "out",
-      "dozens",
-      "operations",
-      "against",
-      "houthis"
-    ]
-  },
-  "ZAF": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/former-zambian-minister-kafwaya-killed-in-lusaka/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "channelafrica",
       "news",
-      "former",
-      "zambian",
-      "minister",
-      "kafwaya",
-      "killed",
-      "lusaka"
+      "279254592",
+      "vows",
+      "toughest",
+      "sanctions",
+      "history",
+      "against",
+      "iran"
     ]
   }
 }
