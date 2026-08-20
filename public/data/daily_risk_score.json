@@ -1,52 +1,72 @@
 {
-  "IRN": {
-    "risk_score": 2.05,
+  "ISR": {
+    "risk_score": 2.65,
     "count": 3,
-    "top_news": "https://www.ewtnnews.com/vatican/pope-leo-meets-lebanese-president-security-issues-at-center-of-talks",
+    "top_news": "http://www.australiannews.net/news/279254478/israel-admits-killing-five-year-old-hind-rajab-but-clears-troops-over-aid-worker-deaths",
     "event_codes": {
-      "14": 1,
-      "16": 1,
-      "19": 1
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "vatican",
-      "pope",
-      "leo",
-      "meets",
-      "lebanese",
-      "president",
-      "security",
-      "issues",
-      "center",
-      "talks"
+      "news",
+      "279254478",
+      "israel",
+      "admits",
+      "killing",
+      "five",
+      "year",
+      "old",
+      "hind",
+      "rajab",
+      "but",
+      "clears",
+      "troops",
+      "over",
+      "aid",
+      "worker",
+      "deaths"
     ]
   },
-  "ISR": {
-    "risk_score": 2.64,
-    "count": 3,
-    "top_news": "https://ejewishphilanthropy.com/lauder-foundation-announces-preparations-to-sunset-support-for-seven-flagship-school-systems-with-75-million-send-off-gift/",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.radiokerry.ie/news/gardai-seeking-extradition-warrant-for-person-of-interest-in-jamey-carney-murder-investigation-495763",
     "event_codes": {
-      "15": 1,
-      "17": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "lauder",
-      "foundation",
-      "announces",
-      "preparations",
-      "sunset",
-      "support",
+      "news",
+      "gardai",
+      "seeking",
+      "extradition",
+      "warrant",
       "for",
-      "seven",
-      "flagship",
-      "school",
-      "systems",
-      "with",
-      "million",
-      "send",
-      "off",
-      "gift"
+      "person",
+      "interest",
+      "jamey",
+      "carney",
+      "murder",
+      "investigation",
+      "495763"
+    ]
+  },
+  "NGA": {
+    "risk_score": 13.66,
+    "count": 15,
+    "top_news": "https://theeagleonline.com.ng/we-cant-lift-nigerias-cpc-designation-us-congressman/",
+    "event_codes": {
+      "19": 9,
+      "15": 2,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "cant",
+      "lift",
+      "nigerias",
+      "cpc",
+      "designation",
+      "congressman"
     ]
   }
 }
