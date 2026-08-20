@@ -1,102 +1,84 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.thehindu.com/news/national/tamil-nadu/inquiry-causing-delay-in-repatriation-of-tamil-nadu-fishermans-body-from-saudi-arabia-minister-aadhav-arjuna/article71368417.ece",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "national",
-      "tamil",
-      "nadu",
-      "inquiry",
-      "causing",
-      "delay",
-      "repatriation",
-      "tamil",
-      "nadu",
-      "fishermans",
-      "body",
-      "from",
-      "saudi",
-      "arabia",
-      "minister",
-      "aadhav",
-      "arjuna",
-      "article71368417.ece"
-    ]
-  },
   "ISR": {
-    "risk_score": 20.18,
-    "count": 22,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/20/774714/Why-Iran-links-any-war-ending-deal-to-ending-US-Israeli-aggression-across-all-fronts",
+    "risk_score": 12.15,
+    "count": 16,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/20/hind-rajab-first-responder-says-investigations-must-encompass-all-violations-by-israel/",
     "event_codes": {
-      "17": 11,
-      "19": 10,
-      "20": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "774714",
-      "why",
-      "iran",
-      "links",
-      "any",
-      "war",
-      "ending",
-      "deal",
-      "ending",
-      "israeli",
-      "aggression",
-      "across",
-      "all",
-      "fronts"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.35,
-    "count": 4,
-    "top_news": "https://www.the-star.co.ke/news/2026-08-20-amisi-linda-mwananchi-was-not-started-to-endorse-kalonzo",
-    "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 7,
+      "19": 5,
+      "18": 4
     },
     "keywords": [
       "news",
+      "mena",
       "2026",
-      "amisi",
-      "linda",
-      "mwananchi",
-      "was",
-      "not",
-      "started",
-      "endorse",
-      "kalonzo"
+      "hind",
+      "rajab",
+      "first",
+      "responder",
+      "says",
+      "investigations",
+      "must",
+      "encompass",
+      "all",
+      "violations",
+      "israel"
     ]
   },
-  "YEM": {
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://punchng.com/army-recovers-ak-47-rifles-ammunition-in-plateau/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "army",
+      "recovers",
+      "rifles",
+      "ammunition",
+      "plateau"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.vanguardngr.com/2026/08/iran-guards-say-saudi-arabia-wont-be-able-to-contain-yemens-houthis/",
+    "top_news": "https://tradearabia.com:443/News/466707/Zylog-GreenShield-targets-GCC-growth-as-mega-projects-drive-waterproofing-demand/CONS",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "iran",
-      "guards",
-      "say",
-      "saudi",
-      "arabia",
-      "wont",
-      "able",
-      "contain",
-      "yemens",
-      "houthis"
+      "news",
+      "466707",
+      "zylog",
+      "greenshield",
+      "targets",
+      "gcc",
+      "growth",
+      "mega",
+      "projects",
+      "drive",
+      "waterproofing",
+      "demand",
+      "cons"
+    ]
+  },
+  "THA": {
+    "risk_score": 8.3,
+    "count": 11,
+    "top_news": "https://www.chiangraitimes.com/visas-immigration/visa-overstay-chiang-rai/",
+    "event_codes": {
+      "19": 6,
+      "17": 4,
+      "16": 1
+    },
+    "keywords": [
+      "visas",
+      "immigration",
+      "visa",
+      "overstay",
+      "chiang",
+      "rai"
     ]
   }
 }
