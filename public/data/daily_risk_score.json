@@ -1,152 +1,55 @@
 {
-  "ECU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://ktvz.com/news/national-world/cnn-world/2026/08/19/five-americans-ecuador-intelligence-chief-killed-in-helicopter-crash-in-kenya/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "national",
-      "world",
-      "cnn",
-      "world",
-      "2026",
-      "five",
-      "americans",
-      "ecuador",
-      "intelligence",
-      "chief",
-      "killed",
-      "helicopter",
-      "crash",
-      "kenya"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://dominicanrepublicpost.com/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts/",
-    "event_codes": {
-      "19": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "uss",
-      "lincoln",
-      "woes",
-      "highlight",
-      "navy",
-      "limits",
-      "prolonged",
-      "iran",
-      "war",
-      "experts"
-    ]
-  },
   "ISR": {
-    "risk_score": 25.6,
-    "count": 31,
-    "top_news": "https://www.gdnonline.com:443/Details/1403950/Military-to-investigate-tragic-killing-of-girl,-5",
+    "risk_score": 37.86,
+    "count": 40,
+    "top_news": "https://aa.com.tr/en/middle-east/2-palestinian-women-injured-as-israeli-raids-occupier-attacks-escalate-across-west-bank/4032257",
     "event_codes": {
-      "19": 17,
-      "17": 8,
-      "16": 4,
-      "18": 2
+      "19": 31,
+      "17": 5,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "details",
-      "1403950",
-      "military",
-      "investigate",
-      "tragic",
-      "killing",
-      "girl,"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wfmj.com/news/consumer/safari-helicopter-crashes-in-northern-kenya-killing-7-people-including-5-americans/article_9b9ed7d1-a2e9-5db8-9e03-7814b3340561.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "consumer",
-      "safari",
-      "helicopter",
-      "crashes",
-      "northern",
-      "kenya",
-      "killing",
-      "people",
-      "including",
-      "americans",
-      "article",
-      "9b9ed7d1",
-      "a2e9",
-      "5db8",
-      "9e03",
-      "7814b3340561.html"
+      "middle",
+      "east",
+      "palestinian",
+      "women",
+      "injured",
+      "israeli",
+      "raids",
+      "occupier",
+      "attacks",
+      "escalate",
+      "across",
+      "west",
+      "bank",
+      "4032257"
     ]
   },
   "PSE": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/world/articles/france-says-west-bank-violence-132443777.html",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-forces-raid-west-bank-towns-as-occupiers-target-palestinian-homes-carry-out-demolitions/4032255",
     "event_codes": {
-      "16": 3
+      "19": 8
     },
     "keywords": [
-      "news",
-      "world",
-      "articles",
-      "france",
-      "says",
+      "middle",
+      "east",
+      "israeli",
+      "forces",
+      "raid",
       "west",
       "bank",
-      "violence",
-      "132443777.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 14.37,
-    "count": 22,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-906044",
-    "event_codes": {
-      "17": 14,
-      "19": 6,
-      "14": 1,
-      "15": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "906044"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.34,
-    "count": 4,
-    "top_news": "http://www.jpost.com/israel-news/defense-news/article-906044",
-    "event_codes": {
-      "15": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "906044"
+      "towns",
+      "occupiers",
+      "target",
+      "palestinian",
+      "homes",
+      "carry",
+      "out",
+      "demolitions",
+      "4032255"
     ]
   }
 }
