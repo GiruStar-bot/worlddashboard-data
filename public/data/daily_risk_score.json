@@ -1,106 +1,152 @@
 {
-  "ARE": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.irishtimes.com/crime-law/courts/2026/08/19/kinahan-lieutenant-sean-mcgovern-sues-state-over-detention-in-portlaoise-prison/",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://ktvz.com/news/national-world/cnn-world/2026/08/19/five-americans-ecuador-intelligence-chief-killed-in-helicopter-crash-in-kenya/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "crime",
-      "law",
-      "courts",
+      "news",
+      "national",
+      "world",
+      "cnn",
+      "world",
       "2026",
-      "kinahan",
-      "lieutenant",
-      "sean",
-      "mcgovern",
-      "sues",
-      "state",
-      "over",
-      "detention",
-      "portlaoise",
-      "prison"
+      "five",
+      "americans",
+      "ecuador",
+      "intelligence",
+      "chief",
+      "killed",
+      "helicopter",
+      "crash",
+      "kenya"
     ]
   },
   "IRN": {
-    "risk_score": 11.31,
-    "count": 15,
-    "top_news": "https://www.breitbart.com/national-security/2026/08/19/uae-suspends-all-trade-with-fellow-brics-member-iran-after-latest-missile-attack/",
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://dominicanrepublicpost.com/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts/",
     "event_codes": {
-      "14": 5,
-      "19": 4,
-      "15": 3,
-      "16": 2,
-      "18": 1
+      "19": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
-      "national",
-      "security",
-      "2026",
-      "uae",
-      "suspends",
-      "all",
-      "trade",
-      "with",
-      "fellow",
-      "brics",
-      "member",
+      "uss",
+      "lincoln",
+      "woes",
+      "highlight",
+      "navy",
+      "limits",
+      "prolonged",
       "iran",
-      "after",
-      "latest",
-      "missile",
-      "attack"
+      "war",
+      "experts"
     ]
   },
   "ISR": {
-    "risk_score": 9.02,
-    "count": 11,
-    "top_news": "https://www.gdnonline.com:443/Details/1403949",
+    "risk_score": 25.6,
+    "count": 31,
+    "top_news": "https://www.gdnonline.com:443/Details/1403950/Military-to-investigate-tragic-killing-of-girl,-5",
     "event_codes": {
-      "19": 6,
-      "14": 2,
-      "17": 2,
-      "15": 1
+      "19": 17,
+      "17": 8,
+      "16": 4,
+      "18": 2
     },
     "keywords": [
       "details",
-      "1403949"
+      "1403950",
+      "military",
+      "investigate",
+      "tragic",
+      "killing",
+      "girl,"
     ]
   },
-  "NGA": {
-    "risk_score": 8.0,
-    "count": 10,
-    "top_news": "https://punchng.com/tcn-upgrades-four-lagos-substations-to-improve-power-supply/",
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wfmj.com/news/consumer/safari-helicopter-crashes-in-northern-kenya-killing-7-people-including-5-americans/article_9b9ed7d1-a2e9-5db8-9e03-7814b3340561.html",
     "event_codes": {
-      "18": 7,
-      "17": 3
+      "19": 2
     },
     "keywords": [
-      "tcn",
-      "upgrades",
-      "four",
-      "lagos",
-      "substations",
-      "improve",
-      "power",
-      "supply"
+      "news",
+      "consumer",
+      "safari",
+      "helicopter",
+      "crashes",
+      "northern",
+      "kenya",
+      "killing",
+      "people",
+      "including",
+      "americans",
+      "article",
+      "9b9ed7d1",
+      "a2e9",
+      "5db8",
+      "9e03",
+      "7814b3340561.html"
     ]
   },
-  "QAT": {
-    "risk_score": 3.65,
+  "PSE": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/world/articles/france-says-west-bank-violence-132443777.html",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "france",
+      "says",
+      "west",
+      "bank",
+      "violence",
+      "132443777.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 14.37,
+    "count": 22,
+    "top_news": "http://www.jpost.com/israel-news/defense-news/article-906044",
+    "event_codes": {
+      "17": 14,
+      "19": 6,
+      "14": 1,
+      "15": 1
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "906044"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.34,
     "count": 4,
-    "top_news": "https://www.ncspin.com:443/real-journalism-requires-freedom",
+    "top_news": "http://www.jpost.com/israel-news/defense-news/article-906044",
     "event_codes": {
-      "19": 3,
-      "14": 1
+      "15": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "real",
-      "journalism",
-      "requires",
-      "freedom"
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "906044"
     ]
   }
 }
