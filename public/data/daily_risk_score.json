@@ -1,77 +1,72 @@
 {
   "IRN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.khaama.com/iran-executes-afghan-national-over-isfahan-protest-case/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.latintimes.com/uae-cuts-trade-ties-iran-nato-warns-its-prepared-address-any-threat-598684",
     "event_codes": {
-      "18": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "iran",
-      "executes",
-      "afghan",
-      "national",
-      "over",
-      "isfahan",
-      "protest",
-      "case"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.79,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war",
-    "event_codes": {
-      "17": 4,
       "19": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "gaza",
-      "holds",
-      "mass",
-      "funeral",
-      "for",
-      "palestinians",
-      "killed",
-      "israeli",
-      "genocidal",
-      "war"
+      "uae",
+      "cuts",
+      "trade",
+      "ties",
+      "iran",
+      "nato",
+      "warns",
+      "its",
+      "prepared",
+      "address",
+      "any",
+      "threat",
+      "598684"
     ]
   },
-  "SOM": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/health/2026/08/20/somalia-faces-another-hunger-crisis-and-the-un-food-agency-head-says-it-has-far-less-funds-to-help",
+  "ISR": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/node/2655331/world",
     "event_codes": {
-      "19": 6
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "health",
-      "2026",
-      "somalia",
-      "faces",
-      "another",
-      "hunger",
-      "crisis",
-      "and",
-      "the",
-      "food",
-      "agency",
-      "head",
-      "says",
-      "has",
-      "far",
-      "less",
-      "funds",
-      "help"
+      "node",
+      "2655331",
+      "world"
+    ]
+  },
+  "SDN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/abduction-turns-deadly-in-imehejek-as-teenager-is-killed",
+    "event_codes": {
+      "18": 5,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "abduction",
+      "turns",
+      "deadly",
+      "imehejek",
+      "teenager",
+      "killed"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/node/2655328/middle-east",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2655328",
+      "middle",
+      "east"
     ]
   }
 }
