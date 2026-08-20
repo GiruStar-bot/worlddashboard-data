@@ -1,40 +1,42 @@
 {
-  "ISR": {
-    "risk_score": 4.8,
-    "count": 8,
-    "top_news": "https://www.wsws.org/en/articles/2026/08/20/jgvs-a20.html",
+  "IRN": {
+    "risk_score": 6.9,
+    "count": 9,
+    "top_news": "https://www.al-monitor.com/originals/2026/08/more-confrontational-irans-new-hardline-security-leadership",
     "event_codes": {
-      "17": 6,
-      "18": 2
+      "17": 3,
+      "14": 2,
+      "19": 2,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "articles",
+      "originals",
       "2026",
-      "jgvs",
-      "a20.html"
+      "more",
+      "confrontational",
+      "irans",
+      "new",
+      "hardline",
+      "security",
+      "leadership"
     ]
   },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://economictimes.indiatimes.com/news/international/global-trends/as-election-looms-netanyahu-puts-turkey-in-israels-crosshairs/articleshow/133363759.cms",
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.express.co.uk/news/world/2240742/trump-economic-d-day-iran",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
       "news",
-      "international",
-      "global",
-      "trends",
-      "election",
-      "looms",
-      "netanyahu",
-      "puts",
-      "turkey",
-      "israels",
-      "crosshairs",
-      "articleshow",
-      "133363759.cms"
+      "world",
+      "2240742",
+      "trump",
+      "economic",
+      "day",
+      "iran"
     ]
   }
 }
