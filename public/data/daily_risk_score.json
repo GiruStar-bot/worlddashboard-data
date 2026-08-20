@@ -1,22 +1,40 @@
 {
-  "NGA": {
+  "ISR": {
+    "risk_score": 4.8,
+    "count": 8,
+    "top_news": "https://www.wsws.org/en/articles/2026/08/20/jgvs-a20.html",
+    "event_codes": {
+      "17": 6,
+      "18": 2
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "jgvs",
+      "a20.html"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://thesun.ng/elderly-man-murdered-in-ebonyi-after-praying-for-apga-reps-candidate/",
+    "top_news": "https://economictimes.indiatimes.com/news/international/global-trends/as-election-looms-netanyahu-puts-turkey-in-israels-crosshairs/articleshow/133363759.cms",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "elderly",
-      "man",
-      "murdered",
-      "ebonyi",
-      "after",
-      "praying",
-      "for",
-      "apga",
-      "reps",
-      "candidate"
+      "news",
+      "international",
+      "global",
+      "trends",
+      "election",
+      "looms",
+      "netanyahu",
+      "puts",
+      "turkey",
+      "israels",
+      "crosshairs",
+      "articleshow",
+      "133363759.cms"
     ]
   }
 }
