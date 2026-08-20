@@ -1,48 +1,149 @@
 {
-  "IRN": {
-    "risk_score": 2.05,
+  "BRA": {
+    "risk_score": 2.55,
     "count": 3,
-    "top_news": "https://www.newstribune.com/news/2026/aug/20/commentary-violence-by-extremist-israeli-settlers/",
+    "top_news": "https://www.southwestfarmer.co.uk/news/26480076.uk-leaves-door-open-brazilian-beef-restricted-eu/",
     "event_codes": {
-      "14": 1,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "26480076.uk",
+      "leaves",
+      "door",
+      "open",
+      "brazilian",
+      "beef",
+      "restricted"
+    ]
+  },
+  "CMR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-unnews03.htm",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260819",
+      "unnews03.htm"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.8,
+    "count": 8,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260819-rferl01.htm",
+    "event_codes": {
+      "17": 6,
       "16": 1,
       "19": 1
     },
     "keywords": [
+      "wmd",
+      "library",
       "news",
+      "iran",
       "2026",
-      "aug",
-      "commentary",
-      "violence",
-      "extremist",
-      "israeli",
-      "settlers"
+      "iran",
+      "260819",
+      "rferl01.htm"
     ]
   },
   "ISR": {
-    "risk_score": 14.75,
-    "count": 20,
-    "top_news": "https://www.sbs.com.au/news/article/albanese-wanted-full-accountability-from-israel-instead-australia-is-outraged/4gkrntmbm",
+    "risk_score": 11.76,
+    "count": 15,
+    "top_news": "https://themedialine.org/headlines/mossad-chief-contacted-syria-before-airbase-strike-katz-warns-turkey-against-dangerous-adventures/",
     "event_codes": {
-      "19": 7,
-      "14": 5,
-      "17": 4,
-      "16": 3,
-      "18": 1
+      "19": 8,
+      "15": 3,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "headlines",
+      "mossad",
+      "chief",
+      "contacted",
+      "syria",
+      "before",
+      "airbase",
+      "strike",
+      "katz",
+      "warns",
+      "turkey",
+      "against",
+      "dangerous",
+      "adventures"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.93,
+    "count": 11,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/904198-anambra-community-cries-to-tinubu-soludo-over-planned-demolition-of-houses-for-power-project.html",
+    "event_codes": {
+      "17": 6,
+      "14": 5
     },
     "keywords": [
       "news",
-      "article",
-      "albanese",
-      "wanted",
-      "full",
-      "accountability",
-      "from",
-      "israel",
-      "instead",
-      "australia",
-      "outraged",
-      "4gkrntmbm"
+      "top",
+      "news",
+      "904198",
+      "anambra",
+      "community",
+      "cries",
+      "tinubu",
+      "soludo",
+      "over",
+      "planned",
+      "demolition",
+      "houses",
+      "for",
+      "power",
+      "project.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.89,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-unocha01.htm",
+    "event_codes": {
+      "15": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260819",
+      "unocha01.htm"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260819-unocha03.htm",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "military",
+      "library",
+      "news",
+      "2026",
+      "mil",
+      "260819",
+      "unocha03.htm"
     ]
   }
 }
