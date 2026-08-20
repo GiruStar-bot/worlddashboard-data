@@ -1,99 +1,160 @@
 {
-  "ISR": {
-    "risk_score": 2.22,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/431970",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows",
     "event_codes": {
-      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "are",
+      "hormuz",
+      "ships",
+      "more",
+      "willing",
+      "defy",
+      "iran",
+      "the",
+      "what",
+      "data",
+      "shows"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://www.durangoherald.com/articles/associated-press/israels-military-to-investigate-gaza-attacks-and-other-major-developments-in-the-middle-east/",
+    "event_codes": {
+      "19": 3,
       "17": 2
     },
     "keywords": [
-      "news",
-      "431970"
+      "articles",
+      "associated",
+      "press",
+      "israels",
+      "military",
+      "investigate",
+      "gaza",
+      "attacks",
+      "and",
+      "other",
+      "major",
+      "developments",
+      "the",
+      "middle",
+      "east"
     ]
   },
-  "LBN": {
-    "risk_score": 6.1,
-    "count": 8,
-    "top_news": "https://www.naharnet.com/stories/en/321948-berri-says-only-trump-can-compel-israel-to-end-its-war",
+  "IRQ": {
+    "risk_score": 3.8,
+    "count": 5,
+    "top_news": "https://www.durangoherald.com/articles/associated-press/israels-military-to-investigate-gaza-attacks-and-other-major-developments-in-the-middle-east/",
     "event_codes": {
-      "15": 5,
-      "20": 2,
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "articles",
+      "associated",
+      "press",
+      "israels",
+      "military",
+      "investigate",
+      "gaza",
+      "attacks",
+      "and",
+      "other",
+      "major",
+      "developments",
+      "the",
+      "middle",
+      "east"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.45,
+    "count": 9,
+    "top_news": "https://sana.sy/en/international/2337464/",
+    "event_codes": {
+      "19": 7,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "international",
+      "2337464"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.92,
+    "count": 6,
+    "top_news": "https://www.kenyan-post.com/2026/08/how-phone-stolen-by-motorbike-riding.html",
+    "event_codes": {
+      "19": 5,
       "17": 1
     },
     "keywords": [
-      "stories",
-      "321948",
-      "berri",
-      "says",
-      "only",
-      "trump",
-      "can",
-      "compel",
-      "israel",
-      "end",
-      "its",
-      "war"
+      "2026",
+      "how",
+      "phone",
+      "stolen",
+      "motorbike",
+      "riding.html"
     ]
   },
-  "NGA": {
-    "risk_score": 9.8,
-    "count": 11,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/904168-military-moves-plateau-headquarters-after-killings.html",
+  "LBN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://sana.sy/en/international/2337464/",
     "event_codes": {
-      "19": 7,
-      "17": 2,
-      "18": 2
+      "19": 4
     },
     "keywords": [
-      "news",
-      "top",
-      "news",
-      "904168",
-      "military",
-      "moves",
-      "plateau",
-      "headquarters",
-      "after",
-      "killings.html"
+      "international",
+      "2337464"
     ]
   },
-  "SAU": {
-    "risk_score": 2.95,
+  "PSE": {
+    "risk_score": 2.76,
     "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/431967",
+    "top_news": "https://www.durangoherald.com/articles/associated-press/ap-investigation-shows-how-banned-goods-are-smuggled-into-gaza-and-millions-of-dollars-change-han/",
     "event_codes": {
-      "19": 3
+      "17": 3
+    },
+    "keywords": [
+      "articles",
+      "associated",
+      "press",
+      "investigation",
+      "shows",
+      "how",
+      "banned",
+      "goods",
+      "are",
+      "smuggled",
+      "into",
+      "gaza",
+      "and",
+      "millions",
+      "dollars",
+      "change",
+      "han"
+    ]
+  },
+  "ZAF": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o",
+    "event_codes": {
+      "19": 5
     },
     "keywords": [
       "news",
-      "431967"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wvgazettemail.com/opinion/editorial/guest-editorial-no-quick-escape-from-consequences-of-iran-war/article_cf966069-9fee-4560-85de-57f3ebaa6db8.html",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "opinion",
-      "editorial",
-      "guest",
-      "editorial",
-      "quick",
-      "escape",
-      "from",
-      "consequences",
-      "iran",
-      "war",
-      "article",
-      "cf966069",
-      "9fee",
-      "4560",
-      "85de",
-      "57f3ebaa6db8.html"
+      "articles",
+      "cg5ljlzedd5o"
     ]
   }
 }
