@@ -1,182 +1,99 @@
 {
-  "ARE": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
+  "ISR": {
+    "risk_score": 2.22,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/431970",
     "event_codes": {
-      "19": 4,
+      "16": 2,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "431970"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.1,
+    "count": 8,
+    "top_news": "https://www.naharnet.com/stories/en/321948-berri-says-only-trump-can-compel-israel-to-end-its-war",
+    "event_codes": {
+      "15": 5,
+      "20": 2,
       "17": 1
     },
     "keywords": [
-      "story",
-      "2624891",
-      "dar",
+      "stories",
+      "321948",
+      "berri",
       "says",
-      "six",
-      "pakistani",
-      "sailors",
-      "return",
-      "safely",
-      "after",
-      "houthi",
-      "attack",
-      "two",
-      "bodies",
-      "repatriated"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "story",
-      "2624891",
-      "dar",
-      "says",
-      "six",
-      "pakistani",
-      "sailors",
-      "return",
-      "safely",
-      "after",
-      "houthi",
-      "attack",
-      "two",
-      "bodies",
-      "repatriated"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.3,
-    "count": 25,
-    "top_news": "https://www.goulburnpost.com.au/story/9333812/family-of-slain-gaza-aid-worker-waiting-for-justice/",
-    "event_codes": {
-      "19": 17,
-      "18": 8
-    },
-    "keywords": [
-      "story",
-      "9333812",
-      "family",
-      "slain",
-      "gaza",
-      "aid",
-      "worker",
-      "waiting",
-      "for",
-      "justice"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://aliran.com/newsletters/blue-green-or-purple-malaysias-hybrid-islamic-secular-state-has-no-fixed-colour",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "newsletters",
-      "blue",
-      "green",
-      "purple",
-      "malaysias",
-      "hybrid",
-      "islamic",
-      "secular",
-      "state",
-      "has",
-      "fixed",
-      "colour"
+      "only",
+      "trump",
+      "can",
+      "compel",
+      "israel",
+      "end",
+      "its",
+      "war"
     ]
   },
   "NGA": {
-    "risk_score": 18.32,
-    "count": 23,
-    "top_news": "https://dailytrust.com/katsina-community-deserted-as-over-3000-residents-flee-attacks/",
+    "risk_score": 9.8,
+    "count": 11,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/904168-military-moves-plateau-headquarters-after-killings.html",
     "event_codes": {
-      "18": 7,
       "19": 7,
-      "17": 5,
-      "14": 2,
-      "15": 1,
-      "16": 1
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "katsina",
-      "community",
-      "deserted",
-      "over",
-      "3000",
-      "residents",
-      "flee",
-      "attacks"
+      "news",
+      "top",
+      "news",
+      "904168",
+      "military",
+      "moves",
+      "plateau",
+      "headquarters",
+      "after",
+      "killings.html"
     ]
   },
-  "SYR": {
-    "risk_score": 3.0,
+  "SAU": {
+    "risk_score": 2.95,
     "count": 3,
-    "top_news": "https://www.hurriyetdailynews.com/us-moves-to-prevent-turkiye-israel-military-clash-in-syria-225823",
+    "top_news": "https://www.israelnationalnews.com/news/431967",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "moves",
-      "prevent",
-      "turkiye",
-      "israel",
-      "military",
-      "clash",
-      "syria",
-      "225823"
+      "news",
+      "431967"
     ]
   },
-  "YEM": {
+  "TUR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
+    "top_news": "https://www.wvgazettemail.com/opinion/editorial/guest-editorial-no-quick-escape-from-consequences-of-iran-war/article_cf966069-9fee-4560-85de-57f3ebaa6db8.html",
     "event_codes": {
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "story",
-      "2624891",
-      "dar",
-      "says",
-      "six",
-      "pakistani",
-      "sailors",
-      "return",
-      "safely",
-      "after",
-      "houthi",
-      "attack",
-      "two",
-      "bodies",
-      "repatriated"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thestandard.co.zw/standard-style/article/200059148/music-fraternity-rallies-behind-boss-khumalo",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "standard",
-      "style",
+      "opinion",
+      "editorial",
+      "guest",
+      "editorial",
+      "quick",
+      "escape",
+      "from",
+      "consequences",
+      "iran",
+      "war",
       "article",
-      "200059148",
-      "music",
-      "fraternity",
-      "rallies",
-      "behind",
-      "boss",
-      "khumalo"
+      "cf966069",
+      "9fee",
+      "4560",
+      "85de",
+      "57f3ebaa6db8.html"
     ]
   }
 }
