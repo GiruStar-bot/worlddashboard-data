@@ -1,145 +1,95 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://variety.com/2026/film/news/ava-duvernay-14th-documentary-netflix-release-date-1236838623/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "film",
-      "news",
-      "ava",
-      "duvernay",
-      "14th",
-      "documentary",
-      "netflix",
-      "release",
-      "date",
-      "1236838623"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.islamicinvitationturkey.com/iraqs-pmu-praises-irans-resilience-amid-quasi-global-war-and-persistent-challenges/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "iraqs",
-      "pmu",
-      "praises",
-      "irans",
-      "resilience",
-      "amid",
-      "quasi",
-      "global",
-      "war",
-      "and",
-      "persistent",
-      "challenges"
-    ]
-  },
   "ISR": {
-    "risk_score": 11.1,
-    "count": 13,
-    "top_news": "https://www.clevelandjewishnews.com/jta/remains-of-last-israeli-soldier-missing-from-first-lebanon-war-s-sultan-yacoub-battle-found/article_0a5a37da-e55b-5124-939b-43b7b1eb307e.html",
-    "event_codes": {
-      "19": 6,
-      "18": 4,
-      "17": 3
-    },
-    "keywords": [
-      "jta",
-      "remains",
-      "last",
-      "israeli",
-      "soldier",
-      "missing",
-      "from",
-      "first",
-      "lebanon",
-      "war",
-      "sultan",
-      "yacoub",
-      "battle",
-      "found",
-      "article",
-      "0a5a37da",
-      "e55b",
-      "5124",
-      "939b",
-      "43b7b1eb307e.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.8,
+    "risk_score": 2.92,
     "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/17-old-boy-fatally-shot-030853688.html",
+    "top_news": "https://www.aol.co.uk/articles/west-bank-village-siege-fuels-152007000.html",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
       "articles",
-      "old",
-      "boy",
-      "fatally",
-      "shot",
-      "030853688.html"
-    ]
-  },
-  "LBN": {
-    "risk_score": 5.72,
-    "count": 6,
-    "top_news": "https://www.clevelandjewishnews.com/jta/remains-of-last-israeli-soldier-missing-from-first-lebanon-war-s-sultan-yacoub-battle-found/article_0a5a37da-e55b-5124-939b-43b7b1eb307e.html",
-    "event_codes": {
-      "19": 5,
-      "15": 1
-    },
-    "keywords": [
-      "jta",
-      "remains",
-      "last",
-      "israeli",
-      "soldier",
-      "missing",
-      "from",
-      "first",
-      "lebanon",
-      "war",
-      "sultan",
-      "yacoub",
-      "battle",
-      "found",
-      "article",
-      "0a5a37da",
-      "e55b",
-      "5124",
-      "939b",
-      "43b7b1eb307e.html"
+      "west",
+      "bank",
+      "village",
+      "siege",
+      "fuels",
+      "152007000.html"
     ]
   },
   "NGA": {
-    "risk_score": 3.0,
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
+    "top_news": "https://hallmarknews.com/moore-opposes-removal-of-nigeria-from-us-cpc-list-over-attacks-on-christians/",
     "event_codes": {
-      "19": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "cannot",
-      "remove",
-      "nigerias",
-      "cpc",
-      "tag",
-      "congressman",
       "moore",
-      "insists"
+      "opposes",
+      "removal",
+      "nigeria",
+      "from",
+      "cpc",
+      "list",
+      "over",
+      "attacks",
+      "christians"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.aol.co.uk/articles/west-bank-village-siege-fuels-152007000.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "articles",
+      "west",
+      "bank",
+      "village",
+      "siege",
+      "fuels",
+      "152007000.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://dailynews.co.tz/will-aus-return-to-khartoum-bring-sudan-closer-to-peace/",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "will",
+      "aus",
+      "return",
+      "khartoum",
+      "bring",
+      "sudan",
+      "closer",
+      "peace"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://observer.ug/news/south-sudanese-army-denies-abducting-ugandan-drivers/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "south",
+      "sudanese",
+      "army",
+      "denies",
+      "abducting",
+      "ugandan",
+      "drivers"
     ]
   }
 }
