@@ -1,47 +1,64 @@
 {
   "IRN": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-16067767/Transgender-Green-activist-elected-female-rep.html",
+    "risk_score": 7.8,
+    "count": 10,
+    "top_news": "https://www.naturalnews.com/2026-08-20-iran-warns-gulf-nations-against-helping-america.html",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "19": 5,
+      "17": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "article",
-      "16067767",
-      "transgender",
-      "green",
-      "activist",
-      "elected",
-      "female",
-      "rep.html"
+      "2026",
+      "iran",
+      "warns",
+      "gulf",
+      "nations",
+      "against",
+      "helping",
+      "america.html"
     ]
   },
   "ISR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-block-ramallah-governor-following-slain-teens-funeral",
+    "risk_score": 5.02,
+    "count": 7,
+    "top_news": "https://www.naturalnews.com/2026-08-20-sanctions-iccjudges-washingtons-assualt-international-justice.html",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "17": 3,
+      "19": 2,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "forces",
-      "block",
-      "ramallah",
-      "governor",
-      "following",
-      "slain",
-      "teens",
-      "funeral"
+      "2026",
+      "sanctions",
+      "iccjudges",
+      "washingtons",
+      "assualt",
+      "international",
+      "justice.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 6.12,
+    "count": 11,
+    "top_news": "http://www.myanmarnews.net/news/279252229/syria-detains-ex-assad-regime-officer-sentenced-in-austria",
+    "event_codes": {
+      "17": 9,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "279252229",
+      "syria",
+      "detains",
+      "assad",
+      "regime",
+      "officer",
+      "sentenced",
+      "austria"
     ]
   }
 }
