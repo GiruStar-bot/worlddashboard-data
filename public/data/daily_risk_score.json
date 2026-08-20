@@ -1,28 +1,182 @@
 {
-  "NGA": {
-    "risk_score": 16.95,
-    "count": 24,
-    "top_news": "https://www.thisdaylive.com/2026/08/20/thugs-attack-adeleke-at-ataoja-palace-soon-after-gov-received-certificate-of-return/",
+  "ARE": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
     "event_codes": {
-      "17": 9,
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "story",
+      "2624891",
+      "dar",
+      "says",
+      "six",
+      "pakistani",
+      "sailors",
+      "return",
+      "safely",
+      "after",
+      "houthi",
+      "attack",
+      "two",
+      "bodies",
+      "repatriated"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "2624891",
+      "dar",
+      "says",
+      "six",
+      "pakistani",
+      "sailors",
+      "return",
+      "safely",
+      "after",
+      "houthi",
+      "attack",
+      "two",
+      "bodies",
+      "repatriated"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.3,
+    "count": 25,
+    "top_news": "https://www.goulburnpost.com.au/story/9333812/family-of-slain-gaza-aid-worker-waiting-for-justice/",
+    "event_codes": {
+      "19": 17,
+      "18": 8
+    },
+    "keywords": [
+      "story",
+      "9333812",
+      "family",
+      "slain",
+      "gaza",
+      "aid",
+      "worker",
+      "waiting",
+      "for",
+      "justice"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aliran.com/newsletters/blue-green-or-purple-malaysias-hybrid-islamic-secular-state-has-no-fixed-colour",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "newsletters",
+      "blue",
+      "green",
+      "purple",
+      "malaysias",
+      "hybrid",
+      "islamic",
+      "secular",
+      "state",
+      "has",
+      "fixed",
+      "colour"
+    ]
+  },
+  "NGA": {
+    "risk_score": 18.32,
+    "count": 23,
+    "top_news": "https://dailytrust.com/katsina-community-deserted-as-over-3000-residents-flee-attacks/",
+    "event_codes": {
+      "18": 7,
       "19": 7,
-      "14": 5,
-      "18": 2,
+      "17": 5,
+      "14": 2,
+      "15": 1,
       "16": 1
     },
     "keywords": [
-      "2026",
-      "thugs",
-      "attack",
-      "adeleke",
-      "ataoja",
-      "palace",
-      "soon",
+      "katsina",
+      "community",
+      "deserted",
+      "over",
+      "3000",
+      "residents",
+      "flee",
+      "attacks"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hurriyetdailynews.com/us-moves-to-prevent-turkiye-israel-military-clash-in-syria-225823",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "moves",
+      "prevent",
+      "turkiye",
+      "israel",
+      "military",
+      "clash",
+      "syria",
+      "225823"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://tribune.com.pk/story/2624891/dar-says-six-pakistani-sailors-return-safely-after-houthi-attack-two-bodies-repatriated",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "story",
+      "2624891",
+      "dar",
+      "says",
+      "six",
+      "pakistani",
+      "sailors",
+      "return",
+      "safely",
       "after",
-      "gov",
-      "received",
-      "certificate",
-      "return"
+      "houthi",
+      "attack",
+      "two",
+      "bodies",
+      "repatriated"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thestandard.co.zw/standard-style/article/200059148/music-fraternity-rallies-behind-boss-khumalo",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "standard",
+      "style",
+      "article",
+      "200059148",
+      "music",
+      "fraternity",
+      "rallies",
+      "behind",
+      "boss",
+      "khumalo"
     ]
   }
 }
