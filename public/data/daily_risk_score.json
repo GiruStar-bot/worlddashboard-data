@@ -1,72 +1,145 @@
 {
-  "IRN": {
+  "EGY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.latintimes.com/uae-cuts-trade-ties-iran-nato-warns-its-prepared-address-any-threat-598684",
+    "top_news": "https://variety.com/2026/film/news/ava-duvernay-14th-documentary-netflix-release-date-1236838623/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "uae",
-      "cuts",
-      "trade",
-      "ties",
-      "iran",
-      "nato",
-      "warns",
-      "its",
-      "prepared",
-      "address",
-      "any",
-      "threat",
-      "598684"
+      "2026",
+      "film",
+      "news",
+      "ava",
+      "duvernay",
+      "14th",
+      "documentary",
+      "netflix",
+      "release",
+      "date",
+      "1236838623"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.islamicinvitationturkey.com/iraqs-pmu-praises-irans-resilience-amid-quasi-global-war-and-persistent-challenges/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "iraqs",
+      "pmu",
+      "praises",
+      "irans",
+      "resilience",
+      "amid",
+      "quasi",
+      "global",
+      "war",
+      "and",
+      "persistent",
+      "challenges"
     ]
   },
   "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.arabnews.com/node/2655331/world",
+    "risk_score": 11.1,
+    "count": 13,
+    "top_news": "https://www.clevelandjewishnews.com/jta/remains-of-last-israeli-soldier-missing-from-first-lebanon-war-s-sultan-yacoub-battle-found/article_0a5a37da-e55b-5124-939b-43b7b1eb307e.html",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 6,
+      "18": 4,
+      "17": 3
     },
     "keywords": [
-      "node",
-      "2655331",
-      "world"
+      "jta",
+      "remains",
+      "last",
+      "israeli",
+      "soldier",
+      "missing",
+      "from",
+      "first",
+      "lebanon",
+      "war",
+      "sultan",
+      "yacoub",
+      "battle",
+      "found",
+      "article",
+      "0a5a37da",
+      "e55b",
+      "5124",
+      "939b",
+      "43b7b1eb307e.html"
     ]
   },
-  "SDN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/abduction-turns-deadly-in-imehejek-as-teenager-is-killed",
+  "JOR": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.yahoo.com/news/articles/17-old-boy-fatally-shot-030853688.html",
     "event_codes": {
-      "18": 5,
+      "18": 2,
       "19": 1
     },
     "keywords": [
       "news",
-      "article",
-      "abduction",
-      "turns",
-      "deadly",
-      "imehejek",
-      "teenager",
-      "killed"
+      "articles",
+      "old",
+      "boy",
+      "fatally",
+      "shot",
+      "030853688.html"
     ]
   },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/node/2655328/middle-east",
+  "LBN": {
+    "risk_score": 5.72,
+    "count": 6,
+    "top_news": "https://www.clevelandjewishnews.com/jta/remains-of-last-israeli-soldier-missing-from-first-lebanon-war-s-sultan-yacoub-battle-found/article_0a5a37da-e55b-5124-939b-43b7b1eb307e.html",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "15": 1
     },
     "keywords": [
-      "node",
-      "2655328",
-      "middle",
-      "east"
+      "jta",
+      "remains",
+      "last",
+      "israeli",
+      "soldier",
+      "missing",
+      "from",
+      "first",
+      "lebanon",
+      "war",
+      "sultan",
+      "yacoub",
+      "battle",
+      "found",
+      "article",
+      "0a5a37da",
+      "e55b",
+      "5124",
+      "939b",
+      "43b7b1eb307e.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "cannot",
+      "remove",
+      "nigerias",
+      "cpc",
+      "tag",
+      "congressman",
+      "moore",
+      "insists"
     ]
   }
 }
