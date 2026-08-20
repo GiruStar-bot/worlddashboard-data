@@ -1,55 +1,112 @@
 {
-  "ISR": {
-    "risk_score": 37.86,
-    "count": 40,
-    "top_news": "https://aa.com.tr/en/middle-east/2-palestinian-women-injured-as-israeli-raids-occupier-attacks-escalate-across-west-bank/4032257",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.tempo.co/read/2117891/helicopter-crash-kills-7-in-kenya-including-ecuador-spy-boss",
     "event_codes": {
-      "19": 31,
-      "17": 5,
-      "18": 3,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "palestinian",
-      "women",
-      "injured",
-      "israeli",
-      "raids",
-      "occupier",
-      "attacks",
-      "escalate",
-      "across",
-      "west",
-      "bank",
-      "4032257"
+      "read",
+      "2117891",
+      "helicopter",
+      "crash",
+      "kills",
+      "kenya",
+      "including",
+      "ecuador",
+      "spy",
+      "boss"
     ]
   },
-  "PSE": {
-    "risk_score": 8.0,
+  "IRN": {
+    "risk_score": 7.1,
     "count": 8,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-forces-raid-west-bank-towns-as-occupiers-target-palestinian-homes-carry-out-demolitions/4032255",
+    "top_news": "https://www.straitstimes.com/world/middle-east/trump-warns-of-economic-consequences-for-any-country-that-supports-iran",
     "event_codes": {
-      "19": 8
+      "19": 6,
+      "16": 2
     },
     "keywords": [
+      "world",
       "middle",
       "east",
-      "israeli",
-      "forces",
-      "raid",
-      "west",
-      "bank",
-      "towns",
-      "occupiers",
-      "target",
-      "palestinian",
-      "homes",
-      "carry",
-      "out",
-      "demolitions",
-      "4032255"
+      "trump",
+      "warns",
+      "economic",
+      "consequences",
+      "for",
+      "any",
+      "country",
+      "that",
+      "supports",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.haaretz.com/israel-news/israel-security/2026-08-20/ty-article/u-s-provides-206-million-for-gaza-force-despite-deadlocked-peace-plan/000001a0-1c47-dd2f-a1b6-7dcf54b80000",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "israel",
+      "security",
+      "2026",
+      "article",
+      "provides",
+      "206",
+      "million",
+      "for",
+      "gaza",
+      "force",
+      "despite",
+      "deadlocked",
+      "peace",
+      "plan",
+      "000001a0",
+      "1c47",
+      "dd2f",
+      "a1b6",
+      "7dcf54b80000"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.41,
+    "count": 11,
+    "top_news": "https://www.thisdaylive.com/2026/08/20/osun-the-cost-of-a-rehearsal/",
+    "event_codes": {
+      "15": 3,
+      "17": 3,
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "osun",
+      "the",
+      "cost",
+      "rehearsal"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.out.com/celebs/rosie-odonnell-jesse-watters",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "celebs",
+      "rosie",
+      "odonnell",
+      "jesse",
+      "watters"
     ]
   }
 }
