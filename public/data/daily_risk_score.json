@@ -1,95 +1,89 @@
 {
-  "BFA": {
+  "IRN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.africa.com/featuresopinion/ghana-and-burkina-faso-strengthen-security-along-key-trade-routes",
+    "top_news": "https://www.alternet.org/trump-iran-midterms-mess-republicans/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "featuresopinion",
-      "ghana",
-      "and",
-      "burkina",
-      "faso",
-      "strengthen",
-      "security",
-      "along",
-      "key",
-      "trade",
-      "routes"
+      "trump",
+      "iran",
+      "midterms",
+      "mess",
+      "republicans"
     ]
   },
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.bordermail.com.au/story/9334539/mediators-say-israeli-strikes-undermine-peace-efforts/",
+  "NGA": {
+    "risk_score": 7.74,
+    "count": 8,
+    "top_news": "https://dailypost.ng/2026/08/20/ogun-community-boils-as-police-allegedly-shoot-oro-festival-celebrant-dead/",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "story",
-      "9334539",
-      "mediators",
-      "say",
-      "israeli",
-      "strikes",
-      "undermine",
-      "peace",
-      "efforts"
+      "2026",
+      "ogun",
+      "community",
+      "boils",
+      "police",
+      "allegedly",
+      "shoot",
+      "oro",
+      "festival",
+      "celebrant",
+      "dead"
     ]
   },
-  "SDN": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.africa.com/top-10-news/sudans-army-reports-mass-defections-from-rival-rsf",
+    "top_news": "https://www.middle-east-online.com/en/houthis-say-they-attacked-najran-airport-aramco-facilities-saudi-arabia",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "top",
-      "news",
-      "sudans",
-      "army",
-      "reports",
-      "mass",
-      "defections",
-      "from",
-      "rival",
-      "rsf"
+      "houthis",
+      "say",
+      "they",
+      "attacked",
+      "najran",
+      "airport",
+      "aramco",
+      "facilities",
+      "saudi",
+      "arabia"
     ]
   },
-  "SOM": {
-    "risk_score": 2.45,
-    "count": 4,
-    "top_news": "https://wardheernews.com/a-fuel-tanker-seized-in-the-gulf-of-aden/",
+  "VNM": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.smh.com.au/goodfood/sydney-eating-out/exciting-flexible-fun-this-inspired-spot-flips-expectations-one-bite-and-sip-at-a-time-20260818-p60ph2.html",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "17": 5
     },
     "keywords": [
-      "fuel",
-      "tanker",
-      "seized",
-      "the",
-      "gulf",
-      "aden"
-    ]
-  },
-  "TCD": {
-    "risk_score": 7.47,
-    "count": 9,
-    "top_news": "https://english.news.cn/20260821/52afe799b563489aba92b25975b995a6/c.html",
-    "event_codes": {
-      "19": 5,
-      "16": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "20260821",
-      "52afe799b563489aba92b25975b995a6",
-      "c.html"
+      "goodfood",
+      "sydney",
+      "eating",
+      "out",
+      "exciting",
+      "flexible",
+      "fun",
+      "this",
+      "inspired",
+      "spot",
+      "flips",
+      "expectations",
+      "one",
+      "bite",
+      "and",
+      "sip",
+      "time",
+      "20260818",
+      "p60ph2.html"
     ]
   }
 }
