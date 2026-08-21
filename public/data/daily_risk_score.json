@@ -1,138 +1,91 @@
 {
   "IRN": {
-    "risk_score": 4.35,
-    "count": 5,
-    "top_news": "https://www.americanthinker.com/blog/2026/08/trump-quietly-reopens-hormuz/",
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
     "event_codes": {
-      "19": 3,
-      "16": 1,
+      "19": 6,
       "18": 1
     },
     "keywords": [
-      "blog",
-      "2026",
+      "live",
+      "updates",
+      "iran",
+      "war",
       "trump",
-      "quietly",
-      "reopens",
-      "hormuz"
+      "economic",
+      "crackdown"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.cbsnews.com/live-updates/iran-war-trump-economic-crackdown/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "live",
+      "updates",
+      "iran",
+      "war",
+      "trump",
+      "economic",
+      "crackdown"
     ]
   },
   "ISR": {
-    "risk_score": 11.95,
-    "count": 13,
-    "top_news": "https://www.israelnationalnews.com/news/432040",
+    "risk_score": 13.79,
+    "count": 15,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260820-unocha01.htm",
     "event_codes": {
       "19": 10,
-      "17": 2,
+      "17": 4,
       "18": 1
     },
     "keywords": [
+      "military",
+      "library",
       "news",
-      "432040"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.channelnewsasia.com/asia/malaysia-johor-bahru-singaporean-jailed-insulting-islam-quran-6333141",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "asia",
-      "malaysia",
-      "johor",
-      "bahru",
-      "singaporean",
-      "jailed",
-      "insulting",
-      "islam",
-      "quran",
-      "6333141"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://dailypost.ng/2026/08/21/police-seek-donations-for-mopol-officer-battling-brain-injury-after-on-duty-accident/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
       "2026",
-      "police",
-      "seek",
-      "donations",
-      "for",
-      "mopol",
-      "officer",
-      "battling",
-      "brain",
-      "injury",
-      "after",
-      "duty",
-      "accident"
+      "mil",
+      "260820",
+      "unocha01.htm"
     ]
   },
-  "PSE": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://www.i24news.tv/en/news/middle-east/palestinian-territories/artc-father-of-dizengoff-street-terrorist-killed-during-idf-operation-in-jenin",
+  "SAU": {
+    "risk_score": 5.44,
+    "count": 6,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260820-rferl01.htm",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "19": 4,
+      "15": 2
     },
     "keywords": [
+      "military",
+      "library",
       "news",
-      "middle",
-      "east",
-      "palestinian",
-      "territories",
-      "artc",
-      "father",
-      "dizengoff",
-      "street",
-      "terrorist",
-      "killed",
-      "during",
-      "idf",
-      "operation",
-      "jenin"
-    ]
-  },
-  "SOM": {
-    "risk_score": 9.0,
-    "count": 14,
-    "top_news": "https://www.indexoncensorship.org/2026/08/somalias-intelligence-agencies-are-becoming-the-countrys-new-censors/",
-    "event_codes": {
-      "17": 14
-    },
-    "keywords": [
       "2026",
-      "somalias",
-      "intelligence",
-      "agencies",
-      "are",
-      "becoming",
-      "the",
-      "countrys",
-      "new",
-      "censors"
+      "mil",
+      "260820",
+      "rferl01.htm"
     ]
   },
-  "TUR": {
-    "risk_score": 2.44,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/432042",
+  "YEM": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260820-irna01.htm",
     "event_codes": {
-      "15": 2,
-      "19": 1
+      "19": 5
     },
     "keywords": [
+      "military",
+      "library",
       "news",
-      "432042"
+      "2026",
+      "mil",
+      "260820",
+      "irna01.htm"
     ]
   }
 }
