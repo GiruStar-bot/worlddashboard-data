@@ -1,66 +1,118 @@
 {
-  "ISR": {
-    "risk_score": 17.2,
-    "count": 18,
-    "top_news": "http://www.jpost.com/opinion/article-906056",
+  "CAF": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nj1015.com/sharia-law-us-constitution-conflict/",
     "event_codes": {
-      "19": 14,
-      "18": 3,
-      "17": 1
+      "20": 2
     },
     "keywords": [
-      "opinion",
-      "article",
-      "906056"
+      "sharia",
+      "law",
+      "constitution",
+      "conflict"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.9,
+    "count": 10,
+    "top_news": "https://www.geo.tv/latest/678628-us-iran-war-who-won-and-who-lost-so-far",
+    "event_codes": {
+      "19": 6,
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "latest",
+      "678628",
+      "iran",
+      "war",
+      "who",
+      "won",
+      "and",
+      "who",
+      "lost",
+      "far"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.0,
+    "count": 10,
+    "top_news": "https://sana.sy/en/middle-east/2337689/",
+    "event_codes": {
+      "17": 6,
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2337689"
     ]
   },
   "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.jpost.com/opinion/article-906056",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://sana.sy/en/middle-east/2337689/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 5
     },
     "keywords": [
-      "opinion",
-      "article",
-      "906056"
+      "middle",
+      "east",
+      "2337689"
     ]
   },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.bignewsnetwork.com/news/279255935/israeli-military-says-it-killed-hamas-commander-in-central-gaza-strip",
+  "NGA": {
+    "risk_score": 11.35,
+    "count": 12,
+    "top_news": "https://nj1015.com/sharia-law-us-constitution-conflict/",
     "event_codes": {
-      "19": 3
+      "19": 8,
+      "18": 2,
+      "14": 1,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "279255935",
-      "israeli",
-      "military",
-      "says",
-      "killed",
-      "hamas",
-      "commander",
-      "central",
-      "gaza",
-      "strip"
+      "sharia",
+      "law",
+      "constitution",
+      "conflict"
     ]
   },
   "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.jpost.com/opinion/article-906056",
+    "risk_score": 7.0,
+    "count": 9,
+    "top_news": "https://sana.sy/en/politics/2337706/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 5,
+      "17": 4
     },
     "keywords": [
-      "opinion",
-      "article",
-      "906056"
+      "politics",
+      "2337706"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://www.wsoctv.com/news/local/man-arrested-alleged-threats-against-albemarle-high-school/FEEM5XVAJBFV7EIRP6PN2NAEPI/",
+    "event_codes": {
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "local",
+      "man",
+      "arrested",
+      "alleged",
+      "threats",
+      "against",
+      "albemarle",
+      "high",
+      "school",
+      "feem5xvajbfv7eirp6pn2naepi"
     ]
   }
 }
