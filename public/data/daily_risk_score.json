@@ -1,44 +1,73 @@
 {
-  "ISR": {
-    "risk_score": 10.34,
-    "count": 11,
-    "top_news": "https://www.thenation.com/article/politics/puppet-masters-will-be-unleashed-on-americans/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/did-iran-shoot-down-us-air-force-e-3g-plane-near-strait-of-hormuz-heres-the-truth-101787351176473.html",
     "event_codes": {
-      "19": 9,
-      "15": 2
+      "19": 2
     },
     "keywords": [
-      "article",
-      "politics",
-      "puppet",
-      "masters",
-      "will",
-      "unleashed",
-      "americans"
+      "world",
+      "news",
+      "news",
+      "did",
+      "iran",
+      "shoot",
+      "down",
+      "air",
+      "force",
+      "plane",
+      "near",
+      "strait",
+      "hormuz",
+      "heres",
+      "the",
+      "truth",
+      "101787351176473.html"
     ]
   },
-  "SYR": {
-    "risk_score": 2.72,
-    "count": 4,
-    "top_news": "https://www.algemeiner.com/2026/08/21/netanyahu-calls-erdogan-antisemitic-dictator-turkey-seeks-international-arrest-warrant-israeli-pm/",
+  "ISR": {
+    "risk_score": 7.4,
+    "count": 9,
+    "top_news": "https://voiceofvienna.org/investigation-ordered-into-death-of-gaza-girl-and-medics-by-idf/",
     "event_codes": {
-      "17": 2,
-      "15": 1,
-      "19": 1
+      "19": 5,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "netanyahu",
-      "calls",
-      "erdogan",
-      "antisemitic",
-      "dictator",
-      "turkey",
-      "seeks",
-      "international",
-      "arrest",
-      "warrant",
-      "israeli"
+      "investigation",
+      "ordered",
+      "into",
+      "death",
+      "gaza",
+      "girl",
+      "and",
+      "medics",
+      "idf"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/middle-east/lebanon-s-president-urges-italian-premier-to-pressure-israel-to-uphold-framework-agreement/4034345",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "lebanon",
+      "president",
+      "urges",
+      "italian",
+      "premier",
+      "pressure",
+      "israel",
+      "uphold",
+      "framework",
+      "agreement",
+      "4034345"
     ]
   }
 }
