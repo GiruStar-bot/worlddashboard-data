@@ -1,75 +1,63 @@
 {
-  "IDN": {
-    "risk_score": 10.6,
-    "count": 12,
-    "top_news": "https://en.antaranews.com/news/428164/tni-mobilizes-14167-soldiers-to-support-firefighting-operations",
+  "ISR": {
+    "risk_score": 4.8,
+    "count": 7,
+    "top_news": "https://www.hurriyetdailynews.com/israel-launches-fresh-attacks-across-southern-lebanon-225905",
     "event_codes": {
-      "19": 7,
-      "15": 5
+      "17": 4,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "israel",
+      "launches",
+      "fresh",
+      "attacks",
+      "across",
+      "southern",
+      "lebanon",
+      "225905"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.hurriyetdailynews.com/israel-launches-fresh-attacks-across-southern-lebanon-225905",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "israel",
+      "launches",
+      "fresh",
+      "attacks",
+      "across",
+      "southern",
+      "lebanon",
+      "225905"
+    ]
+  },
+  "PER": {
+    "risk_score": 3.15,
+    "count": 5,
+    "top_news": "https://www.the-star.co.ke/news/world/2026-08-21-peru-earthquake-damages-buildings-and-causes-power-cuts",
+    "event_codes": {
+      "16": 3,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "428164",
-      "tni",
-      "mobilizes",
-      "14167",
-      "soldiers",
-      "support",
-      "firefighting",
-      "operations"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.bulatlat.com/2026/08/21/us-sanctions-vs-icc-hinders-victims-quest-for-justice/",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "2026",
-      "sanctions",
-      "icc",
-      "hinders",
-      "victims",
-      "quest",
-      "for",
-      "justice"
-    ]
-  },
-  "MMR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/08/21/myanmar-military-strike-kills-14-people-at-a-buddhist-monastery-opposition-group-says",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
       "world",
       "2026",
-      "myanmar",
-      "military",
-      "strike",
-      "kills",
-      "people",
-      "buddhist",
-      "monastery",
-      "opposition",
-      "group",
-      "says"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260821/f0b6feab58ed442d9d0c169328a6fd6e/c.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "20260821",
-      "f0b6feab58ed442d9d0c169328a6fd6e",
-      "c.html"
+      "peru",
+      "earthquake",
+      "damages",
+      "buildings",
+      "and",
+      "causes",
+      "power",
+      "cuts"
     ]
   }
 }
