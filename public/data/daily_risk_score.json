@@ -1,55 +1,85 @@
 {
-  "BHR": {
-    "risk_score": 2.9,
+  "BRA": {
+    "risk_score": 2.85,
     "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1404101/Museum-showcases-BDF-heroes%E2%80%99-achievements",
+    "top_news": "https://www.yahoo.com/news/articles/lula-trump-discuss-tariffs-phone-170317022.html",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "details",
-      "1404101",
-      "museum",
-      "showcases",
-      "bdf",
-      "heroes%e2%80%99",
-      "achievements"
+      "news",
+      "articles",
+      "lula",
+      "trump",
+      "discuss",
+      "tariffs",
+      "phone",
+      "170317022.html"
     ]
   },
   "IRN": {
-    "risk_score": 2.5,
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1404101/Museum-showcases-BDF-heroes%E2%80%99-achievements",
+    "top_news": "https://www.wsws.org/en/articles/2026/08/21/pugq-a21.html",
     "event_codes": {
       "19": 2,
-      "17": 1
+      "16": 1
     },
     "keywords": [
-      "details",
-      "1404101",
-      "museum",
-      "showcases",
-      "bdf",
-      "heroes%e2%80%99",
-      "achievements"
+      "articles",
+      "2026",
+      "pugq",
+      "a21.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.wsws.org/en/articles/2026/08/21/pugq-a21.html",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "pugq",
+      "a21.html"
     ]
   },
   "NGA": {
-    "risk_score": 10.0,
-    "count": 11,
-    "top_news": "https://dailytrust.com/police-rescue-13-abducted-passengers-in-benue/",
+    "risk_score": 11.4,
+    "count": 13,
+    "top_news": "https://tribuneonlineng.com/northern-senators-seek-urgent-action-on-state-police/",
     "event_codes": {
-      "18": 5,
+      "18": 6,
       "19": 5,
-      "17": 1
+      "17": 2
     },
     "keywords": [
-      "police",
-      "rescue",
-      "abducted",
-      "passengers",
-      "benue"
+      "northern",
+      "senators",
+      "seek",
+      "urgent",
+      "action",
+      "state",
+      "police"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wsws.org/en/articles/2026/08/21/pugq-a21.html",
+    "event_codes": {
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "pugq",
+      "a21.html"
     ]
   }
 }
