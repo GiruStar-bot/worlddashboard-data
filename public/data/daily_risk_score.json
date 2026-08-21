@@ -1,46 +1,47 @@
 {
-  "IRN": {
-    "risk_score": 3.5,
+  "EGY": {
+    "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/08/20/trump-warns-of-economic-d-day-against-iran-but-tehran-is-well-acquainted-with-sanctions",
+    "top_news": "http://www.rightspeak.net/2026/08/a-famous-english-beach-is-muslim.html",
     "event_codes": {
-      "18": 3,
-      "16": 1
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "world",
       "2026",
-      "trump",
-      "warns",
-      "economic",
-      "day",
-      "against",
-      "iran",
-      "but",
-      "tehran",
-      "well",
-      "acquainted",
-      "with",
-      "sanctions"
+      "famous",
+      "english",
+      "beach",
+      "muslim.html"
     ]
   },
-  "NGA": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://thesun.ng/subsidy-atiku-presidency-wike-apm-clash-over-trillions/",
+  "IRN": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "http://www.rightspeak.net/2026/08/a-famous-english-beach-is-muslim.html",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 5
     },
     "keywords": [
-      "subsidy",
-      "atiku",
-      "presidency",
-      "wike",
-      "apm",
-      "clash",
-      "over",
-      "trillions"
+      "2026",
+      "famous",
+      "english",
+      "beach",
+      "muslim.html"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.6,
+    "count": 3,
+    "top_news": "https://www.bssnews.net/news-flash/416664",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "flash",
+      "416664"
     ]
   }
 }
