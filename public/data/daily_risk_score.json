@@ -1,58 +1,187 @@
 {
-  "ISR": {
-    "risk_score": 5.9,
-    "count": 7,
-    "top_news": "https://dailythepatriot.com/12-islamic-countries-including-pakistan-stand-against-israeli-aggression-on-syria-call-on-the-united-nations-to-play-a-role/",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.odnako.org/trump-declares-economic-war-against-iran-and-it-threatens-those-who-help-tehran/",
     "event_codes": {
-      "19": 5,
+      "19": 2
+    },
+    "keywords": [
+      "trump",
+      "declares",
+      "economic",
+      "war",
+      "against",
+      "iran",
+      "and",
+      "threatens",
+      "those",
+      "who",
+      "help",
+      "tehran"
+    ]
+  },
+  "GUY": {
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "https://kaieteurnewsonline.com/2026/08/21/trial-begins-for-five-men-accused-of-killing-west-coast-berbice-pensioner/",
+    "event_codes": {
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "trial",
+      "begins",
+      "for",
+      "five",
+      "men",
+      "accused",
+      "killing",
+      "west",
+      "coast",
+      "berbice",
+      "pensioner"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.27,
+    "count": 6,
+    "top_news": "https://www.democracynow.org/2026/8/21/west_bank_settlers",
+    "event_codes": {
+      "19": 4,
       "16": 1,
       "17": 1
     },
     "keywords": [
-      "islamic",
-      "countries",
-      "including",
-      "pakistan",
-      "stand",
-      "against",
-      "israeli",
-      "aggression",
-      "syria",
-      "call",
-      "the",
-      "united",
-      "nations",
-      "play",
-      "role"
+      "2026",
+      "west",
+      "bank",
+      "settlers"
     ]
   },
-  "MLI": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202608210599.html",
+  "IRQ": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.middleeastmonitor.com/20260821-iraq-is-negotiating-away-its-militias-guns-it-is-not-negotiating-away-their-impunity/",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "stories",
-      "202608210599.html"
+      "20260821",
+      "iraq",
+      "negotiating",
+      "away",
+      "its",
+      "militias",
+      "guns",
+      "not",
+      "negotiating",
+      "away",
+      "their",
+      "impunity"
+    ]
+  },
+  "ISR": {
+    "risk_score": 30.86,
+    "count": 36,
+    "top_news": "https://www.ynetnews.com/article/b1ejprsdgg",
+    "event_codes": {
+      "19": 16,
+      "18": 10,
+      "15": 3,
+      "16": 3,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "article",
+      "b1ejprsdgg"
     ]
   },
   "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://leadership.ng/adeleke-belongs-to-us-we-all-belong-to-tinubu-wike/",
+    "risk_score": 7.6,
+    "count": 8,
+    "top_news": "https://www.vanguardngr.com/2026/08/osun-poll-wont-decide-accord-party-leadership-imumolen-insists/",
     "event_codes": {
+      "18": 4,
       "19": 4
     },
     "keywords": [
-      "adeleke",
-      "belongs",
-      "all",
-      "belong",
-      "tinubu",
-      "wike"
+      "2026",
+      "osun",
+      "poll",
+      "wont",
+      "decide",
+      "accord",
+      "party",
+      "leadership",
+      "imumolen",
+      "insists"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.democracynow.org/2026/8/21/headlines/sudans_humanitarian_catastrophe_grows_as_200_000_are_displaced_by_fighting_and_flooding",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "headlines",
+      "sudans",
+      "humanitarian",
+      "catastrophe",
+      "grows",
+      "200",
+      "000",
+      "are",
+      "displaced",
+      "fighting",
+      "and",
+      "flooding"
+    ]
+  },
+  "SYR": {
+    "risk_score": 10.25,
+    "count": 11,
+    "top_news": "https://aa.com.tr/en/europe/syrian-rights-group-says-survivors-of-2013-ghouta-chemical-attack-still-suffering/4034059",
+    "event_codes": {
+      "20": 4,
+      "18": 3,
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "europe",
+      "syrian",
+      "rights",
+      "group",
+      "says",
+      "survivors",
+      "2013",
+      "ghouta",
+      "chemical",
+      "attack",
+      "still",
+      "suffering",
+      "4034059"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 7,
+    "top_news": "https://www.ynetnews.com/article/byzseasdml",
+    "event_codes": {
+      "17": 7
+    },
+    "keywords": [
+      "article",
+      "byzseasdml"
     ]
   }
 }
