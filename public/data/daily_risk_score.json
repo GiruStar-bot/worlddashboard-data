@@ -1,85 +1,44 @@
 {
-  "BRA": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/articles/lula-trump-discuss-tariffs-phone-170317022.html",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "lula",
-      "trump",
-      "discuss",
-      "tariffs",
-      "phone",
-      "170317022.html"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.wsws.org/en/articles/2026/08/21/pugq-a21.html",
-    "event_codes": {
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "articles",
-      "2026",
-      "pugq",
-      "a21.html"
-    ]
-  },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.wsws.org/en/articles/2026/08/21/pugq-a21.html",
+    "risk_score": 10.34,
+    "count": 11,
+    "top_news": "https://www.thenation.com/article/politics/puppet-masters-will-be-unleashed-on-americans/",
     "event_codes": {
-      "17": 4,
+      "19": 9,
+      "15": 2
+    },
+    "keywords": [
+      "article",
+      "politics",
+      "puppet",
+      "masters",
+      "will",
+      "unleashed",
+      "americans"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.72,
+    "count": 4,
+    "top_news": "https://www.algemeiner.com/2026/08/21/netanyahu-calls-erdogan-antisemitic-dictator-turkey-seeks-international-arrest-warrant-israeli-pm/",
+    "event_codes": {
+      "17": 2,
+      "15": 1,
       "19": 1
     },
     "keywords": [
-      "articles",
       "2026",
-      "pugq",
-      "a21.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.4,
-    "count": 13,
-    "top_news": "https://tribuneonlineng.com/northern-senators-seek-urgent-action-on-state-police/",
-    "event_codes": {
-      "18": 6,
-      "19": 5,
-      "17": 2
-    },
-    "keywords": [
-      "northern",
-      "senators",
-      "seek",
-      "urgent",
-      "action",
-      "state",
-      "police"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wsws.org/en/articles/2026/08/21/pugq-a21.html",
-    "event_codes": {
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "articles",
-      "2026",
-      "pugq",
-      "a21.html"
+      "netanyahu",
+      "calls",
+      "erdogan",
+      "antisemitic",
+      "dictator",
+      "turkey",
+      "seeks",
+      "international",
+      "arrest",
+      "warrant",
+      "israeli"
     ]
   }
 }
