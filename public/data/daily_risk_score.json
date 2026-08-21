@@ -1,58 +1,88 @@
 {
   "IRN": {
-    "risk_score": 2.32,
-    "count": 3,
-    "top_news": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-donald-trump-american-troops-pentagon-strait-of-hormuz-abbas-araghchi-oil-prices-11787269112840.html",
+    "risk_score": 8.1,
+    "count": 12,
+    "top_news": "https://dailytrust.com/what-uaes-decision-to-cut-trade-ties-with-iran-means/",
     "event_codes": {
-      "16": 2,
-      "15": 1
+      "17": 7,
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "news",
-      "news",
+      "what",
+      "uaes",
+      "decision",
+      "cut",
+      "trade",
+      "ties",
+      "with",
       "iran",
-      "war",
-      "latest",
-      "news",
-      "live",
-      "updates",
-      "donald",
-      "trump",
-      "american",
-      "troops",
-      "pentagon",
-      "strait",
-      "hormuz",
-      "abbas",
-      "araghchi",
-      "oil",
-      "prices",
-      "11787269112840.html"
+      "means"
     ]
   },
-  "ISR": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-during-raid-jenin",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.irishnews.com/news/northern-ireland/colonel-tim-collins-gave-me-court-reference-says-senior-loyalist-david-dee-stitt-BLCPGFCFFBEOXPBMOF5AHLWEIA/",
     "event_codes": {
-      "19": 8,
-      "18": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "forces",
-      "kill",
-      "palestinian",
-      "man",
-      "during",
-      "raid",
-      "jenin"
+      "news",
+      "northern",
+      "ireland",
+      "colonel",
+      "tim",
+      "collins",
+      "gave",
+      "court",
+      "reference",
+      "says",
+      "senior",
+      "loyalist",
+      "david",
+      "dee",
+      "stitt",
+      "blcpgfcffbeoxpbmof5ahlweia"
+    ]
+  },
+  "NGA": {
+    "risk_score": 20.74,
+    "count": 26,
+    "top_news": "https://tribuneonlineng.com/sheikh-jingirs-incendiary-declaration/",
+    "event_codes": {
+      "18": 16,
+      "17": 9,
+      "19": 1
+    },
+    "keywords": [
+      "sheikh",
+      "jingirs",
+      "incendiary",
+      "declaration"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/arab-world/5309415-experts-asharq-al-awsat-expanded-yemeni-army-deterrence-operations-pave-way",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5309415",
+      "experts",
+      "asharq",
+      "awsat",
+      "expanded",
+      "yemeni",
+      "army",
+      "deterrence",
+      "operations",
+      "pave",
+      "way"
     ]
   }
 }
