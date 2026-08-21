@@ -1,132 +1,66 @@
 {
-  "COL": {
-    "risk_score": 2.7,
-    "count": 5,
-    "top_news": "https://www.theguardian.com/us-news/2026/aug/21/san-diego-california-ice-arrest",
-    "event_codes": {
-      "17": 4,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "aug",
-      "san",
-      "diego",
-      "california",
-      "ice",
-      "arrest"
-    ]
-  },
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.breakingnews.ie/world/indonesia-warns-against-starting-open-fires-as-wildfire-haze-spreads-to-malaysia-1942393.html",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "indonesia",
-      "warns",
-      "against",
-      "starting",
-      "open",
-      "fires",
-      "wildfire",
-      "haze",
-      "spreads",
-      "malaysia",
-      "1942393.html"
-    ]
-  },
   "ISR": {
-    "risk_score": 16.7,
-    "count": 19,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/poland-summons-israeli-ambassador-over-closed-gaza-aid-worker-probe",
+    "risk_score": 17.2,
+    "count": 18,
+    "top_news": "http://www.jpost.com/opinion/article-906056",
     "event_codes": {
-      "19": 12,
-      "16": 4,
-      "18": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "poland",
-      "summons",
-      "israeli",
-      "ambassador",
-      "over",
-      "closed",
-      "gaza",
-      "aid",
-      "worker",
-      "probe"
-    ]
-  },
-  "SOM": {
-    "risk_score": 6.9,
-    "count": 8,
-    "top_news": "https://internationalbanker.com/slider/somaliland-why-an-unrecognised-territory-is-gaining-global-economic-significance/",
-    "event_codes": {
-      "19": 6,
-      "16": 1,
+      "19": 14,
+      "18": 3,
       "17": 1
     },
     "keywords": [
-      "slider",
-      "somaliland",
-      "why",
-      "unrecognised",
-      "territory",
-      "gaining",
-      "global",
-      "economic",
-      "significance"
+      "opinion",
+      "article",
+      "906056"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.jpost.com/opinion/article-906056",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "906056"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.bignewsnetwork.com/news/279255935/israeli-military-says-it-killed-hamas-commander-in-central-gaza-strip",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "279255935",
+      "israeli",
+      "military",
+      "says",
+      "killed",
+      "hamas",
+      "commander",
+      "central",
+      "gaza",
+      "strip"
     ]
   },
   "SYR": {
-    "risk_score": 8.3,
-    "count": 10,
-    "top_news": "https://www.middleeasteye.net/news/death-syrian-detainee-sparks-protest-and-conversation-about-prison-reform",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.jpost.com/opinion/article-906056",
     "event_codes": {
-      "18": 4,
-      "14": 2,
-      "17": 2,
-      "19": 2
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "death",
-      "syrian",
-      "detainee",
-      "sparks",
-      "protest",
-      "and",
-      "conversation",
-      "about",
-      "prison",
-      "reform"
-    ]
-  },
-  "TCD": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.hrw.org/news/2026/08/21/chad-political-opponents-freed",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "chad",
-      "political",
-      "opponents",
-      "freed"
+      "opinion",
+      "article",
+      "906056"
     ]
   }
 }
