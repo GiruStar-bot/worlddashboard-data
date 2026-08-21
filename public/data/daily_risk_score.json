@@ -1,46 +1,91 @@
 {
-  "ETH": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/arts-culture/film-tv/2026/08/21/freefall-boeing-documentary-review/",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.oann.com/commentary/an-historic-breakthrough-is-occurring-in-lebanon/",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "20": 1
     },
     "keywords": [
-      "arts",
-      "culture",
-      "film",
-      "2026",
-      "freefall",
-      "boeing",
-      "documentary",
-      "review"
+      "commentary",
+      "historic",
+      "breakthrough",
+      "occurring",
+      "lebanon"
     ]
   },
   "ISR": {
-    "risk_score": 8.58,
-    "count": 11,
-    "top_news": "https://www.thenationalnews.com/news/uk/2026/08/21/world-central-kitchen-deaths-israel-told-its-shameful-not-to-investigate-gaza-attack/",
+    "risk_score": 25.7,
+    "count": 28,
+    "top_news": "https://www.oann.com/commentary/an-historic-breakthrough-is-occurring-in-lebanon/",
     "event_codes": {
-      "17": 8,
+      "19": 15,
+      "18": 4,
+      "16": 3,
+      "17": 3,
+      "20": 3
+    },
+    "keywords": [
+      "commentary",
+      "historic",
+      "breakthrough",
+      "occurring",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://www.oann.com/commentary/an-historic-breakthrough-is-occurring-in-lebanon/",
+    "event_codes": {
       "19": 2,
-      "18": 1
+      "17": 1,
+      "20": 1
+    },
+    "keywords": [
+      "commentary",
+      "historic",
+      "breakthrough",
+      "occurring",
+      "lebanon"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/21/774810/Press-TV-s-news-headlines-",
+    "event_codes": {
+      "19": 5,
+      "18": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774810",
+      "press",
+      "news",
+      "headlines"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/world/articles/turkiye-accuses-israel-netanyahu-genocide-190830280.html",
+    "event_codes": {
+      "18": 3,
+      "19": 1
     },
     "keywords": [
       "news",
-      "2026",
       "world",
-      "central",
-      "kitchen",
-      "deaths",
+      "articles",
+      "turkiye",
+      "accuses",
       "israel",
-      "told",
-      "its",
-      "shameful",
-      "not",
-      "investigate",
-      "gaza",
-      "attack"
+      "netanyahu",
+      "genocide",
+      "190830280.html"
     ]
   }
 }
