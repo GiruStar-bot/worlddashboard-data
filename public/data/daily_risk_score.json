@@ -1,41 +1,55 @@
 {
-  "ISR": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "http://www.jpost.com/opinion/article-905993",
+  "BHR": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.gdnonline.com:443/Details/1404101/Museum-showcases-BDF-heroes%E2%80%99-achievements",
     "event_codes": {
-      "19": 4,
-      "16": 1,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1404101",
+      "museum",
+      "showcases",
+      "bdf",
+      "heroes%e2%80%99",
+      "achievements"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.gdnonline.com:443/Details/1404101/Museum-showcases-BDF-heroes%E2%80%99-achievements",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "opinion",
-      "article",
-      "905993"
+      "details",
+      "1404101",
+      "museum",
+      "showcases",
+      "bdf",
+      "heroes%e2%80%99",
+      "achievements"
     ]
   },
   "NGA": {
-    "risk_score": 11.45,
-    "count": 17,
-    "top_news": "https://saharareporters.com/2026/08/21/nigerian-police-invite-pinnacle-daily-editor-over-alleged-assault-during-abuja",
+    "risk_score": 10.0,
+    "count": 11,
+    "top_news": "https://dailytrust.com/police-rescue-13-abducted-passengers-in-benue/",
     "event_codes": {
-      "17": 9,
-      "18": 7,
-      "14": 1
+      "18": 5,
+      "19": 5,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "nigerian",
       "police",
-      "invite",
-      "pinnacle",
-      "daily",
-      "editor",
-      "over",
-      "alleged",
-      "assault",
-      "during",
-      "abuja"
+      "rescue",
+      "abducted",
+      "passengers",
+      "benue"
     ]
   }
 }
