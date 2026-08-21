@@ -1,22 +1,88 @@
 {
   "ISR": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://www.middleeastmonitor.com/20260821-un-94-of-gaza-residents-need-shelter-and-basic-household-supplies/",
+    "risk_score": 7.52,
+    "count": 8,
+    "top_news": "https://cyprus-mail.com/2026/08/21/poland-very-disappointed-after-israel-drops-probe-into-killing-of-polish-citizen",
     "event_codes": {
+      "19": 5,
       "18": 2,
-      "17": 1
+      "15": 1
     },
     "keywords": [
-      "20260821",
-      "gaza",
-      "residents",
-      "need",
-      "shelter",
-      "and",
-      "basic",
-      "household",
-      "supplies"
+      "2026",
+      "poland",
+      "very",
+      "disappointed",
+      "after",
+      "israel",
+      "drops",
+      "probe",
+      "into",
+      "killing",
+      "polish",
+      "citizen"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://promptnewsonline.com/newborns-father-killed-checkpoint-youths-set-two-police-stations-ablaze/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "newborns",
+      "father",
+      "killed",
+      "checkpoint",
+      "youths",
+      "set",
+      "two",
+      "police",
+      "stations",
+      "ablaze"
+    ]
+  },
+  "SDN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/sudans-aid-workers-under-fire-as-volunteers-keep-humanitarian-lifeline-alive",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "sudans",
+      "aid",
+      "workers",
+      "under",
+      "fire",
+      "volunteers",
+      "keep",
+      "humanitarian",
+      "lifeline",
+      "alive"
+    ]
+  },
+  "SSD": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.independent.co.ug/south-sudan-army-denies-abduction-of-ugandan-truck-drivers/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "south",
+      "sudan",
+      "army",
+      "denies",
+      "abduction",
+      "ugandan",
+      "truck",
+      "drivers"
     ]
   }
 }
