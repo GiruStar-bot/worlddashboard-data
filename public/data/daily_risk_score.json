@@ -1,86 +1,138 @@
 {
-  "IDN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://en.antaranews.com/news/428109/govt-builds-drilled-wells-to-boost-forest-fire-handling-in-kalimantan",
+  "IRN": {
+    "risk_score": 4.35,
+    "count": 5,
+    "top_news": "https://www.americanthinker.com/blog/2026/08/trump-quietly-reopens-hormuz/",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "news",
-      "428109",
-      "govt",
-      "builds",
-      "drilled",
-      "wells",
-      "boost",
-      "forest",
-      "fire",
-      "handling",
-      "kalimantan"
+      "blog",
+      "2026",
+      "trump",
+      "quietly",
+      "reopens",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.independent.co.uk/news/world/europe/damian-sobol-poland-gaza-israel-b3036928.html",
+    "risk_score": 11.95,
+    "count": 13,
+    "top_news": "https://www.israelnationalnews.com/news/432040",
     "event_codes": {
-      "19": 4
+      "19": 10,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "europe",
-      "damian",
-      "sobol",
-      "poland",
-      "gaza",
-      "israel",
-      "b3036928.html"
+      "432040"
     ]
   },
   "MYS": {
     "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://en.antaranews.com/news/428075/indonesian-police-hunt-batam-nightclub-owner-in-drug-case",
+    "count": 5,
+    "top_news": "https://www.channelnewsasia.com/asia/malaysia-johor-bahru-singaporean-jailed-insulting-islam-quran-6333141",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "17": 5
     },
     "keywords": [
-      "news",
-      "428075",
-      "indonesian",
-      "police",
-      "hunt",
-      "batam",
-      "nightclub",
-      "owner",
-      "drug",
-      "case"
+      "asia",
+      "malaysia",
+      "johor",
+      "bahru",
+      "singaporean",
+      "jailed",
+      "insulting",
+      "islam",
+      "quran",
+      "6333141"
     ]
   },
-  "THA": {
-    "risk_score": 3.56,
-    "count": 4,
-    "top_news": "https://www.hindustantimes.com/india-news/indian-soldiers-polish-muay-thai-skills-in-joint-drills-101787300025767.html",
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://dailypost.ng/2026/08/21/police-seek-donations-for-mopol-officer-battling-brain-injury-after-on-duty-accident/",
     "event_codes": {
       "17": 2,
-      "15": 1,
       "19": 1
     },
     "keywords": [
-      "india",
+      "2026",
+      "police",
+      "seek",
+      "donations",
+      "for",
+      "mopol",
+      "officer",
+      "battling",
+      "brain",
+      "injury",
+      "after",
+      "duty",
+      "accident"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.i24news.tv/en/news/middle-east/palestinian-territories/artc-father-of-dizengoff-street-terrorist-killed-during-idf-operation-in-jenin",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
       "news",
-      "indian",
-      "soldiers",
-      "polish",
-      "muay",
-      "thai",
-      "skills",
-      "joint",
-      "drills",
-      "101787300025767.html"
+      "middle",
+      "east",
+      "palestinian",
+      "territories",
+      "artc",
+      "father",
+      "dizengoff",
+      "street",
+      "terrorist",
+      "killed",
+      "during",
+      "idf",
+      "operation",
+      "jenin"
+    ]
+  },
+  "SOM": {
+    "risk_score": 9.0,
+    "count": 14,
+    "top_news": "https://www.indexoncensorship.org/2026/08/somalias-intelligence-agencies-are-becoming-the-countrys-new-censors/",
+    "event_codes": {
+      "17": 14
+    },
+    "keywords": [
+      "2026",
+      "somalias",
+      "intelligence",
+      "agencies",
+      "are",
+      "becoming",
+      "the",
+      "countrys",
+      "new",
+      "censors"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/news/432042",
+    "event_codes": {
+      "15": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "432042"
     ]
   }
 }
