@@ -1,42 +1,63 @@
 {
-  "IRN": {
-    "risk_score": 6.75,
-    "count": 9,
-    "top_news": "http://www.shanghaisun.com/news/279256660/sanctioned-iran-linked-tanker-seized-by-pirates",
+  "ISR": {
+    "risk_score": 7.62,
+    "count": 10,
+    "top_news": "https://www.cityandstateny.com/policy/2026/08/mamdanis-nypd-still-working-israel/415556/",
     "event_codes": {
-      "15": 5,
-      "19": 2,
-      "14": 1,
-      "17": 1
+      "17": 3,
+      "19": 3,
+      "18": 2,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "policy",
+      "2026",
+      "mamdanis",
+      "nypd",
+      "still",
+      "working",
+      "israel",
+      "415556"
+    ]
+  },
+  "MMR": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.moneycontrol.com/world/14-killed-20-injured-in-myanmar-airstrike-on-buddhist-monastery-article-14012631.html",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "world",
+      "killed",
+      "injured",
+      "myanmar",
+      "airstrike",
+      "buddhist",
+      "monastery",
+      "article",
+      "14012631.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 7.5,
+    "count": 11,
+    "top_news": "http://www.albawaba.com/news/antisemitic-dictator-netanyahu-fires-1635508",
+    "event_codes": {
+      "17": 6,
+      "18": 3,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "279256660",
-      "sanctioned",
-      "iran",
-      "linked",
-      "tanker",
-      "seized",
-      "pirates"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://balkaninsight.com/2026/08/21/saudi-dissident-held-by-bulgaria-since-2021-is-freed/bi/",
-    "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "saudi",
-      "dissident",
-      "held",
-      "bulgaria",
-      "since",
-      "2021",
-      "freed"
+      "antisemitic",
+      "dictator",
+      "netanyahu",
+      "fires",
+      "1635508"
     ]
   }
 }
