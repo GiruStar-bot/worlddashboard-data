@@ -1,45 +1,50 @@
 {
-  "ISR": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine",
+  "IRN": {
+    "risk_score": 5.15,
+    "count": 7,
+    "top_news": "https://irannewsupdate.com/news/human-rights/the-price-of-freedom-stories-history-must-never-forget/",
     "event_codes": {
-      "20": 4,
+      "17": 3,
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "human",
+      "rights",
+      "the",
+      "price",
+      "freedom",
+      "stories",
+      "history",
+      "must",
+      "never",
+      "forget"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wfmz.com/news/crime/police-1-killed-1-critically-hurt-in-northampton-county-shooting/article_131e398c-6d94-45fe-a32b-9bda49c95034.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "over",
-      "100",
-      "diplomats",
-      "urge",
-      "france",
-      "sanction",
-      "israel",
-      "over",
-      "palestine"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria",
-    "event_codes": {
-      "16": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "israeli",
-      "drone",
-      "strike",
-      "civilian",
-      "vehicle",
-      "causes",
-      "injuries",
-      "syria"
+      "crime",
+      "police",
+      "killed",
+      "critically",
+      "hurt",
+      "northampton",
+      "county",
+      "shooting",
+      "article",
+      "131e398c",
+      "6d94",
+      "45fe",
+      "a32b",
+      "9bda49c95034.html"
     ]
   }
 }
