@@ -1,26 +1,73 @@
 {
-  "NGA": {
-    "risk_score": 6.44,
-    "count": 7,
-    "top_news": "https://redstate.com/wardclark/2026/08/22/now-nigerian-jihadis-are-attacking-other-muslims-for-insufficient-zeal-n2205939",
+  "ISR": {
+    "risk_score": 8.72,
+    "count": 9,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-occupiers-injure-at-least-20-palestinians-across-west-bank/4034829",
     "event_codes": {
-      "19": 5,
-      "15": 2
+      "19": 6,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "wardclark",
-      "2026",
-      "now",
-      "nigerian",
-      "jihadis",
-      "are",
-      "attacking",
-      "other",
-      "muslims",
-      "for",
-      "insufficient",
-      "zeal",
-      "n2205939"
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "occupiers",
+      "injure",
+      "least",
+      "palestinians",
+      "across",
+      "west",
+      "bank",
+      "4034829"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-occupiers-injure-at-least-20-palestinians-across-west-bank/4034829",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "occupiers",
+      "injure",
+      "least",
+      "palestinians",
+      "across",
+      "west",
+      "bank",
+      "4034829"
+    ]
+  },
+  "YEM": {
+    "risk_score": 12.72,
+    "count": 13,
+    "top_news": "https://aa.com.tr/en/middle-east/yemeni-government-forces-down-houthi-drone-destroy-bomb-laden-boat/4034849",
+    "event_codes": {
+      "19": 12,
+      "15": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "yemeni",
+      "government",
+      "forces",
+      "down",
+      "houthi",
+      "drone",
+      "destroy",
+      "bomb",
+      "laden",
+      "boat",
+      "4034849"
     ]
   }
 }
