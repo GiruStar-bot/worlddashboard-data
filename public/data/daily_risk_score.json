@@ -1,79 +1,80 @@
 {
-  "ISR": {
-    "risk_score": 11.69,
-    "count": 12,
-    "top_news": "https://aa.com.tr/en/middle-east/restoration-of-iran-s-south-pars-phase-14-refinery-70-complete-after-israeli-strike/4034730",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/politics/articles/explainer-trump-wants-more-economic-pressure-on-iran-what-are-his-options-100301777.html",
     "event_codes": {
-      "19": 8,
-      "17": 2,
-      "20": 2
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "restoration",
-      "iran",
-      "south",
-      "pars",
-      "phase",
-      "refinery",
-      "complete",
-      "after",
-      "israeli",
-      "strike",
-      "4034730"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.26,
-    "count": 6,
-    "top_news": "https://www.middleeastmonitor.com/20260822-former-french-british-ambassadors-urge-halt-to-arms-exports-ban-on-trade-with-illegal-israeli-settlements-in-west-bank/",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "20260822",
-      "former",
-      "french",
-      "british",
-      "ambassadors",
-      "urge",
-      "halt",
-      "arms",
-      "exports",
-      "ban",
-      "trade",
-      "with",
-      "illegal",
-      "israeli",
-      "settlements",
-      "west",
-      "bank"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://legalinsurrection.com/2026/08/u-s-special-envoy-tom-barrack-contradicts-trump-policy-claims-israel-occupies-golan-heights/",
-    "event_codes": {
-      "18": 1,
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "2026",
-      "special",
-      "envoy",
-      "tom",
-      "barrack",
-      "contradicts",
+      "news",
+      "politics",
+      "articles",
+      "explainer",
       "trump",
-      "policy",
-      "claims",
+      "wants",
+      "more",
+      "economic",
+      "pressure",
+      "iran",
+      "what",
+      "are",
+      "his",
+      "options",
+      "100301777.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.24,
+    "count": 7,
+    "top_news": "https://truthout.org/articles/israel-targets-water-wells-and-farmland-attacking-west-banks-breadbasket/",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "articles",
       "israel",
-      "occupies",
-      "golan",
-      "heights"
+      "targets",
+      "water",
+      "wells",
+      "and",
+      "farmland",
+      "attacking",
+      "west",
+      "banks",
+      "breadbasket"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.winknews.com/news/international/scores-of-people-kidnapped-from-a-mosque-as-armed-groups-attacked-multiple-villages-in-nigeria/article_20ad7e0e-e020-5aa0-b0bf-4feeca063265.html",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "international",
+      "scores",
+      "people",
+      "kidnapped",
+      "from",
+      "mosque",
+      "armed",
+      "groups",
+      "attacked",
+      "multiple",
+      "villages",
+      "nigeria",
+      "article",
+      "20ad7e0e",
+      "e020",
+      "5aa0",
+      "b0bf",
+      "4feeca063265.html"
     ]
   }
 }
