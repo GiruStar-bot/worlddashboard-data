@@ -2,8 +2,8 @@
   "chokepoints": {
     "hormuz": {
       "name": "Strait of Hormuz",
-      "disruption_risk": 1.4,
-      "crisis_score_raw": 0.4108
+      "disruption_risk": 3.5,
+      "crisis_score_raw": 1.0583
     },
     "malacca": {
       "name": "Strait of Malacca",
@@ -12,13 +12,13 @@
     },
     "suez": {
       "name": "Suez Canal",
-      "disruption_risk": 37.3,
-      "crisis_score_raw": 11.1824
+      "disruption_risk": 47.9,
+      "crisis_score_raw": 14.3673
     },
     "bab_el_mandeb": {
       "name": "Bab-el-Mandeb",
-      "disruption_risk": 48.0,
-      "crisis_score_raw": 14.4023
+      "disruption_risk": 0.0,
+      "crisis_score_raw": 0.0
     },
     "panama": {
       "name": "Panama Canal",
@@ -32,8 +32,8 @@
     },
     "bosporus": {
       "name": "Bosporus Strait",
-      "disruption_risk": 9.2,
-      "crisis_score_raw": 2.7554
+      "disruption_risk": 11.1,
+      "crisis_score_raw": 3.3417
     },
     "cape_of_good_hope": {
       "name": "Cape of Good Hope",
@@ -49,7 +49,7 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 1.4
+          "disruption_risk": 3.5
         },
         {
           "id": "malacca",
@@ -62,10 +62,10 @@
           "disruption_risk": 0.0
         }
       ],
-      "survival_rate": 98.6,
+      "survival_rate": 96.5,
       "critical_node": "Strait of Hormuz",
-      "max_disruption_risk": 1.4,
-      "insight": "エネルギー航路 (中東 - 日本)の生存確率は極めて安定。最大リスクはStrait of Hormuz（封鎖リスク1.4%）だが、現状で直ちに航路変更を要する兆候はない。"
+      "max_disruption_risk": 3.5,
+      "insight": "エネルギー航路 (中東 - 日本)の生存確率は極めて安定。最大リスクはStrait of Hormuz（封鎖リスク3.5%）だが、現状で直ちに航路変更を要する兆候はない。"
     },
     {
       "id": "middle_east_to_europe",
@@ -74,23 +74,23 @@
         {
           "id": "hormuz",
           "name": "Strait of Hormuz",
-          "disruption_risk": 1.4
+          "disruption_risk": 3.5
         },
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 48.0
+          "disruption_risk": 0.0
         },
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 37.3
+          "disruption_risk": 47.9
         }
       ],
-      "survival_rate": 52.0,
-      "critical_node": "Bab-el-Mandeb",
-      "max_disruption_risk": 48.0,
-      "insight": "警告: エネルギー航路 (中東 - 欧州)の生存確率が52.0%まで低下。半径1500km圏内の紛争激化により、Bab-el-Mandebが深刻なボトルネックとなっている（封鎖リスク48.0%）。速やかな代替ルートへの切り替えを推奨。"
+      "survival_rate": 52.1,
+      "critical_node": "Suez Canal",
+      "max_disruption_risk": 47.9,
+      "insight": "警告: エネルギー航路 (中東 - 欧州)の生存確率が52.1%まで低下。半径1500km圏内の紛争激化により、Suez Canalが深刻なボトルネックとなっている（封鎖リスク47.9%）。速やかな代替ルートへの切り替えを推奨。"
     },
     {
       "id": "asia_to_europe_suez",
@@ -104,18 +104,18 @@
         {
           "id": "bab_el_mandeb",
           "name": "Bab-el-Mandeb",
-          "disruption_risk": 48.0
+          "disruption_risk": 0.0
         },
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 37.3
+          "disruption_risk": 47.9
         }
       ],
-      "survival_rate": 52.0,
-      "critical_node": "Bab-el-Mandeb",
-      "max_disruption_risk": 48.0,
-      "insight": "警告: 主要貿易航路 (アジア - 欧州 / スエズ経由)の生存確率が52.0%まで低下。半径1500km圏内の紛争激化により、Bab-el-Mandebが深刻なボトルネックとなっている（封鎖リスク48.0%）。速やかな代替ルートへの切り替えを推奨。"
+      "survival_rate": 52.1,
+      "critical_node": "Suez Canal",
+      "max_disruption_risk": 47.9,
+      "insight": "警告: 主要貿易航路 (アジア - 欧州 / スエズ経由)の生存確率が52.1%まで低下。半径1500km圏内の紛争激化により、Suez Canalが深刻なボトルネックとなっている（封鎖リスク47.9%）。速やかな代替ルートへの切り替えを推奨。"
     },
     {
       "id": "asia_to_europe_cape",
@@ -164,18 +164,18 @@
         {
           "id": "bosporus",
           "name": "Bosporus Strait",
-          "disruption_risk": 9.2
+          "disruption_risk": 11.1
         },
         {
           "id": "suez",
           "name": "Suez Canal",
-          "disruption_risk": 37.3
+          "disruption_risk": 47.9
         }
       ],
-      "survival_rate": 62.7,
+      "survival_rate": 52.1,
       "critical_node": "Suez Canal",
-      "max_disruption_risk": 37.3,
-      "insight": "警告: 黒海・地中海航路の生存確率が62.7%まで低下。半径1500km圏内の紛争激化により、Suez Canalが深刻なボトルネックとなっている（封鎖リスク37.3%）。速やかな代替ルートへの切り替えを推奨。"
+      "max_disruption_risk": 47.9,
+      "insight": "警告: 黒海・地中海航路の生存確率が52.1%まで低下。半径1500km圏内の紛争激化により、Suez Canalが深刻なボトルネックとなっている（封鎖リスク47.9%）。速やかな代替ルートへの切り替えを推奨。"
     }
   ]
 }

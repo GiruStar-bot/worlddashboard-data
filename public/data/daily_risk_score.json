@@ -1,73 +1,91 @@
 {
-  "ISR": {
-    "risk_score": 8.72,
-    "count": 9,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-occupiers-injure-at-least-20-palestinians-across-west-bank/4034829",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nypost.com/2026/08/22/world-news/slain-ayatollah-wanted-peace-talks-with-us-iranian-president-says/",
     "event_codes": {
-      "19": 6,
-      "18": 2,
-      "17": 1
+      "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "army",
-      "occupiers",
-      "injure",
-      "least",
-      "palestinians",
-      "across",
-      "west",
-      "bank",
-      "4034829"
+      "2026",
+      "world",
+      "news",
+      "slain",
+      "ayatollah",
+      "wanted",
+      "peace",
+      "talks",
+      "with",
+      "iranian",
+      "president",
+      "says"
     ]
   },
-  "PSE": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-occupiers-injure-at-least-20-palestinians-across-west-bank/4034829",
+  "ISR": {
+    "risk_score": 14.32,
+    "count": 17,
+    "top_news": "https://dominicanrepublicpost.com/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue/",
     "event_codes": {
-      "19": 4,
+      "19": 10,
+      "17": 6,
       "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
       "israeli",
-      "army",
-      "occupiers",
+      "strikes",
+      "kill",
+      "two",
+      "and",
       "injure",
-      "least",
-      "palestinians",
-      "across",
-      "west",
-      "bank",
-      "4034829"
+      "others",
+      "gaza",
+      "attacks",
+      "continue"
     ]
   },
-  "YEM": {
-    "risk_score": 12.72,
-    "count": 13,
-    "top_news": "https://aa.com.tr/en/middle-east/yemeni-government-forces-down-houthi-drone-destroy-bomb-laden-boat/4034849",
+  "NGA": {
+    "risk_score": 5.49,
+    "count": 6,
+    "top_news": "https://www.premiumtimesng.com/news/more-news/904740-calabar-mall-fire-five-arrested-with-stolen-items-police.html",
     "event_codes": {
-      "19": 12,
-      "15": 1
+      "18": 3,
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "yemeni",
-      "government",
-      "forces",
-      "down",
-      "houthi",
-      "drone",
-      "destroy",
-      "bomb",
-      "laden",
-      "boat",
-      "4034849"
+      "news",
+      "more",
+      "news",
+      "904740",
+      "calabar",
+      "mall",
+      "fire",
+      "five",
+      "arrested",
+      "with",
+      "stolen",
+      "items",
+      "police.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "israeli",
+      "strikes",
+      "kill",
+      "two",
+      "and",
+      "injure",
+      "others",
+      "gaza",
+      "attacks",
+      "continue"
     ]
   }
 }
