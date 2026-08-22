@@ -1,46 +1,56 @@
 {
-  "BOL": {
-    "risk_score": 3.16,
+  "NER": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/canada/2026/08/22/latvia-drones-hybrid-warfare-and-the-redeployment-of-canadian-troops",
+    "top_news": "https://www.vanguardngr.com/2026/08/gunmen-kill-15-policemen-in-niger/",
     "event_codes": {
-      "15": 3,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "canada",
       "2026",
-      "latvia",
-      "drones",
-      "hybrid",
-      "warfare",
-      "and",
-      "the",
-      "redeployment",
-      "canadian",
-      "troops"
+      "gunmen",
+      "kill",
+      "policemen",
+      "niger"
     ]
   },
   "NGA": {
-    "risk_score": 7.65,
-    "count": 8,
-    "top_news": "https://tribuneonlineng.com/rhi-receives-two-truckloads-of-food-monthly-for-vulnerable-nigerians-remi-tinubu/",
+    "risk_score": 8.95,
+    "count": 12,
+    "top_news": "https://thenationonlineng.net/police-dislodge-bandits-hideout-rescue-three-victims-in-kaduna/",
     "event_codes": {
       "19": 5,
-      "18": 3
+      "17": 4,
+      "14": 3
     },
     "keywords": [
-      "rhi",
-      "receives",
-      "two",
-      "truckloads",
-      "food",
-      "monthly",
-      "for",
-      "vulnerable",
-      "nigerians",
-      "remi",
-      "tinubu"
+      "police",
+      "dislodge",
+      "bandits",
+      "hideout",
+      "rescue",
+      "three",
+      "victims",
+      "kaduna"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/22/774869/Syria-drone-attack-Israel-Beit-Jinn",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774869",
+      "syria",
+      "drone",
+      "attack",
+      "israel",
+      "beit",
+      "jinn"
     ]
   }
 }
