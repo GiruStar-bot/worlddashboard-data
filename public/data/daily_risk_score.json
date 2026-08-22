@@ -1,31 +1,151 @@
 {
-  "NGA": {
-    "risk_score": 22.53,
-    "count": 25,
-    "top_news": "https://www.dailymail.com/news/article-16071761/Jihadists-slaughter-kidnap-dozens-people-not-practicing-true-teachings-Islam-Friday-prayers-Nigeria.html",
+  "BFA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bangkokpost.com/world/3306178/dozens-more-civilians-killed-kidnapped-in-nigeria",
     "event_codes": {
-      "18": 14,
-      "19": 5,
-      "17": 4,
-      "14": 2
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "3306178",
+      "dozens",
+      "more",
+      "civilians",
+      "killed",
+      "kidnapped",
+      "nigeria"
+    ]
+  },
+  "ISR": {
+    "risk_score": 17.3,
+    "count": 19,
+    "top_news": "https://www.ynetnews.com/article/r1l47alvfx",
+    "event_codes": {
+      "19": 15,
+      "14": 2,
+      "17": 2
+    },
+    "keywords": [
+      "article",
+      "r1l47alvfx"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20260822-lebanons-president-urges-italian-premier-to-pressure-israel-to-uphold-framework-agreement/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "20260822",
+      "lebanons",
+      "president",
+      "urges",
+      "italian",
+      "premier",
+      "pressure",
+      "israel",
+      "uphold",
+      "framework",
+      "agreement"
+    ]
+  },
+  "MMR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bssnews.net/international/416967",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "international",
+      "416967"
+    ]
+  },
+  "MYS": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://tradearabia.com:443/News/466802/Abu-Dhabi-Islamic-Bank-names-new-AI-head/BANK",
+    "event_codes": {
+      "17": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "article",
-      "16071761",
-      "jihadists",
-      "slaughter",
-      "kidnap",
+      "466802",
+      "abu",
+      "dhabi",
+      "islamic",
+      "bank",
+      "names",
+      "new",
+      "head",
+      "bank"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.bangkokpost.com/world/3306178/dozens-more-civilians-killed-kidnapped-in-nigeria",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "3306178",
       "dozens",
-      "people",
-      "not",
-      "practicing",
-      "true",
-      "teachings",
-      "islam",
-      "friday",
-      "prayers",
-      "nigeria.html"
+      "more",
+      "civilians",
+      "killed",
+      "kidnapped",
+      "nigeria"
+    ]
+  },
+  "NGA": {
+    "risk_score": 30.3,
+    "count": 32,
+    "top_news": "https://www.bangkokpost.com/world/3306178/dozens-more-civilians-killed-kidnapped-in-nigeria",
+    "event_codes": {
+      "19": 17,
+      "18": 13,
+      "14": 2
+    },
+    "keywords": [
+      "world",
+      "3306178",
+      "dozens",
+      "more",
+      "civilians",
+      "killed",
+      "kidnapped",
+      "nigeria"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/r1l47alvfx",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "r1l47alvfx"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/r1l47alvfx",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "r1l47alvfx"
     ]
   }
 }
