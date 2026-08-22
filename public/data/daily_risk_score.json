@@ -1,82 +1,165 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/22/774858/New-offensive,-defensive-systems-deployed-under-wartime-defense-ministry",
+  "EGY": {
+    "risk_score": 2.16,
+    "count": 3,
+    "top_news": "https://slguardian.org/chinas-j-16-fighters-land-in-africa-expanding-beijings-military-reach/",
     "event_codes": {
-      "19": 2
+      "15": 3
     },
     "keywords": [
-      "detail",
-      "2026",
-      "774858",
-      "new",
-      "offensive,",
-      "defensive",
-      "systems",
-      "deployed",
-      "under",
-      "wartime",
-      "defense",
-      "ministry"
+      "chinas",
+      "fighters",
+      "land",
+      "africa",
+      "expanding",
+      "beijings",
+      "military",
+      "reach"
+    ]
+  },
+  "IRN": {
+    "risk_score": 12.0,
+    "count": 12,
+    "top_news": "https://dominicanrepublicpost.com/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities/",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "what",
+      "did",
+      "war",
+      "with",
+      "the",
+      "reveal",
+      "about",
+      "irans",
+      "weapons",
+      "capabilities"
     ]
   },
   "ISR": {
-    "risk_score": 31.97,
-    "count": 33,
-    "top_news": "https://english.wafa.ps/Pages/Details/174021",
+    "risk_score": 23.7,
+    "count": 24,
+    "top_news": "https://www.middleeasteye.net/news/israeli-forces-reportedly-use-phosphorus-shells-indiscriminate-attacks-southern-lebanon",
     "event_codes": {
-      "19": 25,
-      "18": 7,
-      "17": 1
+      "19": 22,
+      "18": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "174021"
+      "news",
+      "israeli",
+      "forces",
+      "reportedly",
+      "use",
+      "phosphorus",
+      "shells",
+      "indiscriminate",
+      "attacks",
+      "southern",
+      "lebanon"
     ]
   },
   "LBN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/22/774857/Lebanon-Israeli-forces-artillery-attacks-southern-areas-phosphorus-shells-",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/news/israeli-forces-reportedly-use-phosphorus-shells-indiscriminate-attacks-southern-lebanon",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "19": 6
     },
     "keywords": [
-      "detail",
-      "2026",
-      "774857",
-      "lebanon",
+      "news",
       "israeli",
       "forces",
-      "artillery",
+      "reportedly",
+      "use",
+      "phosphorus",
+      "shells",
+      "indiscriminate",
       "attacks",
       "southern",
-      "areas",
-      "phosphorus",
-      "shells"
+      "lebanon"
     ]
   },
-  "NGA": {
-    "risk_score": 6.45,
-    "count": 7,
-    "top_news": "https://theeagleonline.com.ng/2027-ill-keep-atiku-obi-under-pressure-says-wike/",
+  "QAT": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://slguardian.org/qatar-cuts-spending-as-war-hits-gas-revenues/",
     "event_codes": {
-      "19": 5,
-      "14": 2
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "2027",
-      "ill",
-      "keep",
-      "atiku",
-      "obi",
-      "under",
-      "pressure",
-      "says",
-      "wike"
+      "qatar",
+      "cuts",
+      "spending",
+      "war",
+      "hits",
+      "gas",
+      "revenues"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dominicanrepublicpost.com/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "what",
+      "did",
+      "war",
+      "with",
+      "the",
+      "reveal",
+      "about",
+      "irans",
+      "weapons",
+      "capabilities"
+    ]
+  },
+  "SYR": {
+    "risk_score": 8.8,
+    "count": 9,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-strike-civilian-vehicle-near-damascus",
+    "event_codes": {
+      "19": 6,
+      "18": 3
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "syria",
+      "condemns",
+      "israeli",
+      "strike",
+      "civilian",
+      "vehicle",
+      "near",
+      "damascus"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.16,
+    "count": 6,
+    "top_news": "https://slguardian.org/israel-turkey-tensions-risk-turning-syria-into-a-new-front/",
+    "event_codes": {
+      "15": 3,
+      "19": 3
+    },
+    "keywords": [
+      "israel",
+      "turkey",
+      "tensions",
+      "risk",
+      "turning",
+      "syria",
+      "into",
+      "new",
+      "front"
     ]
   }
 }
