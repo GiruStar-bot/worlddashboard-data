@@ -1,42 +1,45 @@
 {
-  "COL": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://nypost.com/2026/08/22/world-news/colombian-influencer-banned-by-airline-after-stink-bombing-flight/",
+  "ISR": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine",
     "event_codes": {
-      "17": 5
+      "20": 4,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "world",
       "news",
-      "colombian",
-      "influencer",
-      "banned",
-      "airline",
-      "after",
-      "stink",
-      "bombing",
-      "flight"
+      "2026",
+      "over",
+      "100",
+      "diplomats",
+      "urge",
+      "france",
+      "sanction",
+      "israel",
+      "over",
+      "palestine"
     ]
   },
-  "SOM": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://raxanreeb.com/somalia-local-forces-eliminate-senior-al-shabaab-commander-in-middle-shabelle/",
+  "SYR": {
+    "risk_score": 2.7,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria",
     "event_codes": {
-      "19": 5
+      "16": 2,
+      "18": 2
     },
     "keywords": [
-      "somalia",
-      "local",
-      "forces",
-      "eliminate",
-      "senior",
-      "shabaab",
-      "commander",
-      "middle",
-      "shabelle"
+      "news",
+      "2026",
+      "israeli",
+      "drone",
+      "strike",
+      "civilian",
+      "vehicle",
+      "causes",
+      "injuries",
+      "syria"
     ]
   }
 }
