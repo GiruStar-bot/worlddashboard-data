@@ -1,19 +1,51 @@
 {
-  "BRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://vintageaviationnews.com/warbird-articles/squadron-histories/attack-squadron-135.html",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2588602/return-to-terror-kites-multiple-kites-found-in-gaza-border-yishuvim.html",
     "event_codes": {
-      "19": 6
+      "16": 3,
+      "19": 1
     },
     "keywords": [
-      "warbird",
+      "news",
+      "israel",
+      "news",
+      "2588602",
+      "return",
+      "terror",
+      "kites",
+      "multiple",
+      "kites",
+      "found",
+      "gaza",
+      "border",
+      "yishuvim.html"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.cruiselawnews.com/2011/08/articles/jim-personal-stories/a-view-from-a-fifth-grader-gaddafi-finally-falls-42-years-later/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2011",
       "articles",
-      "squadron",
-      "histories",
-      "attack",
-      "squadron",
-      "135.html"
+      "jim",
+      "personal",
+      "stories",
+      "view",
+      "from",
+      "fifth",
+      "grader",
+      "gaddafi",
+      "finally",
+      "falls",
+      "years",
+      "later"
     ]
   }
 }
