@@ -1,59 +1,46 @@
 {
-  "ISR": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "http://www.middleeaststar.com/news/279258571/israeli-settlers-kill-palestinian-teenager-in-occupied-west-bank",
+  "BOL": {
+    "risk_score": 3.16,
+    "count": 4,
+    "top_news": "https://www.winnipegfreepress.com/canada/2026/08/22/latvia-drones-hybrid-warfare-and-the-redeployment-of-canadian-troops",
     "event_codes": {
-      "19": 10
+      "15": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "279258571",
-      "israeli",
-      "settlers",
-      "kill",
-      "palestinian",
-      "teenager",
-      "occupied",
-      "west",
-      "bank"
+      "canada",
+      "2026",
+      "latvia",
+      "drones",
+      "hybrid",
+      "warfare",
+      "and",
+      "the",
+      "redeployment",
+      "canadian",
+      "troops"
     ]
   },
   "NGA": {
-    "risk_score": 7.6,
+    "risk_score": 7.65,
     "count": 8,
-    "top_news": "http://silverbirdtv.com/jennifer-adighijerepositioning-niger-delta-power-holding-company/",
+    "top_news": "https://tribuneonlineng.com/rhi-receives-two-truckloads-of-food-monthly-for-vulnerable-nigerians-remi-tinubu/",
     "event_codes": {
-      "19": 8
+      "19": 5,
+      "18": 3
     },
     "keywords": [
-      "jennifer",
-      "adighijerepositioning",
-      "niger",
-      "delta",
-      "power",
-      "holding",
-      "company"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.middleeaststar.com/news/279258571/israeli-settlers-kill-palestinian-teenager-in-occupied-west-bank",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "279258571",
-      "israeli",
-      "settlers",
-      "kill",
-      "palestinian",
-      "teenager",
-      "occupied",
-      "west",
-      "bank"
+      "rhi",
+      "receives",
+      "two",
+      "truckloads",
+      "food",
+      "monthly",
+      "for",
+      "vulnerable",
+      "nigerians",
+      "remi",
+      "tinubu"
     ]
   }
 }
