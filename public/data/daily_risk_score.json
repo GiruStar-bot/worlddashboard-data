@@ -1,56 +1,23 @@
 {
-  "NER": {
-    "risk_score": 4.0,
+  "ISR": {
+    "risk_score": 3.8,
     "count": 4,
-    "top_news": "https://www.vanguardngr.com/2026/08/gunmen-kill-15-policemen-in-niger/",
+    "top_news": "http://thepeninsulaqatar.com/article/22/08/2026/14-palestinians-shot-injured-asphyxiated-in-israeli-west-bank-incursions",
     "event_codes": {
-      "19": 4
+      "18": 3,
+      "19": 1
     },
     "keywords": [
+      "article",
       "2026",
-      "gunmen",
-      "kill",
-      "policemen",
-      "niger"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.95,
-    "count": 12,
-    "top_news": "https://thenationonlineng.net/police-dislodge-bandits-hideout-rescue-three-victims-in-kaduna/",
-    "event_codes": {
-      "19": 5,
-      "17": 4,
-      "14": 3
-    },
-    "keywords": [
-      "police",
-      "dislodge",
-      "bandits",
-      "hideout",
-      "rescue",
-      "three",
-      "victims",
-      "kaduna"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/22/774869/Syria-drone-attack-Israel-Beit-Jinn",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "774869",
-      "syria",
-      "drone",
-      "attack",
-      "israel",
-      "beit",
-      "jinn"
+      "palestinians",
+      "shot",
+      "injured",
+      "asphyxiated",
+      "israeli",
+      "west",
+      "bank",
+      "incursions"
     ]
   }
 }
