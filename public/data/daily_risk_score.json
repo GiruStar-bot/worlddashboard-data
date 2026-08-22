@@ -1,28 +1,34 @@
 {
-  "ISR": {
-    "risk_score": 8.1,
-    "count": 9,
-    "top_news": "https://nuclear-news.net/2026/08/22/3-b1-senior-israeli-official-calls-for-killing-of-30-to-40-people-in-gaza-every-night-theyre-not-even-people/",
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.siasat.com/trump-calls-strait-of-hormuz-american-territory-3528838/",
     "event_codes": {
-      "18": 8,
-      "17": 1
+      "19": 4
+    },
+    "keywords": [
+      "trump",
+      "calls",
+      "strait",
+      "hormuz",
+      "american",
+      "territory",
+      "3528838"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.92,
+    "count": 6,
+    "top_news": "https://www.juancole.com/2026/08/turkiyes-interpol-netanyahu.html",
+    "event_codes": {
+      "17": 5,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "senior",
-      "israeli",
-      "official",
-      "calls",
-      "for",
-      "killing",
-      "people",
-      "gaza",
-      "every",
-      "night",
-      "theyre",
-      "not",
-      "even",
-      "people"
+      "turkiyes",
+      "interpol",
+      "netanyahu.html"
     ]
   }
 }
