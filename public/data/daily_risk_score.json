@@ -1,48 +1,92 @@
 {
-  "ISR": {
-    "risk_score": 11.95,
-    "count": 12,
-    "top_news": "https://english.news.cn/20260822/d27a423eb3c54c3f8c2256f910c7fc7b/c.html",
+  "ARE": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.dailymail.com/news/article-16067747/Daniel-Kinahan-bars-narco-king-presidents.html",
     "event_codes": {
-      "19": 11,
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16067747",
+      "daniel",
+      "kinahan",
+      "bars",
+      "narco",
+      "king",
+      "presidents.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 19.9,
+    "count": 20,
+    "top_news": "https://www.dailysabah.com/world/mid-east/israel-strike-in-syria-nearly-triggers-clash-with-turkiye-us-envoy",
+    "event_codes": {
+      "19": 19,
       "18": 1
     },
     "keywords": [
-      "20260822",
-      "d27a423eb3c54c3f8c2256f910c7fc7b",
-      "c.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://leadership.ng/troops-rescue-kidnap-victim-in-kaduna-neutralize-terrorist-in-sokoto/",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "troops",
-      "rescue",
-      "kidnap",
-      "victim",
-      "kaduna",
-      "neutralize",
-      "terrorist",
-      "sokoto"
+      "world",
+      "mid",
+      "east",
+      "israel",
+      "strike",
+      "syria",
+      "nearly",
+      "triggers",
+      "clash",
+      "with",
+      "turkiye",
+      "envoy"
     ]
   },
   "SYR": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://english.news.cn/20260822/d27a423eb3c54c3f8c2256f910c7fc7b/c.html",
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://news.az/news/why-did-israel-strike-a-syrian-air-base-over-false-int-elligence-about-turkiye",
     "event_codes": {
-      "19": 6
+      "19": 5
     },
     "keywords": [
-      "20260822",
-      "d27a423eb3c54c3f8c2256f910c7fc7b",
-      "c.html"
+      "news",
+      "why",
+      "did",
+      "israel",
+      "strike",
+      "syrian",
+      "air",
+      "base",
+      "over",
+      "false",
+      "int",
+      "elligence",
+      "about",
+      "turkiye"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.dailysabah.com/world/mid-east/israel-strike-in-syria-nearly-triggers-clash-with-turkiye-us-envoy",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "israel",
+      "strike",
+      "syria",
+      "nearly",
+      "triggers",
+      "clash",
+      "with",
+      "turkiye",
+      "envoy"
     ]
   }
 }
