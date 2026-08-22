@@ -1,22 +1,101 @@
 {
-  "MMR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.bnionline.net/en/news/myanmar-military-airstrike-monastery-kills-least-12-during-buddhist-sabbath",
+  "BRA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.cnn.com/2026/08/22/politics/judge-voids-trumps-75-country-visa-ban-hnk",
     "event_codes": {
-      "19": 4
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "politics",
+      "judge",
+      "voids",
+      "trumps",
+      "country",
+      "visa",
+      "ban",
+      "hnk"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.chennaionline.com/news/us-iran-escalate-tensions-before-new-sanctions/",
+    "event_codes": {
+      "16": 3
     },
     "keywords": [
       "news",
-      "myanmar",
-      "military",
-      "airstrike",
-      "monastery",
-      "kills",
-      "least",
-      "during",
-      "buddhist",
-      "sabbath"
+      "iran",
+      "escalate",
+      "tensions",
+      "before",
+      "new",
+      "sanctions"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.hurriyetdailynews.com/israel-struck-syrian-base-despite-being-told-no-turkish-troops-barrack-225912",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "struck",
+      "syrian",
+      "base",
+      "despite",
+      "being",
+      "told",
+      "turkish",
+      "troops",
+      "barrack",
+      "225912"
+    ]
+  },
+  "LBY": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell",
+    "event_codes": {
+      "19": 4,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "young",
+      "want",
+      "leave",
+      "libyas",
+      "brain",
+      "drain",
+      "years",
+      "after",
+      "tripoli",
+      "fell"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.3,
+    "count": 9,
+    "top_news": "https://tribuneonlineng.com/why-atikus-subsidy-gambit-rattles-tinubu/",
+    "event_codes": {
+      "18": 7,
+      "19": 2
+    },
+    "keywords": [
+      "why",
+      "atikus",
+      "subsidy",
+      "gambit",
+      "rattles",
+      "tinubu"
     ]
   }
 }
