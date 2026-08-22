@@ -1,92 +1,74 @@
 {
   "IRN": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://finance.yahoo.com/energy/articles/iranian-oil-supply-china-rapidly-091500264.html",
+    "risk_score": 6.05,
+    "count": 7,
+    "top_news": "http://www.jpost.com/middle-east/iran-news/article-906165",
     "event_codes": {
-      "16": 4
+      "18": 5,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "energy",
-      "articles",
-      "iranian",
-      "oil",
-      "supply",
-      "china",
-      "rapidly",
-      "091500264.html"
+      "middle",
+      "east",
+      "iran",
+      "news",
+      "article",
+      "906165"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.45,
+    "count": 21,
+    "top_news": "https://tribune.com.pk/story/2625251/us-says-intelligence-behind-israeli-strike-on-syria-air-base-was-wrong",
+    "event_codes": {
+      "19": 15,
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "story",
+      "2625251",
+      "says",
+      "intelligence",
+      "behind",
+      "israeli",
+      "strike",
+      "syria",
+      "air",
+      "base",
+      "was",
+      "wrong"
     ]
   },
   "SYR": {
-    "risk_score": 5.0,
+    "risk_score": 6.4,
+    "count": 10,
+    "top_news": "https://www.arabnews.com/node/2655502/middle-east",
+    "event_codes": {
+      "17": 7,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "node",
+      "2655502",
+      "middle",
+      "east"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.9,
     "count": 5,
-    "top_news": "https://english.aawsat.com/arab-world/5309778-syria-cautiously-welcomes-abdi%E2%80%99s-integration-announcement-awaits-implementation",
+    "top_news": "http://www.jpost.com/middle-east/article-906241",
     "event_codes": {
-      "19": 3,
-      "18": 2
+      "19": 5
     },
     "keywords": [
-      "arab",
-      "world",
-      "5309778",
-      "syria",
-      "cautiously",
-      "welcomes",
-      "abdi%e2%80%99s",
-      "integration",
-      "announcement",
-      "awaits",
-      "implementation"
-    ]
-  },
-  "TCD": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.cadillacnews.com/news/questions-remain-about-chad-hickman-s-history-one-week-after-missaukee-county-shootings/article_29025774-9309-4685-a80c-07dbd254ce14.html",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "questions",
-      "remain",
-      "about",
-      "chad",
-      "hickman",
-      "history",
-      "one",
-      "week",
-      "after",
-      "missaukee",
-      "county",
-      "shootings",
+      "middle",
+      "east",
       "article",
-      "29025774",
-      "9309",
-      "4685",
-      "a80c",
-      "07dbd254ce14.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 5.66,
-    "count": 8,
-    "top_news": "https://english.aawsat.com/arab-world/5309776-houthis-tighten-security-grip-ibb",
-    "event_codes": {
-      "15": 3,
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5309776",
-      "houthis",
-      "tighten",
-      "security",
-      "grip",
-      "ibb"
+      "906241"
     ]
   }
 }
