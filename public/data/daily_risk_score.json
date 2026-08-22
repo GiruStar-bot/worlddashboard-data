@@ -1,74 +1,31 @@
 {
-  "IRN": {
-    "risk_score": 6.05,
-    "count": 7,
-    "top_news": "http://www.jpost.com/middle-east/iran-news/article-906165",
+  "NGA": {
+    "risk_score": 22.53,
+    "count": 25,
+    "top_news": "https://www.dailymail.com/news/article-16071761/Jihadists-slaughter-kidnap-dozens-people-not-practicing-true-teachings-Islam-Friday-prayers-Nigeria.html",
     "event_codes": {
-      "18": 5,
-      "17": 1,
-      "19": 1
+      "18": 14,
+      "19": 5,
+      "17": 4,
+      "14": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "iran",
       "news",
       "article",
-      "906165"
-    ]
-  },
-  "ISR": {
-    "risk_score": 18.45,
-    "count": 21,
-    "top_news": "https://tribune.com.pk/story/2625251/us-says-intelligence-behind-israeli-strike-on-syria-air-base-was-wrong",
-    "event_codes": {
-      "19": 15,
-      "17": 5,
-      "18": 1
-    },
-    "keywords": [
-      "story",
-      "2625251",
-      "says",
-      "intelligence",
-      "behind",
-      "israeli",
-      "strike",
-      "syria",
-      "air",
-      "base",
-      "was",
-      "wrong"
-    ]
-  },
-  "SYR": {
-    "risk_score": 6.4,
-    "count": 10,
-    "top_news": "https://www.arabnews.com/node/2655502/middle-east",
-    "event_codes": {
-      "17": 7,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "node",
-      "2655502",
-      "middle",
-      "east"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "http://www.jpost.com/middle-east/article-906241",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "906241"
+      "16071761",
+      "jihadists",
+      "slaughter",
+      "kidnap",
+      "dozens",
+      "people",
+      "not",
+      "practicing",
+      "true",
+      "teachings",
+      "islam",
+      "friday",
+      "prayers",
+      "nigeria.html"
     ]
   }
 }
