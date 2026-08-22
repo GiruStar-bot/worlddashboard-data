@@ -1,20 +1,58 @@
 {
-  "NGA": {
-    "risk_score": 3.0,
+  "IRN": {
+    "risk_score": 3.55,
     "count": 4,
-    "top_news": "https://thesun.ng/northern-senators-demand-urgent-action-on-state-police/",
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/22/774828/Production-strategic-military-equipment-tripled-during-US-Israeli-aggression--Defense-Ministry",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "16": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "northern",
-      "senators",
-      "demand",
-      "urgent",
-      "action",
-      "state",
-      "police"
+      "detail",
+      "2026",
+      "774828",
+      "production",
+      "strategic",
+      "military",
+      "equipment",
+      "tripled",
+      "during",
+      "israeli",
+      "aggression",
+      "defense",
+      "ministry"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.22,
+    "count": 8,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/rj11zcoldmg",
+    "event_codes": {
+      "19": 6,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "opinions",
+      "analysis",
+      "article",
+      "rj11zcoldmg"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.0,
+    "count": 7,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/rj11zcoldmg",
+    "event_codes": {
+      "17": 6,
+      "19": 1
+    },
+    "keywords": [
+      "opinions",
+      "analysis",
+      "article",
+      "rj11zcoldmg"
     ]
   }
 }
