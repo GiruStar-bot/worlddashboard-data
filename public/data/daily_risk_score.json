@@ -1,24 +1,28 @@
 {
-  "MYS": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.geo.tv/latest/678760-pakistan-malaysia-agree-to-boost-intelligence-sharing-to-combat-terrorism-human-smuggling",
+  "ISR": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://sana.sy/en/international/2337861/",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "18": 2
     },
     "keywords": [
-      "latest",
-      "678760",
-      "pakistan",
-      "malaysia",
-      "agree",
-      "boost",
-      "intelligence",
-      "sharing",
-      "combat",
-      "terrorism",
-      "human",
-      "smuggling"
+      "international",
+      "2337861"
+    ]
+  },
+  "LBN": {
+    "risk_score": 6.87,
+    "count": 7,
+    "top_news": "https://sana.sy/en/international/2337861/",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "international",
+      "2337861"
     ]
   }
 }
