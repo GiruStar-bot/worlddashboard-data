@@ -1,34 +1,92 @@
 {
   "IRN": {
-    "risk_score": 4.0,
+    "risk_score": 2.8,
     "count": 4,
-    "top_news": "https://www.siasat.com/trump-calls-strait-of-hormuz-american-territory-3528838/",
+    "top_news": "https://finance.yahoo.com/energy/articles/iranian-oil-supply-china-rapidly-091500264.html",
     "event_codes": {
-      "19": 4
+      "16": 4
     },
     "keywords": [
-      "trump",
-      "calls",
-      "strait",
-      "hormuz",
-      "american",
-      "territory",
-      "3528838"
+      "energy",
+      "articles",
+      "iranian",
+      "oil",
+      "supply",
+      "china",
+      "rapidly",
+      "091500264.html"
     ]
   },
-  "ISR": {
-    "risk_score": 3.92,
-    "count": 6,
-    "top_news": "https://www.juancole.com/2026/08/turkiyes-interpol-netanyahu.html",
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/arab-world/5309778-syria-cautiously-welcomes-abdi%E2%80%99s-integration-announcement-awaits-implementation",
     "event_codes": {
-      "17": 5,
-      "19": 1
+      "19": 3,
+      "18": 2
     },
     "keywords": [
-      "2026",
-      "turkiyes",
-      "interpol",
-      "netanyahu.html"
+      "arab",
+      "world",
+      "5309778",
+      "syria",
+      "cautiously",
+      "welcomes",
+      "abdi%e2%80%99s",
+      "integration",
+      "announcement",
+      "awaits",
+      "implementation"
+    ]
+  },
+  "TCD": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.cadillacnews.com/news/questions-remain-about-chad-hickman-s-history-one-week-after-missaukee-county-shootings/article_29025774-9309-4685-a80c-07dbd254ce14.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "questions",
+      "remain",
+      "about",
+      "chad",
+      "hickman",
+      "history",
+      "one",
+      "week",
+      "after",
+      "missaukee",
+      "county",
+      "shootings",
+      "article",
+      "29025774",
+      "9309",
+      "4685",
+      "a80c",
+      "07dbd254ce14.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.66,
+    "count": 8,
+    "top_news": "https://english.aawsat.com/arab-world/5309776-houthis-tighten-security-grip-ibb",
+    "event_codes": {
+      "15": 3,
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5309776",
+      "houthis",
+      "tighten",
+      "security",
+      "grip",
+      "ibb"
     ]
   }
 }
