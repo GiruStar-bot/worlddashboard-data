@@ -1,51 +1,63 @@
 {
   "ISR": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2588602/return-to-terror-kites-multiple-kites-found-in-gaza-border-yishuvim.html",
+    "risk_score": 8.42,
+    "count": 11,
+    "top_news": "https://dominicanrepublicpost.com/israeli-army-and-settlers-injure-several-palestinians-across-west-bank/",
     "event_codes": {
-      "16": 3,
-      "19": 1
+      "17": 6,
+      "19": 5
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "2588602",
-      "return",
-      "terror",
-      "kites",
-      "multiple",
-      "kites",
-      "found",
-      "gaza",
-      "border",
-      "yishuvim.html"
+      "israeli",
+      "army",
+      "and",
+      "settlers",
+      "injure",
+      "several",
+      "palestinians",
+      "across",
+      "west",
+      "bank"
     ]
   },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.cruiselawnews.com/2011/08/articles/jim-personal-stories/a-view-from-a-fifth-grader-gaddafi-finally-falls-42-years-later/",
+  "NER": {
+    "risk_score": 4.9,
+    "count": 5,
+    "top_news": "https://www.newcastleherald.com.au/story/9335393/gunmen-abduct-worshippers-from-nigeria-mosque-police/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "2011",
-      "articles",
-      "jim",
-      "personal",
-      "stories",
-      "view",
+      "story",
+      "9335393",
+      "gunmen",
+      "abduct",
+      "worshippers",
       "from",
-      "fifth",
-      "grader",
-      "gaddafi",
-      "finally",
-      "falls",
-      "years",
-      "later"
+      "nigeria",
+      "mosque",
+      "police"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.newcastleherald.com.au/story/9335393/gunmen-abduct-worshippers-from-nigeria-mosque-police/",
+    "event_codes": {
+      "18": 3,
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "9335393",
+      "gunmen",
+      "abduct",
+      "worshippers",
+      "from",
+      "nigeria",
+      "mosque",
+      "police"
     ]
   }
 }
