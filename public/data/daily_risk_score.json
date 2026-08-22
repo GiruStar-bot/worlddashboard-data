@@ -1,33 +1,88 @@
 {
-  "GUY": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.cubaheadlines.com/articles/338433",
+  "ARE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://timesofindia.indiatimes.com/india/sambhal-violence-interpol-issues-red-corner-notice-against-mastermind-shariq-satha/articleshow/133416669.cms",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "articles",
-      "338433"
+      "india",
+      "sambhal",
+      "violence",
+      "interpol",
+      "issues",
+      "red",
+      "corner",
+      "notice",
+      "against",
+      "mastermind",
+      "shariq",
+      "satha",
+      "articleshow",
+      "133416669.cms"
     ]
   },
-  "ZWE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.christianpost.com/news/christian-commentators-slam-canterbury-cathedrals-silent-disco.html",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.zerohedge.com/geopolitical/who-really-drives-global-terrorism-internal-us-government-data-offers-surprising",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "news",
-      "christian",
-      "commentators",
-      "slam",
-      "canterbury",
-      "cathedrals",
-      "silent",
-      "disco.html"
+      "geopolitical",
+      "who",
+      "really",
+      "drives",
+      "global",
+      "terrorism",
+      "internal",
+      "government",
+      "data",
+      "offers",
+      "surprising"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.3,
+    "count": 12,
+    "top_news": "https://www.naturalnews.com/2026-08-21-israeli-minister-presents-execution-facility-palestinian-prisoners.html",
+    "event_codes": {
+      "17": 7,
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "minister",
+      "presents",
+      "execution",
+      "facility",
+      "palestinian",
+      "prisoners.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.theepochtimes.com/us/trump-hosts-freed-american-missionary-pilot-and-wife-at-white-house-6078339",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "trump",
+      "hosts",
+      "freed",
+      "american",
+      "missionary",
+      "pilot",
+      "and",
+      "wife",
+      "white",
+      "house",
+      "6078339"
     ]
   }
 }
