@@ -1,40 +1,69 @@
 {
   "ISR": {
-    "risk_score": 5.3,
-    "count": 7,
-    "top_news": "https://www.epw.in:443/journal/editorials/rethink-west-asian-strategy.html",
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://sana.sy/en/international/2337836/",
     "event_codes": {
-      "17": 3,
-      "18": 2,
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "international",
+      "2337836"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://sana.sy/en/middle-east/2337823/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "journal",
-      "editorials",
-      "rethink",
-      "west",
-      "asian",
-      "strategy.html"
+      "middle",
+      "east",
+      "2337823"
     ]
   },
   "NGA": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://thesun.ng/troops-rescue-kidnap-victim-foil-terror-attack-in-kaduna-sokoto/",
+    "risk_score": 7.52,
+    "count": 12,
+    "top_news": "https://blueprint.ng/troops-rescued-51-kidnapped-victims-neutralised-scores-in-one-week-dhq/",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "17": 8,
+      "18": 2,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
       "troops",
-      "rescue",
-      "kidnap",
-      "victim",
-      "foil",
-      "terror",
-      "attack",
-      "kaduna",
-      "sokoto"
+      "rescued",
+      "kidnapped",
+      "victims",
+      "neutralised",
+      "scores",
+      "one",
+      "week",
+      "dhq"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://www.egyptindependent.com/explosion-kill-3-civilians-wound-6-more-in-syrian-countryside/",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "explosion",
+      "kill",
+      "civilians",
+      "wound",
+      "more",
+      "syrian",
+      "countryside"
     ]
   }
 }
