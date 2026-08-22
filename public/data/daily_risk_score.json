@@ -1,92 +1,94 @@
 {
-  "ARE": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.dailymail.com/news/article-16067747/Daniel-Kinahan-bars-narco-king-presidents.html",
+  "IRN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260821-sputnik02.htm",
     "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "16067747",
-      "daniel",
-      "kinahan",
-      "bars",
-      "narco",
-      "king",
-      "presidents.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 19.9,
-    "count": 20,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israel-strike-in-syria-nearly-triggers-clash-with-turkiye-us-envoy",
-    "event_codes": {
-      "19": 19,
+      "19": 2,
+      "16": 1,
       "18": 1
     },
     "keywords": [
-      "world",
-      "mid",
+      "wmd",
+      "library",
+      "news",
+      "iran",
+      "2026",
+      "iran",
+      "260821",
+      "sputnik02.htm"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.65,
+    "count": 14,
+    "top_news": "http://www.jpost.com/opinion/article-906086",
+    "event_codes": {
+      "18": 6,
+      "19": 4,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "opinion",
+      "article",
+      "906086"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "http://www.jpost.com/middle-east/article-906255",
+    "event_codes": {
+      "17": 5,
+      "18": 2
+    },
+    "keywords": [
+      "middle",
       "east",
-      "israel",
-      "strike",
-      "syria",
-      "nearly",
-      "triggers",
-      "clash",
-      "with",
-      "turkiye",
-      "envoy"
+      "article",
+      "906255"
+    ]
+  },
+  "NGA": {
+    "risk_score": 24.05,
+    "count": 25,
+    "top_news": "https://thenationonlineng.net/kunle-afod-rallies-support-for-actor-baba-opebe-amid-health-battle/",
+    "event_codes": {
+      "19": 16,
+      "18": 9
+    },
+    "keywords": [
+      "kunle",
+      "afod",
+      "rallies",
+      "support",
+      "for",
+      "actor",
+      "baba",
+      "opebe",
+      "amid",
+      "health",
+      "battle"
     ]
   },
   "SYR": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://news.az/news/why-did-israel-strike-a-syrian-air-base-over-false-int-elligence-about-turkiye",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260821-france-meae01.htm",
     "event_codes": {
-      "19": 5
+      "19": 3
     },
     "keywords": [
+      "wmd",
+      "library",
       "news",
-      "why",
-      "did",
-      "israel",
-      "strike",
-      "syrian",
-      "air",
-      "base",
-      "over",
-      "false",
-      "int",
-      "elligence",
-      "about",
-      "turkiye"
-    ]
-  },
-  "TUR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.dailysabah.com/world/mid-east/israel-strike-in-syria-nearly-triggers-clash-with-turkiye-us-envoy",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "israel",
-      "strike",
       "syria",
-      "nearly",
-      "triggers",
-      "clash",
-      "with",
-      "turkiye",
-      "envoy"
+      "2026",
+      "syria",
+      "260821",
+      "france",
+      "meae01.htm"
     ]
   }
 }
