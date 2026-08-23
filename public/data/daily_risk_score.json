@@ -1,57 +1,24 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
+  "ISR": {
+    "risk_score": 2.36,
     "count": 4,
-    "top_news": "https://www.texarkanagazette.com/news/2026/aug/22/pentagon-fires-editor-and-publisher-of/",
+    "top_news": "https://www.aljazeera.com/news/2026/8/18/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "14": 2,
+      "16": 1,
+      "17": 1
     },
     "keywords": [
       "news",
       "2026",
-      "aug",
-      "pentagon",
-      "fires",
-      "editor",
-      "and",
-      "publisher"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.prokerala.com/news/articles/a1803653.html",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1803653.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.22,
-    "count": 5,
-    "top_news": "https://thenationonlineng.net/ronke-oshodi-oke-i-spent-n800000-monthly-on-drugs-during-health-crisis/",
-    "event_codes": {
-      "17": 3,
-      "15": 1,
-      "19": 1
-    },
-    "keywords": [
-      "ronke",
-      "oshodi",
-      "oke",
-      "spent",
-      "n800000",
-      "monthly",
-      "drugs",
-      "during",
-      "health",
-      "crisis"
+      "israeli",
+      "politicians",
+      "focus",
+      "foreign",
+      "threats",
+      "ignoring",
+      "spiralling",
+      "debt"
     ]
   }
 }
