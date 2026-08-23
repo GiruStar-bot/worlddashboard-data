@@ -1,67 +1,108 @@
 {
-  "BRA": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.rte.ie/news/ireland/2026/0823/1588934-limerick-cecil-street/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "ireland",
-      "2026",
-      "0823",
-      "1588934",
-      "limerick",
-      "cecil",
-      "street"
-    ]
-  },
   "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://brudirect.com/post/UK,-Canada-and-Australia-condemn-Israel-for-refusing-criminal-probe-into-aid-worker-killings-in-Gaza",
+    "top_news": "https://www.haaretz.com/israel-news/israel-crime/2026-08-23/ty-article/.premium/israeli-crime-boss-shot-dead-near-caesarea/000001a0-2f3e-d23d-aff5-6fbf30a00000",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "post",
-      "uk,",
-      "canada",
-      "and",
-      "australia",
-      "condemn",
       "israel",
-      "for",
-      "refusing",
-      "criminal",
-      "probe",
-      "into",
-      "aid",
-      "worker",
-      "killings",
-      "gaza"
+      "news",
+      "israel",
+      "crime",
+      "2026",
+      "article",
+      ".premium",
+      "israeli",
+      "crime",
+      "boss",
+      "shot",
+      "dead",
+      "near",
+      "caesarea",
+      "000001a0",
+      "2f3e",
+      "d23d",
+      "aff5",
+      "6fbf30a00000"
+    ]
+  },
+  "MMR": {
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://www.thesangaiexpress.com/Encyc/2026/8/23/lt-col-moirangthem-ranjit-singh-retd-kabo-valley-is-dear-to-the-hearts-of-manipuris-its-cession-from-manipur-t.html",
+    "event_codes": {
+      "14": 4
+    },
+    "keywords": [
+      "encyc",
+      "2026",
+      "col",
+      "moirangthem",
+      "ranjit",
+      "singh",
+      "retd",
+      "kabo",
+      "valley",
+      "dear",
+      "the",
+      "hearts",
+      "manipuris",
+      "its",
+      "cession",
+      "from",
+      "manipur",
+      "t.html"
     ]
   },
   "NGA": {
-    "risk_score": 9.9,
-    "count": 11,
-    "top_news": "http://silverbirdtv.com/breaking-nollywood-mourns-as-veteran-actor-taiwo-hassan-ogogo-dies-at-66/",
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/904973-bandits-kidnap-monarchs-wife-demand-%E2%82%A620-million-to-free-another-woman-23.html",
     "event_codes": {
-      "19": 8,
-      "17": 2,
-      "18": 1
+      "18": 4
     },
     "keywords": [
-      "breaking",
-      "nollywood",
-      "mourns",
-      "veteran",
-      "actor",
-      "taiwo",
-      "hassan",
-      "ogogo",
-      "dies"
+      "news",
+      "top",
+      "news",
+      "904973",
+      "bandits",
+      "kidnap",
+      "monarchs",
+      "wife",
+      "demand",
+      "%e2%82%a620",
+      "million",
+      "free",
+      "another",
+      "woman",
+      "23.html"
+    ]
+  },
+  "URY": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.cubaheadlines.com/articles/338545",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "articles",
+      "338545"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.cubaheadlines.com/articles/338545",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "articles",
+      "338545"
     ]
   }
 }
