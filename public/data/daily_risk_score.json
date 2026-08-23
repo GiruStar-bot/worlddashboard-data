@@ -1,41 +1,57 @@
 {
   "IRN": {
-    "risk_score": 3.95,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/world/articles/iran-executes-another-man-mass-080340623.html",
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://lasvegassun.com/news/2026/aug/23/the-new-physics-of-power/",
     "event_codes": {
-      "17": 3,
-      "14": 1,
+      "19": 2,
       "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "articles",
-      "iran",
-      "executes",
-      "another",
-      "man",
-      "mass",
-      "080340623.html"
+      "2026",
+      "aug",
+      "the",
+      "new",
+      "physics",
+      "power"
     ]
   },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.channelnewsasia.com/asia/thailand-narathiwat-attack-injuries-anutin-charnvirakul-6335736",
+  "ISR": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.advocate-news.com/2026/08/22/crime-writers-books-murder-cameras-technology/",
     "event_codes": {
-      "19": 5
+      "19": 5,
+      "18": 1
     },
     "keywords": [
-      "asia",
-      "thailand",
-      "narathiwat",
-      "attack",
-      "injuries",
-      "anutin",
-      "charnvirakul",
-      "6335736"
+      "2026",
+      "crime",
+      "writers",
+      "books",
+      "murder",
+      "cameras",
+      "technology"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.5,
+    "count": 6,
+    "top_news": "https://www.the-star.co.ke/news/2026-08-23-man-drowns-in-swimming-pool-at-nairobi-apartment",
+    "event_codes": {
+      "16": 4,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "man",
+      "drowns",
+      "swimming",
+      "pool",
+      "nairobi",
+      "apartment"
     ]
   }
 }
