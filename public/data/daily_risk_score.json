@@ -1,162 +1,90 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.the-star.co.ke/news/2026-08-23-russia-war-kenyas-push-to-end-citizens-recruitment",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "russia",
-      "war",
-      "kenyas",
-      "push",
-      "end",
-      "citizens",
-      "recruitment"
-    ]
-  },
   "IRN": {
-    "risk_score": 6.82,
-    "count": 8,
-    "top_news": "http://www.jpost.com/opinion/article-905985",
+    "risk_score": 2.72,
+    "count": 4,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/23/774950/Iran-to-detain,-confiscate-violating-ships-in-Strait-of-Hormuz--PGSA",
     "event_codes": {
-      "19": 3,
-      "14": 2,
-      "15": 1,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "opinion",
-      "article",
-      "905985"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.92,
-    "count": 16,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-906340",
-    "event_codes": {
-      "19": 8,
-      "17": 4,
-      "18": 2,
-      "15": 1,
+      "17": 3,
       "16": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "crime",
-      "israel",
-      "article",
-      "906340"
-    ]
-  },
-  "KEN": {
-    "risk_score": 6.41,
-    "count": 7,
-    "top_news": "https://www.the-star.co.ke/news/2026-08-23-im-not-scared-at-all-ruto-says-as-2027-battle-intensifies",
-    "event_codes": {
-      "19": 6,
-      "16": 1
-    },
-    "keywords": [
-      "news",
+      "detail",
       "2026",
-      "not",
-      "scared",
-      "all",
-      "ruto",
-      "says",
-      "2027",
-      "battle",
-      "intensifies"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.7,
-    "count": 5,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/23/fireball-in-central-gaza-as-israeli-strike-kills-child/",
-    "event_codes": {
-      "14": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "fireball",
-      "central",
-      "gaza",
-      "israeli",
-      "strike",
-      "kills",
-      "child"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/23/pressure-mounts-on-iran-as-new-us-sanctions-imminent/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "mena",
-      "2026",
-      "pressure",
-      "mounts",
+      "774950",
       "iran",
-      "new",
-      "sanctions",
-      "imminent"
+      "detain,",
+      "confiscate",
+      "violating",
+      "ships",
+      "strait",
+      "hormuz",
+      "pgsa"
     ]
   },
-  "SYR": {
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/23/syria-meets-israeli-spy-chief-to-defuse-tensions-after-bombing/",
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/23/774945/Martyred-Ayatollah-Khamenei-revived-consciences-built-Ummah-Iraq-s-PMU-chief-Faleh-al-Fayyadh",
     "event_codes": {
       "18": 3
     },
     "keywords": [
-      "news",
-      "mena",
+      "detail",
       "2026",
-      "syria",
-      "meets",
-      "israeli",
-      "spy",
+      "774945",
+      "martyred",
+      "ayatollah",
+      "khamenei",
+      "revived",
+      "consciences",
+      "built",
+      "ummah",
+      "iraq",
+      "pmu",
       "chief",
-      "defuse",
-      "tensions",
-      "after",
-      "bombing"
+      "faleh",
+      "fayyadh"
     ]
   },
-  "THA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.the-star.co.ke/news/world/2026-08-23-dozens-of-arson-attacks-hit-southern-thailand",
+  "ISR": {
+    "risk_score": 20.8,
+    "count": 24,
+    "top_news": "https://imemc.org/article/pchr-palestinian-child-killed-by-settler-gunfire-in-hebron-attack/",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "19": 15,
+      "17": 5,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "dozens",
-      "arson",
-      "attacks",
-      "hit",
-      "southern",
-      "thailand"
+      "article",
+      "pchr",
+      "palestinian",
+      "child",
+      "killed",
+      "settler",
+      "gunfire",
+      "hebron",
+      "attack"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://imemc.org/article/pchr-palestinian-child-killed-by-settler-gunfire-in-hebron-attack/",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "article",
+      "pchr",
+      "palestinian",
+      "child",
+      "killed",
+      "settler",
+      "gunfire",
+      "hebron",
+      "attack"
     ]
   }
 }
