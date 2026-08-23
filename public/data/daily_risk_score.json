@@ -1,52 +1,133 @@
 {
-  "ISR": {
-    "risk_score": 17.48,
-    "count": 19,
-    "top_news": "https://english.wafa.ps/Pages/Details/174042",
-    "event_codes": {
-      "19": 12,
-      "15": 4,
-      "18": 3
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "174042"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.47,
-    "count": 15,
-    "top_news": "https://theeagleonline.com.ng/troops-neutralise-40-terrorists-foil-attacks-recover-weapons-nationwide/",
-    "event_codes": {
-      "19": 7,
-      "17": 5,
-      "14": 3
-    },
-    "keywords": [
-      "troops",
-      "neutralise",
-      "terrorists",
-      "foil",
-      "attacks",
-      "recover",
-      "weapons",
-      "nationwide"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.85,
+  "IRN": {
+    "risk_score": 2.9,
     "count": 5,
-    "top_news": "https://english.wafa.ps/Pages/Details/174040",
+    "top_news": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
+      "17": 3,
+      "16": 1,
       "19": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "174040"
+      "international",
+      "2026",
+      "iran",
+      "middle",
+      "east",
+      "power",
+      "688374"
+    ]
+  },
+  "ISR": {
+    "risk_score": 19.8,
+    "count": 22,
+    "top_news": "https://www.theadvocate.com.au/story/9335740/israel-strike-in-gaza-strip-kills-four-year-old-medics/",
+    "event_codes": {
+      "19": 14,
+      "17": 4,
+      "18": 4
+    },
+    "keywords": [
+      "story",
+      "9335740",
+      "israel",
+      "strike",
+      "gaza",
+      "strip",
+      "kills",
+      "four",
+      "year",
+      "old",
+      "medics"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.2,
+    "count": 12,
+    "top_news": "https://punchng.com/insecurity-nigeria-must-not-become-a-killing-field-obi-tells-fg/",
+    "event_codes": {
+      "19": 6,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "insecurity",
+      "nigeria",
+      "must",
+      "not",
+      "become",
+      "killing",
+      "field",
+      "obi",
+      "tells"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.kxl.com/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war-and-other-middle-east-news/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "irans",
+      "president",
+      "says",
+      "memorandum",
+      "best",
+      "path",
+      "out",
+      "stalled",
+      "war",
+      "and",
+      "other",
+      "middle",
+      "east",
+      "news"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/world/mid-east/not-trusting-israel-currently-thankful-for-turkish-support-syria-fm",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "not",
+      "trusting",
+      "israel",
+      "currently",
+      "thankful",
+      "for",
+      "turkish",
+      "support",
+      "syria"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.dailysabah.com/politics/verdict-likely-due-in-cases-of-corruption-linked-to-chp-mayors-of-turkiye/news",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "politics",
+      "verdict",
+      "likely",
+      "due",
+      "cases",
+      "corruption",
+      "linked",
+      "chp",
+      "mayors",
+      "turkiye",
+      "news"
     ]
   }
 }
