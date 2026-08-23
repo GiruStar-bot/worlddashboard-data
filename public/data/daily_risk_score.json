@@ -1,70 +1,172 @@
 {
   "IRN": {
-    "risk_score": 7.0,
-    "count": 8,
-    "top_news": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260822-irna05.htm",
+    "risk_score": 12.55,
+    "count": 18,
+    "top_news": "https://slguardian.org/hiriketiya-and-the-chabad-lubavitch-sinhala-ravaya-alliance/",
     "event_codes": {
-      "16": 5,
-      "19": 3
+      "17": 8,
+      "19": 5,
+      "14": 3,
+      "16": 2
     },
     "keywords": [
-      "wmd",
-      "library",
-      "news",
-      "iran",
-      "2026",
-      "iran",
-      "260822",
-      "irna05.htm"
+      "hiriketiya",
+      "and",
+      "the",
+      "chabad",
+      "lubavitch",
+      "sinhala",
+      "ravaya",
+      "alliance"
     ]
   },
   "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://english.wafa.ps/Pages/Details/174037",
+    "risk_score": 20.47,
+    "count": 24,
+    "top_news": "https://www.yahoo.com/news/world/articles/revenge-benayahu-police-probe-suspected-100000106.html",
     "event_codes": {
-      "19": 5
+      "19": 9,
+      "18": 6,
+      "14": 5,
+      "17": 3,
+      "16": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "174037"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260822-irna01.htm",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "military",
-      "library",
       "news",
-      "2026",
-      "mil",
-      "260822",
-      "irna01.htm"
+      "world",
+      "articles",
+      "revenge",
+      "benayahu",
+      "police",
+      "probe",
+      "suspected",
+      "100000106.html"
     ]
   },
   "NGA": {
-    "risk_score": 6.18,
-    "count": 7,
-    "top_news": "https://promptnewsonline.com/why-atikus-subsidy-gambit-rattles-tinubu-by-farooq-kperogi/",
+    "risk_score": 12.2,
+    "count": 13,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/08/23/774907/Gunmen-abduct-scores-of-worshippers-from-mosque-in-Nigeria,-attack-several-villages",
     "event_codes": {
-      "17": 5,
+      "18": 8,
+      "19": 5
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "774907",
+      "gunmen",
+      "abduct",
+      "scores",
+      "worshippers",
+      "from",
+      "mosque",
+      "nigeria,",
+      "attack",
+      "several",
+      "villages"
+    ]
+  },
+  "PSE": {
+    "risk_score": 10.06,
+    "count": 11,
+    "top_news": "https://www.yahoo.com/news/world/articles/revenge-benayahu-police-probe-suspected-100000106.html",
+    "event_codes": {
+      "19": 6,
+      "17": 3,
+      "14": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "revenge",
+      "benayahu",
+      "police",
+      "probe",
+      "suspected",
+      "100000106.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://tradearabia.com:443/News/466707/Zylog-GreenShield-targets-GCC-growth-as-mega-projects-drive-waterproofing-demand",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "why",
-      "atikus",
-      "subsidy",
-      "gambit",
-      "rattles",
-      "tinubu",
-      "farooq",
-      "kperogi"
+      "news",
+      "466707",
+      "zylog",
+      "greenshield",
+      "targets",
+      "gcc",
+      "growth",
+      "mega",
+      "projects",
+      "drive",
+      "waterproofing",
+      "demand"
+    ]
+  },
+  "SOM": {
+    "risk_score": 6.09,
+    "count": 10,
+    "top_news": "http://radiodalsan.com/2026/08/23/clashes-in-mogadishus-tookiyo-leave-ten-hurt-over-demolitions/",
+    "event_codes": {
+      "16": 4,
+      "17": 4,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "clashes",
+      "mogadishus",
+      "tookiyo",
+      "leave",
+      "ten",
+      "hurt",
+      "over",
+      "demolitions"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.26,
+    "count": 4,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3306565/american-faces-attempted-murder-charge-after-drugfuelled-robbery",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "thailand",
+      "general",
+      "3306565",
+      "american",
+      "faces",
+      "attempted",
+      "murder",
+      "charge",
+      "after",
+      "drugfuelled",
+      "robbery"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://slguardian.org/taiwans-lai-says-peace-depends-on-strength/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "taiwans",
+      "lai",
+      "says",
+      "peace",
+      "depends",
+      "strength"
     ]
   }
 }
