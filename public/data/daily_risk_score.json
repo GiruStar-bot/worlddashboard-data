@@ -1,42 +1,29 @@
 {
   "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://kvia.com/news/2026/08/23/former-hamas-hostage-judith-raanan-shares-story-of-faith-and-resilience/",
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.dailybreeze.com/2026/08/23/iran-official-says-support-for-new-sanctions-would-be-an-act-of-war-and-other-middle-east-news/",
     "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
       "2026",
-      "former",
-      "hamas",
-      "hostage",
-      "judith",
-      "raanan",
-      "shares",
-      "story",
-      "faith",
+      "iran",
+      "official",
+      "says",
+      "support",
+      "for",
+      "new",
+      "sanctions",
+      "would",
+      "act",
+      "war",
       "and",
-      "resilience"
-    ]
-  },
-  "NER": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://blueprint.ng/breaking-fire-wreaks-havoc-as-shops-burn-to-ashes-in-ilorin/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "breaking",
-      "fire",
-      "wreaks",
-      "havoc",
-      "shops",
-      "burn",
-      "ashes",
-      "ilorin"
+      "other",
+      "middle",
+      "east",
+      "news"
     ]
   }
 }
