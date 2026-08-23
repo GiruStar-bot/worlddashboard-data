@@ -1,55 +1,57 @@
 {
   "ISR": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.jns.org/news/world/jewish-groups-urge-montreal-city-council-to-jettison-anti-israel-motion",
+    "risk_score": 9.05,
+    "count": 10,
+    "top_news": "https://www.middle-east-online.com/en/israel-targets-hamas-leadership-weaken-groups-hold-gaza",
     "event_codes": {
-      "19": 3,
-      "14": 2
+      "19": 7,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "israel",
+      "targets",
+      "hamas",
+      "leadership",
+      "weaken",
+      "groups",
+      "hold",
+      "gaza"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.thisdaylive.com/2026/08/23/osun-polls-the-days-after-and-implications-for-2027/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "osun",
+      "polls",
+      "the",
+      "days",
+      "after",
+      "and",
+      "implications",
+      "for",
+      "2027"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o",
+    "event_codes": {
+      "17": 3,
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "jewish",
-      "groups",
-      "urge",
-      "montreal",
-      "city",
-      "council",
-      "jettison",
-      "anti",
-      "israel",
-      "motion"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.16,
-    "count": 3,
-    "top_news": "http://www.strategypage.com/qnd/libya/articles/2026082365616.aspx",
-    "event_codes": {
-      "15": 3
-    },
-    "keywords": [
-      "qnd",
-      "libya",
       "articles",
-      "2026082365616.aspx"
-    ]
-  },
-  "TUR": {
-    "risk_score": 3.47,
-    "count": 5,
-    "top_news": "http://www.strategypage.com/qnd/libya/articles/2026082365616.aspx",
-    "event_codes": {
-      "16": 2,
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "qnd",
-      "libya",
-      "articles",
-      "2026082365616.aspx"
+      "c8enegx4xy3o"
     ]
   }
 }
