@@ -1,45 +1,135 @@
 {
-  "BRA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://natlawreview.com/article/federal-court-strikes-down-75-country-immigrant-visa-ban-case-brought-colombo-hurd",
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "http://www.idahostatejournal.com/news/national/iran-official-says-support-for-new-sanctions-would-be-an-act-of-war-and-other/article_5486e449-960e-5ce8-b8d4-8993f7e7fd7b.html",
     "event_codes": {
-      "19": 3
+      "17": 4,
+      "18": 3
     },
     "keywords": [
+      "news",
+      "national",
+      "iran",
+      "official",
+      "says",
+      "support",
+      "for",
+      "new",
+      "sanctions",
+      "would",
+      "act",
+      "war",
+      "and",
+      "other",
       "article",
-      "federal",
-      "court",
-      "strikes",
-      "down",
-      "country",
-      "immigrant",
-      "visa",
-      "ban",
-      "case",
-      "brought",
-      "colombo",
-      "hurd"
+      "5486e449",
+      "960e",
+      "5ce8",
+      "b8d4",
+      "8993f7e7fd7b.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.1,
+    "count": 11,
+    "top_news": "http://www.idahostatejournal.com/news/national/iran-official-says-support-for-new-sanctions-would-be-an-act-of-war-and-other/article_5486e449-960e-5ce8-b8d4-8993f7e7fd7b.html",
+    "event_codes": {
+      "17": 5,
+      "19": 5,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "iran",
+      "official",
+      "says",
+      "support",
+      "for",
+      "new",
+      "sanctions",
+      "would",
+      "act",
+      "war",
+      "and",
+      "other",
+      "article",
+      "5486e449",
+      "960e",
+      "5ce8",
+      "b8d4",
+      "8993f7e7fd7b.html"
     ]
   },
   "NGA": {
-    "risk_score": 2.92,
-    "count": 3,
-    "top_news": "https://www.opinionnigeria.com/insecurity-nigeria-must-not-become-a-killing-field-peter-obi/",
+    "risk_score": 18.52,
+    "count": 26,
+    "top_news": "https://tribuneonlineng.com/nigeria-cannot-become-a-killing-field-peter-obi/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 15,
+      "19": 7,
+      "18": 4
     },
     "keywords": [
-      "insecurity",
       "nigeria",
-      "must",
-      "not",
+      "cannot",
       "become",
       "killing",
       "field",
       "peter",
       "obi"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "http://www.idahostatejournal.com/news/national/iran-official-says-support-for-new-sanctions-would-be-an-act-of-war-and-other/article_5486e449-960e-5ce8-b8d4-8993f7e7fd7b.html",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "national",
+      "iran",
+      "official",
+      "says",
+      "support",
+      "for",
+      "new",
+      "sanctions",
+      "would",
+      "act",
+      "war",
+      "and",
+      "other",
+      "article",
+      "5486e449",
+      "960e",
+      "5ce8",
+      "b8d4",
+      "8993f7e7fd7b.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-16074327/simon-carman-thai-teen-murder-breaks-silence.html",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16074327",
+      "simon",
+      "carman",
+      "thai",
+      "teen",
+      "murder",
+      "breaks",
+      "silence.html"
     ]
   }
 }
