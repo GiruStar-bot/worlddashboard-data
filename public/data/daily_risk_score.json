@@ -1,105 +1,145 @@
 {
-  "ISR": {
-    "risk_score": 15.75,
-    "count": 20,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupier-injured-in-stabbing-attack-in-occupied-west-bank/4035072",
-    "event_codes": {
-      "19": 10,
-      "17": 8,
-      "14": 1,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "occupier",
-      "injured",
-      "stabbing",
-      "attack",
-      "occupied",
-      "west",
-      "bank",
-      "4035072"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/08/23/suspect-nabbed-in-pj-over-allegedly-seditious-posts",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "news",
-      "nation",
-      "2026",
-      "suspect",
-      "nabbed",
-      "over",
-      "allegedly",
-      "seditious",
-      "posts"
-    ]
-  },
-  "PSE": {
+  "IRN": {
     "risk_score": 2.9,
     "count": 3,
-    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupier-injured-in-stabbing-attack-in-occupied-west-bank/4035072",
+    "top_news": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
     "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "israeli",
-      "occupier",
-      "injured",
-      "stabbing",
-      "attack",
-      "occupied",
-      "west",
-      "bank",
-      "4035072"
+      "2026",
+      "israel",
+      "iran",
+      "war",
+      "mossad",
+      "firings"
     ]
   },
-  "SDN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://aa.com.tr/en/middle-east/sudan-says-it-downed-hostile-drone-in-blue-nile-state/4035038",
+  "ISR": {
+    "risk_score": 9.9,
+    "count": 10,
+    "top_news": "https://www.straitstimes.com/world/europe/israeli-airstrikes-in-gaza-kill-two-people-including-a-4-year-old-boy-medics-say",
     "event_codes": {
-      "19": 7
+      "19": 9,
+      "18": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "sudan",
-      "says",
-      "downed",
-      "hostile",
-      "drone",
-      "blue",
-      "nile",
-      "state",
-      "4035038"
+      "world",
+      "europe",
+      "israeli",
+      "airstrikes",
+      "gaza",
+      "kill",
+      "two",
+      "people",
+      "including",
+      "year",
+      "old",
+      "boy",
+      "medics",
+      "say"
     ]
   },
-  "ZWE": {
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.breitbart.com/europe/2026/08/23/iran-hacked-and-shut-down-a-british-power-plant-for-days-report/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "europe",
+      "2026",
+      "iran",
+      "hacked",
+      "and",
+      "shut",
+      "down",
+      "british",
+      "power",
+      "plant",
+      "for",
+      "days",
+      "report"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.5,
+    "count": 7,
+    "top_news": "https://www.vanguardngr.com/2026/08/amnesty-raises-alarm-over-missing-persons-police-abuse-in-seast-demands-justice/",
+    "event_codes": {
+      "17": 7
+    },
+    "keywords": [
+      "2026",
+      "amnesty",
+      "raises",
+      "alarm",
+      "over",
+      "missing",
+      "persons",
+      "police",
+      "abuse",
+      "seast",
+      "demands",
+      "justice"
+    ]
+  },
+  "PSE": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.aol.co.uk/articles/southern-african-mothers-plead-sons-112837000.html",
+    "top_news": "https://www.arabnews.com/node/2655607/middle-east",
     "event_codes": {
       "19": 4
     },
     "keywords": [
+      "node",
+      "2655607",
+      "middle",
+      "east"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/africa/20260823/ad916c2a2a904bf48061f5acc4e77e97/c.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "africa",
+      "20260823",
+      "ad916c2a2a904bf48061f5acc4e77e97",
+      "c.html"
+    ]
+  },
+  "TCD": {
+    "risk_score": 3.44,
+    "count": 4,
+    "top_news": "https://english.news.cn/africa/20260823/ad916c2a2a904bf48061f5acc4e77e97/c.html",
+    "event_codes": {
+      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "africa",
+      "20260823",
+      "ad916c2a2a904bf48061f5acc4e77e97",
+      "c.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bbc.com/news/articles/c8enegx4xy3o",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
       "articles",
-      "southern",
-      "african",
-      "mothers",
-      "plead",
-      "sons",
-      "112837000.html"
+      "c8enegx4xy3o"
     ]
   }
 }
