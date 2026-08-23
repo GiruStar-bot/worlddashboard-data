@@ -1,34 +1,43 @@
 {
   "ISR": {
-    "risk_score": 2.0,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.nigerianeye.com/search?updated-max=2026-08-23T13:07:00+01:00&max-results=15",
+    "top_news": "https://www.arabnews.com/node/2655645/middle-east",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "search"
+      "node",
+      "2655645",
+      "middle",
+      "east"
     ]
   },
-  "NGA": {
-    "risk_score": 18.3,
-    "count": 20,
-    "top_news": "https://dailytrust.com/kidnappers-shot-dead-as-dss-vigilantes-rescue-victim-in-imo/",
+  "SYR": {
+    "risk_score": 5.9,
+    "count": 7,
+    "top_news": "https://www.forbes.com/sites/pauliddon/2026/08/23/russia-never-realized-full-potential-of-syrias-tartus-naval-base-and-never-will/",
     "event_codes": {
-      "19": 11,
-      "18": 7,
-      "17": 2
+      "19": 4,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "kidnappers",
-      "shot",
-      "dead",
-      "dss",
-      "vigilantes",
-      "rescue",
-      "victim",
-      "imo"
+      "sites",
+      "pauliddon",
+      "2026",
+      "russia",
+      "never",
+      "realized",
+      "full",
+      "potential",
+      "syrias",
+      "tartus",
+      "naval",
+      "base",
+      "and",
+      "never",
+      "will"
     ]
   }
 }
