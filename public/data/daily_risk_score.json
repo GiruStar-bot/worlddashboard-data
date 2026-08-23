@@ -1,40 +1,35 @@
 {
-  "NER": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://punchng.com/terrorists-attack-niger-mosque-abduct-worshippers/",
+  "ISR": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/news/432082",
     "event_codes": {
-      "18": 4,
-      "19": 1
+      "18": 3
     },
     "keywords": [
-      "terrorists",
-      "attack",
-      "niger",
-      "mosque",
-      "abduct",
-      "worshippers"
+      "news",
+      "432082"
     ]
   },
-  "NGA": {
-    "risk_score": 8.6,
-    "count": 11,
-    "top_news": "https://punchng.com/mr-president-how-many-fake-dgs-can-you-chase/",
+  "JOR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.nydailynews.com/2026/08/22/cops-release-images-suspects-brooklyn-boys-fatal-shooting-teen-hangout/",
     "event_codes": {
-      "14": 4,
-      "19": 4,
-      "17": 2,
-      "18": 1
+      "19": 4
     },
     "keywords": [
-      "president",
-      "how",
-      "many",
-      "fake",
-      "dgs",
-      "can",
-      "you",
-      "chase"
+      "2026",
+      "cops",
+      "release",
+      "images",
+      "suspects",
+      "brooklyn",
+      "boys",
+      "fatal",
+      "shooting",
+      "teen",
+      "hangout"
     ]
   }
 }
