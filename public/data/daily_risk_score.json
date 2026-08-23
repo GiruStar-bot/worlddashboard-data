@@ -1,33 +1,77 @@
 {
-  "ISR": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-906273",
-    "event_codes": {
-      "19": 6,
-      "17": 1
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "crime",
-      "israel",
-      "article",
-      "906273"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://english.wafa.ps/Pages/Details/174032",
+  "IRN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/iran-executes-man-accused-of-aiding-us-israel-in-anti-govt-protests-101787467117826.html",
     "event_codes": {
       "18": 3,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "174032"
+      "world",
+      "news",
+      "news",
+      "iran",
+      "executes",
+      "man",
+      "accused",
+      "aiding",
+      "israel",
+      "anti",
+      "govt",
+      "protests",
+      "101787467117826.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.85,
+    "count": 6,
+    "top_news": "https://www.ynetnews.com/article/hjdpfz00dme",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "article",
+      "hjdpfz00dme"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.95,
+    "count": 4,
+    "top_news": "https://www.ynetnews.com/article/b11qhfuwzx",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "article",
+      "b11qhfuwzx"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/hjdpfz00dme",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "hjdpfz00dme"
+    ]
+  },
+  "TUR": {
+    "risk_score": 10.3,
+    "count": 11,
+    "top_news": "https://www.ynetnews.com/article/hjdpfz00dme",
+    "event_codes": {
+      "19": 10,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "hjdpfz00dme"
     ]
   }
 }
