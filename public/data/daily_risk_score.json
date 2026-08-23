@@ -1,26 +1,76 @@
 {
   "ISR": {
-    "risk_score": 10.2,
-    "count": 11,
-    "top_news": "https://www.camera.org/article/efes-post-oct-7-coverage-terror-groups-as-bit-players-with-outsized-credibility/",
+    "risk_score": 3.05,
+    "count": 4,
+    "top_news": "https://www.thehindu.com/news/cities/bangalore/aisa-national-president-neha-slams-congress-govt-in-karnataka-over-firs-against-students-seeking-release-of-umar-khalid-sharjeel-imam/article71381886.ece",
     "event_codes": {
-      "19": 7,
-      "18": 3,
-      "17": 1
+      "19": 2,
+      "14": 1,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "efes",
-      "post",
-      "oct",
-      "coverage",
-      "terror",
-      "groups",
-      "bit",
-      "players",
+      "news",
+      "cities",
+      "bangalore",
+      "aisa",
+      "national",
+      "president",
+      "neha",
+      "slams",
+      "congress",
+      "govt",
+      "karnataka",
+      "over",
+      "firs",
+      "against",
+      "students",
+      "seeking",
+      "release",
+      "umar",
+      "khalid",
+      "sharjeel",
+      "imam",
+      "article71381886.ece"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.pakistantoday.com.pk/2026/08/23/syria-says-contacts-with-israel-halted-after-airbase-attack",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "syria",
+      "says",
+      "contacts",
       "with",
-      "outsized",
-      "credibility"
+      "israel",
+      "halted",
+      "after",
+      "airbase",
+      "attack"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.manilatimes.net/2026/08/24/world/asia-oceania/attacks-in-thailand-leave-2-injured/2410493",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "asia",
+      "oceania",
+      "attacks",
+      "thailand",
+      "leave",
+      "injured",
+      "2410493"
     ]
   }
 }
