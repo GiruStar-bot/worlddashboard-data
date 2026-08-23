@@ -1,43 +1,88 @@
 {
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/node/2655645/middle-east",
+    "risk_score": 17.17,
+    "count": 21,
+    "top_news": "https://aninews.in/news/world/middle-east/idf-arrests-al-auja-stabbing-incident-suspect-following-manhunt20260823231524/",
     "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "node",
-      "2655645",
-      "middle",
-      "east"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.9,
-    "count": 7,
-    "top_news": "https://www.forbes.com/sites/pauliddon/2026/08/23/russia-never-realized-full-potential-of-syrias-tartus-naval-base-and-never-will/",
-    "event_codes": {
-      "19": 4,
-      "17": 2,
+      "19": 12,
+      "17": 7,
+      "15": 1,
       "18": 1
     },
     "keywords": [
-      "sites",
-      "pauliddon",
+      "news",
+      "world",
+      "middle",
+      "east",
+      "idf",
+      "arrests",
+      "auja",
+      "stabbing",
+      "incident",
+      "suspect",
+      "following",
+      "manhunt20260823231524"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.nrc.nl/nieuws/2026/08/23/israel-is-flirting-with-the-next-intifada-a4934910",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "nieuws",
       "2026",
-      "russia",
-      "never",
-      "realized",
-      "full",
-      "potential",
-      "syrias",
-      "tartus",
-      "naval",
-      "base",
-      "and",
-      "never",
-      "will"
+      "israel",
+      "flirting",
+      "with",
+      "the",
+      "next",
+      "intifada",
+      "a4934910"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://punchng.com/throwback-ogogos-i-would-vomit-blood-account-resurfaces-after-death/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "throwback",
+      "ogogos",
+      "would",
+      "vomit",
+      "blood",
+      "account",
+      "resurfaces",
+      "after",
+      "death"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://aninews.in/news/world/middle-east/idf-arrests-al-auja-stabbing-incident-suspect-following-manhunt20260823231524/",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "middle",
+      "east",
+      "idf",
+      "arrests",
+      "auja",
+      "stabbing",
+      "incident",
+      "suspect",
+      "following",
+      "manhunt20260823231524"
     ]
   }
 }
