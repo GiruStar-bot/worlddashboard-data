@@ -1,57 +1,114 @@
 {
   "IDN": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://en.tempo.co/read/2118166/as-wildfires-rage-has-indonesia-calmed-neighbors-over-haze-concerns",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://krmg.com/2026/08/23/indonesian-police-arrest-72-people-suspected-of-starting-forest-fires/",
     "event_codes": {
-      "16": 2,
       "19": 2
     },
     "keywords": [
-      "read",
-      "2118166",
-      "wildfires",
-      "rage",
-      "has",
-      "indonesia",
-      "calmed",
-      "neighbors",
-      "over",
-      "haze",
-      "concerns"
+      "2026",
+      "indonesian",
+      "police",
+      "arrest",
+      "people",
+      "suspected",
+      "starting",
+      "forest",
+      "fires"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.89,
+    "count": 6,
+    "top_news": "https://www.baltimoresun.com/2026/08/23/jurkowsky-iran-war-trump-doctrine/",
+    "event_codes": {
+      "14": 3,
+      "15": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "jurkowsky",
+      "iran",
+      "war",
+      "trump",
+      "doctrine"
     ]
   },
   "ISR": {
-    "risk_score": 7.55,
-    "count": 8,
-    "top_news": "https://www.israelnationalnews.com/news/432118",
+    "risk_score": 9.85,
+    "count": 10,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-army-arrests-14-palestinians-as-occupiers-escalate-attacks-in-west-bank/4035024",
     "event_codes": {
-      "19": 5,
+      "19": 9,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "army",
+      "arrests",
+      "palestinians",
+      "occupiers",
+      "escalate",
+      "attacks",
+      "west",
+      "bank",
+      "4035024"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/middle-east/2026/08/21/kurdish-led-anti-isis-militia-fully-integrates-into-syrian-army/",
+    "event_codes": {
+      "16": 3,
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "kurdish",
+      "led",
+      "anti",
+      "isis",
+      "militia",
+      "fully",
+      "integrates",
+      "into",
+      "syrian",
+      "army"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "http://www.wdtimes.com/news/local/the-ultimate-sacrifice-uncle-bob-remembered-at-marine-corps-picnic/article_55ec4081-2f51-4cb3-aa9e-2565f2094c56.html",
+    "event_codes": {
       "18": 2,
-      "16": 1
+      "19": 1
     },
     "keywords": [
       "news",
-      "432118"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.philstar.com/headlines/2026/08/24/2551342/hold-negligent-gun-owners-criminally-liable",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "headlines",
-      "2026",
-      "2551342",
-      "hold",
-      "negligent",
-      "gun",
-      "owners",
-      "criminally",
-      "liable"
+      "local",
+      "the",
+      "ultimate",
+      "sacrifice",
+      "uncle",
+      "bob",
+      "remembered",
+      "marine",
+      "corps",
+      "picnic",
+      "article",
+      "55ec4081",
+      "2f51",
+      "4cb3",
+      "aa9e",
+      "2565f2094c56.html"
     ]
   }
 }
