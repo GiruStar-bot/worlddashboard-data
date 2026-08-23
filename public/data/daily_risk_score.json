@@ -1,94 +1,126 @@
 {
+  "IRN": {
+    "risk_score": 5.7,
+    "count": 7,
+    "top_news": "https://www.islamicinvitationturkey.com/irans-military-chief-commends-medical-personnel-for-their-sacrifices-amid-recent-conflicts/",
+    "event_codes": {
+      "18": 3,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "irans",
+      "military",
+      "chief",
+      "commends",
+      "medical",
+      "personnel",
+      "for",
+      "their",
+      "sacrifices",
+      "amid",
+      "recent",
+      "conflicts"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.islamicinvitationturkey.com/pmu-forces-repel-daesh-assault-in-central-iraq-forcing-militants-into-rugged-terrain/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "pmu",
+      "forces",
+      "repel",
+      "daesh",
+      "assault",
+      "central",
+      "iraq",
+      "forcing",
+      "militants",
+      "into",
+      "rugged",
+      "terrain"
+    ]
+  },
   "ISR": {
+    "risk_score": 7.92,
+    "count": 8,
+    "top_news": "https://www.islamicinvitationturkey.com/zionist-killers-detain-14-palestinians-as-west-bank-tensions-intensify/",
+    "event_codes": {
+      "19": 7,
+      "17": 1
+    },
+    "keywords": [
+      "zionist",
+      "killers",
+      "detain",
+      "palestinians",
+      "west",
+      "bank",
+      "tensions",
+      "intensify"
+    ]
+  },
+  "NER": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.omanobserver.om/article/1194957/world/region/israeli-strikes-in-gaza-kill-two-including-a-child",
+    "top_news": "http://www.bignewsnetwork.com/news/279260122/at-least-18-security-force-members-killed-in-terrorist-attack-in-sw-niger",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "article",
-      "1194957",
-      "world",
-      "region",
-      "israeli",
-      "strikes",
-      "gaza",
-      "kill",
-      "two",
-      "including",
-      "child"
+      "news",
+      "279260122",
+      "least",
+      "security",
+      "force",
+      "members",
+      "killed",
+      "terrorist",
+      "attack",
+      "niger"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.69,
+    "count": 5,
+    "top_news": "https://www.islamicinvitationturkey.com/zionist-killers-detain-14-palestinians-as-west-bank-tensions-intensify/",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "zionist",
+      "killers",
+      "detain",
+      "palestinians",
+      "west",
+      "bank",
+      "tensions",
+      "intensify"
     ]
   },
   "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theweek.in/news/india/2026/08/23/why-ex-envoy-navdeep-suri-flagged-sir-woes-after-representing-india-in-3-countries.html",
+    "top_news": "https://therightscoop.com/breaking-report-israeli-syria-meeting-to-deescalate-tensions-between-countries/",
     "event_codes": {
-      "20": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "india",
-      "2026",
-      "why",
-      "envoy",
-      "navdeep",
-      "suri",
-      "flagged",
-      "sir",
-      "woes",
-      "after",
-      "representing",
-      "india",
-      "countries.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.37,
-    "count": 4,
-    "top_news": "https://vietnamnews.vn/world/1798104/thailand-s-southern-province-imposes-curfew-after-dozens-of-arson-attacks.html",
-    "event_codes": {
-      "17": 2,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "1798104",
-      "thailand",
-      "southern",
-      "province",
-      "imposes",
-      "curfew",
-      "after",
-      "dozens",
-      "arson",
-      "attacks.html"
-    ]
-  },
-  "TWN": {
-    "risk_score": 5.32,
-    "count": 7,
-    "top_news": "https://www.theepochtimes.com/china/beijing-unlikely-to-attack-taiwan-in-the-near-term-despite-closing-window-analyst-6078600",
-    "event_codes": {
-      "15": 6,
-      "19": 1
-    },
-    "keywords": [
-      "china",
-      "beijing",
-      "unlikely",
-      "attack",
-      "taiwan",
-      "the",
-      "near",
-      "term",
-      "despite",
-      "closing",
-      "window",
-      "analyst",
-      "6078600"
+      "breaking",
+      "report",
+      "israeli",
+      "syria",
+      "meeting",
+      "deescalate",
+      "tensions",
+      "between",
+      "countries"
     ]
   }
 }
