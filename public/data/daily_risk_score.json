@@ -1,25 +1,90 @@
 {
-  "ISR": {
-    "risk_score": 6.38,
-    "count": 9,
-    "top_news": "https://www.middleeasteye.net/news/iranian-cyber-attack-shuts-down-uk-power-plant-four-days",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.bbc.co.uk/news/articles/cy070jv944po",
     "event_codes": {
-      "15": 3,
-      "17": 3,
-      "14": 2,
+      "17": 2,
       "19": 1
     },
     "keywords": [
       "news",
-      "iranian",
-      "cyber",
-      "attack",
-      "shuts",
-      "down",
-      "power",
-      "plant",
-      "four",
-      "days"
+      "articles",
+      "cy070jv944po"
+    ]
+  },
+  "ISR": {
+    "risk_score": 18.12,
+    "count": 20,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/hjkthduwgg",
+    "event_codes": {
+      "19": 13,
+      "17": 4,
+      "18": 3
+    },
+    "keywords": [
+      "opinions",
+      "analysis",
+      "article",
+      "hjkthduwgg"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/hjkthduwgg",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "opinions",
+      "analysis",
+      "article",
+      "hjkthduwgg"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.7,
+    "count": 16,
+    "top_news": "https://tribuneonlineng.com/ogogos-daughter-accuses-nigerians-of-profiting-from-fathers-cancer-battle/",
+    "event_codes": {
+      "17": 8,
+      "19": 5,
+      "18": 3
+    },
+    "keywords": [
+      "ogogos",
+      "daughter",
+      "accuses",
+      "nigerians",
+      "profiting",
+      "from",
+      "fathers",
+      "cancer",
+      "battle"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.72,
+    "count": 8,
+    "top_news": "https://www.middleeasteye.net/news/israeli-forces-kill-three-palestinians-gaza-shoot-child-death-nablus",
+    "event_codes": {
+      "19": 5,
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "forces",
+      "kill",
+      "three",
+      "palestinians",
+      "gaza",
+      "shoot",
+      "child",
+      "death",
+      "nablus"
     ]
   }
 }
