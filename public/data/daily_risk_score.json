@@ -1,24 +1,42 @@
 {
   "ISR": {
-    "risk_score": 2.36,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/8/18/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt",
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.mendocinobeacon.com/2026/08/22/crime-writers-books-murder-cameras-technology/",
     "event_codes": {
-      "14": 2,
-      "16": 1,
-      "17": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
       "2026",
-      "israeli",
-      "politicians",
-      "focus",
-      "foreign",
-      "threats",
-      "ignoring",
-      "spiralling",
-      "debt"
+      "crime",
+      "writers",
+      "books",
+      "murder",
+      "cameras",
+      "technology"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.66,
+    "count": 15,
+    "top_news": "https://www.premiumtimesng.com/regional/nwest/904745-kaduna-police-battle-bandits-rescue-three-kidnapped-victims.html",
+    "event_codes": {
+      "17": 10,
+      "19": 5
+    },
+    "keywords": [
+      "regional",
+      "nwest",
+      "904745",
+      "kaduna",
+      "police",
+      "battle",
+      "bandits",
+      "rescue",
+      "three",
+      "kidnapped",
+      "victims.html"
     ]
   }
 }
