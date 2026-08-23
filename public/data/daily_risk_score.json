@@ -1,31 +1,33 @@
 {
   "IRN": {
-    "risk_score": 2.9,
-    "count": 5,
-    "top_news": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.fairobserver.com/region/middle_east_north_africa/waterways-will-shape-the-middle-easts-future/",
     "event_codes": {
-      "17": 3,
-      "16": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "international",
-      "2026",
-      "iran",
+      "region",
       "middle",
       "east",
-      "power",
-      "688374"
+      "north",
+      "africa",
+      "waterways",
+      "will",
+      "shape",
+      "the",
+      "middle",
+      "easts",
+      "future"
     ]
   },
   "ISR": {
-    "risk_score": 19.8,
-    "count": 22,
-    "top_news": "https://www.theadvocate.com.au/story/9335740/israel-strike-in-gaza-strip-kills-four-year-old-medics/",
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://www.northerndailyleader.com.au/story/9335740/israel-strike-in-gaza-strip-kills-four-year-old-medics/",
     "event_codes": {
-      "19": 14,
-      "17": 4,
-      "18": 4
+      "19": 2,
+      "16": 1
     },
     "keywords": [
       "story",
@@ -42,92 +44,24 @@
     ]
   },
   "NGA": {
-    "risk_score": 10.2,
-    "count": 12,
-    "top_news": "https://punchng.com/insecurity-nigeria-must-not-become-a-killing-field-obi-tells-fg/",
+    "risk_score": 13.8,
+    "count": 16,
+    "top_news": "https://dailytrust.com/edo-police-rescue-victim-after-gun-battle-with-kidnappers/",
     "event_codes": {
+      "18": 7,
       "19": 6,
-      "17": 3,
-      "18": 3
+      "17": 3
     },
     "keywords": [
-      "insecurity",
-      "nigeria",
-      "must",
-      "not",
-      "become",
-      "killing",
-      "field",
-      "obi",
-      "tells"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.kxl.com/irans-president-says-us-memorandum-is-best-path-out-of-stalled-war-and-other-middle-east-news/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "irans",
-      "president",
-      "says",
-      "memorandum",
-      "best",
-      "path",
-      "out",
-      "stalled",
-      "war",
-      "and",
-      "other",
-      "middle",
-      "east",
-      "news"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/not-trusting-israel-currently-thankful-for-turkish-support-syria-fm",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "not",
-      "trusting",
-      "israel",
-      "currently",
-      "thankful",
-      "for",
-      "turkish",
-      "support",
-      "syria"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.dailysabah.com/politics/verdict-likely-due-in-cases-of-corruption-linked-to-chp-mayors-of-turkiye/news",
-    "event_codes": {
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "politics",
-      "verdict",
-      "likely",
-      "due",
-      "cases",
-      "corruption",
-      "linked",
-      "chp",
-      "mayors",
-      "turkiye",
-      "news"
+      "edo",
+      "police",
+      "rescue",
+      "victim",
+      "after",
+      "gun",
+      "battle",
+      "with",
+      "kidnappers"
     ]
   }
 }
