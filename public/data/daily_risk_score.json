@@ -1,42 +1,41 @@
 {
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.mendocinobeacon.com/2026/08/22/crime-writers-books-murder-cameras-technology/",
+  "IRN": {
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://www.yahoo.com/news/world/articles/iran-executes-another-man-mass-080340623.html",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "17": 3,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "crime",
-      "writers",
-      "books",
-      "murder",
-      "cameras",
-      "technology"
+      "news",
+      "world",
+      "articles",
+      "iran",
+      "executes",
+      "another",
+      "man",
+      "mass",
+      "080340623.html"
     ]
   },
-  "NGA": {
-    "risk_score": 12.66,
-    "count": 15,
-    "top_news": "https://www.premiumtimesng.com/regional/nwest/904745-kaduna-police-battle-bandits-rescue-three-kidnapped-victims.html",
+  "THA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.channelnewsasia.com/asia/thailand-narathiwat-attack-injuries-anutin-charnvirakul-6335736",
     "event_codes": {
-      "17": 10,
       "19": 5
     },
     "keywords": [
-      "regional",
-      "nwest",
-      "904745",
-      "kaduna",
-      "police",
-      "battle",
-      "bandits",
-      "rescue",
-      "three",
-      "kidnapped",
-      "victims.html"
+      "asia",
+      "thailand",
+      "narathiwat",
+      "attack",
+      "injuries",
+      "anutin",
+      "charnvirakul",
+      "6335736"
     ]
   }
 }
