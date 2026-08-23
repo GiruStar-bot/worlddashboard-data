@@ -1,57 +1,105 @@
 {
   "ISR": {
-    "risk_score": 9.05,
-    "count": 10,
-    "top_news": "https://www.middle-east-online.com/en/israel-targets-hamas-leadership-weaken-groups-hold-gaza",
+    "risk_score": 15.75,
+    "count": 20,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupier-injured-in-stabbing-attack-in-occupied-west-bank/4035072",
     "event_codes": {
-      "19": 7,
-      "17": 2,
-      "14": 1
+      "19": 10,
+      "17": 8,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "israel",
-      "targets",
-      "hamas",
-      "leadership",
-      "weaken",
-      "groups",
-      "hold",
-      "gaza"
+      "middle",
+      "east",
+      "israeli",
+      "occupier",
+      "injured",
+      "stabbing",
+      "attack",
+      "occupied",
+      "west",
+      "bank",
+      "4035072"
     ]
   },
-  "NGA": {
+  "MYS": {
     "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.thisdaylive.com/2026/08/23/osun-polls-the-days-after-and-implications-for-2027/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "osun",
-      "polls",
-      "the",
-      "days",
-      "after",
-      "and",
-      "implications",
-      "for",
-      "2027"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.5,
     "count": 5,
-    "top_news": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o",
+    "top_news": "https://www.thestar.com.my/news/nation/2026/08/23/suspect-nabbed-in-pj-over-allegedly-seditious-posts",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "17": 5
     },
     "keywords": [
       "news",
+      "nation",
+      "2026",
+      "suspect",
+      "nabbed",
+      "over",
+      "allegedly",
+      "seditious",
+      "posts"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://aa.com.tr/en/middle-east/israeli-occupier-injured-in-stabbing-attack-in-occupied-west-bank/4035072",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "occupier",
+      "injured",
+      "stabbing",
+      "attack",
+      "occupied",
+      "west",
+      "bank",
+      "4035072"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://aa.com.tr/en/middle-east/sudan-says-it-downed-hostile-drone-in-blue-nile-state/4035038",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "sudan",
+      "says",
+      "downed",
+      "hostile",
+      "drone",
+      "blue",
+      "nile",
+      "state",
+      "4035038"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.aol.co.uk/articles/southern-african-mothers-plead-sons-112837000.html",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
       "articles",
-      "c8enegx4xy3o"
+      "southern",
+      "african",
+      "mothers",
+      "plead",
+      "sons",
+      "112837000.html"
     ]
   }
 }
