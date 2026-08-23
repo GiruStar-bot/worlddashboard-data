@@ -1,63 +1,40 @@
 {
-  "ISR": {
-    "risk_score": 8.42,
-    "count": 11,
-    "top_news": "https://dominicanrepublicpost.com/israeli-army-and-settlers-injure-several-palestinians-across-west-bank/",
-    "event_codes": {
-      "17": 6,
-      "19": 5
-    },
-    "keywords": [
-      "israeli",
-      "army",
-      "and",
-      "settlers",
-      "injure",
-      "several",
-      "palestinians",
-      "across",
-      "west",
-      "bank"
-    ]
-  },
   "NER": {
-    "risk_score": 4.9,
+    "risk_score": 4.6,
     "count": 5,
-    "top_news": "https://www.newcastleherald.com.au/story/9335393/gunmen-abduct-worshippers-from-nigeria-mosque-police/",
+    "top_news": "https://punchng.com/terrorists-attack-niger-mosque-abduct-worshippers/",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "story",
-      "9335393",
-      "gunmen",
-      "abduct",
-      "worshippers",
-      "from",
-      "nigeria",
+      "terrorists",
+      "attack",
+      "niger",
       "mosque",
-      "police"
+      "abduct",
+      "worshippers"
     ]
   },
   "NGA": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://www.newcastleherald.com.au/story/9335393/gunmen-abduct-worshippers-from-nigeria-mosque-police/",
+    "risk_score": 8.6,
+    "count": 11,
+    "top_news": "https://punchng.com/mr-president-how-many-fake-dgs-can-you-chase/",
     "event_codes": {
-      "18": 3,
-      "19": 3
+      "14": 4,
+      "19": 4,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "story",
-      "9335393",
-      "gunmen",
-      "abduct",
-      "worshippers",
-      "from",
-      "nigeria",
-      "mosque",
-      "police"
+      "president",
+      "how",
+      "many",
+      "fake",
+      "dgs",
+      "can",
+      "you",
+      "chase"
     ]
   }
 }
