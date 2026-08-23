@@ -1,14 +1,45 @@
 {
-  "ISR": {
-    "risk_score": 2.9,
+  "BRA": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.gdnonline.com:443/Details/1404301",
+    "top_news": "https://natlawreview.com/article/federal-court-strikes-down-75-country-immigrant-visa-ban-case-brought-colombo-hurd",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "details",
-      "1404301"
+      "article",
+      "federal",
+      "court",
+      "strikes",
+      "down",
+      "country",
+      "immigrant",
+      "visa",
+      "ban",
+      "case",
+      "brought",
+      "colombo",
+      "hurd"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.opinionnigeria.com/insecurity-nigeria-must-not-become-a-killing-field-peter-obi/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "insecurity",
+      "nigeria",
+      "must",
+      "not",
+      "become",
+      "killing",
+      "field",
+      "peter",
+      "obi"
     ]
   }
 }
