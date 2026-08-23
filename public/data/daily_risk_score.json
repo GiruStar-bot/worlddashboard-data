@@ -1,67 +1,57 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.fairobserver.com/region/middle_east_north_africa/waterways-will-shape-the-middle-easts-future/",
+  "IDN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://en.tempo.co/read/2118166/as-wildfires-rage-has-indonesia-calmed-neighbors-over-haze-concerns",
     "event_codes": {
+      "16": 2,
       "19": 2
     },
     "keywords": [
-      "region",
-      "middle",
-      "east",
-      "north",
-      "africa",
-      "waterways",
-      "will",
-      "shape",
-      "the",
-      "middle",
-      "easts",
-      "future"
+      "read",
+      "2118166",
+      "wildfires",
+      "rage",
+      "has",
+      "indonesia",
+      "calmed",
+      "neighbors",
+      "over",
+      "haze",
+      "concerns"
     ]
   },
   "ISR": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.northerndailyleader.com.au/story/9335740/israel-strike-in-gaza-strip-kills-four-year-old-medics/",
+    "risk_score": 7.55,
+    "count": 8,
+    "top_news": "https://www.israelnationalnews.com/news/432118",
     "event_codes": {
-      "19": 2,
+      "19": 5,
+      "18": 2,
       "16": 1
     },
     "keywords": [
-      "story",
-      "9335740",
-      "israel",
-      "strike",
-      "gaza",
-      "strip",
-      "kills",
-      "four",
-      "year",
-      "old",
-      "medics"
+      "news",
+      "432118"
     ]
   },
-  "NGA": {
-    "risk_score": 13.8,
-    "count": 16,
-    "top_news": "https://dailytrust.com/edo-police-rescue-victim-after-gun-battle-with-kidnappers/",
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.philstar.com/headlines/2026/08/24/2551342/hold-negligent-gun-owners-criminally-liable",
     "event_codes": {
-      "18": 7,
-      "19": 6,
-      "17": 3
+      "17": 4
     },
     "keywords": [
-      "edo",
-      "police",
-      "rescue",
-      "victim",
-      "after",
+      "headlines",
+      "2026",
+      "2551342",
+      "hold",
+      "negligent",
       "gun",
-      "battle",
-      "with",
-      "kidnappers"
+      "owners",
+      "criminally",
+      "liable"
     ]
   }
 }
