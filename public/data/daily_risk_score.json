@@ -1,77 +1,57 @@
 {
   "IRN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/iran-executes-man-accused-of-aiding-us-israel-in-anti-govt-protests-101787467117826.html",
-    "event_codes": {
-      "18": 3,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "news",
-      "news",
-      "iran",
-      "executes",
-      "man",
-      "accused",
-      "aiding",
-      "israel",
-      "anti",
-      "govt",
-      "protests",
-      "101787467117826.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.85,
-    "count": 6,
-    "top_news": "https://www.ynetnews.com/article/hjdpfz00dme",
-    "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "article",
-      "hjdpfz00dme"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.95,
+    "risk_score": 3.0,
     "count": 4,
-    "top_news": "https://www.ynetnews.com/article/b11qhfuwzx",
+    "top_news": "https://www.texarkanagazette.com/news/2026/aug/22/pentagon-fires-editor-and-publisher-of/",
     "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "article",
-      "b11qhfuwzx"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ynetnews.com/article/hjdpfz00dme",
-    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "article",
-      "hjdpfz00dme"
+      "news",
+      "2026",
+      "aug",
+      "pentagon",
+      "fires",
+      "editor",
+      "and",
+      "publisher"
     ]
   },
-  "TUR": {
-    "risk_score": 10.3,
-    "count": 11,
-    "top_news": "https://www.ynetnews.com/article/hjdpfz00dme",
+  "ISR": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.prokerala.com/news/articles/a1803653.html",
     "event_codes": {
-      "19": 10,
-      "17": 1
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "article",
-      "hjdpfz00dme"
+      "news",
+      "articles",
+      "a1803653.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.22,
+    "count": 5,
+    "top_news": "https://thenationonlineng.net/ronke-oshodi-oke-i-spent-n800000-monthly-on-drugs-during-health-crisis/",
+    "event_codes": {
+      "17": 3,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "ronke",
+      "oshodi",
+      "oke",
+      "spent",
+      "n800000",
+      "monthly",
+      "drugs",
+      "during",
+      "health",
+      "crisis"
     ]
   }
 }
