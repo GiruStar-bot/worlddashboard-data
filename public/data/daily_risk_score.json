@@ -1,96 +1,105 @@
 {
   "IRN": {
-    "risk_score": 6.68,
-    "count": 7,
-    "top_news": "https://www.whmi.com/news/fox/iran-tried-assassinate-netanyahu-son-prime-minister-says",
+    "risk_score": 2.25,
+    "count": 3,
+    "top_news": "https://www.chathamdailynews.ca:443/news/local-news/local-tariff-impact-being-assessed-sarnia-lambton-chamber-boss",
     "event_codes": {
-      "17": 4,
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "local",
+      "news",
+      "local",
+      "tariff",
+      "impact",
+      "being",
+      "assessed",
+      "sarnia",
+      "lambton",
+      "chamber",
+      "boss"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.72,
+    "count": 13,
+    "top_news": "https://arynews.tv/gaza-rescuers-say-israeli-strikes-kill-five-including-two-children",
+    "event_codes": {
+      "19": 9,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "gaza",
+      "rescuers",
+      "say",
+      "israeli",
+      "strikes",
+      "kill",
+      "five",
+      "including",
+      "two",
+      "children"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://arynews.tv/gaza-rescuers-say-israeli-strikes-kill-five-including-two-children",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "gaza",
+      "rescuers",
+      "say",
+      "israeli",
+      "strikes",
+      "kill",
+      "five",
+      "including",
+      "two",
+      "children"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.middle-east-online.com/en/houthis-say-they-attacked-ship-saudi-arabias-yanbu",
+    "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "news",
-      "fox",
-      "iran",
-      "tried",
-      "assassinate",
-      "netanyahu",
-      "son",
-      "prime",
-      "minister",
-      "says"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.97,
-    "count": 7,
-    "top_news": "https://www.whmi.com/news/fox/iran-tried-assassinate-netanyahu-son-prime-minister-says",
-    "event_codes": {
-      "19": 4,
-      "17": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "fox",
-      "iran",
-      "tried",
-      "assassinate",
-      "netanyahu",
-      "son",
-      "prime",
-      "minister",
-      "says"
-    ]
-  },
-  "SOM": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://wardheernews.com/turkey-denies-role-in-puntland-airstrikes-but-questions-over-its-presence-refuse-to-disappear/",
-    "event_codes": {
-      "18": 3,
-      "19": 2
-    },
-    "keywords": [
-      "turkey",
-      "denies",
-      "role",
-      "puntland",
-      "airstrikes",
-      "but",
-      "questions",
-      "over",
-      "its",
-      "presence",
-      "refuse",
-      "disappear"
+      "houthis",
+      "say",
+      "they",
+      "attacked",
+      "ship",
+      "saudi",
+      "arabias",
+      "yanbu"
     ]
   },
   "YEM": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "http://www.theuknews.com/news/279262419/1st-ld-writethru-yemen-houthis-claim-missile-strike-on-saudi-oil-tanker-in-red-sea-attacks-on-saudi-forces",
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.albawaba.com/news/houthis-strike-saudi-tanker-amzan-red-1635699",
     "event_codes": {
-      "19": 8
+      "19": 5
     },
     "keywords": [
       "news",
-      "279262419",
-      "1st",
-      "writethru",
-      "yemen",
       "houthis",
-      "claim",
-      "missile",
       "strike",
       "saudi",
-      "oil",
       "tanker",
+      "amzan",
       "red",
-      "sea",
-      "attacks",
-      "saudi",
-      "forces"
+      "1635699"
     ]
   }
 }
