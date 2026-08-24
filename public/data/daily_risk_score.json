@@ -1,51 +1,58 @@
 {
-  "NER": {
-    "risk_score": 5.7,
-    "count": 6,
-    "top_news": "https://saharareporters.com/2026/08/24/breaking-nigeria-police-raid-niger-ex-deputy-governors-aides-home-1am-allegedly-assault",
+  "COL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.pressherald.com/2026/08/24/biddeford-911-calls-detail-moments-after-fatal-ice-shooting/",
     "event_codes": {
-      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "biddeford",
+      "911",
+      "calls",
+      "detail",
+      "moments",
+      "after",
+      "fatal",
+      "ice",
+      "shooting"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.algemeiner.com/2026/08/24/why-giving-israel-defensive-weapons-is-completely-justified-under-humanitarian-law/",
+    "event_codes": {
       "19": 3
     },
     "keywords": [
       "2026",
-      "breaking",
-      "nigeria",
-      "police",
-      "raid",
-      "niger",
-      "deputy",
-      "governors",
-      "aides",
-      "home",
-      "1am",
-      "allegedly",
-      "assault"
+      "why",
+      "giving",
+      "israel",
+      "defensive",
+      "weapons",
+      "completely",
+      "justified",
+      "under",
+      "humanitarian",
+      "law"
     ]
   },
-  "NGA": {
-    "risk_score": 5.6,
-    "count": 9,
-    "top_news": "https://saharareporters.com/2026/08/24/breaking-nigeria-police-raid-niger-ex-deputy-governors-aides-home-1am-allegedly-assault",
+  "SYR": {
+    "risk_score": 3.9,
+    "count": 7,
+    "top_news": "https://www.bbc.co.uk/news/articles/cd68ygy73v4o",
     "event_codes": {
-      "16": 4,
-      "18": 3,
-      "17": 2
+      "17": 5,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "breaking",
-      "nigeria",
-      "police",
-      "raid",
-      "niger",
-      "deputy",
-      "governors",
-      "aides",
-      "home",
-      "1am",
-      "allegedly",
-      "assault"
+      "news",
+      "articles",
+      "cd68ygy73v4o"
     ]
   }
 }
