@@ -1,56 +1,146 @@
 {
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://thesun.ng/oyo-acting-governor-sympathises-with-oranyan-market-traders-over-fire/",
+  "IRN": {
+    "risk_score": 3.7,
+    "count": 4,
+    "top_news": "https://www.middleeastmonitor.com/20260824-pakistani-army-chief-discussing-new-proposals-in-tehran-to-revive-stalled-us-iran-talks-sources/",
     "event_codes": {
-      "19": 3
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "oyo",
-      "acting",
-      "governor",
-      "sympathises",
-      "with",
-      "oranyan",
-      "market",
-      "traders",
-      "over",
-      "fire"
+      "20260824",
+      "pakistani",
+      "army",
+      "chief",
+      "discussing",
+      "new",
+      "proposals",
+      "tehran",
+      "revive",
+      "stalled",
+      "iran",
+      "talks",
+      "sources"
     ]
   },
-  "PSE": {
-    "risk_score": 10.2,
+  "ISR": {
+    "risk_score": 24.68,
+    "count": 27,
+    "top_news": "https://www.middleeastmonitor.com/20260824-israeli-forces-arrest-17-palestinians-as-occupiers-expand-west-bank-outpost/",
+    "event_codes": {
+      "19": 18,
+      "16": 5,
+      "15": 2,
+      "17": 2
+    },
+    "keywords": [
+      "20260824",
+      "israeli",
+      "forces",
+      "arrest",
+      "palestinians",
+      "occupiers",
+      "expand",
+      "west",
+      "bank",
+      "outpost"
+    ]
+  },
+  "LBN": {
+    "risk_score": 10.22,
     "count": 11,
-    "top_news": "https://english.wafa.ps/Pages/Details/174062",
+    "top_news": "https://voiceofvienna.org/fresh-israeli-incursion-raises-tensions-in-syria-and-lebanon/",
     "event_codes": {
-      "18": 8,
-      "19": 3
+      "17": 6,
+      "18": 3,
+      "19": 2
     },
     "keywords": [
-      "pages",
-      "details",
-      "174062"
+      "fresh",
+      "israeli",
+      "incursion",
+      "raises",
+      "tensions",
+      "syria",
+      "and",
+      "lebanon"
     ]
   },
-  "TUR": {
-    "risk_score": 2.95,
-    "count": 5,
-    "top_news": "https://www.dailysabah.com/politics/turkiye-detains-48-migrant-smuggling-suspects-in-nationwide-operations/news",
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://voiceofvienna.org/rescue-ships-face-harassment-as-sea-route-grows-more-dangerous/",
     "event_codes": {
-      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "rescue",
+      "ships",
+      "face",
+      "harassment",
+      "sea",
+      "route",
+      "grows",
+      "more",
+      "dangerous"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 12,
+    "top_news": "https://www.nigerianeye.com/2026/08/security-forces-rescue-32-kidnap.html",
+    "event_codes": {
+      "17": 6,
+      "18": 3,
+      "14": 2,
       "19": 1
     },
     "keywords": [
-      "politics",
-      "turkiye",
-      "detains",
-      "migrant",
-      "smuggling",
-      "suspects",
-      "nationwide",
-      "operations",
-      "news"
+      "2026",
+      "security",
+      "forces",
+      "rescue",
+      "kidnap.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 19.8,
+    "count": 22,
+    "top_news": "https://www.middleeastmonitor.com/20260824-israeli-forces-arrest-17-palestinians-as-occupiers-expand-west-bank-outpost/",
+    "event_codes": {
+      "19": 16,
+      "17": 6
+    },
+    "keywords": [
+      "20260824",
+      "israeli",
+      "forces",
+      "arrest",
+      "palestinians",
+      "occupiers",
+      "expand",
+      "west",
+      "bank",
+      "outpost"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://thehardtackle.com/opinion/three-potential-ollie-watkins-replacement-for-aston-villa/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "opinion",
+      "three",
+      "potential",
+      "ollie",
+      "watkins",
+      "replacement",
+      "for",
+      "aston",
+      "villa"
     ]
   }
 }
