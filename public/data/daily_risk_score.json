@@ -1,41 +1,56 @@
 {
-  "NGA": {
-    "risk_score": 2.75,
+  "IRN": {
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://thechronicle.com.gh/ndlea-arrests-101-year-old-great-grandma-for-selling-cannabis/",
+    "top_news": "http://www.jpost.com/international/article-906371",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "ndlea",
-      "arrests",
-      "101",
-      "year",
-      "old",
-      "great",
-      "grandma",
-      "for",
-      "selling",
-      "cannabis"
+      "international",
+      "article",
+      "906371"
     ]
   },
-  "THA": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://thechronicle.com.gh/dozens-of-co-ordinated-arson-attacks-hit-southern-thailand/",
+  "MMR": {
+    "risk_score": 4.2,
+    "count": 5,
+    "top_news": "https://www.asiapacificms.com/articles/china-is-pulling-many-strings-with-its-myanmar-policy",
     "event_codes": {
-      "19": 6,
-      "17": 1
+      "19": 4,
+      "16": 1
     },
     "keywords": [
-      "dozens",
-      "ordinated",
-      "arson",
-      "attacks",
-      "hit",
-      "southern",
-      "thailand"
+      "articles",
+      "china",
+      "pulling",
+      "many",
+      "strings",
+      "with",
+      "its",
+      "myanmar",
+      "policy"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://punchng.com/one-operative-six-suspected-secessionists-killed-in-anambra-gun-battle/",
+    "event_codes": {
+      "14": 2,
+      "19": 2
+    },
+    "keywords": [
+      "one",
+      "operative",
+      "six",
+      "suspected",
+      "secessionists",
+      "killed",
+      "anambra",
+      "gun",
+      "battle"
     ]
   }
 }
