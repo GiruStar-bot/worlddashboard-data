@@ -1,59 +1,98 @@
 {
-  "EGY": {
-    "risk_score": 7.6,
-    "count": 11,
-    "top_news": "https://www.christianitytoday.com/2026/08/the-terrorist-charity-of-late-antiquity-early-church-young-men/",
+  "IRN": {
+    "risk_score": 5.15,
+    "count": 6,
+    "top_news": "https://www.middleeastmonitor.com/20260824-washingtons-iran-war-three-tracks-one-deadlock-and-a-revolution-that-never-forgot-1953/",
     "event_codes": {
-      "17": 5,
-      "14": 2,
-      "18": 2,
-      "19": 2
+      "19": 4,
+      "14": 1,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "the",
-      "terrorist",
-      "charity",
-      "late",
-      "antiquity",
-      "early",
-      "church",
-      "young",
-      "men"
+      "20260824",
+      "washingtons",
+      "iran",
+      "war",
+      "three",
+      "tracks",
+      "one",
+      "deadlock",
+      "and",
+      "revolution",
+      "that",
+      "never",
+      "forgot",
+      "1953"
     ]
   },
   "ISR": {
-    "risk_score": 6.15,
-    "count": 8,
-    "top_news": "https://www.jpost.com/history/article-906395",
+    "risk_score": 9.45,
+    "count": 10,
+    "top_news": "https://www.ynetnews.com/article/ryvakdtpgx",
     "event_codes": {
-      "19": 4,
-      "17": 3,
+      "19": 9,
       "14": 1
     },
     "keywords": [
-      "history",
       "article",
-      "906395"
+      "ryvakdtpgx"
     ]
   },
-  "ZAF": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.yahoo.com/news/world/articles/zambia-courts-sealed-off-election-102249433.html",
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://dailytrust.com/gunmen-kill-14-cattle-rustle-29-in-plateau/",
     "event_codes": {
-      "19": 3
+      "19": 4
+    },
+    "keywords": [
+      "gunmen",
+      "kill",
+      "cattle",
+      "rustle",
+      "plateau"
+    ]
+  },
+  "TWN": {
+    "risk_score": 7.1,
+    "count": 13,
+    "top_news": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/24/2003863051",
+    "event_codes": {
+      "17": 8,
+      "16": 4,
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "articles",
-      "zambia",
-      "courts",
-      "sealed",
-      "off",
-      "election",
-      "102249433.html"
+      "taiwan",
+      "archives",
+      "2026",
+      "2003863051"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://wysu.org/ohio-news/2026-08-24/how-one-civil-rights-activists-death-turned-the-tide-on-cleveland-school-segregation",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "ohio",
+      "news",
+      "2026",
+      "how",
+      "one",
+      "civil",
+      "rights",
+      "activists",
+      "death",
+      "turned",
+      "the",
+      "tide",
+      "cleveland",
+      "school",
+      "segregation"
     ]
   }
 }
