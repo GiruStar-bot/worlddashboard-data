@@ -1,48 +1,107 @@
 {
-  "ETH": {
-    "risk_score": 2.6,
-    "count": 6,
-    "top_news": "https://www.riotimesonline.com/ethiopia-united-states-defence-partnership-2026/",
+  "IRN": {
+    "risk_score": 24.0,
+    "count": 38,
+    "top_news": "https://news.az/news/multiple-executions-death-sentences-reported-across-iran",
     "event_codes": {
-      "16": 4,
-      "17": 2
+      "17": 28,
+      "18": 5,
+      "19": 5
     },
     "keywords": [
-      "ethiopia",
-      "united",
-      "states",
-      "defence",
-      "partnership",
-      "2026"
+      "news",
+      "multiple",
+      "executions",
+      "death",
+      "sentences",
+      "reported",
+      "across",
+      "iran"
     ]
   },
-  "SOM": {
-    "risk_score": 10.25,
-    "count": 11,
-    "top_news": "https://allafrica.com/stories/202608240109.html",
+  "ISR": {
+    "risk_score": 8.5,
+    "count": 9,
+    "top_news": "https://news.az/news/israeli-forces-carry-out-new-raids-arrests-across-west-bank",
     "event_codes": {
-      "19": 6,
-      "17": 4,
-      "15": 1
+      "19": 5,
+      "18": 3,
+      "16": 1
     },
     "keywords": [
-      "stories",
-      "202608240109.html"
+      "news",
+      "israeli",
+      "forces",
+      "carry",
+      "out",
+      "new",
+      "raids",
+      "arrests",
+      "across",
+      "west",
+      "bank"
     ]
   },
-  "TUR": {
-    "risk_score": 2.88,
+  "PSE": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://news.az/news/israeli-forces-carry-out-new-raids-arrests-across-west-bank",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "forces",
+      "carry",
+      "out",
+      "new",
+      "raids",
+      "arrests",
+      "across",
+      "west",
+      "bank"
+    ]
+  },
+  "SGP": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.channelnewsasia.com/singapore/haze-nea-psi-sumatra-kalimantan-indonesia-hotspots-6320986",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "singapore",
+      "haze",
+      "nea",
+      "psi",
+      "sumatra",
+      "kalimantan",
+      "indonesia",
+      "hotspots",
+      "6320986"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.7,
     "count": 4,
-    "top_news": "https://www.riotimesonline.com/mogadishu-tookiyo-demolitions-yaqshiid-2026/",
+    "top_news": "https://www.arkansasonline.com/news/2026/aug/24/thai-premier-officials-gather-to-review-outbreak/",
     "event_codes": {
-      "15": 4
+      "14": 2,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "mogadishu",
-      "tookiyo",
-      "demolitions",
-      "yaqshiid",
-      "2026"
+      "news",
+      "2026",
+      "aug",
+      "thai",
+      "premier",
+      "officials",
+      "gather",
+      "review",
+      "outbreak"
     ]
   }
 }
