@@ -1,24 +1,56 @@
 {
-  "ISR": {
+  "NGA": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://euobserver.com/233237/belgium-abandonsgaza-students-with-university-places-as-italy-shows-evacuations-are-possible/",
+    "top_news": "https://thesun.ng/oyo-acting-governor-sympathises-with-oranyan-market-traders-over-fire/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "233237",
-      "belgium",
-      "abandonsgaza",
-      "students",
+      "oyo",
+      "acting",
+      "governor",
+      "sympathises",
       "with",
-      "university",
-      "places",
-      "italy",
-      "shows",
-      "evacuations",
-      "are",
-      "possible"
+      "oranyan",
+      "market",
+      "traders",
+      "over",
+      "fire"
+    ]
+  },
+  "PSE": {
+    "risk_score": 10.2,
+    "count": 11,
+    "top_news": "https://english.wafa.ps/Pages/Details/174062",
+    "event_codes": {
+      "18": 8,
+      "19": 3
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "174062"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.95,
+    "count": 5,
+    "top_news": "https://www.dailysabah.com/politics/turkiye-detains-48-migrant-smuggling-suspects-in-nationwide-operations/news",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "politics",
+      "turkiye",
+      "detains",
+      "migrant",
+      "smuggling",
+      "suspects",
+      "nationwide",
+      "operations",
+      "news"
     ]
   }
 }
