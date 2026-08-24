@@ -1,48 +1,96 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://aa.com.tr/en/asia-pacific/akistan-army-chief-meets-iran-parliament-speaker-amid-push-to-revive-us-iran-talks/4034950",
+    "risk_score": 6.68,
+    "count": 7,
+    "top_news": "https://www.whmi.com/news/fox/iran-tried-assassinate-netanyahu-son-prime-minister-says",
     "event_codes": {
-      "16": 2,
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "asia",
-      "pacific",
-      "akistan",
-      "army",
-      "chief",
-      "meets",
-      "iran",
-      "parliament",
-      "speaker",
-      "amid",
-      "push",
-      "revive",
-      "iran",
-      "talks",
-      "4034950"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.9,
-    "count": 6,
-    "top_news": "https://www.yahoo.com/news/us/articles/border-police-discover-second-temple-181847868.html",
-    "event_codes": {
-      "19": 5,
+      "17": 4,
+      "19": 2,
       "18": 1
     },
     "keywords": [
       "news",
-      "articles",
-      "border",
-      "police",
-      "discover",
-      "second",
-      "temple",
-      "181847868.html"
+      "fox",
+      "iran",
+      "tried",
+      "assassinate",
+      "netanyahu",
+      "son",
+      "prime",
+      "minister",
+      "says"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.97,
+    "count": 7,
+    "top_news": "https://www.whmi.com/news/fox/iran-tried-assassinate-netanyahu-son-prime-minister-says",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "fox",
+      "iran",
+      "tried",
+      "assassinate",
+      "netanyahu",
+      "son",
+      "prime",
+      "minister",
+      "says"
+    ]
+  },
+  "SOM": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://wardheernews.com/turkey-denies-role-in-puntland-airstrikes-but-questions-over-its-presence-refuse-to-disappear/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "turkey",
+      "denies",
+      "role",
+      "puntland",
+      "airstrikes",
+      "but",
+      "questions",
+      "over",
+      "its",
+      "presence",
+      "refuse",
+      "disappear"
+    ]
+  },
+  "YEM": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "http://www.theuknews.com/news/279262419/1st-ld-writethru-yemen-houthis-claim-missile-strike-on-saudi-oil-tanker-in-red-sea-attacks-on-saudi-forces",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "news",
+      "279262419",
+      "1st",
+      "writethru",
+      "yemen",
+      "houthis",
+      "claim",
+      "missile",
+      "strike",
+      "saudi",
+      "oil",
+      "tanker",
+      "red",
+      "sea",
+      "attacks",
+      "saudi",
+      "forces"
     ]
   }
 }
