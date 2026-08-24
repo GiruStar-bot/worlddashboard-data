@@ -1,106 +1,100 @@
 {
-  "IRN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.worthynews.com/116916-iran-urges-qatar-to-hospitalize-detained-pilots-amid-war-tensions",
+  "IDN": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://en.antaranews.com/news/428321/four-killed-one-injured-in-house-fire-in-south-jakarta",
     "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "116916",
-      "iran",
-      "urges",
-      "qatar",
-      "hospitalize",
-      "detained",
-      "pilots",
-      "amid",
-      "war",
-      "tensions"
-    ]
-  },
-  "KHM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.koreatimes.co.kr/lifestyle/people-events/20260824/tributes-pour-in-for-korean-doctor-known-as-schweitzer-of-cambodia",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "lifestyle",
-      "people",
-      "events",
-      "20260824",
-      "tributes",
-      "pour",
-      "for",
-      "korean",
-      "doctor",
-      "known",
-      "schweitzer",
-      "cambodia"
-    ]
-  },
-  "MMR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.worthynews.com/116919-myanmar-military-airstrike-kills-14-at-buddhist-monastery-amid-christian-persecution",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "116919",
-      "myanmar",
-      "military",
-      "airstrike",
-      "kills",
-      "buddhist",
-      "monastery",
-      "amid",
-      "christian",
-      "persecution"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.2,
-    "count": 9,
-    "top_news": "https://dailypost.ng/2026/08/24/2027-were-working-to-unite-peter-obi-atiku-others-lukman/",
-    "event_codes": {
-      "18": 8,
+      "16": 2,
+      "14": 1,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "2027",
-      "were",
-      "working",
-      "unite",
-      "peter",
-      "obi",
-      "atiku",
-      "others",
-      "lukman"
+      "news",
+      "428321",
+      "four",
+      "killed",
+      "one",
+      "injured",
+      "house",
+      "fire",
+      "south",
+      "jakarta"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/politics/terror-free-turkiye-board-begins-duty-on-future-of-pkk/news",
+  "ISR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions/",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "politics",
-      "terror",
-      "free",
-      "turkiye",
-      "board",
-      "begins",
-      "duty",
-      "future",
-      "pkk",
-      "news"
+      "syria",
+      "israel",
+      "hold",
+      "mediated",
+      "talks",
+      "jordan",
+      "escalate",
+      "tensions"
+    ]
+  },
+  "MLI": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://dailytrust.com/tuareg-rebels-release-22-mali-soldiers-sources/",
+    "event_codes": {
+      "19": 6,
+      "17": 2
+    },
+    "keywords": [
+      "tuareg",
+      "rebels",
+      "release",
+      "mali",
+      "soldiers",
+      "sources"
+    ]
+  },
+  "NGA": {
+    "risk_score": 17.4,
+    "count": 23,
+    "top_news": "https://theeagleonline.com.ng/nigeria-must-not-become-a-killing-field-peter-obi/",
+    "event_codes": {
+      "17": 9,
+      "19": 8,
+      "18": 4,
+      "14": 2
+    },
+    "keywords": [
+      "nigeria",
+      "must",
+      "not",
+      "become",
+      "killing",
+      "field",
+      "peter",
+      "obi"
+    ]
+  },
+  "THA": {
+    "risk_score": 10.0,
+    "count": 11,
+    "top_news": "https://www.surinametimes.com/artikel/dozens-of-attacks-in-thailands-restive-south-leave-3-wounded",
+    "event_codes": {
+      "19": 9,
+      "17": 2
+    },
+    "keywords": [
+      "artikel",
+      "dozens",
+      "attacks",
+      "thailands",
+      "restive",
+      "south",
+      "leave",
+      "wounded"
     ]
   }
 }
