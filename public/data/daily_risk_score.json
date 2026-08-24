@@ -1,107 +1,53 @@
 {
-  "IRN": {
-    "risk_score": 24.0,
-    "count": 38,
-    "top_news": "https://news.az/news/multiple-executions-death-sentences-reported-across-iran",
-    "event_codes": {
-      "17": 28,
-      "18": 5,
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "multiple",
-      "executions",
-      "death",
-      "sentences",
-      "reported",
-      "across",
-      "iran"
-    ]
-  },
   "ISR": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://news.az/news/israeli-forces-carry-out-new-raids-arrests-across-west-bank",
+    "risk_score": 3.7,
+    "count": 6,
+    "top_news": "https://www.juancole.com/2026/08/security-palestinian-civilians.html",
     "event_codes": {
-      "19": 5,
-      "18": 3,
+      "17": 3,
+      "18": 2,
       "16": 1
     },
     "keywords": [
-      "news",
-      "israeli",
-      "forces",
-      "carry",
-      "out",
-      "new",
-      "raids",
-      "arrests",
-      "across",
-      "west",
-      "bank"
+      "2026",
+      "security",
+      "palestinian",
+      "civilians.html"
     ]
   },
-  "PSE": {
-    "risk_score": 7.9,
-    "count": 8,
-    "top_news": "https://news.az/news/israeli-forces-carry-out-new-raids-arrests-across-west-bank",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/israel-news/defense-news/article-906407",
     "event_codes": {
-      "19": 7,
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "defense",
+      "news",
+      "article",
+      "906407"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.06,
+    "count": 4,
+    "top_news": "https://promptnewsonline.com/ogun-kidnappers-reduce-ransom-to-n100m-for-abducted-woman/",
+    "event_codes": {
+      "15": 3,
       "18": 1
     },
     "keywords": [
-      "news",
-      "israeli",
-      "forces",
-      "carry",
-      "out",
-      "new",
-      "raids",
-      "arrests",
-      "across",
-      "west",
-      "bank"
-    ]
-  },
-  "SGP": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.channelnewsasia.com/singapore/haze-nea-psi-sumatra-kalimantan-indonesia-hotspots-6320986",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "singapore",
-      "haze",
-      "nea",
-      "psi",
-      "sumatra",
-      "kalimantan",
-      "indonesia",
-      "hotspots",
-      "6320986"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://www.arkansasonline.com/news/2026/aug/24/thai-premier-officials-gather-to-review-outbreak/",
-    "event_codes": {
-      "14": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "aug",
-      "thai",
-      "premier",
-      "officials",
-      "gather",
-      "review",
-      "outbreak"
+      "ogun",
+      "kidnappers",
+      "reduce",
+      "ransom",
+      "n100m",
+      "for",
+      "abducted",
+      "woman"
     ]
   }
 }
