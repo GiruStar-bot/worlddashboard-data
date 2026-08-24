@@ -1,63 +1,59 @@
 {
+  "EGY": {
+    "risk_score": 7.6,
+    "count": 11,
+    "top_news": "https://www.christianitytoday.com/2026/08/the-terrorist-charity-of-late-antiquity-early-church-young-men/",
+    "event_codes": {
+      "17": 5,
+      "14": 2,
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "terrorist",
+      "charity",
+      "late",
+      "antiquity",
+      "early",
+      "church",
+      "young",
+      "men"
+    ]
+  },
   "ISR": {
+    "risk_score": 6.15,
+    "count": 8,
+    "top_news": "https://www.jpost.com/history/article-906395",
+    "event_codes": {
+      "19": 4,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "history",
+      "article",
+      "906395"
+    ]
+  },
+  "ZAF": {
     "risk_score": 2.85,
     "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-608",
+    "top_news": "https://www.yahoo.com/news/world/articles/zambia-courts-sealed-off-election-102249433.html",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "morning",
-      "update",
-      "608"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/08/24/assad-eras-grand-mufti-sentenced-to-life-in-prison-by-court-in-damascus",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
+      "news",
       "world",
-      "2026",
-      "assad",
-      "eras",
-      "grand",
-      "mufti",
-      "sentenced",
-      "life",
-      "prison",
-      "court",
-      "damascus"
-    ]
-  },
-  "THA": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3307059/wanted-swedish-suspect-arrested-in-bangkok-and-his-friend",
-    "event_codes": {
-      "17": 7
-    },
-    "keywords": [
-      "thailand",
-      "general",
-      "3307059",
-      "wanted",
-      "swedish",
-      "suspect",
-      "arrested",
-      "bangkok",
-      "and",
-      "his",
-      "friend"
+      "articles",
+      "zambia",
+      "courts",
+      "sealed",
+      "off",
+      "election",
+      "102249433.html"
     ]
   }
 }
