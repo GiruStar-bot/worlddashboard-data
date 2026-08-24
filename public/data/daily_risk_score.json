@@ -1,24 +1,51 @@
 {
-  "ISR": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://tribune.com.pk/story/2625502/israeli-airstrikes-in-gaza-kill-two-including-4-year-old-boy-1",
+  "IRN": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.asiaone.com:443/asia/iran-says-pakistans-army-chief-visit-tehran-monday",
     "event_codes": {
-      "19": 4,
+      "16": 4
+    },
+    "keywords": [
+      "asia",
+      "iran",
+      "says",
+      "pakistans",
+      "army",
+      "chief",
+      "visit",
+      "tehran",
+      "monday"
+    ]
+  },
+  "THA": {
+    "risk_score": 9.05,
+    "count": 10,
+    "top_news": "https://www.chiangraitimes.com/bangkok/american-jailed-bangkok/",
+    "event_codes": {
+      "19": 9,
       "16": 1
     },
     "keywords": [
-      "story",
-      "2625502",
-      "israeli",
-      "airstrikes",
-      "gaza",
-      "kill",
-      "two",
-      "including",
-      "year",
-      "old",
-      "boy"
+      "bangkok",
+      "american",
+      "jailed",
+      "bangkok"
+    ]
+  },
+  "TWN": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://www.chiangraitimes.com/news-asia/us-taiwan-defense/",
+    "event_codes": {
+      "19": 4,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "asia",
+      "taiwan",
+      "defense"
     ]
   }
 }
