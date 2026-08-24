@@ -1,44 +1,122 @@
 {
-  "EGY": {
+  "IRN": {
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://foreignpolicy.com/2026/08/24/jordan-king-abdullah-trump-gaza-iran/?tpcc=recirc_trending062921",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "jordan",
+      "king",
+      "abdullah",
+      "trump",
+      "gaza",
+      "iran"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.3,
+    "count": 19,
+    "top_news": "https://news.antiwar.com/2026/08/24/israeli-drone-strike-kills-two-lebanese-teens-in-southern-lebanon/",
+    "event_codes": {
+      "19": 9,
+      "16": 5,
+      "14": 4,
+      "18": 1
+    },
+    "keywords": [
+      "2026",
+      "israeli",
+      "drone",
+      "strike",
+      "kills",
+      "two",
+      "lebanese",
+      "teens",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "JOR": {
+    "risk_score": 9.2,
+    "count": 13,
+    "top_news": "https://foreignpolicy.com/2026/08/24/jordan-king-abdullah-trump-gaza-iran/?tpcc=recirc_trending062921",
+    "event_codes": {
+      "19": 5,
+      "17": 4,
+      "14": 2,
+      "16": 2
+    },
+    "keywords": [
+      "2026",
+      "jordan",
+      "king",
+      "abdullah",
+      "trump",
+      "gaza",
+      "iran"
+    ]
+  },
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.witn.com/2026/08/24/world-war-ii-pilot-vanceboro-remains-identified-after-83-years/",
+    "top_news": "https://news.antiwar.com/2026/08/24/israeli-drone-strike-kills-two-lebanese-teens-in-southern-lebanon/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "2026",
-      "world",
-      "war",
-      "pilot",
-      "vanceboro",
-      "remains",
-      "identified",
-      "after",
-      "years"
+      "israeli",
+      "drone",
+      "strike",
+      "kills",
+      "two",
+      "lebanese",
+      "teens",
+      "southern",
+      "lebanon"
     ]
   },
-  "IRN": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.tribuneindia.com/news/india/iran-gave-us-strong-support-in-may-25-clash-with-india-pak/",
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dailypost.ng/2026/08/24/bandits-attack-palace-kill-district-head-in-niger/",
     "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "bandits",
+      "attack",
+      "palace",
+      "kill",
+      "district",
+      "head",
+      "niger"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://foreignpolicy.com/2026/08/24/jordan-king-abdullah-trump-gaza-iran/?tpcc=recirc_trending062921",
+    "event_codes": {
+      "17": 2,
       "16": 1,
-      "17": 1,
       "19": 1
     },
     "keywords": [
-      "news",
-      "india",
-      "iran",
-      "gave",
-      "strong",
-      "support",
-      "may",
-      "clash",
-      "with",
-      "india",
-      "pak"
+      "2026",
+      "jordan",
+      "king",
+      "abdullah",
+      "trump",
+      "gaza",
+      "iran"
     ]
   }
 }
