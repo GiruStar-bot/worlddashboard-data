@@ -1,96 +1,122 @@
 {
-  "IDN": {
-    "risk_score": 6.24,
-    "count": 7,
-    "top_news": "https://en.antaranews.com/news/428377/indonesias-tni-deploys-paratroopers-to-combat-wildfires-in-riau",
+  "IRN": {
+    "risk_score": 2.24,
+    "count": 4,
+    "top_news": "https://www.taipeitimes.com/News/world/archives/2026/08/25/2003863106",
     "event_codes": {
-      "19": 3,
       "15": 2,
-      "18": 2
+      "16": 2
     },
     "keywords": [
       "news",
-      "428377",
-      "indonesias",
-      "tni",
-      "deploys",
-      "paratroopers",
-      "combat",
-      "wildfires",
-      "riau"
-    ]
-  },
-  "IRN": {
-    "risk_score": 4.3,
-    "count": 6,
-    "top_news": "https://www.philstar.com/opinion/2026/08/25/2551566/futile",
-    "event_codes": {
-      "16": 3,
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
+      "world",
+      "archives",
       "2026",
-      "2551566",
-      "futile"
+      "2003863106"
     ]
   },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 7,
-    "top_news": "https://www.straitstimes.com/singapore/singapore-says-israels-west-bank-expansion-illegal-calls-for-halt-to-plans",
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms",
     "event_codes": {
-      "17": 4,
-      "19": 3
+      "19": 2,
+      "18": 1
     },
     "keywords": [
-      "singapore",
-      "singapore",
-      "says",
-      "israels",
+      "features",
+      "2026",
+      "why",
+      "israeli",
+      "settler",
+      "attacks",
+      "palestinians",
       "west",
       "bank",
-      "expansion",
-      "illegal",
-      "calls",
-      "for",
-      "halt",
-      "plans"
+      "are",
+      "pogroms"
     ]
   },
-  "SDN": {
+  "NGA": {
+    "risk_score": 6.4,
+    "count": 7,
+    "top_news": "https://tribuneonlineng.com/tinubu-pays-tribute-to-late-nollywood-veteran-taiwo-hassan-ogogo/",
+    "event_codes": {
+      "19": 5,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "tinubu",
+      "pays",
+      "tribute",
+      "late",
+      "nollywood",
+      "veteran",
+      "taiwo",
+      "hassan",
+      "ogogo"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.channelafrica.co.za/channelafrica/news/un-launches-22m-education-initiative-for-sudanese-children/",
+    "top_news": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "channelafrica",
-      "news",
-      "launches",
-      "22m",
-      "education",
-      "initiative",
-      "for",
-      "sudanese",
-      "children"
+      "features",
+      "2026",
+      "why",
+      "israeli",
+      "settler",
+      "attacks",
+      "palestinians",
+      "west",
+      "bank",
+      "are",
+      "pogroms"
     ]
   },
-  "VNM": {
-    "risk_score": 2.15,
+  "SAU": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://gamerant.com/end-of-an-era-streaming-anime/",
+    "top_news": "https://www.zerohedge.com/energy/houthis-attack-saudi-oil-tanker-red-sea-bab-el-mandeb-transit-slightly",
     "event_codes": {
-      "17": 3,
-      "14": 1
+      "19": 4
     },
     "keywords": [
-      "end",
-      "era",
-      "streaming",
-      "anime"
+      "energy",
+      "houthis",
+      "attack",
+      "saudi",
+      "oil",
+      "tanker",
+      "red",
+      "sea",
+      "bab",
+      "mandeb",
+      "transit",
+      "slightly"
+    ]
+  },
+  "TWN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://tribuneonlineng.com/taiwan-indicts-nine-over-alleged-illegal-ai-chip-exports/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "taiwan",
+      "indicts",
+      "nine",
+      "over",
+      "alleged",
+      "illegal",
+      "chip",
+      "exports"
     ]
   }
 }
