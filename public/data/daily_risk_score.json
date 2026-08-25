@@ -1,73 +1,155 @@
 {
-  "IRN": {
-    "risk_score": 3.55,
+  "BHR": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://yellowscene.com/2026/08/24/month-in-review-august-2026/",
+    "top_news": "https://www.scoop.co.nz/stories/HL2608/S00062/deprived-at-sea-the-tribulations-of-the-uss-abraham-lincoln.htm",
     "event_codes": {
-      "18": 3,
-      "19": 1
+      "19": 4
     },
     "keywords": [
+      "stories",
+      "hl2608",
+      "s00062",
+      "deprived",
+      "sea",
+      "the",
+      "tribulations",
+      "the",
+      "uss",
+      "abraham",
+      "lincoln.htm"
+    ]
+  },
+  "COL": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.abc.net.au/news/2026-08-25/afp-colombia-drugs-taskforce-leaves-questions-unanswered/106989490",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
       "2026",
-      "month",
-      "review",
-      "august",
-      "2026"
+      "afp",
+      "colombia",
+      "drugs",
+      "taskforce",
+      "leaves",
+      "questions",
+      "unanswered",
+      "106989490"
+    ]
+  },
+  "IRN": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.thenationalnews.com/opinion/editorial/2026/08/25/talks-syria-israel-turkey-us-iran-hezbollah-assad-middle-east/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "opinion",
+      "editorial",
+      "2026",
+      "talks",
+      "syria",
+      "israel",
+      "turkey",
+      "iran",
+      "hezbollah",
+      "assad",
+      "middle",
+      "east"
     ]
   },
   "ISR": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://yellowscene.com/2026/08/24/month-in-review-august-2026/",
+    "risk_score": 5.88,
+    "count": 7,
+    "top_news": "https://www.thenationalnews.com/opinion/editorial/2026/08/25/talks-syria-israel-turkey-us-iran-hezbollah-assad-middle-east/",
     "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "2026",
-      "month",
-      "review",
-      "august",
-      "2026"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.bangkokpost.com/learning/easy/3307574/wanted-swedish-suspect-arrested-in-bangkok",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "learning",
-      "easy",
-      "3307574",
-      "wanted",
-      "swedish",
-      "suspect",
-      "arrested",
-      "bangkok"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://www.ksl.com:443/article/51615629/alleged-pay-dispute-leads-to-shooting-charges-in-sanpete-county",
-    "event_codes": {
-      "17": 3,
+      "15": 4,
       "19": 3
     },
     "keywords": [
-      "article",
-      "51615629",
-      "alleged",
-      "pay",
-      "dispute",
-      "leads",
-      "shooting",
-      "charges",
-      "sanpete",
-      "county"
+      "opinion",
+      "editorial",
+      "2026",
+      "talks",
+      "syria",
+      "israel",
+      "turkey",
+      "iran",
+      "hezbollah",
+      "assad",
+      "middle",
+      "east"
+    ]
+  },
+  "NGA": {
+    "risk_score": 12.65,
+    "count": 14,
+    "top_news": "https://punchng.com/2027-obi-amaechi-duke-differ-over-insecurity-subsidy/",
+    "event_codes": {
+      "19": 10,
+      "14": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2027",
+      "obi",
+      "amaechi",
+      "duke",
+      "differ",
+      "over",
+      "insecurity",
+      "subsidy"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/25/singapore039s-lengkok-bahru-murder-man-accused-of-killing-neighbour-taken-back-to-crime-scene",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "aseanplus",
+      "aseanplus",
+      "news",
+      "2026",
+      "singapore039s",
+      "lengkok",
+      "bahru",
+      "murder",
+      "man",
+      "accused",
+      "killing",
+      "neighbour",
+      "taken",
+      "back",
+      "crime",
+      "scene"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.75,
+    "count": 8,
+    "top_news": "https://www.thenationalnews.com/news/us/2026/08/24/syria-designation-revoked-terrorism-sponsor/",
+    "event_codes": {
+      "16": 7,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "syria",
+      "designation",
+      "revoked",
+      "terrorism",
+      "sponsor"
     ]
   }
 }
