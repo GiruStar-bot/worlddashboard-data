@@ -1,89 +1,83 @@
 {
   "IRN": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/iran-used-mosques-to-surveil-shoot-at-january-protesters-report/articleshow/133505897.cms",
+    "risk_score": 12.9,
+    "count": 18,
+    "top_news": "https://www.israelnationalnews.com/news/432212",
     "event_codes": {
-      "16": 2,
-      "19": 1
+      "17": 8,
+      "18": 3,
+      "19": 3,
+      "14": 2,
+      "16": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "iran",
-      "used",
-      "mosques",
-      "surveil",
-      "shoot",
-      "january",
-      "protesters",
-      "report",
-      "articleshow",
-      "133505897.cms"
+      "news",
+      "432212"
     ]
   },
   "ISR": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/international/year-after-israeli-strikes-killed-journalists-at-hospital-no-one-has-been-held-accountable/article71388353.ece",
+    "risk_score": 14.32,
+    "count": 17,
+    "top_news": "https://www.middleeasteye.net/news/french-far-right-candidate-marine-le-pen-polls-record-high-ahead-2027-election",
     "event_codes": {
-      "19": 5
+      "19": 9,
+      "16": 3,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
       "news",
-      "international",
-      "year",
-      "after",
-      "israeli",
-      "strikes",
-      "killed",
-      "journalists",
-      "hospital",
-      "one",
-      "has",
-      "been",
-      "held",
-      "accountable",
-      "article71388353.ece"
+      "french",
+      "far",
+      "right",
+      "candidate",
+      "marine",
+      "pen",
+      "polls",
+      "record",
+      "high",
+      "ahead",
+      "2027",
+      "election"
     ]
   },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.rte.ie/news/world/2026/0825/1589107-lockerbie-trial/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "0825",
-      "1589107",
-      "lockerbie",
-      "trial"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.36,
+  "JOR": {
+    "risk_score": 3.0,
     "count": 6,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/u-n-relief-chief-says-sudan-crisis-suffers-from-lack-of-action",
+    "top_news": "https://www.middleeasteye.net/news/former-al-jazeera-journalist-arrested-jordan-reposting-article-questioning-us-aid-kingdom",
     "event_codes": {
-      "16": 6
+      "17": 6
     },
     "keywords": [
       "news",
+      "former",
+      "jazeera",
+      "journalist",
+      "arrested",
+      "jordan",
+      "reposting",
       "article",
-      "relief",
-      "chief",
-      "says",
-      "sudan",
-      "crisis",
-      "suffers",
-      "from",
-      "lack",
-      "action"
+      "questioning",
+      "aid",
+      "kingdom"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.9,
+    "count": 5,
+    "top_news": "https://gamerant.com/one-piece-most-powerful-nations-ranked/",
+    "event_codes": {
+      "19": 3,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "one",
+      "piece",
+      "most",
+      "powerful",
+      "nations",
+      "ranked"
     ]
   }
 }
