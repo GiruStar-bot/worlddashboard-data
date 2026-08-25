@@ -1,36 +1,89 @@
 {
-  "NER": {
-    "risk_score": 3.42,
-    "count": 4,
-    "top_news": "https://dailytrust.com/terrorists-and-their-obsession-with-niger/",
+  "IRN": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.omanobserver.om/article/1195042/world/region/once-its-saviour-us-puts-kuwait-in-irans-crosshairs",
     "event_codes": {
-      "18": 3,
-      "15": 1
+      "16": 3,
+      "19": 2
     },
     "keywords": [
-      "terrorists",
-      "and",
-      "their",
-      "obsession",
-      "with",
-      "niger"
+      "article",
+      "1195042",
+      "world",
+      "region",
+      "once",
+      "its",
+      "saviour",
+      "puts",
+      "kuwait",
+      "irans",
+      "crosshairs"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-denied-parole-anti-israel-graffiti-despite-supreme-court-ruling-antisemitism-ntwnfb",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "australia",
+      "news",
+      "2026",
+      "aug",
+      "sydney",
+      "denied",
+      "parole",
+      "anti",
+      "israel",
+      "graffiti",
+      "despite",
+      "supreme",
+      "court",
+      "ruling",
+      "antisemitism",
+      "ntwnfb"
     ]
   },
   "NGA": {
-    "risk_score": 45.06,
-    "count": 49,
-    "top_news": "https://dailytrust.com/30-killed-in-attacks-on-four-niger-mosques/",
+    "risk_score": 4.75,
+    "count": 5,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/905234-soldiers-rescue-kidnap-victim-recover-ak-47-in-kogi.html",
     "event_codes": {
-      "19": 27,
-      "18": 15,
-      "17": 7
+      "19": 4,
+      "18": 1
     },
     "keywords": [
-      "killed",
-      "attacks",
-      "four",
-      "niger",
-      "mosques"
+      "regional",
+      "north",
+      "central",
+      "905234",
+      "soldiers",
+      "rescue",
+      "kidnap",
+      "victim",
+      "recover",
+      "kogi.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-609",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "morning",
+      "update",
+      "609"
     ]
   }
 }
