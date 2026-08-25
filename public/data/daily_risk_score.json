@@ -1,83 +1,115 @@
 {
   "IRN": {
-    "risk_score": 12.9,
-    "count": 18,
-    "top_news": "https://www.israelnationalnews.com/news/432212",
+    "risk_score": 5.1,
+    "count": 7,
+    "top_news": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
     "event_codes": {
-      "17": 8,
-      "18": 3,
-      "19": 3,
-      "14": 2,
-      "16": 2
-    },
-    "keywords": [
-      "news",
-      "432212"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.32,
-    "count": 17,
-    "top_news": "https://www.middleeasteye.net/news/french-far-right-candidate-marine-le-pen-polls-record-high-ahead-2027-election",
-    "event_codes": {
-      "19": 9,
       "16": 3,
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "french",
-      "far",
-      "right",
-      "candidate",
-      "marine",
-      "pen",
-      "polls",
-      "record",
-      "high",
-      "ahead",
-      "2027",
-      "election"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/news/former-al-jazeera-journalist-arrested-jordan-reposting-article-questioning-us-aid-kingdom",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "news",
-      "former",
-      "jazeera",
-      "journalist",
-      "arrested",
-      "jordan",
-      "reposting",
-      "article",
-      "questioning",
-      "aid",
-      "kingdom"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.9,
-    "count": 5,
-    "top_news": "https://gamerant.com/one-piece-most-powerful-nations-ranked/",
-    "event_codes": {
-      "19": 3,
-      "16": 1,
+      "19": 2,
+      "14": 1,
       "17": 1
     },
     "keywords": [
+      "world",
+      "could",
+      "irans",
+      "regime",
+      "collapse",
+      "experts",
+      "assess",
+      "bessents",
+      "bid",
+      "sever",
+      "financial",
+      "lifelines"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.newslaundry.com/2026/08/25/a-year-after-israeli-strikes-killed-journalists-at-a-hospital-no-one-has-been-held-accountable",
+    "event_codes": {
+      "19": 13
+    },
+    "keywords": [
+      "2026",
+      "year",
+      "after",
+      "israeli",
+      "strikes",
+      "killed",
+      "journalists",
+      "hospital",
       "one",
-      "piece",
-      "most",
-      "powerful",
-      "nations",
-      "ranked"
+      "has",
+      "been",
+      "held",
+      "accountable"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.foxnews.com/us/new-evidence-lockerbie-pan-am-flight-103-bombing-case-pushes-federal-judge-postpone-trial",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "new",
+      "evidence",
+      "lockerbie",
+      "pan",
+      "flight",
+      "103",
+      "bombing",
+      "case",
+      "pushes",
+      "federal",
+      "judge",
+      "postpone",
+      "trial"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.44,
+    "count": 7,
+    "top_news": "https://pmnewsnigeria.com/2026/08/25/police-uncover-alleged-baby-trafficking-ring-in-ogun-rescue-six/",
+    "event_codes": {
+      "19": 5,
+      "15": 2
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "uncover",
+      "alleged",
+      "baby",
+      "trafficking",
+      "ring",
+      "ogun",
+      "rescue",
+      "six"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://prospect.org/2026/08/25/christian-right-trump-vance-maga-religious-left-election-congress/",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "2026",
+      "christian",
+      "right",
+      "trump",
+      "vance",
+      "maga",
+      "religious",
+      "left",
+      "election",
+      "congress"
     ]
   }
 }
