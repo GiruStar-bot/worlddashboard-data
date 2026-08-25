@@ -1,145 +1,117 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://fox17.com/news/local/tennessee-man-banned-from-hunting-for-life-18-deer-mounts-52-turkey-beards-seized",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "news",
-      "local",
-      "tennessee",
-      "man",
-      "banned",
-      "from",
-      "hunting",
-      "for",
-      "life",
-      "deer",
-      "mounts",
-      "turkey",
-      "beards",
-      "seized"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/ending-war-and-preserving-unity-our-priority-says-iranian-president",
-    "event_codes": {
-      "16": 4
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "ending",
-      "war",
-      "and",
-      "preserving",
-      "unity",
-      "our",
-      "priority",
-      "says",
-      "iranian",
-      "president"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.postregister.com/news/local/annual-rocky-mountain-heroes-tribute-to-be-held-this-weekend/article_d49cbc60-52c5-50e9-be6c-c7f55b7fdcad.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "local",
-      "annual",
-      "rocky",
-      "mountain",
-      "heroes",
-      "tribute",
-      "held",
-      "this",
-      "weekend",
-      "article",
-      "d49cbc60",
-      "52c5",
-      "50e9",
-      "be6c",
-      "c7f55b7fdcad.html"
-    ]
-  },
   "ISR": {
-    "risk_score": 8.27,
-    "count": 11,
-    "top_news": "https://www.azernews.az/region/262884.html",
+    "risk_score": 10.46,
+    "count": 12,
+    "top_news": "https://www.newsweek.com/trumps-biggest-middle-east-crisis-looms-not-in-iran-but-among-two-allies-12361926",
     "event_codes": {
-      "17": 6,
-      "19": 4,
-      "14": 1
+      "19": 7,
+      "17": 2,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "region",
-      "262884.html"
+      "trumps",
+      "biggest",
+      "middle",
+      "east",
+      "crisis",
+      "looms",
+      "not",
+      "iran",
+      "but",
+      "among",
+      "two",
+      "allies",
+      "12361926"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.nigerianeye.com/2026/08/arrest-perpetrators-of-osun-post.html",
+  "NER": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://saharareporters.com/2026/08/25/niger-mass-abduction-tinubu-orders-military-police-dss-launch-coordinated-rescue",
     "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
       "2026",
-      "arrest",
-      "perpetrators",
-      "osun",
-      "post.html"
+      "niger",
+      "mass",
+      "abduction",
+      "tinubu",
+      "orders",
+      "military",
+      "police",
+      "dss",
+      "launch",
+      "coordinated",
+      "rescue"
     ]
   },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.cbsnews.com/news/ice-officer-venezuelan-immigrant-minneapolis-shooting-criminal-charges/",
+  "NGA": {
+    "risk_score": 20.1,
+    "count": 25,
+    "top_news": "https://saharareporters.com/2026/08/25/ogun-police-command-arrests-six-suspects-alleged-baby-factory-rescues-pregnant-women",
     "event_codes": {
-      "19": 2
+      "19": 14,
+      "17": 7,
+      "16": 2,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "ice",
-      "officer",
-      "venezuelan",
-      "immigrant",
-      "minneapolis",
-      "shooting",
-      "criminal",
-      "charges"
+      "2026",
+      "ogun",
+      "police",
+      "command",
+      "arrests",
+      "six",
+      "suspects",
+      "alleged",
+      "baby",
+      "factory",
+      "rescues",
+      "pregnant",
+      "women"
     ]
   },
-  "ZAF": {
-    "risk_score": 2.72,
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.middleeastmonitor.com/20260825-us-lawmakers-demand-release-of-american-student-held-in-israel/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "20260825",
+      "lawmakers",
+      "demand",
+      "release",
+      "american",
+      "student",
+      "held",
+      "israel"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.8,
     "count": 3,
-    "top_news": "https://www.standardmedia.co.ke/africa/article/2001556191/zambia-to-swear-in-hichilema-after-disputed-vote",
+    "top_news": "https://www.saratogian.com/2026/08/25/big-honor-roy-mcdonald-veterans-fishing-park-officially-opens-in-wilton/",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "africa",
-      "article",
-      "2001556191",
-      "zambia",
-      "swear",
-      "hichilema",
-      "after",
-      "disputed",
-      "vote"
+      "2026",
+      "big",
+      "honor",
+      "roy",
+      "mcdonald",
+      "veterans",
+      "fishing",
+      "park",
+      "officially",
+      "opens",
+      "wilton"
     ]
   }
 }
