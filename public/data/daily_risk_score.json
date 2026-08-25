@@ -1,78 +1,131 @@
 {
-  "IRN": {
-    "risk_score": 3.85,
+  "CMR": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.moneycontrol.com/world/we-re-paying-the-price-kuwaitis-fear-iran-war-could-bring-ground-attacks-article-14015340.html",
+    "top_news": "http://www.cameroon-tribune.cm/article.html/79961/fr.html/national-emergency-seven-femicides-in-seven-days-spark",
     "event_codes": {
-      "17": 2,
+      "19": 5
+    },
+    "keywords": [
+      "article.html",
+      "79961",
+      "fr.html",
+      "national",
+      "emergency",
+      "seven",
+      "femicides",
+      "seven",
+      "days",
+      "spark"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.ariananews.af/pakistan-and-iran-make-significant-progress-in-talks-on-iran-conflict/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "pakistan",
+      "and",
+      "iran",
+      "make",
+      "significant",
+      "progress",
+      "talks",
+      "iran",
+      "conflict"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.64,
+    "count": 9,
+    "top_news": "https://www.ynetnews.com/article/sk5ahxjpze",
+    "event_codes": {
+      "19": 5,
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "sk5ahxjpze"
+    ]
+  },
+  "KEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://raxanreeb.com/suspected-al-shabaab-fighters-retreat-after-clashing-with-kdf/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "suspected",
+      "shabaab",
+      "fighters",
+      "retreat",
+      "after",
+      "clashing",
+      "with",
+      "kdf"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://dailytrust.com/tinubu-orders-immediate-rescue-of-niger-mass-abduction-victims/",
+    "event_codes": {
       "19": 2,
       "18": 1
     },
     "keywords": [
-      "world",
-      "paying",
-      "the",
-      "price",
-      "kuwaitis",
-      "fear",
-      "iran",
-      "war",
-      "could",
-      "bring",
-      "ground",
-      "attacks",
-      "article",
-      "14015340.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 20.62,
-    "count": 21,
-    "top_news": "https://www.lrb.co.uk/blog/2026/august/we-suffer-together",
-    "event_codes": {
-      "19": 16,
-      "18": 4,
-      "17": 1
-    },
-    "keywords": [
-      "blog",
-      "2026",
-      "august",
-      "suffer",
-      "together"
+      "tinubu",
+      "orders",
+      "immediate",
+      "rescue",
+      "niger",
+      "mass",
+      "abduction",
+      "victims"
     ]
   },
   "NGA": {
-    "risk_score": 13.2,
-    "count": 14,
-    "top_news": "https://www.nigerianeye.com/2026/08/oyebanji-installs-ekiti-monarch-after.html",
+    "risk_score": 14.85,
+    "count": 17,
+    "top_news": "https://dailytrust.com/tinubu-orders-immediate-rescue-of-niger-mass-abduction-victims/",
     "event_codes": {
-      "19": 8,
-      "18": 5,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "oyebanji",
-      "installs",
-      "ekiti",
-      "monarch",
-      "after.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://www.jpost.com/israel-election-2026/article-906556",
-    "event_codes": {
+      "18": 7,
+      "19": 7,
       "17": 3
     },
     "keywords": [
-      "israel",
-      "election",
-      "2026",
-      "article",
-      "906556"
+      "tinubu",
+      "orders",
+      "immediate",
+      "rescue",
+      "niger",
+      "mass",
+      "abduction",
+      "victims"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://raxanreeb.com/suspected-al-shabaab-fighters-retreat-after-clashing-with-kdf/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "suspected",
+      "shabaab",
+      "fighters",
+      "retreat",
+      "after",
+      "clashing",
+      "with",
+      "kdf"
     ]
   }
 }
