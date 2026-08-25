@@ -1,83 +1,112 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.ksbw.com/article/trump-economic-d-day-iran-sanctions/73514906",
-    "event_codes": {
-      "16": 3
-    },
-    "keywords": [
-      "article",
-      "trump",
-      "economic",
-      "day",
-      "iran",
-      "sanctions",
-      "73514906"
-    ]
-  },
-  "ISR": {
-    "risk_score": 15.25,
-    "count": 16,
-    "top_news": "https://www.dailysabah.com/world/mid-east/children-among-5-killed-in-continued-israels-attacks-on-gaza",
-    "event_codes": {
-      "19": 13,
-      "14": 2,
-      "18": 1
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "children",
-      "among",
-      "killed",
-      "continued",
-      "israels",
-      "attacks",
-      "gaza"
-    ]
-  },
-  "MYS": {
+  "EGY": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/08/25/islamic-state-watched-me-while-i-went-jogging-says-ayob-khan",
+    "top_news": "https://asianews.network/chinas-j-16-fighter-planes-engage-in-first-ever-combat-exercise-with-french-made-rafale-fighters/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "category",
-      "nation",
-      "2026",
-      "islamic",
-      "state",
-      "watched",
-      "while",
-      "went",
-      "jogging",
-      "says",
-      "ayob",
-      "khan"
+      "chinas",
+      "fighter",
+      "planes",
+      "engage",
+      "first",
+      "ever",
+      "combat",
+      "exercise",
+      "with",
+      "french",
+      "made",
+      "rafale",
+      "fighters"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.8,
+    "count": 8,
+    "top_news": "https://asianews.network/army-chief-munir-interior-minister-naqvi-in-iran-as-part-of-pakistans-efforts-for-regional-peace/",
+    "event_codes": {
+      "19": 7,
+      "16": 1
+    },
+    "keywords": [
+      "army",
+      "chief",
+      "munir",
+      "interior",
+      "minister",
+      "naqvi",
+      "iran",
+      "part",
+      "pakistans",
+      "efforts",
+      "for",
+      "regional",
+      "peace"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://asianews.network/army-chief-munir-interior-minister-naqvi-in-iran-as-part-of-pakistans-efforts-for-regional-peace/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "army",
+      "chief",
+      "munir",
+      "interior",
+      "minister",
+      "naqvi",
+      "iran",
+      "part",
+      "pakistans",
+      "efforts",
+      "for",
+      "regional",
+      "peace"
     ]
   },
   "NGA": {
-    "risk_score": 7.39,
-    "count": 11,
-    "top_news": "https://punchng.com/explosion-triggers-fire-destroys-shops-in-oyo-market/",
+    "risk_score": 11.97,
+    "count": 17,
+    "top_news": "https://dailytrust.com/tears-as-police-honour-officers-who-died-in-battle-with-bandits/",
     "event_codes": {
-      "17": 4,
-      "14": 3,
-      "15": 2,
-      "19": 2
+      "15": 6,
+      "16": 5,
+      "18": 3,
+      "19": 3
     },
     "keywords": [
-      "explosion",
-      "triggers",
-      "fire",
-      "destroys",
-      "shops",
-      "oyo",
-      "market"
+      "tears",
+      "police",
+      "honour",
+      "officers",
+      "who",
+      "died",
+      "battle",
+      "with",
+      "bandits"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dailytrust.com/sudan-army-completes-first-phase-of-integrating-rsf-defectors/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "sudan",
+      "army",
+      "completes",
+      "first",
+      "phase",
+      "integrating",
+      "rsf",
+      "defectors"
     ]
   }
 }
