@@ -1,143 +1,190 @@
 {
-  "COL": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/08/25/colombian-officials-say-criminal-groups-could-have-set-tolima-forest-fires",
+  "EGY": {
+    "risk_score": 2.44,
+    "count": 3,
+    "top_news": "https://www.pilotonline.com/2026/08/25/nc-airman-wwii-identified/",
     "event_codes": {
-      "18": 3,
-      "17": 1
+      "15": 2,
+      "19": 1
     },
     "keywords": [
-      "world",
       "2026",
-      "colombian",
-      "officials",
-      "say",
-      "criminal",
-      "groups",
-      "could",
-      "have",
-      "set",
-      "tolima",
-      "forest",
-      "fires"
+      "airman",
+      "wwii",
+      "identified"
     ]
   },
-  "IRN": {
-    "risk_score": 3.65,
-    "count": 4,
-    "top_news": "https://www.the-star.co.ke/news/world/2026-08-25-trump-says-all-mines-cleared-from-strait-of-hormuz",
-    "event_codes": {
-      "19": 3,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "trump",
-      "says",
-      "all",
-      "mines",
-      "cleared",
-      "from",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.42,
-    "count": 6,
-    "top_news": "https://www.jpost.com/israel-election-2026/article-906571",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "israel",
-      "election",
-      "2026",
-      "article",
-      "906571"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.15,
-    "count": 9,
-    "top_news": "https://promptnewsonline.com/ikire-violence-police-name-two-victims-as-stolen-rifle-fuels-deadly-attack/",
-    "event_codes": {
-      "19": 5,
-      "17": 3,
-      "14": 1
-    },
-    "keywords": [
-      "ikire",
-      "violence",
-      "police",
-      "name",
-      "two",
-      "victims",
-      "stolen",
-      "rifle",
-      "fuels",
-      "deadly",
-      "attack"
-    ]
-  },
-  "SDN": {
+  "IDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.the-star.co.ke/news/africa/2026-08-25-trump-envoy-calls-for-sudan-wide-arms-embargo-as-drone-attacks-escalate",
+    "top_news": "https://en.antaranews.com/news/428479/bnpb-urges-public-to-wear-mask-amid-wildfires",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "africa",
-      "2026",
-      "trump",
-      "envoy",
-      "calls",
-      "for",
-      "sudan",
-      "wide",
-      "arms",
-      "embargo",
-      "drone",
-      "attacks",
-      "escalate"
+      "428479",
+      "bnpb",
+      "urges",
+      "public",
+      "wear",
+      "mask",
+      "amid",
+      "wildfires"
     ]
   },
-  "SOM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://fortune.com/2026/08/25/somali-pirate-profiteers-lucrative-business-iran-war/",
+  "IRN": {
+    "risk_score": 7.31,
+    "count": 9,
+    "top_news": "https://spacedaily.com/d-zoroastrianism-born-in-ancient-persia-more-than-2500-years-ago-developed-some-of-the-clearest-early-visions-of-a-cosmic-battle-between-good-and-evil-a-final-judgement-and-a-coming-saviour/",
     "event_codes": {
-      "19": 3
+      "14": 3,
+      "19": 3,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "2026",
-      "somali",
-      "pirate",
-      "profiteers",
-      "lucrative",
-      "business",
-      "iran",
-      "war"
+      "zoroastrianism",
+      "born",
+      "ancient",
+      "persia",
+      "more",
+      "than",
+      "2500",
+      "years",
+      "ago",
+      "developed",
+      "some",
+      "the",
+      "clearest",
+      "early",
+      "visions",
+      "cosmic",
+      "battle",
+      "between",
+      "good",
+      "and",
+      "evil",
+      "final",
+      "judgement",
+      "and",
+      "coming",
+      "saviour"
     ]
   },
-  "SYR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.jpost.com/middle-east/article-906576",
+  "ISR": {
+    "risk_score": 11.87,
+    "count": 16,
+    "top_news": "https://aa.com.tr/en/middle-east/damascus-decries-israeli-defense-chiefs-visit-to-occupied-buffer-zone/4037383",
     "event_codes": {
-      "19": 4
+      "17": 6,
+      "19": 5,
+      "18": 3,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
       "middle",
       "east",
-      "article",
-      "906576"
+      "damascus",
+      "decries",
+      "israeli",
+      "defense",
+      "chiefs",
+      "visit",
+      "occupied",
+      "buffer",
+      "zone",
+      "4037383"
+    ]
+  },
+  "NGA": {
+    "risk_score": 29.6,
+    "count": 35,
+    "top_news": "https://tribuneonlineng.com/osun-police-name-two-victims-of-ikire-shooting-launch-manhunt-for-attackers/",
+    "event_codes": {
+      "19": 19,
+      "17": 7,
+      "18": 5,
+      "14": 4
+    },
+    "keywords": [
+      "osun",
+      "police",
+      "name",
+      "two",
+      "victims",
+      "ikire",
+      "shooting",
+      "launch",
+      "manhunt",
+      "for",
+      "attackers"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.82,
+    "count": 7,
+    "top_news": "https://aa.com.tr/en/middle-east/-another-6-palestinians-killed-by-israeli-strikes-across-beleaguered-gaza-strip/4037403",
+    "event_codes": {
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "another",
+      "palestinians",
+      "killed",
+      "israeli",
+      "strikes",
+      "across",
+      "beleaguered",
+      "gaza",
+      "strip",
+      "4037403"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/world/shameful-milestone-un-chief-on-dual-famines-in-sudan-gaza/4037164",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "shameful",
+      "milestone",
+      "chief",
+      "dual",
+      "famines",
+      "sudan",
+      "gaza",
+      "4037164"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.16,
+    "count": 6,
+    "top_news": "https://aa.com.tr/en/middle-east/damascus-decries-israeli-defense-chiefs-visit-to-occupied-buffer-zone/4037383",
+    "event_codes": {
+      "15": 3,
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "damascus",
+      "decries",
+      "israeli",
+      "defense",
+      "chiefs",
+      "visit",
+      "occupied",
+      "buffer",
+      "zone",
+      "4037383"
     ]
   }
 }
