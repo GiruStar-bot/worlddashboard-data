@@ -1,17 +1,83 @@
 {
-  "NGA": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.aceshowbiz.com/news/view/00261231.html",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.ksbw.com/article/trump-economic-d-day-iran-sanctions/73514906",
     "event_codes": {
-      "14": 2,
-      "18": 1,
-      "19": 1
+      "16": 3
     },
     "keywords": [
-      "news",
-      "view",
-      "00261231.html"
+      "article",
+      "trump",
+      "economic",
+      "day",
+      "iran",
+      "sanctions",
+      "73514906"
+    ]
+  },
+  "ISR": {
+    "risk_score": 15.25,
+    "count": 16,
+    "top_news": "https://www.dailysabah.com/world/mid-east/children-among-5-killed-in-continued-israels-attacks-on-gaza",
+    "event_codes": {
+      "19": 13,
+      "14": 2,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "children",
+      "among",
+      "killed",
+      "continued",
+      "israels",
+      "attacks",
+      "gaza"
+    ]
+  },
+  "MYS": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/08/25/islamic-state-watched-me-while-i-went-jogging-says-ayob-khan",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "islamic",
+      "state",
+      "watched",
+      "while",
+      "went",
+      "jogging",
+      "says",
+      "ayob",
+      "khan"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.39,
+    "count": 11,
+    "top_news": "https://punchng.com/explosion-triggers-fire-destroys-shops-in-oyo-market/",
+    "event_codes": {
+      "17": 4,
+      "14": 3,
+      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "explosion",
+      "triggers",
+      "fire",
+      "destroys",
+      "shops",
+      "oyo",
+      "market"
     ]
   }
 }
