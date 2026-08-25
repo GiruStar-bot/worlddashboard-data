@@ -1,50 +1,168 @@
 {
-  "IRN": {
-    "risk_score": 9.24,
-    "count": 11,
-    "top_news": "http://www.bgnes.com/conflicts/six-months-of-war-against-iran-20-killed-in-68-incidents-near-strait-of-hormuz",
+  "ARE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://srilankamirror.com/news/1029-offenders-made-to-clean-up-colombo-pettah-bus-stand/",
     "event_codes": {
-      "18": 4,
-      "15": 2,
-      "17": 2,
       "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "conflicts",
-      "six",
-      "months",
-      "war",
-      "against",
-      "iran",
-      "killed",
-      "incidents",
-      "near",
-      "strait",
-      "hormuz"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.rediff.com/news/report/iran-releases-archival-footage-of-mojtaba-khamenei-amid-health-concerns/20260825.htm",
-    "event_codes": {
-      "18": 3,
-      "19": 1
+      "17": 1
     },
     "keywords": [
       "news",
-      "report",
-      "iran",
-      "releases",
-      "archival",
-      "footage",
-      "mojtaba",
-      "khamenei",
-      "amid",
-      "health",
-      "concerns",
-      "20260825.htm"
+      "1029",
+      "offenders",
+      "made",
+      "clean",
+      "colombo",
+      "pettah",
+      "bus",
+      "stand"
+    ]
+  },
+  "ETH": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/two-soldiers-killed-while-mining-gold-in-pochalla-border-area",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "two",
+      "soldiers",
+      "killed",
+      "while",
+      "mining",
+      "gold",
+      "pochalla",
+      "border",
+      "area"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://countercurrents.org/2026/08/the-war-on-terror-is-a-war-of-terror-everywhere/",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "war",
+      "terror",
+      "war",
+      "terror",
+      "everywhere"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.6,
+    "count": 12,
+    "top_news": "https://countercurrents.org/2026/08/the-war-on-terror-is-a-war-of-terror-everywhere/",
+    "event_codes": {
+      "17": 4,
+      "19": 4,
+      "15": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "the",
+      "war",
+      "terror",
+      "war",
+      "terror",
+      "everywhere"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.dailysabah.com/politics/war-on-terror/turkiye-targets-daesh-financing-network-in-fresh-counterterrorism-raids",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "politics",
+      "war",
+      "terror",
+      "turkiye",
+      "targets",
+      "daesh",
+      "financing",
+      "network",
+      "fresh",
+      "counterterrorism",
+      "raids"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://countercurrents.org/2026/08/deprived-at-sea-the-tribulations-of-the-uss-abraham-lincoln/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "deprived",
+      "sea",
+      "the",
+      "tribulations",
+      "the",
+      "uss",
+      "abraham",
+      "lincoln"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.dailysabah.com/politics/war-on-terror/turkiye-targets-daesh-financing-network-in-fresh-counterterrorism-raids",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "politics",
+      "war",
+      "terror",
+      "turkiye",
+      "targets",
+      "daesh",
+      "financing",
+      "network",
+      "fresh",
+      "counterterrorism",
+      "raids"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1834764/interview-with-elton-smole-analyst",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "unitedstates",
+      "export",
+      "controls",
+      "trade",
+      "investment",
+      "sanctions",
+      "1834764",
+      "interview",
+      "with",
+      "elton",
+      "smole",
+      "analyst"
     ]
   }
 }
