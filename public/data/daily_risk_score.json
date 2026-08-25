@@ -1,78 +1,143 @@
 {
-  "IRN": {
-    "risk_score": 2.32,
-    "count": 3,
-    "top_news": "https://www.hellenicshippingnews.com/china-vows-to-protect-iran-ties-after-us-sanctions-threat/",
+  "COL": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/08/25/colombian-officials-say-criminal-groups-could-have-set-tolima-forest-fires",
     "event_codes": {
-      "16": 2,
-      "15": 1
+      "18": 3,
+      "17": 1
     },
     "keywords": [
-      "china",
-      "vows",
-      "protect",
-      "iran",
-      "ties",
-      "after",
-      "sanctions",
-      "threat"
+      "world",
+      "2026",
+      "colombian",
+      "officials",
+      "say",
+      "criminal",
+      "groups",
+      "could",
+      "have",
+      "set",
+      "tolima",
+      "forest",
+      "fires"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.65,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/news/world/2026-08-25-trump-says-all-mines-cleared-from-strait-of-hormuz",
+    "event_codes": {
+      "19": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "trump",
+      "says",
+      "all",
+      "mines",
+      "cleared",
+      "from",
+      "strait",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 12.1,
-    "count": 14,
-    "top_news": "https://english.aawsat.com/arab-world/5311051-israel-restricts-movement-three-christian-towns-southern-lebanon",
+    "risk_score": 5.42,
+    "count": 6,
+    "top_news": "https://www.jpost.com/israel-election-2026/article-906571",
     "event_codes": {
-      "19": 10,
-      "17": 3,
-      "16": 1
+      "19": 4,
+      "17": 2
     },
     "keywords": [
-      "arab",
-      "world",
-      "5311051",
       "israel",
-      "restricts",
-      "movement",
-      "three",
-      "christian",
-      "towns",
-      "southern",
-      "lebanon"
+      "election",
+      "2026",
+      "article",
+      "906571"
     ]
   },
-  "LBN": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/arab-world/5311051-israel-restricts-movement-three-christian-towns-southern-lebanon",
+  "NGA": {
+    "risk_score": 7.15,
+    "count": 9,
+    "top_news": "https://promptnewsonline.com/ikire-violence-police-name-two-victims-as-stolen-rifle-fuels-deadly-attack/",
     "event_codes": {
+      "19": 5,
       "17": 3,
-      "19": 1
+      "14": 1
     },
     "keywords": [
-      "arab",
-      "world",
-      "5311051",
-      "israel",
-      "restricts",
-      "movement",
-      "three",
-      "christian",
-      "towns",
-      "southern",
-      "lebanon"
+      "ikire",
+      "violence",
+      "police",
+      "name",
+      "two",
+      "victims",
+      "stolen",
+      "rifle",
+      "fuels",
+      "deadly",
+      "attack"
     ]
   },
-  "THA": {
+  "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.bssnews.net/international/418115",
+    "top_news": "https://www.the-star.co.ke/news/africa/2026-08-25-trump-envoy-calls-for-sudan-wide-arms-embargo-as-drone-attacks-escalate",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "international",
-      "418115"
+      "news",
+      "africa",
+      "2026",
+      "trump",
+      "envoy",
+      "calls",
+      "for",
+      "sudan",
+      "wide",
+      "arms",
+      "embargo",
+      "drone",
+      "attacks",
+      "escalate"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://fortune.com/2026/08/25/somali-pirate-profiteers-lucrative-business-iran-war/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "somali",
+      "pirate",
+      "profiteers",
+      "lucrative",
+      "business",
+      "iran",
+      "war"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.jpost.com/middle-east/article-906576",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "906576"
     ]
   }
 }
