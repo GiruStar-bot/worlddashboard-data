@@ -1,25 +1,50 @@
 {
-  "NGA": {
-    "risk_score": 5.58,
-    "count": 7,
-    "top_news": "https://punchng.com/police-blame-suspected-hoodlums-for-osun-shooting-identify-deceased/",
+  "IRN": {
+    "risk_score": 9.24,
+    "count": 11,
+    "top_news": "http://www.bgnes.com/conflicts/six-months-of-war-against-iran-20-killed-in-68-incidents-near-strait-of-hormuz",
     "event_codes": {
+      "18": 4,
       "15": 2,
       "17": 2,
-      "16": 1,
-      "18": 1,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "conflicts",
+      "six",
+      "months",
+      "war",
+      "against",
+      "iran",
+      "killed",
+      "incidents",
+      "near",
+      "strait",
+      "hormuz"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.rediff.com/news/report/iran-releases-archival-footage-of-mojtaba-khamenei-amid-health-concerns/20260825.htm",
+    "event_codes": {
+      "18": 3,
       "19": 1
     },
     "keywords": [
-      "police",
-      "blame",
-      "suspected",
-      "hoodlums",
-      "for",
-      "osun",
-      "shooting",
-      "identify",
-      "deceased"
+      "news",
+      "report",
+      "iran",
+      "releases",
+      "archival",
+      "footage",
+      "mojtaba",
+      "khamenei",
+      "amid",
+      "health",
+      "concerns",
+      "20260825.htm"
     ]
   }
 }
