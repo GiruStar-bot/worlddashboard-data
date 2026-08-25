@@ -1,15 +1,47 @@
 {
-  "PSE": {
-    "risk_score": 4.6,
-    "count": 6,
-    "top_news": "https://www.israelnationalnews.com/news/432231",
+  "ISR": {
+    "risk_score": 13.77,
+    "count": 18,
+    "top_news": "https://dominicanrepublicpost.com/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel/",
     "event_codes": {
-      "14": 4,
+      "19": 8,
+      "17": 7,
+      "14": 1,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "lawmakers",
+      "urge",
+      "trump",
+      "team",
+      "free",
+      "american",
+      "student",
+      "held",
+      "israel"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://truthout.org/articles/40-democrats-demand-israel-free-sami-safi-us-citizen-detained-without-charges/",
+    "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "432231"
+      "articles",
+      "democrats",
+      "demand",
+      "israel",
+      "free",
+      "sami",
+      "safi",
+      "citizen",
+      "detained",
+      "without",
+      "charges"
     ]
   }
 }
