@@ -1,127 +1,78 @@
 {
-  "CAF": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.cbc.ca/news/canada/hamilton/double-murder-life-sentence-22-years-parole-christopher-lucas-9.7319504",
+  "IRN": {
+    "risk_score": 2.32,
+    "count": 3,
+    "top_news": "https://www.hellenicshippingnews.com/china-vows-to-protect-iran-ties-after-us-sanctions-threat/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "china",
+      "vows",
+      "protect",
+      "iran",
+      "ties",
+      "after",
+      "sanctions",
+      "threat"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.1,
+    "count": 14,
+    "top_news": "https://english.aawsat.com/arab-world/5311051-israel-restricts-movement-three-christian-towns-southern-lebanon",
+    "event_codes": {
+      "19": 10,
+      "17": 3,
+      "16": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5311051",
+      "israel",
+      "restricts",
+      "movement",
+      "three",
+      "christian",
+      "towns",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://english.aawsat.com/arab-world/5311051-israel-restricts-movement-three-christian-towns-southern-lebanon",
+    "event_codes": {
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "news",
-      "canada",
-      "hamilton",
-      "double",
-      "murder",
-      "life",
-      "sentence",
-      "years",
-      "parole",
-      "christopher",
-      "lucas",
-      "9.7319504"
+      "arab",
+      "world",
+      "5311051",
+      "israel",
+      "restricts",
+      "movement",
+      "three",
+      "christian",
+      "towns",
+      "southern",
+      "lebanon"
     ]
   },
-  "GUY": {
+  "THA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://kaieteurnewsonline.com/2026/08/25/wcb-man-killed-after-struck-by-lorry/",
+    "top_news": "https://www.bssnews.net/international/418115",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "wcb",
-      "man",
-      "killed",
-      "after",
-      "struck",
-      "lorry"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.72,
-    "count": 4,
-    "top_news": "https://havanatimes.org/news/international-news-briefs-for-tuesday-august-25-2026/",
-    "event_codes": {
-      "19": 3,
-      "15": 1
-    },
-    "keywords": [
-      "news",
       "international",
-      "news",
-      "briefs",
-      "for",
-      "tuesday",
-      "august",
-      "2026"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.6,
-    "count": 5,
-    "top_news": "https://www.yahoo.com/news/world/articles/analysis-unifil-set-leave-lebanon-170403514.html",
-    "event_codes": {
-      "15": 5
-    },
-    "keywords": [
-      "news",
-      "world",
-      "articles",
-      "analysis",
-      "unifil",
-      "set",
-      "leave",
-      "lebanon",
-      "170403514.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.9,
-    "count": 9,
-    "top_news": "https://www.oikoumene.org/news/children-in-war-are-more-than-a-security-crisis-warn-african-church-leaders",
-    "event_codes": {
-      "17": 6,
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "children",
-      "war",
-      "are",
-      "more",
-      "than",
-      "security",
-      "crisis",
-      "warn",
-      "african",
-      "church",
-      "leaders"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 3.3,
-    "count": 5,
-    "top_news": "https://nehandaradio.com/2026/08/25/chivayo-offers-cid-cops-10-bulletproof-fortuners-us250k-gear-and-iphones/",
-    "event_codes": {
-      "17": 3,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "chivayo",
-      "offers",
-      "cid",
-      "cops",
-      "bulletproof",
-      "fortuners",
-      "us250k",
-      "gear",
-      "and",
-      "iphones"
+      "418115"
     ]
   }
 }
