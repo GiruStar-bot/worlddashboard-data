@@ -1,117 +1,54 @@
 {
-  "ISR": {
-    "risk_score": 10.46,
-    "count": 12,
-    "top_news": "https://www.newsweek.com/trumps-biggest-middle-east-crisis-looms-not-in-iran-but-among-two-allies-12361926",
+  "NGA": {
+    "risk_score": 4.52,
+    "count": 6,
+    "top_news": "https://theeagleonline.com.ng/niger-mass-abduction-tinubu-reacts-orders-immediate-rescue/",
     "event_codes": {
-      "19": 7,
       "17": 2,
       "18": 2,
-      "16": 1
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "trumps",
-      "biggest",
-      "middle",
-      "east",
-      "crisis",
-      "looms",
-      "not",
-      "iran",
-      "but",
-      "among",
-      "two",
-      "allies",
-      "12361926"
-    ]
-  },
-  "NER": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://saharareporters.com/2026/08/25/niger-mass-abduction-tinubu-orders-military-police-dss-launch-coordinated-rescue",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
       "niger",
       "mass",
       "abduction",
       "tinubu",
+      "reacts",
       "orders",
-      "military",
-      "police",
-      "dss",
-      "launch",
-      "coordinated",
+      "immediate",
       "rescue"
     ]
   },
-  "NGA": {
-    "risk_score": 20.1,
-    "count": 25,
-    "top_news": "https://saharareporters.com/2026/08/25/ogun-police-command-arrests-six-suspects-alleged-baby-factory-rescues-pregnant-women",
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.mesabitribune.com/around_the_web/news/minnesota-set-to-fight-in-texas-courtroom-to-extradite-ice-agent-charged-in-minneapolis-shooting/article_16b8ae25-9bed-5744-b956-f2da3be28415.html",
     "event_codes": {
-      "19": 14,
-      "17": 7,
-      "16": 2,
-      "18": 2
+      "17": 5
     },
     "keywords": [
-      "2026",
-      "ogun",
-      "police",
-      "command",
-      "arrests",
-      "six",
-      "suspects",
-      "alleged",
-      "baby",
-      "factory",
-      "rescues",
-      "pregnant",
-      "women"
-    ]
-  },
-  "PSE": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.middleeastmonitor.com/20260825-us-lawmakers-demand-release-of-american-student-held-in-israel/",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "20260825",
-      "lawmakers",
-      "demand",
-      "release",
-      "american",
-      "student",
-      "held",
-      "israel"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.saratogian.com/2026/08/25/big-honor-roy-mcdonald-veterans-fishing-park-officially-opens-in-wilton/",
-    "event_codes": {
-      "18": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "big",
-      "honor",
-      "roy",
-      "mcdonald",
-      "veterans",
-      "fishing",
-      "park",
-      "officially",
-      "opens",
-      "wilton"
+      "around",
+      "the",
+      "web",
+      "news",
+      "minnesota",
+      "set",
+      "fight",
+      "texas",
+      "courtroom",
+      "extradite",
+      "ice",
+      "agent",
+      "charged",
+      "minneapolis",
+      "shooting",
+      "article",
+      "16b8ae25",
+      "9bed",
+      "5744",
+      "b956",
+      "f2da3be28415.html"
     ]
   }
 }
