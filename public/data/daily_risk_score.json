@@ -1,74 +1,78 @@
 {
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://en.antaranews.com/news/428468/indonesia-adds-hydrant-wells-to-prevent-recurring-peatland-fires",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "428468",
+      "indonesia",
+      "adds",
+      "hydrant",
+      "wells",
+      "prevent",
+      "recurring",
+      "peatland",
+      "fires"
+    ]
+  },
   "IRN": {
-    "risk_score": 8.1,
-    "count": 9,
-    "top_news": "https://aninews.in/news/world/asia/humanitarian-crisis-of-epic-proportions-trump-claims-iran-unable-to-pay-segments-of-military-alleges-killing-of-protesters20260825183752/",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.bostonherald.com/2026/08/25/ship-disabled-strait-of-hormuz-attack-middle-east-news/",
     "event_codes": {
-      "19": 4,
-      "18": 3,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "asia",
-      "humanitarian",
-      "crisis",
-      "epic",
-      "proportions",
-      "trump",
-      "claims",
-      "iran",
-      "unable",
-      "pay",
-      "segments",
-      "military",
-      "alleges",
-      "killing",
-      "protesters20260825183752"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2589453/troubling-details-emerge-about-days-leading-up-to-shocking-beit-shemesh-murder.html",
-    "event_codes": {
-      "17": 2,
-      "16": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "2589453",
-      "troubling",
-      "details",
-      "emerge",
-      "about",
-      "days",
-      "leading",
-      "shocking",
-      "beit",
-      "shemesh",
-      "murder.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.2,
-    "count": 6,
-    "top_news": "https://socialistproject.ca/2026/08/nato-and-potemkin-ankara/",
-    "event_codes": {
-      "17": 4,
-      "19": 2
+      "19": 3
     },
     "keywords": [
       "2026",
-      "nato",
-      "and",
-      "potemkin",
-      "ankara"
+      "ship",
+      "disabled",
+      "strait",
+      "hormuz",
+      "attack",
+      "middle",
+      "east",
+      "news"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.05,
+    "count": 10,
+    "top_news": "https://www.gatestoneinstitute.org/22787/islamization-of-europe-belgium",
+    "event_codes": {
+      "19": 7,
+      "16": 1,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "22787",
+      "islamization",
+      "europe",
+      "belgium"
+    ]
+  },
+  "NGA": {
+    "risk_score": 15.1,
+    "count": 17,
+    "top_news": "https://thenationonlineng.net/tinubu-orders-immediate-rescue-of-niger-mass-abduction-victims/",
+    "event_codes": {
+      "18": 8,
+      "19": 6,
+      "14": 3
+    },
+    "keywords": [
+      "tinubu",
+      "orders",
+      "immediate",
+      "rescue",
+      "niger",
+      "mass",
+      "abduction",
+      "victims"
     ]
   }
 }
