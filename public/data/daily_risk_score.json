@@ -1,89 +1,45 @@
 {
-  "IRN": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.omanobserver.om/article/1195042/world/region/once-its-saviour-us-puts-kuwait-in-irans-crosshairs",
+  "ISR": {
+    "risk_score": 9.09,
+    "count": 11,
+    "top_news": "https://www.israelnationalnews.com/news/432196",
     "event_codes": {
+      "19": 4,
       "16": 3,
+      "17": 3,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "432196"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.2news.com/news/world/new-details-but-no-answers-a-year-after-an-israeli-strike-on-a-gaza-hospital/article_fefe541d-f97a-5080-9ecc-cd76c2abb8b1.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "article",
-      "1195042",
-      "world",
-      "region",
-      "once",
-      "its",
-      "saviour",
-      "puts",
-      "kuwait",
-      "irans",
-      "crosshairs"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.theguardian.com/australia-news/2026/aug/25/sydney-denied-parole-anti-israel-graffiti-despite-supreme-court-ruling-antisemitism-ntwnfb",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "australia",
       "news",
-      "2026",
-      "aug",
-      "sydney",
-      "denied",
-      "parole",
-      "anti",
-      "israel",
-      "graffiti",
-      "despite",
-      "supreme",
-      "court",
-      "ruling",
-      "antisemitism",
-      "ntwnfb"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.75,
-    "count": 5,
-    "top_news": "https://www.premiumtimesng.com/regional/north-central/905234-soldiers-rescue-kidnap-victim-recover-ak-47-in-kogi.html",
-    "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "regional",
-      "north",
-      "central",
-      "905234",
-      "soldiers",
-      "rescue",
-      "kidnap",
-      "victim",
-      "recover",
-      "kogi.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-609",
-    "event_codes": {
-      "16": 3
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "morning",
-      "update",
-      "609"
+      "world",
+      "new",
+      "details",
+      "but",
+      "answers",
+      "year",
+      "after",
+      "israeli",
+      "strike",
+      "gaza",
+      "hospital",
+      "article",
+      "fefe541d",
+      "f97a",
+      "5080",
+      "9ecc",
+      "cd76c2abb8b1.html"
     ]
   }
 }
