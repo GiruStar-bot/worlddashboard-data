@@ -1,31 +1,65 @@
 {
-  "ISR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.silwanic.net/article/news/80044/israeli-forces-prevent-the-launch-of-a-cultural-and-tourism-project-in-khan-al-tankiz-in-the-al-qataneen-market-in-jerusalem",
+  "IRN": {
+    "risk_score": 8.95,
+    "count": 10,
+    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/08/26/xi-signals-defiance-as-us-threatens-sanctions-over-iran-help",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 7,
+      "16": 3
+    },
+    "keywords": [
+      "category",
+      "world",
+      "2026",
+      "signals",
+      "defiance",
+      "threatens",
+      "sanctions",
+      "over",
+      "iran",
+      "help"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.dailymaverick.co.za/article/2026-08-26-gaza-parents-urged-to-stop-children-flying-kites-after-israel-warning-to-hamas/",
+    "event_codes": {
+      "19": 3,
+      "15": 1
     },
     "keywords": [
       "article",
-      "news",
-      "80044",
-      "israeli",
-      "forces",
-      "prevent",
-      "the",
-      "launch",
-      "cultural",
-      "and",
-      "tourism",
-      "project",
-      "khan",
-      "tankiz",
-      "the",
-      "qataneen",
-      "market",
-      "jerusalem"
+      "2026",
+      "gaza",
+      "parents",
+      "urged",
+      "stop",
+      "children",
+      "flying",
+      "kites",
+      "after",
+      "israel",
+      "warning",
+      "hamas"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 11,
+    "top_news": "https://punchng.com/when-illness-becomes-a-death-sentence/",
+    "event_codes": {
+      "19": 5,
+      "16": 4,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "when",
+      "illness",
+      "becomes",
+      "death",
+      "sentence"
     ]
   }
 }
