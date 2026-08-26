@@ -1,46 +1,59 @@
 {
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.deccanchronicle.com/world/americas/trump-administration-issues-pause-on-visa-appointments-for-applicants-worldwide-1982347",
+    "risk_score": 34.47,
+    "count": 38,
+    "top_news": "https://www.ynetnews.com/article/hkojnj3dzl",
     "event_codes": {
-      "19": 3
+      "19": 27,
+      "17": 5,
+      "18": 4,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "world",
-      "americas",
-      "trump",
-      "administration",
-      "issues",
-      "pause",
-      "visa",
-      "appointments",
-      "for",
-      "applicants",
-      "worldwide",
-      "1982347"
+      "article",
+      "hkojnj3dzl"
     ]
   },
-  "NGA": {
-    "risk_score": 2.94,
-    "count": 4,
-    "top_news": "https://thesun.ng/tinubu-orders-security-chiefs-to-account-for-every-niger-abduction-victim/",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/ryxnyhiwfe",
     "event_codes": {
-      "15": 2,
-      "17": 1,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "tinubu",
-      "orders",
-      "security",
-      "chiefs",
-      "account",
-      "for",
-      "every",
-      "niger",
-      "abduction",
-      "victim"
+      "article",
+      "ryxnyhiwfe"
+    ]
+  },
+  "PSE": {
+    "risk_score": 10.87,
+    "count": 12,
+    "top_news": "https://www.ynetnews.com/article/hkojnj3dzl",
+    "event_codes": {
+      "19": 7,
+      "18": 3,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "hkojnj3dzl"
+    ]
+  },
+  "SDN": {
+    "risk_score": 9.92,
+    "count": 12,
+    "top_news": "https://allafrica.com/stories/202608260033.html",
+    "event_codes": {
+      "19": 8,
+      "16": 3,
+      "15": 1
+    },
+    "keywords": [
+      "stories",
+      "202608260033.html"
     ]
   }
 }
