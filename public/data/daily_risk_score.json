@@ -1,29 +1,68 @@
 {
-  "ISR": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.jpost.com/israel-news/article-906612",
+  "IRN": {
+    "risk_score": 4.6,
+    "count": 6,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/895690/us-iran-ceasefire-deal-but-tired-trump-threatens-final-blow-7-mile-wide-hormuz-and-shock-from-nbc",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "16": 5,
+      "19": 1
     },
     "keywords": [
-      "israel",
-      "news",
-      "article",
-      "906612"
+      "diethni",
+      "articles",
+      "895690",
+      "iran",
+      "ceasefire",
+      "deal",
+      "but",
+      "tired",
+      "trump",
+      "threatens",
+      "final",
+      "blow",
+      "mile",
+      "wide",
+      "hormuz",
+      "and",
+      "shock",
+      "from",
+      "nbc"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202608260091.html",
+  "ISR": {
+    "risk_score": 14.3,
+    "count": 17,
+    "top_news": "https://naharnet.com/stories/en/322035-israeli-and-syrian-officials-meet-following-israeli-airstrike",
     "event_codes": {
-      "19": 3
+      "19": 12,
+      "17": 5
     },
     "keywords": [
       "stories",
-      "202608260091.html"
+      "322035",
+      "israeli",
+      "and",
+      "syrian",
+      "officials",
+      "meet",
+      "following",
+      "israeli",
+      "airstrike"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2655878/middle-east",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "node",
+      "2655878",
+      "middle",
+      "east"
     ]
   }
 }
