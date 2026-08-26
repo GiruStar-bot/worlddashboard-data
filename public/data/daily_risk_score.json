@@ -1,94 +1,118 @@
 {
   "IRN": {
-    "risk_score": 3.02,
-    "count": 4,
-    "top_news": "https://www.breakingnews.ie/world/iran-warns-of-military-ship-ban-in-strait-of-hormuz-under-potential-oman-deal-1944507.html",
+    "risk_score": 5.19,
+    "count": 6,
+    "top_news": "https://www.thenationalnews.com/business/economy/2026/08/26/egas-al-taweelah-smelter-restoration-works-reach-25-after-iran-strike-damage/",
     "event_codes": {
+      "16": 2,
+      "19": 2,
       "15": 1,
-      "16": 1,
-      "17": 1,
-      "19": 1
+      "17": 1
     },
     "keywords": [
-      "world",
+      "business",
+      "economy",
+      "2026",
+      "egas",
+      "taweelah",
+      "smelter",
+      "restoration",
+      "works",
+      "reach",
+      "after",
       "iran",
-      "warns",
+      "strike",
+      "damage"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/26/german-military-ends-iraq-mission-as-us-led-anti-isis-coalition-prepares-to-leave/",
+    "event_codes": {
+      "15": 4
+    },
+    "keywords": [
+      "news",
+      "mena",
+      "2026",
+      "german",
       "military",
-      "ship",
-      "ban",
-      "strait",
-      "hormuz",
-      "under",
-      "potential",
-      "oman",
-      "deal",
-      "1944507.html"
+      "ends",
+      "iraq",
+      "mission",
+      "led",
+      "anti",
+      "isis",
+      "coalition",
+      "prepares",
+      "leave"
     ]
   },
   "ISR": {
-    "risk_score": 31.0,
-    "count": 38,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-906659",
+    "risk_score": 25.0,
+    "count": 31,
+    "top_news": "https://www.washingtonexaminer.com/restoring-america/courage-strength-optimism/4699354/is-islamic-republic-planning-attack-inside-us/",
     "event_codes": {
-      "19": 22,
-      "17": 13,
-      "18": 3
+      "19": 13,
+      "17": 10,
+      "18": 3,
+      "20": 3,
+      "14": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "crime",
-      "israel",
-      "article",
-      "906659"
+      "restoring",
+      "america",
+      "courage",
+      "strength",
+      "optimism",
+      "4699354",
+      "islamic",
+      "republic",
+      "planning",
+      "attack",
+      "inside"
     ]
   },
   "PSE": {
-    "risk_score": 7.75,
-    "count": 10,
-    "top_news": "https://www.ibtimes.co.uk/us-lawmakers-demand-medical-care-detained-american-student-israel-1816416",
+    "risk_score": 9.75,
+    "count": 11,
+    "top_news": "https://www.middleeastmonitor.com/20260826-israeli-army-arrests-7-palestinians-assaults-2-in-occupied-west-bank-raids/",
     "event_codes": {
-      "17": 4,
-      "19": 4,
+      "19": 7,
+      "17": 2,
       "18": 2
     },
     "keywords": [
-      "lawmakers",
-      "demand",
-      "medical",
-      "care",
-      "detained",
-      "american",
-      "student",
-      "israel",
-      "1816416"
+      "20260826",
+      "israeli",
+      "army",
+      "arrests",
+      "palestinians",
+      "assaults",
+      "occupied",
+      "west",
+      "bank",
+      "raids"
     ]
   },
-  "SDN": {
-    "risk_score": 2.0,
+  "YEM": {
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/un-security-council-and-sudan-arms-embargo-exposes-gap-between-international-will-and-action",
+    "top_news": "https://www.thenationalnews.com/news/uk/2026/08/26/houthis-grow-smuggling-networks-in-african-conflicts/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "all",
       "news",
-      "article",
-      "security",
-      "council",
-      "and",
-      "sudan",
-      "arms",
-      "embargo",
-      "exposes",
-      "gap",
-      "between",
-      "international",
-      "will",
-      "and",
-      "action"
+      "2026",
+      "houthis",
+      "grow",
+      "smuggling",
+      "networks",
+      "african",
+      "conflicts"
     ]
   }
 }
