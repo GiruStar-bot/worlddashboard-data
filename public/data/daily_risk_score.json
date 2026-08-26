@@ -1,68 +1,81 @@
 {
   "IRN": {
-    "risk_score": 4.6,
+    "risk_score": 5.7,
     "count": 6,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/895690/us-iran-ceasefire-deal-but-tired-trump-threatens-final-blow-7-mile-wide-hormuz-and-shock-from-nbc",
+    "top_news": "https://www.manchestereveningnews.co.uk/news/uk-news/store-water-tinned-food-uk-34517939",
     "event_codes": {
-      "16": 5,
-      "19": 1
+      "19": 3,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "895690",
-      "iran",
-      "ceasefire",
-      "deal",
-      "but",
-      "tired",
-      "trump",
-      "threatens",
-      "final",
-      "blow",
-      "mile",
-      "wide",
-      "hormuz",
-      "and",
-      "shock",
-      "from",
-      "nbc"
+      "news",
+      "news",
+      "store",
+      "water",
+      "tinned",
+      "food",
+      "34517939"
     ]
   },
   "ISR": {
-    "risk_score": 14.3,
-    "count": 17,
-    "top_news": "https://naharnet.com/stories/en/322035-israeli-and-syrian-officials-meet-following-israeli-airstrike",
+    "risk_score": 7.5,
+    "count": 10,
+    "top_news": "https://www.moneycontrol.com/world/israeli-pm-benjamin-netanyahu-s-son-targeted-in-iranian-assassination-plot-in-florida-told-to-leave-us-report-article-14015814.html",
     "event_codes": {
-      "19": 12,
-      "17": 5
-    },
-    "keywords": [
-      "stories",
-      "322035",
-      "israeli",
-      "and",
-      "syrian",
-      "officials",
-      "meet",
-      "following",
-      "israeli",
-      "airstrike"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/node/2655878/middle-east",
-    "event_codes": {
-      "17": 4,
+      "17": 5,
+      "16": 2,
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "node",
-      "2655878",
-      "middle",
-      "east"
+      "world",
+      "israeli",
+      "benjamin",
+      "netanyahu",
+      "son",
+      "targeted",
+      "iranian",
+      "assassination",
+      "plot",
+      "florida",
+      "told",
+      "leave",
+      "report",
+      "article",
+      "14015814.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.3,
+    "count": 6,
+    "top_news": "https://allafrica.com/stories/202608260082.html",
+    "event_codes": {
+      "17": 3,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "stories",
+      "202608260082.html"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.84,
+    "count": 4,
+    "top_news": "https://www.ecr.co.za/news/news/37-000-cell-phones-seized-from-sa-prisons/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "news",
+      "news",
+      "000",
+      "cell",
+      "phones",
+      "seized",
+      "from",
+      "prisons"
     ]
   }
 }
