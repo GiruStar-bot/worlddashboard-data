@@ -1,29 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 3.7,
-    "count": 6,
-    "top_news": "https://www.theage.com.au/world/north-america/pete-hegseth-is-hollowing-out-the-us-army-at-the-worst-possible-time-20260826-p60rpl.html",
+  "ARG": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wsws.org/en/articles/2026/08/26/iljj-a26.html",
     "event_codes": {
-      "17": 3,
-      "16": 2,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "world",
-      "north",
-      "america",
-      "pete",
-      "hegseth",
-      "hollowing",
-      "out",
-      "the",
-      "army",
-      "the",
-      "worst",
-      "possible",
-      "time",
-      "20260826",
-      "p60rpl.html"
+      "articles",
+      "2026",
+      "iljj",
+      "a26.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.8,
+    "count": 10,
+    "top_news": "https://www.israelnationalnews.com/news/432253",
+    "event_codes": {
+      "16": 7,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "432253"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/flashes/692412",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "flashes",
+      "692412"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.com/news/article-16080323/florida-mom-child-killed-lightning-strike-dad-speaks-out.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16080323",
+      "florida",
+      "mom",
+      "child",
+      "killed",
+      "lightning",
+      "strike",
+      "dad",
+      "speaks",
+      "out.html"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cy0zgx6wlz3o"
     ]
   }
 }
