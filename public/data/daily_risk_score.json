@@ -1,92 +1,163 @@
 {
-  "EGY": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.egyptindependent.com/fm-affirms-egypts-pride-in-historical-ties-with-chad/",
+  "BRA": {
+    "risk_score": 3.7,
+    "count": 7,
+    "top_news": "https://nypost.com/2026/08/26/us-news/escape-of-unlicensed-plastic-surgeon-dr-frankenstein-inflames-trump-admin-rift-with-brazil/",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "16": 3,
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "affirms",
-      "egypts",
-      "pride",
-      "historical",
-      "ties",
+      "2026",
+      "news",
+      "escape",
+      "unlicensed",
+      "plastic",
+      "surgeon",
+      "frankenstein",
+      "inflames",
+      "trump",
+      "admin",
+      "rift",
       "with",
-      "chad"
+      "brazil"
     ]
   },
   "ISR": {
-    "risk_score": 8.3,
-    "count": 9,
-    "top_news": "https://morningstaronline.co.uk/article/qusra-only-warning-shot-israels-ethnic-cleansing-blueprint-west-bank-clear",
+    "risk_score": 27.32,
+    "count": 33,
+    "top_news": "https://georgiatoday.ge/israeli-military-says-it-killed-hamas-commander-in-gaza-strike/",
     "event_codes": {
-      "19": 4,
-      "20": 3,
-      "16": 1,
-      "18": 1
+      "17": 13,
+      "19": 13,
+      "18": 5,
+      "16": 2
     },
     "keywords": [
-      "article",
-      "qusra",
-      "only",
-      "warning",
-      "shot",
-      "israels",
-      "ethnic",
-      "cleansing",
-      "blueprint",
-      "west",
-      "bank",
-      "clear"
+      "israeli",
+      "military",
+      "says",
+      "killed",
+      "hamas",
+      "commander",
+      "gaza",
+      "strike"
     ]
   },
-  "KEN": {
-    "risk_score": 3.7,
-    "count": 4,
-    "top_news": "https://www.the-star.co.ke/news/big-read/2026-08-25-billiondollar-oil-projects-expose-east-africas-longrunning-regional-tensions",
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.islamicinvitationturkey.com/significant-escalation-unfolds-in-southern-lebanon-amid-withdrawal-agreement/",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 2
+    },
+    "keywords": [
+      "significant",
+      "escalation",
+      "unfolds",
+      "southern",
+      "lebanon",
+      "amid",
+      "withdrawal",
+      "agreement"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-16081147/libyan-fhimah-cleared-lockerbie-dead.html",
+    "event_codes": {
+      "17": 4
     },
     "keywords": [
       "news",
-      "big",
-      "read",
-      "2026",
-      "billiondollar",
-      "oil",
-      "projects",
-      "expose",
-      "east",
-      "africas",
-      "longrunning",
-      "regional",
-      "tensions"
+      "article",
+      "16081147",
+      "libyan",
+      "fhimah",
+      "cleared",
+      "lockerbie",
+      "dead.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 4.7,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202608260326.html",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "202608260326.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://allafrica.com/stories/202608260326.html",
+    "event_codes": {
+      "18": 5,
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "202608260326.html"
     ]
   },
   "PSE": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://morningstaronline.co.uk/article/qusra-only-warning-shot-israels-ethnic-cleansing-blueprint-west-bank-clear",
+    "top_news": "https://georgiatoday.ge/israeli-military-says-it-killed-hamas-commander-in-gaza-strike/",
     "event_codes": {
-      "20": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "article",
-      "qusra",
-      "only",
-      "warning",
-      "shot",
-      "israels",
-      "ethnic",
-      "cleansing",
-      "blueprint",
-      "west",
-      "bank",
-      "clear"
+      "israeli",
+      "military",
+      "says",
+      "killed",
+      "hamas",
+      "commander",
+      "gaza",
+      "strike"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.yahoo.com/news/world/articles/brothers-sentenced-germany-illegal-exports-110408070.html",
+    "event_codes": {
+      "16": 5,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "articles",
+      "brothers",
+      "sentenced",
+      "germany",
+      "illegal",
+      "exports",
+      "110408070.html"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://radio.foxnews.com/2026/08/26/85-81-roe-v-wade-overturned/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "roe",
+      "wade",
+      "overturned"
     ]
   }
 }
