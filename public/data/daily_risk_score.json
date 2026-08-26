@@ -1,86 +1,122 @@
 {
-  "GUY": {
-    "risk_score": 3.5,
-    "count": 7,
-    "top_news": "https://grenadachronicle.com/guyana-police-arrest-the-countrys-opposition-leader-azruddin-mohamed/",
+  "IRN": {
+    "risk_score": 5.45,
+    "count": 6,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-drone-attacks-iraqs-northern-kurdish-region",
     "event_codes": {
-      "17": 7
+      "19": 5,
+      "17": 1
     },
     "keywords": [
-      "guyana",
-      "police",
-      "arrest",
-      "the",
-      "countrys",
-      "opposition",
-      "leader",
-      "azruddin",
-      "mohamed"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "report",
+      "drone",
+      "attacks",
+      "iraqs",
+      "northern",
+      "kurdish",
+      "region"
     ]
   },
-  "IRN": {
-    "risk_score": 8.5,
-    "count": 10,
-    "top_news": "https://www.theatlantic.com/politics/2026/08/trump-iran-war-midterms-sanctions/688412/",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-drone-attacks-iraqs-northern-kurdish-region",
     "event_codes": {
-      "19": 4,
-      "16": 2,
-      "17": 2,
-      "18": 2
+      "19": 2
     },
     "keywords": [
-      "politics",
-      "2026",
-      "trump",
-      "iran",
-      "war",
-      "midterms",
-      "sanctions",
-      "688412"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "report",
+      "drone",
+      "attacks",
+      "iraqs",
+      "northern",
+      "kurdish",
+      "region"
     ]
   },
   "ISR": {
-    "risk_score": 18.22,
-    "count": 23,
-    "top_news": "https://www.aljazeera.com/news/2026/8/26/us-imposes-sanctions-on-palestine-action-and-other-left-wing-groups",
+    "risk_score": 9.95,
+    "count": 13,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attacks-killed-least-100-palestinians-two-weeks",
     "event_codes": {
-      "17": 10,
-      "19": 9,
-      "15": 3,
-      "16": 1
+      "16": 5,
+      "14": 3,
+      "19": 3,
+      "17": 2
     },
     "keywords": [
-      "news",
-      "2026",
-      "imposes",
-      "sanctions",
-      "palestine",
-      "action",
-      "and",
-      "other",
-      "left",
-      "wing",
-      "groups"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "report",
+      "israeli",
+      "attacks",
+      "killed",
+      "least",
+      "100",
+      "palestinians",
+      "two",
+      "weeks"
     ]
   },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/8/26/unrwa-chief-condemns-israeli-seizure-of-east-jerusalem-facility",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://redstate.com/beccalower/2026/08/26/had-to-ordered-to-stand-down-dow-honors-exemplary-marines-who-saved-lives-at-abbery-gate-n2206112",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "news",
+      "beccalower",
       "2026",
-      "unrwa",
-      "chief",
-      "condemns",
-      "israeli",
-      "seizure",
-      "east",
-      "jerusalem",
-      "facility"
+      "had",
+      "ordered",
+      "stand",
+      "down",
+      "dow",
+      "honors",
+      "exemplary",
+      "marines",
+      "who",
+      "saved",
+      "lives",
+      "abbery",
+      "gate",
+      "n2206112"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://themedialine.org/top-stories/stopped-at-the-border-dangerous-at-home-europes-new-islamic-state-problem/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "top",
+      "stories",
+      "stopped",
+      "the",
+      "border",
+      "dangerous",
+      "home",
+      "europes",
+      "new",
+      "islamic",
+      "state",
+      "problem"
     ]
   }
 }
