@@ -1,140 +1,110 @@
 {
   "IRN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://tribune.com.pk/story/2625959/german-firms-report-rising-cyber-threat-from-foreign-intelligence-services-study-shows",
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://www.thenationalnews.com/news/uae/2026/08/26/new-uae-teachers-eager-for-start-of-school-year-after-challenges-of-iran-war/",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "16": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "story",
-      "2625959",
-      "german",
-      "firms",
-      "report",
-      "rising",
-      "cyber",
-      "threat",
-      "from",
-      "foreign",
-      "intelligence",
-      "services",
-      "study",
-      "shows"
+      "news",
+      "uae",
+      "2026",
+      "new",
+      "uae",
+      "teachers",
+      "eager",
+      "for",
+      "start",
+      "school",
+      "year",
+      "after",
+      "challenges",
+      "iran",
+      "war"
     ]
   },
   "ISR": {
-    "risk_score": 5.9,
-    "count": 9,
-    "top_news": "https://jowhar.com/un-condemns-israels-outrageous-threat-over-gazan-childrens-kites/",
+    "risk_score": 10.38,
+    "count": 12,
+    "top_news": "http://www.middleeaststar.com/news/279266724/western-media-demands-answers-from-israel-for-killing-journalists-in-gaza",
     "event_codes": {
       "17": 6,
-      "18": 2,
-      "19": 1
+      "19": 5,
+      "16": 1
     },
     "keywords": [
-      "condemns",
-      "israels",
-      "outrageous",
-      "threat",
-      "over",
-      "gazan",
-      "childrens",
-      "kites"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://verticalmag.com/features/pac-international-rebuilt-for-mission/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "features",
-      "pac",
-      "international",
-      "rebuilt",
+      "news",
+      "279266724",
+      "western",
+      "media",
+      "demands",
+      "answers",
+      "from",
+      "israel",
       "for",
-      "mission"
+      "killing",
+      "journalists",
+      "gaza"
     ]
   },
-  "MMR": {
-    "risk_score": 2.85,
+  "PSE": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.independent.co.uk/asia/southeast-asia/myanmar-military-school-strike-un-report-abuses-b3039312.html",
+    "top_news": "http://www.middleeaststar.com/news/279267033/un-warns-of-deteriorating-conditions-in-gaza-west-bank",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "asia",
-      "southeast",
-      "asia",
-      "myanmar",
-      "military",
-      "school",
-      "strike",
-      "report",
-      "abuses",
-      "b3039312.html"
+      "news",
+      "279267033",
+      "warns",
+      "deteriorating",
+      "conditions",
+      "gaza",
+      "west",
+      "bank"
     ]
   },
-  "NGA": {
-    "risk_score": 9.52,
-    "count": 17,
-    "top_news": "https://bentelevision.com/tinubu-vows-to-defeat-terror-protect-nigerians-and-defend-the-nation/",
+  "SYR": {
+    "risk_score": 6.65,
+    "count": 10,
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/08/26/syria-turks-kurds/",
     "event_codes": {
-      "17": 13,
-      "14": 2,
-      "15": 1,
-      "19": 1
+      "17": 4,
+      "19": 4,
+      "16": 2
     },
     "keywords": [
-      "tinubu",
-      "vows",
-      "defeat",
-      "terror",
-      "protect",
-      "nigerians",
-      "and",
-      "defend",
-      "the",
-      "nation"
+      "news",
+      "mena",
+      "2026",
+      "syria",
+      "turks",
+      "kurds"
     ]
   },
   "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.teamtalk.com/liverpool/transfer-news-ismaila-sarr-bid-fabrizio-romano-crystal-palace-talks",
+    "risk_score": 5.4,
+    "count": 6,
+    "top_news": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/drug-dealer-shot-police-swooped-34522581",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "16": 1
     },
     "keywords": [
-      "liverpool",
-      "transfer",
       "news",
-      "ismaila",
-      "sarr",
-      "bid",
-      "fabrizio",
-      "romano",
-      "crystal",
-      "palace",
-      "talks"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.military.com/topics/deployment",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "topics",
-      "deployment"
+      "greater",
+      "manchester",
+      "news",
+      "drug",
+      "dealer",
+      "shot",
+      "police",
+      "swooped",
+      "34522581"
     ]
   }
 }
