@@ -1,122 +1,90 @@
 {
-  "IRN": {
-    "risk_score": 5.45,
-    "count": 6,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-drone-attacks-iraqs-northern-kurdish-region",
+  "EGY": {
+    "risk_score": 3.1,
+    "count": 5,
+    "top_news": "https://freerepublic.com/focus/f-news/4393275/posts",
     "event_codes": {
-      "19": 5,
+      "17": 3,
+      "18": 2
+    },
+    "keywords": [
+      "focus",
+      "news",
+      "4393275",
+      "posts"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.3,
+    "count": 6,
+    "top_news": "https://www.crookwellgazette.com.au/story/9338943/qatar-pm-to-visit-tehran-to-pursue-mediation-efforts/",
+    "event_codes": {
+      "19": 3,
+      "18": 2,
       "17": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "report",
-      "drone",
-      "attacks",
-      "iraqs",
-      "northern",
-      "kurdish",
-      "region"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-drone-attacks-iraqs-northern-kurdish-region",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "report",
-      "drone",
-      "attacks",
-      "iraqs",
-      "northern",
-      "kurdish",
-      "region"
+      "story",
+      "9338943",
+      "qatar",
+      "visit",
+      "tehran",
+      "pursue",
+      "mediation",
+      "efforts"
     ]
   },
   "ISR": {
-    "risk_score": 9.95,
-    "count": 13,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attacks-killed-least-100-palestinians-two-weeks",
+    "risk_score": 11.02,
+    "count": 12,
+    "top_news": "https://www.aljazeera.com/opinions/2026/8/27/israel-is-not-heading-for-civil-war",
     "event_codes": {
-      "16": 5,
-      "14": 3,
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "report",
-      "israeli",
-      "attacks",
-      "killed",
-      "least",
-      "100",
-      "palestinians",
-      "two",
-      "weeks"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://redstate.com/beccalower/2026/08/26/had-to-ordered-to-stand-down-dow-honors-exemplary-marines-who-saved-lives-at-abbery-gate-n2206112",
-    "event_codes": {
+      "17": 6,
+      "18": 4,
       "19": 2
     },
     "keywords": [
-      "beccalower",
+      "opinions",
       "2026",
-      "had",
-      "ordered",
-      "stand",
-      "down",
-      "dow",
-      "honors",
-      "exemplary",
-      "marines",
-      "who",
-      "saved",
-      "lives",
-      "abbery",
-      "gate",
-      "n2206112"
+      "israel",
+      "not",
+      "heading",
+      "for",
+      "civil",
+      "war"
     ]
   },
-  "SOM": {
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/arab-world/5311633-death-journey-kordofan-ends-hunger-omdurman",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5311633",
+      "death",
+      "journey",
+      "kordofan",
+      "ends",
+      "hunger",
+      "omdurman"
+    ]
+  },
+  "YEM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://themedialine.org/top-stories/stopped-at-the-border-dangerous-at-home-europes-new-islamic-state-problem/",
+    "top_news": "https://english.news.cn/20260827/d1ec93131be240d28c574e1ea0571e05/c.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "top",
-      "stories",
-      "stopped",
-      "the",
-      "border",
-      "dangerous",
-      "home",
-      "europes",
-      "new",
-      "islamic",
-      "state",
-      "problem"
+      "20260827",
+      "d1ec93131be240d28c574e1ea0571e05",
+      "c.html"
     ]
   }
 }
