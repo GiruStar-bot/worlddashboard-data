@@ -1,72 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/28/775195/Former-British-PM-Johnson-admits-US-aggression-against-Iran-was-a-",
+  "BRA": {
+    "risk_score": 18.12,
+    "count": 20,
+    "top_news": "https://news.mongabay.com/2026/08/under-protection-the-environmentalists-widow-in-brazil-who-had-to-disappear-to-survive/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 10,
+      "18": 6,
+      "17": 3,
+      "16": 1
     },
     "keywords": [
-      "detail",
       "2026",
-      "775195",
-      "former",
-      "british",
-      "johnson",
-      "admits",
-      "aggression",
-      "against",
-      "iran",
-      "was"
+      "under",
+      "protection",
+      "the",
+      "environmentalists",
+      "widow",
+      "brazil",
+      "who",
+      "had",
+      "disappear",
+      "survive"
     ]
   },
   "ISR": {
-    "risk_score": 3.95,
-    "count": 5,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/08/28/775195/Former-British-PM-Johnson-admits-US-aggression-against-Iran-was-a-",
+    "risk_score": 10.9,
+    "count": 11,
+    "top_news": "https://www.christianitydaily.com:443/news/13-americans-including-umc-clergy-barred-from-israel.html",
     "event_codes": {
-      "17": 2,
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "775195",
-      "former",
-      "british",
-      "johnson",
-      "admits",
-      "aggression",
-      "against",
-      "iran",
-      "was"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.scmp.com/news/asia/southeast-asia/article/3365522/malaysia-moves-anwars-national-day-speech-indoors-haze-spikes",
-    "event_codes": {
-      "19": 3
+      "19": 9,
+      "18": 2
     },
     "keywords": [
       "news",
-      "asia",
-      "southeast",
-      "asia",
-      "article",
-      "3365522",
-      "malaysia",
-      "moves",
-      "anwars",
-      "national",
-      "day",
-      "speech",
-      "indoors",
-      "haze",
-      "spikes"
+      "americans",
+      "including",
+      "umc",
+      "clergy",
+      "barred",
+      "from",
+      "israel.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.8,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/905953-11-nysc-members-rescued-after-kogi-abduction.html",
+    "event_codes": {
+      "19": 7,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "top",
+      "news",
+      "905953",
+      "nysc",
+      "members",
+      "rescued",
+      "after",
+      "kogi",
+      "abduction.html"
     ]
   }
 }
