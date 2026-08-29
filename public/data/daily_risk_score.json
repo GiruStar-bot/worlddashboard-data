@@ -1,32 +1,96 @@
 {
-  "ISR": {
-    "risk_score": 7.15,
-    "count": 8,
-    "top_news": "https://www.ksat.com/news/world/2026/08/29/netanyahu-condemns-rioters-after-weeks-of-west-bank-settler-violence-and-other-middle-east-news/",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://hotair.com/headlines/2026/08/29/guadalcanal-campaign-n3818455",
     "event_codes": {
-      "19": 4,
-      "18": 2,
-      "16": 1,
-      "17": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "world",
+      "headlines",
       "2026",
+      "guadalcanal",
+      "campaign",
+      "n3818455"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.6,
+    "count": 8,
+    "top_news": "https://english.news.cn/20260830/f19803e14a9743a1bb2219a21a02abca/c.html",
+    "event_codes": {
+      "19": 6,
+      "16": 2
+    },
+    "keywords": [
+      "20260830",
+      "f19803e14a9743a1bb2219a21a02abca",
+      "c.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 20.28,
+    "count": 23,
+    "top_news": "https://www.northerndailyleader.com.au/story/9339903/netanyahu-condemns-rioters-after-west-bank-violence/",
+    "event_codes": {
+      "19": 16,
+      "15": 4,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "story",
+      "9339903",
       "netanyahu",
       "condemns",
       "rioters",
       "after",
-      "weeks",
       "west",
       "bank",
+      "violence"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.thestar.com.my/news/nation/2026/08/30/five-areas-in-swak-worst-hit",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "nation",
+      "2026",
+      "five",
+      "areas",
+      "swak",
+      "worst",
+      "hit"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.newstalkzb.co.nz/news/world/israeli-settler-attack-on-west-bank-village-draws-rare-rebuke-from-netanyahu/",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "israeli",
       "settler",
-      "violence",
-      "and",
-      "other",
-      "middle",
-      "east",
-      "news"
+      "attack",
+      "west",
+      "bank",
+      "village",
+      "draws",
+      "rare",
+      "rebuke",
+      "from",
+      "netanyahu"
     ]
   }
 }
