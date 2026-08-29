@@ -1,83 +1,85 @@
 {
-  "BHR": {
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/news/iran-reports-75bn-oil-revenues-amid-us-naval-blockade",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "reports",
+      "75bn",
+      "oil",
+      "revenues",
+      "amid",
+      "naval",
+      "blockade"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-increase-gaza-death-toll",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "israeli",
+      "attacks",
+      "increase",
+      "gaza",
+      "death",
+      "toll"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.64,
+    "count": 3,
+    "top_news": "https://www.standardmedia.co.ke/business/business/article/2001556494/state-denies-harassment-claims-of-small-lpg-traders",
+    "event_codes": {
+      "15": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "business",
+      "business",
+      "article",
+      "2001556494",
+      "state",
+      "denies",
+      "harassment",
+      "claims",
+      "small",
+      "lpg",
+      "traders"
+    ]
+  },
+  "NGA": {
     "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://economictimes.indiatimes.com/nri/latest-updates/ebola-travel-restrictions-india-canada-uae-and-other-countries-tighten-entry-rules/articleshow/133605738.cms",
+    "top_news": "https://punchng.com/i-learnt-my-sons-kidney-was-removed-via-phone-call-victims-mother/",
     "event_codes": {
       "17": 4
     },
     "keywords": [
-      "nri",
-      "latest",
-      "updates",
-      "ebola",
-      "travel",
-      "restrictions",
-      "india",
-      "canada",
-      "uae",
-      "and",
-      "other",
-      "countries",
-      "tighten",
-      "entry",
-      "rules",
-      "articleshow",
-      "133605738.cms"
-    ]
-  },
-  "IDN": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://en.tempo.co/read/2118513/japan-to-send-3-helicopters-to-help-indonesia-battle-wildfires",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "read",
-      "2118513",
-      "japan",
-      "send",
-      "helicopters",
-      "help",
-      "indonesia",
-      "battle",
-      "wildfires"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://aa.com.tr/en/world/morning-briefing-aug-29-2026/4040730",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "morning",
-      "briefing",
-      "aug",
-      "2026",
-      "4040730"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.92,
-    "count": 9,
-    "top_news": "https://www.wallpaper.com/architecture/residential/kemi-lawson-house-proud-book",
-    "event_codes": {
-      "17": 9
-    },
-    "keywords": [
-      "architecture",
-      "residential",
-      "kemi",
-      "lawson",
-      "house",
-      "proud",
-      "book"
+      "learnt",
+      "sons",
+      "kidney",
+      "was",
+      "removed",
+      "via",
+      "phone",
+      "call",
+      "victims",
+      "mother"
     ]
   }
 }
