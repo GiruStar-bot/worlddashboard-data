@@ -1,85 +1,58 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/news/iran-reports-75bn-oil-revenues-amid-us-naval-blockade",
+  "EGY": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.insidenova.com/headlines/mclean-day-care-worker-charged-with-assaulting-toddlers/article_55f1c4cb-8913-4282-bc57-9f560dc3a195.html",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "news",
-      "iran",
-      "reports",
-      "75bn",
-      "oil",
-      "revenues",
-      "amid",
-      "naval",
-      "blockade"
+      "headlines",
+      "mclean",
+      "day",
+      "care",
+      "worker",
+      "charged",
+      "with",
+      "assaulting",
+      "toddlers",
+      "article",
+      "55f1c4cb",
+      "8913",
+      "4282",
+      "bc57",
+      "9f560dc3a195.html"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-attacks-increase-gaza-death-toll",
+    "risk_score": 18.24,
+    "count": 20,
+    "top_news": "https://english.wafa.ps/Pages/Details/174182",
     "event_codes": {
-      "19": 3
+      "19": 9,
+      "18": 7,
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "israeli",
-      "attacks",
-      "increase",
-      "gaza",
-      "death",
-      "toll"
+      "pages",
+      "details",
+      "174182"
     ]
   },
-  "KEN": {
-    "risk_score": 2.64,
-    "count": 3,
-    "top_news": "https://www.standardmedia.co.ke/business/business/article/2001556494/state-denies-harassment-claims-of-small-lpg-traders",
+  "PSE": {
+    "risk_score": 8.9,
+    "count": 9,
+    "top_news": "https://english.wafa.ps/Pages/Details/174186",
     "event_codes": {
-      "15": 1,
-      "17": 1,
-      "19": 1
+      "19": 7,
+      "18": 2
     },
     "keywords": [
-      "business",
-      "business",
-      "article",
-      "2001556494",
-      "state",
-      "denies",
-      "harassment",
-      "claims",
-      "small",
-      "lpg",
-      "traders"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://punchng.com/i-learnt-my-sons-kidney-was-removed-via-phone-call-victims-mother/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "learnt",
-      "sons",
-      "kidney",
-      "was",
-      "removed",
-      "via",
-      "phone",
-      "call",
-      "victims",
-      "mother"
+      "pages",
+      "details",
+      "174186"
     ]
   }
 }
