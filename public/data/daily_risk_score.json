@@ -1,66 +1,130 @@
 {
-  "BRA": {
-    "risk_score": 18.12,
-    "count": 20,
-    "top_news": "https://news.mongabay.com/2026/08/under-protection-the-environmentalists-widow-in-brazil-who-had-to-disappear-to-survive/",
+  "ISR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.hngn.com/articles/272957/20260828/israel-kills-hamas-jenin-chief-rare-west-bank-drone-strike-declares-camp-occupied.htm",
     "event_codes": {
-      "19": 10,
-      "18": 6,
-      "17": 3,
-      "16": 1
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "under",
-      "protection",
-      "the",
-      "environmentalists",
-      "widow",
-      "brazil",
-      "who",
-      "had",
-      "disappear",
-      "survive"
+      "articles",
+      "272957",
+      "20260828",
+      "israel",
+      "kills",
+      "hamas",
+      "jenin",
+      "chief",
+      "rare",
+      "west",
+      "bank",
+      "drone",
+      "strike",
+      "declares",
+      "camp",
+      "occupied.htm"
     ]
   },
-  "ISR": {
-    "risk_score": 10.9,
-    "count": 11,
-    "top_news": "https://www.christianitydaily.com:443/news/13-americans-including-umc-clergy-barred-from-israel.html",
+  "NER": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://local21news.com/news/local/man-in-custody-for-sexual-assault-charges-face-potential-deportation-police-camp-hill-police-department-unlawful-restraint-false-imprisonment-bar-harrisburg",
     "event_codes": {
-      "19": 9,
+      "17": 2,
       "18": 2
     },
     "keywords": [
       "news",
-      "americans",
-      "including",
-      "umc",
-      "clergy",
-      "barred",
-      "from",
-      "israel.html"
+      "local",
+      "man",
+      "custody",
+      "for",
+      "sexual",
+      "assault",
+      "charges",
+      "face",
+      "potential",
+      "deportation",
+      "police",
+      "camp",
+      "hill",
+      "police",
+      "department",
+      "unlawful",
+      "restraint",
+      "false",
+      "imprisonment",
+      "bar",
+      "harrisburg"
     ]
   },
   "NGA": {
-    "risk_score": 8.8,
-    "count": 9,
-    "top_news": "https://www.premiumtimesng.com/news/top-news/905953-11-nysc-members-rescued-after-kogi-abduction.html",
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://theeagleonline.com.ng/troops-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0rescue-34-abd/",
     "event_codes": {
       "19": 7,
-      "18": 2
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "top",
-      "news",
-      "905953",
-      "nysc",
-      "members",
-      "rescued",
-      "after",
-      "kogi",
-      "abduction.html"
+      "troops",
+      "%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0rescue",
+      "abd"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.hngn.com/articles/272957/20260828/israel-kills-hamas-jenin-chief-rare-west-bank-drone-strike-declares-camp-occupied.htm",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "articles",
+      "272957",
+      "20260828",
+      "israel",
+      "kills",
+      "hamas",
+      "jenin",
+      "chief",
+      "rare",
+      "west",
+      "bank",
+      "drone",
+      "strike",
+      "declares",
+      "camp",
+      "occupied.htm"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.breitbart.com/national-security/2026/08/27/syrias-jihadi-president-pays-for-coffee-with-visa-card-marking-end-of-assad-era-sanctions/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "syrias",
+      "jihadi",
+      "president",
+      "pays",
+      "for",
+      "coffee",
+      "with",
+      "visa",
+      "card",
+      "marking",
+      "end",
+      "assad",
+      "era",
+      "sanctions"
     ]
   }
 }
