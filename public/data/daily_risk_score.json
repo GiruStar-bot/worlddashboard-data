@@ -1,130 +1,83 @@
 {
-  "ISR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.hngn.com/articles/272957/20260828/israel-kills-hamas-jenin-chief-rare-west-bank-drone-strike-declares-camp-occupied.htm",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://economictimes.indiatimes.com/nri/latest-updates/ebola-travel-restrictions-india-canada-uae-and-other-countries-tighten-entry-rules/articleshow/133605738.cms",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "nri",
+      "latest",
+      "updates",
+      "ebola",
+      "travel",
+      "restrictions",
+      "india",
+      "canada",
+      "uae",
+      "and",
+      "other",
+      "countries",
+      "tighten",
+      "entry",
+      "rules",
+      "articleshow",
+      "133605738.cms"
+    ]
+  },
+  "IDN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://en.tempo.co/read/2118513/japan-to-send-3-helicopters-to-help-indonesia-battle-wildfires",
     "event_codes": {
       "19": 4,
-      "17": 1
+      "17": 2
     },
     "keywords": [
-      "articles",
-      "272957",
-      "20260828",
-      "israel",
-      "kills",
-      "hamas",
-      "jenin",
-      "chief",
-      "rare",
-      "west",
-      "bank",
-      "drone",
-      "strike",
-      "declares",
-      "camp",
-      "occupied.htm"
+      "read",
+      "2118513",
+      "japan",
+      "send",
+      "helicopters",
+      "help",
+      "indonesia",
+      "battle",
+      "wildfires"
     ]
   },
-  "NER": {
-    "risk_score": 2.8,
+  "ISR": {
+    "risk_score": 3.9,
     "count": 4,
-    "top_news": "https://local21news.com/news/local/man-in-custody-for-sexual-assault-charges-face-potential-deportation-police-camp-hill-police-department-unlawful-restraint-false-imprisonment-bar-harrisburg",
+    "top_news": "https://aa.com.tr/en/world/morning-briefing-aug-29-2026/4040730",
     "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "local",
-      "man",
-      "custody",
-      "for",
-      "sexual",
-      "assault",
-      "charges",
-      "face",
-      "potential",
-      "deportation",
-      "police",
-      "camp",
-      "hill",
-      "police",
-      "department",
-      "unlawful",
-      "restraint",
-      "false",
-      "imprisonment",
-      "bar",
-      "harrisburg"
-    ]
-  },
-  "NGA": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://theeagleonline.com.ng/troops-%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0%E2%81%A0rescue-34-abd/",
-    "event_codes": {
-      "19": 7,
       "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "troops",
-      "%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0%e2%81%a0rescue",
-      "abd"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.hngn.com/articles/272957/20260828/israel-kills-hamas-jenin-chief-rare-west-bank-drone-strike-declares-camp-occupied.htm",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "articles",
-      "272957",
-      "20260828",
-      "israel",
-      "kills",
-      "hamas",
-      "jenin",
-      "chief",
-      "rare",
-      "west",
-      "bank",
-      "drone",
-      "strike",
-      "declares",
-      "camp",
-      "occupied.htm"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.breitbart.com/national-security/2026/08/27/syrias-jihadi-president-pays-for-coffee-with-visa-card-marking-end-of-assad-era-sanctions/",
-    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "national",
-      "security",
+      "world",
+      "morning",
+      "briefing",
+      "aug",
       "2026",
-      "syrias",
-      "jihadi",
-      "president",
-      "pays",
-      "for",
-      "coffee",
-      "with",
-      "visa",
-      "card",
-      "marking",
-      "end",
-      "assad",
-      "era",
-      "sanctions"
+      "4040730"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.92,
+    "count": 9,
+    "top_news": "https://www.wallpaper.com/architecture/residential/kemi-lawson-house-proud-book",
+    "event_codes": {
+      "17": 9
+    },
+    "keywords": [
+      "architecture",
+      "residential",
+      "kemi",
+      "lawson",
+      "house",
+      "proud",
+      "book"
     ]
   }
 }
