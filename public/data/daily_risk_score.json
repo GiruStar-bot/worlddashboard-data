@@ -1,101 +1,54 @@
 {
   "IRN": {
-    "risk_score": 5.0,
+    "risk_score": 4.6,
     "count": 5,
-    "top_news": "https://www.arabnews.com/node/2656362/middle-east",
+    "top_news": "https://www.jpost.com/middle-east/iran-news/article-907079",
     "event_codes": {
-      "19": 5
+      "19": 3,
+      "16": 2
     },
     "keywords": [
-      "node",
-      "2656362",
       "middle",
-      "east"
+      "east",
+      "iran",
+      "news",
+      "article",
+      "907079"
     ]
   },
   "ISR": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.arabnews.com/node/2656367/middle-east",
+    "top_news": "https://devpolicy.org/august-2026-aid-news/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "node",
-      "2656367",
-      "middle",
-      "east"
+      "august",
+      "2026",
+      "aid",
+      "news"
     ]
   },
-  "PSE": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.arabnews.com/node/2656361/middle-east",
+  "NGA": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://dailytrust.com/atiku-no-good-father-heads-for-the-airport-when-his-house-is-on-fire/",
     "event_codes": {
-      "19": 6
+      "19": 5
     },
     "keywords": [
-      "node",
-      "2656361",
-      "middle",
-      "east"
-    ]
-  },
-  "SOM": {
-    "risk_score": 7.54,
-    "count": 11,
-    "top_news": "https://wardheernews.com/fierce-fighting-near-balcad-highlights-somalias-struggle-to-dislodge-al-shabaab/",
-    "event_codes": {
-      "15": 7,
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "fierce",
-      "fighting",
-      "near",
-      "balcad",
-      "highlights",
-      "somalias",
-      "struggle",
-      "dislodge",
-      "shabaab"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.5,
-    "count": 7,
-    "top_news": "https://www.arabnews.com/node/2656369/middle-east",
-    "event_codes": {
-      "17": 5,
-      "19": 2
-    },
-    "keywords": [
-      "node",
-      "2656369",
-      "middle",
-      "east"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://wardheernews.com/puntland-challenges-mogadishus-rescue-claim-over-mv-lutuf-alleges-ransom-deal/",
-    "event_codes": {
-      "17": 3,
-      "19": 1
-    },
-    "keywords": [
-      "puntland",
-      "challenges",
-      "mogadishus",
-      "rescue",
-      "claim",
-      "over",
-      "lutuf",
-      "alleges",
-      "ransom",
-      "deal"
+      "atiku",
+      "good",
+      "father",
+      "heads",
+      "for",
+      "the",
+      "airport",
+      "when",
+      "his",
+      "house",
+      "fire"
     ]
   }
 }
