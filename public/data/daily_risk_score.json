@@ -1,96 +1,109 @@
 {
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://hotair.com/headlines/2026/08/29/guadalcanal-campaign-n3818455",
+  "BFA": {
+    "risk_score": 3.42,
+    "count": 6,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/30/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey-witness-says",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "17": 6
     },
     "keywords": [
-      "headlines",
+      "ultime",
+      "notizie",
+      "reuters",
       "2026",
-      "guadalcanal",
-      "campaign",
-      "n3818455"
+      "gunfire",
+      "blasts",
+      "heard",
+      "several",
+      "areas",
+      "niger",
+      "capital",
+      "niamey",
+      "witness",
+      "says"
     ]
   },
   "IRN": {
-    "risk_score": 7.6,
-    "count": 8,
-    "top_news": "https://english.news.cn/20260830/f19803e14a9743a1bb2219a21a02abca/c.html",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://home.nzcity.co.nz/news/article.aspx?id=452971",
     "event_codes": {
-      "19": 6,
-      "16": 2
-    },
-    "keywords": [
-      "20260830",
-      "f19803e14a9743a1bb2219a21a02abca",
-      "c.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 20.28,
-    "count": 23,
-    "top_news": "https://www.northerndailyleader.com.au/story/9339903/netanyahu-condemns-rioters-after-west-bank-violence/",
-    "event_codes": {
-      "19": 16,
-      "15": 4,
-      "17": 2,
-      "16": 1
-    },
-    "keywords": [
-      "story",
-      "9339903",
-      "netanyahu",
-      "condemns",
-      "rioters",
-      "after",
-      "west",
-      "bank",
-      "violence"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/08/30/five-areas-in-swak-worst-hit",
-    "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
       "news",
-      "nation",
-      "2026",
-      "five",
-      "areas",
-      "swak",
-      "worst",
-      "hit"
+      "article.aspx"
     ]
   },
-  "PSE": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.newstalkzb.co.nz/news/world/israeli-settler-attack-on-west-bank-village-draws-rare-rebuke-from-netanyahu/",
+  "ISR": {
+    "risk_score": 5.67,
+    "count": 6,
+    "top_news": "https://www.rnz.co.nz/news/world/1180603/netanyahu-condemns-settler-attack-in-flashpoint-west-bank-village",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "19": 4,
+      "15": 1,
+      "18": 1
     },
     "keywords": [
       "news",
       "world",
-      "israeli",
+      "1180603",
+      "netanyahu",
+      "condemns",
       "settler",
       "attack",
+      "flashpoint",
       "west",
       "bank",
-      "village",
-      "draws",
-      "rare",
-      "rebuke",
-      "from",
-      "netanyahu"
+      "village"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/30/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey-witness-says",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "gunfire",
+      "blasts",
+      "heard",
+      "several",
+      "areas",
+      "niger",
+      "capital",
+      "niamey",
+      "witness",
+      "says"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.16,
+    "count": 5,
+    "top_news": "https://www.thehindu.com/news/international/killing-of-palestinian-children-and-teens-by-israel-surges-in-west-bank/article71406972.ece",
+    "event_codes": {
+      "15": 3,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "international",
+      "killing",
+      "palestinian",
+      "children",
+      "and",
+      "teens",
+      "israel",
+      "surges",
+      "west",
+      "bank",
+      "article71406972.ece"
     ]
   }
 }
