@@ -1,43 +1,101 @@
 {
-  "ARG": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://buenosairesherald.com/human-rights/how-the-discovery-of-2-bodies-could-reveal-the-truth-about-an-indigenous-slaughter",
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/node/2656362/middle-east",
     "event_codes": {
-      "17": 2,
-      "18": 1
+      "19": 5
     },
     "keywords": [
-      "human",
-      "rights",
-      "how",
-      "the",
-      "discovery",
-      "bodies",
-      "could",
-      "reveal",
-      "the",
-      "truth",
-      "about",
-      "indigenous",
-      "slaughter"
+      "node",
+      "2656362",
+      "middle",
+      "east"
     ]
   },
-  "NGA": {
-    "risk_score": 6.4,
-    "count": 7,
-    "top_news": "https://leadership.ng/xenophobic-attacks-enough-is-enough-tinubu-tells-au/",
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/node/2656367/middle-east",
     "event_codes": {
-      "19": 6,
-      "17": 1
+      "19": 4
     },
     "keywords": [
-      "xenophobic",
-      "attacks",
-      "enough",
-      "enough",
-      "tinubu",
-      "tells"
+      "node",
+      "2656367",
+      "middle",
+      "east"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.arabnews.com/node/2656361/middle-east",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "node",
+      "2656361",
+      "middle",
+      "east"
+    ]
+  },
+  "SOM": {
+    "risk_score": 7.54,
+    "count": 11,
+    "top_news": "https://wardheernews.com/fierce-fighting-near-balcad-highlights-somalias-struggle-to-dislodge-al-shabaab/",
+    "event_codes": {
+      "15": 7,
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "fierce",
+      "fighting",
+      "near",
+      "balcad",
+      "highlights",
+      "somalias",
+      "struggle",
+      "dislodge",
+      "shabaab"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.5,
+    "count": 7,
+    "top_news": "https://www.arabnews.com/node/2656369/middle-east",
+    "event_codes": {
+      "17": 5,
+      "19": 2
+    },
+    "keywords": [
+      "node",
+      "2656369",
+      "middle",
+      "east"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://wardheernews.com/puntland-challenges-mogadishus-rescue-claim-over-mv-lutuf-alleges-ransom-deal/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "puntland",
+      "challenges",
+      "mogadishus",
+      "rescue",
+      "claim",
+      "over",
+      "lutuf",
+      "alleges",
+      "ransom",
+      "deal"
     ]
   }
 }
