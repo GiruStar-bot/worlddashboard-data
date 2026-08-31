@@ -1,73 +1,91 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://timesofindia.indiatimes.com/defence/international/us-prsm-missiles-in-iran-strike-killed-civilians-up-to-50-metres-away-report/articleshow/133655651.cms",
+  "COL": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.abc.net.au/news/2026-09-01/aryna-sabalenka-begins-us-open-title-defence-arthur-fils-out/107100648",
     "event_codes": {
-      "19": 3,
-      "16": 2,
-      "18": 1
+      "19": 3
     },
     "keywords": [
+      "news",
+      "2026",
+      "aryna",
+      "sabalenka",
+      "begins",
+      "open",
+      "title",
       "defence",
-      "international",
-      "prsm",
-      "missiles",
-      "iran",
-      "strike",
-      "killed",
-      "civilians",
-      "metres",
-      "away",
-      "report",
-      "articleshow",
-      "133655651.cms"
+      "arthur",
+      "fils",
+      "out",
+      "107100648"
     ]
   },
   "ISR": {
-    "risk_score": 9.5,
-    "count": 10,
-    "top_news": "https://english.wafa.ps/Pages/Details/174254",
-    "event_codes": {
-      "19": 9,
-      "17": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "174254"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.3,
+    "risk_score": 4.9,
     "count": 5,
-    "top_news": "https://www.naturalnews.com/2026-08-31-trump-venezuelan-oil-agreement-is-pure-fantasy.html",
+    "top_news": "https://www.abc.net.au/news/2026-09-01/west-bank-settler-violence-grows-amid-israel-politics/107097946",
     "event_codes": {
-      "17": 3,
+      "19": 3,
       "18": 2
     },
     "keywords": [
+      "news",
       "2026",
-      "trump",
-      "venezuelan",
-      "oil",
-      "agreement",
-      "pure",
-      "fantasy.html"
+      "west",
+      "bank",
+      "settler",
+      "violence",
+      "grows",
+      "amid",
+      "israel",
+      "politics",
+      "107097946"
     ]
   },
-  "YEM": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.arabnews.com/node/2656441/middle-east",
+  "NGA": {
+    "risk_score": 7.05,
+    "count": 8,
+    "top_news": "https://dailypost.ng/2026/08/31/uniport-graduate-police-officers-were-paid-to-kill-my-son-father-alleges/",
     "event_codes": {
-      "19": 7
+      "19": 4,
+      "14": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "node",
-      "2656441",
-      "middle",
-      "east"
+      "2026",
+      "uniport",
+      "graduate",
+      "police",
+      "officers",
+      "were",
+      "paid",
+      "kill",
+      "son",
+      "father",
+      "alleges"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.middleeastmonitor.com/20260831-un-very-concerned-over-gaza-civilian-deaths-as-israel-continues-ceasefire-breaches/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "20260831",
+      "very",
+      "concerned",
+      "over",
+      "gaza",
+      "civilian",
+      "deaths",
+      "israel",
+      "continues",
+      "ceasefire",
+      "breaches"
     ]
   }
 }
