@@ -1,111 +1,73 @@
 {
-  "IDN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/31/indonesian-activists-hail-ruling-to-strike-down-ban-on-insulting-government-but-question-impact",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "indonesian",
-      "activists",
-      "hail",
-      "ruling",
-      "strike",
-      "down",
-      "ban",
-      "insulting",
-      "government",
-      "but",
-      "question",
-      "impact"
-    ]
-  },
   "IRN": {
-    "risk_score": 9.75,
-    "count": 10,
-    "top_news": "https://www.premiumtimesng.com/foreign/906396-us-bombs-irans-larak-island.html",
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://timesofindia.indiatimes.com/defence/international/us-prsm-missiles-in-iran-strike-killed-civilians-up-to-50-metres-away-report/articleshow/133655651.cms",
     "event_codes": {
-      "19": 8,
-      "16": 1,
+      "19": 3,
+      "16": 2,
       "18": 1
     },
     "keywords": [
-      "foreign",
-      "906396",
-      "bombs",
-      "irans",
-      "larak",
-      "island.html"
+      "defence",
+      "international",
+      "prsm",
+      "missiles",
+      "iran",
+      "strike",
+      "killed",
+      "civilians",
+      "metres",
+      "away",
+      "report",
+      "articleshow",
+      "133655651.cms"
     ]
   },
   "ISR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/896558/iran-launches-strikes-on-us-bases-in-middle-east-after-strait-of-hormuz-clash",
+    "risk_score": 9.5,
+    "count": 10,
+    "top_news": "https://english.wafa.ps/Pages/Details/174254",
     "event_codes": {
-      "19": 6
+      "19": 9,
+      "17": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "896558",
-      "iran",
-      "launches",
-      "strikes",
-      "bases",
-      "middle",
-      "east",
-      "after",
-      "strait",
-      "hormuz",
-      "clash"
+      "pages",
+      "details",
+      "174254"
     ]
   },
-  "JOR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://thearabianpost.com/jordan-downs-eight-missiles-as-iran-targets-us-bases/",
+  "VEN": {
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://www.naturalnews.com/2026-08-31-trump-venezuelan-oil-agreement-is-pure-fantasy.html",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "17": 3,
+      "18": 2
     },
     "keywords": [
-      "jordan",
-      "downs",
-      "eight",
-      "missiles",
-      "iran",
-      "targets",
-      "bases"
-    ]
-  },
-  "VNM": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/31/vietnam-arrests-hands-over-three-south-koreans-wanted-by-interpol",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
       "2026",
-      "vietnam",
-      "arrests",
-      "hands",
-      "over",
-      "three",
-      "south",
-      "koreans",
-      "wanted",
-      "interpol"
+      "trump",
+      "venezuelan",
+      "oil",
+      "agreement",
+      "pure",
+      "fantasy.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.arabnews.com/node/2656441/middle-east",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "node",
+      "2656441",
+      "middle",
+      "east"
     ]
   }
 }
