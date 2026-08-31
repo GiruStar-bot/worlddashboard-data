@@ -1,19 +1,111 @@
 {
-  "IRN": {
-    "risk_score": 10.1,
-    "count": 11,
-    "top_news": "https://www.fitsnews.com/2026/08/30/the-iran-war-is-back/",
+  "IDN": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/31/indonesian-activists-hail-ruling-to-strike-down-ban-on-insulting-government-but-question-impact",
     "event_codes": {
-      "19": 8,
-      "16": 2,
-      "17": 1
+      "17": 2,
+      "19": 1
     },
     "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
       "2026",
-      "the",
+      "indonesian",
+      "activists",
+      "hail",
+      "ruling",
+      "strike",
+      "down",
+      "ban",
+      "insulting",
+      "government",
+      "but",
+      "question",
+      "impact"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.75,
+    "count": 10,
+    "top_news": "https://www.premiumtimesng.com/foreign/906396-us-bombs-irans-larak-island.html",
+    "event_codes": {
+      "19": 8,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "foreign",
+      "906396",
+      "bombs",
+      "irans",
+      "larak",
+      "island.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/896558/iran-launches-strikes-on-us-bases-in-middle-east-after-strait-of-hormuz-clash",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "896558",
       "iran",
-      "war",
-      "back"
+      "launches",
+      "strikes",
+      "bases",
+      "middle",
+      "east",
+      "after",
+      "strait",
+      "hormuz",
+      "clash"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://thearabianpost.com/jordan-downs-eight-missiles-as-iran-targets-us-bases/",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "jordan",
+      "downs",
+      "eight",
+      "missiles",
+      "iran",
+      "targets",
+      "bases"
+    ]
+  },
+  "VNM": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/31/vietnam-arrests-hands-over-three-south-koreans-wanted-by-interpol",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "aseanplus",
+      "aseanplus",
+      "news",
+      "2026",
+      "vietnam",
+      "arrests",
+      "hands",
+      "over",
+      "three",
+      "south",
+      "koreans",
+      "wanted",
+      "interpol"
     ]
   }
 }
