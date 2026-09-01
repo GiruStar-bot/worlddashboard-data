@@ -1,95 +1,82 @@
 {
-  "CHL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/who-is-sarah-lindsey-santiago-north-carolina-student-charged-with-murder-in-deadly-san-diego-mosque-shooting-101788277304082.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "news",
-      "news",
-      "who",
-      "sarah",
-      "lindsey",
-      "santiago",
-      "north",
-      "carolina",
-      "student",
-      "charged",
-      "with",
-      "murder",
-      "deadly",
-      "san",
-      "diego",
-      "mosque",
-      "shooting",
-      "101788277304082.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 8.32,
-    "count": 9,
-    "top_news": "https://www.middleeasteye.net/news/us-army-secretary-resigns-amid-signs-pentagon-unease-iran-war",
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://crooksandliars.com/2026/09/hegseth-finds-time-mock-female-canadian",
     "event_codes": {
-      "19": 6,
-      "16": 2,
-      "15": 1
-    },
-    "keywords": [
-      "news",
-      "army",
-      "secretary",
-      "resigns",
-      "amid",
-      "signs",
-      "pentagon",
-      "unease",
-      "iran",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.25,
-    "count": 11,
-    "top_news": "https://www.christianpost.com/news/16m-stolen-from-umc-regional-body-through-cyberattack.html",
-    "event_codes": {
-      "19": 9,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "16m",
-      "stolen",
-      "from",
-      "umc",
-      "regional",
-      "body",
-      "through",
-      "cyberattack.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 7.6,
-    "count": 11,
-    "top_news": "https://dailypost.ng/2026/09/01/police-arrest-six-over-alleged-vandalism-theft-of-electricity-pole-in-osun/",
-    "event_codes": {
-      "17": 11
+      "19": 16
     },
     "keywords": [
       "2026",
+      "hegseth",
+      "finds",
+      "time",
+      "mock",
+      "female",
+      "canadian"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/09/01/white-house-details-venezuela-oil-deal-as-gas-prices-remain-high",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "and",
+      "world",
+      "2026",
+      "white",
+      "house",
+      "details",
+      "venezuela",
+      "oil",
+      "deal",
+      "gas",
+      "prices",
+      "remain",
+      "high"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.7,
+    "count": 7,
+    "top_news": "https://www.cbc.ca/news/world/gaza-israel-hamas-war-9.7328154",
+    "event_codes": {
+      "16": 3,
+      "14": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "gaza",
+      "israel",
+      "hamas",
+      "war",
+      "9.7328154"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.52,
+    "count": 6,
+    "top_news": "https://dailytrust.com/police-beef-up-security-in-kano-deploy-250-officers-to-border-lgas/",
+    "event_codes": {
+      "17": 3,
+      "14": 2,
+      "15": 1
+    },
+    "keywords": [
       "police",
-      "arrest",
-      "six",
-      "over",
-      "alleged",
-      "vandalism",
-      "theft",
-      "electricity",
-      "pole",
-      "osun"
+      "beef",
+      "security",
+      "kano",
+      "deploy",
+      "250",
+      "officers",
+      "border",
+      "lgas"
     ]
   }
 }
