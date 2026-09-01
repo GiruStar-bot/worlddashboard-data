@@ -1,48 +1,95 @@
 {
-  "IRN": {
-    "risk_score": 2.8,
-    "count": 5,
-    "top_news": "https://www.cbc.ca/news/world/saudi-oil-tankers-strait-of-hormuz-hit-9.7327688",
+  "CHL": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/who-is-sarah-lindsey-santiago-north-carolina-student-charged-with-murder-in-deadly-san-diego-mosque-shooting-101788277304082.html",
     "event_codes": {
-      "16": 5
-    },
-    "keywords": [
-      "news",
-      "world",
-      "saudi",
-      "oil",
-      "tankers",
-      "strait",
-      "hormuz",
-      "hit",
-      "9.7327688"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.42,
-    "count": 8,
-    "top_news": "https://www.clickondetroit.com/news/world/2026/09/01/irans-president-says-iran-would-return-to-ceasefire-agreement-if-us-does-and-other-mideast-news/",
-    "event_codes": {
-      "17": 6,
       "19": 2
     },
     "keywords": [
-      "news",
       "world",
-      "2026",
-      "irans",
-      "president",
-      "says",
+      "news",
+      "news",
+      "who",
+      "sarah",
+      "lindsey",
+      "santiago",
+      "north",
+      "carolina",
+      "student",
+      "charged",
+      "with",
+      "murder",
+      "deadly",
+      "san",
+      "diego",
+      "mosque",
+      "shooting",
+      "101788277304082.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 8.32,
+    "count": 9,
+    "top_news": "https://www.middleeasteye.net/news/us-army-secretary-resigns-amid-signs-pentagon-unease-iran-war",
+    "event_codes": {
+      "19": 6,
+      "16": 2,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "army",
+      "secretary",
+      "resigns",
+      "amid",
+      "signs",
+      "pentagon",
+      "unease",
       "iran",
-      "would",
-      "return",
-      "ceasefire",
-      "agreement",
-      "does",
-      "and",
-      "other",
-      "mideast",
-      "news"
+      "war"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.25,
+    "count": 11,
+    "top_news": "https://www.christianpost.com/news/16m-stolen-from-umc-regional-body-through-cyberattack.html",
+    "event_codes": {
+      "19": 9,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "16m",
+      "stolen",
+      "from",
+      "umc",
+      "regional",
+      "body",
+      "through",
+      "cyberattack.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.6,
+    "count": 11,
+    "top_news": "https://dailypost.ng/2026/09/01/police-arrest-six-over-alleged-vandalism-theft-of-electricity-pole-in-osun/",
+    "event_codes": {
+      "17": 11
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "arrest",
+      "six",
+      "over",
+      "alleged",
+      "vandalism",
+      "theft",
+      "electricity",
+      "pole",
+      "osun"
     ]
   }
 }
