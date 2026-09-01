@@ -1,82 +1,114 @@
 {
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.sott.net/article/508192-The-historical-fascists-are-preparing-to-take-their-revenge",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "article",
+      "508192",
+      "the",
+      "historical",
+      "fascists",
+      "are",
+      "preparing",
+      "take",
+      "their",
+      "revenge"
+    ]
+  },
   "IRN": {
-    "risk_score": 16.0,
-    "count": 16,
-    "top_news": "https://crooksandliars.com/2026/09/hegseth-finds-time-mock-female-canadian",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://lancasteronline.com/news/world/us-strikes-iran-and-tehran-fires-back-as-hostilities-flare-again/article_9d25aa80-f48b-514a-afc5-ac73d7ce3d2e.html",
     "event_codes": {
-      "19": 16
+      "19": 3
     },
     "keywords": [
-      "2026",
-      "hegseth",
-      "finds",
-      "time",
-      "mock",
-      "female",
-      "canadian"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/09/01/white-house-details-venezuela-oil-deal-as-gas-prices-remain-high",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "and",
+      "news",
       "world",
-      "2026",
-      "white",
-      "house",
-      "details",
-      "venezuela",
-      "oil",
-      "deal",
-      "gas",
-      "prices",
-      "remain",
-      "high"
+      "strikes",
+      "iran",
+      "and",
+      "tehran",
+      "fires",
+      "back",
+      "hostilities",
+      "flare",
+      "again",
+      "article",
+      "9d25aa80",
+      "f48b",
+      "514a",
+      "afc5",
+      "ac73d7ce3d2e.html"
     ]
   },
-  "ISR": {
-    "risk_score": 5.7,
-    "count": 7,
-    "top_news": "https://www.cbc.ca/news/world/gaza-israel-hamas-war-9.7328154",
+  "JOR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "http://www.bignewsnetwork.com/news/279280283/jordan-armed-forces-dealt-with-13-ballistic-missiles-launched-from-iran",
     "event_codes": {
-      "16": 3,
-      "14": 2,
+      "19": 6
+    },
+    "keywords": [
+      "news",
+      "279280283",
+      "jordan",
+      "armed",
+      "forces",
+      "dealt",
+      "with",
+      "ballistic",
+      "missiles",
+      "launched",
+      "from",
+      "iran"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://lancasteronline.com/news/world/us-strikes-iran-and-tehran-fires-back-as-hostilities-flare-again/article_9d25aa80-f48b-514a-afc5-ac73d7ce3d2e.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
       "world",
-      "gaza",
-      "israel",
-      "hamas",
-      "war",
-      "9.7328154"
+      "strikes",
+      "iran",
+      "and",
+      "tehran",
+      "fires",
+      "back",
+      "hostilities",
+      "flare",
+      "again",
+      "article",
+      "9d25aa80",
+      "f48b",
+      "514a",
+      "afc5",
+      "ac73d7ce3d2e.html"
     ]
   },
-  "NGA": {
-    "risk_score": 3.52,
-    "count": 6,
-    "top_news": "https://dailytrust.com/police-beef-up-security-in-kano-deploy-250-officers-to-border-lgas/",
+  "THA": {
+    "risk_score": 7.45,
+    "count": 9,
+    "top_news": "https://www.chiangraitimes.com/crime/police-arrest-stepfather/",
     "event_codes": {
-      "17": 3,
-      "14": 2,
-      "15": 1
+      "19": 5,
+      "14": 3,
+      "17": 1
     },
     "keywords": [
+      "crime",
       "police",
-      "beef",
-      "security",
-      "kano",
-      "deploy",
-      "250",
-      "officers",
-      "border",
-      "lgas"
+      "arrest",
+      "stepfather"
     ]
   }
 }
