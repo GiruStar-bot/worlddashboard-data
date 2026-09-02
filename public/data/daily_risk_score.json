@@ -1,150 +1,93 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.prokerala.com/news/articles/a1807636.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1807636.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 19.0,
-    "count": 19,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/09/02/israel-says-prepared-to-respond-with-great-force-if-iran-attacks",
-    "event_codes": {
-      "19": 19
-    },
-    "keywords": [
-      "category",
-      "world",
-      "2026",
-      "israel",
-      "says",
-      "prepared",
-      "respond",
-      "with",
-      "great",
-      "force",
-      "iran",
-      "attacks"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.72,
+    "risk_score": 4.4,
     "count": 5,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/09/02/israel-says-prepared-to-respond-with-great-force-if-iran-attacks",
+    "top_news": "https://newsradio540.iheart.com/content/2026-09-02-iran-retaliates-against-new-us-strikes/",
     "event_codes": {
       "19": 4,
-      "15": 1
+      "16": 1
     },
     "keywords": [
-      "category",
-      "world",
+      "content",
       "2026",
-      "israel",
-      "says",
-      "prepared",
-      "respond",
-      "with",
-      "great",
-      "force",
       "iran",
-      "attacks"
+      "retaliates",
+      "against",
+      "new",
+      "strikes"
     ]
   },
-  "JOR": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/09/02/iran-attacks-us-sites-after-american-strikes-wedding-deaths",
+    "top_news": "https://www.dailysabah.com/world/mid-east/iran-hits-us-sites-in-gulf-after-american-strikes-kill-4-at-wedding",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "category",
       "world",
-      "2026",
+      "mid",
+      "east",
       "iran",
-      "attacks",
+      "hits",
       "sites",
+      "gulf",
       "after",
       "american",
       "strikes",
-      "wedding",
-      "deaths"
+      "kill",
+      "wedding"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.wdsu.com/article/trump-threatens-iran-more-strikes/73589241",
+  "ISR": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://www.jewishtimes.com/opinion-hell-no-we-wont-go/",
     "event_codes": {
-      "19": 2
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "article",
-      "trump",
-      "threatens",
-      "iran",
-      "more",
-      "strikes",
-      "73589241"
+      "opinion",
+      "hell",
+      "wont"
     ]
   },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://radioislam.org.za/a/abductions-in-nigeria-2/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "abductions",
-      "nigeria"
-    ]
-  },
-  "SGP": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/02/singapore-based-tiktoker-lev-panfilov-cleared-of-raping-woman-due-to-inconsistencies-in-her-testimony",
-    "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
-      "2026",
-      "singapore",
-      "based",
-      "tiktoker",
-      "lev",
-      "panfilov",
-      "cleared",
-      "raping",
-      "woman",
-      "due",
-      "inconsistencies",
-      "her",
-      "testimony"
-    ]
-  },
-  "THA": {
+  "JOR": {
     "risk_score": 4.0,
-    "count": 8,
-    "top_news": "https://www.prokerala.com/news/articles/a1807632.html",
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/world/mid-east/iran-hits-us-sites-in-gulf-after-american-strikes-kill-4-at-wedding",
     "event_codes": {
-      "17": 8
+      "19": 4
     },
     "keywords": [
-      "news",
-      "articles",
-      "a1807632.html"
+      "world",
+      "mid",
+      "east",
+      "iran",
+      "hits",
+      "sites",
+      "gulf",
+      "after",
+      "american",
+      "strikes",
+      "kill",
+      "wedding"
+    ]
+  },
+  "SYR": {
+    "risk_score": 8.0,
+    "count": 9,
+    "top_news": "https://syriauntold.com/2026/09/02/a-syrian-gestapo/",
+    "event_codes": {
+      "19": 7,
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "syrian",
+      "gestapo"
     ]
   }
 }
