@@ -1,59 +1,59 @@
 {
-  "IRN": {
-    "risk_score": 21.2,
-    "count": 22,
-    "top_news": "https://www.thenationalnews.com/news/gulf/2026/09/02/iran-attacks-gulf-neighbours-as-fighting-with-us-expands/",
+  "CHL": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.kold.com/2026/09/02/third-suspect-shooting-tpd-recruit-arrested/",
     "event_codes": {
-      "19": 20,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "gulf",
-      "2026",
-      "iran",
-      "attacks",
-      "gulf",
-      "neighbours",
-      "fighting",
-      "with",
-      "expands"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.5,
-    "count": 16,
-    "top_news": "http://www.jpost.com/israel-news/article-907363",
-    "event_codes": {
-      "14": 7,
-      "19": 5,
-      "17": 2,
-      "20": 2
-    },
-    "keywords": [
-      "israel",
-      "news",
-      "article",
-      "907363"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.5,
-    "count": 7,
-    "top_news": "https://thesun.ng/rivers-police-dismiss-4-officer-over-fatal-shooting-of-student/",
-    "event_codes": {
-      "19": 6,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "rivers",
-      "police",
-      "dismiss",
-      "officer",
-      "over",
-      "fatal",
+      "2026",
+      "third",
+      "suspect",
       "shooting",
-      "student"
+      "tpd",
+      "recruit",
+      "arrested"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.usforacle.com/2026/09/02/veteran-founded-pop-culture-convention-to-tampa/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "veteran",
+      "founded",
+      "pop",
+      "culture",
+      "convention",
+      "tampa"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village/",
+    "event_codes": {
+      "18": 4,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "two",
+      "palestinian",
+      "killed",
+      "settlers",
+      "israeli",
+      "forces",
+      "raid",
+      "west",
+      "bank",
+      "village"
     ]
   }
 }
