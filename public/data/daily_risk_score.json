@@ -1,93 +1,59 @@
 {
   "IRN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://newsradio540.iheart.com/content/2026-09-02-iran-retaliates-against-new-us-strikes/",
+    "risk_score": 21.2,
+    "count": 22,
+    "top_news": "https://www.thenationalnews.com/news/gulf/2026/09/02/iran-attacks-gulf-neighbours-as-fighting-with-us-expands/",
     "event_codes": {
-      "19": 4,
-      "16": 1
-    },
-    "keywords": [
-      "content",
-      "2026",
-      "iran",
-      "retaliates",
-      "against",
-      "new",
-      "strikes"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/world/mid-east/iran-hits-us-sites-in-gulf-after-american-strikes-kill-4-at-wedding",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "iran",
-      "hits",
-      "sites",
-      "gulf",
-      "after",
-      "american",
-      "strikes",
-      "kill",
-      "wedding"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.35,
-    "count": 3,
-    "top_news": "https://www.jewishtimes.com/opinion-hell-no-we-wont-go/",
-    "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
-      "hell",
-      "wont"
-    ]
-  },
-  "JOR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/world/mid-east/iran-hits-us-sites-in-gulf-after-american-strikes-kill-4-at-wedding",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "world",
-      "mid",
-      "east",
-      "iran",
-      "hits",
-      "sites",
-      "gulf",
-      "after",
-      "american",
-      "strikes",
-      "kill",
-      "wedding"
-    ]
-  },
-  "SYR": {
-    "risk_score": 8.0,
-    "count": 9,
-    "top_news": "https://syriauntold.com/2026/09/02/a-syrian-gestapo/",
-    "event_codes": {
-      "19": 7,
+      "19": 20,
       "17": 2
     },
     "keywords": [
+      "news",
+      "gulf",
       "2026",
-      "syrian",
-      "gestapo"
+      "iran",
+      "attacks",
+      "gulf",
+      "neighbours",
+      "fighting",
+      "with",
+      "expands"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.5,
+    "count": 16,
+    "top_news": "http://www.jpost.com/israel-news/article-907363",
+    "event_codes": {
+      "14": 7,
+      "19": 5,
+      "17": 2,
+      "20": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "907363"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.5,
+    "count": 7,
+    "top_news": "https://thesun.ng/rivers-police-dismiss-4-officer-over-fatal-shooting-of-student/",
+    "event_codes": {
+      "19": 6,
+      "17": 1
+    },
+    "keywords": [
+      "rivers",
+      "police",
+      "dismiss",
+      "officer",
+      "over",
+      "fatal",
+      "shooting",
+      "student"
     ]
   }
 }
