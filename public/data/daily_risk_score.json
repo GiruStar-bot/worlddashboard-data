@@ -1,95 +1,84 @@
 {
-  "BFA": {
+  "IRN": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://voiceofvienna.org/iran-condemns-us-strike-on-wedding-in-sirik/",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "condemns",
+      "strike",
+      "wedding",
+      "sirik"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.42,
+    "count": 19,
+    "top_news": "https://www.middleeasteye.net/news/ben-gvir-set-unveil-20-billion-plan-ethnically-cleanse-gaza-within-seven-years",
+    "event_codes": {
+      "17": 5,
+      "19": 5,
+      "16": 3,
+      "14": 2,
+      "18": 2,
+      "20": 2
+    },
+    "keywords": [
+      "news",
+      "ben",
+      "gvir",
+      "set",
+      "unveil",
+      "billion",
+      "plan",
+      "ethnically",
+      "cleanse",
+      "gaza",
+      "within",
+      "seven",
+      "years"
+    ]
+  },
+  "KWT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://warontherocks.com/russias-road-to-el-dorado/",
+    "top_news": "https://www.ibtimes.co.uk/trump-considers-ending-iran-war-1817752",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "russias",
-      "road",
-      "dorado"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://news.az/news/iran-claims-missile-drone-strikes-on-us-bases-in-kuwait-uae",
-    "event_codes": {
-      "19": 4,
-      "18": 1
-    },
-    "keywords": [
-      "news",
+      "trump",
+      "considers",
+      "ending",
       "iran",
-      "claims",
-      "missile",
-      "drone",
-      "strikes",
-      "bases",
-      "kuwait",
-      "uae"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.2,
-    "count": 5,
-    "top_news": "https://nation.africa/kenya/news/how-nairobi-meeting-ended-afghan-general-s-alleged-drug-weapons-trade-5581936",
-    "event_codes": {
-      "16": 3,
-      "17": 2
-    },
-    "keywords": [
-      "kenya",
-      "news",
-      "how",
-      "nairobi",
-      "meeting",
-      "ended",
-      "afghan",
-      "general",
-      "alleged",
-      "drug",
-      "weapons",
-      "trade",
-      "5581936"
+      "war",
+      "1817752"
     ]
   },
   "NGA": {
-    "risk_score": 8.18,
+    "risk_score": 5.5,
     "count": 10,
-    "top_news": "https://dailypost.ng/2026/09/03/atiku-obi-rufai-oseni-urges-tinubu-to-be-cautious-with-wike/",
+    "top_news": "https://thesun.ng/how-police-nabbed-three-suspected-armed-robbers-carjackers-recovered-guns-in-lagos/",
     "event_codes": {
-      "15": 4,
-      "19": 4,
-      "14": 2
-    },
-    "keywords": [
-      "2026",
-      "atiku",
-      "obi",
-      "rufai",
-      "oseni",
-      "urges",
-      "tinubu",
-      "cautious",
-      "with",
-      "wike"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://warontherocks.com/russias-road-to-el-dorado/",
-    "event_codes": {
-      "17": 3,
+      "17": 9,
       "19": 1
     },
     "keywords": [
-      "russias",
-      "road",
-      "dorado"
+      "how",
+      "police",
+      "nabbed",
+      "three",
+      "suspected",
+      "armed",
+      "robbers",
+      "carjackers",
+      "recovered",
+      "guns",
+      "lagos"
     ]
   }
 }
