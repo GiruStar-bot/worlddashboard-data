@@ -1,150 +1,118 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.castanetkamloops.net/news/Oliver-Osoyoos/630066/Father-speaks-at-Edmonton-sentencing-hearing-after-11-year-old-Osoyoos-boy-killed-by-dogs",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "oliver",
-      "osoyoos",
-      "630066",
-      "father",
-      "speaks",
-      "edmonton",
-      "sentencing",
-      "hearing",
-      "after",
-      "year",
-      "old",
-      "osoyoos",
-      "boy",
-      "killed",
-      "dogs"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.cubaheadlines.com/articles/339414",
+    "risk_score": 9.9,
+    "count": 10,
+    "top_news": "https://en.apa.az/social/media-us-military-operation-against-iran-could-extend-into-2027-522657",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 10
     },
     "keywords": [
-      "articles",
-      "339414"
+      "social",
+      "media",
+      "military",
+      "operation",
+      "against",
+      "iran",
+      "could",
+      "extend",
+      "into",
+      "2027",
+      "522657"
     ]
   },
   "ISR": {
-    "risk_score": 15.5,
-    "count": 16,
-    "top_news": "https://honestreporting.com/breaking-the-silence-says-israel-retroactively-invents-its-targets-hamas-says-otherwise/",
+    "risk_score": 2.7,
+    "count": 4,
+    "top_news": "https://yalibnan.com/2026/09/03/lebanons-ali-al-taher-ridge-emerges-as-flashpoint-in-israel-hezbollah-war/",
     "event_codes": {
-      "19": 8,
-      "18": 6,
-      "17": 1,
-      "20": 1
-    },
-    "keywords": [
-      "breaking",
-      "the",
-      "silence",
-      "says",
-      "israel",
-      "retroactively",
-      "invents",
-      "its",
-      "targets",
-      "hamas",
-      "says",
-      "otherwise"
-    ]
-  },
-  "LBN": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.ideastream.org/2026-09-02/iran-fires-on-its-gulf-neighbors-retaliating-for-u-s-strikes-after-a-monthlong-lull",
-    "event_codes": {
-      "19": 5
+      "16": 2,
+      "19": 2
     },
     "keywords": [
       "2026",
-      "iran",
-      "fires",
-      "its",
-      "gulf",
-      "neighbors",
-      "retaliating",
-      "for",
-      "strikes",
-      "after",
-      "monthlong",
-      "lull"
+      "lebanons",
+      "ali",
+      "taher",
+      "ridge",
+      "emerges",
+      "flashpoint",
+      "israel",
+      "hezbollah",
+      "war"
     ]
   },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://punchng.com/lessons-for-nigeria-from-africas-artisanal-mining-disasters/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "lessons",
-      "for",
-      "nigeria",
-      "from",
-      "africas",
-      "artisanal",
-      "mining",
-      "disasters"
-    ]
-  },
-  "PSE": {
+  "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village",
+    "top_news": "http://www.caribbeanherald.com/news/279283042/kuwait-says-air-defenses-intercept-missile-drone-attacks",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "two",
-      "palestinian",
-      "killed",
-      "settlers",
-      "israeli",
-      "forces",
-      "raid",
-      "west",
-      "bank",
-      "village"
+      "279283042",
+      "kuwait",
+      "says",
+      "air",
+      "defenses",
+      "intercept",
+      "missile",
+      "drone",
+      "attacks"
     ]
   },
-  "SYR": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://yalibnan.com/2026/09/03/israel-assassinated-assads-nuclear-adviser-in-daring-commando-operation-pm-olmert-reveals/",
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.apa.az/asia/iran-attacks-us-bases-in-kuwait-with-missiles-and-drones-522653",
     "event_codes": {
-      "19": 5,
-      "18": 1
+      "19": 2
+    },
+    "keywords": [
+      "asia",
+      "iran",
+      "attacks",
+      "bases",
+      "kuwait",
+      "with",
+      "missiles",
+      "and",
+      "drones",
+      "522653"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://yalibnan.com/2026/09/03/lebanons-ali-al-taher-ridge-emerges-as-flashpoint-in-israel-hezbollah-war/",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "2026",
+      "lebanons",
+      "ali",
+      "taher",
+      "ridge",
+      "emerges",
+      "flashpoint",
       "israel",
-      "assassinated",
-      "assads",
-      "nuclear",
-      "adviser",
-      "daring",
-      "commando",
-      "operation",
-      "olmert",
-      "reveals"
+      "hezbollah",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.65,
+    "count": 6,
+    "top_news": "https://allafrica.com/stories/202609030064.html",
+    "event_codes": {
+      "18": 3,
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "stories",
+      "202609030064.html"
     ]
   }
 }
