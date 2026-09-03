@@ -1,118 +1,95 @@
 {
-  "IRN": {
-    "risk_score": 9.9,
-    "count": 10,
-    "top_news": "https://en.apa.az/social/media-us-military-operation-against-iran-could-extend-into-2027-522657",
-    "event_codes": {
-      "19": 10
-    },
-    "keywords": [
-      "social",
-      "media",
-      "military",
-      "operation",
-      "against",
-      "iran",
-      "could",
-      "extend",
-      "into",
-      "2027",
-      "522657"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://yalibnan.com/2026/09/03/lebanons-ali-al-taher-ridge-emerges-as-flashpoint-in-israel-hezbollah-war/",
-    "event_codes": {
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "lebanons",
-      "ali",
-      "taher",
-      "ridge",
-      "emerges",
-      "flashpoint",
-      "israel",
-      "hezbollah",
-      "war"
-    ]
-  },
-  "JOR": {
+  "BFA": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.caribbeanherald.com/news/279283042/kuwait-says-air-defenses-intercept-missile-drone-attacks",
+    "top_news": "https://warontherocks.com/russias-road-to-el-dorado/",
     "event_codes": {
       "19": 2
+    },
+    "keywords": [
+      "russias",
+      "road",
+      "dorado"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://news.az/news/iran-claims-missile-drone-strikes-on-us-bases-in-kuwait-uae",
+    "event_codes": {
+      "19": 4,
+      "18": 1
     },
     "keywords": [
       "news",
-      "279283042",
-      "kuwait",
-      "says",
-      "air",
-      "defenses",
-      "intercept",
+      "iran",
+      "claims",
       "missile",
       "drone",
-      "attacks"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://en.apa.az/asia/iran-attacks-us-bases-in-kuwait-with-missiles-and-drones-522653",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "asia",
-      "iran",
-      "attacks",
+      "strikes",
       "bases",
       "kuwait",
-      "with",
-      "missiles",
-      "and",
-      "drones",
-      "522653"
+      "uae"
     ]
   },
-  "LBN": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://yalibnan.com/2026/09/03/lebanons-ali-al-taher-ridge-emerges-as-flashpoint-in-israel-hezbollah-war/",
+  "KEN": {
+    "risk_score": 2.2,
+    "count": 5,
+    "top_news": "https://nation.africa/kenya/news/how-nairobi-meeting-ended-afghan-general-s-alleged-drug-weapons-trade-5581936",
     "event_codes": {
-      "19": 3
+      "16": 3,
+      "17": 2
     },
     "keywords": [
-      "2026",
-      "lebanons",
-      "ali",
-      "taher",
-      "ridge",
-      "emerges",
-      "flashpoint",
-      "israel",
-      "hezbollah",
-      "war"
+      "kenya",
+      "news",
+      "how",
+      "nairobi",
+      "meeting",
+      "ended",
+      "afghan",
+      "general",
+      "alleged",
+      "drug",
+      "weapons",
+      "trade",
+      "5581936"
     ]
   },
   "NGA": {
-    "risk_score": 4.65,
-    "count": 6,
-    "top_news": "https://allafrica.com/stories/202609030064.html",
+    "risk_score": 8.18,
+    "count": 10,
+    "top_news": "https://dailypost.ng/2026/09/03/atiku-obi-rufai-oseni-urges-tinubu-to-be-cautious-with-wike/",
     "event_codes": {
-      "18": 3,
-      "17": 2,
+      "15": 4,
+      "19": 4,
+      "14": 2
+    },
+    "keywords": [
+      "2026",
+      "atiku",
+      "obi",
+      "rufai",
+      "oseni",
+      "urges",
+      "tinubu",
+      "cautious",
+      "with",
+      "wike"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.7,
+    "count": 4,
+    "top_news": "https://warontherocks.com/russias-road-to-el-dorado/",
+    "event_codes": {
+      "17": 3,
       "19": 1
     },
     "keywords": [
-      "stories",
-      "202609030064.html"
+      "russias",
+      "road",
+      "dorado"
     ]
   }
 }
