@@ -1,84 +1,92 @@
 {
-  "IRN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://voiceofvienna.org/iran-condemns-us-strike-on-wedding-in-sirik/",
+  "ISR": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.jns.org/opinion/marcia-bronstein/taking-stock-of-rosh-hashanah-for-the-next-generation",
     "event_codes": {
-      "19": 4,
+      "19": 2,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "iran",
-      "condemns",
-      "strike",
-      "wedding",
-      "sirik"
-    ]
-  },
-  "ISR": {
-    "risk_score": 16.42,
-    "count": 19,
-    "top_news": "https://www.middleeasteye.net/news/ben-gvir-set-unveil-20-billion-plan-ethnically-cleanse-gaza-within-seven-years",
-    "event_codes": {
-      "17": 5,
-      "19": 5,
-      "16": 3,
-      "14": 2,
-      "18": 2,
-      "20": 2
-    },
-    "keywords": [
-      "news",
-      "ben",
-      "gvir",
-      "set",
-      "unveil",
-      "billion",
-      "plan",
-      "ethnically",
-      "cleanse",
-      "gaza",
-      "within",
-      "seven",
-      "years"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ibtimes.co.uk/trump-considers-ending-iran-war-1817752",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "trump",
-      "considers",
-      "ending",
-      "iran",
-      "war",
-      "1817752"
+      "opinion",
+      "marcia",
+      "bronstein",
+      "taking",
+      "stock",
+      "rosh",
+      "hashanah",
+      "for",
+      "the",
+      "next",
+      "generation"
     ]
   },
   "NGA": {
-    "risk_score": 5.5,
-    "count": 10,
-    "top_news": "https://thesun.ng/how-police-nabbed-three-suspected-armed-robbers-carjackers-recovered-guns-in-lagos/",
+    "risk_score": 4.82,
+    "count": 7,
+    "top_news": "https://punchng.com/kwankwaso-mourns-emir-of-gumel/",
     "event_codes": {
-      "17": 9,
+      "17": 5,
+      "19": 2
+    },
+    "keywords": [
+      "kwankwaso",
+      "mourns",
+      "emir",
+      "gumel"
+    ]
+  },
+  "PER": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.cnbcafrica.com/2026/danger-zone-of-extreme-weather-un-warns-of-supersized-el-nino-set-to-hit-global-economy-and-markets",
+    "event_codes": {
+      "17": 4,
       "19": 1
     },
     "keywords": [
-      "how",
-      "police",
-      "nabbed",
-      "three",
-      "suspected",
-      "armed",
-      "robbers",
-      "carjackers",
-      "recovered",
-      "guns",
-      "lagos"
+      "2026",
+      "danger",
+      "zone",
+      "extreme",
+      "weather",
+      "warns",
+      "supersized",
+      "nino",
+      "set",
+      "hit",
+      "global",
+      "economy",
+      "and",
+      "markets"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://english.elpais.com/economy-and-business/2026-09-03/investment-banks-cool-trumps-optimism-venezuelan-oil-will-not-lower-prices.html",
+    "event_codes": {
+      "18": 2,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "economy",
+      "and",
+      "business",
+      "2026",
+      "investment",
+      "banks",
+      "cool",
+      "trumps",
+      "optimism",
+      "venezuelan",
+      "oil",
+      "will",
+      "not",
+      "lower",
+      "prices.html"
     ]
   }
 }
