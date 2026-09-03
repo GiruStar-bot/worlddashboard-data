@@ -1,131 +1,120 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/middle-east/kings-of-jordan-and-bahrain-discuss-latest-developments-in-the-region-3000437",
+  "EGY": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://nassauweekly.com/portraying-a-town/",
     "event_codes": {
-      "19": 2
+      "16": 4
     },
     "keywords": [
-      "middle",
-      "east",
-      "kings",
-      "jordan",
-      "and",
-      "bahrain",
-      "discuss",
-      "latest",
-      "developments",
-      "the",
-      "region",
-      "3000437"
+      "portraying",
+      "town"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.85,
+  "IRN": {
+    "risk_score": 18.35,
+    "count": 19,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/09/03/775614/US-long-record-turning-weddings-funerals--Iran-embassy",
+    "event_codes": {
+      "19": 16,
+      "17": 1,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "775614",
+      "long",
+      "record",
+      "turning",
+      "weddings",
+      "funerals",
+      "iran",
+      "embassy"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.6,
     "count": 3,
-    "top_news": "https://www.iraqinews.com/iraq/iraqi-judiciary-completes-interrogation-of-5700-isis-suspects/",
+    "top_news": "https://dominicanrepublicpost.com/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war/",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "vice",
+      "president",
+      "vance",
+      "declines",
+      "offer",
+      "timeline",
+      "for",
+      "end",
+      "iran",
+      "war"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.al-monitor.com/originals/2026/09/israeli-settler-attacks-mount-trump-avoids-public-pressure-netanyahu",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "iraq",
-      "iraqi",
-      "judiciary",
-      "completes",
-      "interrogation",
-      "5700",
-      "isis",
-      "suspects"
-    ]
-  },
-  "ISR": {
-    "risk_score": 11.09,
-    "count": 12,
-    "top_news": "https://tribuneonlineng.com/two-palestinian-teenagers-killed-during-settler-attack-in-west-bank/",
-    "event_codes": {
-      "19": 6,
-      "17": 2,
-      "20": 2,
-      "15": 1,
-      "18": 1
-    },
-    "keywords": [
-      "two",
-      "palestinian",
-      "teenagers",
-      "killed",
-      "during",
-      "settler",
-      "attack",
-      "west",
-      "bank"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://tribuneonlineng.com/lagos-police-arrest-three-suspected-robbers-recover-guns/",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "lagos",
-      "police",
-      "arrest",
-      "three",
-      "suspected",
-      "robbers",
-      "recover",
-      "guns"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://tribuneonlineng.com/two-palestinian-teenagers-killed-during-settler-attack-in-west-bank/",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "two",
-      "palestinian",
-      "teenagers",
-      "killed",
-      "during",
-      "settler",
-      "attack",
-      "west",
-      "bank"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.82,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/middle-east/syria-destroys-chemical-weapons-for-first-time-since-2014-urges-un-to-rein-in-israeli-strikes-3000403",
-    "event_codes": {
-      "19": 3,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "syria",
-      "destroys",
-      "chemical",
-      "weapons",
-      "for",
-      "first",
-      "time",
-      "since",
-      "2014",
-      "urges",
-      "rein",
+      "originals",
+      "2026",
       "israeli",
-      "strikes",
-      "3000403"
+      "settler",
+      "attacks",
+      "mount",
+      "trump",
+      "avoids",
+      "public",
+      "pressure",
+      "netanyahu"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://dominicanrepublicpost.com/ice-agent-charged-with-lying-under-oath-about-minnesota-shooting/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "ice",
+      "agent",
+      "charged",
+      "with",
+      "lying",
+      "under",
+      "oath",
+      "about",
+      "minnesota",
+      "shooting"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/09/houthi-escalation-western-yemen-kills-13-government-forces-what-know",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "houthi",
+      "escalation",
+      "western",
+      "yemen",
+      "kills",
+      "government",
+      "forces",
+      "what",
+      "know"
     ]
   }
 }
