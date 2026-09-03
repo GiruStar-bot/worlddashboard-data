@@ -1,92 +1,131 @@
 {
-  "ISR": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.jns.org/opinion/marcia-bronstein/taking-stock-of-rosh-hashanah-for-the-next-generation",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/middle-east/kings-of-jordan-and-bahrain-discuss-latest-developments-in-the-region-3000437",
     "event_codes": {
-      "19": 2,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "opinion",
-      "marcia",
-      "bronstein",
-      "taking",
-      "stock",
-      "rosh",
-      "hashanah",
-      "for",
-      "the",
-      "next",
-      "generation"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.82,
-    "count": 7,
-    "top_news": "https://punchng.com/kwankwaso-mourns-emir-of-gumel/",
-    "event_codes": {
-      "17": 5,
       "19": 2
     },
     "keywords": [
-      "kwankwaso",
-      "mourns",
-      "emir",
-      "gumel"
+      "middle",
+      "east",
+      "kings",
+      "jordan",
+      "and",
+      "bahrain",
+      "discuss",
+      "latest",
+      "developments",
+      "the",
+      "region",
+      "3000437"
     ]
   },
-  "PER": {
+  "IRQ": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.iraqinews.com/iraq/iraqi-judiciary-completes-interrogation-of-5700-isis-suspects/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "iraq",
+      "iraqi",
+      "judiciary",
+      "completes",
+      "interrogation",
+      "5700",
+      "isis",
+      "suspects"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.09,
+    "count": 12,
+    "top_news": "https://tribuneonlineng.com/two-palestinian-teenagers-killed-during-settler-attack-in-west-bank/",
+    "event_codes": {
+      "19": 6,
+      "17": 2,
+      "20": 2,
+      "15": 1,
+      "18": 1
+    },
+    "keywords": [
+      "two",
+      "palestinian",
+      "teenagers",
+      "killed",
+      "during",
+      "settler",
+      "attack",
+      "west",
+      "bank"
+    ]
+  },
+  "NGA": {
     "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.cnbcafrica.com/2026/danger-zone-of-extreme-weather-un-warns-of-supersized-el-nino-set-to-hit-global-economy-and-markets",
+    "count": 6,
+    "top_news": "https://tribuneonlineng.com/lagos-police-arrest-three-suspected-robbers-recover-guns/",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "17": 6
     },
     "keywords": [
-      "2026",
-      "danger",
-      "zone",
-      "extreme",
-      "weather",
-      "warns",
-      "supersized",
-      "nino",
-      "set",
-      "hit",
-      "global",
-      "economy",
-      "and",
-      "markets"
+      "lagos",
+      "police",
+      "arrest",
+      "three",
+      "suspected",
+      "robbers",
+      "recover",
+      "guns"
     ]
   },
-  "VEN": {
-    "risk_score": 3.3,
+  "PSE": {
+    "risk_score": 3.95,
     "count": 4,
-    "top_news": "https://english.elpais.com/economy-and-business/2026-09-03/investment-banks-cool-trumps-optimism-venezuelan-oil-will-not-lower-prices.html",
+    "top_news": "https://tribuneonlineng.com/two-palestinian-teenagers-killed-during-settler-attack-in-west-bank/",
     "event_codes": {
-      "18": 2,
-      "17": 1,
-      "19": 1
+      "19": 3,
+      "18": 1
     },
     "keywords": [
-      "economy",
-      "and",
-      "business",
-      "2026",
-      "investment",
-      "banks",
-      "cool",
-      "trumps",
-      "optimism",
-      "venezuelan",
-      "oil",
-      "will",
-      "not",
-      "lower",
-      "prices.html"
+      "two",
+      "palestinian",
+      "teenagers",
+      "killed",
+      "during",
+      "settler",
+      "attack",
+      "west",
+      "bank"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.82,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/middle-east/syria-destroys-chemical-weapons-for-first-time-since-2014-urges-un-to-rein-in-israeli-strikes-3000403",
+    "event_codes": {
+      "19": 3,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "syria",
+      "destroys",
+      "chemical",
+      "weapons",
+      "for",
+      "first",
+      "time",
+      "since",
+      "2014",
+      "urges",
+      "rein",
+      "israeli",
+      "strikes",
+      "3000403"
     ]
   }
 }
