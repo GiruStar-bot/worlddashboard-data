@@ -1,130 +1,38 @@
 {
-  "ISR": {
-    "risk_score": 8.2,
-    "count": 10,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/report-israeli-attacks-kill-eight-palestinians-past-24-hours",
-    "event_codes": {
-      "19": 5,
-      "17": 4,
-      "16": 1
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "report",
-      "israeli",
-      "attacks",
-      "kill",
-      "eight",
-      "palestinians",
-      "past",
-      "hours"
-    ]
-  },
-  "NGA": {
-    "risk_score": 5.5,
-    "count": 11,
-    "top_news": "https://thesun.ng/nscdc-rescues-15-trafficked-minors-recovers-service-rifles/",
-    "event_codes": {
-      "16": 5,
-      "17": 5,
-      "18": 1
-    },
-    "keywords": [
-      "nscdc",
-      "rescues",
-      "trafficked",
-      "minors",
-      "recovers",
-      "service",
-      "rifles"
-    ]
-  },
-  "SGP": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://www.ft.lk/ft_view__editorial/Name-and-shame-online-sex-offenders/58-796855",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "view",
-      "editorial",
-      "name",
-      "and",
-      "shame",
-      "online",
-      "sex",
-      "offenders",
-      "796855"
-    ]
-  },
-  "TWN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.techtimes.com/articles/326625/20260904/tsmc-equipment-demand-doubled-fab-construction-workers-are-running-out.htm",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "articles",
-      "326625",
-      "20260904",
-      "tsmc",
-      "equipment",
-      "demand",
-      "doubled",
-      "fab",
-      "construction",
-      "workers",
-      "are",
-      "running",
-      "out.htm"
-    ]
-  },
-  "VEN": {
-    "risk_score": 3.95,
-    "count": 8,
-    "top_news": "https://www.clevelandjewishnews.com/jns/israel-venezuela-discuss-expanded-economic-cooperation-use-of-israeli-tech/article_a66704c2-a69c-527f-8477-99e1ce60f517.html",
-    "event_codes": {
-      "16": 5,
-      "14": 3
-    },
-    "keywords": [
-      "jns",
-      "israel",
-      "venezuela",
-      "discuss",
-      "expanded",
-      "economic",
-      "cooperation",
-      "use",
-      "israeli",
-      "tech",
-      "article",
-      "a66704c2",
-      "a69c",
-      "527f",
-      "8477",
-      "99e1ce60f517.html"
-    ]
-  },
-  "YEM": {
+  "EGY": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dw.com/en/houthis-yemen-fighting-intensifies/a-79039588",
+    "top_news": "https://www.christianitytoday.com/2002/09/doors-into-islam/",
     "event_codes": {
-      "19": 2
+      "18": 2
     },
     "keywords": [
-      "houthis",
-      "yemen",
-      "fighting",
-      "intensifies",
-      "79039588"
+      "2002",
+      "doors",
+      "into",
+      "islam"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.2,
+    "count": 3,
+    "top_news": "https://metro.co.uk/2026/09/04/us-says-iran-conflict-isnt-a-war-cant-say-itll-end-29538548/",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "says",
+      "iran",
+      "conflict",
+      "isnt",
+      "war",
+      "cant",
+      "say",
+      "itll",
+      "end",
+      "29538548"
     ]
   }
 }
