@@ -1,38 +1,126 @@
 {
-  "ISR": {
-    "risk_score": 4.55,
-    "count": 5,
-    "top_news": "https://english.wafa.ps/Pages/Details/174371",
+  "IRN": {
+    "risk_score": 11.0,
+    "count": 11,
+    "top_news": "https://www.israelnationalnews.com/news/432722",
     "event_codes": {
-      "19": 3,
-      "16": 1,
+      "19": 11
+    },
+    "keywords": [
+      "news",
+      "432722"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.55,
+    "count": 4,
+    "top_news": "https://www.wral.com/news/ap/6702b-israel-frees-4-more-lebanese-prisoners-in-a-deal-tied-to-missing-jews-from-lebanon-s-civil-war/",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
       "18": 1
     },
     "keywords": [
-      "pages",
-      "details",
-      "174371"
+      "news",
+      "6702b",
+      "israel",
+      "frees",
+      "more",
+      "lebanese",
+      "prisoners",
+      "deal",
+      "tied",
+      "missing",
+      "jews",
+      "from",
+      "lebanon",
+      "civil",
+      "war"
     ]
   },
-  "KEN": {
-    "risk_score": 3.9,
-    "count": 6,
-    "top_news": "https://capitalfm.africa/bake-calls-for-probe-into-abduction-of-standard-editor-alex-kiprotich/",
+  "JOR": {
+    "risk_score": 6.9,
+    "count": 7,
+    "top_news": "https://www.israelnationalnews.com/news/432722",
     "event_codes": {
-      "16": 3,
-      "18": 3
+      "19": 5,
+      "18": 2
     },
     "keywords": [
-      "bake",
-      "calls",
-      "for",
-      "probe",
-      "into",
-      "abduction",
-      "standard",
-      "editor",
-      "alex",
-      "kiprotich"
+      "news",
+      "432722"
+    ]
+  },
+  "LBN": {
+    "risk_score": 4.1,
+    "count": 5,
+    "top_news": "https://www.wral.com/news/ap/6702b-israel-frees-4-more-lebanese-prisoners-in-a-deal-tied-to-missing-jews-from-lebanon-s-civil-war/",
+    "event_codes": {
+      "18": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "6702b",
+      "israel",
+      "frees",
+      "more",
+      "lebanese",
+      "prisoners",
+      "deal",
+      "tied",
+      "missing",
+      "jews",
+      "from",
+      "lebanon",
+      "civil",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.21,
+    "count": 12,
+    "top_news": "https://allafrica.com/stories/202609040540.html",
+    "event_codes": {
+      "19": 6,
+      "17": 3,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "stories",
+      "202609040540.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://grenadachronicle.com/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation/",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "raises",
+      "ethnic",
+      "cleansing",
+      "concerns",
+      "over",
+      "israeli",
+      "west",
+      "bank",
+      "operation"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://www.bssnews.net/international/421124",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "international",
+      "421124"
     ]
   }
 }
