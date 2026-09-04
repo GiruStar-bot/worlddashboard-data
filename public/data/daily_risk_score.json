@@ -1,120 +1,86 @@
 {
-  "EGY": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://nassauweekly.com/portraying-a-town/",
+  "COD": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://mg.co.za/thought-leader/2026-09-03-the-first-people-of-the-forest-still-hunted/",
     "event_codes": {
-      "16": 4
+      "19": 5,
+      "17": 1
     },
     "keywords": [
-      "portraying",
-      "town"
-    ]
-  },
-  "IRN": {
-    "risk_score": 18.35,
-    "count": 19,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/09/03/775614/US-long-record-turning-weddings-funerals--Iran-embassy",
-    "event_codes": {
-      "19": 16,
-      "17": 1,
-      "18": 1,
-      "20": 1
-    },
-    "keywords": [
-      "detail",
+      "thought",
+      "leader",
       "2026",
-      "775614",
-      "long",
-      "record",
-      "turning",
-      "weddings",
-      "funerals",
-      "iran",
-      "embassy"
+      "the",
+      "first",
+      "people",
+      "the",
+      "forest",
+      "still",
+      "hunted"
     ]
   },
   "ISR": {
-    "risk_score": 2.6,
-    "count": 3,
-    "top_news": "https://dominicanrepublicpost.com/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war/",
+    "risk_score": 23.26,
+    "count": 24,
+    "top_news": "https://imemc.org/article/army-kills-four-palestinians-including-a-child-in-gaza/",
     "event_codes": {
+      "19": 21,
       "16": 2,
-      "19": 1
+      "18": 1
     },
     "keywords": [
-      "vice",
-      "president",
-      "vance",
-      "declines",
-      "offer",
-      "timeline",
-      "for",
-      "end",
-      "iran",
-      "war"
+      "article",
+      "army",
+      "kills",
+      "four",
+      "palestinians",
+      "including",
+      "child",
+      "gaza"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://yalibnan.com/2026/09/04/after-the-fall-of-ali-al-taher-hezbollah-must-hand-over-its-arms-to-the-lebanese-army/",
+    "event_codes": {
+      "15": 4
+    },
+    "keywords": [
+      "2026",
+      "after",
+      "the",
+      "fall",
+      "ali",
+      "taher",
+      "hezbollah",
+      "must",
+      "hand",
+      "over",
+      "its",
+      "arms",
+      "the",
+      "lebanese",
+      "army"
     ]
   },
   "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/09/israeli-settler-attacks-mount-trump-avoids-public-pressure-netanyahu",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://imemc.org/article/army-kills-four-palestinians-including-a-child-in-gaza/",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "originals",
-      "2026",
-      "israeli",
-      "settler",
-      "attacks",
-      "mount",
-      "trump",
-      "avoids",
-      "public",
-      "pressure",
-      "netanyahu"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://dominicanrepublicpost.com/ice-agent-charged-with-lying-under-oath-about-minnesota-shooting/",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "ice",
-      "agent",
-      "charged",
-      "with",
-      "lying",
-      "under",
-      "oath",
-      "about",
-      "minnesota",
-      "shooting"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.al-monitor.com/originals/2026/09/houthi-escalation-western-yemen-kills-13-government-forces-what-know",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "houthi",
-      "escalation",
-      "western",
-      "yemen",
+      "article",
+      "army",
       "kills",
-      "government",
-      "forces",
-      "what",
-      "know"
+      "four",
+      "palestinians",
+      "including",
+      "child",
+      "gaza"
     ]
   }
 }
