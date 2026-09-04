@@ -1,77 +1,105 @@
 {
-  "ISR": {
-    "risk_score": 7.92,
-    "count": 9,
-    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-907573",
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.hurriyetdailynews.com/uks-commitment-to-the-falklands-absolute-and-unshakeable-226456",
     "event_codes": {
-      "18": 5,
-      "17": 2,
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "israel",
-      "news",
-      "crime",
-      "israel",
-      "article",
-      "907573"
+      "uks",
+      "commitment",
+      "the",
+      "falklands",
+      "absolute",
+      "and",
+      "unshakeable",
+      "226456"
+    ]
+  },
+  "IDN": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://en.tempo.co/read/2118951/russo-brothers-embrace-improvisation-in-avengers-doomsday",
+    "event_codes": {
+      "19": 3,
+      "16": 2
+    },
+    "keywords": [
+      "read",
+      "2118951",
+      "russo",
+      "brothers",
+      "embrace",
+      "improvisation",
+      "avengers",
+      "doomsday"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.75,
+    "count": 6,
+    "top_news": "https://www.hurriyetdailynews.com/uks-commitment-to-the-falklands-absolute-and-unshakeable-226456",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "uks",
+      "commitment",
+      "the",
+      "falklands",
+      "absolute",
+      "and",
+      "unshakeable",
+      "226456"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.46,
+    "count": 15,
+    "top_news": "https://www.arabnews.com/middle-east/police-say-killed-palestinian-in-jerusalem-after-attempted-knife-attack-3000482",
+    "event_codes": {
+      "19": 5,
+      "15": 3,
+      "17": 3,
+      "16": 2,
+      "20": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "police",
+      "say",
+      "killed",
+      "palestinian",
+      "jerusalem",
+      "after",
+      "attempted",
+      "knife",
+      "attack",
+      "3000482"
     ]
   },
   "NGA": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://www.catholicworldreport.com/2026/08/04/31-christians-killed-in-nigeria-including-eleven-children-and-a-catholic-priest/",
+    "risk_score": 3.66,
+    "count": 5,
+    "top_news": "https://dailytrust.com/nasarawa-how-2-intending-first-ladies-are-charging-the-political-atmosphere/",
     "event_codes": {
-      "19": 4,
-      "14": 2
+      "15": 3,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "christians",
-      "killed",
-      "nigeria",
-      "including",
-      "eleven",
-      "children",
-      "and",
-      "catholic",
-      "priest"
-    ]
-  },
-  "PSE": {
-    "risk_score": 8.16,
-    "count": 9,
-    "top_news": "https://imemc.org/article/thursday-invasions-violations-and-abductions-in-west-bank/",
-    "event_codes": {
-      "18": 6,
-      "17": 3
-    },
-    "keywords": [
-      "article",
-      "thursday",
-      "invasions",
-      "violations",
-      "and",
-      "abductions",
-      "west",
-      "bank"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.26,
-    "count": 4,
-    "top_news": "https://www.ariananews.af/syria-begins-destroying-assad-era-chemical-weapons/",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "syria",
-      "begins",
-      "destroying",
-      "assad",
-      "era",
-      "chemical",
-      "weapons"
+      "nasarawa",
+      "how",
+      "intending",
+      "first",
+      "ladies",
+      "are",
+      "charging",
+      "the",
+      "political",
+      "atmosphere"
     ]
   }
 }
