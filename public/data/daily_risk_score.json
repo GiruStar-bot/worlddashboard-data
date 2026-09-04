@@ -1,86 +1,77 @@
 {
-  "COD": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://mg.co.za/thought-leader/2026-09-03-the-first-people-of-the-forest-still-hunted/",
-    "event_codes": {
-      "19": 5,
-      "17": 1
-    },
-    "keywords": [
-      "thought",
-      "leader",
-      "2026",
-      "the",
-      "first",
-      "people",
-      "the",
-      "forest",
-      "still",
-      "hunted"
-    ]
-  },
   "ISR": {
-    "risk_score": 23.26,
-    "count": 24,
-    "top_news": "https://imemc.org/article/army-kills-four-palestinians-including-a-child-in-gaza/",
+    "risk_score": 7.92,
+    "count": 9,
+    "top_news": "http://www.jpost.com/israel-news/crime-in-israel/article-907573",
     "event_codes": {
-      "19": 21,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "article",
-      "army",
-      "kills",
-      "four",
-      "palestinians",
-      "including",
-      "child",
-      "gaza"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.88,
-    "count": 4,
-    "top_news": "https://yalibnan.com/2026/09/04/after-the-fall-of-ali-al-taher-hezbollah-must-hand-over-its-arms-to-the-lebanese-army/",
-    "event_codes": {
-      "15": 4
-    },
-    "keywords": [
-      "2026",
-      "after",
-      "the",
-      "fall",
-      "ali",
-      "taher",
-      "hezbollah",
-      "must",
-      "hand",
-      "over",
-      "its",
-      "arms",
-      "the",
-      "lebanese",
-      "army"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://imemc.org/article/army-kills-four-palestinians-including-a-child-in-gaza/",
-    "event_codes": {
+      "18": 5,
+      "17": 2,
       "19": 2
     },
     "keywords": [
+      "israel",
+      "news",
+      "crime",
+      "israel",
       "article",
-      "army",
-      "kills",
-      "four",
-      "palestinians",
+      "907573"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.3,
+    "count": 6,
+    "top_news": "https://www.catholicworldreport.com/2026/08/04/31-christians-killed-in-nigeria-including-eleven-children-and-a-catholic-priest/",
+    "event_codes": {
+      "19": 4,
+      "14": 2
+    },
+    "keywords": [
+      "2026",
+      "christians",
+      "killed",
+      "nigeria",
       "including",
-      "child",
-      "gaza"
+      "eleven",
+      "children",
+      "and",
+      "catholic",
+      "priest"
+    ]
+  },
+  "PSE": {
+    "risk_score": 8.16,
+    "count": 9,
+    "top_news": "https://imemc.org/article/thursday-invasions-violations-and-abductions-in-west-bank/",
+    "event_codes": {
+      "18": 6,
+      "17": 3
+    },
+    "keywords": [
+      "article",
+      "thursday",
+      "invasions",
+      "violations",
+      "and",
+      "abductions",
+      "west",
+      "bank"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.26,
+    "count": 4,
+    "top_news": "https://www.ariananews.af/syria-begins-destroying-assad-era-chemical-weapons/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "syria",
+      "begins",
+      "destroying",
+      "assad",
+      "era",
+      "chemical",
+      "weapons"
     ]
   }
 }
