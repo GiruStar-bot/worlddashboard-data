@@ -1,71 +1,31 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.capitalgazette.com/2026/09/05/us-strikes-3-iranian-oil-tankers-after-saying-warships-were-targeted-with-ballistic-missiles/",
+  "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/us/articles/border-policeman-killed-netanya-shooting-211715773.html",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "strikes",
-      "iranian",
-      "oil",
-      "tankers",
-      "after",
-      "saying",
-      "warships",
-      "were",
-      "targeted",
-      "with",
-      "ballistic",
-      "missiles"
+      "news",
+      "articles",
+      "border",
+      "policeman",
+      "killed",
+      "netanya",
+      "shooting",
+      "211715773.html"
     ]
   },
-  "NGA": {
-    "risk_score": 8.98,
-    "count": 12,
-    "top_news": "https://saharareporters.com/2026/09/05/nigerian-troops-foil-terrorists-attack-katsina-community-kill-one-recover-motorcycles",
-    "event_codes": {
-      "17": 9,
-      "18": 3
-    },
-    "keywords": [
-      "2026",
-      "nigerian",
-      "troops",
-      "foil",
-      "terrorists",
-      "attack",
-      "katsina",
-      "community",
-      "kill",
-      "one",
-      "recover",
-      "motorcycles"
-    ]
-  },
-  "PSE": {
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.latimes.com/world-nation/story/2026-09-05/u-s-ambassador-again-calls-violent-israeli-west-bank-settlers-terrorists",
+    "top_news": "https://www.khabaragency.net/news252520.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "world",
-      "nation",
-      "story",
-      "2026",
-      "ambassador",
-      "again",
-      "calls",
-      "violent",
-      "israeli",
-      "west",
-      "bank",
-      "settlers",
-      "terrorists"
+      "news252520.html"
     ]
   }
 }
