@@ -1,157 +1,100 @@
 {
-  "ARG": {
-    "risk_score": 4.55,
-    "count": 6,
-    "top_news": "https://www.dailymail.com/news/article-16106607/Falklands-War-hero-Simon-Weston-dismisses-Javier-Mileis-ridiculous-threat-retake-islands.html",
-    "event_codes": {
-      "14": 3,
-      "16": 1,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "16106607",
-      "falklands",
-      "war",
-      "hero",
-      "simon",
-      "weston",
-      "dismisses",
-      "javier",
-      "mileis",
-      "ridiculous",
-      "threat",
-      "retake",
-      "islands.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 16.02,
-    "count": 17,
-    "top_news": "http://www.southeastasiapost.com/news/279286925/trump-calls-iran-war-small-potatoes-and-not-a-big-thing",
+    "risk_score": 6.8,
+    "count": 8,
+    "top_news": "https://www.ncr-iran.org/en/news/iran-news-in-brief-september-5-2026/",
     "event_codes": {
-      "19": 14,
-      "15": 1,
-      "16": 1,
+      "19": 4,
+      "14": 2,
+      "17": 1,
       "18": 1
     },
     "keywords": [
       "news",
-      "279286925",
-      "trump",
-      "calls",
       "iran",
-      "war",
-      "small",
-      "potatoes",
-      "and",
-      "not",
-      "big",
-      "thing"
+      "news",
+      "brief",
+      "september",
+      "2026"
     ]
   },
   "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.wbrc.com/2026/09/04/trump-names-adam-telle-acting-army-secretary-following-departure-driscoll/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.hindustantimes.com/ht-explainers/three-hydraulic-systems-lost-at-36-000ft-the-knowns-and-unknowns-of-the-air-india-phuket-delhi-flight-101788592678722.html",
     "event_codes": {
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "trump",
-      "names",
-      "adam",
-      "telle",
-      "acting",
-      "army",
-      "secretary",
-      "following",
-      "departure",
-      "driscoll"
+      "explainers",
+      "three",
+      "hydraulic",
+      "systems",
+      "lost",
+      "000ft",
+      "the",
+      "knowns",
+      "and",
+      "unknowns",
+      "the",
+      "air",
+      "india",
+      "phuket",
+      "delhi",
+      "flight",
+      "101788592678722.html"
     ]
   },
   "ISR": {
-    "risk_score": 7.17,
-    "count": 8,
-    "top_news": "http://www.southeastasiapost.com/news/279286925/trump-calls-iran-war-small-potatoes-and-not-a-big-thing",
+    "risk_score": 15.36,
+    "count": 16,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-violence-israeli-forces-open-fire-during-raid-settlers",
     "event_codes": {
-      "19": 6,
-      "15": 1,
-      "17": 1
+      "19": 7,
+      "20": 5,
+      "17": 4
     },
     "keywords": [
-      "news",
-      "279286925",
-      "trump",
-      "calls",
-      "iran",
-      "war",
-      "small",
-      "potatoes",
-      "and",
-      "not",
-      "big",
-      "thing"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "west",
+      "bank",
+      "violence",
+      "israeli",
+      "forces",
+      "open",
+      "fire",
+      "during",
+      "raid",
+      "settlers"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/politics/articles/endgame-arab-diplomats-worry-iran-160158368.html",
+  "PSE": {
+    "risk_score": 8.7,
+    "count": 9,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-violence-israeli-forces-open-fire-during-raid-settlers",
     "event_codes": {
-      "19": 2
+      "19": 9
     },
     "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "endgame",
-      "arab",
-      "diplomats",
-      "worry",
-      "iran",
-      "160158368.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/politics/articles/endgame-arab-diplomats-worry-iran-160158368.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "politics",
-      "articles",
-      "endgame",
-      "arab",
-      "diplomats",
-      "worry",
-      "iran",
-      "160158368.html"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.fox13now.com/shows/catch-me-up/measles-cases-skyrocket-and-could-keep-climbing",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "shows",
-      "catch",
-      "measles",
-      "cases",
-      "skyrocket",
-      "and",
-      "could",
-      "keep",
-      "climbing"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "west",
+      "bank",
+      "violence",
+      "israeli",
+      "forces",
+      "open",
+      "fire",
+      "during",
+      "raid",
+      "settlers"
     ]
   }
 }
