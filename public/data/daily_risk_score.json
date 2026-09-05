@@ -1,49 +1,41 @@
 {
-  "EGY": {
-    "risk_score": 7.65,
-    "count": 8,
-    "top_news": "http://www.goskagit.com/news/world/us-military-hits-3-iranian-oil-tankers-after-saying-navy-warships-were-targeted-with-missiles/article_74d2f97b-ebc0-52f8-8b4d-ecf5e013187d.html",
+  "IRN": {
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://www.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl",
     "event_codes": {
-      "19": 7,
-      "14": 1
+      "19": 13
     },
     "keywords": [
-      "news",
-      "world",
-      "military",
-      "hits",
-      "iranian",
-      "oil",
-      "tankers",
-      "after",
-      "saying",
-      "navy",
-      "warships",
-      "were",
-      "targeted",
-      "with",
-      "missiles",
-      "article",
-      "74d2f97b",
-      "ebc0",
-      "52f8",
-      "8b4d",
-      "ecf5e013187d.html"
+      "2026",
+      "middleeast",
+      "iran",
+      "tanker",
+      "kharg",
+      "intl"
     ]
   },
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.alternet.org/alternet-exclusives/hegseth-culture-war/",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/09/05/us-news/cleric-linked-to-muslim-brotherhood-calls-mamdani-el-sayeds-rise-blessings-of-oct-7-report/",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
-      "alternet",
-      "exclusives",
-      "hegseth",
-      "culture",
-      "war"
+      "2026",
+      "news",
+      "cleric",
+      "linked",
+      "muslim",
+      "brotherhood",
+      "calls",
+      "mamdani",
+      "sayeds",
+      "rise",
+      "blessings",
+      "oct",
+      "report"
     ]
   }
 }
