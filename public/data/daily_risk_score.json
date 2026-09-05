@@ -1,38 +1,157 @@
 {
-  "EGY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.christianitytoday.com/2002/09/doors-into-islam/",
+  "ARG": {
+    "risk_score": 4.55,
+    "count": 6,
+    "top_news": "https://www.dailymail.com/news/article-16106607/Falklands-War-hero-Simon-Weston-dismisses-Javier-Mileis-ridiculous-threat-retake-islands.html",
     "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "2002",
-      "doors",
-      "into",
-      "islam"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.2,
-    "count": 3,
-    "top_news": "https://metro.co.uk/2026/09/04/us-says-iran-conflict-isnt-a-war-cant-say-itll-end-29538548/",
-    "event_codes": {
-      "16": 2,
+      "14": 3,
+      "16": 1,
+      "17": 1,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "says",
-      "iran",
-      "conflict",
-      "isnt",
+      "news",
+      "article",
+      "16106607",
+      "falklands",
       "war",
-      "cant",
-      "say",
-      "itll",
-      "end",
-      "29538548"
+      "hero",
+      "simon",
+      "weston",
+      "dismisses",
+      "javier",
+      "mileis",
+      "ridiculous",
+      "threat",
+      "retake",
+      "islands.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 16.02,
+    "count": 17,
+    "top_news": "http://www.southeastasiapost.com/news/279286925/trump-calls-iran-war-small-potatoes-and-not-a-big-thing",
+    "event_codes": {
+      "19": 14,
+      "15": 1,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "279286925",
+      "trump",
+      "calls",
+      "iran",
+      "war",
+      "small",
+      "potatoes",
+      "and",
+      "not",
+      "big",
+      "thing"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.wbrc.com/2026/09/04/trump-names-adam-telle-acting-army-secretary-following-departure-driscoll/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "names",
+      "adam",
+      "telle",
+      "acting",
+      "army",
+      "secretary",
+      "following",
+      "departure",
+      "driscoll"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.17,
+    "count": 8,
+    "top_news": "http://www.southeastasiapost.com/news/279286925/trump-calls-iran-war-small-potatoes-and-not-a-big-thing",
+    "event_codes": {
+      "19": 6,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "279286925",
+      "trump",
+      "calls",
+      "iran",
+      "war",
+      "small",
+      "potatoes",
+      "and",
+      "not",
+      "big",
+      "thing"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/politics/articles/endgame-arab-diplomats-worry-iran-160158368.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "articles",
+      "endgame",
+      "arab",
+      "diplomats",
+      "worry",
+      "iran",
+      "160158368.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/politics/articles/endgame-arab-diplomats-worry-iran-160158368.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "politics",
+      "articles",
+      "endgame",
+      "arab",
+      "diplomats",
+      "worry",
+      "iran",
+      "160158368.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.fox13now.com/shows/catch-me-up/measles-cases-skyrocket-and-could-keep-climbing",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "shows",
+      "catch",
+      "measles",
+      "cases",
+      "skyrocket",
+      "and",
+      "could",
+      "keep",
+      "climbing"
     ]
   }
 }
