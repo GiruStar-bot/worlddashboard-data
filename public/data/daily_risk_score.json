@@ -1,28 +1,83 @@
 {
-  "ISR": {
-    "risk_score": 5.84,
-    "count": 6,
-    "top_news": "https://www.manilatimes.net/2026/09/07/opinion/columns/the-west-banks-ultra-apartheid-and-the-collusive-international-silence/2419457",
+  "IRN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.businessinsider.com/gas-prices-labor-day-iran-war-driving-chris-wright-energy-2026-9",
     "event_codes": {
-      "20": 3,
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "gas",
+      "prices",
+      "labor",
+      "day",
+      "iran",
+      "war",
+      "driving",
+      "chris",
+      "wright",
+      "energy",
+      "2026"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.44,
+    "count": 5,
+    "top_news": "https://tribune.com.pk/story/2627774/israels-netanyahu-orders-west-bank-settler-outposts-to-be-removed-sources-say",
+    "event_codes": {
+      "15": 2,
       "17": 2,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "opinion",
-      "columns",
-      "the",
+      "story",
+      "2627774",
+      "israels",
+      "netanyahu",
+      "orders",
       "west",
-      "banks",
-      "ultra",
-      "apartheid",
-      "and",
-      "the",
-      "collusive",
-      "international",
-      "silence",
-      "2419457"
+      "bank",
+      "settler",
+      "outposts",
+      "removed",
+      "sources",
+      "say"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.5,
+    "count": 10,
+    "top_news": "https://www.eurasiareview.com/06092026-terrorists-in-nigeria-take-to-tiktok/",
+    "event_codes": {
+      "18": 5,
+      "19": 5
+    },
+    "keywords": [
+      "06092026",
+      "terrorists",
+      "nigeria",
+      "take",
+      "tiktok"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.eurasiareview.com/06092026-25-years-after-9-11-a-look-back-at-decades-of-terror-attacks-on-america/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "06092026",
+      "years",
+      "after",
+      "look",
+      "back",
+      "decades",
+      "terror",
+      "attacks",
+      "america"
     ]
   }
 }
