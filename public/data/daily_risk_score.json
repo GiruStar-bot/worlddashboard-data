@@ -1,30 +1,114 @@
 {
-  "IRN": {
-    "risk_score": 12.5,
-    "count": 13,
-    "top_news": "https://www.local3news.com/regional-national/us-military-strikes-three-iranian-tankers-in-retaliation-for-missile-attacks/article_dd3e21dd-a196-5b07-bdac-2901b54e8090.html",
+  "IDN": {
+    "risk_score": 3.12,
+    "count": 7,
+    "top_news": "https://en.antaranews.com/news/430117/batam-airport-cancels-five-flights-amid-anak-krakatau-eruption",
     "event_codes": {
-      "19": 12,
-      "17": 1
+      "16": 6,
+      "15": 1
     },
     "keywords": [
-      "regional",
-      "national",
-      "military",
-      "strikes",
-      "three",
-      "iranian",
-      "tankers",
-      "retaliation",
-      "for",
-      "missile",
-      "attacks",
-      "article",
-      "dd3e21dd",
-      "a196",
-      "5b07",
-      "bdac",
-      "2901b54e8090.html"
+      "news",
+      "430117",
+      "batam",
+      "airport",
+      "cancels",
+      "five",
+      "flights",
+      "amid",
+      "anak",
+      "krakatau",
+      "eruption"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.aawsat.com/world/5315172-us-intelligence-iran-appears-determined-continue-war",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "5315172",
+      "intelligence",
+      "iran",
+      "appears",
+      "determined",
+      "continue",
+      "war"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.88,
+    "count": 7,
+    "top_news": "https://www.yahoo.com/lifestyle/articles/9-11-kansas-town-forged-083351905.html",
+    "event_codes": {
+      "15": 4,
+      "19": 3
+    },
+    "keywords": [
+      "lifestyle",
+      "articles",
+      "kansas",
+      "town",
+      "forged",
+      "083351905.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.93,
+    "count": 11,
+    "top_news": "https://www.middleeastmonitor.com/20260906-israels-game/",
+    "event_codes": {
+      "17": 6,
+      "14": 2,
+      "19": 2,
+      "20": 1
+    },
+    "keywords": [
+      "20260906",
+      "israels",
+      "game"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.83,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/world/5315184-pkk-threatens-halt-peace-process-t%C3%BCrkiye",
+    "event_codes": {
+      "15": 4,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "5315184",
+      "pkk",
+      "threatens",
+      "halt",
+      "peace",
+      "process",
+      "t%c3%bcrkiye"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/arab-world/5315177-houthi-escalation-backfires-taiz-yemen%E2%80%99s-western-coast",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5315177",
+      "houthi",
+      "escalation",
+      "backfires",
+      "taiz",
+      "yemen%e2%80%99s",
+      "western",
+      "coast"
     ]
   }
 }
