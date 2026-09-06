@@ -1,31 +1,30 @@
 {
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.yahoo.com/news/us/articles/border-policeman-killed-netanya-shooting-211715773.html",
+  "IRN": {
+    "risk_score": 12.5,
+    "count": 13,
+    "top_news": "https://www.local3news.com/regional-national/us-military-strikes-three-iranian-tankers-in-retaliation-for-missile-attacks/article_dd3e21dd-a196-5b07-bdac-2901b54e8090.html",
     "event_codes": {
-      "19": 4
+      "19": 12,
+      "17": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "border",
-      "policeman",
-      "killed",
-      "netanya",
-      "shooting",
-      "211715773.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.khabaragency.net/news252520.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news252520.html"
+      "regional",
+      "national",
+      "military",
+      "strikes",
+      "three",
+      "iranian",
+      "tankers",
+      "retaliation",
+      "for",
+      "missile",
+      "attacks",
+      "article",
+      "dd3e21dd",
+      "a196",
+      "5b07",
+      "bdac",
+      "2901b54e8090.html"
     ]
   }
 }
