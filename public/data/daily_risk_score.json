@@ -1,85 +1,56 @@
 {
-  "IRN": {
-    "risk_score": 11.0,
-    "count": 11,
-    "top_news": "https://www.hngn.com/articles/273103/20260907/israeli-strikes-kill-11-lebanon-iran-wars-second-front-flares.htm",
-    "event_codes": {
-      "19": 11
-    },
-    "keywords": [
-      "articles",
-      "273103",
-      "20260907",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon",
-      "iran",
-      "wars",
-      "second",
-      "front",
-      "flares.htm"
-    ]
-  },
   "ISR": {
-    "risk_score": 19.37,
-    "count": 21,
-    "top_news": "https://www.adn.com/nation-world/2026/09/07/israeli-airstrikes-on-a-village-in-southern-lebanon-kill-12-people-including-2-children/",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://metro.co.uk/2026/09/07/andy-burnham-announce-trade-ban-israeli-plans-west-bank-to-fury-donald-trump-29557573/",
     "event_codes": {
-      "19": 12,
-      "18": 5,
-      "14": 2,
-      "17": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "nation",
-      "world",
       "2026",
+      "andy",
+      "burnham",
+      "announce",
+      "trade",
+      "ban",
       "israeli",
-      "airstrikes",
-      "village",
-      "southern",
-      "lebanon",
-      "kill",
-      "people",
-      "including",
-      "children"
+      "plans",
+      "west",
+      "bank",
+      "fury",
+      "donald",
+      "trump",
+      "29557573"
     ]
   },
-  "LBN": {
-    "risk_score": 4.76,
-    "count": 5,
-    "top_news": "https://www.hngn.com/articles/273103/20260907/israeli-strikes-kill-11-lebanon-iran-wars-second-front-flares.htm",
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://nypost.com/2026/09/07/business/oil-prices-hit-six-week-high-amid-us-iran-conflict-but-drivers-could-soon-get-relief-at-the-pump/",
     "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "articles",
-      "273103",
-      "20260907",
-      "israeli",
-      "strikes",
-      "kill",
-      "lebanon",
+      "2026",
+      "business",
+      "oil",
+      "prices",
+      "hit",
+      "six",
+      "week",
+      "high",
+      "amid",
       "iran",
-      "wars",
-      "second",
-      "front",
-      "flares.htm"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.wafa.ps/Pages/Details/174519",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "174519"
+      "conflict",
+      "but",
+      "drivers",
+      "could",
+      "soon",
+      "get",
+      "relief",
+      "the",
+      "pump"
     ]
   }
 }
