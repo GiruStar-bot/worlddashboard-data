@@ -1,73 +1,77 @@
 {
   "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.thenationalnews.com/news/gulf/2026/09/07/petrol-prices-to-double-under-irans-war-economy/",
+    "risk_score": 9.65,
+    "count": 10,
+    "top_news": "https://www.jpost.com/middle-east/article-907812",
     "event_codes": {
-      "19": 6
+      "19": 9,
+      "14": 1
     },
     "keywords": [
-      "news",
-      "gulf",
-      "2026",
-      "petrol",
-      "prices",
-      "double",
-      "under",
-      "irans",
-      "war",
-      "economy"
+      "middle",
+      "east",
+      "article",
+      "907812"
     ]
   },
-  "IRQ": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://countercurrents.org/2026/09/iran-reverses-the-asymmetry/",
+  "KEN": {
+    "risk_score": 2.35,
+    "count": 3,
+    "top_news": "https://thesun.ng/tanzania-president-samia-suluhu-hassan-loses-husband/",
     "event_codes": {
-      "19": 4
+      "14": 1,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "iran",
-      "reverses",
-      "the",
-      "asymmetry"
+      "tanzania",
+      "president",
+      "samia",
+      "suluhu",
+      "hassan",
+      "loses",
+      "husband"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.ynetnews.com/article/bykok7noze",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "bykok7noze"
     ]
   },
   "NGA": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://countercurrents.org/2026/09/misleading-myths-about-slavery/",
+    "risk_score": 3.3,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202609070489.html",
     "event_codes": {
-      "19": 3
+      "17": 2,
+      "16": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "misleading",
-      "myths",
-      "about",
-      "slavery"
+      "stories",
+      "202609070489.html"
     ]
   },
-  "THA": {
-    "risk_score": 4.44,
-    "count": 5,
-    "top_news": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/07/cambodian-senator-debunks-baseless-thai-claims",
+  "YEM": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.jpost.com/middle-east/article-907816",
     "event_codes": {
-      "19": 3,
-      "15": 2
+      "19": 8
     },
     "keywords": [
-      "aseanplus",
-      "aseanplus",
-      "news",
-      "2026",
-      "cambodian",
-      "senator",
-      "debunks",
-      "baseless",
-      "thai",
-      "claims"
+      "middle",
+      "east",
+      "article",
+      "907816"
     ]
   }
 }
