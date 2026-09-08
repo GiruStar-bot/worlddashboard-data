@@ -1,23 +1,117 @@
 {
-  "NGA": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://tribuneonlineng.com/naahht-pledges-support-to-fg-on-livestock-improvement-control-of-transboundary-animal-diseases/",
+  "IRN": {
+    "risk_score": 21.0,
+    "count": 21,
+    "top_news": "http://www.middleeaststar.com/news/279293178/centcom-says-us-has-diverted-94-commercial-ships-during-blockade",
     "event_codes": {
-      "18": 2,
-      "16": 1,
-      "17": 1
+      "19": 21
     },
     "keywords": [
-      "naahht",
-      "pledges",
-      "support",
-      "livestock",
-      "improvement",
-      "control",
-      "transboundary",
-      "animal",
-      "diseases"
+      "news",
+      "279293178",
+      "centcom",
+      "says",
+      "has",
+      "diverted",
+      "commercial",
+      "ships",
+      "during",
+      "blockade"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.middleeaststar.com/news/279293178/centcom-says-us-has-diverted-94-commercial-ships-during-blockade",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "279293178",
+      "centcom",
+      "says",
+      "has",
+      "diverted",
+      "commercial",
+      "ships",
+      "during",
+      "blockade"
+    ]
+  },
+  "KHM": {
+    "risk_score": 2.96,
+    "count": 5,
+    "top_news": "https://thediplomat.com/2026/09/cambodia-confirms-resumption-of-joint-military-exercises-with-us-next-year/",
+    "event_codes": {
+      "15": 3,
+      "16": 2
+    },
+    "keywords": [
+      "2026",
+      "cambodia",
+      "confirms",
+      "resumption",
+      "joint",
+      "military",
+      "exercises",
+      "with",
+      "next",
+      "year"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://allafrica.com/stories/202609080117.html",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "202609080117.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.middleeaststar.com/news/279293178/centcom-says-us-has-diverted-94-commercial-ships-during-blockade",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "279293178",
+      "centcom",
+      "says",
+      "has",
+      "diverted",
+      "commercial",
+      "ships",
+      "during",
+      "blockade"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.omanobserver.om/article/1195797/world/region/73-injured-in-attacks-on-saudi-arabia-energy-facilities-disrupted",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "article",
+      "1195797",
+      "world",
+      "region",
+      "injured",
+      "attacks",
+      "saudi",
+      "arabia",
+      "energy",
+      "facilities",
+      "disrupted"
     ]
   }
 }
