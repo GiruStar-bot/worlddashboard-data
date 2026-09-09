@@ -1,107 +1,60 @@
 {
-  "IRN": {
-    "risk_score": 11.1,
-    "count": 12,
-    "top_news": "https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html",
+  "BHR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wkbw.com/us-news/iran-war/us-strikes-more-iranian-tankers-in-response-to-continued-missile-attacks-against-us-vessels",
     "event_codes": {
-      "19": 9,
-      "16": 2,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "world",
-      "iran",
-      "claims",
-      "missile",
-      "hit",
-      "tanker",
-      "near",
-      "kharg",
-      "island",
-      "irgc",
-      "says",
-      "drone",
-      "downed",
-      "over",
-      "strait",
-      "hormuz",
-      "11788898120584.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://news.antiwar.com/2026/09/08/lebanese-town-reels-after-deadly-strikes-israel-maintains-homes-were-hezbollah-infrastructure/",
-    "event_codes": {
-      "20": 3,
-      "16": 2,
-      "18": 2,
       "19": 2
     },
     "keywords": [
-      "2026",
-      "lebanese",
-      "town",
-      "reels",
-      "after",
-      "deadly",
+      "news",
+      "iran",
+      "war",
       "strikes",
-      "israel",
-      "maintains",
-      "homes",
-      "were",
-      "hezbollah",
-      "infrastructure"
+      "more",
+      "iranian",
+      "tankers",
+      "response",
+      "continued",
+      "missile",
+      "attacks",
+      "against",
+      "vessels"
     ]
   },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.livemint.com/news/world/iran-claims-us-missile-hit-tanker-near-kharg-island-irgc-says-mq-1-drone-downed-over-strait-of-hormuz-11788898120584.html",
+  "IRN": {
+    "risk_score": 18.8,
+    "count": 19,
+    "top_news": "https://www.queanbeyanage.com.au/story/9346602/us-military-destroys-five-iranian-oil-tankers/",
     "event_codes": {
-      "19": 3
+      "19": 17,
+      "18": 2
+    },
+    "keywords": [
+      "story",
+      "9346602",
+      "military",
+      "destroys",
+      "five",
+      "iranian",
+      "oil",
+      "tankers"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/us/articles/us-strikes-iran-destroys-5-230705553.html",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "news",
-      "world",
+      "articles",
+      "strikes",
       "iran",
-      "claims",
-      "missile",
-      "hit",
-      "tanker",
-      "near",
-      "kharg",
-      "island",
-      "irgc",
-      "says",
-      "drone",
-      "downed",
-      "over",
-      "strait",
-      "hormuz",
-      "11788898120584.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://dailypost.ng/2026/09/08/man-arrested-in-kano-for-posing-as-csp-promising-police-recruitment-slots/",
-    "event_codes": {
-      "17": 6
-    },
-    "keywords": [
-      "2026",
-      "man",
-      "arrested",
-      "kano",
-      "for",
-      "posing",
-      "csp",
-      "promising",
-      "police",
-      "recruitment",
-      "slots"
+      "destroys",
+      "230705553.html"
     ]
   }
 }
