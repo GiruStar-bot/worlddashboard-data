@@ -1,129 +1,197 @@
 {
-  "IRN": {
-    "risk_score": 10.35,
-    "count": 11,
-    "top_news": "http://www.businessghana.com/site/news/politics/355821/Oil-hits-$100-a-barrel-for-first-time-since-July-after-US-and-Houthi-strikes",
-    "event_codes": {
-      "19": 7,
-      "16": 3,
-      "18": 1
-    },
-    "keywords": [
-      "site",
-      "news",
-      "politics",
-      "355821",
-      "oil",
-      "hits",
-      "$100",
-      "barrel",
-      "for",
-      "first",
-      "time",
-      "since",
-      "july",
-      "after",
-      "and",
-      "houthi",
-      "strikes"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.0,
-    "count": 13,
-    "top_news": "https://www.middleeasteye.net/news/will-not-be-intimidated-british-mps-respond-defiantly-israel-sanctioning-them",
-    "event_codes": {
-      "16": 5,
-      "17": 4,
-      "19": 3,
-      "20": 1
-    },
-    "keywords": [
-      "news",
-      "will",
-      "not",
-      "intimidated",
-      "british",
-      "mps",
-      "respond",
-      "defiantly",
-      "israel",
-      "sanctioning",
-      "them"
-    ]
-  },
-  "JOR": {
+  "ECU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.businessghana.com/site/news/politics/355821/Oil-hits-$100-a-barrel-for-first-time-since-July-after-US-and-Houthi-strikes",
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/us-blacklists-ecuador-s-tiguerones-as-terror-group-101788980836616.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "site",
+      "world",
       "news",
-      "politics",
-      "355821",
-      "oil",
-      "hits",
-      "$100",
-      "barrel",
-      "for",
-      "first",
-      "time",
-      "since",
-      "july",
-      "after",
-      "and",
-      "houthi",
-      "strikes"
+      "news",
+      "blacklists",
+      "ecuador",
+      "tiguerones",
+      "terror",
+      "group",
+      "101788980836616.html"
     ]
   },
-  "NGA": {
-    "risk_score": 4.4,
-    "count": 8,
-    "top_news": "https://www.premiumtimesng.com/regional/north-central/908433-police-arraign-87-year-old-man-for-allegedly-attacking-judge-with-cutlass-in-court.html",
+  "IRN": {
+    "risk_score": 15.72,
+    "count": 16,
+    "top_news": "https://www.thenationalnews.com/news/gulf/2026/09/09/us-and-iran-hit-tankers-as-six-month-war-escalates/",
     "event_codes": {
-      "17": 7,
-      "18": 1
+      "19": 15,
+      "15": 1
     },
     "keywords": [
-      "regional",
-      "north",
-      "central",
-      "908433",
-      "police",
-      "arraign",
-      "year",
-      "old",
-      "man",
-      "for",
-      "allegedly",
-      "attacking",
-      "judge",
-      "with",
-      "cutlass",
-      "court.html"
+      "news",
+      "gulf",
+      "2026",
+      "and",
+      "iran",
+      "hit",
+      "tankers",
+      "six",
+      "month",
+      "war",
+      "escalates"
+    ]
+  },
+  "ISR": {
+    "risk_score": 11.5,
+    "count": 14,
+    "top_news": "https://www.algemeiner.com/2026/09/09/how-israel-used-its-failures-2006-war-effectively-fight-hezbollah-oct-7/",
+    "event_codes": {
+      "19": 5,
+      "18": 4,
+      "14": 2,
+      "16": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "israel",
+      "used",
+      "its",
+      "failures",
+      "2006",
+      "war",
+      "effectively",
+      "fight",
+      "hezbollah",
+      "oct"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.algemeiner.com/2026/09/09/how-israel-used-its-failures-2006-war-effectively-fight-hezbollah-oct-7/",
+    "event_codes": {
+      "19": 3,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "israel",
+      "used",
+      "its",
+      "failures",
+      "2006",
+      "war",
+      "effectively",
+      "fight",
+      "hezbollah",
+      "oct"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.pakistantoday.com.pk/2026/09/09/pakistan-welcomes-uk-led-sanctions-on-israeli-settlements-in-west-bank",
+    "event_codes": {
+      "17": 3,
+      "20": 3
+    },
+    "keywords": [
+      "2026",
+      "pakistan",
+      "welcomes",
+      "led",
+      "sanctions",
+      "israeli",
+      "settlements",
+      "west",
+      "bank"
     ]
   },
   "SAU": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.newsday.com/news/nation/iran-us-war-houthis-yemen-iraq-blockade-g15257",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/saudiled-coalition-and-houthis-trade-strikes-as-yemen-conflict-deepens-101788981022259.html",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 4
+    },
+    "keywords": [
+      "world",
+      "news",
+      "news",
+      "saudiled",
+      "coalition",
+      "and",
+      "houthis",
+      "trade",
+      "strikes",
+      "yemen",
+      "conflict",
+      "deepens",
+      "101788981022259.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.algemeiner.com/2026/09/09/britains-reset-is-an-admission-not-a-policy/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "britains",
+      "reset",
+      "admission",
+      "not",
+      "policy"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.39,
+    "count": 3,
+    "top_news": "http://www.saltlakecitysun.com/news/279294595/us-eyes-venezuela-s-gold-and-critical-minerals-after-oil-push",
+    "event_codes": {
+      "15": 2,
+      "19": 1
     },
     "keywords": [
       "news",
-      "nation",
-      "iran",
-      "war",
+      "279294595",
+      "eyes",
+      "venezuela",
+      "gold",
+      "and",
+      "critical",
+      "minerals",
+      "after",
+      "oil",
+      "push"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.8,
+    "count": 6,
+    "top_news": "https://www.hindustantimes.com/world-news/us-news/saudiled-coalition-and-houthis-trade-strikes-as-yemen-conflict-deepens-101788981022259.html",
+    "event_codes": {
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "world",
+      "news",
+      "news",
+      "saudiled",
+      "coalition",
+      "and",
       "houthis",
+      "trade",
+      "strikes",
       "yemen",
-      "iraq",
-      "blockade",
-      "g15257"
+      "conflict",
+      "deepens",
+      "101788981022259.html"
     ]
   }
 }
