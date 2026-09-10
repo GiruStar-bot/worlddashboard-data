@@ -1,156 +1,106 @@
 {
-  "COD": {
+  "IDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.durangoherald.com/articles/associated-press/fire-in-eastern-congo-kills-at-least-24-students-at-2-schools/",
+    "top_news": "https://en.antaranews.com/news/430899/vp-calls-for-intensified-patrols-to-prevent-wildfires-through-2027",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "articles",
-      "associated",
-      "press",
-      "fire",
-      "eastern",
-      "congo",
-      "kills",
-      "least",
-      "students",
-      "schools"
+      "news",
+      "430899",
+      "calls",
+      "for",
+      "intensified",
+      "patrols",
+      "prevent",
+      "wildfires",
+      "through",
+      "2027"
     ]
   },
   "IRN": {
-    "risk_score": 9.22,
-    "count": 10,
-    "top_news": "https://www.thenationalnews.com/business/energy/2026/09/10/bab-al-mandeb-and-hormuz-ship-transits-plunge-as-war-intensifies/",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/10/multiple-us-military-aircraft-suffered-damage-in-overnight-strikes-on-jordan-air-base-cbs-says",
     "event_codes": {
-      "19": 8,
-      "15": 1,
+      "19": 7
+    },
+    "keywords": [
+      "ultime",
+      "notizie",
+      "reuters",
+      "2026",
+      "multiple",
+      "military",
+      "aircraft",
+      "suffered",
+      "damage",
+      "overnight",
+      "strikes",
+      "jordan",
+      "air",
+      "base",
+      "cbs",
+      "says"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://antonyloewenstein.com/taking-on-our-boys/",
+    "event_codes": {
+      "18": 3,
       "17": 1
     },
     "keywords": [
-      "business",
-      "energy",
-      "2026",
-      "bab",
-      "mandeb",
-      "and",
-      "hormuz",
-      "ship",
-      "transits",
-      "plunge",
-      "war",
-      "intensifies"
+      "taking",
+      "our",
+      "boys"
     ]
   },
-  "ISR": {
-    "risk_score": 12.25,
-    "count": 15,
-    "top_news": "https://www.omanobserver.om/article/1195956/world/asia/ansar-allah-seize-key-yemeni-red-sea-port",
+  "KHM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://variety.com/2026/film/reviews/the-fix-film-review-liam-neeson-1236857684/",
     "event_codes": {
-      "19": 7,
-      "17": 5,
-      "20": 2,
-      "16": 1
+      "19": 2
     },
     "keywords": [
-      "article",
-      "1195956",
-      "world",
-      "asia",
-      "ansar",
-      "allah",
-      "seize",
-      "key",
-      "yemeni",
-      "red",
-      "sea",
-      "port"
+      "2026",
+      "film",
+      "reviews",
+      "the",
+      "fix",
+      "film",
+      "review",
+      "liam",
+      "neeson",
+      "1236857684"
     ]
   },
   "NGA": {
-    "risk_score": 7.62,
-    "count": 11,
-    "top_news": "https://saharareporters.com/2026/09/10/aac-demands-probe-kano-critic-dan-shagamus-killing-after-he-pleaded-protection-threats",
+    "risk_score": 4.1,
+    "count": 6,
+    "top_news": "https://dailypost.ng/2026/09/10/kaduna-govt-puts-medical-rapid-response-teams-on-alert-over-diphtheria-disease-threats/",
     "event_codes": {
-      "17": 5,
-      "14": 2,
-      "19": 2,
-      "16": 1,
-      "18": 1
+      "15": 5,
+      "17": 1
     },
     "keywords": [
       "2026",
-      "aac",
-      "demands",
-      "probe",
-      "kano",
-      "critic",
-      "dan",
-      "shagamus",
-      "killing",
-      "after",
-      "pleaded",
-      "protection",
+      "kaduna",
+      "govt",
+      "puts",
+      "medical",
+      "rapid",
+      "response",
+      "teams",
+      "alert",
+      "over",
+      "diphtheria",
+      "disease",
       "threats"
-    ]
-  },
-  "SAU": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.oilandgas360.com/oil-surges-6-brent-and-us-crude-both-surpass-100-on-more-tanker-attacks/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "oil",
-      "surges",
-      "brent",
-      "and",
-      "crude",
-      "both",
-      "surpass",
-      "100",
-      "more",
-      "tanker",
-      "attacks"
-    ]
-  },
-  "VNM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.greanvillepost.com/author/jeremy-kuzmarov/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "author",
-      "jeremy",
-      "kuzmarov"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.arabnews.com/middle-east/yemens-military-houthi-capture-of-bab-el-mandeb-would-threaten-international-trade-3001285",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "yemens",
-      "military",
-      "houthi",
-      "capture",
-      "bab",
-      "mandeb",
-      "would",
-      "threaten",
-      "international",
-      "trade",
-      "3001285"
     ]
   }
 }
