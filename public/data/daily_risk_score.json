@@ -1,80 +1,153 @@
 {
   "IRN": {
-    "risk_score": 29.05,
-    "count": 36,
-    "top_news": "https://www.miragenews.com/iran-protesters-face-unlawful-execution-campaign-1741827/",
+    "risk_score": 7.92,
+    "count": 8,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/898475/exclusion-zone-in-hormuz-iran-strikes-uss-washington-with-bassir-repels-30-us-ships-500-km-away-shock-in-jordan",
     "event_codes": {
-      "18": 13,
-      "17": 12,
-      "19": 10,
-      "14": 1
-    },
-    "keywords": [
-      "iran",
-      "protesters",
-      "face",
-      "unlawful",
-      "execution",
-      "campaign",
-      "1741827"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.8,
-    "count": 7,
-    "top_news": "https://www.bssnews.net/international/422992",
-    "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "international",
-      "422992"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.bssnews.net/international/422991",
-    "event_codes": {
-      "19": 2,
+      "19": 7,
       "17": 1
     },
     "keywords": [
-      "international",
-      "422991"
+      "diethni",
+      "articles",
+      "898475",
+      "exclusion",
+      "zone",
+      "hormuz",
+      "iran",
+      "strikes",
+      "uss",
+      "washington",
+      "with",
+      "bassir",
+      "repels",
+      "ships",
+      "500",
+      "away",
+      "shock",
+      "jordan"
     ]
   },
-  "VEN": {
+  "ISR": {
+    "risk_score": 2.34,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/flashes/693330",
+    "event_codes": {
+      "17": 3
+    },
+    "keywords": [
+      "flashes",
+      "693330"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/898475/exclusion-zone-in-hormuz-iran-strikes-uss-washington-with-bassir-repels-30-us-ships-500-km-away-shock-in-jordan",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "898475",
+      "exclusion",
+      "zone",
+      "hormuz",
+      "iran",
+      "strikes",
+      "uss",
+      "washington",
+      "with",
+      "bassir",
+      "repels",
+      "ships",
+      "500",
+      "away",
+      "shock",
+      "jordan"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/09/kano-political-commentator-people-were-after-his-life-family-reveals/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "kano",
+      "political",
+      "commentator",
+      "people",
+      "were",
+      "after",
+      "his",
+      "life",
+      "family",
+      "reveals"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymail.com/news/article-16120007/Iran-Hamas-Israel-Andy-Burnham-sanctions-Miliband-Trump.html",
+    "event_codes": {
+      "20": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16120007",
+      "iran",
+      "hamas",
+      "israel",
+      "andy",
+      "burnham",
+      "sanctions",
+      "miliband",
+      "trump.html"
+    ]
+  },
+  "SAU": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://arizonadailyindependent.com/2026/09/09/suspect-sought-in-shooting-death-following-argument-at-phoenix-home/",
+    "top_news": "https://english.aawsat.com/gulf/5316660-mwl-condemns-houthis%E2%80%99-continued-attacks-saudi-arabia",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "2026",
-      "suspect",
-      "sought",
-      "shooting",
-      "death",
-      "following",
-      "argument",
-      "phoenix",
-      "home"
+      "gulf",
+      "5316660",
+      "mwl",
+      "condemns",
+      "houthis%e2%80%99",
+      "continued",
+      "attacks",
+      "saudi",
+      "arabia"
     ]
   },
   "YEM": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.bssnews.net/international/422991",
+    "top_news": "https://english.aawsat.com/arab-world/5316714-yemeni-army-makes-battlefield-gains-al-jawf-marib",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "international",
-      "422991"
+      "arab",
+      "world",
+      "5316714",
+      "yemeni",
+      "army",
+      "makes",
+      "battlefield",
+      "gains",
+      "jawf",
+      "marib"
     ]
   }
 }
