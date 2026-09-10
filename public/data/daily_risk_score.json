@@ -1,61 +1,63 @@
 {
-  "ECU": {
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.wtvr.com/us-news/iran-war/trump-says-iran-war-will-end-after-the-midterm-elections",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "iran",
+      "war",
+      "trump",
+      "says",
+      "iran",
+      "war",
+      "will",
+      "end",
+      "after",
+      "the",
+      "midterm",
+      "elections"
+    ]
+  },
+  "ISR": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.nzherald.co.nz/world/israel-strikes-gaza-refugee-camp/H27XQJSG7JADXNCRJ7U6M3WLHE/",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "world",
+      "israel",
+      "strikes",
+      "gaza",
+      "refugee",
+      "camp",
+      "h27xqjsg7jadxncrj7u6m3wlhe"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.2news.com/news/national/rubio-says-us-is-working-with-allies-to-counter-drugs-but-will-still-blow-up/article_ace2f0bf-a894-5d37-9654-8ee6fe8a7bc1.html",
+    "top_news": "https://www.gdnonline.com:443/Details/1405943/Pakistan-warns-Iran-to-rein-in-Houthis-as-Riyadh-strikes-back",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "national",
-      "rubio",
-      "says",
-      "working",
-      "with",
-      "allies",
-      "counter",
-      "drugs",
-      "but",
-      "will",
-      "still",
-      "blow",
-      "article",
-      "ace2f0bf",
-      "a894",
-      "5d37",
-      "9654",
-      "8ee6fe8a7bc1.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.95,
-    "count": 16,
-    "top_news": "https://nypost.com/2026/09/09/world-news/netanyahu-to-sue-israeli-newspaper-over-reports-uae-warned-him-of-oct-7-days-before-terror-attack/",
-    "event_codes": {
-      "19": 8,
-      "14": 3,
-      "20": 3,
-      "17": 2
-    },
-    "keywords": [
-      "2026",
-      "world",
-      "news",
-      "netanyahu",
-      "sue",
-      "israeli",
-      "newspaper",
-      "over",
-      "reports",
-      "uae",
-      "warned",
-      "him",
-      "oct",
-      "days",
-      "before",
-      "terror",
-      "attack"
+      "details",
+      "1405943",
+      "pakistan",
+      "warns",
+      "iran",
+      "rein",
+      "houthis",
+      "riyadh",
+      "strikes",
+      "back"
     ]
   }
 }
