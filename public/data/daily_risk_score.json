@@ -1,153 +1,170 @@
 {
-  "IRN": {
-    "risk_score": 7.92,
-    "count": 8,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/898475/exclusion-zone-in-hormuz-iran-strikes-uss-washington-with-bassir-repels-30-us-ships-500-km-away-shock-in-jordan",
+  "IDN": {
+    "risk_score": 3.84,
+    "count": 5,
+    "top_news": "https://en.antaranews.com/news/430879/firefighters-extinguish-421-hectares-of-fires-in-six-provinces",
     "event_codes": {
-      "19": 7,
+      "15": 2,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "430879",
+      "firefighters",
+      "extinguish",
+      "421",
+      "hectares",
+      "fires",
+      "six",
+      "provinces"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.inquirer.com/news/sept-11-attacks-25-years-later-philadelphians-20260910.html",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "898475",
-      "exclusion",
-      "zone",
-      "hormuz",
-      "iran",
-      "strikes",
-      "uss",
-      "washington",
-      "with",
-      "bassir",
-      "repels",
-      "ships",
-      "500",
-      "away",
-      "shock",
-      "jordan"
+      "news",
+      "sept",
+      "attacks",
+      "years",
+      "later",
+      "philadelphians",
+      "20260910.html"
     ]
   },
   "ISR": {
-    "risk_score": 2.34,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/flashes/693330",
+    "risk_score": 8.1,
+    "count": 10,
+    "top_news": "https://froggyweb.com/2026/09/10/israeli-whistleblowers-detail-gaza-civilian-toll-in-venice-film/",
     "event_codes": {
-      "17": 3
+      "18": 4,
+      "17": 3,
+      "19": 3
     },
     "keywords": [
-      "flashes",
-      "693330"
+      "2026",
+      "israeli",
+      "whistleblowers",
+      "detail",
+      "gaza",
+      "civilian",
+      "toll",
+      "venice",
+      "film"
     ]
   },
   "JOR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/898475/exclusion-zone-in-hormuz-iran-strikes-uss-washington-with-bassir-repels-30-us-ships-500-km-away-shock-in-jordan",
+    "top_news": "https://nanaimobulletin.com/2026/09/10/ample-dna-texts-prove-guilt-of-man-in-killing-at-nanaimo-fast-food-joint-says-crown/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "898475",
-      "exclusion",
-      "zone",
-      "hormuz",
-      "iran",
-      "strikes",
-      "uss",
-      "washington",
-      "with",
-      "bassir",
-      "repels",
-      "ships",
-      "500",
-      "away",
-      "shock",
-      "jordan"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.vanguardngr.com/2026/09/kano-political-commentator-people-were-after-his-life-family-reveals/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
       "2026",
-      "kano",
-      "political",
-      "commentator",
-      "people",
-      "were",
-      "after",
-      "his",
-      "life",
-      "family",
-      "reveals"
+      "ample",
+      "dna",
+      "texts",
+      "prove",
+      "guilt",
+      "man",
+      "killing",
+      "nanaimo",
+      "fast",
+      "food",
+      "joint",
+      "says",
+      "crown"
     ]
   },
-  "PSE": {
+  "NER": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dailymail.com/news/article-16120007/Iran-Hamas-Israel-Andy-Burnham-sanctions-Miliband-Trump.html",
+    "top_news": "https://defenceweb.co.za/security/national-security/failed-niger-coup-a-warning-to-sahel-military-leaders/",
     "event_codes": {
-      "20": 2
+      "19": 2
     },
     "keywords": [
-      "news",
-      "article",
-      "16120007",
-      "iran",
-      "hamas",
-      "israel",
-      "andy",
-      "burnham",
-      "sanctions",
-      "miliband",
-      "trump.html"
+      "security",
+      "national",
+      "security",
+      "failed",
+      "niger",
+      "coup",
+      "warning",
+      "sahel",
+      "military",
+      "leaders"
     ]
   },
   "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/gulf/5316660-mwl-condemns-houthis%E2%80%99-continued-attacks-saudi-arabia",
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint",
     "event_codes": {
-      "19": 4
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "gulf",
-      "5316660",
-      "mwl",
-      "condemns",
-      "houthis%e2%80%99",
-      "continued",
-      "attacks",
+      "opinions",
+      "2026",
+      "the",
+      "houthis",
+      "are",
+      "testing",
+      "the",
+      "limits",
       "saudi",
-      "arabia"
+      "restraint"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.ibtimes.co.uk/somali-asylum-seeker-guantanamo-transfer-1818955",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "somali",
+      "asylum",
+      "seeker",
+      "guantanamo",
+      "transfer",
+      "1818955"
+    ]
+  },
+  "TUR": {
+    "risk_score": 6.9,
+    "count": 14,
+    "top_news": "https://www.azernews.az/region/263691.html",
+    "event_codes": {
+      "16": 7,
+      "14": 4,
+      "17": 3
+    },
+    "keywords": [
+      "region",
+      "263691.html"
     ]
   },
   "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://english.aawsat.com/arab-world/5316714-yemeni-army-makes-battlefield-gains-al-jawf-marib",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.okaz.com.sa/politics/na/2265306",
     "event_codes": {
-      "19": 4
+      "19": 3,
+      "20": 3
     },
     "keywords": [
-      "arab",
-      "world",
-      "5316714",
-      "yemeni",
-      "army",
-      "makes",
-      "battlefield",
-      "gains",
-      "jawf",
-      "marib"
+      "politics",
+      "2265306"
     ]
   }
 }
