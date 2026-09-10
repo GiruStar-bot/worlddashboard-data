@@ -1,170 +1,157 @@
 {
-  "IDN": {
-    "risk_score": 3.84,
-    "count": 5,
-    "top_news": "https://en.antaranews.com/news/430879/firefighters-extinguish-421-hectares-of-fires-in-six-provinces",
+  "GUY": {
+    "risk_score": 3.92,
+    "count": 4,
+    "top_news": "https://kaieteurnewsonline.com/2026/09/10/student-hospitalised-others-injured-after-bee-attack-at-port-mourant-secondary/",
     "event_codes": {
-      "15": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "430879",
-      "firefighters",
-      "extinguish",
-      "421",
-      "hectares",
-      "fires",
-      "six",
-      "provinces"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.inquirer.com/news/sept-11-attacks-25-years-later-philadelphians-20260910.html",
-    "event_codes": {
-      "19": 2,
+      "19": 3,
       "17": 1
     },
     "keywords": [
-      "news",
-      "sept",
-      "attacks",
-      "years",
-      "later",
-      "philadelphians",
-      "20260910.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.1,
-    "count": 10,
-    "top_news": "https://froggyweb.com/2026/09/10/israeli-whistleblowers-detail-gaza-civilian-toll-in-venice-film/",
-    "event_codes": {
-      "18": 4,
-      "17": 3,
-      "19": 3
-    },
-    "keywords": [
       "2026",
-      "israeli",
-      "whistleblowers",
-      "detail",
-      "gaza",
-      "civilian",
-      "toll",
-      "venice",
-      "film"
+      "student",
+      "hospitalised",
+      "others",
+      "injured",
+      "after",
+      "bee",
+      "attack",
+      "port",
+      "mourant",
+      "secondary"
     ]
   },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://nanaimobulletin.com/2026/09/10/ample-dna-texts-prove-guilt-of-man-in-killing-at-nanaimo-fast-food-joint-says-crown/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "ample",
-      "dna",
-      "texts",
-      "prove",
-      "guilt",
-      "man",
-      "killing",
-      "nanaimo",
-      "fast",
-      "food",
-      "joint",
-      "says",
-      "crown"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://defenceweb.co.za/security/national-security/failed-niger-coup-a-warning-to-sahel-military-leaders/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "security",
-      "national",
-      "security",
-      "failed",
-      "niger",
-      "coup",
-      "warning",
-      "sahel",
-      "military",
-      "leaders"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/opinions/2026/9/10/the-houthis-are-testing-the-limits-of-saudi-restraint",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "opinions",
-      "2026",
-      "the",
-      "houthis",
-      "are",
-      "testing",
-      "the",
-      "limits",
-      "saudi",
-      "restraint"
-    ]
-  },
-  "SOM": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.ibtimes.co.uk/somali-asylum-seeker-guantanamo-transfer-1818955",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "somali",
-      "asylum",
-      "seeker",
-      "guantanamo",
-      "transfer",
-      "1818955"
-    ]
-  },
-  "TUR": {
-    "risk_score": 6.9,
-    "count": 14,
-    "top_news": "https://www.azernews.az/region/263691.html",
-    "event_codes": {
-      "16": 7,
-      "14": 4,
-      "17": 3
-    },
-    "keywords": [
-      "region",
-      "263691.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 6.0,
+  "IRN": {
+    "risk_score": 5.95,
     "count": 6,
-    "top_news": "https://www.okaz.com.sa/politics/na/2265306",
+    "top_news": "https://pakobserver.net/oil-prices-surge-above-105-as-iran-war-raises-supply-fears/",
     "event_codes": {
       "19": 3,
       "20": 3
     },
     "keywords": [
+      "oil",
+      "prices",
+      "surge",
+      "above",
+      "105",
+      "iran",
+      "war",
+      "raises",
+      "supply",
+      "fears"
+    ]
+  },
+  "ISR": {
+    "risk_score": 12.91,
+    "count": 14,
+    "top_news": "http://www.jpost.com/american-politics/article-908297",
+    "event_codes": {
+      "19": 7,
+      "17": 3,
+      "16": 2,
+      "14": 1,
+      "20": 1
+    },
+    "keywords": [
+      "american",
       "politics",
-      "2265306"
+      "article",
+      "908297"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://truthout.org/articles/cuny-discloses-investments-in-israeli-apartheid-after-years-long-campaign/",
+    "event_codes": {
+      "20": 2,
+      "18": 1
+    },
+    "keywords": [
+      "articles",
+      "cuny",
+      "discloses",
+      "investments",
+      "israeli",
+      "apartheid",
+      "after",
+      "years",
+      "long",
+      "campaign"
+    ]
+  },
+  "SAU": {
+    "risk_score": 6.9,
+    "count": 8,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2596802/after-saudi-attack-pakistan-considering-airstrikes-against-houthis-in-yemen.html",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "2596802",
+      "after",
+      "saudi",
+      "attack",
+      "pakistan",
+      "considering",
+      "airstrikes",
+      "against",
+      "houthis",
+      "yemen.html"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.jpost.com/middle-east/article-908323",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "908323"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "http://www.jpost.com/middle-east/article-908323",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "article",
+      "908323"
+    ]
+  },
+  "YEM": {
+    "risk_score": 7.9,
+    "count": 10,
+    "top_news": "https://www.yahoo.com/news/articles/iranian-arms-advice-helped-yemens-162547182.html",
+    "event_codes": {
+      "19": 5,
+      "17": 4,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "iranian",
+      "arms",
+      "advice",
+      "helped",
+      "yemens",
+      "162547182.html"
     ]
   }
 }
