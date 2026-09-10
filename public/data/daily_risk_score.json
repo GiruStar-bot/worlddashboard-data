@@ -1,63 +1,80 @@
 {
   "IRN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.wtvr.com/us-news/iran-war/trump-says-iran-war-will-end-after-the-midterm-elections",
+    "risk_score": 29.05,
+    "count": 36,
+    "top_news": "https://www.miragenews.com/iran-protesters-face-unlawful-execution-campaign-1741827/",
     "event_codes": {
-      "19": 5
+      "18": 13,
+      "17": 12,
+      "19": 10,
+      "14": 1
     },
     "keywords": [
-      "news",
       "iran",
-      "war",
-      "trump",
-      "says",
-      "iran",
-      "war",
-      "will",
-      "end",
-      "after",
-      "the",
-      "midterm",
-      "elections"
+      "protesters",
+      "face",
+      "unlawful",
+      "execution",
+      "campaign",
+      "1741827"
     ]
   },
   "ISR": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://www.nzherald.co.nz/world/israel-strikes-gaza-refugee-camp/H27XQJSG7JADXNCRJ7U6M3WLHE/",
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.bssnews.net/international/422992",
     "event_codes": {
-      "19": 3,
-      "16": 1
+      "19": 4,
+      "17": 2,
+      "18": 1
     },
     "keywords": [
-      "world",
-      "israel",
-      "strikes",
-      "gaza",
-      "refugee",
-      "camp",
-      "h27xqjsg7jadxncrj7u6m3wlhe"
+      "international",
+      "422992"
     ]
   },
   "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.gdnonline.com:443/Details/1405943/Pakistan-warns-Iran-to-rein-in-Houthis-as-Riyadh-strikes-back",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.bssnews.net/international/422991",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "details",
-      "1405943",
-      "pakistan",
-      "warns",
-      "iran",
-      "rein",
-      "houthis",
-      "riyadh",
-      "strikes",
-      "back"
+      "international",
+      "422991"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://arizonadailyindependent.com/2026/09/09/suspect-sought-in-shooting-death-following-argument-at-phoenix-home/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "suspect",
+      "sought",
+      "shooting",
+      "death",
+      "following",
+      "argument",
+      "phoenix",
+      "home"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.bssnews.net/international/422991",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "international",
+      "422991"
     ]
   }
 }
