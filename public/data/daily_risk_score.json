@@ -1,41 +1,54 @@
 {
+  "IRN": {
+    "risk_score": 5.3,
+    "count": 6,
+    "top_news": "https://blueprint.ng/iran-resumes-ballistic-missile-production-using-existing-components-report/",
+    "event_codes": {
+      "19": 4,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "resumes",
+      "ballistic",
+      "missile",
+      "production",
+      "using",
+      "existing",
+      "components",
+      "report"
+    ]
+  },
   "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.abc15.com/news/region-southeast-valley/gilbert/former-national-guard-major-says-9-11-turned-one-weekend-a-month-into-a-lifetime-of-sacrifice",
+    "top_news": "https://www.spotlightnepal.com/2026/09/11/us-marks-25-years-911-attacks/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "region",
-      "southeast",
-      "valley",
-      "gilbert",
-      "former",
-      "national",
-      "guard",
-      "major",
-      "says",
-      "turned",
-      "one",
-      "weekend",
-      "month",
-      "into",
-      "lifetime",
-      "sacrifice"
+      "2026",
+      "marks",
+      "years",
+      "911",
+      "attacks"
     ]
   },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://eng.chinamil.com.cn/2025xb/W/N/16485042.html",
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://www.jpost.com/israel-news/article-908370",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "2025xb",
-      "16485042.html"
+      "israel",
+      "news",
+      "article",
+      "908370"
     ]
   }
 }
