@@ -1,136 +1,36 @@
 {
-  "IRN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.catholicworldreport.com/2026/09/11/9-11-revisited/",
+  "BRA": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/09/12/corruption-probe-targets-brazilian-presidential-candidate-flavio-bolsonaro",
     "event_codes": {
-      "18": 2,
+      "19": 3,
       "17": 1
     },
     "keywords": [
+      "category",
+      "highlight",
       "2026",
-      "revisited"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 4.32,
-    "count": 6,
-    "top_news": "https://www.wxxinews.org/local-news/2026-09-11/officials-dedicate-memorial-on-the-25th-anniversary-of-9-11",
-    "event_codes": {
-      "15": 6
-    },
-    "keywords": [
-      "local",
-      "news",
-      "2026",
-      "officials",
-      "dedicate",
-      "memorial",
-      "the",
-      "25th",
-      "anniversary"
+      "corruption",
+      "probe",
+      "targets",
+      "brazilian",
+      "presidential",
+      "candidate",
+      "flavio",
+      "bolsonaro"
     ]
   },
   "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://news.az/news/court-says-chatgpt-invented-police-testimony-in-murder-case",
+    "top_news": "https://www.israelnationalnews.com/news/433087",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "court",
-      "says",
-      "chatgpt",
-      "invented",
-      "police",
-      "testimony",
-      "murder",
-      "case"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.breitbart.com/national-security/2026/09/11/israel-destroys-underground-hezbollah-fortress-in-lebanon/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "national",
-      "security",
-      "2026",
-      "israel",
-      "destroys",
-      "underground",
-      "hezbollah",
-      "fortress",
-      "lebanon"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.55,
-    "count": 7,
-    "top_news": "https://dailytrust.com/protest-in-sokoto-over-renewed-bandits-attacks/",
-    "event_codes": {
-      "14": 4,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "protest",
-      "sokoto",
-      "over",
-      "renewed",
-      "bandits",
-      "attacks"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.nzherald.co.nz/world/houthis-take-over-yemens-red-sea-coast-a-vital-route-for-global-shipping/QSOHUY6ZJFB2ZHSHHQAL4O37FE/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "world",
-      "houthis",
-      "take",
-      "over",
-      "yemens",
-      "red",
-      "sea",
-      "coast",
-      "vital",
-      "route",
-      "for",
-      "global",
-      "shipping",
-      "qsohuy6zjfb2zhshhqal4o37fe"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.9,
-    "count": 4,
-    "top_news": "https://www.fox10phoenix.com/news/fbi-agents-relentless-fight-against-terrorism-his-tragic-end",
-    "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "fbi",
-      "agents",
-      "relentless",
-      "fight",
-      "against",
-      "terrorism",
-      "his",
-      "tragic",
-      "end"
+      "433087"
     ]
   }
 }
