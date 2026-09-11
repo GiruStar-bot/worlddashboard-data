@@ -1,60 +1,188 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.news24.com/world/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane-20260911-0884",
+  "BHR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.okaz.com.sa/politics/na/2265524",
     "event_codes": {
-      "19": 5,
+      "19": 4
+    },
+    "keywords": [
+      "politics",
+      "2265524"
+    ]
+  },
+  "ECU": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen",
+    "event_codes": {
+      "14": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "handcuffed",
+      "and",
+      "blindfolded",
+      "the",
+      "targeting",
+      "ecuadorian",
+      "fishermen"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://aninews.in/news/world/asia/8220had-nice-talks-with-pm-modi8230will-pave-way-for-further-cooperation8221-iran-president20260911225516/",
+    "event_codes": {
+      "19": 3,
       "17": 1
     },
     "keywords": [
+      "news",
       "world",
-      "yemens",
-      "houthis",
-      "reach",
-      "strategic",
-      "island",
-      "mouth",
-      "vital",
-      "shipping",
-      "lane",
-      "20260911",
-      "0884"
+      "asia",
+      "8220had",
+      "nice",
+      "talks",
+      "with",
+      "modi8230will",
+      "pave",
+      "way",
+      "for",
+      "further",
+      "cooperation8221",
+      "iran",
+      "president20260911225516"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 8.84,
+    "count": 10,
+    "top_news": "https://www.pressdemocrat.com/2021/09/10/how-911-impacted-the-lives-of-a-santa-rosa-mother-a-lawmaker-two-iraq-war-veterans/",
+    "event_codes": {
+      "19": 6,
+      "15": 2,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "2021",
+      "how",
+      "911",
+      "impacted",
+      "the",
+      "lives",
+      "santa",
+      "rosa",
+      "mother",
+      "lawmaker",
+      "two",
+      "iraq",
+      "war",
+      "veterans"
+    ]
+  },
+  "ISR": {
+    "risk_score": 10.6,
+    "count": 12,
+    "top_news": "https://www.el-balad.com/17050374",
+    "event_codes": {
+      "17": 7,
+      "19": 5
+    },
+    "keywords": [
+      "17050374"
+    ]
+  },
+  "LBN": {
+    "risk_score": 7.52,
+    "count": 8,
+    "top_news": "https://english.aawsat.com/arab-world/5317257-ali-al-taher-demolition-leaves-nabatieh-residents-wondering-what-comes-next",
+    "event_codes": {
+      "17": 6,
+      "19": 2
+    },
+    "keywords": [
+      "arab",
+      "world",
+      "5317257",
+      "ali",
+      "taher",
+      "demolition",
+      "leaves",
+      "nabatieh",
+      "residents",
+      "wondering",
+      "what",
+      "comes",
+      "next"
+    ]
+  },
+  "NGA": {
+    "risk_score": 29.27,
+    "count": 36,
+    "top_news": "https://dailytrust.com/4-policemen-8-villagers-shot-dead-in-fresh-benue-attack/",
+    "event_codes": {
+      "19": 18,
+      "17": 10,
+      "18": 4,
+      "14": 3,
+      "15": 1
+    },
+    "keywords": [
+      "policemen",
+      "villagers",
+      "shot",
+      "dead",
+      "fresh",
+      "benue",
+      "attack"
     ]
   },
   "SAU": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.hurriyetdailynews.com/houthis-complete-takeover-of-bab-al-mandab-area-226767",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.amny.com/news/9-11-memorial-25th-anniversary-emotions/",
     "event_codes": {
-      "19": 3,
-      "17": 2
+      "19": 3
     },
     "keywords": [
-      "houthis",
-      "complete",
-      "takeover",
-      "bab",
-      "mandab",
-      "area",
-      "226767"
+      "news",
+      "memorial",
+      "25th",
+      "anniversary",
+      "emotions"
     ]
   },
-  "YEM": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.miragenews.com/fighting-spurs-displacement-in-southwest-yemen-1742881/",
+  "THA": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.journalgazette.net/news/lindsay-clancy-s-lawyer-asks-the-judge-to-spare-her-a-second-trial-for-killing/article_513abf22-2114-4e0c-bc38-fabdfeae6c0a.html",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 4
     },
     "keywords": [
-      "fighting",
-      "spurs",
-      "displacement",
-      "southwest",
-      "yemen",
-      "1742881"
+      "news",
+      "lindsay",
+      "clancy",
+      "lawyer",
+      "asks",
+      "the",
+      "judge",
+      "spare",
+      "her",
+      "second",
+      "trial",
+      "for",
+      "killing",
+      "article",
+      "513abf22",
+      "2114",
+      "4e0c",
+      "bc38",
+      "fabdfeae6c0a.html"
     ]
   }
 }
