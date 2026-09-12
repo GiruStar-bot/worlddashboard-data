@@ -1,26 +1,50 @@
 {
   "NGA": {
-    "risk_score": 2.7,
-    "count": 4,
-    "top_news": "https://www.premiumtimesng.com/opinion/908976-bureaucratic-sabotage-how-corruption-at-nafdac-endangers-national-security-by-umar-yakubu.html",
+    "risk_score": 12.3,
+    "count": 15,
+    "top_news": "https://www.premiumtimesng.com/news/top-news/908996-court-remands-man-accused-of-killing-nephew-niece.html",
     "event_codes": {
-      "14": 2,
-      "17": 1,
-      "18": 1
+      "18": 5,
+      "19": 5,
+      "17": 3,
+      "14": 2
     },
     "keywords": [
-      "opinion",
-      "908976",
-      "bureaucratic",
-      "sabotage",
-      "how",
-      "corruption",
-      "nafdac",
-      "endangers",
-      "national",
-      "security",
-      "umar",
-      "yakubu.html"
+      "news",
+      "top",
+      "news",
+      "908996",
+      "court",
+      "remands",
+      "man",
+      "accused",
+      "killing",
+      "nephew",
+      "niece.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.42,
+    "count": 7,
+    "top_news": "https://www.arabnews.com/middle-east/prison-riot-in-kurdish-majority-town-kills-at-least-seven-in-syria-3001448",
+    "event_codes": {
+      "14": 3,
+      "18": 3,
+      "15": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "prison",
+      "riot",
+      "kurdish",
+      "majority",
+      "town",
+      "kills",
+      "least",
+      "seven",
+      "syria",
+      "3001448"
     ]
   }
 }
