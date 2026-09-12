@@ -1,56 +1,61 @@
 {
-  "IRN": {
+  "IDN": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://timesofindia.indiatimes.com/world/rest-of-world/bali-bans-australian-tourist-billy-aspinall-for-10-years-after-cctv-allegedly-captures-public-sex-act-locals-perform-purifying-rituals/articleshow/134156391.cms",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "world",
+      "rest",
+      "world",
+      "bali",
+      "bans",
+      "australian",
+      "tourist",
+      "billy",
+      "aspinall",
+      "for",
+      "years",
+      "after",
+      "cctv",
+      "allegedly",
+      "captures",
+      "public",
+      "sex",
+      "act",
+      "locals",
+      "perform",
+      "purifying",
+      "rituals",
+      "articleshow",
+      "134156391.cms"
+    ]
+  },
+  "IRQ": {
     "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.wsbradio.com/news/world/iraq-races-contain/ASCOSWRKEI77HDB25VP26GEHYM/",
+    "top_news": "https://www.breitbart.com/news/iraq-races-to-contain-fallout-after-local-iran-backed-militias-accused-of-attacking-saudi-pipeline/",
     "event_codes": {
       "19": 2,
       "16": 1
     },
     "keywords": [
       "news",
-      "world",
       "iraq",
       "races",
       "contain",
-      "ascoswrkei77hdb25vp26gehym"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.prokerala.com/news/articles/a1811628.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1811628.html"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.channel4.com/news/yemen-thousands-flee-amid-reports-houthis-kill-hundreds-in-advance-across-red-sea-coast",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "yemen",
-      "thousands",
-      "flee",
-      "amid",
-      "reports",
-      "houthis",
-      "kill",
-      "hundreds",
-      "advance",
-      "across",
-      "red",
-      "sea",
-      "coast"
+      "fallout",
+      "after",
+      "local",
+      "iran",
+      "backed",
+      "militias",
+      "accused",
+      "attacking",
+      "saudi",
+      "pipeline"
     ]
   }
 }
