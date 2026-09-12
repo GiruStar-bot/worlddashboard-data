@@ -1,36 +1,142 @@
 {
-  "BRA": {
-    "risk_score": 3.5,
+  "BOL": {
+    "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/09/12/corruption-probe-targets-brazilian-presidential-candidate-flavio-bolsonaro",
+    "top_news": "http://www.philippinetimes.com/news/279301470/prominent-rights-lawyer-imprisoned-in-belarus",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 4
     },
     "keywords": [
-      "category",
-      "highlight",
-      "2026",
-      "corruption",
-      "probe",
-      "targets",
-      "brazilian",
-      "presidential",
-      "candidate",
-      "flavio",
-      "bolsonaro"
+      "news",
+      "279301470",
+      "prominent",
+      "rights",
+      "lawyer",
+      "imprisoned",
+      "belarus"
+    ]
+  },
+  "IRN": {
+    "risk_score": 7.65,
+    "count": 8,
+    "top_news": "https://aliran.com/web-specials/iran-reverses-the-asymmetry",
+    "event_codes": {
+      "19": 7,
+      "14": 1
+    },
+    "keywords": [
+      "web",
+      "specials",
+      "iran",
+      "reverses",
+      "the",
+      "asymmetry"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.opinionnigeria.com/25-years-down-the-line-9-11-remains-a-deeply-felt-reality-for-millions-worldwide-by-isaac-asabor/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "years",
+      "down",
+      "the",
+      "line",
+      "remains",
+      "deeply",
+      "felt",
+      "reality",
+      "for",
+      "millions",
+      "worldwide",
+      "isaac",
+      "asabor"
     ]
   },
   "ISR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.gdnonline.com:443/Details/1406160",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "details",
+      "1406160"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.1,
+    "count": 12,
+    "top_news": "https://www.opinionnigeria.com/killing-of-nigerians-there-will-be-consequences-if-attacks-continue-fani-kayode-warns-south-africa/",
+    "event_codes": {
+      "19": 5,
+      "18": 4,
+      "17": 3
+    },
+    "keywords": [
+      "killing",
+      "nigerians",
+      "there",
+      "will",
+      "consequences",
+      "attacks",
+      "continue",
+      "fani",
+      "kayode",
+      "warns",
+      "south",
+      "africa"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.thedailymeal.com/2252541/candy-wrappers-fifties-deserve-a-revival/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "2252541",
+      "candy",
+      "wrappers",
+      "fifties",
+      "deserve",
+      "revival"
+    ]
+  },
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.israelnationalnews.com/news/433087",
+    "top_news": "https://www.gdnonline.com:443/Details/1406157",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "details",
+      "1406157"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.yahoo.com/news/politics/articles/ohio-sen-jon-husteds-campaign-005807308.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "433087"
+      "politics",
+      "articles",
+      "ohio",
+      "sen",
+      "jon",
+      "husteds",
+      "campaign",
+      "005807308.html"
     ]
   }
 }
