@@ -1,116 +1,60 @@
 {
-  "AGO": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://kaieteurnewsonline.com/2026/09/13/fidel-castros-100-birthday-commemorated-in-guyana-and-worldwide/",
+  "CHL": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://gothamist.com/news/east-harlem-man-dies-3-weeks-after-violent-clash-outside-carver-houses",
     "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "east",
+      "harlem",
+      "man",
+      "dies",
+      "weeks",
+      "after",
+      "violent",
+      "clash",
+      "outside",
+      "carver",
+      "houses"
+    ]
+  },
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/news/433088",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "433088"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 5.45,
+    "count": 8,
+    "top_news": "https://www.iraqinews.com/iraq/iraq-seizes-drone-launchers-near-iran-to-stop-attacks-on-saudi-arabia/",
+    "event_codes": {
+      "16": 4,
       "19": 4
     },
     "keywords": [
-      "2026",
-      "fidel",
-      "castros",
-      "100",
-      "birthday",
-      "commemorated",
-      "guyana",
-      "and",
-      "worldwide"
-    ]
-  },
-  "GUY": {
-    "risk_score": 6.8,
-    "count": 7,
-    "top_news": "https://kaieteurnewsonline.com/2026/09/13/the-political-mindset-of-the-ppp-is-a-continuation-of-our-colonial-past/",
-    "event_codes": {
-      "19": 5,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "the",
-      "political",
-      "mindset",
-      "the",
-      "ppp",
-      "continuation",
-      "our",
-      "colonial",
-      "past"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/news/tucker-carlson-says-israel-sought-regional-hegemony-weakening-gulf-states-through-iran-war",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "tucker",
-      "carlson",
-      "says",
-      "israel",
-      "sought",
-      "regional",
-      "hegemony",
-      "weakening",
-      "gulf",
-      "states",
-      "through",
+      "iraq",
+      "iraq",
+      "seizes",
+      "drone",
+      "launchers",
+      "near",
       "iran",
-      "war"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/news/tucker-carlson-says-israel-sought-regional-hegemony-weakening-gulf-states-through-iran-war",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "tucker",
-      "carlson",
-      "says",
-      "israel",
-      "sought",
-      "regional",
-      "hegemony",
-      "weakening",
-      "gulf",
-      "states",
-      "through",
-      "iran",
-      "war"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/news/tucker-carlson-says-israel-sought-regional-hegemony-weakening-gulf-states-through-iran-war",
-    "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "tucker",
-      "carlson",
-      "says",
-      "israel",
-      "sought",
-      "regional",
-      "hegemony",
-      "weakening",
-      "gulf",
-      "states",
-      "through",
-      "iran",
-      "war"
+      "stop",
+      "attacks",
+      "saudi",
+      "arabia"
     ]
   }
 }
