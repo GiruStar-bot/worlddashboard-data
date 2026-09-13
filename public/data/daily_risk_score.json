@@ -1,1 +1,53 @@
-{}
+{
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://isp.netscape.com:443/news/world/story/0001/20260913/27d276de911a983cdb1b81101ee56083",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "story",
+      "0001",
+      "20260913",
+      "27d276de911a983cdb1b81101ee56083"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "http://www.bignewsnetwork.com/news/279304343/pezeshkian-condemns-us-war-against-iranians",
+    "event_codes": {
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "279304343",
+      "pezeshkian",
+      "condemns",
+      "war",
+      "against",
+      "iranians"
+    ]
+  },
+  "NGA": {
+    "risk_score": 9.9,
+    "count": 11,
+    "top_news": "https://punchng.com/army-confirms-abduction-of-six-islamic-scholars-in-zamfara/",
+    "event_codes": {
+      "18": 11
+    },
+    "keywords": [
+      "army",
+      "confirms",
+      "abduction",
+      "six",
+      "islamic",
+      "scholars",
+      "zamfara"
+    ]
+  }
+}
