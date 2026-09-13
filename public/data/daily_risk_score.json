@@ -1,60 +1,52 @@
 {
-  "CHL": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://gothamist.com/news/east-harlem-man-dies-3-weeks-after-violent-clash-outside-carver-houses",
+  "ISR": {
+    "risk_score": 8.04,
+    "count": 9,
+    "top_news": "https://www.irishtimes.com/opinion/editorials/2026/09/13/the-irish-times-view-on-the-west-bank-israels-increasing-isolation/",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "17": 4,
+      "20": 3,
+      "19": 2
     },
     "keywords": [
-      "news",
-      "east",
-      "harlem",
-      "man",
-      "dies",
-      "weeks",
-      "after",
-      "violent",
-      "clash",
-      "outside",
-      "carver",
-      "houses"
+      "opinion",
+      "editorials",
+      "2026",
+      "the",
+      "irish",
+      "times",
+      "view",
+      "the",
+      "west",
+      "bank",
+      "israels",
+      "increasing",
+      "isolation"
     ]
   },
-  "EGY": {
+  "YEM": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.israelnationalnews.com/news/433088",
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-military-launches-air-raids-houthi-vehicles-dhu-bab-mocha",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "433088"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 5.45,
-    "count": 8,
-    "top_news": "https://www.iraqinews.com/iraq/iraq-seizes-drone-launchers-near-iran-to-stop-attacks-on-saudi-arabia/",
-    "event_codes": {
-      "16": 4,
-      "19": 4
-    },
-    "keywords": [
-      "iraq",
-      "iraq",
-      "seizes",
-      "drone",
-      "launchers",
-      "near",
-      "iran",
-      "stop",
-      "attacks",
-      "saudi",
-      "arabia"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "yemens",
+      "military",
+      "launches",
+      "air",
+      "raids",
+      "houthi",
+      "vehicles",
+      "dhu",
+      "bab",
+      "mocha"
     ]
   }
 }
