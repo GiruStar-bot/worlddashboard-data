@@ -1,67 +1,72 @@
 {
-  "IRN": {
-    "risk_score": 3.3,
-    "count": 6,
-    "top_news": "https://www.dailymail.com/news/article-16128909/US-Airman-stranded-Iran-parachute-broke.html",
+  "ISR": {
+    "risk_score": 18.32,
+    "count": 20,
+    "top_news": "https://english.wafa.ps/Pages/Details/174687",
     "event_codes": {
-      "17": 3,
-      "16": 2,
-      "19": 1
+      "19": 9,
+      "18": 5,
+      "17": 4,
+      "20": 2
     },
     "keywords": [
-      "news",
-      "article",
-      "16128909",
-      "airman",
-      "stranded",
-      "iran",
-      "parachute",
-      "broke.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.al-monitor.com/originals/2026/09/trump-downplays-report-china-entities-helped-iran-attack-killed-us-troops",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "trump",
-      "downplays",
-      "report",
-      "china",
-      "entities",
-      "helped",
-      "iran",
-      "attack",
-      "killed",
-      "troops"
+      "pages",
+      "details",
+      "174687"
     ]
   },
   "MYS": {
-    "risk_score": 2.76,
+    "risk_score": 2.5,
     "count": 3,
-    "top_news": "https://www.thestar.com.my/news/nation/2026/09/14/mmea-foils-bid-to-smuggle-over-a-tonne-of-cooking-oil-in-sandakan-waters",
+    "top_news": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o",
     "event_codes": {
-      "17": 3
+      "19": 2,
+      "17": 1
     },
     "keywords": [
       "news",
-      "nation",
+      "articles",
+      "ce87qzrz7p8o"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.44,
+    "count": 12,
+    "top_news": "https://www.nigerianeye.com/2026/09/suspected-bandits-attack-security-base.html",
+    "event_codes": {
+      "17": 5,
+      "19": 3,
+      "14": 2,
+      "15": 2
+    },
+    "keywords": [
       "2026",
-      "mmea",
-      "foils",
-      "bid",
-      "smuggle",
-      "over",
-      "tonne",
-      "cooking",
-      "oil",
-      "sandakan",
-      "waters"
+      "suspected",
+      "bandits",
+      "attack",
+      "security",
+      "base.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 6.92,
+    "count": 8,
+    "top_news": "https://www.chennaionline.com/news/houthi-rebels-capture-key-islands-in-southern-red-sea/",
+    "event_codes": {
+      "19": 6,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "houthi",
+      "rebels",
+      "capture",
+      "key",
+      "islands",
+      "southern",
+      "red",
+      "sea"
     ]
   }
 }
