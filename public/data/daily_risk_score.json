@@ -1,120 +1,78 @@
 {
   "IRN": {
-    "risk_score": 6.19,
-    "count": 7,
-    "top_news": "https://nypost.com/2026/09/15/us-news/rep-thomas-massie-moves-to-impeach-pete-hegseth-over-iran-war-will-force-house-vote-on-resolution/",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://truthout.org/articles/massie-moves-to-force-impeachment-vote-against-hegseth-citing-civilian-deaths/",
     "event_codes": {
-      "17": 2,
-      "18": 2,
-      "19": 2,
-      "16": 1
+      "19": 5,
+      "18": 1
     },
     "keywords": [
-      "2026",
-      "news",
-      "rep",
-      "thomas",
+      "articles",
       "massie",
       "moves",
-      "impeach",
-      "pete",
-      "hegseth",
-      "over",
-      "iran",
-      "war",
-      "will",
       "force",
-      "house",
+      "impeachment",
       "vote",
-      "resolution"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-chief-says-saudi-arabia-oil-pipeline-should-be-back-within",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "energy",
-      "chief",
-      "says",
-      "saudi",
-      "arabia",
-      "oil",
-      "pipeline",
-      "should",
-      "back",
-      "within"
+      "against",
+      "hegseth",
+      "citing",
+      "civilian",
+      "deaths"
     ]
   },
   "ISR": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "http://www.jpost.com/diaspora/antisemitism/article-908697",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://whbl.com/2026/09/15/trump-administration-plans-2-8-billion-munitions-sale-to-israel-sources-say/",
     "event_codes": {
-      "19": 5,
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "trump",
+      "administration",
+      "plans",
+      "billion",
+      "munitions",
+      "sale",
+      "israel",
+      "sources",
+      "say"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://reason.com/2026/09/15/thomas-massie-just-filed-8-articles-of-impeachment-against-pete-hegseth/",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "diaspora",
-      "antisemitism",
-      "article",
-      "908697"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.al-monitor.com/originals/2026/09/saudi-egypt-demand-open-red-sea-riyadh-vows-hit-back-against-houthis",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "originals",
       "2026",
-      "saudi",
-      "egypt",
-      "demand",
-      "open",
-      "red",
-      "sea",
-      "riyadh",
-      "vows",
-      "hit",
-      "back",
+      "thomas",
+      "massie",
+      "just",
+      "filed",
+      "articles",
+      "impeachment",
       "against",
-      "houthis"
+      "pete",
+      "hegseth"
     ]
   },
-  "TUR": {
-    "risk_score": 7.45,
-    "count": 10,
-    "top_news": "https://bianet.org/haber/journalist-tugba-tekerek-detained-over-interview-with-georgian-lgbti-activist-323497",
+  "YEM": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.khabaragency.net/news252968.html",
     "event_codes": {
-      "17": 6,
-      "19": 3,
-      "14": 1
+      "19": 2,
+      "14": 1,
+      "18": 1
     },
     "keywords": [
-      "haber",
-      "journalist",
-      "tugba",
-      "tekerek",
-      "detained",
-      "over",
-      "interview",
-      "with",
-      "georgian",
-      "lgbti",
-      "activist",
-      "323497"
+      "news252968.html"
     ]
   }
 }
