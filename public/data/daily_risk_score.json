@@ -1,78 +1,64 @@
 {
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://truthout.org/articles/massie-moves-to-force-impeachment-vote-against-hegseth-citing-civilian-deaths/",
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 10,
+    "top_news": "https://english.news.cn/20260916/9071fd2c7d1b42e2af3696b468720fce/c.html",
     "event_codes": {
-      "19": 5,
+      "16": 5,
+      "19": 4,
       "18": 1
     },
     "keywords": [
-      "articles",
-      "massie",
-      "moves",
-      "force",
-      "impeachment",
-      "vote",
-      "against",
-      "hegseth",
-      "citing",
-      "civilian",
-      "deaths"
+      "20260916",
+      "9071fd2c7d1b42e2af3696b468720fce",
+      "c.html"
     ]
   },
-  "ISR": {
+  "TUR": {
+    "risk_score": 2.25,
+    "count": 3,
+    "top_news": "https://www.bbc.com/news/articles/cwg7ky12g14jo",
+    "event_codes": {
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "cwg7ky12g14jo"
+    ]
+  },
+  "VEN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://whbl.com/2026/09/15/trump-administration-plans-2-8-billion-munitions-sale-to-israel-sources-say/",
+    "top_news": "https://time.com/article/2026/09/15/massie-hegseth-impeachment-iran/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "article",
       "2026",
-      "trump",
-      "administration",
-      "plans",
-      "billion",
-      "munitions",
-      "sale",
-      "israel",
-      "sources",
-      "say"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://reason.com/2026/09/15/thomas-massie-just-filed-8-articles-of-impeachment-against-pete-hegseth/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "thomas",
       "massie",
-      "just",
-      "filed",
-      "articles",
+      "hegseth",
       "impeachment",
-      "against",
-      "pete",
-      "hegseth"
+      "iran"
     ]
   },
-  "YEM": {
-    "risk_score": 3.6,
+  "ZWE": {
+    "risk_score": 2.9,
     "count": 4,
-    "top_news": "https://www.khabaragency.net/news252968.html",
+    "top_news": "https://bulawayo24.com/index-id-news-sc-national-byo-267399.html",
     "event_codes": {
-      "19": 2,
-      "14": 1,
-      "18": 1
+      "17": 2,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "news252968.html"
+      "index",
+      "news",
+      "national",
+      "byo",
+      "267399.html"
     ]
   }
 }
