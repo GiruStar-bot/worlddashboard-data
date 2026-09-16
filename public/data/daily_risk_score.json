@@ -1,63 +1,36 @@
 {
-  "IRN": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://www.abc.net.au/listen/programs/am/washington-insiders-calls-for-ai-controls/107083626",
-    "event_codes": {
-      "19": 4,
-      "16": 1,
-      "17": 1
-    },
-    "keywords": [
-      "listen",
-      "programs",
-      "washington",
-      "insiders",
-      "calls",
-      "for",
-      "controls",
-      "107083626"
-    ]
-  },
   "ISR": {
-    "risk_score": 6.22,
-    "count": 7,
-    "top_news": "https://www.yahoo.com/news/world/articles/israel-targets-hamas-leader-two-000335438.html",
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://www.aol.co.uk/articles/al-qaida-linked-violence-africa-060012000.html",
     "event_codes": {
-      "19": 5,
-      "15": 1,
+      "19": 3,
       "17": 1
     },
     "keywords": [
-      "news",
-      "world",
       "articles",
-      "israel",
-      "targets",
-      "hamas",
-      "leader",
-      "two",
-      "000335438.html"
+      "qaida",
+      "linked",
+      "violence",
+      "africa",
+      "060012000.html"
     ]
   },
-  "SAU": {
-    "risk_score": 3.94,
-    "count": 6,
-    "top_news": "https://www.abc.net.au/listen/programs/am/washington-insiders-calls-for-ai-controls/107083626",
+  "SYR": {
+    "risk_score": 6.35,
+    "count": 9,
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/sjpmpopyml",
     "event_codes": {
+      "14": 3,
       "17": 3,
-      "15": 2,
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "listen",
-      "programs",
-      "washington",
-      "insiders",
-      "calls",
-      "for",
-      "controls",
-      "107083626"
+      "opinions",
+      "analysis",
+      "article",
+      "sjpmpopyml"
     ]
   }
 }
