@@ -1,74 +1,214 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/opinions-analysis/article/rktiseuygl",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "opinions",
-      "analysis",
-      "article",
-      "rktiseuygl"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "https://www.middle-east-online.com/en/saudi-warplanes-pound-yemen",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "saudi",
-      "warplanes",
-      "pound",
-      "yemen"
-    ]
-  },
-  "SYR": {
-    "risk_score": 8.32,
-    "count": 9,
-    "top_news": "https://www.eng.kavkaz-uzel.eu/articles/78614",
-    "event_codes": {
-      "19": 6,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "articles",
-      "78614"
-    ]
-  },
-  "TUR": {
+  "BHR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.eng.kavkaz-uzel.eu/articles/78614",
+    "top_news": "https://theintercept.com/2026/09/15/iran-war-us-military-bases/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "articles",
-      "78614"
+      "2026",
+      "iran",
+      "war",
+      "military",
+      "bases"
     ]
   },
-  "YEM": {
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.myspiritfm.com/News?view=post&blogid=Catholic%2DNews&articleid=303527",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news"
+    ]
+  },
+  "IRN": {
+    "risk_score": 9.0,
+    "count": 9,
+    "top_news": "https://theintercept.com/2026/09/15/iran-war-us-military-bases/",
+    "event_codes": {
+      "19": 9
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "military",
+      "bases"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://theintercept.com/2026/09/15/iran-war-us-military-bases/",
+    "event_codes": {
+      "19": 3,
+      "20": 1
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "military",
+      "bases"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.5,
+    "count": 8,
+    "top_news": "https://www.algemeiner.com/2026/09/16/palestinian-government-keeps-building-monuments-terrorists-who-kill-civilians-no-one-cares/",
+    "event_codes": {
+      "19": 5,
+      "17": 3
+    },
+    "keywords": [
+      "2026",
+      "palestinian",
+      "government",
+      "keeps",
+      "building",
+      "monuments",
+      "terrorists",
+      "who",
+      "kill",
+      "civilians",
+      "one",
+      "cares"
+    ]
+  },
+  "JOR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://theintercept.com/2026/09/15/iran-war-us-military-bases/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "2026",
+      "iran",
+      "war",
+      "military",
+      "bases"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.5,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/regional/nnorth-east/910152-curfew-imposed-after-many-killed-in-mambilla-plateau.html",
+    "event_codes": {
+      "17": 7,
+      "19": 2
+    },
+    "keywords": [
+      "regional",
+      "nnorth",
+      "east",
+      "910152",
+      "curfew",
+      "imposed",
+      "after",
+      "many",
+      "killed",
+      "mambilla",
+      "plateau.html"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.middle-east-online.com/en/us-officials-met-yemen%E2%80%99s-houthis-oman-over-weekend",
+    "top_news": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "officials",
-      "met",
-      "yemen%e2%80%99s",
-      "houthis",
-      "oman",
-      "over",
-      "weekend"
+      "rapid",
+      "houthi",
+      "advances",
+      "yemen",
+      "pose",
+      "massive",
+      "strategic",
+      "risks",
+      "for",
+      "saudi",
+      "arabia",
+      "the",
+      "gulf",
+      "292070"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.58,
+    "count": 6,
+    "top_news": "https://dayton.binnews.com/content/2026-09-16-sudan-could-run-out-of-critical-aid-supplies-within-weeks-un-warns/",
+    "event_codes": {
+      "16": 3,
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "content",
+      "2026",
+      "sudan",
+      "could",
+      "run",
+      "out",
+      "critical",
+      "aid",
+      "supplies",
+      "within",
+      "weeks",
+      "warns"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.theatlantic.com/podcasts/2026/09/david-frum-show-simon-sebag-montefiore-middle-east/688646/",
+    "event_codes": {
+      "19": 2,
+      "16": 1,
+      "17": 1
+    },
+    "keywords": [
+      "podcasts",
+      "2026",
+      "david",
+      "frum",
+      "show",
+      "simon",
+      "sebag",
+      "montefiore",
+      "middle",
+      "east",
+      "688646"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://theconversation.com/rapid-houthi-advances-in-yemen-pose-massive-strategic-risks-for-saudi-arabia-in-the-gulf-292070",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "rapid",
+      "houthi",
+      "advances",
+      "yemen",
+      "pose",
+      "massive",
+      "strategic",
+      "risks",
+      "for",
+      "saudi",
+      "arabia",
+      "the",
+      "gulf",
+      "292070"
     ]
   }
 }
