@@ -1,81 +1,125 @@
 {
-  "KEN": {
-    "risk_score": 2.2,
-    "count": 4,
-    "top_news": "https://www.dailymaverick.co.za/article/2026-09-17-from-kabul-to-nairobi-how-us-unmasked-sas-global-drug-links/",
+  "IRN": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
     "event_codes": {
-      "17": 4
+      "19": 2,
+      "14": 1
     },
     "keywords": [
-      "article",
-      "2026",
-      "from",
-      "kabul",
-      "nairobi",
-      "how",
-      "unmasked",
-      "sas",
-      "global",
-      "drug",
-      "links"
+      "story",
+      "customer",
+      "data",
+      "permanently",
+      "lost",
+      "iran",
+      "strikes",
+      "amazon",
+      "data",
+      "centers"
     ]
   },
-  "SAU": {
+  "ISR": {
+    "risk_score": 8.55,
+    "count": 13,
+    "top_news": "https://www.breitbart.com/politics/2026/09/17/italy-jewish-rabbi-assaulted-at-milan-bus-stop/",
+    "event_codes": {
+      "17": 6,
+      "14": 3,
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "italy",
+      "jewish",
+      "rabbi",
+      "assaulted",
+      "milan",
+      "bus",
+      "stop"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.95,
+    "count": 6,
+    "top_news": "https://punchng.com/120-years-on-105-grid-collapses-why-nigeria-still-cant-keep-the-lights-on/",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "120",
+      "years",
+      "105",
+      "grid",
+      "collapses",
+      "why",
+      "nigeria",
+      "still",
+      "cant",
+      "keep",
+      "the",
+      "lights"
+    ]
+  },
+  "SDN": {
     "risk_score": 6.0,
     "count": 6,
-    "top_news": "https://news.antiwar.com/2026/09/17/saudi-arabia-accuses-houthis-of-targeting-mecca-yemeni-officials-deny-involvement/",
+    "top_news": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
     "event_codes": {
       "19": 6
     },
     "keywords": [
+      "news",
       "2026",
-      "saudi",
-      "arabia",
-      "accuses",
-      "houthis",
-      "targeting",
-      "mecca",
-      "yemeni",
-      "officials",
-      "deny",
-      "involvement"
+      "least",
+      "killed",
+      "clashes",
+      "along",
+      "sudan",
+      "south",
+      "sudan",
+      "border",
+      "region"
     ]
   },
-  "TUR": {
-    "risk_score": 2.88,
-    "count": 4,
-    "top_news": "https://en.apa.az/military/turkiye-azerbaijan-preparing-for-strength-of-unity-2026-exercise-524923",
+  "SSD": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
     "event_codes": {
-      "15": 4
+      "19": 5
     },
     "keywords": [
-      "military",
-      "turkiye",
-      "azerbaijan",
-      "preparing",
-      "for",
-      "strength",
-      "unity",
+      "news",
       "2026",
-      "exercise",
-      "524923"
+      "least",
+      "killed",
+      "clashes",
+      "along",
+      "sudan",
+      "south",
+      "sudan",
+      "border",
+      "region"
     ]
   },
   "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://news.antiwar.com/2026/09/17/state-department-approves-massive-24-billion-f-35-sale-to-saudi-arabia/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://dominicanrepublicpost.com/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia/",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "state",
-      "department",
+      "trump",
+      "administration",
       "approves",
-      "massive",
-      "billion",
       "sale",
+      "jets",
       "saudi",
       "arabia"
     ]
