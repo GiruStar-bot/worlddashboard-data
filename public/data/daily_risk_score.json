@@ -1,73 +1,105 @@
 {
-  "ETH": {
-    "risk_score": 6.72,
-    "count": 7,
-    "top_news": "https://allafrica.com/stories/202609170047.html",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.khaama.com/trump-says-iran-war-could-end-pretty-soon-repeats-threat-of-further-us-strikes/",
     "event_codes": {
-      "19": 6,
-      "15": 1
+      "19": 3
     },
     "keywords": [
-      "stories",
-      "202609170047.html"
+      "trump",
+      "says",
+      "iran",
+      "war",
+      "could",
+      "end",
+      "pretty",
+      "soon",
+      "repeats",
+      "threat",
+      "further",
+      "strikes"
     ]
   },
-  "KEN": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202609170018.html",
+  "ISR": {
+    "risk_score": 7.11,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/middle-east/questions-grow-over-use-of-heavy-munitions-as-us-plans-28bn-bomb-shipment-to-israel-3001905",
     "event_codes": {
-      "17": 3,
-      "19": 2
+      "19": 4,
+      "17": 2,
+      "14": 1,
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "stories",
-      "202609170018.html"
+      "middle",
+      "east",
+      "questions",
+      "grow",
+      "over",
+      "use",
+      "heavy",
+      "munitions",
+      "plans",
+      "28bn",
+      "bomb",
+      "shipment",
+      "israel",
+      "3001905"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.95,
+    "count": 4,
+    "top_news": "https://tribuneonlineng.com/tinubu-inherited-assets-liabilities-of-buhari-shettima/",
+    "event_codes": {
+      "18": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "tinubu",
+      "inherited",
+      "assets",
+      "liabilities",
+      "buhari",
+      "shettima"
     ]
   },
   "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://arynews.tv/yemeni-forces-clash-with-houthis-near-saudi-border",
+    "top_news": "https://www.samaa.tv/2087356939-pia-flight-evacuaed-after-engine-fire-in-jeddah",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "yemeni",
-      "forces",
-      "clash",
-      "with",
-      "houthis",
-      "near",
-      "saudi",
-      "border"
+      "2087356939",
+      "pia",
+      "flight",
+      "evacuaed",
+      "after",
+      "engine",
+      "fire",
+      "jeddah"
     ]
   },
-  "SDN": {
-    "risk_score": 2.6,
-    "count": 3,
-    "top_news": "https://allafrica.com/stories/202609170013.html",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theguardian.com/world/2026/sep/17/displaced-people-yemen-war",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "19": 2
     },
     "keywords": [
-      "stories",
-      "202609170013.html"
-    ]
-  },
-  "SOM": {
-    "risk_score": 6.8,
-    "count": 9,
-    "top_news": "https://allafrica.com/stories/202609170011.html",
-    "event_codes": {
-      "17": 4,
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "stories",
-      "202609170011.html"
+      "world",
+      "2026",
+      "sep",
+      "displaced",
+      "people",
+      "yemen",
+      "war"
     ]
   }
 }
