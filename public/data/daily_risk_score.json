@@ -1,144 +1,81 @@
 {
   "IRN": {
-    "risk_score": 2.55,
-    "count": 3,
-    "top_news": "https://www.citizensvoice.com/2026/09/17/letter-bahai-persecution-in-iran-qatar/",
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://tribuneonlineng.com/energy-disruption-bangladesh-pakistan-gulf-crisis/",
     "event_codes": {
-      "14": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "letter",
-      "bahai",
-      "persecution",
-      "iran",
-      "qatar"
-    ]
-  },
-  "ISR": {
-    "risk_score": 12.05,
-    "count": 14,
-    "top_news": "http://www.jpost.com/middle-east/article-908971",
-    "event_codes": {
-      "19": 8,
-      "14": 2,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "908971"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.16,
-    "count": 5,
-    "top_news": "https://www.standardmedia.co.ke/crime-and-justice/article/2001558042/blow-to-lsk-as-court-rejects-bid-to-strike-out-petition-challenging-judges-boycott",
-    "event_codes": {
-      "16": 3,
+      "19": 5,
       "17": 2
     },
     "keywords": [
-      "crime",
-      "and",
-      "justice",
-      "article",
-      "2001558042",
-      "blow",
-      "lsk",
-      "court",
-      "rejects",
-      "bid",
-      "strike",
-      "out",
-      "petition",
-      "challenging",
-      "judges",
-      "boycott"
+      "energy",
+      "disruption",
+      "bangladesh",
+      "pakistan",
+      "gulf",
+      "crisis"
     ]
   },
-  "LBN": {
-    "risk_score": 3.26,
-    "count": 4,
-    "top_news": "https://katu.com/news/local/court-documents-serial-food-cart-burglar-arrested-held-on-37-charges-portland-oregon-city-investigation-fomo-chicken-heist",
+  "ISR": {
+    "risk_score": 6.62,
+    "count": 7,
+    "top_news": "https://www.miragenews.com/uk-measures-may-signal-shift-spur-joint-israel-1746437/",
     "event_codes": {
-      "17": 4
+      "19": 4,
+      "15": 1,
+      "18": 1,
+      "20": 1
     },
     "keywords": [
-      "news",
-      "local",
+      "measures",
+      "may",
+      "signal",
+      "shift",
+      "spur",
+      "joint",
+      "israel",
+      "1746437"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.14,
+    "count": 18,
+    "top_news": "https://tribuneonlineng.com/court-begins-trial-of-suspected-oriire-kidnappers/",
+    "event_codes": {
+      "17": 16,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
       "court",
-      "documents",
-      "serial",
-      "food",
-      "cart",
-      "burglar",
-      "arrested",
-      "held",
-      "charges",
-      "portland",
-      "oregon",
-      "city",
-      "investigation",
-      "fomo",
-      "chicken",
-      "heist"
+      "begins",
+      "trial",
+      "suspected",
+      "oriire",
+      "kidnappers"
     ]
   },
   "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.jpost.com/middle-east/article-908956",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "article",
-      "908956"
-    ]
-  },
-  "SYR": {
-    "risk_score": 5.3,
-    "count": 6,
-    "top_news": "https://sana.sy/en/syria/2343516/",
+    "risk_score": 4.4,
+    "count": 5,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/63-killed-latest-fighting-between-yemen-government-houthis",
     "event_codes": {
       "19": 4,
-      "14": 2
+      "16": 1
     },
     "keywords": [
-      "syria",
-      "2343516"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.fairobserver.com/region/middle_east_north_africa/fo-live-the-red-sea-crisis-power-struggles-in-yemen-and-sudan/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "region",
-      "middle",
-      "east",
-      "north",
-      "africa",
       "live",
-      "the",
-      "red",
-      "sea",
-      "crisis",
-      "power",
-      "struggles",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "killed",
+      "latest",
+      "fighting",
+      "between",
       "yemen",
-      "and",
-      "sudan"
+      "government",
+      "houthis"
     ]
   }
 }
