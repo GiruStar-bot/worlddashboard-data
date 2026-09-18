@@ -1,57 +1,104 @@
 {
+  "ETH": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://allafrica.com/stories/202609180056.html",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "stories",
+      "202609180056.html"
+    ]
+  },
   "IRN": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/",
-    "event_codes": {
-      "18": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "2026",
-      "clears",
-      "24b",
-      "sale",
-      "for",
-      "saudi",
-      "arabia"
-    ]
-  },
-  "LBY": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.lankaenews.com/news/5126/en",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "5126"
-    ]
-  },
-  "VEN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.independent.com/2026/09/17/santa-barbara-county-jury-returns-first-degree-murder-conviction-in-2023-santa-maria-shooting/",
+    "top_news": "https://voiceofvienna.org/china-urges-iran-and-us-to-revive-talks-reopen-hormuz/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "china",
+      "urges",
+      "iran",
+      "and",
+      "revive",
+      "talks",
+      "reopen",
+      "hormuz"
+    ]
+  },
+  "KEN": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://kawowo.com/2026/09/17/afcon-u20-cecafa-qualifiers-burundi-secure-semifinal-slot-after-win-over-kenya/",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
       "2026",
-      "santa",
-      "barbara",
-      "county",
-      "jury",
-      "returns",
-      "first",
-      "degree",
-      "murder",
-      "conviction",
-      "2023",
-      "santa",
-      "maria",
-      "shooting"
+      "afcon",
+      "u20",
+      "cecafa",
+      "qualifiers",
+      "burundi",
+      "secure",
+      "semifinal",
+      "slot",
+      "after",
+      "win",
+      "over",
+      "kenya"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.siasat.com/us-approves-usd-24-3-billion-f-35-sale-to-saudi-arabia-3544158/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "approves",
+      "usd",
+      "billion",
+      "sale",
+      "saudi",
+      "arabia",
+      "3544158"
+    ]
+  },
+  "THA": {
+    "risk_score": 4.0,
+    "count": 5,
+    "top_news": "https://www.gdnonline.com:443/Details/1406916",
+    "event_codes": {
+      "19": 3,
+      "17": 2
+    },
+    "keywords": [
+      "details",
+      "1406916"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.siasat.com/us-approves-usd-24-3-billion-f-35-sale-to-saudi-arabia-3544158/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "approves",
+      "usd",
+      "billion",
+      "sale",
+      "saudi",
+      "arabia",
+      "3544158"
     ]
   }
 }
