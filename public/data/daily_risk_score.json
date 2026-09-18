@@ -1,127 +1,57 @@
 {
   "IRN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.wired.com/story/customer-data-permanently-lost-in-iran-strikes-on-amazon-data-centers/",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "story",
-      "customer",
-      "data",
-      "permanently",
-      "lost",
-      "iran",
-      "strikes",
-      "amazon",
-      "data",
-      "centers"
-    ]
-  },
-  "ISR": {
-    "risk_score": 8.55,
-    "count": 13,
-    "top_news": "https://www.breitbart.com/politics/2026/09/17/italy-jewish-rabbi-assaulted-at-milan-bus-stop/",
-    "event_codes": {
-      "17": 6,
-      "14": 3,
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "politics",
-      "2026",
-      "italy",
-      "jewish",
-      "rabbi",
-      "assaulted",
-      "milan",
-      "bus",
-      "stop"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.95,
-    "count": 6,
-    "top_news": "https://punchng.com/120-years-on-105-grid-collapses-why-nigeria-still-cant-keep-the-lights-on/",
-    "event_codes": {
-      "17": 4,
-      "19": 2
-    },
-    "keywords": [
-      "120",
-      "years",
-      "105",
-      "grid",
-      "collapses",
-      "why",
-      "nigeria",
-      "still",
-      "cant",
-      "keep",
-      "the",
-      "lights"
-    ]
-  },
-  "SDN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "least",
-      "killed",
-      "clashes",
-      "along",
-      "sudan",
-      "south",
-      "sudan",
-      "border",
-      "region"
-    ]
-  },
-  "SSD": {
-    "risk_score": 5.0,
+    "risk_score": 4.6,
     "count": 5,
-    "top_news": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region",
+    "top_news": "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/",
     "event_codes": {
-      "19": 5
+      "18": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "news",
       "2026",
-      "least",
-      "killed",
-      "clashes",
-      "along",
-      "sudan",
-      "south",
-      "sudan",
-      "border",
-      "region"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://dominicanrepublicpost.com/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "trump",
-      "administration",
-      "approves",
+      "clears",
+      "24b",
       "sale",
-      "jets",
+      "for",
       "saudi",
       "arabia"
+    ]
+  },
+  "LBY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.lankaenews.com/news/5126/en",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "5126"
+    ]
+  },
+  "VEN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.independent.com/2026/09/17/santa-barbara-county-jury-returns-first-degree-murder-conviction-in-2023-santa-maria-shooting/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "santa",
+      "barbara",
+      "county",
+      "jury",
+      "returns",
+      "first",
+      "degree",
+      "murder",
+      "conviction",
+      "2023",
+      "santa",
+      "maria",
+      "shooting"
     ]
   }
 }
