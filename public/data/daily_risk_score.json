@@ -1,44 +1,90 @@
 {
   "ISR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.silwanic.net/article/news/80063/demolitions-continue-in-jerusalem-residential-and-commercial-structures-in-beit-hanina-silwan-and-wadi-al-joz",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "article",
+      "news",
+      "80063",
+      "demolitions",
+      "continue",
+      "jerusalem",
+      "residential",
+      "and",
+      "commercial",
+      "structures",
+      "beit",
+      "hanina",
+      "silwan",
+      "and",
+      "wadi",
+      "joz"
+    ]
+  },
+  "NGA": {
+    "risk_score": 5.4,
+    "count": 10,
+    "top_news": "https://thenationonlineng.net/prp-demands-prosecution-over-miners-deaths-tackles-fed-govt-on-insecurity/",
+    "event_codes": {
+      "17": 9,
+      "18": 1
+    },
+    "keywords": [
+      "prp",
+      "demands",
+      "prosecution",
+      "over",
+      "miners",
+      "deaths",
+      "tackles",
+      "fed",
+      "govt",
+      "insecurity"
+    ]
+  },
+  "SAU": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/279317568/iran-decision-on-npt-withdrawal-depends-on-us-behavior-top-security-official-says",
+    "top_news": "https://www.bostonherald.com/2026/09/19/hormuz-oil-shipments-hit-6-month-high/",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "news",
-      "279317568",
-      "iran",
-      "decision",
-      "npt",
-      "withdrawal",
-      "depends",
-      "behavior",
-      "top",
-      "security",
-      "official",
-      "says"
+      "2026",
+      "hormuz",
+      "oil",
+      "shipments",
+      "hit",
+      "month",
+      "high"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://dailypost.ng/2026/09/19/police-arrest-woman-over-alleged-killing-of-husband-in-kano/",
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.apa.az/asia/houthis-claim-they-carried-out-missile-strikes-on-targets-in-riyadh-and-yanbu-525169",
     "event_codes": {
-      "17": 4,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "police",
-      "arrest",
-      "woman",
-      "over",
-      "alleged",
-      "killing",
-      "husband",
-      "kano"
+      "asia",
+      "houthis",
+      "claim",
+      "they",
+      "carried",
+      "out",
+      "missile",
+      "strikes",
+      "targets",
+      "riyadh",
+      "and",
+      "yanbu",
+      "525169"
     ]
   }
 }
