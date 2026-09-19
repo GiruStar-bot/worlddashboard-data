@@ -1,83 +1,42 @@
 {
-  "ISR": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "https://www.journalismpakistan.com/the-journalismpakistan-global-media-brief-edition-38-september-18-2026",
+  "GUY": {
+    "risk_score": 6.9,
+    "count": 10,
+    "top_news": "https://kaieteurnewsonline.com/2026/09/19/man-wanted-for-2015-killing-of-sex-worker-deported-from-u-s/",
     "event_codes": {
-      "18": 3,
-      "19": 2
-    },
-    "keywords": [
-      "the",
-      "journalismpakistan",
-      "global",
-      "media",
-      "brief",
-      "edition",
-      "september",
-      "2026"
-    ]
-  },
-  "LAO": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://vietnamnews.vn/politics-laws/1800110/viet-nam-lauded-as-proactive-force-shaping-asean-s-strategic-future.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "politics",
-      "laws",
-      "1800110",
-      "viet",
-      "nam",
-      "lauded",
-      "proactive",
-      "force",
-      "shaping",
-      "asean",
-      "strategic",
-      "future.html"
-    ]
-  },
-  "SYR": {
-    "risk_score": 8.5,
-    "count": 11,
-    "top_news": "https://english.aawsat.com/arab-world/5320093-syria-arrests-cell-leader-over-security-force-deaths",
-    "event_codes": {
-      "19": 6,
-      "17": 5
-    },
-    "keywords": [
-      "arab",
-      "world",
-      "5320093",
-      "syria",
-      "arrests",
-      "cell",
-      "leader",
-      "over",
-      "security",
-      "force",
-      "deaths"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.redbluffdailynews.com/2026/09/18/ice-officer-court-appearance-minneapolis-shooting/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
+      "17": 6,
+      "19": 3,
+      "18": 1
     },
     "keywords": [
       "2026",
-      "ice",
-      "officer",
-      "court",
-      "appearance",
-      "minneapolis",
-      "shooting"
+      "man",
+      "wanted",
+      "for",
+      "2015",
+      "killing",
+      "sex",
+      "worker",
+      "deported",
+      "from"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.rte.ie/news/world/2026/0919/1592186-saudi-arabia-houthis/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2026",
+      "0919",
+      "1592186",
+      "saudi",
+      "arabia",
+      "houthis"
     ]
   }
 }
