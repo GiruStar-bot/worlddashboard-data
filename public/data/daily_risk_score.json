@@ -1,116 +1,148 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "http://www.jpost.com/opinion/article-908579",
+  "IRN": {
+    "risk_score": 5.8,
+    "count": 7,
+    "top_news": "https://www.brisbanetimes.com.au/world/middle-east/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital-20260920-p60yve.html",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "opinion",
-      "article",
-      "908579"
+      "world",
+      "middle",
+      "east",
+      "flames",
+      "smoke",
+      "seen",
+      "near",
+      "riyadh",
+      "airport",
+      "houthis",
+      "claim",
+      "attacks",
+      "saudi",
+      "capital",
+      "20260920",
+      "p60yve.html"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/09/19/776627/Palestine-Gaza-Israeli-strikes-kill-four-child-Gaza-s-Health-Ministry",
+    "risk_score": 14.24,
+    "count": 16,
+    "top_news": "https://www.brisbanetimes.com.au/world/middle-east/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital-20260920-p60yve.html",
     "event_codes": {
-      "19": 3
+      "19": 10,
+      "17": 5,
+      "18": 1
     },
     "keywords": [
-      "detail",
-      "2026",
-      "776627",
-      "palestine",
-      "gaza",
-      "israeli",
-      "strikes",
-      "kill",
-      "four",
-      "child",
-      "gaza",
-      "health",
-      "ministry"
+      "world",
+      "middle",
+      "east",
+      "flames",
+      "smoke",
+      "seen",
+      "near",
+      "riyadh",
+      "airport",
+      "houthis",
+      "claim",
+      "attacks",
+      "saudi",
+      "capital",
+      "20260920",
+      "p60yve.html"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://dailypost.ng/2026/09/19/niger-nscdc-has-no-right-to-shoot-at-us-teenage-gold-miner-cries-out/",
+  "LBN": {
+    "risk_score": 6.22,
+    "count": 8,
+    "top_news": "https://www.kjzz.org/npr-top-stories/2026-09-19/the-new-lines-of-southern-lebanon",
     "event_codes": {
-      "17": 4,
+      "15": 4,
+      "17": 3,
       "19": 1
     },
     "keywords": [
+      "npr",
+      "top",
+      "stories",
       "2026",
-      "niger",
-      "nscdc",
-      "has",
-      "right",
-      "shoot",
-      "teenage",
-      "gold",
-      "miner",
-      "cries",
-      "out"
+      "the",
+      "new",
+      "lines",
+      "southern",
+      "lebanon"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.72,
+    "count": 5,
+    "top_news": "https://venezuelanalysis.com/interviews/lisandro-brusco-we-must-fight-the-imperialist-and-zionist-bloc-in-latin-america/",
+    "event_codes": {
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "interviews",
+      "lisandro",
+      "brusco",
+      "must",
+      "fight",
+      "the",
+      "imperialist",
+      "and",
+      "zionist",
+      "bloc",
+      "latin",
+      "america"
     ]
   },
   "SAU": {
-    "risk_score": 4.7,
-    "count": 5,
-    "top_news": "http://www.jpost.com/middle-east/article-909128",
+    "risk_score": 10.85,
+    "count": 12,
+    "top_news": "https://www.brisbanetimes.com.au/world/middle-east/flames-smoke-seen-near-riyadh-airport-houthis-claim-attacks-on-saudi-capital-20260920-p60yve.html",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 9,
+      "17": 3
     },
     "keywords": [
+      "world",
       "middle",
       "east",
-      "article",
-      "909128"
+      "flames",
+      "smoke",
+      "seen",
+      "near",
+      "riyadh",
+      "airport",
+      "houthis",
+      "claim",
+      "attacks",
+      "saudi",
+      "capital",
+      "20260920",
+      "p60yve.html"
     ]
   },
   "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/09/19/776622/Press-TV-s-news-headlines",
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.the-messenger.com/news/world/article_a89a9b95-42a5-50fa-b018-2c73aa68bfbf.html",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "detail",
-      "2026",
-      "776622",
-      "press",
-      "news",
-      "headlines"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.nbcphiladelphia.com/news/local/hunter-shoots-and-kills-woman-he-thought-was-a-deer-in-delaware-police-say/4466028/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
+      "19": 8
     },
     "keywords": [
       "news",
-      "local",
-      "hunter",
-      "shoots",
-      "and",
-      "kills",
-      "woman",
-      "thought",
-      "was",
-      "deer",
-      "delaware",
-      "police",
-      "say",
-      "4466028"
+      "world",
+      "article",
+      "a89a9b95",
+      "42a5",
+      "50fa",
+      "b018",
+      "2c73aa68bfbf.html"
     ]
   }
 }
