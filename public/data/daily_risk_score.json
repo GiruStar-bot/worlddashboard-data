@@ -1,36 +1,123 @@
 {
-  "ISR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "http://www.bignewsnetwork.com/news/279318990/israel-wipes-criminal-record-of-soldier-who-shot-wounded-palestinian",
+  "IRN": {
+    "risk_score": 5.16,
+    "count": 8,
+    "top_news": "https://www.arabnews.com/opinion/will-china-play-a-role-in-ending-iran-war-3002190",
     "event_codes": {
-      "19": 3,
-      "17": 1
+      "17": 4,
+      "15": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "279318990",
-      "israel",
-      "wipes",
-      "criminal",
-      "record",
-      "soldier",
-      "who",
-      "shot",
+      "opinion",
+      "will",
+      "china",
+      "play",
+      "role",
+      "ending",
+      "iran",
+      "war",
+      "3002190"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 8,
+    "top_news": "https://www.clevelandjewishnews.com/jns/man-critically-wounded-in-samaria-terror-shooting-idf-launches-manhunt/article_58633564-51a3-51ea-be7d-b2d493a3e446.html",
+    "event_codes": {
+      "19": 7,
+      "18": 1
+    },
+    "keywords": [
+      "jns",
+      "man",
+      "critically",
       "wounded",
-      "palestinian"
+      "samaria",
+      "terror",
+      "shooting",
+      "idf",
+      "launches",
+      "manhunt",
+      "article",
+      "58633564",
+      "51a3",
+      "51ea",
+      "be7d",
+      "b2d493a3e446.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 7.7,
+    "count": 8,
+    "top_news": "https://gulfnews.com/uae/uae-residents-update-us-travel-alert-iran-ceasefire-terms-saudi-missile-interception-and-flight-updates-1.500681481",
+    "event_codes": {
+      "18": 5,
+      "19": 3
+    },
+    "keywords": [
+      "uae",
+      "uae",
+      "residents",
+      "update",
+      "travel",
+      "alert",
+      "iran",
+      "ceasefire",
+      "terms",
+      "saudi",
+      "missile",
+      "interception",
+      "and",
+      "flight",
+      "updates",
+      "1.500681481"
+    ]
+  },
+  "SAU": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.arabnews.com/opinion/will-china-play-a-role-in-ending-iran-war-3002190",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "opinion",
+      "will",
+      "china",
+      "play",
+      "role",
+      "ending",
+      "iran",
+      "war",
+      "3002190"
     ]
   },
   "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://freerepublic.com/tag/*/index?more=4396210",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://abc11.com/post/houthis-attack-saudi-arabia-capital-yemens-houthi-rebels-attempted-riyadh-ballistic-missile-iran-war-continues/19852337/",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "tag",
-      "index"
+      "post",
+      "houthis",
+      "attack",
+      "saudi",
+      "arabia",
+      "capital",
+      "yemens",
+      "houthi",
+      "rebels",
+      "attempted",
+      "riyadh",
+      "ballistic",
+      "missile",
+      "iran",
+      "war",
+      "continues",
+      "19852337"
     ]
   }
 }
