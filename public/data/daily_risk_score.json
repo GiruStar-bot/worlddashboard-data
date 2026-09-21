@@ -1,24 +1,43 @@
 {
-  "ISR": {
-    "risk_score": 3.55,
-    "count": 4,
-    "top_news": "https://www.theepochtimes.com/opinion/the-human-rights-industry-has-a-favorite-kind-of-victim-6092885",
+  "NGA": {
+    "risk_score": 7.08,
+    "count": 10,
+    "top_news": "https://www.opinionnigeria.com/the-soludo-smear-campaign-against-peter-obi-and-other-matters-by-gozie-irogboli/",
+    "event_codes": {
+      "14": 4,
+      "17": 4,
+      "16": 2
+    },
+    "keywords": [
+      "the",
+      "soludo",
+      "smear",
+      "campaign",
+      "against",
+      "peter",
+      "obi",
+      "and",
+      "other",
+      "matters",
+      "gozie",
+      "irogboli"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://theweek.com/edition/theweekus-evening-review-2026-09-21-205730",
     "event_codes": {
       "19": 2,
-      "14": 1,
       "17": 1
     },
     "keywords": [
-      "opinion",
-      "the",
-      "human",
-      "rights",
-      "industry",
-      "has",
-      "favorite",
-      "kind",
-      "victim",
-      "6092885"
+      "edition",
+      "theweekus",
+      "evening",
+      "review",
+      "2026",
+      "205730"
     ]
   }
 }
