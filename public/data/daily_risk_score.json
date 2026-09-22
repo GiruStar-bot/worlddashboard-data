@@ -1,43 +1,66 @@
 {
-  "NGA": {
-    "risk_score": 7.08,
-    "count": 10,
-    "top_news": "https://www.opinionnigeria.com/the-soludo-smear-campaign-against-peter-obi-and-other-matters-by-gozie-irogboli/",
+  "ISR": {
+    "risk_score": 15.25,
+    "count": 20,
+    "top_news": "https://wrp.org.uk/news/israeli-forces-detain-dozens-in-raids-across-the-west-bank/",
     "event_codes": {
-      "14": 4,
-      "17": 4,
-      "16": 2
+      "17": 9,
+      "19": 9,
+      "18": 2
     },
     "keywords": [
+      "news",
+      "israeli",
+      "forces",
+      "detain",
+      "dozens",
+      "raids",
+      "across",
       "the",
-      "soludo",
-      "smear",
-      "campaign",
-      "against",
-      "peter",
-      "obi",
-      "and",
-      "other",
-      "matters",
-      "gozie",
-      "irogboli"
+      "west",
+      "bank"
     ]
   },
-  "SAU": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://theweek.com/edition/theweekus-evening-review-2026-09-21-205730",
+  "NGA": {
+    "risk_score": 10.95,
+    "count": 11,
+    "top_news": "https://news.crossmap.com/2026/09/21/khloe-kardashian-says-faith-was-the-foundation-of-our-childhood-relevant/",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "19": 11
     },
     "keywords": [
-      "edition",
-      "theweekus",
-      "evening",
-      "review",
       "2026",
-      "205730"
+      "khloe",
+      "kardashian",
+      "says",
+      "faith",
+      "was",
+      "the",
+      "foundation",
+      "our",
+      "childhood",
+      "relevant"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.8,
+    "count": 3,
+    "top_news": "https://wrp.org.uk/news/israeli-forces-detain-dozens-in-raids-across-the-west-bank/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "israeli",
+      "forces",
+      "detain",
+      "dozens",
+      "raids",
+      "across",
+      "the",
+      "west",
+      "bank"
     ]
   }
 }
