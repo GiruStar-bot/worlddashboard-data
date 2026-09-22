@@ -1,66 +1,100 @@
 {
   "ISR": {
-    "risk_score": 15.25,
-    "count": 20,
-    "top_news": "https://wrp.org.uk/news/israeli-forces-detain-dozens-in-raids-across-the-west-bank/",
+    "risk_score": 5.7,
+    "count": 6,
+    "top_news": "https://www.middle-east-online.com/en/man-convicted-2023-shooting-palestinian-american-students",
     "event_codes": {
-      "17": 9,
-      "19": 9,
-      "18": 2
+      "18": 3,
+      "19": 3
     },
     "keywords": [
-      "news",
-      "israeli",
-      "forces",
-      "detain",
-      "dozens",
-      "raids",
-      "across",
-      "the",
-      "west",
-      "bank"
+      "man",
+      "convicted",
+      "2023",
+      "shooting",
+      "palestinian",
+      "american",
+      "students"
     ]
   },
   "NGA": {
-    "risk_score": 10.95,
-    "count": 11,
-    "top_news": "https://news.crossmap.com/2026/09/21/khloe-kardashian-says-faith-was-the-foundation-of-our-childhood-relevant/",
+    "risk_score": 6.85,
+    "count": 10,
+    "top_news": "https://thesun.ng/police-arrest-334-suspects-in-fct-raids-rescue-kidnap-victims/",
     "event_codes": {
-      "19": 11
+      "17": 6,
+      "19": 4
     },
     "keywords": [
-      "2026",
-      "khloe",
-      "kardashian",
-      "says",
-      "faith",
-      "was",
-      "the",
-      "foundation",
-      "our",
-      "childhood",
-      "relevant"
+      "police",
+      "arrest",
+      "334",
+      "suspects",
+      "fct",
+      "raids",
+      "rescue",
+      "kidnap",
+      "victims"
     ]
   },
-  "PSE": {
-    "risk_score": 2.8,
-    "count": 3,
-    "top_news": "https://wrp.org.uk/news/israeli-forces-detain-dozens-in-raids-across-the-west-bank/",
+  "SAU": {
+    "risk_score": 7.0,
+    "count": 9,
+    "top_news": "https://www.al-monitor.com/originals/2026/09/despite-military-might-saudi-struggles-crush-houthis",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 5,
+      "17": 4
     },
     "keywords": [
-      "news",
-      "israeli",
-      "forces",
-      "detain",
-      "dozens",
-      "raids",
-      "across",
-      "the",
-      "west",
-      "bank"
+      "originals",
+      "2026",
+      "despite",
+      "military",
+      "might",
+      "saudi",
+      "struggles",
+      "crush",
+      "houthis"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/09/g7-leaders-condemn-houthi-strikes-saudi-arabia",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "leaders",
+      "condemn",
+      "houthi",
+      "strikes",
+      "saudi",
+      "arabia"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.hngn.com/articles/273327/20260922/hunter-charged-after-woman-mistaken-deer-fatally-shot-delaware.htm",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "articles",
+      "273327",
+      "20260922",
+      "hunter",
+      "charged",
+      "after",
+      "woman",
+      "mistaken",
+      "deer",
+      "fatally",
+      "shot",
+      "delaware.htm"
     ]
   }
 }
