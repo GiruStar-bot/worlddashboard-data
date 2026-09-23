@@ -1,35 +1,70 @@
 {
-  "ISR": {
-    "risk_score": 2.35,
+  "ARE": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://dominicanrepublicpost.com/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel/",
+    "top_news": "https://timesofindia.indiatimes.com/city/mangaluru/karnataka-man-murdered-in-sharjah-body-cut-into-9-pieces-wife-son-untraceable-says-kin/articleshow/134425604.cms",
     "event_codes": {
-      "14": 1,
-      "17": 1,
+      "19": 3
+    },
+    "keywords": [
+      "city",
+      "mangaluru",
+      "karnataka",
+      "man",
+      "murdered",
+      "sharjah",
+      "body",
+      "cut",
+      "into",
+      "pieces",
+      "wife",
+      "son",
+      "untraceable",
+      "says",
+      "kin",
+      "articleshow",
+      "134425604.cms"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://www.ibtimes.co.uk/ms-rachel-racist-nursery-rhymes-gaza-discussion-1821372",
+    "event_codes": {
+      "16": 3,
       "19": 1
     },
     "keywords": [
-      "palestinian",
-      "americans",
-      "meet",
-      "lawmakers",
-      "trump",
-      "seeks",
-      "8bn",
-      "for",
-      "israel"
+      "rachel",
+      "racist",
+      "nursery",
+      "rhymes",
+      "gaza",
+      "discussion",
+      "1821372"
     ]
   },
-  "LBN": {
+  "SDN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.indcatholicnews.com/news/55926",
+    "top_news": "https://www.eurasiareview.com/23092026-as-irans-war-drains-its-arsenal-egypt-turkey-and-pakistan-rearm-sudans-army/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "55926"
+      "23092026",
+      "irans",
+      "war",
+      "drains",
+      "its",
+      "arsenal",
+      "egypt",
+      "turkey",
+      "and",
+      "pakistan",
+      "rearm",
+      "sudans",
+      "army"
     ]
   }
 }
