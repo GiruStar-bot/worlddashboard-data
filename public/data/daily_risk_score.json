@@ -1,49 +1,131 @@
 {
   "ETH": {
-    "risk_score": 5.2,
-    "count": 7,
-    "top_news": "https://www.wdiy.org/npr-news/2026-09-24/fears-of-return-to-war-grow-in-ethiopias-tigray-region",
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://www.albawaba.net/news/ethiopias-tigray-rebel-forces-were-full-1637732",
     "event_codes": {
-      "19": 4,
-      "16": 3
+      "19": 6
     },
     "keywords": [
-      "npr",
       "news",
-      "2026",
-      "fears",
-      "return",
-      "war",
-      "grow",
       "ethiopias",
       "tigray",
-      "region"
+      "rebel",
+      "forces",
+      "were",
+      "full",
+      "1637732"
     ]
   },
   "ISR": {
-    "risk_score": 3.15,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/hjwk60b9gx",
+    "risk_score": 6.32,
+    "count": 9,
+    "top_news": "https://www.israelnationalnews.com/flashes/694055",
     "event_codes": {
-      "17": 3,
-      "14": 1,
-      "19": 1
+      "17": 5,
+      "19": 3,
+      "16": 1
     },
     "keywords": [
-      "article",
-      "hjwk60b9gx"
+      "flashes",
+      "694055"
     ]
   },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ynetnews.com/article/hjwk60b9gx",
+  "NGA": {
+    "risk_score": 3.68,
+    "count": 4,
+    "top_news": "https://punchng.com/police-arrest-bike-thieves-over-killing-of-nine-in-jigawa/",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
+      "police",
+      "arrest",
+      "bike",
+      "thieves",
+      "over",
+      "killing",
+      "nine",
+      "jigawa"
+    ]
+  },
+  "THA": {
+    "risk_score": 7.9,
+    "count": 11,
+    "top_news": "https://www.dailymail.com/news/article-16156525/British-backpacker-Thailand-Canadian-Rape.html",
+    "event_codes": {
+      "18": 6,
+      "17": 5
+    },
+    "keywords": [
+      "news",
       "article",
-      "hjwk60b9gx"
+      "16156525",
+      "british",
+      "backpacker",
+      "thailand",
+      "canadian",
+      "rape.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.hurriyetdailynews.com/interior-minister-orders-tougher-school-security-measures-after-manisa-shooting-227291",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "interior",
+      "minister",
+      "orders",
+      "tougher",
+      "school",
+      "security",
+      "measures",
+      "after",
+      "manisa",
+      "shooting",
+      "227291"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.35,
+    "count": 4,
+    "top_news": "https://punchng.com/iran-threatens-to-expand-war-to-indian-ocean-if-us-attacks-again/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
+      "iran",
+      "threatens",
+      "expand",
+      "war",
+      "indian",
+      "ocean",
+      "attacks",
+      "again"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.dailymail.com/news/article-16156391/Danny-Tommo-arrested-filming-slashing-dinghy.html",
+    "event_codes": {
+      "17": 2,
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16156391",
+      "danny",
+      "tommo",
+      "arrested",
+      "filming",
+      "slashing",
+      "dinghy.html"
     ]
   }
 }
