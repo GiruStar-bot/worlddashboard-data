@@ -1,47 +1,145 @@
 {
-  "EGY": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://torontosun.com/newfoundland-labrador/st-johns-girl-abduction-reunion/wcm/23e00898-2b40-4f56-ac38-3cff14e7a731",
+  "ISR": {
+    "risk_score": 20.25,
+    "count": 25,
+    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/no-greater-partner-than-president-trump-netanyahu-defends-iran-war-attacks-critics-as-delegates-walk-out-at-unga/articleshow/134469836.cms",
     "event_codes": {
-      "18": 3,
+      "19": 14,
+      "17": 5,
+      "16": 4,
+      "14": 2
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "greater",
+      "partner",
+      "than",
+      "president",
+      "trump",
+      "netanyahu",
+      "defends",
+      "iran",
+      "war",
+      "attacks",
+      "critics",
+      "delegates",
+      "walk",
+      "out",
+      "unga",
+      "articleshow",
+      "134469836.cms"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.wcax.com/2026/09/24/residents-escape-injury-early-morning-west-lebanon-house-fire/",
+    "event_codes": {
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "newfoundland",
-      "labrador",
-      "johns",
-      "girl",
-      "abduction",
-      "reunion",
-      "wcm",
-      "23e00898",
-      "2b40",
-      "4f56",
-      "ac38",
-      "3cff14e7a731"
+      "2026",
+      "residents",
+      "escape",
+      "injury",
+      "early",
+      "morning",
+      "west",
+      "lebanon",
+      "house",
+      "fire"
     ]
   },
-  "ISR": {
-    "risk_score": 6.95,
-    "count": 10,
-    "top_news": "https://mondoweiss.net/2026/09/the-shift-vermont-man-convicted-in-2023-shooting-of-3-palestinian-students/",
+  "NER": {
+    "risk_score": 13.0,
+    "count": 13,
+    "top_news": "https://dailypost.ng/2026/09/24/57-niger-security-personnel-reportedly-dead-in-seperate-attacks/",
     "event_codes": {
-      "17": 4,
-      "14": 3,
-      "19": 3
+      "19": 13
     },
     "keywords": [
       "2026",
-      "the",
-      "shift",
-      "vermont",
-      "man",
-      "convicted",
-      "2023",
-      "shooting",
-      "palestinian",
-      "students"
+      "niger",
+      "security",
+      "personnel",
+      "reportedly",
+      "dead",
+      "seperate",
+      "attacks"
+    ]
+  },
+  "NGA": {
+    "risk_score": 11.3,
+    "count": 17,
+    "top_news": "https://tribuneonlineng.com/osun-police-arrest-suspect-in-emir-ajagungbades-murder-probe/",
+    "event_codes": {
+      "17": 11,
+      "19": 4,
+      "18": 2
+    },
+    "keywords": [
+      "osun",
+      "police",
+      "arrest",
+      "suspect",
+      "emir",
+      "ajagungbades",
+      "murder",
+      "probe"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://aa.com.tr/en/middle-east/yemen-sees-clashes-in-taiz-airstrikes-in-saada-hudaydah-amid-diplomatic-push-against-houthis/4068621",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "yemen",
+      "sees",
+      "clashes",
+      "taiz",
+      "airstrikes",
+      "saada",
+      "hudaydah",
+      "amid",
+      "diplomatic",
+      "push",
+      "against",
+      "houthis",
+      "4068621"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://aa.com.tr/en/middle-east/yemen-sees-clashes-in-taiz-airstrikes-in-saada-hudaydah-amid-diplomatic-push-against-houthis/4068621",
+    "event_codes": {
+      "19": 2,
+      "18": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "yemen",
+      "sees",
+      "clashes",
+      "taiz",
+      "airstrikes",
+      "saada",
+      "hudaydah",
+      "amid",
+      "diplomatic",
+      "push",
+      "against",
+      "houthis",
+      "4068621"
     ]
   }
 }
