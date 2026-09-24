@@ -1,88 +1,47 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
+  "EGY": {
+    "risk_score": 3.2,
     "count": 4,
-    "top_news": "https://www.bbc.co.uk/sounds/play/w3ct8mfv",
+    "top_news": "https://torontosun.com/newfoundland-labrador/st-johns-girl-abduction-reunion/wcm/23e00898-2b40-4f56-ac38-3cff14e7a731",
     "event_codes": {
-      "17": 4
+      "18": 3,
+      "17": 1
     },
     "keywords": [
-      "sounds",
-      "play",
-      "w3ct8mfv"
+      "newfoundland",
+      "labrador",
+      "johns",
+      "girl",
+      "abduction",
+      "reunion",
+      "wcm",
+      "23e00898",
+      "2b40",
+      "4f56",
+      "ac38",
+      "3cff14e7a731"
     ]
   },
   "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.courant.com/2026/09/24/netanyahu-un-mideast-news/",
+    "risk_score": 6.95,
+    "count": 10,
+    "top_news": "https://mondoweiss.net/2026/09/the-shift-vermont-man-convicted-in-2023-shooting-of-3-palestinian-students/",
     "event_codes": {
+      "17": 4,
+      "14": 3,
       "19": 3
     },
     "keywords": [
       "2026",
-      "netanyahu",
-      "mideast",
-      "news"
-    ]
-  },
-  "KEN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.guardian.co.tt/business/the-tyranny-of-policy-by-import-6.2.2674754.6ef37612e5",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "business",
       "the",
-      "tyranny",
-      "policy",
-      "import",
-      "6.2.2674754.6ef37612e5"
-    ]
-  },
-  "KHM": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.newindianexpress.com/india/2026/Sep/24/jailed-haryana-gangster-mainpal-dhilla-gets-12-hour-parole-to-marry-cambodian-partner",
-    "event_codes": {
-      "17": 3,
-      "19": 2
-    },
-    "keywords": [
-      "india",
-      "2026",
-      "sep",
-      "jailed",
-      "haryana",
-      "gangster",
-      "mainpal",
-      "dhilla",
-      "gets",
-      "hour",
-      "parole",
-      "marry",
-      "cambodian",
-      "partner"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.cbsnews.com/news/trump-xi-china-pressure-doesnt-work-analysts-say/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "trump",
-      "china",
-      "pressure",
-      "doesnt",
-      "work",
-      "analysts",
-      "say"
+      "shift",
+      "vermont",
+      "man",
+      "convicted",
+      "2023",
+      "shooting",
+      "palestinian",
+      "students"
     ]
   }
 }
