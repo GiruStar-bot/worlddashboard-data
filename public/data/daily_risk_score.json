@@ -1,131 +1,88 @@
 {
-  "ETH": {
-    "risk_score": 5.95,
-    "count": 6,
-    "top_news": "https://www.albawaba.net/news/ethiopias-tigray-rebel-forces-were-full-1637732",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "news",
-      "ethiopias",
-      "tigray",
-      "rebel",
-      "forces",
-      "were",
-      "full",
-      "1637732"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.32,
-    "count": 9,
-    "top_news": "https://www.israelnationalnews.com/flashes/694055",
-    "event_codes": {
-      "17": 5,
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "flashes",
-      "694055"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.68,
+  "IRN": {
+    "risk_score": 2.0,
     "count": 4,
-    "top_news": "https://punchng.com/police-arrest-bike-thieves-over-killing-of-nine-in-jigawa/",
+    "top_news": "https://www.bbc.co.uk/sounds/play/w3ct8mfv",
     "event_codes": {
       "17": 4
     },
     "keywords": [
-      "police",
-      "arrest",
-      "bike",
-      "thieves",
-      "over",
-      "killing",
-      "nine",
-      "jigawa"
+      "sounds",
+      "play",
+      "w3ct8mfv"
     ]
   },
-  "THA": {
-    "risk_score": 7.9,
-    "count": 11,
-    "top_news": "https://www.dailymail.com/news/article-16156525/British-backpacker-Thailand-Canadian-Rape.html",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.courant.com/2026/09/24/netanyahu-un-mideast-news/",
     "event_codes": {
-      "18": 6,
-      "17": 5
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "netanyahu",
+      "mideast",
+      "news"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.guardian.co.tt/business/the-tyranny-of-policy-by-import-6.2.2674754.6ef37612e5",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "business",
+      "the",
+      "tyranny",
+      "policy",
+      "import",
+      "6.2.2674754.6ef37612e5"
+    ]
+  },
+  "KHM": {
+    "risk_score": 3.5,
+    "count": 5,
+    "top_news": "https://www.newindianexpress.com/india/2026/Sep/24/jailed-haryana-gangster-mainpal-dhilla-gets-12-hour-parole-to-marry-cambodian-partner",
+    "event_codes": {
+      "17": 3,
+      "19": 2
+    },
+    "keywords": [
+      "india",
+      "2026",
+      "sep",
+      "jailed",
+      "haryana",
+      "gangster",
+      "mainpal",
+      "dhilla",
+      "gets",
+      "hour",
+      "parole",
+      "marry",
+      "cambodian",
+      "partner"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.cbsnews.com/news/trump-xi-china-pressure-doesnt-work-analysts-say/",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "article",
-      "16156525",
-      "british",
-      "backpacker",
-      "thailand",
-      "canadian",
-      "rape.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.hurriyetdailynews.com/interior-minister-orders-tougher-school-security-measures-after-manisa-shooting-227291",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "interior",
-      "minister",
-      "orders",
-      "tougher",
-      "school",
-      "security",
-      "measures",
-      "after",
-      "manisa",
-      "shooting",
-      "227291"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.35,
-    "count": 4,
-    "top_news": "https://punchng.com/iran-threatens-to-expand-war-to-indian-ocean-if-us-attacks-again/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "iran",
-      "threatens",
-      "expand",
-      "war",
-      "indian",
-      "ocean",
-      "attacks",
-      "again"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.dailymail.com/news/article-16156391/Danny-Tommo-arrested-filming-slashing-dinghy.html",
-    "event_codes": {
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
-      "news",
-      "article",
-      "16156391",
-      "danny",
-      "tommo",
-      "arrested",
-      "filming",
-      "slashing",
-      "dinghy.html"
+      "trump",
+      "china",
+      "pressure",
+      "doesnt",
+      "work",
+      "analysts",
+      "say"
     ]
   }
 }
