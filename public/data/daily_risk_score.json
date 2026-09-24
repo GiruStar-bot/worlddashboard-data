@@ -1,38 +1,49 @@
 {
-  "ISR": {
-    "risk_score": 3.3,
-    "count": 6,
-    "top_news": "https://dominicanrepublicpost.com/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death/",
+  "ETH": {
+    "risk_score": 5.2,
+    "count": 7,
+    "top_news": "https://www.wdiy.org/npr-news/2026-09-24/fears-of-return-to-war-grow-in-ethiopias-tigray-region",
     "event_codes": {
-      "17": 4,
-      "14": 2
+      "19": 4,
+      "16": 3
     },
     "keywords": [
-      "gaza",
-      "flotilla",
-      "activist",
-      "hunger",
-      "strike",
-      "tunisia",
-      "jail",
-      "verge",
-      "death"
+      "npr",
+      "news",
+      "2026",
+      "fears",
+      "return",
+      "war",
+      "grow",
+      "ethiopias",
+      "tigray",
+      "region"
     ]
   },
-  "YEM": {
+  "ISR": {
+    "risk_score": 3.15,
+    "count": 5,
+    "top_news": "https://www.ynetnews.com/article/hjwk60b9gx",
+    "event_codes": {
+      "17": 3,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "article",
+      "hjwk60b9gx"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://brooklyneagle.com/415267/our-world-in-photos-sept-15-2026/",
+    "top_news": "https://www.ynetnews.com/article/hjwk60b9gx",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "415267",
-      "our",
-      "world",
-      "photos",
-      "sept",
-      "2026"
+      "article",
+      "hjwk60b9gx"
     ]
   }
 }
