@@ -1,93 +1,155 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 6,
-    "top_news": "https://yalibnan.com/2026/09/25/us-and-iran-discuss-phased-deal-to-reopen-hormuz-and-end-us-blockade-as-trump-says-us-holds-all-the-cards/",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://news.az/news/ecuador-detains-dozens-over-suspected-links-to-mexican-cart-el",
     "event_codes": {
-      "16": 4,
-      "17": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
+      "news",
+      "ecuador",
+      "detains",
+      "dozens",
+      "over",
+      "suspected",
+      "links",
+      "mexican",
+      "cart"
+    ]
+  },
+  "IRN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount",
+    "event_codes": {
+      "16": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
       "2026",
-      "and",
-      "iran",
-      "discuss",
-      "phased",
-      "deal",
-      "reopen",
-      "hormuz",
-      "and",
-      "end",
-      "blockade",
-      "trump",
-      "says",
-      "holds",
-      "all",
-      "the",
-      "cards"
+      "saudi",
+      "arabia",
+      "allies",
+      "line",
+      "support",
+      "houthi",
+      "attacks",
+      "mount"
     ]
   },
   "ISR": {
-    "risk_score": 9.0,
-    "count": 15,
-    "top_news": "https://www.standardmedia.co.ke/world/article/2001558632/israel-s-netanyahu-denounces-enemies-allies-in-fiery-un-speech",
+    "risk_score": 10.5,
+    "count": 11,
+    "top_news": "https://www.chronicle.lu/category/international/63602-at-un-netanyahu-defends-israel-as-delegates-walk-out",
     "event_codes": {
-      "16": 7,
-      "14": 4,
-      "17": 4
-    },
-    "keywords": [
-      "world",
-      "article",
-      "2001558632",
-      "israel",
-      "netanyahu",
-      "denounces",
-      "enemies",
-      "allies",
-      "fiery",
-      "speech"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.1,
-    "count": 5,
-    "top_news": "https://lethbridgeherald.com/news/national-news/2026/09/24/netanyahu-crosses-canadian-airspace-with-arrest-warrant-in-effect/",
-    "event_codes": {
-      "16": 4,
+      "19": 8,
+      "20": 2,
       "17": 1
     },
     "keywords": [
-      "news",
-      "national",
-      "news",
-      "2026",
+      "category",
+      "international",
+      "63602",
       "netanyahu",
-      "crosses",
-      "canadian",
-      "airspace",
-      "with",
-      "arrest",
-      "warrant",
-      "effect"
+      "defends",
+      "israel",
+      "delegates",
+      "walk",
+      "out"
     ]
   },
-  "SAU": {
+  "MYS": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.malaysiakini.com/news/885734-family-of-bandar-utama-school-stabbing-victim-to-pursue-civil-suit",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "885734",
+      "family",
+      "bandar",
+      "utama",
+      "school",
+      "stabbing",
+      "victim",
+      "pursue",
+      "civil",
+      "suit"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.8,
+    "count": 16,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/912290-former-head-of-anglican-church-visits-plateau-attack-victims-says-no-easy-answers-to-killings.html",
+    "event_codes": {
+      "17": 9,
+      "19": 5,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "regional",
+      "north",
+      "central",
+      "912290",
+      "former",
+      "head",
+      "anglican",
+      "church",
+      "visits",
+      "plateau",
+      "attack",
+      "victims",
+      "says",
+      "easy",
+      "answers",
+      "killings.html"
+    ]
+  },
+  "PSE": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.calcuttanews.net/news/279329865/macron-sends-french-troops-to-saudi-arabia",
+    "top_news": "https://www.jns.org/news/israel-news/two-idf-reservists-killed-in-gaza-drone-explosion",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "279329865",
-      "macron",
-      "sends",
-      "french",
-      "troops",
+      "israel",
+      "news",
+      "two",
+      "idf",
+      "reservists",
+      "killed",
+      "gaza",
+      "drone",
+      "explosion"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
       "saudi",
-      "arabia"
+      "arabia",
+      "allies",
+      "line",
+      "support",
+      "houthi",
+      "attacks",
+      "mount"
     ]
   }
 }
