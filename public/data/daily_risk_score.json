@@ -1,159 +1,56 @@
 {
-  "COD": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.aol.co.uk/articles/horror-13-killed-military-plane-184600000.html",
+  "BRN": {
+    "risk_score": 2.62,
+    "count": 3,
+    "top_news": "https://www.homelandsecuritynewswire.com/dr20260925-to-deter-china-we-need-a-global-alliance-of-democracies",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "articles",
-      "horror",
-      "killed",
-      "military",
-      "plane",
-      "184600000.html"
+      "dr20260925",
+      "deter",
+      "china",
+      "need",
+      "global",
+      "alliance",
+      "democracies"
     ]
   },
-  "IRN": {
-    "risk_score": 7.3,
-    "count": 8,
-    "top_news": "http://www.washingtonexaminer.com/in_focus/4742980/what-el-sayed-wont-say-about-iran-tells-michigan-everything/",
-    "event_codes": {
-      "19": 6,
-      "14": 2
-    },
-    "keywords": [
-      "focus",
-      "4742980",
-      "what",
-      "sayed",
-      "wont",
-      "say",
-      "about",
-      "iran",
-      "tells",
-      "michigan",
-      "everything"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.3,
-    "count": 16,
-    "top_news": "https://www.jns.org/opinion/rabbi-yaakov-menken/turning-the-word-genocide-against-its-creators",
+  "NGA": {
+    "risk_score": 11.75,
+    "count": 15,
+    "top_news": "https://promptnewsonline.com/wanted-fugitive-arrested-over-alleged-murder/",
     "event_codes": {
       "19": 7,
       "17": 6,
-      "16": 2,
-      "14": 1
+      "18": 2
+    },
+    "keywords": [
+      "wanted",
+      "fugitive",
+      "arrested",
+      "over",
+      "alleged",
+      "murder"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailysabah.com/opinion/op-ed/strategic-shift-in-yemen-conflict-toward-collective-response",
+    "event_codes": {
+      "19": 2
     },
     "keywords": [
       "opinion",
-      "rabbi",
-      "yaakov",
-      "menken",
-      "turning",
-      "the",
-      "word",
-      "genocide",
-      "against",
-      "its",
-      "creators"
-    ]
-  },
-  "SOM": {
-    "risk_score": 5.75,
-    "count": 7,
-    "top_news": "https://www.arabnews.com/world/us-sanctioned-oil-tanker-rescued-from-somali-pirates-3003166",
-    "event_codes": {
-      "18": 3,
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "sanctioned",
-      "oil",
-      "tanker",
-      "rescued",
-      "from",
-      "somali",
-      "pirates",
-      "3003166"
-    ]
-  },
-  "SYR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.elpais.com/international/2026-09-25/netanyahu-challenges-half-empty-un-general-assembly-accusing-israel-of-genocide-is-the-biggest-lie-of-the-century.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "international",
-      "2026",
-      "netanyahu",
-      "challenges",
-      "half",
-      "empty",
-      "general",
-      "assembly",
-      "accusing",
-      "israel",
-      "genocide",
-      "the",
-      "biggest",
-      "lie",
-      "the",
-      "century.html"
-    ]
-  },
-  "THA": {
-    "risk_score": 5.0,
-    "count": 7,
-    "top_news": "https://english.elpais.com/international/2026-09-25/thailand-rejects-daniel-sancho-appeals-and-upholds-life-sentence-for-murder-of-colombian-plastic-surgeon.html",
-    "event_codes": {
-      "17": 4,
-      "19": 3
-    },
-    "keywords": [
-      "international",
-      "2026",
-      "thailand",
-      "rejects",
-      "daniel",
-      "sancho",
-      "appeals",
-      "and",
-      "upholds",
-      "life",
-      "sentence",
-      "for",
-      "murder",
-      "colombian",
-      "plastic",
-      "surgeon.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://reason.com/2026/09/25/democrats-are-quietly-clashing-over-u-s-involvement-in-saudi-arabias-war-in-yemen/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "democrats",
-      "are",
-      "quietly",
-      "clashing",
-      "over",
-      "involvement",
-      "saudi",
-      "arabias",
-      "war",
-      "yemen"
+      "strategic",
+      "shift",
+      "yemen",
+      "conflict",
+      "toward",
+      "collective",
+      "response"
     ]
   }
 }
