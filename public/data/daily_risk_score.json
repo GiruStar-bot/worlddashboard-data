@@ -1,86 +1,159 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 6,
-    "top_news": "https://www.aol.co.uk/articles/saudi-defence-pact-could-drag-143915000.html",
+  "COD": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aol.co.uk/articles/horror-13-killed-military-plane-184600000.html",
     "event_codes": {
-      "19": 3,
-      "16": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
       "articles",
-      "saudi",
-      "defence",
-      "pact",
-      "could",
-      "drag",
-      "143915000.html"
+      "horror",
+      "killed",
+      "military",
+      "plane",
+      "184600000.html"
     ]
   },
-  "SAU": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/politics/mecca-defense-pact-brings-military-chiefs-together-in-saudi-arabia/news",
+  "IRN": {
+    "risk_score": 7.3,
+    "count": 8,
+    "top_news": "http://www.washingtonexaminer.com/in_focus/4742980/what-el-sayed-wont-say-about-iran-tells-michigan-everything/",
     "event_codes": {
-      "19": 3,
-      "18": 1
+      "19": 6,
+      "14": 2
     },
     "keywords": [
-      "politics",
-      "mecca",
-      "defense",
-      "pact",
-      "brings",
-      "military",
-      "chiefs",
-      "together",
-      "saudi",
-      "arabia",
-      "news"
+      "focus",
+      "4742980",
+      "what",
+      "sayed",
+      "wont",
+      "say",
+      "about",
+      "iran",
+      "tells",
+      "michigan",
+      "everything"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.3,
+    "count": 16,
+    "top_news": "https://www.jns.org/opinion/rabbi-yaakov-menken/turning-the-word-genocide-against-its-creators",
+    "event_codes": {
+      "19": 7,
+      "17": 6,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "opinion",
+      "rabbi",
+      "yaakov",
+      "menken",
+      "turning",
+      "the",
+      "word",
+      "genocide",
+      "against",
+      "its",
+      "creators"
+    ]
+  },
+  "SOM": {
+    "risk_score": 5.75,
+    "count": 7,
+    "top_news": "https://www.arabnews.com/world/us-sanctioned-oil-tanker-rescued-from-somali-pirates-3003166",
+    "event_codes": {
+      "18": 3,
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "sanctioned",
+      "oil",
+      "tanker",
+      "rescued",
+      "from",
+      "somali",
+      "pirates",
+      "3003166"
     ]
   },
   "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.ghafla.co.ke/boniface-mwangi-backs-babu-owino-and-edwin-sifuna-as-key-figures-in-opposition-strategy/",
+    "top_news": "https://english.elpais.com/international/2026-09-25/netanyahu-challenges-half-empty-un-general-assembly-accusing-israel-of-genocide-is-the-biggest-lie-of-the-century.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "boniface",
-      "mwangi",
-      "backs",
-      "babu",
-      "owino",
+      "international",
+      "2026",
+      "netanyahu",
+      "challenges",
+      "half",
+      "empty",
+      "general",
+      "assembly",
+      "accusing",
+      "israel",
+      "genocide",
+      "the",
+      "biggest",
+      "lie",
+      "the",
+      "century.html"
+    ]
+  },
+  "THA": {
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://english.elpais.com/international/2026-09-25/thailand-rejects-daniel-sancho-appeals-and-upholds-life-sentence-for-murder-of-colombian-plastic-surgeon.html",
+    "event_codes": {
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "international",
+      "2026",
+      "thailand",
+      "rejects",
+      "daniel",
+      "sancho",
+      "appeals",
       "and",
-      "edwin",
-      "sifuna",
-      "key",
-      "figures",
-      "opposition",
-      "strategy"
+      "upholds",
+      "life",
+      "sentence",
+      "for",
+      "murder",
+      "colombian",
+      "plastic",
+      "surgeon.html"
     ]
   },
   "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/politics/mecca-defense-pact-brings-military-chiefs-together-in-saudi-arabia/news",
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://reason.com/2026/09/25/democrats-are-quietly-clashing-over-u-s-involvement-in-saudi-arabias-war-in-yemen/",
     "event_codes": {
-      "19": 4
+      "19": 3
     },
     "keywords": [
-      "politics",
-      "mecca",
-      "defense",
-      "pact",
-      "brings",
-      "military",
-      "chiefs",
-      "together",
+      "2026",
+      "democrats",
+      "are",
+      "quietly",
+      "clashing",
+      "over",
+      "involvement",
       "saudi",
-      "arabia",
-      "news"
+      "arabias",
+      "war",
+      "yemen"
     ]
   }
 }
