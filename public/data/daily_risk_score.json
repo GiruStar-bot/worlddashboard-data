@@ -1,155 +1,86 @@
 {
-  "ECU": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://news.az/news/ecuador-detains-dozens-over-suspected-links-to-mexican-cart-el",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "ecuador",
-      "detains",
-      "dozens",
-      "over",
-      "suspected",
-      "links",
-      "mexican",
-      "cart"
-    ]
-  },
   "IRN": {
-    "risk_score": 4.8,
+    "risk_score": 5.5,
     "count": 6,
-    "top_news": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount",
+    "top_news": "https://www.aol.co.uk/articles/saudi-defence-pact-could-drag-143915000.html",
     "event_codes": {
-      "16": 3,
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "saudi",
-      "arabia",
-      "allies",
-      "line",
-      "support",
-      "houthi",
-      "attacks",
-      "mount"
-    ]
-  },
-  "ISR": {
-    "risk_score": 10.5,
-    "count": 11,
-    "top_news": "https://www.chronicle.lu/category/international/63602-at-un-netanyahu-defends-israel-as-delegates-walk-out",
-    "event_codes": {
-      "19": 8,
-      "20": 2,
-      "17": 1
-    },
-    "keywords": [
-      "category",
-      "international",
-      "63602",
-      "netanyahu",
-      "defends",
-      "israel",
-      "delegates",
-      "walk",
-      "out"
-    ]
-  },
-  "MYS": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.malaysiakini.com/news/885734-family-of-bandar-utama-school-stabbing-victim-to-pursue-civil-suit",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "885734",
-      "family",
-      "bandar",
-      "utama",
-      "school",
-      "stabbing",
-      "victim",
-      "pursue",
-      "civil",
-      "suit"
-    ]
-  },
-  "NGA": {
-    "risk_score": 10.8,
-    "count": 16,
-    "top_news": "https://www.premiumtimesng.com/regional/north-central/912290-former-head-of-anglican-church-visits-plateau-attack-victims-says-no-easy-answers-to-killings.html",
-    "event_codes": {
-      "17": 9,
-      "19": 5,
-      "16": 1,
+      "19": 3,
+      "16": 2,
       "18": 1
     },
     "keywords": [
-      "regional",
-      "north",
-      "central",
-      "912290",
-      "former",
-      "head",
-      "anglican",
-      "church",
-      "visits",
-      "plateau",
-      "attack",
-      "victims",
-      "says",
-      "easy",
-      "answers",
-      "killings.html"
+      "articles",
+      "saudi",
+      "defence",
+      "pact",
+      "could",
+      "drag",
+      "143915000.html"
     ]
   },
-  "PSE": {
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/politics/mecca-defense-pact-brings-military-chiefs-together-in-saudi-arabia/news",
+    "event_codes": {
+      "19": 3,
+      "18": 1
+    },
+    "keywords": [
+      "politics",
+      "mecca",
+      "defense",
+      "pact",
+      "brings",
+      "military",
+      "chiefs",
+      "together",
+      "saudi",
+      "arabia",
+      "news"
+    ]
+  },
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.jns.org/news/israel-news/two-idf-reservists-killed-in-gaza-drone-explosion",
+    "top_news": "https://www.ghafla.co.ke/boniface-mwangi-backs-babu-owino-and-edwin-sifuna-as-key-figures-in-opposition-strategy/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "two",
-      "idf",
-      "reservists",
-      "killed",
-      "gaza",
-      "drone",
-      "explosion"
+      "boniface",
+      "mwangi",
+      "backs",
+      "babu",
+      "owino",
+      "and",
+      "edwin",
+      "sifuna",
+      "key",
+      "figures",
+      "opposition",
+      "strategy"
     ]
   },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount",
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/politics/mecca-defense-pact-brings-military-chiefs-together-in-saudi-arabia/news",
     "event_codes": {
-      "19": 3
+      "19": 4
     },
     "keywords": [
-      "news",
-      "2026",
+      "politics",
+      "mecca",
+      "defense",
+      "pact",
+      "brings",
+      "military",
+      "chiefs",
+      "together",
       "saudi",
       "arabia",
-      "allies",
-      "line",
-      "support",
-      "houthi",
-      "attacks",
-      "mount"
+      "news"
     ]
   }
 }
