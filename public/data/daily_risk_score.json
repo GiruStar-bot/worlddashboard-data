@@ -1,145 +1,93 @@
 {
-  "ISR": {
-    "risk_score": 20.25,
-    "count": 25,
-    "top_news": "https://timesofindia.indiatimes.com/world/middle-east/no-greater-partner-than-president-trump-netanyahu-defends-iran-war-attacks-critics-as-delegates-walk-out-at-unga/articleshow/134469836.cms",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://yalibnan.com/2026/09/25/us-and-iran-discuss-phased-deal-to-reopen-hormuz-and-end-us-blockade-as-trump-says-us-holds-all-the-cards/",
     "event_codes": {
-      "19": 14,
-      "17": 5,
       "16": 4,
-      "14": 2
+      "17": 2
+    },
+    "keywords": [
+      "2026",
+      "and",
+      "iran",
+      "discuss",
+      "phased",
+      "deal",
+      "reopen",
+      "hormuz",
+      "and",
+      "end",
+      "blockade",
+      "trump",
+      "says",
+      "holds",
+      "all",
+      "the",
+      "cards"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 15,
+    "top_news": "https://www.standardmedia.co.ke/world/article/2001558632/israel-s-netanyahu-denounces-enemies-allies-in-fiery-un-speech",
+    "event_codes": {
+      "16": 7,
+      "14": 4,
+      "17": 4
     },
     "keywords": [
       "world",
-      "middle",
-      "east",
-      "greater",
-      "partner",
-      "than",
-      "president",
-      "trump",
+      "article",
+      "2001558632",
+      "israel",
       "netanyahu",
-      "defends",
-      "iran",
-      "war",
-      "attacks",
-      "critics",
-      "delegates",
-      "walk",
-      "out",
-      "unga",
-      "articleshow",
-      "134469836.cms"
+      "denounces",
+      "enemies",
+      "allies",
+      "fiery",
+      "speech"
     ]
   },
-  "LBN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.wcax.com/2026/09/24/residents-escape-injury-early-morning-west-lebanon-house-fire/",
+  "PSE": {
+    "risk_score": 2.1,
+    "count": 5,
+    "top_news": "https://lethbridgeherald.com/news/national-news/2026/09/24/netanyahu-crosses-canadian-airspace-with-arrest-warrant-in-effect/",
     "event_codes": {
-      "19": 2,
+      "16": 4,
       "17": 1
     },
     "keywords": [
+      "news",
+      "national",
+      "news",
       "2026",
-      "residents",
-      "escape",
-      "injury",
-      "early",
-      "morning",
-      "west",
-      "lebanon",
-      "house",
-      "fire"
-    ]
-  },
-  "NER": {
-    "risk_score": 13.0,
-    "count": 13,
-    "top_news": "https://dailypost.ng/2026/09/24/57-niger-security-personnel-reportedly-dead-in-seperate-attacks/",
-    "event_codes": {
-      "19": 13
-    },
-    "keywords": [
-      "2026",
-      "niger",
-      "security",
-      "personnel",
-      "reportedly",
-      "dead",
-      "seperate",
-      "attacks"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.3,
-    "count": 17,
-    "top_news": "https://tribuneonlineng.com/osun-police-arrest-suspect-in-emir-ajagungbades-murder-probe/",
-    "event_codes": {
-      "17": 11,
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "osun",
-      "police",
+      "netanyahu",
+      "crosses",
+      "canadian",
+      "airspace",
+      "with",
       "arrest",
-      "suspect",
-      "emir",
-      "ajagungbades",
-      "murder",
-      "probe"
+      "warrant",
+      "effect"
     ]
   },
   "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://aa.com.tr/en/middle-east/yemen-sees-clashes-in-taiz-airstrikes-in-saada-hudaydah-amid-diplomatic-push-against-houthis/4068621",
+    "top_news": "http://www.calcuttanews.net/news/279329865/macron-sends-french-troops-to-saudi-arabia",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "middle",
-      "east",
-      "yemen",
-      "sees",
-      "clashes",
-      "taiz",
-      "airstrikes",
-      "saada",
-      "hudaydah",
-      "amid",
-      "diplomatic",
-      "push",
-      "against",
-      "houthis",
-      "4068621"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://aa.com.tr/en/middle-east/yemen-sees-clashes-in-taiz-airstrikes-in-saada-hudaydah-amid-diplomatic-push-against-houthis/4068621",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "yemen",
-      "sees",
-      "clashes",
-      "taiz",
-      "airstrikes",
-      "saada",
-      "hudaydah",
-      "amid",
-      "diplomatic",
-      "push",
-      "against",
-      "houthis",
-      "4068621"
+      "news",
+      "279329865",
+      "macron",
+      "sends",
+      "french",
+      "troops",
+      "saudi",
+      "arabia"
     ]
   }
 }
