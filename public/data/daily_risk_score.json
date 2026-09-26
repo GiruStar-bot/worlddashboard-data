@@ -1,41 +1,23 @@
 {
-  "ISR": {
-    "risk_score": 4.3,
-    "count": 7,
-    "top_news": "https://www.aljazeera.com/news/2026/9/26/palestine-action-protest-labour-conference",
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://nypost.com/2026/09/26/world-news/pregnant-argentina-cop-delivers-baby-after-accidental-shooting/",
     "event_codes": {
-      "17": 5,
-      "16": 1,
-      "19": 1
+      "19": 3
     },
     "keywords": [
-      "news",
       "2026",
-      "palestine",
-      "action",
-      "protest",
-      "labour",
-      "conference"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://capitalfm.africa/atwoli-tells-gachagua-to-stop-invoking-his-name-for-political-relevance/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "atwoli",
-      "tells",
-      "gachagua",
-      "stop",
-      "invoking",
-      "his",
-      "name",
-      "for",
-      "political",
-      "relevance"
+      "world",
+      "news",
+      "pregnant",
+      "argentina",
+      "cop",
+      "delivers",
+      "baby",
+      "after",
+      "accidental",
+      "shooting"
     ]
   }
 }
