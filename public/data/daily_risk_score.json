@@ -1,48 +1,41 @@
 {
-  "IRN": {
-    "risk_score": 5.2,
-    "count": 9,
-    "top_news": "https://www.wsws.org/en/articles/2026/09/26/wiff-s26.html",
+  "ISR": {
+    "risk_score": 4.3,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/9/26/palestine-action-protest-labour-conference",
     "event_codes": {
-      "16": 8,
+      "17": 5,
+      "16": 1,
       "19": 1
     },
     "keywords": [
-      "articles",
+      "news",
       "2026",
-      "wiff",
-      "s26.html"
+      "palestine",
+      "action",
+      "protest",
+      "labour",
+      "conference"
     ]
   },
-  "ISR": {
-    "risk_score": 2.05,
-    "count": 3,
-    "top_news": "https://www.wsws.org/en/articles/2026/09/26/pyns-s26.html",
+  "KEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://capitalfm.africa/atwoli-tells-gachagua-to-stop-invoking-his-name-for-political-relevance/",
     "event_codes": {
-      "17": 2,
-      "14": 1
+      "19": 4
     },
     "keywords": [
-      "articles",
-      "2026",
-      "pyns",
-      "s26.html"
-    ]
-  },
-  "NER": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://blueprint.ng/niger-6-die-in-kamuki-fulani-communal-clash/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "niger",
-      "die",
-      "kamuki",
-      "fulani",
-      "communal",
-      "clash"
+      "atwoli",
+      "tells",
+      "gachagua",
+      "stop",
+      "invoking",
+      "his",
+      "name",
+      "for",
+      "political",
+      "relevance"
     ]
   }
 }
