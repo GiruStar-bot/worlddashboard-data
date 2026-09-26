@@ -1,105 +1,48 @@
 {
   "IRN": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://www.thestar.com.my/news/world/2026/09/26/trump-xi-discuss-middle-east-war-as-iran-presses-7-day-plan-to-end-fighting",
+    "risk_score": 5.2,
+    "count": 9,
+    "top_news": "https://www.wsws.org/en/articles/2026/09/26/wiff-s26.html",
     "event_codes": {
-      "16": 3,
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "world",
-      "2026",
-      "trump",
-      "discuss",
-      "middle",
-      "east",
-      "war",
-      "iran",
-      "presses",
-      "day",
-      "plan",
-      "end",
-      "fighting"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.breitbart.com/national-security/2026/09/24/irans-terrorist-hardliners-complain-foreign-minister-meets-trump-envoy/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "national",
-      "security",
-      "2026",
-      "irans",
-      "terrorist",
-      "hardliners",
-      "complain",
-      "foreign",
-      "minister",
-      "meets",
-      "trump",
-      "envoy"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.7,
-    "count": 5,
-    "top_news": "https://www.breitbart.com/national-security/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
-    "event_codes": {
-      "16": 2,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "national",
-      "security",
-      "2026",
-      "exclusive",
-      "persecution",
-      "expert",
-      "nigerias",
-      "kidnapping",
-      "boom",
-      "still",
-      "driven",
-      "hate",
-      "for",
-      "christians"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://www.santafenewmexican.com/ap/national/irans-foreign-minister-details-new-offer-to-reopen-strait-and-other-mideast-developments/article_1fd0beb0-1a08-5c4d-ad20-3c137642cc61.html",
-    "event_codes": {
-      "18": 4,
+      "16": 8,
       "19": 1
     },
     "keywords": [
-      "national",
-      "irans",
-      "foreign",
-      "minister",
-      "details",
-      "new",
-      "offer",
-      "reopen",
-      "strait",
-      "and",
-      "other",
-      "mideast",
-      "developments",
-      "article",
-      "1fd0beb0",
-      "1a08",
-      "5c4d",
-      "ad20",
-      "3c137642cc61.html"
+      "articles",
+      "2026",
+      "wiff",
+      "s26.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.05,
+    "count": 3,
+    "top_news": "https://www.wsws.org/en/articles/2026/09/26/pyns-s26.html",
+    "event_codes": {
+      "17": 2,
+      "14": 1
+    },
+    "keywords": [
+      "articles",
+      "2026",
+      "pyns",
+      "s26.html"
+    ]
+  },
+  "NER": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://blueprint.ng/niger-6-die-in-kamuki-fulani-communal-clash/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "niger",
+      "die",
+      "kamuki",
+      "fulani",
+      "communal",
+      "clash"
     ]
   }
 }
