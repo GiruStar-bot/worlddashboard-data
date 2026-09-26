@@ -1,56 +1,105 @@
 {
-  "BRN": {
-    "risk_score": 2.62,
-    "count": 3,
-    "top_news": "https://www.homelandsecuritynewswire.com/dr20260925-to-deter-china-we-need-a-global-alliance-of-democracies",
+  "IRN": {
+    "risk_score": 3.2,
+    "count": 5,
+    "top_news": "https://www.thestar.com.my/news/world/2026/09/26/trump-xi-discuss-middle-east-war-as-iran-presses-7-day-plan-to-end-fighting",
     "event_codes": {
-      "19": 2,
-      "15": 1
-    },
-    "keywords": [
-      "dr20260925",
-      "deter",
-      "china",
-      "need",
-      "global",
-      "alliance",
-      "democracies"
-    ]
-  },
-  "NGA": {
-    "risk_score": 11.75,
-    "count": 15,
-    "top_news": "https://promptnewsonline.com/wanted-fugitive-arrested-over-alleged-murder/",
-    "event_codes": {
-      "19": 7,
-      "17": 6,
-      "18": 2
-    },
-    "keywords": [
-      "wanted",
-      "fugitive",
-      "arrested",
-      "over",
-      "alleged",
-      "murder"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailysabah.com/opinion/op-ed/strategic-shift-in-yemen-conflict-toward-collective-response",
-    "event_codes": {
+      "16": 3,
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "strategic",
-      "shift",
-      "yemen",
-      "conflict",
-      "toward",
-      "collective",
-      "response"
+      "news",
+      "world",
+      "2026",
+      "trump",
+      "discuss",
+      "middle",
+      "east",
+      "war",
+      "iran",
+      "presses",
+      "day",
+      "plan",
+      "end",
+      "fighting"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/national-security/2026/09/24/irans-terrorist-hardliners-complain-foreign-minister-meets-trump-envoy/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "irans",
+      "terrorist",
+      "hardliners",
+      "complain",
+      "foreign",
+      "minister",
+      "meets",
+      "trump",
+      "envoy"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.7,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/national-security/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
+    "event_codes": {
+      "16": 2,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "national",
+      "security",
+      "2026",
+      "exclusive",
+      "persecution",
+      "expert",
+      "nigerias",
+      "kidnapping",
+      "boom",
+      "still",
+      "driven",
+      "hate",
+      "for",
+      "christians"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.6,
+    "count": 5,
+    "top_news": "https://www.santafenewmexican.com/ap/national/irans-foreign-minister-details-new-offer-to-reopen-strait-and-other-mideast-developments/article_1fd0beb0-1a08-5c4d-ad20-3c137642cc61.html",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "national",
+      "irans",
+      "foreign",
+      "minister",
+      "details",
+      "new",
+      "offer",
+      "reopen",
+      "strait",
+      "and",
+      "other",
+      "mideast",
+      "developments",
+      "article",
+      "1fd0beb0",
+      "1a08",
+      "5c4d",
+      "ad20",
+      "3c137642cc61.html"
     ]
   }
 }
