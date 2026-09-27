@@ -1,44 +1,79 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/09/26/777079/Russia-Iran-Lavrov-Khamenei",
+  "COL": {
+    "risk_score": 2.4,
+    "count": 4,
+    "top_news": "https://www.nbcnews.com/world/south-america/colombia-extradites-warlord-us-security-strategy-aligns-washington-rcna600000",
     "event_codes": {
-      "18": 2
+      "16": 2,
+      "17": 2
     },
     "keywords": [
-      "detail",
+      "world",
+      "south",
+      "america",
+      "colombia",
+      "extradites",
+      "warlord",
+      "security",
+      "strategy",
+      "aligns",
+      "washington",
+      "rcna600000"
+    ]
+  },
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.pakistantoday.com.pk/2026/09/27/behind-the-lines-with-mujtaba-khamenei",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
       "2026",
-      "777079",
-      "russia",
-      "iran",
-      "lavrov",
+      "behind",
+      "the",
+      "lines",
+      "with",
+      "mujtaba",
       "khamenei"
     ]
   },
   "ISR": {
-    "risk_score": 8.5,
-    "count": 9,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/09/26/777076/Israel-establishes-new-illegal-settlement-outpost-in-occupied-West-Bank",
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://www.pakistantoday.com.pk/2026/09/27/behind-the-lines-with-mujtaba-khamenei",
     "event_codes": {
-      "18": 4,
-      "19": 3,
-      "17": 1,
-      "20": 1
+      "20": 2,
+      "18": 1
     },
     "keywords": [
-      "detail",
       "2026",
-      "777076",
-      "israel",
-      "establishes",
-      "new",
-      "illegal",
-      "settlement",
-      "outpost",
-      "occupied",
-      "west",
-      "bank"
+      "behind",
+      "the",
+      "lines",
+      "with",
+      "mujtaba",
+      "khamenei"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.fox5atlanta.com/news/father-suspect-smyrna-dismemberment-case-releases-statement",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "father",
+      "suspect",
+      "smyrna",
+      "dismemberment",
+      "case",
+      "releases",
+      "statement"
     ]
   }
 }
