@@ -1,22 +1,82 @@
 {
-  "VNM": {
+  "IRN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.wlky.com/article/tech-sgt-ashley-young-pruitt-honored-memorial-highway/73907336",
+    "top_news": "https://english.news.cn/europe/20260927/5fd72e30ec7e4017b5d09afcf70830c7/c.html",
+    "event_codes": {
+      "18": 2,
+      "19": 1
+    },
+    "keywords": [
+      "europe",
+      "20260927",
+      "5fd72e30ec7e4017b5d09afcf70830c7",
+      "c.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jpost.com/israel-news/article-909853",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "909853"
+    ]
+  },
+  "KEN": {
+    "risk_score": 3.25,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/climate-change/2026-09-27-climate-change-experts-urge-action-to-protect-lake-victoria-as-el-nino-rains-loom",
+    "event_codes": {
+      "14": 2,
+      "19": 2
+    },
+    "keywords": [
+      "climate",
+      "change",
+      "2026",
+      "climate",
+      "change",
+      "experts",
+      "urge",
+      "action",
+      "protect",
+      "lake",
+      "victoria",
+      "nino",
+      "rains",
+      "loom"
+    ]
+  },
+  "NGA": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://english.news.cn/20260927/7d81b4d939a64617b390c72f34cfe8a9/c.html",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "20260927",
+      "7d81b4d939a64617b390c72f34cfe8a9",
+      "c.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://english.news.cn/20260927/59fef3fbed42412598cb08097bf291c8/c.html",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "article",
-      "tech",
-      "sgt",
-      "ashley",
-      "young",
-      "pruitt",
-      "honored",
-      "memorial",
-      "highway",
-      "73907336"
+      "20260927",
+      "59fef3fbed42412598cb08097bf291c8",
+      "c.html"
     ]
   }
 }
