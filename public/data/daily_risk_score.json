@@ -1,58 +1,99 @@
 {
-  "IRN": {
-    "risk_score": 3.9,
-    "count": 6,
-    "top_news": "https://www.khaama.com/iran-says-international-flights-continue-despite-new-us-sanctions/",
+  "ECU": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.cbsnews.com/news/wife-daughter-ecuador-drug-lord-fito-held-us-captured-colombia/",
     "event_codes": {
-      "16": 3,
-      "17": 3
-    },
-    "keywords": [
-      "iran",
-      "says",
-      "international",
-      "flights",
-      "continue",
-      "despite",
-      "new",
-      "sanctions"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.6,
-    "count": 5,
-    "top_news": "https://www.vanguardngr.com/2026/09/israeli-forces-kill-october-7-attacker-filmed-abducting-couple/",
-    "event_codes": {
-      "18": 4,
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "2026",
-      "israeli",
-      "forces",
-      "kill",
-      "october",
-      "attacker",
-      "filmed",
-      "abducting",
-      "couple"
+      "news",
+      "wife",
+      "daughter",
+      "ecuador",
+      "drug",
+      "lord",
+      "fito",
+      "held",
+      "captured",
+      "colombia"
     ]
   },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 6,
-    "top_news": "https://thenationonlineng.net/sanwo-olu-leads-hamzats-campaign-to-ikorodu/",
+  "IRN": {
+    "risk_score": 7.2,
+    "count": 11,
+    "top_news": "https://kaieteurnewsonline.com/2026/09/28/strait-of-hormuz-tensions-linger-as-iran-and-u-s-move-further-from-a-deal/",
     "event_codes": {
-      "14": 4,
+      "17": 4,
+      "19": 4,
+      "16": 3
+    },
+    "keywords": [
+      "2026",
+      "strait",
+      "hormuz",
+      "tensions",
+      "linger",
+      "iran",
+      "and",
+      "move",
+      "further",
+      "from",
+      "deal"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-israeli-officials-settlers-for-storming-al-aqsa-mosque-3003601",
+    "event_codes": {
+      "19": 7,
+      "17": 2
+    },
+    "keywords": [
+      "saudi",
+      "arabia",
+      "saudi",
+      "arabia",
+      "condemns",
+      "israeli",
+      "officials",
+      "settlers",
+      "for",
+      "storming",
+      "aqsa",
+      "mosque",
+      "3003601"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://english.news.cn/20260928/75e5c726c4f343f397c720be50ab906f/c.html",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "sanwo",
-      "olu",
-      "leads",
-      "hamzats",
-      "campaign",
-      "ikorodu"
+      "20260928",
+      "75e5c726c4f343f397c720be50ab906f",
+      "c.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "https://www.aol.co.uk/articles/us-alienated-sudans-army-complex-152652000.html",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "articles",
+      "alienated",
+      "sudans",
+      "army",
+      "complex",
+      "152652000.html"
     ]
   }
 }
