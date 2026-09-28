@@ -1,99 +1,114 @@
 {
-  "ECU": {
+  "IRN": {
     "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.cbsnews.com/news/wife-daughter-ecuador-drug-lord-fito-held-us-captured-colombia/",
+    "top_news": "http://www.postregister.com/news/national/the-latest-trump-administration-loosens-fuel-economy-standards/article_a85f2e19-d762-5b79-9ce9-70181b56578e.html",
     "event_codes": {
       "17": 2,
       "19": 1
     },
     "keywords": [
       "news",
-      "wife",
-      "daughter",
-      "ecuador",
-      "drug",
-      "lord",
-      "fito",
-      "held",
-      "captured",
-      "colombia"
-    ]
-  },
-  "IRN": {
-    "risk_score": 7.2,
-    "count": 11,
-    "top_news": "https://kaieteurnewsonline.com/2026/09/28/strait-of-hormuz-tensions-linger-as-iran-and-u-s-move-further-from-a-deal/",
-    "event_codes": {
-      "17": 4,
-      "19": 4,
-      "16": 3
-    },
-    "keywords": [
-      "2026",
-      "strait",
-      "hormuz",
-      "tensions",
-      "linger",
-      "iran",
-      "and",
-      "move",
-      "further",
-      "from",
-      "deal"
+      "national",
+      "the",
+      "latest",
+      "trump",
+      "administration",
+      "loosens",
+      "fuel",
+      "economy",
+      "standards",
+      "article",
+      "a85f2e19",
+      "d762",
+      "5b79",
+      "9ce9",
+      "70181b56578e.html"
     ]
   },
   "ISR": {
-    "risk_score": 7.9,
-    "count": 9,
-    "top_news": "https://www.arabnews.com/saudi-arabia/saudi-arabia-condemns-israeli-officials-settlers-for-storming-al-aqsa-mosque-3003601",
+    "risk_score": 5.1,
+    "count": 6,
+    "top_news": "https://english.wafa.ps/Pages/Details/175291",
     "event_codes": {
-      "19": 7,
-      "17": 2
+      "18": 4,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "saudi",
-      "arabia",
-      "saudi",
-      "arabia",
-      "condemns",
-      "israeli",
-      "officials",
-      "settlers",
-      "for",
-      "storming",
-      "aqsa",
-      "mosque",
-      "3003601"
+      "pages",
+      "details",
+      "175291"
     ]
   },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20260928/75e5c726c4f343f397c720be50ab906f/c.html",
+  "KEN": {
+    "risk_score": 3.84,
+    "count": 4,
+    "top_news": "https://kenya-today.com/report-khrc-warns-el-nino-floods-will-hit-kenyas-poorest-settlements-hardest-4258/",
     "event_codes": {
+      "17": 2,
       "19": 2
     },
     "keywords": [
-      "20260928",
-      "75e5c726c4f343f397c720be50ab906f",
-      "c.html"
+      "report",
+      "khrc",
+      "warns",
+      "nino",
+      "floods",
+      "will",
+      "hit",
+      "kenyas",
+      "poorest",
+      "settlements",
+      "hardest",
+      "4258"
     ]
   },
-  "SDN": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.aol.co.uk/articles/us-alienated-sudans-army-complex-152652000.html",
+  "NGA": {
+    "risk_score": 8.65,
+    "count": 14,
+    "top_news": "https://allhiphop.com/news/nicki-minaj-offers-prayers-for-nigerian-christians-as-pastor-thanks-trump/",
     "event_codes": {
-      "19": 8
+      "17": 9,
+      "18": 2,
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "articles",
-      "alienated",
-      "sudans",
-      "army",
-      "complex",
-      "152652000.html"
+      "news",
+      "nicki",
+      "minaj",
+      "offers",
+      "prayers",
+      "for",
+      "nigerian",
+      "christians",
+      "pastor",
+      "thanks",
+      "trump"
+    ]
+  },
+  "SOM": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://bnonews.com/index.php/2026/09/fighting-in-somali-city-leaves-dozens-wounded-officials-say-70-militants-killed/",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "index.php",
+      "2026",
+      "fighting",
+      "somali",
+      "city",
+      "leaves",
+      "dozens",
+      "wounded",
+      "officials",
+      "say",
+      "militants",
+      "killed"
     ]
   }
 }
