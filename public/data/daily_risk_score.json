@@ -1,80 +1,104 @@
 {
-  "ARG": {
-    "risk_score": 6.5,
-    "count": 8,
-    "top_news": "https://www.wdio.com/ap-top-news/us-revokes-visas-from-latin-american-officials-including-bolivias-top-prosecutor/",
-    "event_codes": {
-      "19": 5,
-      "17": 3
-    },
-    "keywords": [
-      "top",
-      "news",
-      "revokes",
-      "visas",
-      "from",
-      "latin",
-      "american",
-      "officials",
-      "including",
-      "bolivias",
-      "top",
-      "prosecutor"
-    ]
-  },
   "KHM": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://www.macleayargus.com.au/story/9359066/aussie-activist-abducted-in-cambodia-rights-group/",
+    "risk_score": 4.55,
+    "count": 5,
+    "top_news": "https://www.asiaone.com:443/entertainment/thomas-ong-moves-2-room-flexi-flat",
     "event_codes": {
-      "18": 4
+      "18": 4,
+      "19": 1
     },
     "keywords": [
-      "story",
-      "9359066",
-      "aussie",
-      "activist",
-      "abducted",
-      "cambodia",
-      "rights",
-      "group"
+      "entertainment",
+      "thomas",
+      "ong",
+      "moves",
+      "room",
+      "flexi",
+      "flat"
     ]
   },
-  "TUR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.fox5atlanta.com/news/smyrna-dismemberment-case-disbelief-murder-probe-continues",
+  "MYS": {
+    "risk_score": 2.15,
+    "count": 4,
+    "top_news": "https://www.manilatimes.net/2026/09/29/tmt-newswire/media-outreach-newswire/mihas-2026-delivers-rm678-billion-in-sales-expanding-opportunities-for-malaysian-businesses-and-smes/2434707",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "17": 3,
+      "14": 1
     },
     "keywords": [
+      "2026",
+      "tmt",
+      "newswire",
+      "media",
+      "outreach",
+      "newswire",
+      "mihas",
+      "2026",
+      "delivers",
+      "rm678",
+      "billion",
+      "sales",
+      "expanding",
+      "opportunities",
+      "for",
+      "malaysian",
+      "businesses",
+      "and",
+      "smes",
+      "2434707"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.asiaone.com:443/entertainment/thomas-ong-moves-2-room-flexi-flat",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "entertainment",
+      "thomas",
+      "ong",
+      "moves",
+      "room",
+      "flexi",
+      "flat"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://nypost.com/2026/09/29/us-news/parents-of-daughter-killed-by-illegal-immigrant-sparks-lawler-conley-debate/",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
       "news",
-      "smyrna",
-      "dismemberment",
-      "case",
-      "disbelief",
-      "murder",
-      "probe",
-      "continues"
+      "parents",
+      "daughter",
+      "killed",
+      "illegal",
+      "immigrant",
+      "sparks",
+      "lawler",
+      "conley",
+      "debate"
     ]
   },
   "VNM": {
-    "risk_score": 3.6,
+    "risk_score": 2.8,
     "count": 4,
-    "top_news": "https://www.macleayargus.com.au/story/9359066/aussie-activist-abducted-in-cambodia-rights-group/",
+    "top_news": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo",
     "event_codes": {
-      "18": 4
+      "17": 2,
+      "18": 2
     },
     "keywords": [
-      "story",
-      "9359066",
-      "aussie",
-      "activist",
-      "abducted",
-      "cambodia",
-      "rights",
-      "group"
+      "news",
+      "articles",
+      "cmvgy2wwvzlqo"
     ]
   }
 }
