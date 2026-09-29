@@ -1,114 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "http://www.postregister.com/news/national/the-latest-trump-administration-loosens-fuel-economy-standards/article_a85f2e19-d762-5b79-9ce9-70181b56578e.html",
+  "ARG": {
+    "risk_score": 6.5,
+    "count": 8,
+    "top_news": "https://www.wdio.com/ap-top-news/us-revokes-visas-from-latin-american-officials-including-bolivias-top-prosecutor/",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 5,
+      "17": 3
     },
     "keywords": [
+      "top",
       "news",
-      "national",
-      "the",
-      "latest",
-      "trump",
-      "administration",
-      "loosens",
-      "fuel",
-      "economy",
-      "standards",
-      "article",
-      "a85f2e19",
-      "d762",
-      "5b79",
-      "9ce9",
-      "70181b56578e.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.1,
-    "count": 6,
-    "top_news": "https://english.wafa.ps/Pages/Details/175291",
-    "event_codes": {
-      "18": 4,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "175291"
-    ]
-  },
-  "KEN": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://kenya-today.com/report-khrc-warns-el-nino-floods-will-hit-kenyas-poorest-settlements-hardest-4258/",
-    "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "report",
-      "khrc",
-      "warns",
-      "nino",
-      "floods",
-      "will",
-      "hit",
-      "kenyas",
-      "poorest",
-      "settlements",
-      "hardest",
-      "4258"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.65,
-    "count": 14,
-    "top_news": "https://allhiphop.com/news/nicki-minaj-offers-prayers-for-nigerian-christians-as-pastor-thanks-trump/",
-    "event_codes": {
-      "17": 9,
-      "18": 2,
-      "19": 2,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "nicki",
-      "minaj",
-      "offers",
-      "prayers",
-      "for",
-      "nigerian",
-      "christians",
-      "pastor",
-      "thanks",
-      "trump"
-    ]
-  },
-  "SOM": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://bnonews.com/index.php/2026/09/fighting-in-somali-city-leaves-dozens-wounded-officials-say-70-militants-killed/",
-    "event_codes": {
-      "18": 2,
-      "19": 2
-    },
-    "keywords": [
-      "index.php",
-      "2026",
-      "fighting",
-      "somali",
-      "city",
-      "leaves",
-      "dozens",
-      "wounded",
+      "revokes",
+      "visas",
+      "from",
+      "latin",
+      "american",
       "officials",
-      "say",
-      "militants",
-      "killed"
+      "including",
+      "bolivias",
+      "top",
+      "prosecutor"
+    ]
+  },
+  "KHM": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.macleayargus.com.au/story/9359066/aussie-activist-abducted-in-cambodia-rights-group/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "story",
+      "9359066",
+      "aussie",
+      "activist",
+      "abducted",
+      "cambodia",
+      "rights",
+      "group"
+    ]
+  },
+  "TUR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.fox5atlanta.com/news/smyrna-dismemberment-case-disbelief-murder-probe-continues",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "smyrna",
+      "dismemberment",
+      "case",
+      "disbelief",
+      "murder",
+      "probe",
+      "continues"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.macleayargus.com.au/story/9359066/aussie-activist-abducted-in-cambodia-rights-group/",
+    "event_codes": {
+      "18": 4
+    },
+    "keywords": [
+      "story",
+      "9359066",
+      "aussie",
+      "activist",
+      "abducted",
+      "cambodia",
+      "rights",
+      "group"
     ]
   }
 }
