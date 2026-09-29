@@ -1,65 +1,66 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://hungarytoday.hu/hungarys-iraq-mission-ends-as-u-s-forces-complete-withdrawal/",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "hungarys",
-      "iraq",
-      "mission",
-      "ends",
-      "forces",
-      "complete",
-      "withdrawal"
-    ]
-  },
   "ISR": {
-    "risk_score": 4.9,
-    "count": 5,
-    "top_news": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo",
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://blueprint.ng/gaza-what-next-after-unga/",
     "event_codes": {
-      "19": 4,
+      "17": 3,
       "18": 1
     },
     "keywords": [
-      "news",
-      "articles",
-      "cvlylj41egxgo"
+      "gaza",
+      "what",
+      "next",
+      "after",
+      "unga"
     ]
   },
-  "VEN": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.houstonpublicmedia.org/articles/news/politics/immigration/2026/09/29/563045/austin-man-shot-by-ice-still-in-pain-bullet-lodged-in-his-back-ahead-of-san-antonio-hearing/",
+  "NGA": {
+    "risk_score": 6.95,
+    "count": 8,
+    "top_news": "https://tribuneonlineng.com/lagos-task-force-arrests-32-during-raids-on-criminal-hideouts/",
     "event_codes": {
       "19": 4,
+      "18": 2,
+      "14": 1,
       "17": 1
     },
     "keywords": [
-      "articles",
-      "news",
-      "politics",
-      "immigration",
+      "lagos",
+      "task",
+      "force",
+      "arrests",
+      "during",
+      "raids",
+      "criminal",
+      "hideouts"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.8,
+    "count": 6,
+    "top_news": "https://www.irishtimes.com/world/middle-east/2026/09/29/israeli-settlers-attack-west-bank-village-and-prevent-palestinian-family-returning-home/",
+    "event_codes": {
+      "17": 4,
+      "18": 2
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
       "2026",
-      "563045",
-      "austin",
-      "man",
-      "shot",
-      "ice",
-      "still",
-      "pain",
-      "bullet",
-      "lodged",
-      "his",
-      "back",
-      "ahead",
-      "san",
-      "antonio",
-      "hearing"
+      "israeli",
+      "settlers",
+      "attack",
+      "west",
+      "bank",
+      "village",
+      "and",
+      "prevent",
+      "palestinian",
+      "family",
+      "returning",
+      "home"
     ]
   }
 }
