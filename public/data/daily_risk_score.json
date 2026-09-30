@@ -1,105 +1,77 @@
 {
-  "ARG": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://buenosairesherald.com/politics/judiciary/supreme-court-ruling-lifts-limits-on-foreign-land-ownership",
+  "IRN": {
+    "risk_score": 4.25,
+    "count": 6,
+    "top_news": "https://www.jns.org/opinion/column/fiamma-nirenstein/a-new-9-11-in-the-skies-was-narrowly-averted",
     "event_codes": {
-      "19": 3
+      "16": 3,
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "politics",
-      "judiciary",
-      "supreme",
-      "court",
-      "ruling",
-      "lifts",
-      "limits",
-      "foreign",
-      "land",
-      "ownership"
-    ]
-  },
-  "ETH": {
-    "risk_score": 12.7,
-    "count": 13,
-    "top_news": "https://www.thetablet.co.uk/news/plea-for-humanitarian-access-as-tigray-again-descends-into-war/",
-    "event_codes": {
-      "19": 13
-    },
-    "keywords": [
-      "news",
-      "plea",
-      "for",
-      "humanitarian",
-      "access",
-      "tigray",
-      "again",
-      "descends",
-      "into",
-      "war"
+      "opinion",
+      "column",
+      "fiamma",
+      "nirenstein",
+      "new",
+      "the",
+      "skies",
+      "was",
+      "narrowly",
+      "averted"
     ]
   },
   "ISR": {
-    "risk_score": 8.7,
-    "count": 11,
-    "top_news": "https://www.ibtimes.co.uk/indian-flydubai-captain-praised-after-cockpit-stabbing-1822995",
+    "risk_score": 11.5,
+    "count": 14,
+    "top_news": "https://www.oann.com/newsroom/netanyahu-meets-with-passenger-who-helped-thwart-attempted-hijacking-of-flydubai-flight-saving-174-lives/",
     "event_codes": {
-      "17": 4,
-      "19": 4,
-      "18": 3
+      "14": 6,
+      "19": 5,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
-      "indian",
+      "newsroom",
+      "netanyahu",
+      "meets",
+      "with",
+      "passenger",
+      "who",
+      "helped",
+      "thwart",
+      "attempted",
+      "hijacking",
       "flydubai",
-      "captain",
-      "praised",
-      "after",
-      "cockpit",
-      "stabbing",
-      "1822995"
+      "flight",
+      "saving",
+      "174",
+      "lives"
     ]
   },
-  "NGA": {
-    "risk_score": 4.65,
-    "count": 5,
-    "top_news": "https://dailytrust.com/kano-abducted-village-head-killed-in-captivity/",
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.jns.org/news/israel-news/kaploun-thanks-saudi-authorities-for-quick-response-aiding-passengers-on-rescued-flydubai-flight",
     "event_codes": {
-      "18": 3,
       "19": 2
     },
     "keywords": [
-      "kano",
-      "abducted",
-      "village",
-      "head",
-      "killed",
-      "captivity"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://ktxs.com/news/nation-world/fact-check-team-what-we-know-about-ole-miss-student-deaths-kratom-court-documents",
-    "event_codes": {
-      "17": 4
-    },
-    "keywords": [
       "news",
-      "nation",
-      "world",
-      "fact",
-      "check",
-      "team",
-      "what",
-      "know",
-      "about",
-      "ole",
-      "miss",
-      "student",
-      "deaths",
-      "kratom",
-      "court",
-      "documents"
+      "israel",
+      "news",
+      "kaploun",
+      "thanks",
+      "saudi",
+      "authorities",
+      "for",
+      "quick",
+      "response",
+      "aiding",
+      "passengers",
+      "rescued",
+      "flydubai",
+      "flight"
     ]
   }
 }
