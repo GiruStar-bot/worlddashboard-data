@@ -1,31 +1,101 @@
 {
-  "ISR": {
+  "IDN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.michigandaily.com/statement/what-the-air-carries/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "statement",
+      "what",
+      "the",
+      "air",
+      "carries"
+    ]
+  },
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2604015/bono-invokes-the-holocaust-u2-frontman-compares-ben-gvir-to-nazi-ss-chief-heinrich-himmler-over-gaza-remarks.html",
+    "top_news": "https://gcaptain.com/saronic-wins-navy-production-contract-for-180-foot-autonomous-surface-vessel/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "saronic",
+      "wins",
+      "navy",
+      "production",
+      "contract",
+      "for",
+      "180",
+      "foot",
+      "autonomous",
+      "surface",
+      "vessel"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://en.tempo.co/read/2120601/iraq-us-withdrawal-leaves-security-questions",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "read",
+      "2120601",
+      "iraq",
+      "withdrawal",
+      "leaves",
+      "security",
+      "questions"
+    ]
+  },
+  "MMR": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://theshillongtimes.com/2026/09/30/airstrike-near-myanmar-market-claims-49-lives/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "airstrike",
+      "near",
+      "myanmar",
+      "market",
+      "claims",
+      "lives"
+    ]
+  },
+  "TUR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.wsbtv.com/news/local/cobb-county/police-young-mother-was-shot-head-killed-inside-apartment-before-body-was-dismembered/5RNTRCGWKVAVJORSK42U4I63JA/",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
       "news",
-      "israel",
-      "news",
-      "2604015",
-      "bono",
-      "invokes",
-      "the",
-      "holocaust",
-      "frontman",
-      "compares",
-      "ben",
-      "gvir",
-      "nazi",
-      "chief",
-      "heinrich",
-      "himmler",
-      "over",
-      "gaza",
-      "remarks.html"
+      "local",
+      "cobb",
+      "county",
+      "police",
+      "young",
+      "mother",
+      "was",
+      "shot",
+      "head",
+      "killed",
+      "inside",
+      "apartment",
+      "before",
+      "body",
+      "was",
+      "dismembered",
+      "5rntrcgwkvavjorsk42u4i63ja"
     ]
   }
 }
