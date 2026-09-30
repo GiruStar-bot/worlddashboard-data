@@ -1,45 +1,105 @@
 {
-  "ISR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.express.co.uk/news/world/2253078/flydubai-live-hijacking-fears-dubai-tel-aviv",
+  "ARG": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://buenosairesherald.com/politics/judiciary/supreme-court-ruling-lifts-limits-on-foreign-land-ownership",
     "event_codes": {
-      "19": 4
+      "19": 3
+    },
+    "keywords": [
+      "politics",
+      "judiciary",
+      "supreme",
+      "court",
+      "ruling",
+      "lifts",
+      "limits",
+      "foreign",
+      "land",
+      "ownership"
+    ]
+  },
+  "ETH": {
+    "risk_score": 12.7,
+    "count": 13,
+    "top_news": "https://www.thetablet.co.uk/news/plea-for-humanitarian-access-as-tigray-again-descends-into-war/",
+    "event_codes": {
+      "19": 13
     },
     "keywords": [
       "news",
-      "world",
-      "2253078",
-      "flydubai",
-      "live",
-      "hijacking",
-      "fears",
-      "dubai",
-      "tel",
-      "aviv"
+      "plea",
+      "for",
+      "humanitarian",
+      "access",
+      "tigray",
+      "again",
+      "descends",
+      "into",
+      "war"
     ]
   },
-  "MYS": {
-    "risk_score": 2.7,
-    "count": 3,
-    "top_news": "https://www.malaysiakini.com/news/886010-sexual-assault-high-court-to-hear-anwars-preliminary-questions-in-open-court-proceeding",
+  "ISR": {
+    "risk_score": 8.7,
+    "count": 11,
+    "top_news": "https://www.ibtimes.co.uk/indian-flydubai-captain-praised-after-cockpit-stabbing-1822995",
     "event_codes": {
+      "17": 4,
+      "19": 4,
       "18": 3
     },
     "keywords": [
+      "indian",
+      "flydubai",
+      "captain",
+      "praised",
+      "after",
+      "cockpit",
+      "stabbing",
+      "1822995"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.65,
+    "count": 5,
+    "top_news": "https://dailytrust.com/kano-abducted-village-head-killed-in-captivity/",
+    "event_codes": {
+      "18": 3,
+      "19": 2
+    },
+    "keywords": [
+      "kano",
+      "abducted",
+      "village",
+      "head",
+      "killed",
+      "captivity"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://ktxs.com/news/nation-world/fact-check-team-what-we-know-about-ole-miss-student-deaths-kratom-court-documents",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
       "news",
-      "886010",
-      "sexual",
-      "assault",
-      "high",
+      "nation",
+      "world",
+      "fact",
+      "check",
+      "team",
+      "what",
+      "know",
+      "about",
+      "ole",
+      "miss",
+      "student",
+      "deaths",
+      "kratom",
       "court",
-      "hear",
-      "anwars",
-      "preliminary",
-      "questions",
-      "open",
-      "court",
-      "proceeding"
+      "documents"
     ]
   }
 }
