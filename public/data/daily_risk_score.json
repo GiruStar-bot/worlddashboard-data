@@ -1,40 +1,87 @@
 {
-  "IRN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://peakoil.com/publicpolicy/irans-hormuz-oil-leverage-crumbles-as-us-blockade-bites",
+  "EGY": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/egypt-condemns-israeli-raid-al-aqsa",
     "event_codes": {
-      "19": 2,
-      "18": 1
+      "19": 2
     },
     "keywords": [
-      "publicpolicy",
-      "irans",
-      "hormuz",
-      "oil",
-      "leverage",
-      "crumbles",
-      "blockade",
-      "bites"
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "egypt",
+      "condemns",
+      "israeli",
+      "raid",
+      "aqsa"
     ]
   },
   "ISR": {
-    "risk_score": 2.95,
-    "count": 3,
-    "top_news": "https://www.straitstimes.com/singapore/sia-scoot-extend-middle-east-flight-cancellations-to-december",
+    "risk_score": 9.7,
+    "count": 10,
+    "top_news": "https://jordantimes.com/news/region/palestinian-man-killed-in-west-bank-settler-attack",
     "event_codes": {
-      "19": 3
+      "19": 9,
+      "16": 1
     },
     "keywords": [
-      "singapore",
-      "sia",
-      "scoot",
-      "extend",
-      "middle",
-      "east",
-      "flight",
-      "cancellations",
-      "december"
+      "news",
+      "region",
+      "palestinian",
+      "man",
+      "killed",
+      "west",
+      "bank",
+      "settler",
+      "attack"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-man-succumbs-wounds-following-israeli-raid-village-central",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "palestinian",
+      "man",
+      "succumbs",
+      "wounds",
+      "following",
+      "israeli",
+      "raid",
+      "village",
+      "central"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/news/syria-hit-gas-explosion-deadly-bus-attack-and-israeli-shelling",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "news",
+      "syria",
+      "hit",
+      "gas",
+      "explosion",
+      "deadly",
+      "bus",
+      "attack",
+      "and",
+      "israeli",
+      "shelling"
     ]
   }
 }
