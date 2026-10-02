@@ -1,82 +1,89 @@
 {
-  "ARE": {
-    "risk_score": 3.95,
-    "count": 7,
-    "top_news": "https://www.prokerala.com/news/articles/a1819326.html",
+  "ETH": {
+    "risk_score": 8.35,
+    "count": 10,
+    "top_news": "https://www.africanews.com/2026/10/02/ethiopia-and-eritrea-sever-ties-as-tigray-fighting-intensifies/",
     "event_codes": {
-      "16": 5,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "articles",
-      "a1819326.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.koreatimes.co.kr/world/20261002/trump-says-iran-may-be-linked-to-flydubai-copilot-who-tried-to-crash-israel-bound-jet",
-    "event_codes": {
-      "19": 4,
-      "17": 2
-    },
-    "keywords": [
-      "world",
-      "20261002",
-      "trump",
-      "says",
-      "iran",
-      "may",
-      "linked",
-      "flydubai",
-      "copilot",
-      "who",
-      "tried",
-      "crash",
-      "israel",
-      "bound",
-      "jet"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://pmnewsnigeria.com/2026/10/01/troops-rescue-10-nysc-members-kill-16-terrorists-recover-weapons/",
-    "event_codes": {
-      "17": 4,
-      "19": 2
+      "19": 7,
+      "17": 2,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "troops",
-      "rescue",
-      "nysc",
-      "members",
-      "kill",
-      "terrorists",
-      "recover",
-      "weapons"
+      "ethiopia",
+      "and",
+      "eritrea",
+      "sever",
+      "ties",
+      "tigray",
+      "fighting",
+      "intensifies"
     ]
   },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.yahoo.com/news/world/articles/journalists-decry-crackdown-turkey-blocks-161807580.html",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.naturalnews.com/2026-10-01-uae-confirms-netanyahu-visit-statement-omits-wars.html",
     "event_codes": {
-      "19": 2
+      "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "articles",
+      "2026",
+      "uae",
+      "confirms",
+      "netanyahu",
+      "visit",
+      "statement",
+      "omits",
+      "wars.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.clevelandjewishnews.com/jns/idf-170-gazans-presented-as-journalists-were-terror-operatives/article_8242caf9-5b9b-5862-81ce-f07f740f463c.html",
+    "event_codes": {
+      "16": 1,
+      "18": 1,
+      "20": 1
+    },
+    "keywords": [
+      "jns",
+      "idf",
+      "170",
+      "gazans",
+      "presented",
       "journalists",
-      "decry",
-      "crackdown",
-      "turkey",
-      "blocks",
-      "161807580.html"
+      "were",
+      "terror",
+      "operatives",
+      "article",
+      "8242caf9",
+      "5b9b",
+      "5862",
+      "81ce",
+      "f07f740f463c.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.1,
+    "count": 4,
+    "top_news": "https://thesun.ng/owerri-onitsha-abduction-police-rescue-10-victims-begin-hunt-for-others/",
+    "event_codes": {
+      "18": 3,
+      "16": 1
+    },
+    "keywords": [
+      "owerri",
+      "onitsha",
+      "abduction",
+      "police",
+      "rescue",
+      "victims",
+      "begin",
+      "hunt",
+      "for",
+      "others"
     ]
   }
 }
