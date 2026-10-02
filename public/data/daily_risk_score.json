@@ -1,96 +1,160 @@
 {
-  "ETH": {
-    "risk_score": 5.6,
-    "count": 8,
-    "top_news": "https://chimpreports.com/eritrea-announces-break-in-diplomatic-ties-with-ethiopia-after-expulsion-of-diplomats/",
+  "ARG": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://buenosairesherald.com/politics/forensic-anthropologists-identify-disappeared-dictatorship-victim-in-mendoza",
     "event_codes": {
-      "16": 4,
-      "19": 4
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "eritrea",
-      "announces",
-      "break",
-      "diplomatic",
-      "ties",
-      "with",
-      "ethiopia",
-      "after",
-      "expulsion",
-      "diplomats"
+      "politics",
+      "forensic",
+      "anthropologists",
+      "identify",
+      "disappeared",
+      "dictatorship",
+      "victim",
+      "mendoza"
     ]
   },
   "IRN": {
     "risk_score": 6.2,
-    "count": 7,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/902926/persian-gulf-tensions-rise-as-trump-warns-of-strikes",
+    "count": 8,
+    "top_news": "https://www.expertclick.com/NewsRelease/Our-National-Cross-To-Bear-TreatNOW-Coalitio,2026316625.aspx",
     "event_codes": {
-      "18": 3,
-      "19": 3,
+      "14": 2,
+      "18": 2,
+      "19": 2,
+      "16": 1,
       "17": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "902926",
-      "persian",
-      "gulf",
-      "tensions",
-      "rise",
-      "trump",
-      "warns",
-      "strikes"
+      "newsrelease",
+      "our",
+      "national",
+      "cross",
+      "bear",
+      "treatnow",
+      "coalitio,2026316625.aspx"
     ]
   },
-  "NGA": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://organiser.org/2026/10/02/384029/world/nigeria-islamic-terrorists-kill-one-christian-every-86-minutes-report-reveals-4216-deaths-between-january-september/",
+  "ISR": {
+    "risk_score": 6.24,
+    "count": 8,
+    "top_news": "http://www.strategypage.com/htmw/htmurph/articles/20261002133751.aspx",
     "event_codes": {
-      "19": 5
+      "19": 4,
+      "15": 2,
+      "16": 2
     },
     "keywords": [
-      "2026",
-      "384029",
-      "world",
-      "nigeria",
-      "islamic",
-      "terrorists",
-      "kill",
-      "one",
-      "christian",
-      "every",
-      "minutes",
-      "report",
-      "reveals",
-      "4216",
-      "deaths",
-      "between",
-      "january",
-      "september"
+      "htmw",
+      "htmurph",
+      "articles",
+      "20261002133751.aspx"
+    ]
+  },
+  "QAT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://kashmirlife.net/us-deploys-more-patriot-batteries-to-protect-saudi-qatari-energy-sites-454845/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "deploys",
+      "more",
+      "patriot",
+      "batteries",
+      "protect",
+      "saudi",
+      "qatari",
+      "energy",
+      "sites",
+      "454845"
     ]
   },
   "SAU": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.thenationalnews.com/news/uk/2026/10/02/unemployed-man-admits-stabbing-saudi-businessman-during-robbery-in-londons-mayfair/",
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/10/02/777453/Senior-Saudi-backed-mercenary-commander-slain-as-Yemeni-army-advances-in-Ta",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 10
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "777453",
+      "senior",
+      "saudi",
+      "backed",
+      "mercenary",
+      "commander",
+      "slain",
+      "yemeni",
+      "army",
+      "advances"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.strategypage.com/htmw/htada/articles/20261002133540.aspx",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "htmw",
+      "htada",
+      "articles",
+      "20261002133540.aspx"
+    ]
+  },
+  "VEN": {
+    "risk_score": 4.8,
+    "count": 6,
+    "top_news": "https://www.sacurrent.com/news/austin-man-shot-by-ice-has-surgery-11-days-later-to-remove-the-bullet/",
+    "event_codes": {
+      "17": 2,
+      "18": 2,
+      "19": 2
     },
     "keywords": [
       "news",
-      "2026",
-      "unemployed",
+      "austin",
       "man",
-      "admits",
-      "stabbing",
+      "shot",
+      "ice",
+      "has",
+      "surgery",
+      "days",
+      "later",
+      "remove",
+      "the",
+      "bullet"
+    ]
+  },
+  "YEM": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/10/02/777453/Senior-Saudi-backed-mercenary-commander-slain-as-Yemeni-army-advances-in-Ta",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "777453",
+      "senior",
       "saudi",
-      "businessman",
-      "during",
-      "robbery",
-      "londons",
-      "mayfair"
+      "backed",
+      "mercenary",
+      "commander",
+      "slain",
+      "yemeni",
+      "army",
+      "advances"
     ]
   }
 }
