@@ -1,36 +1,82 @@
 {
+  "ARE": {
+    "risk_score": 3.95,
+    "count": 7,
+    "top_news": "https://www.prokerala.com/news/articles/a1819326.html",
+    "event_codes": {
+      "16": 5,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "a1819326.html"
+    ]
+  },
   "ISR": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.koreatimes.co.kr/world/20261002/trump-says-iran-may-be-linked-to-flydubai-copilot-who-tried-to-crash-israel-bound-jet",
+    "event_codes": {
+      "19": 4,
+      "17": 2
+    },
+    "keywords": [
+      "world",
+      "20261002",
+      "trump",
+      "says",
+      "iran",
+      "may",
+      "linked",
+      "flydubai",
+      "copilot",
+      "who",
+      "tried",
+      "crash",
+      "israel",
+      "bound",
+      "jet"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://pmnewsnigeria.com/2026/10/01/troops-rescue-10-nysc-members-kill-16-terrorists-recover-weapons/",
+    "event_codes": {
+      "17": 4,
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "troops",
+      "rescue",
+      "nysc",
+      "members",
+      "kill",
+      "terrorists",
+      "recover",
+      "weapons"
+    ]
+  },
+  "TUR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20261002/4506022.html",
+    "top_news": "https://www.yahoo.com/news/world/articles/journalists-decry-crackdown-turkey-blocks-161807580.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "articles",
       "world",
-      "20261002",
-      "4506022.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://drudge.com/news/294747/fetterman-helps-gop-block-probe-into-israeli",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
-      "294747",
-      "fetterman",
-      "helps",
-      "gop",
-      "block",
-      "probe",
-      "into",
-      "israeli"
+      "articles",
+      "journalists",
+      "decry",
+      "crackdown",
+      "turkey",
+      "blocks",
+      "161807580.html"
     ]
   }
 }
