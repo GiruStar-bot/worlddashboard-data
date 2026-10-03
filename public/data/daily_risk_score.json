@@ -1,62 +1,129 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.pakistantoday.com.pk/2026/10/03/war-on-iran-could-end-soon-president-trump",
+  "ISR": {
+    "risk_score": 6.95,
+    "count": 8,
+    "top_news": "https://news.crossmap.com/2026/10/03/latin-patriarchate-mourns-two-christian-women-killed-in-gaza-city-strike/",
     "event_codes": {
-      "19": 2
+      "19": 5,
+      "14": 3
     },
     "keywords": [
       "2026",
-      "war",
-      "iran",
-      "could",
-      "end",
-      "soon",
-      "president",
-      "trump"
-    ]
-  },
-  "ISR": {
-    "risk_score": 24.15,
-    "count": 25,
-    "top_news": "https://www.middleeastmonitor.com/20261003-hundreds-protest-israeli-attacks-on-palestine-lebanon-in-stockholm/",
-    "event_codes": {
-      "19": 17,
-      "18": 4,
-      "17": 3,
-      "14": 1
-    },
-    "keywords": [
-      "20261003",
-      "hundreds",
-      "protest",
-      "israeli",
-      "attacks",
-      "palestine",
-      "lebanon",
-      "stockholm"
+      "latin",
+      "patriarchate",
+      "mourns",
+      "two",
+      "christian",
+      "women",
+      "killed",
+      "gaza",
+      "city",
+      "strike"
     ]
   },
   "NGA": {
-    "risk_score": 6.14,
-    "count": 7,
-    "top_news": "https://tribuneonlineng.com/north-east-govs-record-progress-in-regional-cooperation-inuwa-yahaya/",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.opinionnigeria.com/nnamdi-kanu-must-not-become-a-campaign-narrative-an-investigative-audit-of-atikus-human-rights-advocacy-and-el-rufais-detention-by-daniel-nduka-okonkwo/",
     "event_codes": {
-      "18": 3,
-      "15": 2,
-      "19": 2
+      "17": 4
     },
     "keywords": [
+      "nnamdi",
+      "kanu",
+      "must",
+      "not",
+      "become",
+      "campaign",
+      "narrative",
+      "investigative",
+      "audit",
+      "atikus",
+      "human",
+      "rights",
+      "advocacy",
+      "and",
+      "rufais",
+      "detention",
+      "daniel",
+      "nduka",
+      "okonkwo"
+    ]
+  },
+  "PSE": {
+    "risk_score": 6.45,
+    "count": 7,
+    "top_news": "http://thepeninsulaqatar.com/article/03/10/2026/settler-rampages-in-nablus-injure-three-palestinians-ocha-documents-1600-plus-attacks",
+    "event_codes": {
+      "18": 7
+    },
+    "keywords": [
+      "article",
+      "2026",
+      "settler",
+      "rampages",
+      "nablus",
+      "injure",
+      "three",
+      "palestinians",
+      "ocha",
+      "documents",
+      "1600",
+      "plus",
+      "attacks"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.radiotamazuj.org/en/news/article/rsf-attack-killed-more-than-25-civilians-in-north-kordofan-medics-say",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "news",
+      "article",
+      "rsf",
+      "attack",
+      "killed",
+      "more",
+      "than",
+      "civilians",
       "north",
-      "east",
-      "govs",
-      "record",
-      "progress",
-      "regional",
-      "cooperation",
-      "inuwa",
-      "yahaya"
+      "kordofan",
+      "medics",
+      "say"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.5,
+    "count": 7,
+    "top_news": "https://www.channelafrica.co.za/channelafrica/news/turkish-fugitive-arrested-in-sas-province-faces-extradition/",
+    "event_codes": {
+      "17": 7
+    },
+    "keywords": [
+      "channelafrica",
+      "news",
+      "turkish",
+      "fugitive",
+      "arrested",
+      "sas",
+      "province",
+      "faces",
+      "extradition"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.okaz.com.sa/politics/na/2269127",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "politics",
+      "2269127"
     ]
   }
 }
