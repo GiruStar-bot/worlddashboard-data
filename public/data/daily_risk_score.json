@@ -1,42 +1,123 @@
 {
-  "ISR": {
-    "risk_score": 7.55,
-    "count": 8,
-    "top_news": "https://freebeacon.com/columns/israels-growing-allies-on-the-ground-and-in-the-sky/",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.al-monitor.com/originals/2026/10/houthis-say-saudi-arabia-launches-dozens-strikes-yemen-capital",
     "event_codes": {
-      "18": 5,
-      "19": 3
+      "19": 2
     },
     "keywords": [
-      "columns",
-      "israels",
-      "growing",
-      "allies",
-      "the",
-      "ground",
-      "and",
-      "the",
-      "sky"
+      "originals",
+      "2026",
+      "houthis",
+      "say",
+      "saudi",
+      "arabia",
+      "launches",
+      "dozens",
+      "strikes",
+      "yemen",
+      "capital"
     ]
   },
-  "NGA": {
+  "ISR": {
+    "risk_score": 7.9,
+    "count": 9,
+    "top_news": "https://www.jns.org/news/israel-news/uae-flydubai-co-pilot-attempted-to-execute-terror-attack-with-an-ax",
+    "event_codes": {
+      "19": 6,
+      "17": 2,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "uae",
+      "flydubai",
+      "pilot",
+      "attempted",
+      "execute",
+      "terror",
+      "attack",
+      "with"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.jns.org/news/israel-news/idf-slays-two-commanders-of-islamic-jihads-rocket-array-in-gaza",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "idf",
+      "slays",
+      "two",
+      "commanders",
+      "islamic",
+      "jihads",
+      "rocket",
+      "array",
+      "gaza"
+    ]
+  },
+  "VEN": {
+    "risk_score": 7.2,
+    "count": 8,
+    "top_news": "https://www.dailymail.com/news/article-16180485/Spanish-protests-against-holidaymakers-explode-violence-riot-police-charge-fence-hurling-demonstrators-amid-fight-tax-hikes-tourist-apartments.html",
+    "event_codes": {
+      "19": 5,
+      "14": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "article",
+      "16180485",
+      "spanish",
+      "protests",
+      "against",
+      "holidaymakers",
+      "explode",
+      "violence",
+      "riot",
+      "police",
+      "charge",
+      "fence",
+      "hurling",
+      "demonstrators",
+      "amid",
+      "fight",
+      "tax",
+      "hikes",
+      "tourist",
+      "apartments.html"
+    ]
+  },
+  "YEM": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://thenationonlineng.net/fubara-tasks-new-opobo-monarch-to-unite-kingdom-end-reign-of-division/",
+    "top_news": "https://www.al-monitor.com/originals/2026/10/houthis-say-saudi-arabia-launches-dozens-strikes-yemen-capital",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "fubara",
-      "tasks",
-      "new",
-      "opobo",
-      "monarch",
-      "unite",
-      "kingdom",
-      "end",
-      "reign",
-      "division"
+      "originals",
+      "2026",
+      "houthis",
+      "say",
+      "saudi",
+      "arabia",
+      "launches",
+      "dozens",
+      "strikes",
+      "yemen",
+      "capital"
     ]
   }
 }
