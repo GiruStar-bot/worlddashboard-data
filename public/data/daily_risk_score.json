@@ -1,28 +1,80 @@
 {
-  "IRN": {
-    "risk_score": 5.5,
-    "count": 7,
-    "top_news": "https://www.whmi.com/news/fox/uk-man-accused-planning-terrorism-acts-against-nigel-farage-also-charged-murder-another-politician",
+  "ISR": {
+    "risk_score": 3.24,
+    "count": 4,
+    "top_news": "https://www.thehindu.com/news/national/flydubai-pilot-captain-smit-machchhar-moved-to-abu-dhabi/article71539854.ece",
     "event_codes": {
-      "16": 5,
-      "19": 2
+      "17": 2,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
       "news",
-      "fox",
-      "man",
-      "accused",
-      "planning",
-      "terrorism",
-      "acts",
-      "against",
-      "nigel",
-      "farage",
-      "also",
-      "charged",
-      "murder",
-      "another",
-      "politician"
+      "national",
+      "flydubai",
+      "pilot",
+      "captain",
+      "smit",
+      "machchhar",
+      "moved",
+      "abu",
+      "dhabi",
+      "article71539854.ece"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://pidgin.informationng.com/?p=36074",
+    "event_codes": {
+      "18": 3,
+      "17": 1
+    },
+    "keywords": []
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://ianslive.in/bhagyashrii-borse-thanks-captain-smit-machchhar-calls-him-a-real-life-hero--20261003121021",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "bhagyashrii",
+      "borse",
+      "thanks",
+      "captain",
+      "smit",
+      "machchhar",
+      "calls",
+      "him",
+      "real",
+      "life",
+      "hero",
+      "20261003121021"
+    ]
+  },
+  "VEN": {
+    "risk_score": 7.5,
+    "count": 9,
+    "top_news": "https://www.police1.com/arrests-sentencing/venezuelan-immigrant-gets-4-years-in-prison-for-taking-federal-agents-gun",
+    "event_codes": {
+      "19": 6,
+      "17": 3
+    },
+    "keywords": [
+      "arrests",
+      "sentencing",
+      "venezuelan",
+      "immigrant",
+      "gets",
+      "years",
+      "prison",
+      "for",
+      "taking",
+      "federal",
+      "agents",
+      "gun"
     ]
   }
 }
