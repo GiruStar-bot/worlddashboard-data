@@ -1,22 +1,143 @@
 {
-  "VEN": {
-    "risk_score": 2.25,
+  "IRN": {
+    "risk_score": 2.4,
     "count": 3,
-    "top_news": "https://www.dw.com/en/brazil-election-lula-bolsonaro-battle-for-presidency/a-79437276",
+    "top_news": "https://www.hurriyetdailynews.com/israeli-forces-shell-village-in-southern-syria-227666",
     "event_codes": {
-      "14": 1,
-      "17": 1,
-      "19": 1
+      "19": 2,
+      "16": 1
     },
     "keywords": [
-      "brazil",
-      "election",
-      "lula",
-      "bolsonaro",
-      "battle",
+      "israeli",
+      "forces",
+      "shell",
+      "village",
+      "southern",
+      "syria",
+      "227666"
+    ]
+  },
+  "ISR": {
+    "risk_score": 8.25,
+    "count": 9,
+    "top_news": "https://www.hurriyetdailynews.com/israeli-forces-shell-village-in-southern-syria-227666",
+    "event_codes": {
+      "19": 8,
+      "16": 1
+    },
+    "keywords": [
+      "israeli",
+      "forces",
+      "shell",
+      "village",
+      "southern",
+      "syria",
+      "227666"
+    ]
+  },
+  "KEN": {
+    "risk_score": 13.4,
+    "count": 14,
+    "top_news": "https://www.thedailystar.net/opinion/views/news/rare-wildlife-found-inani-puts-our-conservation-efforts-the-test-4289751",
+    "event_codes": {
+      "17": 5,
+      "19": 5,
+      "18": 4
+    },
+    "keywords": [
+      "opinion",
+      "views",
+      "news",
+      "rare",
+      "wildlife",
+      "found",
+      "inani",
+      "puts",
+      "our",
+      "conservation",
+      "efforts",
+      "the",
+      "test",
+      "4289751"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/10/04/amanah-rejects-opposition-role-in-dewan-agenda-pkr-mp-backs-review",
+    "event_codes": {
+      "16": 4
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "amanah",
+      "rejects",
+      "opposition",
+      "role",
+      "dewan",
+      "agenda",
+      "pkr",
+      "backs",
+      "review"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.moneycontrol.com/world/evil-america-will-end-al-qaeda-calls-for-copycat-attacks-praises-flydubai-incident-article-14044111.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "evil",
+      "america",
+      "will",
+      "end",
+      "qaeda",
+      "calls",
       "for",
-      "presidency",
-      "79437276"
+      "copycat",
+      "attacks",
+      "praises",
+      "flydubai",
+      "incident",
+      "article",
+      "14044111.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.hurriyetdailynews.com/israeli-forces-shell-village-in-southern-syria-227666",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "israeli",
+      "forces",
+      "shell",
+      "village",
+      "southern",
+      "syria",
+      "227666"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://news.webindia123.com/news/Articles/World/20261004/4506894.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "articles",
+      "world",
+      "20261004",
+      "4506894.html"
     ]
   }
 }
