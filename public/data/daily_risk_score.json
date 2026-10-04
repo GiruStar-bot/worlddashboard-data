@@ -1,72 +1,104 @@
 {
-  "IRN": {
-    "risk_score": 6.15,
-    "count": 8,
-    "top_news": "https://www.opinionnigeria.com/iran-executes-siavash-jamshidi-linked-to-anti-government-protests/",
+  "BRA": {
+    "risk_score": 5.32,
+    "count": 6,
+    "top_news": "https://www.riotimesonline.com/trueno-santiago-2026/",
     "event_codes": {
-      "19": 4,
-      "17": 3,
-      "14": 1
+      "18": 4,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
-      "iran",
-      "executes",
-      "siavash",
-      "jamshidi",
-      "linked",
-      "anti",
-      "government",
-      "protests"
+      "trueno",
+      "santiago",
+      "2026"
     ]
   },
-  "ISR": {
-    "risk_score": 7.5,
-    "count": 8,
-    "top_news": "http://www.jpost.com/middle-east/article-910576",
+  "IRN": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.rollingstone.com/music/music-live-reviews/jason-isbell-drive-by-truckers-reunite-decoration-day-1235636661/",
     "event_codes": {
-      "19": 7,
+      "19": 2,
       "17": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "910576"
+      "music",
+      "music",
+      "live",
+      "reviews",
+      "jason",
+      "isbell",
+      "drive",
+      "truckers",
+      "reunite",
+      "decoration",
+      "day",
+      "1235636661"
     ]
   },
-  "NGA": {
-    "risk_score": 8.9,
-    "count": 12,
-    "top_news": "https://leadership.ng/makinde-says-labour-warning-strike-is-referendum-against-tinubu/",
+  "ISR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.theyeshivaworld.com/news/israel-news/2605004/shocking-admission-flydubai-co-pilot-planned-to-crash-plane-into-ben-gurion-airport-terminal.html",
     "event_codes": {
-      "17": 6,
-      "14": 2,
-      "18": 2,
       "19": 2
     },
     "keywords": [
-      "makinde",
-      "says",
-      "labour",
-      "warning",
-      "strike",
-      "referendum",
-      "against",
-      "tinubu"
+      "news",
+      "israel",
+      "news",
+      "2605004",
+      "shocking",
+      "admission",
+      "flydubai",
+      "pilot",
+      "planned",
+      "crash",
+      "plane",
+      "into",
+      "ben",
+      "gurion",
+      "airport",
+      "terminal.html"
     ]
   },
-  "SYR": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "http://www.jpost.com/middle-east/article-910576",
+  "PER": {
+    "risk_score": 2.88,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/peru-election-day-fujimori-votes-33-detained-tensions-2026/",
     "event_codes": {
-      "19": 5
+      "15": 4
     },
     "keywords": [
-      "middle",
-      "east",
-      "article",
-      "910576"
+      "peru",
+      "election",
+      "day",
+      "fujimori",
+      "votes",
+      "detained",
+      "tensions",
+      "2026"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.geo.tv/latest/685001-turkiye-says-makkah-pact-committee-to-meet-in-riyadh-on-october-5",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "latest",
+      "685001",
+      "turkiye",
+      "says",
+      "makkah",
+      "pact",
+      "committee",
+      "meet",
+      "riyadh",
+      "october"
     ]
   }
 }
