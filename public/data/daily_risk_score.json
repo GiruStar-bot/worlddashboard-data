@@ -1,79 +1,156 @@
 {
-  "IRN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://news.az/news/iran-claims-to-have-disabled-starlink-terminals-during-january-protests",
+  "ARG": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/bolivia-fuel-shortage-plates-blocked-2026/",
     "event_codes": {
-      "19": 7
+      "14": 3,
+      "19": 1
     },
     "keywords": [
-      "news",
-      "iran",
-      "claims",
-      "have",
-      "disabled",
-      "starlink",
-      "terminals",
-      "during",
-      "january",
-      "protests"
+      "bolivia",
+      "fuel",
+      "shortage",
+      "plates",
+      "blocked",
+      "2026"
     ]
   },
-  "ISR": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.aol.co.uk/articles/aid-workers-being-killed-ministers-095500000.html",
+  "BRA": {
+    "risk_score": 3.4,
+    "count": 6,
+    "top_news": "https://www.riotimesonline.com/chile-police-sergeant-killed-quilleco-2026/",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "17": 4,
+      "16": 1,
+      "19": 1
     },
     "keywords": [
-      "articles",
-      "aid",
-      "workers",
-      "being",
+      "chile",
+      "police",
+      "sergeant",
       "killed",
-      "ministers",
-      "095500000.html"
+      "quilleco",
+      "2026"
     ]
   },
-  "NGA": {
-    "risk_score": 10.8,
-    "count": 12,
-    "top_news": "https://www.nigerianeye.com/2026/10/security-operatives-kill-top-iswap.html",
+  "CHL": {
+    "risk_score": 8.92,
+    "count": 11,
+    "top_news": "https://www.riotimesonline.com/chile-police-sergeant-killed-quilleco-2026/",
     "event_codes": {
-      "19": 9,
-      "14": 2,
-      "17": 1
+      "19": 4,
+      "17": 3,
+      "18": 3,
+      "15": 1
     },
     "keywords": [
-      "2026",
-      "security",
-      "operatives",
-      "kill",
-      "top",
-      "iswap.html"
+      "chile",
+      "police",
+      "sergeant",
+      "killed",
+      "quilleco",
+      "2026"
     ]
   },
-  "YEM": {
-    "risk_score": 2.95,
+  "COL": {
+    "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://news.az/news/100-fighter-jets-involved-in-saudi-led-yemen-operation-against-houthis",
+    "top_news": "https://www.riotimesonline.com/ecuador-homicides-weekly-low-2026/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "ecuador",
+      "homicides",
+      "weekly",
+      "low",
+      "2026"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.israelnationalnews.com/flashes/694809",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "100",
-      "fighter",
-      "jets",
-      "involved",
-      "saudi",
-      "led",
+      "flashes",
+      "694809"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://www.miragenews.com/how-campuses-can-defend-democracy-and-fight-1755293/",
+    "event_codes": {
+      "19": 3,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "how",
+      "campuses",
+      "can",
+      "defend",
+      "democracy",
+      "and",
+      "fight",
+      "1755293"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.zerohedge.com/geopolitical/houthis-seize-yemen-parliament-speakers-home-cut-taiz-aden-lifeline-all-out-war-erupts",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "geopolitical",
+      "houthis",
+      "seize",
       "yemen",
-      "operation",
-      "against",
-      "houthis"
+      "parliament",
+      "speakers",
+      "home",
+      "cut",
+      "taiz",
+      "aden",
+      "lifeline",
+      "all",
+      "out",
+      "war",
+      "erupts"
+    ]
+  },
+  "YEM": {
+    "risk_score": 12.1,
+    "count": 13,
+    "top_news": "https://www.zerohedge.com/geopolitical/houthis-seize-yemen-parliament-speakers-home-cut-taiz-aden-lifeline-all-out-war-erupts",
+    "event_codes": {
+      "19": 8,
+      "18": 4,
+      "17": 1
+    },
+    "keywords": [
+      "geopolitical",
+      "houthis",
+      "seize",
+      "yemen",
+      "parliament",
+      "speakers",
+      "home",
+      "cut",
+      "taiz",
+      "aden",
+      "lifeline",
+      "all",
+      "out",
+      "war",
+      "erupts"
     ]
   }
 }
