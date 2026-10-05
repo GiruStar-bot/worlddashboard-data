@@ -1,23 +1,79 @@
 {
-  "ARE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.russiaherald.com/news/279348124/questions-grow-over-pilot-security-checks-after-flydubai-attack",
+  "IRN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://news.az/news/iran-claims-to-have-disabled-starlink-terminals-during-january-protests",
     "event_codes": {
-      "19": 2
+      "19": 7
     },
     "keywords": [
       "news",
-      "279348124",
-      "questions",
-      "grow",
-      "over",
-      "pilot",
+      "iran",
+      "claims",
+      "have",
+      "disabled",
+      "starlink",
+      "terminals",
+      "during",
+      "january",
+      "protests"
+    ]
+  },
+  "ISR": {
+    "risk_score": 2.65,
+    "count": 3,
+    "top_news": "https://www.aol.co.uk/articles/aid-workers-being-killed-ministers-095500000.html",
+    "event_codes": {
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "articles",
+      "aid",
+      "workers",
+      "being",
+      "killed",
+      "ministers",
+      "095500000.html"
+    ]
+  },
+  "NGA": {
+    "risk_score": 10.8,
+    "count": 12,
+    "top_news": "https://www.nigerianeye.com/2026/10/security-operatives-kill-top-iswap.html",
+    "event_codes": {
+      "19": 9,
+      "14": 2,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
       "security",
-      "checks",
-      "after",
-      "flydubai",
-      "attack"
+      "operatives",
+      "kill",
+      "top",
+      "iswap.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://news.az/news/100-fighter-jets-involved-in-saudi-led-yemen-operation-against-houthis",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "100",
+      "fighter",
+      "jets",
+      "involved",
+      "saudi",
+      "led",
+      "yemen",
+      "operation",
+      "against",
+      "houthis"
     ]
   }
 }
