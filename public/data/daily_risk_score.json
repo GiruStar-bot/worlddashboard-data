@@ -1,25 +1,113 @@
 {
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://sana.sy/en/economic/2348597/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "economic",
+      "2348597"
+    ]
+  },
+  "ISR": {
+    "risk_score": 24.65,
+    "count": 33,
+    "top_news": "https://www.ynetnews.com/magazine/article/rkuo1rfifg",
+    "event_codes": {
+      "19": 16,
+      "17": 12,
+      "16": 3,
+      "14": 2
+    },
+    "keywords": [
+      "magazine",
+      "article",
+      "rkuo1rfifg"
+    ]
+  },
+  "LAO": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.freemalaysiatoday.com/category/nation/2026/10/06/malaysian-among-13-nabbed-over-521kg-of-meth-seized-in-laos",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "category",
+      "nation",
+      "2026",
+      "malaysian",
+      "among",
+      "nabbed",
+      "over",
+      "521kg",
+      "meth",
+      "seized",
+      "laos"
+    ]
+  },
   "SAU": {
-    "risk_score": 6.0,
+    "risk_score": 13.85,
+    "count": 14,
+    "top_news": "http://www.bignewsnetwork.com/news/279354953/yemen-conflict-escalating-into-regional-war",
+    "event_codes": {
+      "19": 11,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "279354953",
+      "yemen",
+      "conflict",
+      "escalating",
+      "into",
+      "regional",
+      "war"
+    ]
+  },
+  "SSD": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://eyeradio.org/sspdf-spokesperson-reports-thirteen-killed-in-wunkur-clashes/",
+    "event_codes": {
+      "19": 3,
+      "18": 2
+    },
+    "keywords": [
+      "sspdf",
+      "spokesperson",
+      "reports",
+      "thirteen",
+      "killed",
+      "wunkur",
+      "clashes"
+    ]
+  },
+  "SYR": {
+    "risk_score": 5.9,
     "count": 6,
-    "top_news": "https://www.moneycontrol.com/news/opinion/west-asia-war-threatens-global-oil-supplies-and-raises-costs-14045498.html",
+    "top_news": "https://sana.sy/en/syria/2348549/",
     "event_codes": {
       "19": 6
     },
     "keywords": [
-      "news",
-      "opinion",
-      "west",
-      "asia",
-      "war",
-      "threatens",
-      "global",
-      "oil",
-      "supplies",
-      "and",
-      "raises",
-      "costs",
-      "14045498.html"
+      "syria",
+      "2348549"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://sana.sy/en/middle-east/2348598/",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2348598"
     ]
   }
 }
