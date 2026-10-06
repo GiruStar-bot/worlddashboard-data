@@ -1,127 +1,81 @@
 {
-  "BRA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://english.elpais.com/international/2026-10-06/the-bolsonaro-clan-a-presidential-hopeful-four-new-parliamentarians-and-a-tangle-of-internal-issues.html",
-    "event_codes": {
-      "17": 5
-    },
-    "keywords": [
-      "international",
-      "2026",
-      "the",
-      "bolsonaro",
-      "clan",
-      "presidential",
-      "hopeful",
-      "four",
-      "new",
-      "parliamentarians",
-      "and",
-      "tangle",
-      "internal",
-      "issues.html"
-    ]
-  },
   "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://thedispatch.com/article/iowa-hinson-campaign-trump-vance-affordability/?gift_key=489346a7d7f3f2fc&gift_ref=3935111",
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://links.org.au/violence-fighting-occupation-case-palestine",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "20": 3
     },
     "keywords": [
-      "article",
-      "iowa",
-      "hinson",
-      "campaign",
-      "trump",
-      "vance",
-      "affordability"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.62,
-    "count": 3,
-    "top_news": "https://www.journal-news.net/news/community/underwood-find-his-purpose-through-involvement-with-military/article_05719b2c-e9f2-5c33-ab73-06ec4c46abba.html",
-    "event_codes": {
-      "15": 1,
-      "18": 1,
-      "19": 1
-    },
-    "keywords": [
-      "news",
-      "community",
-      "underwood",
-      "find",
-      "his",
-      "purpose",
-      "through",
-      "involvement",
-      "with",
-      "military",
-      "article",
-      "05719b2c",
-      "e9f2",
-      "5c33",
-      "ab73",
-      "06ec4c46abba.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.95,
-    "count": 4,
-    "top_news": "https://www.theepochtimes.com/world/flydubai-co-pilot-had-flight-training-in-new-zealand-police-say-6100096",
-    "event_codes": {
-      "14": 3,
-      "19": 1
-    },
-    "keywords": [
-      "world",
-      "flydubai",
-      "pilot",
-      "had",
-      "flight",
-      "training",
-      "new",
-      "zealand",
-      "police",
-      "say",
-      "6100096"
-    ]
-  },
-  "KEN": {
-    "risk_score": 4.4,
-    "count": 5,
-    "top_news": "https://thesun.ng/kenya-confirms-imported-bundibugyo-virus-case-patient-dies/",
-    "event_codes": {
-      "19": 3,
-      "17": 2
-    },
-    "keywords": [
-      "kenya",
-      "confirms",
-      "imported",
-      "bundibugyo",
-      "virus",
+      "violence",
+      "fighting",
+      "occupation",
       "case",
-      "patient",
-      "dies"
+      "palestine"
     ]
   },
-  "NGA": {
-    "risk_score": 5.0,
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.thedailybeast.com/soldiers-injured-in-trumps-iran-war-blast-pete-hegseths-pentagon-for-medical-neglect/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "soldiers",
+      "injured",
+      "trumps",
+      "iran",
+      "war",
+      "blast",
+      "pete",
+      "hegseths",
+      "pentagon",
+      "for",
+      "medical",
+      "neglect"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.ksla.com/2026/10/02/feds-say-arrest-northshore-brothers-hamas-fundraising-tied-larger-operation/",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "2026",
+      "feds",
+      "say",
+      "arrest",
+      "northshore",
+      "brothers",
+      "hamas",
+      "fundraising",
+      "tied",
+      "larger",
+      "operation"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.75,
     "count": 5,
-    "top_news": "https://thesun.ng/ondo-crash-mutfwang-mourns-victims/",
+    "top_news": "https://www.newcastleherald.com.au/story/9364000/yemen-fighters-shown-driving-vehicles-over-houthis/",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "ondo",
-      "crash",
-      "mutfwang",
-      "mourns",
-      "victims"
+      "story",
+      "9364000",
+      "yemen",
+      "fighters",
+      "shown",
+      "driving",
+      "vehicles",
+      "over",
+      "houthis"
     ]
   }
 }
