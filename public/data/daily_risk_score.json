@@ -1,41 +1,129 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.asiaone.com:443/money/oil-prices-rise-storms-and-air-strikes-threaten-supply",
+  "ISR": {
+    "risk_score": 12.34,
+    "count": 16,
+    "top_news": "https://www.ynetnews.com/article/sj7fzimigl",
     "event_codes": {
-      "19": 3
+      "19": 6,
+      "16": 3,
+      "18": 3,
+      "15": 2,
+      "17": 2
     },
     "keywords": [
-      "money",
-      "oil",
-      "prices",
-      "rise",
-      "storms",
-      "and",
-      "air",
-      "strikes",
-      "threaten",
-      "supply"
+      "article",
+      "sj7fzimigl"
     ]
   },
-  "TUR": {
-    "risk_score": 3.62,
+  "KEN": {
+    "risk_score": 3.11,
     "count": 4,
-    "top_news": "https://www.freemalaysiatoday.com/category/world/2026/10/07/crisis-stricken-haiti-postpones-elections",
+    "top_news": "https://www.standardmedia.co.ke/north-eastern/article/2001559593/senators-raise-concerns-over-insecurity-in-northern-kenya",
     "event_codes": {
-      "18": 3,
-      "15": 1
+      "15": 3,
+      "18": 1
     },
     "keywords": [
-      "category",
+      "north",
+      "eastern",
+      "article",
+      "2001559593",
+      "senators",
+      "raise",
+      "concerns",
+      "over",
+      "insecurity",
+      "northern",
+      "kenya"
+    ]
+  },
+  "LBY": {
+    "risk_score": 5.9,
+    "count": 6,
+    "top_news": "https://english.aawsat.com/opinion/5326903-gaddafi-or-founding-libyan-ordeal",
+    "event_codes": {
+      "19": 3,
+      "20": 2,
+      "18": 1
+    },
+    "keywords": [
+      "opinion",
+      "5326903",
+      "gaddafi",
+      "founding",
+      "libyan",
+      "ordeal"
+    ]
+  },
+  "PSE": {
+    "risk_score": 9.8,
+    "count": 10,
+    "top_news": "https://www.middleeastmonitor.com/20261007-israeli-settlers-attack-farmers-steal-olive-harvest-in-occupied-west-bank/",
+    "event_codes": {
+      "19": 6,
+      "18": 4
+    },
+    "keywords": [
+      "20261007",
+      "israeli",
+      "settlers",
+      "attack",
+      "farmers",
+      "steal",
+      "olive",
+      "harvest",
+      "occupied",
+      "west",
+      "bank"
+    ]
+  },
+  "SAU": {
+    "risk_score": 15.7,
+    "count": 17,
+    "top_news": "https://www.dailysabah.com/world/mid-east/yemen-conflict-escalates-as-houthis-hit-aden-airport-target-riyadh",
+    "event_codes": {
+      "19": 14,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
       "world",
+      "mid",
+      "east",
+      "yemen",
+      "conflict",
+      "escalates",
+      "houthis",
+      "hit",
+      "aden",
+      "airport",
+      "target",
+      "riyadh"
+    ]
+  },
+  "YEM": {
+    "risk_score": 7.0,
+    "count": 8,
+    "top_news": "https://www.thenationalnews.com/news/gulf/2026/10/07/houthis-claim-dawn-drone-and-missile-strikes-on-saudi-and-yemeni-airports/",
+    "event_codes": {
+      "19": 6,
+      "17": 2
+    },
+    "keywords": [
+      "news",
+      "gulf",
       "2026",
-      "crisis",
-      "stricken",
-      "haiti",
-      "postpones",
-      "elections"
+      "houthis",
+      "claim",
+      "dawn",
+      "drone",
+      "and",
+      "missile",
+      "strikes",
+      "saudi",
+      "and",
+      "yemeni",
+      "airports"
     ]
   }
 }
