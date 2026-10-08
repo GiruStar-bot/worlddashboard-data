@@ -1,84 +1,111 @@
 {
-  "ETH": {
-    "risk_score": 4.2,
-    "count": 8,
-    "top_news": "https://www.wsls.com/news/world/2026/10/08/eritrean-soldiers-entered-northern-ethiopian-towns-government-allied-commander-says/",
+  "IRQ": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.berkshireeagle.com/opinion-columnists/a-view-of-the-midterm-elections-from-new-york-city/4929412",
     "event_codes": {
-      "17": 4,
-      "16": 3,
-      "19": 1
+      "19": 2
     },
     "keywords": [
-      "news",
-      "world",
-      "2026",
-      "eritrean",
-      "soldiers",
-      "entered",
-      "northern",
-      "ethiopian",
-      "towns",
-      "government",
-      "allied",
-      "commander",
-      "says"
-    ]
-  },
-  "IRN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://bdnews24.com/world/middle-east/iq9r2pyorh",
-    "event_codes": {
-      "19": 4,
-      "18": 2
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "iq9r2pyorh"
+      "opinion",
+      "columnists",
+      "view",
+      "the",
+      "midterm",
+      "elections",
+      "from",
+      "new",
+      "york",
+      "city",
+      "4929412"
     ]
   },
   "ISR": {
-    "risk_score": 15.55,
-    "count": 18,
-    "top_news": "https://www.thelocal.es/20261008/spain-conservatives-kick-off-election-bid-in-crisis-hit-ceuta",
+    "risk_score": 5.24,
+    "count": 7,
+    "top_news": "https://www.jns.org/news/israel-news/jerusalem-pharmacy-student-indicted-over-plot-to-kill-jews-with-explosives-poison",
     "event_codes": {
-      "19": 12,
-      "16": 2,
-      "17": 2,
-      "18": 2
+      "17": 4,
+      "19": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "jerusalem",
+      "pharmacy",
+      "student",
+      "indicted",
+      "over",
+      "plot",
+      "kill",
+      "jews",
+      "with",
+      "explosives",
+      "poison"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.85,
+    "count": 13,
+    "top_news": "https://www.premiumtimesng.com/opinion/915457-nyesom-wike-the-el-terrible-of-nigerian-politics-by-sunday-adelaja.html",
+    "event_codes": {
+      "17": 7,
+      "18": 4,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "opinion",
+      "915457",
+      "nyesom",
+      "wike",
+      "the",
+      "terrible",
+      "nigerian",
+      "politics",
+      "sunday",
+      "adelaja.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 3.92,
+    "count": 7,
+    "top_news": "https://www.jns.org/news/israel-news/jerusalem-pharmacy-student-indicted-over-plot-to-kill-jews-with-explosives-poison",
+    "event_codes": {
+      "17": 7
+    },
+    "keywords": [
+      "news",
+      "israel",
+      "news",
+      "jerusalem",
+      "pharmacy",
+      "student",
+      "indicted",
+      "over",
+      "plot",
+      "kill",
+      "jews",
+      "with",
+      "explosives",
+      "poison"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.22,
+    "count": 7,
+    "top_news": "https://english.news.cn/20261008/24f4ca4e420d494facb03d9d0635e120/c.html",
+    "event_codes": {
+      "17": 5,
+      "15": 1,
+      "19": 1
     },
     "keywords": [
       "20261008",
-      "spain",
-      "conservatives",
-      "kick",
-      "off",
-      "election",
-      "bid",
-      "crisis",
-      "hit",
-      "ceuta"
-    ]
-  },
-  "TUR": {
-    "risk_score": 4.72,
-    "count": 5,
-    "top_news": "https://www.surinenglish.com/malaga/malaga-city/tensions-security-committee-20261007000500-nt.html",
-    "event_codes": {
-      "19": 4,
-      "15": 1
-    },
-    "keywords": [
-      "malaga",
-      "malaga",
-      "city",
-      "tensions",
-      "security",
-      "committee",
-      "20261007000500",
-      "nt.html"
+      "24f4ca4e420d494facb03d9d0635e120",
+      "c.html"
     ]
   }
 }
