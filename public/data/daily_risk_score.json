@@ -1,111 +1,136 @@
 {
-  "IRQ": {
+  "ISR": {
+    "risk_score": 7.95,
+    "count": 8,
+    "top_news": "https://www.middleeastmonitor.com/20261008-israeli-army-shells-outskirts-of-village-in-southern-syria/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "20261008",
+      "israeli",
+      "army",
+      "shells",
+      "outskirts",
+      "village",
+      "southern",
+      "syria"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.2,
+    "count": 4,
+    "top_news": "https://www.thisdaylive.com/2026/10/08/marwa-commends-security-agencies-over-rescue-of-20-kidnapped-corps-members/",
+    "event_codes": {
+      "14": 2,
+      "18": 2
+    },
+    "keywords": [
+      "2026",
+      "marwa",
+      "commends",
+      "security",
+      "agencies",
+      "over",
+      "rescue",
+      "kidnapped",
+      "corps",
+      "members"
+    ]
+  },
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.berkshireeagle.com/opinion-columnists/a-view-of-the-midterm-elections-from-new-york-city/4929412",
+    "top_news": "https://www.express.co.uk/news/world/2255684/saudi-arabia-horror-houthis-blow",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "opinion",
-      "columnists",
-      "view",
-      "the",
-      "midterm",
-      "elections",
-      "from",
-      "new",
-      "york",
-      "city",
-      "4929412"
+      "news",
+      "world",
+      "2255684",
+      "saudi",
+      "arabia",
+      "horror",
+      "houthis",
+      "blow"
     ]
   },
-  "ISR": {
-    "risk_score": 5.24,
-    "count": 7,
-    "top_news": "https://www.jns.org/news/israel-news/jerusalem-pharmacy-student-indicted-over-plot-to-kill-jews-with-explosives-poison",
+  "SDN": {
+    "risk_score": 3.9,
+    "count": 4,
+    "top_news": "https://www.miragenews.com/darfur-health-needs-outstrip-resources-as-un-1757332/",
     "event_codes": {
-      "17": 4,
-      "19": 2,
-      "16": 1
+      "19": 4
     },
     "keywords": [
-      "news",
-      "israel",
-      "news",
-      "jerusalem",
-      "pharmacy",
-      "student",
-      "indicted",
-      "over",
-      "plot",
-      "kill",
-      "jews",
-      "with",
-      "explosives",
-      "poison"
+      "darfur",
+      "health",
+      "needs",
+      "outstrip",
+      "resources",
+      "1757332"
     ]
   },
-  "NGA": {
-    "risk_score": 8.85,
-    "count": 13,
-    "top_news": "https://www.premiumtimesng.com/opinion/915457-nyesom-wike-the-el-terrible-of-nigerian-politics-by-sunday-adelaja.html",
+  "SYR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.middleeastmonitor.com/20261008-israeli-army-shells-outskirts-of-village-in-southern-syria/",
     "event_codes": {
-      "17": 7,
-      "18": 4,
-      "14": 1,
-      "19": 1
-    },
-    "keywords": [
-      "opinion",
-      "915457",
-      "nyesom",
-      "wike",
-      "the",
-      "terrible",
-      "nigerian",
-      "politics",
-      "sunday",
-      "adelaja.html"
-    ]
-  },
-  "PSE": {
-    "risk_score": 3.92,
-    "count": 7,
-    "top_news": "https://www.jns.org/news/israel-news/jerusalem-pharmacy-student-indicted-over-plot-to-kill-jews-with-explosives-poison",
-    "event_codes": {
-      "17": 7
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "jerusalem",
-      "pharmacy",
-      "student",
-      "indicted",
-      "over",
-      "plot",
-      "kill",
-      "jews",
-      "with",
-      "explosives",
-      "poison"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.22,
-    "count": 7,
-    "top_news": "https://english.news.cn/20261008/24f4ca4e420d494facb03d9d0635e120/c.html",
-    "event_codes": {
-      "17": 5,
-      "15": 1,
-      "19": 1
+      "19": 3
     },
     "keywords": [
       "20261008",
-      "24f4ca4e420d494facb03d9d0635e120",
-      "c.html"
+      "israeli",
+      "army",
+      "shells",
+      "outskirts",
+      "village",
+      "southern",
+      "syria"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://www.houstonpublicmedia.org/npr/2026/10/08/nx-s1-5995360/new-u-s-indictment-charges-former-venezuelan-president-nicolas-maduro-with-torture/",
+    "event_codes": {
+      "18": 2,
+      "17": 1
+    },
+    "keywords": [
+      "npr",
+      "2026",
+      "5995360",
+      "new",
+      "indictment",
+      "charges",
+      "former",
+      "venezuelan",
+      "president",
+      "nicolas",
+      "maduro",
+      "with",
+      "torture"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 5,
+    "top_news": "https://www.express.co.uk/news/world/2255684/saudi-arabia-horror-houthis-blow",
+    "event_codes": {
+      "17": 4,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "2255684",
+      "saudi",
+      "arabia",
+      "horror",
+      "houthis",
+      "blow"
     ]
   }
 }
