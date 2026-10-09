@@ -1,87 +1,51 @@
 {
-  "IRN": {
-    "risk_score": 7.87,
-    "count": 9,
-    "top_news": "https://www.wkyufm.org/news/2026-10-08/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
+  "ECU": {
+    "risk_score": 2.87,
+    "count": 3,
+    "top_news": "http://www.venezuelastar.com/news/279360716/5-killed-1-injured-in-attack-on-fishing-boat-off-southern-ecuador",
     "event_codes": {
-      "19": 5,
-      "14": 1,
-      "15": 1,
       "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "the",
-      "long",
-      "deployed",
-      "uss",
-      "lincoln",
-      "returns",
-      "home",
-      "san",
-      "diego",
-      "bay"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.kwtx.com/2026/10/08/decades-old-iraq-combat-footage-shared-social-media-reconnects-soldiers-iraqi-civilians/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "2026",
-      "decades",
-      "old",
-      "iraq",
-      "combat",
-      "footage",
-      "shared",
-      "social",
-      "media",
-      "reconnects",
-      "soldiers",
-      "iraqi",
-      "civilians"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.75,
-    "count": 3,
-    "top_news": "https://dailytrust.com/fg-nigerias-economy-now-on-stronger-footing/",
-    "event_codes": {
-      "18": 2,
+      "18": 1,
       "19": 1
     },
     "keywords": [
-      "nigerias",
-      "economy",
-      "now",
-      "stronger",
-      "footing"
+      "news",
+      "279360716",
+      "killed",
+      "injured",
+      "attack",
+      "fishing",
+      "boat",
+      "off",
+      "southern",
+      "ecuador"
     ]
   },
-  "VEN": {
-    "risk_score": 12.8,
-    "count": 20,
-    "top_news": "https://lasvegassun.com/news/2026/oct/07/new-us-indictment-charges-maduro-with-overseeing-m/",
+  "ISR": {
+    "risk_score": 5.44,
+    "count": 6,
+    "top_news": "https://www.jpost.com/israel-news/article-911138",
     "event_codes": {
-      "17": 13,
-      "18": 7
+      "18": 4,
+      "17": 2
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "article",
+      "911138"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.telugupeople.com/news/news.asp?newsId=108789",
+    "event_codes": {
+      "19": 4
     },
     "keywords": [
       "news",
-      "2026",
-      "oct",
-      "new",
-      "indictment",
-      "charges",
-      "maduro",
-      "with",
-      "overseeing"
+      "news.asp"
     ]
   }
 }
