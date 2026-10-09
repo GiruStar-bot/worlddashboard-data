@@ -1,156 +1,81 @@
 {
-  "ETH": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.africanews.com/2026/10/09/ethiopian-airlines-to-resume-flights-to-tigrays-capital-from-sunday/",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://newsroomamerica.com/tag/dw_news",
     "event_codes": {
-      "19": 3,
-      "16": 2
+      "17": 2,
+      "19": 2
     },
     "keywords": [
-      "2026",
-      "ethiopian",
-      "airlines",
-      "resume",
-      "flights",
-      "tigrays",
-      "capital",
-      "from",
-      "sunday"
+      "tag",
+      "news"
     ]
   },
   "ISR": {
-    "risk_score": 10.93,
-    "count": 14,
-    "top_news": "https://www.israelnationalnews.com/news/434371",
+    "risk_score": 4.8,
+    "count": 8,
+    "top_news": "https://www.smh.com.au/culture/movies/watching-this-chilling-documentary-is-like-being-submerged-in-a-night-without-end-20261010-p613m6.html",
     "event_codes": {
-      "17": 10,
-      "14": 1,
-      "16": 1,
-      "18": 1,
+      "16": 5,
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "news",
-      "434371"
-    ]
-  },
-  "LBN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.israelnationalnews.com/news/434371",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "434371"
+      "culture",
+      "movies",
+      "watching",
+      "this",
+      "chilling",
+      "documentary",
+      "like",
+      "being",
+      "submerged",
+      "night",
+      "without",
+      "end",
+      "20261010",
+      "p613m6.html"
     ]
   },
   "NGA": {
-    "risk_score": 33.44,
-    "count": 37,
-    "top_news": "https://www.christiandaily.com/news/fulani-gunmen-kill-kidnap-christians-in-kaduna-state-nigeria",
+    "risk_score": 7.9,
+    "count": 9,
+    "top_news": "https://dailytrust.com/abducted-kogi-councillor-dies-in-captivity/",
     "event_codes": {
-      "19": 13,
-      "18": 11,
-      "17": 7,
-      "15": 6
-    },
-    "keywords": [
-      "news",
-      "fulani",
-      "gunmen",
-      "kill",
-      "kidnap",
-      "christians",
-      "kaduna",
-      "state",
-      "nigeria"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.ynetnews.com/article/byqfw00iizl",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "article",
-      "byqfw00iizl"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.euronews.com/2026/10/09/flydubai-co-pilot-planned-suicide-attack-in-tel-aviv-airport-inspired-by-911",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "2026",
-      "flydubai",
-      "pilot",
-      "planned",
-      "suicide",
-      "attack",
-      "tel",
-      "aviv",
-      "airport",
-      "inspired",
-      "911"
-    ]
-  },
-  "SDN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.dailysabah.com/world/africa/31-civilians-killed-in-rsf-drone-strike-on-sudan-displacement-camp",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "world",
-      "africa",
-      "civilians",
-      "killed",
-      "rsf",
-      "drone",
-      "strike",
-      "sudan",
-      "displacement",
-      "camp"
-    ]
-  },
-  "SYR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://sana.sy/en/politics/2349301/",
-    "event_codes": {
-      "19": 3,
-      "18": 1
-    },
-    "keywords": [
-      "politics",
-      "2349301"
-    ]
-  },
-  "TWN": {
-    "risk_score": 3.77,
-    "count": 5,
-    "top_news": "https://www.taipeitimes.com/News/editorials/archives/2026/10/10/2003865702",
-    "event_codes": {
+      "18": 6,
       "19": 2,
-      "14": 1,
-      "15": 1,
-      "16": 1
+      "17": 1
     },
     "keywords": [
-      "news",
-      "editorials",
-      "archives",
-      "2026",
-      "2003865702"
+      "abducted",
+      "kogi",
+      "councillor",
+      "dies",
+      "captivity"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-qatar-kuwait-condemn-houthi-attacks-saudi-airports",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "turkey",
+      "qatar",
+      "kuwait",
+      "condemn",
+      "houthi",
+      "attacks",
+      "saudi",
+      "airports"
     ]
   }
 }
