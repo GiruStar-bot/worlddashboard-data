@@ -1,136 +1,87 @@
 {
-  "ISR": {
-    "risk_score": 7.95,
-    "count": 8,
-    "top_news": "https://www.middleeastmonitor.com/20261008-israeli-army-shells-outskirts-of-village-in-southern-syria/",
+  "IRN": {
+    "risk_score": 7.87,
+    "count": 9,
+    "top_news": "https://www.wkyufm.org/news/2026-10-08/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
     "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "20261008",
-      "israeli",
-      "army",
-      "shells",
-      "outskirts",
-      "village",
-      "southern",
-      "syria"
-    ]
-  },
-  "NGA": {
-    "risk_score": 3.2,
-    "count": 4,
-    "top_news": "https://www.thisdaylive.com/2026/10/08/marwa-commends-security-agencies-over-rescue-of-20-kidnapped-corps-members/",
-    "event_codes": {
-      "14": 2,
-      "18": 2
-    },
-    "keywords": [
-      "2026",
-      "marwa",
-      "commends",
-      "security",
-      "agencies",
-      "over",
-      "rescue",
-      "kidnapped",
-      "corps",
-      "members"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.express.co.uk/news/world/2255684/saudi-arabia-horror-houthis-blow",
-    "event_codes": {
-      "19": 2
+      "19": 5,
+      "14": 1,
+      "15": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
       "news",
-      "world",
-      "2255684",
-      "saudi",
-      "arabia",
-      "horror",
-      "houthis",
-      "blow"
+      "2026",
+      "the",
+      "long",
+      "deployed",
+      "uss",
+      "lincoln",
+      "returns",
+      "home",
+      "san",
+      "diego",
+      "bay"
     ]
   },
-  "SDN": {
-    "risk_score": 3.9,
-    "count": 4,
-    "top_news": "https://www.miragenews.com/darfur-health-needs-outstrip-resources-as-un-1757332/",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "darfur",
-      "health",
-      "needs",
-      "outstrip",
-      "resources",
-      "1757332"
-    ]
-  },
-  "SYR": {
+  "IRQ": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.middleeastmonitor.com/20261008-israeli-army-shells-outskirts-of-village-in-southern-syria/",
+    "top_news": "https://www.kwtx.com/2026/10/08/decades-old-iraq-combat-footage-shared-social-media-reconnects-soldiers-iraqi-civilians/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "20261008",
-      "israeli",
-      "army",
-      "shells",
-      "outskirts",
-      "village",
-      "southern",
-      "syria"
+      "2026",
+      "decades",
+      "old",
+      "iraq",
+      "combat",
+      "footage",
+      "shared",
+      "social",
+      "media",
+      "reconnects",
+      "soldiers",
+      "iraqi",
+      "civilians"
     ]
   },
-  "VEN": {
-    "risk_score": 2.72,
+  "NGA": {
+    "risk_score": 2.75,
     "count": 3,
-    "top_news": "https://www.houstonpublicmedia.org/npr/2026/10/08/nx-s1-5995360/new-u-s-indictment-charges-former-venezuelan-president-nicolas-maduro-with-torture/",
+    "top_news": "https://dailytrust.com/fg-nigerias-economy-now-on-stronger-footing/",
     "event_codes": {
       "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "npr",
-      "2026",
-      "5995360",
-      "new",
-      "indictment",
-      "charges",
-      "former",
-      "venezuelan",
-      "president",
-      "nicolas",
-      "maduro",
-      "with",
-      "torture"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 5,
-    "top_news": "https://www.express.co.uk/news/world/2255684/saudi-arabia-horror-houthis-blow",
-    "event_codes": {
-      "17": 4,
       "19": 1
     },
     "keywords": [
+      "nigerias",
+      "economy",
+      "now",
+      "stronger",
+      "footing"
+    ]
+  },
+  "VEN": {
+    "risk_score": 12.8,
+    "count": 20,
+    "top_news": "https://lasvegassun.com/news/2026/oct/07/new-us-indictment-charges-maduro-with-overseeing-m/",
+    "event_codes": {
+      "17": 13,
+      "18": 7
+    },
+    "keywords": [
       "news",
-      "world",
-      "2255684",
-      "saudi",
-      "arabia",
-      "horror",
-      "houthis",
-      "blow"
+      "2026",
+      "oct",
+      "new",
+      "indictment",
+      "charges",
+      "maduro",
+      "with",
+      "overseeing"
     ]
   }
 }
