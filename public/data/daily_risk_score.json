@@ -1,62 +1,38 @@
 {
-  "NGA": {
-    "risk_score": 5.15,
-    "count": 6,
-    "top_news": "https://tribuneonlineng.com/robbery-suspect-recounts-fatal-attack-on-woman-stabbing-of-husband-attempted-rape-of-daughter/",
-    "event_codes": {
-      "18": 4,
-      "17": 1,
-      "19": 1
-    },
-    "keywords": [
-      "robbery",
-      "suspect",
-      "recounts",
-      "fatal",
-      "attack",
-      "woman",
-      "stabbing",
-      "husband",
-      "attempted",
-      "rape",
-      "daughter"
-    ]
-  },
-  "SSD": {
-    "risk_score": 4.44,
-    "count": 5,
-    "top_news": "https://news.az/news/at-least-71-killed-in-intercommunal-clashes-in-south-sudan",
-    "event_codes": {
-      "19": 3,
-      "15": 2
-    },
-    "keywords": [
-      "news",
-      "least",
-      "killed",
-      "intercommunal",
-      "clashes",
-      "south",
-      "sudan"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.5,
+  "SAU": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3334879/11-foreign-suspects-arrested-in-nominee-crackdown",
+    "top_news": "https://www.naturalnews.com/2026-10-10-houthi-attacks-on-saudi-airports-kill-3.html",
     "event_codes": {
-      "17": 3,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "thailand",
-      "general",
-      "3334879",
-      "foreign",
-      "suspects",
-      "arrested",
-      "nominee",
-      "crackdown"
+      "2026",
+      "houthi",
+      "attacks",
+      "saudi",
+      "airports",
+      "kill",
+      "3.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.orissapost.com/riyadh-airport-evacuated-as-officials-report-fresh-attack-flights-disrupted/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "riyadh",
+      "airport",
+      "evacuated",
+      "officials",
+      "report",
+      "fresh",
+      "attack",
+      "flights",
+      "disrupted"
     ]
   }
 }
