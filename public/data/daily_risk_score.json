@@ -1,81 +1,186 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://newsroomamerica.com/tag/dw_news",
+  "BRA": {
+    "risk_score": 5.56,
+    "count": 6,
+    "top_news": "http://www.bignewsnetwork.com/news/279362933/13-children-rescued-assailant-dead-in-brazil-day-care-center-hostage-incident",
     "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "tag",
-      "news"
-    ]
-  },
-  "ISR": {
-    "risk_score": 4.8,
-    "count": 8,
-    "top_news": "https://www.smh.com.au/culture/movies/watching-this-chilling-documentary-is-like-being-submerged-in-a-night-without-end-20261010-p613m6.html",
-    "event_codes": {
-      "16": 5,
+      "17": 3,
       "18": 2,
       "19": 1
     },
     "keywords": [
-      "culture",
-      "movies",
-      "watching",
-      "this",
-      "chilling",
-      "documentary",
-      "like",
-      "being",
-      "submerged",
-      "night",
-      "without",
-      "end",
-      "20261010",
-      "p613m6.html"
+      "news",
+      "279362933",
+      "children",
+      "rescued",
+      "assailant",
+      "dead",
+      "brazil",
+      "day",
+      "care",
+      "center",
+      "hostage",
+      "incident"
     ]
   },
-  "NGA": {
-    "risk_score": 7.9,
-    "count": 9,
-    "top_news": "https://dailytrust.com/abducted-kogi-councillor-dies-in-captivity/",
-    "event_codes": {
-      "18": 6,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "abducted",
-      "kogi",
-      "councillor",
-      "dies",
-      "captivity"
-    ]
-  },
-  "TUR": {
+  "IRQ": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-qatar-kuwait-condemn-houthi-attacks-saudi-airports",
+    "top_news": "http://www.bignewsnetwork.com/news/279362946/one-of-the-worst-killers-trump-calls-death-penalty-very-worthy-way-to-execute-fort-hood-shooter",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "turkey",
-      "qatar",
-      "kuwait",
-      "condemn",
-      "houthi",
-      "attacks",
-      "saudi",
-      "airports"
+      "news",
+      "279362946",
+      "one",
+      "the",
+      "worst",
+      "killers",
+      "trump",
+      "calls",
+      "death",
+      "penalty",
+      "very",
+      "worthy",
+      "way",
+      "execute",
+      "fort",
+      "hood",
+      "shooter"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.0,
+    "count": 7,
+    "top_news": "https://dominicanrepublicpost.com/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border/",
+    "event_codes": {
+      "19": 5,
+      "17": 2
+    },
+    "keywords": [
+      "israeli",
+      "drone",
+      "attack",
+      "wounds",
+      "six",
+      "lebanon",
+      "near",
+      "syria",
+      "border"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.asiaone.com/malaysia/drug-syndicates-turning-private-jets-after-tighter-kl-airport-security-malaysian-police",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "malaysia",
+      "drug",
+      "syndicates",
+      "turning",
+      "private",
+      "jets",
+      "after",
+      "tighter",
+      "airport",
+      "security",
+      "malaysian",
+      "police"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.44,
+    "count": 4,
+    "top_news": "https://www.theguardian.com/australia-news/2026/oct/10/australia-fuel-chris-bowen-trump-us-russia-diesel-deal-putin",
+    "event_codes": {
+      "15": 2,
+      "19": 2
+    },
+    "keywords": [
+      "australia",
+      "news",
+      "2026",
+      "oct",
+      "australia",
+      "fuel",
+      "chris",
+      "bowen",
+      "trump",
+      "russia",
+      "diesel",
+      "deal",
+      "putin"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/intercommunal-clashes-kill-71-people-in-south-sudan/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "intercommunal",
+      "clashes",
+      "kill",
+      "people",
+      "south",
+      "sudan"
+    ]
+  },
+  "SSD": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://dominicanrepublicpost.com/intercommunal-clashes-kill-71-people-in-south-sudan/",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "intercommunal",
+      "clashes",
+      "kill",
+      "people",
+      "south",
+      "sudan"
+    ]
+  },
+  "SYR": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://dominicanrepublicpost.com/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border/",
+    "event_codes": {
+      "19": 2,
+      "15": 1
+    },
+    "keywords": [
+      "israeli",
+      "drone",
+      "attack",
+      "wounds",
+      "six",
+      "lebanon",
+      "near",
+      "syria",
+      "border"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.chiangraitimes.com/thailand-news/thailand-chinese-journalist/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "thailand",
+      "news",
+      "thailand",
+      "chinese",
+      "journalist"
     ]
   }
 }
