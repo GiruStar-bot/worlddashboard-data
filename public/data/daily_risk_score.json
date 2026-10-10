@@ -1,152 +1,130 @@
 {
-  "IRN": {
-    "risk_score": 2.65,
-    "count": 5,
-    "top_news": "https://www.ncr-iran.org/en/news/iran-resistance/international-conference-calls-for-action-to-halt-iran-executions-highlights-strength-of-organized-resistance/",
+  "GUY": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "http://www.washingtonexaminer.com/in_focus/4759969/latin-america-rightward-surge-caused-more-by-trump-regional-connections-than-usaid-cuts/",
     "event_codes": {
-      "17": 4,
-      "14": 1
+      "17": 4
     },
     "keywords": [
-      "news",
-      "iran",
-      "resistance",
-      "international",
-      "conference",
-      "calls",
-      "for",
-      "action",
-      "halt",
-      "iran",
-      "executions",
-      "highlights",
-      "strength",
-      "organized",
-      "resistance"
+      "focus",
+      "4759969",
+      "latin",
+      "america",
+      "rightward",
+      "surge",
+      "caused",
+      "more",
+      "trump",
+      "regional",
+      "connections",
+      "than",
+      "usaid",
+      "cuts"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.northerndailyleader.com.au/story/9366100/airport-in-the-saudi-capital-attacked-again/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "story",
+      "9366100",
+      "airport",
+      "the",
+      "saudi",
+      "capital",
+      "attacked",
+      "again"
     ]
   },
   "ISR": {
-    "risk_score": 2.6,
-    "count": 4,
-    "top_news": "https://www.komu.com/news/nationworld/as-navi-pillay-wins-nobel-peace-prize-us-takes-unprecedented-action-to-cripple-the-court/article_97bca4eb-e5cf-5058-90e7-0f5a20b88406.html",
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.pressdemocrat.com/2026/10/10/how-a-u-s-diplomat-suppressed-and-altered-reports-critical-of-israel-4/",
     "event_codes": {
-      "16": 2,
-      "17": 2
-    },
-    "keywords": [
-      "news",
-      "nationworld",
-      "navi",
-      "pillay",
-      "wins",
-      "nobel",
-      "peace",
-      "prize",
-      "takes",
-      "unprecedented",
-      "action",
-      "cripple",
-      "the",
-      "court",
-      "article",
-      "97bca4eb",
-      "e5cf",
-      "5058",
-      "90e7",
-      "0f5a20b88406.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 27.2,
-    "count": 33,
-    "top_news": "https://saharareporters.com/2026/10/09/aac-presidential-candidate-sowore-visits-naf-crash-site-ondo-demands-transparent",
-    "event_codes": {
-      "18": 13,
-      "19": 11,
-      "17": 9
+      "16": 3
     },
     "keywords": [
       "2026",
-      "aac",
-      "presidential",
-      "candidate",
-      "sowore",
-      "visits",
-      "naf",
-      "crash",
-      "site",
-      "ondo",
-      "demands",
-      "transparent"
+      "how",
+      "diplomat",
+      "suppressed",
+      "and",
+      "altered",
+      "reports",
+      "critical",
+      "israel"
+    ]
+  },
+  "LBN": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.northerndailyleader.com.au/story/9366100/airport-in-the-saudi-capital-attacked-again/",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "story",
+      "9366100",
+      "airport",
+      "the",
+      "saudi",
+      "capital",
+      "attacked",
+      "again"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.pressdemocrat.com/2026/10/10/how-a-u-s-diplomat-suppressed-and-altered-reports-critical-of-israel-4/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "how",
+      "diplomat",
+      "suppressed",
+      "and",
+      "altered",
+      "reports",
+      "critical",
+      "israel"
     ]
   },
   "SAU": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.pakistantoday.com.pk/2026/10/10/pakistan-reaffirms-commitment-to-saudi-security-at-un-security-council",
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.theage.com.au/world/middle-east/trump-weighs-joining-the-fight-against-houthis-after-saudi-capitals-airport-is-struck-again-20261011-p614gz.html",
     "event_codes": {
-      "19": 7,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "pakistan",
-      "reaffirms",
-      "commitment",
-      "saudi",
-      "security",
-      "security",
-      "council"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://www.businesstoday.in/world/story/west-asia-tensions-riyadh-airport-hit-again-in-fresh-assault-multiple-injured-flights-diverted-560834-2026-10-10",
-    "event_codes": {
-      "19": 2,
-      "18": 1
+      "16": 2,
+      "19": 2
     },
     "keywords": [
       "world",
-      "story",
-      "west",
-      "asia",
-      "tensions",
-      "riyadh",
-      "airport",
-      "hit",
-      "again",
-      "fresh",
-      "assault",
-      "multiple",
-      "injured",
-      "flights",
-      "diverted",
-      "560834",
-      "2026"
-    ]
-  },
-  "YEM": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.pakistantoday.com.pk/2026/10/10/pakistan-demands-end-to-houthi-strikes-on-saudi-arabia-urges-decisive-un-action",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "2026",
-      "pakistan",
-      "demands",
-      "end",
-      "houthi",
-      "strikes",
+      "middle",
+      "east",
+      "trump",
+      "weighs",
+      "joining",
+      "the",
+      "fight",
+      "against",
+      "houthis",
+      "after",
       "saudi",
-      "arabia",
-      "urges",
-      "decisive",
-      "action"
+      "capitals",
+      "airport",
+      "struck",
+      "again",
+      "20261011",
+      "p614gz.html"
     ]
   }
 }
