@@ -1,54 +1,84 @@
 {
+  "ISR": {
+    "risk_score": 13.05,
+    "count": 19,
+    "top_news": "https://news.az/news/live-fresh-israeli-airstrikes-hit-gaza-city-and-deir-al-balah",
+    "event_codes": {
+      "16": 10,
+      "19": 4,
+      "17": 2,
+      "18": 2,
+      "14": 1
+    },
+    "keywords": [
+      "news",
+      "live",
+      "fresh",
+      "israeli",
+      "airstrikes",
+      "hit",
+      "gaza",
+      "city",
+      "and",
+      "deir",
+      "balah"
+    ]
+  },
   "SAU": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.newser.com/story/397927/12-dead-300-injured-in-attack-on-saudi-airport.html",
-    "event_codes": {
-      "19": 6
-    },
-    "keywords": [
-      "story",
-      "397927",
-      "dead",
-      "300",
-      "injured",
-      "attack",
-      "saudi",
-      "airport.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://allafrica.com/stories/202610100173.html",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "stories",
-      "202610100173.html"
-    ]
-  },
-  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.al-monitor.com/originals/2026/10/houthi-attack-saudi-airport-kills-12-over-300-wounded-authorities-say",
+    "top_news": "https://www.sun-sentinel.com/2026/10/10/saudi-arabia-says-12-dead-309-hurt-in-riyadh-airport-attack/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "originals",
       "2026",
-      "houthi",
-      "attack",
       "saudi",
+      "arabia",
+      "says",
+      "dead",
+      "309",
+      "hurt",
+      "riyadh",
+      "airport",
+      "attack"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "https://www.chiangraitimes.com/chiang-rai/tachileik-kidnapings/",
+    "event_codes": {
+      "17": 2,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "chiang",
+      "rai",
+      "tachileik",
+      "kidnapings"
+    ]
+  },
+  "YEM": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://news.az/news/live-attack-on-riyadh-airport-kills-12-and-injures-more-than-300",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "live",
+      "attack",
+      "riyadh",
       "airport",
       "kills",
-      "over",
-      "300",
-      "wounded",
-      "authorities",
-      "say"
+      "and",
+      "injures",
+      "more",
+      "than",
+      "300"
     ]
   }
 }
