@@ -1,130 +1,54 @@
 {
-  "GUY": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "http://www.washingtonexaminer.com/in_focus/4759969/latin-america-rightward-surge-caused-more-by-trump-regional-connections-than-usaid-cuts/",
+  "SAU": {
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.newser.com/story/397927/12-dead-300-injured-in-attack-on-saudi-airport.html",
     "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "focus",
-      "4759969",
-      "latin",
-      "america",
-      "rightward",
-      "surge",
-      "caused",
-      "more",
-      "trump",
-      "regional",
-      "connections",
-      "than",
-      "usaid",
-      "cuts"
-    ]
-  },
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.northerndailyleader.com.au/story/9366100/airport-in-the-saudi-capital-attacked-again/",
-    "event_codes": {
-      "19": 3
+      "19": 6
     },
     "keywords": [
       "story",
-      "9366100",
-      "airport",
-      "the",
+      "397927",
+      "dead",
+      "300",
+      "injured",
+      "attack",
       "saudi",
-      "capital",
-      "attacked",
-      "again"
+      "airport.html"
     ]
   },
-  "ISR": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.pressdemocrat.com/2026/10/10/how-a-u-s-diplomat-suppressed-and-altered-reports-critical-of-israel-4/",
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://allafrica.com/stories/202610100173.html",
     "event_codes": {
-      "16": 3
+      "19": 7
     },
     "keywords": [
-      "2026",
-      "how",
-      "diplomat",
-      "suppressed",
-      "and",
-      "altered",
-      "reports",
-      "critical",
-      "israel"
+      "stories",
+      "202610100173.html"
     ]
   },
-  "LBN": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.northerndailyleader.com.au/story/9366100/airport-in-the-saudi-capital-attacked-again/",
-    "event_codes": {
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "story",
-      "9366100",
-      "airport",
-      "the",
-      "saudi",
-      "capital",
-      "attacked",
-      "again"
-    ]
-  },
-  "PSE": {
+  "YEM": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.pressdemocrat.com/2026/10/10/how-a-u-s-diplomat-suppressed-and-altered-reports-critical-of-israel-4/",
+    "top_news": "https://www.al-monitor.com/originals/2026/10/houthi-attack-saudi-airport-kills-12-over-300-wounded-authorities-say",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "originals",
       "2026",
-      "how",
-      "diplomat",
-      "suppressed",
-      "and",
-      "altered",
-      "reports",
-      "critical",
-      "israel"
-    ]
-  },
-  "SAU": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "https://www.theage.com.au/world/middle-east/trump-weighs-joining-the-fight-against-houthis-after-saudi-capitals-airport-is-struck-again-20261011-p614gz.html",
-    "event_codes": {
-      "16": 2,
-      "19": 2
-    },
-    "keywords": [
-      "world",
-      "middle",
-      "east",
-      "trump",
-      "weighs",
-      "joining",
-      "the",
-      "fight",
-      "against",
-      "houthis",
-      "after",
+      "houthi",
+      "attack",
       "saudi",
-      "capitals",
       "airport",
-      "struck",
-      "again",
-      "20261011",
-      "p614gz.html"
+      "kills",
+      "over",
+      "300",
+      "wounded",
+      "authorities",
+      "say"
     ]
   }
 }
