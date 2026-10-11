@@ -1,84 +1,89 @@
 {
-  "ISR": {
-    "risk_score": 13.05,
-    "count": 19,
-    "top_news": "https://news.az/news/live-fresh-israeli-airstrikes-hit-gaza-city-and-deir-al-balah",
+  "ETH": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.africanews.com/2026/10/11/eritrea-uges-united-nations-to-intervene-in-standoff-with-ethiopia/",
     "event_codes": {
-      "16": 10,
-      "19": 4,
-      "17": 2,
-      "18": 2,
-      "14": 1
+      "19": 5
     },
     "keywords": [
-      "news",
-      "live",
-      "fresh",
-      "israeli",
-      "airstrikes",
-      "hit",
-      "gaza",
-      "city",
-      "and",
-      "deir",
-      "balah"
+      "2026",
+      "eritrea",
+      "uges",
+      "united",
+      "nations",
+      "intervene",
+      "standoff",
+      "with",
+      "ethiopia"
     ]
   },
-  "SAU": {
+  "IRN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.sun-sentinel.com/2026/10/10/saudi-arabia-says-12-dead-309-hurt-in-riyadh-airport-attack/",
+    "top_news": "https://english.news.cn/20261011/ce0c6fe2a01e4d2dbf9fe8b4b2c4db08/c.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "saudi",
-      "arabia",
-      "says",
-      "dead",
-      "309",
-      "hurt",
-      "riyadh",
-      "airport",
-      "attack"
+      "20261011",
+      "ce0c6fe2a01e4d2dbf9fe8b4b2c4db08",
+      "c.html"
     ]
   },
-  "THA": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://www.chiangraitimes.com/chiang-rai/tachileik-kidnapings/",
+  "ISR": {
+    "risk_score": 14.35,
+    "count": 15,
+    "top_news": "https://english.news.cn/20261011/ce0c6fe2a01e4d2dbf9fe8b4b2c4db08/c.html",
     "event_codes": {
-      "17": 2,
+      "19": 12,
+      "14": 1,
       "16": 1,
       "18": 1
     },
     "keywords": [
-      "chiang",
-      "rai",
-      "tachileik",
-      "kidnapings"
+      "20261011",
+      "ce0c6fe2a01e4d2dbf9fe8b4b2c4db08",
+      "c.html"
+    ]
+  },
+  "JOR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://sana.sy/en/middle-east/2349680/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2349680"
+    ]
+  },
+  "SAU": {
+    "risk_score": 9.3,
+    "count": 10,
+    "top_news": "https://www.ynetnews.com/article/rjqxpp00jml",
+    "event_codes": {
+      "19": 8,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "article",
+      "rjqxpp00jml"
     ]
   },
   "YEM": {
     "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://news.az/news/live-attack-on-riyadh-airport-kills-12-and-injures-more-than-300",
+    "top_news": "https://www.ynetnews.com/article/rjqxpp00jml",
     "event_codes": {
       "19": 5
     },
     "keywords": [
-      "news",
-      "live",
-      "attack",
-      "riyadh",
-      "airport",
-      "kills",
-      "and",
-      "injures",
-      "more",
-      "than",
-      "300"
+      "article",
+      "rjqxpp00jml"
     ]
   }
 }
