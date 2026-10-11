@@ -1,89 +1,79 @@
 {
-  "ETH": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.africanews.com/2026/10/11/eritrea-uges-united-nations-to-intervene-in-standoff-with-ethiopia/",
+  "ISR": {
+    "risk_score": 2.3,
+    "count": 4,
+    "top_news": "http://www.goskagit.com/news/nation/iran-calls-latest-us-response-to-proposal-insufficient-and-other-mideast-developments/article_81db017a-77a7-54bd-91a1-085b4766cb7d.html",
     "event_codes": {
-      "19": 5
+      "16": 2,
+      "17": 1,
+      "19": 1
     },
     "keywords": [
-      "2026",
-      "eritrea",
-      "uges",
-      "united",
-      "nations",
-      "intervene",
-      "standoff",
-      "with",
-      "ethiopia"
+      "news",
+      "nation",
+      "iran",
+      "calls",
+      "latest",
+      "response",
+      "proposal",
+      "insufficient",
+      "and",
+      "other",
+      "mideast",
+      "developments",
+      "article",
+      "81db017a",
+      "77a7",
+      "54bd",
+      "91a1",
+      "085b4766cb7d.html"
     ]
   },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://english.news.cn/20261011/ce0c6fe2a01e4d2dbf9fe8b4b2c4db08/c.html",
+  "NGA": {
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://pmnewsnigeria.com/2026/10/11/bandits-ambush-traders-soldiers-in-zamfara-leaving-22-feared-dead/",
     "event_codes": {
+      "18": 2,
       "19": 2
     },
     "keywords": [
-      "20261011",
-      "ce0c6fe2a01e4d2dbf9fe8b4b2c4db08",
-      "c.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 14.35,
-    "count": 15,
-    "top_news": "https://english.news.cn/20261011/ce0c6fe2a01e4d2dbf9fe8b4b2c4db08/c.html",
-    "event_codes": {
-      "19": 12,
-      "14": 1,
-      "16": 1,
-      "18": 1
-    },
-    "keywords": [
-      "20261011",
-      "ce0c6fe2a01e4d2dbf9fe8b4b2c4db08",
-      "c.html"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://sana.sy/en/middle-east/2349680/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "2349680"
+      "2026",
+      "bandits",
+      "ambush",
+      "traders",
+      "soldiers",
+      "zamfara",
+      "leaving",
+      "feared",
+      "dead"
     ]
   },
   "SAU": {
-    "risk_score": 9.3,
-    "count": 10,
-    "top_news": "https://www.ynetnews.com/article/rjqxpp00jml",
+    "risk_score": 7.65,
+    "count": 8,
+    "top_news": "https://english.news.cn/20261012/0c26d2379c574a21b8a1938a244d14a9/c.html",
     "event_codes": {
-      "19": 8,
-      "16": 1,
-      "18": 1
+      "19": 7,
+      "14": 1
     },
     "keywords": [
-      "article",
-      "rjqxpp00jml"
+      "20261012",
+      "0c26d2379c574a21b8a1938a244d14a9",
+      "c.html"
     ]
   },
   "YEM": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ynetnews.com/article/rjqxpp00jml",
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://english.news.cn/20261012/0c26d2379c574a21b8a1938a244d14a9/c.html",
     "event_codes": {
-      "19": 5
+      "19": 4
     },
     "keywords": [
-      "article",
-      "rjqxpp00jml"
+      "20261012",
+      "0c26d2379c574a21b8a1938a244d14a9",
+      "c.html"
     ]
   }
 }
