@@ -1,95 +1,138 @@
 {
-  "ISR": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://cyprus-mail.com/2026/10/12/israeli-strike-kills-two-people-in-gaza-medics-say-2",
+  "IRN": {
+    "risk_score": 6.67,
+    "count": 7,
+    "top_news": "https://www.ncr-iran.org/en/news/economy/pezeshkian-warns-fuel-reform-could-upend-society-as-police-tighten-grip-on-markets/",
     "event_codes": {
-      "19": 4,
-      "17": 1
+      "19": 6,
+      "15": 1
+    },
+    "keywords": [
+      "news",
+      "economy",
+      "pezeshkian",
+      "warns",
+      "fuel",
+      "reform",
+      "could",
+      "upend",
+      "society",
+      "police",
+      "tighten",
+      "grip",
+      "markets"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.6,
+    "count": 7,
+    "top_news": "https://thehayride.com/2026/10/lindman-leadership-delivers-peace-the-nobel-committee-prefers-politics/",
+    "event_codes": {
+      "18": 5,
+      "19": 2
     },
     "keywords": [
       "2026",
-      "israeli",
-      "strike",
-      "kills",
-      "two",
-      "people",
-      "gaza",
-      "medics",
-      "say"
-    ]
-  },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabtimesonline.com/news/kuwait-condemns-houthi-attacks-on-riyadh-and-dammam-airports-backs-saudi-measures/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "kuwait",
-      "condemns",
-      "houthi",
-      "attacks",
-      "riyadh",
-      "and",
-      "dammam",
-      "airports",
-      "backs",
-      "saudi",
-      "measures"
+      "lindman",
+      "leadership",
+      "delivers",
+      "peace",
+      "the",
+      "nobel",
+      "committee",
+      "prefers",
+      "politics"
     ]
   },
   "SAU": {
-    "risk_score": 10.0,
-    "count": 10,
-    "top_news": "https://www.gdnonline.com:443/Details/1409422",
+    "risk_score": 9.62,
+    "count": 12,
+    "top_news": "https://www.deccanchronicle.com/world/saudi-vows-response-after-deadly-airport-attacks-says-resilience-tested-1995271",
     "event_codes": {
-      "19": 10
+      "19": 7,
+      "17": 3,
+      "15": 1,
+      "16": 1
     },
     "keywords": [
-      "details",
-      "1409422"
+      "world",
+      "saudi",
+      "vows",
+      "response",
+      "after",
+      "deadly",
+      "airport",
+      "attacks",
+      "says",
+      "resilience",
+      "tested",
+      "1995271"
     ]
   },
-  "SGP": {
-    "risk_score": 2.0,
+  "SOM": {
+    "risk_score": 3.5,
     "count": 4,
-    "top_news": "https://www.channelnewsasia.com/singapore/man-charged-trespass-f1-grand-prix-6452286",
+    "top_news": "https://www.breakingnews.ie/world/ilhan-omar-us-immigration-authorities-raid-democratic-congresswomans-home-1953416.html",
     "event_codes": {
-      "17": 4
+      "19": 3,
+      "17": 1
     },
     "keywords": [
-      "singapore",
-      "man",
-      "charged",
-      "trespass",
-      "grand",
-      "prix",
-      "6452286"
+      "world",
+      "ilhan",
+      "omar",
+      "immigration",
+      "authorities",
+      "raid",
+      "democratic",
+      "congresswomans",
+      "home",
+      "1953416.html"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://aa.com.tr/en/world/un-rights-chief-appalled-by-repeated-houthi-attacks-on-saudi-airports-urges-de-escalation/4086464",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "rights",
+      "chief",
+      "appalled",
+      "repeated",
+      "houthi",
+      "attacks",
+      "saudi",
+      "airports",
+      "urges",
+      "escalation",
+      "4086464"
     ]
   },
   "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.dailymirror.lk/breaking-news/Yemens-Houthis-warn-passengers-not-to-use-Saudi-airports/108-352284",
+    "risk_score": 3.72,
+    "count": 4,
+    "top_news": "https://www.deccanchronicle.com/world/saudi-vows-response-after-deadly-airport-attacks-says-resilience-tested-1995271",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "15": 1
     },
     "keywords": [
-      "breaking",
-      "news",
-      "yemens",
-      "houthis",
-      "warn",
-      "passengers",
-      "not",
-      "use",
+      "world",
       "saudi",
-      "airports",
-      "108",
-      "352284"
+      "vows",
+      "response",
+      "after",
+      "deadly",
+      "airport",
+      "attacks",
+      "says",
+      "resilience",
+      "tested",
+      "1995271"
     ]
   }
 }
