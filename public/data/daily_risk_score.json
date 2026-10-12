@@ -1,23 +1,95 @@
 {
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.dailyexcelsior.com/at-least-11-indians-among-over-300-injured-in-attack-at-saudi-airport-that-killed-12/",
+  "ISR": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://cyprus-mail.com/2026/10/12/israeli-strike-kills-two-people-in-gaza-medics-say-2",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "17": 1
     },
     "keywords": [
-      "least",
-      "indians",
-      "among",
-      "over",
-      "300",
-      "injured",
-      "attack",
+      "2026",
+      "israeli",
+      "strike",
+      "kills",
+      "two",
+      "people",
+      "gaza",
+      "medics",
+      "say"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabtimesonline.com/news/kuwait-condemns-houthi-attacks-on-riyadh-and-dammam-airports-backs-saudi-measures/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "kuwait",
+      "condemns",
+      "houthi",
+      "attacks",
+      "riyadh",
+      "and",
+      "dammam",
+      "airports",
+      "backs",
       "saudi",
-      "airport",
-      "that",
-      "killed"
+      "measures"
+    ]
+  },
+  "SAU": {
+    "risk_score": 10.0,
+    "count": 10,
+    "top_news": "https://www.gdnonline.com:443/Details/1409422",
+    "event_codes": {
+      "19": 10
+    },
+    "keywords": [
+      "details",
+      "1409422"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.channelnewsasia.com/singapore/man-charged-trespass-f1-grand-prix-6452286",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "singapore",
+      "man",
+      "charged",
+      "trespass",
+      "grand",
+      "prix",
+      "6452286"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailymirror.lk/breaking-news/Yemens-Houthis-warn-passengers-not-to-use-Saudi-airports/108-352284",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "breaking",
+      "news",
+      "yemens",
+      "houthis",
+      "warn",
+      "passengers",
+      "not",
+      "use",
+      "saudi",
+      "airports",
+      "108",
+      "352284"
     ]
   }
 }
