@@ -1,118 +1,128 @@
 {
-  "ARG": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.riotimesonline.com/argentina-bans-brazilian-journalist-5-years-2026/",
+  "GUY": {
+    "risk_score": 6.6,
+    "count": 10,
+    "top_news": "https://kaieteurnewsonline.com/2026/10/13/president-ali-sidesteps-questions-on-seerams-future-as-border-patrol-director/",
     "event_codes": {
-      "19": 2,
-      "14": 1
+      "17": 6,
+      "18": 4
     },
     "keywords": [
-      "argentina",
-      "bans",
-      "brazilian",
-      "journalist",
-      "years",
-      "2026"
+      "2026",
+      "president",
+      "ali",
+      "sidesteps",
+      "questions",
+      "seerams",
+      "future",
+      "border",
+      "patrol",
+      "director"
     ]
   },
-  "BRA": {
-    "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/argentina-bans-brazilian-journalist-5-years-2026/",
+  "IRN": {
+    "risk_score": 7.22,
+    "count": 8,
+    "top_news": "https://patriotpost.us/articles/1001859-it-was-never-just-about-palestine",
     "event_codes": {
-      "17": 2,
-      "19": 2
-    },
-    "keywords": [
-      "argentina",
-      "bans",
-      "brazilian",
-      "journalist",
-      "years",
-      "2026"
-    ]
-  },
-  "EGY": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/egypt-gold-mining-crackdown-sudan-border-2026/",
-    "event_codes": {
-      "19": 4,
+      "19": 6,
+      "15": 1,
       "17": 1
     },
     "keywords": [
-      "egypt",
-      "gold",
-      "mining",
-      "crackdown",
-      "sudan",
-      "border",
-      "2026"
-    ]
-  },
-  "ETH": {
-    "risk_score": 3.8,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/ethiopia-tadesse-werede-released-2026/",
-    "event_codes": {
-      "19": 3,
-      "16": 2
-    },
-    "keywords": [
-      "ethiopia",
-      "tadesse",
-      "werede",
-      "released",
-      "2026"
+      "articles",
+      "1001859",
+      "was",
+      "never",
+      "just",
+      "about",
+      "palestine"
     ]
   },
   "ISR": {
-    "risk_score": 5.4,
+    "risk_score": 5.55,
     "count": 6,
-    "top_news": "https://www.ynetnews.com/culture/article/b13hwvqjzg",
-    "event_codes": {
-      "19": 4,
-      "16": 2
-    },
-    "keywords": [
-      "culture",
-      "article",
-      "b13hwvqjzg"
-    ]
-  },
-  "PER": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.riotimesonline.com/peru-extortion-committee-banks-2026/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "peru",
-      "extortion",
-      "committee",
-      "banks",
-      "2026"
-    ]
-  },
-  "SDN": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/egypt-gold-mining-crackdown-sudan-border-2026/",
+    "top_news": "https://www.siasat.com/netanyahu-seeks-saudi-arabias-nod-to-join-fight-against-houthis-3557408/",
     "event_codes": {
       "19": 3,
-      "17": 1
+      "18": 2,
+      "14": 1
     },
     "keywords": [
-      "egypt",
-      "gold",
-      "mining",
-      "crackdown",
-      "sudan",
-      "border",
-      "2026"
+      "netanyahu",
+      "seeks",
+      "saudi",
+      "arabias",
+      "nod",
+      "join",
+      "fight",
+      "against",
+      "houthis",
+      "3557408"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.opinionnigeria.com/witch-hunt-in-enugu-afaw-welcomes-medical-treatment-of-victim-and-police-investigation-of-incident-by-leo-igwe/",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "witch",
+      "hunt",
+      "enugu",
+      "afaw",
+      "welcomes",
+      "medical",
+      "treatment",
+      "victim",
+      "and",
+      "police",
+      "investigation",
+      "incident",
+      "leo",
+      "igwe"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "https://www.siasat.com/at-least-14-airlines-cancel-saudi-flights-after-houthi-attacks-3557392/",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "least",
+      "airlines",
+      "cancel",
+      "saudi",
+      "flights",
+      "after",
+      "houthi",
+      "attacks",
+      "3557392"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.siasat.com/netanyahu-seeks-saudi-arabias-nod-to-join-fight-against-houthis-3557408/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "netanyahu",
+      "seeks",
+      "saudi",
+      "arabias",
+      "nod",
+      "join",
+      "fight",
+      "against",
+      "houthis",
+      "3557408"
     ]
   }
 }
