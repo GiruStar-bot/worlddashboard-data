@@ -1,97 +1,111 @@
 {
-  "ETH": {
-    "risk_score": 8.22,
-    "count": 11,
-    "top_news": "https://www.mynbc5.com/article/luciano-frattolin-murder-sentence-new-york/74133581",
-    "event_codes": {
-      "17": 5,
-      "19": 5,
-      "15": 1
-    },
-    "keywords": [
-      "article",
-      "luciano",
-      "frattolin",
-      "murder",
-      "sentence",
-      "new",
-      "york",
-      "74133581"
-    ]
-  },
   "IRN": {
-    "risk_score": 2.45,
-    "count": 3,
-    "top_news": "https://www.jpost.com/israel-election-2026/article-911721",
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1014/The-backlash-against-livestreaming-an-execution",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 4
     },
     "keywords": [
-      "israel",
-      "election",
+      "editorials",
+      "the",
+      "monitors",
+      "view",
       "2026",
-      "article",
-      "911721"
+      "1014",
+      "the",
+      "backlash",
+      "against",
+      "livestreaming",
+      "execution"
     ]
   },
   "ISR": {
-    "risk_score": 12.03,
-    "count": 15,
-    "top_news": "https://www.rollingstone.com/culture/culture-news/sally-rooney-palestine-action-royalties-ban-1235642539/",
+    "risk_score": 3.2,
+    "count": 5,
+    "top_news": "https://www.cp24.com/news/world/2026/10/14/cornell-president-admits-he-never-followed-up-on-gang-rape-allegation-ahead-of-no-confidence-debate/",
     "event_codes": {
-      "19": 6,
-      "15": 3,
-      "17": 3,
-      "16": 2,
-      "14": 1
+      "17": 2,
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "culture",
-      "culture",
       "news",
-      "sally",
-      "rooney",
-      "palestine",
-      "action",
-      "royalties",
-      "ban",
-      "1235642539"
+      "world",
+      "2026",
+      "cornell",
+      "president",
+      "admits",
+      "never",
+      "followed",
+      "gang",
+      "rape",
+      "allegation",
+      "ahead",
+      "confidence",
+      "debate"
     ]
   },
-  "LBN": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.jpost.com/israel-news/defense-news/article-911722",
+  "LBY": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.cfr.org/backgrounders/role-icc",
     "event_codes": {
-      "19": 4
+      "17": 4,
+      "18": 2
     },
     "keywords": [
-      "israel",
-      "news",
-      "defense",
-      "news",
-      "article",
-      "911722"
+      "backgrounders",
+      "role",
+      "icc"
     ]
   },
-  "SAU": {
+  "VEN": {
+    "risk_score": 5.0,
+    "count": 7,
+    "top_news": "https://www.foxnews.com/politics/hochul-dodges-pressed-over-victims-illegal-immigrant-crime-will-you-apologize",
+    "event_codes": {
+      "17": 4,
+      "19": 3
+    },
+    "keywords": [
+      "politics",
+      "hochul",
+      "dodges",
+      "pressed",
+      "over",
+      "victims",
+      "illegal",
+      "immigrant",
+      "crime",
+      "will",
+      "you",
+      "apologize"
+    ]
+  },
+  "ZWE": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.siasat.com/arab-expat-injured-by-falling-houthi-missile-debris-in-riyadh-3558230/",
+    "count": 3,
+    "top_news": "https://thezimbabwemail.com/news/zimbabwe/six-zimbabweans-admit-russian-military-recruitment-offence-after-south-africa-transit-plot/",
     "event_codes": {
-      "19": 2
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "arab",
-      "expat",
-      "injured",
-      "falling",
-      "houthi",
-      "missile",
-      "debris",
-      "riyadh",
-      "3558230"
+      "news",
+      "zimbabwe",
+      "six",
+      "zimbabweans",
+      "admit",
+      "russian",
+      "military",
+      "recruitment",
+      "offence",
+      "after",
+      "south",
+      "africa",
+      "transit",
+      "plot"
     ]
   }
 }
