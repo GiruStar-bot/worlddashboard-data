@@ -1,172 +1,116 @@
 {
-  "ARE": {
+  "COL": {
     "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/15/saudi-led-coalition-says-houthis-attempted-to-attack-dozens-of-saudi-facilities",
+    "count": 4,
+    "top_news": "https://www.latintimes.com/colombias-streets-erupt-what-abelardo-hates-us-means-de-la-espriellas-next-100-days-600191",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "17": 3,
+      "19": 1
     },
     "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
-      "2026",
-      "saudi",
-      "led",
-      "coalition",
-      "says",
-      "houthis",
-      "attempted",
-      "attack",
-      "dozens",
-      "saudi",
-      "facilities"
-    ]
-  },
-  "ETH": {
-    "risk_score": 4.12,
-    "count": 5,
-    "top_news": "https://www.theepochtimes.com/world/uk-threatens-to-ban-eritreans-in-clash-over-illegal-immigrant-returns-6104276",
-    "event_codes": {
-      "19": 3,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "world",
-      "threatens",
-      "ban",
-      "eritreans",
-      "clash",
-      "over",
-      "illegal",
-      "immigrant",
-      "returns",
-      "6104276"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/skjkr00rofg",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "article",
-      "skjkr00rofg"
+      "colombias",
+      "streets",
+      "erupt",
+      "what",
+      "abelardo",
+      "hates",
+      "means",
+      "espriellas",
+      "next",
+      "100",
+      "days",
+      "600191"
     ]
   },
   "ISR": {
-    "risk_score": 11.65,
-    "count": 14,
-    "top_news": "http://www.jpost.com/diaspora/antisemitism/article-911862",
+    "risk_score": 14.11,
+    "count": 15,
+    "top_news": "https://www.algemeiner.com/2026/10/15/sally-rooneys-publisher-stops-uk-distribution-authors-support-designated-terror-group-palestine-action/",
     "event_codes": {
-      "19": 7,
+      "19": 10,
       "17": 4,
-      "20": 2,
-      "14": 1
+      "18": 1
     },
     "keywords": [
-      "diaspora",
-      "antisemitism",
-      "article",
-      "911862"
-    ]
-  },
-  "LBN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ynetnews.com/article/skjkr00rofg",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "article",
-      "skjkr00rofg"
-    ]
-  },
-  "NGA": {
-    "risk_score": 12.8,
-    "count": 14,
-    "top_news": "https://www.okayafrica.com/op-ed-in-the-name-of-the-american-father-and-the-nigerian-son/1440800",
-    "event_codes": {
-      "19": 7,
-      "18": 6,
-      "17": 1
-    },
-    "keywords": [
-      "the",
-      "name",
-      "the",
-      "american",
-      "father",
-      "and",
-      "the",
-      "nigerian",
-      "son",
-      "1440800"
-    ]
-  },
-  "SAU": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/15/saudi-led-coalition-says-houthis-attempted-to-attack-dozens-of-saudi-facilities",
-    "event_codes": {
-      "19": 3,
-      "18": 2
-    },
-    "keywords": [
-      "ultime",
-      "notizie",
-      "reuters",
       "2026",
-      "saudi",
-      "led",
-      "coalition",
-      "says",
-      "houthis",
-      "attempted",
-      "attack",
-      "dozens",
-      "saudi",
-      "facilities"
+      "sally",
+      "rooneys",
+      "publisher",
+      "stops",
+      "distribution",
+      "authors",
+      "support",
+      "designated",
+      "terror",
+      "group",
+      "palestine",
+      "action"
+    ]
+  },
+  "SDN": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.riotimesonline.com/south-sudan-tonj-east-clashes-16-killed-2026/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "south",
+      "sudan",
+      "tonj",
+      "east",
+      "clashes",
+      "killed",
+      "2026"
+    ]
+  },
+  "SOM": {
+    "risk_score": 12.3,
+    "count": 15,
+    "top_news": "https://wardheernews.com/president-hassan-sheikhs-southwest-gamble-backfires/",
+    "event_codes": {
+      "19": 9,
+      "17": 5,
+      "18": 1
+    },
+    "keywords": [
+      "president",
+      "hassan",
+      "sheikhs",
+      "southwest",
+      "gamble",
+      "backfires"
+    ]
+  },
+  "SSD": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.riotimesonline.com/south-sudan-tonj-east-clashes-16-killed-2026/",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "south",
+      "sudan",
+      "tonj",
+      "east",
+      "clashes",
+      "killed",
+      "2026"
     ]
   },
   "SYR": {
-    "risk_score": 5.5,
+    "risk_score": 5.0,
     "count": 6,
-    "top_news": "https://www.ynetnews.com/article/skjkr00rofg",
+    "top_news": "https://sana.sy/en/syria/2351048/",
     "event_codes": {
-      "19": 5,
-      "17": 1
+      "17": 2,
+      "19": 2,
+      "20": 2
     },
     "keywords": [
-      "article",
-      "skjkr00rofg"
-    ]
-  },
-  "VEN": {
-    "risk_score": 4.0,
-    "count": 5,
-    "top_news": "https://www.theglobeandmail.com/world/article-venezuela-maduro-wife-plead-not-guilty-us-torture-charges/",
-    "event_codes": {
-      "18": 3,
-      "14": 2
-    },
-    "keywords": [
-      "world",
-      "article",
-      "venezuela",
-      "maduro",
-      "wife",
-      "plead",
-      "not",
-      "guilty",
-      "torture",
-      "charges"
+      "syria",
+      "2351048"
     ]
   }
 }
