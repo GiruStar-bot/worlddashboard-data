@@ -1,111 +1,124 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1014/The-backlash-against-livestreaming-an-execution",
+  "BHR": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.gdnonline.com:443/Details/1409739",
     "event_codes": {
-      "17": 4
+      "17": 5
     },
     "keywords": [
-      "editorials",
-      "the",
-      "monitors",
-      "view",
-      "2026",
-      "1014",
-      "the",
-      "backlash",
-      "against",
-      "livestreaming",
-      "execution"
+      "details",
+      "1409739"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://english.aawsat.com/world/5329753-netanyahu-says-he-not-seeking-attack-iran-again-israel-election",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "world",
+      "5329753",
+      "netanyahu",
+      "says",
+      "not",
+      "seeking",
+      "attack",
+      "iran",
+      "again",
+      "israel",
+      "election"
     ]
   },
   "ISR": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://www.cp24.com/news/world/2026/10/14/cornell-president-admits-he-never-followed-up-on-gang-rape-allegation-ahead-of-no-confidence-debate/",
+    "risk_score": 15.68,
+    "count": 19,
+    "top_news": "https://english.aawsat.com/world/5329753-netanyahu-says-he-not-seeking-attack-iran-again-israel-election",
     "event_codes": {
-      "17": 2,
-      "18": 2,
+      "19": 11,
+      "15": 4,
+      "17": 3,
       "16": 1
     },
     "keywords": [
-      "news",
       "world",
-      "2026",
-      "cornell",
-      "president",
-      "admits",
-      "never",
-      "followed",
-      "gang",
-      "rape",
-      "allegation",
-      "ahead",
-      "confidence",
-      "debate"
+      "5329753",
+      "netanyahu",
+      "says",
+      "not",
+      "seeking",
+      "attack",
+      "iran",
+      "again",
+      "israel",
+      "election"
     ]
   },
-  "LBY": {
-    "risk_score": 4.0,
-    "count": 6,
-    "top_news": "https://www.cfr.org/backgrounders/role-icc",
-    "event_codes": {
-      "17": 4,
-      "18": 2
-    },
-    "keywords": [
-      "backgrounders",
-      "role",
-      "icc"
-    ]
-  },
-  "VEN": {
-    "risk_score": 5.0,
-    "count": 7,
-    "top_news": "https://www.foxnews.com/politics/hochul-dodges-pressed-over-victims-illegal-immigrant-crime-will-you-apologize",
-    "event_codes": {
-      "17": 4,
-      "19": 3
-    },
-    "keywords": [
-      "politics",
-      "hochul",
-      "dodges",
-      "pressed",
-      "over",
-      "victims",
-      "illegal",
-      "immigrant",
-      "crime",
-      "will",
-      "you",
-      "apologize"
-    ]
-  },
-  "ZWE": {
-    "risk_score": 2.0,
+  "LBN": {
+    "risk_score": 2.72,
     "count": 3,
-    "top_news": "https://thezimbabwemail.com/news/zimbabwe/six-zimbabweans-admit-russian-military-recruitment-offence-after-south-africa-transit-plot/",
+    "top_news": "https://english.aawsat.com/world/5329753-netanyahu-says-he-not-seeking-attack-iran-again-israel-election",
     "event_codes": {
-      "17": 2,
-      "19": 1
+      "19": 2,
+      "15": 1
     },
     "keywords": [
+      "world",
+      "5329753",
+      "netanyahu",
+      "says",
+      "not",
+      "seeking",
+      "attack",
+      "iran",
+      "again",
+      "israel",
+      "election"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dailyexcelsior.com/pakistan-reaffirms-commitment-to-saudi-arabias-security-amid-houthi-attacks/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "pakistan",
+      "reaffirms",
+      "commitment",
+      "saudi",
+      "arabias",
+      "security",
+      "amid",
+      "houthi",
+      "attacks"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.wdio.com/ap-top-news/yemens-houthis-look-to-build-ballistic-missiles-with-more-chinese-supplies-report-says/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "top",
       "news",
-      "zimbabwe",
-      "six",
-      "zimbabweans",
-      "admit",
-      "russian",
-      "military",
-      "recruitment",
-      "offence",
-      "after",
-      "south",
-      "africa",
-      "transit",
-      "plot"
+      "yemens",
+      "houthis",
+      "look",
+      "build",
+      "ballistic",
+      "missiles",
+      "with",
+      "more",
+      "chinese",
+      "supplies",
+      "report",
+      "says"
     ]
   }
 }
