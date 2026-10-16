@@ -1,57 +1,120 @@
 {
-  "ISR": {
-    "risk_score": 41.95,
-    "count": 46,
-    "top_news": "https://www.latimes.com/world-nation/story/2026-10-16/israeli-settlers-torch-cars-trees-in-west-bank-villages-disrupting-palestinians-olive-harvest",
+  "ARG": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://aa.com.tr/en/middle-east/injuries-arrests-reported-during-university-funding-march-in-argentina/4091446",
     "event_codes": {
-      "18": 29,
-      "19": 14,
-      "17": 3
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "world",
-      "nation",
-      "story",
+      "middle",
+      "east",
+      "injuries",
+      "arrests",
+      "reported",
+      "during",
+      "university",
+      "funding",
+      "march",
+      "argentina",
+      "4091446"
+    ]
+  },
+  "IRN": {
+    "risk_score": 3.4,
+    "count": 5,
+    "top_news": "https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
+    "event_codes": {
+      "16": 4,
+      "19": 1
+    },
+    "keywords": [
       "2026",
-      "israeli",
-      "settlers",
-      "torch",
-      "cars",
-      "trees",
-      "west",
-      "bank",
-      "villages",
-      "disrupting",
-      "palestinians",
-      "olive",
-      "harvest"
+      "syria",
+      "yemen",
+      "saudi",
+      "arabia",
+      "iran",
+      "houthis",
+      "sharaa"
     ]
   },
   "PSE": {
-    "risk_score": 5.75,
-    "count": 6,
-    "top_news": "https://www.latimes.com/world-nation/story/2026-10-16/israeli-settlers-torch-cars-trees-in-west-bank-villages-disrupting-palestinians-olive-harvest",
+    "risk_score": 3.6,
+    "count": 4,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-probe-who-initiated-settler-attack-washington-post",
     "event_codes": {
-      "18": 4,
-      "19": 2
+      "18": 4
     },
     "keywords": [
-      "world",
-      "nation",
-      "story",
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "netanyahu",
+      "calls",
+      "probe",
+      "who",
+      "initiated",
+      "settler",
+      "attack",
+      "washington",
+      "post"
+    ]
+  },
+  "SAU": {
+    "risk_score": 6.42,
+    "count": 7,
+    "top_news": "https://bdnews24.com/diaspora/bqkq7fmfiq",
+    "event_codes": {
+      "19": 4,
+      "17": 2,
+      "18": 1
+    },
+    "keywords": [
+      "diaspora",
+      "bqkq7fmfiq"
+    ]
+  },
+  "SYR": {
+    "risk_score": 3.5,
+    "count": 4,
+    "top_news": "https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
+    "event_codes": {
+      "19": 3,
+      "17": 1
+    },
+    "keywords": [
       "2026",
-      "israeli",
-      "settlers",
-      "torch",
-      "cars",
-      "trees",
-      "west",
-      "bank",
-      "villages",
-      "disrupting",
-      "palestinians",
-      "olive",
-      "harvest"
+      "syria",
+      "yemen",
+      "saudi",
+      "arabia",
+      "iran",
+      "houthis",
+      "sharaa"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.breitbart.com/middle-east/2026/10/16/houthis-launch-deadly-attack-on-yemens-presidential-palace/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "2026",
+      "houthis",
+      "launch",
+      "deadly",
+      "attack",
+      "yemens",
+      "presidential",
+      "palace"
     ]
   }
 }
