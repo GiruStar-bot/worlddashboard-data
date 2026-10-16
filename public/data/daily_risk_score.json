@@ -1,120 +1,125 @@
 {
-  "ARG": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://aa.com.tr/en/middle-east/injuries-arrests-reported-during-university-funding-march-in-argentina/4091446",
+  "BHR": {
+    "risk_score": 4.7,
+    "count": 7,
+    "top_news": "https://www.gdnonline.com:443/Details/1409935",
     "event_codes": {
-      "18": 2,
-      "19": 1
+      "17": 4,
+      "18": 3
     },
     "keywords": [
-      "middle",
-      "east",
-      "injuries",
-      "arrests",
-      "reported",
-      "during",
-      "university",
-      "funding",
-      "march",
-      "argentina",
-      "4091446"
+      "details",
+      "1409935"
+    ]
+  },
+  "CAF": {
+    "risk_score": 2.22,
+    "count": 4,
+    "top_news": "https://foreignpolicy.com/2026/10/16/news-quiz-houthi-saudi-strikes-trump-commercials-india-protests/?tpcc=recirc_trending062921",
+    "event_codes": {
+      "17": 3,
+      "15": 1
+    },
+    "keywords": [
+      "2026",
+      "news",
+      "quiz",
+      "houthi",
+      "saudi",
+      "strikes",
+      "trump",
+      "commercials",
+      "india",
+      "protests"
     ]
   },
   "IRN": {
-    "risk_score": 3.4,
-    "count": 5,
-    "top_news": "https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
+    "risk_score": 8.2,
+    "count": 10,
+    "top_news": "https://www.riotimesonline.com/israel-iran-ceasefire-odds-fall-to-45/",
     "event_codes": {
-      "16": 4,
-      "19": 1
+      "19": 7,
+      "16": 3
     },
     "keywords": [
-      "2026",
-      "syria",
-      "yemen",
-      "saudi",
-      "arabia",
+      "israel",
       "iran",
-      "houthis",
-      "sharaa"
+      "ceasefire",
+      "odds",
+      "fall"
+    ]
+  },
+  "ISR": {
+    "risk_score": 13.75,
+    "count": 14,
+    "top_news": "https://www.riotimesonline.com/israel-iran-ceasefire-odds-fall-to-45/",
+    "event_codes": {
+      "19": 12,
+      "18": 2
+    },
+    "keywords": [
+      "israel",
+      "iran",
+      "ceasefire",
+      "odds",
+      "fall"
     ]
   },
   "PSE": {
-    "risk_score": 3.6,
-    "count": 4,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-calls-probe-who-initiated-settler-attack-washington-post",
+    "risk_score": 13.75,
+    "count": 14,
+    "top_news": "https://www.arabnews.com/middle-east/34-attacks-by-israeli-settlers-against-palestinian-farmers-reported-in-single-day-3006759",
     "event_codes": {
-      "18": 4
-    },
-    "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "netanyahu",
-      "calls",
-      "probe",
-      "who",
-      "initiated",
-      "settler",
-      "attack",
-      "washington",
-      "post"
-    ]
-  },
-  "SAU": {
-    "risk_score": 6.42,
-    "count": 7,
-    "top_news": "https://bdnews24.com/diaspora/bqkq7fmfiq",
-    "event_codes": {
-      "19": 4,
-      "17": 2,
-      "18": 1
-    },
-    "keywords": [
-      "diaspora",
-      "bqkq7fmfiq"
-    ]
-  },
-  "SYR": {
-    "risk_score": 3.5,
-    "count": 4,
-    "top_news": "https://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "syria",
-      "yemen",
-      "saudi",
-      "arabia",
-      "iran",
-      "houthis",
-      "sharaa"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.breitbart.com/middle-east/2026/10/16/houthis-launch-deadly-attack-on-yemens-presidential-palace/",
-    "event_codes": {
-      "19": 3
+      "19": 11,
+      "18": 3
     },
     "keywords": [
       "middle",
       "east",
-      "2026",
-      "houthis",
-      "launch",
-      "deadly",
-      "attack",
-      "yemens",
-      "presidential",
-      "palace"
+      "attacks",
+      "israeli",
+      "settlers",
+      "against",
+      "palestinian",
+      "farmers",
+      "reported",
+      "single",
+      "day",
+      "3006759"
+    ]
+  },
+  "SAU": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://english.news.cn/20261017/5920d6f63d2b466f92f469ef02652cbf/c.html",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "20261017",
+      "5920d6f63d2b466f92f469ef02652cbf",
+      "c.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "https://www.arabnews.com/middle-east/2-houthi-missiles-strike-aden-airport-no-casualties-reported-3006780",
+    "event_codes": {
+      "19": 4,
+      "16": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "houthi",
+      "missiles",
+      "strike",
+      "aden",
+      "airport",
+      "casualties",
+      "reported",
+      "3006780"
     ]
   }
 }
