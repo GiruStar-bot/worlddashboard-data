@@ -1,95 +1,227 @@
 {
-  "IRN": {
-    "risk_score": 2.72,
-    "count": 3,
-    "top_news": "https://finchannel.com/can-the-u-s-adapt-to-a-new-age-of-tech-diffusion/138285/world-2/2026/10/",
+  "BFA": {
+    "risk_score": 16.0,
+    "count": 16,
+    "top_news": "https://www.africanews.com/2026/10/16/rival-jnim-and-islamic-state-jihadists-clash-in-intensifying-sahel-turf-war/",
     "event_codes": {
-      "19": 2,
-      "15": 1
+      "19": 16
     },
     "keywords": [
-      "can",
-      "the",
-      "adapt",
-      "new",
-      "age",
-      "tech",
-      "diffusion",
-      "138285",
-      "world",
-      "2026"
-    ]
-  },
-  "KEN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.ghafla.co.ke/battle-for-nairobi-jaymo-ule-msee-winnie-odinga-and-jalango-declare-bids-for-2027-senate-seat/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "battle",
-      "for",
-      "nairobi",
-      "jaymo",
-      "ule",
-      "msee",
-      "winnie",
-      "odinga",
+      "2026",
+      "rival",
+      "jnim",
       "and",
-      "jalango",
-      "declare",
-      "bids",
-      "for",
-      "2027",
-      "senate",
-      "seat"
+      "islamic",
+      "state",
+      "jihadists",
+      "clash",
+      "intensifying",
+      "sahel",
+      "turf",
+      "war"
     ]
   },
-  "SDN": {
+  "EGY": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.moneycontrol.com/city/tukaram-mundhe-led-fda-bans-sale-of-loose-spice-powders-mixed-spices-in-maharashtra-article-14053773.html",
+    "count": 2,
+    "top_news": "https://tribune.com.pk/story/2635193/pakistan-condemns-indian-defence-ministers-remarks-threatening-military-aggression",
     "event_codes": {
-      "17": 4
+      "19": 2
     },
     "keywords": [
-      "city",
-      "tukaram",
-      "mundhe",
-      "led",
-      "fda",
-      "bans",
-      "sale",
-      "loose",
-      "spice",
-      "powders",
-      "mixed",
-      "spices",
-      "maharashtra",
-      "article",
-      "14053773.html"
+      "story",
+      "2635193",
+      "pakistan",
+      "condemns",
+      "indian",
+      "defence",
+      "ministers",
+      "remarks",
+      "threatening",
+      "military",
+      "aggression"
     ]
   },
-  "VEN": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.namibian.com.na/maduro-pleads-not-guilty-to-new-torture-related-charges-in-new-york/",
+  "ETH": {
+    "risk_score": 2.52,
+    "count": 4,
+    "top_news": "https://www.citizen.co.za/news/news-world/news-africa/ethiopia-appoints-interim-tigray-government/",
     "event_codes": {
-      "19": 2,
+      "16": 2,
+      "15": 1,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "news",
+      "world",
+      "news",
+      "africa",
+      "ethiopia",
+      "appoints",
+      "interim",
+      "tigray",
+      "government"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://english.aawsat.com/world/5330258-teen-sentenced-20-years-uk-murder-plot-tied-iran-linked-group",
+    "event_codes": {
+      "19": 5,
       "17": 1
     },
     "keywords": [
-      "maduro",
-      "pleads",
-      "not",
-      "guilty",
-      "new",
-      "torture",
-      "related",
-      "charges",
-      "new",
-      "york"
+      "world",
+      "5330258",
+      "teen",
+      "sentenced",
+      "years",
+      "murder",
+      "plot",
+      "tied",
+      "iran",
+      "linked",
+      "group"
+    ]
+  },
+  "ISR": {
+    "risk_score": 23.97,
+    "count": 28,
+    "top_news": "https://english.wafa.ps/Pages/Details/175949",
+    "event_codes": {
+      "19": 12,
+      "18": 7,
+      "16": 6,
+      "17": 3
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "175949"
+    ]
+  },
+  "MLI": {
+    "risk_score": 11.75,
+    "count": 12,
+    "top_news": "https://www.riotimesonline.com/who-backs-whom-africa-great-powers-2026/",
+    "event_codes": {
+      "19": 12
+    },
+    "keywords": [
+      "who",
+      "backs",
+      "whom",
+      "africa",
+      "great",
+      "powers",
+      "2026"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.africanews.com/2026/10/16/rival-jnim-and-islamic-state-jihadists-clash-in-intensifying-sahel-turf-war/",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "2026",
+      "rival",
+      "jnim",
+      "and",
+      "islamic",
+      "state",
+      "jihadists",
+      "clash",
+      "intensifying",
+      "sahel",
+      "turf",
+      "war"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.africanews.com/2026/10/16/rival-jnim-and-islamic-state-jihadists-clash-in-intensifying-sahel-turf-war/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "rival",
+      "jnim",
+      "and",
+      "islamic",
+      "state",
+      "jihadists",
+      "clash",
+      "intensifying",
+      "sahel",
+      "turf",
+      "war"
+    ]
+  },
+  "PSE": {
+    "risk_score": 33.37,
+    "count": 35,
+    "top_news": "https://english.wafa.ps/Pages/Details/175947",
+    "event_codes": {
+      "18": 19,
+      "19": 14,
+      "17": 2
+    },
+    "keywords": [
+      "pages",
+      "details",
+      "175947"
+    ]
+  },
+  "SAU": {
+    "risk_score": 5.7,
+    "count": 7,
+    "top_news": "https://tribune.com.pk/story/2635195/pm-reaffirms-pakistans-support-for-saudi-arabia-amid-houthi-attacks-in-meeting-with-newly-appointed",
+    "event_codes": {
+      "18": 4,
+      "16": 1,
+      "17": 1,
+      "19": 1
+    },
+    "keywords": [
+      "story",
+      "2635195",
+      "reaffirms",
+      "pakistans",
+      "support",
+      "for",
+      "saudi",
+      "arabia",
+      "amid",
+      "houthi",
+      "attacks",
+      "meeting",
+      "with",
+      "newly",
+      "appointed"
+    ]
+  },
+  "TUR": {
+    "risk_score": 3.25,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/who-backs-whom-africa-great-powers-2026/",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "who",
+      "backs",
+      "whom",
+      "africa",
+      "great",
+      "powers",
+      "2026"
     ]
   }
 }
