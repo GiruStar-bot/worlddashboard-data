@@ -1,25 +1,101 @@
 {
-  "ISR": {
-    "risk_score": 9.0,
-    "count": 11,
-    "top_news": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+  "EGY": {
+    "risk_score": 2.34,
+    "count": 3,
+    "top_news": "https://listverse.com/2015/11/28/10-times-our-history-was-destroyed-by-accidents-and-stupidity/",
     "event_codes": {
-      "19": 6,
-      "14": 2,
-      "16": 2,
-      "18": 1
+      "17": 3
     },
     "keywords": [
-      "world",
+      "2015",
+      "times",
+      "our",
+      "history",
+      "was",
+      "destroyed",
+      "accidents",
+      "and",
+      "stupidity"
+    ]
+  },
+  "ISR": {
+    "risk_score": 21.65,
+    "count": 24,
+    "top_news": "https://www.thenationalnews.com/news/uae/2026/10/17/blows-kept-coming-i-felt-the-aircraft-going-down-flydubai-captain-on-the-cockpit-battle-to-save-his-plane/",
+    "event_codes": {
+      "19": 17,
+      "17": 4,
+      "18": 3
+    },
+    "keywords": [
+      "news",
+      "uae",
       "2026",
-      "oct",
-      "israeli",
+      "blows",
+      "kept",
+      "coming",
+      "felt",
+      "the",
+      "aircraft",
+      "going",
+      "down",
+      "flydubai",
+      "captain",
+      "the",
+      "cockpit",
+      "battle",
+      "save",
+      "his",
+      "plane"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/france-demands-israel-arrest-settlers-who-attacked-french-mayor-west",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "live",
+      "blog",
+      "live",
+      "blog",
+      "update",
+      "france",
+      "demands",
+      "israel",
+      "arrest",
       "settlers",
-      "attack",
-      "european",
-      "diplomats",
-      "west",
-      "bank"
+      "who",
+      "attacked",
+      "french",
+      "mayor",
+      "west"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.92,
+    "count": 3,
+    "top_news": "https://www.thenationalnews.com/news/gulf/2026/10/17/egypts-sisi-seeks-parliamentary-approval-to-defend-saudi-arabia-if-asked/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "gulf",
+      "2026",
+      "egypts",
+      "sisi",
+      "seeks",
+      "parliamentary",
+      "approval",
+      "defend",
+      "saudi",
+      "arabia",
+      "asked"
     ]
   }
 }
