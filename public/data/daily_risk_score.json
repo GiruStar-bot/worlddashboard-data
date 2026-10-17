@@ -1,42 +1,140 @@
 {
-  "KEN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.ghafla.co.ke/ruto-vs-sifuna-police-probe-kitale-incident-after-two-officers-injured-government-vehicles-damaged/",
+  "BRA": {
+    "risk_score": 6.94,
+    "count": 8,
+    "top_news": "https://nypost.com/2026/10/17/world-news/brazilian-cop-arrested-after-shooting-woman-who-charged-at-him-with-a-knife/",
     "event_codes": {
-      "19": 3
+      "19": 5,
+      "15": 2,
+      "17": 1
     },
     "keywords": [
-      "ruto",
-      "sifuna",
-      "police",
-      "probe",
-      "kitale",
-      "incident",
+      "2026",
+      "world",
+      "news",
+      "brazilian",
+      "cop",
+      "arrested",
       "after",
-      "two",
-      "officers",
-      "injured",
-      "government",
-      "vehicles",
-      "damaged"
+      "shooting",
+      "woman",
+      "who",
+      "charged",
+      "him",
+      "with",
+      "knife"
+    ]
+  },
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 10,
+    "top_news": "https://nypost.com/2026/10/17/world-news/netanyahu-fires-back-at-obama-after-he-accuses-israel-of-stealing-palestinian-land/",
+    "event_codes": {
+      "19": 6,
+      "18": 2,
+      "14": 1,
+      "17": 1
+    },
+    "keywords": [
+      "2026",
+      "world",
+      "news",
+      "netanyahu",
+      "fires",
+      "back",
+      "obama",
+      "after",
+      "accuses",
+      "israel",
+      "stealing",
+      "palestinian",
+      "land"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/kenya-religion-explained-2026/",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "kenya",
+      "religion",
+      "explained",
+      "2026"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/917802-army-explains-arrest-of-amnesty-internationals-reporter.html",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "regional",
+      "north",
+      "central",
+      "917802",
+      "army",
+      "explains",
+      "arrest",
+      "amnesty",
+      "internationals",
+      "reporter.html"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/middle-east/israeli-settlers-attack-european-diplomats-in-west-bank-amid-surge-in-olive-harvest-violence-3006865",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "settlers",
+      "attack",
+      "european",
+      "diplomats",
+      "west",
+      "bank",
+      "amid",
+      "surge",
+      "olive",
+      "harvest",
+      "violence",
+      "3006865"
     ]
   },
   "SAU": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middle-east-online.com/en/ukmto-tanker-struck-unknown-projectile-saudi-arabia",
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "http://www.bignewsnetwork.com/news/279381224/small-boat-approaches-opens-fire-on-lng-tanker-off-yemen-coast-says-uk-maritime-agency",
     "event_codes": {
-      "19": 2
+      "19": 2,
+      "17": 1
     },
     "keywords": [
-      "ukmto",
+      "news",
+      "279381224",
+      "small",
+      "boat",
+      "approaches",
+      "opens",
+      "fire",
+      "lng",
       "tanker",
-      "struck",
-      "unknown",
-      "projectile",
-      "saudi",
-      "arabia"
+      "off",
+      "yemen",
+      "coast",
+      "says",
+      "maritime",
+      "agency"
     ]
   }
 }
