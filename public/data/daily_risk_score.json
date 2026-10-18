@@ -1,141 +1,83 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "saudi",
-      "led",
-      "coalition",
-      "intercepts",
-      "drones",
-      "egypt",
-      "weighs",
-      "sending",
-      "help"
-    ]
-  },
-  "ISR": {
-    "risk_score": 13.95,
-    "count": 16,
-    "top_news": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack",
-    "event_codes": {
-      "18": 8,
-      "19": 5,
-      "17": 3
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "ambassador",
-      "calls",
-      "israel",
-      "prosecute",
-      "settlers",
-      "over",
-      "journalist",
-      "attack"
-    ]
-  },
-  "MYS": {
-    "risk_score": 2.95,
-    "count": 6,
-    "top_news": "https://www.freemalaysiatoday.com/category/opinion/2026/10/18/the-challenge-in-making-the-national-language-a-vessel-for-unity",
-    "event_codes": {
-      "17": 3,
-      "16": 2,
-      "14": 1
-    },
-    "keywords": [
-      "category",
-      "opinion",
-      "2026",
-      "the",
-      "challenge",
-      "making",
-      "the",
-      "national",
-      "language",
-      "vessel",
-      "for",
-      "unity"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.9,
-    "count": 3,
-    "top_news": "https://themedialine.org/headlines/netanyahu-questions-reports-of-settler-attack-on-european-diplomats-despite-idf-condemnation/",
-    "event_codes": {
-      "19": 2,
-      "18": 1
-    },
-    "keywords": [
-      "headlines",
-      "netanyahu",
-      "questions",
-      "reports",
-      "settler",
-      "attack",
-      "european",
-      "diplomats",
-      "despite",
-      "idf",
-      "condemnation"
-    ]
-  },
-  "SAU": {
+  "IDN": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help",
+    "top_news": "https://en.antaranews.com/news/436225/indonesia-urges-airlines-to-aid-passengers-amid-riyadh-closure",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "2026",
-      "saudi",
-      "led",
-      "coalition",
-      "intercepts",
-      "drones",
-      "egypt",
-      "weighs",
-      "sending",
-      "help"
+      "436225",
+      "indonesia",
+      "urges",
+      "airlines",
+      "aid",
+      "passengers",
+      "amid",
+      "riyadh",
+      "closure"
     ]
   },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.2news.com/news/world/diplomats-attacked-in-the-occupied-west-bank-and-other-middle-east-developments/article_c966f974-5c3a-591f-87bd-b22e87d4191b.html",
+  "ISR": {
+    "risk_score": 7.95,
+    "count": 9,
+    "top_news": "https://www.al-monitor.com/originals/2026/10/us-wants-israel-crack-down-settler-violence-west-bank-rubio-says",
     "event_codes": {
-      "19": 2
+      "19": 6,
+      "14": 3
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "wants",
+      "israel",
+      "crack",
+      "down",
+      "settler",
+      "violence",
+      "west",
+      "bank",
+      "rubio",
+      "says"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://en.antaranews.com/news/436225/indonesia-urges-airlines-to-aid-passengers-amid-riyadh-closure",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "world",
-      "diplomats",
-      "attacked",
-      "the",
-      "occupied",
-      "west",
-      "bank",
-      "and",
-      "other",
-      "middle",
-      "east",
-      "developments",
-      "article",
-      "c966f974",
-      "5c3a",
-      "591f",
-      "87bd",
-      "b22e87d4191b.html"
+      "436225",
+      "indonesia",
+      "urges",
+      "airlines",
+      "aid",
+      "passengers",
+      "amid",
+      "riyadh",
+      "closure"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3339214/probe-into-jumbos-death",
+    "event_codes": {
+      "17": 3,
+      "18": 1
+    },
+    "keywords": [
+      "thailand",
+      "general",
+      "3339214",
+      "probe",
+      "into",
+      "jumbos",
+      "death"
     ]
   }
 }
