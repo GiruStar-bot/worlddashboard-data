@@ -1,70 +1,95 @@
 {
-  "IRN": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.jns.org/news/israel-news/netanyahu-only-way-to-end-iran-threat-is-to-get-rid-of-this-regime",
-    "event_codes": {
-      "19": 4
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "netanyahu",
-      "only",
-      "way",
-      "end",
-      "iran",
-      "threat",
-      "get",
-      "rid",
-      "this",
-      "regime"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.25,
-    "count": 8,
-    "top_news": "https://www.jns.org/news/israel-news/netanyahu-only-way-to-end-iran-threat-is-to-get-rid-of-this-regime",
-    "event_codes": {
-      "14": 3,
-      "18": 2,
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "israel",
-      "news",
-      "netanyahu",
-      "only",
-      "way",
-      "end",
-      "iran",
-      "threat",
-      "get",
-      "rid",
-      "this",
-      "regime"
-    ]
-  },
-  "PSE": {
-    "risk_score": 2.95,
+  "EGY": {
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.huntspost.co.uk/news/national/26646995.us-ambassador-israel-condemns-settler-attack-journalist/",
+    "top_news": "https://twitchy.com/samj/2026/10/18/welp-this-little-tidbit-about-the-ilhan-omar-raid-blows-the-lefts-claims-of-targeting-apart-n2433437",
     "event_codes": {
       "19": 3
     },
     "keywords": [
+      "samj",
+      "2026",
+      "welp",
+      "this",
+      "little",
+      "tidbit",
+      "about",
+      "the",
+      "ilhan",
+      "omar",
+      "raid",
+      "blows",
+      "the",
+      "lefts",
+      "claims",
+      "targeting",
+      "apart",
+      "n2433437"
+    ]
+  },
+  "ISR": {
+    "risk_score": 7.4,
+    "count": 8,
+    "top_news": "https://www.cbsnews.com/news/trump-endorses-israel-prime-minister-benjamin-netanyahu-reelection/",
+    "event_codes": {
+      "19": 5,
+      "17": 2,
+      "16": 1
+    },
+    "keywords": [
+      "news",
+      "trump",
+      "endorses",
+      "israel",
+      "prime",
+      "minister",
+      "benjamin",
+      "netanyahu",
+      "reelection"
+    ]
+  },
+  "MMR": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.thehindu.com/news/national/manipur/kuki-group-announces-shutdown-of-key-manipur-highway-after-attacks-on-villages/article71600255.ece",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
       "news",
       "national",
-      "26646995.us",
-      "ambassador",
-      "israel",
-      "condemns",
-      "settler",
-      "attack",
-      "journalist"
+      "manipur",
+      "kuki",
+      "group",
+      "announces",
+      "shutdown",
+      "key",
+      "manipur",
+      "highway",
+      "after",
+      "attacks",
+      "villages",
+      "article71600255.ece"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "saudi",
+      "arabia",
+      "sends",
+      "skyscraper",
+      "employees",
+      "home",
+      "amid",
+      "houthi",
+      "threats",
+      "79693225"
     ]
   }
 }
