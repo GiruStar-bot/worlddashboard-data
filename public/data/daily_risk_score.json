@@ -1,95 +1,140 @@
 {
-  "EGY": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://twitchy.com/samj/2026/10/18/welp-this-little-tidbit-about-the-ilhan-omar-raid-blows-the-lefts-claims-of-targeting-apart-n2433437",
+  "IRN": {
+    "risk_score": 6.15,
+    "count": 7,
+    "top_news": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
     "event_codes": {
-      "19": 3
+      "19": 4,
+      "16": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "samj",
+      "news",
       "2026",
-      "welp",
-      "this",
-      "little",
-      "tidbit",
-      "about",
-      "the",
-      "ilhan",
-      "omar",
-      "raid",
-      "blows",
-      "the",
-      "lefts",
-      "claims",
-      "targeting",
-      "apart",
-      "n2433437"
+      "trump",
+      "endorses",
+      "netanyahu",
+      "israeli",
+      "legislative",
+      "elections"
     ]
   },
   "ISR": {
-    "risk_score": 7.4,
-    "count": 8,
-    "top_news": "https://www.cbsnews.com/news/trump-endorses-israel-prime-minister-benjamin-netanyahu-reelection/",
+    "risk_score": 14.42,
+    "count": 17,
+    "top_news": "https://www.business-standard.com/world-news/israeli-arabs-seek-record-turnout-to-oust-netanyahu-in-tightly-fought-vote-126101800734_1.html",
     "event_codes": {
-      "19": 5,
-      "17": 2,
-      "16": 1
+      "19": 9,
+      "14": 4,
+      "17": 3,
+      "18": 1
     },
     "keywords": [
+      "world",
       "news",
-      "trump",
-      "endorses",
-      "israel",
-      "prime",
-      "minister",
-      "benjamin",
+      "israeli",
+      "arabs",
+      "seek",
+      "record",
+      "turnout",
+      "oust",
       "netanyahu",
-      "reelection"
+      "tightly",
+      "fought",
+      "vote",
+      "126101800734",
+      "1.html"
     ]
   },
-  "MMR": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.thehindu.com/news/national/manipur/kuki-group-announces-shutdown-of-key-manipur-highway-after-attacks-on-villages/article71600255.ece",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "national",
-      "manipur",
-      "kuki",
-      "group",
-      "announces",
-      "shutdown",
-      "key",
-      "manipur",
-      "highway",
-      "after",
-      "attacks",
-      "villages",
-      "article71600255.ece"
-    ]
-  },
-  "YEM": {
+  "QAT": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225",
+    "top_news": "https://www.newindianexpress.com/opinion/2026/Oct/18/a-region-that-can-no-longer-afford-endless-conflict",
     "event_codes": {
       "19": 2
     },
     "keywords": [
+      "opinion",
+      "2026",
+      "oct",
+      "region",
+      "that",
+      "can",
+      "longer",
+      "afford",
+      "endless",
+      "conflict"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.newindianexpress.com/world/2026/Oct/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "oct",
+      "egypts",
+      "top",
+      "security",
+      "body",
+      "agrees",
+      "help",
       "saudi",
       "arabia",
-      "sends",
-      "skyscraper",
-      "employees",
-      "home",
-      "amid",
+      "defend",
+      "itself",
+      "against",
       "houthi",
-      "threats",
-      "79693225"
+      "attacks"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "egypts",
+      "top",
+      "security",
+      "body",
+      "agrees",
+      "help",
+      "saudi",
+      "arabia",
+      "defend",
+      "itself",
+      "against",
+      "houthi",
+      "attacks"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.mcall.com/2026/10/18/police-investigating-early-sunday-shooting-in-salisbury-township/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "2026",
+      "police",
+      "investigating",
+      "early",
+      "sunday",
+      "shooting",
+      "salisbury",
+      "township"
     ]
   }
 }
