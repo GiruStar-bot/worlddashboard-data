@@ -1,140 +1,75 @@
 {
-  "IRN": {
-    "risk_score": 6.15,
-    "count": 7,
-    "top_news": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections",
-    "event_codes": {
-      "19": 4,
-      "16": 1,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "trump",
-      "endorses",
-      "netanyahu",
-      "israeli",
-      "legislative",
-      "elections"
-    ]
-  },
   "ISR": {
-    "risk_score": 14.42,
-    "count": 17,
-    "top_news": "https://www.business-standard.com/world-news/israeli-arabs-seek-record-turnout-to-oust-netanyahu-in-tightly-fought-vote-126101800734_1.html",
+    "risk_score": 19.2,
+    "count": 22,
+    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-netanyahu-israel-election-truth-social-b3068824.html",
     "event_codes": {
-      "19": 9,
-      "14": 4,
-      "17": 3,
+      "19": 12,
+      "17": 6,
+      "20": 3,
       "18": 1
     },
     "keywords": [
-      "world",
       "news",
-      "israeli",
-      "arabs",
-      "seek",
-      "record",
-      "turnout",
-      "oust",
+      "world",
+      "americas",
+      "politics",
+      "trump",
       "netanyahu",
-      "tightly",
-      "fought",
-      "vote",
-      "126101800734",
-      "1.html"
+      "israel",
+      "election",
+      "truth",
+      "social",
+      "b3068824.html"
     ]
   },
-  "QAT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.newindianexpress.com/opinion/2026/Oct/18/a-region-that-can-no-longer-afford-endless-conflict",
+  "NGA": {
+    "risk_score": 2.45,
+    "count": 4,
+    "top_news": "https://promptnewsonline.com/in-defence-of-tradition-yoruba-commonwealth-convention-and-social-system-since-1900-by-prof-k-j-onipede/",
     "event_codes": {
-      "19": 2
+      "16": 2,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "opinion",
-      "2026",
-      "oct",
-      "region",
-      "that",
-      "can",
-      "longer",
-      "afford",
-      "endless",
-      "conflict"
+      "defence",
+      "tradition",
+      "yoruba",
+      "commonwealth",
+      "convention",
+      "and",
+      "social",
+      "system",
+      "since",
+      "1900",
+      "prof",
+      "onipede"
     ]
   },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.newindianexpress.com/world/2026/Oct/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "2026",
-      "oct",
-      "egypts",
-      "top",
-      "security",
-      "body",
-      "agrees",
-      "help",
-      "saudi",
-      "arabia",
-      "defend",
-      "itself",
-      "against",
-      "houthi",
-      "attacks"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.85,
+  "PSE": {
+    "risk_score": 5.0,
     "count": 5,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+    "top_news": "https://english.wafa.ps/Pages/Details/176033",
     "event_codes": {
-      "19": 4,
-      "18": 1
+      "19": 5
     },
     "keywords": [
-      "world",
-      "2026",
-      "egypts",
-      "top",
-      "security",
-      "body",
-      "agrees",
-      "help",
-      "saudi",
-      "arabia",
-      "defend",
-      "itself",
-      "against",
-      "houthi",
-      "attacks"
+      "pages",
+      "details",
+      "176033"
     ]
   },
-  "ZWE": {
+  "SYR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.mcall.com/2026/10/18/police-investigating-early-sunday-shooting-in-salisbury-township/",
+    "top_news": "https://sana.sy/en/syria/2351931/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "2026",
-      "police",
-      "investigating",
-      "early",
-      "sunday",
-      "shooting",
-      "salisbury",
-      "township"
+      "syria",
+      "2351931"
     ]
   }
 }
