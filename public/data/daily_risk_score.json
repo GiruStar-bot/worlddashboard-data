@@ -2,41 +2,140 @@
   "IRN": {
     "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.okaz.com.sa/politics/na/2271191",
+    "top_news": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help",
     "event_codes": {
       "19": 4
     },
     "keywords": [
-      "politics",
-      "2271191"
+      "news",
+      "2026",
+      "saudi",
+      "led",
+      "coalition",
+      "intercepts",
+      "drones",
+      "egypt",
+      "weighs",
+      "sending",
+      "help"
     ]
   },
   "ISR": {
-    "risk_score": 2.3,
-    "count": 4,
-    "top_news": "https://ksevradio.com/the-media-line-palestinian-authors-withdraw-childrens-history-book-from-penguin-random-house-over-editorial-dispute/",
+    "risk_score": 13.95,
+    "count": 16,
+    "top_news": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack",
     "event_codes": {
-      "17": 2,
-      "16": 1,
+      "18": 8,
+      "19": 5,
+      "17": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "ambassador",
+      "calls",
+      "israel",
+      "prosecute",
+      "settlers",
+      "over",
+      "journalist",
+      "attack"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.95,
+    "count": 6,
+    "top_news": "https://www.freemalaysiatoday.com/category/opinion/2026/10/18/the-challenge-in-making-the-national-language-a-vessel-for-unity",
+    "event_codes": {
+      "17": 3,
+      "16": 2,
+      "14": 1
+    },
+    "keywords": [
+      "category",
+      "opinion",
+      "2026",
+      "the",
+      "challenge",
+      "making",
+      "the",
+      "national",
+      "language",
+      "vessel",
+      "for",
+      "unity"
+    ]
+  },
+  "PSE": {
+    "risk_score": 2.9,
+    "count": 3,
+    "top_news": "https://themedialine.org/headlines/netanyahu-questions-reports-of-settler-attack-on-european-diplomats-despite-idf-condemnation/",
+    "event_codes": {
+      "19": 2,
       "18": 1
     },
     "keywords": [
+      "headlines",
+      "netanyahu",
+      "questions",
+      "reports",
+      "settler",
+      "attack",
+      "european",
+      "diplomats",
+      "despite",
+      "idf",
+      "condemnation"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "saudi",
+      "led",
+      "coalition",
+      "intercepts",
+      "drones",
+      "egypt",
+      "weighs",
+      "sending",
+      "help"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.2news.com/news/world/diplomats-attacked-in-the-occupied-west-bank-and-other-middle-east-developments/article_c966f974-5c3a-591f-87bd-b22e87d4191b.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "diplomats",
+      "attacked",
       "the",
-      "media",
-      "line",
-      "palestinian",
-      "authors",
-      "withdraw",
-      "childrens",
-      "history",
-      "book",
-      "from",
-      "penguin",
-      "random",
-      "house",
-      "over",
-      "editorial",
-      "dispute"
+      "occupied",
+      "west",
+      "bank",
+      "and",
+      "other",
+      "middle",
+      "east",
+      "developments",
+      "article",
+      "c966f974",
+      "5c3a",
+      "591f",
+      "87bd",
+      "b22e87d4191b.html"
     ]
   }
 }
