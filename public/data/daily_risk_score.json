@@ -1,75 +1,61 @@
 {
-  "ISR": {
-    "risk_score": 19.2,
-    "count": 22,
-    "top_news": "https://www.independent.co.uk/news/world/americas/us-politics/trump-netanyahu-israel-election-truth-social-b3068824.html",
+  "IRN": {
+    "risk_score": 2.95,
+    "count": 3,
+    "top_news": "https://www.dailyexcelsior.com/iran-parliament-approves-mehrdad-akhlaqi-as-defence-minister-warns-of-broad-response-to-us-israeli-attack/",
     "event_codes": {
-      "19": 12,
-      "17": 6,
-      "20": 3,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "news",
-      "world",
-      "americas",
-      "politics",
-      "trump",
-      "netanyahu",
-      "israel",
-      "election",
-      "truth",
-      "social",
-      "b3068824.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 2.45,
-    "count": 4,
-    "top_news": "https://promptnewsonline.com/in-defence-of-tradition-yoruba-commonwealth-convention-and-social-system-since-1900-by-prof-k-j-onipede/",
-    "event_codes": {
-      "16": 2,
-      "14": 1,
-      "19": 1
-    },
-    "keywords": [
+      "iran",
+      "parliament",
+      "approves",
+      "mehrdad",
+      "akhlaqi",
       "defence",
-      "tradition",
-      "yoruba",
-      "commonwealth",
-      "convention",
-      "and",
-      "social",
-      "system",
-      "since",
-      "1900",
-      "prof",
-      "onipede"
+      "minister",
+      "warns",
+      "broad",
+      "response",
+      "israeli",
+      "attack"
     ]
   },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://english.wafa.ps/Pages/Details/176033",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "pages",
-      "details",
-      "176033"
-    ]
-  },
-  "SYR": {
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://sana.sy/en/syria/2351931/",
+    "top_news": "https://www.freemalaysiatoday.com/category/highlight/2026/10/19/trump-backs-ally-netanyahu-ahead-of-israel-s-tight-election",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "syria",
-      "2351931"
+      "category",
+      "highlight",
+      "2026",
+      "trump",
+      "backs",
+      "ally",
+      "netanyahu",
+      "ahead",
+      "israel",
+      "tight",
+      "election"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.65,
+    "count": 7,
+    "top_news": "https://www.amnesty.org.au/write-for-rights-turns-25/",
+    "event_codes": {
+      "17": 4,
+      "19": 2,
+      "14": 1
+    },
+    "keywords": [
+      "write",
+      "for",
+      "rights",
+      "turns"
     ]
   }
 }
