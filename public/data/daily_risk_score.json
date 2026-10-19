@@ -1,59 +1,63 @@
 {
-  "IRN": {
+  "ISR": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.justiceinfo.net/en/167550-netanyahu-basks-in-trump-endorsement-week-before-election.html",
+    "top_news": "https://wrp.org.uk/features/iran-offers-7-day-plan-to-reopen-strait-of-hormuz/",
     "event_codes": {
-      "19": 3
+      "18": 3
     },
     "keywords": [
-      "167550",
-      "netanyahu",
-      "basks",
-      "trump",
-      "endorsement",
-      "week",
-      "before",
-      "election.html"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.vanguardngr.com/2026/10/naf-airstrike-kills-iswap-leaders-in-lake-chad/",
-    "event_codes": {
-      "19": 3,
-      "14": 2
-    },
-    "keywords": [
-      "2026",
-      "naf",
-      "airstrike",
-      "kills",
-      "iswap",
-      "leaders",
-      "lake",
-      "chad"
+      "features",
+      "iran",
+      "offers",
+      "day",
+      "plan",
+      "reopen",
+      "strait",
+      "hormuz"
     ]
   },
   "SAU": {
-    "risk_score": 3.5,
-    "count": 5,
-    "top_news": "https://www.crookwellgazette.com.au/story/9371525/houthi-rebels-strike-yemeni-govt-forces-killing-53/",
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://econotimes.com/Pakistan-Says-Support-for-Saudi-Arabia-Will-Continue-Calls-Pact-Defensive-1757056",
     "event_codes": {
-      "17": 3,
       "19": 2
     },
     "keywords": [
-      "story",
-      "9371525",
-      "houthi",
-      "rebels",
+      "pakistan",
+      "says",
+      "support",
+      "for",
+      "saudi",
+      "arabia",
+      "will",
+      "continue",
+      "calls",
+      "pact",
+      "defensive",
+      "1757056"
+    ]
+  },
+  "SGP": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://econotimes.com/Singapore-Container-Ship-Sinks-After-Reported-Strike-in-Strait-of-Hormuz-1757054",
+    "event_codes": {
+      "17": 2,
+      "19": 1
+    },
+    "keywords": [
+      "singapore",
+      "container",
+      "ship",
+      "sinks",
+      "after",
+      "reported",
       "strike",
-      "yemeni",
-      "govt",
-      "forces",
-      "killing"
+      "strait",
+      "hormuz",
+      "1757054"
     ]
   }
 }
