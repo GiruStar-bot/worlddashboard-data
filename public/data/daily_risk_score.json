@@ -1,109 +1,116 @@
 {
-  "IRQ": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-646",
+  "COD": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://english.news.cn/africa/20261020/a562c4e83f91493f90eacb8a41e314b1/c.html",
     "event_codes": {
-      "19": 2
+      "19": 4
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "morning",
-      "update",
-      "646"
+      "africa",
+      "20261020",
+      "a562c4e83f91493f90eacb8a41e314b1",
+      "c.html"
+    ]
+  },
+  "IRN": {
+    "risk_score": 5.22,
+    "count": 6,
+    "top_news": "https://www.dailysabah.com/world/mid-east/tehran-reportedly-shoots-down-us-mq-9-reaper-drone-over-hormuz",
+    "event_codes": {
+      "19": 4,
+      "15": 1,
+      "17": 1
+    },
+    "keywords": [
+      "world",
+      "mid",
+      "east",
+      "tehran",
+      "reportedly",
+      "shoots",
+      "down",
+      "reaper",
+      "drone",
+      "over",
+      "hormuz"
     ]
   },
   "ISR": {
-    "risk_score": 2.72,
-    "count": 5,
-    "top_news": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-civilian-detained-israeli-army-released",
+    "risk_score": 12.91,
+    "count": 16,
+    "top_news": "https://english.news.cn/20261020/db7fc8e243ce4393ba0ca8c27fa877ba/c.html",
     "event_codes": {
-      "17": 4,
-      "15": 1
+      "16": 4,
+      "18": 4,
+      "19": 4,
+      "15": 3,
+      "17": 1
     },
     "keywords": [
-      "live",
-      "blog",
-      "live",
-      "blog",
-      "update",
-      "syrian",
-      "civilian",
-      "detained",
-      "israeli",
-      "army",
-      "released"
+      "20261020",
+      "db7fc8e243ce4393ba0ca8c27fa877ba",
+      "c.html"
     ]
   },
-  "MYS": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.smartcompany.com.au/retail/bellroy-reveals-plans-20-stores-australian-accessories-brand-goes-global-physical-retail/",
-    "event_codes": {
-      "19": 2,
-      "17": 1,
-      "18": 1
-    },
-    "keywords": [
-      "retail",
-      "bellroy",
-      "reveals",
-      "plans",
-      "stores",
-      "australian",
-      "accessories",
-      "brand",
-      "goes",
-      "global",
-      "physical",
-      "retail"
-    ]
-  },
-  "NGA": {
+  "SAU": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.timeslive.co.za/news/south-africa/2026-10-20-elizabeth-tsontso-moselakgomos-case-five-things-that-came-out-of-court-on-monday/",
+    "top_news": "https://economictimes.indiatimes.com/news/defence/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/articleshow/135069873.cms",
     "event_codes": {
       "19": 2
     },
     "keywords": [
       "news",
-      "south",
-      "africa",
-      "2026",
-      "elizabeth",
-      "tsontso",
-      "moselakgomos",
-      "case",
-      "five",
-      "things",
-      "that",
-      "came",
-      "out",
-      "court",
-      "monday"
+      "defence",
+      "death",
+      "toll",
+      "rises",
+      "houthi",
+      "strike",
+      "yemen",
+      "training",
+      "camp",
+      "deadliest",
+      "attack",
+      "months",
+      "articleshow",
+      "135069873.cms"
     ]
   },
-  "SAU": {
-    "risk_score": 4.95,
-    "count": 5,
-    "top_news": "https://www.advocate-news.com/2026/10/19/saudi-arabia-israel-iran-mideast-news/",
+  "TUR": {
+    "risk_score": 6.16,
+    "count": 7,
+    "top_news": "https://www.hurriyetdailynews.com/turkiye-belgium-revive-ministerial-talks-in-brussels-228390",
     "event_codes": {
-      "18": 3,
-      "19": 2
+      "19": 4,
+      "15": 3
+    },
+    "keywords": [
+      "turkiye",
+      "belgium",
+      "revive",
+      "ministerial",
+      "talks",
+      "brussels",
+      "228390"
+    ]
+  },
+  "YEM": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+    "event_codes": {
+      "19": 7
     },
     "keywords": [
       "2026",
+      "fighter",
+      "jets",
       "saudi",
-      "arabia",
-      "israel",
-      "iran",
-      "mideast",
-      "news"
+      "houthi",
+      "attacks",
+      "iran.html"
     ]
   }
 }
