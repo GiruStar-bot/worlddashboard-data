@@ -1,67 +1,58 @@
 {
   "IRN": {
     "risk_score": 3.0,
-    "count": 4,
-    "top_news": "https://news3lv.com/news/nation-world/vance-refuses-to-endorse-netanyahu-for-reelection-says-his-focus-is-the-midterms-viktor-orban-donald-trump-israeli",
+    "count": 3,
+    "top_news": "https://punchng.com/crude-hits-111-as-iea-warns-of-prolonged-crisis/",
     "event_codes": {
-      "17": 2,
+      "19": 3
+    },
+    "keywords": [
+      "crude",
+      "hits",
+      "111",
+      "iea",
+      "warns",
+      "prolonged",
+      "crisis"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://punchng.com/ebola-hits-nigeria-44-contacts-under-surveillance/",
+    "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
-      "nation",
-      "world",
-      "vance",
-      "refuses",
-      "endorse",
-      "netanyahu",
-      "for",
-      "reelection",
-      "says",
-      "his",
-      "focus",
-      "the",
-      "midterms",
-      "viktor",
-      "orban",
-      "donald",
-      "trump",
-      "israeli"
-    ]
-  },
-  "ISR": {
-    "risk_score": 7.02,
-    "count": 10,
-    "top_news": "https://www.israelnationalnews.com/news/434917",
-    "event_codes": {
-      "17": 5,
-      "19": 3,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "news",
-      "434917"
+      "ebola",
+      "hits",
+      "nigeria",
+      "contacts",
+      "under",
+      "surveillance"
     ]
   },
   "NGA": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://hallmarknews.com/dele-giwa-nge-demands-fresh-probe-40-years-after-journalists-murder/",
+    "risk_score": 5.77,
+    "count": 7,
+    "top_news": "https://punchng.com/gunmen-kill-nscdc-officer-flee-with-abducted-plateau-businessman/",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "14": 1,
+      "15": 1,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "dele",
-      "giwa",
-      "nge",
-      "demands",
-      "fresh",
-      "probe",
-      "years",
-      "after",
-      "journalists",
-      "murder"
+      "gunmen",
+      "kill",
+      "nscdc",
+      "officer",
+      "flee",
+      "with",
+      "abducted",
+      "plateau",
+      "businessman"
     ]
   }
 }
