@@ -1,121 +1,101 @@
 {
-  "IDN": {
-    "risk_score": 6.2,
-    "count": 9,
-    "top_news": "https://www.arabnews.com/world/indonesias-wildfire-crisis-sparks-nationwide-anti-government-protests-3007510",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/florida-mayor-arrested-over-relief-grants-jackie-espinosa/",
     "event_codes": {
-      "14": 8,
-      "19": 1
+      "17": 4
     },
     "keywords": [
-      "world",
-      "indonesias",
-      "wildfire",
-      "crisis",
-      "sparks",
-      "nationwide",
-      "anti",
-      "government",
-      "protests",
-      "3007510"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.6,
-    "count": 7,
-    "top_news": "https://cyprus-mail.com/2026/10/21/6000-seafarers-trapped-as-attacks-deepen-strait-of-hormuz-shipping-crisis",
-    "event_codes": {
-      "18": 4,
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "2026",
-      "6000",
-      "seafarers",
-      "trapped",
-      "attacks",
-      "deepen",
-      "strait",
-      "hormuz",
-      "shipping",
-      "crisis"
+      "florida",
+      "mayor",
+      "arrested",
+      "over",
+      "relief",
+      "grants",
+      "jackie",
+      "espinosa"
     ]
   },
   "ISR": {
-    "risk_score": 22.95,
-    "count": 33,
-    "top_news": "http://www.jpost.com/international/article-912429",
+    "risk_score": 3.8,
+    "count": 4,
+    "top_news": "https://www.wdsu.com/article/israel-brad-lander-congress-west-bank-olive-harvest/74206453",
     "event_codes": {
-      "17": 21,
-      "19": 8,
-      "18": 4
+      "18": 2,
+      "19": 2
     },
     "keywords": [
-      "international",
       "article",
-      "912429"
+      "israel",
+      "brad",
+      "lander",
+      "congress",
+      "west",
+      "bank",
+      "olive",
+      "harvest",
+      "74206453"
     ]
   },
-  "PSE": {
-    "risk_score": 4.0,
-    "count": 7,
-    "top_news": "https://www.middleeastmonitor.com/20261021-when-israeli-jewish-mob-terror-makes-western-headlines/",
+  "NGA": {
+    "risk_score": 7.85,
+    "count": 9,
+    "top_news": "https://www.premiumtimesng.com/regional/north-central/918948-kidnappers-kill-seven-year-old-boy-after-demanding-%E2%82%A62-5m-ransom.html",
     "event_codes": {
-      "17": 6,
-      "19": 1
-    },
-    "keywords": [
-      "20261021",
-      "when",
-      "israeli",
-      "jewish",
-      "mob",
-      "terror",
-      "makes",
-      "western",
-      "headlines"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://bdnews24.com/world/keunxeahb2",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "world",
-      "keunxeahb2"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.9,
-    "count": 6,
-    "top_news": "https://www.bankingnews.gr/diethni/articles/906347/turkey-510-billion-liras-vanish-into-thin-air-fund-withdrawal-blockade-and-arrests-of-top-executives",
-    "event_codes": {
-      "17": 5,
+      "18": 5,
+      "19": 3,
       "16": 1
     },
     "keywords": [
-      "diethni",
-      "articles",
-      "906347",
-      "turkey",
-      "510",
-      "billion",
-      "liras",
-      "vanish",
-      "into",
-      "thin",
-      "air",
-      "fund",
-      "withdrawal",
-      "blockade",
-      "and",
-      "arrests",
-      "top",
-      "executives"
+      "regional",
+      "north",
+      "central",
+      "918948",
+      "kidnappers",
+      "kill",
+      "seven",
+      "year",
+      "old",
+      "boy",
+      "after",
+      "demanding",
+      "%e2%82%a62",
+      "ransom.html"
+    ]
+  },
+  "SAU": {
+    "risk_score": 3.55,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/el-salvador-geopolitics-explained-2026/",
+    "event_codes": {
+      "19": 2,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "salvador",
+      "geopolitics",
+      "explained",
+      "2026"
+    ]
+  },
+  "SDN": {
+    "risk_score": 7.0,
+    "count": 7,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/unicef-condemns-killing-of-12-children-in-sudan",
+    "event_codes": {
+      "19": 7
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "unicef",
+      "condemns",
+      "killing",
+      "children",
+      "sudan"
     ]
   }
 }
