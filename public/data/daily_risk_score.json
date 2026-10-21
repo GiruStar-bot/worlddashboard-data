@@ -1,54 +1,121 @@
 {
-  "LAO": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.sunstar.com.ph/manila/cidg-nears-completion-of-case-build-up-on-laos-drug-shipment",
+  "IDN": {
+    "risk_score": 6.2,
+    "count": 9,
+    "top_news": "https://www.arabnews.com/world/indonesias-wildfire-crisis-sparks-nationwide-anti-government-protests-3007510",
     "event_codes": {
-      "17": 4
+      "14": 8,
+      "19": 1
     },
     "keywords": [
-      "manila",
-      "cidg",
-      "nears",
-      "completion",
-      "case",
-      "build",
-      "laos",
-      "drug",
-      "shipment"
+      "world",
+      "indonesias",
+      "wildfire",
+      "crisis",
+      "sparks",
+      "nationwide",
+      "anti",
+      "government",
+      "protests",
+      "3007510"
     ]
   },
-  "MYS": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://www.sunstar.com.ph/manila/cidg-nears-completion-of-case-build-up-on-laos-drug-shipment",
+  "IRN": {
+    "risk_score": 5.6,
+    "count": 7,
+    "top_news": "https://cyprus-mail.com/2026/10/21/6000-seafarers-trapped-as-attacks-deepen-strait-of-hormuz-shipping-crisis",
     "event_codes": {
-      "17": 5
+      "18": 4,
+      "17": 2,
+      "19": 1
     },
     "keywords": [
-      "manila",
-      "cidg",
-      "nears",
-      "completion",
-      "case",
-      "build",
-      "laos",
-      "drug",
-      "shipment"
+      "2026",
+      "6000",
+      "seafarers",
+      "trapped",
+      "attacks",
+      "deepen",
+      "strait",
+      "hormuz",
+      "shipping",
+      "crisis"
     ]
   },
-  "YEM": {
+  "ISR": {
+    "risk_score": 22.95,
+    "count": 33,
+    "top_news": "http://www.jpost.com/international/article-912429",
+    "event_codes": {
+      "17": 21,
+      "19": 8,
+      "18": 4
+    },
+    "keywords": [
+      "international",
+      "article",
+      "912429"
+    ]
+  },
+  "PSE": {
+    "risk_score": 4.0,
+    "count": 7,
+    "top_news": "https://www.middleeastmonitor.com/20261021-when-israeli-jewish-mob-terror-makes-western-headlines/",
+    "event_codes": {
+      "17": 6,
+      "19": 1
+    },
+    "keywords": [
+      "20261021",
+      "when",
+      "israeli",
+      "jewish",
+      "mob",
+      "terror",
+      "makes",
+      "western",
+      "headlines"
+    ]
+  },
+  "SAU": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.ynetnews.com/opinions-analysis/article/hjwjmab2fe",
+    "top_news": "https://bdnews24.com/world/keunxeahb2",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "opinions",
-      "analysis",
-      "article",
-      "hjwjmab2fe"
+      "world",
+      "keunxeahb2"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.9,
+    "count": 6,
+    "top_news": "https://www.bankingnews.gr/diethni/articles/906347/turkey-510-billion-liras-vanish-into-thin-air-fund-withdrawal-blockade-and-arrests-of-top-executives",
+    "event_codes": {
+      "17": 5,
+      "16": 1
+    },
+    "keywords": [
+      "diethni",
+      "articles",
+      "906347",
+      "turkey",
+      "510",
+      "billion",
+      "liras",
+      "vanish",
+      "into",
+      "thin",
+      "air",
+      "fund",
+      "withdrawal",
+      "blockade",
+      "and",
+      "arrests",
+      "top",
+      "executives"
     ]
   }
 }
