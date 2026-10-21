@@ -1,101 +1,78 @@
 {
-  "BRA": {
+  "COL": {
     "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.riotimesonline.com/florida-mayor-arrested-over-relief-grants-jackie-espinosa/",
+    "count": 2,
+    "top_news": "http://www.thegazette.com/news/world/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/article_eaa44417-1f50-5883-b8b9-ef76398d50f0.html",
     "event_codes": {
-      "17": 4
-    },
-    "keywords": [
-      "florida",
-      "mayor",
-      "arrested",
-      "over",
-      "relief",
-      "grants",
-      "jackie",
-      "espinosa"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.8,
-    "count": 4,
-    "top_news": "https://www.wdsu.com/article/israel-brad-lander-congress-west-bank-olive-harvest/74206453",
-    "event_codes": {
-      "18": 2,
       "19": 2
     },
     "keywords": [
+      "news",
+      "world",
+      "trump",
+      "allied",
+      "colombian",
+      "president",
+      "removes",
+      "art",
+      "exhibits",
+      "deems",
+      "communist",
+      "sparking",
+      "protests",
       "article",
-      "israel",
-      "brad",
-      "lander",
-      "congress",
-      "west",
-      "bank",
-      "olive",
-      "harvest",
-      "74206453"
+      "eaa44417",
+      "1f50",
+      "5883",
+      "b8b9",
+      "ef76398d50f0.html"
     ]
   },
-  "NGA": {
-    "risk_score": 7.85,
-    "count": 9,
-    "top_news": "https://www.premiumtimesng.com/regional/north-central/918948-kidnappers-kill-seven-year-old-boy-after-demanding-%E2%82%A62-5m-ransom.html",
+  "ISR": {
+    "risk_score": 5.3,
+    "count": 8,
+    "top_news": "https://www.abc.net.au/news/2026-10-22/former-hostage-daniella-gilboa-reflects-bondi-jewish-solidarity/107259066",
     "event_codes": {
-      "18": 5,
-      "19": 3,
-      "16": 1
+      "17": 5,
+      "18": 2,
+      "19": 1
     },
     "keywords": [
-      "regional",
-      "north",
-      "central",
-      "918948",
-      "kidnappers",
-      "kill",
-      "seven",
-      "year",
-      "old",
-      "boy",
-      "after",
-      "demanding",
-      "%e2%82%a62",
-      "ransom.html"
+      "news",
+      "2026",
+      "former",
+      "hostage",
+      "daniella",
+      "gilboa",
+      "reflects",
+      "bondi",
+      "jewish",
+      "solidarity",
+      "107259066"
     ]
   },
   "SAU": {
-    "risk_score": 3.55,
+    "risk_score": 3.45,
     "count": 4,
-    "top_news": "https://www.riotimesonline.com/el-salvador-geopolitics-explained-2026/",
+    "top_news": "https://pakobserver.net/pakistani-injured-2-killed-as-saudi-defences-shot-down-drone-near-shaybah-aramco-facility/",
     "event_codes": {
       "19": 2,
-      "14": 1,
+      "17": 1,
       "18": 1
     },
     "keywords": [
-      "salvador",
-      "geopolitics",
-      "explained",
-      "2026"
-    ]
-  },
-  "SDN": {
-    "risk_score": 7.0,
-    "count": 7,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/unicef-condemns-killing-of-12-children-in-sudan",
-    "event_codes": {
-      "19": 7
-    },
-    "keywords": [
-      "all",
-      "news",
-      "article",
-      "unicef",
-      "condemns",
-      "killing",
-      "children",
-      "sudan"
+      "pakistani",
+      "injured",
+      "killed",
+      "saudi",
+      "defences",
+      "shot",
+      "down",
+      "drone",
+      "near",
+      "shaybah",
+      "aramco",
+      "facility"
     ]
   }
 }
