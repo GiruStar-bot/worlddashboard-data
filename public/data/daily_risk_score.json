@@ -1,73 +1,54 @@
 {
-  "LBN": {
+  "LAO": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://local12.com/news/local/crash-seriously-injures-11-year-old-e-scooter-warren-county-electric-vehicle-crashed-wreck-aircare-cincinnati-childrens-hospital-miller-road-lebanon-investigation",
+    "count": 4,
+    "top_news": "https://www.sunstar.com.ph/manila/cidg-nears-completion-of-case-build-up-on-laos-drug-shipment",
     "event_codes": {
-      "19": 2
+      "17": 4
     },
     "keywords": [
-      "news",
-      "local",
-      "crash",
-      "seriously",
-      "injures",
-      "year",
-      "old",
-      "scooter",
-      "warren",
-      "county",
-      "electric",
-      "vehicle",
-      "crashed",
-      "wreck",
-      "aircare",
-      "cincinnati",
-      "childrens",
-      "hospital",
-      "miller",
-      "road",
-      "lebanon",
-      "investigation"
+      "manila",
+      "cidg",
+      "nears",
+      "completion",
+      "case",
+      "build",
+      "laos",
+      "drug",
+      "shipment"
     ]
   },
-  "SDN": {
+  "MYS": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://www.sunstar.com.ph/manila/cidg-nears-completion-of-case-build-up-on-laos-drug-shipment",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "manila",
+      "cidg",
+      "nears",
+      "completion",
+      "case",
+      "build",
+      "laos",
+      "drug",
+      "shipment"
+    ]
+  },
+  "YEM": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/articleshow/135079376.cms",
+    "top_news": "https://www.ynetnews.com/opinions-analysis/article/hjwjmab2fe",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "news",
-      "international",
-      "world",
-      "news",
-      "drone",
-      "strike",
-      "market",
-      "disputed",
-      "african",
-      "region",
-      "abyei",
-      "kills",
-      "least",
-      "153",
-      "articleshow",
-      "135079376.cms"
-    ]
-  },
-  "YEM": {
-    "risk_score": 4.8,
-    "count": 5,
-    "top_news": "http://global.chinadaily.com.cn/a/202610/21/WS6ad81580e4b06d4aa0563e99.html",
-    "event_codes": {
-      "18": 4,
-      "19": 1
-    },
-    "keywords": [
-      "202610",
-      "ws6ad81580e4b06d4aa0563e99.html"
+      "opinions",
+      "analysis",
+      "article",
+      "hjwjmab2fe"
     ]
   }
 }
