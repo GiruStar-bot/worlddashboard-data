@@ -1,58 +1,73 @@
 {
-  "IRN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://punchng.com/crude-hits-111-as-iea-warns-of-prolonged-crisis/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "crude",
-      "hits",
-      "111",
-      "iea",
-      "warns",
-      "prolonged",
-      "crisis"
-    ]
-  },
-  "KEN": {
+  "LBN": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://punchng.com/ebola-hits-nigeria-44-contacts-under-surveillance/",
+    "top_news": "https://local12.com/news/local/crash-seriously-injures-11-year-old-e-scooter-warren-county-electric-vehicle-crashed-wreck-aircare-cincinnati-childrens-hospital-miller-road-lebanon-investigation",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "ebola",
-      "hits",
-      "nigeria",
-      "contacts",
-      "under",
-      "surveillance"
+      "news",
+      "local",
+      "crash",
+      "seriously",
+      "injures",
+      "year",
+      "old",
+      "scooter",
+      "warren",
+      "county",
+      "electric",
+      "vehicle",
+      "crashed",
+      "wreck",
+      "aircare",
+      "cincinnati",
+      "childrens",
+      "hospital",
+      "miller",
+      "road",
+      "lebanon",
+      "investigation"
     ]
   },
-  "NGA": {
-    "risk_score": 5.77,
-    "count": 7,
-    "top_news": "https://punchng.com/gunmen-kill-nscdc-officer-flee-with-abducted-plateau-businessman/",
+  "SDN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://economictimes.indiatimes.com/news/international/world-news/drone-strike-on-a-market-in-disputed-african-region-of-abyei-kills-at-least-153/articleshow/135079376.cms",
     "event_codes": {
-      "19": 3,
-      "14": 1,
-      "15": 1,
-      "17": 1,
-      "18": 1
+      "19": 3
     },
     "keywords": [
-      "gunmen",
-      "kill",
-      "nscdc",
-      "officer",
-      "flee",
-      "with",
-      "abducted",
-      "plateau",
-      "businessman"
+      "news",
+      "international",
+      "world",
+      "news",
+      "drone",
+      "strike",
+      "market",
+      "disputed",
+      "african",
+      "region",
+      "abyei",
+      "kills",
+      "least",
+      "153",
+      "articleshow",
+      "135079376.cms"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.8,
+    "count": 5,
+    "top_news": "http://global.chinadaily.com.cn/a/202610/21/WS6ad81580e4b06d4aa0563e99.html",
+    "event_codes": {
+      "18": 4,
+      "19": 1
+    },
+    "keywords": [
+      "202610",
+      "ws6ad81580e4b06d4aa0563e99.html"
     ]
   }
 }
