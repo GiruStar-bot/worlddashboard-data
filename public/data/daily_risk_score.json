@@ -1,95 +1,85 @@
 {
-  "COL": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.stardem.com/ap/world/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/article_eabe3726-0d4c-57a4-b498-8c5b5702875a.html",
+  "IDN": {
+    "risk_score": 3.57,
+    "count": 4,
+    "top_news": "http://www.thejakartapost.com/opinion/2026/10/22/can-minister-arrmanatha-make-foreign-ministry-great-again",
     "event_codes": {
-      "19": 2
+      "19": 3,
+      "15": 1
     },
     "keywords": [
-      "world",
-      "trump",
-      "allied",
-      "colombian",
-      "president",
-      "removes",
-      "art",
-      "exhibits",
-      "deems",
-      "communist",
-      "sparking",
-      "protests",
-      "article",
-      "eabe3726",
-      "0d4c",
-      "57a4",
-      "b498",
-      "8c5b5702875a.html"
+      "opinion",
+      "2026",
+      "can",
+      "minister",
+      "arrmanatha",
+      "make",
+      "foreign",
+      "ministry",
+      "great",
+      "again"
     ]
   },
-  "IRN": {
-    "risk_score": 4.22,
-    "count": 6,
-    "top_news": "https://www.knopnews2.com/2026/10/21/earlier-timeline-announced-midterm-rally-featuring-jd-vance-north-platte-thursday/",
+  "KEN": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.the-star.co.ke/counties/rift-valley/2026-10-22-governor-guyo-calls-for-an-end-to-banditry-and-cattle-rustlin",
     "event_codes": {
-      "17": 3,
+      "19": 4
+    },
+    "keywords": [
+      "counties",
+      "rift",
+      "valley",
+      "2026",
+      "governor",
+      "guyo",
+      "calls",
+      "for",
+      "end",
+      "banditry",
+      "and",
+      "cattle",
+      "rustlin"
+    ]
+  },
+  "THA": {
+    "risk_score": 3.0,
+    "count": 6,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3341544/chinese-fugitives-toddler-registered-as-thai-child-of-fake-father",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "thailand",
+      "general",
+      "3341544",
+      "chinese",
+      "fugitives",
+      "toddler",
+      "registered",
+      "thai",
+      "child",
+      "fake",
+      "father"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.72,
+    "count": 3,
+    "top_news": "https://spacewar.com/world-leaders-hail-real-progress-in-syria-999/",
+    "event_codes": {
       "19": 2,
       "15": 1
     },
     "keywords": [
-      "2026",
-      "earlier",
-      "timeline",
-      "announced",
-      "midterm",
-      "rally",
-      "featuring",
-      "vance",
-      "north",
-      "platte",
-      "thursday"
-    ]
-  },
-  "SAU": {
-    "risk_score": 3.2,
-    "count": 5,
-    "top_news": "https://sana.sy/en/middle-east/2352801/",
-    "event_codes": {
-      "16": 3,
-      "19": 2
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "2352801"
-    ]
-  },
-  "YEM": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.2news.com/news/world/saudi-capitals-airport-reopens-to-limited-traffic-and-other-mideast-news/article_7808efa8-31e5-5709-83c2-260bed1f23dc.html",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "news",
       "world",
-      "saudi",
-      "capitals",
-      "airport",
-      "reopens",
-      "limited",
-      "traffic",
-      "and",
-      "other",
-      "mideast",
-      "news",
-      "article",
-      "7808efa8",
-      "31e5",
-      "5709",
-      "83c2",
-      "260bed1f23dc.html"
+      "leaders",
+      "hail",
+      "real",
+      "progress",
+      "syria",
+      "999"
     ]
   }
 }
