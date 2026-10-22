@@ -1,29 +1,83 @@
 {
-  "NGA": {
-    "risk_score": 11.12,
-    "count": 15,
-    "top_news": "https://saharareporters.com/2026/10/22/enugu-judge-faults-governors-control-judicial-funds-says-disregard-court-ruling-breeds",
+  "SAU": {
+    "risk_score": 5.0,
+    "count": 5,
+    "top_news": "https://www.tribuneindia.com/news/india/indian-killed-3-injured-in-attacks-on-s-arabia-unacceptable-says-delhi/",
     "event_codes": {
-      "19": 5,
-      "14": 4,
-      "17": 4,
-      "15": 1,
-      "18": 1
+      "19": 5
+    },
+    "keywords": [
+      "news",
+      "india",
+      "indian",
+      "killed",
+      "injured",
+      "attacks",
+      "arabia",
+      "unacceptable",
+      "says",
+      "delhi"
+    ]
+  },
+  "SDN": {
+    "risk_score": 10.2,
+    "count": 12,
+    "top_news": "https://www.dabangasudan.org/en/all-news/article/african-union-condemns-deadly-drone-strikes-in-sudan-abyei",
+    "event_codes": {
+      "19": 6,
+      "17": 3,
+      "18": 3
+    },
+    "keywords": [
+      "all",
+      "news",
+      "article",
+      "african",
+      "union",
+      "condemns",
+      "deadly",
+      "drone",
+      "strikes",
+      "sudan",
+      "abyei"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
+    "event_codes": {
+      "14": 3,
+      "19": 1
     },
     "keywords": [
       "2026",
-      "enugu",
-      "judge",
-      "faults",
-      "governors",
-      "control",
-      "judicial",
-      "funds",
-      "says",
-      "disregard",
-      "court",
-      "ruling",
-      "breeds"
+      "venezuela",
+      "faces",
+      "deepening",
+      "energy",
+      "crisis",
+      "protests",
+      "grow"
+    ]
+  },
+  "YEM": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.dailysabah.com/opinion/op-ed/whose-war-is-this-rethinking-irans-role-in-houthi-attacks",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "opinion",
+      "whose",
+      "war",
+      "this",
+      "rethinking",
+      "irans",
+      "role",
+      "houthi",
+      "attacks"
     ]
   }
 }
