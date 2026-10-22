@@ -2,12 +2,11 @@
   "COL": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "http://www.thegazette.com/news/world/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/article_eaa44417-1f50-5883-b8b9-ef76398d50f0.html",
+    "top_news": "http://www.stardem.com/ap/world/trump-allied-colombian-president-removes-art-exhibits-he-deems-communist-sparking-protests/article_eabe3726-0d4c-57a4-b498-8c5b5702875a.html",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "news",
       "world",
       "trump",
       "allied",
@@ -21,58 +20,76 @@
       "sparking",
       "protests",
       "article",
-      "eaa44417",
-      "1f50",
-      "5883",
-      "b8b9",
-      "ef76398d50f0.html"
+      "eabe3726",
+      "0d4c",
+      "57a4",
+      "b498",
+      "8c5b5702875a.html"
     ]
   },
-  "ISR": {
-    "risk_score": 5.3,
-    "count": 8,
-    "top_news": "https://www.abc.net.au/news/2026-10-22/former-hostage-daniella-gilboa-reflects-bondi-jewish-solidarity/107259066",
+  "IRN": {
+    "risk_score": 4.22,
+    "count": 6,
+    "top_news": "https://www.knopnews2.com/2026/10/21/earlier-timeline-announced-midterm-rally-featuring-jd-vance-north-platte-thursday/",
     "event_codes": {
-      "17": 5,
-      "18": 2,
-      "19": 1
+      "17": 3,
+      "19": 2,
+      "15": 1
     },
     "keywords": [
-      "news",
       "2026",
-      "former",
-      "hostage",
-      "daniella",
-      "gilboa",
-      "reflects",
-      "bondi",
-      "jewish",
-      "solidarity",
-      "107259066"
+      "earlier",
+      "timeline",
+      "announced",
+      "midterm",
+      "rally",
+      "featuring",
+      "vance",
+      "north",
+      "platte",
+      "thursday"
     ]
   },
   "SAU": {
-    "risk_score": 3.45,
-    "count": 4,
-    "top_news": "https://pakobserver.net/pakistani-injured-2-killed-as-saudi-defences-shot-down-drone-near-shaybah-aramco-facility/",
+    "risk_score": 3.2,
+    "count": 5,
+    "top_news": "https://sana.sy/en/middle-east/2352801/",
     "event_codes": {
-      "19": 2,
-      "17": 1,
-      "18": 1
+      "16": 3,
+      "19": 2
     },
     "keywords": [
-      "pakistani",
-      "injured",
-      "killed",
+      "middle",
+      "east",
+      "2352801"
+    ]
+  },
+  "YEM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.2news.com/news/world/saudi-capitals-airport-reopens-to-limited-traffic-and-other-mideast-news/article_7808efa8-31e5-5709-83c2-260bed1f23dc.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
       "saudi",
-      "defences",
-      "shot",
-      "down",
-      "drone",
-      "near",
-      "shaybah",
-      "aramco",
-      "facility"
+      "capitals",
+      "airport",
+      "reopens",
+      "limited",
+      "traffic",
+      "and",
+      "other",
+      "mideast",
+      "news",
+      "article",
+      "7808efa8",
+      "31e5",
+      "5709",
+      "83c2",
+      "260bed1f23dc.html"
     ]
   }
 }
