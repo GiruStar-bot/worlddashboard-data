@@ -1,83 +1,76 @@
 {
-  "SAU": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.tribuneindia.com/news/india/indian-killed-3-injured-in-attacks-on-s-arabia-unacceptable-says-delhi/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "news",
-      "india",
-      "indian",
-      "killed",
-      "injured",
-      "attacks",
-      "arabia",
-      "unacceptable",
-      "says",
-      "delhi"
-    ]
-  },
-  "SDN": {
-    "risk_score": 10.2,
-    "count": 12,
-    "top_news": "https://www.dabangasudan.org/en/all-news/article/african-union-condemns-deadly-drone-strikes-in-sudan-abyei",
-    "event_codes": {
-      "19": 6,
-      "17": 3,
-      "18": 3
-    },
-    "keywords": [
-      "all",
-      "news",
-      "article",
-      "african",
-      "union",
-      "condemns",
-      "deadly",
-      "drone",
-      "strikes",
-      "sudan",
-      "abyei"
-    ]
-  },
-  "VEN": {
-    "risk_score": 2.9,
+  "IRN": {
+    "risk_score": 3.56,
     "count": 4,
-    "top_news": "https://globalvoices.org/2026/10/22/venezuela-faces-a-deepening-energy-crisis-as-protests-grow/",
+    "top_news": "https://www.wandtv.com/2026/10/22/iran-says-7-oil-tankers-were-attacked-strait-hormuz-fears-grow-return-war/",
     "event_codes": {
-      "14": 3,
-      "19": 1
+      "19": 3,
+      "16": 1
     },
     "keywords": [
       "2026",
-      "venezuela",
-      "faces",
-      "deepening",
-      "energy",
-      "crisis",
-      "protests",
-      "grow"
+      "iran",
+      "says",
+      "oil",
+      "tankers",
+      "were",
+      "attacked",
+      "strait",
+      "hormuz",
+      "fears",
+      "grow",
+      "return",
+      "war"
     ]
   },
-  "YEM": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.dailysabah.com/opinion/op-ed/whose-war-is-this-rethinking-irans-role-in-houthi-attacks",
+  "ISR": {
+    "risk_score": 9.4,
+    "count": 11,
+    "top_news": "https://www.gdnonline.com:443/Details/1410604",
     "event_codes": {
-      "19": 4
+      "19": 6,
+      "17": 3,
+      "18": 2
     },
     "keywords": [
-      "opinion",
-      "whose",
-      "war",
-      "this",
-      "rethinking",
-      "irans",
-      "role",
-      "houthi",
-      "attacks"
+      "details",
+      "1410604"
+    ]
+  },
+  "SAU": {
+    "risk_score": 5.51,
+    "count": 6,
+    "top_news": "https://www.gdnonline.com:443/Details/1410595",
+    "event_codes": {
+      "19": 4,
+      "16": 1,
+      "18": 1
+    },
+    "keywords": [
+      "details",
+      "1410595"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://finchannel.com/former-missouri-middle-school-principal-indicted-on-child-pornography-charge/139176/crime/2026/10/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "former",
+      "missouri",
+      "middle",
+      "school",
+      "principal",
+      "indicted",
+      "child",
+      "pornography",
+      "charge",
+      "139176",
+      "crime",
+      "2026"
     ]
   }
 }
