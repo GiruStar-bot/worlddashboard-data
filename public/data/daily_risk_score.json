@@ -1,132 +1,145 @@
 {
-  "EGY": {
+  "ARG": {
+    "risk_score": 3.4,
+    "count": 4,
+    "top_news": "https://www.latintimes.com/argentinas-milei-collects-washington-leadership-prize-urges-hemisphere-wide-conservative-front-600202",
+    "event_codes": {
+      "19": 3,
+      "16": 1
+    },
+    "keywords": [
+      "argentinas",
+      "milei",
+      "collects",
+      "washington",
+      "leadership",
+      "prize",
+      "urges",
+      "hemisphere",
+      "wide",
+      "conservative",
+      "front",
+      "600202"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.85,
+    "count": 3,
+    "top_news": "https://www.myleaderpaper.com/news/gateway-food-pantry-arnold-starts-housing-initiative-for-clients/article_5f35543d-6740-44c1-ac58-20bc3045e49d.html",
+    "event_codes": {
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "gateway",
+      "food",
+      "pantry",
+      "arnold",
+      "starts",
+      "housing",
+      "initiative",
+      "for",
+      "clients",
+      "article",
+      "5f35543d",
+      "6740",
+      "44c1",
+      "ac58",
+      "20bc3045e49d.html"
+    ]
+  },
+  "ISR": {
     "risk_score": 2.0,
     "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/10/european-mideast-foreign-ministers-hold-talks-istanbul",
+    "top_news": "https://www.middle-east-online.com/en/israeli-strikes-hit-southern-lebanon-drones-intensify-flights-over-beirut",
     "event_codes": {
       "17": 2,
       "19": 1
     },
     "keywords": [
-      "originals",
-      "2026",
-      "european",
-      "mideast",
-      "foreign",
-      "ministers",
-      "hold",
-      "talks",
-      "istanbul"
+      "israeli",
+      "strikes",
+      "hit",
+      "southern",
+      "lebanon",
+      "drones",
+      "intensify",
+      "flights",
+      "over",
+      "beirut"
     ]
   },
-  "IRN": {
+  "JOR": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://www.csmonitor.com/World/Middle-East/2026/1023/jordan-christian-church-attacked-abdullah-interfaith",
+    "event_codes": {
+      "18": 2,
+      "19": 2
+    },
+    "keywords": [
+      "world",
+      "middle",
+      "east",
+      "2026",
+      "1023",
+      "jordan",
+      "christian",
+      "church",
+      "attacked",
+      "abdullah",
+      "interfaith"
+    ]
+  },
+  "KEN": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/kenya-extradites-sancho-kibutu-13-years-on-2026/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "kenya",
+      "extradites",
+      "sancho",
+      "kibutu",
+      "years",
+      "2026"
+    ]
+  },
+  "SDN": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "https://www.riotimesonline.com/sudan-army-retakes-bakori-blue-nile-2026/",
+    "event_codes": {
+      "19": 5
+    },
+    "keywords": [
+      "sudan",
+      "army",
+      "retakes",
+      "bakori",
+      "blue",
+      "nile",
+      "2026"
+    ]
+  },
+  "TCD": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.al-monitor.com/originals/2026/10/how-netanyahu-could-attack-iran-force-israel-unity-government-after-elections",
+    "top_news": "https://www.riotimesonline.com/central-african-republic-denies-chad-border-rift-2026/",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "originals",
-      "2026",
-      "how",
-      "netanyahu",
-      "could",
-      "attack",
-      "iran",
-      "force",
-      "israel",
-      "unity",
-      "government",
-      "after",
-      "elections"
-    ]
-  },
-  "ISR": {
-    "risk_score": 22.04,
-    "count": 25,
-    "top_news": "https://truthout.org/articles/netanyahu-orders-full-lockdown-of-occupied-west-bank/",
-    "event_codes": {
-      "19": 13,
-      "17": 7,
-      "18": 3,
-      "20": 2
-    },
-    "keywords": [
-      "articles",
-      "netanyahu",
-      "orders",
-      "full",
-      "lockdown",
-      "occupied",
-      "west",
-      "bank"
-    ]
-  },
-  "JOR": {
-    "risk_score": 8.44,
-    "count": 9,
-    "top_news": "https://www.cbsnews.com/news/jordan-shooting-greek-orthodox-church-karak/",
-    "event_codes": {
-      "19": 7,
-      "15": 2
-    },
-    "keywords": [
-      "news",
-      "jordan",
-      "shooting",
-      "greek",
-      "orthodox",
-      "church",
-      "karak"
-    ]
-  },
-  "PSE": {
-    "risk_score": 4.92,
-    "count": 5,
-    "top_news": "https://www.al-monitor.com/originals/2026/10/pm-warns-major-west-bank-military-operation-after-attack-kills-israeli-soldiers",
-    "event_codes": {
-      "19": 2,
-      "20": 2,
-      "17": 1
-    },
-    "keywords": [
-      "originals",
-      "2026",
-      "warns",
-      "major",
-      "west",
-      "bank",
-      "military",
-      "operation",
-      "after",
-      "attack",
-      "kills",
-      "israeli",
-      "soldiers"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.65,
-    "count": 3,
-    "top_news": "https://www.radiotamazuj.org/en/news/article/new-south-darfur-mobilization-committee-pledges-support-for-sudan-army",
-    "event_codes": {
-      "19": 2,
-      "14": 1
-    },
-    "keywords": [
-      "news",
-      "article",
-      "new",
-      "south",
-      "darfur",
-      "mobilization",
-      "committee",
-      "pledges",
-      "support",
-      "for",
-      "sudan",
-      "army"
+      "central",
+      "african",
+      "republic",
+      "denies",
+      "chad",
+      "border",
+      "rift",
+      "2026"
     ]
   }
 }
