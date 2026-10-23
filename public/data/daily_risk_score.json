@@ -1,48 +1,77 @@
 {
-  "LBN": {
-    "risk_score": 2.85,
+  "BRA": {
+    "risk_score": 4.5,
+    "count": 6,
+    "top_news": "https://www.theguardian.com/world/2026/oct/23/brazil-indigenous-groups-fear-bolsonaro-voters-amazon-towns",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "oct",
+      "brazil",
+      "indigenous",
+      "groups",
+      "fear",
+      "bolsonaro",
+      "voters",
+      "amazon",
+      "towns"
+    ]
+  },
+  "ISR": {
+    "risk_score": 5.5,
+    "count": 6,
+    "top_news": "https://www.israelnationalnews.com/flashes/695924",
+    "event_codes": {
+      "19": 5,
+      "14": 1
+    },
+    "keywords": [
+      "flashes",
+      "695924"
+    ]
+  },
+  "SAU": {
+    "risk_score": 2.1,
     "count": 3,
-    "top_news": "http://www.goskagit.com/news/world/in-netanyahu-stronghold-signs-of-fraying-loyalty-emerge-on-eve-of-election/article_82d24cdc-322a-5223-98dd-2560e9284867.html",
+    "top_news": "https://tradearabia.com:443/News/488395/Aramco-orders-evacuation-of-Dhahran-HQ-for-staff-safety-reports",
+    "event_codes": {
+      "16": 2,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "488395",
+      "aramco",
+      "orders",
+      "evacuation",
+      "dhahran",
+      "for",
+      "staff",
+      "safety",
+      "reports"
+    ]
+  },
+  "TWN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.abc.net.au/news/2026-10-23/taiwan-shuts-down-ahead-of-typhoon-champi/107303576",
     "event_codes": {
       "19": 3
     },
     "keywords": [
       "news",
-      "world",
-      "netanyahu",
-      "stronghold",
-      "signs",
-      "fraying",
-      "loyalty",
-      "emerge",
-      "eve",
-      "election",
-      "article",
-      "82d24cdc",
-      "322a",
-      "5223",
-      "98dd",
-      "2560e9284867.html"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.jns.org/opinion/christoforos-ioannidis/the-nato-ally-that-gave-hamas-a-stage",
-    "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "opinion",
-      "christoforos",
-      "ioannidis",
-      "the",
-      "nato",
-      "ally",
-      "that",
-      "gave",
-      "hamas",
-      "stage"
+      "2026",
+      "taiwan",
+      "shuts",
+      "down",
+      "ahead",
+      "typhoon",
+      "champi",
+      "107303576"
     ]
   }
 }
