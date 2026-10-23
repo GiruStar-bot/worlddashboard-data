@@ -1,145 +1,62 @@
 {
-  "ARG": {
-    "risk_score": 3.4,
-    "count": 4,
-    "top_news": "https://www.latintimes.com/argentinas-milei-collects-washington-leadership-prize-urges-hemisphere-wide-conservative-front-600202",
+  "ISR": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "http://www.thegazette.com/news/national/ap-news-in-brief-at-6-04-p-m-edt/article_233dcd08-af34-5165-abb7-616eaf130ee3.html",
     "event_codes": {
-      "19": 3,
-      "16": 1
-    },
-    "keywords": [
-      "argentinas",
-      "milei",
-      "collects",
-      "washington",
-      "leadership",
-      "prize",
-      "urges",
-      "hemisphere",
-      "wide",
-      "conservative",
-      "front",
-      "600202"
-    ]
-  },
-  "IRQ": {
-    "risk_score": 2.85,
-    "count": 3,
-    "top_news": "https://www.myleaderpaper.com/news/gateway-food-pantry-arnold-starts-housing-initiative-for-clients/article_5f35543d-6740-44c1-ac58-20bc3045e49d.html",
-    "event_codes": {
-      "19": 3
+      "19": 5,
+      "18": 1
     },
     "keywords": [
       "news",
-      "gateway",
-      "food",
-      "pantry",
-      "arnold",
-      "starts",
-      "housing",
-      "initiative",
-      "for",
-      "clients",
+      "national",
+      "news",
+      "brief",
+      "edt",
       "article",
-      "5f35543d",
-      "6740",
-      "44c1",
-      "ac58",
-      "20bc3045e49d.html"
+      "233dcd08",
+      "af34",
+      "5165",
+      "abb7",
+      "616eaf130ee3.html"
     ]
   },
-  "ISR": {
+  "PSE": {
     "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.middle-east-online.com/en/israeli-strikes-hit-southern-lebanon-drones-intensify-flights-over-beirut",
+    "count": 2,
+    "top_news": "http://www.thegazette.com/news/national/ap-news-in-brief-at-6-04-p-m-edt/article_233dcd08-af34-5165-abb7-616eaf130ee3.html",
     "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "israeli",
-      "strikes",
-      "hit",
-      "southern",
-      "lebanon",
-      "drones",
-      "intensify",
-      "flights",
-      "over",
-      "beirut"
-    ]
-  },
-  "JOR": {
-    "risk_score": 3.85,
-    "count": 4,
-    "top_news": "https://www.csmonitor.com/World/Middle-East/2026/1023/jordan-christian-church-attacked-abdullah-interfaith",
-    "event_codes": {
-      "18": 2,
       "19": 2
     },
     "keywords": [
-      "world",
-      "middle",
-      "east",
-      "2026",
-      "1023",
-      "jordan",
-      "christian",
-      "church",
-      "attacked",
-      "abdullah",
-      "interfaith"
+      "news",
+      "national",
+      "news",
+      "brief",
+      "edt",
+      "article",
+      "233dcd08",
+      "af34",
+      "5165",
+      "abb7",
+      "616eaf130ee3.html"
     ]
   },
-  "KEN": {
-    "risk_score": 2.0,
+  "SOM": {
+    "risk_score": 4.0,
     "count": 4,
-    "top_news": "https://www.riotimesonline.com/kenya-extradites-sancho-kibutu-13-years-on-2026/",
+    "top_news": "https://www.wnd.com/2026/10/novembers-stark-choice-2-visions-rule-law/",
     "event_codes": {
-      "17": 4
+      "19": 4
     },
     "keywords": [
-      "kenya",
-      "extradites",
-      "sancho",
-      "kibutu",
-      "years",
-      "2026"
-    ]
-  },
-  "SDN": {
-    "risk_score": 4.85,
-    "count": 5,
-    "top_news": "https://www.riotimesonline.com/sudan-army-retakes-bakori-blue-nile-2026/",
-    "event_codes": {
-      "19": 5
-    },
-    "keywords": [
-      "sudan",
-      "army",
-      "retakes",
-      "bakori",
-      "blue",
-      "nile",
-      "2026"
-    ]
-  },
-  "TCD": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.riotimesonline.com/central-african-republic-denies-chad-border-rift-2026/",
-    "event_codes": {
-      "19": 3
-    },
-    "keywords": [
-      "central",
-      "african",
-      "republic",
-      "denies",
-      "chad",
-      "border",
-      "rift",
-      "2026"
+      "2026",
+      "novembers",
+      "stark",
+      "choice",
+      "visions",
+      "rule",
+      "law"
     ]
   }
 }
