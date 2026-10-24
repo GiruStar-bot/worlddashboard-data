@@ -1,91 +1,71 @@
 {
-  "BRA": {
+  "IRN": {
     "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://www.europesun.com/news/279395418/peace-talks-zelensky-the-eu-political-schizophrenia-and-a-new-cold-war-rt-stories-that-shaped-the-week",
+    "count": 3,
+    "top_news": "https://cyprus-mail.com/2026/10/24/seven-killed-as-gunmen-open-fire-at-church-in-jordan-in-terrorist-attack-authorities-say",
     "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news",
-      "279395418",
-      "peace",
-      "talks",
-      "zelensky",
-      "the",
-      "political",
-      "schizophrenia",
-      "and",
-      "new",
-      "cold",
-      "war",
-      "stories",
-      "that",
-      "shaped",
-      "the",
-      "week"
-    ]
-  },
-  "ISR": {
-    "risk_score": 3.92,
-    "count": 4,
-    "top_news": "https://lasvegassun.com/news/2026/oct/23/attack-in-the-west-bank-kills-2-israeli-soldiers-a/",
-    "event_codes": {
-      "19": 3,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "2026",
-      "oct",
-      "attack",
-      "the",
-      "west",
-      "bank",
-      "kills",
-      "israeli",
-      "soldiers"
-    ]
-  },
-  "THA": {
-    "risk_score": 7.53,
-    "count": 11,
-    "top_news": "https://www.chiangraitimes.com/crime/soldiers-foreigners-mae-sot/",
-    "event_codes": {
-      "17": 9,
-      "16": 1,
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "crime",
-      "soldiers",
-      "foreigners",
-      "mae",
-      "sot"
+      "2026",
+      "seven",
+      "killed",
+      "gunmen",
+      "open",
+      "fire",
+      "church",
+      "jordan",
+      "terrorist",
+      "attack",
+      "authorities",
+      "say"
     ]
   },
-  "VEN": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.defensenews.com/global/the-americas/2026/06/13/us-strike-kills-leader-of-venezuelas-tren-de-aragua-gang-white-house-says/",
+  "JOR": {
+    "risk_score": 3.85,
+    "count": 4,
+    "top_news": "https://kathmandupost.com/world/2026/10/24/seven-killed-as-gunmen-open-fire-at-church-in-jordan-in-terrorist-attack-authorities-say",
     "event_codes": {
-      "19": 6
+      "19": 2,
+      "17": 1,
+      "18": 1
     },
     "keywords": [
-      "global",
-      "the",
-      "americas",
+      "world",
       "2026",
-      "strike",
-      "kills",
-      "leader",
-      "venezuelas",
-      "tren",
-      "aragua",
-      "gang",
-      "white",
-      "house",
-      "says"
+      "seven",
+      "killed",
+      "gunmen",
+      "open",
+      "fire",
+      "church",
+      "jordan",
+      "terrorist",
+      "attack",
+      "authorities",
+      "say"
+    ]
+  },
+  "SOM": {
+    "risk_score": 2.1,
+    "count": 3,
+    "top_news": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+    "event_codes": {
+      "16": 3
+    },
+    "keywords": [
+      "commentisfree",
+      "2026",
+      "oct",
+      "donald",
+      "trump",
+      "world",
+      "three",
+      "summit",
+      "vladimir",
+      "putin",
+      "jinping"
     ]
   }
 }
