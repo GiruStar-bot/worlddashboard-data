@@ -1,42 +1,66 @@
 {
-  "IDN": {
-    "risk_score": 5.0,
-    "count": 5,
-    "top_news": "https://www.channelnewsasia.com/watch/southeast-asia-haze-indonesia-steps-up-firefighting-efforts-way-kambas-national-park-in-sumatra-6490486",
+  "ISR": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.theamericanconservative.com/iran-war-day-240-trump-says-no-strikes-on-iran-planned-for-sunday/",
     "event_codes": {
-      "19": 5
+      "19": 3
     },
     "keywords": [
-      "watch",
-      "southeast",
-      "asia",
-      "haze",
-      "indonesia",
-      "steps",
-      "firefighting",
-      "efforts",
-      "way",
-      "kambas",
-      "national",
-      "park",
-      "sumatra",
-      "6490486"
+      "iran",
+      "war",
+      "day",
+      "240",
+      "trump",
+      "says",
+      "strikes",
+      "iran",
+      "planned",
+      "for",
+      "sunday"
+    ]
+  },
+  "MMR": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.deccanchronicle.com/opinion/columnists/pradeep-c-nair-homalin-strike-the-growing-footprint-of-naga-separatists-1998871",
+    "event_codes": {
+      "19": 4
+    },
+    "keywords": [
+      "opinion",
+      "columnists",
+      "pradeep",
+      "nair",
+      "homalin",
+      "strike",
+      "the",
+      "growing",
+      "footprint",
+      "naga",
+      "separatists",
+      "1998871"
     ]
   },
   "SAU": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://news.webindia123.com/news/Articles/World/20261025/4514960.html",
+    "risk_score": 6.0,
+    "count": 6,
+    "top_news": "https://www.theamericanconservative.com/iran-war-day-240-trump-says-no-strikes-on-iran-planned-for-sunday/",
     "event_codes": {
-      "19": 2,
-      "16": 1
+      "19": 6
     },
     "keywords": [
-      "news",
-      "articles",
-      "world",
-      "20261025",
-      "4514960.html"
+      "iran",
+      "war",
+      "day",
+      "240",
+      "trump",
+      "says",
+      "strikes",
+      "iran",
+      "planned",
+      "for",
+      "sunday"
     ]
   }
 }
