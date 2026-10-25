@@ -1,66 +1,41 @@
 {
-  "IRN": {
-    "risk_score": 5.72,
-    "count": 9,
-    "top_news": "https://nypost.com/2026/10/24/us-news/trump-advisors-see-opportunity-even-if-bibi-netanyahu-loses/",
+  "ISR": {
+    "risk_score": 9.0,
+    "count": 11,
+    "top_news": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784",
     "event_codes": {
-      "16": 4,
-      "17": 2,
-      "19": 2,
-      "15": 1
+      "19": 7,
+      "17": 4
     },
     "keywords": [
-      "2026",
       "news",
-      "trump",
-      "advisors",
-      "see",
-      "opportunity",
-      "even",
-      "bibi",
+      "world",
       "netanyahu",
-      "loses"
+      "israel",
+      "election",
+      "9.7394784"
     ]
   },
-  "ISR": {
-    "risk_score": 8.47,
-    "count": 10,
-    "top_news": "https://nypost.com/2026/10/24/us-news/trump-advisors-see-opportunity-even-if-bibi-netanyahu-loses/",
+  "NGA": {
+    "risk_score": 2.75,
+    "count": 3,
+    "top_news": "https://www.the-star.co.ke/news/africa/2026-10-25-gunmen-kill-at-least-10-villagers-and-loot-shops-in-nigeria",
     "event_codes": {
-      "17": 5,
-      "19": 4,
+      "19": 2,
       "14": 1
     },
     "keywords": [
-      "2026",
       "news",
-      "trump",
-      "advisors",
-      "see",
-      "opportunity",
-      "even",
-      "bibi",
-      "netanyahu",
-      "loses"
-    ]
-  },
-  "JOR": {
-    "risk_score": 5.06,
-    "count": 7,
-    "top_news": "https://egyptianstreets.com/2026/10/24/egypt-condemns-deadly-church-attack-in-jordan/",
-    "event_codes": {
-      "15": 3,
-      "17": 2,
-      "18": 2
-    },
-    "keywords": [
+      "africa",
       "2026",
-      "egypt",
-      "condemns",
-      "deadly",
-      "church",
-      "attack",
-      "jordan"
+      "gunmen",
+      "kill",
+      "least",
+      "villagers",
+      "and",
+      "loot",
+      "shops",
+      "nigeria"
     ]
   }
 }
