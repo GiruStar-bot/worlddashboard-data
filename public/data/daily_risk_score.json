@@ -1,123 +1,35 @@
 {
-  "IDN": {
-    "risk_score": 9.35,
-    "count": 12,
-    "top_news": "https://en.antaranews.com/news/437787/rescuers-evacuate-injured-14-year-old-hiker-on-lombok",
+  "BRA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.rttnews.com/story.aspx?Id=3702811",
     "event_codes": {
-      "16": 4,
-      "18": 4,
+      "17": 4
+    },
+    "keywords": [
+      "story.aspx"
+    ]
+  },
+  "NGA": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.worthynews.com/118444-christian-mother-sentenced-to-14-years-in-nigeria-as-persecution-intensifies-despite-growing-church",
+    "event_codes": {
       "17": 2,
       "19": 2
     },
     "keywords": [
-      "news",
-      "437787",
-      "rescuers",
-      "evacuate",
-      "injured",
-      "year",
-      "old",
-      "hiker",
-      "lombok"
-    ]
-  },
-  "IRN": {
-    "risk_score": 5.35,
-    "count": 7,
-    "top_news": "https://www.heraldgoa.in/globe-nation/trump-mocks-iran-says-us-struggling-to-find-leaders-for-negotiations/493203/",
-    "event_codes": {
-      "19": 4,
-      "17": 3
-    },
-    "keywords": [
-      "globe",
-      "nation",
-      "trump",
-      "mocks",
-      "iran",
-      "says",
-      "struggling",
-      "find",
-      "leaders",
-      "for",
-      "negotiations",
-      "493203"
-    ]
-  },
-  "ISR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.heraldgoa.in/globe-nation/trump-mocks-iran-says-us-struggling-to-find-leaders-for-negotiations/493203/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "globe",
-      "nation",
-      "trump",
-      "mocks",
-      "iran",
-      "says",
-      "struggling",
-      "find",
-      "leaders",
-      "for",
-      "negotiations",
-      "493203"
-    ]
-  },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/10/25/jordanian-security-forces-say-theyve-arrested-three-men-for-a-deadly-attack-on-a-church",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "arts",
-      "and",
-      "life",
-      "life",
-      "faith",
-      "2026",
-      "jordanian",
-      "security",
-      "forces",
-      "say",
-      "theyve",
-      "arrested",
-      "three",
-      "men",
-      "for",
-      "deadly",
-      "attack",
+      "118444",
+      "christian",
+      "mother",
+      "sentenced",
+      "years",
+      "nigeria",
+      "persecution",
+      "intensifies",
+      "despite",
+      "growing",
       "church"
-    ]
-  },
-  "NGA": {
-    "risk_score": 4.5,
-    "count": 5,
-    "top_news": "https://allafrica.com/stories/202610260029.html",
-    "event_codes": {
-      "19": 4,
-      "17": 1
-    },
-    "keywords": [
-      "stories",
-      "202610260029.html"
-    ]
-  },
-  "SDN": {
-    "risk_score": 11.65,
-    "count": 12,
-    "top_news": "https://allafrica.com/stories/202610260009.html",
-    "event_codes": {
-      "19": 7,
-      "18": 5
-    },
-    "keywords": [
-      "stories",
-      "202610260009.html"
     ]
   }
 }
