@@ -1,35 +1,98 @@
 {
-  "BRA": {
-    "risk_score": 2.0,
-    "count": 4,
-    "top_news": "https://www.rttnews.com/story.aspx?Id=3702811",
+  "IRN": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://investinglive.com/news/saudi-pakistani-iranian-and-turkish-security-chiefs-sit-down-in-tehran-agree-to-continue-talks/",
     "event_codes": {
-      "17": 4
+      "19": 3
     },
     "keywords": [
-      "story.aspx"
+      "news",
+      "saudi",
+      "pakistani",
+      "iranian",
+      "and",
+      "turkish",
+      "security",
+      "chiefs",
+      "sit",
+      "down",
+      "tehran",
+      "agree",
+      "continue",
+      "talks"
     ]
   },
-  "NGA": {
-    "risk_score": 3.0,
+  "ISR": {
+    "risk_score": 2.85,
     "count": 4,
-    "top_news": "https://www.worthynews.com/118444-christian-mother-sentenced-to-14-years-in-nigeria-as-persecution-intensifies-despite-growing-church",
+    "top_news": "https://www.thenationalnews.com/news/mena/2026/10/26/six-controversial-ways-benjamin-netanyahu-has-tried-to-salvage-his-election-prospects/",
     "event_codes": {
       "17": 2,
-      "19": 2
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "118444",
-      "christian",
-      "mother",
-      "sentenced",
-      "years",
-      "nigeria",
-      "persecution",
-      "intensifies",
-      "despite",
-      "growing",
-      "church"
+      "news",
+      "mena",
+      "2026",
+      "six",
+      "controversial",
+      "ways",
+      "benjamin",
+      "netanyahu",
+      "has",
+      "tried",
+      "salvage",
+      "his",
+      "election",
+      "prospects"
+    ]
+  },
+  "LBN": {
+    "risk_score": 3.66,
+    "count": 5,
+    "top_news": "https://www.irishtimes.com/politics/2026/10/26/southern-lebanon-devastation-shows-why-peacekeepers-must-remain-helen-mcentee-says/",
+    "event_codes": {
+      "14": 2,
+      "15": 2,
+      "17": 1
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "southern",
+      "lebanon",
+      "devastation",
+      "shows",
+      "why",
+      "peacekeepers",
+      "must",
+      "remain",
+      "helen",
+      "mcentee",
+      "says"
+    ]
+  },
+  "SDN": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.thenationalnews.com/news/uk/2026/10/26/uk-issues-fresh-sanctions-against-rival-sudanese-commanders/",
+    "event_codes": {
+      "18": 2,
+      "17": 1,
+      "20": 1
+    },
+    "keywords": [
+      "news",
+      "2026",
+      "issues",
+      "fresh",
+      "sanctions",
+      "against",
+      "rival",
+      "sudanese",
+      "commanders"
     ]
   }
 }
