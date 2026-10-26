@@ -1,169 +1,123 @@
 {
-  "BRA": {
-    "risk_score": 8.8,
-    "count": 10,
-    "top_news": "https://www.dw.com/en/brazil-elections-lula-leads-bolsonaro-with-80-of-votes-counted/live-79755630",
+  "IDN": {
+    "risk_score": 9.35,
+    "count": 12,
+    "top_news": "https://en.antaranews.com/news/437787/rescuers-evacuate-injured-14-year-old-hiker-on-lombok",
     "event_codes": {
-      "19": 7,
-      "14": 2,
-      "17": 1
-    },
-    "keywords": [
-      "brazil",
-      "elections",
-      "lula",
-      "leads",
-      "bolsonaro",
-      "with",
-      "votes",
-      "counted",
-      "live",
-      "79755630"
-    ]
-  },
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "energy",
-      "crude",
-      "oil",
-      "oil",
-      "prices",
-      "rise",
-      "despite",
-      "middle",
-      "east",
-      "export",
-      "recovery.html"
-    ]
-  },
-  "ISR": {
-    "risk_score": 6.12,
-    "count": 7,
-    "top_news": "https://english.news.cn/20261026/ffcff93fb1a444229c2c11a4ff1ac69b/c.html",
-    "event_codes": {
-      "19": 5,
-      "15": 1,
-      "16": 1
-    },
-    "keywords": [
-      "20261026",
-      "ffcff93fb1a444229c2c11a4ff1ac69b",
-      "c.html"
-    ]
-  },
-  "MLI": {
-    "risk_score": 2.8,
-    "count": 4,
-    "top_news": "http://www.dailyadvance.com/news/world/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years/article_837f1c8c-dac5-5592-b649-26bd7c3b9e92.html",
-    "event_codes": {
-      "16": 2,
+      "16": 4,
+      "18": 4,
+      "17": 2,
       "19": 2
     },
     "keywords": [
       "news",
-      "world",
-      "algeria",
-      "send",
-      "troops",
-      "niger",
-      "first",
-      "foreign",
-      "deployment",
-      "over",
-      "years",
-      "article",
-      "837f1c8c",
-      "dac5",
-      "5592",
-      "b649",
-      "26bd7c3b9e92.html"
+      "437787",
+      "rescuers",
+      "evacuate",
+      "injured",
+      "year",
+      "old",
+      "hiker",
+      "lombok"
     ]
   },
-  "MYS": {
+  "IRN": {
+    "risk_score": 5.35,
+    "count": 7,
+    "top_news": "https://www.heraldgoa.in/globe-nation/trump-mocks-iran-says-us-struggling-to-find-leaders-for-negotiations/493203/",
+    "event_codes": {
+      "19": 4,
+      "17": 3
+    },
+    "keywords": [
+      "globe",
+      "nation",
+      "trump",
+      "mocks",
+      "iran",
+      "says",
+      "struggling",
+      "find",
+      "leaders",
+      "for",
+      "negotiations",
+      "493203"
+    ]
+  },
+  "ISR": {
     "risk_score": 2.0,
     "count": 2,
-    "top_news": "https://www.malaysiakini.com/columns/887842-comment-2",
+    "top_news": "https://www.heraldgoa.in/globe-nation/trump-mocks-iran-says-us-struggling-to-find-leaders-for-negotiations/493203/",
     "event_codes": {
       "19": 2
     },
     "keywords": [
-      "columns",
-      "887842",
-      "comment"
+      "globe",
+      "nation",
+      "trump",
+      "mocks",
+      "iran",
+      "says",
+      "struggling",
+      "find",
+      "leaders",
+      "for",
+      "negotiations",
+      "493203"
     ]
   },
-  "NER": {
-    "risk_score": 3.2,
-    "count": 8,
-    "top_news": "https://www.winnipegfreepress.com/world/2026/10/25/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/10/25/jordanian-security-forces-say-theyve-arrested-three-men-for-a-deadly-attack-on-a-church",
     "event_codes": {
-      "16": 8
+      "19": 2
     },
     "keywords": [
-      "world",
-      "2026",
-      "algeria",
-      "send",
-      "troops",
-      "niger",
-      "first",
-      "foreign",
-      "deployment",
-      "over",
-      "years"
-    ]
-  },
-  "SAU": {
-    "risk_score": 10.4,
-    "count": 11,
-    "top_news": "https://www.moroccoworldnews.com/2026/10/343796/saudi-arabia-reopens-riyadh-airport-amid-renewed-houthi-threats/",
-    "event_codes": {
-      "19": 8,
-      "18": 2,
-      "17": 1
-    },
-    "keywords": [
-      "2026",
-      "343796",
-      "saudi",
-      "arabia",
-      "reopens",
-      "riyadh",
-      "airport",
-      "amid",
-      "renewed",
-      "houthi",
-      "threats"
-    ]
-  },
-  "TUR": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://www.eurasiareview.com/26102026-bakus-hijab-ban-sparks-protests-in-azerbaijan-and-creates-problems-with-turkey-analysis/",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "26102026",
-      "bakus",
-      "hijab",
-      "ban",
-      "sparks",
-      "protests",
-      "azerbaijan",
+      "arts",
       "and",
-      "creates",
-      "problems",
-      "with",
-      "turkey",
-      "analysis"
+      "life",
+      "life",
+      "faith",
+      "2026",
+      "jordanian",
+      "security",
+      "forces",
+      "say",
+      "theyve",
+      "arrested",
+      "three",
+      "men",
+      "for",
+      "deadly",
+      "attack",
+      "church"
+    ]
+  },
+  "NGA": {
+    "risk_score": 4.5,
+    "count": 5,
+    "top_news": "https://allafrica.com/stories/202610260029.html",
+    "event_codes": {
+      "19": 4,
+      "17": 1
+    },
+    "keywords": [
+      "stories",
+      "202610260029.html"
+    ]
+  },
+  "SDN": {
+    "risk_score": 11.65,
+    "count": 12,
+    "top_news": "https://allafrica.com/stories/202610260009.html",
+    "event_codes": {
+      "19": 7,
+      "18": 5
+    },
+    "keywords": [
+      "stories",
+      "202610260009.html"
     ]
   }
 }
