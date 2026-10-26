@@ -1,66 +1,169 @@
 {
-  "ISR": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.theamericanconservative.com/iran-war-day-240-trump-says-no-strikes-on-iran-planned-for-sunday/",
+  "BRA": {
+    "risk_score": 8.8,
+    "count": 10,
+    "top_news": "https://www.dw.com/en/brazil-elections-lula-leads-bolsonaro-with-80-of-votes-counted/live-79755630",
     "event_codes": {
-      "19": 3
+      "19": 7,
+      "14": 2,
+      "17": 1
     },
     "keywords": [
-      "iran",
-      "war",
-      "day",
-      "240",
-      "trump",
-      "says",
-      "strikes",
-      "iran",
-      "planned",
-      "for",
-      "sunday"
+      "brazil",
+      "elections",
+      "lula",
+      "leads",
+      "bolsonaro",
+      "with",
+      "votes",
+      "counted",
+      "live",
+      "79755630"
     ]
   },
-  "MMR": {
-    "risk_score": 4.0,
-    "count": 4,
-    "top_news": "https://www.deccanchronicle.com/opinion/columnists/pradeep-c-nair-homalin-strike-the-growing-footprint-of-naga-separatists-1998871",
+  "IRN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
     "event_codes": {
-      "19": 4
+      "19": 2
     },
     "keywords": [
-      "opinion",
-      "columnists",
-      "pradeep",
-      "nair",
-      "homalin",
-      "strike",
-      "the",
-      "growing",
-      "footprint",
-      "naga",
-      "separatists",
-      "1998871"
+      "energy",
+      "crude",
+      "oil",
+      "oil",
+      "prices",
+      "rise",
+      "despite",
+      "middle",
+      "east",
+      "export",
+      "recovery.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 6.12,
+    "count": 7,
+    "top_news": "https://english.news.cn/20261026/ffcff93fb1a444229c2c11a4ff1ac69b/c.html",
+    "event_codes": {
+      "19": 5,
+      "15": 1,
+      "16": 1
+    },
+    "keywords": [
+      "20261026",
+      "ffcff93fb1a444229c2c11a4ff1ac69b",
+      "c.html"
+    ]
+  },
+  "MLI": {
+    "risk_score": 2.8,
+    "count": 4,
+    "top_news": "http://www.dailyadvance.com/news/world/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years/article_837f1c8c-dac5-5592-b649-26bd7c3b9e92.html",
+    "event_codes": {
+      "16": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "algeria",
+      "send",
+      "troops",
+      "niger",
+      "first",
+      "foreign",
+      "deployment",
+      "over",
+      "years",
+      "article",
+      "837f1c8c",
+      "dac5",
+      "5592",
+      "b649",
+      "26bd7c3b9e92.html"
+    ]
+  },
+  "MYS": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.malaysiakini.com/columns/887842-comment-2",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "columns",
+      "887842",
+      "comment"
+    ]
+  },
+  "NER": {
+    "risk_score": 3.2,
+    "count": 8,
+    "top_news": "https://www.winnipegfreepress.com/world/2026/10/25/algeria-to-send-troops-to-niger-in-first-foreign-deployment-in-over-50-years",
+    "event_codes": {
+      "16": 8
+    },
+    "keywords": [
+      "world",
+      "2026",
+      "algeria",
+      "send",
+      "troops",
+      "niger",
+      "first",
+      "foreign",
+      "deployment",
+      "over",
+      "years"
     ]
   },
   "SAU": {
-    "risk_score": 6.0,
-    "count": 6,
-    "top_news": "https://www.theamericanconservative.com/iran-war-day-240-trump-says-no-strikes-on-iran-planned-for-sunday/",
+    "risk_score": 10.4,
+    "count": 11,
+    "top_news": "https://www.moroccoworldnews.com/2026/10/343796/saudi-arabia-reopens-riyadh-airport-amid-renewed-houthi-threats/",
     "event_codes": {
-      "19": 6
+      "19": 8,
+      "18": 2,
+      "17": 1
     },
     "keywords": [
-      "iran",
-      "war",
-      "day",
-      "240",
-      "trump",
-      "says",
-      "strikes",
-      "iran",
-      "planned",
-      "for",
-      "sunday"
+      "2026",
+      "343796",
+      "saudi",
+      "arabia",
+      "reopens",
+      "riyadh",
+      "airport",
+      "amid",
+      "renewed",
+      "houthi",
+      "threats"
+    ]
+  },
+  "TUR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://www.eurasiareview.com/26102026-bakus-hijab-ban-sparks-protests-in-azerbaijan-and-creates-problems-with-turkey-analysis/",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "26102026",
+      "bakus",
+      "hijab",
+      "ban",
+      "sparks",
+      "protests",
+      "azerbaijan",
+      "and",
+      "creates",
+      "problems",
+      "with",
+      "turkey",
+      "analysis"
     ]
   }
 }
