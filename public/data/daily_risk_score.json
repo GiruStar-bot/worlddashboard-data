@@ -1,89 +1,107 @@
 {
-  "IRN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "http://theeconomiccollapseblog.com/apocalyptic-scenario-iran-is-threatening-to-attack-oil-producing-facilities-undersea-internet-cables-desalination-plants-and-the-dimona-nuclear-reactor/",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "apocalyptic",
-      "scenario",
-      "iran",
-      "threatening",
-      "attack",
-      "oil",
-      "producing",
-      "facilities",
-      "undersea",
-      "internet",
-      "cables",
-      "desalination",
-      "plants",
-      "and",
-      "the",
-      "dimona",
-      "nuclear",
-      "reactor"
-    ]
-  },
   "ISR": {
-    "risk_score": 3.84,
-    "count": 4,
-    "top_news": "https://www.arabnews.com/middle-east/israels-expanding-settlement-enterprise-in-the-west-bank-3008424",
+    "risk_score": 14.69,
+    "count": 17,
+    "top_news": "https://www.adn.com/nation-world/2026/10/26/cornell-is-reeling-now-its-president-faces-a-divided-campus/",
     "event_codes": {
-      "17": 2,
-      "19": 2
+      "18": 6,
+      "19": 6,
+      "17": 3,
+      "14": 1,
+      "15": 1
     },
     "keywords": [
-      "middle",
-      "east",
-      "israels",
-      "expanding",
-      "settlement",
-      "enterprise",
-      "the",
-      "west",
-      "bank",
-      "3008424"
+      "nation",
+      "world",
+      "2026",
+      "cornell",
+      "reeling",
+      "now",
+      "its",
+      "president",
+      "faces",
+      "divided",
+      "campus"
     ]
   },
   "JOR": {
-    "risk_score": 3.95,
-    "count": 4,
-    "top_news": "https://www.queanbeyanage.com.au/story/9380442/jordan-strikes-militant-hideouts-in-syria/",
+    "risk_score": 15.0,
+    "count": 15,
+    "top_news": "https://www.arabnews.com/opinion/the-jordan-church-attack-looking-beyond-the-trigger-3008365",
     "event_codes": {
-      "19": 4
+      "19": 15
     },
     "keywords": [
-      "story",
-      "9380442",
+      "opinion",
+      "the",
       "jordan",
-      "strikes",
-      "militant",
-      "hideouts",
-      "syria"
+      "church",
+      "attack",
+      "looking",
+      "beyond",
+      "the",
+      "trigger",
+      "3008365"
     ]
   },
-  "SDN": {
-    "risk_score": 3.0,
-    "count": 3,
-    "top_news": "https://www.nrc.nl/nieuws/2026/10/26/saudi-arabia-and-the-uae-are-sowing-chaos-a4939621",
+  "NGA": {
+    "risk_score": 3.9,
+    "count": 6,
+    "top_news": "https://punchng.com/nigeria-misses-10-month-revenue-target-by-n20-7tn/",
     "event_codes": {
-      "19": 3
+      "17": 4,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "nieuws",
+      "nigeria",
+      "misses",
+      "month",
+      "revenue",
+      "target",
+      "n20",
+      "7tn"
+    ]
+  },
+  "SAU": {
+    "risk_score": 4.95,
+    "count": 5,
+    "top_news": "https://news.antiwar.com/2026/10/26/eight-civilians-killed-in-yemen-by-saudi-airstrikes-saudi-backed-forces-over-24-hours-health-ministry/",
+    "event_codes": {
+      "19": 4,
+      "18": 1
+    },
+    "keywords": [
       "2026",
+      "eight",
+      "civilians",
+      "killed",
+      "yemen",
       "saudi",
-      "arabia",
-      "and",
-      "the",
-      "uae",
-      "are",
-      "sowing",
-      "chaos",
-      "a4939621"
+      "airstrikes",
+      "saudi",
+      "backed",
+      "forces",
+      "over",
+      "hours",
+      "health",
+      "ministry"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 4,
+    "top_news": "https://www.jpost.com/israel-news/crime-in-israel/article-912977",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "israel",
+      "news",
+      "crime",
+      "israel",
+      "article",
+      "912977"
     ]
   }
 }
