@@ -1,132 +1,81 @@
 {
   "ISR": {
-    "risk_score": 19.4,
-    "count": 20,
-    "top_news": "https://www.wsbradio.com/news/world/latest-israelis-vote/RCDZBKFEGM4VPM2EKTGH2S24WA/",
+    "risk_score": 3.95,
+    "count": 5,
+    "top_news": "https://www.theage.com.au/national/australia-news-live-nearly-800-threats-against-mps-in-six-months-afp-says-as-labor-bolsters-safety-after-haines-attack-israelis-head-to-polls-for-first-election-since-october-7-attacks-20261028-p6195p.html",
     "event_codes": {
-      "19": 13,
-      "20": 5,
-      "17": 1,
-      "18": 1
+      "19": 3,
+      "17": 2
     },
     "keywords": [
+      "national",
+      "australia",
       "news",
-      "world",
-      "latest",
+      "live",
+      "nearly",
+      "800",
+      "threats",
+      "against",
+      "mps",
+      "six",
+      "months",
+      "afp",
+      "says",
+      "labor",
+      "bolsters",
+      "safety",
+      "after",
+      "haines",
+      "attack",
       "israelis",
-      "vote",
-      "rcdzbkfegm4vpm2ektgh2s24wa"
+      "head",
+      "polls",
+      "for",
+      "first",
+      "election",
+      "since",
+      "october",
+      "attacks",
+      "20261028",
+      "p6195p.html"
     ]
   },
-  "JOR": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.easternriverinachronicle.com.au/story/9381159/jordan-strikes-militants-in-syria-tied-to-church-attack/",
+  "NGA": {
+    "risk_score": 17.3,
+    "count": 27,
+    "top_news": "https://dailytrust.com/herder-killed-in-plateau-community-2/",
     "event_codes": {
+      "17": 18,
+      "18": 7,
       "19": 2
     },
     "keywords": [
-      "story",
-      "9381159",
-      "jordan",
-      "strikes",
-      "militants",
-      "syria",
-      "tied",
-      "church",
-      "attack"
+      "herder",
+      "killed",
+      "plateau",
+      "community"
     ]
   },
-  "KWT": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.middleeastmonitor.com/20261027-kuwait-sentences-three-to-death-over-plot-to-assassinate-interior-minister-alleged-links-to-iran-and-hezbollah/",
+  "ZWE": {
+    "risk_score": 3.3,
+    "count": 4,
+    "top_news": "https://www.thezimbabwean.co/2026/10/marry-mubaiwa-murder-case-collapses-after-seven-years-on-remand/",
     "event_codes": {
-      "18": 2
-    },
-    "keywords": [
-      "20261027",
-      "kuwait",
-      "sentences",
-      "three",
-      "death",
-      "over",
-      "plot",
-      "assassinate",
-      "interior",
-      "minister",
-      "alleged",
-      "links",
-      "iran",
-      "and",
-      "hezbollah"
-    ]
-  },
-  "PSE": {
-    "risk_score": 5.0,
-    "count": 6,
-    "top_news": "https://www.presstv.co.uk/Detail/2026/10/27/779301/UN-chief-ethnic-cleansing-West-Bank",
-    "event_codes": {
-      "17": 2,
       "19": 2,
-      "20": 2
+      "16": 1,
+      "18": 1
     },
     "keywords": [
-      "detail",
       "2026",
-      "779301",
-      "chief",
-      "ethnic",
-      "cleansing",
-      "west",
-      "bank"
-    ]
-  },
-  "SDN": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.arabnews.com/middle-east/one-year-since-the-fall-of-el-fasher-sudans-civilians-continue-to-suffer-3008488",
-    "event_codes": {
-      "19": 1,
-      "20": 1
-    },
-    "keywords": [
-      "middle",
-      "east",
-      "one",
-      "year",
-      "since",
-      "the",
-      "fall",
-      "fasher",
-      "sudans",
-      "civilians",
-      "continue",
-      "suffer",
-      "3008488"
-    ]
-  },
-  "THA": {
-    "risk_score": 2.0,
-    "count": 3,
-    "top_news": "https://www.bangkokpost.com/thailand/general/3344510/border-troops-seize-millions-of-meth-pills-after-armed-clash",
-    "event_codes": {
-      "17": 2,
-      "19": 1
-    },
-    "keywords": [
-      "thailand",
-      "general",
-      "3344510",
-      "border",
-      "troops",
-      "seize",
-      "millions",
-      "meth",
-      "pills",
+      "marry",
+      "mubaiwa",
+      "murder",
+      "case",
+      "collapses",
       "after",
-      "armed",
-      "clash"
+      "seven",
+      "years",
+      "remand"
     ]
   }
 }
