@@ -1,37 +1,132 @@
 {
   "ISR": {
-    "risk_score": 3.16,
-    "count": 4,
-    "top_news": "https://townhall.com/columnists/larrybehrens/2026/10/27/barack-obamas-amnesia-tour-n2685351",
+    "risk_score": 19.4,
+    "count": 20,
+    "top_news": "https://www.wsbradio.com/news/world/latest-israelis-vote/RCDZBKFEGM4VPM2EKTGH2S24WA/",
     "event_codes": {
-      "15": 3,
+      "19": 13,
+      "20": 5,
+      "17": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "world",
+      "latest",
+      "israelis",
+      "vote",
+      "rcdzbkfegm4vpm2ektgh2s24wa"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.easternriverinachronicle.com.au/story/9381159/jordan-strikes-militants-in-syria-tied-to-church-attack/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "story",
+      "9381159",
+      "jordan",
+      "strikes",
+      "militants",
+      "syria",
+      "tied",
+      "church",
+      "attack"
+    ]
+  },
+  "KWT": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20261027-kuwait-sentences-three-to-death-over-plot-to-assassinate-interior-minister-alleged-links-to-iran-and-hezbollah/",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "20261027",
+      "kuwait",
+      "sentences",
+      "three",
+      "death",
+      "over",
+      "plot",
+      "assassinate",
+      "interior",
+      "minister",
+      "alleged",
+      "links",
+      "iran",
+      "and",
+      "hezbollah"
+    ]
+  },
+  "PSE": {
+    "risk_score": 5.0,
+    "count": 6,
+    "top_news": "https://www.presstv.co.uk/Detail/2026/10/27/779301/UN-chief-ethnic-cleansing-West-Bank",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "20": 2
+    },
+    "keywords": [
+      "detail",
+      "2026",
+      "779301",
+      "chief",
+      "ethnic",
+      "cleansing",
+      "west",
+      "bank"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.arabnews.com/middle-east/one-year-since-the-fall-of-el-fasher-sudans-civilians-continue-to-suffer-3008488",
+    "event_codes": {
+      "19": 1,
+      "20": 1
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "one",
+      "year",
+      "since",
+      "the",
+      "fall",
+      "fasher",
+      "sudans",
+      "civilians",
+      "continue",
+      "suffer",
+      "3008488"
+    ]
+  },
+  "THA": {
+    "risk_score": 2.0,
+    "count": 3,
+    "top_news": "https://www.bangkokpost.com/thailand/general/3344510/border-troops-seize-millions-of-meth-pills-after-armed-clash",
+    "event_codes": {
+      "17": 2,
       "19": 1
     },
     "keywords": [
-      "columnists",
-      "larrybehrens",
-      "2026",
-      "barack",
-      "obamas",
-      "amnesia",
-      "tour",
-      "n2685351"
-    ]
-  },
-  "SOM": {
-    "risk_score": 4.55,
-    "count": 5,
-    "top_news": "http://www.rightspeak.net/2026/10/1-in-3-minnesota-gang-members-are.html",
-    "event_codes": {
-      "19": 4,
-      "14": 1
-    },
-    "keywords": [
-      "2026",
-      "minnesota",
-      "gang",
-      "members",
-      "are.html"
+      "thailand",
+      "general",
+      "3344510",
+      "border",
+      "troops",
+      "seize",
+      "millions",
+      "meth",
+      "pills",
+      "after",
+      "armed",
+      "clash"
     ]
   }
 }
