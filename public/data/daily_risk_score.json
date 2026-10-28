@@ -1,81 +1,173 @@
 {
-  "ISR": {
-    "risk_score": 3.95,
+  "BRA": {
+    "risk_score": 2.65,
+    "count": 4,
+    "top_news": "https://udaipurkiran.com/flavio-bolsonaro-leaves-brazil-for-u-s-following-election-loss-to-lula/",
+    "event_codes": {
+      "17": 2,
+      "14": 1,
+      "19": 1
+    },
+    "keywords": [
+      "flavio",
+      "bolsonaro",
+      "leaves",
+      "brazil",
+      "for",
+      "following",
+      "election",
+      "loss",
+      "lula"
+    ]
+  },
+  "CHL": {
+    "risk_score": 4.8,
     "count": 5,
-    "top_news": "https://www.theage.com.au/national/australia-news-live-nearly-800-threats-against-mps-in-six-months-afp-says-as-labor-bolsters-safety-after-haines-attack-israelis-head-to-polls-for-first-election-since-october-7-attacks-20261028-p6195p.html",
+    "top_news": "https://www.wsws.org/en/articles/2026/10/27/bynf-o27.html",
     "event_codes": {
       "19": 3,
-      "17": 2
+      "18": 2
     },
     "keywords": [
-      "national",
-      "australia",
-      "news",
-      "live",
-      "nearly",
-      "800",
-      "threats",
-      "against",
-      "mps",
-      "six",
-      "months",
-      "afp",
-      "says",
-      "labor",
-      "bolsters",
-      "safety",
-      "after",
-      "haines",
-      "attack",
-      "israelis",
-      "head",
-      "polls",
-      "for",
-      "first",
-      "election",
-      "since",
-      "october",
-      "attacks",
-      "20261028",
-      "p6195p.html"
+      "articles",
+      "2026",
+      "bynf",
+      "o27.html"
     ]
   },
-  "NGA": {
-    "risk_score": 17.3,
-    "count": 27,
-    "top_news": "https://dailytrust.com/herder-killed-in-plateau-community-2/",
+  "COL": {
+    "risk_score": 4.85,
+    "count": 5,
+    "top_news": "http://www.sitkasentinel.com/stories/bomb-blast-near-colombias-border-with-venezuela-injures-at-least-4-police-officers,181835",
     "event_codes": {
-      "17": 18,
-      "18": 7,
-      "19": 2
+      "18": 5
     },
     "keywords": [
-      "herder",
-      "killed",
-      "plateau",
-      "community"
+      "stories",
+      "bomb",
+      "blast",
+      "near",
+      "colombias",
+      "border",
+      "with",
+      "venezuela",
+      "injures",
+      "least",
+      "police",
+      "officers,181835"
     ]
   },
-  "ZWE": {
-    "risk_score": 3.3,
-    "count": 4,
-    "top_news": "https://www.thezimbabwean.co/2026/10/marry-mubaiwa-murder-case-collapses-after-seven-years-on-remand/",
+  "ISR": {
+    "risk_score": 2.7,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/middle-east/israeli-exit-polls-show-deadlock-point-to-setback-for-netanyahu-3008463",
+    "event_codes": {
+      "18": 3
+    },
+    "keywords": [
+      "middle",
+      "east",
+      "israeli",
+      "exit",
+      "polls",
+      "show",
+      "deadlock",
+      "point",
+      "setback",
+      "for",
+      "netanyahu",
+      "3008463"
+    ]
+  },
+  "JOR": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "http://www.thegazette.com/news/world/jordan-and-syria-form-a-joint-probe-after-jordanian-strikes-targeting-is-kill-civilians-in/article_9c80ada0-6b4f-5cf0-bb13-6e482f70875f.html",
     "event_codes": {
       "19": 2,
-      "16": 1,
-      "18": 1
+      "17": 1
     },
     "keywords": [
-      "2026",
-      "marry",
-      "mubaiwa",
-      "murder",
-      "case",
-      "collapses",
+      "news",
+      "world",
+      "jordan",
+      "and",
+      "syria",
+      "form",
+      "joint",
+      "probe",
       "after",
-      "seven",
-      "years",
-      "remand"
+      "jordanian",
+      "strikes",
+      "targeting",
+      "kill",
+      "civilians",
+      "article",
+      "9c80ada0",
+      "6b4f",
+      "5cf0",
+      "bb13",
+      "6e482f70875f.html"
+    ]
+  },
+  "SYR": {
+    "risk_score": 4.45,
+    "count": 6,
+    "top_news": "http://www.thegazette.com/news/world/jordan-and-syria-form-a-joint-probe-after-jordanian-strikes-targeting-is-kill-civilians-in/article_9c80ada0-6b4f-5cf0-bb13-6e482f70875f.html",
+    "event_codes": {
+      "17": 3,
+      "19": 3
+    },
+    "keywords": [
+      "news",
+      "world",
+      "jordan",
+      "and",
+      "syria",
+      "form",
+      "joint",
+      "probe",
+      "after",
+      "jordanian",
+      "strikes",
+      "targeting",
+      "kill",
+      "civilians",
+      "article",
+      "9c80ada0",
+      "6b4f",
+      "5cf0",
+      "bb13",
+      "6e482f70875f.html"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "http://www.thegazette.com/news/world/bomb-blast-near-colombia-s-border-with-venezuela-injures-at-least-4-police-officers/article_befbdedf-d3a9-5187-8779-e01ae25ca67f.html",
+    "event_codes": {
+      "18": 2
+    },
+    "keywords": [
+      "news",
+      "world",
+      "bomb",
+      "blast",
+      "near",
+      "colombia",
+      "border",
+      "with",
+      "venezuela",
+      "injures",
+      "least",
+      "police",
+      "officers",
+      "article",
+      "befbdedf",
+      "d3a9",
+      "5187",
+      "8779",
+      "e01ae25ca67f.html"
     ]
   }
 }
