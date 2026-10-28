@@ -1,54 +1,66 @@
 {
-  "IDN": {
-    "risk_score": 3.85,
-    "count": 5,
-    "top_news": "https://www.hindustantimes.com/world-news/us-news/in-1917-hawaii-planted-albizia-to-restore-slopes-after-2014s-hurricane-iselle-the-brittle-invader-helped-drive-13-million-in-utility-repairs-101793092005142.html",
+  "ISR": {
+    "risk_score": 2.6,
+    "count": 4,
+    "top_news": "https://www.yahoo.com/news/politics/articles/record-arab-vote-brings-painful-161135497.html",
     "event_codes": {
-      "14": 3,
-      "19": 2
+      "17": 2,
+      "14": 1,
+      "19": 1
     },
     "keywords": [
-      "world",
       "news",
-      "news",
-      "1917",
-      "hawaii",
-      "planted",
-      "albizia",
-      "restore",
-      "slopes",
-      "after",
-      "2014s",
-      "hurricane",
-      "iselle",
-      "the",
-      "brittle",
-      "invader",
-      "helped",
-      "drive",
-      "million",
-      "utility",
-      "repairs",
-      "101793092005142.html"
+      "politics",
+      "articles",
+      "record",
+      "arab",
+      "vote",
+      "brings",
+      "painful",
+      "161135497.html"
     ]
   },
   "NGA": {
-    "risk_score": 15.0,
-    "count": 16,
-    "top_news": "https://dailytrust.com/abuja-community-battles-poor-toilet-facilities-unhygienic-environment/",
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.vanguardngr.com/2026/10/usoro-warns-against-fake-news-deepfakes-ahead-of-2027-elections/",
     "event_codes": {
-      "19": 14,
-      "17": 2
+      "17": 1,
+      "18": 1,
+      "19": 1
     },
     "keywords": [
-      "abuja",
-      "community",
-      "battles",
-      "poor",
-      "toilet",
-      "facilities",
-      "unhygienic",
-      "environment"
+      "2026",
+      "usoro",
+      "warns",
+      "against",
+      "fake",
+      "news",
+      "deepfakes",
+      "ahead",
+      "2027",
+      "elections"
+    ]
+  },
+  "ZWE": {
+    "risk_score": 2.9,
+    "count": 4,
+    "top_news": "https://www.jacarandafm.com/news/news/carrim-gets-bail-but-will-remain-behind-bars/",
+    "event_codes": {
+      "17": 2,
+      "19": 2
+    },
+    "keywords": [
+      "news",
+      "news",
+      "carrim",
+      "gets",
+      "bail",
+      "but",
+      "will",
+      "remain",
+      "behind",
+      "bars"
     ]
   }
 }
