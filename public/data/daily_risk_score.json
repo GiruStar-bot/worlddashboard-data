@@ -1,104 +1,250 @@
 {
-  "IRN": {
+  "BFA": {
     "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.aol.com/articles/exclusive-qatarenergy-buys-us-other-141719000.html",
+    "top_news": "https://saharareporters.com/2026/10/29/over-35million-displaced-christian-persecution-worsens-nigeria-global-report-warns",
     "event_codes": {
       "19": 3
     },
     "keywords": [
-      "articles",
-      "exclusive",
-      "qatarenergy",
-      "buys",
-      "other",
-      "141719000.html"
+      "2026",
+      "over",
+      "35million",
+      "displaced",
+      "christian",
+      "persecution",
+      "worsens",
+      "nigeria",
+      "global",
+      "report",
+      "warns"
     ]
   },
-  "ISR": {
-    "risk_score": 4.05,
+  "BRA": {
+    "risk_score": 3.0,
     "count": 6,
-    "top_news": "https://www.swindonadvertiser.co.uk/news/26675781.swindon-independent-cinema-announces-new-films-screening-november/",
+    "top_news": "https://www.riotimesonline.com/brazil-third-newcastle-disease-outbreak-santa-catarina-2026/",
+    "event_codes": {
+      "17": 6
+    },
+    "keywords": [
+      "brazil",
+      "third",
+      "newcastle",
+      "disease",
+      "outbreak",
+      "santa",
+      "catarina",
+      "2026"
+    ]
+  },
+  "COD": {
+    "risk_score": 3.68,
+    "count": 4,
+    "top_news": "https://www.riotimesonline.com/bukavu-fire-destroys-over-20-homes-nyamugo/",
+    "event_codes": {
+      "17": 4
+    },
+    "keywords": [
+      "bukavu",
+      "fire",
+      "destroys",
+      "over",
+      "homes",
+      "nyamugo"
+    ]
+  },
+  "EGY": {
+    "risk_score": 3.0,
+    "count": 4,
+    "top_news": "https://www.al-monitor.com/originals/2026/10/egyptian-man-who-fire-bombed-pro-israel-rally-colorado-pleads-guilty-federal-hate",
     "event_codes": {
       "17": 2,
-      "19": 2,
-      "14": 1,
-      "16": 1
+      "19": 2
+    },
+    "keywords": [
+      "originals",
+      "2026",
+      "egyptian",
+      "man",
+      "who",
+      "fire",
+      "bombed",
+      "pro",
+      "israel",
+      "rally",
+      "colorado",
+      "pleads",
+      "guilty",
+      "federal",
+      "hate"
+    ]
+  },
+  "ETH": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.indcatholicnews.com/news/56186",
+    "event_codes": {
+      "19": 3
     },
     "keywords": [
       "news",
-      "26675781.swindon",
-      "independent",
-      "cinema",
-      "announces",
-      "new",
-      "films",
-      "screening",
-      "november"
+      "56186"
     ]
   },
-  "KHM": {
-    "risk_score": 4.3,
-    "count": 5,
-    "top_news": "https://www.breitbart.com/politics/2026/10/28/dhs-announces-arrests-of-criminal-foreign-nationals-accused-of-voting-in-u-s-elections/",
+  "IRN": {
+    "risk_score": 4.0,
+    "count": 6,
+    "top_news": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media",
     "event_codes": {
-      "18": 2,
-      "19": 2,
-      "17": 1
+      "17": 4,
+      "19": 2
     },
     "keywords": [
-      "politics",
+      "news",
       "2026",
-      "dhs",
-      "announces",
-      "arrests",
-      "criminal",
-      "foreign",
-      "nationals",
-      "accused",
-      "voting",
-      "elections"
+      "pentagon",
+      "fires",
+      "general",
+      "says",
+      "leaked",
+      "classified",
+      "information",
+      "media"
+    ]
+  },
+  "ISR": {
+    "risk_score": 16.35,
+    "count": 23,
+    "top_news": "https://www.middleeasteye.net/news/us-senator-briefed-trump-plan-restart-war-iran-says-proposal-insane",
+    "event_codes": {
+      "17": 9,
+      "19": 9,
+      "16": 3,
+      "14": 1,
+      "18": 1
+    },
+    "keywords": [
+      "news",
+      "senator",
+      "briefed",
+      "trump",
+      "plan",
+      "restart",
+      "war",
+      "iran",
+      "says",
+      "proposal",
+      "insane"
+    ]
+  },
+  "MLI": {
+    "risk_score": 5.95,
+    "count": 6,
+    "top_news": "https://saharareporters.com/2026/10/29/over-35million-displaced-christian-persecution-worsens-nigeria-global-report-warns",
+    "event_codes": {
+      "19": 6
+    },
+    "keywords": [
+      "2026",
+      "over",
+      "35million",
+      "displaced",
+      "christian",
+      "persecution",
+      "worsens",
+      "nigeria",
+      "global",
+      "report",
+      "warns"
     ]
   },
   "NGA": {
-    "risk_score": 2.5,
-    "count": 5,
-    "top_news": "https://thesun.ng/goc-1-division-visits-newly-established-army-units-in-kano/",
+    "risk_score": 9.1,
+    "count": 10,
+    "top_news": "https://saharareporters.com/2026/10/29/over-35million-displaced-christian-persecution-worsens-nigeria-global-report-warns",
     "event_codes": {
-      "17": 5
+      "19": 5,
+      "18": 4,
+      "17": 1
     },
     "keywords": [
-      "goc",
-      "division",
-      "visits",
-      "newly",
-      "established",
-      "army",
-      "units",
-      "kano"
+      "2026",
+      "over",
+      "35million",
+      "displaced",
+      "christian",
+      "persecution",
+      "worsens",
+      "nigeria",
+      "global",
+      "report",
+      "warns"
     ]
   },
-  "VEN": {
-    "risk_score": 2.4,
-    "count": 3,
-    "top_news": "https://www.breitbart.com/politics/2026/10/28/dhs-announces-arrests-of-criminal-foreign-nationals-accused-of-voting-in-u-s-elections/",
+  "SAU": {
+    "risk_score": 4.0,
+    "count": 4,
+    "top_news": "https://www.arabnews.com/saudi-arabia/south-korean-president-spanish-pm-condemn-houthi-attacks-on-saudi-arabia-3008915",
     "event_codes": {
-      "17": 1,
-      "18": 1,
-      "19": 1
+      "19": 4
     },
     "keywords": [
-      "politics",
+      "saudi",
+      "arabia",
+      "south",
+      "korean",
+      "president",
+      "spanish",
+      "condemn",
+      "houthi",
+      "attacks",
+      "saudi",
+      "arabia",
+      "3008915"
+    ]
+  },
+  "SDN": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news",
       "2026",
-      "dhs",
-      "announces",
-      "arrests",
-      "criminal",
-      "foreign",
-      "nationals",
-      "accused",
-      "voting",
-      "elections"
+      "uae",
+      "sentences",
+      "eight",
+      "people",
+      "life",
+      "over",
+      "arms",
+      "supplies",
+      "sudans",
+      "army"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.middleeastmonitor.com/20261029-saudi-led-coalition-intercepts-destroys-2-houthi-ballistic-missiles-targeting-riyadh/",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "20261029",
+      "saudi",
+      "led",
+      "coalition",
+      "intercepts",
+      "destroys",
+      "houthi",
+      "ballistic",
+      "missiles",
+      "targeting",
+      "riyadh"
     ]
   }
 }
