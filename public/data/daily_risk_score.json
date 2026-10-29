@@ -1,77 +1,104 @@
 {
   "IRN": {
-    "risk_score": 2.2,
+    "risk_score": 3.0,
     "count": 3,
-    "top_news": "https://www.arabnews.com/world/us-fires-top-army-general-in-latest-ouster-media-3008817",
+    "top_news": "https://www.aol.com/articles/exclusive-qatarenergy-buys-us-other-141719000.html",
     "event_codes": {
-      "18": 2,
+      "19": 3
+    },
+    "keywords": [
+      "articles",
+      "exclusive",
+      "qatarenergy",
+      "buys",
+      "other",
+      "141719000.html"
+    ]
+  },
+  "ISR": {
+    "risk_score": 4.05,
+    "count": 6,
+    "top_news": "https://www.swindonadvertiser.co.uk/news/26675781.swindon-independent-cinema-announces-new-films-screening-november/",
+    "event_codes": {
+      "17": 2,
+      "19": 2,
+      "14": 1,
       "16": 1
     },
     "keywords": [
-      "world",
-      "fires",
-      "top",
-      "army",
-      "general",
-      "latest",
-      "ouster",
-      "media",
-      "3008817"
+      "news",
+      "26675781.swindon",
+      "independent",
+      "cinema",
+      "announces",
+      "new",
+      "films",
+      "screening",
+      "november"
     ]
   },
-  "IRQ": {
-    "risk_score": 2.3,
-    "count": 3,
-    "top_news": "https://www.arabnews.com/world/us-fires-top-army-general-in-latest-ouster-media-3008817",
+  "KHM": {
+    "risk_score": 4.3,
+    "count": 5,
+    "top_news": "https://www.breitbart.com/politics/2026/10/28/dhs-announces-arrests-of-criminal-foreign-nationals-accused-of-voting-in-u-s-elections/",
     "event_codes": {
-      "16": 1,
+      "18": 2,
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "politics",
+      "2026",
+      "dhs",
+      "announces",
+      "arrests",
+      "criminal",
+      "foreign",
+      "nationals",
+      "accused",
+      "voting",
+      "elections"
+    ]
+  },
+  "NGA": {
+    "risk_score": 2.5,
+    "count": 5,
+    "top_news": "https://thesun.ng/goc-1-division-visits-newly-established-army-units-in-kano/",
+    "event_codes": {
+      "17": 5
+    },
+    "keywords": [
+      "goc",
+      "division",
+      "visits",
+      "newly",
+      "established",
+      "army",
+      "units",
+      "kano"
+    ]
+  },
+  "VEN": {
+    "risk_score": 2.4,
+    "count": 3,
+    "top_news": "https://www.breitbart.com/politics/2026/10/28/dhs-announces-arrests-of-criminal-foreign-nationals-accused-of-voting-in-u-s-elections/",
+    "event_codes": {
+      "17": 1,
       "18": 1,
       "19": 1
     },
     "keywords": [
-      "world",
-      "fires",
-      "top",
-      "army",
-      "general",
-      "latest",
-      "ouster",
-      "media",
-      "3008817"
-    ]
-  },
-  "NGA": {
-    "risk_score": 6.5,
-    "count": 10,
-    "top_news": "https://allafrica.com/stories/202610290175.html",
-    "event_codes": {
-      "17": 7,
-      "19": 3
-    },
-    "keywords": [
-      "stories",
-      "202610290175.html"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://econotimes.com/WTI-Pulls-Back-After-3-Gain-as-Middle-East-Supply-Risks-Persist-1765649",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "wti",
-      "pulls",
-      "back",
-      "after",
-      "gain",
-      "middle",
-      "east",
-      "supply",
-      "risks",
-      "persist",
-      "1765649"
+      "politics",
+      "2026",
+      "dhs",
+      "announces",
+      "arrests",
+      "criminal",
+      "foreign",
+      "nationals",
+      "accused",
+      "voting",
+      "elections"
     ]
   }
 }
