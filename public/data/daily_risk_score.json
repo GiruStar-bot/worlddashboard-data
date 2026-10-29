@@ -1,32 +1,77 @@
 {
-  "JOR": {
-    "risk_score": 2.5,
+  "IRN": {
+    "risk_score": 2.2,
     "count": 3,
-    "top_news": "https://kdhnews.com/news/crime/after-a-jury-reaches-a-fast-verdict-in-tampering-case-judge-will-determine-sentencing-of/article_14be7af9-3515-418b-924c-15e870d6f84f.html",
+    "top_news": "https://www.arabnews.com/world/us-fires-top-army-general-in-latest-ouster-media-3008817",
     "event_codes": {
-      "19": 2,
-      "17": 1
+      "18": 2,
+      "16": 1
     },
     "keywords": [
-      "news",
-      "crime",
+      "world",
+      "fires",
+      "top",
+      "army",
+      "general",
+      "latest",
+      "ouster",
+      "media",
+      "3008817"
+    ]
+  },
+  "IRQ": {
+    "risk_score": 2.3,
+    "count": 3,
+    "top_news": "https://www.arabnews.com/world/us-fires-top-army-general-in-latest-ouster-media-3008817",
+    "event_codes": {
+      "16": 1,
+      "18": 1,
+      "19": 1
+    },
+    "keywords": [
+      "world",
+      "fires",
+      "top",
+      "army",
+      "general",
+      "latest",
+      "ouster",
+      "media",
+      "3008817"
+    ]
+  },
+  "NGA": {
+    "risk_score": 6.5,
+    "count": 10,
+    "top_news": "https://allafrica.com/stories/202610290175.html",
+    "event_codes": {
+      "17": 7,
+      "19": 3
+    },
+    "keywords": [
+      "stories",
+      "202610290175.html"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://econotimes.com/WTI-Pulls-Back-After-3-Gain-as-Middle-East-Supply-Risks-Persist-1765649",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "wti",
+      "pulls",
+      "back",
       "after",
-      "jury",
-      "reaches",
-      "fast",
-      "verdict",
-      "tampering",
-      "case",
-      "judge",
-      "will",
-      "determine",
-      "sentencing",
-      "article",
-      "14be7af9",
-      "3515",
-      "418b",
-      "924c",
-      "15e870d6f84f.html"
+      "gain",
+      "middle",
+      "east",
+      "supply",
+      "risks",
+      "persist",
+      "1765649"
     ]
   }
 }
