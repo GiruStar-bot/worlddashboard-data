@@ -1,1 +1,75 @@
-{}
+{
+  "ISR": {
+    "risk_score": 2.5,
+    "count": 4,
+    "top_news": "https://www.israelnationalnews.com/news/435412",
+    "event_codes": {
+      "17": 3,
+      "19": 1
+    },
+    "keywords": [
+      "news",
+      "435412"
+    ]
+  },
+  "NGA": {
+    "risk_score": 8.0,
+    "count": 8,
+    "top_news": "https://www.nigerianeye.com/2026/10/im-ready-for-you-oshiomhole-clashes.html",
+    "event_codes": {
+      "19": 8
+    },
+    "keywords": [
+      "2026",
+      "ready",
+      "for",
+      "you",
+      "oshiomhole",
+      "clashes.html"
+    ]
+  },
+  "TCD": {
+    "risk_score": 2.5,
+    "count": 3,
+    "top_news": "https://fox17.com/news/local/nashville-teen-arrested-charged-fatal-shooting-john-j-diaz-14-year-old-brother-wounded-birchstone-village-apartments-north-dupont-avenue-madison-tennessee",
+    "event_codes": {
+      "19": 2,
+      "17": 1
+    },
+    "keywords": [
+      "news",
+      "local",
+      "nashville",
+      "teen",
+      "arrested",
+      "charged",
+      "fatal",
+      "shooting",
+      "john",
+      "diaz",
+      "year",
+      "old",
+      "brother",
+      "wounded",
+      "birchstone",
+      "village",
+      "apartments",
+      "north",
+      "dupont",
+      "avenue",
+      "madison",
+      "tennessee"
+    ]
+  },
+  "YEM": {
+    "risk_score": 2.0,
+    "count": 2,
+    "top_news": "https://www.khabaragency.net/news255088.html",
+    "event_codes": {
+      "19": 2
+    },
+    "keywords": [
+      "news255088.html"
+    ]
+  }
+}
