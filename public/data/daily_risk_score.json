@@ -1,75 +1,47 @@
 {
   "ISR": {
-    "risk_score": 2.5,
-    "count": 4,
-    "top_news": "https://www.israelnationalnews.com/news/435412",
+    "risk_score": 7.65,
+    "count": 8,
+    "top_news": "https://thenewamerican.com/us/politics/foreign-policy/reports-trump-plans-major-attack-on-iran-after-midterms-senator-calls-plan-insane/",
     "event_codes": {
-      "17": 3,
+      "19": 7,
+      "14": 1
+    },
+    "keywords": [
+      "politics",
+      "foreign",
+      "policy",
+      "reports",
+      "trump",
+      "plans",
+      "major",
+      "attack",
+      "iran",
+      "after",
+      "midterms",
+      "senator",
+      "calls",
+      "plan",
+      "insane"
+    ]
+  },
+  "VNM": {
+    "risk_score": 3.0,
+    "count": 3,
+    "top_news": "https://www.afar.com/hotels/the-role-of-hotels-during-war-and-conflict",
+    "event_codes": {
+      "18": 2,
       "19": 1
     },
     "keywords": [
-      "news",
-      "435412"
-    ]
-  },
-  "NGA": {
-    "risk_score": 8.0,
-    "count": 8,
-    "top_news": "https://www.nigerianeye.com/2026/10/im-ready-for-you-oshiomhole-clashes.html",
-    "event_codes": {
-      "19": 8
-    },
-    "keywords": [
-      "2026",
-      "ready",
-      "for",
-      "you",
-      "oshiomhole",
-      "clashes.html"
-    ]
-  },
-  "TCD": {
-    "risk_score": 2.5,
-    "count": 3,
-    "top_news": "https://fox17.com/news/local/nashville-teen-arrested-charged-fatal-shooting-john-j-diaz-14-year-old-brother-wounded-birchstone-village-apartments-north-dupont-avenue-madison-tennessee",
-    "event_codes": {
-      "19": 2,
-      "17": 1
-    },
-    "keywords": [
-      "news",
-      "local",
-      "nashville",
-      "teen",
-      "arrested",
-      "charged",
-      "fatal",
-      "shooting",
-      "john",
-      "diaz",
-      "year",
-      "old",
-      "brother",
-      "wounded",
-      "birchstone",
-      "village",
-      "apartments",
-      "north",
-      "dupont",
-      "avenue",
-      "madison",
-      "tennessee"
-    ]
-  },
-  "YEM": {
-    "risk_score": 2.0,
-    "count": 2,
-    "top_news": "https://www.khabaragency.net/news255088.html",
-    "event_codes": {
-      "19": 2
-    },
-    "keywords": [
-      "news255088.html"
+      "hotels",
+      "the",
+      "role",
+      "hotels",
+      "during",
+      "war",
+      "and",
+      "conflict"
     ]
   }
 }
